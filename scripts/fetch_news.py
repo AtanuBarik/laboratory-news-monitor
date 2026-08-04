@@ -22,6 +22,7 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "news.json"
+KNOWLEDGE_OUTPUT = ROOT / "knowledge.html"
 
 # The queries intentionally avoid bare "Quest" and bare "ARUP" because those
 # words create many unrelated results. Edit these entries in GitHub whenever
@@ -212,6 +213,123 @@ def load_previous() -> dict:
         return {"items": []}
 
 
+def write_knowledge_page(
+    items: list[dict],
+    generated_at_display: str,
+) -> None:
+    """Create a static HTML page that Copilot can use as knowledge."""
+
+    article_sections = []
+
+    for item in items:
+        company = html.escape(str(item.get("company", "")))
+        title = html.escape(str(item.get("title", "Untitled article")))
+        source = html.escape(str(item.get("source", "Unknown source")))
+        published = html.escape(
+            str(item.get("published_display", "Date unavailable"))
+        )
+        category = html.escape(str(item.get("category", "Other")))
+        description = html.escape(
+            str(item.get("description", "No description available."))
+        )
+        article_url = html.escape(
+            str(item.get("url", "")),
+            quote=True,
+        )
+
+        article_link = ""
+        if article_url:
+            article_link = (
+                f'<p><a href="{article_url}" '
+                f'target="_blank" rel="noopener noreferrer">'
+                f'Open original article</a></p>'
+            )
+
+        article_sections.append(
+            f"""
+            <article>
+              <h2>{title}</h2>
+              <dl>
+                <dt>Company</dt>
+                <dd>{company}</dd>
+
+                <dt>Publication date</dt>
+                <dd>{published}</dd>
+
+                <dt>Source</dt>
+                <dd>{source}</dd>
+
+                <dt>Category</dt>
+                <dd>{category}</dd>
+              </dl>
+
+              <p>{description}</p>
+              {article_link}
+            </article>
+            """
+        )
+
+    generated = html.escape(generated_at_display)
+
+    page = f"""<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta
+    name="description"
+    content="Current news concerning major US reference laboratories."
+  >
+  <title>Laboratory News Knowledge Base</title>
+
+  <style>
+    body {{
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      color: #18332b;
+    }}
+
+    article {{
+      margin: 24px 0;
+      padding: 20px;
+      border: 1px solid #dbe7e1;
+      border-radius: 12px;
+    }}
+
+    dt {{
+      font-weight: bold;
+      margin-top: 8px;
+    }}
+
+    dd {{
+      margin-left: 0;
+    }}
+  </style>
+</head>
+
+<body>
+  <main>
+    <h1>Laboratory Services Market News Knowledge Base</h1>
+
+    <p>
+      This page contains recent public news concerning Labcorp,
+      Quest Diagnostics, ARUP Laboratories and Mayo Clinic Laboratories.
+    </p>
+
+    <p>Last updated: {generated}</p>
+
+    {''.join(article_sections)}
+  </main>
+</body>
+</html>
+"""
+
+    KNOWLEDGE_OUTPUT.write_text(page, encoding="utf-8")
+
+
 def main() -> int:
     now = datetime.now(timezone.utc)
     cutoff = now - timedelta(days=90)
@@ -252,6 +370,10 @@ def main() -> int:
     }
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
+    write_knowledge_page(
+    items,
+    payload["generated_at_display"],
+)
     print(f"Wrote {len(items)} items to {OUTPUT}", file=sys.stderr)
 
     if not items:
