@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-04T13:20:14.462118+00:00",
-  "checked_at_display": "04 Aug 2026, 13:20 UTC",
+  "checked_at": "2026-08-04T13:22:52.092143+00:00",
+  "checked_at_display": "04 Aug 2026, 13:22 UTC",
   "status": "email_failed",
-  "repository_updated": "04 Aug 2026, 13:20 UTC",
-  "new_item_count": 13,
-  "email_item_count": 13,
+  "repository_updated": "04 Aug 2026, 13:22 UTC",
+  "new_item_count": 34,
+  "email_item_count": 5,
   "provider": "brevo",
   "recipient_count": 1,
   "error": "Brevo returned HTTP 400: {\"code\":\"invalid_parameter\",\"message\":\"valid sender email required\"}\n"

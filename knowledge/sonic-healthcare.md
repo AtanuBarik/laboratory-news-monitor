@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 04 Aug 2026, 13:20 UTC
-- **Articles in this file:** 32
+- **Repository generated:** 04 Aug 2026, 13:22 UTC
+- **Articles in this file:** 33
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
 
@@ -20,7 +20,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 2. Sonic Healthcare (ASX:SHL): What Puts Cash Flow in Focus? - Kalkine Media
+## 2. Sonic Healthcare (ASX:SHL) Shares Are Back on Investor Radar After Its Latest Move - Kalkine
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 04 Aug 2026
+- **Published at (UTC):** 2026-08-04T07:00:00+00:00
+- **Source:** Kalkine
+- **Source domain:** kalkine.com.au
+- **Category:** Financial
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFcyUXZUQmcyZEdGN3Y5YUgwRDJ5ZU5BSUt1dHlpanMtaS1XdXRTejZQSUxQekdha3Y3VW1COVQ4emVRcnRRWGptYlhCSUhiSHhDd3lzVDZZSE1seXZfT01BZl8zbmdsSkpQdkVVZjFLRTlNbHpldEZJSy1TVzJxaHNSOHI2YmRZbW85dTV6RjY4eWV1QjNoOUhHSG5Mcm93SmNtTDNyc2FUbWR1ZW04eFlrX1FpRlBXbVE?oc=5
+
+**Feed description:** Sonic Healthcare (ASX:SHL) Shares Are Back on Investor Radar After Its Latest Move Kalkine
+
+## 3. Sonic Healthcare (ASX:SHL): What Puts Cash Flow in Focus? - Kalkine Media
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 03 Aug 2026
@@ -33,7 +46,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL): What Puts Cash Flow in Focus? Kalkine Media
 
-## 3. Australia: Shorts Surging in SHL, SGP, CAR, COH, ASX, WTC, XRO - Smartkarma
+## 4. Australia: Shorts Surging in SHL, SGP, CAR, COH, ASX, WTC, XRO - Smartkarma
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 02 Aug 2026
@@ -46,7 +59,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Australia: Shorts Surging in SHL, SGP, CAR, COH, ASX, WTC, XRO Smartkarma
 
-## 4. Sonic Healthcare Slides as the ASX Health Sell-Off Spreads - Kalkine
+## 5. Sonic Healthcare Slides as the ASX Health Sell-Off Spreads - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 31 Jul 2026
@@ -59,7 +72,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare Slides as the ASX Health Sell-Off Spreads Kalkine
 
-## 5. Sonic Healthcare (ASX:SHL) Slips — Is Health Care Sector Drag Creating Opportunity? - Kalkine
+## 6. Sonic Healthcare (ASX:SHL) Slips — Is Health Care Sector Drag Creating Opportunity? - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 31 Jul 2026
@@ -72,7 +85,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Slips — Is Health Care Sector Drag Creating Opportunity? Kalkine
 
-## 6. ASX opens higher as mining, energy stocks lift - Capital Brief
+## 7. ASX opens higher as mining, energy stocks lift - Capital Brief
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 31 Jul 2026
@@ -85,7 +98,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX opens higher as mining, energy stocks lift Capital Brief
 
-## 7. ASX opens higher as mining, energy stocks lift - capitalbrief.com
+## 8. ASX opens higher as mining, energy stocks lift - capitalbrief.com
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 31 Jul 2026
@@ -98,7 +111,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX opens higher as mining, energy stocks lift capitalbrief.com
 
-## 8. Sonic Healthcare Target Price Cut 14% to A$23.60/Share by Macquarie>SHL.AU - Moomoo
+## 9. Sonic Healthcare Target Price Cut 14% to A$23.60/Share by Macquarie>SHL.AU - Moomoo
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 31 Jul 2026
@@ -111,7 +124,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare Target Price Cut 14% to A$23.60/Share by Macquarie>SHL.AU Moomoo
 
-## 9. Finding ASX opportunities in lofty market conditions - Morningstar Australia
+## 10. Finding ASX opportunities in lofty market conditions - Morningstar Australia
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 30 Jul 2026
@@ -124,7 +137,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Finding ASX opportunities in lofty market conditions Morningstar Australia
 
-## 10. ChartWatch ASX Scans: CSL, Lynas Rare Earths, Aristocrat Leisure, Guzman Y Gomez, Droneshield, Elsight, Electro Optic Systems - Market Index
+## 11. ChartWatch ASX Scans: CSL, Lynas Rare Earths, Aristocrat Leisure, Guzman Y Gomez, Droneshield, Elsight, Electro Optic Systems - Market Index
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 29 Jul 2026
@@ -137,7 +150,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ChartWatch ASX Scans: CSL, Lynas Rare Earths, Aristocrat Leisure, Guzman Y Gomez, Droneshield, Elsight, Electro Optic Systems Market Index
 
-## 11. Sonic Healthcare Ltd (ASX:SHL) advances in healthcare momentum - Kalkine
+## 12. Sonic Healthcare Ltd (ASX:SHL) advances in healthcare momentum - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 29 Jul 2026
@@ -150,7 +163,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare Ltd (ASX:SHL) advances in healthcare momentum Kalkine
 
-## 12. Sonic Healthcare (ASX:SHL) Advances as Investors Assess Long-Term Potential of Global Pathology Network - Kalkine
+## 13. Sonic Healthcare (ASX:SHL) Advances as Investors Assess Long-Term Potential of Global Pathology Network - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 28 Jul 2026
@@ -163,7 +176,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Advances as Investors Assess Long-Term Potential of Global Pathology Network Kalkine
 
-## 13. ASX 200 Reverses Early Losses to Finish Higher - tradingview.com
+## 14. ASX 200 Reverses Early Losses to Finish Higher - tradingview.com
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 28 Jul 2026
@@ -176,7 +189,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX 200 Reverses Early Losses to Finish Higher tradingview.com
 
-## 14. ASX 200 Reverses Early Losses to Finish Higher - TradingView
+## 15. ASX 200 Reverses Early Losses to Finish Higher - TradingView
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 28 Jul 2026
@@ -189,7 +202,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX 200 Reverses Early Losses to Finish Higher TradingView
 
-## 15. ASX healthcare share remains undervalued ahead of earnings - Morningstar Australia
+## 16. ASX healthcare share remains undervalued ahead of earnings - Morningstar Australia
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 24 Jul 2026
@@ -202,7 +215,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX healthcare share remains undervalued ahead of earnings Morningstar Australia
 
-## 16. Sonic Healthcare (ASX:SHL): What Does the Recent Share Price Performance Suggest? - Kalkine
+## 17. Sonic Healthcare (ASX:SHL): What Does the Recent Share Price Performance Suggest? - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 23 Jul 2026
@@ -215,7 +228,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL): What Does the Recent Share Price Performance Suggest? Kalkine
 
-## 17. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast - Morningstar
+## 18. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast - Morningstar
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -228,7 +241,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast Morningstar
 
-## 18. Sonic Healthcare's Longer-Term Margin Recovery Still Expected - Morningstar
+## 19. Sonic Healthcare's Longer-Term Margin Recovery Still Expected - Morningstar
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -241,7 +254,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 19. Sonic Healthcare (ASX:SHL) Drops — Is This Healthcare Giant Entering Buy-the-Dip Territory? - Kalkine
+## 20. Sonic Healthcare (ASX:SHL) Drops — Is This Healthcare Giant Entering Buy-the-Dip Territory? - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -254,7 +267,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Drops — Is This Healthcare Giant Entering Buy-the-Dip Territory? Kalkine
 
-## 20. 3 reasons why this ASX healthcare share price is a buy - The Motley Fool Australia
+## 21. 3 reasons why this ASX healthcare share price is a buy - The Motley Fool Australia
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -267,7 +280,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** 3 reasons why this ASX healthcare share price is a buy The Motley Fool Australia
 
-## 21. ASX 200 Muted into Close - tradingview.com
+## 22. ASX 200 Muted into Close - tradingview.com
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 21 Jul 2026
@@ -280,7 +293,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX 200 Muted into Close tradingview.com
 
-## 22. ASX 200 Muted into Close - TradingView
+## 23. ASX 200 Muted into Close - TradingView
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 21 Jul 2026
@@ -293,7 +306,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ASX 200 Muted into Close TradingView
 
-## 23. Sonic Healthcare Price Target Cut 4.3% to A$22.00/Share by RBC Capital Markets - Moomoo
+## 24. Sonic Healthcare Price Target Cut 4.3% to A$22.00/Share by RBC Capital Markets - Moomoo
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 16 Jul 2026
@@ -306,7 +319,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare Price Target Cut 4.3% to A$22.00/Share by RBC Capital Markets Moomoo
 
-## 24. Is Sonic Healthcare Worth a Second Look After Its Decline? - Kalkine
+## 25. Is Sonic Healthcare Worth a Second Look After Its Decline? - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 15 Jul 2026
@@ -319,7 +332,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Is Sonic Healthcare Worth a Second Look After Its Decline? Kalkine
 
-## 25. Sonic (ASX:SHL): Can Defensive Healthcare Services Sustain Their Comeback? - Kalkine Media
+## 26. Sonic (ASX:SHL): Can Defensive Healthcare Services Sustain Their Comeback? - Kalkine Media
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 15 Jul 2026
@@ -332,7 +345,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic (ASX:SHL): Can Defensive Healthcare Services Sustain Their Comeback? Kalkine Media
 
-## 26. Sonic Healthcare (ASX:SHL): How Does It Strengthen Its Global Diagnostic Services Business? - Kalkine
+## 27. Sonic Healthcare (ASX:SHL): How Does It Strengthen Its Global Diagnostic Services Business? - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Jul 2026
@@ -345,7 +358,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL): How Does It Strengthen Its Global Diagnostic Services Business? Kalkine
 
-## 27. Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business - Kalkine
+## 28. Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
@@ -358,7 +371,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business Kalkine
 
-## 28. Brisbane Centrelink flipped after repurpose - realestatesource
+## 29. Brisbane Centrelink flipped after repurpose - realestatesource
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 08 Jul 2026
@@ -371,7 +384,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Brisbane Centrelink flipped after repurpose realestatesource
 
-## 29. Australian Stocks Slip for Fourth Session - TradingView
+## 30. Australian Stocks Slip for Fourth Session - TradingView
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 08 Jul 2026
@@ -384,7 +397,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Australian Stocks Slip for Fourth Session TradingView
 
-## 30. Sonic Healthcare (ASX:SHL) Draws Fresh Attention On Valuation But Are Margin Risks Priced In - simplywall.st
+## 31. Sonic Healthcare (ASX:SHL) Draws Fresh Attention On Valuation But Are Margin Risks Priced In - simplywall.st
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 07 Jul 2026
@@ -397,7 +410,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Draws Fresh Attention On Valuation But Are Margin Risks Priced In simplywall.st
 
-## 31. Sonic Healthcare (ASX:SHL) Turns Higher as Market Attention Returns to Global Diagnostics - Kalkine
+## 32. Sonic Healthcare (ASX:SHL) Turns Higher as Market Attention Returns to Global Diagnostics - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 07 Jul 2026
@@ -410,7 +423,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Turns Higher as Market Attention Returns to Global Diagnostics Kalkine
 
-## 32. Sonic Healthcare (ASX:SHL): Exploring the Business Behind Australia's Leading Pathology Provider - Kalkine
+## 33. Sonic Healthcare (ASX:SHL): Exploring the Business Behind Australia's Leading Pathology Provider - Kalkine
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 06 Jul 2026
