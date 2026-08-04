@@ -1,6 +1,6 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 04 Aug 2026, 14:33 UTC
+- **Repository generated:** 04 Aug 2026, 14:59 UTC
 - **Articles in this file:** 150
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
@@ -1307,20 +1307,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Against extraordinary odds: A life saved more than once Mayo Clinic News Network
 
-## 101. GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 16 Jul 2026
-- **Published at (UTC):** 2026-07-16T07:00:00+00:00
-- **Source:** Yahoo Finance
-- **Source domain:** finance.yahoo.com
-- **Category:** Other
-- **Official source:** No
-- **Original article:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5
-
-**Feed description:** GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance
-
-## 102. Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network
+## 101. Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1332,6 +1319,19 @@ Use the publication date, source, category, description, and URL fields below. D
 - **Original article:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdEVWQmZpazFhTG9ocGJHd29sTG5xWDVNblptMmpPNVlwdzFhazVwZmFGUGNweVY4Y1YySDczX3Fvd1N6TGJwUnIya2Rnbmx6NVF6VGpYY25FUGRKTnNfb01EYWZVN2RKSFJfanJzdFZDRXUzOHh3Y2t6LWw4NjZYZ0Q5YnBDVTdRbzRBWng3elYydmtjWGN2ckNnUTRDWDh1QUI4OXItenhiV0phUHdKX3o4RXp3NWlSVTJob2xYSGdjZHVabl8ycmNIMmMwdTF6NWdUdA?oc=5
 
 **Feed description:** Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic Mayo Clinic News Network
+
+## 102. GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 15 Jul 2026
+- **Published at (UTC):** 2026-07-15T07:00:00+00:00
+- **Source:** Yahoo Finance
+- **Source domain:** finance.yahoo.com
+- **Category:** Other
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5
+
+**Feed description:** GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance
 
 ## 103. Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy - Mayo Clinic News Network
 

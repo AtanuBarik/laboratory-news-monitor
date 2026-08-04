@@ -1,7 +1,7 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 04 Aug 2026, 14:33 UTC
-- **Articles in this file:** 134
+- **Repository generated:** 04 Aug 2026, 14:59 UTC
+- **Articles in this file:** 139
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
 
@@ -137,7 +137,33 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk TradingKey
 
-## 11. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 - O'Dwyer's PR
+## 11. Quest Diagnostics Inc (DGX) Financial Health: Profitability & Balance Sheet Analysis - tradingkey.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 31 Jul 2026
+- **Published at (UTC):** 2026-07-31T07:00:00+00:00
+- **Source:** tradingkey.com
+- **Source domain:** tradingkey.com
+- **Category:** Product / Innovation
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bd3lENm82cWd4NHVnb0Q2ZmVGTWg5a3llc0lPLVNueXdPUUpmTC02QURRbERrUXlEQlNWUWhFMU43Y0FmZUwxbWJhTUo1aVhmLWUyaUZLV0lreU51MFlDZHlGYm9xZkpBXzZjNjZBWQ?oc=5
+
+**Feed description:** Quest Diagnostics Inc (DGX) Financial Health: Profitability & Balance Sheet Analysis tradingkey.com
+
+## 12. Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk - tradingkey.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 31 Jul 2026
+- **Published at (UTC):** 2026-07-31T07:00:00+00:00
+- **Source:** tradingkey.com
+- **Source domain:** tradingkey.com
+- **Category:** M&A / Investment
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMibEFVX3lxTE05RjJzWHZPZlY5TkE1cjZMRWR5dVZpTUFQQTFsLUVKWDUzMUZCMnNYVDJzYm50eFpMNW90Rk1xX0VSc1JlUmJPX253WnpsdW1IOENqdDAtU2xNLUl2aUJvYUZZbE1iLW5VSFdCTw?oc=5
+
+**Feed description:** Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk tradingkey.com
+
+## 13. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 - O'Dwyer's PR
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -150,7 +176,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR
 
-## 12. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 - Yahoo Finance
+## 14. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -163,7 +189,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 Yahoo Finance
 
-## 13. Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela - GuruFocus
+## 15. Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela - GuruFocus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -176,7 +202,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus
 
-## 14. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations - ROI-NJ
+## 16. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations - ROI-NJ
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -189,7 +215,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations ROI-NJ
 
-## 15. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR - IR Impact
+## 17. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR - IR Impact
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -202,7 +228,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR IR Impact
 
-## 16. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics - PR Newswire
+## 18. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics - PR Newswire
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -215,7 +241,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire
 
-## 17. Bacterial vaginosis patients were over 3x more likely to have an STI - Stock Titan
+## 19. Bacterial vaginosis patients were over 3x more likely to have an STI - Stock Titan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -228,7 +254,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Bacterial vaginosis patients were over 3x more likely to have an STI Stock Titan
 
-## 18. Bacterial vaginosis patients were over 3x more likely to have an STI - stocktitan.net
+## 20. Bacterial vaginosis patients were over 3x more likely to have an STI - stocktitan.net
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -241,7 +267,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Bacterial vaginosis patients were over 3x more likely to have an STI stocktitan.net
 
-## 19. DGX.GJ Bond Risk Profile - tradingview.com
+## 21. DGX.GJ Bond Risk Profile - tradingview.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -254,7 +280,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** DGX.GJ Bond Risk Profile tradingview.com
 
-## 20. DGX.GJ Bond Risk Profile - TradingView
+## 22. DGX.GJ Bond Risk Profile - TradingView
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -267,7 +293,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** DGX.GJ Bond Risk Profile TradingView
 
-## 21. DGX.GJ Bond Coupon Profile — Rate & Payments - tradingview.com
+## 23. DGX.GJ Bond Coupon Profile — Rate & Payments - tradingview.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -280,7 +306,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** DGX.GJ Bond Coupon Profile — Rate & Payments tradingview.com
 
-## 22. DGX.GJ Bond Coupon Profile — Rate & Payments - TradingView
+## 24. DGX.GJ Bond Coupon Profile — Rate & Payments - TradingView
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -293,7 +319,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** DGX.GJ Bond Coupon Profile — Rate & Payments TradingView
 
-## 23. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - tradingview.com
+## 25. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - tradingview.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -306,7 +332,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside tradingview.com
 
-## 24. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - TradingView
+## 26. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - TradingView
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -319,7 +345,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside TradingView
 
-## 25. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com India
+## 27. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com India
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -332,7 +358,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com India
 
-## 26. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com Nigeria
+## 28. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com Nigeria
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -345,7 +371,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com Nigeria
 
-## 27. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com South Africa
+## 29. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com South Africa
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -358,7 +384,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa
 
-## 28. Form 4 Quest Diagnostics orporated For: 29 July By Investing.com - Investing.com South Africa
+## 30. Form 4 Quest Diagnostics orporated For: 29 July By Investing.com - Investing.com South Africa
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -371,7 +397,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa
 
-## 29. Form 4 Quest Diagnostics orporated For: 29 July By Investing.com - Investing.com Nigeria
+## 31. Form 4 Quest Diagnostics orporated For: 29 July By Investing.com - Investing.com Nigeria
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -384,7 +410,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com Nigeria
 
-## 30. Form 4 Quest Diagnostics orporated For: 29 July By Investing.com - Investing.com Canada
+## 32. Form 4 Quest Diagnostics orporated For: 29 July By Investing.com - Investing.com Canada
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -397,7 +423,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com Canada
 
-## 31. Quest Diagnostics SVP Mark Delaney sells $376k in shares - Investing.com
+## 33. Quest Diagnostics SVP Mark Delaney sells $376k in shares - Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -410,7 +436,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares Investing.com
 
-## 32. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com UK
+## 34. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com UK
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -423,7 +449,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com UK
 
-## 33. Truist Financial Maintains Quest Diagnostics(DGX.US) With Hold Rating, Maintains Target Price $250 - Moomoo
+## 35. Truist Financial Maintains Quest Diagnostics(DGX.US) With Hold Rating, Maintains Target Price $250 - Moomoo
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -436,7 +462,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Truist Financial Maintains Quest Diagnostics(DGX.US) With Hold Rating, Maintains Target Price $250 Moomoo
 
-## 34. Quest Diagnostics (DGX) Could Be 3% Undervalued After Raised 2026 Guidance - simplywall.st
+## 36. Quest Diagnostics (DGX) Could Be 3% Undervalued After Raised 2026 Guidance - simplywall.st
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -449,7 +475,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Could Be 3% Undervalued After Raised 2026 Guidance simplywall.st
 
-## 35. Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch
+## 37. Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains - MarketWatch
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -462,7 +488,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains MarketWatch
 
-## 36. Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains - marketwatch.com
+## 38. Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains - marketwatch.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -475,7 +501,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com
 
-## 37. Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares - Stock Titan
+## 39. Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares - Stock Titan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -488,7 +514,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares Stock Titan
 
-## 38. Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares - stocktitan.net
+## 40. Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares - stocktitan.net
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -501,7 +527,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares stocktitan.net
 
-## 39. J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 - 富途牛牛
+## 41. J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 - 富途牛牛
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -514,7 +540,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 富途牛牛
 
-## 40. JPMorgan Adjusts Price Target on Quest Diagnostics to $250 From $220, Maintains Neutral Rating - marketscreener.com
+## 42. JPMorgan Adjusts Price Target on Quest Diagnostics to $250 From $220, Maintains Neutral Rating - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -527,7 +553,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** JPMorgan Adjusts Price Target on Quest Diagnostics to $250 From $220, Maintains Neutral Rating marketscreener.com
 
-## 41. Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages - TradingKey
+## 43. Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages - TradingKey
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -540,7 +566,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages TradingKey
 
-## 42. Form 4 Quest Diagnostics orporated For: 28 July By Investing.com - Investing.com Nigeria
+## 44. Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages - tradingkey.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 28 Jul 2026
+- **Published at (UTC):** 2026-07-28T07:00:00+00:00
+- **Source:** tradingkey.com
+- **Source domain:** tradingkey.com
+- **Category:** Product / Innovation
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5
+
+**Feed description:** Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages tradingkey.com
+
+## 45. Form 4 Quest Diagnostics orporated For: 28 July By Investing.com - Investing.com Nigeria
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -553,7 +592,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 28 July By Investing.com Investing.com Nigeria
 
-## 43. Form 4 Quest Diagnostics orporated For: 28 July By Investing.com - Investing.com South Africa
+## 46. Form 4 Quest Diagnostics orporated For: 28 July By Investing.com - Investing.com South Africa
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -566,7 +605,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 28 July By Investing.com Investing.com South Africa
 
-## 44. Form 4 Quest Diagnostics orporated For: 27 July By Investing.com - Investing.com South Africa
+## 47. Form 4 Quest Diagnostics orporated For: 27 July By Investing.com - Investing.com South Africa
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -579,7 +618,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 27 July By Investing.com Investing.com South Africa
 
-## 45. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan - Kalkine Media
+## 48. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan - Kalkine Media
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -592,7 +631,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media
 
-## 46. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans - Kalkine Media
+## 49. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans - Kalkine Media
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -605,7 +644,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans Kalkine Media
 
-## 47. Quest Diagnostics Inc. stock outperforms competitors on strong trading day - MarketWatch
+## 50. Quest Diagnostics Inc. stock outperforms competitors on strong trading day - MarketWatch
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -618,7 +657,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc. stock outperforms competitors on strong trading day MarketWatch
 
-## 48. Quest Diagnostics Inc. stock outperforms competitors on strong trading day - marketwatch.com
+## 51. Quest Diagnostics Inc. stock outperforms competitors on strong trading day - marketwatch.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -631,7 +670,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc. stock outperforms competitors on strong trading day marketwatch.com
 
-## 49. Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan - Stock Titan
+## 52. Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan - Stock Titan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -644,7 +683,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan Stock Titan
 
-## 50. Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan - stocktitan.net
+## 53. Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan - stocktitan.net
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -657,7 +696,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan stocktitan.net
 
-## 51. Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment - Stock Titan
+## 54. Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment - Stock Titan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -670,7 +709,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment Stock Titan
 
-## 52. Giants Unveil Massive Facility Overhaul Plans Aimed at Modernizing Football Operations Facilities - Sports Illustrated
+## 55. Giants Unveil Massive Facility Overhaul Plans Aimed at Modernizing Football Operations Facilities - Sports Illustrated
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -683,7 +722,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Giants Unveil Massive Facility Overhaul Plans Aimed at Modernizing Football Operations Facilities Sports Illustrated
 
-## 53. Giants Unveil Massive Facility Overhaul Plans Aimed at Modernizing Football Operations Facilities - si.com
+## 56. Giants Unveil Massive Facility Overhaul Plans Aimed at Modernizing Football Operations Facilities - si.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -696,7 +735,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Giants Unveil Massive Facility Overhaul Plans Aimed at Modernizing Football Operations Facilities si.com
 
-## 54. Quest Diagnostics (DGX) Stock Analysis: Deciphering Growth Potential Amid Strong Revenue Trajectory - DirectorsTalk Interviews
+## 57. Quest Diagnostics (DGX) Stock Analysis: Deciphering Growth Potential Amid Strong Revenue Trajectory - DirectorsTalk Interviews
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -709,7 +748,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Stock Analysis: Deciphering Growth Potential Amid Strong Revenue Trajectory DirectorsTalk Interviews
 
-## 55. Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment - stocktitan.net
+## 58. Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment - stocktitan.net
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -722,7 +761,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment stocktitan.net
 
-## 56. Why Quest Diagnostics Stock Climbed This Past Week - The Globe and Mail
+## 59. Why Quest Diagnostics Stock Climbed This Past Week - The Globe and Mail
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -735,7 +774,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail
 
-## 57. Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next - 富途牛牛
+## 60. Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next - 富途牛牛
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -748,7 +787,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next 富途牛牛
 
-## 58. Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st
+## 61. Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - simplywall.st
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -761,7 +800,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models simplywall.st
 
-## 59. Why Quest Diagnostics Stock Climbed This Past Week - The Motley Fool
+## 62. Why Quest Diagnostics Stock Climbed This Past Week - The Motley Fool
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -774,7 +813,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Why Quest Diagnostics Stock Climbed This Past Week The Motley Fool
 
-## 60. Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - Sahm
+## 63. Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - Sahm
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -787,7 +826,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models Sahm
 
-## 61. Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - sahmcapital.com
+## 64. Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models - sahmcapital.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -800,7 +839,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models sahmcapital.com
 
-## 62. Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey
+## 65. Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -813,7 +852,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution TradingKey
 
-## 63. Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) - The Globe and Mail
+## 66. Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - tradingkey.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 25 Jul 2026
+- **Published at (UTC):** 2026-07-25T22:23:04+00:00
+- **Source:** tradingkey.com
+- **Source domain:** tradingkey.com
+- **Category:** Financial
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5
+
+**Feed description:** Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com
+
+## 67. Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) - The Globe and Mail
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -826,7 +878,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail
 
-## 64. Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks - Yahoo Finance
+## 68. Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -839,7 +891,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks Yahoo Finance
 
-## 65. Quest Diagnostics (DGX) Stock Gets Fair Value Boost After Q2 Beat And Higher Guidance - Yahoo Finance
+## 69. Quest Diagnostics (DGX) Stock Gets Fair Value Boost After Q2 Beat And Higher Guidance - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -852,7 +904,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Stock Gets Fair Value Boost After Q2 Beat And Higher Guidance Yahoo Finance
 
-## 66. Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative - Sahm
+## 70. Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative - Sahm
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -865,7 +917,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative Sahm
 
-## 67. Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative - sahmcapital.com
+## 71. Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative - sahmcapital.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -878,7 +930,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative sahmcapital.com
 
-## 68. Truist raises Quest Diagnostics stock price target on strong results By Investing.com - Investing.com Nigeria
+## 72. Truist raises Quest Diagnostics stock price target on strong results By Investing.com - Investing.com Nigeria
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -891,7 +943,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Truist raises Quest Diagnostics stock price target on strong results By Investing.com Investing.com Nigeria
 
-## 69. Baird Adjusts Quest Diagnostics Price Target to $255 From $236, Maintains Neutral Rating - marketscreener.com
+## 73. Baird Adjusts Quest Diagnostics Price Target to $255 From $236, Maintains Neutral Rating - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -904,7 +956,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Baird Adjusts Quest Diagnostics Price Target to $255 From $236, Maintains Neutral Rating marketscreener.com
 
-## 70. Barclays Raises Quest Diagnostics Price Target to $250 From $230, Maintains Overweight Rating - marketscreener.com
+## 74. Barclays Raises Quest Diagnostics Price Target to $250 From $230, Maintains Overweight Rating - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -917,7 +969,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Barclays Raises Quest Diagnostics Price Target to $250 From $230, Maintains Overweight Rating marketscreener.com
 
-## 71. A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 - Moomoo
+## 75. A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 - Moomoo
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -930,7 +982,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 Moomoo
 
-## 72. A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 - 富途牛牛
+## 76. A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 - 富途牛牛
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -943,7 +995,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 富途牛牛
 
-## 73. Deutsche Bank Adjusts Quest Diagnostics Price Target to $232 From $205, Maintains Hold Rating - marketscreener.com
+## 77. Deutsche Bank Adjusts Quest Diagnostics Price Target to $232 From $205, Maintains Hold Rating - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -956,7 +1008,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Deutsche Bank Adjusts Quest Diagnostics Price Target to $232 From $205, Maintains Hold Rating marketscreener.com
 
-## 74. Truist Raises Price Target on Quest Diagnostics to $250 From $225, Keeps Hold Rating - marketscreener.com
+## 78. Truist Raises Price Target on Quest Diagnostics to $250 From $225, Keeps Hold Rating - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -969,7 +1021,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Truist Raises Price Target on Quest Diagnostics to $250 From $225, Keeps Hold Rating marketscreener.com
 
-## 75. Quest Diagnostics Upgrades EPS Outlook For 2026 After Outperforming Q2 Results (NYSE:DGX) - Seeking Alpha
+## 79. Quest Diagnostics Upgrades EPS Outlook For 2026 After Outperforming Q2 Results (NYSE:DGX) - Seeking Alpha
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -982,11 +1034,11 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Upgrades EPS Outlook For 2026 After Outperforming Q2 Results (NYSE:DGX) Seeking Alpha
 
-## 76. Is Quest Diagnostics (DGX) Stock Still Worth More Than Its Price? - simplywall.st
+## 80. Is Quest Diagnostics (DGX) Stock Still Worth More Than Its Price? - simplywall.st
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
-- **Published at (UTC):** 2026-07-24T09:37:40+00:00
+- **Published at (UTC):** 2026-07-24T07:00:00+00:00
 - **Source:** simplywall.st
 - **Source domain:** simplywall.st
 - **Category:** Product / Innovation
@@ -995,7 +1047,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Is Quest Diagnostics (DGX) Stock Still Worth More Than Its Price? simplywall.st
 
-## 77. Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? - Yahoo Finance
+## 81. Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -1008,7 +1060,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? Yahoo Finance
 
-## 78. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside - tradingview.com
+## 82. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside - tradingview.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -1021,7 +1073,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside tradingview.com
 
-## 79. Quest Diagnostics Price Target Raised to $260.00/Share From $235.00 by Mizuho - Moomoo
+## 83. Quest Diagnostics Price Target Raised to $260.00/Share From $235.00 by Mizuho - Moomoo
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -1034,7 +1086,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Price Target Raised to $260.00/Share From $235.00 by Mizuho Moomoo
 
-## 80. Truist raises Quest Diagnostics stock price target on strong results - Investing.com
+## 84. Truist raises Quest Diagnostics stock price target on strong results - Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -1047,7 +1099,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Truist raises Quest Diagnostics stock price target on strong results Investing.com
 
-## 81. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside - TradingView
+## 85. Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside - TradingView
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -1060,7 +1112,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside TradingView
 
-## 82. Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o - GuruFocus
+## 86. Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o - GuruFocus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -1073,7 +1125,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o GuruFocus
 
-## 83. Quest Continues to Build on Its Hospital Lab Collaborations - Morningstar
+## 87. Quest Continues to Build on Its Hospital Lab Collaborations - Morningstar
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1086,7 +1138,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Continues to Build on Its Hospital Lab Collaborations Morningstar
 
-## 84. Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half - Morningstar
+## 88. Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half - Morningstar
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1099,7 +1151,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half Morningstar
 
-## 85. Five stocks to profit from America’s soaring electric power needs - MarketWise
+## 89. Five stocks to profit from America’s soaring electric power needs - MarketWise
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1112,7 +1164,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Five stocks to profit from America’s soaring electric power needs MarketWise
 
-## 86. Evercore ISI Cuts Quest Diagnostics Price Target to $240 From $225 - marketscreener.com
+## 90. Evercore ISI Cuts Quest Diagnostics Price Target to $240 From $225 - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1125,7 +1177,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Evercore ISI Cuts Quest Diagnostics Price Target to $240 From $225 marketscreener.com
 
-## 87. [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% - finance.biggo.com
+## 91. [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% - finance.biggo.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1138,7 +1190,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% finance.biggo.com
 
-## 88. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - Benzinga
+## 92. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - Benzinga
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1151,7 +1203,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday Benzinga
 
-## 89. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - benzinga.com
+## 93. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - benzinga.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1164,7 +1216,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday benzinga.com
 
-## 90. Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. - marketscreener.com
+## 94. Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1177,7 +1229,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. marketscreener.com
 
-## 91. Quest Diagnostics Raises Earnings Guidance for the Full Year 2026 - marketscreener.com
+## 95. Quest Diagnostics Raises Earnings Guidance for the Full Year 2026 - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1190,7 +1242,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Raises Earnings Guidance for the Full Year 2026 marketscreener.com
 
-## 92. Is Quest Diagnostics Inc (DGX) Overvalued After Q2 Earnings Beat - GuruFocus
+## 96. Is Quest Diagnostics Inc (DGX) Overvalued After Q2 Earnings Beat - GuruFocus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1203,7 +1255,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Is Quest Diagnostics Inc (DGX) Overvalued After Q2 Earnings Beat GuruFocus
 
-## 93. Quest Diagnostics Q2 Adjusted Earnings, Revenue Rise - marketscreener.com
+## 97. Quest Diagnostics Q2 Adjusted Earnings, Revenue Rise - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1216,7 +1268,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Q2 Adjusted Earnings, Revenue Rise marketscreener.com
 
-## 94. QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings - Quiver Quantitative
+## 98. QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings - Quiver Quantitative
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1229,7 +1281,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings Quiver Quantitative
 
-## 95. QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings - quiverquant.com
+## 99. QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings - quiverquant.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1242,7 +1294,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings quiverquant.com
 
-## 96. Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q2 Adjusted EPS $3.12 per Share, vs. FactSet Est of $2.82 - marketscreener.com
+## 100. Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q2 Adjusted EPS $3.12 per Share, vs. FactSet Est of $2.82 - marketscreener.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1255,7 +1307,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q2 Adjusted EPS $3.12 per Share, vs. FactSet Est of $2.82 marketscreener.com
 
-## 97. Quest Diagnostics: Q2 Earnings Snapshot - kare11.com
+## 101. Quest Diagnostics: Q2 Earnings Snapshot - kare11.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1268,7 +1320,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics: Q2 Earnings Snapshot kare11.com
 
-## 98. Quest Diagnostics raises annual forecast on testing demand - Reuters
+## 102. Quest Diagnostics raises annual forecast on testing demand - Reuters
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1281,7 +1333,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics raises annual forecast on testing demand Reuters
 
-## 99. Quest Shines As Deals With Hims, Oura Bolster Consumer Biz - Investor's Business Daily
+## 103. Quest Shines As Deals With Hims, Oura Bolster Consumer Biz - Investor's Business Daily
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1294,7 +1346,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Shines As Deals With Hims, Oura Bolster Consumer Biz Investor's Business Daily
 
-## 100. Quest Diagnostics (DGX) Surpasses Q2 Earnings and Revenue Estimates - Yahoo Finance
+## 104. Quest Diagnostics (DGX) Surpasses Q2 Earnings and Revenue Estimates - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1307,7 +1359,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Surpasses Q2 Earnings and Revenue Estimates Yahoo Finance
 
-## 101. Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 - Yahoo Finance
+## 105. Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1320,7 +1372,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 Yahoo Finance
 
-## 102. Quest Diagnostics Incorporated Q2 2026 Earnings Call Summary - Yahoo Finance
+## 106. Quest Diagnostics Incorporated Q2 2026 Earnings Call Summary - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1333,7 +1385,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated Q2 2026 Earnings Call Summary Yahoo Finance
 
-## 103. Quest Diagnostics Up Over 10%, On Pace for Record High Close -- Data Talk - Moomoo
+## 107. Quest Diagnostics Up Over 10%, On Pace for Record High Close -- Data Talk - Moomoo
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1346,7 +1398,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Up Over 10%, On Pace for Record High Close -- Data Talk Moomoo
 
-## 104. Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE) - Seeking Alpha
+## 108. Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE) - Seeking Alpha
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1359,7 +1411,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE) Seeking Alpha
 
-## 105. Quest Diagnostics beats Q2 estimates; Jefferies raises price target to $245 - Pluang
+## 109. Quest Diagnostics beats Q2 estimates; Jefferies raises price target to $245 - Pluang
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1372,7 +1424,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics beats Q2 estimates; Jefferies raises price target to $245 Pluang
 
-## 106. Quest Diagnostics earnings beat by $0.30, revenue topped estimates - Investing.com
+## 110. Quest Diagnostics earnings beat by $0.30, revenue topped estimates - Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1385,7 +1437,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics earnings beat by $0.30, revenue topped estimates Investing.com
 
-## 107. Quest Diagnostics Incorporated 2026 Q2 - Results - Earnings Call Presentation (NYSE:DGX) 2026-07-23 - Seeking Alpha
+## 111. Quest Diagnostics Incorporated 2026 Q2 - Results - Earnings Call Presentation (NYSE:DGX) 2026-07-23 - Seeking Alpha
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1398,7 +1450,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Incorporated 2026 Q2 - Results - Earnings Call Presentation (NYSE:DGX) 2026-07-23 Seeking Alpha
 
-## 108. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street - StocksToTrade
+## 112. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street - StocksToTrade
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1411,7 +1463,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street StocksToTrade
 
-## 109. Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call - Sahm
+## 113. Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call - Sahm
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1424,7 +1476,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call Sahm
 
-## 110. Quest Diagnostics posts strong Q2 results, rais... - Pluang
+## 114. Quest Diagnostics posts strong Q2 results, rais... - Pluang
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1437,7 +1489,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics posts strong Q2 results, rais... Pluang
 
-## 111. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - Sahm
+## 115. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - Sahm
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1450,7 +1502,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday Sahm
 
-## 112. Quest Diagnostics raises FY26 guidance after Q2 revenue rises 10.2% - scanx.trade
+## 116. Quest Diagnostics raises FY26 guidance after Q2 revenue rises 10.2% - scanx.trade
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1463,7 +1515,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics raises FY26 guidance after Q2 revenue rises 10.2% scanx.trade
 
-## 113. Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - Benzinga
+## 117. Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - Benzinga
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1476,7 +1528,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) Benzinga
 
-## 114. Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - benzinga.com
+## 118. Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - benzinga.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1489,7 +1541,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) benzinga.com
 
-## 115. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street - stockstotrade.com
+## 119. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street - stockstotrade.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1502,7 +1554,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street stockstotrade.com
 
-## 116. Quest Diagnostics beats Q2 estimates; Jefferies raises price target to $245 - pluang.com
+## 120. Quest Diagnostics beats Q2 estimates; Jefferies raises price target to $245 - pluang.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1515,7 +1567,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics beats Q2 estimates; Jefferies raises price target to $245 pluang.com
 
-## 117. Quest Diagnostics posts strong Q2 results, rais... - pluang.com
+## 121. Quest Diagnostics posts strong Q2 results, rais... - pluang.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1528,7 +1580,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics posts strong Q2 results, rais... pluang.com
 
-## 118. Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call - sahmcapital.com
+## 122. Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call - sahmcapital.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1541,7 +1593,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call sahmcapital.com
 
-## 119. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - sahmcapital.com
+## 123. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - sahmcapital.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1554,7 +1606,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday sahmcapital.com
 
-## 120. Quest Diagnostics raises annual forecast on testing demand - reuters.com
+## 124. Quest Diagnostics raises annual forecast on testing demand - reuters.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1567,7 +1619,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics raises annual forecast on testing demand reuters.com
 
-## 121. Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow - dars.gov.et
+## 125. Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow - dars.gov.et
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -1580,7 +1632,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow dars.gov.et
 
-## 122. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives - Quiver Quantitative
+## 126. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives - Quiver Quantitative
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -1593,7 +1645,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives Quiver Quantitative
 
-## 123. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com - Investing.com UK
+## 127. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com - Investing.com UK
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -1606,7 +1658,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com Investing.com UK
 
-## 124. Quest Diagnostics (DGX) Expands Oncology Test Access, Is The Stock Fully Valued? - simplywall.st
+## 128. Quest Diagnostics (DGX) Expands Oncology Test Access, Is The Stock Fully Valued? - simplywall.st
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Jul 2026
@@ -1619,7 +1671,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics (DGX) Expands Oncology Test Access, Is The Stock Fully Valued? simplywall.st
 
-## 125. The Bull Case For Quest Diagnostics (DGX) Could Change Following Oncology Test Integration Into OncoEMR - Learn Why - simplywall.st
+## 129. The Bull Case For Quest Diagnostics (DGX) Could Change Following Oncology Test Integration Into OncoEMR - Learn Why - simplywall.st
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Jul 2026
@@ -1632,7 +1684,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** The Bull Case For Quest Diagnostics (DGX) Could Change Following Oncology Test Integration Into OncoEMR - Learn Why simplywall.st
 
-## 126. Hair Drug Test Positivity Reaches 19.1% Among US Workers - Clinical Lab Products
+## 130. Hair Drug Test Positivity Reaches 19.1% Among US Workers - Clinical Lab Products
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -1645,7 +1697,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Hair Drug Test Positivity Reaches 19.1% Among US Workers Clinical Lab Products
 
-## 127. Quest Diagnostics Stock In Shambles: Down 6.2% With 9-Day Losing Streak - Trefis
+## 131. Quest Diagnostics Stock In Shambles: Down 6.2% With 9-Day Losing Streak - Trefis
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -1658,7 +1710,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Stock In Shambles: Down 6.2% With 9-Day Losing Streak Trefis
 
-## 128. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus - Yahoo Finance
+## 132. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -1671,7 +1723,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus Yahoo Finance
 
-## 129. List of Investments by Quest Diagnostics (Jul, 2026) - Tracxn
+## 133. List of Investments by Quest Diagnostics (Jul, 2026) - Tracxn
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -1684,7 +1736,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) Tracxn
 
-## 130. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform - Clinical Lab Products
+## 134. List of Investments by Quest Diagnostics (Jul, 2026) - tracxn.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 10 Jul 2026
+- **Published at (UTC):** 2026-07-10T06:50:23+00:00
+- **Source:** tracxn.com
+- **Source domain:** tracxn.com
+- **Category:** M&A / Investment
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEhKbGRacTh4a3NVbE9ISXpGa3FMNmJlcVBOVE5vcjh4c014Tnp0aDJIUHA4Z3QzLVFHZU1TUmhEQjF4SDhFeTNnR2VwR3BfSy01Q1d1WFNsT1NpXzJUX1JfdlFkU3lCaklTWV9Eb1lUQ3pBZzJHYlEwWVh5anRldUNWckkzVmU2ZzI5YWEyWDRfTFVSajNWRDJhTTdGRmRteFNFcDg2VjFERGRrbUpqWlVQWEVhTWNPU0dyVmNR?oc=5
+
+**Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
+
+## 135. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform - Clinical Lab Products
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1697,7 +1762,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products
 
-## 131. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - Stock Titan
+## 136. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - Stock Titan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1710,7 +1775,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians Stock Titan
 
-## 132. Quest Diagnostics integrates cancer testing int... - Pluang
+## 137. Quest Diagnostics integrates cancer testing int... - Pluang
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1723,7 +1788,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
 
-## 133. Quest Diagnostics integrates cancer testing int... - pluang.com
+## 138. Quest Diagnostics integrates cancer testing int... - pluang.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1736,7 +1801,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... pluang.com
 
-## 134. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - stocktitan.net
+## 139. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - stocktitan.net
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026

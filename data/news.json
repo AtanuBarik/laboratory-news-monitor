@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T14:33:55.841440+00:00",
-  "generated_at_display": "04 Aug 2026, 14:33 UTC",
-  "item_count": 477,
+  "generated_at": "2026-08-04T14:59:59.220942+00:00",
+  "generated_at_display": "04 Aug 2026, 14:59 UTC",
+  "item_count": 483,
   "failures": [],
   "items": [
     {
@@ -1116,6 +1116,34 @@
       "description": "Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk TradingKey",
       "source": "TradingKey",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "M&A / Investment",
+      "official_source": false
+    },
+    {
+      "id": "c20acedfb6eb02421074",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Inc (DGX) Financial Health: Profitability & Balance Sheet Analysis - tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bd3lENm82cWd4NHVnb0Q2ZmVGTWg5a3llc0lPLVNueXdPUUpmTC02QURRbERrUXlEQlNWUWhFMU43Y0FmZUwxbWJhTUo1aVhmLWUyaUZLV0lreU51MFlDZHlGYm9xZkpBXzZjNjZBWQ?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Financial Health: Profitability & Balance Sheet Analysis tradingkey.com",
+      "source": "tradingkey.com",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "5c888005247bc13216d5",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk - tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RjJzWHZPZlY5TkE1cjZMRWR5dVZpTUFQQTFsLUVKWDUzMUZCMnNYVDJzYm50eFpMNW90Rk1xX0VSc1JlUmJPX253WnpsdW1IOENqdDAtU2xNLUl2aUJvYUZZbE1iLW5VSFdCTw?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk tradingkey.com",
+      "source": "tradingkey.com",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
       "published_at": "2026-07-31T07:00:00+00:00",
       "published_display": "31 Jul 2026",
       "category": "M&A / Investment",
@@ -2844,6 +2872,20 @@
       "official_source": false
     },
     {
+      "id": "d467255e52f27172773f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages - tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages tradingkey.com",
+      "source": "tradingkey.com",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "a4b88ca775031eab4d25",
       "company": "Sonic Healthcare",
       "title": "ASX 200 Reverses Early Losses to Finish Higher - tradingview.com",
@@ -3440,6 +3482,20 @@
       "official_source": false
     },
     {
+      "id": "90e213eccfc396c44dfd",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+      "description": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-07-26T02:02:52+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
@@ -3447,6 +3503,20 @@
       "description": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution TradingKey",
       "source": "TradingKey",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-25T22:23:04+00:00",
+      "published_display": "25 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "8d781f634aaa550b5a78",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - tradingkey.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com",
+      "source": "tradingkey.com",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
       "published_at": "2026-07-25T22:23:04+00:00",
       "published_display": "25 Jul 2026",
       "category": "Financial",
@@ -3684,7 +3754,7 @@
       "source": "simplywall.st",
       "source_url": "https://simplywall.st",
       "source_domain": "simplywall.st",
-      "published_at": "2026-07-24T09:37:40+00:00",
+      "published_at": "2026-07-24T07:00:00+00:00",
       "published_display": "24 Jul 2026",
       "category": "Product / Innovation",
       "official_source": false
@@ -5196,20 +5266,6 @@
       "official_source": false
     },
     {
-      "id": "8c247b8f5f1fdf9b987a",
-      "company": "Mayo Clinic Laboratories",
-      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
-      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "published_display": "16 Jul 2026",
-      "category": "Other",
-      "official_source": false
-    },
-    {
       "id": "6f7b311721b836a91e62",
       "company": "Mayo Clinic Laboratories",
       "title": "Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network",
@@ -5220,6 +5276,20 @@
       "published_at": "2026-07-15T15:09:38+00:00",
       "published_display": "15 Jul 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "8c247b8f5f1fdf9b987a",
+      "company": "Mayo Clinic Laboratories",
+      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
+      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-15T07:00:00+00:00",
+      "published_display": "15 Jul 2026",
+      "category": "Other",
       "official_source": false
     },
     {
@@ -5558,6 +5628,20 @@
       "description": "List of Investments by Quest Diagnostics (Jul, 2026) Tracxn",
       "source": "Tracxn",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-10T06:50:23+00:00",
+      "published_display": "10 Jul 2026",
+      "category": "M&A / Investment",
+      "official_source": false
+    },
+    {
+      "id": "3c6c3a4ac77250aa6401",
+      "company": "Quest Diagnostics",
+      "title": "List of Investments by Quest Diagnostics (Jul, 2026) - tracxn.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEhKbGRacTh4a3NVbE9ISXpGa3FMNmJlcVBOVE5vcjh4c014Tnp0aDJIUHA4Z3QzLVFHZU1TUmhEQjF4SDhFeTNnR2VwR3BfSy01Q1d1WFNsT1NpXzJUX1JfdlFkU3lCaklTWV9Eb1lUQ3pBZzJHYlEwWVh5anRldUNWckkzVmU2ZzI5YWEyWDRfTFVSajNWRDJhTTdGRmRteFNFcDg2VjFERGRrbUpqWlVQWEVhTWNPU0dyVmNR?oc=5",
+      "description": "List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com",
+      "source": "tracxn.com",
+      "source_url": "https://tracxn.com",
+      "source_domain": "tracxn.com",
       "published_at": "2026-07-10T06:50:23+00:00",
       "published_display": "10 Jul 2026",
       "category": "M&A / Investment",
