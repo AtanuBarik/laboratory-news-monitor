@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Fetch Google News RSS feeds and create data/news.json.
+"""Fetch Google News RSS feeds and build dashboard and AI knowledge files.
 
-Uses only Python's standard library, so GitHub Actions does not need
-to install any additional package.
+The script uses only Python's standard library, so GitHub Actions does not
+need to install any additional package.
 """
 
 from __future__ import annotations
@@ -22,72 +22,77 @@ from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "data" / "news.json"
-KNOWLEDGE_OUTPUT = ROOT / "knowledge.html"
+KNOWLEDGE_DIR = ROOT / "knowledge"
 
-# The queries intentionally avoid bare "Quest" and bare "ARUP" because those
-# words create many unrelated results. Edit these entries in GitHub whenever
-# you want to add or change monitored terms.
+# Bare "Quest" and bare "ARUP" are intentionally avoided because they create
+# many unrelated results. Add or edit trackers here as needed.
 TRACKERS = [
     {
         "company": "Labcorp",
+        "slug": "labcorp",
         "query": '("Labcorp" OR "LabCorp" OR "Laboratory Corporation of America")',
         "official_domains": {"labcorp.com"},
     },
     {
         "company": "Quest Diagnostics",
+        "slug": "quest-diagnostics",
         "query": '("Quest Diagnostics" OR "Quest Diagnostics Incorporated")',
         "official_domains": {"questdiagnostics.com"},
     },
     {
         "company": "ARUP Laboratories",
+        "slug": "arup-laboratories",
         "query": '("ARUP Laboratories" OR "ARUP Labs")',
         "official_domains": {"aruplab.com"},
     },
     {
         "company": "Mayo Clinic Laboratories",
+        "slug": "mayo-clinic-laboratories",
         "query": '("Mayo Clinic Laboratories" OR "Mayo Clinic Labs" OR "Mayo Clinic")',
         "official_domains": {"mayocliniclabs.com", "mayoclinic.org"},
     },
     {
-    "company": "Sonic Healthcare",
-    "query": '("Sonic Healthcare" OR "Sonic Reference Laboratory")',
-    "official_domains": {"sonichealthcare.com"},
-},
+        "company": "Sonic Healthcare",
+        "slug": "sonic-healthcare",
+        "query": '("Sonic Healthcare" OR "Sonic Reference Laboratory")',
+        "official_domains": {"sonichealthcare.com"},
+    },
 ]
 
 CATEGORY_RULES = {
     "Financial": (
         "earnings", "quarter results", "annual results", "revenue", "guidance",
-        "investor", "dividend", "financial results"
+        "investor", "dividend", "financial results",
     ),
     "M&A / Investment": (
         "acquire", "acquisition", "merger", "invests", "investment", "divest",
-        "transaction", "sale of"
+        "transaction", "sale of",
     ),
     "Partnership": (
         "partner", "partnership", "collaboration", "agreement", "alliance",
-        "selected by", "contract"
+        "selected by", "contract",
     ),
     "Product / Innovation": (
         "launch", "new test", "new assay", "platform", "artificial intelligence",
-        " ai ", "digital pathology", "innovation", "genetic", "diagnostic"
+        " ai ", "digital pathology", "innovation", "genetic", "diagnostic",
     ),
     "Research / Clinical": (
         "study", "research", "clinical trial", "publication", "scientists",
-        "disease", "positivity", "biomarker"
+        "disease", "positivity", "biomarker",
     ),
     "Regulatory / Policy": (
         "fda", "regulatory", "approval", "cleared", "policy", "cms", "medicare",
-        "reimbursement", "compliance"
+        "reimbursement", "compliance",
     ),
     "Leadership / Organization": (
         "appoint", "named", "chief executive", "ceo", "board of directors",
-        "leadership", "reorganization"
+        "leadership", "reorganization",
     ),
 }
 
 TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")
+NON_ALNUM_RE = re.compile(r"[^a-z0-9]+")
 
 
 def clean_text(value: str | None, limit: int = 650) -> str:
@@ -106,9 +111,28 @@ def child_text(item: ET.Element, local_name: str) -> str:
     return ""
 
 
+def source_info(item: ET.Element) -> tuple[str, str]:
+    """Return the publisher name and publisher URL from an RSS item."""
+
+    for child in list(item):
+        if child.tag.split("}")[-1].lower() == "source":
+            return clean_text(child.text, 500), clean_text(child.attrib.get("url"), 1000)
+    return "", ""
+
+
 def parse_date(value: str) -> datetime | None:
     if not value:
         return None
+
+    # Stored records use ISO 8601, while RSS feeds commonly use RFC 2822.
+    try:
+        parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+        if parsed.tzinfo is None:
+            parsed = parsed.replace(tzinfo=timezone.utc)
+        return parsed.astimezone(timezone.utc)
+    except (TypeError, ValueError, OverflowError):
+        pass
+
     try:
         parsed = parsedate_to_datetime(value)
         if parsed.tzinfo is None:
@@ -177,13 +201,12 @@ def parse_feed(company: str, xml_bytes: bytes, official_domains: set[str]) -> li
         description = clean_text(child_text(item, "description"))
         published_raw = child_text(item, "pubDate")
         published = parse_date(published_raw)
-        source = child_text(item, "source")
+        publisher, publisher_url = source_info(item)
 
-        domain = source_domain(url)
-        if not source:
-            source = domain or "Unknown source"
+        domain = source_domain(publisher_url) or source_domain(url)
+        source = publisher or domain or "Unknown source"
 
-        unique_basis = (url or f"{title}|{source}").strip().lower()
+        unique_basis = f"{company}|{url or title}|{source}".strip().lower()
         record_id = hashlib.sha256(unique_basis.encode("utf-8")).hexdigest()[:20]
 
         records.append(
@@ -194,6 +217,7 @@ def parse_feed(company: str, xml_bytes: bytes, official_domains: set[str]) -> li
                 "url": url,
                 "description": description,
                 "source": source,
+                "source_url": publisher_url,
                 "source_domain": domain,
                 "published_at": published.isoformat() if published else "",
                 "published_display": published.strftime("%d %b %Y") if published else "",
@@ -213,121 +237,171 @@ def load_previous() -> dict:
         return {"items": []}
 
 
-def write_knowledge_page(
-    items: list[dict],
-    generated_at_display: str,
-) -> None:
-    """Create a static HTML page that Copilot can use as knowledge."""
+def normalized_title(value: str) -> str:
+    return NON_ALNUM_RE.sub(" ", value.lower()).strip()
 
-    article_sections = []
+
+def deduplicate_items(items: list[dict]) -> list[dict]:
+    """Remove repeated feed entries while retaining cross-company matches."""
+
+    deduplicated: list[dict] = []
+    seen: set[tuple[str, str, str]] = set()
 
     for item in items:
+        published = str(item.get("published_at", ""))[:10]
+        key = (
+            str(item.get("company", "")).lower(),
+            normalized_title(str(item.get("title", ""))),
+            published,
+        )
+        if key in seen:
+            continue
+        seen.add(key)
+        deduplicated.append(item)
+
+    return deduplicated
+
+
+def markdown_article(item: dict, number: int) -> str:
+    description = str(item.get("description") or "No description supplied by the feed.")
+    return "\n".join(
+        [
+            f"## {number}. {item.get('title', 'Untitled article')}",
+            "",
+            f"- **Company:** {item.get('company', '')}",
+            f"- **Publication date:** {item.get('published_display') or 'Date unavailable'}",
+            f"- **Published at (UTC):** {item.get('published_at') or 'Unavailable'}",
+            f"- **Source:** {item.get('source') or 'Unknown source'}",
+            f"- **Source domain:** {item.get('source_domain') or 'Unavailable'}",
+            f"- **Category:** {item.get('category') or 'Other'}",
+            f"- **Official source:** {'Yes' if item.get('official_source') else 'No'}",
+            f"- **Original article:** {item.get('url') or 'Unavailable'}",
+            "",
+            f"**Feed description:** {description}",
+            "",
+        ]
+    )
+
+
+def write_markdown_file(path: Path, title: str, items: list[dict], payload: dict) -> None:
+    lines = [
+        f"# {title}",
+        "",
+        f"- **Repository generated:** {payload['generated_at_display']}",
+        f"- **Articles in this file:** {len(items)}",
+        "- **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.",
+        "- **Data scope:** Public news collected through Google News RSS.",
+        "",
+        "Use the publication date, source, category, description, and URL fields below. "
+        "Do not treat the feed description as a verified full-article summary.",
+        "",
+    ]
+
+    if not items:
+        lines.extend(["No matching articles are currently available.", ""])
+    else:
+        for number, item in enumerate(items, start=1):
+            lines.append(markdown_article(item, number))
+
+    path.write_text("\n".join(lines), encoding="utf-8")
+
+
+def write_public_knowledge_page(items: list[dict], payload: dict) -> None:
+    article_sections: list[str] = []
+
+    for item in items[:300]:
         company = html.escape(str(item.get("company", "")))
         title = html.escape(str(item.get("title", "Untitled article")))
         source = html.escape(str(item.get("source", "Unknown source")))
-        published = html.escape(
-            str(item.get("published_display", "Date unavailable"))
-        )
+        published = html.escape(str(item.get("published_display") or "Date unavailable"))
         category = html.escape(str(item.get("category", "Other")))
-        description = html.escape(
-            str(item.get("description", "No description available."))
-        )
-        article_url = html.escape(
-            str(item.get("url", "")),
-            quote=True,
-        )
+        description = html.escape(str(item.get("description") or "No description available."))
+        article_url = html.escape(str(item.get("url", "")), quote=True)
 
         article_link = ""
         if article_url:
             article_link = (
-                f'<p><a href="{article_url}" '
-                f'target="_blank" rel="noopener noreferrer">'
-                f'Open original article</a></p>'
+                f'<p><a href="{article_url}" target="_blank" rel="noopener noreferrer">'
+                "Open original article</a></p>"
             )
 
         article_sections.append(
             f"""
             <article>
               <h2>{title}</h2>
-              <dl>
-                <dt>Company</dt>
-                <dd>{company}</dd>
-
-                <dt>Publication date</dt>
-                <dd>{published}</dd>
-
-                <dt>Source</dt>
-                <dd>{source}</dd>
-
-                <dt>Category</dt>
-                <dd>{category}</dd>
-              </dl>
-
+              <p><strong>Company:</strong> {company}</p>
+              <p><strong>Publication date:</strong> {published}</p>
+              <p><strong>Source:</strong> {source}</p>
+              <p><strong>Category:</strong> {category}</p>
               <p>{description}</p>
               {article_link}
             </article>
             """
         )
 
-    generated = html.escape(generated_at_display)
-
+    generated = html.escape(str(payload["generated_at_display"]))
     page = f"""<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta
-    name="description"
-    content="Current news concerning major US reference laboratories."
-  >
+  <meta name="description" content="Current public news concerning major laboratory companies.">
   <title>Laboratory News Knowledge Base</title>
-
   <style>
-    body {{
-      max-width: 1000px;
-      margin: 40px auto;
-      padding: 0 20px;
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      color: #18332b;
-    }}
-
-    article {{
-      margin: 24px 0;
-      padding: 20px;
-      border: 1px solid #dbe7e1;
-      border-radius: 12px;
-    }}
-
-    dt {{
-      font-weight: bold;
-      margin-top: 8px;
-    }}
-
-    dd {{
-      margin-left: 0;
-    }}
+    body {{ max-width: 1000px; margin: 40px auto; padding: 0 20px; font-family: Arial, sans-serif; line-height: 1.6; color: #18332b; }}
+    article {{ margin: 24px 0; padding: 20px; border: 1px solid #dbe7e1; border-radius: 12px; }}
+    a {{ color: #087f5b; }}
   </style>
 </head>
-
 <body>
   <main>
     <h1>Laboratory Services Market News Knowledge Base</h1>
-
-    <p>
-      This page contains recent public news concerning Labcorp,
-      Quest Diagnostics, ARUP Laboratories and Mayo Clinic Laboratories.
-    </p>
-
-    <p>Last updated: {generated}</p>
-
+    <p>Recent public news collected for the companies monitored by this repository.</p>
+    <p><strong>Last updated:</strong> {generated}</p>
     {''.join(article_sections)}
   </main>
 </body>
 </html>
 """
+    (KNOWLEDGE_DIR / "index.html").write_text(page, encoding="utf-8")
 
-    KNOWLEDGE_OUTPUT.write_text(page, encoding="utf-8")
+
+def write_knowledge_files(items: list[dict], payload: dict) -> None:
+    KNOWLEDGE_DIR.mkdir(parents=True, exist_ok=True)
+
+    write_markdown_file(
+        KNOWLEDGE_DIR / "latest.md",
+        "Laboratory Market News - Latest Repository",
+        items[:200],
+        payload,
+    )
+
+    for tracker in TRACKERS:
+        company_items = [item for item in items if item.get("company") == tracker["company"]]
+        write_markdown_file(
+            KNOWLEDGE_DIR / f"{tracker['slug']}.md",
+            f"{tracker['company']} News",
+            company_items[:150],
+            payload,
+        )
+
+    manifest = {
+        "generated_at": payload["generated_at"],
+        "generated_at_display": payload["generated_at_display"],
+        "total_articles": len(items),
+        "files": {
+            "all_companies": "knowledge/latest.md",
+            **{
+                tracker["company"]: f"knowledge/{tracker['slug']}.md"
+                for tracker in TRACKERS
+            },
+        },
+    }
+    (KNOWLEDGE_DIR / "manifest.json").write_text(
+        json.dumps(manifest, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+    write_public_knowledge_page(items, payload)
 
 
 def main() -> int:
@@ -336,7 +410,7 @@ def main() -> int:
     previous = load_previous()
     merged = {item["id"]: item for item in previous.get("items", []) if item.get("id")}
 
-    failures = []
+    failures: list[str] = []
     for tracker in TRACKERS:
         try:
             xml_bytes = fetch_feed(tracker["query"])
@@ -349,9 +423,9 @@ def main() -> int:
             failures.append(f'{tracker["company"]}: {exc}')
             print(f'Warning: {tracker["company"]}: {exc}', file=sys.stderr)
 
-    items = []
+    items: list[dict] = []
     for item in merged.values():
-        published = parse_date(item.get("published_at", ""))
+        published = parse_date(str(item.get("published_at", "")))
         if published is None or published >= cutoff:
             items.append(item)
 
@@ -359,7 +433,7 @@ def main() -> int:
         key=lambda item: item.get("published_at") or "0000-00-00T00:00:00+00:00",
         reverse=True,
     )
-    items = items[:600]
+    items = deduplicate_items(items)[:600]
 
     payload = {
         "generated_at": now.isoformat(),
@@ -368,12 +442,10 @@ def main() -> int:
         "failures": failures,
         "items": items,
     }
+
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
-    write_knowledge_page(
-    items,
-    payload["generated_at_display"],
-)
+    write_knowledge_files(items, payload)
     print(f"Wrote {len(items)} items to {OUTPUT}", file=sys.stderr)
 
     if not items:
