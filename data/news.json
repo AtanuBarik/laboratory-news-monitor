@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T13:14:49.522140+00:00",
-  "generated_at_display": "04 Aug 2026, 13:14 UTC",
-  "item_count": 406,
+  "generated_at": "2026-08-04T13:20:07.986570+00:00",
+  "generated_at_display": "04 Aug 2026, 13:20 UTC",
+  "item_count": 419,
   "failures": [],
   "items": [
     {
@@ -33,6 +33,20 @@
       "official_source": false
     },
     {
+      "id": "2bb179ca033b1f9bbcfb",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic tops world hospital rankings for 8th year in a row - KIMT",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQl9fSXZHRjBDbnBwRXJuVFlySW5yNjRSeGl3b3dOdXJ2WmVDTXhIZWl0VHJHamRDdzdoZVIzaVA3ZkFMcUFWUXhOUjR3a0NtbTR5RXhwQXVtbjlMcDc1ZDV1V0FUQVhHMHM5SzZTV2tmMnhiTU1SQWNRZDAzS255SzFiWFBzOXg5eHJjRjJtRXpNWFp2YnJiN1Y0WWxacHhhZFR5a1dnSl8xZ1pmTWhieVQ1cE04bVR2ZXRSTFRPMTd0c0RIajVZUHNOM2w0TFRGcGZQQQ?oc=5",
+      "description": "Mayo Clinic tops world hospital rankings for 8th year in a row KIMT",
+      "source": "KIMT",
+      "source_url": "https://www.kimt.com",
+      "source_domain": "kimt.com",
+      "published_at": "2026-08-04T12:22:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "cf79abed1e9a5dd7be6b",
       "company": "Labcorp",
       "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer - PR Newswire",
@@ -47,12 +61,40 @@
       "official_source": false
     },
     {
+      "id": "3a08420ccd657d58fa85",
+      "company": "Labcorp",
+      "title": "Labcorp Test May Identify Prostate Cancer Patients for TRUQAP - Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2MyLVZFVDlyVGwxWjdpWmFiQ2NtTHNnQVMyT3FyWjhvRWRncWJzMU1pMWZqcjV1MWlfM1c3RmtFeTM4TUdZSjVxZ2sxcFBxZjdaNHVjUFBFUjRFX0ViWGhuRDFGNDBtWEhSRm5QQ0UxS0dabXlWS2ItdzQzbDg1Q293Y2xtQlFWZ3B0UTBvM0ZzVWRXSE9MNHpBSjFzNWpMNEpyei00M0pzUGw4MHZIYjkwYVJfanJONkdibnd3?oc=5",
+      "description": "Labcorp Test May Identify Prostate Cancer Patients for TRUQAP Stock Titan",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-08-04T11:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "c5a6f48970645bd97a62",
       "company": "Mayo Clinic Laboratories",
       "title": "CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS - fcbayern.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONmZORTZwRlNnUGdrRmJpWVdLSzZieXdYNkRuUHN5RkpsMHE4OTVJckk5aTFCQXJyWmZ2dFZVN2Rham1lQmMwelZ4Y0ZCVngxOVREVlFpTTRVVVBXQ3JaZ3pnQzdrYlJIekRMNVVmTjJNZ1cta2xIWDZ1bkplaWtya0hDT1pHa3ItdTVQNTFDd0JvUWgxM0lRdlZjYkUxamZIQmkzTkE5QmxpU3RWYm95LW03MTFpLW5DcFlfN0FlSDZHVVJqX2FjQTBvQVhnbGlycG1TbXJEbS1NdWIwZXBXY3V3?oc=5",
       "description": "CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS fcbayern.com",
       "source": "fcbayern.com",
+      "source_url": "https://fcbayern.com",
+      "source_domain": "fcbayern.com",
+      "published_at": "2026-08-04T10:06:56+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
+      "id": "bc9d1475c0a204695294",
+      "company": "Mayo Clinic Laboratories",
+      "title": "CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS - FC Bayern",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONmZORTZwRlNnUGdrRmJpWVdLSzZieXdYNkRuUHN5RkpsMHE4OTVJckk5aTFCQXJyWmZ2dFZVN2Rham1lQmMwelZ4Y0ZCVngxOVREVlFpTTRVVVBXQ3JaZ3pnQzdrYlJIekRMNVVmTjJNZ1cta2xIWDZ1bkplaWtya0hDT1pHa3ItdTVQNTFDd0JvUWgxM0lRdlZjYkUxamZIQmkzTkE5QmxpU3RWYm95LW03MTFpLW5DcFlfN0FlSDZHVVJqX2FjQTBvQVhnbGlycG1TbXJEbS1NdWIwZXBXY3V3?oc=5",
+      "description": "CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS FC Bayern",
+      "source": "FC Bayern",
       "source_url": "https://fcbayern.com",
       "source_domain": "fcbayern.com",
       "published_at": "2026-08-04T10:06:56+00:00",
@@ -75,12 +117,40 @@
       "official_source": false
     },
     {
+      "id": "8b04109479854f2db77c",
+      "company": "Mayo Clinic Laboratories",
+      "title": "CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV - FC Bayern",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORTZPdjZzZHNOVGlhNGIzZlNNY09pNWJ4cHdHelVZOHp1d05FaTZ0YVpIR1NKMVVOUXM0SlhsbHFweWJVeWx2QnlrTldYaERkZlpxV1RGMmNpSEJDaS1TM2t1QXZzUzFDX3VCblNWUjFvb2MxR0MwVjNhRDRucndiT0Z1WjlKNVpURk9wUDBPb1h3SEw2VHQyVFR1T3BjdG1Ib1hraWhxWUtMVXUya3NURTN1MFhCekxORkI0bnpxaXExY0JYUVZYcFJjYzhDaEpaZDFHV0RJLXZLZGMzR0h2QjVn?oc=5",
+      "description": "CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV FC Bayern",
+      "source": "FC Bayern",
+      "source_url": "https://fcbayern.com",
+      "source_domain": "fcbayern.com",
+      "published_at": "2026-08-04T09:07:45+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
       "id": "29b401e2e67439da0955",
       "company": "Mayo Clinic Laboratories",
       "title": "CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa - fcbayern.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN1ZxYmRFMGNYQmdwT1RKTDJlZW1TNTVjLUEwSktia3pYYzB2UndFMWJSeE02R3ROZmEyRjYtbE5iNE1ocG8yWS05cFpfQ19Ldmd4bkxPVmtfc2MzWVh0LXBjNzlNVk9SZmpWNFR5X2dBS0xmc002RzVyV19qaG15TGZnUkExaTd3Q0VmS0FKejRXUEdYaTFqMU5MYzRjMlJMb0FwRkJaY3hWQnBVRkN6V2VpOHpzbGZCWktFcmtnLTNyaWUwY2hibGtTWXpzaFR3NVdhUTRhUm0tSXB1YUlkQjd3?oc=5",
       "description": "CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa fcbayern.com",
       "source": "fcbayern.com",
+      "source_url": "https://fcbayern.com",
+      "source_domain": "fcbayern.com",
+      "published_at": "2026-08-04T09:00:26+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "98cd0a56f05ef5c3cd0e",
+      "company": "Mayo Clinic Laboratories",
+      "title": "CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa - FC Bayern",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQN1ZxYmRFMGNYQmdwT1RKTDJlZW1TNTVjLUEwSktia3pYYzB2UndFMWJSeE02R3ROZmEyRjYtbE5iNE1ocG8yWS05cFpfQ19Ldmd4bkxPVmtfc2MzWVh0LXBjNzlNVk9SZmpWNFR5X2dBS0xmc002RzVyV19qaG15TGZnUkExaTd3Q0VmS0FKejRXUEdYaTFqMU5MYzRjMlJMb0FwRkJaY3hWQnBVRkN6V2VpOHpzbGZCWktFcmtnLTNyaWUwY2hibGtTWXpzaFR3NVdhUTRhUm0tSXB1YUlkQjd3?oc=5",
+      "description": "CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa FC Bayern",
+      "source": "FC Bayern",
       "source_url": "https://fcbayern.com",
       "source_domain": "fcbayern.com",
       "published_at": "2026-08-04T09:00:26+00:00",
@@ -1106,6 +1176,20 @@
       "official_source": false
     },
     {
+      "id": "5437036cf7acc46fe7d6",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-07-30T20:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "b98d2a8c11e66cf94710",
       "company": "Labcorp",
       "title": "Barclays Raises Labcorp Price Target to $320 From $290, Maintains Equalweight Rating - Moomoo",
@@ -1597,6 +1681,20 @@
       "description": "Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion Quiver Quantitative",
       "source": "Quiver Quantitative",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T10:57:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "4f77bb2fe95a411000f6",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion - quiverquant.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpUdDdKckp3STFiYnBOdDg4SXlrLXJ2WVczNWx6U3MxRHJ1dGRZQkd5bVhkNVJXczJBamZzMkpLbEJEMjFkV0J6TUx4THRJOW94dFZPcXNCMm5NYVBrYjYyUVJZVVZNUUM4S05MQzlJN0Q4YlBFcHI5Uy15QktWX0pETVhwRmRkZmNUN3NkZEVoZw?oc=5",
+      "description": "Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion quiverquant.com",
+      "source": "quiverquant.com",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
       "published_at": "2026-07-30T10:57:00+00:00",
       "published_display": "30 Jul 2026",
       "category": "Financial",
@@ -2824,6 +2922,20 @@
       "official_source": false
     },
     {
+      "id": "90e213eccfc396c44dfd",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+      "description": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-07-26T02:02:52+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
@@ -3267,6 +3379,20 @@
       "official_source": false
     },
     {
+      "id": "e0293c4803724d959988",
+      "company": "Labcorp",
+      "title": "Why Labcorp Holdings (LH) Stock Is Up Today - quiverquant.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbzZtT1ZBX0hmTXlVWEY0Q0RKNy1wYndxSGhHbmV5cy0wUFVndzY4eW9EOXlKWUFRVGdMaHlqYm1ZTGllWDFZajZSSTFjMHNHM1FqclBJSmI4a2F1ODVNanA0YlFkcGIxMXp4S3o4R1FKd05YQUF3eDZOYzd6SGNHbjNDT2tybVU?oc=5",
+      "description": "Why Labcorp Holdings (LH) Stock Is Up Today quiverquant.com",
+      "source": "quiverquant.com",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-07-23T18:37:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "7f2940806952bf8d1cf2",
       "company": "Quest Diagnostics",
       "title": "Evercore ISI Cuts Quest Diagnostics Price Target to $240 From $225 - marketscreener.com",
@@ -3379,6 +3505,20 @@
       "description": "QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings Quiver Quantitative",
       "source": "Quiver Quantitative",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-23T11:05:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "b200d81851c462cf36d5",
+      "company": "Quest Diagnostics",
+      "title": "QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings - quiverquant.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5",
+      "description": "QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings quiverquant.com",
+      "source": "quiverquant.com",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
       "published_at": "2026-07-23T11:05:00+00:00",
       "published_display": "23 Jul 2026",
       "category": "Financial",
@@ -3912,6 +4052,20 @@
       "official_source": false
     },
     {
+      "id": "a10bccd3f43790a12bd2",
+      "company": "Labcorp",
+      "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - zacks.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2V4Q3BYMW5ybElNajU1dHE0T3NldTlIckV5QV9mS1VjbEtJME9sUV9RZHdYOFc0WUp4S21qekhuSXJXaFJaR3hLNVl4cmR0U2ctTThNRVJXME9MNU5RYnh5d1RHaUI2UXMxWnY1NUdnT1RHZGxwS3RLYm91SzZEZWtiQ3NfZ3FNMFBqWlFYOHhxSTFFVTZMUTVpUE9ncWs?oc=5",
+      "description": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards? zacks.com",
+      "source": "zacks.com",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-07-22T12:00:16+00:00",
+      "published_display": "22 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "f0d865fed43c9014dee5",
       "company": "Labcorp",
       "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - Yahoo Finance",
@@ -3997,6 +4151,20 @@
       "description": "Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? The Keene Sentinel",
       "source": "The Keene Sentinel",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-21T21:30:00+00:00",
+      "published_display": "21 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "9626ac834a26fa0d089c",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? - keenesentinel.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxON2hFN3kyM21CWkozMXkxMkpLYlJ5b0ViQ0lUUXRzcE56elZyaFcxUkVuUzE3T0FiTkYzRGRvNW1lUWNHbGZuRllnaG15eEJEdHlxVk9ZR0RIMzlfaDZ3MFp6R2NuZFVmQ1hkd1VwbzJJWl95ZDNNX29GUFo1bEI2RzV5cXhCaU10d0pVX0xkaGZHUzFKTW9GOXl4VUUxNk10RGxQbFRMZ3pySnNxZ3QtZjVQNEZncGN0b0F1bVRudVRPOFlnUEVGR21FdlhERXJJWGd0dERmdUkwODdIaUdnZTNVY0FrTWg4X040ZC13?oc=5",
+      "description": "Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? keenesentinel.com",
+      "source": "keenesentinel.com",
+      "source_url": "https://www.keenesentinel.com",
+      "source_domain": "keenesentinel.com",
       "published_at": "2026-07-21T21:30:00+00:00",
       "published_display": "21 Jul 2026",
       "category": "Other",
@@ -5199,6 +5367,20 @@
       "published_at": "2026-07-08T07:00:00+00:00",
       "published_display": "08 Jul 2026",
       "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "aab8ff9e1541928e5ef9",
+      "company": "Mayo Clinic Laboratories",
+      "title": "AI helps doctors estimate your heart’s ‘age’ - 1011now.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0lxWm5GdGVpY1ZmUkxLanNWRUxaRUp2WVlYbkM3OF9wT000Sk1SWUxQMy0zQlNBLUZNSjNjb2FyMnBjZHpOcy0xak9CWk0zVHRvcTZYRGduMW1ucEd1SkItREpyRXBHWXVwdlNHVWt3a0NGREtkU1dwNFFSOW91ZzlVdw?oc=5",
+      "description": "AI helps doctors estimate your heart’s ‘age’ 1011now.com",
+      "source": "1011now.com",
+      "source_url": "https://www.1011now.com",
+      "source_domain": "1011now.com",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "published_display": "08 Jul 2026",
+      "category": "Product / Innovation",
       "official_source": false
     },
     {
