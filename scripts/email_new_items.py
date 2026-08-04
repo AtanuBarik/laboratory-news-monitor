@@ -6,11 +6,12 @@ run, it establishes a baseline and does not send hundreds of historical items.
 Subsequent runs email only article IDs that have not been notified before.
 
 Required environment variables for sending:
-- SMTP_USERNAME: Yahoo/Ymail email address used as the sender
+- SMTP_USERNAME: Yahoo/Ymail email address used as the authenticated sender
 - SMTP_APP_PASSWORD: Yahoo-generated app password
 - EMAIL_TO: comma-separated recipients
 
 Optional:
+- EMAIL_SENDER_NAME: visible sender name; defaults to "Quest Updates"
 - SEND_TEST_EMAIL: true/false. When true, sends a test using the latest items.
 """
 
@@ -25,6 +26,7 @@ import sys
 from collections import defaultdict
 from datetime import datetime, timezone
 from email.message import EmailMessage
+from email.utils import formataddr
 from pathlib import Path
 from typing import Any
 
@@ -138,7 +140,8 @@ def article_html(item: dict[str, Any], number: int) -> str:
 
 
 def build_message(
-    sender: str,
+    sender_address: str,
+    sender_name: str,
     recipients: list[str],
     items: list[dict[str, Any]],
     repository_updated: str,
@@ -191,7 +194,8 @@ def build_message(
 
     message = EmailMessage()
     message["Subject"] = subject
-    message["From"] = sender
+    message["From"] = formataddr((sender_name, sender_address))
+    message["Reply-To"] = sender_address
     message["To"] = ", ".join(recipients)
     message.set_content("\n".join(plain_parts))
     message.add_alternative(html_body, subtype="html")
@@ -269,6 +273,7 @@ def main() -> int:
     username = os.getenv("SMTP_USERNAME", "").strip()
     app_password = os.getenv("SMTP_APP_PASSWORD", "").strip()
     recipients = recipients_from_env()
+    sender_name = os.getenv("EMAIL_SENDER_NAME", "Quest Updates").strip() or "Quest Updates"
 
     if not username or not app_password or not recipients:
         write_status(
@@ -289,7 +294,8 @@ def main() -> int:
 
     try:
         message = build_message(
-            sender=username,
+            sender_address=username,
+            sender_name=sender_name,
             recipients=recipients,
             items=email_items,
             repository_updated=repository_updated,
@@ -323,6 +329,7 @@ def main() -> int:
         email_item_count=len(email_items),
         recipients=recipients,
         sender=username,
+        sender_name=sender_name,
     )
     print(
         f"Sent {'test ' if is_test else ''}email with {len(email_items)} item(s) "
