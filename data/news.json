@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T13:22:48.810127+00:00",
-  "generated_at_display": "04 Aug 2026, 13:22 UTC",
-  "item_count": 438,
+  "generated_at": "2026-08-04T13:34:57.919904+00:00",
+  "generated_at_display": "04 Aug 2026, 13:34 UTC",
+  "item_count": 444,
   "failures": [],
   "items": [
     {
@@ -44,6 +44,20 @@
       "published_at": "2026-08-04T12:22:00+00:00",
       "published_display": "04 Aug 2026",
       "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "1b91fd11dd6684cb134d",
+      "company": "Sonic Healthcare",
+      "title": "Why Sonic Healthcare Ltd (ASX:SHL) Remains a Prominent Name for ASX Healthcare Investors - Kalkine",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzVxN2JPWlplWjZab2xDTWo5eXowUi01Z0kxUE9nckVnc3VMdExOWnE0YmZBTWVhYlNHY0RIY2pLaHc2TjA0dTBqbjFzekVwVXQyUzZ3WTdPZTBIWTFKaFAxZWUtakJNdVFwUmVUSUg4SkRBaDF4QkIzUXR0bVA2RW1QMklxWEVaY2d5cVgxOEZuYXd6dXpRcXhpc05BQlM0eFNQSXh0Vk1zM0tnVDR4aGpvUVA1Vm4xTFBpa2dWSXpEdw?oc=5",
+      "description": "Why Sonic Healthcare Ltd (ASX:SHL) Remains a Prominent Name for ASX Healthcare Investors Kalkine",
+      "source": "Kalkine",
+      "source_url": "https://kalkine.com.au",
+      "source_domain": "kalkine.com.au",
+      "published_at": "2026-08-04T12:12:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Financial",
       "official_source": false
     },
     {
@@ -100,6 +114,20 @@
       "published_at": "2026-08-04T10:06:56+00:00",
       "published_display": "04 Aug 2026",
       "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
+      "id": "2863c80afb164e740e51",
+      "company": "Mayo Clinic Laboratories",
+      "title": "14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care - The Business Journals",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTBxNVd3MDE5MXJadjBmbzJkSGYxT0xFbkg5bmxLOW1GejFTR1pLWGlKakpzc0NIOWNkSlFOUGh1MWxGYUk4eUtfVFhTanFkOWVaZnlsUnNVQ3FGY0VNYWZTNXVpUU4yR3pWbmNOcmRmdXJ3bUhldzRRd0dQM1haYkdHYWU1ZFl2RVNHUEY1Qnp0a0w1b0JBMk9DQlpHQQ?oc=5",
+      "description": "14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care The Business Journals",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "source_domain": "bizjournals.com",
+      "published_at": "2026-08-04T10:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
       "official_source": false
     },
     {
@@ -374,6 +402,20 @@
       "official_source": false
     },
     {
+      "id": "5a9120030f2ba2d2b259",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise - newswise.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTNtZEhkaGtNS1JkZUQwZU52dWNaTTJmV2lJdUNpZk1LQzIwQXpqTVVHN2Z3aU9KMXpCT3lMNFZmcWRGdS15amhLWkJlX2RxbDc5Qk81SVkzbm5Eb1N6Ml9yWUQzV04zZ2V4M1JsV0hISTRNbG4zZm40VHZPQ0VZeXVlZl9qSUV5SHNJb3pXc3dhVGF0X1h5WHpIbk45UDZpUHhybDAtS0pabWVMcXg0R0VEaTRLNHVkaG15cFo4NHZyekXSAcMBQVVfeXFMTUEzbWRIZGhrTUtSZGVEMGVOdnVjWk0yZldpSXVDaWZNS0MyMEF6ak1VRzdmd2lPSjF6Qk95TDRWZnFkRnUteWpoS1pCZV9kcWw3OUJPNUlZM25uRG9TejJfcllEM1dOM2dleDNSbFdISEk0TWxuM2ZuNFR2T0NFWXl1ZWZfaklFeUhzSW96V3N3YVRhdF9YeVh6SG5OOVA2aVB4cmwwLUtKWm1lTHF4NEdFRGk0SzR1ZGhteXBaODR2cnpF?oc=5",
+      "description": "Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise newswise.com",
+      "source": "newswise.com",
+      "source_url": "https://www.newswise.com",
+      "source_domain": "newswise.com",
+      "published_at": "2026-08-03T22:30:00+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
       "id": "65c90890ed05f5d31524",
       "company": "Quest Diagnostics",
       "title": "Consumer testing is growing in the US: Quest Diagnostics CEO - foxbusiness.com",
@@ -398,6 +440,20 @@
       "published_at": "2026-08-03T21:14:10+00:00",
       "published_display": "03 Aug 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "41b11b50bbcf815951f1",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - Post Bulletin",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRldMdXhLZm40ZGZpV283VkZLUTNRYVFmazFGcE1pbHhzODJ2d3FyNmEzb2FWYW0wOWtDTEtzVjEwMUpfU0NVOERSSzFVTk9QTnFuNHR4ZlQ1bWtzV1pLYWtRVDlDRWRKSFhzZkVOeElDTFVqSzdtZktWUkNfTG5vQ2JodndKUzNzcGQybl8zMllFa2Y0Z1Rkdk1mZkh6anNleXMw?oc=5",
+      "description": "Mayo Clinic seeks to dismiss former employee's retaliation lawsuit Post Bulletin",
+      "source": "Post Bulletin",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
+      "published_at": "2026-08-03T20:53:47+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Other",
       "official_source": false
     },
     {
@@ -528,6 +584,20 @@
       "source_url": "https://fcbayern.com",
       "source_domain": "fcbayern.com",
       "published_at": "2026-08-03T11:47:24+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "b3991f1a5ee2cc99bcf0",
+      "company": "Labcorp",
+      "title": "symbol__ Stock Quote Price and Forecast - CNN",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmekdKeWJGelFlTGJ3dzVmNUdwSXRXTHB5eDkydVcxX2lJQ3FJOEV6RVg0QldEVXZWc0J2QnRKSEpSdnMxc0dTVkxaTVZkdw?oc=5",
+      "description": "symbol__ Stock Quote Price and Forecast CNN",
+      "source": "CNN",
+      "source_url": "https://www.cnn.com",
+      "source_domain": "cnn.com",
+      "published_at": "2026-08-03T11:35:32+00:00",
       "published_display": "03 Aug 2026",
       "category": "Other",
       "official_source": false
@@ -2024,6 +2094,20 @@
       "official_source": false
     },
     {
+      "id": "e42a472885760cc34dc9",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise - newswise.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORzBHcDJ2TC1VQXhlMXdMZGhIN3dfV25BSm1EeXlrLTlwd0lYZUpvVm9rU2c5VnUyVnpYdUZ6dUFGOUNGYWlGODlsb1ctbkxobzlSR19yVVBoYjRWclkwUWlpNUMtd0lDcUVrV1ppYnY2MzhwTzNlWG9GUmM5cjBwOVpRcVpDNi1HdERnVWhDUWpKMjRWODU0RFdldm9KMEE1WlJpUjJRWTF4b0J3akZtMEVHcDRGZmxHNXZqT3dhTW1xaXNOc2sxcFh1UEUwaXpNelpZdzFyNjVHbVFBS1ZMWlVBN2s3MEJ3ZHdj0gHrAUFVX3lxTE5HMEdwMnZMLVVBeGUxd0xkaEg3d19XbkFKbUR5eWstOXB3SVhlSm9Wb2tTZzlWdTJWelh1Rnp1QUY5Q0ZhaUY4OWxvVy1uTGhvOVJHX3JVUGhiNFZyWTBRaWk1Qy13SUNxRWtXWmlidjYzOHBPM2VYb0ZSYzlyMHA5WlFxWkM2LUd0RGdVaENRakoyNFY4NTREV2V2b0owQTVaUmlSMlFZMXhvQndqRm0wRUdwNEZmbEc1dmpPd2FNbXFpc05zazFwWHVQRTBpek16Wll3MXI2NUdtUUFLVkxaVUE3azcwQndkd2M?oc=5",
+      "description": "Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise newswise.com",
+      "source": "newswise.com",
+      "source_url": "https://www.newswise.com",
+      "source_domain": "newswise.com",
+      "published_at": "2026-07-30T01:10:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
       "id": "eb198cb55ead220b9011",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com - Investing.com South Africa",
@@ -3278,7 +3362,7 @@
       "source": "simplywall.st",
       "source_url": "https://simplywall.st",
       "source_domain": "simplywall.st",
-      "published_at": "2026-07-24T09:37:40+00:00",
+      "published_at": "2026-07-24T07:00:00+00:00",
       "published_display": "24 Jul 2026",
       "category": "Product / Innovation",
       "official_source": false
@@ -4748,20 +4832,6 @@
       "official_source": false
     },
     {
-      "id": "8c247b8f5f1fdf9b987a",
-      "company": "Mayo Clinic Laboratories",
-      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
-      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "published_display": "16 Jul 2026",
-      "category": "Other",
-      "official_source": false
-    },
-    {
       "id": "6f7b311721b836a91e62",
       "company": "Mayo Clinic Laboratories",
       "title": "Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network",
@@ -4772,6 +4842,20 @@
       "published_at": "2026-07-15T15:09:38+00:00",
       "published_display": "15 Jul 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "8c247b8f5f1fdf9b987a",
+      "company": "Mayo Clinic Laboratories",
+      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
+      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-15T07:00:00+00:00",
+      "published_display": "15 Jul 2026",
+      "category": "Other",
       "official_source": false
     },
     {
@@ -4833,19 +4917,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa0dsZTBqREZleU1IMWlpMkRBbE1fUFQ2Z19zOFZON3dFVDI1NENVcTlPQW1jblEyZGNfZGwtY0dqNE4wWEtmX2s0NFZ0TUJ6VnJvV0U3bUV6NWFxbUZmZVg3bnFVOHVqY2MtM3Vpd1lPaVp2OWM2cHU0cWNKVi00R3hJal9QZlFXcWdsdHZHZVBzNmM3OER0OU9Gdzl1MFpnWjZhN2c2RWJfZllr?oc=5",
       "description": "Could milk-derived nanoparticles change bile duct cancer care? Mayo Clinic News Network",
       "source": "Mayo Clinic News Network",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-15T07:00:00+00:00",
-      "published_display": "15 Jul 2026",
-      "category": "Other",
-      "official_source": false
-    },
-    {
-      "id": "f77778b683a5b6be2f0e",
-      "company": "Mayo Clinic Laboratories",
-      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
-      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
-      "source": "Yahoo Finance",
       "source_domain": "news.google.com",
       "published_at": "2026-07-15T07:00:00+00:00",
       "published_display": "15 Jul 2026",
@@ -5632,6 +5703,20 @@
       "source": "pluang.com",
       "source_url": "https://pluang.com",
       "source_domain": "pluang.com",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "published_display": "08 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "1cace15361b6bbee9fa2",
+      "company": "Mayo Clinic Laboratories",
+      "title": "AI helps doctors estimate your heart’s ‘age’ - WDBJ7",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRmhyYkg5eUdkTFRWOUo5VHJqdmpvblpPb25zY0hfN2FmNEpza1dOVkNOOXBDMGxoUy1NNG9FX0VWbE8tX0FHajJfWU9UR1pjZ2UySklNZjA4a3M0elhrRGpCbnpyeWF1YndDWXcwQmVFS2gwSTk5RHhiZUZ3Rm8xbQ?oc=5",
+      "description": "AI helps doctors estimate your heart’s ‘age’ WDBJ7",
+      "source": "WDBJ7",
+      "source_url": "https://www.wdbj7.com",
+      "source_domain": "wdbj7.com",
       "published_at": "2026-07-08T07:00:00+00:00",
       "published_display": "08 Jul 2026",
       "category": "Product / Innovation",

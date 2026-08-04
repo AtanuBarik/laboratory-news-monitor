@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-08-04T13:22:52.092143+00:00",
-  "checked_at_display": "04 Aug 2026, 13:22 UTC",
-  "status": "email_failed",
-  "repository_updated": "04 Aug 2026, 13:22 UTC",
-  "new_item_count": 34,
+  "checked_at": "2026-08-04T13:35:00.361981+00:00",
+  "checked_at_display": "04 Aug 2026, 13:35 UTC",
+  "status": "test_email_sent",
+  "repository_updated": "04 Aug 2026, 13:34 UTC",
+  "new_item_count": 41,
   "email_item_count": 5,
   "provider": "brevo",
   "recipient_count": 1,
-  "error": "Brevo returned HTTP 400: {\"code\":\"invalid_parameter\",\"message\":\"valid sender email required\"}\n"
+  "sender_name": "Quest Updates"
 }

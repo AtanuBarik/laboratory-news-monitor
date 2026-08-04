@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 04 Aug 2026, 13:22 UTC
+- **Repository generated:** 04 Aug 2026, 13:34 UTC
 - **Articles in this file:** 126
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
@@ -908,7 +908,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
-- **Published at (UTC):** 2026-07-24T09:37:40+00:00
+- **Published at (UTC):** 2026-07-24T07:00:00+00:00
 - **Source:** simplywall.st
 - **Source domain:** simplywall.st
 - **Category:** Product / Innovation
