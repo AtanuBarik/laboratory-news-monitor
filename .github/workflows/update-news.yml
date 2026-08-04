@@ -32,6 +32,9 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          # Full history is required when the workflow rebases before pushing.
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v6
@@ -57,14 +60,44 @@ jobs:
         run: python scripts/email_new_items.py
 
       - name: Commit updated data and notification state
+        shell: bash
         run: |
-          if git diff --quiet -- data/news.json data/notified_ids.json data/email_status.json knowledge; then
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage first so newly created state files are detected as changes.
+          git add data/news.json data/notified_ids.json data/email_status.json knowledge
+
+          if git diff --cached --quiet; then
             echo "No repository changes to commit."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/notified_ids.json data/email_status.json knowledge
           git commit -m "Update laboratory news and email state"
-          git push
+
+          # The main branch can change while news is being collected. Rebase the
+          # generated-data commit onto the latest main branch before pushing.
+          # Retry when another commit lands between the rebase and push.
+          for attempt in 1 2 3; do
+            echo "Push attempt ${attempt} of 3"
+            git fetch origin main
+
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "The generated files conflicted with newer changes on main. Start a new workflow run."
+              exit 1
+            fi
+
+            if git push origin HEAD:main; then
+              echo "Repository update pushed successfully."
+              exit 0
+            fi
+
+            echo "Main changed again before the push. Retrying..."
+            sleep $((attempt * 2))
+          done
+
+          echo "Unable to push after three attempts."
+          exit 1
