@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T14:05:06.396152+00:00",
-  "generated_at_display": "04 Aug 2026, 14:05 UTC",
-  "item_count": 472,
+  "generated_at": "2026-08-04T14:33:55.841440+00:00",
+  "generated_at_display": "04 Aug 2026, 14:33 UTC",
+  "item_count": 477,
   "failures": [],
   "items": [
     {
@@ -137,6 +137,20 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTBxNVd3MDE5MXJadjBmbzJkSGYxT0xFbkg5bmxLOW1GejFTR1pLWGlKakpzc0NIOWNkSlFOUGh1MWxGYUk4eUtfVFhTanFkOWVaZnlsUnNVQ3FGY0VNYWZTNXVpUU4yR3pWbmNOcmRmdXJ3bUhldzRRd0dQM1haYkdHYWU1ZFl2RVNHUEY1Qnp0a0w1b0JBMk9DQlpHQQ?oc=5",
       "description": "14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care The Business Journals",
       "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "source_domain": "bizjournals.com",
+      "published_at": "2026-08-04T10:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "884f242f158a7b230de6",
+      "company": "Mayo Clinic Laboratories",
+      "title": "14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care - bizjournals.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTBxNVd3MDE5MXJadjBmbzJkSGYxT0xFbkg5bmxLOW1GejFTR1pLWGlKakpzc0NIOWNkSlFOUGh1MWxGYUk4eUtfVFhTanFkOWVaZnlsUnNVQ3FGY0VNYWZTNXVpUU4yR3pWbmNOcmRmdXJ3bUhldzRRd0dQM1haYkdHYWU1ZFl2RVNHUEY1Qnp0a0w1b0JBMk9DQlpHQQ?oc=5",
+      "description": "14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care bizjournals.com",
+      "source": "bizjournals.com",
       "source_url": "https://www.bizjournals.com",
       "source_domain": "bizjournals.com",
       "published_at": "2026-08-04T10:00:00+00:00",
@@ -290,6 +304,20 @@
       "description": "All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll Post Bulletin",
       "source": "Post Bulletin",
       "source_domain": "news.google.com",
+      "published_at": "2026-08-04T05:02:39+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "a98b9e1ff466151bf383",
+      "company": "Mayo Clinic Laboratories",
+      "title": "All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - postbulletin.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWpuV1JLLV9SYThTQUY4TmZqLXI4VDA0RUU3SHQtd0FYNGo5MmhxOWVtNXFuXzhLTlVkQnItYWxaTDM0ZXZaeDV4bTVJMGlnNFRMQTVoYnIwalkxVXJwMkRhZC1MQU9kMEZDOUxPbm1YVVcxenBMV2pJVE9Kb0pyX3hnOGV6aENMOWtJUFBaT1JZbGVScWU0WjRXMC1xc2ZmR09hRHlaUmhfYmNiMXliVV9jb0VTNURlWHBzUHVWRzFzdw?oc=5",
+      "description": "All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll postbulletin.com",
+      "source": "postbulletin.com",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
       "published_at": "2026-08-04T05:02:39+00:00",
       "published_display": "04 Aug 2026",
       "category": "Other",
@@ -463,6 +491,20 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRldMdXhLZm40ZGZpV283VkZLUTNRYVFmazFGcE1pbHhzODJ2d3FyNmEzb2FWYW0wOWtDTEtzVjEwMUpfU0NVOERSSzFVTk9QTnFuNHR4ZlQ1bWtzV1pLYWtRVDlDRWRKSFhzZkVOeElDTFVqSzdtZktWUkNfTG5vQ2JodndKUzNzcGQybl8zMllFa2Y0Z1Rkdk1mZkh6anNleXMw?oc=5",
       "description": "Mayo Clinic seeks to dismiss former employee's retaliation lawsuit Post Bulletin",
       "source": "Post Bulletin",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
+      "published_at": "2026-08-03T20:53:47+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "7535d64f54ad784f690f",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - postbulletin.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRldMdXhLZm40ZGZpV283VkZLUTNRYVFmazFGcE1pbHhzODJ2d3FyNmEzb2FWYW0wOWtDTEtzVjEwMUpfU0NVOERSSzFVTk9QTnFuNHR4ZlQ1bWtzV1pLYWtRVDlDRWRKSFhzZkVOeElDTFVqSzdtZktWUkNfTG5vQ2JodndKUzNzcGQybl8zMllFa2Y0Z1Rkdk1mZkh6anNleXMw?oc=5",
+      "description": "Mayo Clinic seeks to dismiss former employee's retaliation lawsuit postbulletin.com",
+      "source": "postbulletin.com",
       "source_url": "https://www.postbulletin.com",
       "source_domain": "postbulletin.com",
       "published_at": "2026-08-03T20:53:47+00:00",
@@ -3642,7 +3684,7 @@
       "source": "simplywall.st",
       "source_url": "https://simplywall.st",
       "source_domain": "simplywall.st",
-      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_at": "2026-07-24T09:37:40+00:00",
       "published_display": "24 Jul 2026",
       "category": "Product / Innovation",
       "official_source": false
@@ -5154,6 +5196,20 @@
       "official_source": false
     },
     {
+      "id": "8c247b8f5f1fdf9b987a",
+      "company": "Mayo Clinic Laboratories",
+      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
+      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "published_display": "16 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "6f7b311721b836a91e62",
       "company": "Mayo Clinic Laboratories",
       "title": "Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network",
@@ -5164,20 +5220,6 @@
       "published_at": "2026-07-15T15:09:38+00:00",
       "published_display": "15 Jul 2026",
       "category": "Product / Innovation",
-      "official_source": false
-    },
-    {
-      "id": "8c247b8f5f1fdf9b987a",
-      "company": "Mayo Clinic Laboratories",
-      "title": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNczN6ZHp4YjNYMk94SmdsSzdiUWM4cFh4WkgwaWdPWjMxRHlmQS02Y3JZeU9IWEhIcVJXX2M1OEpTMTRmd2oyQWt4QmFwbS1NbDRDS1JJbVVIYkVfWk5ZUHBaRkdyRFBPMEdhbXpKSEtJNkZQLXdmU0dTdVQ3NEpwVThnMlVCbm0tQW11UE16eGNsTENrNXRrMFRvYW1peHJibUFRXw?oc=5",
-      "description": "GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-15T07:00:00+00:00",
-      "published_display": "15 Jul 2026",
-      "category": "Other",
       "official_source": false
     },
     {
@@ -5791,6 +5833,20 @@
       "official_source": false
     },
     {
+      "id": "da1cb721b4a2c931a587",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic launches research initiative with goal of disease prevention, early cures - postbulletin.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSldWdXByMXVlTVlBdEktc0gxU3dwa1NBakYzTlVNUlVJUHRKTjNJaWpTQ3NSSElKM0dTT0E1S0JZNU5hRFZnRVZWVFhFX1dMUEd5QVNtdVNQdGN1Tm9wMjhSUTc3ZVp3MTMyTmJ3dVN4MzRYQlRtQmFvazhBRkw5VDNHWGpRYXZFUXgyckttNlVxZTEtNXY2NUkwX1ZzUW0zRndNVkJXSGNhMFlwbHgtbGlCZjZRWUtKZU1LWA?oc=5",
+      "description": "Mayo Clinic launches research initiative with goal of disease prevention, early cures postbulletin.com",
+      "source": "postbulletin.com",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "99d794c0f65d9c2c645c",
       "company": "Mayo Clinic Laboratories",
       "title": "GE HealthCare, Mayo Clinic begin new theranostics trial in Minnesota - AuntMinnie",
@@ -6084,6 +6140,20 @@
       "published_at": "2026-07-08T07:00:00+00:00",
       "published_display": "08 Jul 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "3922e974faf344c790db",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic, GE HealthCare team up on prostate cancer research - postbulletin.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYndGYkZsWUM4a0pLUGhGMlZVUHhNbl9ZLXlMWEJJMjVaLTZGOE13UjFHT1ZmazAyRkh3YWtiWG9NdEpwQlkzNWxzYl9BWmpPQmxpaWhZeVJUdUpibTdZWm13RFN6ZzBNRXU5dXI0UHFQMGk1aF9sTV94dzBWWXlEREl2eDFDYUQzZWN4UVN1MjE1TW1PMFVlM0pWb2hTUQ?oc=5",
+      "description": "Mayo Clinic, GE HealthCare team up on prostate cancer research postbulletin.com",
+      "source": "postbulletin.com",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "published_display": "08 Jul 2026",
+      "category": "Research / Clinical",
       "official_source": false
     },
     {
