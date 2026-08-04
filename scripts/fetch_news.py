@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch Bing News RSS feeds and create data/news.json.
+"""Fetch Google News RSS feeds and create data/news.json.
 
 Uses only Python's standard library, so GitHub Actions does not need
 to install any additional package.
@@ -135,7 +135,6 @@ def fetch_feed(query: str) -> bytes:
     """Retrieve recent news through Google News RSS."""
 
     google_query = f"{query} when:30d"
-
     params = urllib.parse.urlencode(
         {
             "q": google_query,
@@ -144,7 +143,6 @@ def fetch_feed(query: str) -> bytes:
             "ceid": "US:en",
         }
     )
-
     url = f"https://news.google.com/rss/search?{params}"
 
     request = urllib.request.Request(
@@ -155,10 +153,7 @@ def fetch_feed(query: str) -> bytes:
                 "AppleWebKit/537.36 (KHTML, like Gecko) "
                 "Chrome/151.0.0.0 Safari/537.36"
             ),
-            "Accept": (
-                "application/rss+xml, application/xml, "
-                "text/xml, */*"
-            ),
+            "Accept": "application/rss+xml, application/xml, text/xml, */*",
         },
     )
 
@@ -176,7 +171,7 @@ def parse_feed(company: str, xml_bytes: bytes, official_domains: set[str]) -> li
         description = clean_text(child_text(item, "description"))
         published_raw = child_text(item, "pubDate")
         published = parse_date(published_raw)
-        source = child_text(item, "Source")
+        source = child_text(item, "source")
 
         domain = source_domain(url)
         if not source:
@@ -227,7 +222,7 @@ def main() -> int:
             ):
                 merged[item["id"]] = item
             print(f'Fetched {tracker["company"]}', file=sys.stderr)
-        except Exception as exc:  # continue other feeds if one source fails
+        except Exception as exc:
             failures.append(f'{tracker["company"]}: {exc}')
             print(f'Warning: {tracker["company"]}: {exc}', file=sys.stderr)
 
@@ -254,16 +249,13 @@ def main() -> int:
     OUTPUT.write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {len(items)} items to {OUTPUT}", file=sys.stderr)
 
-    # Do not fail the workflow if one feed is temporarily unavailable and
-    # previously collected data still exists.
     if not items:
-    print(
-        "No articles were collected. Review the failures field "
-        "inside data/news.json.",
-        file=sys.stderr,
-    )
+        print(
+            "No articles were collected. Review the failures field inside data/news.json.",
+            file=sys.stderr,
+        )
 
-return 0
+    return 0
 
 
 if __name__ == "__main__":
