@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T13:34:57.919904+00:00",
-  "generated_at_display": "04 Aug 2026, 13:34 UTC",
-  "item_count": 444,
+  "generated_at": "2026-08-04T14:03:58.155065+00:00",
+  "generated_at_display": "04 Aug 2026, 14:03 UTC",
+  "item_count": 450,
   "failures": [],
   "items": [
     {
@@ -1565,6 +1565,20 @@
       "official_source": false
     },
     {
+      "id": "e16f34126ca3eb5bfdd3",
+      "company": "Labcorp",
+      "title": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations - barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5",
+      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations barchart.com",
+      "source": "barchart.com",
+      "source_url": "https://www.barchart.com",
+      "source_domain": "barchart.com",
+      "published_at": "2026-07-30T12:21:26+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "8ec9ae82dd070a4418ef",
       "company": "Labcorp",
       "title": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations - The Globe and Mail",
@@ -1820,6 +1834,20 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5",
       "description": "Labcorp: Q2 Earnings Snapshot KTVB",
       "source": "KTVB",
+      "source_url": "https://www.ktvb.com",
+      "source_domain": "ktvb.com",
+      "published_at": "2026-07-30T10:58:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "37a816ddb22c0a3df671",
+      "company": "Labcorp",
+      "title": "Labcorp: Q2 Earnings Snapshot - ktvb.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5",
+      "description": "Labcorp: Q2 Earnings Snapshot ktvb.com",
+      "source": "ktvb.com",
       "source_url": "https://www.ktvb.com",
       "source_domain": "ktvb.com",
       "published_at": "2026-07-30T10:58:00+00:00",
@@ -4543,6 +4571,20 @@
       "official_source": false
     },
     {
+      "id": "329bcdfcf292dd4a6da9",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic maps hidden biology of common brain tumors - UnionLeader.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYmxEV0pLTEYtT2VJY3loTzA2cGExUjRfSWllcHRhY3BhcC1FMVNDWlp6V0NGOTVudjFFOGNjOEQzdGo2MnpQRFV0VGlmNjcwc2dYa0ozSVYxemNGdFJOQWdmb3ZWMEg5eFl1NWxNUHlUMVhhWGFYYkRteGtoOUl5ekpNbzdKNGFOaWdQaDIxT0hqLWtsV3pyNVl0QUVTV2xzMVNXWXZSQWwtWi0yZk5VR1VBMlJRbkJ3ZGg1eENZM18tb29uR0JKaWNqd2hHT2ZzSHdwTjduT0JDZkpW?oc=5",
+      "description": "Mayo Clinic maps hidden biology of common brain tumors UnionLeader.com",
+      "source": "UnionLeader.com",
+      "source_url": "https://www.unionleader.com",
+      "source_domain": "unionleader.com",
+      "published_at": "2026-07-20T21:00:00+00:00",
+      "published_display": "20 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "ea0cd90f0881485f5abe",
       "company": "ARUP Laboratories",
       "title": "ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma - PR Newswire",
@@ -4657,6 +4699,20 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-19T07:00:00+00:00",
       "published_display": "19 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "24fbbfe2986a3915cadb",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Oncology Review 2026 - Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGU1RCTTZaazJQNU81NU1ObXlmeG95UmkwS0k3cHFxMG9kV203NkZJdFo4dnBnNnhWc1NFbHBFOTBZWWpqY0I5aUNBOUI2a3M3ZkRRXzAyS250dw?oc=5",
+      "description": "Mayo Clinic Oncology Review 2026 Oncodaily",
+      "source": "Oncodaily",
+      "source_url": "https://oncodaily.com",
+      "source_domain": "oncodaily.com",
+      "published_at": "2026-07-18T07:00:00+00:00",
+      "published_display": "18 Jul 2026",
       "category": "Other",
       "official_source": false
     },
@@ -5197,6 +5253,20 @@
       "published_at": "2026-07-10T06:50:23+00:00",
       "published_display": "10 Jul 2026",
       "category": "M&A / Investment",
+      "official_source": false
+    },
+    {
+      "id": "45746ed16966e24b78ad",
+      "company": "Mayo Clinic Laboratories",
+      "title": "GE HealthCare and Mayo Clinic collaborate on novel cancer treatment research study - MassDevice",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcUk5Qnh6dkhuQUI0ZVRvUEttY0pZS2JTdV9vbmxmdFJralFCTTBiVzcwQVdHUzMzQU5DNmFVOS1xRHRXOFhwd1JjeEhNcjc3bEhtYmlsRWtuNDdOd1plVF9FQnNRRFplSWlCTEJZMS12WkRLMExHRklvdkl2TW91eFlJYlNmMllfUGxKN2FEakNmSjV6cU5kY1JZNld6dw?oc=5",
+      "description": "GE HealthCare and Mayo Clinic collaborate on novel cancer treatment research study MassDevice",
+      "source": "MassDevice",
+      "source_url": "https://www.massdevice.com",
+      "source_domain": "massdevice.com",
+      "published_at": "2026-07-09T18:31:54+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Research / Clinical",
       "official_source": false
     },
     {
@@ -5799,6 +5869,20 @@
       "published_display": "07 Jul 2026",
       "category": "Product / Innovation",
       "official_source": false
+    },
+    {
+      "id": "ed235a4cad90d56095a1",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Type 2 diabetes over time: What to expect as you age - Mayo Clinic Press",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYk1SU0NvREpHcm5WMEtiT3pBdGVWRHVVUWZjbzE2WGE4NTZaVUdGZGJQTWN5RXdBWUZYTlAzdVFxMnlUM2dvV3pSN2ZiNTNibEQ2SzlPTFhQTnBGNEUxbExXb256ZlJFTkZZejIyaGRHMTdSeEhlQm9TZDN4bGZPUjh6enZpZXkwT2VoNEsyd292b0RFM1h3?oc=5",
+      "description": "Type 2 diabetes over time: What to expect as you age Mayo Clinic Press",
+      "source": "Mayo Clinic Press",
+      "source_url": "https://mcpress.mayoclinic.org",
+      "source_domain": "mcpress.mayoclinic.org",
+      "published_at": "2026-07-07T07:00:00+00:00",
+      "published_display": "07 Jul 2026",
+      "category": "Other",
+      "official_source": true
     },
     {
       "id": "a85a47dff49cd3b1abfd",
