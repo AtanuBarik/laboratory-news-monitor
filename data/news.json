@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T14:03:58.155065+00:00",
-  "generated_at_display": "04 Aug 2026, 14:03 UTC",
-  "item_count": 450,
+  "generated_at": "2026-08-04T14:05:06.396152+00:00",
+  "generated_at_display": "04 Aug 2026, 14:05 UTC",
+  "item_count": 472,
   "failures": [],
   "items": [
     {
@@ -81,6 +81,20 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2MyLVZFVDlyVGwxWjdpWmFiQ2NtTHNnQVMyT3FyWjhvRWRncWJzMU1pMWZqcjV1MWlfM1c3RmtFeTM4TUdZSjVxZ2sxcFBxZjdaNHVjUFBFUjRFX0ViWGhuRDFGNDBtWEhSRm5QQ0UxS0dabXlWS2ItdzQzbDg1Q293Y2xtQlFWZ3B0UTBvM0ZzVWRXSE9MNHpBSjFzNWpMNEpyei00M0pzUGw4MHZIYjkwYVJfanJONkdibnd3?oc=5",
       "description": "Labcorp Test May Identify Prostate Cancer Patients for TRUQAP Stock Titan",
       "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-08-04T11:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "c01f233ebea26ada5610",
+      "company": "Labcorp",
+      "title": "Labcorp Test May Identify Prostate Cancer Patients for TRUQAP - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPN2MyLVZFVDlyVGwxWjdpWmFiQ2NtTHNnQVMyT3FyWjhvRWRncWJzMU1pMWZqcjV1MWlfM1c3RmtFeTM4TUdZSjVxZ2sxcFBxZjdaNHVjUFBFUjRFX0ViWGhuRDFGNDBtWEhSRm5QQ0UxS0dabXlWS2ItdzQzbDg1Q293Y2xtQlFWZ3B0UTBvM0ZzVWRXSE9MNHpBSjFzNWpMNEpyei00M0pzUGw4MHZIYjkwYVJfanJONkdibnd3?oc=5",
+      "description": "Labcorp Test May Identify Prostate Cancer Patients for TRUQAP stocktitan.net",
+      "source": "stocktitan.net",
       "source_url": "https://www.stocktitan.net",
       "source_domain": "stocktitan.net",
       "published_at": "2026-08-04T11:00:00+00:00",
@@ -830,6 +844,20 @@
       "official_source": false
     },
     {
+      "id": "3d3cdb36c05cfaf56b60",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Inc. stock underperforms Friday when compared to competitors - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPb2dwWmpMVFNQRnQzMDFKZkVsb2h2eVlucVE3MG1rdGF3dlZyVEtWV3hXUlFWWnR4dFJ6UVFIektNeHczLUJSai0tSVZNdFBLd3YtU1VabjhMYmdVeEw3ZHdPNlR5MVFEaTI4Z2lqYTRjdGd6STk2OXN0RVhTeEowR3VNaTdjNl9hc2tiR2pJOHJIS1doM2lGNnZ0WUhuRFV3cFJjN1phdTQ2ZGIwbUE0M0JsX2hyTHJKZS1qdTJ6TFpYVXE3X1RTc0toMFd2NmlfT2x5aW9ld09iOThFQVM5NnpCUWtRSHNaaUE?oc=5",
+      "description": "Labcorp Holdings Inc. stock underperforms Friday when compared to competitors marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-31T21:01:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "0346702322e6c9b2fdb2",
       "company": "Labcorp",
       "title": "Labcorp Holdings Price Target Raised to $338.00/Share From $308.00 by Morgan Stanley - Moomoo",
@@ -1249,6 +1277,20 @@
       "official_source": false
     },
     {
+      "id": "185feba5bb417c921ef3",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPM2N5Y3FzQ2M3b1dzRTlVbExMYkVYLUdoRDQyTDl2SldCdzVTVFdOSkxfLWxLcm5yeTZwWjNvZVNqOTQ1MGZYMExKNVIwTWN6bnJMVXFpTW10bFJCbVg1SHNEamxfMmpiT2hWNzBoV21OaV9UU2JvNXdzZWNacXFCSkdueTJ2c2NZelFCaXFadDNrT0JTWmk2MmtVLUJtVlhCQlRrbFNCSUFtVG1xelNWeHRKSEVQZ08wNThLQ2g5ajJSU3ZEM3pMMDAyTWs?oc=5",
+      "description": "Labcorp Holdings Inc. stock outperforms competitors on strong trading day marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-30T21:03:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "d4050300b34bafe6bc28",
       "company": "Labcorp",
       "title": "Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance - Pluang",
@@ -1308,6 +1350,20 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
       "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
       "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-07-30T20:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "2de7de8c970e37826767",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com",
+      "source": "fortune.com",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
       "published_at": "2026-07-30T20:00:00+00:00",
@@ -1467,6 +1523,20 @@
       "description": "Labcorp raises annual profit forecast on strong testing demand Reuters",
       "source": "Reuters",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T14:39:04+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "63160bd08dc07b8870e2",
+      "company": "Labcorp",
+      "title": "Labcorp raises annual profit forecast on strong testing demand - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
+      "description": "Labcorp raises annual profit forecast on strong testing demand reuters.com",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "source_domain": "reuters.com",
       "published_at": "2026-07-30T14:39:04+00:00",
       "published_display": "30 Jul 2026",
       "category": "Other",
@@ -1722,6 +1792,20 @@
       "official_source": false
     },
     {
+      "id": "98390194953e163db382",
+      "company": "Quest Diagnostics",
+      "title": "Bacterial vaginosis patients were over 3x more likely to have an STI - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTkQ5OGJadl80X1l5RVhybWVHU3J3WGh2ZHFZMU04Q1FrX3VmRDNTMnRPbFFES2NWNXpyY0VCcHFiUmNUVVh6THNYLUJFMnl1U2h6YzJ5bi1KWV9FUjlKbGZobV9lOVM3eXE3eTh3MmhxZ1BDVEplekdLU2R3SHY0QWdZdFpXWDlpQU02UFFrYnJndEFMVkctbkdnc1hyajUycUZpTWFoNVFaMXhLQ3ZDRnN0UkpsSTQ?oc=5",
+      "description": "Bacterial vaginosis patients were over 3x more likely to have an STI stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-30T11:30:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "d859ee78fa648c9f34a4",
       "company": "Labcorp",
       "title": "Labcorp raises annual profit forecast on strong testing demand - tradingview.com",
@@ -1896,6 +1980,20 @@
       "official_source": false
     },
     {
+      "id": "226e04e068ee8a826a83",
+      "company": "Labcorp",
+      "title": "Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5",
+      "description": "Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-30T10:53:41+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "5cdd1b73cec13ea8be34",
       "company": "Labcorp",
       "title": "BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million - tradingview.com",
@@ -1943,6 +2041,20 @@
       "description": "Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5% Stock Titan",
       "source": "Stock Titan",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T10:50:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "9b98ffdb40250d2ddc78",
+      "company": "Labcorp",
+      "title": "Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5% - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lrVXF2T2QwTGEyYzBHRGxDZGtDLUtDVWZUQl92c1JnN0tsbWlHT3JwZlRTdklCNy1QUms5REJwMkNPb0x4V21JclBHamoxNDlRT05vVHlYMEt5dHF4ZjllRFB2UE02SzFrMmktVzk3NUdCanZScFc3THhZMVRCbzk1RHFKOGV4MlhMN1JEWHhOUFcyZ3lmelBVT0NkLWpuNVVoMlF0T25BQzNvWGV4bG01THc4dGJHYk13VA?oc=5",
+      "description": "Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5% stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
       "published_at": "2026-07-30T10:50:00+00:00",
       "published_display": "30 Jul 2026",
       "category": "Other",
@@ -2253,6 +2365,20 @@
       "official_source": false
     },
     {
+      "id": "66fffef00d64a6fb975b",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Inc. stock underperforms Wednesday when compared to competitors - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUUxWQjIzTDdvT29hZFRpcTVldUJWMC0wSjZvNGJmalNZblpudXFHNGdpZnpMM0VUaUpvS1VncmpGbkEwUDRKZlpxOG9HaHNsc25HOWhWbC1KYWFMNk50dHROTVNwcFZ4YUMzdzVxSEVnMk9BN3hCSlBxZXRESGZxajdfc0pGLVI4TEJjQW85YnBqVFdTdVR4Ni1LVmQwSzI5V2I1UjVpUzN1S2JNTkJmN2t4MjdWQmtPZGZZTUl3LXFwNEItNmxzN1VrSS13ajJzQVc1UHhB?oc=5",
+      "description": "Labcorp Holdings Inc. stock underperforms Wednesday when compared to competitors marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-29T21:03:00+00:00",
+      "published_display": "29 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "c83073bd696b84944986",
       "company": "Labcorp",
       "title": "What To Expect From Labcorp’s (LH) Q2 Earnings - Yahoo Finance",
@@ -2475,6 +2601,34 @@
       "official_source": false
     },
     {
+      "id": "f0167e057ec1ca1e34cf",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Inc. stock underperforms Tuesday when compared to competitors despite daily gains - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPRmJPSXVrX3NrZXhQOFZ5QzhhbjdvclZUdTE2Ynlob1JvSnJpYVp4TTFCZW1sVmxKdi1laUhSU05YZUd0YWl3eW02cExlV2lCR0Z4Y0NZWjcyUzJaMHdvZEN4QXlKMk4yLU1GeDM5SXFiN0tvR3BYX3BqTzVwUjFJNVRiZHJIRkVWSWlYUFEtYUJ4LTZPOGpKajZGUjRwNUp4amhGdE5Ra1JlVWI0RjZfOFJDRGYxTFZzY2RibzZhZTlFdHNHME50Z1NJVHNaUlFweVl1Q2E4ODlVOWJKVHVWVUZ1ZjRESzhrSnpUNVZ3?oc=5",
+      "description": "Labcorp Holdings Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-28T21:02:00+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "0c99250aa6f1816259da",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-28T21:02:00+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "38b006c68733ef6f4cdd",
       "company": "Mayo Clinic Laboratories",
       "title": "How to manage IBS and IBD - Mayo Clinic Press",
@@ -2522,6 +2676,20 @@
       "description": "Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares Stock Titan",
       "source": "Stock Titan",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-28T13:46:42+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "M&A / Investment",
+      "official_source": false
+    },
+    {
+      "id": "7397991e4715c0e0f013",
+      "company": "Quest Diagnostics",
+      "title": "Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcllLUnljOFlKT2NUT1Jvbm5qVXlpS3R5N21yR2d3UlF3dG00Nm1qMWtTYVJGNWlFc21NUWdKVWh3MlJWeXkyZ1c1ZFo1SFhRSE1hdnB2TFhtcWRnUVlRbXFrUmpLdHZLbl8za0d2dk45RS1ZSjk3R2poNjZVdm44SXAzQjgzWjVkcXdmZ1hGZW10b01XeGk2bjBQTUg2UQ?oc=5",
+      "description": "Insider at DGX (NYSE: DGX) plans sale of 1,600 common shares stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
       "published_at": "2026-07-28T13:46:42+00:00",
       "published_display": "28 Jul 2026",
       "category": "M&A / Investment",
@@ -2766,6 +2934,20 @@
       "official_source": false
     },
     {
+      "id": "a57b2617881db7103c0c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmIwcDZvNTAwTVNkMjB1MThjT3M1TGszTWFVSzRoSXhiNy1TZUtETkJJVnBkamlUTzBjTGtnbFRfS3ZaMGJLUE0zdzNkUHRuQ0hYVkZ5RDVxc2dGRWJRWTE0VmZDaFh4czFaWkx4LXgzek1JZDh4QktLSjZxNHhiQTFzOHA4TTAtMFNxUWpNWHVDNHdlQ2xtNFlPUkRrdTBzalE1bUpCajRfUjVGZzV6Y3ZYbVZLMlE1VGpzWFlrOW1MREYtbFlsUG1XSGRxZw?oc=5",
+      "description": "Quest Diagnostics Inc. stock outperforms competitors on strong trading day marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-27T21:02:00+00:00",
+      "published_display": "27 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "c7d79c5f2e6898575bca",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan - Stock Titan",
@@ -2773,6 +2955,20 @@
       "description": "Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan Stock Titan",
       "source": "Stock Titan",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-27T20:36:06+00:00",
+      "published_display": "27 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "872172ca269e62627c8a",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjdUSWUxSEpXRG5XbHpGbFE0UUt5N2tnNUFiNllWRDFXVjRBX0NQNzlKaTFJTnFfUWR4QzI5N0swMzlBWUlwRlR5b3BFRUdXUWd2ekxGQnZhVEVldVdXU0ktQ1JMRkVxVkpsOWNwSFJIM2RJanRCMGhLLVlmNmtmcnVvYXB2djN1UXVDbjFyS1pzcVJmbFI5N0dtaHpIX0NZaHhaTkE1X0EwTGM5YXZwU0l6RzI?oc=5",
+      "description": "Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
       "published_at": "2026-07-27T20:36:06+00:00",
       "published_display": "27 Jul 2026",
       "category": "Financial",
@@ -3028,6 +3224,34 @@
       "official_source": false
     },
     {
+      "id": "5f951b579de2cb463f97",
+      "company": "Labcorp",
+      "title": "Labcorp's New Test Pairs Inherited-Risk Results With Counselor Support - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXFYNXdEY1ZlM2c4RjNXaFZzNWVyX2pqN0NYVzNqVUVTWDkyZUQxMDJTS1RHLWpKYWx1c2RYZ1VqWnBTTW5NckZCSXZXU25WTXgwV1lqR2ZpamFyRWd1RFVuX0JnQzNvWS1FaWJoZ1I1M04tY1lrNk12R2V2dkY4d3R4VGNndkhkYUNwZFVnNWN4LUp1UHpRa2x3Z3FNN2lYY3FLbVhHdmhLbTRNVldseTZpcUNnS1RGSnNkbG1R?oc=5",
+      "description": "Labcorp's New Test Pairs Inherited-Risk Results With Counselor Support stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "2978c439002ddece0f88",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR0xtX2h2bTNsQTAwYXNCbkgtRUJabWNPVGwwQktMd1JVWWxQM01zZjFrSWdEeUF2SmFRd3NjVDE1SHM1ampZZVNHQkd3OGZOWjc3SjlKdktBZlZBbndJNTlwZk9ERVhqQTlyX01QQVNrT0NnZWc0T2I5alotbEhLTlV2WHE1a3FsSS0zMXo3bHVxU01EM2pOMUJ5bHNJRkg1RTQ1RktSX1dTM2dXbzZlYzZzTjU?oc=5",
+      "description": "Quest Diagnostics (NYSE: DGX) SVP acquires 34.0000 shares via dividend reinvestment stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "8ca274270722db7fbdfa",
       "company": "Mayo Clinic Laboratories",
       "title": "Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - KTTC | Rochester, MN",
@@ -3160,6 +3384,20 @@
       "official_source": false
     },
     {
+      "id": "ae687f5bbf607c218863",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript - fortune.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+      "description": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript fortune.com",
+      "source": "fortune.com",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-07-26T02:02:52+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
@@ -3272,6 +3510,20 @@
       "description": "Labcorp Holdings Inc. stock outperforms competitors on strong trading day MarketWatch",
       "source": "MarketWatch",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-24T21:03:00+00:00",
+      "published_display": "24 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "2b6ef03ddf123d78381e",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Inc. stock outperforms competitors on strong trading day - marketwatch.com",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSlB0QzAxWmozamNKcUZ5UlZZNFEtOTFVN3gtZGRwQ1ZVa2c4aV8yU2ZFSXozTVR5a19wOTNNeXJYcGRudjU0UU5tc1Y3X3Y5US1LZnE0RmRpaEFPRkl6d2F3QUp5eHFfNk05cldieWwxUENkWlZiVm5ZbzV4UU5GRDNzNlJsZldHYjNMcHRxMkdLWlZvZWREVDM3TkgyTDZSbVhDV0NNZ25EN3oxUGlDbTNBTVNya3RMWk1wV052eFkwUU9oZHlGZFAxd3o?oc=5",
+      "description": "Labcorp Holdings Inc. stock outperforms competitors on strong trading day marketwatch.com",
+      "source": "marketwatch.com",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
       "published_at": "2026-07-24T21:03:00+00:00",
       "published_display": "24 Jul 2026",
       "category": "Other",
@@ -4196,6 +4448,20 @@
       "source": "sahmcapital.com",
       "source_url": "https://www.sahmcapital.com",
       "source_domain": "sahmcapital.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "2f9d59f917aaacc580f8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics raises annual forecast on testing demand - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
+      "description": "Quest Diagnostics raises annual forecast on testing demand reuters.com",
+      "source": "reuters.com",
+      "source_url": "https://www.reuters.com",
+      "source_domain": "reuters.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
       "category": "Product / Innovation",
@@ -5511,6 +5777,20 @@
       "official_source": false
     },
     {
+      "id": "c2c8f62d43b47290dda3",
+      "company": "Labcorp",
+      "title": "Labcorp sets 72-cent dividend for Sept. 11 payout - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUZyWXlzM2NybDhOeTNoMFdjMGYyR3FISV9UNlFFZk1nNjJ0bXNzb3JOOFZjS3hDa3JucWFXUzctRXYyTUtDTDQ5YVQ4Z3Z5SGk2ZWVSY0RiZk1tQkxiSlp5d1QwOThyQXNBdHp1Q01kNEpIM3F3NFNIVlIzMjJQSHFZck9CUQ?oc=5",
+      "description": "Labcorp sets 72-cent dividend for Sept. 11 payout stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "99d794c0f65d9c2c645c",
       "company": "Mayo Clinic Laboratories",
       "title": "GE HealthCare, Mayo Clinic begin new theranostics trial in Minnesota - AuntMinnie",
@@ -5793,6 +6073,20 @@
       "official_source": false
     },
     {
+      "id": "e5191208329c82c01271",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ0ZNajktZm5WWHpXMU14LU9paFRKTDIwUEVBNDh4SXBXOC1iTWhIaG9SZkFHbzNkWGkyU2tzaXpfSjNzWFpIelBjaHBrd3VOYnhPZzhPRHJSbVNGSWRRaVhHam5hSExERUJGaG1tSUQ0RFRsekxxZXNWNFQxbHNnOEJPOVNwNlQzbldlbFR1RkxxdXpydlVlUnp3SkNZb3lndURGTHlRZlNpOE5UTVFQNFdGdTZ6OU1MWUdVaw?oc=5",
+      "description": "Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "published_display": "08 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "2dce894bab5c4485412f",
       "company": "Mayo Clinic Laboratories",
       "title": "Expanding eligibility for liver surgery through perioperative optimization - Mayo Clinic",
@@ -5948,6 +6242,20 @@
       "published_at": "2026-07-06T07:00:00+00:00",
       "published_display": "06 Jul 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "a824f7ee05a4f11dc496",
+      "company": "Labcorp",
+      "title": "Labcorp (LH) EVP sells shares after RSU vesting under Rule 10b5-1 plan - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcE5reXE4dUhaQ3cxUzBlc1hEQ3d6VzhqOFpZQjlWU2I4SGs0QXZ2SDZnWXdFM010SExBSEJjdHQzaW4zWlFIbHFuY0NybU1BU2c2Y3E3WUswOWVJdTdSV1EyR2QzSlZXTjRtLUhuTFc4RnM1Y0lxX0Zid2VJZkNfcmVWd2FIZ2VnUHRSdHJ5U0xRdnZ5aUs1c2I4b0VoLWNWelM4djM3em1NNFd4cjZyS0ln?oc=5",
+      "description": "Labcorp (LH) EVP sells shares after RSU vesting under Rule 10b5-1 plan stocktitan.net",
+      "source": "stocktitan.net",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-06T07:00:00+00:00",
+      "published_display": "06 Jul 2026",
+      "category": "Other",
       "official_source": false
     },
     {

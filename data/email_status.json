@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-08-04T14:04:01.984067+00:00",
-  "checked_at_display": "04 Aug 2026, 14:04 UTC",
-  "status": "email_sent",
-  "repository_updated": "04 Aug 2026, 14:03 UTC",
-  "new_item_count": 47,
-  "email_item_count": 47,
+  "checked_at": "2026-08-04T14:05:11.667844+00:00",
+  "checked_at_display": "04 Aug 2026, 14:05 UTC",
+  "status": "test_email_sent",
+  "repository_updated": "04 Aug 2026, 14:05 UTC",
+  "new_item_count": 22,
+  "email_item_count": 5,
   "provider": "smtp",
   "recipient_count": 2,
   "sender_name": "Quest Updates"
