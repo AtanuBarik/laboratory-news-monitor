@@ -5,13 +5,11 @@
  *   GEMINI_API_KEY
  *
  * Optional Worker variable:
- *   GEMINI_MODEL (defaults to gemini-3.5-flash-lite)
+ *   GEMINI_MODEL
  *
- * This Worker reads public news from:
- *   https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json
- *
- * Do not commit a Gemini API key to GitHub. Add it in Cloudflare under:
- * Settings > Variables and Secrets > Add > Secret.
+ * The Worker reads public news from the GitHub repository, answers chat
+ * questions, and creates summaries for the exact article IDs selected by the
+ * dashboard filters. Never commit a Gemini API key to GitHub.
  */
 
 const ALLOWED_ORIGINS = new Set([
@@ -25,6 +23,9 @@ const DEFAULT_MODELS = [
   "gemini-3.5-flash-lite",
   "gemini-3.6-flash",
 ];
+
+const MAX_REQUESTED_IDS = 600;
+const MAX_CONTEXT_ARTICLES = 70;
 
 const COMPANY_ALIASES = [
   {
@@ -116,6 +117,10 @@ function articleDate(item) {
   return Number.isFinite(timestamp) ? timestamp : 0;
 }
 
+function sortByDate(items) {
+  return [...items].sort((a, b) => articleDate(b) - articleDate(a));
+}
+
 function selectArticles(items, question) {
   const companies = detectCompanies(question);
   const days = detectDays(question);
@@ -132,7 +137,6 @@ function selectArticles(items, question) {
   if (!candidates.length && companies.length) {
     candidates = items.filter((item) => companies.includes(item.company));
   }
-
   if (!candidates.length) candidates = items;
 
   const scored = candidates.map((item) => {
@@ -152,9 +156,9 @@ function selectArticles(items, question) {
     if (companies.includes(item.company)) score += 8;
     if (item.official_source) score += 1;
 
-    const ageDays = Math.max(0, (Date.now() - articleDate(item)) / 86400000);
+    const date = articleDate(item);
+    const ageDays = date ? Math.max(0, (Date.now() - date) / 86400000) : 90;
     score += Math.max(0, 4 - ageDays / 10);
-
     return { item, score };
   });
 
@@ -165,20 +169,81 @@ function selectArticles(items, question) {
 
   const relevant = scored.filter(({ score }) => score > 0);
   const selected = (relevant.length ? relevant : scored)
-    .slice(0, companies.length > 1 ? 35 : 25)
+    .slice(0, companies.length > 1 ? 40 : 30)
     .map(({ item }) => item);
 
-  return { selected, companies, days };
+  return {
+    contextItems: selected,
+    selectedItems: selected,
+    selectedTotal: selected.length,
+    companies,
+    days,
+    selectionSource: "question",
+  };
+}
+
+function selectionFromIds(items, requestedIds) {
+  if (!Array.isArray(requestedIds)) return null;
+
+  const normalizedIds = requestedIds
+    .map((value) => String(value || "").trim())
+    .filter(Boolean)
+    .slice(0, MAX_REQUESTED_IDS);
+
+  if (!normalizedIds.length) return null;
+
+  const requested = new Set(normalizedIds);
+  const selectedItems = sortByDate(
+    items.filter((item) => requested.has(String(item.id || "")))
+  );
+
+  if (!selectedItems.length) return null;
+
+  return {
+    selectedItems,
+    contextItems: selectedItems.slice(0, MAX_CONTEXT_ARTICLES),
+    selectedTotal: selectedItems.length,
+    companies: [...new Set(selectedItems.map((item) => item.company).filter(Boolean))],
+    days: null,
+    selectionSource: "dashboard_filters",
+  };
+}
+
+function countBy(items, field) {
+  const counts = {};
+  for (const item of items) {
+    const value = String(item[field] || "Unknown");
+    counts[value] = (counts[value] || 0) + 1;
+  }
+  return Object.fromEntries(
+    Object.entries(counts).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+  );
+}
+
+function selectionStats(items) {
+  const sorted = sortByDate(items);
+  const dated = sorted.filter((item) => articleDate(item));
+  return {
+    article_count: items.length,
+    company_count: new Set(items.map((item) => item.company).filter(Boolean)).size,
+    source_count: new Set(items.map((item) => item.source).filter(Boolean)).size,
+    official_source_count: items.filter((item) => item.official_source).length,
+    newest_publication: dated[0]?.published_display || dated[0]?.published_at || null,
+    oldest_publication: dated.at(-1)?.published_display || dated.at(-1)?.published_at || null,
+    company_counts: countBy(items, "company"),
+    category_counts: countBy(items, "category"),
+  };
 }
 
 function compactContext(items, generatedAt) {
   const records = items.map((item, index) => {
     const description = String(item.description || "No feed description available.")
       .replace(/\s+/g, " ")
-      .slice(0, 550);
+      .slice(0, 600);
 
     return [
       `[${index + 1}]`,
+      `ID: ${item.id || "Unavailable"}`,
       `Company: ${item.company || "Unknown"}`,
       `Headline: ${item.title || "Untitled"}`,
       `Publication date: ${item.published_display || item.published_at || "Unavailable"}`,
@@ -226,7 +291,18 @@ function modelCandidates(configuredModel) {
 }
 
 function isModelAvailabilityError(status, message) {
-  return status === 404 || /no longer available|not available|not found|unsupported model|model .* unavailable/i.test(message);
+  return status === 404 ||
+    /no longer available|not available|not found|unsupported model|model .* unavailable/i.test(message);
+}
+
+function safeFilters(filters) {
+  if (!filters || typeof filters !== "object") return {};
+  const allowed = ["search", "company", "category", "period"];
+  return Object.fromEntries(
+    allowed
+      .map((key) => [key, String(filters[key] || "").slice(0, 250)])
+      .filter(([, value]) => value)
+  );
 }
 
 async function fetchNewsRepository() {
@@ -237,17 +313,59 @@ async function fetchNewsRepository() {
   if (!response.ok) {
     throw new Error(`GitHub repository returned HTTP ${response.status}.`);
   }
-
   return response.json();
 }
 
-async function askGemini(env, question, history, repository) {
-  if (!env.GEMINI_API_KEY) {
-    throw new Error("The GEMINI_API_KEY secret has not been configured in Cloudflare.");
-  }
+function buildPrompt(mode, question, selection, filters, repository) {
+  const stats = selectionStats(selection.selectedItems);
+  const context = compactContext(selection.contextItems, repository.generated_at_display);
+  const filterText = Object.keys(filters).length
+    ? JSON.stringify(filters, null, 2)
+    : "No explicit dashboard filters supplied.";
 
-  const { selected, companies, days } = selectArticles(repository.items || [], question);
-  const context = compactContext(selected, repository.generated_at_display);
+  if (mode === "filtered_summary") {
+    const systemInstruction = `
+You are a senior competitive-intelligence analyst focused on the clinical laboratory market.
+Create an executive summary using only the supplied repository records and aggregate statistics.
+
+Required structure:
+1. A one-sentence executive headline.
+2. Key takeaways: three to five concise bullets.
+3. Company activity: compare the represented companies and explain where activity is concentrated.
+4. News mix: explain the main categories and any notable differences by company.
+5. Notable developments: identify the most material developments with publication dates and sources.
+6. Strategic implications: clearly label interpretation and keep it grounded in the supplied facts.
+
+Rules:
+- Do not invent events, dates, sources, quotations, URLs, or company actions.
+- Group obvious duplicate coverage of the same event.
+- Include original URLs for cited developments.
+- Treat feed descriptions as short source-provided descriptions, not full verified articles.
+- If evidence is insufficient, state the limitation.
+- Use concise Markdown suitable for an executive dashboard.
+`.trim();
+
+    const userPrompt = `
+Summarize the current filtered dashboard view.
+
+Dashboard filters:
+${filterText}
+
+Aggregate statistics for all ${stats.article_count} selected records:
+${JSON.stringify(stats, null, 2)}
+
+The detailed context below contains the ${selection.contextItems.length} most recent selected records${
+      stats.article_count > selection.contextItems.length
+        ? `; use the aggregate statistics to represent all ${stats.article_count} records.`
+        : "."
+    }
+
+LABORATORY NEWS REPOSITORY RECORDS
+${context}
+`.trim();
+
+    return { systemInstruction, userPrompt, stats };
+  }
 
   const systemInstruction = `
 You are a competitive-intelligence assistant for the clinical laboratory market.
@@ -261,34 +379,23 @@ Rules:
 5. When comparing companies, cover each company separately before the cross-company conclusion.
 6. When the supplied records do not answer the question, state: "No relevant information was found in the current news repository."
 7. Treat feed descriptions as short source-provided descriptions, not full verified article text.
-8. Use readable Markdown with concise headings and bullets. Avoid overly long responses.
+8. Use readable Markdown with concise headings and bullets.
 `.trim();
 
   const userPrompt = `
 User question: ${question}
-Detected companies: ${companies.length ? companies.join(", ") : "All monitored companies"}
-Default/identified date range: past ${days} days
+Detected companies: ${selection.companies.length ? selection.companies.join(", ") : "All monitored companies"}
+Default or identified date range: ${selection.days ? `past ${selection.days} days` : "dashboard-selected records"}
+Aggregate statistics: ${JSON.stringify(stats)}
 
 LABORATORY NEWS REPOSITORY RECORDS
 ${context}
 `.trim();
 
-  const body = {
-    systemInstruction: {
-      parts: [{ text: systemInstruction }],
-    },
-    contents: [
-      ...recentHistory(history),
-      {
-        role: "user",
-        parts: [{ text: userPrompt }],
-      },
-    ],
-    generationConfig: {
-      maxOutputTokens: 1400,
-    },
-  };
+  return { systemInstruction, userPrompt, stats };
+}
 
+async function callGemini(env, body, history) {
   let lastModelError = null;
 
   for (const model of modelCandidates(env.GEMINI_MODEL)) {
@@ -301,11 +408,19 @@ ${context}
         "Content-Type": "application/json",
         "x-goog-api-key": env.GEMINI_API_KEY,
       },
-      body: JSON.stringify(body),
+      body: JSON.stringify({
+        systemInstruction: { parts: [{ text: body.systemInstruction }] },
+        contents: [
+          ...recentHistory(history),
+          { role: "user", parts: [{ text: body.userPrompt }] },
+        ],
+        generationConfig: {
+          maxOutputTokens: body.maxOutputTokens || 1600,
+        },
+      }),
     });
 
     const payload = await response.json();
-
     if (!response.ok) {
       const message = payload?.error?.message || `Gemini returned HTTP ${response.status}.`;
       if (isModelAvailabilityError(response.status, message)) {
@@ -316,25 +431,56 @@ ${context}
     }
 
     const answer = extractGeminiText(payload);
-    if (!answer) {
-      throw new Error(`Gemini model ${model} returned an empty response.`);
-    }
-
-    return {
-      answer,
-      repository_updated: repository.generated_at_display || null,
-      articles_considered: selected.length,
-      model,
-    };
+    if (!answer) throw new Error(`Gemini model ${model} returned an empty response.`);
+    return { answer, model };
   }
 
   throw lastModelError || new Error("No supported Gemini model was available.");
 }
 
+async function answerRequest(env, requestBody, repository) {
+  if (!env.GEMINI_API_KEY) {
+    throw new Error("The GEMINI_API_KEY secret has not been configured in Cloudflare.");
+  }
+
+  const mode = requestBody.mode === "filtered_summary"
+    ? "filtered_summary"
+    : "chat";
+  const question = String(requestBody.question || "").trim();
+  const filters = safeFilters(requestBody.filters);
+  const repositoryItems = Array.isArray(repository.items) ? repository.items : [];
+
+  const idSelection = selectionFromIds(repositoryItems, requestBody.article_ids);
+  const selection = idSelection || selectArticles(repositoryItems, question);
+
+  const prompt = buildPrompt(mode, question, selection, filters, repository);
+  const result = await callGemini(
+    env,
+    {
+      ...prompt,
+      maxOutputTokens: mode === "filtered_summary" ? 1900 : 1500,
+    },
+    requestBody.history,
+  );
+
+  return {
+    answer: result.answer,
+    mode,
+    repository_updated: repository.generated_at_display || null,
+    articles_considered: selection.contextItems.length,
+    selected_total: selection.selectedTotal,
+    selection_source: selection.selectionSource,
+    selection_stats: prompt.stats,
+    model: result.model,
+  };
+}
+
 export default {
   async fetch(request, env) {
     const requestOrigin = request.headers.get("Origin");
-    const origin = ALLOWED_ORIGINS.has(requestOrigin) ? requestOrigin : "https://atanubarik.github.io";
+    const origin = ALLOWED_ORIGINS.has(requestOrigin)
+      ? requestOrigin
+      : "https://atanubarik.github.io";
     const url = new URL(request.url);
 
     if (request.method === "OPTIONS") {
@@ -353,6 +499,7 @@ export default {
           gemini_configured: Boolean(env.GEMINI_API_KEY),
           configured_model: env.GEMINI_MODEL || null,
           fallback_models: DEFAULT_MODELS,
+          capabilities: ["repository_chat", "filtered_dashboard_summary"],
         },
         200,
         origin,
@@ -374,25 +521,26 @@ export default {
       }
 
       const body = await request.json();
+      const mode = body?.mode === "filtered_summary" ? "filtered_summary" : "chat";
       const question = String(body?.question || "").trim();
-      const history = body?.history;
 
-      if (question.length < 3) {
+      if (mode === "chat" && question.length < 3) {
         return jsonResponse({ error: "Please enter a longer question." }, 400, origin);
       }
       if (question.length > 1500) {
         return jsonResponse({ error: "Question must be 1,500 characters or fewer." }, 400, origin);
       }
+      if (mode === "filtered_summary" && !Array.isArray(body?.article_ids)) {
+        return jsonResponse({ error: "Filtered summaries require article_ids." }, 400, origin);
+      }
 
       const repository = await fetchNewsRepository();
-      const result = await askGemini(env, question, history, repository);
+      const result = await answerRequest(env, body, repository);
       return jsonResponse(result, 200, origin);
     } catch (error) {
       console.error(error);
       return jsonResponse(
-        {
-          error: error instanceof Error ? error.message : "Unexpected server error.",
-        },
+        { error: error instanceof Error ? error.message : "Unexpected server error." },
         500,
         origin,
       );
