@@ -3,685 +3,208 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="description" content="AI-enabled competitive intelligence monitor for major laboratory companies." />
-  <title>Laboratory Services Market Competitive Intelligence Monitor</title>
+  <meta name="description" content="AI-enabled competitive intelligence dashboard for major laboratory companies." />
+  <title>Laboratory Market Intelligence Monitor</title>
   <style>
     :root {
-      --bg: #f4f8f6;
-      --surface: #ffffff;
-      --text: #18332b;
-      --muted: #60766e;
-      --line: #dbe7e1;
-      --brand: #087f5b;
-      --brand-dark: #065f46;
-      --chip: #e8f5ef;
-      --danger: #b42318;
-      --shadow: 0 12px 35px rgba(20, 70, 54, 0.09);
+      --bg:#f3f7f5; --surface:#fff; --surface-2:#f8fbf9; --text:#17352c;
+      --muted:#62766f; --line:#dbe7e1; --brand:#087f5b; --brand-dark:#065f46;
+      --brand-soft:#e7f5ef; --danger:#b42318; --shadow:0 14px 40px rgba(20,70,54,.08);
+      --c1:#087f5b; --c2:#2f9e44; --c3:#66a80f; --c4:#e67700;
+      --c5:#1971c2; --c6:#7048e8; --c7:#c2255c; --c8:#868e96;
     }
-
-    * { box-sizing: border-box; }
-
-    body {
-      margin: 0;
-      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      color: var(--text);
-      background: var(--bg);
-    }
-
-    button, input, select, textarea { font: inherit; }
-
-    header {
-      background: linear-gradient(125deg, var(--brand-dark), var(--brand));
-      color: #fff;
-      padding: 32px 20px 28px;
-    }
-
-    .wrap { width: min(1180px, calc(100% - 32px)); margin: 0 auto; }
-    h1 { margin: 0 0 8px; font-size: clamp(1.6rem, 4vw, 2.4rem); }
-    header p { margin: 0; opacity: .88; max-width: 800px; }
-
-    .statusbar {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      align-items: center;
-      margin-top: 18px;
-      font-size: .9rem;
-    }
-
-    .status {
-      background: rgba(255,255,255,.14);
-      border: 1px solid rgba(255,255,255,.22);
-      padding: 7px 10px;
-      border-radius: 999px;
-    }
-
-    main { padding: 24px 0 72px; }
-
-    .controls {
-      display: grid;
-      grid-template-columns: 2fr 1fr 1fr 1fr;
-      gap: 12px;
-      background: var(--surface);
-      padding: 16px;
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      box-shadow: var(--shadow);
-      position: sticky;
-      top: 8px;
-      z-index: 10;
-    }
-
-    input, select, textarea {
-      width: 100%;
-      border: 1px solid var(--line);
-      border-radius: 10px;
-      background: #fff;
-      color: var(--text);
-    }
-
-    input, select {
-      min-height: 44px;
-      padding: 10px 12px;
-    }
-
-    input:focus, select:focus, textarea:focus {
-      outline: 3px solid rgba(8,127,91,.14);
-      border-color: var(--brand);
-    }
-
-    .summary {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 12px;
-      margin: 18px 0;
-    }
-
-    .metric {
-      background: var(--surface);
-      border: 1px solid var(--line);
-      border-radius: 14px;
-      padding: 14px 16px;
-    }
-
-    .metric strong { display: block; font-size: 1.45rem; }
-    .metric span { color: var(--muted); font-size: .86rem; }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 14px;
-    }
-
-    article {
-      background: var(--surface);
-      border: 1px solid var(--line);
-      border-radius: 16px;
-      padding: 18px;
-      box-shadow: 0 8px 22px rgba(20,70,54,.05);
-      display: flex;
-      flex-direction: column;
-      gap: 11px;
-    }
-
-    article h2 { margin: 0; font-size: 1.08rem; line-height: 1.4; }
-    article h2 a { color: var(--text); text-decoration: none; }
-    article h2 a:hover { color: var(--brand); text-decoration: underline; }
-    .meta, .description { color: var(--muted); font-size: .9rem; line-height: 1.55; }
-    .description { margin: 0; }
-    .chips { display: flex; gap: 7px; flex-wrap: wrap; }
-
-    .chip {
-      background: var(--chip);
-      color: var(--brand-dark);
-      padding: 5px 8px;
-      border-radius: 999px;
-      font-size: .75rem;
-      font-weight: 650;
-    }
-
-    .empty {
-      grid-column: 1 / -1;
-      background: var(--surface);
-      border: 1px dashed var(--line);
-      border-radius: 16px;
-      padding: 34px;
-      text-align: center;
-      color: var(--muted);
-    }
-
-    footer {
-      color: var(--muted);
-      text-align: center;
-      padding: 0 20px 30px;
-      font-size: .85rem;
-    }
-
-    .ai-launcher {
-      position: fixed;
-      right: 22px;
-      bottom: 22px;
-      z-index: 1000;
-      min-height: 50px;
-      padding: 0 19px;
-      border: 0;
-      border-radius: 999px;
-      background: var(--brand-dark);
-      color: #fff;
-      font-weight: 750;
-      cursor: pointer;
-      box-shadow: 0 12px 35px rgba(6, 95, 70, .34);
-    }
-
-    .ai-launcher:hover { background: var(--brand); }
-
-    .ai-panel {
-      position: fixed;
-      right: 20px;
-      bottom: 84px;
-      z-index: 999;
-      width: min(470px, calc(100vw - 32px));
-      height: min(720px, calc(100vh - 110px));
-      display: none;
-      flex-direction: column;
-      overflow: hidden;
-      border: 1px solid var(--line);
-      border-radius: 18px;
-      background: #fff;
-      box-shadow: 0 24px 75px rgba(20, 70, 54, .28);
-    }
-
-    .ai-panel.open { display: flex; }
-
-    .ai-header {
-      min-height: 64px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 12px;
-      padding: 10px 14px;
-      background: var(--brand-dark);
-      color: #fff;
-    }
-
-    .ai-heading strong { display: block; font-size: .96rem; }
-    .ai-heading span { display: block; margin-top: 2px; opacity: .78; font-size: .75rem; }
-
-    .ai-close, .ai-clear {
-      border: 0;
-      border-radius: 9px;
-      cursor: pointer;
-    }
-
-    .ai-close {
-      width: 36px;
-      height: 36px;
-      background: rgba(255,255,255,.15);
-      color: #fff;
-      font-size: 1.25rem;
-    }
-
-    .ai-body {
-      flex: 1;
-      min-height: 0;
-      overflow-y: auto;
-      padding: 14px;
-      background: #f8fbf9;
-    }
-
-    .message {
-      max-width: 91%;
-      margin: 0 0 12px;
-      padding: 11px 13px;
-      border-radius: 14px;
-      line-height: 1.48;
-      font-size: .9rem;
-      overflow-wrap: anywhere;
-    }
-
-    .message.user {
-      margin-left: auto;
-      background: var(--brand-dark);
-      color: #fff;
-      border-bottom-right-radius: 4px;
-    }
-
-    .message.assistant {
-      background: #fff;
-      border: 1px solid var(--line);
-      color: var(--text);
-      border-bottom-left-radius: 4px;
-    }
-
-    .message.error {
-      background: #fff5f4;
-      border: 1px solid #f2c7c2;
-      color: var(--danger);
-    }
-
-    .message a { color: var(--brand); }
-    .message.user a { color: #fff; }
-    .message p { margin: 0 0 8px; }
-    .message p:last-child { margin-bottom: 0; }
-    .message ul { margin: 7px 0 7px 20px; padding: 0; }
-    .message h2, .message h3, .message h4 { margin: 11px 0 6px; font-size: .96rem; }
-    .message code { background: #edf4f0; padding: 1px 4px; border-radius: 4px; }
-
-    .ai-meta {
-      margin-top: 8px;
-      color: var(--muted);
-      font-size: .72rem;
-    }
-
-    .ai-suggestions {
-      display: flex;
-      gap: 7px;
-      overflow-x: auto;
-      padding: 10px 12px 0;
-      background: #fff;
-    }
-
-    .suggestion {
-      flex: 0 0 auto;
-      border: 1px solid var(--line);
-      border-radius: 999px;
-      padding: 7px 10px;
-      background: #fff;
-      color: var(--brand-dark);
-      cursor: pointer;
-      font-size: .75rem;
-    }
-
-    .suggestion:hover { background: var(--chip); }
-
-    .ai-form {
-      display: grid;
-      grid-template-columns: 1fr auto;
-      gap: 9px;
-      padding: 12px;
-      background: #fff;
-      border-top: 1px solid var(--line);
-    }
-
-    .ai-form textarea {
-      min-height: 46px;
-      max-height: 120px;
-      resize: none;
-      padding: 11px 12px;
-      line-height: 1.35;
-    }
-
-    .ai-send {
-      min-width: 78px;
-      border: 0;
-      border-radius: 10px;
-      background: var(--brand);
-      color: #fff;
-      font-weight: 700;
-      cursor: pointer;
-    }
-
-    .ai-send:disabled { opacity: .56; cursor: wait; }
-
-    .ai-toolbar {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      gap: 10px;
-      padding: 8px 12px;
-      border-top: 1px solid var(--line);
-      background: #fff;
-      color: var(--muted);
-      font-size: .72rem;
-    }
-
-    .ai-clear {
-      padding: 5px 8px;
-      background: transparent;
-      color: var(--muted);
-    }
-
-    .ai-clear:hover { background: var(--chip); color: var(--brand-dark); }
-
-    @media (max-width: 850px) {
-      .controls { grid-template-columns: 1fr 1fr; position: static; }
-      .summary { grid-template-columns: 1fr 1fr; }
-      .grid { grid-template-columns: 1fr; }
-    }
-
-    @media (max-width: 600px) {
-      .ai-panel {
-        right: 8px;
-        bottom: 72px;
-        width: calc(100vw - 16px);
-        height: calc(100vh - 86px);
-      }
-
-      .ai-launcher { right: 14px; bottom: 14px; }
-    }
-
-    @media (max-width: 520px) {
-      .controls, .summary { grid-template-columns: 1fr; }
-    }
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+    button,input,select,textarea{font:inherit} a{color:var(--brand)}
+    header{background:linear-gradient(125deg,#063f32,#087f5b);color:#fff;padding:34px 20px 30px}
+    .wrap{width:min(1240px,calc(100% - 32px));margin:0 auto}
+    h1{margin:0 0 8px;font-size:clamp(1.7rem,4vw,2.65rem)} header p{max-width:850px;margin:0;opacity:.87}
+    .statusbar{display:flex;flex-wrap:wrap;gap:9px;margin-top:18px}.status{padding:7px 10px;border:1px solid rgba(255,255,255,.22);border-radius:999px;background:rgba(255,255,255,.12);font-size:.84rem}
+    main{padding:22px 0 70px}
+    .filters{display:grid;grid-template-columns:2fr repeat(3,1fr) auto;gap:10px;padding:15px;background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);position:sticky;top:8px;z-index:20}
+    input,select,textarea{width:100%;border:1px solid var(--line);border-radius:10px;background:#fff;color:var(--text)} input,select{min-height:44px;padding:10px 12px} textarea{padding:11px 12px;resize:vertical}
+    input:focus,select:focus,textarea:focus{outline:3px solid rgba(8,127,91,.13);border-color:var(--brand)}
+    .btn{border:0;border-radius:10px;padding:10px 14px;font-weight:750;cursor:pointer}.btn-primary{background:var(--brand);color:#fff}.btn-primary:hover{background:var(--brand-dark)}.btn-secondary{background:var(--brand-soft);color:var(--brand-dark)}.btn:disabled{opacity:.55;cursor:wait}
+    .metrics{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:16px 0}.metric{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:15px 16px}.metric strong{display:block;font-size:1.55rem}.metric span{color:var(--muted);font-size:.83rem}
+    .analytics-grid{display:grid;grid-template-columns:1fr 1.25fr;gap:14px;margin-bottom:14px}.panel{background:var(--surface);border:1px solid var(--line);border-radius:16px;box-shadow:var(--shadow);overflow:hidden}.panel-head{display:flex;align-items:flex-start;justify-content:space-between;gap:12px;padding:17px 18px;border-bottom:1px solid var(--line)}.panel-head h2{margin:0;font-size:1.03rem}.panel-head p{margin:4px 0 0;color:var(--muted);font-size:.8rem}.panel-body{padding:18px}
+    .hbar-list{display:grid;gap:13px}.hbar-row{display:grid;grid-template-columns:minmax(120px,190px) 1fr 38px;gap:10px;align-items:center}.hbar-label{font-size:.84rem;font-weight:650;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.hbar-track{height:15px;background:#edf3f0;border-radius:999px;overflow:hidden}.hbar-fill{height:100%;border-radius:999px;background:linear-gradient(90deg,var(--brand-dark),var(--brand));min-width:2px}.hbar-value{text-align:right;font-size:.82rem;font-weight:750}
+    .stack-chart{height:310px;display:flex;align-items:flex-end;gap:14px;padding:16px 6px 2px;border-bottom:1px solid var(--line);overflow-x:auto}.stack-group{min-width:90px;flex:1;height:100%;display:flex;flex-direction:column;justify-content:flex-end;align-items:center}.stack-total{font-size:.74rem;font-weight:750;margin-bottom:5px}.stack-bar{width:min(62px,70%);height:250px;display:flex;flex-direction:column-reverse;justify-content:flex-start;border-radius:8px 8px 0 0;overflow:hidden;background:#edf3f0}.stack-segment{width:100%;min-height:1px}.stack-label{width:100%;margin-top:8px;text-align:center;font-size:.73rem;line-height:1.25;color:var(--muted)}
+    .legend{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:15px}.legend-item{display:flex;gap:6px;align-items:center;font-size:.73rem;color:var(--muted)}.legend-dot{width:9px;height:9px;border-radius:2px;flex:0 0 auto}
+    .ai-summary{margin-bottom:14px}.summary-actions{display:flex;gap:8px;align-items:center}.summary-content{min-height:128px;line-height:1.57;font-size:.91rem}.summary-content h2,.summary-content h3{font-size:1rem;margin:14px 0 7px}.summary-content ul{padding-left:20px}.summary-content .placeholder{color:var(--muted)}.summary-meta{margin-top:13px;color:var(--muted);font-size:.76rem}
+    .section-title{display:flex;align-items:end;justify-content:space-between;gap:12px;margin:22px 0 11px}.section-title h2{margin:0;font-size:1.18rem}.section-title span{color:var(--muted);font-size:.82rem}
+    .news-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.news-card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:18px;box-shadow:0 7px 22px rgba(20,70,54,.05);display:flex;flex-direction:column;gap:10px}.news-card h3{margin:0;font-size:1.04rem;line-height:1.4}.news-card h3 a{text-decoration:none;color:var(--text)}.news-card h3 a:hover{color:var(--brand);text-decoration:underline}.meta,.description{color:var(--muted);font-size:.87rem;line-height:1.5}.description{margin:0}.chips{display:flex;gap:6px;flex-wrap:wrap}.chip{padding:5px 8px;border-radius:999px;background:var(--brand-soft);color:var(--brand-dark);font-size:.72rem;font-weight:700}.empty{grid-column:1/-1;padding:36px;text-align:center;color:var(--muted);background:var(--surface);border:1px dashed var(--line);border-radius:16px}
+    footer{text-align:center;color:var(--muted);font-size:.8rem;padding:0 20px 30px}
+    .ai-launcher{position:fixed;right:22px;bottom:22px;z-index:1000;min-height:50px;padding:0 18px;border:0;border-radius:999px;background:var(--brand-dark);color:#fff;font-weight:750;box-shadow:0 12px 35px rgba(6,95,70,.34);cursor:pointer}.ai-panel{position:fixed;right:20px;bottom:84px;z-index:999;width:min(470px,calc(100vw - 32px));height:min(720px,calc(100vh - 110px));display:none;flex-direction:column;border:1px solid var(--line);border-radius:18px;background:#fff;box-shadow:0 24px 75px rgba(20,70,54,.28);overflow:hidden}.ai-panel.open{display:flex}.ai-header{display:flex;justify-content:space-between;align-items:center;padding:12px 14px;background:var(--brand-dark);color:#fff}.ai-header strong{display:block}.ai-header span{display:block;font-size:.73rem;opacity:.78}.icon-btn{width:36px;height:36px;border:0;border-radius:9px;background:rgba(255,255,255,.15);color:#fff;font-size:1.2rem;cursor:pointer}.ai-messages{flex:1;overflow:auto;padding:14px;background:var(--surface-2)}.message{max-width:92%;margin:0 0 11px;padding:11px 13px;border-radius:14px;font-size:.88rem;line-height:1.48;overflow-wrap:anywhere}.message.user{margin-left:auto;background:var(--brand-dark);color:#fff}.message.assistant{background:#fff;border:1px solid var(--line)}.message.error{background:#fff5f4;border:1px solid #f2c7c2;color:var(--danger)}.ai-form{display:grid;grid-template-columns:1fr auto;gap:8px;padding:11px;border-top:1px solid var(--line)}.ai-form textarea{min-height:48px;max-height:120px}.ai-form button{min-width:72px}
+    @media(max-width:950px){.analytics-grid{grid-template-columns:1fr}.filters{grid-template-columns:1fr 1fr}.metrics{grid-template-columns:1fr 1fr}.news-grid{grid-template-columns:1fr}}
+    @media(max-width:560px){.filters,.metrics{grid-template-columns:1fr}.hbar-row{grid-template-columns:110px 1fr 32px}.ai-panel{right:8px;bottom:72px;width:calc(100vw - 16px);height:calc(100vh - 86px)}.ai-launcher{right:14px;bottom:14px}}
   </style>
 </head>
 <body>
   <header>
     <div class="wrap">
-      <h1>Laboratory Market News Monitor</h1>
-      <p>Tracks public news concerning Labcorp, Quest Diagnostics, ARUP Laboratories, Mayo Clinic Laboratories, and Sonic Healthcare.</p>
+      <h1>Laboratory Market Intelligence Monitor</h1>
+      <p>Filter, compare and summarize public developments across major clinical and reference laboratory companies.</p>
       <div class="statusbar">
         <span class="status" id="updated">Last updated: loading…</span>
-        <span class="status">Source: Google News RSS</span>
+        <span class="status">Refresh: every 6 hours</span>
         <span class="status">AI: Gemini via Cloudflare</span>
       </div>
     </div>
   </header>
 
   <main class="wrap">
-    <section class="controls" aria-label="News filters">
-      <input id="search" type="search" placeholder="Search headlines and descriptions…" />
-      <select id="company" aria-label="Company">
-        <option value="">All companies</option>
+    <section class="filters" aria-label="News filters">
+      <input id="search" type="search" placeholder="Search headlines, descriptions or sources…" />
+      <select id="company"><option value="">All companies</option></select>
+      <select id="category"><option value="">All categories</option></select>
+      <select id="period">
+        <option value="7">Past 7 days</option><option value="30" selected>Past 30 days</option>
+        <option value="90">Past 90 days</option><option value="9999">All available</option>
       </select>
-      <select id="category" aria-label="Category">
-        <option value="">All categories</option>
-      </select>
-      <select id="period" aria-label="Date range">
-        <option value="7">Past 7 days</option>
-        <option value="30" selected>Past 30 days</option>
-        <option value="90">Past 90 days</option>
-        <option value="9999">All available</option>
-      </select>
+      <button class="btn btn-secondary" id="resetFilters" type="button">Reset</button>
     </section>
 
-    <section class="summary" aria-label="Summary metrics">
-      <div class="metric"><strong id="visibleCount">0</strong><span>Visible articles</span></div>
+    <section class="metrics">
+      <div class="metric"><strong id="visibleCount">0</strong><span>Filtered articles</span></div>
       <div class="metric"><strong id="companyCount">0</strong><span>Companies represented</span></div>
       <div class="metric"><strong id="sourceCount">0</strong><span>Distinct sources</span></div>
       <div class="metric"><strong id="officialCount">0</strong><span>Official-source items</span></div>
     </section>
 
-    <section class="grid" id="news" aria-live="polite">
-      <div class="empty">Loading news…</div>
+    <section class="analytics-grid">
+      <article class="panel">
+        <div class="panel-head"><div><h2>News volume by company</h2><p>Horizontal ranking based on the current filters</p></div></div>
+        <div class="panel-body"><div class="hbar-list" id="companyChart"></div></div>
+      </article>
+
+      <article class="panel">
+        <div class="panel-head"><div><h2>News mix by company</h2><p>Stacked categories for each company in the filtered view</p></div></div>
+        <div class="panel-body"><div class="stack-chart" id="categoryChart"></div><div class="legend" id="categoryLegend"></div></div>
+      </article>
     </section>
+
+    <section class="panel ai-summary">
+      <div class="panel-head">
+        <div><h2>AI summary of the filtered news</h2><p>Gemini summarizes only the articles currently selected by your filters</p></div>
+        <div class="summary-actions"><button class="btn btn-primary" id="generateSummary" type="button">Generate summary</button></div>
+      </div>
+      <div class="panel-body">
+        <div class="summary-content" id="summaryContent"><div class="placeholder">Apply filters and select “Generate summary” to create an executive synthesis of the visible news.</div></div>
+        <div class="summary-meta" id="summaryMeta"></div>
+      </div>
+    </section>
+
+    <div class="section-title"><h2>Filtered news</h2><span id="resultLabel">0 results</span></div>
+    <section class="news-grid" id="news" aria-live="polite"><div class="empty">Loading news…</div></section>
   </main>
 
-  <footer>
-    Headlines and descriptions remain the property of their publishers. Open the original article to verify details. AI responses use the collected repository records and may require human verification.
-  </footer>
+  <footer>Headlines and descriptions remain the property of their publishers. Verify material developments in the original sources.</footer>
 
-  <button class="ai-launcher" id="aiLauncher" type="button" aria-controls="aiPanel" aria-expanded="false">
-    Ask News AI
-  </button>
-
-  <aside class="ai-panel" id="aiPanel" aria-label="Laboratory News AI Assistant">
-    <div class="ai-header">
-      <div class="ai-heading">
-        <strong>Laboratory News AI</strong>
-        <span>Gemini grounded in this repository</span>
-      </div>
-      <button class="ai-close" id="aiClose" type="button" aria-label="Close AI assistant">×</button>
-    </div>
-
-    <div class="ai-body" id="aiMessages" aria-live="polite"></div>
-
-    <div class="ai-suggestions" aria-label="Suggested questions">
-      <button class="suggestion" type="button">Latest Quest updates</button>
-      <button class="suggestion" type="button">Compare Labcorp and Quest</button>
-      <button class="suggestion" type="button">Recent partnerships</button>
-      <button class="suggestion" type="button">Latest ARUP news</button>
-    </div>
-
-    <form class="ai-form" id="aiForm">
-      <textarea id="aiQuestion" maxlength="1500" rows="1" placeholder="Ask about companies, categories, dates or implications…" required></textarea>
-      <button class="ai-send" id="aiSend" type="submit">Send</button>
-    </form>
-
-    <div class="ai-toolbar">
-      <span id="aiStatus">Ready</span>
-      <button class="ai-clear" id="aiClear" type="button">Clear chat</button>
-    </div>
+  <button class="ai-launcher" id="aiLauncher" type="button">Ask News AI</button>
+  <aside class="ai-panel" id="aiPanel">
+    <div class="ai-header"><div><strong>Laboratory News AI</strong><span>Grounded in the GitHub news repository</span></div><button class="icon-btn" id="aiClose" type="button">×</button></div>
+    <div class="ai-messages" id="aiMessages"></div>
+    <form class="ai-form" id="aiForm"><textarea id="aiQuestion" maxlength="1500" placeholder="Ask about companies, categories, dates or implications…" required></textarea><button class="btn btn-primary" id="aiSend" type="submit">Send</button></form>
   </aside>
 
   <script>
     const WORKER_URL = "https://laboratory-news-ai.atanu-barik.workers.dev";
-    let allItems = [];
-    let aiHistory = [];
+    const CATEGORY_COLORS = ["var(--c1)","var(--c2)","var(--c3)","var(--c4)","var(--c5)","var(--c6)","var(--c7)","var(--c8)"];
+    let allItems = [], filteredItems = [], chatHistory = [], summarySignature = "";
+    const el = id => document.getElementById(id);
+    const escapeHtml = (value="") => String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
 
-    const el = (id) => document.getElementById(id);
-    const escapeHtml = (value = "") => String(value).replace(/[&<>"']/g, character => ({
-      "&": "&amp;",
-      "<": "&lt;",
-      ">": "&gt;",
-      '"': "&quot;",
-      "'": "&#039;",
-    }[character]));
+    function markdown(text=""){
+      let safe=escapeHtml(text);
+      safe=safe.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>');
+      safe=safe.replace(/(https?:\/\/[^\s<]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');
+      safe=safe.replace(/^### (.+)$/gm,'<h3>$1</h3>').replace(/^## (.+)$/gm,'<h2>$1</h2>');
+      safe=safe.replace(/^[-*] (.+)$/gm,'<li>$1</li>').replace(/(<li>.*<\/li>\n?)+/g,m=>`<ul>${m}</ul>`);
+      safe=safe.replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>').replace(/\n{2,}/g,'</p><p>').replace(/\n/g,'<br>');
+      return `<p>${safe}</p>`;
+    }
 
-    function fillSelect(id, values) {
-      const select = el(id);
-      values.sort().forEach(value => {
-        const option = document.createElement("option");
-        option.value = value;
-        option.textContent = value;
-        select.appendChild(option);
+    function fillSelect(id,values){const s=el(id);[...new Set(values)].sort().forEach(v=>{const o=document.createElement('option');o.value=v;o.textContent=v;s.appendChild(o)})}
+    function currentFilters(){return {search:el('search').value.trim(),company:el('company').value,category:el('category').value,period:el('period').value}}
+    function filterSignature(){return JSON.stringify({...currentFilters(),ids:filteredItems.map(x=>x.id)})}
+
+    function applyFilters(){
+      const f=currentFilters(), q=f.search.toLowerCase(), cutoff=Date.now()-Number(f.period)*86400000;
+      filteredItems=allItems.filter(item=>{
+        const searchable=`${item.title} ${item.description} ${item.source}`.toLowerCase();
+        const date=Date.parse(item.published_at||"");
+        return (!q||searchable.includes(q))&&(!f.company||item.company===f.company)&&(!f.category||item.category===f.category)&&(!Number.isFinite(date)||date>=cutoff);
       });
-    }
-
-    function applyFilters() {
-      const query = el("search").value.trim().toLowerCase();
-      const company = el("company").value;
-      const category = el("category").value;
-      const days = Number(el("period").value);
-      const cutoff = Date.now() - days * 86400000;
-
-      const filtered = allItems.filter(item => {
-        const searchable = `${item.title} ${item.description} ${item.source}`.toLowerCase();
-        const date = new Date(item.published_at).getTime();
-        return (!query || searchable.includes(query))
-          && (!company || item.company === company)
-          && (!category || item.category === category)
-          && (!Number.isFinite(date) || date >= cutoff);
-      });
-
-      render(filtered);
-    }
-
-    function render(items) {
-      const news = el("news");
-      el("visibleCount").textContent = items.length;
-      el("companyCount").textContent = new Set(items.map(item => item.company)).size;
-      el("sourceCount").textContent = new Set(items.map(item => item.source)).size;
-      el("officialCount").textContent = items.filter(item => item.official_source).length;
-
-      if (!items.length) {
-        news.innerHTML = '<div class="empty">No articles match the selected filters.</div>';
-        return;
-      }
-
-      news.innerHTML = items.map(item => `
-        <article>
-          <div class="chips">
-            <span class="chip">${escapeHtml(item.company)}</span>
-            <span class="chip">${escapeHtml(item.category)}</span>
-            ${item.official_source ? '<span class="chip">Official source</span>' : ''}
-          </div>
-          <h2><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.title)}</a></h2>
-          <div class="meta">${escapeHtml(item.source)} · ${escapeHtml(item.published_display || "Date unavailable")}</div>
-          <p class="description">${escapeHtml(item.description || "No description supplied by the feed.")}</p>
-        </article>
-      `).join("");
-    }
-
-    function markdownToHtml(markdown) {
-      let text = escapeHtml(markdown || "");
-      text = text.replace(/\[([^\]]+)\]\((https?:\/\/[^\s)]+)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>');
-      text = text.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>');
-      text = text.replace(/^###\s+(.+)$/gm, '<h4>$1</h4>');
-      text = text.replace(/^##\s+(.+)$/gm, '<h3>$1</h3>');
-      text = text.replace(/^#\s+(.+)$/gm, '<h2>$1</h2>');
-      text = text.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-      text = text.replace(/`([^`]+)`/g, '<code>$1</code>');
-      text = text.replace(/^[-*]\s+(.+)$/gm, '<li>$1</li>');
-      text = text.replace(/(?:<li>.*?<\/li>\n?)+/gs, match => `<ul>${match}</ul>`);
-      text = text.split(/\n{2,}/).map(block => {
-        if (/^<(h\d|ul)/.test(block.trim())) return block;
-        return `<p>${block.replace(/\n/g, '<br>')}</p>`;
-      }).join("");
-      return text;
-    }
-
-    function addMessage(role, content, meta = "") {
-      const message = document.createElement("div");
-      message.className = `message ${role}`;
-      message.innerHTML = role === "assistant" ? markdownToHtml(content) : escapeHtml(content).replace(/\n/g, "<br>");
-
-      if (meta) {
-        const detail = document.createElement("div");
-        detail.className = "ai-meta";
-        detail.textContent = meta;
-        message.appendChild(detail);
-      }
-
-      el("aiMessages").appendChild(message);
-      el("aiMessages").scrollTop = el("aiMessages").scrollHeight;
-    }
-
-    function addError(content) {
-      const message = document.createElement("div");
-      message.className = "message error";
-      message.textContent = content;
-      el("aiMessages").appendChild(message);
-      el("aiMessages").scrollTop = el("aiMessages").scrollHeight;
-    }
-
-    function setAiLoading(isLoading) {
-      el("aiSend").disabled = isLoading;
-      el("aiQuestion").disabled = isLoading;
-      el("aiStatus").textContent = isLoading ? "Reading repository and generating answer…" : "Ready";
-      el("aiSend").textContent = isLoading ? "Working" : "Send";
-    }
-
-    function openAiPanel() {
-      el("aiPanel").classList.add("open");
-      el("aiLauncher").setAttribute("aria-expanded", "true");
-      setTimeout(() => el("aiQuestion").focus(), 50);
-    }
-
-    function closeAiPanel() {
-      el("aiPanel").classList.remove("open");
-      el("aiLauncher").setAttribute("aria-expanded", "false");
-    }
-
-    function initializeChat() {
-      el("aiMessages").innerHTML = "";
-      aiHistory = [];
-      addMessage(
-        "assistant",
-        "Ask me about recent developments across Labcorp, Quest Diagnostics, ARUP Laboratories, Mayo Clinic Laboratories, or Sonic Healthcare. I will answer from the news repository and include source links when available."
-      );
-    }
-
-    async function submitQuestion(question) {
-      const trimmed = String(question || "").trim();
-      if (trimmed.length < 3) return;
-
-      addMessage("user", trimmed);
-      const requestHistory = aiHistory.slice(-6);
-      aiHistory.push({ role: "user", content: trimmed });
-      el("aiQuestion").value = "";
-      setAiLoading(true);
-
-      try {
-        const response = await fetch(WORKER_URL, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            question: trimmed,
-            history: requestHistory,
-          }),
-        });
-
-        let payload = {};
-        try {
-          payload = await response.json();
-        } catch (error) {
-          throw new Error(`The AI service returned HTTP ${response.status} without a JSON response.`);
-        }
-
-        if (!response.ok) {
-          throw new Error(payload.error || `The AI service returned HTTP ${response.status}.`);
-        }
-
-        const answer = payload.answer || "No answer was returned.";
-        aiHistory.push({ role: "assistant", content: answer });
-        const meta = [
-          payload.repository_updated ? `Repository: ${payload.repository_updated}` : "",
-          Number.isFinite(payload.articles_considered) ? `${payload.articles_considered} articles considered` : "",
-          payload.model ? `Model: ${payload.model}` : "",
-        ].filter(Boolean).join(" · ");
-        addMessage("assistant", answer, meta);
-      } catch (error) {
-        console.error(error);
-        addError(
-          `${error.message} Check that the Cloudflare Worker code is deployed, GEMINI_API_KEY is saved as a Worker secret, and CORS allows https://atanubarik.github.io.`
-        );
-      } finally {
-        setAiLoading(false);
-        el("aiQuestion").focus();
+      renderAll();
+      if(summarySignature && summarySignature!==filterSignature()){
+        el('summaryContent').innerHTML='<div class="placeholder">Filters changed. Generate a new summary for the current selection.</div>';
+        el('summaryMeta').textContent=''; summarySignature='';
       }
     }
 
-    async function init() {
-      initializeChat();
-
-      try {
-        const response = await fetch(`data/news.json?cache=${Date.now()}`);
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const payload = await response.json();
-        allItems = payload.items || [];
-        el("updated").textContent = `Last updated: ${payload.generated_at_display || "Unknown"}`;
-
-        fillSelect("company", [...new Set(allItems.map(item => item.company))]);
-        fillSelect("category", [...new Set(allItems.map(item => item.category))]);
-
-        ["search", "company", "category", "period"].forEach(id => {
-          el(id).addEventListener(id === "search" ? "input" : "change", applyFilters);
-        });
-
-        applyFilters();
-      } catch (error) {
-        console.error(error);
-        el("news").innerHTML = '<div class="empty">News data is not available yet. Run the GitHub Action once, then refresh this page.</div>';
-        el("updated").textContent = "Last updated: not yet generated";
-      }
+    function renderAll(){renderMetrics();renderCompanyChart();renderCategoryChart();renderNews()}
+    function renderMetrics(){
+      el('visibleCount').textContent=filteredItems.length;
+      el('companyCount').textContent=new Set(filteredItems.map(x=>x.company)).size;
+      el('sourceCount').textContent=new Set(filteredItems.map(x=>x.source)).size;
+      el('officialCount').textContent=filteredItems.filter(x=>x.official_source).length;
+      el('resultLabel').textContent=`${filteredItems.length} result${filteredItems.length===1?'':'s'}`;
     }
 
-    el("aiLauncher").addEventListener("click", () => {
-      el("aiPanel").classList.contains("open") ? closeAiPanel() : openAiPanel();
-    });
-    el("aiClose").addEventListener("click", closeAiPanel);
-    el("aiClear").addEventListener("click", initializeChat);
-    el("aiForm").addEventListener("submit", event => {
-      event.preventDefault();
-      submitQuestion(el("aiQuestion").value);
-    });
-    el("aiQuestion").addEventListener("keydown", event => {
-      if (event.key === "Enter" && !event.shiftKey) {
-        event.preventDefault();
-        el("aiForm").requestSubmit();
-      }
-    });
-    document.querySelectorAll(".suggestion").forEach(button => {
-      button.addEventListener("click", () => {
-        openAiPanel();
-        submitQuestion(button.textContent);
-      });
-    });
-    document.addEventListener("keydown", event => {
-      if (event.key === "Escape") closeAiPanel();
-    });
+    function countsBy(field){const m={};filteredItems.forEach(x=>{const k=x[field]||'Unknown';m[k]=(m[k]||0)+1});return m}
+    function renderCompanyChart(){
+      const data=Object.entries(countsBy('company')).sort((a,b)=>b[1]-a[1]); const root=el('companyChart');
+      if(!data.length){root.innerHTML='<div class="empty">No data for this selection.</div>';return}
+      const max=Math.max(...data.map(x=>x[1]));
+      root.innerHTML=data.map(([name,count])=>`<div class="hbar-row"><div class="hbar-label" title="${escapeHtml(name)}">${escapeHtml(name)}</div><div class="hbar-track"><div class="hbar-fill" style="width:${(count/max)*100}%"></div></div><div class="hbar-value">${count}</div></div>`).join('');
+    }
 
+    function renderCategoryChart(){
+      const companies=[...new Set(filteredItems.map(x=>x.company))].sort();
+      const categories=[...new Set(filteredItems.map(x=>x.category))].sort();
+      const root=el('categoryChart'), legend=el('categoryLegend');
+      if(!companies.length){root.innerHTML='<div class="empty">No data for this selection.</div>';legend.innerHTML='';return}
+      const totals=Object.fromEntries(companies.map(c=>[c,filteredItems.filter(x=>x.company===c).length])); const max=Math.max(...Object.values(totals));
+      root.innerHTML=companies.map(company=>{
+        const items=filteredItems.filter(x=>x.company===company), total=items.length, barHeight=(total/max)*250;
+        const segments=categories.map((cat,i)=>{const count=items.filter(x=>x.category===cat).length;if(!count)return'';return `<div class="stack-segment" title="${escapeHtml(cat)}: ${count}" style="height:${(count/total)*barHeight}px;background:${CATEGORY_COLORS[i%CATEGORY_COLORS.length]}"></div>`}).join('');
+        return `<div class="stack-group"><div class="stack-total">${total}</div><div class="stack-bar" style="height:${Math.max(3,barHeight)}px">${segments}</div><div class="stack-label">${escapeHtml(company)}</div></div>`;
+      }).join('');
+      legend.innerHTML=categories.map((cat,i)=>`<div class="legend-item"><span class="legend-dot" style="background:${CATEGORY_COLORS[i%CATEGORY_COLORS.length]}"></span>${escapeHtml(cat)}</div>`).join('');
+    }
+
+    function renderNews(){
+      const root=el('news');
+      if(!filteredItems.length){root.innerHTML='<div class="empty">No articles match the selected filters.</div>';return}
+      root.innerHTML=filteredItems.map(item=>`<article class="news-card"><div class="chips"><span class="chip">${escapeHtml(item.company)}</span><span class="chip">${escapeHtml(item.category)}</span>${item.official_source?'<span class="chip">Official source</span>':''}</div><h3><a href="${escapeHtml(item.url)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a></h3><div class="meta">${escapeHtml(item.source)} · ${escapeHtml(item.published_display||'Date unavailable')}</div><p class="description">${escapeHtml(item.description||'No description supplied by the feed.')}</p></article>`).join('');
+    }
+
+    async function generateSummary(){
+      const button=el('generateSummary');
+      if(!filteredItems.length){el('summaryContent').innerHTML='<div class="placeholder">No articles are selected.</div>';return}
+      button.disabled=true;button.textContent='Generating…';el('summaryContent').innerHTML='<div class="placeholder">Analyzing the current filtered view…</div>';el('summaryMeta').textContent='';
+      try{
+        const response=await fetch(WORKER_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({mode:'filtered_summary',article_ids:filteredItems.map(x=>x.id),filters:currentFilters()})});
+        const data=await response.json();if(!response.ok)throw new Error(data.error||`HTTP ${response.status}`);
+        el('summaryContent').innerHTML=markdown(data.answer);
+        el('summaryMeta').textContent=`Selected records: ${data.selected_total} · Detailed records analyzed: ${data.articles_considered} · Model: ${data.model} · Repository: ${data.repository_updated||'Unknown'}`;
+        summarySignature=filterSignature();
+      }catch(error){el('summaryContent').innerHTML=`<div class="message error">${escapeHtml(error.message)}</div>`}
+      finally{button.disabled=false;button.textContent='Generate summary'}
+    }
+
+    function addMessage(role,text,meta=''){const d=document.createElement('div');d.className=`message ${role}`;d.innerHTML=role==='assistant'?markdown(text):escapeHtml(text);if(meta)d.innerHTML+=`<div class="summary-meta">${escapeHtml(meta)}</div>`;el('aiMessages').appendChild(d);el('aiMessages').scrollTop=el('aiMessages').scrollHeight}
+    async function askAi(question){addMessage('user',question);el('aiSend').disabled=true;try{const response=await fetch(WORKER_URL,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({mode:'chat',question,history:chatHistory,article_ids:filteredItems.map(x=>x.id),filters:currentFilters()})});const data=await response.json();if(!response.ok)throw new Error(data.error||`HTTP ${response.status}`);addMessage('assistant',data.answer,`${data.selected_total} selected · ${data.model}`);chatHistory.push({role:'user',content:question},{role:'assistant',content:data.answer});chatHistory=chatHistory.slice(-8)}catch(error){addMessage('error',error.message)}finally{el('aiSend').disabled=false}}
+
+    async function init(){
+      try{const r=await fetch(`data/news.json?cache=${Date.now()}`);if(!r.ok)throw new Error(`HTTP ${r.status}`);const payload=await r.json();allItems=payload.items||[];el('updated').textContent=`Last updated: ${payload.generated_at_display||'Unknown'}`;fillSelect('company',allItems.map(x=>x.company));fillSelect('category',allItems.map(x=>x.category));['search','company','category','period'].forEach(id=>el(id).addEventListener(id==='search'?'input':'change',applyFilters));applyFilters()}catch(error){el('news').innerHTML='<div class="empty">News data could not be loaded.</div>';el('updated').textContent='Last updated: unavailable'}
+    }
+
+    el('resetFilters').addEventListener('click',()=>{el('search').value='';el('company').value='';el('category').value='';el('period').value='30';applyFilters()});
+    el('generateSummary').addEventListener('click',generateSummary);
+    el('aiLauncher').addEventListener('click',()=>el('aiPanel').classList.toggle('open'));
+    el('aiClose').addEventListener('click',()=>el('aiPanel').classList.remove('open'));
+    el('aiForm').addEventListener('submit',event=>{event.preventDefault();const q=el('aiQuestion').value.trim();if(!q)return;el('aiQuestion').value='';askAi(q)});
+    document.addEventListener('keydown',e=>{if(e.key==='Escape')el('aiPanel').classList.remove('open')});
     init();
   </script>
 </body>
