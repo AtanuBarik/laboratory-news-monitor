@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-04T10:40:12.973130+00:00",
-  "generated_at_display": "04 Aug 2026, 10:40 UTC",
-  "item_count": 378,
+  "generated_at": "2026-08-04T11:28:07.185294+00:00",
+  "generated_at_display": "04 Aug 2026, 11:28 UTC",
+  "item_count": 382,
   "failures": [],
   "items": [
+    {
+      "id": "cf79abed1e9a5dd7be6b",
+      "company": "Labcorp",
+      "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
+      "description": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-04T11:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
     {
       "id": "6451707ad9feb0d05774",
       "company": "Mayo Clinic Laboratories",
@@ -143,6 +157,20 @@
       "description": "Consumer testing is growing in the US: Quest Diagnostics CEO foxbusiness.com",
       "source": "foxbusiness.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-08-03T21:14:10+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "5e73ffc6e4adedffa411",
+      "company": "Quest Diagnostics",
+      "title": "Consumer testing is growing in the US: Quest Diagnostics CEO - Fox Business",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5",
+      "description": "Consumer testing is growing in the US: Quest Diagnostics CEO Fox Business",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "source_domain": "foxbusiness.com",
       "published_at": "2026-08-03T21:14:10+00:00",
       "published_display": "03 Aug 2026",
       "category": "Product / Innovation",
@@ -3054,6 +3082,20 @@
       "official_source": false
     },
     {
+      "id": "2f03262c52ddce0beb2c",
+      "company": "Quest Diagnostics",
+      "title": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday - benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYlBSLS1rOE43dTZ6OWNHMG5icDNJTU9jTm5IVVlRc1ZrSVhSQXoxS1lkOVU5REtaLTZRdXAtR0NMTENQc0tsM1JmRTZQT1hHOENIeFdXRGF6NVZpQ3NOQWtUMHA4a3dMLVk3R252cFNaeXRBcUFSdUJqSERnbWlHRzdmdW9rYTZlMW9tODc4OHV4aS1QZ0phajRWY0tYNGpHNDNfSHFiYmptOVRPOW1IZGtLQV9tajJBaFNGY2YzTHcwVV9EWnBZak12eGY5SGhLdHBHOEFVNUFYMkdyVVJRMzM5RkpXa3o0TTBSejQzemlrQldqN3NJRDRB?oc=5",
+      "description": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday benzinga.com",
+      "source": "benzinga.com",
+      "source_url": "https://www.benzinga.com",
+      "source_domain": "benzinga.com",
+      "published_at": "2026-07-23T14:20:41+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "d0f38a2806e20d7ddd4f",
       "company": "Quest Diagnostics",
       "title": "Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. - marketscreener.com",
@@ -3470,6 +3512,20 @@
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
       "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "b3594741ae94c18cb655",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - benzinga.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSEF2V2kxZTdvVEQzM1lpZDRYRW0xSHVSSkZLa3RTOTRSRFM4WHltSDZETG4zS3loODdxRWRQV2o3dzlMOE1YRGtNQjJyYzBnTVVSb0ZlSDNfdGRrbWRFbWRQN3JpU3djeS13VF8zLWZKN2tRQjBVMkUtM2p6am9OdklDcmYzNElrYmJRVjctNUk1Y3FPLXUxN2g5aHA5OWFLeVVYN1Y1dTFjRDh5ZzYxN1VKbjhFT2NUSUpnXzFwcVhLN1ZzQjNfWWdiOGFPWkVNR0JKTEt3?oc=5",
+      "description": "Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) benzinga.com",
+      "source": "benzinga.com",
+      "source_url": "https://www.benzinga.com",
+      "source_domain": "benzinga.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
       "official_source": false
     },
     {
