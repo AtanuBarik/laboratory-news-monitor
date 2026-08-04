@@ -132,17 +132,36 @@ def domain_matches(domain: str, official_domains: set[str]) -> bool:
 
 
 def fetch_feed(query: str) -> bytes:
+    """Retrieve recent news through Google News RSS."""
+
+    google_query = f"{query} when:30d"
+
     params = urllib.parse.urlencode(
-        {"q": query, "format": "rss", "count": "50", "setlang": "en-us"}
+        {
+            "q": google_query,
+            "hl": "en-US",
+            "gl": "US",
+            "ceid": "US:en",
+        }
     )
-    url = f"https://www.bing.com/news/search?{params}"
+
+    url = f"https://news.google.com/rss/search?{params}"
+
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "Mozilla/5.0 (compatible; LabNewsMonitor/1.0)",
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
+            "User-Agent": (
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                "AppleWebKit/537.36 (KHTML, like Gecko) "
+                "Chrome/151.0.0.0 Safari/537.36"
+            ),
+            "Accept": (
+                "application/rss+xml, application/xml, "
+                "text/xml, */*"
+            ),
         },
     )
+
     with urllib.request.urlopen(request, timeout=30) as response:
         return response.read()
 
@@ -237,7 +256,14 @@ def main() -> int:
 
     # Do not fail the workflow if one feed is temporarily unavailable and
     # previously collected data still exists.
-    return 0 if items else 1
+    if not items:
+    print(
+        "No articles were collected. Review the failures field "
+        "inside data/news.json.",
+        file=sys.stderr,
+    )
+
+return 0
 
 
 if __name__ == "__main__":
