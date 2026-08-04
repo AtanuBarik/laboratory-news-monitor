@@ -5,7 +5,7 @@
  *   GEMINI_API_KEY
  *
  * Optional Worker variable:
- *   GEMINI_MODEL (defaults to gemini-2.5-flash-lite)
+ *   GEMINI_MODEL (defaults to gemini-3.5-flash-lite)
  *
  * This Worker reads public news from:
  *   https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json
@@ -20,6 +20,11 @@ const ALLOWED_ORIGINS = new Set([
 
 const NEWS_URL =
   "https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json";
+
+const DEFAULT_MODELS = [
+  "gemini-3.5-flash-lite",
+  "gemini-3.6-flash",
+];
 
 const COMPANY_ALIASES = [
   {
@@ -205,6 +210,25 @@ function extractGeminiText(payload) {
   return parts.map((part) => part.text || "").join("\n").trim();
 }
 
+function modelCandidates(configuredModel) {
+  const configured = String(configuredModel || "").trim();
+  const retiredModels = new Set([
+    "gemini-2.5-flash-lite",
+    "models/gemini-2.5-flash-lite",
+  ]);
+
+  const candidates = [];
+  if (configured && !retiredModels.has(configured)) {
+    candidates.push(configured.replace(/^models\//, ""));
+  }
+  candidates.push(...DEFAULT_MODELS);
+  return [...new Set(candidates)];
+}
+
+function isModelAvailabilityError(status, message) {
+  return status === 404 || /no longer available|not available|not found|unsupported model|model .* unavailable/i.test(message);
+}
+
 async function fetchNewsRepository() {
   const response = await fetch(`${NEWS_URL}?cache=${Date.now()}`, {
     headers: { Accept: "application/json" },
@@ -224,9 +248,6 @@ async function askGemini(env, question, history, repository) {
 
   const { selected, companies, days } = selectArticles(repository.items || [], question);
   const context = compactContext(selected, repository.generated_at_display);
-  const model = env.GEMINI_MODEL || "gemini-2.5-flash-lite";
-  const endpoint =
-    `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
 
   const systemInstruction = `
 You are a competitive-intelligence assistant for the clinical laboratory market.
@@ -264,36 +285,50 @@ ${context}
       },
     ],
     generationConfig: {
-      temperature: 0.2,
-      topP: 0.9,
       maxOutputTokens: 1400,
     },
   };
 
-  const response = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "x-goog-api-key": env.GEMINI_API_KEY,
-    },
-    body: JSON.stringify(body),
-  });
+  let lastModelError = null;
 
-  const payload = await response.json();
-  if (!response.ok) {
-    const message = payload?.error?.message || `Gemini returned HTTP ${response.status}.`;
-    throw new Error(message);
+  for (const model of modelCandidates(env.GEMINI_MODEL)) {
+    const endpoint =
+      `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+
+    const response = await fetch(endpoint, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "x-goog-api-key": env.GEMINI_API_KEY,
+      },
+      body: JSON.stringify(body),
+    });
+
+    const payload = await response.json();
+
+    if (!response.ok) {
+      const message = payload?.error?.message || `Gemini returned HTTP ${response.status}.`;
+      if (isModelAvailabilityError(response.status, message)) {
+        lastModelError = new Error(`${model}: ${message}`);
+        continue;
+      }
+      throw new Error(message);
+    }
+
+    const answer = extractGeminiText(payload);
+    if (!answer) {
+      throw new Error(`Gemini model ${model} returned an empty response.`);
+    }
+
+    return {
+      answer,
+      repository_updated: repository.generated_at_display || null,
+      articles_considered: selected.length,
+      model,
+    };
   }
 
-  const answer = extractGeminiText(payload);
-  if (!answer) throw new Error("Gemini returned an empty response.");
-
-  return {
-    answer,
-    repository_updated: repository.generated_at_display || null,
-    articles_considered: selected.length,
-    model,
-  };
+  throw lastModelError || new Error("No supported Gemini model was available.");
 }
 
 export default {
@@ -316,6 +351,8 @@ export default {
           service: "Laboratory News AI",
           endpoint: url.pathname,
           gemini_configured: Boolean(env.GEMINI_API_KEY),
+          configured_model: env.GEMINI_MODEL || null,
+          fallback_models: DEFAULT_MODELS,
         },
         200,
         origin,
