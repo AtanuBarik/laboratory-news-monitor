@@ -47,6 +47,11 @@ TRACKERS = [
         "query": '("Mayo Clinic Laboratories" OR "Mayo Clinic Labs" OR "Mayo Clinic")',
         "official_domains": {"mayocliniclabs.com", "mayoclinic.org"},
     },
+    {
+    "company": "Sonic Healthcare",
+    "query": '("Sonic Healthcare" OR "Sonic Reference Laboratory")',
+    "official_domains": {"sonichealthcare.com"},
+},
 ]
 
 CATEGORY_RULES = {
