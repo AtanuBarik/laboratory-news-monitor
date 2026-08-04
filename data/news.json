@@ -1,9 +1,23 @@
 {
-  "generated_at": "2026-08-04T09:32:56.650118+00:00",
-  "generated_at_display": "04 Aug 2026, 09:32 UTC",
-  "item_count": 346,
+  "generated_at": "2026-08-04T10:40:12.973130+00:00",
+  "generated_at_display": "04 Aug 2026, 10:40 UTC",
+  "item_count": 378,
   "failures": [],
   "items": [
+    {
+      "id": "6451707ad9feb0d05774",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD - FC Bayern",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbFZEUVRvai1QbHMwbVdnNjlYa1VwMzMxZ0NVSVB2dlp3T0NJbUVhQ1Q5YkpTV0lxOEJHbV9ZTHk4elFmTXU4QUo0bmlaVU81TU5sbVBWX3BYNS1hcnJSQU9qV3dXN3kzSVZHNkxmR0RVSEx5UnV0Q0FZT25yUWZRWEJKZzN1QnVkQnk1eXMyZjZlWm9ma0o4Qmhjb2p5Mm05LVY5d2VVQ3h6d1RBU1UwWTlkcHczMzlTMW10SXZrTVdmY0xzVkg4T2FkcElDN09TQThVenRZb3BQMFo4VE9OOA?oc=5",
+      "description": "Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD FC Bayern",
+      "source": "FC Bayern",
+      "source_url": "https://fcbayern.com",
+      "source_domain": "fcbayern.com",
+      "published_at": "2026-08-04T07:23:12+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
     {
       "id": "9fabdc49ccde8d43c1ea",
       "company": "Mayo Clinic Laboratories",
@@ -343,6 +357,20 @@
       "official_source": false
     },
     {
+      "id": "4c3fac2b6cd44fee660f",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Rochester | City in Minnesota, History, Mayo Clinic - britannica.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJYVMzM0czdUFwZW5lVWw1dWFGMEF2cHdEVWxvaGxPOV9id0g4Q2RtRWZybWUya0k5LWgzVmxaNUxHNjJ2RWdxRDlGdFh2WElxUF9xaEQ0U2NLMi00eWR0VGdB?oc=5",
+      "description": "Rochester | City in Minnesota, History, Mayo Clinic britannica.com",
+      "source": "britannica.com",
+      "source_url": "https://www.britannica.com",
+      "source_domain": "britannica.com",
+      "published_at": "2026-08-01T05:00:00+00:00",
+      "published_display": "01 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "29b8aba856623fc60c0d",
       "company": "Labcorp",
       "title": "Labcorp (LH) Launches Marker Genetic Health Panel For Consumer Testing - Yahoo! Finance Canada",
@@ -473,6 +501,20 @@
       "official_source": false
     },
     {
+      "id": "41701e531f382336b7c5",
+      "company": "Quest Diagnostics",
+      "title": "Is DGX Stock Worth Buying After Its Strong 2026 Earnings Momentum? - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWUNtX25ueDhlNFBXRnhxNnZXMDA4YlJlVU4wTGFVY2hGbUpPYjM3Rms0ZXB6YmtLaV9hd2JYOGxjYnZBU3J4NmNxYlpycC1zV00zOHIzWnJKRW0tXzV3VnBoS2hjOGFrSzZxU0wySGZ5RFdxNWhiX2xycTF6dk5WTGNSSWs3a0xxMndIakVhQjRiSDZrYWlkcFhJRy1pNk1KVC0xSW5qTFpldlVVU29mRlphRlhQdWNRTmtPSmR3?oc=5",
+      "description": "Is DGX Stock Worth Buying After Its Strong 2026 Earnings Momentum? TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-31T14:06:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "10b4914a4bdfc79068cb",
       "company": "Labcorp",
       "title": "Rothschild & Co Redburn Adjusts Price Target on Labcorp Holdings to $385 From $325, Maintains Buy Rating - Moomoo",
@@ -535,19 +577,6 @@
       "published_at": "2026-07-31T11:59:08+00:00",
       "published_display": "31 Jul 2026",
       "category": "Partnership",
-      "official_source": false
-    },
-    {
-      "id": "bb6734dfe490084ae701",
-      "company": "Labcorp",
-      "title": "Rothschild & Co Redburn Adjusts Price Target on Labcorp Holdings to $385 From $325, Maintains Buy Rating - Moomoo",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM25aM3E3Y29FWWV3Wmw1MlMtMXJ6V21tSjF1SmRCS2dUa0JJUnpuMUlVcndkMDNMV1hzb0xrbGRwcWZmTGEzVWRSRi1YUTN4SDlMUGVQYWktbWIwaWFROFpnRFMxU2lLMG9YZjk4U1NOdW9qUnVXbzRfd0txR2ZXZ05nUC1IbmpwVFA5UDI5YW9FSHU2MWJWb0J5MVd6QkhNTnFWb0tyTXZUd0gwUjhueVAwWXc2VXhSM3BZb3g0S1lCekRhcm1aWWdkeWRpQmFnX0MxNS1KVGJ1Zw?oc=5",
-      "description": "Rothschild & Co Redburn Adjusts Price Target on Labcorp Holdings to $385 From $325, Maintains Buy Rating Moomoo",
-      "source": "Moomoo",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-31T11:56:50+00:00",
-      "published_display": "31 Jul 2026",
-      "category": "Other",
       "official_source": false
     },
     {
@@ -681,6 +710,20 @@
       "official_source": false
     },
     {
+      "id": "c55ec570429f84ec6b31",
+      "company": "Sonic Healthcare",
+      "title": "ASX opens higher as mining, energy stocks lift - capitalbrief.com",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeE8tTXNCZHhFbzhuNkFiVXlmYzJIRFFET1plbm1DRFNfdG9BZkdhaldBMEVHU0lVbUhhZS1Uc0ZSdzZfUmFkbU0tc1dSWHVaSEJFbDhHTXVYaEJfbWJla1cwSUhQNzdrdGFrZjJsbk42dTJhaFBiWmFoN0tzUkg1T0NxUUwxQTdtQ3JycWJxSGw5bUY2TDExOHhDaTdNRmRzWnQzSnppUHdUb002cm4yT1lLQ1pxa29uUkZHTkFlZzJGcGZUNnc0SEVpUkktNjJ6d2tOV01fRGo0bnl4dnRUaQ?oc=5",
+      "description": "ASX opens higher as mining, energy stocks lift capitalbrief.com",
+      "source": "capitalbrief.com",
+      "source_url": "https://www.capitalbrief.com",
+      "source_domain": "capitalbrief.com",
+      "published_at": "2026-07-31T01:22:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "d6f7f59b529ccbeeae1a",
       "company": "Mayo Clinic Laboratories",
       "title": "New hope for bile duct cancer - Mayo Clinic Press",
@@ -753,6 +796,20 @@
       "description": "Labcorp Holdings Inc. Stock 12‑Month Price Target Raised to $317.31, Implies 3% Upside tradingview.com",
       "source": "tradingview.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T22:20:28+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "1e8417aa8392d875b7af",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Inc. Stock 12‑Month Price Target Raised to $317.31, Implies 3% Upside - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNbF95djVMdm5PZ3JkdnZSRnRTUjZZREhpcDRWRzZrakJGc0ZNMTVoNTFlZEtGVU5BaGhkVGZFa2xMQnhBWTJzTDQwYTdmZzl3ejZzRGw3Z1kyM1RENWNzOFBOYVJUVzBXREw3LXBUbkF0NVlnajZMREtobHB5TUxuRC0xaWJhYjJSWkhGRnctVHFzY0NMM1pQX0RwVU9pRFpyQUZXUkxkU3Q3TzZCWVc0cFNaRm56M3h4b0NrMGxIY05rOUVPLUZTdEtDV2NPeXk1U3BFUHdJRUpibm9q?oc=5",
+      "description": "Labcorp Holdings Inc. Stock 12‑Month Price Target Raised to $317.31, Implies 3% Upside TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
       "published_at": "2026-07-30T22:20:28+00:00",
       "published_display": "30 Jul 2026",
       "category": "Other",
@@ -1188,6 +1245,20 @@
       "official_source": false
     },
     {
+      "id": "b8d7d2cafdbdd5dcfdcf",
+      "company": "Labcorp",
+      "title": "Labcorp raises annual profit forecast on strong testing demand - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUVaWHd3UlRSR1B0YnNoOE4yZmR3Nmhmb1ctYkFBLTVNZGNjemZ1dDF1bEZBZHdvV3Z5dWVEVnRON1ktcTdOc3NwTXFUbDZ6VmdUbTZLZGcwaHczb0VzYm4wbXp6ZkFrdWtvbTJ6WTZkNE1GdElKQVUwOWpNcDY1ZDc1QTdCdU13ckNvcWZEelF6OUwzeTVXUURKWDhaWE16eGc1Q0FZRzI4LVU0ZGpuc1ZFaGktelotLWt1c2NBUUk0QlVjZWNwQnc2SmM?oc=5",
+      "description": "Labcorp raises annual profit forecast on strong testing demand TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-30T11:20:53+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "4a588de1c6aa064263f4",
       "company": "Labcorp",
       "title": "Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance - AOL.com",
@@ -1227,6 +1298,20 @@
       "official_source": false
     },
     {
+      "id": "ac0ee2ee7040c3816e1f",
+      "company": "Labcorp",
+      "title": "Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0QyR3R6WEsxYTNMVDFfbUR5b0RIbUpWZE44MVFTUHZmOG9VbnZWZ3k2NkZqeWVzU3N2akliOHBaVUtzSUpibGp2ODdmVk1vQ29jSXd1dU9HR3g4THNQeWNKS2pQcHNUeVVCazJIeVVLSVl0ZUtMV0hzMnNpLVl3Y3ZKTzN5SzNFNXZhN293REY3R2dCVGZpaXhndmhmQTMtdjViRVYxVk1PR2RpdGt2RGo2a2EyZzhONXM5cmthZTdVMzhUZ3FIemZfcw?oc=5",
+      "description": "Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-30T11:03:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "9fb6512f52dd7d7e09cf",
       "company": "Labcorp",
       "title": "Labcorp: Q2 Earnings Snapshot - marketscreener.com",
@@ -1247,6 +1332,20 @@
       "description": "Labcorp: Q2 Earnings Snapshot KING5.com",
       "source": "KING5.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T10:58:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "9c2a6c05d74cc5c77589",
+      "company": "Labcorp",
+      "title": "Labcorp: Q2 Earnings Snapshot - KTVB",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5",
+      "description": "Labcorp: Q2 Earnings Snapshot KTVB",
+      "source": "KTVB",
+      "source_url": "https://www.ktvb.com",
+      "source_domain": "ktvb.com",
       "published_at": "2026-07-30T10:58:00+00:00",
       "published_display": "30 Jul 2026",
       "category": "Financial",
@@ -1292,6 +1391,20 @@
       "official_source": false
     },
     {
+      "id": "9f635440cf321b6a71d7",
+      "company": "Labcorp",
+      "title": "BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHhXMmw3aENWakozRHRVRGhhTzM0OTluU3pXWl9aTUNEakc2eHZnT1JIMHRIVmwzaGoxWEpPcUJVY1JEQU1pZW1GYkZWaW4xdmluTkhaTnBoem5IQjdQeFAzR1hOYmlSUzFMNXpyaUNldHdOMkY4VTNfNV9yX1ZleUpkRnlRWUNrbFVhRks5X1dGbm1ReGQzODZ1WVZQOHliSU5pTE16M2w2SU02bmhvQ201TXNQNzJFR2lVaXAyX3I0SF93SlJOUG9XVkFkQTVMdy1yRW5TbnotbTl4U1JkcTFKckpZUms0?oc=5",
+      "description": "BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-30T10:51:01+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "239171df687d4ba6651c",
       "company": "Labcorp",
       "title": "Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance - PR Newswire",
@@ -1331,6 +1444,20 @@
       "official_source": false
     },
     {
+      "id": "91611c596d50f3541011",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Minute: A parent’s playbook for sports screenings - Baton Rouge Clinic",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX2kxUDFBU21XaFBTb3JTYTduc0sxZGFGOFRxaFN1Yi10cUtfd3VUbF9DRS1rX0lVWUNwdUhqRk03Q0tKQ1F5YWhGeVZQWTd1bnlsZlk4S1loZmxfVjJsazM0dURwOXdvWUM3SGo1T2lwTVJNWV9tT3NEbjYzaWwxM3VpcHZrTWZaejVRc1JCNDV2YXN4by1yU3ZXYThaWmxaZFctQTJXdw?oc=5",
+      "description": "Mayo Clinic Minute: A parent’s playbook for sports screenings Baton Rouge Clinic",
+      "source": "Baton Rouge Clinic",
+      "source_url": "https://batonrougeclinic.com",
+      "source_domain": "batonrougeclinic.com",
+      "published_at": "2026-07-30T10:24:03+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "685b43bca8a39e343443",
       "company": "Quest Diagnostics",
       "title": "DGX.GJ Bond Risk Profile - tradingview.com",
@@ -1344,6 +1471,20 @@
       "official_source": false
     },
     {
+      "id": "93bc57d7415fc0d1527c",
+      "company": "Quest Diagnostics",
+      "title": "DGX.GJ Bond Risk Profile - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DakZYR3J5dGxoZ2dSTXh3c3A3VXpWRGJxSFI3S0lEWHJRcHF0OG90NGppQ3BvQkdvV1hKV0JkWGlQMlA4Rko5VUkyOS0tZzFxODMta01jNkNIZmF3OEhpNXFwY1QtczVFZ2pBd0E2YTY?oc=5",
+      "description": "DGX.GJ Bond Risk Profile TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-30T08:17:41+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "9612ae854b21df18f006",
       "company": "Quest Diagnostics",
       "title": "DGX.GJ Bond Coupon Profile — Rate & Payments - tradingview.com",
@@ -1351,6 +1492,20 @@
       "description": "DGX.GJ Bond Coupon Profile — Rate & Payments tradingview.com",
       "source": "tradingview.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T08:14:27+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "75ceb034dfddf88e8898",
+      "company": "Quest Diagnostics",
+      "title": "DGX.GJ Bond Coupon Profile — Rate & Payments - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCMDdwUXRKR3NxX3hJSnc4LXUxXzUwdFhTdWJiZXV2am1uUUJTWHRvSm9lSGx4MC1jX0RxbzZUOGFRdWRXRXVSemZTQXZ6SXFOZVFKNVRhMnQxR2FXTnd5T2tpN0ZBbkZKaGpacjFkdWtKQQ?oc=5",
+      "description": "DGX.GJ Bond Coupon Profile — Rate & Payments TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
       "published_at": "2026-07-30T08:14:27+00:00",
       "published_display": "30 Jul 2026",
       "category": "Other",
@@ -1377,6 +1532,20 @@
       "description": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside tradingview.com",
       "source": "tradingview.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-30T03:20:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "34ce593c87a2a64007c1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNW5rQkF3YXBOSlN6WFJldWpTMHg3TlF4aEVzekN1dERqMkZPanRwSnprclVsdWFaWmVhZGpHY3gxZlQ0WDFpOHR0YnJuWkxsaF9FVFRHQWowYTZmMDVpOTVITVNjY19Oakk3anNkaEUzZTRHMDRsZjZIdGlTa1BGVTVYUVlhZnRRNTUydndmdVdSb3Z3WHI3dWN1TllHREhxX3lDbzMzTFI4M1M0Yl9RcVRQN1VYbmduaGRWY3BCX19ZY3dRWi1yTlRJX2lrTU01bnZhUjlsMTFjSmdKNHB4R1IyQmNVQkF1bEE?oc=5",
+      "description": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $248.86, Implies 6% Upside TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
       "published_at": "2026-07-30T03:20:00+00:00",
       "published_display": "30 Jul 2026",
       "category": "Product / Innovation",
@@ -1721,6 +1890,20 @@
       "official_source": false
     },
     {
+      "id": "b88d242cee9e38b39223",
+      "company": "Labcorp",
+      "title": "Internship Spotlight: Jordan Green ’27 explores multiple sides of business at Labcorp - elon.edu",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVVZiWDlTU2ZrU0c3S2tVeXVFTEw4WXlHY2czbndTNmFHRkRDS1FUMkVvalVwUldjZHJoLXJWSV96MzhWSTYySTF2VHQ5VkN4alJoaU5EOHZYOGpPYVJhdldWaHNWZENsZk5DaDh3aVJBRmxzbWFrUFNxRmtSLUpPOG1Mb1lsNUd6eUVidWtVMHJ3T1hXZ05RYWllQ3JSVTRic0hra25NWXNlM1BoVTJVR2FLMUNaeDY0SFdSU3dENDU?oc=5",
+      "description": "Internship Spotlight: Jordan Green ’27 explores multiple sides of business at Labcorp elon.edu",
+      "source": "elon.edu",
+      "source_url": "https://www.elon.edu",
+      "source_domain": "elon.edu",
+      "published_at": "2026-07-28T22:22:48+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "e6f099ef8c5db4614d2f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics (DGX) Could Be 3% Undervalued After Raised 2026 Guidance - simplywall.st",
@@ -1780,6 +1963,20 @@
       "description": "Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
       "source": "Revelio Labs",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-28T16:45:27+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "5c28407143fc3024ceef",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OZ2lDakxPaWFvTmV0NmhyOWN6YTV3UWNCM1Q3R1ZLdG12dWpzcHFZcUFVSUluci1QZWN4Nm5mNEttUHNCeEpKWlZEZ2ZJVWZtSmg0bTFPbFEta3NiMTBRZG95VVRHU2t4cUlV?oc=5",
+      "description": "Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
+      "source": "reveliolabs.com",
+      "source_url": "https://www.reveliolabs.com",
+      "source_domain": "reveliolabs.com",
       "published_at": "2026-07-28T16:45:27+00:00",
       "published_display": "28 Jul 2026",
       "category": "Other",
@@ -1851,6 +2048,20 @@
       "official_source": false
     },
     {
+      "id": "39c552d2230c239f70f2",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Q&A: Strategies for calming back-to-school anxiety - Baton Rouge Clinic",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYmlSaVVIRkhxV0JfNHVYb205cU5oM2JaUUtrQ01YMnhJa3FSeXdTQ3NDQlRCeFlOeGRVSzFrUjhaSldZTElYaFB6ejlkcU94UXo3TUszWUdKZXItaUhSRG9lN2tPWDFQb0RkZWxJeWxKdXBuYmdNQWE0ZTExanVETzNlbzBMb2hUVGlGc0hLc285cHpfNXVTVTVTRW1ISk9PVlYyVnpJel8?oc=5",
+      "description": "Mayo Clinic Q&A: Strategies for calming back-to-school anxiety Baton Rouge Clinic",
+      "source": "Baton Rouge Clinic",
+      "source_url": "https://batonrougeclinic.com",
+      "source_domain": "batonrougeclinic.com",
+      "published_at": "2026-07-28T10:28:03+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "ead2504462c89943fd34",
       "company": "Quest Diagnostics",
       "title": "JPMorgan Adjusts Price Target on Quest Diagnostics to $250 From $220, Maintains Neutral Rating - marketscreener.com",
@@ -1884,6 +2095,20 @@
       "description": "ASX 200 Reverses Early Losses to Finish Higher tradingview.com",
       "source": "tradingview.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-28T06:34:00+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "ee13cfc5d1f4e35af777",
+      "company": "Sonic Healthcare",
+      "title": "ASX 200 Reverses Early Losses to Finish Higher - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVhhNWYzSVVxUkNtZHJOcVIwcUo1R3RPcDIwczBfcWdhZ041QVRvbm5CbHBhdGY5UWxnWk9zaFJvcHh2RlBMMUdEeVIwN2lEc2QyYWZZR0ExQXVYaVJnSnFBbEFsRUZwTXZHMV9WNUJrZXpienZuSjIxZEhYMG9SRFlCMkRLVUpaRFRWQ3kwb1FQVk5UQlY5MmtYWFBlUQ?oc=5",
+      "description": "ASX 200 Reverses Early Losses to Finish Higher TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
       "published_at": "2026-07-28T06:34:00+00:00",
       "published_display": "28 Jul 2026",
       "category": "Other",
@@ -1952,6 +2177,20 @@
       "published_at": "2026-07-27T21:44:21+00:00",
       "published_display": "27 Jul 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "d3b21ff914d313457038",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan - Kalkine Media",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5",
+      "description": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-07-27T21:10:36+00:00",
+      "published_display": "27 Jul 2026",
+      "category": "Financial",
       "official_source": false
     },
     {
@@ -2319,6 +2558,20 @@
       "official_source": false
     },
     {
+      "id": "90e213eccfc396c44dfd",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript - Fortune",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+      "description": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-07-26T02:02:52+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
@@ -2657,6 +2910,20 @@
       "official_source": false
     },
     {
+      "id": "aa446bb3edb00e995551",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQVp4bXBBRXh4NlNnTWM2NWVxUUc3Z1dwQmtSVUhNYTEwUVdkbzktXzUwQ1JsZUVkNnN4U1NjaUsxY2Y1SjdsN05MM19FRjVZT09Oa3c2cmlsaGdFOEpQbl9MdEo5b1M5TEZBTWhaUEV6ejhHeDhaRnVlRFR1ZWJ3VHBpTjFvY3F4V0NIYkhjMW00aDdHTWNsbTU0ZXY5MDZCTHpzY3I4Z2V0eUJfSEI4ZmttZ1BHZUlsNXJLeWM1VmNaMFJIM2VtcnBHWU55MnhaWjktblBMQWhUWWVRY1dGZzM3LTk4VEE0elE?oc=5",
+      "description": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $241.73, Implies 6% Upside TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "583e996410738e19beb1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o - GuruFocus",
@@ -2885,6 +3152,20 @@
       "description": "Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? batonrougeclinic.com",
       "source": "batonrougeclinic.com",
       "source_domain": "news.google.com",
+      "published_at": "2026-07-23T10:09:59+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "c58c4ab9916ea8425932",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? - Baton Rouge Clinic",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRE5qcGgyWkZmMFBUaWprdEJYRi0xLWtIdHJiYmtoVEZnUXRyY2lVZ2owdnR6S1V3UlBMb0xPU3hKM1liaXhPZFVLSUk2cFdlNkdPaWRiWU9VejJWTF9lQnNmX2E3STV1bHdUMVk1Sk9IZHlUZE4zRXJSLTIxengtaTl1OXJUSGx2ZFZrSk5HRVVyVzM5NUlMNmhsRVVjZw?oc=5",
+      "description": "Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? Baton Rouge Clinic",
+      "source": "Baton Rouge Clinic",
+      "source_url": "https://batonrougeclinic.com",
+      "source_domain": "batonrougeclinic.com",
       "published_at": "2026-07-23T10:09:59+00:00",
       "published_display": "23 Jul 2026",
       "category": "Other",
@@ -3164,6 +3445,48 @@
       "official_source": false
     },
     {
+      "id": "9a72728ef9cc1afea68f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) - Benzinga",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSEF2V2kxZTdvVEQzM1lpZDRYRW0xSHVSSkZLa3RTOTRSRFM4WHltSDZETG4zS3loODdxRWRQV2o3dzlMOE1YRGtNQjJyYzBnTVVSb0ZlSDNfdGRrbWRFbWRQN3JpU3djeS13VF8zLWZKN2tRQjBVMkUtM2p6am9OdklDcmYzNElrYmJRVjctNUk1Y3FPLXUxN2g5aHA5OWFLeVVYN1Y1dTFjRDh5ZzYxN1VKbjhFT2NUSUpnXzFwcVhLN1ZzQjNfWWdiOGFPWkVNR0JKTEt3?oc=5",
+      "description": "Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) Benzinga",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "source_domain": "benzinga.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "1c29480fa8ced5f398e6",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic - britannica.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9MS2F0QWpWcTgtTURrRDQ2Q3FYeEEtMEo4eU5tTmtISVdvRmZEVjNIcVpXSXRBRTNzU0xja2JPVElmMlZ6NWFncXdTaE96UExKM2V6cXNWdw?oc=5",
+      "description": "Mayo Clinic britannica.com",
+      "source": "britannica.com",
+      "source_url": "https://www.britannica.com",
+      "source_domain": "britannica.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "552ac23184e25ffa2bb8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow - dars.gov.et",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHpxbm5NSThsbmZ5cWJVdFVWX1FaWUtEdTQ3NXdtX1NBdzV6U0tIckR6ekh6VzhmaElpZHlXNjJsQ241X1I1QzFjSGNld25DUkdpVEpkMTExYkNEbzZuRUJTNkstbWdTcFBpMWxhYllsWC15UGhRbk5Ec2hVb3U4d3NUVFVYWmJhUWh5S1FlVnl5NEJjaGVMQ05KTldxMTNtLTQzaXBYZnRqS1hZcU1pRnpFNU1HcFItTUp4dXVUODEtUTRxVXc?oc=5",
+      "description": "Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-07-23T00:35:45+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "1913eec7daaa3590f8a9",
       "company": "Labcorp",
       "title": "Labcorp (LH) Secures $364.7M Contract for Military Health Services - GuruFocus",
@@ -3173,6 +3496,20 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T00:09:13+00:00",
       "published_display": "23 Jul 2026",
+      "category": "Partnership",
+      "official_source": false
+    },
+    {
+      "id": "7568645d80ffb35b548b",
+      "company": "Labcorp",
+      "title": "Labcorp Wins $364.7 Million Defense Health Agency Testing Contract - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkttcTJRNER6SHlwbTZ3UXlNQUJLMS05V0JVNk9QNXUxNTNicTl1cVM3Wk1Vakl5dnVoWmgtMnh6cFFXb29oNzFoczZ2TjJyMWFGUVpkWUdyNHdjTEFNa2R1WXVxbF9LTkl1MjUxWXM0LWJVTFp2cUhtY3g2Wkp4U2wtYVdjSjhPMUZhSFFxWms0VTFGUWd6Y05YMjJnOEtac29yVEs2U3c1RFE?oc=5",
+      "description": "Labcorp Wins $364.7 Million Defense Health Agency Testing Contract Moomoo",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "source_domain": "moomoo.com",
+      "published_at": "2026-07-22T22:58:02+00:00",
+      "published_display": "22 Jul 2026",
       "category": "Partnership",
       "official_source": false
     },
@@ -3463,6 +3800,20 @@
       "official_source": false
     },
     {
+      "id": "684ca588a3b340261fa1",
+      "company": "Sonic Healthcare",
+      "title": "ASX 200 Muted into Close - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblZnRjdlLW9RMk5Kb3VuYXc3d3c0WlVlOGw2SV95Wk1lSkhYTGJHclZ1NzNTSW5ZQnlseURjOGJpMmpWMTNIVVpxblpMSVhHRVN2M3U1TnUxY0R6VE5JYXM5TE1FcThReDdmOWhYamc3NThVVXdWNTdyUUJMN0l1Qw?oc=5",
+      "description": "ASX 200 Muted into Close TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-21T06:47:00+00:00",
+      "published_display": "21 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "ea0cd90f0881485f5abe",
       "company": "ARUP Laboratories",
       "title": "ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma - PR Newswire",
@@ -3538,6 +3889,20 @@
       "published_at": "2026-07-20T07:00:00+00:00",
       "published_display": "20 Jul 2026",
       "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "a9001f9c5109c4d7f000",
+      "company": "Labcorp",
+      "title": "Business tidbits: Labcorp opens expanded patient service center in Yakima - Yakima Herald-Republic",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYVllVmtZeFM1WDJvbndTV3RQbFZ2Wk41WWg1TlVtR0JSYXVGYnFaWlowc2F2dzVMdjU1SUNYdzVmRjNDcW9XVkEwYTNkX1JvVG9HMDNjSWlQSzQ4OVN4NkNqdldaQXVSLU9CbkxFZnFZVGpVUXRzZzVVZEZYdGlTY1ZLYks1eWZuR2ZGMHUwRG16ZHc0R2h0akJkM2VsRno3TDN2RDlrWmRQbVNlcTVzNU56bnpxSFlWd1NLVVVXOFNwNU11akRVcWEwZk83R0E1eGJweENPZzNxZ1hOLXhDQXMxS25yM2c2SDlIa21wOWN4Y0NyU2l3aUdjTHV4OWd20gGGAkFVX3lxTE9Pa0xRN0dhOE1oeE1ZQ2ktMnlKTXhLaHlwZmZSaUh2b3ptQ0RReUxqblJwQ093dW9vSUlPak9rdVFKTnhyT0NndU1kRVVJWG01UWxlbS1BT1ZNckcyd1UyYmhGaG03RkRSanE4ZWVITDRUNXhlTzY2TV9pTDFtaUNOLUNQZllXSUdvYmYxZE9SRUZFTGVJazl1YjlQUFdiczNFQm50WWVrR1pmZ0JqbFlhVzZSdUd5Ry10ckJOSVUyb1V2bWVOY2lqemxsc1RyODZQc1BhcnhwYTUwNDg1RjNUTEdZczJ5T3hMZng2MlVxVzdzZGtJdWJhOWZvXzdaOUh1NGJBaUE?oc=5",
+      "description": "Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic",
+      "source": "Yakima Herald-Republic",
+      "source_url": "https://www.yakimaherald.com",
+      "source_domain": "yakimaherald.com",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "published_display": "20 Jul 2026",
+      "category": "Other",
       "official_source": false
     },
     {
@@ -3905,6 +4270,20 @@
       "official_source": false
     },
     {
+      "id": "20f4393d00386e089509",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Q&A: What do I need to know about skin cancer protection? - Baton Rouge Clinic",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBHcUItMWlCYjJ1SUxKWV9feWRZa2xuTUlCZUZBSERxX3dhN2lUWnNGOWtfMFdPTXQ1TjhEbVJCY010ZThBbUNNN0tpUWZzQURJZUN2UUlHVEJGNE5Wa0M5dWpYS3Ezd19MTE8wTU9MMWpTWnRCQzdleGtxcm5HZzJsY0pLRXgwb1p3TnZDN0h3bDFiQjZlV0YtMDJmSW9rbGJDd2hIV3NyeDJCaG9qUg?oc=5",
+      "description": "Mayo Clinic Q&A: What do I need to know about skin cancer protection? Baton Rouge Clinic",
+      "source": "Baton Rouge Clinic",
+      "source_url": "https://batonrougeclinic.com",
+      "source_domain": "batonrougeclinic.com",
+      "published_at": "2026-07-14T07:00:00+00:00",
+      "published_display": "14 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "90801e32d1ba89120a6a",
       "company": "Mayo Clinic Laboratories",
       "title": "40 Under 40: Baayla Boon of Mayo Clinic - The Business Journals",
@@ -4191,6 +4570,76 @@
       "official_source": false
     },
     {
+      "id": "9037dae553c5a2c8883c",
+      "company": "Labcorp",
+      "title": "Labcorp Declares Quarterly Dividend - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEcwcVMtOGxkUUVOR2FFVkRmZWlJVmt1elFmSnc3ZXUyVlJIUTVoclZIT2hPOHBMOXRDaVlpeXJ5VjlEbEkyOENrbTdnTVZBaXhOSXpSUDNrNnlFTXJRUjJsdlVDZW1pVXVBd3Z6LU4zX25NYW1ZcHROZjIxVDhfVDBMY0cxVWJvNE9NR3V1Vi04WFdXblE?oc=5",
+      "description": "Labcorp Declares Quarterly Dividend PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "66116c40e5bcce5ea573",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Lawsuit alleges Mayo Clinic cuts corners with AI, putting patient care and privacy at risk - mprnews.org",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFpiSWczSVNlX3psTDJVTkp1aFB2OXhGNHpvYXVBQnFUVkNUa3U5Y3lMZWUxcHl6QlE3QUdfQ0VuMHBXcUZSU2lxQWwwN211MHlJR1pKUzBMdGxOeFU2NWVBWGdHTTFnTjQ1b0Fjb29QQ0h5Y1ZQTmdXeFJXdWM0X3p3dHlkM09TNGNGSEdpVTlsdw?oc=5",
+      "description": "Lawsuit alleges Mayo Clinic cuts corners with AI, putting patient care and privacy at risk mprnews.org",
+      "source": "mprnews.org",
+      "source_url": "https://www.mprnews.org",
+      "source_domain": "mprnews.org",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "e5a2683da4709e080cee",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic backs ViewsML in $4.9M round to advance virtual biomarker staining - rdworldonline.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa0RMaWlnVjlmbFY2cnZSbTlBMmlFdUwweG05NF9iUHNEdDdtYkpVUUhPQnFQZngyOHZxcmVaNEkyXzd0R0hFaW1fQlpjaTdlQjczaUFMaHBCR3Ytbll2WU94c3ZRdmt2RVF6TFdicnFlOEg4VGR6SzI0d0FiLWdfaTkyVHVSS2dNRjFsTlpqUjVvZlRzamY4dzh6TDJRSzBCc01zTGJLX2l1VHpf?oc=5",
+      "description": "Mayo Clinic backs ViewsML in $4.9M round to advance virtual biomarker staining rdworldonline.com",
+      "source": "rdworldonline.com",
+      "source_url": "https://www.rdworldonline.com",
+      "source_domain": "rdworldonline.com",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
+      "id": "eceaf1bfa26449604a98",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Former Mayo Clinic research director sues system over alleged retaliation for raising AI practice concerns - Fierce Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ1pQYXJNa3BQRWRpTzFGYjA5WGtSbDgwUzdnR01xbjdUYjd5amx3Q1EzRWc3VmRwNGZKQmI2SzlEd1NZWkViWXppQm0tSElwT0JpNWtTZG1uV2tnUzA5VVNjNFdGd3VqLXROOV90X21IZnQxUDY1cFNONmFyZjI3ZjF1WHlmZ2pmRU00MGM5Q3dHMDVKQUp1cFd6V3BrNXVmSmpFTkxiOS1CLW1sX2hPcVVRWDJOT2MtclpqeUFtY2NHbTIwYVQxU2dn?oc=5",
+      "description": "Former Mayo Clinic research director sues system over alleged retaliation for raising AI practice concerns Fierce Healthcare",
+      "source": "Fierce Healthcare",
+      "source_url": "https://www.fiercehealthcare.com",
+      "source_domain": "fiercehealthcare.com",
+      "published_at": "2026-07-09T07:00:00+00:00",
+      "published_display": "09 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "99d794c0f65d9c2c645c",
+      "company": "Mayo Clinic Laboratories",
+      "title": "GE HealthCare, Mayo Clinic begin new theranostics trial in Minnesota - AuntMinnie",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGlzSHRBb01oMmVWSExUbWJMTmVqVC1jNUZuSW9ORGZuR1hTcWxsVTlkZFlHZ18zN3AzS0NfODhnektyXzlOVVh4R1VyNHBXMzB3OEVHTzNVc0JGUVZUdDE0Rzc4Y1EzZDFGa1l4ZDE2dEhmX0QxcTVWWmpZakQzZkxQTktZQmNvWHE2ZG1teGYyVTZ5dUh1OUtjWFpTZUtreGtvZ0tLeUtYdzNxYjJ3b3pMZXhhRmgxVjJvRGpySGhBWlh0eF9MUTUxaVVQT29fTXVvRzBWRQ?oc=5",
+      "description": "GE HealthCare, Mayo Clinic begin new theranostics trial in Minnesota AuntMinnie",
+      "source": "AuntMinnie",
+      "source_url": "https://www.auntminnie.com",
+      "source_domain": "auntminnie.com",
+      "published_at": "2026-07-08T18:01:33+00:00",
+      "published_display": "08 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "cc713fe2e820a494621c",
       "company": "Mayo Clinic Laboratories",
       "title": "Blugold published in national journal, continues to improve patient care - Universities of Wisconsin",
@@ -4347,16 +4796,17 @@
       "official_source": false
     },
     {
-      "id": "098b80e15c10d1fd0cda",
+      "id": "e77b2dc4084050daba5d",
       "company": "Mayo Clinic Laboratories",
-      "title": "Retaliation cited in lawsuit filed against Mayo Clinic by former employee - KTTC | Rochester, MN",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcXRIelZaWlVXV2dYZmxOcG14T0pGRVVJQ1Jmazd6aDJJTHpUbFlxNzNKMlRQUXZGc3JQT0R4aFNfeVphWWgzWW54VmVpUHRDZEcyWEFxMTlNaXFBZWFQbGRJRnA5Q0d2OHFORVFIQjB5cVBDeDRzTlZuNVRMUTlIRE96dENaeG1EeXA1eFZrOXRtTnctRXZGUnNLLVViMmdOU2gyTXF30gG6AUFVX3lxTE1IeF9SX0ZUakt4a1lyRUpqRzFNcVFlTkRoRVpZZFlFM293WFdiVU9HWlBTQ1RDQVUtem5zSGdkLWxOWk1pX1J6dkNlYXhSMXlKUHFyek1WakxEbDFFdTE4QnVINFBmbnY2UWE2RFBQUUQ5WnJKVi1tNnVQSWl5UDNlSzdNeEFnY3BTRTZWMGNyYXIxZEhUUS0xbzVUdjFWSng3WUlWc3F0UzhDcjZ5R1BTRUdJSHRUNWNJdw?oc=5",
-      "description": "Retaliation cited in lawsuit filed against Mayo Clinic by former employee KTTC | Rochester, MN",
-      "source": "KTTC | Rochester, MN",
-      "source_domain": "news.google.com",
+      "title": "AI helps doctors estimate your heart’s ‘age’ - KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON0lxWm5GdGVpY1ZmUkxLanNWRUxaRUp2WVlYbkM3OF9wT000Sk1SWUxQMy0zQlNBLUZNSjNjb2FyMnBjZHpOcy0xak9CWk0zVHRvcTZYRGduMW1ucEd1SkItREpyRXBHWXVwdlNHVWt3a0NGREtkU1dwNFFSOW91ZzlVdw?oc=5",
+      "description": "AI helps doctors estimate your heart’s ‘age’ KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "source": "KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
+      "source_url": "https://www.1011now.com",
+      "source_domain": "1011now.com",
       "published_at": "2026-07-08T07:00:00+00:00",
       "published_display": "08 Jul 2026",
-      "category": "Other",
+      "category": "Product / Innovation",
       "official_source": false
     },
     {
