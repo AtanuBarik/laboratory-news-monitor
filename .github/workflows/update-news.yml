@@ -126,6 +126,42 @@ jobs:
       - name: Fetch news and build knowledge files
         run: python scripts/fetch_news.py
 
+      - name: Verify deployed AI Worker
+        env:
+          AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.error
+          import urllib.request
+
+          url = os.environ["AI_WORKER_URL"].strip()
+          try:
+              request = urllib.request.Request(
+                  url,
+                  headers={"Accept": "application/json", "User-Agent": "QuestWorkflowHealthCheck/1.0"},
+              )
+              with urllib.request.urlopen(request, timeout=30) as response:
+                  payload = json.loads(response.read().decode("utf-8"))
+          except Exception as exc:
+              raise SystemExit(f"AI Worker health check failed for {url}: {exc}") from exc
+
+          capabilities = set(payload.get("capabilities") or [])
+          required = {"email_article_summary", "model_and_tool_fallbacks"}
+          missing = sorted(required - capabilities)
+          if missing:
+              raise SystemExit(
+                  "The deployed Cloudflare Worker is older than the GitHub code. "
+                  "Copy the latest cloudflare-worker.js into Cloudflare, deploy it, "
+                  f"and run this workflow again. Missing capabilities: {', '.join(missing)}"
+              )
+
+          print("AI Worker is ready.")
+          print("Preferred model:", payload.get("preferred_model"))
+          print("Model candidates:", ", ".join(payload.get("model_candidates") or []))
+          PY
+
       - name: Email newly identified items
         env:
           EMAIL_PROVIDER: ${{ vars.EMAIL_PROVIDER || 'auto' }}
@@ -141,7 +177,19 @@ jobs:
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
           SEND_TEST_EMAIL: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_email || false }}
-        run: python scripts/email_new_items.py
+        run: |
+          python - <<'PY'
+          import runpy
+
+          module = runpy.run_path(
+              "scripts/email_new_items.py",
+              run_name="quest_email_module",
+          )
+          # Two simultaneous calls stay below common free-tier burst limits while
+          # still keeping a five-item test reasonably fast.
+          module["SUMMARY_WORKERS"] = 2
+          raise SystemExit(module["main"]())
+          PY
 
       - name: Commit updated data, hosted images, and notification state
         shell: bash
