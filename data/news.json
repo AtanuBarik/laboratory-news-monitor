@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T13:03:48.350775+00:00",
-  "generated_at_display": "05 Aug 2026, 13:03 UTC",
-  "item_count": 169,
-  "raw_relevant_item_count": 471,
-  "duplicates_merged": 302,
+  "generated_at": "2026-08-05T13:04:40.696495+00:00",
+  "generated_at_display": "05 Aug 2026, 13:04 UTC",
+  "item_count": 171,
+  "raw_relevant_item_count": 349,
+  "duplicates_merged": 178,
   "failures": [],
   "items": [
     {
@@ -2357,6 +2357,30 @@
       "event_signature": "analyst change colosense momentum narrative upgrades will"
     },
     {
+      "id": "baeee3c77eab7f9bd55f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5",
+      "description": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-07-25T07:04:28+00:00",
+      "published_display": "25 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-07-25T07:04:28+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 balance call earnings growth highlights outlook revenue sheet strategic strength"
+    },
+    {
       "id": "197143a6ae5e6c805fbb",
       "company": "Quest Diagnostics",
       "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
@@ -4152,6 +4176,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "attention global higher market returns turns"
+    },
+    {
+      "id": "84643ef319526071805f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFVnUVhlMHlFRHN2MU5lQldHOWx0RFJNWjJXdzJ6VkhoWWRXRVZ6aF9UTmhlbWRPclhUVVZKbkNycHBXd0dIRVhnYkZzODlBeUtzSi1vWW1vLWtUaXpUck1KTXRLZmZWZF9KYXY5UzNCNjZKaDFFS2pYa1Zwb2dqZlhXdU96TkFxNDcyalcyQWVhQldsQXBsSktBTzhZcGFSbk05WVRBVFFQZkRQQTV2YUxjVnlUOUR6VTlUUFJtWUg2ZWZrQTRDVXV3S0FYWVJTdWpycWdR?oc=5",
+      "description": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-07-06T13:36:15+00:00",
+      "published_display": "06 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFVnUVhlMHlFRHN2MU5lQldHOWx0RFJNWjJXdzJ6VkhoWWRXRVZ6aF9UTmhlbWRPclhUVVZKbkNycHBXd0dIRVhnYkZzODlBeUtzSi1vWW1vLWtUaXpUck1KTXRLZmZWZF9KYXY5UzNCNjZKaDFFS2pYa1Zwb2dqZlhXdU96TkFxNDcyalcyQWVhQldsQXBsSktBTzhZcGFSbk05WVRBVFFQZkRQQTV2YUxjVnlUOUR6VTlUUFJtWUg2ZWZrQTRDVXV3S0FYWVJTdWpycWdR?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-07-06T13:36:15+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     },
     {
       "id": "a85a47dff49cd3b1abfd",

@@ -1,7 +1,7 @@
 {
-  "checked_at": "2026-08-05T13:03:54.007997+00:00",
-  "status": "email_sent",
-  "email_item_count": 3,
+  "checked_at": "2026-08-05T13:04:47.292954+00:00",
+  "status": "test_email_sent",
+  "email_item_count": 5,
   "summary_count": 0,
   "to_count": 1,
   "bcc_count": 1,
