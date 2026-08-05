@@ -1,13 +1,14 @@
 {
-  "checked_at": "2026-08-05T14:14:11.585843+00:00",
-  "status": "test_email_sent",
-  "email_item_count": 5,
-  "summary_count": 5,
-  "ai_summary_count": 0,
-  "fallback_summary_count": 5,
-  "summary_target_words": "180-260",
-  "to_count": 1,
-  "bcc_count": 1,
-  "subject": "Quest Competitor Updates | Aug 05, 2026",
-  "company_logos_attached": false
+  "checked_at": "2026-08-05T16:25:51.733351+00:00",
+  "status": "no_summarizable_items",
+  "candidate_item_count": 4,
+  "email_item_count": 0,
+  "verified_summary_count": 0,
+  "skipped_unreadable_count": 4,
+  "skipped_ids": [
+    "a0b3c8baae938a0cc347",
+    "d63b6c028f29c1e068fd",
+    "e61644cdd83e8087076c",
+    "768ff61f2da115226d30"
+  ]
 }

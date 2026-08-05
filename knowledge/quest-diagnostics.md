@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Aug 2026, 14:14 UTC
+- **Repository generated:** 05 Aug 2026, 16:25 UTC
 - **Distinct events in this file:** 78
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -213,7 +213,7 @@
   - 富途牛牛: https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5
   - Moomoo: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5
 
-**Feed description:** Truist Financial Maintains Quest Diagnostics(DGX.US) With Hold Rating, Maintains Target Price $250 Moomoo
+**Feed description:** Truist Financial Maintains Quest Diagnostics(DGX.US) With Hold Rating, Maintains Target Price $250 moomoo.com
 
 ## 18. Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages
 
@@ -438,7 +438,7 @@
   - Moomoo: https://news.google.com/rss/articles/CBMimwFBVV95cUxQRElHcWNnbHNQR2xCMnZ3VG5mTF8zclQyd1pwRUNnUnI5VWNsWFB6UkVKNUwwRm1ocVZ5WXEzcDR6NG83UHZiaGZRNm1KdVRkME13bmtUektfX3F0X1Z4RmREbk43OXFvNVRENnJORHc3WlIwYzd2UlFjZ0dHWU1XNThyU3JVcEJLVGdzOEZ4V3VTY1FWc25CVjFjbw?oc=5
   - 富途牛牛: https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjJhaVVldmZnS0YyN0xLZnRZcF9WM2gyaHF1eVZtajRBbGJXaFlDdFhrVkpZTDBYMFVxYUNZcms0R2VjQ2pETjlOcndBcnFPWkVPdVJCNm5FaVRNUXBWRWgxTlVodUk0ZzJTQ01jdnYyM296Q3VZUU9tS1g2bTFHYVdCUGpReEFiVkt5QzlrLUd1R3FlZTJVWU5B?oc=5
 
-**Feed description:** A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 Moomoo
+**Feed description:** A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 moomoo.com
 
 ## 36. Is Quest Diagnostics Stock Still Worth More Than Its Price?
 
@@ -669,7 +669,7 @@
 - **Sources:**
   - Moomoo: https://news.google.com/rss/articles/CBMimgFBVV95cUxQdzd6cEh4S3ZvX2F6LWE3Vi1OYTIzRjlEdzdTN0d1NVIxa08yX1JQNFVMQ2diSk5vY01tQ2l3WnpSVVZQRlpzZ3RiLUtGVlhxdW5aajI5Y2pYVjE5MURsNEhYZkZDY2JfQnZpa1dicTVQQjNNdWtBbDFhWnUtM000N0JhX29aaWRuaHhiZmRkM1lpdkxWTXZsOEVR?oc=5
 
-**Feed description:** Quest Diagnostics Up Over 10%, On Pace for Record High Close -- Data Talk Moomoo
+**Feed description:** Quest Diagnostics Up Over 10%, On Pace for Record High Close -- Data Talk moomoo.com
 
 ## 55. Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE)
 

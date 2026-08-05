@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 05 Aug 2026, 14:14 UTC
+- **Repository generated:** 05 Aug 2026, 16:25 UTC
 - **Distinct events in this file:** 77
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -316,7 +316,7 @@
 - **Sources:**
   - Moomoo: https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlprbTZTWXMtbWhDc0NrZWdUMTgyMFlXUXBCdHR0TGFtTEJrcm5pLU5tblB2aE1CU3RXRmZFTWlpdFk0TE5QVW5wX0VnZmFtUndxU2d2NC1QWU5oUDBWaFo1MUtsX0RKUVpFUkVGc21PQzhyR19qQ3ZoYjlzeHhROA?oc=5
 
-**Feed description:** Labcorp Holdings 2Q Net $298.7M >LH Moomoo
+**Feed description:** Labcorp Holdings 2Q Net $298.7M >LH moomoo.com
 
 ## 26. Labcorp Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH
 
@@ -329,7 +329,7 @@
   - Moomoo: https://news.google.com/rss/articles/CBMikgFBVV95cUxNMnRKb3YxSlZ1Z3VveXVnM2hXZlpiNk1hbXlyc2Z4VTlqeFpXb1dKcGVZMmtJLWRkX29Pd29fNUhham0zMGZ1VHlTTVBUblhkU3RxbzRMTldnakU1Rl9BVlJaWXRjV25pT3BOZHVfRm8wMVJSaTJtMU9sUTBNRVZUUUxTSURJZWJOc3V5ZDI5NkM0Zw?oc=5
   - Moomoo: https://news.google.com/rss/articles/CBMigwFBVV95cUxQUHNsUWEzS1RWcTh5RURuMnZEV1FOV2lRYURnaS1RMVdfSVQ0V3ZKVkoyWTgzcXdpZXZjMk5UaGZKRXk3RGN2c0dnM0lRam5JTDFCcVMwM0hUTS1remNKMW5CdUpUbzJnb1VRaGZzcWNJc0tsQzBHQ09Ud2VNSlZkLWFTQQ?oc=5
 
-**Feed description:** Labcorp Holdings Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH Moomoo
+**Feed description:** Labcorp Holdings Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH moomoo.com
 
 ## 27. Is Labcorp Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100
 
@@ -369,7 +369,7 @@
 - **Sources:**
   - Moomoo: https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5
 
-**Feed description:** Labcorp Lifts Outlook as 2Q Profit, Revenue Rise Moomoo
+**Feed description:** Labcorp Lifts Outlook as 2Q Profit, Revenue Rise moomoo.com
 
 ## 30. Labcorp earnings beat by $0.20, revenue topped estimates
 
@@ -804,7 +804,7 @@
 - **Sources:**
   - Moomoo: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkttcTJRNER6SHlwbTZ3UXlNQUJLMS05V0JVNk9QNXUxNTNicTl1cVM3Wk1Vakl5dnVoWmgtMnh6cFFXb29oNzFoczZ2TjJyMWFGUVpkWUdyNHdjTEFNa2R1WXVxbF9LTkl1MjUxWXM0LWJVTFp2cUhtY3g2Wkp4U2wtYVdjSjhPMUZhSFFxWms0VTFGUWd6Y05YMjJnOEtac29yVEs2U3c1RFE?oc=5
 
-**Feed description:** Labcorp Wins $364.7 Million Defense Health Agency Testing Contract Moomoo
+**Feed description:** Labcorp Wins $364.7 Million Defense Health Agency Testing Contract moomoo.com
 
 ## 65. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
 
