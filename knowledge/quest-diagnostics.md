@@ -1,7 +1,7 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Aug 2026, 13:37 UTC
-- **Distinct events in this file:** 77
+- **Repository generated:** 05 Aug 2026, 14:14 UTC
+- **Distinct events in this file:** 78
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -829,7 +829,19 @@
 
 **Feed description:** Quest Diagnostics (DGX) Expands Oncology Test Access, Is The Stock Fully Valued? simplywall.st
 
-## 68. The Bull Case For Quest Diagnostics Could Change Following Oncology Test Integration Into OncoEMR - Learn Why
+## 68. Quest Diagnostics stock underperforms Monday when compared to competitors
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 20 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - MarketWatch: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWp5N185cHhSZnFjT1I5aTlwamp0cjEyZUU5QmVLZ0NkTGY1RjdwNHlKU1A3QUlQM0tsMXhHRkF2ZWhLdHhTaGdOcFZDVTdHTldzdjV0Rk50MlpVRWxvTDlkcTJFSGJjY0J5b2kxVTRJTFNJVW4ySS1DMlhTTW5PNkJBY1RxZzUyV0ZDQXdHejFtWDMtRDYzM2VXaXRrSzZPdVl6ZEFDUWZWdWFQYkJhM05PbUN3aWdnUDdfS19PZ1BFVmlseXZtVXBCc21EdXNiYXF3?oc=5
+
+**Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch
+
+## 69. The Bull Case For Quest Diagnostics Could Change Following Oncology Test Integration Into OncoEMR - Learn Why
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Jul 2026
@@ -841,7 +853,7 @@
 
 **Feed description:** The Bull Case For Quest Diagnostics (DGX) Could Change Following Oncology Test Integration Into OncoEMR - Learn Why simplywall.st
 
-## 69. Quest Diagnostics Stock In Shambles: Down 6.2% With 9-Day Losing Streak
+## 70. Quest Diagnostics Stock In Shambles: Down 6.2% With 9-Day Losing Streak
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -853,7 +865,7 @@
 
 **Feed description:** Quest Diagnostics Stock In Shambles: Down 6.2% With 9-Day Losing Streak Trefis
 
-## 70. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
+## 71. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -865,7 +877,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et
 
-## 71. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
+## 72. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -877,7 +889,7 @@
 
 **Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus Yahoo Finance
 
-## 72. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
+## 73. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -889,7 +901,7 @@
 
 **Feed description:** Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report dars.gov.et
 
-## 73. List of Investments by Quest Diagnostics (Jul, 2026)
+## 74. List of Investments by Quest Diagnostics (Jul, 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -901,7 +913,7 @@
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
 
-## 74. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
+## 75. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -913,7 +925,7 @@
 
 **Feed description:** Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products
 
-## 75. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians
+## 76. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -925,7 +937,7 @@
 
 **Feed description:** Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians stocktitan.net
 
-## 76. Quest Diagnostics integrates cancer testing int...
+## 77. Quest Diagnostics integrates cancer testing int...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -937,7 +949,7 @@
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... pluang.com
 
-## 77. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
+## 78. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Jul 2026

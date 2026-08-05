@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-05T13:37:29.543422+00:00",
-  "generated_at_display": "05 Aug 2026, 13:37 UTC",
-  "item_count": 171,
-  "raw_relevant_item_count": 352,
+  "generated_at": "2026-08-05T14:14:06.062614+00:00",
+  "generated_at_display": "05 Aug 2026, 14:14 UTC",
+  "item_count": 173,
+  "raw_relevant_item_count": 354,
   "duplicates_merged": 181,
   "failures": [],
   "items": [
+    {
+      "id": "d63b6c028f29c1e068fd",
+      "company": "Sonic Healthcare",
+      "title": "Healthcare Momentum in Focus: How CSL (ASX:CSL), Pro Medicus (ASX:PME) and Sonic Healthcare Are Navigating the Sector",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaVBJaEI2dDZTS0dvVVpzQ2FITWRORmxSbTVjdHdWcVlNM05QcWdmLUNZNG42cFFBaXRmMHR4Sk9VazJBc3lzZjN4dWZWMC1rMTN2bDBacm5idmRMUkVPa0JyVHJ2aG8xNzA0ck13NGFDUHVzQjl2SERPYWJPenlxR1RXVDlFMEFnMjNKWGthTEVqUFdGenUwUGRRNUxaWUxCV0Y4bUJuOURYc0pNcU9oSERUa1ItU0hpd1pVcE5Hb1NNYS1HMUV4eTdjRnhzaDRvcFlXMnRHdjQwdlpLc2FMV3pjTGxDcTVTOWJn?oc=5",
+      "description": "Healthcare Momentum in Focus: How CSL (ASX:CSL), Pro Medicus (ASX:PME) and Sonic Healthcare (ASX:SHL) Are Navigating the Sector Kalkine",
+      "source": "Kalkine",
+      "source_url": "https://kalkine.com.au",
+      "source_domain": "kalkine.com.au",
+      "published_at": "2026-08-05T09:20:00+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNaVBJaEI2dDZTS0dvVVpzQ2FITWRORmxSbTVjdHdWcVlNM05QcWdmLUNZNG42cFFBaXRmMHR4Sk9VazJBc3lzZjN4dWZWMC1rMTN2bDBacm5idmRMUkVPa0JyVHJ2aG8xNzA0ck13NGFDUHVzQjl2SERPYWJPenlxR1RXVDlFMEFnMjNKWGthTEVqUFdGenUwUGRRNUxaWUxCV0Y4bUJuOURYc0pNcU9oSERUa1ItU0hpd1pVcE5Hb1NNYS1HMUV4eTdjRnhzaDRvcFlXMnRHdjQwdlpLc2FMV3pjTGxDcTVTOWJn?oc=5",
+          "domain": "kalkine.com.au",
+          "published_at": "2026-08-05T09:20:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are csl focus how medicus momentum navigating pme pro sector"
+    },
     {
       "id": "0dfae174bbd8d4047658",
       "company": "Labcorp",
@@ -3713,6 +3737,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "allegations drug million pay settle testing unnecessary urine"
+    },
+    {
+      "id": "768ff61f2da115226d30",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWp5N185cHhSZnFjT1I5aTlwamp0cjEyZUU5QmVLZ0NkTGY1RjdwNHlKU1A3QUlQM0tsMXhHRkF2ZWhLdHhTaGdOcFZDVTdHTldzdjV0Rk50MlpVRWxvTDlkcTJFSGJjY0J5b2kxVTRJTFNJVW4ySS1DMlhTTW5PNkJBY1RxZzUyV0ZDQXdHejFtWDMtRDYzM2VXaXRrSzZPdVl6ZEFDUWZWdWFQYkJhM05PbUN3aWdnUDdfS19PZ1BFVmlseXZtVXBCc21EdXNiYXF3?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "published_display": "20 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWp5N185cHhSZnFjT1I5aTlwamp0cjEyZUU5QmVLZ0NkTGY1RjdwNHlKU1A3QUlQM0tsMXhHRkF2ZWhLdHhTaGdOcFZDVTdHTldzdjV0Rk50MlpVRWxvTDlkcTJFSGJjY0J5b2kxVTRJTFNJVW4ySS1DMlhTTW5PNkJBY1RxZzUyV0ZDQXdHejFtWDMtRDYzM2VXaXRrSzZPdVl6ZEFDUWZWdWFQYkJhM05PbUN3aWdnUDdfS19PZ1BFVmlseXZtVXBCc21EdXNiYXF3?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-07-20T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors monday stock underperforms when"
     },
     {
       "id": "80cd716961ca7b931867",
