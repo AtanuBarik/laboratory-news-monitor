@@ -1,11 +1,13 @@
 {
-  "checked_at": "2026-08-04T22:35:16.053968+00:00",
-  "checked_at_display": "04 Aug 2026, 22:35 UTC",
-  "status": "email_sent",
-  "repository_updated": "04 Aug 2026, 22:35 UTC",
-  "new_item_count": 16,
-  "email_item_count": 16,
+  "checked_at": "2026-08-05T05:23:39.808437+00:00",
+  "checked_at_display": "05 Aug 2026, 05:23 UTC",
+  "status": "test_email_sent",
+  "new_item_count": 11,
+  "email_item_count": 5,
   "provider": "smtp",
-  "recipient_count": 2,
-  "sender_name": "Quest Updates"
+  "to_count": 1,
+  "bcc_count": 1,
+  "sender_name": "Quest Updates",
+  "ai_summary_count": 5,
+  "subject": "Quest - Competitor Updates | Aug 05, 2026"
 }
