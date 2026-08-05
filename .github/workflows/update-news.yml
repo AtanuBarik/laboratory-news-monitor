@@ -33,7 +33,6 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v6
         with:
-          # Full history is required when the workflow rebases before pushing.
           fetch-depth: 0
 
       - name: Set up Python
@@ -41,7 +40,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build hosted email logo files
+      - name: Build hosted email image files
         shell: bash
         run: |
           set -euo pipefail
@@ -53,47 +52,44 @@ jobs:
           import re
           from pathlib import Path
 
-          source_dir = Path("assets/email-logos")
-          output_dir = source_dir / "rendered"
-          output_dir.mkdir(parents=True, exist_ok=True)
+          jobs = [
+              (Path("assets/email-logos"), "*.jpg.b64", Path("assets/email-logos/rendered"), b"\xff\xd8\xff", "JPEG"),
+              (Path("assets/email-icons"), "*.png.b64", Path("assets/email-icons/rendered"), b"\x89PNG\r\n\x1a\n", "PNG"),
+          ]
 
-          encoded_files = sorted(source_dir.glob("*.jpg.b64"))
-          if not encoded_files:
-              raise SystemExit("No encoded logo files were found.")
-
-          for encoded_path in encoded_files:
+          def decode_file(encoded_path: Path, output_dir: Path, signature: bytes, kind: str) -> None:
               raw = encoded_path.read_text(encoding="utf-8-sig").strip()
-
-              # Accept either plain Base64 or a data:image/...;base64,... value.
               if raw.lower().startswith("data:") and "," in raw:
                   raw = raw.split(",", 1)[1]
 
-              # Remove whitespace and any accidental characters outside the
-              # standard Base64 alphabet, then repair omitted padding.
-              cleaned = re.sub(r"[^A-Za-z0-9+/=]", "", raw)
-              cleaned = cleaned.rstrip("=")
+              cleaned = re.sub(r"[^A-Za-z0-9+/=]", "", raw).rstrip("=")
               cleaned += "=" * (-len(cleaned) % 4)
-
               try:
                   image_bytes = base64.b64decode(cleaned, validate=True)
               except (binascii.Error, ValueError) as exc:
                   raise SystemExit(f"Invalid Base64 in {encoded_path}: {exc}") from exc
 
-              if len(image_bytes) < 100 or not image_bytes.startswith(b"\xff\xd8\xff"):
+              if len(image_bytes) < 100 or not image_bytes.startswith(signature):
                   raise SystemExit(
-                      f"Decoded output from {encoded_path} is not a valid JPEG "
+                      f"Decoded output from {encoded_path} is not a valid {kind} "
                       f"({len(image_bytes)} bytes)."
                   )
 
+              output_dir.mkdir(parents=True, exist_ok=True)
               output_path = output_dir / encoded_path.name.removesuffix(".b64")
               output_path.write_bytes(image_bytes)
-              print(
-                  f"Decoded {encoded_path.name} -> {output_path} "
-                  f"({len(image_bytes):,} bytes)"
-              )
+              print(f"Decoded {encoded_path.name} -> {output_path} ({len(image_bytes):,} bytes)")
+
+          for source_dir, pattern, output_dir, signature, kind in jobs:
+              encoded_files = sorted(source_dir.glob(pattern))
+              if not encoded_files:
+                  raise SystemExit(f"No {kind} source files found in {source_dir}.")
+              for encoded_path in encoded_files:
+                  decode_file(encoded_path, output_dir, signature, kind)
           PY
 
           ls -lh assets/email-logos/rendered
+          ls -lh assets/email-icons/rendered
 
       - name: Fetch news and build knowledge files
         run: python scripts/fetch_news.py
@@ -115,7 +111,7 @@ jobs:
           SEND_TEST_EMAIL: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_email || false }}
         run: python scripts/email_new_items.py
 
-      - name: Commit updated data, hosted logos, and notification state
+      - name: Commit updated data, hosted images, and notification state
         shell: bash
         run: |
           set -euo pipefail
@@ -128,7 +124,8 @@ jobs:
             data/notified_ids.json \
             data/email_status.json \
             knowledge \
-            assets/email-logos/rendered
+            assets/email-logos/rendered \
+            assets/email-icons/rendered
 
           if git diff --cached --quiet; then
             echo "No repository changes to commit."
