@@ -1,7 +1,7 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Aug 2026, 06:06 UTC
-- **Articles in this file:** 146
+- **Repository generated:** 05 Aug 2026, 10:16 UTC
+- **Articles in this file:** 147
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
 
@@ -1814,7 +1814,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus Yahoo Finance
 
-## 140. List of Investments by Quest Diagnostics (Jul, 2026) - Tracxn
+## 140. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report - dars.gov.et
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 14 Jul 2026
+- **Published at (UTC):** 2026-07-14T07:00:00+00:00
+- **Source:** dars.gov.et
+- **Source domain:** dars.gov.et
+- **Category:** Financial
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1FFUTFnMHA5dDNPTlhnR1lfeFJlQlBNck1pUXRoZm9XY2JkU2tLNUVQOE9KZDA2UXRGbjhVSWFNdWFtem13N1lXMGVjMWVDTjdDakRreEpmVVBVS1JtVUhTS2lJRjNQaU9Kd1R1eEdNX2c0ZjlTOG4wTXdUNFRVcWZWS2VCNDZzdndRMTd2VnlRcU1xYlZDLVdwOFgwYjZ3UU1NTHlHV0Fvakp5Z01uY05vYlUwT1hoQ01PRTQxRlNNd1NIRXNFR3pXR3VNRC1TQm5NMmRB?oc=5
+
+**Feed description:** Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report dars.gov.et
+
+## 141. List of Investments by Quest Diagnostics (Jul, 2026) - Tracxn
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -1827,7 +1840,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) Tracxn
 
-## 141. List of Investments by Quest Diagnostics (Jul, 2026) - tracxn.com
+## 142. List of Investments by Quest Diagnostics (Jul, 2026) - tracxn.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -1840,7 +1853,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
 
-## 142. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform - Clinical Lab Products
+## 143. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform - Clinical Lab Products
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1853,7 +1866,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products
 
-## 143. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - Stock Titan
+## 144. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - Stock Titan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1866,7 +1879,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians Stock Titan
 
-## 144. Quest Diagnostics integrates cancer testing int... - Pluang
+## 145. Quest Diagnostics integrates cancer testing int... - Pluang
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1879,7 +1892,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
 
-## 145. Quest Diagnostics integrates cancer testing int... - pluang.com
+## 146. Quest Diagnostics integrates cancer testing int... - pluang.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1892,7 +1905,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... pluang.com
 
-## 146. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - stocktitan.net
+## 147. Quest Diagnostics brings cancer test ordering into OncoEMR for 4,700 clinicians - stocktitan.net
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026

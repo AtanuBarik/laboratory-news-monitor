@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-08-05T06:06:39.175537+00:00",
-  "checked_at_display": "05 Aug 2026, 06:06 UTC",
-  "status": "test_email_sent",
+  "checked_at": "2026-08-05T10:16:19.024674+00:00",
+  "checked_at_display": "05 Aug 2026, 10:16 UTC",
+  "status": "email_sent",
   "provider": "smtp",
-  "email_item_count": 5,
+  "email_item_count": 40,
   "summary_count": 0,
-  "skipped_summary_count": 5,
+  "skipped_summary_count": 40,
   "to_count": 1,
   "bcc_count": 1,
   "subject": "Quest Competitor Updates | Aug 05, 2026"
