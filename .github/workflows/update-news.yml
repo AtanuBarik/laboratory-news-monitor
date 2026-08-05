@@ -45,11 +45,54 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p assets/email-logos/rendered
-          for encoded in assets/email-logos/*.jpg.b64; do
-            filename="$(basename "$encoded" .b64)"
-            base64 --decode "$encoded" > "assets/email-logos/rendered/$filename"
-          done
+          python - <<'PY'
+          from __future__ import annotations
+
+          import base64
+          import binascii
+          import re
+          from pathlib import Path
+
+          source_dir = Path("assets/email-logos")
+          output_dir = source_dir / "rendered"
+          output_dir.mkdir(parents=True, exist_ok=True)
+
+          encoded_files = sorted(source_dir.glob("*.jpg.b64"))
+          if not encoded_files:
+              raise SystemExit("No encoded logo files were found.")
+
+          for encoded_path in encoded_files:
+              raw = encoded_path.read_text(encoding="utf-8-sig").strip()
+
+              # Accept either plain Base64 or a data:image/...;base64,... value.
+              if raw.lower().startswith("data:") and "," in raw:
+                  raw = raw.split(",", 1)[1]
+
+              # Remove whitespace and any accidental characters outside the
+              # standard Base64 alphabet, then repair omitted padding.
+              cleaned = re.sub(r"[^A-Za-z0-9+/=]", "", raw)
+              cleaned = cleaned.rstrip("=")
+              cleaned += "=" * (-len(cleaned) % 4)
+
+              try:
+                  image_bytes = base64.b64decode(cleaned, validate=True)
+              except (binascii.Error, ValueError) as exc:
+                  raise SystemExit(f"Invalid Base64 in {encoded_path}: {exc}") from exc
+
+              if len(image_bytes) < 100 or not image_bytes.startswith(b"\xff\xd8\xff"):
+                  raise SystemExit(
+                      f"Decoded output from {encoded_path} is not a valid JPEG "
+                      f"({len(image_bytes)} bytes)."
+                  )
+
+              output_path = output_dir / encoded_path.name.removesuffix(".b64")
+              output_path.write_bytes(image_bytes)
+              print(
+                  f"Decoded {encoded_path.name} -> {output_path} "
+                  f"({len(image_bytes):,} bytes)"
+              )
+          PY
+
           ls -lh assets/email-logos/rendered
 
       - name: Fetch news and build knowledge files
