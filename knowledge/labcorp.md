@@ -1,11 +1,23 @@
 # Labcorp News
 
-- **Repository generated:** 05 Aug 2026, 18:08 UTC
-- **Distinct events in this file:** 78
+- **Repository generated:** 05 Aug 2026, 22:33 UTC
+- **Distinct events in this file:** 79
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Labcorp Paying Out $35M in Settlement: Who’s Eligible
+## 1. Labcorp Could Be 4% Undervalued As Guidance Rises And New Tests Roll Out
+
+- **Company:** Labcorp
+- **Publication date:** 05 Aug 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - simplywall.st: https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTZUUUxwOU1PR3BwYktpM0pNbHR3Q3V0TldpM0VqSUw3ZjhwWUYtQ1M1UFZYRVNkaDNSRExDbHUzbkR1enNYQWsySnh4clNzcUg5WXVuUXRtWFJLcDVrRTB5cVBHdmFLZ1BVejZxRFJmWkdLZU1vZHJTMXhiZU5iTlpIMWY2SmFHUHR5eF9wWFp3REpoZlV4Z1BuSlVGMkJZUnBsdG9kdHpEd2tySzhZQjdpSEVmb0NNZHFWbDZ6akxId2plUXBQYWgtdjA2QdIB0wFBVV95cUxPc3ozRmpzdDJYYmkyeEZQNXo5dWt3Um5yZ2dMUWQweWNsdjc3SDZWT0c4M01XdVF1Y2xvOTdBdmlLMUo3YU5Kd1h4SGs4bW5qamVLdVVxMW1hcVB3ZFIyZVdVbHRfSTIwaFBFbE1IdjdVekt6UF9uMUNPN3VHLVZqNEJkNHpQWUNXb0taN29rTHlIenlWaFF1bko0ZEZfaFFYcDI3MXlKcjI0X09LNF9WWlc3b2hDWURKNjNGcl8xTmc4ZVVoeUhaY1RWcHhod1lDZTZv?oc=5
+
+**Feed description:** Labcorp Holdings (LH) Could Be 4% Undervalued As Guidance Rises And New Tests Roll Out simplywall.st
+
+## 2. Labcorp Paying Out $35M in Settlement: Who’s Eligible
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -17,21 +29,22 @@
 
 **Feed description:** Labcorp Paying Out $35M in Settlement: Who’s Eligible newsweek.com
 
-## 2. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
+## 3. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
 - **Category:** Product & Services
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxQbS04ZXd2M2xtTXNpWnd0QWVCMG1QN09nUEVzY1JQa1RSaThyV3ZfTnd4Y3o0ejVab25GZnVuUTVWNTNqNHpGdDhJVkE1VG5QYlp3N3lWTGg3TW9odWVmZkRXVlRXMjhTSEZuSktYNV94MmlVRVNBQlZaX1hROER0S2IxMks4cVBJWVlFU1hFdDZnZWkyYzUyd0VKVQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFBxbjZSTnoweGNkajlzaXVJY1VXU2Foemd5S3k5UlI3N3g2Y0hFd1o0SlhpWGxrTmxndUhTYXNfX0dBSlBENlNkYnFoVG94eHB0azJIRTZtZER0MXZQa1dBSmRvUzItNFJ3QWxrdVZJMDBFUUtocGNKeUlkblhMcGh3MUx4NWRkaFZJQUJpTnZvd1lpMGM4NVRCbHJhNFZvb3lXQ1VaTU1WMjIzU3A0Sl9R?oc=5
 
-**Feed description:** Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer finance.yahoo.com
+**Feed description:** Labcorp Launches FDA-Approved IHC Companion Diagnostic for Prostate Cancer Clinical Lab Products
 
-## 3. Labcorp Test May Identify Prostate Cancer Patients for TRUQAP
+## 4. Labcorp Test May Identify Prostate Cancer Patients for TRUQAP
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -43,7 +56,7 @@
 
 **Feed description:** Labcorp Test May Identify Prostate Cancer Patients for TRUQAP stocktitan.net
 
-## 4. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
+## 5. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
 
 - **Company:** Labcorp
 - **Publication date:** 03 Aug 2026
@@ -55,7 +68,7 @@
 
 **Feed description:** Labcorp Holdings Inc. 2026 Q2 - Results - Earnings Call Presentation (NYSE:LH) 2026-08-03 Seeking Alpha
 
-## 5. The Bull Case For Labcorp Could Change Following Guidance Hike And New Genetic Panel Launch
+## 6. The Bull Case For Labcorp Could Change Following Guidance Hike And New Genetic Panel Launch
 
 - **Company:** Labcorp
 - **Publication date:** 02 Aug 2026
@@ -68,7 +81,7 @@
 
 **Feed description:** The Bull Case For Labcorp (LH) Could Change Following Guidance Hike And New Genetic Panel Launch simplywall.st
 
-## 6. Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full
+## 7. Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -80,7 +93,7 @@
 
 **Feed description:** Labcorp (LH) Stock Looks Cheap On Cash Flow While Earnings Look Full simplywall.st
 
-## 7. Labcorp raises earnings outlook on strong medical testing demand
+## 8. Labcorp raises earnings outlook on strong medical testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -92,7 +105,7 @@
 
 **Feed description:** Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com
 
-## 8. Analysts Offer Insights on Healthcare Companies: Labcorp and Cytokinetics (CYTK)
+## 9. Analysts Offer Insights on Healthcare Companies: Labcorp and Cytokinetics (CYTK)
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -104,7 +117,7 @@
 
 **Feed description:** Analysts Offer Insights on Healthcare Companies: Labcorp Holdings (LH) and Cytokinetics (CYTK) theglobeandmail.com
 
-## 9. Labcorp Stock Holds A Bullish Case On Margin Expansion
+## 10. Labcorp Stock Holds A Bullish Case On Margin Expansion
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -117,7 +130,7 @@
 
 **Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion simplywall.st
 
-## 10. Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance
+## 11. Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -129,7 +142,7 @@
 
 **Feed description:** Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance pluang.com
 
-## 11. Labcorp stock hits 52-week high at 315.82 USD
+## 12. Labcorp stock hits 52-week high at 315.82 USD
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -141,7 +154,7 @@
 
 **Feed description:** Labcorp Holdings Inc stock hits 52-week high at 315.82 USD Investing.com
 
-## 12. Labcorp (Q2 2026) Earnings Call Highlights: St
+## 13. Labcorp (Q2 2026) Earnings Call Highlights: St
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -155,7 +168,7 @@
 
 **Feed description:** Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: St GuruFocus
 
-## 13. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
+## 14. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -167,7 +180,7 @@
 
 **Feed description:** Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals
 
-## 14. Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted
+## 15. Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -179,7 +192,7 @@
 
 **Feed description:** Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted Investing.com
 
-## 15. Labcorp Q2 2026 slides: strong results drive guidance raise
+## 16. Labcorp Q2 2026 slides: strong results drive guidance raise
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -191,7 +204,7 @@
 
 **Feed description:** Labcorp Q2 2026 slides: strong results drive guidance raise Investing.com
 
-## 16. Labcorp Exec Says Assumption for About 30 Bas
+## 17. Labcorp Exec Says Assumption for About 30 Bas
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -203,7 +216,7 @@
 
 **Feed description:** Labcorp Exec Says Assumption for About 30 Bas Moomoo
 
-## 17. Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook
+## 18. Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -220,7 +233,7 @@
 
 **Feed description:** Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook Investing.com
 
-## 18. Labcorp Reports Q2 Earnings: What Key Metrics Have to Say
+## 19. Labcorp Reports Q2 Earnings: What Key Metrics Have to Say
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -232,7 +245,7 @@
 
 **Feed description:** Labcorp (LH) Reports Q2 Earnings: What Key Metrics Have to Say Yahoo! Finance Canada
 
-## 19. Labcorp Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026
+## 20. Labcorp Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -244,7 +257,7 @@
 
 **Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 
-## 20. Labcorp Raised Its 2026 Outlook After A Strong Q2
+## 21. Labcorp Raised Its 2026 Outlook After A Strong Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -256,7 +269,7 @@
 
 **Feed description:** Labcorp Raised Its 2026 Outlook After A Strong Q2 finimize.com
 
-## 21. Labcorp Reports Q2 CY2026 In Line With Expectations
+## 22. Labcorp Reports Q2 CY2026 In Line With Expectations
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -270,7 +283,7 @@
 
 **Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com
 
-## 22. Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance
+## 23. Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -282,7 +295,7 @@
 
 **Feed description:** Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance Fierce Biotech
 
-## 23. Labcorp Surpasses Q2 Earnings and Revenue Estimates
+## 24. Labcorp Surpasses Q2 Earnings and Revenue Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -294,7 +307,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Surpasses Q2 Earnings and Revenue Estimates finance.yahoo.com
 
-## 24. Labcorp Revises Earnings Guidance for the Full Year 2026
+## 25. Labcorp Revises Earnings Guidance for the Full Year 2026
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -306,7 +319,7 @@
 
 **Feed description:** Labcorp Holdings Inc. Revises Earnings Guidance for the Full Year 2026 marketscreener.com
 
-## 25. Labcorp 2Q Net $298.7M >LH
+## 26. Labcorp 2Q Net $298.7M >LH
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -318,7 +331,7 @@
 
 **Feed description:** Labcorp Holdings 2Q Net $298.7M >LH moomoo.com
 
-## 26. Labcorp Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH
+## 27. Labcorp Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -331,7 +344,7 @@
 
 **Feed description:** Labcorp Holdings Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH moomoo.com
 
-## 27. Is Labcorp Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100
+## 28. Is Labcorp Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -343,7 +356,7 @@
 
 **Feed description:** Is Labcorp Holdings Inc (LH) Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100 GuruFocus
 
-## 28. Labcorp raises annual profit forecast on strong testing demand
+## 29. Labcorp raises annual profit forecast on strong testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -359,7 +372,7 @@
 
 **Feed description:** Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada
 
-## 29. Labcorp Lifts Outlook as 2Q Profit, Revenue Rise
+## 30. Labcorp Lifts Outlook as 2Q Profit, Revenue Rise
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -371,7 +384,7 @@
 
 **Feed description:** Labcorp Lifts Outlook as 2Q Profit, Revenue Rise moomoo.com
 
-## 30. Labcorp earnings beat by $0.20, revenue topped estimates
+## 31. Labcorp earnings beat by $0.20, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -383,7 +396,7 @@
 
 **Feed description:** Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com
 
-## 31. Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance
+## 32. Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -395,7 +408,7 @@
 
 **Feed description:** Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance tradingview.com
 
-## 32. Labcorp: Q2 Earnings Snapshot
+## 33. Labcorp: Q2 Earnings Snapshot
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -409,7 +422,7 @@
 
 **Feed description:** Labcorp: Q2 Earnings Snapshot marketscreener.com
 
-## 33. Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion
+## 34. Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -421,7 +434,7 @@
 
 **Feed description:** Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion Quiver Quantitative
 
-## 34. Labcorp raises 2026 guidance and expands $1.4B buyback
+## 35. Labcorp raises 2026 guidance and expands $1.4B buyback
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -433,7 +446,7 @@
 
 **Feed description:** Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net
 
-## 35. BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million
+## 36. BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -445,7 +458,7 @@
 
 **Feed description:** BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million tradingview.com
 
-## 36. Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance
+## 37. Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -458,7 +471,7 @@
 
 **Feed description:** Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance PR Newswire
 
-## 37. Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5%
+## 38. Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5%
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -470,7 +483,7 @@
 
 **Feed description:** Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5% stocktitan.net
 
-## 38. Labcorp Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase
+## 39. Labcorp Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -482,7 +495,7 @@
 
 **Feed description:** LH Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase StockStory
 
-## 39. Labcorp earnings ahead: Can specialty tests sustain momentum?
+## 40. Labcorp earnings ahead: Can specialty tests sustain momentum?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -494,7 +507,7 @@
 
 **Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
 
-## 40. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
+## 41. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -506,7 +519,7 @@
 
 **Feed description:** Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates finance.yahoo.com
 
-## 41. What To Expect From Labcorp’s Q2 Earnings
+## 42. What To Expect From Labcorp’s Q2 Earnings
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -519,7 +532,7 @@
 
 **Feed description:** What To Expect From Labcorp’s (LH) Q2 Earnings theglobeandmail.com
 
-## 42. Labcorp Shares Surge 4.3% -- What GF Score of 78 Tells Investors
+## 43. Labcorp Shares Surge 4.3% -- What GF Score of 78 Tells Investors
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -531,7 +544,7 @@
 
 **Feed description:** Labcorp Holdings Inc (LH) Shares Surge 4.3% -- What GF Score of 78 Tells Investors GuruFocus
 
-## 43. Internship Spotlight: Jordan Green ’27 explores multiple sides of business at Labcorp
+## 44. Internship Spotlight: Jordan Green ’27 explores multiple sides of business at Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -543,7 +556,7 @@
 
 **Feed description:** Internship Spotlight: Jordan Green ’27 explores multiple sides of business at Labcorp Elon University
 
-## 44. Labcorp stock underperforms Tuesday when compared to competitors despite daily gains
+## 45. Labcorp stock underperforms Tuesday when compared to competitors despite daily gains
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -557,7 +570,7 @@
 
 **Feed description:** Labcorp Holdings Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com
 
-## 45. Labcorp expands hereditary risk testing access with genetic health panel
+## 46. Labcorp expands hereditary risk testing access with genetic health panel
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -565,12 +578,12 @@
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - Yahoo: https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5
   - Medical Device Network: https://news.google.com/rss/articles/CBMifEFVX3lxTE51TVdEYXZuUkZOQUdRY0VETGQ3U2NsaDNiWkdPaWpmQm1uYmowdDVtOVhTMGloek9XSHItMDU5ZTZVQ1JYUWQ4YW4za1dIRmdRTFVFQndSeVNnbWNOM1MwbHdSdVVwUzRua2JRMndtSUJtU1FSODZvcHlTZHY?oc=5
+  - Yahoo: https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5
 
 **Feed description:** Labcorp expands hereditary risk testing access with genetic health panel medicaldevice-network.com
 
-## 46. LH|Labcorp |Price:309.200|Chg%:-6.330
+## 47. LH|Labcorp |Price:309.200|Chg%:-6.330
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -582,7 +595,7 @@
 
 **Feed description:** LH|Labcorp Holdings Inc|Price:309.200|Chg%:-6.330 TradingKey
 
-## 47. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
+## 48. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -594,7 +607,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net
 
-## 48. Labcorp launches genetic health panel for consumers By Investing.com
+## 49. Labcorp launches genetic health panel for consumers By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -606,7 +619,7 @@
 
 **Feed description:** Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa
 
-## 49. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
+## 50. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -618,7 +631,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus
 
-## 50. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
+## 51. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -630,7 +643,7 @@
 
 **Feed description:** Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases Fierce Biotech
 
-## 51. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
+## 52. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -648,7 +661,7 @@
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
 
-## 52. Labcorp's New Test Pairs Inherited-Risk Results With Counselor Support
+## 53. Labcorp's New Test Pairs Inherited-Risk Results With Counselor Support
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -660,7 +673,7 @@
 
 **Feed description:** Labcorp's New Test Pairs Inherited-Risk Results With Counselor Support stocktitan.net
 
-## 53. Labcorp Draws Fresh Analyst Optimism, Is The Stock Still Cheap?
+## 54. Labcorp Draws Fresh Analyst Optimism, Is The Stock Still Cheap?
 
 - **Company:** Labcorp
 - **Publication date:** 26 Jul 2026
@@ -672,7 +685,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Draws Fresh Analyst Optimism, Is The Stock Still Cheap? simplywall.st
 
-## 54. Will Analyst Upgrades and ColoSense Momentum Change Labcorp' Narrative
+## 55. Will Analyst Upgrades and ColoSense Momentum Change Labcorp' Narrative
 
 - **Company:** Labcorp
 - **Publication date:** 25 Jul 2026
@@ -684,7 +697,7 @@
 
 **Feed description:** Will Analyst Upgrades and ColoSense Momentum Change Labcorp Holdings' (LH) Narrative simplywall.st
 
-## 55. Labcorp stock outperforms competitors on strong trading day
+## 56. Labcorp stock outperforms competitors on strong trading day
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -697,7 +710,7 @@
 
 **Feed description:** Labcorp Holdings Inc. stock outperforms competitors on strong trading day marketwatch.com
 
-## 56. Labcorp Draws Fresh Earnings Optimism, Is It Still 4% Undervalued?
+## 57. Labcorp Draws Fresh Earnings Optimism, Is It Still 4% Undervalued?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -709,7 +722,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Draws Fresh Earnings Optimism, Is It Still 4% Undervalued? finance.yahoo.com
 
-## 57. Labcorp Hit a 52 Week High, Can the Run Continue?
+## 58. Labcorp Hit a 52 Week High, Can the Run Continue?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -721,7 +734,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Hit a 52 Week High, Can the Run Continue? finance.yahoo.com
 
-## 58. Strength Seen in Labcorp: Can Its 3.4% Jump Turn into More Strength?
+## 59. Strength Seen in Labcorp: Can Its 3.4% Jump Turn into More Strength?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -733,7 +746,7 @@
 
 **Feed description:** Strength Seen in Labcorp (LH): Can Its 3.4% Jump Turn into More Strength? finance.yahoo.com
 
-## 59. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
+## 60. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -745,7 +758,7 @@
 
 **Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com
 
-## 60. Why Labcorp Stock Is Up Today
+## 61. Why Labcorp Stock Is Up Today
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -758,7 +771,7 @@
 
 **Feed description:** Why Labcorp Holdings (LH) Stock Is Up Today Quiver Quantitative
 
-## 61. Labcorp Earnings Expected to Grow: Should You Buy?
+## 62. Labcorp Earnings Expected to Grow: Should You Buy?
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -770,7 +783,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Earnings Expected to Grow: Should You Buy? finance.yahoo.com
 
-## 62. Labcorp stock hits 52-week high at 293.92 USD
+## 63. Labcorp stock hits 52-week high at 293.92 USD
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -782,7 +795,7 @@
 
 **Feed description:** Labcorp Holdings Inc stock hits 52-week high at 293.92 USD Investing.com
 
-## 63. Labcorp Secures $364.7M Contract for Military Health Services
+## 64. Labcorp Secures $364.7M Contract for Military Health Services
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -794,7 +807,7 @@
 
 **Feed description:** Labcorp (LH) Secures $364.7M Contract for Military Health Services GuruFocus
 
-## 64. Labcorp Wins $364.7 Million Defense Health Agency Testing Contract
+## 65. Labcorp Wins $364.7 Million Defense Health Agency Testing Contract
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
@@ -806,7 +819,7 @@
 
 **Feed description:** Labcorp Wins $364.7 Million Defense Health Agency Testing Contract moomoo.com
 
-## 65. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
+## 66. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
@@ -819,7 +832,7 @@
 
 **Feed description:** Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - July 22, 2026 Zacks Investment Research
 
-## 66. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
+## 67. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
 
 - **Company:** Labcorp
 - **Publication date:** 21 Jul 2026
@@ -831,7 +844,7 @@
 
 **Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com
 
-## 67. Business tidbits: Labcorp opens expanded patient service center in Yakima
+## 68. Business tidbits: Labcorp opens expanded patient service center in Yakima
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -843,7 +856,7 @@
 
 **Feed description:** Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic
 
-## 68. Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing
+## 69. Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -855,7 +868,7 @@
 
 **Feed description:** Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing Clinical Lab Products
 
-## 69. Labcorp: The Story Has Not Changed Materially
+## 70. Labcorp: The Story Has Not Changed Materially
 
 - **Company:** Labcorp
 - **Publication date:** 16 Jul 2026
@@ -867,7 +880,7 @@
 
 **Feed description:** Labcorp Holdings: The Story Has Not Changed Materially Seeking Alpha
 
-## 70. Labcorp seen as a steady growth buy with cost c...
+## 71. Labcorp seen as a steady growth buy with cost c...
 
 - **Company:** Labcorp
 - **Publication date:** 16 Jul 2026
@@ -879,7 +892,7 @@
 
 **Feed description:** Labcorp seen as a steady growth buy with cost c... pluang.com
 
-## 71. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
+## 72. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
 
 - **Company:** Labcorp
 - **Publication date:** 15 Jul 2026
@@ -891,7 +904,7 @@
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec Yahoo Finance
 
-## 72. Labcorp Upgraded by Wall Street Zen to "Buy" Rating
+## 73. Labcorp Upgraded by Wall Street Zen to "Buy" Rating
 
 - **Company:** Labcorp
 - **Publication date:** 12 Jul 2026
@@ -903,7 +916,7 @@
 
 **Feed description:** Labcorp (NYSE:LH) Upgraded by Wall Street Zen to "Buy" Rating MarketBeat
 
-## 73. Labcorp Declares Cash Dividend of $0.72 Per S
+## 74. Labcorp Declares Cash Dividend of $0.72 Per S
 
 - **Company:** Labcorp
 - **Publication date:** 10 Jul 2026
@@ -915,7 +928,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
 
-## 74. Labcorp Declares Quarterly Dividend
+## 75. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -929,7 +942,7 @@
 
 **Feed description:** Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com
 
-## 75. Labcorp sets 72-cent dividend for Sept. 11 payout
+## 76. Labcorp sets 72-cent dividend for Sept. 11 payout
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -941,7 +954,7 @@
 
 **Feed description:** Labcorp sets 72-cent dividend for Sept. 11 payout stocktitan.net
 
-## 76. Labcorp EVP sells shares after RSU vesting under Rule 10b5-1 plan
+## 77. Labcorp EVP sells shares after RSU vesting under Rule 10b5-1 plan
 
 - **Company:** Labcorp
 - **Publication date:** 06 Jul 2026
@@ -953,7 +966,7 @@
 
 **Feed description:** Labcorp (LH) EVP sells shares after RSU vesting under Rule 10b5-1 plan stocktitan.net
 
-## 77. Labcorp chief legal officer Kyle sells $26,329 in common stock.
+## 78. Labcorp chief legal officer Kyle sells $26,329 in common stock.
 
 - **Company:** Labcorp
 - **Publication date:** 06 Jul 2026
@@ -965,7 +978,7 @@
 
 **Feed description:** Labcorp chief legal officer Kyle sells $26,329 in common stock. Investing.com
 
-## 78. Labcorp legal chief sells shares, exercises 256 stock units
+## 79. Labcorp legal chief sells shares, exercises 256 stock units
 
 - **Company:** Labcorp
 - **Publication date:** 06 Jul 2026

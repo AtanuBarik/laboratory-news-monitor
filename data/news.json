@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-05T18:08:59.191597+00:00",
-  "generated_at_display": "05 Aug 2026, 18:08 UTC",
-  "item_count": 176,
-  "raw_relevant_item_count": 358,
-  "duplicates_merged": 182,
+  "generated_at": "2026-08-05T22:33:47.259223+00:00",
+  "generated_at_display": "05 Aug 2026, 22:33 UTC",
+  "item_count": 178,
+  "raw_relevant_item_count": 359,
+  "duplicates_merged": 181,
   "failures": [],
   "items": [
+    {
+      "id": "8a77d1230261ddd77dd3",
+      "company": "Labcorp",
+      "title": "Labcorp Could Be 4% Undervalued As Guidance Rises And New Tests Roll Out",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTZUUUxwOU1PR3BwYktpM0pNbHR3Q3V0TldpM0VqSUw3ZjhwWUYtQ1M1UFZYRVNkaDNSRExDbHUzbkR1enNYQWsySnh4clNzcUg5WXVuUXRtWFJLcDVrRTB5cVBHdmFLZ1BVejZxRFJmWkdLZU1vZHJTMXhiZU5iTlpIMWY2SmFHUHR5eF9wWFp3REpoZlV4Z1BuSlVGMkJZUnBsdG9kdHpEd2tySzhZQjdpSEVmb0NNZHFWbDZ6akxId2plUXBQYWgtdjA2QdIB0wFBVV95cUxPc3ozRmpzdDJYYmkyeEZQNXo5dWt3Um5yZ2dMUWQweWNsdjc3SDZWT0c4M01XdVF1Y2xvOTdBdmlLMUo3YU5Kd1h4SGs4bW5qamVLdVVxMW1hcVB3ZFIyZVdVbHRfSTIwaFBFbE1IdjdVekt6UF9uMUNPN3VHLVZqNEJkNHpQWUNXb0taN29rTHlIenlWaFF1bko0ZEZfaFFYcDI3MXlKcjI0X09LNF9WWlc3b2hDWURKNjNGcl8xTmc4ZVVoeUhaY1RWcHhod1lDZTZv?oc=5",
+      "description": "Labcorp Holdings (LH) Could Be 4% Undervalued As Guidance Rises And New Tests Roll Out simplywall.st",
+      "source": "simplywall.st",
+      "source_url": "https://simplywall.st",
+      "source_domain": "simplywall.st",
+      "published_at": "2026-08-05T17:45:59+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTZUUUxwOU1PR3BwYktpM0pNbHR3Q3V0TldpM0VqSUw3ZjhwWUYtQ1M1UFZYRVNkaDNSRExDbHUzbkR1enNYQWsySnh4clNzcUg5WXVuUXRtWFJLcDVrRTB5cVBHdmFLZ1BVejZxRFJmWkdLZU1vZHJTMXhiZU5iTlpIMWY2SmFHUHR5eF9wWFp3REpoZlV4Z1BuSlVGMkJZUnBsdG9kdHpEd2tySzhZQjdpSEVmb0NNZHFWbDZ6akxId2plUXBQYWgtdjA2QdIB0wFBVV95cUxPc3ozRmpzdDJYYmkyeEZQNXo5dWt3Um5yZ2dMUWQweWNsdjc3SDZWT0c4M01XdVF1Y2xvOTdBdmlLMUo3YU5Kd1h4SGs4bW5qamVLdVVxMW1hcVB3ZFIyZVdVbHRfSTIwaFBFbE1IdjdVekt6UF9uMUNPN3VHLVZqNEJkNHpQWUNXb0taN29rTHlIenlWaFF1bko0ZEZfaFFYcDI3MXlKcjI0X09LNF9WWlc3b2hDWURKNjNGcl8xTmc4ZVVoeUhaY1RWcHhod1lDZTZv?oc=5",
+          "domain": "simplywall.st",
+          "published_at": "2026-08-05T17:45:59+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "could guidance out rises roll tests undervalued"
+    },
     {
       "id": "a0b3c8baae938a0cc347",
       "company": "Sonic Healthcare",
@@ -137,7 +161,7 @@
       "company": "Labcorp",
       "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
-      "description": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer finance.yahoo.com",
+      "description": "Labcorp Launches FDA-Approved IHC Companion Diagnostic for Prostate Cancer Clinical Lab Products",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -163,9 +187,15 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5",
           "domain": "investing.com",
           "published_at": "2026-08-05T05:01:39+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFBxbjZSTnoweGNkajlzaXVJY1VXU2Foemd5S3k5UlI3N3g2Y0hFd1o0SlhpWGxrTmxndUhTYXNfX0dBSlBENlNkYnFoVG94eHB0azJIRTZtZER0MXZQa1dBSmRvUzItNFJ3QWxrdVZJMDBFUUtocGNKeUlkblhMcGh3MUx4NWRkaFZJQUJpTnZvd1lpMGM4NVRCbHJhNFZvb3lXQ1VaTU1WMjIzU3A0Sl9R?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-05T20:43:26+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "approved cancer companion diagnostic fda launches prostate pten"
     },
     {
@@ -1788,36 +1818,6 @@
       "event_signature": "250 hold maintains morgan price raises rating target"
     },
     {
-      "id": "5756ac4158d68a543133",
-      "company": "Labcorp",
-      "title": "Labcorp expands hereditary risk testing access with genetic health panel",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5",
-      "description": "Labcorp expands hereditary risk testing access with genetic health panel medicaldevice-network.com",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "source_domain": "yahoo.com",
-      "published_at": "2026-07-28T09:33:48+00:00",
-      "published_display": "28 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-07-28T09:33:48+00:00"
-        },
-        {
-          "name": "Medical Device Network",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51TVdEYXZuUkZOQUdRY0VETGQ3U2NsaDNiWkdPaWpmQm1uYmowdDVtOVhTMGloek9XSHItMDU5ZTZVQ1JYUWQ4YW4za1dIRmdRTFVFQndSeVNnbWNOM1MwbHdSdVVwUzRua2JRMndtSUJtU1FSODZvcHlTZHY?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-29T09:59:04+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "access expands genetic health hereditary panel risk testing"
-    },
-    {
       "id": "710ce2244d8eca29175d",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages",
@@ -1839,6 +1839,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "analysis averages indicators moving resistance support technical"
+    },
+    {
+      "id": "3d76c00817211a488f5b",
+      "company": "Labcorp",
+      "title": "Labcorp expands hereditary risk testing access with genetic health panel",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51TVdEYXZuUkZOQUdRY0VETGQ3U2NsaDNiWkdPaWpmQm1uYmowdDVtOVhTMGloek9XSHItMDU5ZTZVQ1JYUWQ4YW4za1dIRmdRTFVFQndSeVNnbWNOM1MwbHdSdVVwUzRua2JRMndtSUJtU1FSODZvcHlTZHY?oc=5",
+      "description": "Labcorp expands hereditary risk testing access with genetic health panel medicaldevice-network.com",
+      "source": "Medical Device Network",
+      "source_url": "https://www.medicaldevice-network.com",
+      "source_domain": "medicaldevice-network.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Device Network",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51TVdEYXZuUkZOQUdRY0VETGQ3U2NsaDNiWkdPaWpmQm1uYmowdDVtOVhTMGloek9XSHItMDU5ZTZVQ1JYUWQ4YW4za1dIRmdRTFVFQndSeVNnbWNOM1MwbHdSdVVwUzRua2JRMndtSUJtU1FSODZvcHlTZHY?oc=5",
+          "domain": "medicaldevice-network.com",
+          "published_at": "2026-07-28T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-07-28T09:33:48+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "access expands genetic health hereditary panel risk testing"
     },
     {
       "id": "de21aa27679048b80e14",
@@ -1941,9 +1971,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-29T22:23:21+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-07-27T21:18:08+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "com form investing july orporated"
     },
     {
@@ -2859,29 +2895,6 @@
       "event_signature": "04b 2026 adjusted call earnings eps jumps outlook raises revenue surges"
     },
     {
-      "id": "d0f38a2806e20d7ddd4f",
-      "company": "Quest Diagnostics",
-      "title": "Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5",
-      "description": "Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. marketscreener.com",
-      "source": "marketscreener.com",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-23T14:06:30+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-23T14:06:30+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2010 buyback equity october plan tranche"
-    },
-    {
       "id": "875e7a220e672b4492ec",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com",
@@ -3447,6 +3460,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "beat guidance raised rises stock strong"
+    },
+    {
+      "id": "64b8373a02002095cdb4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics lifts Q2 EPS to $2.84 on 10% revenue growth",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFdFY1hRaVY4NHloUWl2ei03Z08tbWtzOXZvTW8wZFRsSUM0Y0xXS2FUZEpkRV83ZFpSVmpicXlZWEZKUWR0SG5OSXoxN2ZOM3pGclJFa2hFY0E4SjluU1BhdnVBeF9zeThUbnZzV3lqaWVQNDg0QTU0TEFaLXNrUDZDUUxPTjN3SXRYa2NQLVdIRkRlbzUzWmZRbkdFWHFNU0tTY3dWS1hRX0pDNklrTU5aMA?oc=5",
+      "description": "Quest Diagnostics (NYSE: DGX) lifts Q2 EPS to $2.84 on 10% revenue growth Stock Titan",
+      "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFdFY1hRaVY4NHloUWl2ei03Z08tbWtzOXZvTW8wZFRsSUM0Y0xXS2FUZEpkRV83ZFpSVmpicXlZWEZKUWR0SG5OSXoxN2ZOM3pGclJFa2hFY0E4SjluU1BhdnVBeF9zeThUbnZzV3lqaWVQNDg0QTU0TEFaLXNrUDZDUUxPTjN3SXRYa2NQLVdIRkRlbzUzWmZRbkdFWHFNU0tTY3dWS1hRX0pDNklrTU5aMA?oc=5",
+          "domain": "stocktitan.net",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "eps growth lifts revenue"
+    },
+    {
+      "id": "9901a8dc52243c2d573d",
+      "company": "Quest Diagnostics",
+      "title": "Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5",
+      "description": "Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2010 buyback equity october plan tranche"
     },
     {
       "id": "1913eec7daaa3590f8a9",
