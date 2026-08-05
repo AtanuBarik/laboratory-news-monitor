@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T05:23:34.471072+00:00",
-  "generated_at_display": "05 Aug 2026, 05:23 UTC",
-  "item_count": 509,
+  "generated_at": "2026-08-05T06:06:34.588712+00:00",
+  "generated_at_display": "05 Aug 2026, 06:06 UTC",
+  "item_count": 519,
   "failures": [],
   "items": [
     {
@@ -58,6 +58,20 @@
       "published_at": "2026-08-04T17:30:19+00:00",
       "published_display": "04 Aug 2026",
       "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "78bca8b401d7f956f1d5",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Hospitals Make Honor Roll, Named #1 in Minnesota, Arizona and Florida by U.S. News & World Report - KROC-AM",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HYTRFc013b2FHdXJCNTRNSVNVUENNREdYNlEyTmFfUU9rREZRMUF4dXVjYmtFbXlpVWlsbGNsMnh1M2hNbEJvVDFlcUNqQ0NhV0s2Zy0ydzFhUy0zdS1CTA?oc=5",
+      "description": "Mayo Clinic Hospitals Make Honor Roll, Named #1 in Minnesota, Arizona and Florida by U.S. News & World Report KROC-AM",
+      "source": "KROC-AM",
+      "source_url": "https://krocnews.com",
+      "source_domain": "krocnews.com",
+      "published_at": "2026-08-04T17:21:22+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Leadership / Organization",
       "official_source": false
     },
     {
@@ -383,6 +397,20 @@
       "official_source": false
     },
     {
+      "id": "e49a7401a03cb9d786ae",
+      "company": "Sonic Healthcare",
+      "title": "The ‘safe’ sector hiding a tale of two very different investments - couriermail.com.au",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQaFFuNXRpbzBmOVotVThSOXRnTUVEZ0ZJTTNSbWpxNHQ5QXFrcHBuMmZrLTctS1REVkpxVVJfSWJkLXItemZKb2RuM2phMzF1blBqT29MNGNlS1I1bmpPRHp6MDVQeVEzNG1SUHpWUmZURkFSQ3FrMjBxaUVFcXE3RXFfQ2o3WklUSEFlRGxFSTlUdFNGT3BvLVNwbGV4V3BUdjhWNHhvMF9rTEQ5Qi13bXBkdkRnazFob0lfV0pmdl9DaWxZUGR2LUpiQWx2ZHlRU09hOXN2V1NDWnVqNHJyRkVVQ1ZTTkJzWVZ4bTByVTQ4Snk1TWRvSXdXbl91Vkx2LVVEQnpQd193VUpZampJbl80Q0xFeHJ2a3fSAZoCQVVfeXFMUGhRbjV0aW8wZjlaLVU4Ujl0Z01FRGdGSU0zUm1qcTR0OUFxa3BwbjJmay03LUtURFZKcVVSX0liZC1yLXpmSm9kbjNqYTMxdW5Qak9vTDRjZUtSNW5qT0R6ejA1UHlRMzRtUlB6VlJmVEZBUkNxazIwcWlFRXFxN0VxX0NqN1pJVEhBZURsRUk5VHRTRk9wby1TcGxleFdwVHY4VjR4bzBfa0xEOUItd21wZHZEZ2sxaG9JX1dKZnZfQ2lsWVBkdi1KYkFsdmR5UVNPYTlzdldTQ1p1ajRyckZFVUNWU05Cc1lWeG0wclU0OEp5NU1kb0l3V25fdVZMdi1VREJ6UHdfd1VKWWpqSW5fNENMRXhydmt3?oc=5",
+      "description": "The ‘safe’ sector hiding a tale of two very different investments couriermail.com.au",
+      "source": "couriermail.com.au",
+      "source_url": "https://www.couriermail.com.au",
+      "source_domain": "couriermail.com.au",
+      "published_at": "2026-08-04T07:43:55+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "M&A / Investment",
+      "official_source": false
+    },
+    {
       "id": "6451707ad9feb0d05774",
       "company": "Mayo Clinic Laboratories",
       "title": "Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD - FC Bayern",
@@ -526,6 +554,20 @@
       "description": "Labcorp (LH) Q2 2026 Earnings Call Transcript The Motley Fool",
       "source": "The Motley Fool",
       "source_domain": "news.google.com",
+      "published_at": "2026-08-04T00:56:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "290722929f328038377f",
+      "company": "Labcorp",
+      "title": "Labcorp (LH) Q2 2026 Earnings Call Transcript - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5",
+      "description": "Labcorp (LH) Q2 2026 Earnings Call Transcript fool.com",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "source_domain": "fool.com",
       "published_at": "2026-08-04T00:56:00+00:00",
       "published_display": "04 Aug 2026",
       "category": "Financial",
@@ -889,6 +931,34 @@
       "source": "Smartkarma",
       "source_domain": "news.google.com",
       "published_at": "2026-08-02T21:42:46+00:00",
+      "published_display": "02 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "a06a8808105a89d41e42",
+      "company": "Sonic Healthcare",
+      "title": "Australia: Shorts Surging in SHL, SGP, CAR, COH, ASX, WTC, XRO - smartkarma.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRUJXbEhMTmpsZmt3akRCVHZVZ2RIQjBpSExYYzNzWXIzcmhqeG5Ud0JMT0FtNC04eEgxM3puLUZqZ2RWOXhudlVNb3FhY25FWHQ3TU1RMmpEZU82bjNBRGxlVzFWZGJ5RXJtNHg2QXpQQ0lVTDdKazlyVm9XNWZ4RWJWaEdITzJKbUQ3ZWlxMmJVNnI5ZjhhTzI4VlRxeWRad2lYTU1TQTNPRy1DTHJzcmcyRmlVZVk0cHFkdGc4dw?oc=5",
+      "description": "Australia: Shorts Surging in SHL, SGP, CAR, COH, ASX, WTC, XRO smartkarma.com",
+      "source": "smartkarma.com",
+      "source_url": "https://www.smartkarma.com",
+      "source_domain": "smartkarma.com",
+      "published_at": "2026-08-02T21:42:46+00:00",
+      "published_display": "02 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "b18c66fff2254c5a9772",
+      "company": "Labcorp",
+      "title": "Labcorp Holdings Insiders Sold US$4.8m Of Shares Suggesting Hesitancy - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWpKdlNLUHZwaEhXcDd0RUsyMmJPWXBjbmZvLU5FM0VxVGM5bTdWNjFIZURpSk44YnJQX28tdklEUFRjSzJ1dFRqWTJGM1U0UXBWVGI5WGdsakdMS1YzdkV1amhnSlUxU1ZYbmlCTk9rV3N6b0VmX3NCSnM2SXVVUEN6Sld0czRaZTZDWEp6ejhMM3g2MEhCMy1BVWpnWmF0MkVn?oc=5",
+      "description": "Labcorp Holdings Insiders Sold US$4.8m Of Shares Suggesting Hesitancy Moomoo",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "source_domain": "moomoo.com",
+      "published_at": "2026-08-02T12:52:22+00:00",
       "published_display": "02 Aug 2026",
       "category": "Other",
       "official_source": false
@@ -1945,10 +2015,10 @@
     {
       "id": "e16f34126ca3eb5bfdd3",
       "company": "Labcorp",
-      "title": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations - barchart.com",
+      "title": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations - Barchart.com",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5",
-      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations barchart.com",
-      "source": "barchart.com",
+      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations Barchart.com",
+      "source": "Barchart.com",
       "source_url": "https://www.barchart.com",
       "source_domain": "barchart.com",
       "published_at": "2026-07-30T12:21:26+00:00",
@@ -3776,6 +3846,20 @@
       "official_source": false
     },
     {
+      "id": "b847620079a030ca6ed1",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Stock Climbed This Past Week - fool.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
+      "description": "Why Quest Diagnostics Stock Climbed This Past Week fool.com",
+      "source": "fool.com",
+      "source_url": "https://www.fool.com",
+      "source_domain": "fool.com",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
@@ -4356,6 +4440,20 @@
       "official_source": false
     },
     {
+      "id": "875e7a220e672b4492ec",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com - Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOF8xc3J1V0cyTHFHZDFDd2IxM0pKWUlKaTQyRmEydkFsQUxETFgzbmZkUG1YaUxSQUtMZ3dQcGFmUEI3MHpDd2dlbW9heS15R25lNkRoRnM2ckdScV9sQnB3cWkxbFhRWXBOTUF4NmFxRzRNWWh6dVo3OTFzUzU3RFl2S1RTZEhnNVpsLWJGSlg3M3I5U3N4eDR5cy0xbEtkbHZQWnF0VTI2STZuRXFLdm9KNTZIZw?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-07-23T13:40:10+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "e8459fbde9e1699a847c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Raises Earnings Guidance for the Full Year 2026 - marketscreener.com",
@@ -4868,6 +4966,20 @@
       "source": "reuters.com",
       "source_url": "https://www.reuters.com",
       "source_domain": "reuters.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
+      "id": "a3ed4d6c4bbfb5f03aa6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $229.6, Implies 9% Upside - tradingview.com",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNUNxanBTOWVJYXVDWVc3Z3J6T2o3ZVdURlFYbFBwZEw0M3NlSmNVbVIzRzJWREhQb1FfZU5HcU9sN1pPWEtJOHZoWFBzT0FsM25jUjVVUXo1Zy1CYkxtLS11M0hTa0R1MHMwdnZJQUVwOFpFeWRCUmdZU2QzYi1wX1UyYXJKXzRHLUtPSTZxNURwd0tfV2tWZTVQdHRZN2ZrOFl3NXZGSlNzQkRrZktjNjRzeXAxWVVnQkdoNVNBMVVuSkJ1ZDZOV1BFd0FDM3M1Szd2S19mREJKR0hsRDVwX0o1d0VNN2tP?oc=5",
+      "description": "Quest Diagnostics Incorporated Stock 12‑Month Price Target Raised to $229.6, Implies 9% Upside tradingview.com",
+      "source": "tradingview.com",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
       "category": "Product / Innovation",
@@ -6281,6 +6393,20 @@
       "official_source": false
     },
     {
+      "id": "f276313d861bd2a59687",
+      "company": "Mayo Clinic Laboratories",
+      "title": "GE HealthCare, Mayo Clinic begin new theranostics trial in Minnesota - auntminnie.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGlzSHRBb01oMmVWSExUbWJMTmVqVC1jNUZuSW9ORGZuR1hTcWxsVTlkZFlHZ18zN3AzS0NfODhnektyXzlOVVh4R1VyNHBXMzB3OEVHTzNVc0JGUVZUdDE0Rzc4Y1EzZDFGa1l4ZDE2dEhmX0QxcTVWWmpZakQzZkxQTktZQmNvWHE2ZG1teGYyVTZ5dUh1OUtjWFpTZUtreGtvZ0tLeUtYdzNxYjJ3b3pMZXhhRmgxVjJvRGpySGhBWlh0eF9MUTUxaVVQT29fTXVvRzBWRQ?oc=5",
+      "description": "GE HealthCare, Mayo Clinic begin new theranostics trial in Minnesota auntminnie.com",
+      "source": "auntminnie.com",
+      "source_url": "https://www.auntminnie.com",
+      "source_domain": "auntminnie.com",
+      "published_at": "2026-07-08T18:01:33+00:00",
+      "published_display": "08 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "cc713fe2e820a494621c",
       "company": "Mayo Clinic Laboratories",
       "title": "Blugold published in national journal, continues to improve patient care - Universities of Wisconsin",
@@ -6769,6 +6895,20 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWEtX3R3cnE2VXdzR2NZX2F4Rm1ZOXVqekptNUhGWDZQSjRtVVNsTEtKaGZ1ajNkRWZfd1lvLWNLSWtoYTVtWlNPYU5tYzhzWENXSlF0SU9WVzlDaHlxR0Q3T2lnLXRvVUJTQ1VwZ2JEQlk3SUtFdnlvR2s1eVRoYTVrcEljZFJFaVgxek9FNWVGOHFGSlFxUlBNZ0MtSFdKc2tZei1jY3NDbzJLNEI2WTB3?oc=5",
       "description": "Labcorp (NYSE: LH) legal chief sells shares, exercises 256 stock units Stock Titan",
       "source": "Stock Titan",
+      "source_url": "https://www.stocktitan.net",
+      "source_domain": "stocktitan.net",
+      "published_at": "2026-07-06T07:00:00+00:00",
+      "published_display": "06 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "679571980bb0251df6b4",
+      "company": "Labcorp",
+      "title": "Labcorp (NYSE: LH) legal chief sells shares, exercises 256 stock units - stocktitan.net",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWEtX3R3cnE2VXdzR2NZX2F4Rm1ZOXVqekptNUhGWDZQSjRtVVNsTEtKaGZ1ajNkRWZfd1lvLWNLSWtoYTVtWlNPYU5tYzhzWENXSlF0SU9WVzlDaHlxR0Q3T2lnLXRvVUJTQ1VwZ2JEQlk3SUtFdnlvR2s1eVRoYTVrcEljZFJFaVgxek9FNWVGOHFGSlFxUlBNZ0MtSFdKc2tZei1jY3NDbzJLNEI2WTB3?oc=5",
+      "description": "Labcorp (NYSE: LH) legal chief sells shares, exercises 256 stock units stocktitan.net",
+      "source": "stocktitan.net",
       "source_url": "https://www.stocktitan.net",
       "source_domain": "stocktitan.net",
       "published_at": "2026-07-06T07:00:00+00:00",
