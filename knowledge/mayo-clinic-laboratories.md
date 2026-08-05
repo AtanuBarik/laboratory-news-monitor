@@ -1,6 +1,6 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 05 Aug 2026, 11:38 UTC
+- **Repository generated:** 05 Aug 2026, 11:40 UTC
 - **Articles in this file:** 150
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
@@ -33,7 +33,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Keto Supplements Mayo Clinic: What the Evidence Actually Supports - View 9FwN4Pbag FC Bayern
 
-## 3. Mayo Clinic Hospitals Make Honor Roll, Named #1 in Minnesota, Arizona and Florida by U.S. News & World Report - KROC-AM
+## 3. Keto Supplements Mayo Clinic: What the Evidence Actually Supports - View 9FwN4Pbag - fcbayern.com
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 04 Aug 2026
+- **Published at (UTC):** 2026-08-04T17:30:19+00:00
+- **Source:** fcbayern.com
+- **Source domain:** fcbayern.com
+- **Category:** Other
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGg5VzNSd2piSVFYNWN5a1ZwajdyM0pNYXg0Yl9DQlZrakY3SXVFYVIzYWswa3pEOTFEc1NwcjhIcG5lUVU0MHlJNEppQUF5ZFZ5NmE3eVRoYVFBZE55ZXY3OHROYkdlc3hxSXdNRG96N0plMmtMaWVOYy1YZ29TNXUxUWJWdnp6d0xPZmZFZVJWZ2ZoT05JS2k3cEc0cWc0QmFnWTAxeVFjOXBSTTJ4aEZXallOX2p2TkM3VjBOSEVvRldNc2RkX3k4T2UycnhTMnR6NjBtMnpseVd4b1NLUQ?oc=5
+
+**Feed description:** Keto Supplements Mayo Clinic: What the Evidence Actually Supports - View 9FwN4Pbag fcbayern.com
+
+## 4. Mayo Clinic Hospitals Make Honor Roll, Named #1 in Minnesota, Arizona and Florida by U.S. News & World Report - KROC-AM
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -46,7 +59,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Hospitals Make Honor Roll, Named #1 in Minnesota, Arizona and Florida by U.S. News & World Report KROC-AM
 
-## 4. Mayo Clinic Diet Plan - View aQq9sOV5H - FC Bayern
+## 5. Mayo Clinic Diet Plan - View aQq9sOV5H - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -59,7 +72,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Diet Plan - View aQq9sOV5H FC Bayern
 
-## 5. Health effects of PFAS - Mayo Clinic Press
+## 6. Mayo Clinic Diet Plan - View aQq9sOV5H - fcbayern.com
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 04 Aug 2026
+- **Published at (UTC):** 2026-08-04T16:23:01+00:00
+- **Source:** fcbayern.com
+- **Source domain:** fcbayern.com
+- **Category:** Other
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUjltRFFNUmJPYWRpaEViQjN6YVlYWGhPeXFFY1pYYVNhS3B3cS1rbnYwNHpBNEoxWlFpNlQ4RElMbEhDd2oxbG9WeGJXdzRLYUpfVzZDcXUtNWJMcUlqMjU3RVd3MUR2WkI3VnZQNW5pWXV3WVZrTXpNZnh0WkhvQ01peWwwbE5vSVZvaXhoblQwYjU4TzAwcEJXWVJJa3BabnFwSS1Kd3c1OHc4MF9uQmoyY05VYWg3RjlqQTE3MmM2QkY5MFJWREgwbGJaQnAxLUo4VWlMSXUwSDdvZG9fRg?oc=5
+
+**Feed description:** Mayo Clinic Diet Plan - View aQq9sOV5H fcbayern.com
+
+## 7. Health effects of PFAS - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -72,7 +98,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Health effects of PFAS Mayo Clinic Press
 
-## 6. Mayo named best hospital in Florida, among national honor roll - The Business Journals
+## 8. Mayo named best hospital in Florida, among national honor roll - The Business Journals
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -85,7 +111,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo named best hospital in Florida, among national honor roll The Business Journals
 
-## 7. Mayo Clinic in ranked No. 1 hospital in Florida, joins national Honor Roll - Action News Jax
+## 9. Mayo Clinic in ranked No. 1 hospital in Florida, joins national Honor Roll - Action News Jax
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -98,7 +124,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic in ranked No. 1 hospital in Florida, joins national Honor Roll Action News Jax
 
-## 8. Mayo Clinic ranked No. 1 hospital in Florida, joins national Honor Roll - Action News Jax
+## 10. Mayo Clinic ranked No. 1 hospital in Florida, joins national Honor Roll - Action News Jax
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -111,7 +137,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic ranked No. 1 hospital in Florida, joins national Honor Roll Action News Jax
 
-## 9. Teachers connect beyond the classroom through paired kidney donation (VIDEO) - Mayo Clinic News Network
+## 11. Teachers connect beyond the classroom through paired kidney donation (VIDEO) - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -124,7 +150,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Teachers connect beyond the classroom through paired kidney donation (VIDEO) Mayo Clinic News Network
 
-## 10. Teachers connect beyond the classroom through paired kidney donation (VIDEO) - newsnetwork.mayoclinic.org
+## 12. Teachers connect beyond the classroom through paired kidney donation (VIDEO) - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -137,7 +163,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Teachers connect beyond the classroom through paired kidney donation (VIDEO) newsnetwork.mayoclinic.org
 
-## 11. Mayo Clinic tops world hospital rankings for 8th year in a row - KIMT
+## 13. Mayo Clinic tops world hospital rankings for 8th year in a row - KIMT
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -150,7 +176,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic tops world hospital rankings for 8th year in a row KIMT
 
-## 12. CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV - FC Bayern
+## 14. CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -163,7 +189,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV FC Bayern
 
-## 13. CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS - fcbayern.com
+## 15. CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV - fcbayern.com
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 04 Aug 2026
+- **Published at (UTC):** 2026-08-04T10:27:36+00:00
+- **Source:** fcbayern.com
+- **Source domain:** fcbayern.com
+- **Category:** Research / Clinical
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxORTZPdjZzZHNOVGlhNGIzZlNNY09pNWJ4cHdHelVZOHp1d05FaTZ0YVpIR1NKMVVOUXM0SlhsbHFweWJVeWx2QnlrTldYaERkZlpxV1RGMmNpSEJDaS1TM2t1QXZzUzFDX3VCblNWUjFvb2MxR0MwVjNhRDRucndiT0Z1WjlKNVpURk9wUDBPb1h3SEw2VHQyVFR1T3BjdG1Ib1hraWhxWUtMVXUya3NURTN1MFhCekxORkI0bnpxaXExY0JYUVZYcFJjYzhDaEpaZDFHV0RJLXZLZGMzR0h2QjVn?oc=5
+
+**Feed description:** CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV fcbayern.com
+
+## 16. CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -176,7 +215,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS fcbayern.com
 
-## 14. CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS - FC Bayern
+## 17. CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -189,7 +228,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** CBD Gummies Research Mayo Clinic NIH FDA Position - View xfgcpW5qS FC Bayern
 
-## 15. 14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care - The Business Journals
+## 18. 14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care - The Business Journals
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -202,7 +241,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** 14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care The Business Journals
 
-## 16. 14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care - bizjournals.com
+## 19. 14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care - bizjournals.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -215,20 +254,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** 14 Minnesota hospitals earn U.S. News recognition as Mayo dominates specialty care bizjournals.com
 
-## 17. CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV - fcbayern.com
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 04 Aug 2026
-- **Published at (UTC):** 2026-08-04T09:07:45+00:00
-- **Source:** fcbayern.com
-- **Source domain:** fcbayern.com
-- **Category:** Research / Clinical
-- **Official source:** No
-- **Original article:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxORTZPdjZzZHNOVGlhNGIzZlNNY09pNWJ4cHdHelVZOHp1d05FaTZ0YVpIR1NKMVVOUXM0SlhsbHFweWJVeWx2QnlrTldYaERkZlpxV1RGMmNpSEJDaS1TM2t1QXZzUzFDX3VCblNWUjFvb2MxR0MwVjNhRDRucndiT0Z1WjlKNVpURk9wUDBPb1h3SEw2VHQyVFR1T3BjdG1Ib1hraWhxWUtMVXUya3NURTN1MFhCekxORkI0bnpxaXExY0JYUVZYcFJjYzhDaEpaZDFHV0RJLXZLZGMzR0h2QjVn?oc=5
-
-**Feed description:** CBD Research Mayo Clinic NIH FDA Stance on Gummies - View VAnA6qEYV fcbayern.com
-
-## 18. CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa - fcbayern.com
+## 20. CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -241,7 +267,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa fcbayern.com
 
-## 19. CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa - FC Bayern
+## 21. CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -254,7 +280,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** CBD Gummies Benefits Side Effects Limitations Studies Mayo Clinic NIH - View d2fxF5USa FC Bayern
 
-## 20. cbd research mayo clinic nih cochrane review gummies - View obfX1UUWn - FC Bayern
+## 22. cbd research mayo clinic nih cochrane review gummies - View obfX1UUWn - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -267,7 +293,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** cbd research mayo clinic nih cochrane review gummies - View obfX1UUWn FC Bayern
 
-## 21. Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD - FC Bayern
+## 23. cbd research mayo clinic nih cochrane review gummies - View obfX1UUWn - fcbayern.com
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 04 Aug 2026
+- **Published at (UTC):** 2026-08-04T09:00:19+00:00
+- **Source:** fcbayern.com
+- **Source domain:** fcbayern.com
+- **Category:** Research / Clinical
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOU9hczloTU1xXzhwYzNzODVPdUJxZ2YyU0JaczZZSUNjb2tSQ2hURXJWRk5oRU1YUFRfUmdzMGFXZFN2OW9ERUJjV1AtVkxlS0puTllKZVM0dHVIYUM4SEdqTTFOcFY4NWVtd3RvVHYyTTZPN3pIV21XcE0yYUpubXFobWtwQkdYVm5xZm1GVzZabnlVajg0dkFYNTZDQkJ1Wk93QzRZSWdfVFBCaXNmUnRpeDNwem1KTS1Ed0x1U055SDIyVkVodThSRnNIdzZ4THA1QXZZdVdWeGpyaWZ1UWN3?oc=5
+
+**Feed description:** cbd research mayo clinic nih cochrane review gummies - View obfX1UUWn fcbayern.com
+
+## 24. Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -280,7 +319,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD FC Bayern
 
-## 22. Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD - fcbayern.com
+## 25. Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -293,7 +332,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Cost of Fitness and Weight Managment Program Mayo Clinic - View qpqub2alD fcbayern.com
 
-## 23. Mayo Clinic Diet 2 Week Plan - View EeU6UIhUe - FC Bayern
+## 26. Mayo Clinic Diet 2 Week Plan - View EeU6UIhUe - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -306,7 +345,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Diet 2 Week Plan - View EeU6UIhUe FC Bayern
 
-## 24. Mayo Clinic Diet 2 Week Plan - View EeU6UIhUe - fcbayern.com
+## 27. Mayo Clinic Diet 2 Week Plan - View EeU6UIhUe - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -319,7 +358,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Diet 2 Week Plan - View EeU6UIhUe fcbayern.com
 
-## 25. Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - Post Bulletin
+## 28. Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - Post Bulletin
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -332,7 +371,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic seeks to dismiss former employee's retaliation lawsuit Post Bulletin
 
-## 26. All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - Post Bulletin
+## 29. All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - Post Bulletin
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -345,20 +384,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll Post Bulletin
 
-## 27. All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - postbulletin.com
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 04 Aug 2026
-- **Published at (UTC):** 2026-08-04T05:02:39+00:00
-- **Source:** postbulletin.com
-- **Source domain:** postbulletin.com
-- **Category:** Other
-- **Official source:** No
-- **Original article:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWpuV1JLLV9SYThTQUY4TmZqLXI4VDA0RUU3SHQtd0FYNGo5MmhxOWVtNXFuXzhLTlVkQnItYWxaTDM0ZXZaeDV4bTVJMGlnNFRMQTVoYnIwalkxVXJwMkRhZC1MQU9kMEZDOUxPbm1YVVcxenBMV2pJVE9Kb0pyX3hnOGV6aENMOWtJUFBaT1JZbGVScWU0WjRXMC1xc2ZmR09hRHlaUmhfYmNiMXliVV9jb0VTNURlWHBzUHVWRzFzdw?oc=5
-
-**Feed description:** All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll postbulletin.com
-
-## 28. Mayo Clinic in Phoenix tops Arizona hospitals for 14th straight year - The Business Journals
+## 30. Mayo Clinic in Phoenix tops Arizona hospitals for 14th straight year - The Business Journals
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -371,7 +397,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic in Phoenix tops Arizona hospitals for 14th straight year The Business Journals
 
-## 29. Mayo Clinic in Phoenix tops Arizona hospitals for 14th straight year - bizjournals.com
+## 31. Mayo Clinic in Phoenix tops Arizona hospitals for 14th straight year - bizjournals.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -384,7 +410,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic in Phoenix tops Arizona hospitals for 14th straight year bizjournals.com
 
-## 30. Mayo Clinic Diet Sample Menu Plan - View 9Ea4BHawg - FC Bayern
+## 32. Mayo Clinic Diet Sample Menu Plan - View 9Ea4BHawg - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -397,7 +423,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Diet Sample Menu Plan - View 9Ea4BHawg FC Bayern
 
-## 31. Mayo Clinic Diet Sample Menu Plan - View 9Ea4BHawg - fcbayern.com
+## 33. Mayo Clinic Diet Sample Menu Plan - View 9Ea4BHawg - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -410,7 +436,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Diet Sample Menu Plan - View 9Ea4BHawg fcbayern.com
 
-## 32. Mayo Clinic Quick Start Diet Plan - View kBVKbZK8z - FC Bayern
+## 34. Mayo Clinic Quick Start Diet Plan - View kBVKbZK8z - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -423,7 +449,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Quick Start Diet Plan - View kBVKbZK8z FC Bayern
 
-## 33. Mayo Clinic Quick Start Diet Plan - View kBVKbZK8z - fcbayern.com
+## 35. Mayo Clinic Quick Start Diet Plan - View kBVKbZK8z - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 04 Aug 2026
@@ -436,7 +462,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Quick Start Diet Plan - View kBVKbZK8z fcbayern.com
 
-## 34. Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise - Newswise
+## 36. Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise - Newswise
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -449,7 +475,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise Newswise
 
-## 35. Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise - newswise.com
+## 37. Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise - newswise.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -462,7 +488,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Study Highlights Benefits of Animal-Assisted Treatment in Stroke Rehabilitation | Newswise newswise.com
 
-## 36. Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - Post Bulletin
+## 38. Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - Post Bulletin
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -475,7 +501,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic seeks to dismiss former employee's retaliation lawsuit Post Bulletin
 
-## 37. Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - postbulletin.com
+## 39. Mayo Clinic seeks to dismiss former employee's retaliation lawsuit - postbulletin.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -488,7 +514,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic seeks to dismiss former employee's retaliation lawsuit postbulletin.com
 
-## 38. Researchers discover immune ‘off switch’ used by cancer cells - Mayo Clinic News Network
+## 40. Researchers discover immune ‘off switch’ used by cancer cells - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -501,7 +527,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Researchers discover immune ‘off switch’ used by cancer cells Mayo Clinic News Network
 
-## 39. Researchers discover immune ‘off switch’ used by cancer cells - newsnetwork.mayoclinic.org
+## 41. Researchers discover immune ‘off switch’ used by cancer cells - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -514,7 +540,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Researchers discover immune ‘off switch’ used by cancer cells newsnetwork.mayoclinic.org
 
-## 40. Mayo Clinic Weight Loss Calculator - View 0xLURGbY5 - FC Bayern
+## 42. Mayo Clinic Weight Loss Calculator - View 0xLURGbY5 - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -527,7 +553,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Weight Loss Calculator - View 0xLURGbY5 FC Bayern
 
-## 41. Mayo Clinic Weight Loss Calculator - View 0xLURGbY5 - fcbayern.com
+## 43. Mayo Clinic Weight Loss Calculator - View 0xLURGbY5 - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -540,7 +566,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Weight Loss Calculator - View 0xLURGbY5 fcbayern.com
 
-## 42. Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation - Mayo Clinic News Network
+## 44. Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -553,7 +579,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation Mayo Clinic News Network
 
-## 43. Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation - newsnetwork.mayoclinic.org
+## 45. Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -566,7 +592,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic study highlights benefits of animal-assisted treatment in stroke rehabilitation newsnetwork.mayoclinic.org
 
-## 44. New options for motion sickness relief - Mayo Clinic Press
+## 46. New options for motion sickness relief - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -579,7 +605,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** New options for motion sickness relief Mayo Clinic Press
 
-## 45. Mayo Clinic Weight-Loss Plateau How Long - View 3R7XMD1CA - FC Bayern
+## 47. Mayo Clinic Weight-Loss Plateau How Long - View 3R7XMD1CA - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -592,7 +618,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Weight-Loss Plateau How Long - View 3R7XMD1CA FC Bayern
 
-## 46. Mayo Clinic Weight-Loss Plateau How Long - View 3R7XMD1CA - fcbayern.com
+## 48. Mayo Clinic Weight-Loss Plateau How Long - View 3R7XMD1CA - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -605,7 +631,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Weight-Loss Plateau How Long - View 3R7XMD1CA fcbayern.com
 
-## 47. Mayo Clinic Weight Loss: The Proven Digital Program Backed by Mayo Clinic Expertise *IpWUXIFpK* - FC Bayern
+## 49. Mayo Clinic Weight Loss: The Proven Digital Program Backed by Mayo Clinic Expertise *IpWUXIFpK* - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -618,7 +644,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Weight Loss: The Proven Digital Program Backed by Mayo Clinic Expertise *IpWUXIFpK* FC Bayern
 
-## 48. Mayo Clinic Weight Loss: The Proven Digital Program Backed by Mayo Clinic Expertise *IpWUXIFpK* - fcbayern.com
+## 50. Mayo Clinic Weight Loss: The Proven Digital Program Backed by Mayo Clinic Expertise *IpWUXIFpK* - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 03 Aug 2026
@@ -631,7 +657,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Weight Loss: The Proven Digital Program Backed by Mayo Clinic Expertise *IpWUXIFpK* fcbayern.com
 
-## 49. # Prime T Testosterone Booster Side Effects Mayo Clinic - View ZR7zJtSai - FC Bayern
+## 51. # Prime T Testosterone Booster Side Effects Mayo Clinic - View ZR7zJtSai - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Aug 2026
@@ -644,7 +670,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** # Prime T Testosterone Booster Side Effects Mayo Clinic - View ZR7zJtSai FC Bayern
 
-## 50. # Prime T Testosterone Booster Side Effects Mayo Clinic - View ZR7zJtSai - fcbayern.com
+## 52. # Prime T Testosterone Booster Side Effects Mayo Clinic - View ZR7zJtSai - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Aug 2026
@@ -657,7 +683,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** # Prime T Testosterone Booster Side Effects Mayo Clinic - View ZR7zJtSai fcbayern.com
 
-## 51. All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - Post Bulletin
+## 53. All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - postbulletin.com
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 02 Aug 2026
+- **Published at (UTC):** 2026-08-02T07:00:00+00:00
+- **Source:** postbulletin.com
+- **Source domain:** postbulletin.com
+- **Category:** Other
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTWpuV1JLLV9SYThTQUY4TmZqLXI4VDA0RUU3SHQtd0FYNGo5MmhxOWVtNXFuXzhLTlVkQnItYWxaTDM0ZXZaeDV4bTVJMGlnNFRMQTVoYnIwalkxVXJwMkRhZC1MQU9kMEZDOUxPbm1YVVcxenBMV2pJVE9Kb0pyX3hnOGV6aENMOWtJUFBaT1JZbGVScWU0WjRXMC1xc2ZmR09hRHlaUmhfYmNiMXliVV9jb0VTNURlWHBzUHVWRzFzdw?oc=5
+
+**Feed description:** All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll postbulletin.com
+
+## 54. All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll - Post Bulletin
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Aug 2026
@@ -670,7 +709,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** All three Mayo Clinic campuses make U.S. News and World Report's Best Hospitals Honor Roll Post Bulletin
 
-## 52. Testosterone Booster Mayo Clinic - View aeTTN0Civ - FC Bayern
+## 55. Testosterone Booster Mayo Clinic - View aeTTN0Civ - FC Bayern
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Aug 2026
@@ -683,7 +722,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Testosterone Booster Mayo Clinic - View aeTTN0Civ FC Bayern
 
-## 53. Testosterone Booster Mayo Clinic - View aeTTN0Civ - fcbayern.com
+## 56. Testosterone Booster Mayo Clinic - View aeTTN0Civ - fcbayern.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Aug 2026
@@ -696,7 +735,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Testosterone Booster Mayo Clinic - View aeTTN0Civ fcbayern.com
 
-## 54. Rochester | City in Minnesota, History, Mayo Clinic - Encyclopedia Britannica
+## 57. Rochester | City in Minnesota, History, Mayo Clinic - Encyclopedia Britannica
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 01 Aug 2026
@@ -709,7 +748,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Rochester | City in Minnesota, History, Mayo Clinic Encyclopedia Britannica
 
-## 55. Rochester | City in Minnesota, History, Mayo Clinic - britannica.com
+## 58. Rochester | City in Minnesota, History, Mayo Clinic - britannica.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 01 Aug 2026
@@ -722,7 +761,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Rochester | City in Minnesota, History, Mayo Clinic britannica.com
 
-## 56. Rare cancer diagnosis affirms life committed to helping others - Mayo Clinic News Network
+## 59. Rare cancer diagnosis affirms life committed to helping others - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 31 Jul 2026
@@ -735,7 +774,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Rare cancer diagnosis affirms life committed to helping others Mayo Clinic News Network
 
-## 57. Rare cancer diagnosis affirms life committed to helping others - newsnetwork.mayoclinic.org
+## 60. Rare cancer diagnosis affirms life committed to helping others - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 31 Jul 2026
@@ -748,7 +787,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Rare cancer diagnosis affirms life committed to helping others newsnetwork.mayoclinic.org
 
-## 58. New hope for bile duct cancer - Mayo Clinic Press
+## 61. New hope for bile duct cancer - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 31 Jul 2026
@@ -761,7 +800,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** New hope for bile duct cancer Mayo Clinic Press
 
-## 59. Managing the long-term side effects of metastatic breast cancer treatment - Mayo Clinic Press
+## 62. Managing the long-term side effects of metastatic breast cancer treatment - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 31 Jul 2026
@@ -774,7 +813,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Managing the long-term side effects of metastatic breast cancer treatment Mayo Clinic Press
 
-## 60. Continuous glucose monitors for weight loss: Do they work? - Mayo Clinic Press
+## 63. Continuous glucose monitors for weight loss: Do they work? - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 31 Jul 2026
@@ -787,7 +826,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Continuous glucose monitors for weight loss: Do they work? Mayo Clinic Press
 
-## 61. Mayo Clinic and Einstein Hospital Israelita Partner to Expand Mayo Clinic Platform_Connect - HIT Consultant
+## 64. Mayo Clinic and Einstein Hospital Israelita Partner to Expand Mayo Clinic Platform_Connect - HIT Consultant
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -800,7 +839,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic and Einstein Hospital Israelita Partner to Expand Mayo Clinic Platform_Connect HIT Consultant
 
-## 62. MedLink Global’s AI Psychiatric Assessment Tool Qualifies For Mayo Clinic Platform - insights.citeline.com
+## 65. MedLink Global’s AI Psychiatric Assessment Tool Qualifies For Mayo Clinic Platform - insights.citeline.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -813,7 +852,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** MedLink Global’s AI Psychiatric Assessment Tool Qualifies For Mayo Clinic Platform insights.citeline.com
 
-## 63. ‘Discretionary review is not warranted’: Appeals court orders Mayo Clinic poison expert to stand trial for wife’s death - Court TV
+## 66. ‘Discretionary review is not warranted’: Appeals court orders Mayo Clinic poison expert to stand trial for wife’s death - Court TV
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -826,7 +865,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ‘Discretionary review is not warranted’: Appeals court orders Mayo Clinic poison expert to stand trial for wife’s death Court TV
 
-## 64. Mayo Clinic Platform and Einstein Hospital Israelita advance global AI health innovation with secure data collaboration - Mayo Clinic News Network
+## 67. Mayo Clinic Platform and Einstein Hospital Israelita advance global AI health innovation with secure data collaboration - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -839,7 +878,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Platform and Einstein Hospital Israelita advance global AI health innovation with secure data collaboration Mayo Clinic News Network
 
-## 65. Mayo Clinic Platform and Einstein Hospital Israelita advance global AI health innovation with secure data collaboration - newsnetwork.mayoclinic.org
+## 68. Mayo Clinic Platform and Einstein Hospital Israelita advance global AI health innovation with secure data collaboration - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -852,7 +891,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Platform and Einstein Hospital Israelita advance global AI health innovation with secure data collaboration newsnetwork.mayoclinic.org
 
-## 66. Mayo Clinic Minute: A parent’s playbook for sports screenings - batonrougeclinic.com
+## 69. Mayo Clinic Minute: A parent’s playbook for sports screenings - batonrougeclinic.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -865,7 +904,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Minute: A parent’s playbook for sports screenings batonrougeclinic.com
 
-## 67. Mayo Clinic Minute: A parent’s playbook for sports screenings - Baton Rouge Clinic
+## 70. Mayo Clinic Minute: A parent’s playbook for sports screenings - Baton Rouge Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -878,7 +917,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Minute: A parent’s playbook for sports screenings Baton Rouge Clinic
 
-## 68. 35th Annual Mayo Clinic Hematology/Oncology Reviews 2026 - Oncodaily
+## 71. 35th Annual Mayo Clinic Hematology/Oncology Reviews 2026 - Oncodaily
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -891,7 +930,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** 35th Annual Mayo Clinic Hematology/Oncology Reviews 2026 Oncodaily
 
-## 69. Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise - Newswise
+## 72. Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise - Newswise
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -904,7 +943,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise Newswise
 
-## 70. Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise - newswise.com
+## 73. Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise - newswise.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 30 Jul 2026
@@ -917,7 +956,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes | Newswise newswise.com
 
-## 71. How to build mental fitness for exercise - Mayo Clinic Press
+## 74. How to build mental fitness for exercise - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -930,7 +969,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** How to build mental fitness for exercise Mayo Clinic Press
 
-## 72. When it’s not MS: Inside the discovery of MOGAD - Mayo Clinic News Network
+## 75. When it’s not MS: Inside the discovery of MOGAD - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -943,7 +982,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** When it’s not MS: Inside the discovery of MOGAD Mayo Clinic News Network
 
-## 73. When it’s not MS: Inside the discovery of MOGAD - newsnetwork.mayoclinic.org
+## 76. When it’s not MS: Inside the discovery of MOGAD - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -956,7 +995,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** When it’s not MS: Inside the discovery of MOGAD newsnetwork.mayoclinic.org
 
-## 74. Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging - Mayo Clinic News Network
+## 77. Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -969,7 +1008,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging Mayo Clinic News Network
 
-## 75. Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging - newsnetwork.mayoclinic.org
+## 78. Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -982,7 +1021,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic research advances understanding of senescent ‘zombie’ cells, healthy aging newsnetwork.mayoclinic.org
 
-## 76. Scientists identify new mitochondrial pathway linked to harmful inflammation in aging - Mayo Clinic News Network
+## 79. Scientists identify new mitochondrial pathway linked to harmful inflammation in aging - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -995,7 +1034,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Scientists identify new mitochondrial pathway linked to harmful inflammation in aging Mayo Clinic News Network
 
-## 77. Scientists identify new mitochondrial pathway linked to harmful inflammation in aging - newsnetwork.mayoclinic.org
+## 80. Scientists identify new mitochondrial pathway linked to harmful inflammation in aging - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -1008,7 +1047,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Scientists identify new mitochondrial pathway linked to harmful inflammation in aging newsnetwork.mayoclinic.org
 
-## 78. Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes - PR Newswire
+## 81. Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes - PR Newswire
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 29 Jul 2026
@@ -1021,7 +1060,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Research Published in Mayo Clinic Proceedings: Digital Health Reveals Body Composition Predicts GLP-1 Weight Loss Outcomes PR Newswire
 
-## 79. How to manage IBS and IBD - Mayo Clinic Press
+## 82. How to manage IBS and IBD - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1034,7 +1073,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** How to manage IBS and IBD Mayo Clinic Press
 
-## 80. Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs
+## 83. Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1047,7 +1086,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs
 
-## 81. Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com
+## 84. Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data - reveliolabs.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1060,7 +1099,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com
 
-## 82. Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery - Mayo Clinic News Network
+## 85. Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1073,7 +1112,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery Mayo Clinic News Network
 
-## 83. Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery - newsnetwork.mayoclinic.org
+## 86. Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1086,7 +1125,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Experimental immunotherapy may help patients with high-risk bladder cancer avoid bladder removal surgery newsnetwork.mayoclinic.org
 
-## 84. Mayo Clinic Q&A: Strategies for calming back-to-school anxiety - batonrougeclinic.com
+## 87. Mayo Clinic Q&A: Strategies for calming back-to-school anxiety - batonrougeclinic.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1099,7 +1138,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: Strategies for calming back-to-school anxiety batonrougeclinic.com
 
-## 85. Mayo Clinic Q&A: Strategies for calming back-to-school anxiety - Baton Rouge Clinic
+## 88. Mayo Clinic Q&A: Strategies for calming back-to-school anxiety - Baton Rouge Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 28 Jul 2026
@@ -1112,7 +1151,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: Strategies for calming back-to-school anxiety Baton Rouge Clinic
 
-## 86. A mom’s journey beyond Crohn’s disease and back to the moments that matter (VIDEO) - Mayo Clinic News Network
+## 89. A mom’s journey beyond Crohn’s disease and back to the moments that matter (VIDEO) - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1125,7 +1164,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** A mom’s journey beyond Crohn’s disease and back to the moments that matter (VIDEO) Mayo Clinic News Network
 
-## 87. A mom’s journey beyond Crohn’s disease and back to the moments that matter (VIDEO) - newsnetwork.mayoclinic.org
+## 90. A mom’s journey beyond Crohn’s disease and back to the moments that matter (VIDEO) - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1138,7 +1177,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** A mom’s journey beyond Crohn’s disease and back to the moments that matter (VIDEO) newsnetwork.mayoclinic.org
 
-## 88. Artificial Intelligence at Mayo Clinic - Emerj Artificial Intelligence Research
+## 91. Artificial Intelligence at Mayo Clinic - Emerj Artificial Intelligence Research
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1151,7 +1190,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Artificial Intelligence at Mayo Clinic Emerj Artificial Intelligence Research
 
-## 89. Why isn’t melatonin working? - Mayo Clinic Press
+## 92. Why isn’t melatonin working? - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1164,7 +1203,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Why isn’t melatonin working? Mayo Clinic Press
 
-## 90. Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - KTTC | Rochester, MN
+## 93. Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - KTTC | Rochester, MN
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1177,7 +1216,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation KTTC | Rochester, MN
 
-## 91. Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - kttc.com
+## 94. Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - kttc.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1190,7 +1229,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation kttc.com
 
-## 92. Mayo Clinic organ transplant picnic draws over 300 people to Cascade Lake Park - kaaltv.com
+## 95. Mayo Clinic organ transplant picnic draws over 300 people to Cascade Lake Park - kaaltv.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 27 Jul 2026
@@ -1203,7 +1242,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic organ transplant picnic draws over 300 people to Cascade Lake Park kaaltv.com
 
-## 93. Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - KTTC | Rochester, MN
+## 96. Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation - KTTC | Rochester, MN
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 26 Jul 2026
@@ -1216,7 +1255,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Organ Donor and Recipient meet at Mayo Clinic Picnic 30 years after donation KTTC | Rochester, MN
 
-## 94. Man sentenced to probation for threats that prompted Mayo Clinic lockdown - kaaltv.com
+## 97. Man sentenced to probation for threats that prompted Mayo Clinic lockdown - kaaltv.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1229,7 +1268,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Man sentenced to probation for threats that prompted Mayo Clinic lockdown kaaltv.com
 
-## 95. Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? - batonrougeclinic.com
+## 98. Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? - batonrougeclinic.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1242,7 +1281,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? batonrougeclinic.com
 
-## 96. Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? - Baton Rouge Clinic
+## 99. Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? - Baton Rouge Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1255,7 +1294,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: Are backpacks hurting your kids’ backs? Baton Rouge Clinic
 
-## 97. Fitness may reduce diabetes risk linked to statins - Mayo Clinic Press
+## 100. Fitness may reduce diabetes risk linked to statins - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1268,7 +1307,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Fitness may reduce diabetes risk linked to statins Mayo Clinic Press
 
-## 98. Mayo Clinic - Encyclopedia Britannica
+## 101. Mayo Clinic - Encyclopedia Britannica
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1281,7 +1320,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Encyclopedia Britannica
 
-## 99. Colorectal cancer isn’t the only gastrointestinal cancer rising in young adults - Mayo Clinic News Network
+## 102. Colorectal cancer isn’t the only gastrointestinal cancer rising in young adults - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1294,7 +1333,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Colorectal cancer isn’t the only gastrointestinal cancer rising in young adults Mayo Clinic News Network
 
-## 100. Mayo Clinic - britannica.com
+## 103. Mayo Clinic - britannica.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1307,7 +1346,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic britannica.com
 
-## 101. Colorectal cancer isn’t the only gastrointestinal cancer rising in young adults - newsnetwork.mayoclinic.org
+## 104. Colorectal cancer isn’t the only gastrointestinal cancer rising in young adults - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Jul 2026
@@ -1320,7 +1359,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Colorectal cancer isn’t the only gastrointestinal cancer rising in young adults newsnetwork.mayoclinic.org
 
-## 102. Babies, kids and RSV — What are the risk factors for severe illness? - Mayo Clinic Press
+## 105. Babies, kids and RSV — What are the risk factors for severe illness? - Mayo Clinic Press
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1333,7 +1372,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Babies, kids and RSV — What are the risk factors for severe illness? Mayo Clinic Press
 
-## 103. From joint damage to regeneration - Mayo Clinic News Network
+## 106. From joint damage to regeneration - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1346,7 +1385,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** From joint damage to regeneration Mayo Clinic News Network
 
-## 104. From joint damage to regeneration - newsnetwork.mayoclinic.org
+## 107. From joint damage to regeneration - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1359,7 +1398,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** From joint damage to regeneration newsnetwork.mayoclinic.org
 
-## 105. Transconduit LP implantation in adult patient with Fontan anatomy - Mayo Clinic
+## 108. Transconduit LP implantation in adult patient with Fontan anatomy - Mayo Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1372,7 +1411,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Transconduit LP implantation in adult patient with Fontan anatomy Mayo Clinic
 
-## 106. Predicting CABG outcomes with AI and biological age - Mayo Clinic
+## 109. Predicting CABG outcomes with AI and biological age - Mayo Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1385,7 +1424,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Predicting CABG outcomes with AI and biological age Mayo Clinic
 
-## 107. How noninvasive brain stimulation could transform epilepsy care (VIDEO) - Mayo Clinic News Network
+## 110. How noninvasive brain stimulation could transform epilepsy care (VIDEO) - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1398,7 +1437,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** How noninvasive brain stimulation could transform epilepsy care (VIDEO) Mayo Clinic News Network
 
-## 108. How noninvasive brain stimulation could transform epilepsy care (VIDEO) - newsnetwork.mayoclinic.org
+## 111. How noninvasive brain stimulation could transform epilepsy care (VIDEO) - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 22 Jul 2026
@@ -1411,7 +1450,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** How noninvasive brain stimulation could transform epilepsy care (VIDEO) newsnetwork.mayoclinic.org
 
-## 109. Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? - The Keene Sentinel
+## 112. Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? - The Keene Sentinel
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1424,7 +1463,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? The Keene Sentinel
 
-## 110. Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? - keenesentinel.com
+## 113. Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? - keenesentinel.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1437,7 +1476,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: How is a defibrillator different from a pacemaker? keenesentinel.com
 
-## 111. One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) - Mayo Clinic News Network
+## 114. One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1450,7 +1489,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) Mayo Clinic News Network
 
-## 112. One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) - newsnetwork.mayoclinic.org
+## 115. One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1463,7 +1502,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) newsnetwork.mayoclinic.org
 
-## 113. Poison ivy and other summer skin irritants - Mayo Clinic
+## 116. Poison ivy and other summer skin irritants - Mayo Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1476,7 +1515,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Poison ivy and other summer skin irritants Mayo Clinic
 
-## 114. Beyond seizure treatment: Tracking cognitive function in children with epilepsy - Mayo Clinic
+## 117. Beyond seizure treatment: Tracking cognitive function in children with epilepsy - Mayo Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1489,7 +1528,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Beyond seizure treatment: Tracking cognitive function in children with epilepsy Mayo Clinic
 
-## 115. When standard imaging isn't enough: MEG and 7T MRI refine epilepsy care - Mayo Clinic
+## 118. When standard imaging isn't enough: MEG and 7T MRI refine epilepsy care - Mayo Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 21 Jul 2026
@@ -1502,7 +1541,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** When standard imaging isn't enough: MEG and 7T MRI refine epilepsy care Mayo Clinic
 
-## 116. Mayo Clinic maps hidden biology of common brain tumors - UnionLeader.com
+## 119. Mayo Clinic maps hidden biology of common brain tumors - UnionLeader.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 20 Jul 2026
@@ -1515,7 +1554,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic maps hidden biology of common brain tumors UnionLeader.com
 
-## 117. Study finds bringing clinical trials closer to patients expands access to research - Mayo Clinic News Network
+## 120. Study finds bringing clinical trials closer to patients expands access to research - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 20 Jul 2026
@@ -1528,7 +1567,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Study finds bringing clinical trials closer to patients expands access to research Mayo Clinic News Network
 
-## 118. Study finds bringing clinical trials closer to patients expands access to research - newsnetwork.mayoclinic.org
+## 121. Study finds bringing clinical trials closer to patients expands access to research - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 20 Jul 2026
@@ -1541,7 +1580,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Study finds bringing clinical trials closer to patients expands access to research newsnetwork.mayoclinic.org
 
-## 119. Lung transplant recipient celebrates one year 'lung-anniversary' - FOX 10 Phoenix
+## 122. Lung transplant recipient celebrates one year 'lung-anniversary' - FOX 10 Phoenix
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 19 Jul 2026
@@ -1554,7 +1593,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Lung transplant recipient celebrates one year 'lung-anniversary' FOX 10 Phoenix
 
-## 120. Arizona man celebrates life milestones after successful Mayo Clinic lung transplant - Yahoo
+## 123. Arizona man celebrates life milestones after successful Mayo Clinic lung transplant - Yahoo
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 19 Jul 2026
@@ -1567,7 +1606,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Arizona man celebrates life milestones after successful Mayo Clinic lung transplant Yahoo
 
-## 121. Mayo Clinic Oncology Review 2026 - Oncodaily
+## 124. Mayo Clinic Oncology Review 2026 - Oncodaily
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 18 Jul 2026
@@ -1580,7 +1619,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Oncology Review 2026 Oncodaily
 
-## 122. Mayo Clinic uses AI in patient care - WANDTV.com
+## 125. Mayo Clinic uses AI in patient care - WANDTV.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 17 Jul 2026
@@ -1593,7 +1632,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic uses AI in patient care WANDTV.com
 
-## 123. Former employee accuses Mayo Clinic leaders of risking patient data in adopting AI - WPR
+## 126. Former employee accuses Mayo Clinic leaders of risking patient data in adopting AI - WPR
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 17 Jul 2026
@@ -1606,7 +1645,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Former employee accuses Mayo Clinic leaders of risking patient data in adopting AI WPR
 
-## 124. When others focused on loss, Mayo Clinic focused on possibility - Mayo Clinic News Network
+## 127. When others focused on loss, Mayo Clinic focused on possibility - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 17 Jul 2026
@@ -1619,7 +1658,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** When others focused on loss, Mayo Clinic focused on possibility Mayo Clinic News Network
 
-## 125. Mayo Clinic Minute: Lighting up lung nodules during surgery - Mayo Clinic News Network
+## 128. Mayo Clinic Minute: Lighting up lung nodules during surgery - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 17 Jul 2026
@@ -1632,7 +1671,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Minute: Lighting up lung nodules during surgery Mayo Clinic News Network
 
-## 126. When others focused on loss, Mayo Clinic focused on possibility - newsnetwork.mayoclinic.org
+## 129. When others focused on loss, Mayo Clinic focused on possibility - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 17 Jul 2026
@@ -1645,7 +1684,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** When others focused on loss, Mayo Clinic focused on possibility newsnetwork.mayoclinic.org
 
-## 127. Mayo Clinic Minute: Lighting up lung nodules during surgery - newsnetwork.mayoclinic.org
+## 130. Mayo Clinic Minute: Lighting up lung nodules during surgery - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 17 Jul 2026
@@ -1658,7 +1697,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Minute: Lighting up lung nodules during surgery newsnetwork.mayoclinic.org
 
-## 128. Study identifies patients with obesity most likely to benefit from GLP-1-based treatment - Mayo Clinic News Network
+## 131. Study identifies patients with obesity most likely to benefit from GLP-1-based treatment - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 16 Jul 2026
@@ -1671,7 +1710,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Study identifies patients with obesity most likely to benefit from GLP-1-based treatment Mayo Clinic News Network
 
-## 129. Against extraordinary odds: A life saved more than once - Mayo Clinic News Network
+## 132. Against extraordinary odds: A life saved more than once - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 16 Jul 2026
@@ -1684,7 +1723,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Against extraordinary odds: A life saved more than once Mayo Clinic News Network
 
-## 130. GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance
+## 133. GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test - Yahoo Finance
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 16 Jul 2026
@@ -1697,7 +1736,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** GE HealthCare Technologies (GEHC) Following Mayo Clinic Trial Tie Up Faces A Fresh Valuation Test Yahoo Finance
 
-## 131. Study identifies patients with obesity most likely to benefit from GLP-1-based treatment - newsnetwork.mayoclinic.org
+## 134. Study identifies patients with obesity most likely to benefit from GLP-1-based treatment - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 16 Jul 2026
@@ -1710,7 +1749,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Study identifies patients with obesity most likely to benefit from GLP-1-based treatment newsnetwork.mayoclinic.org
 
-## 132. Against extraordinary odds: A life saved more than once - newsnetwork.mayoclinic.org
+## 135. Against extraordinary odds: A life saved more than once - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 16 Jul 2026
@@ -1723,7 +1762,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Against extraordinary odds: A life saved more than once newsnetwork.mayoclinic.org
 
-## 133. Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network
+## 136. Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1736,7 +1775,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic Mayo Clinic News Network
 
-## 134. Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - newsnetwork.mayoclinic.org
+## 137. Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1749,7 +1788,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Techcyte Fusion Anatomic Pathology advances digital pathology transformation at Mayo Clinic newsnetwork.mayoclinic.org
 
-## 135. Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy - Mayo Clinic News Network
+## 138. Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1762,7 +1801,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy Mayo Clinic News Network
 
-## 136. New horizons in complex hernia surgery - Mayo Clinic
+## 139. New horizons in complex hernia surgery - Mayo Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1775,7 +1814,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** New horizons in complex hernia surgery Mayo Clinic
 
-## 137. Mayo Clinic Minute: Treatment and research of glioblastoma (VIDEO) - Mayo Clinic News Network
+## 140. Mayo Clinic Minute: Treatment and research of glioblastoma (VIDEO) - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1788,7 +1827,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Minute: Treatment and research of glioblastoma (VIDEO) Mayo Clinic News Network
 
-## 138. Could milk-derived nanoparticles change bile duct cancer care? - Mayo Clinic News Network
+## 141. Could milk-derived nanoparticles change bile duct cancer care? - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1801,7 +1840,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Could milk-derived nanoparticles change bile duct cancer care? Mayo Clinic News Network
 
-## 139. Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy - newsnetwork.mayoclinic.org
+## 142. Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1814,7 +1853,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic-led study finds no improvement in overall survival from longer multiple myeloma maintenance therapy newsnetwork.mayoclinic.org
 
-## 140. Mayo Clinic Minute: Treatment and research of glioblastoma (VIDEO) - newsnetwork.mayoclinic.org
+## 143. Mayo Clinic Minute: Treatment and research of glioblastoma (VIDEO) - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1827,7 +1866,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Minute: Treatment and research of glioblastoma (VIDEO) newsnetwork.mayoclinic.org
 
-## 141. Could milk-derived nanoparticles change bile duct cancer care? - newsnetwork.mayoclinic.org
+## 144. Could milk-derived nanoparticles change bile duct cancer care? - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Jul 2026
@@ -1840,7 +1879,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Could milk-derived nanoparticles change bile duct cancer care? newsnetwork.mayoclinic.org
 
-## 142. Racing to find answers: Yearslong search lands Mike Singh at Mayo Clinic - Mayo Clinic News Network
+## 145. Racing to find answers: Yearslong search lands Mike Singh at Mayo Clinic - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Jul 2026
@@ -1853,7 +1892,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Racing to find answers: Yearslong search lands Mike Singh at Mayo Clinic Mayo Clinic News Network
 
-## 143. New technology could improve donor liver evaluation before transplantation - Mayo Clinic News Network
+## 146. New technology could improve donor liver evaluation before transplantation - Mayo Clinic News Network
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Jul 2026
@@ -1866,7 +1905,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** New technology could improve donor liver evaluation before transplantation Mayo Clinic News Network
 
-## 144. New technology could improve donor liver evaluation before transplantation - newsnetwork.mayoclinic.org
+## 147. New technology could improve donor liver evaluation before transplantation - newsnetwork.mayoclinic.org
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Jul 2026
@@ -1879,7 +1918,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** New technology could improve donor liver evaluation before transplantation newsnetwork.mayoclinic.org
 
-## 145. Mayo Clinic Q&A: What do I need to know about skin cancer protection? - batonrougeclinic.com
+## 148. Mayo Clinic Q&A: What do I need to know about skin cancer protection? - batonrougeclinic.com
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Jul 2026
@@ -1892,7 +1931,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** Mayo Clinic Q&A: What do I need to know about skin cancer protection? batonrougeclinic.com
 
-## 146. CorVista Health, Mayo Clinic Advance Next-Gen Pulmonary Hypertension Diagnostics - Medical Product Outsourcing
+## 149. CorVista Health, Mayo Clinic Advance Next-Gen Pulmonary Hypertension Diagnostics - Medical Product Outsourcing
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Jul 2026
@@ -1905,7 +1944,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** CorVista Health, Mayo Clinic Advance Next-Gen Pulmonary Hypertension Diagnostics Medical Product Outsourcing
 
-## 147. Mayo Clinic Q&A: What do I need to know about skin cancer protection? - Baton Rouge Clinic
+## 150. Mayo Clinic Q&A: What do I need to know about skin cancer protection? - Baton Rouge Clinic
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Jul 2026
@@ -1917,42 +1956,3 @@ Use the publication date, source, category, description, and URL fields below. D
 - **Original article:** https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBHcUItMWlCYjJ1SUxKWV9feWRZa2xuTUlCZUZBSERxX3dhN2lUWnNGOWtfMFdPTXQ1TjhEbVJCY010ZThBbUNNN0tpUWZzQURJZUN2UUlHVEJGNE5Wa0M5dWpYS3Ezd19MTE8wTU9MMWpTWnRCQzdleGtxcm5HZzJsY0pLRXgwb1p3TnZDN0h3bDFiQjZlV0YtMDJmSW9rbGJDd2hIV3NyeDJCaG9qUg?oc=5
 
 **Feed description:** Mayo Clinic Q&A: What do I need to know about skin cancer protection? Baton Rouge Clinic
-
-## 148. 40 Under 40: Baayla Boon of Mayo Clinic - The Business Journals
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 13 Jul 2026
-- **Published at (UTC):** 2026-07-13T21:30:58+00:00
-- **Source:** The Business Journals
-- **Source domain:** news.google.com
-- **Category:** Other
-- **Official source:** No
-- **Original article:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0lTVE5VdEU2RnM3aWNuYlZjb3ROYXRPZnZXeDV2bjFZRGRqVl9XZEtxUDhyc2h0UmxXWEVhb1NsdEQ4UU13Q21mSG94ZDhEbVBBMXlQaXh6T1B3UThQa2VVcEVMUjhmQ09xa3ZvLVF5ZFNRMlpVVUpUeHJIS01OeVBwdjhaU0VoYTlyR0xnRXV1RG9GZERramlrc0ZiaTZMS0RVNXZudW5aWWJtVTlTSTVwaGpnNjV2d19rRTB3WG1ZZzdkWEZMalBnNjE1Z2RMSmFpUw?oc=5
-
-**Feed description:** 40 Under 40: Baayla Boon of Mayo Clinic The Business Journals
-
-## 149. 40 Under 40: Baayla Boon of Mayo Clinic - bizjournals.com
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 13 Jul 2026
-- **Published at (UTC):** 2026-07-13T21:30:58+00:00
-- **Source:** bizjournals.com
-- **Source domain:** bizjournals.com
-- **Category:** Other
-- **Official source:** No
-- **Original article:** https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0lTVE5VdEU2RnM3aWNuYlZjb3ROYXRPZnZXeDV2bjFZRGRqVl9XZEtxUDhyc2h0UmxXWEVhb1NsdEQ4UU13Q21mSG94ZDhEbVBBMXlQaXh6T1B3UThQa2VVcEVMUjhmQ09xa3ZvLVF5ZFNRMlpVVUpUeHJIS01OeVBwdjhaU0VoYTlyR0xnRXV1RG9GZERramlrc0ZiaTZMS0RVNXZudW5aWWJtVTlTSTVwaGpnNjV2d19rRTB3WG1ZZzdkWEZMalBnNjE1Z2RMSmFpUw?oc=5
-
-**Feed description:** 40 Under 40: Baayla Boon of Mayo Clinic bizjournals.com
-
-## 150. AI-ECG helps physicians detect hidden heart condition (VIDEO) - Mayo Clinic News Network
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 13 Jul 2026
-- **Published at (UTC):** 2026-07-13T14:20:47+00:00
-- **Source:** Mayo Clinic News Network
-- **Source domain:** news.google.com
-- **Category:** Other
-- **Official source:** No
-- **Original article:** https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzctVUl6R3RwWlJSb1BQMWR1VUJvNHFqbWEtRWxlNl9qZ1VNUER4eFVvSVlLdmx4WV9KbDZsSk1faG9WVTZVOUx4Y0cxWTYtRDhJemo4WElzT1lQZm1qeXI2b3VHcldhZmlWaVB5SHhKVFhJcDRVelc0VzJrYVRWX1VHalIwaHUxcVdNYTVlTnlHQlV3eHM5UGEtZDViQ2hVQ3kwckE0NTgyUQ?oc=5
-
-**Feed description:** AI-ECG helps physicians detect hidden heart condition (VIDEO) Mayo Clinic News Network
