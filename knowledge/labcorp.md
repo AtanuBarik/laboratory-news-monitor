@@ -1,7 +1,7 @@
 # Labcorp News
 
-- **Repository generated:** 05 Aug 2026, 16:25 UTC
-- **Distinct events in this file:** 77
+- **Repository generated:** 05 Aug 2026, 16:27 UTC
+- **Distinct events in this file:** 78
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -15,7 +15,7 @@
 - **Sources:**
   - Newsweek: https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTlzTjdqekNsWkVmSGFYRmMzcU5FSlZpVnd0YXMxcndiN3JjV0VfR19jaEdNOGUtQmtuSkNWSGttX3AxaWZ3RmZ0M3JKQ0I0N3hLRjd5NFlRR09ITlp0SGpRREM0Q2trcF9SbnJWWEVPd1ZPTWVpb25IMmN6Ri1BX09WWjV5TmxNd0J4LVRMZHUzSDNj?oc=5
 
-**Feed description:** Labcorp Paying Out $35M in Settlement: Who’s Eligible Newsweek
+**Feed description:** Labcorp Paying Out $35M in Settlement: Who’s Eligible newsweek.com
 
 ## 2. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
 
@@ -102,7 +102,7 @@
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMiggJBVV95cUxOdGtFRUZfVmlrWDhfeEtWMHFsMnhDWTNJYV8tQ0pGZjJyUkZRM19TYnVZa2pLOE1abVRQcmRXeEVCelZEaDJJMkxEU2hfVUI1SC01OG44dG1yejNDdlZCS0QxbE9UZnRnVDU1RWNoZDV3WEc3YzUyNVh6ZjhIMHhJN1VSVU5lZk84bTQ2WVRTX0k1SVZvZHhLd2xQVFR3MFFxYjUxVmMwbDJhZGowb05CeDN6NFdhdEQ2VHRZRFVBV3VqV0dmSlExVGlFTzY5TlB3eGxJVTVsOEh3YUxYb0Z3aVY3VWpNdTZrUVI1bjlJdjlEdVJBeXVLUHc3X21PalNnRUE?oc=5
 
-**Feed description:** Analysts Offer Insights on Healthcare Companies: Labcorp Holdings (LH) and Cytokinetics (CYTK) The Globe and Mail
+**Feed description:** Analysts Offer Insights on Healthcare Companies: Labcorp Holdings (LH) and Cytokinetics (CYTK) theglobeandmail.com
 
 ## 9. Labcorp Stock Holds A Bullish Case On Margin Expansion
 
@@ -268,7 +268,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5
 
-**Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations The Globe and Mail
+**Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com
 
 ## 22. Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance
 
@@ -517,7 +517,7 @@
   - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NGZG1SeWFBUU01b0ozamZpQVhJLVNyWW1ZNlN0TEFhaHgzbE45eEp2OTduamxGbHV6YURYa201dGdSbWhQVEQtaXNsOVRFRDBPczBiVkJwRXlGUzVEN1NvYm1oTHBkSHV5RVpwWkRFNnlVSzFpZDJrZERxbkROZTVKQ0hDbDA0MlEyX1hrRllVZnhZ?oc=5
 
-**Feed description:** What To Expect From Labcorp’s (LH) Q2 Earnings The Globe and Mail
+**Feed description:** What To Expect From Labcorp’s (LH) Q2 Earnings theglobeandmail.com
 
 ## 42. Labcorp Shares Surge 4.3% -- What GF Score of 78 Tells Investors
 
@@ -592,7 +592,7 @@
 - **Sources:**
   - HIT Consultant: https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5
 
-**Feed description:** Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions HIT Consultant
+**Feed description:** Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net
 
 ## 48. Labcorp launches genetic health panel for consumers By Investing.com
 
@@ -903,7 +903,19 @@
 
 **Feed description:** Labcorp (NYSE:LH) Upgraded by Wall Street Zen to "Buy" Rating MarketBeat
 
-## 73. Labcorp Declares Quarterly Dividend
+## 73. Labcorp Declares Cash Dividend of $0.72 Per S
+
+- **Company:** Labcorp
+- **Publication date:** 10 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GuruFocus: https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5
+
+**Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
+
+## 74. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -917,7 +929,7 @@
 
 **Feed description:** Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com
 
-## 74. Labcorp sets 72-cent dividend for Sept. 11 payout
+## 75. Labcorp sets 72-cent dividend for Sept. 11 payout
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -929,7 +941,7 @@
 
 **Feed description:** Labcorp sets 72-cent dividend for Sept. 11 payout stocktitan.net
 
-## 75. Labcorp EVP sells shares after RSU vesting under Rule 10b5-1 plan
+## 76. Labcorp EVP sells shares after RSU vesting under Rule 10b5-1 plan
 
 - **Company:** Labcorp
 - **Publication date:** 06 Jul 2026
@@ -941,7 +953,7 @@
 
 **Feed description:** Labcorp (LH) EVP sells shares after RSU vesting under Rule 10b5-1 plan stocktitan.net
 
-## 76. Labcorp chief legal officer Kyle sells $26,329 in common stock.
+## 77. Labcorp chief legal officer Kyle sells $26,329 in common stock.
 
 - **Company:** Labcorp
 - **Publication date:** 06 Jul 2026
@@ -953,7 +965,7 @@
 
 **Feed description:** Labcorp chief legal officer Kyle sells $26,329 in common stock. Investing.com
 
-## 77. Labcorp legal chief sells shares, exercises 256 stock units
+## 78. Labcorp legal chief sells shares, exercises 256 stock units
 
 - **Company:** Labcorp
 - **Publication date:** 06 Jul 2026
