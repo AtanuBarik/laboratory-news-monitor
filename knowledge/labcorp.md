@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 05 Aug 2026, 16:27 UTC
+- **Repository generated:** 05 Aug 2026, 16:43 UTC
 - **Distinct events in this file:** 78
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -29,7 +29,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxQbS04ZXd2M2xtTXNpWnd0QWVCMG1QN09nUEVzY1JQa1RSaThyV3ZfTnd4Y3o0ejVab25GZnVuUTVWNTNqNHpGdDhJVkE1VG5QYlp3N3lWTGg3TW9odWVmZkRXVlRXMjhTSEZuSktYNV94MmlVRVNBQlZaX1hROER0S2IxMks4cVBJWVlFU1hFdDZnZWkyYzUyd0VKVQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5
 
-**Feed description:** Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer Yahoo Finance
+**Feed description:** Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer finance.yahoo.com
 
 ## 3. Labcorp Test May Identify Prostate Cancer Patients for TRUQAP
 
@@ -292,7 +292,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVpRQ1ZwVU1RR1pPT2xUNVJDN1dUWkRycEJ5STNxdUo2S0lMM1poem4xeTNWUzNocFl3OXhYRVdvYjZrd0pGVnJES2FXOXIteWViaUE2WWM3WmVnU3ByNmN4bzVJdlpLSGQ3TDY3cUxSTnFDdUkwS2liRThtWDBWMUprSWNnRklraW5mVEtyUEhhWElkM2hRcA?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Surpasses Q2 Earnings and Revenue Estimates Yahoo Finance
+**Feed description:** Labcorp Holdings (LH) Surpasses Q2 Earnings and Revenue Estimates finance.yahoo.com
 
 ## 24. Labcorp Revises Earnings Guidance for the Full Year 2026
 
@@ -504,7 +504,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5
 
-**Feed description:** Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates Yahoo Finance
+**Feed description:** Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates finance.yahoo.com
 
 ## 41. What To Expect From Labcorp’s Q2 Earnings
 
@@ -707,7 +707,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxQeGdqY1FtdFcwaUR4MEVDVmlZbUpPR211OEZ3ZGtTanFLd0oyeDVkSjhrc0tXRk5Jei1iRFdJM1YzR1N0eW53TlkwV0dhaGJ5N1JsdnFQYnhKWHZQN1otWlFvNVJJRDM5ZDMyVXRwblB0QmUwOFl4LWdLOVlzaDBGcmpKVjdSbERWa0ZOWFBqSjVJTFYwTjJ2LUFqSlc?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Draws Fresh Earnings Optimism, Is It Still 4% Undervalued? Yahoo Finance
+**Feed description:** Labcorp Holdings (LH) Draws Fresh Earnings Optimism, Is It Still 4% Undervalued? finance.yahoo.com
 
 ## 57. Labcorp Hit a 52 Week High, Can the Run Continue?
 
@@ -719,7 +719,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxPcTBMLUYyTmQ0cDczNFFjeUZYbUVTemtpOVV1b1pXbGNhcmJFNkpaaDJ1R3JzRHBFZWw5R2RuTktPZE9ieDBtQUZsbjJZMU1wNkZUTW12M1ZSa19QMllQbFFLWExKVGpjWlE0ZHFWN2RYV0t6SzlXNEpZZWVERGZfZXAyejZJMEdFNXV1bDdiU3d0NjM4WDZN?oc=5
 
-**Feed description:** Labcorp Holdings Inc. (LH) Hit a 52 Week High, Can the Run Continue? Yahoo Finance
+**Feed description:** Labcorp Holdings Inc. (LH) Hit a 52 Week High, Can the Run Continue? finance.yahoo.com
 
 ## 58. Strength Seen in Labcorp: Can Its 3.4% Jump Turn into More Strength?
 
@@ -731,7 +731,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxPRW12bU9Mc3JQVW1rcVRjMDgyZW5MaHAwQUhJOVlDOFMxN25WWV9BNEdLQ01QQ3dUN2pNUkZhNDdJa2dvbm9iV0RwbmZnR1BhMEl0RVV2a0pjeFd0NV9GTzhyQ0Zhb3VUeWlzQzZfMld5RDk3ZVpFZ3JmTmlBSFZwRFRDOEtzX1MwYVh0MzNSbS0yQW9kcVE?oc=5
 
-**Feed description:** Strength Seen in Labcorp (LH): Can Its 3.4% Jump Turn into More Strength? Yahoo Finance
+**Feed description:** Strength Seen in Labcorp (LH): Can Its 3.4% Jump Turn into More Strength? finance.yahoo.com
 
 ## 59. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
 
@@ -743,7 +743,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5
 
-**Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? Yahoo Finance
+**Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com
 
 ## 60. Why Labcorp Stock Is Up Today
 
@@ -768,7 +768,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxOcWNqWDFxRHJHZFg2TXBZTTdOSGQyMjdnX1Zub2I4X0YzRFRTbTFGLV9yVlBtanBjcnVDMmN3TXRIUGlpbWVUZDRKU1dvSlQwN2EzZGdvd194OFFpYzdsM1V1N0dVSDlzbVlBWERGeWpRbkxoT2pEM1F4b1dLM185MU5RZC1zckFiTHZhcU9GSy05Y0JZeWtKb0lmMlhzckFYZUE0Ug?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Earnings Expected to Grow: Should You Buy? Yahoo Finance
+**Feed description:** Labcorp Holdings (LH) Earnings Expected to Grow: Should You Buy? finance.yahoo.com
 
 ## 62. Labcorp stock hits 52-week high at 293.92 USD
 
@@ -829,7 +829,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVh2Q0ZjQjN3RWdlT2ZYd0N1dV9oMVBrX19SUVRwUEUyTTFnNjNIcmVRT3otSy1ZY3F0Umo1Q0xoOG5kNGV3MGU1amNyMWVUTWhWMG80bkM1M2p1TTc5YmpVa21QcThfLWZMV0pwRnlnbEhwZko5ZmEwVVlraEEtVVFrNGhiLTlSS19FRzdZNVV6MS1hMnlaTnJ6SlI?oc=5
 
-**Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? Yahoo Finance
+**Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com
 
 ## 67. Business tidbits: Labcorp opens expanded patient service center in Yakima
 

@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Aug 2026, 16:27 UTC
+- **Repository generated:** 05 Aug 2026, 16:43 UTC
 - **Distinct events in this file:** 79
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -52,7 +52,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1lDU1pKQkRNNU9VbkRMZmR6TktFTzNwd0xENnFxQ0ZqMHlRNlZtRmRTVnd3bzE3S2JzbHBhUDlJVmRFRk9JZWdNZ2RXNUNSMHRHTkpQd3o1REdmbG5kMVIwRmI0Qk9lZzN0YVI1MUpweUJRVlJOaFhHNXhKVlpNTWwzRGY4ckRGcGRISXNZdmpoQWFEVGhOYTh6NXpMNjg?oc=5
 
-**Feed description:** Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates Yahoo Finance
+**Feed description:** Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates finance.yahoo.com
 
 ## 5. Quest Diagnostics Stock Analysis: Exploring Growth Potential And Investor Sentiment
 
@@ -112,7 +112,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5
 
-**Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 Yahoo Finance
+**Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com
 
 ## 10. Quest Diagnostics SVP & Chief Commercial Officer Mark Dela
 
@@ -401,7 +401,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5
 
-**Feed description:** Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks Yahoo Finance
+**Feed description:** Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com
 
 ## 33. Quest Diagnostics Stock Gets Fair Value Boost After Q2 Beat And Higher Guidance
 
@@ -413,7 +413,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxNeEE0Wmg5djlScUlWQVJQd0lZQ29pT3dtYWh1QXFJc3NjUGJNa21ORXVUWFVGcXltZTJ6bVVYRkVGblduMXJuM3pkQlBaWnJudEF0ak1OUzRyR3JrVjVFQ0EwTlhVN0hrb3NrSEZKclRrczVDa1dFWE5xZ1ZwRE84dFNfYXN6Nl95bDVXTTFjSzdHT2hIalJINTF5MXdpQQ?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Stock Gets Fair Value Boost After Q2 Beat And Higher Guidance Yahoo Finance
+**Feed description:** Quest Diagnostics (DGX) Stock Gets Fair Value Boost After Q2 Beat And Higher Guidance finance.yahoo.com
 
 ## 34. Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative
 
@@ -462,7 +462,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? Yahoo Finance
+**Feed description:** Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? finance.yahoo.com
 
 ## 38. Truist raises Quest Diagnostics stock price target on strong results
 
@@ -632,7 +632,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Surpasses Q2 Earnings and Revenue Estimates Yahoo Finance
+**Feed description:** Quest Diagnostics (DGX) Surpasses Q2 Earnings and Revenue Estimates finance.yahoo.com
 
 ## 52. Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
 
@@ -645,7 +645,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWEFXalFhV2dmXzJwV1c0WnpxeWUyd0xqSnQtaVRLcVR1R09CeEJQSTdvNGVJVGxhMVphSGpkSmpGdjczLWp6dXhXNlhPbmlLanlGMm9hWnJfSldETTM1eWs3ZzVTMXFlRGJUOHZsX1FjNm1wNU5obTVlUXJ3cjhTX0MybkVqYy1BRDg3R3V0OWdRc2dKZlc0X1NqNUN3Z0Rpbk5j?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxQMk9CZEZ5M1dWendENXV5blZ1SjBkYzE5TW8yRjdibnhiQ3ViWUJiVjVZMUZFRE5fQjRNeVpoRjZWWkJhNnIxdkE5cndTeU8tMDA2UzA2UGFXaTJyVDN1UWVUeVZwdVlCTGxUaHlmeXVJUVFYRVZHWm1hZjZ6RkVOV1JZaF8zX1ZPc2FONmNpTEhfLUxrZTFUbU5CblFIMElmTnIxcUxhNXloZW41TmU4a3ROT3RBeVQyQkE?oc=5
 
-**Feed description:** Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 Yahoo Finance
+**Feed description:** Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 finance.yahoo.com
 
 ## 53. Quest Diagnostics Q2 2026 Earnings Call Summary
 
@@ -657,7 +657,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated Q2 2026 Earnings Call Summary Yahoo Finance
+**Feed description:** Quest Diagnostics Incorporated Q2 2026 Earnings Call Summary finance.yahoo.com
 
 ## 54. Quest Diagnostics Up Over 10%, On Pace for Record High Close -- Data Talk
 
@@ -899,7 +899,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxORVNtQmFVU1JIMzZHNEdoNlJRMHRibkdFS0ZIX0NZNmZzazFLcV9YazU3d0psQ3NtdXZPTHpVS2VfR0NmRFRJMGlkTGJmNHREazY5VDFueDhRNUlldVZva0xyemJ0T2VKUkdzajhEeDQwWER0VzB5M19MMkgxVDR0aVdXRVdUT2dRTGZoUjdNZTZjaGlNX2JMeW5oa1Bodw?oc=5
 
-**Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus Yahoo Finance
+**Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus finance.yahoo.com
 
 ## 74. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
 
