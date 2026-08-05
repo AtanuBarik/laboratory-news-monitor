@@ -5,18 +5,24 @@
  *   GEMINI_API_KEY
  *
  * Optional variables:
- *   GEMINI_MODEL   - defaults to gemini-3.6-flash
- *   GROUNDED_MODEL - defaults to gemini-3.6-flash
+ *   GEMINI_MODEL
+ *   GROUNDED_MODEL
  *
- * The dedicated email_article_summary mode uses Google Search and URL Context
- * to read one selected update. It returns CONTENT_UNAVAILABLE rather than a
- * generic interpretation when the underlying reporting cannot be verified.
+ * The Worker always tries current stable Gemini models before older configured
+ * values. Email-summary requests degrade from URL Context + Google Search to
+ * Google Search only, and return CONTENT_UNAVAILABLE with diagnostics instead
+ * of an HTTP 500 when the underlying content cannot be verified.
  */
 
 const ALLOWED_ORIGINS = new Set(["https://atanubarik.github.io"]);
 const NEWS_URL =
   "https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json";
 const DEFAULT_MODEL = "gemini-3.6-flash";
+const FALLBACK_MODELS = ["gemini-3.5-flash", "gemini-3.5-flash-lite"];
+const RETIRED_OR_BLOCKED_MODELS = new Set([
+  "gemini-2.5-flash-lite",
+  "models/gemini-2.5-flash-lite",
+]);
 const MAX_REQUESTED_IDS = 600;
 const MAX_CHAT_ITEMS = 50;
 
@@ -63,7 +69,8 @@ function sortByDate(items) {
 }
 
 function uniqueStrings(values, maximum = 20) {
-  return [...new Set(values.map((value) => String(value || "").trim()).filter(Boolean))].slice(0, maximum);
+  return [...new Set(values.map((value) => String(value || "").trim()).filter(Boolean))]
+    .slice(0, maximum);
 }
 
 function articleUrls(item) {
@@ -85,10 +92,53 @@ function extractText(payload) {
   return parts.map((part) => part?.text || "").join("\n").trim();
 }
 
-function groundedModel(env) {
-  return String(env.GROUNDED_MODEL || env.GEMINI_MODEL || DEFAULT_MODEL)
-    .trim()
-    .replace(/^models\//, "");
+function modelCandidates(env) {
+  const configured = [env.GROUNDED_MODEL, env.GEMINI_MODEL]
+    .map((value) => String(value || "").trim().replace(/^models\//, ""))
+    .filter(Boolean)
+    .filter((value) => !RETIRED_OR_BLOCKED_MODELS.has(value));
+  return uniqueStrings([DEFAULT_MODEL, ...FALLBACK_MODELS, ...configured], 8);
+}
+
+function toolProfiles(useWebTools) {
+  if (!useWebTools) {
+    return [{ name: "none", tools: undefined }];
+  }
+  return [
+    {
+      name: "url_context_and_google_search",
+      tools: [{ url_context: {} }, { google_search: {} }],
+    },
+    {
+      name: "google_search",
+      tools: [{ google_search: {} }],
+    },
+    {
+      name: "url_context",
+      tools: [{ url_context: {} }],
+    },
+  ];
+}
+
+function sleep(milliseconds) {
+  return new Promise((resolve) => setTimeout(resolve, milliseconds));
+}
+
+function safeJson(text) {
+  try {
+    return JSON.parse(text);
+  } catch {
+    return null;
+  }
+}
+
+function conciseError(status, payload, rawText) {
+  const message = payload?.error?.message || rawText || `HTTP ${status}`;
+  return String(message).replace(/\s+/g, " ").slice(0, 500);
+}
+
+function retryableStatus(status) {
+  return status === 429 || status === 500 || status === 502 || status === 503 || status === 504;
 }
 
 async function callGemini(env, prompt, options = {}) {
@@ -96,37 +146,101 @@ async function callGemini(env, prompt, options = {}) {
     throw new Error("The GEMINI_API_KEY secret has not been configured in Cloudflare.");
   }
 
-  const model = options.model || groundedModel(env);
-  const endpoint =
-    `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
-  const requestBody = {
-    contents: [{ role: "user", parts: [{ text: prompt }] }],
-    generationConfig: {
-      maxOutputTokens: options.maxOutputTokens || 2200,
-    },
-  };
+  const attempts = [];
+  const models = options.model
+    ? uniqueStrings([options.model, ...modelCandidates(env)], 8)
+    : modelCandidates(env);
+  const profiles = toolProfiles(options.useWebTools !== false);
 
-  if (options.useWebTools !== false) {
-    requestBody.tools = [{ url_context: {} }, { google_search: {} }];
+  for (const model of models) {
+    for (const profile of profiles) {
+      const endpoint =
+        `https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`;
+      const requestBody = {
+        contents: [{ role: "user", parts: [{ text: prompt }] }],
+        generationConfig: {
+          maxOutputTokens: options.maxOutputTokens || 2200,
+        },
+      };
+      if (profile.tools) requestBody.tools = profile.tools;
+
+      for (let retry = 0; retry < 2; retry += 1) {
+        let response;
+        let rawText = "";
+        try {
+          response = await fetch(endpoint, {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+              "x-goog-api-key": env.GEMINI_API_KEY,
+            },
+            body: JSON.stringify(requestBody),
+          });
+          rawText = await response.text();
+        } catch (error) {
+          attempts.push({
+            model,
+            tools: profile.name,
+            status: "network_error",
+            error: error instanceof Error ? error.message : String(error),
+          });
+          if (retry === 0) {
+            await sleep(900);
+            continue;
+          }
+          break;
+        }
+
+        const payload = safeJson(rawText) || {};
+        if (!response.ok) {
+          const error = conciseError(response.status, payload, rawText);
+          attempts.push({ model, tools: profile.name, status: response.status, error });
+          if (retry === 0 && retryableStatus(response.status)) {
+            await sleep(response.status === 429 ? 1800 : 900);
+            continue;
+          }
+          break;
+        }
+
+        const answer = extractText(payload);
+        if (!answer) {
+          attempts.push({
+            model,
+            tools: profile.name,
+            status: "empty_response",
+            error: payload?.promptFeedback?.blockReason || "Gemini returned no text.",
+          });
+          break;
+        }
+
+        if (typeof options.validateAnswer === "function" && !options.validateAnswer(answer)) {
+          attempts.push({
+            model,
+            tools: profile.name,
+            status: "unusable_answer",
+            error: "The response did not meet the article-summary quality threshold.",
+          });
+          break;
+        }
+
+        return {
+          answer,
+          model,
+          toolProfile: profile.name,
+          payload,
+          attempts,
+        };
+      }
+    }
   }
 
-  const response = await fetch(endpoint, {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "x-goog-api-key": env.GEMINI_API_KEY,
-    },
-    body: JSON.stringify(requestBody),
-  });
-
-  const payload = await response.json();
-  if (!response.ok) {
-    throw new Error(payload?.error?.message || `Gemini returned HTTP ${response.status}.`);
-  }
-
-  const answer = extractText(payload);
-  if (!answer) throw new Error("Gemini returned an empty response.");
-  return { answer, model, payload };
+  const last = attempts.at(-1);
+  const detail = last
+    ? `${last.model}/${last.tools}: ${last.status} ${last.error}`
+    : "No Gemini request was attempted.";
+  const error = new Error(`All Gemini attempts failed. ${detail}`);
+  error.attempts = attempts;
+  throw error;
 }
 
 async function fetchRepository() {
@@ -218,9 +332,9 @@ function emailSummaryPrompt(item) {
   return `
 You are preparing one factual competitor-intelligence article summary for a Quest Diagnostics email report.
 
-Your first task is retrieval, not interpretation:
-1. Open and read the public URLs supplied below using URL Context.
-2. Also search the exact headline together with the company, publisher, and publication date using Google Search.
+RETRIEVAL REQUIREMENTS
+1. Open and read the public URLs below when accessible.
+2. Search the exact headline together with the company, publisher, and publication date.
 3. Prefer the original company announcement, regulatory filing, investor material, journal paper, or named publisher article.
 4. Cross-check duplicate coverage, but summarize the underlying event itself. Never discuss how many reports covered it.
 
@@ -235,13 +349,13 @@ Public URLs:
 ${urls.length ? urls.map((url) => `- ${url}`).join("\n") : "- No usable URL was captured; search by the exact headline."}
 
 OUTPUT RULES
-- When you can verify substantive article content, write 170-260 words in two or three short paragraphs.
-- Summarize what the reporting actually says. Lead with the event, not a generic implication.
-- Include every material fact that is reported: named parties, product/test/service, indication or use case, regulatory status, geography, customers, timing, deal value and conditions, revenue/earnings/growth/margins/guidance/segment data, study design/population/endpoints/results, or leadership mandate as applicable.
-- Explain strategic significance only after the factual summary, and tie it directly to the disclosed facts.
+- When substantive content can be verified, write 170-260 words in two or three short paragraphs.
+- Lead with what happened and summarize what the reporting actually says.
+- Include every material reported fact: named parties; product, test, or service; indication or use case; regulatory status; geography; customers; timing; deal value and conditions; revenue, earnings, growth, margins, guidance, and segment data; study design, population, endpoints, and results; or leadership mandate, as applicable.
+- Explain strategic significance only after the factual summary, tied directly to the disclosed facts.
 - Do not mention article counts, coverage counts, retrieval, repository evidence, unavailable details, source names, URLs, citations, headline labels, category labels, ticker symbols, or legal suffixes.
-- Do not invent or estimate missing figures.
-- If the public pages are paywalled, inaccessible, irrelevant, or provide too little verified content for a substantive summary, output exactly: CONTENT_UNAVAILABLE
+- Never invent or estimate missing figures.
+- If the pages are paywalled, inaccessible, irrelevant, or contain too little verified content, output exactly: CONTENT_UNAVAILABLE
 - Return only the summary or CONTENT_UNAVAILABLE. No heading, preamble, bullets, or bibliography.
 `.trim();
 }
@@ -278,19 +392,34 @@ async function answerEmailArticle(env, body, repository) {
   }
 
   const item = selected[0];
-  const result = await callGemini(env, emailSummaryPrompt(item), {
-    maxOutputTokens: 1800,
-    useWebTools: true,
-  });
-  const verified = usableEmailSummary(result.answer);
-  return {
-    mode: "email_article_summary",
-    article_id: item.id,
-    content_verified: verified,
-    answer: verified ? result.answer.trim() : "CONTENT_UNAVAILABLE",
-    model: result.model,
-    repository_updated: repository.generated_at_display || null,
-  };
+  try {
+    const result = await callGemini(env, emailSummaryPrompt(item), {
+      maxOutputTokens: 1800,
+      useWebTools: true,
+      validateAnswer: usableEmailSummary,
+    });
+    return {
+      mode: "email_article_summary",
+      article_id: item.id,
+      content_verified: true,
+      answer: result.answer.trim(),
+      model: result.model,
+      tool_profile: result.toolProfile,
+      repository_updated: repository.generated_at_display || null,
+      diagnostic_attempts: result.attempts,
+    };
+  } catch (error) {
+    console.error("Email summary failed", error);
+    return {
+      mode: "email_article_summary",
+      article_id: item.id,
+      content_verified: false,
+      answer: "CONTENT_UNAVAILABLE",
+      error: error instanceof Error ? error.message : "Summary generation failed.",
+      diagnostic_attempts: Array.isArray(error?.attempts) ? error.attempts : [],
+      repository_updated: repository.generated_at_display || null,
+    };
+  }
 }
 
 function safeFilters(filters) {
@@ -306,7 +435,7 @@ function chatPrompt(mode, question, items, filters, repositoryUpdated) {
   const context = items.map(compactItem).join("\n\n");
   if (mode === "filtered_summary") {
     return `
-Act as a senior clinical-laboratory competitive-intelligence analyst. Use Google Search and URL Context to verify and deepen the selected repository updates before synthesizing them.
+Act as a senior clinical-laboratory competitive-intelligence analyst. Verify and deepen the selected updates before synthesizing them.
 
 Create a concise executive synthesis of the filtered view. Start with one decisive takeaway, then give three to five strategic bullets and a short "What to watch" section. Focus on what changed, material facts, patterns, competitive consequences, customer impact, economics, and execution. Do not list every headline or repeat article counts. Distinguish facts from inference. Do not invent details.
 
@@ -319,7 +448,7 @@ ${context}
   }
 
   return `
-Act as a concise human competitive-intelligence adviser for the clinical-laboratory market. Answer the user's question directly, using the selected records plus Google Search and URL Context to verify underlying reporting. Focus on facts, strategic meaning, trade-offs, and what to watch. Do not automatically list headlines, publishers, dates, counts, or URLs. Mention names and figures only when they materially support the answer. Never invent details.
+Act as a concise human competitive-intelligence adviser for the clinical-laboratory market. Answer the user's question directly, verifying the underlying reporting. Focus on facts, strategic meaning, trade-offs, and what to watch. Do not automatically list headlines, publishers, dates, counts, or URLs. Mention names and figures only when they materially support the answer. Never invent details.
 
 User question: ${question}
 Filters: ${JSON.stringify(filters)}
@@ -361,6 +490,7 @@ async function answerChat(env, body, repository) {
     answer: result.answer,
     selected_total: selected.length,
     model: result.model,
+    tool_profile: result.toolProfile,
     repository_updated: repository.generated_at_display || null,
   };
 }
@@ -385,13 +515,16 @@ export default {
           ok: true,
           service: "Laboratory News AI",
           gemini_configured: Boolean(env.GEMINI_API_KEY),
-          model: groundedModel(env),
+          preferred_model: DEFAULT_MODEL,
+          configured_models: [env.GROUNDED_MODEL || null, env.GEMINI_MODEL || null],
+          model_candidates: modelCandidates(env),
           capabilities: [
             "email_article_summary",
             "strategic_repository_chat",
             "strategic_filtered_summary",
             "google_search_deep_read",
             "url_context_deep_read",
+            "model_and_tool_fallbacks",
           ],
         },
         200,
@@ -418,7 +551,11 @@ export default {
       if (mode === "chat") {
         const question = String(body?.question || "").trim();
         if (question.length < 3 || question.length > 3000) {
-          return jsonResponse({ error: "Please enter a question between 3 and 3,000 characters." }, 400, origin);
+          return jsonResponse(
+            { error: "Please enter a question between 3 and 3,000 characters." },
+            400,
+            origin,
+          );
         }
       }
       if (mode === "filtered_summary" && !Array.isArray(body?.article_ids)) {
@@ -436,7 +573,10 @@ export default {
     } catch (error) {
       console.error(error);
       return jsonResponse(
-        { error: error instanceof Error ? error.message : "Unexpected server error." },
+        {
+          error: error instanceof Error ? error.message : "Unexpected server error.",
+          diagnostic_attempts: Array.isArray(error?.attempts) ? error.attempts : [],
+        },
         500,
         origin,
       );
