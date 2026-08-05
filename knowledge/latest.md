@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 05 Aug 2026, 16:43 UTC
+- **Repository generated:** 05 Aug 2026, 18:08 UTC
 - **Distinct events in this file:** 176
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -447,7 +447,7 @@
 - **Sources:**
   - ROI-NJ: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5
 
-**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations ROI-NJ
+**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com
 
 ## 37. Labcorp Reports Q2 Earnings: What Key Metrics Have to Say
 
@@ -483,7 +483,7 @@
 - **Sources:**
   - Finimize: https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG5VdW5HNXVhcEJvUFlxeDZHeUZiQVN5WGxIYXpmMkFUSkpGQ1JDMVFRU2hOeldBb3JqSWdsbjBwRndYSlpaOWtDSXEwemNNTXEtLTBrZHQ1b3FXYTJCblhWUmFHU1BVSEdMWnJNdXI5WnQwb2dtR20wU1BnczV3YlRNbmE?oc=5
 
-**Feed description:** Labcorp Raised Its 2026 Outlook After A Strong Q2 Finimize
+**Feed description:** Labcorp Raised Its 2026 Outlook After A Strong Q2 finimize.com
 
 ## 40. Labcorp Reports Q2 CY2026 In Line With Expectations
 

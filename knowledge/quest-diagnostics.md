@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Aug 2026, 16:43 UTC
+- **Repository generated:** 05 Aug 2026, 18:08 UTC
 - **Distinct events in this file:** 79
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -136,7 +136,7 @@
 - **Sources:**
   - ROI-NJ: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5
 
-**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations ROI-NJ
+**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com
 
 ## 12. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR
 
