@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T13:36:31.291054+00:00",
-  "generated_at_display": "05 Aug 2026, 13:36 UTC",
+  "generated_at": "2026-08-05T13:37:29.543422+00:00",
+  "generated_at_display": "05 Aug 2026, 13:37 UTC",
   "item_count": 171,
-  "raw_relevant_item_count": 354,
-  "duplicates_merged": 183,
+  "raw_relevant_item_count": 352,
+  "duplicates_merged": 181,
   "failures": [],
   "items": [
     {
@@ -1200,9 +1200,15 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-30T14:39:04+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-07-30T15:34:40+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "annual demand forecast profit raises strong testing"
     },
     {
@@ -3371,30 +3377,6 @@
       "event_signature": "here high hits stock week why"
     },
     {
-      "id": "552ac23184e25ffa2bb8",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHpxbm5NSThsbmZ5cWJVdFVWX1FaWUtEdTQ3NXdtX1NBdzV6U0tIckR6ekh6VzhmaElpZHlXNjJsQ241X1I1QzFjSGNld25DUkdpVEpkMTExYkNEbzZuRUJTNkstbWdTcFBpMWxhYllsWC15UGhRbk5Ec2hVb3U4d3NUVFVYWmJhUWh5S1FlVnl5NEJjaGVMQ05KTldxMTNtLTQzaXBYZnRqS1hZcU1pRnpFNU1HcFItTUp4dXVUODEtUTRxVXc?oc=5",
-      "description": "Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow dars.gov.et",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-07-23T00:35:45+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHpxbm5NSThsbmZ5cWJVdFVWX1FaWUtEdTQ3NXdtX1NBdzV6U0tIckR6ekh6VzhmaElpZHlXNjJsQ241X1I1QzFjSGNld25DUkdpVEpkMTExYkNEbzZuRUJTNkstbWdTcFBpMWxhYllsWC15UGhRbk5Ec2hVb3U4d3NUVFVYWmJhUWh5S1FlVnl5NEJjaGVMQ05KTldxMTNtLTQzaXBYZnRqS1hZcU1pRnpFNU1HcFItTUp4dXVUODEtUTRxVXc?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-07-23T00:35:45+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "above etf flow holds key looms modest resistance shows support thematic uptick"
-    },
-    {
       "id": "1913eec7daaa3590f8a9",
       "company": "Labcorp",
       "title": "Labcorp Secures $364.7M Contract for Military Health Services",
@@ -3608,6 +3590,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "being despite forecast margin margins off safety still"
+    },
+    {
+      "id": "e61644cdd83e8087076c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Volume Profile",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb19aQTZhTnlqMjN4ODZfak83Vkd0a0ktUEpjazQyNTlMV2o0NFZZZElhMHdneXAzTy1lbnM3V3ZSaExnSGRuZjd0bDg5NDNvWTBzbDRjUFNSU0puejJOTmxKcXZWVlo2MTV0SWUzX2FGN2xVYUNIbVIxQmpYV3NiUkViSER3YjhOSXVfRk9PSDlIbjR1RmMyWndpWmJudm1vMkNxUmstRU9Dekt4NkNGVnVCbFhqNlJDZG5JTzhhRmx3WThDbG41MA?oc=5",
+      "description": "Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "published_display": "22 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb19aQTZhTnlqMjN4ODZfak83Vkd0a0ktUEpjazQyNTlMV2o0NFZZZElhMHdneXAzTy1lbnM3V3ZSaExnSGRuZjd0bDg5NDNvWTBzbDRjUFNSU0puejJOTmxKcXZWVlo2MTV0SWUzX2FGN2xVYUNIbVIxQmpYV3NiUkViSER3YjhOSXVfRk9PSDlIbjR1RmMyWndpWmJudm1vMkNxUmstRU9Dekt4NkNGVnVCbFhqNlJDZG5JTzhhRmx3WThDbG41MA?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-07-22T07:00:00+00:00"
+        },
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONHpxbm5NSThsbmZ5cWJVdFVWX1FaWUtEdTQ3NXdtX1NBdzV6U0tIckR6ekh6VzhmaElpZHlXNjJsQ241X1I1QzFjSGNld25DUkdpVEpkMTExYkNEbzZuRUJTNkstbWdTcFBpMWxhYllsWC15UGhRbk5Ec2hVb3U4d3NUVFVYWmJhUWh5S1FlVnl5NEJjaGVMQ05KTldxMTNtLTQzaXBYZnRqS1hZcU1pRnpFNU1HcFItTUp4dXVUODEtUTRxVXc?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-07-23T00:35:45+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "above holds key looms modest profile resistance shows support uptick volume"
     },
     {
       "id": "03c2890fe00da27f1759",

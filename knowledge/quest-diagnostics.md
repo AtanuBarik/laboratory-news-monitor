@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Aug 2026, 13:36 UTC
+- **Repository generated:** 05 Aug 2026, 13:37 UTC
 - **Distinct events in this file:** 77
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -780,19 +780,7 @@
 
 **Feed description:** Quest Diagnostics Stock Hits 52-Week High - Here's Why - Quest Diagnostics (NYSE:DGX) benzinga.com
 
-## 64. Quest Diagnostics Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 23 Jul 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - dars.gov.et: https://news.google.com/rss/articles/CBMixgFBVV95cUxONHpxbm5NSThsbmZ5cWJVdFVWX1FaWUtEdTQ3NXdtX1NBdzV6U0tIckR6ekh6VzhmaElpZHlXNjJsQ241X1I1QzFjSGNld25DUkdpVEpkMTExYkNEbzZuRUJTNkstbWdTcFBpMWxhYllsWC15UGhRbk5Ec2hVb3U4d3NUVFVYWmJhUWh5S1FlVnl5NEJjaGVMQ05KTldxMTNtLTQzaXBYZnRqS1hZcU1pRnpFNU1HcFItTUp4dXVUODEtUTRxVXc?oc=5
-
-**Feed description:** Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow dars.gov.et
-
-## 65. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives
+## 64. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -804,7 +792,7 @@
 
 **Feed description:** Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives Quiver Quantitative
 
-## 66. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
+## 65. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -815,6 +803,19 @@
   - Investing.com UK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXd5R2piZDdtcTRHVjRHQVdrbFM0c0pUWW1rX1R5bGdIR19UWjZZOVdhTXVRek9GWFV1a3R6ZXhkQy1rTUZCWkVONE5NOU92M0hfcTMyQVZCMzI5QW5vRW0wSXZJRkthSkhmcHkyWTVvLU5ieXNoU1lGUkNuekUzQXVqOGt2ZUJSX1lSOUtTbGhyMUpfTHZrbmNkOGFzbWgtSFctZUtNXzg4NE85czdLOVQ0ZTN1dkE?oc=5
 
 **Feed description:** Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com Investing.com UK
+
+## 66. Quest Diagnostics Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Volume Profile
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Jul 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - dars.gov.et: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb19aQTZhTnlqMjN4ODZfak83Vkd0a0ktUEpjazQyNTlMV2o0NFZZZElhMHdneXAzTy1lbnM3V3ZSaExnSGRuZjd0bDg5NDNvWTBzbDRjUFNSU0puejJOTmxKcXZWVlo2MTV0SWUzX2FGN2xVYUNIbVIxQmpYV3NiUkViSER3YjhOSXVfRk9PSDlIbjR1RmMyWndpWmJudm1vMkNxUmstRU9Dekt4NkNGVnVCbFhqNlJDZG5JTzhhRmx3WThDbG41MA?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMixgFBVV95cUxONHpxbm5NSThsbmZ5cWJVdFVWX1FaWUtEdTQ3NXdtX1NBdzV6U0tIckR6ekh6VzhmaElpZHlXNjJsQ241X1I1QzFjSGNld25DUkdpVEpkMTExYkNEbzZuRUJTNkstbWdTcFBpMWxhYllsWC15UGhRbk5Ec2hVb3U4d3NUVFVYWmJhUWh5S1FlVnl5NEJjaGVMQ05KTldxMTNtLTQzaXBYZnRqS1hZcU1pRnpFNU1HcFItTUp4dXVUODEtUTRxVXc?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Shows Modest Uptick, Holds Above Key Support as Resistance Looms - Thematic ETF Flow dars.gov.et
 
 ## 67. Quest Diagnostics Expands Oncology Test Access, Is The Stock Fully Valued?
 
