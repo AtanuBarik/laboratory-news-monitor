@@ -57,35 +57,67 @@ jobs:
               (Path("assets/email-icons"), "*.png.b64", Path("assets/email-icons/rendered"), b"\x89PNG\r\n\x1a\n", "PNG"),
           ]
 
-          def decode_file(encoded_path: Path, output_dir: Path, signature: bytes, kind: str) -> None:
-              raw = encoded_path.read_text(encoding="utf-8-sig").strip()
-              if raw.lower().startswith("data:") and "," in raw:
-                  raw = raw.split(",", 1)[1]
-
-              cleaned = re.sub(r"[^A-Za-z0-9+/=]", "", raw).rstrip("=")
-              cleaned += "=" * (-len(cleaned) % 4)
+          def decode_file(
+              encoded_path: Path,
+              output_dir: Path,
+              signature: bytes,
+              kind: str,
+          ) -> bool:
               try:
+                  raw = encoded_path.read_text(encoding="utf-8-sig").strip()
+                  if raw.lower().startswith("data:") and "," in raw:
+                      raw = raw.split(",", 1)[1]
+
+                  cleaned = re.sub(r"[^A-Za-z0-9+/=]", "", raw).rstrip("=")
+                  if len(cleaned) % 4 == 1:
+                      raise ValueError(
+                          f"invalid character count {len(cleaned)}; Base64 length cannot be 1 modulo 4"
+                      )
+                  cleaned += "=" * (-len(cleaned) % 4)
                   image_bytes = base64.b64decode(cleaned, validate=True)
-              except (binascii.Error, ValueError) as exc:
-                  raise SystemExit(f"Invalid Base64 in {encoded_path}: {exc}") from exc
 
-              if len(image_bytes) < 100 or not image_bytes.startswith(signature):
-                  raise SystemExit(
-                      f"Decoded output from {encoded_path} is not a valid {kind} "
-                      f"({len(image_bytes)} bytes)."
+                  if len(image_bytes) < 100 or not image_bytes.startswith(signature):
+                      raise ValueError(
+                          f"decoded output is not a valid {kind} ({len(image_bytes)} bytes)"
+                      )
+
+                  output_dir.mkdir(parents=True, exist_ok=True)
+                  output_path = output_dir / encoded_path.name.removesuffix(".b64")
+                  output_path.write_bytes(image_bytes)
+                  print(
+                      f"Decoded {encoded_path.name} -> {output_path} "
+                      f"({len(image_bytes):,} bytes)"
                   )
+                  return True
+              except (OSError, binascii.Error, ValueError) as exc:
+                  print(f"::warning file={encoded_path}::Skipped invalid {kind} image: {exc}")
+                  return False
 
-              output_dir.mkdir(parents=True, exist_ok=True)
-              output_path = output_dir / encoded_path.name.removesuffix(".b64")
-              output_path.write_bytes(image_bytes)
-              print(f"Decoded {encoded_path.name} -> {output_path} ({len(image_bytes):,} bytes)")
+          total_decoded = 0
+          total_skipped = 0
 
           for source_dir, pattern, output_dir, signature, kind in jobs:
               encoded_files = sorted(source_dir.glob(pattern))
               if not encoded_files:
                   raise SystemExit(f"No {kind} source files found in {source_dir}.")
+
+              kind_decoded = 0
               for encoded_path in encoded_files:
-                  decode_file(encoded_path, output_dir, signature, kind)
+                  if decode_file(encoded_path, output_dir, signature, kind):
+                      kind_decoded += 1
+                      total_decoded += 1
+                  else:
+                      total_skipped += 1
+
+              if kind_decoded == 0:
+                  raise SystemExit(
+                      f"None of the {kind} source files in {source_dir} could be decoded."
+                  )
+
+          print(
+              f"Image build complete: {total_decoded} decoded, "
+              f"{total_skipped} skipped."
+          )
           PY
 
           ls -lh assets/email-logos/rendered
