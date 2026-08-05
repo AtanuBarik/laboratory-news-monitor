@@ -1,7 +1,7 @@
 # ARUP Laboratories News
 
-- **Repository generated:** 05 Aug 2026, 10:16 UTC
-- **Articles in this file:** 6
+- **Repository generated:** 05 Aug 2026, 11:38 UTC
+- **Articles in this file:** 7
 - **Primary use:** Ground Copilot Studio or another GitHub-connected AI agent.
 - **Data scope:** Public news collected through Google News RSS.
 
@@ -33,7 +33,20 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ARUP Laboratories Adds Cyclospora Data to Infectious Disease Dashboard Amid National Outbreak The Herald Journal
 
-## 3. ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma | Newswise - Newswise
+## 3. ARUP Laboratories Adds Cyclospora Data to Infectious Disease Dashboard Amid National Outbreak - hjnews.com
+
+- **Company:** ARUP Laboratories
+- **Publication date:** 03 Aug 2026
+- **Published at (UTC):** 2026-08-03T15:36:43+00:00
+- **Source:** hjnews.com
+- **Source domain:** hjnews.com
+- **Category:** Research / Clinical
+- **Official source:** No
+- **Original article:** https://news.google.com/rss/articles/CBMijgJBVV95cUxPYUNrZkM2SDg0NUM3T2Y2RzNTaUZvY01mcGpFYVVHUDBkY2kwbWN1cjllV3FOb1RPc0dZdEpteGpkaExXaFpLRGkxaUJUUHlqc3FlcDRXN2E1VWp1N3hFdE5uT3A4UlYxYlYxT3puTy11N2pRRlNfSkFUam9xbGVSbmVDdEhOWFpoZnBJX0oyV2diYXREdzhlM1BZemZWUndSd3JseWNHMHhtZzRnMlBFaldPVjFqT2JFeFRtejJrYlRIZU1YSEJpQVhlMThlTDNlX1REa3lZeUk2bDFMQ21ITDhiTUxISnpob3hWNXNudDltZVRCVkEyYjVpUXZHYVVXQUptVTlJenAzMGhmd1E?oc=5
+
+**Feed description:** ARUP Laboratories Adds Cyclospora Data to Infectious Disease Dashboard Amid National Outbreak hjnews.com
+
+## 4. ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma | Newswise - Newswise
 
 - **Company:** ARUP Laboratories
 - **Publication date:** 25 Jul 2026
@@ -46,7 +59,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma | Newswise Newswise
 
-## 4. ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring - Clinical Lab Products
+## 5. ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring - Clinical Lab Products
 
 - **Company:** ARUP Laboratories
 - **Publication date:** 22 Jul 2026
@@ -59,7 +72,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring Clinical Lab Products
 
-## 5. ARUP introduces spectral flow assay for multiple myeloma - Yahoo
+## 6. ARUP introduces spectral flow assay for multiple myeloma - Yahoo
 
 - **Company:** ARUP Laboratories
 - **Publication date:** 21 Jul 2026
@@ -72,7 +85,7 @@ Use the publication date, source, category, description, and URL fields below. D
 
 **Feed description:** ARUP introduces spectral flow assay for multiple myeloma Yahoo
 
-## 6. ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma - PR Newswire
+## 7. ARUP Launches First Clinical Spectral Flow Cytometry Assay for MRD Assessment in Multiple Myeloma - PR Newswire
 
 - **Company:** ARUP Laboratories
 - **Publication date:** 20 Jul 2026

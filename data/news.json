@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T10:16:14.810640+00:00",
-  "generated_at_display": "05 Aug 2026, 10:16 UTC",
-  "item_count": 571,
+  "generated_at": "2026-08-05T11:38:43.391099+00:00",
+  "generated_at_display": "05 Aug 2026, 11:38 UTC",
+  "item_count": 578,
   "failures": [],
   "items": [
     {
@@ -164,6 +164,20 @@
       "title": "Mayo Clinic in ranked No. 1 hospital in Florida, joins national Honor Roll - Action News Jax",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFhNTm1XakhsNWNGWk9jQmVQc2IzZS1Ia0ExNi1uQXZSTnc2bHJ6MHpIRVIzZEg4S21Nb05YVXNqNWlDalA5SHlZdndocFZqQU10S0Z1eDlkNGc3b2Z5a1hXbldMT0hGd0FOX2hyWjN5ZmVvZzZPSmprSjlhczlKQ05vMWhBalFkTFpqVExnd2dodDFLa0s2TmhPbUZCbmx6WXFfN0xnOVZIT1c3TlFqNWdMbFFncTBxYkJsYUZaTEV1SHowNkl5ZjRNQ0hlWEJtNm1hVGgxckl6OFY4VzVScVprS0nSAeQBQVVfeXFMTTBYTU5tV2pIbDVjRlpPY0JlUHNiM2UtSGtBMTYtbkF2Uk53NmxyejB6SEVSM2RIOEttTW9OWFVzajVpQ2pQOUh5WXZ3aHBWakFNdEtGdXg5ZDRnN29meWtYV25XTE9IRndBTl9oclozeWZlb2c2T0pqa0o5YXM5SkNObzFoQWpRZExaalRMZ3dnaHQxS2tLNk5oT21GQm5sellxXzdMZzlWSE9XN05RajVnTGxRZ3EwcWJCbGFGWkxFdUh6MDZJeWY0TUNIZVhCbTZtYVRoMXJJejhWOFc1UnFaa0tJ?oc=5",
       "description": "Mayo Clinic in ranked No. 1 hospital in Florida, joins national Honor Roll Action News Jax",
+      "source": "Action News Jax",
+      "source_url": "https://www.actionnewsjax.com",
+      "source_domain": "actionnewsjax.com",
+      "published_at": "2026-08-04T15:13:22+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "126320590e3aaa0935a2",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic ranked No. 1 hospital in Florida, joins national Honor Roll - Action News Jax",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ1NKUXFSY2NiNTQxVGoyeGJqOFZPQ3JZUFpWd0hTTk1SRkk5VGkwQ242NmpzMUdhTjBOYV9QdkgwRjhEQ085S2NJbWhXVHBaUlNrT2lLMk83UVRMQ1hWazVGNWY1ZkJSQXJqODRsaFNxeXFlSFhWZ1hYZm9BZWVRd0JlNnllczdzbFFNemtyNjhJSmRtT3ZacERKc3hpRDBUbXo2RUpJcE9FQkZDWUxoNFl4SWRTc2IyUXlVZFZjUnI5Q0FfVVNfZmhHY21RQUtN0gHkAUFVX3lxTE0wWE1ObVdqSGw1Y0ZaT2NCZVBzYjNlLUhrQTE2LW5BdlJOdzZscnowekhFUjNkSDhLbU1vTlhVc2o1aUNqUDlIeVl2d2hwVmpBTXRLRnV4OWQ0ZzdvZnlrWFduV0xPSEZ3QU5faHJaM3lmZW9nNk9KamtKOWFzOUpDTm8xaEFqUWRMWmpUTGd3Z2h0MUtrSzZOaE9tRkJubHpZcV83TGc5VkhPVzdOUWo1Z0xsUWdxMHFiQmxhRlpMRXVIejA2SXlmNE1DSGVYQm02bWFUaDFySXo4VjhXNVJxWmtLSQ?oc=5",
+      "description": "Mayo Clinic ranked No. 1 hospital in Florida, joins national Honor Roll Action News Jax",
       "source": "Action News Jax",
       "source_url": "https://www.actionnewsjax.com",
       "source_domain": "actionnewsjax.com",
@@ -338,6 +352,20 @@
       "published_at": "2026-08-04T11:00:00+00:00",
       "published_display": "04 Aug 2026",
       "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "6358cce809fbed69681f",
+      "company": "Labcorp",
+      "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbS04ZXd2M2xtTXNpWnd0QWVCMG1QN09nUEVzY1JQa1RSaThyV3ZfTnd4Y3o0ejVab25GZnVuUTVWNTNqNHpGdDhJVkE1VG5QYlp3N3lWTGg3TW9odWVmZkRXVlRXMjhTSEZuSktYNV94MmlVRVNBQlZaX1hROER0S2IxMks4cVBJWVlFU1hFdDZnZWkyYzUyd0VKVQ?oc=5",
+      "description": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-04T11:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Product / Innovation",
       "official_source": false
     },
     {
@@ -888,6 +916,20 @@
       "official_source": false
     },
     {
+      "id": "f6aac5cad663c2cab376",
+      "company": "ARUP Laboratories",
+      "title": "ARUP Laboratories Adds Cyclospora Data to Infectious Disease Dashboard Amid National Outbreak - hjnews.com",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPYUNrZkM2SDg0NUM3T2Y2RzNTaUZvY01mcGpFYVVHUDBkY2kwbWN1cjllV3FOb1RPc0dZdEpteGpkaExXaFpLRGkxaUJUUHlqc3FlcDRXN2E1VWp1N3hFdE5uT3A4UlYxYlYxT3puTy11N2pRRlNfSkFUam9xbGVSbmVDdEhOWFpoZnBJX0oyV2diYXREdzhlM1BZemZWUndSd3JseWNHMHhtZzRnMlBFaldPVjFqT2JFeFRtejJrYlRIZU1YSEJpQVhlMThlTDNlX1REa3lZeUk2bDFMQ21ITDhiTUxISnpob3hWNXNudDltZVRCVkEyYjVpUXZHYVVXQUptVTlJenAzMGhmd1E?oc=5",
+      "description": "ARUP Laboratories Adds Cyclospora Data to Infectious Disease Dashboard Amid National Outbreak hjnews.com",
+      "source": "hjnews.com",
+      "source_url": "https://www.hjnews.com",
+      "source_domain": "hjnews.com",
+      "published_at": "2026-08-03T15:36:43+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Research / Clinical",
+      "official_source": false
+    },
+    {
       "id": "0afb94f067e06b33b19b",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates - Yahoo Finance",
@@ -1046,6 +1088,20 @@
       "published_at": "2026-08-03T09:30:00+00:00",
       "published_display": "03 Aug 2026",
       "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "8db9b79b5fb9634f423c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics (DGX) Stock Analysis: Exploring Growth Potential And Investor Sentiment - DirectorsTalk Interviews",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTndhNFRwb1FEUVBPNERSNDZPOEFYTjdCSktyclJUSS1HMGdDNGxrYUszd043VUoxclVzRWctaFAta0JOdXE2SnRjZmZNVWRqeDd2U2RfQWNCNkxkTlV4WnNRdUtyaW91TVNWYlpWQlRjbHh4LVY3UHM0aHY2TjJiR1F3bUJDNHlDdlpCUThZUFpuRHV2OWgwVmxIN3p0b1M1MTNJNG9HaTkzQ3FGcEJZdm4xLVNNRGRUZUJ4cmY3Qnp2aWhkdjN2U05yYXdLNFBzUEk0?oc=5",
+      "description": "Quest Diagnostics (DGX) Stock Analysis: Exploring Growth Potential And Investor Sentiment DirectorsTalk Interviews",
+      "source": "DirectorsTalk Interviews",
+      "source_url": "https://www.directorstalkinterviews.com",
+      "source_domain": "directorstalkinterviews.com",
+      "published_at": "2026-08-03T09:13:41+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Financial",
       "official_source": false
     },
     {
@@ -1584,6 +1640,20 @@
       "official_source": false
     },
     {
+      "id": "89b96157b0996d360c0f",
+      "company": "Labcorp",
+      "title": "Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion - Sahm",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmZMWHhhV1ZDOThTM1R0QzhUZm9Md3FISk4wQUU1SjE4cDVfSXBEWmZ3bVlPd3Z1MGlFWmhIYjg1YmREbXJVZ2pUWlducGl3MHJWVmFBbVpKZ09aREFLWUxERk5UOTJMSzZmQ2Faa0lhRkQ0U0padDJETnFJaTFUUEJiT0E4VVJOWS12SW4yaWd2MGhEbXNCTWZIZGl4Z01oQVpXSnpPZUViMV9xRXc?oc=5",
+      "description": "Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion Sahm",
+      "source": "Sahm",
+      "source_url": "https://www.sahmcapital.com",
+      "source_domain": "sahmcapital.com",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
       "id": "fa54a532c890160c0f42",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Slides as the ASX Health Sell-Off Spreads - Kalkine",
@@ -2017,6 +2087,20 @@
       "source": "Court TV",
       "source_domain": "news.google.com",
       "published_at": "2026-07-30T15:52:08+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false
+    },
+    {
+      "id": "1d886fcb94dac58be2e8",
+      "company": "Labcorp",
+      "title": "Labcorp Exec Says Assumption for About 30 Bas - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVEZ0cTJrM3NMMDZFUVhDdS1VUnR1MnJ0REFhN0xIN3NVUTFJUUpYZ3dzZkFHWXNZMlVIR3Flam1ObHJvQVhXTW9CQWxCdFlUNGdJY3F1blBiemxyRmY4cndrRmhNdEFjcU83RDd0NEhuVDNsT1VYb3UwcnR5TE5tS1dkaXNWa2diaVJMRldSeDlBTFQtTlJnOTJnQ0pfT0VDOWl2ckpCOA?oc=5",
+      "description": "Labcorp Exec Says Assumption for About 30 Bas Moomoo",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "source_domain": "moomoo.com",
+      "published_at": "2026-07-30T15:11:17+00:00",
       "published_display": "30 Jul 2026",
       "category": "Other",
       "official_source": false
@@ -4327,6 +4411,20 @@
       "official_source": false
     },
     {
+      "id": "b830815091bdd325e1f6",
+      "company": "Quest Diagnostics",
+      "title": "UBS Adjusts Price Target on Quest Diagnostics to $232 From $220, Maintains Neutral Rating - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcHluN0ZreElZMzNCLUd6amhxUnZCR3B3SXl2UTJTa3RNLWZmM1dpbEhwSjRaU2lsb0lHcFNPbi1OQzFKQmRESUdhY3NBT2dUQ2laNUkycnM0RVRHU0ROX3pVREhmWGN0Q0J1bDhLcHFFZ2xmeHo5NXZPYVhneHNzN2dyZUdQblgxbFNpLWFVQmp6UzhEVGdkNmJWcHRmX2dKb1piRVkwcjRDTlQ4cndFVER6U1pYNEZYWmt3THljT0NPcjVYT3NxSXlVb2NzNDhGRzFJUlV3?oc=5",
+      "description": "UBS Adjusts Price Target on Quest Diagnostics to $232 From $220, Maintains Neutral Rating marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-07-24T13:33:20+00:00",
+      "published_display": "24 Jul 2026",
+      "category": "Product / Innovation",
+      "official_source": false
+    },
+    {
       "id": "32566cd31d83bc9e4ebf",
       "company": "Quest Diagnostics",
       "title": "Baird Adjusts Quest Diagnostics Price Target to $255 From $236, Maintains Neutral Rating - marketscreener.com",
@@ -4611,6 +4709,20 @@
       "source": "Morningstar",
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T20:44:05+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financial",
+      "official_source": false
+    },
+    {
+      "id": "28d2507af43335dab03e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
+      "description": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-23T20:21:01+00:00",
       "published_display": "23 Jul 2026",
       "category": "Financial",
       "official_source": false
@@ -5415,20 +5527,6 @@
       "official_source": false
     },
     {
-      "id": "a4c1dc2e7eb686c51d94",
-      "company": "Mayo Clinic Laboratories",
-      "title": "From joint damage to regeneration - newsnetwork.mayoclinic.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1RUWnpfbU9VQVZHdGZNM3RweTFxUXMwajlVYmpHWU1rZ1pYVV9raHJlVDcyUGZ4dmVGS2xkSWtBU0Y2LUxRcnY0bnU4S29Za3ZiZi1tTV9FaFVkdFNMNDgyMTd0N01LeWJSZWxJRlE5ZEFMWjU2WERWOXdKTWVYMWZJWFZPZTg?oc=5",
-      "description": "From joint damage to regeneration newsnetwork.mayoclinic.org",
-      "source": "newsnetwork.mayoclinic.org",
-      "source_url": "https://newsnetwork.mayoclinic.org",
-      "source_domain": "newsnetwork.mayoclinic.org",
-      "published_at": "2026-07-22T15:50:34+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Other",
-      "official_source": true
-    },
-    {
       "id": "b7749ec3ea4122652c1b",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com - Investing.com UK",
@@ -5495,18 +5593,18 @@
       "official_source": false
     },
     {
-      "id": "ba216ff787318701f0b8",
-      "company": "Labcorp",
-      "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - July 22, 2026 - Zacks Investment Research",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2V4Q3BYMW5ybElNajU1dHE0T3NldTlIckV5QV9mS1VjbEtJME9sUV9RZHdYOFc0WUp4S21qekhuSXJXaFJaR3hLNVl4cmR0U2ctTThNRVJXME9MNU5RYnh5d1RHaUI2UXMxWnY1NUdnT1RHZGxwS3RLYm91SzZEZWtiQ3NfZ3FNMFBqWlFYOHhxSTFFVTZMUTVpUE9ncWs?oc=5",
-      "description": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - July 22, 2026 Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-07-22T12:00:16+00:00",
+      "id": "a4c1dc2e7eb686c51d94",
+      "company": "Mayo Clinic Laboratories",
+      "title": "From joint damage to regeneration - newsnetwork.mayoclinic.org",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd1RUWnpfbU9VQVZHdGZNM3RweTFxUXMwajlVYmpHWU1rZ1pYVV9raHJlVDcyUGZ4dmVGS2xkSWtBU0Y2LUxRcnY0bnU4S29Za3ZiZi1tTV9FaFVkdFNMNDgyMTd0N01LeWJSZWxJRlE5ZEFMWjU2WERWOXdKTWVYMWZJWFZPZTg?oc=5",
+      "description": "From joint damage to regeneration newsnetwork.mayoclinic.org",
+      "source": "newsnetwork.mayoclinic.org",
+      "source_url": "https://newsnetwork.mayoclinic.org",
+      "source_domain": "newsnetwork.mayoclinic.org",
+      "published_at": "2026-07-22T07:00:00+00:00",
       "published_display": "22 Jul 2026",
-      "category": "Financial",
-      "official_source": false
+      "category": "Other",
+      "official_source": true
     },
     {
       "id": "f0d865fed43c9014dee5",
@@ -5655,6 +5753,20 @@
       "official_source": false
     },
     {
+      "id": "ccc67895db4e741ee498",
+      "company": "Mayo Clinic Laboratories",
+      "title": "One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) - newsnetwork.mayoclinic.org",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa3pmdzZMUFJya3JkNHB6WmM4ak5tcXNBUEw4RVlsZEl1SmVaM0tEb2NsZjlUTTJ1TjZxbVFNdDFnNk13My1rU2ltTWx2czczM2wyNEpJdXVrNmhNSklmVlQ2dkh2akEyQjEybEtqT3otUFhLNTBqQlcwMG5tU05ndkhJY3VYMWZoanJMZkpHYnZFMV9iYXdWQjNWNWd3QlhJR0NhcmlvekozaVVrYkhfWFFWSVFqR2JXakFadnRUdTdwbGVZRzljZFhCVmFPd0Q0bkg2bHM3cEFZRjE0VHVVQmdnaTlSb29naE5oSmFUVTlhTG1WS0lib1pZQWQySHda?oc=5",
+      "description": "One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) newsnetwork.mayoclinic.org",
+      "source": "newsnetwork.mayoclinic.org",
+      "source_url": "https://newsnetwork.mayoclinic.org",
+      "source_domain": "newsnetwork.mayoclinic.org",
+      "published_at": "2026-07-21T18:14:54+00:00",
+      "published_display": "21 Jul 2026",
+      "category": "Other",
+      "official_source": true
+    },
+    {
       "id": "03c2890fe00da27f1759",
       "company": "Labcorp",
       "title": "Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? - Yahoo Finance",
@@ -5718,20 +5830,6 @@
       "published_display": "21 Jul 2026",
       "category": "Other",
       "official_source": false
-    },
-    {
-      "id": "ccc67895db4e741ee498",
-      "company": "Mayo Clinic Laboratories",
-      "title": "One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) - newsnetwork.mayoclinic.org",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa3pmdzZMUFJya3JkNHB6WmM4ak5tcXNBUEw4RVlsZEl1SmVaM0tEb2NsZjlUTTJ1TjZxbVFNdDFnNk13My1rU2ltTWx2czczM2wyNEpJdXVrNmhNSklmVlQ2dkh2akEyQjEybEtqT3otUFhLNTBqQlcwMG5tU05ndkhJY3VYMWZoanJMZkpHYnZFMV9iYXdWQjNWNWd3QlhJR0NhcmlvekozaVVrYkhfWFFWSVFqR2JXakFadnRUdTdwbGVZRzljZFhCVmFPd0Q0bkg2bHM3cEFZRjE0VHVVQmdnaTlSb29naE5oSmFUVTlhTG1WS0lib1pZQWQySHda?oc=5",
-      "description": "One year later: First patient thrives after lung transplant through Mayo Clinic in Arizona's new lung transplant program (VIDEO) newsnetwork.mayoclinic.org",
-      "source": "newsnetwork.mayoclinic.org",
-      "source_url": "https://newsnetwork.mayoclinic.org",
-      "source_domain": "newsnetwork.mayoclinic.org",
-      "published_at": "2026-07-21T07:00:00+00:00",
-      "published_display": "21 Jul 2026",
-      "category": "Other",
-      "official_source": true
     },
     {
       "id": "685a2f8619b87d0736bd",
