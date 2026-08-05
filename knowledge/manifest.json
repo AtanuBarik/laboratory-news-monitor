@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-08-05T11:40:44.848388+00:00",
-  "generated_at_display": "05 Aug 2026, 11:40 UTC",
-  "total_articles": 583,
+  "generated_at": "2026-08-05T13:03:48.350775+00:00",
+  "generated_at_display": "05 Aug 2026, 13:03 UTC",
+  "total_distinct_events": 169,
+  "categories": [
+    "Product & Services",
+    "Clinical, R&D",
+    "Partnership, M&A",
+    "Financials",
+    "Organizational Updates",
+    "Leadership Changes",
+    "Other"
+  ],
   "files": {
     "all_companies": "knowledge/latest.md",
     "Labcorp": "knowledge/labcorp.md",
