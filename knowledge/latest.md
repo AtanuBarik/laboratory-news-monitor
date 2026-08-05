@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 05 Aug 2026, 13:04 UTC
+- **Repository generated:** 05 Aug 2026, 13:36 UTC
 - **Distinct events in this file:** 171
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -548,19 +548,7 @@
 
 **Feed description:** Labcorp Holdings Sees FY Adj EPS $18.10-Adj EPS $18.55 >LH Moomoo
 
-## 45. Labcorp Lifts Outlook as 2Q Profit, Revenue Rise
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Moomoo: https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5
-
-**Feed description:** Labcorp Lifts Outlook as 2Q Profit, Revenue Rise Moomoo
-
-## 46. Is Labcorp Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100
+## 45. Is Labcorp Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -572,7 +560,7 @@
 
 **Feed description:** Is Labcorp Holdings Inc (LH) Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100 GuruFocus
 
-## 47. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
+## 46. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -584,7 +572,7 @@
 
 **Feed description:** Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire
 
-## 48. Labcorp raises annual profit forecast on strong testing demand
+## 47. Labcorp raises annual profit forecast on strong testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -598,6 +586,18 @@
   - Reuters: https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5
 
 **Feed description:** Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada
+
+## 48. Labcorp Lifts Outlook as 2Q Profit, Revenue Rise
+
+- **Company:** Labcorp
+- **Publication date:** 30 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Moomoo: https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5
+
+**Feed description:** Labcorp Lifts Outlook as 2Q Profit, Revenue Rise Moomoo
 
 ## 49. Labcorp earnings beat by $0.20, revenue topped estimates
 

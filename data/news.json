@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T13:04:40.696495+00:00",
-  "generated_at_display": "05 Aug 2026, 13:04 UTC",
+  "generated_at": "2026-08-05T13:36:31.291054+00:00",
+  "generated_at_display": "05 Aug 2026, 13:36 UTC",
   "item_count": 171,
-  "raw_relevant_item_count": 349,
-  "duplicates_merged": 178,
+  "raw_relevant_item_count": 354,
+  "duplicates_merged": 183,
   "failures": [],
   "items": [
     {
@@ -1119,29 +1119,6 @@
       "event_signature": "adj eps sees"
     },
     {
-      "id": "2143ca91a56f65ce4efe",
-      "company": "Labcorp",
-      "title": "Labcorp Lifts Outlook as 2Q Profit, Revenue Rise",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5",
-      "description": "Labcorp Lifts Outlook as 2Q Profit, Revenue Rise Moomoo",
-      "source": "Moomoo",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T11:48:11+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:48:11+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "lifts outlook profit revenue rise"
-    },
-    {
       "id": "8a5ddd181513d14e4b9f",
       "company": "Labcorp",
       "title": "Is Labcorp Overvalued After Q2 Earnings Miss? EPS at $3.64, Revenue $3.73B, GF Score: 77/100",
@@ -1227,6 +1204,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "annual demand forecast profit raises strong testing"
+    },
+    {
+      "id": "780ac27ca5165b70b7e1",
+      "company": "Labcorp",
+      "title": "Labcorp Lifts Outlook as 2Q Profit, Revenue Rise",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5",
+      "description": "Labcorp Lifts Outlook as 2Q Profit, Revenue Rise Moomoo",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "source_domain": "moomoo.com",
+      "published_at": "2026-07-30T11:13:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-07-30T11:13:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "lifts outlook profit revenue rise"
     },
     {
       "id": "bef82adae503aa06a4a2",
