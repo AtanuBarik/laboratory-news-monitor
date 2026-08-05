@@ -27,7 +27,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Check out repository
@@ -49,7 +49,9 @@ jobs:
           EMAIL_PROVIDER: ${{ vars.EMAIL_PROVIDER || 'auto' }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_BCC: ${{ secrets.EMAIL_BCC }}
           EMAIL_SENDER_NAME: ${{ vars.EMAIL_SENDER_NAME || 'Quest Updates' }}
+          AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
