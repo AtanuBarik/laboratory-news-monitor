@@ -41,6 +41,17 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Build hosted email logo files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p assets/email-logos/rendered
+          for encoded in assets/email-logos/*.jpg.b64; do
+            filename="$(basename "$encoded" .b64)"
+            base64 --decode "$encoded" > "assets/email-logos/rendered/$filename"
+          done
+          ls -lh assets/email-logos/rendered
+
       - name: Fetch news and build knowledge files
         run: python scripts/fetch_news.py
 
@@ -61,7 +72,7 @@ jobs:
           SEND_TEST_EMAIL: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_email || false }}
         run: python scripts/email_new_items.py
 
-      - name: Commit updated data and notification state
+      - name: Commit updated data, hosted logos, and notification state
         shell: bash
         run: |
           set -euo pipefail
@@ -69,8 +80,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          # Stage first so newly created state files are detected as changes.
-          git add data/news.json data/notified_ids.json data/email_status.json knowledge
+          git add \
+            data/news.json \
+            data/notified_ids.json \
+            data/email_status.json \
+            knowledge \
+            assets/email-logos/rendered
 
           if git diff --cached --quiet; then
             echo "No repository changes to commit."
@@ -79,9 +94,6 @@ jobs:
 
           git commit -m "Update laboratory news and email state"
 
-          # The main branch can change while news is being collected. Rebase the
-          # generated-data commit onto the latest main branch before pushing.
-          # Retry when another commit lands between the rebase and push.
           for attempt in 1 2 3; do
             echo "Push attempt ${attempt} of 3"
             git fetch origin main
