@@ -1,0 +1,65 @@
+name: Publish automated laboratory news
+
+on:
+  workflow_run:
+    workflows:
+      - Update laboratory news
+    types: [completed]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: laboratory-automated-pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out latest main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build minimal published site
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf _site
+          mkdir -p _site/data
+          cp index.html _site/index.html
+          cp data/news.json _site/data/news.json
+          touch _site/.nojekyll
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          payload = json.loads(Path('_site/data/news.json').read_text(encoding='utf-8'))
+          print('Published news records:', len(payload.get('items') or []))
+          PY
+          du -sh _site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    timeout-minutes: 15
+    steps:
+      - name: Deploy automated news update
+        id: deployment
+        uses: actions/deploy-pages@v5
