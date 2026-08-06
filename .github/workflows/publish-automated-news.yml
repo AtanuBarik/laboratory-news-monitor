@@ -2,43 +2,32 @@ name: Publish laboratory monitor
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - index.html
   workflow_run:
     workflows:
       - Update laboratory news
     types: [completed]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
-  id-token: write
 
-# Do not cancel a Pages deployment after GitHub has accepted the artifact.
-# A newer run waits for the current production deployment to finish.
 concurrency:
-  group: laboratory-github-pages
-  cancel-in-progress: false
+  group: laboratory-branch-pages
+  cancel-in-progress: true
 
 jobs:
-  build:
+  publish:
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 8
     steps:
       - name: Check out latest main
         uses: actions/checkout@v6
         with:
           ref: main
-          fetch-depth: 1
+          fetch-depth: 0
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Build minimal published site
+      - name: Validate and prepare static site
         shell: bash
         run: |
           set -euo pipefail
@@ -47,6 +36,7 @@ jobs:
           cp index.html _site/index.html
           cp data/news.json _site/data/news.json
           touch _site/.nojekyll
+
           python - <<'PY'
           import json
           from pathlib import Path
@@ -56,30 +46,42 @@ jobs:
           items = payload.get('items') or []
           if not isinstance(items, list):
               raise SystemExit('data/news.json has an invalid items field')
-          print('Published news records:', len(items))
+          print('Prepared news records:', len(items))
           PY
-          du -sh _site
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v4
-        with:
-          path: _site
+      - name: Publish files to gh-pages branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'laboratory-pages[bot]'
+          git config user.email 'laboratory-pages[bot]@users.noreply.github.com'
 
-  deploy:
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    timeout-minutes: 20
-    steps:
-      - name: Deploy laboratory monitor
-        id: deployment
-        uses: actions/deploy-pages@v4
-        with:
-          timeout: 900000
-          error_count: 20
-          reporting_interval: 5000
+          git fetch origin gh-pages:gh-pages || true
+          rm -rf /tmp/laboratory-pages
+          git worktree add /tmp/laboratory-pages gh-pages
+
+          find /tmp/laboratory-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -R "$GITHUB_WORKSPACE/_site/." /tmp/laboratory-pages/
+
+          cd /tmp/laboratory-pages
+          git add -A
+          if git diff --cached --quiet; then
+            echo 'Published branch is already current.'
+          else
+            git commit -m "Publish laboratory monitor from ${GITHUB_SHA::7}"
+            git push origin gh-pages
+          fi
+
+      - name: Request branch-based Pages build
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          response=$(curl --silent --show-error --fail-with-body \
+            --request POST \
+            --header 'Accept: application/vnd.github+json' \
+            --header "Authorization: Bearer $GH_TOKEN" \
+            --header 'X-GitHub-Api-Version: 2022-11-28' \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/pages/builds")
+          echo "$response"
