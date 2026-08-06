@@ -591,5 +591,6 @@
     "fda1e4298a70afc0b076",
     "ffede0cca64cf8811c45"
   ],
-  "last_successful_email_count": 40
+  "last_successful_email_count": 40,
+  "dismissed_ids": []
 }
