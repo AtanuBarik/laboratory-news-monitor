@@ -1,20 +1,15 @@
 {
-  "checked_at": "2026-08-05T22:36:57.570764+00:00",
+  "checked_at": "2026-08-06T04:43:46.994617+00:00",
   "status": "no_summarizable_items",
-  "candidate_item_count": 10,
+  "candidate_item_count": 5,
   "email_item_count": 0,
   "verified_summary_count": 0,
-  "skipped_unreadable_count": 10,
+  "skipped_unreadable_count": 5,
   "skipped_ids": [
+    "99b6e63775cbc96e2f65",
+    "0976b23229252a7d0ee5",
     "8a77d1230261ddd77dd3",
     "a0b3c8baae938a0cc347",
-    "d63b6c028f29c1e068fd",
-    "3d76c00817211a488f5b",
-    "c2893c02f0d054ebcbff",
-    "64b8373a02002095cdb4",
-    "9901a8dc52243c2d573d",
-    "e61644cdd83e8087076c",
-    "768ff61f2da115226d30",
-    "cb3a99800d7bb46a55b2"
+    "d63b6c028f29c1e068fd"
   ]
 }

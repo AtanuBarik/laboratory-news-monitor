@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-08-05T22:33:47.259223+00:00",
-  "generated_at_display": "05 Aug 2026, 22:33 UTC",
-  "item_count": 178,
-  "raw_relevant_item_count": 359,
+  "generated_at": "2026-08-06T04:41:16.230295+00:00",
+  "generated_at_display": "06 Aug 2026, 04:41 UTC",
+  "item_count": 182,
+  "raw_relevant_item_count": 363,
   "duplicates_merged": 181,
   "failures": [],
   "items": [
+    {
+      "id": "99b6e63775cbc96e2f65",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Lifts 2026 Outlook As Investors Ask If The Stock Is Fully Valued",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0FQMVN0ZWtaN01CMGdxX2lLSWxMY1FSMVF5UVVTUUdVOUFrS0JFMng0ZGxEd1pzNU1aRGpFS0N4bjB3QzdaZEtTR0RFWXFsRVhRWEJUS2tvVjJ4eG50NldTNEVtZmpYeWY3ejU2VW9seUFtY3FONjFENnpTdzRDYjdMZUxUOTdRM0REaWQxYnlQU2p3MlJyVFNieU50YmE3SmxHYXZPUjRjbWY5MF83cFhyUVNhWWE2VUxUb1FtSnJSRXpnNkxRRDhTUGFGTnRn0gHWAUFVX3lxTFA1WUNmM3RILTBxWmlpaVFoeTQ5cWRONHM0cDAzZ201eTYxeUtqRzRiOUwxTlYxRzlwWUM4bG1pQkNEVFNtNS01ajg3S3AtWXNuUVFrcmMwdXMxWjR1dHFGd3p6MlMwdmZmaTJYNHFrNjRxT0RXQzRoSnEyZ0RmdGw3VFBHU0JxUHRhbzZneDBuSlJNX29vQk0wZUhGeWlrT2NFTGNhU2JxT3dvdDdKVWpSQnlIcHE1aTRhdXI5ci15WFBFcGh0dWhoSTVvTjJGQXdoNkpFWGc?oc=5",
+      "description": "Quest Diagnostics (DGX) Lifts 2026 Outlook As Investors Ask If The Stock Is Fully Valued simplywall.st",
+      "source": "simplywall.st",
+      "source_url": "https://simplywall.st",
+      "source_domain": "simplywall.st",
+      "published_at": "2026-08-05T19:53:45+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0FQMVN0ZWtaN01CMGdxX2lLSWxMY1FSMVF5UVVTUUdVOUFrS0JFMng0ZGxEd1pzNU1aRGpFS0N4bjB3QzdaZEtTR0RFWXFsRVhRWEJUS2tvVjJ4eG50NldTNEVtZmpYeWY3ejU2VW9seUFtY3FONjFENnpTdzRDYjdMZUxUOTdRM0REaWQxYnlQU2p3MlJyVFNieU50YmE3SmxHYXZPUjRjbWY5MF83cFhyUVNhWWE2VUxUb1FtSnJSRXpnNkxRRDhTUGFGTnRn0gHWAUFVX3lxTFA1WUNmM3RILTBxWmlpaVFoeTQ5cWRONHM0cDAzZ201eTYxeUtqRzRiOUwxTlYxRzlwWUM4bG1pQkNEVFNtNS01ajg3S3AtWXNuUVFrcmMwdXMxWjR1dHFGd3p6MlMwdmZmaTJYNHFrNjRxT0RXQzRoSnEyZ0RmdGw3VFBHU0JxUHRhbzZneDBuSlJNX29vQk0wZUhGeWlrT2NFTGNhU2JxT3dvdDdKVWpSQnlIcHE1aTRhdXI5ci15WFBFcGh0dWhoSTVvTjJGQXdoNkpFWGc?oc=5",
+          "domain": "simplywall.st",
+          "published_at": "2026-08-05T19:53:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 ask fully investors lifts outlook stock valued"
+    },
+    {
+      "id": "0976b23229252a7d0ee5",
+      "company": "Quest Diagnostics",
+      "title": "Is Quest Diagnostics A Bargain Following Raised Guidance And Strong Quarterly Results?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHpJdUhPYjA0NFN1OHFfZC1leHJXRm8tWHdxYUVnSUFCQ05YdXpSZkpLZmJVMFBqODVieDJpU0p6ZlRDWG5SMUVZOEw3M29UUFRuOUdGd1UxajduZGdLRzYyaVRvOU1Obzc0THVTRTJBQXpJaEZvYmI1cm1ZVlpOa3h4RDdyd0JZTXE5eWZ5ejB0U0dGRTZPUFFUUEI4TU95eF9OZThRVQ?oc=5",
+      "description": "Is Quest Diagnostics (DGX) A Bargain Following Raised Guidance And Strong Quarterly Results? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-05T18:10:58+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHpJdUhPYjA0NFN1OHFfZC1leHJXRm8tWHdxYUVnSUFCQ05YdXpSZkpLZmJVMFBqODVieDJpU0p6ZlRDWG5SMUVZOEw3M29UUFRuOUdGd1UxajduZGdLRzYyaVRvOU1Obzc0THVTRTJBQXpJaEZvYmI1cm1ZVlpOa3h4RDdyd0JZTXE5eWZ5ejB0U0dGRTZPUFFUUEI4TU95eF9OZThRVQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-05T18:10:58+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bargain following guidance quarterly raised results strong"
+    },
     {
       "id": "8a77d1230261ddd77dd3",
       "company": "Labcorp",
@@ -383,6 +431,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "analysis exploring growth investor potential sentiment stock"
+    },
+    {
+      "id": "2f3e7c349817b14b2e3e",
+      "company": "Labcorp",
+      "title": "LABCORP: JP MORGAN RAISES TARGET PRICE TO $360 FROM $330",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IblZyMVhRRE1jcDdTdnRmZERjS2ZCdHpNbTM3R0U2NFkzN3ZXUElPY3FteG43Uy1wYTJSa2RCT0RkeWtTWTZqMkV6RkFqZ296bkZ6NlJmRVozcjNHc0xOM1ZTY9IBY0FVX3lxTE5IblZyMVhRRE1jcDdTdnRmZERjS2ZCdHpNbTM3R0U2NFkzN3ZXUElPY3FteG43Uy1wYTJSa2RCT0RkeWtTWTZqMkV6RkFqZ296bkZ6NlJmRVozcjNHc0xOM1ZTYw?oc=5",
+      "description": "LABCORP : JP MORGAN RAISES TARGET PRICE TO $360 FROM $330 Bitget",
+      "source": "Bitget",
+      "source_url": "https://www.bitget.com",
+      "source_domain": "bitget.com",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IblZyMVhRRE1jcDdTdnRmZERjS2ZCdHpNbTM3R0U2NFkzN3ZXUElPY3FteG43Uy1wYTJSa2RCT0RkeWtTWTZqMkV6RkFqZ296bkZ6NlJmRVozcjNHc0xOM1ZTY9IBY0FVX3lxTE5IblZyMVhRRE1jcDdTdnRmZERjS2ZCdHpNbTM3R0U2NFkzN3ZXUElPY3FteG43Uy1wYTJSa2RCT0RkeWtTWTZqMkV6RkFqZ296bkZ6NlJmRVozcjNHc0xOM1ZTYw?oc=5",
+          "domain": "bitget.com",
+          "published_at": "2026-08-03T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "330 360 morgan price raises target"
     },
     {
       "id": "48a6f34bd768e0322b8f",
@@ -1520,7 +1592,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlg5cWZfam5IM3FJZ3ZTS1hUekFLdjB0aXMtWkt1cHRyMHozdEh5ZlZ6cHlWb3I1ai1SeGZLX2FILVptQldhUGttaURQc3VWdHRkSWRTZmZwY3RmS2xuM29YdXRSQ3RRam44X3BfV3p1YVMwZndfSjFNcDVsSnZNYnp4NFNLNzhDVFZicVF3Tm43eERiUXZWSDBURUJuMkFWSHBlX2t0eTlseXhtMHY3VnFxc3hseGUyT0pTZjk5Q3RvWkVhUURXc0VxS0kycWJqd1VZ?oc=5",
-      "description": "LH Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase StockStory",
+      "description": "LH Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase stockstory.org",
       "source": "StockStory",
       "source_url": "https://stockstory.org",
       "source_domain": "stockstory.org",
@@ -1865,9 +1937,15 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5",
           "domain": "yahoo.com",
           "published_at": "2026-07-28T09:33:48+00:00"
+        },
+        {
+          "name": "yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-07-28T09:33:48+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "access expands genetic health hereditary panel risk testing"
     },
     {
@@ -2126,7 +2204,7 @@
       "company": "Labcorp",
       "title": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5",
-      "description": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases Fierce Biotech",
+      "description": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com",
       "source": "Fierce Biotech",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T12:00:00+00:00",
@@ -2221,9 +2299,15 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzg1OG5hTTctRjlISHpaUnhrRkxmWGc0MTZ5ZFpMOVlURV9SZmVxd2xiV0h2YTg1RERCQVpUaWFHU1E1NmhkMG1sVE9EaXdDbndxM1cwbjk1M2NUQjhMeDZKTF9TcWZqQ3RSejBXS3M1clJsOVB1UDdnNWthSkdVNnRNekpmSm1qSFR3?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-31T23:08:21+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkJ0enYxUHRwUHRuRmJzdEJCSlNvVDJFX1hCWE5veWwwcGxNbVZESzItUDhqb1RkeC1MeDRMWmNRbTZBaEUwWlEwQVJKRFZlYllyZkFPSHkzZm85eGxqd1hNWkktbVVIell1SURJVXJveHQ3UUpVem0ydGcyQTA2U1lYU2JaZ1VkYnZN?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-07-31T23:08:21+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "access consumer expanding genetic health hereditary launches marker panel risk testing"
     },
     {
@@ -3466,7 +3550,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics lifts Q2 EPS to $2.84 on 10% revenue growth",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUFdFY1hRaVY4NHloUWl2ei03Z08tbWtzOXZvTW8wZFRsSUM0Y0xXS2FUZEpkRV83ZFpSVmpicXlZWEZKUWR0SG5OSXoxN2ZOM3pGclJFa2hFY0E4SjluU1BhdnVBeF9zeThUbnZzV3lqaWVQNDg0QTU0TEFaLXNrUDZDUUxPTjN3SXRYa2NQLVdIRkRlbzUzWmZRbkdFWHFNU0tTY3dWS1hRX0pDNklrTU5aMA?oc=5",
-      "description": "Quest Diagnostics (NYSE: DGX) lifts Q2 EPS to $2.84 on 10% revenue growth Stock Titan",
+      "description": "Quest Diagnostics (NYSE: DGX) lifts Q2 EPS to $2.84 on 10% revenue growth stocktitan.net",
       "source": "Stock Titan",
       "source_url": "https://www.stocktitan.net",
       "source_domain": "stocktitan.net",
@@ -4080,6 +4164,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 cycle demand earnings eps estimates remains report steady surpasses"
+    },
+    {
+      "id": "85b034ba93348c965995",
+      "company": "Sonic Healthcare",
+      "title": "What Are the Latest Trading Statistics for Sonic Healthcare?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEx6ajY1M2E0YzZYM1lCN2hOeXliaFJodVh0MFZsX2lYRGliNkNaNTlhQ1BqM2M5UDkydUFMNGJhdlRYYzcwNC1iOEw5TWJ3ZEFiaTZSWXlrUGQtR3lQVF81QVRwa2JDVWs0WjdLNWRGekFLWUt3aWNhU3Q5TWRTUDJWYXlla0gwQ2V0RDkzMHlFeG8xTFJxNlRNc00xRk0tZF81RE9lcl8?oc=5",
+      "description": "What Are the Latest Trading Statistics for Sonic Healthcare (ASX:SHL)? Kalkine",
+      "source": "Kalkine",
+      "source_url": "https://kalkine.com.au",
+      "source_domain": "kalkine.com.au",
+      "published_at": "2026-07-14T07:00:00+00:00",
+      "published_display": "14 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEx6ajY1M2E0YzZYM1lCN2hOeXliaFJodVh0MFZsX2lYRGliNkNaNTlhQ1BqM2M5UDkydUFMNGJhdlRYYzcwNC1iOEw5TWJ3ZEFiaTZSWXlrUGQtR3lQVF81QVRwa2JDVWs0WjdLNWRGekFLWUt3aWNhU3Q5TWRTUDJWYXlla0gwQ2V0RDkzMHlFeG8xTFJxNlRNc00xRk0tZF81RE9lcl8?oc=5",
+          "domain": "kalkine.com.au",
+          "published_at": "2026-07-14T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are statistics trading what"
     },
     {
       "id": "724bbb3d350be010fb30",

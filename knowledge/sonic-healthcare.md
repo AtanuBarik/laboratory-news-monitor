@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 05 Aug 2026, 22:33 UTC
-- **Distinct events in this file:** 17
+- **Repository generated:** 06 Aug 2026, 04:41 UTC
+- **Distinct events in this file:** 18
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -149,7 +149,19 @@
 
 **Feed description:** Is Sonic Healthcare Worth a Second Look After Its Decline? Kalkine
 
-## 13. Sonic Healthcare: How Does It Strengthen Its Global Diagnostic Services Business?
+## 13. What Are the Latest Trading Statistics for Sonic Healthcare?
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 14 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSEx6ajY1M2E0YzZYM1lCN2hOeXliaFJodVh0MFZsX2lYRGliNkNaNTlhQ1BqM2M5UDkydUFMNGJhdlRYYzcwNC1iOEw5TWJ3ZEFiaTZSWXlrUGQtR3lQVF81QVRwa2JDVWs0WjdLNWRGekFLWUt3aWNhU3Q5TWRTUDJWYXlla0gwQ2V0RDkzMHlFeG8xTFJxNlRNc00xRk0tZF81RE9lcl8?oc=5
+
+**Feed description:** What Are the Latest Trading Statistics for Sonic Healthcare (ASX:SHL)? Kalkine
+
+## 14. Sonic Healthcare: How Does It Strengthen Its Global Diagnostic Services Business?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Jul 2026
@@ -161,7 +173,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL): How Does It Strengthen Its Global Diagnostic Services Business? kalkine.com.au
 
-## 14. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 15. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
@@ -173,7 +185,7 @@
 
 **Feed description:** Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au
 
-## 15. Sonic Healthcare Draws Fresh Attention On Valuation But Are Margin Risks Priced In
+## 16. Sonic Healthcare Draws Fresh Attention On Valuation But Are Margin Risks Priced In
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 07 Jul 2026
@@ -185,7 +197,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Draws Fresh Attention On Valuation But Are Margin Risks Priced In simplywall.st
 
-## 16. Sonic Healthcare Turns Higher as Market Attention Returns to Global Diagnostics
+## 17. Sonic Healthcare Turns Higher as Market Attention Returns to Global Diagnostics
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 07 Jul 2026
@@ -197,7 +209,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Turns Higher as Market Attention Returns to Global Diagnostics kalkine.com.au
 
-## 17. Sonic Healthcare: Exploring the Business Behind Australia's Leading Pathology Provider
+## 18. Sonic Healthcare: Exploring the Business Behind Australia's Leading Pathology Provider
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 06 Jul 2026
