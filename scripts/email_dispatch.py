@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """Select substantive competitor events and dispatch the branded email report.
 
-This wrapper reuses the existing email rendering and SMTP functions, but avoids
-an all-or-nothing failure when the newest feed entries are valuation articles,
-stock commentary, or multi-company market roundups. It scans ranked candidates
-in small waves until it has enough verified article-content summaries.
+The dispatcher skips stock/valuation commentary, ranks substantive events, and
+scans candidates in waves until it has verified article-content summaries. It
+also prints detailed Worker retrieval/model diagnostics when a summary fails.
 """
 
 from __future__ import annotations
 
+import json
 import os
 import re
+import urllib.request
 from datetime import datetime, timezone
 from typing import Any
 
@@ -145,6 +146,21 @@ CATEGORY_SCORE = {
     "Other": 1,
 }
 
+FORBIDDEN_SUMMARY_PHRASES = (
+    "content_unavailable",
+    "repository evidence",
+    "available public report",
+    "identified across",
+    "separate reports",
+    "coverage count",
+    "unable to access",
+    "cannot access",
+    "insufficient information",
+    "not enough information",
+    "source article should be reviewed",
+    "most important follow-up is to confirm",
+)
+
 
 def normalized_text(item: dict[str, Any]) -> str:
     return re.sub(
@@ -201,7 +217,9 @@ def quality_score(item: dict[str, Any]) -> tuple[int, str]:
     return score, str(item.get("published_at") or "")
 
 
-def rank_candidates(items: list[dict[str, Any]], excluded_ids: set[str]) -> tuple[list[dict[str, Any]], list[str]]:
+def rank_candidates(
+    items: list[dict[str, Any]], excluded_ids: set[str]
+) -> tuple[list[dict[str, Any]], list[str]]:
     substantive: list[dict[str, Any]] = []
     dismissed_ids: list[str] = []
     for item in items:
@@ -216,13 +234,121 @@ def rank_candidates(items: list[dict[str, Any]], excluded_ids: set[str]) -> tupl
     return substantive, dismissed_ids
 
 
+def clean_worker_summary(value: str) -> str:
+    summary = re.sub(r"https?://\S+", "", str(value or ""))
+    summary = re.sub(r"\[([^\]]+)\]\([^\)]+\)", r"\1", summary)
+    summary = re.sub(r"^\s{0,3}#{1,6}\s*", "", summary, flags=re.MULTILINE)
+    summary = re.sub(r"^\s*[-*•]\s*", "", summary, flags=re.MULTILINE)
+    summary = re.sub(r"[*_`]+", "", summary)
+    summary = re.sub(r"[ \t]+", " ", summary)
+    summary = re.sub(r"\n{3,}", "\n\n", summary).strip(" -–—|:;.\n")
+
+    lowered = summary.lower()
+    if not summary or any(phrase in lowered for phrase in FORBIDDEN_SUMMARY_PHRASES):
+        return ""
+    word_count = len(summary.split())
+    # A factual 80-99 word summary is preferable to suppressing the entire
+    # report, while the Worker still targets 150-240 words.
+    if word_count < 80:
+        return ""
+    if word_count > 330:
+        summary = " ".join(summary.split()[:330]).rstrip(" ,;:") + "."
+    elif not summary.endswith((".", "!", "?")):
+        summary += "."
+    return summary
+
+
+def print_worker_diagnostics(identifier: str, result: dict[str, Any]) -> None:
+    print(
+        f"Summary rejected for {identifier}: "
+        f"{result.get('error') or 'content_verified was false'}"
+    )
+    attempts = result.get("diagnostic_attempts") or []
+    for attempt in attempts[-8:]:
+        if not isinstance(attempt, dict):
+            continue
+        if attempt.get("stage") == "direct_page_retrieval":
+            print(
+                "  direct retrieval:",
+                f"{attempt.get('successful_pages', 0)} readable page(s)",
+            )
+            for retrieval in (attempt.get("retrievals") or [])[:5]:
+                print(
+                    "   -",
+                    retrieval.get("status"),
+                    retrieval.get("characters", 0),
+                    str(retrieval.get("final_url") or retrieval.get("input_url") or "")[:160],
+                )
+        else:
+            print(
+                "  AI attempt:",
+                attempt.get("api"),
+                attempt.get("model"),
+                attempt.get("tools", "none"),
+                attempt.get("status"),
+                str(attempt.get("error") or "")[:220],
+            )
+            if attempt.get("sample"):
+                print("   sample:", str(attempt.get("sample"))[:220])
+
+
+def diagnostic_request_summary(item: dict[str, Any]) -> str:
+    identifier = core.item_id(item)
+    if not core.WORKER or not identifier:
+        return ""
+    payload = {
+        "mode": "email_article_summary",
+        "article_ids": [identifier],
+    }
+    request = urllib.request.Request(
+        core.WORKER,
+        data=json.dumps(payload).encode("utf-8"),
+        method="POST",
+        headers={
+            "Content-Type": "application/json",
+            "Accept": "application/json",
+            "User-Agent": "QuestCompetitorUpdates/4.0",
+        },
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=240) as response:
+            result = json.loads(response.read().decode("utf-8"))
+    except Exception as exc:
+        print(f"Summary HTTP request failed for {identifier}: {exc}")
+        return ""
+
+    if result.get("content_verified") is not True:
+        print_worker_diagnostics(identifier, result)
+        return ""
+
+    summary = clean_worker_summary(str(result.get("answer") or ""))
+    if not summary:
+        words = len(str(result.get("answer") or "").split())
+        print(
+            f"Summary rejected locally for {identifier}: "
+            f"response contained {words} words or prohibited wording."
+        )
+        return ""
+
+    print(
+        f"Summary verified for {identifier}: {len(summary.split())} words; "
+        f"evidence={result.get('evidence_mode')}; model={result.get('model')}."
+    )
+    return summary
+
+
+# Override the older core request parser with the diagnostic, 80-word minimum
+# parser. core.verified_summaries resolves this global at call time.
+core.request_summary = diagnostic_request_summary
+
+
 def collect_verified(
     candidates: list[dict[str, Any]],
     target: int,
     max_attempts: int,
 ) -> tuple[list[dict[str, Any]], dict[str, str], list[str]]:
     selected: list[dict[str, Any]] = []
-    summaries: dict[str, str] = {}
+    summary_map: dict[str, str] = {}
     unreadable_ids: list[str] = []
 
     attempted = 0
@@ -233,7 +359,9 @@ def collect_verified(
         attempted += len(wave)
         print(
             "Summary wave:",
-            ", ".join(f"{core.item_id(item)} ({item.get('title', '')[:70]})" for item in wave),
+            ", ".join(
+                f"{core.item_id(item)} ({item.get('title', '')[:70]})" for item in wave
+            ),
         )
         wave_summaries = core.verified_summaries(wave)
         for item in wave:
@@ -241,7 +369,7 @@ def collect_verified(
             summary = wave_summaries.get(identifier)
             if summary and len(selected) < target:
                 selected.append(item)
-                summaries[identifier] = summary
+                summary_map[identifier] = summary
             elif not summary:
                 unreadable_ids.append(identifier)
         print(
@@ -249,7 +377,7 @@ def collect_verified(
             f"report now has {len(selected)} of {target} requested alerts."
         )
 
-    return selected, summaries, unreadable_ids
+    return selected, summary_map, unreadable_ids
 
 
 def main() -> int:
@@ -301,7 +429,7 @@ def main() -> int:
         )
         print(
             "No verified summaries were produced after scanning substantive candidates; "
-            "no email sent."
+            "no email sent. Review the detailed retrieval and AI attempts above."
         )
         return 0
 
@@ -355,6 +483,7 @@ def main() -> int:
             "bcc_count": len(bcc_addresses),
             "subject": subject,
             "selection_strategy": "quality_ranked_waves",
+            "summary_pipeline": "direct_page_then_interactions_fallback",
         },
     )
     print(
