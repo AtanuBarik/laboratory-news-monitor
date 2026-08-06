@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       send_test_email:
-        description: "Send a test email using the five latest items"
+        description: "Send a test email using up to five substantive verified items"
         required: false
         type: boolean
         default: false
@@ -133,7 +133,6 @@ jobs:
           python - <<'PY'
           import json
           import os
-          import urllib.error
           import urllib.request
 
           url = os.environ["AI_WORKER_URL"].strip()
@@ -178,18 +177,9 @@ jobs:
           SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
           SEND_TEST_EMAIL: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_email || false }}
         run: |
-          python - <<'PY'
-          import runpy
-
-          module = runpy.run_path(
-              "scripts/email_new_items.py",
-              run_name="quest_email_module",
-          )
-          # Two simultaneous calls stay below common free-tier burst limits while
-          # still keeping a five-item test reasonably fast.
-          module["SUMMARY_WORKERS"] = 2
-          raise SystemExit(module["main"]())
-          PY
+          # The dispatcher skips stock/valuation commentary, ranks substantive
+          # events, and scans candidates in waves until verified summaries exist.
+          PYTHONPATH=scripts python scripts/email_dispatch.py
 
       - name: Commit updated data, hosted images, and notification state
         shell: bash
