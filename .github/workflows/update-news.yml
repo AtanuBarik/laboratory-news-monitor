@@ -126,6 +126,9 @@ jobs:
       - name: Fetch news and build knowledge files
         run: python scripts/fetch_news.py
 
+      - name: Remove low-value market commentary
+        run: PYTHONPATH=scripts python scripts/prune_news.py
+
       - name: Verify deployed AI Worker
         env:
           AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
