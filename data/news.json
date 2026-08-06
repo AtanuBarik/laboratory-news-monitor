@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-06T06:01:16.082357+00:00",
-  "generated_at_display": "06 Aug 2026, 06:01 UTC",
+  "generated_at": "2026-08-06T10:29:48.464770+00:00",
+  "generated_at_display": "06 Aug 2026, 10:29 UTC",
   "item_count": 91,
-  "raw_relevant_item_count": 366,
-  "duplicates_merged": 182,
+  "raw_relevant_item_count": 275,
+  "duplicates_merged": 111,
   "failures": [],
   "items": [
     {
@@ -736,9 +736,15 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0QyR3R6WEsxYTNMVDFfbUR5b0RIbUpWZE44MVFTUHZmOG9VbnZWZ3k2NkZqeWVzU3N2akliOHBaVUtzSUpibGp2ODdmVk1vQ29jSXd1dU9HR3g4THNQeWNKS2pQcHNUeVVCazJIeVVLSVl0ZUtMV0hzMnNpLVl3Y3ZKTzN5SzNFNXZhN293REY3R2dCVGZpaXhndmhmQTMtdjViRVYxVk1PR2RpdGt2RGo2a2EyZzhONXM5cmthZTdVMzhUZ3FIemZfcw?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-30T11:03:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-08-05T20:26:35+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 73b adjusted eps guidance posts raises revenue"
     },
     {
@@ -2268,9 +2274,15 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnE0NDhBODhFNDRxQ1Jlcy1LMVFIX3JzSEk3YmswRXlKS0xLUWtGVEg2US0zSmlyV0pEb004XzdYRFoyZzZhRVpNZlN6QVdzS0JpZ2hrZEpSX2VGSEptYjh3OGN2NnQzc3NZWl82QjlUUmFfZjFIS1huYnFGT1BuZThIY3VvOS00eDRzRWpBYXVWZk5OSGlDZm5FaFE2LV9ESEplZElUa0tPYW42Nk5NUHZxNGp4N3FwU0E?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-07-10T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHZKM3pUOHMxUEowY3p0bm1QNjkzdjdnVFF1c2NEUExpZkptb3IzZmZKLTJwY2dsQVhsdUdMT0IwNXVfLW1JaldCOXVVZGxnTDMyUHJYRkEzMUVsSWNWaVA2RVQzYXBJSE9BM1hSSkNTNzNqWUkzcHpUbjNzZ1ZzUXpGS202Mm5nTnROWkhzVjZwR0dZeFhzc183OWxkSFkwa2hTUlNISWZNNGVnd2c?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-07-09T07:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "declares dividend quarterly"
     },
     {
@@ -2344,6 +2356,6 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 93,
+  "low_value_items_removed": 73,
   "filter_policy": "Excludes valuation articles, stock-price commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership."
 }

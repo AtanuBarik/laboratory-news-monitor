@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 06 Aug 2026, 06:01 UTC
+- **Repository generated:** 06 Aug 2026, 10:29 UTC
 - **Distinct events in this file:** 91
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -340,10 +340,11 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - tradingview.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0QyR3R6WEsxYTNMVDFfbUR5b0RIbUpWZE44MVFTUHZmOG9VbnZWZ3k2NkZqeWVzU3N2akliOHBaVUtzSUpibGp2ODdmVk1vQ29jSXd1dU9HR3g4THNQeWNKS2pQcHNUeVVCazJIeVVLSVl0ZUtMV0hzMnNpLVl3Y3ZKTzN5SzNFNXZhN293REY3R2dCVGZpaXhndmhmQTMtdjViRVYxVk1PR2RpdGt2RGo2a2EyZzhONXM5cmthZTdVMzhUZ3FIemZfcw?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5
 
 **Feed description:** Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance tradingview.com
 
@@ -1090,12 +1091,13 @@
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmpmaXJEUGd3cy1lOUhLR0FPdWdwdmR2V1dBa2VVbXMtM2ZrZThCN3ZFcXJxdV80ZzFzVEU4RF8wQkhyai11aHZzbklCWmFRMjl5SHlMQTRFMUhqUWt2Z2NiT1laMXNSZUFyNm8xZnY2R2VXQmtQUUNZM3ZidTF5QmpMUDItcTh1aXgxQ2hVOEQ1Skl6UVd2VnRXSzVnWEhpaFE?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEcwcVMtOGxkUUVOR2FFVkRmZWlJVmt1elFmSnc3ZXUyVlJIUTVoclZIT2hPOHBMOXRDaVlpeXJ5VjlEbEkyOENrbTdnTVZBaXhOSXpSUDNrNnlFTXJRUjJsdlVDZW1pVXVBd3Z6LU4zX25NYW1ZcHROZjIxVDhfVDBMY0cxVWJvNE9NR3V1Vi04WFdXblE?oc=5
   - tradingview.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnE0NDhBODhFNDRxQ1Jlcy1LMVFIX3JzSEk3YmswRXlKS0xLUWtGVEg2US0zSmlyV0pEb004XzdYRFoyZzZhRVpNZlN6QVdzS0JpZ2hrZEpSX2VGSEptYjh3OGN2NnQzc3NZWl82QjlUUmFfZjFIS1huYnFGT1BuZThIY3VvOS00eDRzRWpBYXVWZk5OSGlDZm5FaFE2LV9ESEplZElUa0tPYW42Nk5NUHZxNGp4N3FwU0E?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHZKM3pUOHMxUEowY3p0bm1QNjkzdjdnVFF1c2NEUExpZkptb3IzZmZKLTJwY2dsQVhsdUdMT0IwNXVfLW1JaldCOXVVZGxnTDMyUHJYRkEzMUVsSWNWaVA2RVQzYXBJSE9BM1hSSkNTNzNqWUkzcHpUbjNzZ1ZzUXpGS202Mm5nTnROWkhzVjZwR0dZeFhzc183OWxkSFkwa2hTUlNISWZNNGVnd2c?oc=5
 
 **Feed description:** Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com
 

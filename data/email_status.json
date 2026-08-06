@@ -1,21 +1,22 @@
 {
-  "checked_at": "2026-08-06T06:06:42.407458+00:00",
-  "status": "no_summarizable_items",
+  "checked_at": "2026-08-06T10:49:03.462072+00:00",
+  "status": "test_email_sent",
   "ranked_candidate_count": 91,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 25,
-  "verified_summary_count": 0,
+  "email_item_count": 2,
+  "verified_summary_count": 2,
+  "unreadable_count": 23,
   "unreadable_ids": [
     "cf79abed1e9a5dd7be6b",
     "2238325c47bcfcea8d12",
     "1905725c87b69d06d438",
     "36e61bb422a4c9656fef",
-    "056ae46b5c843cbf762a",
     "48a6f34bd768e0322b8f",
     "ad440a02e55274bb4379",
     "d859ee78fa648c9f34a4",
+    "2f1ac1d5be2ec9f41a2b",
     "239171df687d4ba6651c",
-    "e99454ac15e4afbc63f6",
     "191fd4f0957102134377",
     "f0d865fed43c9014dee5",
     "0cc7c51d9ffdbdb20f46",
@@ -29,7 +30,11 @@
     "89f6afae524e14be7da5",
     "780ac27ca5165b70b7e1",
     "bef82adae503aa06a4a2",
-    "2f1ac1d5be2ec9f41a2b",
     "99caef25e59e29a167b2"
-  ]
+  ],
+  "to_count": 1,
+  "bcc_count": 1,
+  "subject": "Quest Competitor Updates | Aug 06, 2026",
+  "selection_strategy": "quality_ranked_waves",
+  "summary_pipeline": "direct_page_then_interactions_fallback"
 }
