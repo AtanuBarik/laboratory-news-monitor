@@ -12,10 +12,12 @@ from __future__ import annotations
 import os
 import re
 from datetime import datetime, timezone
-from pathlib import Path
 from typing import Any
 
 import email_new_items as core
+
+# Stay below common free-tier burst limits.
+core.SUMMARY_WORKERS = 2
 
 TEST_TARGET = 5
 PRODUCTION_TARGET = 40
@@ -179,8 +181,6 @@ def is_low_value(item: dict[str, Any]) -> bool:
     if len(companies) > 1 and not any(term in text for term in MULTI_COMPANY_EVENT_TERMS):
         return True
 
-    # A story with no strong event signal and only a generic "Other" category is
-    # usually a stock-market mention, listicle, or broad sector commentary.
     if str(item.get("category") or "Other") == "Other" and not any(
         term in text for term in STRONG_EVENT_TERMS
     ):
@@ -282,8 +282,6 @@ def main() -> int:
     max_attempts = MAX_TEST_ATTEMPTS if is_test else MAX_PRODUCTION_ATTEMPTS
     sendable, summary_map, unreadable_ids = collect_verified(ranked, target, max_attempts)
 
-    # Persistently dismiss only objective low-value records. High-value stories
-    # that could not be read remain eligible for a later retry.
     dismissed_ids.update(newly_dismissed)
     state["dismissed_ids"] = sorted(dismissed_ids)
 
