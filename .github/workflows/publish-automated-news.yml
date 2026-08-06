@@ -2,6 +2,12 @@ name: Publish laboratory monitor
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - index.html
+      - data/news.json
   workflow_run:
     workflows:
       - Update laboratory news
@@ -13,7 +19,7 @@ permissions:
 
 concurrency:
   group: laboratory-branch-pages
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   publish:
