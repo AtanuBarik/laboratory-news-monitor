@@ -8,6 +8,7 @@ on:
     paths:
       - index.html
       - data/news.json
+      - .pages-trigger
   workflow_run:
     workflows:
       - Update laboratory news
