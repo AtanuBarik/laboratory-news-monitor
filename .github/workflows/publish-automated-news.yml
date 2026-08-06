@@ -1,6 +1,13 @@
-name: Publish automated laboratory news
+name: Publish laboratory monitor
 
 on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/publish-automated-news.yml
+      - index.html
   workflow_run:
     workflows:
       - Update laboratory news
@@ -12,12 +19,12 @@ permissions:
   id-token: write
 
 concurrency:
-  group: laboratory-automated-pages
+  group: pages
   cancel-in-progress: true
 
 jobs:
   build:
-    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
@@ -60,6 +67,6 @@ jobs:
     needs: build
     timeout-minutes: 15
     steps:
-      - name: Deploy automated news update
+      - name: Deploy laboratory monitor
         id: deployment
         uses: actions/deploy-pages@v5
