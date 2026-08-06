@@ -142,7 +142,7 @@ jobs:
           try:
               request = urllib.request.Request(
                   url,
-                  headers={"Accept": "application/json", "User-Agent": "QuestWorkflowHealthCheck/1.0"},
+                  headers={"Accept": "application/json", "User-Agent": "QuestWorkflowHealthCheck/2.0"},
               )
               with urllib.request.urlopen(request, timeout=30) as response:
                   payload = json.loads(response.read().decode("utf-8"))
@@ -150,7 +150,12 @@ jobs:
               raise SystemExit(f"AI Worker health check failed for {url}: {exc}") from exc
 
           capabilities = set(payload.get("capabilities") or [])
-          required = {"email_article_summary", "model_and_tool_fallbacks"}
+          required = {
+              "email_article_summary",
+              "model_and_tool_fallbacks",
+              "direct_publisher_page_read",
+              "interactions_api",
+          }
           missing = sorted(required - capabilities)
           if missing:
               raise SystemExit(
@@ -162,6 +167,7 @@ jobs:
           print("AI Worker is ready.")
           print("Preferred model:", payload.get("preferred_model"))
           print("Model candidates:", ", ".join(payload.get("model_candidates") or []))
+          print("Summary pipeline:", " -> ".join(payload.get("summary_pipeline") or []))
           PY
 
       - name: Email newly identified items
@@ -180,8 +186,6 @@ jobs:
           SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
           SEND_TEST_EMAIL: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_email || false }}
         run: |
-          # The dispatcher skips stock/valuation commentary, ranks substantive
-          # events, and scans candidates in waves until verified summaries exist.
           PYTHONPATH=scripts python scripts/email_dispatch.py
 
       - name: Commit updated data, hosted images, and notification state
