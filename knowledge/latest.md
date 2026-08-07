@@ -1,23 +1,11 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 07 Aug 2026, 04:14 UTC
-- **Distinct events in this file:** 93
+- **Repository generated:** 07 Aug 2026, 11:15 AM IST
+- **Distinct events in this file:** 115
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. 5 Revealing Analyst Questions From Labcorp’s Q2 Earnings Call
-
-- **Company:** Labcorp
-- **Publication date:** 05 Aug 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - StockStory: https://news.google.com/rss/articles/CBMivAFBVV95cUxQZjh3aC1KaHBoUUZWVWItYnplbWlwaTZlcVlFUzBLOGI1V281M1EtLWxZTjhIQ095dXpRV3ZZVzktUUJpdUxzQ2JlTnhtV3RTdmJ5NS1VaVFoWHh4ZncxQkRiVkc0Q2tLZW1hallTX3QzeTFxUDVrMHV0bmxha1U2QTZZTWtPd29JcnBRZ0RVZTkxWTdZYWJvZzdmajEzdjJBNHhoQXNMU1YzNHltOVBPTG1Zdk5SSWlwcEpaQw?oc=5
-
-**Feed description:** 5 Revealing Analyst Questions From Labcorp’s Q2 Earnings Call StockStory
-
-## 2. Labcorp Paying Out $35M in Settlement: Who’s Eligible
+## 1. Labcorp Paying Out $35M in Settlement: Who’s Eligible
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -29,7 +17,31 @@
 
 **Feed description:** Labcorp Paying Out $35M in Settlement: Who’s Eligible newsweek.com
 
-## 3. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
+## 2. Sonic Healthcare draws attention on diagnostics activity
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 04 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine Media: https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5
+
+**Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
+
+## 3. Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 04 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - EIN Presswire: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5
+
+**Feed description:** Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono EIN Presswire
+
+## 4. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -44,7 +56,7 @@
 
 **Feed description:** Labcorp Launches FDA-Approved IHC Companion Diagnostic for Prostate Cancer Clinical Lab Products
 
-## 4. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
+## 5. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
 
 - **Company:** Labcorp
 - **Publication date:** 03 Aug 2026
@@ -57,7 +69,19 @@
 
 **Feed description:** Labcorp Holdings Inc. 2026 Q2 - Results - Earnings Call Presentation (NYSE:LH) 2026-08-03 Seeking Alpha
 
-## 5. Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds
+## 6. Consumer testing is growing in the US: Quest Diagnostics CEO
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 03 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Fox Business: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5
+
+**Feed description:** Consumer testing is growing in the US: Quest Diagnostics CEO Fox Business
+
+## 7. Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 03 Aug 2026
@@ -69,7 +93,32 @@
 
 **Feed description:** Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds Clinical Lab Products
 
-## 6. The Bull Case For Labcorp Could Change Following Guidance Hike And New Genetic Panel Launch
+## 8. Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 03 Aug 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1lDU1pKQkRNNU9VbkRMZmR6TktFTzNwd0xENnFxQ0ZqMHlRNlZtRmRTVnd3bzE3S2JzbHBhUDlJVmRFRk9JZWdNZ2RXNUNSMHRHTkpQd3o1REdmbG5kMVIwRmI0Qk9lZzN0YVI1MUpweUJRVlJOaFhHNXhKVlpNTWwzRGY4ckRGcGRISXNZdmpoQWFEVGhOYTh6NXpMNjg?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTTFvT18zWDU2Y1V0cjdWa3k1aTZCbHRXYzR1LVNZVGE4dFlEeWxBdmdhMXZKTGVyeGVrcDV1Mk1WaU5xY0ZmOXh0cTBaU3IwUDlzUkxIcTdhc2JRTGJxbV82LTNYM2VFZWlRc1llSF8tZUZRUlB0V3hMNDYteDdZMnlUZ3J0bnp2dTVZV0Z0YVhGMHR1bFZxOXN2eEZDdUZuVGhFdmViTmdLX3lla1YzTjUwdkI1cE9sNU8zX2J0MkhWT21kT3UxNU9lMUNFQ2UxVHVwcWxSOVlQblpIUXhsbVRGZ1BnUGct?oc=5
+
+**Feed description:** Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates The Globe and Mail
+
+## 9. Quest Diagnostics Stock Analysis: Exploring Growth Potential And Investor Sentiment
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 03 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - DirectorsTalk Interviews: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTndhNFRwb1FEUVBPNERSNDZPOEFYTjdCSktyclJUSS1HMGdDNGxrYUszd043VUoxclVzRWctaFAta0JOdXE2SnRjZmZNVWRqeDd2U2RfQWNCNkxkTlV4WnNRdUtyaW91TVNWYlpWQlRjbHh4LVY3UHM0aHY2TjJiR1F3bUJDNHlDdlpCUThZUFpuRHV2OWgwVmxIN3p0b1M1MTNJNG9HaTkzQ3FGcEJZdm4xLVNNRGRUZUJ4cmY3Qnp2aWhkdjN2U05yYXdLNFBzUEk0?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Stock Analysis: Exploring Growth Potential And Investor Sentiment DirectorsTalk Interviews
+
+## 10. The Bull Case For Labcorp Could Change Following Guidance Hike And New Genetic Panel Launch
 
 - **Company:** Labcorp
 - **Publication date:** 02 Aug 2026
@@ -82,19 +131,7 @@
 
 **Feed description:** The Bull Case For Labcorp (LH) Could Change Following Guidance Hike And New Genetic Panel Launch simplywall.st
 
-## 7. A Quick Look at Today's Ratings for Labcorp(LH.US), With a Forecast Between $320 to $360
-
-- **Company:** Labcorp
-- **Publication date:** 31 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Moomoo: https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3BWcUQ1bXk3d25ZNEdpcVRWc0hHUDZKSUt0R2xWci14VHM0NnlWWkZEcXA5WGU3OUZPcm9Dci1QdUxTSEEwbGlUWWRSR3VGSkpTN3NBTnhzcjJ6Sm05Vm1kV1g5OEYyb3ZZMFk2cjhNYlpVVFZHbU84UFJHMTRTaVZXQ0wtUzROamNhVUthYTE3TkJBU050N2p3?oc=5
-
-**Feed description:** A Quick Look at Today's Ratings for Labcorp Holdings(LH.US), With a Forecast Between $320 to $360 Moomoo
-
-## 8. Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full
+## 11. Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -106,7 +143,7 @@
 
 **Feed description:** Labcorp (LH) Stock Looks Cheap On Cash Flow While Earnings Look Full simplywall.st
 
-## 9. Quest Diagnostics Financial Health: Profitability & Balance Sheet Analysis
+## 12. Quest Diagnostics Financial Health: Profitability & Balance Sheet Analysis
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Jul 2026
@@ -118,7 +155,7 @@
 
 **Feed description:** Quest Diagnostics Inc (DGX) Financial Health: Profitability & Balance Sheet Analysis tradingkey.com
 
-## 10. Labcorp Stock Holds A Bullish Case On Margin Expansion
+## 13. Labcorp Stock Holds A Bullish Case On Margin Expansion
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -131,7 +168,19 @@
 
 **Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion simplywall.st
 
-## 11. Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance
+## 14. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - O'Dwyer's PR: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5
+
+**Feed description:** PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR
+
+## 15. Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -143,7 +192,7 @@
 
 **Feed description:** Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance pluang.com
 
-## 12. Labcorp (Q2 2026) Earnings Call Highlights: St
+## 16. Labcorp (Q2 2026) Earnings Call Highlights: St
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -157,7 +206,7 @@
 
 **Feed description:** Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: St GuruFocus
 
-## 13. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
+## 17. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -169,7 +218,7 @@
 
 **Feed description:** Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals
 
-## 14. Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted
+## 18. Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -181,7 +230,19 @@
 
 **Feed description:** Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted Investing.com
 
-## 15. Labcorp Q2 2026 slides: strong results drive guidance raise
+## 19. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5
+
+**Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 Yahoo Finance
+
+## 20. Labcorp Q2 2026 slides: strong results drive guidance raise
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -193,7 +254,19 @@
 
 **Feed description:** Labcorp Q2 2026 slides: strong results drive guidance raise Investing.com
 
-## 16. Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook
+## 21. Quest Diagnostics SVP & Chief Commercial Officer Mark Dela
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GuruFocus: https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus
+
+## 22. Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -211,7 +284,19 @@
 
 **Feed description:** Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook Investing.com
 
-## 17. Labcorp Reports Q2 Earnings: What Key Metrics Have to Say
+## 23. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - ROI-NJ: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5
+
+**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations ROI-NJ
+
+## 24. Labcorp Reports Q2 Earnings: What Key Metrics Have to Say
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -223,7 +308,7 @@
 
 **Feed description:** Labcorp (LH) Reports Q2 Earnings: What Key Metrics Have to Say Yahoo! Finance Canada
 
-## 18. Labcorp Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026
+## 25. Labcorp Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -235,7 +320,7 @@
 
 **Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 
-## 19. Labcorp Raised Its 2026 Outlook After A Strong Q2
+## 26. Labcorp Raised Its 2026 Outlook After A Strong Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -247,7 +332,7 @@
 
 **Feed description:** Labcorp Raised Its 2026 Outlook After A Strong Q2 finimize.com
 
-## 20. Labcorp Reports Q2 CY2026 In Line With Expectations
+## 27. Labcorp Reports Q2 CY2026 In Line With Expectations
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -261,7 +346,7 @@
 
 **Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com
 
-## 21. Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance
+## 28. Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -273,7 +358,19 @@
 
 **Feed description:** Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance Fierce Biotech
 
-## 22. Labcorp Surpasses Q2 Earnings and Revenue Estimates
+## 29. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - IR Impact: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5
+
+**Feed description:** People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR IR Impact
+
+## 30. Labcorp Surpasses Q2 Earnings and Revenue Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -285,7 +382,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Surpasses Q2 Earnings and Revenue Estimates finance.yahoo.com
 
-## 23. Labcorp Revises Earnings Guidance for the Full Year 2026
+## 31. Labcorp Revises Earnings Guidance for the Full Year 2026
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -297,7 +394,7 @@
 
 **Feed description:** Labcorp Holdings Inc. Revises Earnings Guidance for the Full Year 2026 marketscreener.com
 
-## 24. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
+## 32. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -309,7 +406,7 @@
 
 **Feed description:** Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire
 
-## 25. Labcorp raises annual profit forecast on strong testing demand
+## 33. Labcorp raises annual profit forecast on strong testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -325,19 +422,7 @@
 
 **Feed description:** Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada
 
-## 26. Labcorp Lifts Outlook as 2Q Profit, Revenue Rise
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Moomoo: https://news.google.com/rss/articles/CBMikwFBVV95cUxNYzRzX0RrcUFjeXRNVkY4LWxHZEZFZURJb2dIX0RVWU80Yks0ZEVBdldqU3hXeTgzZHZmakJCdU5kdEMxU19QSGdnYncxOWtNZ3hNcFV5bWJCRGpBdnpZRXFydlNZMzMyY0hWQ19IYUJHSmwwM3N4ZFA1dXlnemZEWTZVQmlSQnVhWmRmeGhvRUNTQmM?oc=5
-
-**Feed description:** Labcorp Lifts Outlook as 2Q Profit, Revenue Rise moomoo.com
-
-## 27. Labcorp earnings beat by $0.20, revenue topped estimates
+## 34. Labcorp earnings beat by $0.20, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -349,7 +434,7 @@
 
 **Feed description:** Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com
 
-## 28. Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance
+## 35. Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -363,7 +448,7 @@
 
 **Feed description:** Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance tradingview.com
 
-## 29. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
+## 36. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -376,7 +461,7 @@
 
 **Feed description:** Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com
 
-## 30. Labcorp: Q2 Earnings Snapshot
+## 37. Labcorp: Q2 Earnings Snapshot
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -390,7 +475,7 @@
 
 **Feed description:** Labcorp: Q2 Earnings Snapshot marketscreener.com
 
-## 31. Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion
+## 38. Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -402,7 +487,7 @@
 
 **Feed description:** Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion Quiver Quantitative
 
-## 32. Labcorp raises 2026 guidance and expands $1.4B buyback
+## 39. Labcorp raises 2026 guidance and expands $1.4B buyback
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -414,7 +499,7 @@
 
 **Feed description:** Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net
 
-## 33. BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million
+## 40. BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -426,7 +511,7 @@
 
 **Feed description:** BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million tradingview.com
 
-## 34. Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance
+## 41. Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -439,7 +524,7 @@
 
 **Feed description:** Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance PR Newswire
 
-## 35. Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5%
+## 42. Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5%
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -451,7 +536,7 @@
 
 **Feed description:** Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5% stocktitan.net
 
-## 36. Labcorp Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase
+## 43. Labcorp Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -463,7 +548,40 @@
 
 **Feed description:** LH Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase stockstory.org
 
-## 37. Labcorp earnings ahead: Can specialty tests sustain momentum?
+## 44. Labcorp (LH.MX) Q2 FY2026 earnings call transcript
+
+- **Company:** Labcorp
+- **Publication date:** 30 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 6
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5
+  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
+  - AOL.com: https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWDlpbG9LNEFsclpJUHNXVkFoaU9qLUFoeko4ZUhQZzNfZmVWNTlIVkRfSXFSLU1oQnJyekwtcGxIZXlfYy1OY056djhJdWtSRG5FY0VpUm9iTlN1YUtHQTJUcm4tN1FnVmk2d3VJSFczX0I0ZjRWLUJDWQ?oc=5
+  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5
+  - The Motley Fool: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5
+
+**Feed description:** LABCORP HOLDINGS INC (LH.MX) Q2 FY2026 earnings call transcript Yahoo Finance
+
+## 45. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 29 Jul 2026
+- **Category:** Other
+- **Coverage count:** 5
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com UK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQek5vMXVwVm9uLW1XTm9qQmg0aVRNMmpKSEVnSFhOc0Y2aG1VcW0wRWNERDNEUXV2ZGFEY19hYVIwZU8yQ3FVa3VJSmxwOWt2amV5d3ZUQXFhN3RvNGtzZTFkZWstLXhOQk9sbzl4QWg5T3o2MTN3eF8yVXFGNTI0YjNFT1NjZ29EVFloVllkRGpVcmN3YVkxLXczQnV1WVQ2NlZWaVBtS0hCcjhLVGhyNHRCWG1nV2c?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzFsUkFuMVhJWUNfR2FQZ0xuTzdJYWxrLTlDemtPQzM2bWJfT1BLLVhrUEJnZkxoYVFIWkd6ZGpwbG1TS3E0emkxaENVODYwRTlhMHhYSXE2VEVNU2dNd1JPLTBwNHQ5TWhrQ0xvQTdCWHNwOENIVzhETUNGbWZtMUpfRkVDSmU1al9JejFFaE1CODREeWU5NnZidnJoU04ySFI3RnhFSTFxSFFaS0o5azNEb3FqXzRRbDdmSg?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2ktNHBjb3ZzaE8zS285WW5iRkNIUUM3NThNUjBGRlJGYzRyOVZkQlROeS1PYVFLMGhrTUZGNjQ1ZHl1a3ZRTnp3TmhUQ0FDaVRteVRqUUd5TXBnZ1lSc2p3OGQ4RDUzZjVWY2RHRmlObVYxVDlBdWtvemV0Rkh3M2h2MERXc1ltdjRDLVJXLVF4V3ZtX3ExTG5RUUtxX1BPNHhwNTdOMzN3cGxJUEh5b1ZNTVhuR28?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitwFBVV95cUxQbU5xOHlyTVhJOXpwZFRTRU55ckJPZXB3cXdjRGVBSEdkSWJzbV9pYmFvNXBzdndMZ090Tzczbms1WFpHYTI1MjdjaXdjeW85YnRjNHI5QlNkVjREWDdfdUxid085emtfYlZCd0h0VDczQkhpQ3pJNGlwNlpSV3gxM3FRNjgwMFg1c1pSaDhZZTI5WEF6cFFCQlpiLWdScThEVW9tbGp4N3lQWmZlYTBqdTE1VTZiak0?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHpwTUVHSkpxVmItbmtkdXpDNDRVekliendzOTFEX1BZaWFEenRoMkpCMXhiNFRFT3RVSmVqV2plTm9BY3V1ZkNBQ0VnWnpURWp1ZEJNbGZMQkVoYVVvajVnamIzVm1yMDd5YmZwVGtkTmdkQVdTQnpBVXU5emFLVXk1clUxdWd1N09lUndLbDQxODJvNGRxU0FndkR3YnNMNzRHNnVwdXlVcWRmRnZWb3ZwcUdRNUMxUFRMcTRxMUdOcmZVZXdr?oc=5
+
+**Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa
+
+## 46. Labcorp earnings ahead: Can specialty tests sustain momentum?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -475,7 +593,7 @@
 
 **Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
 
-## 38. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
+## 47. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -487,7 +605,32 @@
 
 **Feed description:** Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates finance.yahoo.com
 
-## 39. What To Expect From Labcorp’s Q2 Earnings
+## 48. J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 28 Jul 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - 富途牛牛: https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5
+  - Moomoo: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5
+
+**Feed description:** J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 news.futunn.com
+
+## 49. Labcorp expands hereditary risk testing access with genetic health panel
+
+- **Company:** Labcorp
+- **Publication date:** 28 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo: https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5
+
+**Feed description:** Labcorp expands hereditary risk testing access with genetic health panel Yahoo
+
+## 50. What To Expect From Labcorp’s Q2 Earnings
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -500,7 +643,19 @@
 
 **Feed description:** What To Expect From Labcorp’s (LH) Q2 Earnings theglobeandmail.com
 
-## 40. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
+## 51. Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 28 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - MarketWatch: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5
+
+**Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains MarketWatch
+
+## 52. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -512,7 +667,23 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net
 
-## 41. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan
+## 53. Form 4 Quest Diagnostics orporated For: 27 July By Investing.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 27 Jul 2026
+- **Category:** Other
+- **Coverage count:** 5
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5
+
+**Feed description:** Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa
+
+## 54. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -524,7 +695,7 @@
 
 **Feed description:** Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media
 
-## 42. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
+## 55. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -536,7 +707,7 @@
 
 **Feed description:** Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans kalkinemedia.com
 
-## 43. Quest Diagnostics SVP adds shares via dividend reinvestment plan
+## 56. Quest Diagnostics SVP adds shares via dividend reinvestment plan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -548,7 +719,7 @@
 
 **Feed description:** Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan stocktitan.net
 
-## 44. Labcorp launches genetic health panel for consumers By Investing.com
+## 57. Labcorp launches genetic health panel for consumers By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -561,7 +732,7 @@
 
 **Feed description:** Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa
 
-## 45. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
+## 58. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -573,7 +744,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus
 
-## 46. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
+## 59. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -585,7 +756,7 @@
 
 **Feed description:** Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com
 
-## 47. Quest Diagnostics Stock Analysis: Deciphering Growth Potential Amid Strong Revenue Trajectory
+## 60. Quest Diagnostics Stock Analysis: Deciphering Growth Potential Amid Strong Revenue Trajectory
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -597,7 +768,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Stock Analysis: Deciphering Growth Potential Amid Strong Revenue Trajectory DirectorsTalk Interviews
 
-## 48. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
+## 61. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -617,7 +788,7 @@
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
 
-## 49. Quest Diagnostics Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next
+## 62. Quest Diagnostics Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -627,9 +798,9 @@
 - **Sources:**
   - 富途牛牛: https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFwcUprTnhtSnV5c2xRd1dwemFpM3gyb2JLOVVHXzE1ZVRndGxmaUxNNHotcHB2bkFRdm1DT3FoUE0wdURkZmhzR3dQMUw2YWdUeGEtVkR6ZnB3a0lPcUJpcm1PTUxFTlp2cTNSSjRMcEgtcG1aUnA2RHV0VVNOcGdLWXl1MjFseWlRcWZHWGNtYXpFamRYUkVZb193Mk5HRXNidWZQNA?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next 富途牛牛
+**Feed description:** Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next news.futunn.com
 
-## 50. Earnings Beat: Quest Diagnostics Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models
+## 63. Earnings Beat: Quest Diagnostics Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -642,7 +813,20 @@
 
 **Feed description:** Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models sahmcapital.com
 
-## 51. Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution
+## 64. Why Quest Diagnostics Stock Climbed This Past Week
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 26 Jul 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - The Motley Fool: https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5
+
+**Feed description:** Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail
+
+## 65. Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -654,7 +838,19 @@
 
 **Feed description:** Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com
 
-## 52. Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength
+## 66. Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 25 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5
+
+**Feed description:** Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail
+
+## 67. Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -666,7 +862,7 @@
 
 **Feed description:** Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength dars.gov.et
 
-## 53. Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks
+## 68. Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -678,7 +874,7 @@
 
 **Feed description:** Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com
 
-## 54. Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative
+## 69. Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -690,21 +886,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative sahmcapital.com
 
-## 55. A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 24 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Moomoo: https://news.google.com/rss/articles/CBMimwFBVV95cUxQRElHcWNnbHNQR2xCMnZ3VG5mTF8zclQyd1pwRUNnUnI5VWNsWFB6UkVKNUwwRm1ocVZ5WXEzcDR6NG83UHZiaGZRNm1KdVRkME13bmtUektfX3F0X1Z4RmREbk43OXFvNVRENnJORHc3WlIwYzd2UlFjZ0dHWU1XNThyU3JVcEJLVGdzOEZ4V3VTY1FWc25CVjFjbw?oc=5
-  - 富途牛牛: https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjJhaVVldmZnS0YyN0xLZnRZcF9WM2gyaHF1eVZtajRBbGJXaFlDdFhrVkpZTDBYMFVxYUNZcms0R2VjQ2pETjlOcndBcnFPWkVPdVJCNm5FaVRNUXBWRWgxTlVodUk0ZzJTQ01jdnYyM296Q3VZUU9tS1g2bTFHYVdCUGpReEFiVkt5QzlrLUd1R3FlZTJVWU5B?oc=5
-  - Moomoo: https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEJEWDE2czhFM2RyYUYtR3pYWS1tLUJWYUE1Vm8zZzNXMnRjb1NlTTFvalY4MkM4WGdfUDRhTmR3WkdzZFFGdmo2Mmpja0hPMEU2bjhRaExJaUFwVVVVQlFlWXFhN3d6V2tMazhueFJrSDU0ajhReTZqa2hhVGY5NHcwQVhFTmVBLWlhOGZVM3dvNWx2TXZHOWV5dw?oc=5
-
-**Feed description:** A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 moomoo.com
-
-## 56. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
+## 70. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -716,7 +898,7 @@
 
 **Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com
 
-## 57. Quest Diagnostics Upgrades EPS Outlook For 2026 After Outperforming Q2 Results
+## 71. Quest Diagnostics Upgrades EPS Outlook For 2026 After Outperforming Q2 Results
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -728,7 +910,43 @@
 
 **Feed description:** Quest Diagnostics Upgrades EPS Outlook For 2026 After Outperforming Q2 Results (NYSE:DGX) Seeking Alpha
 
-## 58. Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half
+## 72. Quest Diagnostics Soars to 52-Week High, Time to Cash Out?
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 24 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5
+
+**Feed description:** Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? Yahoo Finance
+
+## 73. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and MindWalk (HYFT)
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 24 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5
+
+**Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and MindWalk Holdings (HYFT) The Globe and Mail
+
+## 74. Quest Diagnostics Shares Surge 8.6% -- What GF Score o
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 24 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GuruFocus: https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFJQUZ0ZmVmVnkzb0JnVHNSZ2U4LUxrNGF1YUE5YlZjVjJ2dnFlb0NKOHo2RXJXNUhUY1dDb00yTTczdFEwcTNjRE9UNkRMN2xCc0xnUnhHSVpuUWplakdFMHJ5cUs2YWw3X25KeTJya2dqNUhPNDl3bkpqOWNTVlRHU3VHa2lkcTFEYTU4QURySWU2ZzBxUDZpUk93MGFhTE4xS2tDZmVYM0dLY01SRmk3UDhUcU9rbEpnTDFneDlCMWNLcVBN?oc=5
+
+**Feed description:** Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o GuruFocus
+
+## 75. Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -738,9 +956,9 @@
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5
 
-**Feed description:** Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half Morningstar
+**Feed description:** Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half morningstar.com
 
-## 59. [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1%
+## 76. [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1%
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -753,7 +971,19 @@
 
 **Feed description:** [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% finance.biggo.com
 
-## 60. Quest Diagnostics Q2 Adjusted Earnings, Revenue Rise
+## 77. Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMitgFBVV95cUxOOF8xc3J1V0cyTHFHZDFDd2IxM0pKWUlKaTQyRmEydkFsQUxETFgzbmZkUG1YaUxSQUtMZ3dQcGFmUEI3MHpDd2dlbW9heS15R25lNkRoRnM2ckdScV9sQnB3cWkxbFhRWXBOTUF4NmFxRzRNWWh6dVo3OTFzUzU3RFl2S1RTZEhnNVpsLWJGSlg3M3I5U3N4eDR5cy0xbEtkbHZQWnF0VTI2STZuRXFLdm9KNTZIZw?oc=5
+
+**Feed description:** Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com Investing.com Canada
+
+## 78. Quest Diagnostics Q2 Adjusted Earnings, Revenue Rise
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -765,7 +995,7 @@
 
 **Feed description:** Quest Diagnostics Q2 Adjusted Earnings, Revenue Rise marketscreener.com
 
-## 61. QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings
+## 79. QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -777,7 +1007,7 @@
 
 **Feed description:** QUEST DIAGNOSTICS ($DGX) Releases Q2 2026 Earnings Quiver Quantitative
 
-## 62. Earnings Flash Quest Diagnostics Posts Q2 Adjusted EPS $3.12 per Share, vs. FactSet Est of $2.82
+## 80. Earnings Flash Quest Diagnostics Posts Q2 Adjusted EPS $3.12 per Share, vs. FactSet Est of $2.82
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -789,7 +1019,7 @@
 
 **Feed description:** Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q2 Adjusted EPS $3.12 per Share, vs. FactSet Est of $2.82 marketscreener.com
 
-## 63. Quest Diagnostics: Q2 Earnings Snapshot
+## 81. Quest Diagnostics: Q2 Earnings Snapshot
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -801,7 +1031,7 @@
 
 **Feed description:** Quest Diagnostics: Q2 Earnings Snapshot kare11.com
 
-## 64. Quest Diagnostics raises annual forecast on testing demand
+## 82. Quest Diagnostics raises annual forecast on testing demand
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -813,7 +1043,7 @@
 
 **Feed description:** Quest Diagnostics raises annual forecast on testing demand reuters.com
 
-## 65. Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates
+## 83. Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -825,7 +1055,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Surpasses Q2 Earnings and Revenue Estimates finance.yahoo.com
 
-## 66. Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
+## 84. Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -838,7 +1068,7 @@
 
 **Feed description:** Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 finance.yahoo.com
 
-## 67. Quest Diagnostics Q2 2026 Earnings Call Summary
+## 85. Quest Diagnostics Q2 2026 Earnings Call Summary
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -850,7 +1080,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated Q2 2026 Earnings Call Summary finance.yahoo.com
 
-## 68. Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE)
+## 86. Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -862,7 +1092,7 @@
 
 **Feed description:** Quest Diagnostics climbs as Q2 earnings top estimates, guidance raised (DGX:NYSE) Seeking Alpha
 
-## 69. Quest Diagnostics earnings beat by $0.30, revenue topped estimates
+## 87. Quest Diagnostics earnings beat by $0.30, revenue topped estimates
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -874,7 +1104,7 @@
 
 **Feed description:** Quest Diagnostics earnings beat by $0.30, revenue topped estimates Investing.com
 
-## 70. Quest Diagnostics 2026 Q2 - Results - Earnings Call Presentation 2026-07-23
+## 88. Quest Diagnostics 2026 Q2 - Results - Earnings Call Presentation 2026-07-23
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -886,7 +1116,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated 2026 Q2 - Results - Earnings Call Presentation (NYSE:DGX) 2026-07-23 Seeking Alpha
 
-## 71. Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call
+## 89. Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -898,7 +1128,7 @@
 
 **Feed description:** Transcript: Quest Diagnostics Q2 2026 Earnings Conference Call sahmcapital.com
 
-## 72. Quest Diagnostics posts strong Q2 results, rais...
+## 90. Quest Diagnostics posts strong Q2 results, rais...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -910,7 +1140,7 @@
 
 **Feed description:** Quest Diagnostics posts strong Q2 results, rais... pluang.com
 
-## 73. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday
+## 91. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -923,7 +1153,7 @@
 
 **Feed description:** Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday sahmcapital.com
 
-## 74. Quest Diagnostics raises FY26 guidance after Q2 revenue rises 10.2%
+## 92. Quest Diagnostics raises FY26 guidance after Q2 revenue rises 10.2%
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -935,7 +1165,31 @@
 
 **Feed description:** Quest Diagnostics raises FY26 guidance after Q2 revenue rises 10.2% scanx.trade
 
-## 75. Labcorp Secures $364.7M Contract for Military Health Services
+## 93. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - StocksToTrade: https://news.google.com/rss/articles/CBMiigFBVV95cUxQZjJTTlZaU2tudmlMcU1RcFgtdkZYUzNrSldPMG5iclRva2dQUDlIdUp1UmVURGNuZ3BPcmc1OThKLU9WSE5SdHNVZzV1ZkxURlBPdzNVLWN5SlFmYmVkbFVzcWlxeWtKRExYUzRiZ19wT21zR2VqNE1rWnhqTk9rblQ4Qkw2UWhiSVE?oc=5
+
+**Feed description:** Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street StocksToTrade
+
+## 94. Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5
+
+**Feed description:** Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. marketscreener.com
+
+## 95. Labcorp Secures $364.7M Contract for Military Health Services
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -947,31 +1201,7 @@
 
 **Feed description:** Labcorp (LH) Secures $364.7M Contract for Military Health Services GuruFocus
 
-## 76. Labcorp Wins $364.7 Million Defense Health Agency Testing Contract
-
-- **Company:** Labcorp
-- **Publication date:** 22 Jul 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Moomoo: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVkttcTJRNER6SHlwbTZ3UXlNQUJLMS05V0JVNk9QNXUxNTNicTl1cVM3Wk1Vakl5dnVoWmgtMnh6cFFXb29oNzFoczZ2TjJyMWFGUVpkWUdyNHdjTEFNa2R1WXVxbF9LTkl1MjUxWXM0LWJVTFp2cUhtY3g2Wkp4U2wtYVdjSjhPMUZhSFFxWms0VTFGUWd6Y05YMjJnOEtac29yVEs2U3c1RFE?oc=5
-
-**Feed description:** Labcorp Wins $364.7 Million Defense Health Agency Testing Contract moomoo.com
-
-## 77. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Quiver Quantitative: https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5
-
-**Feed description:** Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives Quiver Quantitative
-
-## 78. ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring
+## 96. ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring
 
 - **Company:** ARUP Laboratories
 - **Publication date:** 22 Jul 2026
@@ -983,7 +1213,7 @@
 
 **Feed description:** ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring Clinical Lab Products
 
-## 79. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
+## 97. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -995,7 +1225,7 @@
 
 **Feed description:** Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com Investing.com UK
 
-## 80. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 98. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -1007,7 +1237,7 @@
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 81. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
+## 99. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
@@ -1020,7 +1250,7 @@
 
 **Feed description:** Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - July 22, 2026 Zacks Investment Research
 
-## 82. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 100. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -1030,9 +1260,21 @@
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5
 
-**Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast Morningstar
+**Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 83. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
+## 101. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Quiver Quantitative: https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5
+
+**Feed description:** Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative
+
+## 102. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
 
 - **Company:** Labcorp
 - **Publication date:** 21 Jul 2026
@@ -1044,7 +1286,7 @@
 
 **Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com
 
-## 84. Business tidbits: Labcorp opens expanded patient service center in Yakima
+## 103. Business tidbits: Labcorp opens expanded patient service center in Yakima
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -1056,7 +1298,7 @@
 
 **Feed description:** Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic
 
-## 85. Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing
+## 104. Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -1068,7 +1310,19 @@
 
 **Feed description:** Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing Clinical Lab Products
 
-## 86. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
+## 105. Quest Diagnostics stock underperforms Monday when compared to competitors
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 20 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - MarketWatch: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWp5N185cHhSZnFjT1I5aTlwamp0cjEyZUU5QmVLZ0NkTGY1RjdwNHlKU1A3QUlQM0tsMXhHRkF2ZWhLdHhTaGdOcFZDVTdHTldzdjV0Rk50MlpVRWxvTDlkcTJFSGJjY0J5b2kxVTRJTFNJVW4ySS1DMlhTTW5PNkJBY1RxZzUyV0ZDQXdHejFtWDMtRDYzM2VXaXRrSzZPdVl6ZEFDUWZWdWFQYkJhM05PbUN3aWdnUDdfS19PZ1BFVmlseXZtVXBCc21EdXNiYXF3?oc=5
+
+**Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch
+
+## 106. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
 
 - **Company:** Labcorp
 - **Publication date:** 15 Jul 2026
@@ -1080,7 +1334,7 @@
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec Yahoo Finance
 
-## 87. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
+## 107. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -1092,7 +1346,7 @@
 
 **Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus finance.yahoo.com
 
-## 88. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
+## 108. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -1104,7 +1358,7 @@
 
 **Feed description:** Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report dars.gov.et
 
-## 89. Labcorp Declares Cash Dividend of $0.72 Per S
+## 109. Labcorp Declares Cash Dividend of $0.72 Per S
 
 - **Company:** Labcorp
 - **Publication date:** 10 Jul 2026
@@ -1116,7 +1370,19 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
 
-## 90. Labcorp Declares Quarterly Dividend
+## 110. List of Investments by Quest Diagnostics (Jul, 2026)
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 10 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Tracxn: https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEhKbGRacTh4a3NVbE9ISXpGa3FMNmJlcVBOVE5vcjh4c014Tnp0aDJIUHA4Z3QzLVFHZU1TUmhEQjF4SDhFeTNnR2VwR3BfSy01Q1d1WFNsT1NpXzJUX1JfdlFkU3lCaklTWV9Eb1lUQ3pBZzJHYlEwWVh5anRldUNWckkzVmU2ZzI5YWEyWDRfTFVSajNWRDJhTTdGRmRteFNFcDg2VjFERGRrbUpqWlVQWEVhTWNPU0dyVmNR?oc=5
+
+**Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
+
+## 111. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -1131,7 +1397,7 @@
 
 **Feed description:** Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com
 
-## 91. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 112. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
@@ -1143,7 +1409,7 @@
 
 **Feed description:** Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au
 
-## 92. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
+## 113. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1155,7 +1421,19 @@
 
 **Feed description:** Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products
 
-## 93. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
+## 114. Quest Diagnostics integrates cancer testing int...
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 08 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMirAFBVV95cUxPenl5U2ZHMUdsdlpqZVRjRUdEV3lEellrLV9YVjhSYThuN2JQYUhEcVRTNUxrX1JxODNlSS03QXNDdlEteFp4QUZ2dWFNcUFtZjktNzl3ajZwV3gzUWpMM0lZaXI2T29VRHBxMXk4MzNpdTI2UXdUM0ZYN2NMUV90cVVmVU9yRmtiSDhrTlpURlhYaGZPaEh4Y2NJT3ozVXZtNFhaMEpkcmJqb1hJ?oc=5
+
+**Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
+
+## 115. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Jul 2026
