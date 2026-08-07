@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T18:24:17.412035+05:30",
-  "generated_at_display": "07 Aug 2026, 6:24 PM IST",
-  "item_count": 117,
-  "raw_relevant_item_count": 297,
-  "duplicates_merged": 128,
+  "generated_at": "2026-08-07T18:25:07.391513+05:30",
+  "generated_at_display": "07 Aug 2026, 6:25 PM IST",
+  "item_count": 118,
+  "raw_relevant_item_count": 299,
+  "duplicates_merged": 130,
   "failures": [],
   "items": [
     {
@@ -2874,6 +2874,30 @@
       "event_signature": "compared competitors monday stock underperforms when"
     },
     {
+      "id": "83bc17b80208f29d54af",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1I4U1ZKdHNpOFdPTVlzU1Qta3JGOWZ1N1RkbW94UUdsNkhFV2V5NVFUWkZoUXAxMHlsU2Q5N2gtbkZCZVVEeDcyaVU4OEFobUNEOGVyclFoVG16RTlzUm9jR3YxU1RvRHVaRjlCZDVicFBMZFlJWHhiRWhmZXEwTHBzYWJzSzZsRDdfRXRvRFVkUUFrSHJab18zX0Vpc0I5d05FUkEzNWp0WlN4V0hnazRteXplQmRVaS1yOXBR?oc=5",
+      "description": "Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "published_display": "16 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1I4U1ZKdHNpOFdPTVlzU1Qta3JGOWZ1N1RkbW94UUdsNkhFV2V5NVFUWkZoUXAxMHlsU2Q5N2gtbkZCZVVEeDcyaVU4OEFobUNEOGVyclFoVG16RTlzUm9jR3YxU1RvRHVaRjlCZDVicFBMZFlJWHhiRWhmZXEwTHBzYWJzSzZsRDdfRXRvRFVkUUFrSHJab18zX0Vpc0I5d05FUkEzNWp0WlN4V0hnazRteXplQmRVaS1yOXBR?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-07-16T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "assessing gains highs lows momentum sector support technical"
+    },
+    {
       "id": "4e687fe336b544e8d5f8",
       "company": "Labcorp",
       "title": "Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec",
@@ -3127,7 +3151,7 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 52,
+  "low_value_items_removed": 51,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership.",
   "next_update_at": "2026-08-08T00:17:00+05:30",
   "next_update_display": "08 Aug 2026, 12:17 AM IST",
