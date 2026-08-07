@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-06T10:29:48.464770+00:00",
-  "generated_at_display": "06 Aug 2026, 10:29 UTC",
-  "item_count": 91,
+  "generated_at": "2026-08-07T04:14:37.936122+00:00",
+  "generated_at_display": "07 Aug 2026, 04:14 UTC",
+  "item_count": 93,
   "raw_relevant_item_count": 275,
-  "duplicates_merged": 111,
+  "duplicates_merged": 108,
   "failures": [],
   "items": [
+    {
+      "id": "479e56eba42e58ed45f7",
+      "company": "Labcorp",
+      "title": "5 Revealing Analyst Questions From Labcorp’s Q2 Earnings Call",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZjh3aC1KaHBoUUZWVWItYnplbWlwaTZlcVlFUzBLOGI1V281M1EtLWxZTjhIQ095dXpRV3ZZVzktUUJpdUxzQ2JlTnhtV3RTdmJ5NS1VaVFoWHh4ZncxQkRiVkc0Q2tLZW1hallTX3QzeTFxUDVrMHV0bmxha1U2QTZZTWtPd29JcnBRZ0RVZTkxWTdZYWJvZzdmajEzdjJBNHhoQXNMU1YzNHltOVBPTG1Zdk5SSWlwcEpaQw?oc=5",
+      "description": "5 Revealing Analyst Questions From Labcorp’s Q2 Earnings Call StockStory",
+      "source": "StockStory",
+      "source_url": "https://stockstory.org",
+      "source_domain": "stockstory.org",
+      "published_at": "2026-08-05T07:00:00+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZjh3aC1KaHBoUUZWVWItYnplbWlwaTZlcVlFUzBLOGI1V281M1EtLWxZTjhIQ095dXpRV3ZZVzktUUJpdUxzQ2JlTnhtV3RTdmJ5NS1VaVFoWHh4ZncxQkRiVkc0Q2tLZW1hallTX3QzeTFxUDVrMHV0bmxha1U2QTZZTWtPd29JcnBRZ0RVZTkxWTdZYWJvZzdmajEzdjJBNHhoQXNMU1YzNHltOVBPTG1Zdk5SSWlwcEpaQw?oc=5",
+          "domain": "stockstory.org",
+          "published_at": "2026-08-05T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analyst call earnings questions revealing"
+    },
     {
       "id": "0dfae174bbd8d4047658",
       "company": "Labcorp",
@@ -90,9 +114,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHNrUFV3OGNLRTVKNzAyOHU0T0pocklaMjd0bHE3a0NDWXpzNzRVeDEtUDBfbWdEN0JoRXlOcUdRN082VWVQbS1kMFlzS0ktaVp3ckNqSTZzYlh4bFlCWGZDZF9DeGlvLVlZVGVNUVJ4VHlEUW1QUmpLaWtMb2FvYUdiclJhb09NczJZbzFSQ2tfMXlHS3JIZnV3N1p1Tk9neVBXejUyLTNndWwwZHZyN2lXTjNSbVg2WU84Rm02Tlc?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-08-03T23:03:40+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkU3bklVSUVHNmdNdDZZemVnVGpzZDE4QmJGelRMQlBiV2ZTTll6d19qUEJHU0w1dEdOekp1S1dlSzRYbkVBbC0zXzZ0RjdLWmpNVG5HazNtU3pWbXhHR3VGQVFLRmZOVkQtSTZxTkNteTV6VVFxb042NHUyamFNTUFYaTdMZE5XaDBQb0ViakQ0VUFDajUzbzBoMUdQcTdScmt6NjFCMA?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-08-03T23:03:40+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 call earnings presentation results"
     },
     {
@@ -148,6 +178,30 @@
       "event_signature": "bull case change could following genetic guidance hike launch panel"
     },
     {
+      "id": "d589da59eb7494eb02d9",
+      "company": "Labcorp",
+      "title": "A Quick Look at Today's Ratings for Labcorp(LH.US), With a Forecast Between $320 to $360",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3BWcUQ1bXk3d25ZNEdpcVRWc0hHUDZKSUt0R2xWci14VHM0NnlWWkZEcXA5WGU3OUZPcm9Dci1QdUxTSEEwbGlUWWRSR3VGSkpTN3NBTnhzcjJ6Sm05Vm1kV1g5OEYyb3ZZMFk2cjhNYlpVVFZHbU84UFJHMTRTaVZXQ0wtUzROamNhVUthYTE3TkJBU050N2p3?oc=5",
+      "description": "A Quick Look at Today's Ratings for Labcorp Holdings(LH.US), With a Forecast Between $320 to $360 Moomoo",
+      "source": "Moomoo",
+      "source_url": "https://www.moomoo.com",
+      "source_domain": "moomoo.com",
+      "published_at": "2026-07-31T17:35:18+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3BWcUQ1bXk3d25ZNEdpcVRWc0hHUDZKSUt0R2xWci14VHM0NnlWWkZEcXA5WGU3OUZPcm9Dci1QdUxTSEEwbGlUWWRSR3VGSkpTN3NBTnhzcjJ6Sm05Vm1kV1g5OEYyb3ZZMFk2cjhNYlpVVFZHbU84UFJHMTRTaVZXQ0wtUzROamNhVUthYTE3TkJBU050N2p3?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-07-31T17:35:18+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "320 360 between forecast look quick ratings today"
+    },
+    {
       "id": "6247a273c4e8d4156319",
       "company": "Labcorp",
       "title": "Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full",
@@ -169,29 +223,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "cash cheap earnings flow full look looks stock while"
-    },
-    {
-      "id": "7a5c4d21d6af1944690f",
-      "company": "Labcorp",
-      "title": "Labcorp raises earnings outlook on strong medical testing demand",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXFrWnJVZ1BmaXRWWjJJZVl4SGM0XzZoLUlqdF93YjJ1c3RHNFAyNHFVOHFnTF9OTmFFVGxqcWlUNDZWZmdHUEpXX3o1NTdrT0ZEMXVheWhoeUFYOXNwWmpXMEN1NndjTm53UkliOFppRjV1ZjBIVHV6dWxtTVpqSG5pRTI0cVZPeXpVWjZTMA?oc=5",
-      "description": "Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com",
-      "source": "Modern Healthcare",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-31T15:54:00+00:00",
-      "published_display": "31 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Modern Healthcare",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXFrWnJVZ1BmaXRWWjJJZVl4SGM0XzZoLUlqdF93YjJ1c3RHNFAyNHFVOHFnTF9OTmFFVGxqcWlUNDZWZmdHUEpXX3o1NTdrT0ZEMXVheWhoeUFYOXNwWmpXMEN1NndjTm53UkliOFppRjV1ZjBIVHV6dWxtTVpqSG5pRTI0cVZPeXpVWjZTMA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T15:54:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "demand earnings medical outlook raises strong testing"
     },
     {
       "id": "16ce0d23523ebb187a5a",
@@ -421,9 +452,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-08-04T00:56:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-08-04T00:16:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "2026 call earnings estimates full lifts outlook tops transcript year"
     },
     {
@@ -742,10 +779,46 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-08-05T20:26:35+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUNfR2o2cnI4WFV2d3RNSnFzQXFGY25mdXB6dFlHWDVoVlRnS1BLNVdyUzNKdDN5WVFtM0t6UTY1eHhoTjkxY3FiNzdob3FwQjUwMmwwNUdHZ2w0SGVBbU4wWVpRcDVoR0g2WE9TRDZhMlUwTml2YklBTkFkRFZhdGlDMnlIalFjVlRSMlk0RnBDeXNEODc0?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T11:55:51+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "2026 73b adjusted eps guidance posts raises revenue"
+    },
+    {
+      "id": "db59d3c0eaf07e497188",
+      "company": "Labcorp",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+      "description": "Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "source_domain": "bloomberg.com",
+      "published_at": "2026-07-30T11:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-07-30T11:00:00+00:00"
+        },
+        {
+          "name": "Modern Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXFrWnJVZ1BmaXRWWjJJZVl4SGM0XzZoLUlqdF93YjJ1c3RHNFAyNHFVOHFnTF9OTmFFVGxqcWlUNDZWZmdHUEpXX3o1NTdrT0ZEMXVheWhoeUFYOXNwWmpXMEN1NndjTm53UkliOFppRjV1ZjBIVHV6dWxtTVpqSG5pRTI0cVZPeXpVWjZTMA?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-07-31T15:54:00+00:00"
         }
       ],
       "coverage_count": 2,
-      "event_signature": "2026 73b adjusted eps guidance posts raises revenue"
+      "event_signature": "demand earnings medical outlook raises strong testing"
     },
     {
       "id": "99caef25e59e29a167b2",
@@ -951,14 +1024,15 @@
       "event_signature": "ahead can earnings momentum specialty sustain tests"
     },
     {
-      "id": "8433efc7c5db50d1a808",
+      "id": "d7c91fc37bde7c000ca2",
       "company": "Labcorp",
       "title": "Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5",
       "description": "Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates finance.yahoo.com",
       "source": "Yahoo Finance",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-29T13:15:25+00:00",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-29T07:00:00+00:00",
       "published_display": "29 Jul 2026",
       "category": "Financials",
       "official_source": false,
@@ -966,31 +1040,32 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-29T13:15:25+00:00"
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-29T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
       "event_signature": "beyond earnings estimates headline know preview should what you"
     },
     {
-      "id": "e358a2abb263addb0930",
+      "id": "ec5307491ca834ca0f19",
       "company": "Labcorp",
       "title": "What To Expect From Labcorp’s Q2 Earnings",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5",
       "description": "What To Expect From Labcorp’s (LH) Q2 Earnings theglobeandmail.com",
       "source": "The Globe and Mail",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-29T03:14:00+00:00",
-      "published_display": "29 Jul 2026",
+      "source_url": "https://www.theglobeandmail.com",
+      "source_domain": "theglobeandmail.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-29T03:14:00+00:00"
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-07-28T07:00:00+00:00"
         },
         {
           "name": "Yahoo Finance",
@@ -1113,9 +1188,15 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNFV1hOczBxZEs1OVR2RHF2NnNBZ2d5cXlDa3lsUkNwZlByUFcwWDNZU3FRSHI2STdTdUg0SGpkRW5SZGNYOFBhendwUEdKRkF0VnFQMWROdjIxZnZUWWRWMDF4MkJabklWYUdTY2xvYUZJaF9XakFKekg2dnU4cElOTFY3OUJ5aFJTeGtEa1QzdF9NSTFVTDdoY0hOTEhqLVdMUmFpMXhmcTJSNWNrdjV3?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-27T12:58:33+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlZDcUl0cTBrMmtRNlFvVFdoOUczUUppY05COU5oSnNNTlhscEpCeDRKU3VrTlo2YXJFTDhwaWgzeVZCUXZ4YW9mMXJBODFpampzQXExdjVRTHVpOW1QWlExMENzeGkyOHFpSDYteWdfenJtcnpxWnJDTEhBU3BEVzFOV1dVS0E1aTlBX1I0dFpwN2ZZQnQ4b0YxelM5UktQOGZ6S3VpM3RlU2RkWFloU0VR?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-07-27T13:03:47+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "com consumers genetic health investing launches panel"
     },
     {
@@ -1427,9 +1508,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjJhaVVldmZnS0YyN0xLZnRZcF9WM2gyaHF1eVZtajRBbGJXaFlDdFhrVkpZTDBYMFVxYUNZcms0R2VjQ2pETjlOcndBcnFPWkVPdVJCNm5FaVRNUXBWRWgxTlVodUk0ZzJTQ01jdnYyM296Q3VZUU9tS1g2bTFHYVdCUGpReEFiVkt5QzlrLUd1R3FlZTJVWU5B?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-24T13:00:01+00:00"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEJEWDE2czhFM2RyYUYtR3pYWS1tLUJWYUE1Vm8zZzNXMnRjb1NlTTFvalY4MkM4WGdfUDRhTmR3WkdzZFFGdmo2Mmpja0hPMEU2bjhRaExJaUFwVVVVQlFlWXFhN3d6V2tMazhueFJrSDU0ajhReTZqa2hhVGY5NHcwQVhFTmVBLWlhOGZVM3dvNWx2TXZHOWV5dw?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-07-25T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "232 260 between forecast look quick ratings today"
     },
     {
@@ -2229,7 +2316,7 @@
       "source": "GuruFocus",
       "source_url": "https://www.gurufocus.com",
       "source_domain": "gurufocus.com",
-      "published_at": "2026-07-10T16:55:12+00:00",
+      "published_at": "2026-07-10T07:00:00+00:00",
       "published_display": "10 Jul 2026",
       "category": "Financials",
       "official_source": false,
@@ -2238,7 +2325,7 @@
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5",
           "domain": "gurufocus.com",
-          "published_at": "2026-07-10T16:55:12+00:00"
+          "published_at": "2026-07-10T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -2356,6 +2443,6 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 73,
+  "low_value_items_removed": 74,
   "filter_policy": "Excludes valuation articles, stock-price commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership."
 }
