@@ -3,10 +3,20 @@
 
 from __future__ import annotations
 
+import os
 from typing import Any
 
 import email_dispatch as base
 import email_new_items as core
+
+
+def truthy(value: str) -> bool:
+    return str(value or "").strip().lower() in {"1", "true", "yes", "on"}
+
+
+if truthy(os.getenv("DISABLE_GEMINI", "")):
+    core.WORKER = ""
+    print("Gemini fallback disabled for this run; cached ChatGPT summaries remain eligible for email delivery.")
 
 
 def cached_chatgpt_summary(item: dict[str, Any]) -> str:
@@ -44,7 +54,7 @@ def collect_hybrid(
             else:
                 missing.append(item)
 
-        if missing and not base.GEMINI_QUOTA_EXHAUSTED:
+        if missing and core.WORKER and not base.GEMINI_QUOTA_EXHAUSTED:
             generated = core.verified_summaries(missing)
             wave_summaries.update(generated)
             gemini_count += len(generated)
@@ -79,6 +89,7 @@ def main() -> int:
         status = core.load(core.STATUS, {})
         status["scheduled_chatgpt_summary_count"] = int(getattr(base, "HYBRID_CHATGPT_COUNT", 0))
         status["gemini_summary_count"] = int(getattr(base, "HYBRID_GEMINI_COUNT", 0))
+        status["gemini_fallback_enabled"] = bool(core.WORKER)
         if status.get("scheduled_chatgpt_summary_count"):
             status["primary_summary_provider"] = "ChatGPT Scheduled Task"
         elif status.get("gemini_summary_count"):
