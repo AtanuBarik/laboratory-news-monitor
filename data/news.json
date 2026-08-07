@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T21:09:38.814584+05:30",
-  "generated_at_display": "07 Aug 2026, 9:09 PM IST",
+  "generated_at": "2026-08-08T02:40:55.688907+05:30",
+  "generated_at_display": "08 Aug 2026, 2:40 AM IST",
   "item_count": 79,
-  "raw_relevant_item_count": 258,
-  "duplicates_merged": 96,
+  "raw_relevant_item_count": 259,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
     {
@@ -2466,10 +2466,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 58,
+  "post_prune_financial_duplicates_merged": 23,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-08T00:17:00+05:30",
-  "next_update_display": "08 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-08T06:17:00+05:30",
+  "next_update_display": "08 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
