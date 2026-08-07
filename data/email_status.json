@@ -1,7 +1,10 @@
 {
-  "checked_at": "2026-08-07T18:21:29.156362+05:30",
-  "checked_at_display": "07 Aug 2026, 6:21 PM IST",
+  "checked_at": "2026-08-07T18:22:03.960319+05:30",
+  "checked_at_display": "07 Aug 2026, 6:22 PM IST",
   "status": "no_new_items",
   "ranked_candidate_count": 0,
-  "low_value_dismissed_count": 0
+  "low_value_dismissed_count": 0,
+  "scheduled_chatgpt_summary_count": 0,
+  "gemini_summary_count": 0,
+  "gemini_fallback_enabled": true
 }
