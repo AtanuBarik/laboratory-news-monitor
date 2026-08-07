@@ -14,9 +14,12 @@ def truthy(value: str) -> bool:
     return str(value or "").strip().lower() in {"1", "true", "yes", "on"}
 
 
-if truthy(os.getenv("DISABLE_GEMINI", "")):
+GEMINI_DISABLED = truthy(os.getenv("DISABLE_GEMINI", ""))
+if GEMINI_DISABLED:
     core.WORKER = ""
-    print("Gemini fallback disabled for this run; cached ChatGPT summaries remain eligible for email delivery.")
+    base.GEMINI_QUOTA_EXHAUSTED = True
+    base.GEMINI_QUOTA_MESSAGE = "Gemini fallback is unavailable for this run."
+    print("Gemini fallback disabled for this run; cached ChatGPT summaries are preferred and feed previews remain available as a final fallback.")
 
 
 def cached_chatgpt_summary(item: dict[str, Any]) -> str:
@@ -90,6 +93,9 @@ def main() -> int:
         status["scheduled_chatgpt_summary_count"] = int(getattr(base, "HYBRID_CHATGPT_COUNT", 0))
         status["gemini_summary_count"] = int(getattr(base, "HYBRID_GEMINI_COUNT", 0))
         status["gemini_fallback_enabled"] = bool(core.WORKER)
+        if GEMINI_DISABLED:
+            status["gemini_unavailable"] = True
+            status["gemini_quota_exhausted"] = False
         if status.get("scheduled_chatgpt_summary_count"):
             status["primary_summary_provider"] = "ChatGPT Scheduled Task"
         elif status.get("gemini_summary_count"):
