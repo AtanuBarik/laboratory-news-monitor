@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-08-07T04:14:37.936122+00:00",
+  "generated_at_display": "07 Aug 2026, 04:14 UTC",
+  "total_distinct_events": 93,
+  "categories": [
+    "Product & Services",
+    "Clinical, R&D",
+    "Partnership, M&A",
+    "Financials",
+    "Organizational Updates",
+    "Leadership Changes",
+    "Other"
+  ],
+  "files": {
+    "all_companies": "knowledge/latest.md",
+    "Labcorp": "knowledge/labcorp.md",
+    "Quest Diagnostics": "knowledge/quest-diagnostics.md",
+    "ARUP Laboratories": "knowledge/arup-laboratories.md",
+    "Mayo Clinic Laboratories": "knowledge/mayo-clinic-laboratories.md",
+    "Sonic Healthcare": "knowledge/sonic-healthcare.md"
+  }
+}
