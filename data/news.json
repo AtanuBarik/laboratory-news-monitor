@@ -1,35 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:13:34.413495+05:30",
-  "generated_at_display": "07 Aug 2026, 11:13 AM IST",
+  "generated_at": "2026-08-07T11:15:28.131215+05:30",
+  "generated_at_display": "07 Aug 2026, 11:15 AM IST",
   "item_count": 115,
-  "raw_relevant_item_count": 277,
-  "duplicates_merged": 111,
+  "raw_relevant_item_count": 298,
+  "duplicates_merged": 129,
   "failures": [],
   "items": [
-    {
-      "id": "e49cd412658eb3b737af",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock outperforms competitors on strong trading day",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2paWmUwR1NfVDR1NnBZcnRDRGpwR3kteXA2bER1Ykc1TjBGTUUyb3BZN3NxVFhDR3V5MHVoRHlXZTVrU0FlOHJoT0pLVlhlVlI0ODNyTDR1dHRxN2NYeEhfUmhMVFBfdmF5MU5PWXF1UUdpUjZsazMtem5SUGRsWTlpeXlIVTh5NS1GcHZVQWxBSkN4akQ0ZERuRkE3a3RFdDlOZjRFN3dEUEx2TmNGTHE1aXB1OE1KbFUxRGptY1BpS2RSV2hlWmUwM04xQQ?oc=5",
-      "description": "Quest Diagnostics Inc. stock outperforms competitors on strong trading day MarketWatch",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "source_domain": "marketwatch.com",
-      "published_at": "2026-08-06T21:01:00+00:00",
-      "published_display": "06 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNS2paWmUwR1NfVDR1NnBZcnRDRGpwR3kteXA2bER1Ykc1TjBGTUUyb3BZN3NxVFhDR3V5MHVoRHlXZTVrU0FlOHJoT0pLVlhlVlI0ODNyTDR1dHRxN2NYeEhfUmhMVFBfdmF5MU5PWXF1UUdpUjZsazMtem5SUGRsWTlpeXlIVTh5NS1GcHZVQWxBSkN4akQ0ZERuRkE3a3RFdDlOZjRFN3dEUEx2TmNGTHE1aXB1OE1KbFUxRGptY1BpS2RSV2hlWmUwM04xQQ?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-08-06T21:01:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "competitors day outperforms stock strong trading"
-    },
     {
       "id": "0dfae174bbd8d4047658",
       "company": "Labcorp",
@@ -1199,6 +1175,60 @@
       "event_signature": "consumer deep dive drive growth guidance increase specialty testing"
     },
     {
+      "id": "c010d1f26425f1964919",
+      "company": "Labcorp",
+      "title": "Labcorp (LH.MX) Q2 FY2026 earnings call transcript",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5",
+      "description": "LABCORP HOLDINGS INC (LH.MX) Q2 FY2026 earnings call transcript Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-07-30T20:00:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWDlpbG9LNEFsclpJUHNXVkFoaU9qLUFoeko4ZUhQZzNfZmVWNTlIVkRfSXFSLU1oQnJyekwtcGxIZXlfYy1OY056djhJdWtSRG5FY0VpUm9iTlN1YUtHQTJUcm4tN1FnVmk2d3VJSFczX0I0ZjRWLUJDWQ?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-07-31T02:09:45+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-08-01T19:54:12+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-08-04T00:16:00+00:00"
+        },
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5",
+          "domain": "fool.com",
+          "published_at": "2026-08-04T00:56:00+00:00"
+        }
+      ],
+      "coverage_count": 6,
+      "event_signature": "call earnings fy2026 transcript"
+    },
+    {
       "id": "7cfd8e27018f27b1a958",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com",
@@ -1298,7 +1328,7 @@
       "company": "Quest Diagnostics",
       "title": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5",
-      "description": "Truist Financial Maintains Quest Diagnostics(DGX.US) With Hold Rating, Maintains Target Price $250 Moomoo",
+      "description": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 news.futunn.com",
       "source": "富途牛牛",
       "source_url": "https://news.futunn.com",
       "source_domain": "news.futunn.com",
@@ -1429,7 +1459,7 @@
       "company": "Quest Diagnostics",
       "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com Investing.com Nigeria",
+      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
       "source": "Investing.com Canada",
       "source_url": "https://ca.investing.com",
       "source_domain": "ca.investing.com",
@@ -1461,9 +1491,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-07-29T22:22:02+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-07-29T22:23:21+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "com form investing july orporated"
     },
     {
@@ -1710,7 +1746,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFwcUprTnhtSnV5c2xRd1dwemFpM3gyb2JLOVVHXzE1ZVRndGxmaUxNNHotcHB2bkFRdm1DT3FoUE0wdURkZmhzR3dQMUw2YWdUeGEtVkR6ZnB3a0lPcUJpcm1PTUxFTlp2cTNSSjRMcEgtcG1aUnA2RHV0VVNOcGdLWXl1MjFseWlRcWZHWGNtYXpFamRYUkVZb193Mk5HRXNidWZQNA?oc=5",
-      "description": "Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next 富途牛牛",
+      "description": "Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next news.futunn.com",
       "source": "富途牛牛",
       "source_domain": "news.google.com",
       "published_at": "2026-07-26T13:12:09+00:00",
@@ -2028,7 +2064,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5",
-      "description": "Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half Morningstar",
+      "description": "Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half morningstar.com",
       "source": "Morningstar",
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T20:44:05+00:00",
@@ -2630,7 +2666,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5",
-      "description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast Morningstar",
+      "description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com",
       "source": "Morningstar",
       "source_url": "https://www.morningstar.com",
       "source_domain": "morningstar.com",
@@ -2866,7 +2902,7 @@
       "company": "Quest Diagnostics",
       "title": "List of Investments by Quest Diagnostics (Jul, 2026)",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEhKbGRacTh4a3NVbE9ISXpGa3FMNmJlcVBOVE5vcjh4c014Tnp0aDJIUHA4Z3QzLVFHZU1TUmhEQjF4SDhFeTNnR2VwR3BfSy01Q1d1WFNsT1NpXzJUX1JfdlFkU3lCaklTWV9Eb1lUQ3pBZzJHYlEwWVh5anRldUNWckkzVmU2ZzI5YWEyWDRfTFVSajNWRDJhTTdGRmRteFNFcDg2VjFERGRrbUpqWlVQWEVhTWNPU0dyVmNR?oc=5",
-      "description": "List of Investments by Quest Diagnostics (Jul, 2026) Tracxn",
+      "description": "List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com",
       "source": "Tracxn",
       "source_url": "https://tracxn.com",
       "source_domain": "tracxn.com",
@@ -3021,8 +3057,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 51,
-  "filter_policy": "Excludes valuation articles, stock-price commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership.",
+  "low_value_items_removed": 54,
+  "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership.",
   "next_update_at": "2026-08-07T12:17:00+05:30",
   "next_update_display": "07 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"

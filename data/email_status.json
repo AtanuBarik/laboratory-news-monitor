@@ -1,6 +1,6 @@
 {
-  "checked_at": "2026-08-07T11:13:38.075380+05:30",
-  "checked_at_display": "07 Aug 2026, 11:13 AM IST",
+  "checked_at": "2026-08-07T11:15:31.441184+05:30",
+  "checked_at_display": "07 Aug 2026, 11:15 AM IST",
   "status": "ai_worker_unavailable",
   "error": "missing capabilities: generate_content_search_fallback",
   "display_timezone": "IST"
