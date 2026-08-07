@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 06 Aug 2026, 10:29 UTC
+- **Repository generated:** 07 Aug 2026, 04:14 UTC
 - **Distinct events in this file:** 38
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -167,11 +167,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Moomoo: https://news.google.com/rss/articles/CBMimwFBVV95cUxQRElHcWNnbHNQR2xCMnZ3VG5mTF8zclQyd1pwRUNnUnI5VWNsWFB6UkVKNUwwRm1ocVZ5WXEzcDR6NG83UHZiaGZRNm1KdVRkME13bmtUektfX3F0X1Z4RmREbk43OXFvNVRENnJORHc3WlIwYzd2UlFjZ0dHWU1XNThyU3JVcEJLVGdzOEZ4V3VTY1FWc25CVjFjbw?oc=5
   - 富途牛牛: https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjJhaVVldmZnS0YyN0xLZnRZcF9WM2gyaHF1eVZtajRBbGJXaFlDdFhrVkpZTDBYMFVxYUNZcms0R2VjQ2pETjlOcndBcnFPWkVPdVJCNm5FaVRNUXBWRWgxTlVodUk0ZzJTQ01jdnYyM296Q3VZUU9tS1g2bTFHYVdCUGpReEFiVkt5QzlrLUd1R3FlZTJVWU5B?oc=5
+  - Moomoo: https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEJEWDE2czhFM2RyYUYtR3pYWS1tLUJWYUE1Vm8zZzNXMnRjb1NlTTFvalY4MkM4WGdfUDRhTmR3WkdzZFFGdmo2Mmpja0hPMEU2bjhRaExJaUFwVVVVQlFlWXFhN3d6V2tMazhueFJrSDU0ajhReTZqa2hhVGY5NHcwQVhFTmVBLWlhOGZVM3dvNWx2TXZHOWV5dw?oc=5
 
 **Feed description:** A Quick Look at Today's Ratings for Quest Diagnostics(DGX.US), With a Forecast Between $232 to $260 moomoo.com
 
