@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-07T18:42:00+05:30",
-  "updated_at_display": "07 Aug 2026, 6:42 PM IST",
+  "updated_at": "2026-08-07T18:47:00+05:30",
+  "updated_at_display": "07 Aug 2026, 6:47 PM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp.\n\nEligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -10,10 +10,7 @@
       "title": "Labcorp Paying Out $35M in Settlement: Who’s Eligible",
       "company": "Labcorp",
       "category": "Other",
-      "sources_used": [
-        "https://www.amcadatabreachsettlement.com/",
-        "https://www.classaction.org/news/35m-labcorp-settlement-reached-in-lawsuit-over-american-medical-collection-agency-data-breach"
-      ],
+      "sources_used": ["https://www.amcadatabreachsettlement.com/", "https://www.classaction.org/news/35m-labcorp-settlement-reached-in-lawsuit-over-american-medical-collection-agency-data-breach"],
       "verification": "verified"
     },
     "0cc7c51d9ffdbdb20f46": {
@@ -23,9 +20,7 @@
       "title": "Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03",
       "company": "Labcorp",
       "category": "Financials",
-      "sources_used": [
-        "https://finance.yahoo.com/healthcare/articles/labcorp-announces-2026-second-quarter-105000030.html"
-      ],
+      "sources_used": ["https://finance.yahoo.com/healthcare/articles/labcorp-announces-2026-second-quarter-105000030.html"],
       "verification": "verified"
     },
     "5e73ffc6e4adedffa411": {
@@ -35,10 +30,7 @@
       "title": "Consumer testing is growing in the US: Quest Diagnostics CEO",
       "company": "Quest Diagnostics",
       "category": "Other",
-      "sources_used": [
-        "https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ],
+      "sources_used": ["https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
       "verification": "verified"
     },
     "056ae46b5c843cbf762a": {
@@ -48,10 +40,7 @@
       "title": "Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
-      "sources_used": [
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11389145/",
-        "https://www.questdiagnostics.com/healthcare-professionals/provider-insights/articles/clarifying-the-complexity-of-bacterial-vaginosis-using-targeted-testing-to-identify-causes-and-std-coinfections"
-      ],
+      "sources_used": ["https://pmc.ncbi.nlm.nih.gov/articles/PMC11389145/", "https://www.questdiagnostics.com/healthcare-professionals/provider-insights/articles/clarifying-the-complexity-of-bacterial-vaginosis-using-targeted-testing-to-identify-causes-and-std-coinfections"],
       "verification": "verified"
     },
     "5b6d468d0e140886936e": {
@@ -61,9 +50,7 @@
       "title": "Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates",
       "company": "Quest Diagnostics",
       "category": "Other",
-      "sources_used": [
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ],
+      "sources_used": ["https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
       "verification": "verified"
     },
     "16ce0d23523ebb187a5a": {
@@ -73,9 +60,7 @@
       "title": "Quest Diagnostics Financial Health: Profitability & Balance Sheet Analysis",
       "company": "Quest Diagnostics",
       "category": "Financials",
-      "sources_used": [
-        "https://www.tradingkey.com/markets/stocks/nasdaq-dgx/financials"
-      ],
+      "sources_used": ["https://www.tradingkey.com/markets/stocks/nasdaq-dgx/financials"],
       "verification": "verified"
     },
     "b262b32bbe1580e79152": {
@@ -85,9 +70,17 @@
       "title": "Quest Diagnostics Risk Assessment: Volatility, Financial Risk & Investment Risk",
       "company": "Quest Diagnostics",
       "category": "Other",
-      "sources_used": [
-        "https://www.tradingkey.com/markets/stocks/nasdaq-dgx/risk-assesment"
-      ],
+      "sources_used": ["https://www.tradingkey.com/markets/stocks/nasdaq-dgx/risk-assesment"],
+      "verification": "verified"
+    },
+    "cf79abed1e9a5dd7be6b": {
+      "summary": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling.\n\nThe FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034).\n\nLabcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:47:00+05:30",
+      "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "sources_used": ["https://www.labcorp.com/tests/484680/pten-ihc-with-interpretation-for-prostate-adenocarcinoma", "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation"],
       "verification": "verified"
     }
   }
