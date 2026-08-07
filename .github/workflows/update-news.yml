@@ -152,6 +152,7 @@ jobs:
           PY
 
       - name: Email newly identified items
+        if: github.event_name != 'schedule'
         continue-on-error: true
         env:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
