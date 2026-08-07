@@ -10,6 +10,11 @@ on:
         default: false
   repository_dispatch:
     types: [refresh_news]
+  push:
+    branches: [main]
+    paths:
+      - scripts/**
+      - .github/workflows/update-news.yml
   schedule:
     # Every six hours in India Standard Time, away from the top-of-hour load peak.
     - cron: "17 0,6,12,18 * * *"
