@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T13:08:37.461595+05:30",
-  "generated_at_display": "07 Aug 2026, 1:08 PM IST",
-  "item_count": 116,
-  "raw_relevant_item_count": 297,
+  "generated_at": "2026-08-07T13:35:01.036446+05:30",
+  "generated_at_display": "07 Aug 2026, 1:35 PM IST",
+  "item_count": 117,
+  "raw_relevant_item_count": 299,
   "duplicates_merged": 129,
   "failures": [],
   "items": [
@@ -360,6 +360,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "bullish case expansion holds margin stock"
+    },
+    {
+      "id": "b262b32bbe1580e79152",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Risk Assessment: Volatility, Financial Risk & Investment Risk",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RjJzWHZPZlY5TkE1cjZMRWR5dVZpTUFQQTFsLUVKWDUzMUZCMnNYVDJzYm50eFpMNW90Rk1xX0VSc1JlUmJPX253WnpsdW1IOENqdDAtU2xNLUl2aUJvYUZZbE1iLW5VSFdCTw?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk TradingKey",
+      "source": "TradingKey",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "published_display": "31 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05RjJzWHZPZlY5TkE1cjZMRWR5dVZpTUFQQTFsLUVKWDUzMUZCMnNYVDJzYm50eFpMNW90Rk1xX0VSc1JlUmJPX253WnpsdW1IOENqdDAtU2xNLUl2aUJvYUZZbE1iLW5VSFdCTw?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-07-31T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "assessment financial investment risk volatility"
     },
     {
       "id": "74a549d307ec5080bf5a",
@@ -1510,9 +1534,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5",
           "domain": "za.investing.com",
           "published_at": "2026-07-29T22:23:21+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-07-27T21:18:08+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "com form investing july orporated"
     },
     {
@@ -3094,7 +3124,7 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 52,
+  "low_value_items_removed": 53,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership.",
   "next_update_at": "2026-08-07T18:17:00+05:30",
   "next_update_display": "07 Aug 2026, 6:17 PM IST",
