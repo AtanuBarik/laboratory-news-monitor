@@ -1,13 +1,13 @@
 {
-  "last_run_at": "2026-08-07T13:11:24.277409+05:30",
-  "last_run_display": "07 Aug 2026, 1:11 PM IST",
+  "last_run_at": "2026-08-07T13:35:23.457155+05:30",
+  "last_run_display": "07 Aug 2026, 1:35 PM IST",
   "next_update_at": "2026-08-07T18:17:00+05:30",
   "next_update_display": "07 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST",
-  "news_item_count": 116,
-  "raw_relevant_item_count": 297,
+  "news_item_count": 117,
+  "raw_relevant_item_count": 299,
   "duplicates_merged": 129,
   "fetch_failures": [],
-  "email_status": "no_summarizable_items",
-  "last_email_check": "07 Aug 2026, 1:11 PM IST"
+  "email_status": "email_sent_with_feed_fallback",
+  "last_email_check": "07 Aug 2026, 1:35 PM IST"
 }
