@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T13:35:01.036446+05:30",
-  "generated_at_display": "07 Aug 2026, 1:35 PM IST",
+  "generated_at": "2026-08-07T15:40:46.989149+05:30",
+  "generated_at_display": "07 Aug 2026, 3:40 PM IST",
   "item_count": 117,
-  "raw_relevant_item_count": 299,
-  "duplicates_merged": 129,
+  "raw_relevant_item_count": 300,
+  "duplicates_merged": 131,
   "failures": [],
   "items": [
     {
@@ -738,47 +738,6 @@
       "event_signature": "2026 after outlook raised strong"
     },
     {
-      "id": "8ec9ae82dd070a4418ef",
-      "company": "Labcorp",
-      "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
-      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com",
-      "source": "The Globe and Mail",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T12:21:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T12:21:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T12:21:26+00:00"
-        },
-        {
-          "name": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5",
-          "domain": "barchart.com",
-          "published_at": "2026-07-30T12:21:26+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDlCcUk1Y0ZRdWdGNUYtTldfVFFkQ0VjV1kyejZ3VDd2dkdreU96Y1lWUnlnRThfWXIwVXd4RFFpTjE3UzhGMTZWc2plMWdCMG9zQjBScnBSSWU2TlB5b2c4b0JhQVNnRV9iUFlYTlo1Qy1aUFhJSmtZMkRYaG9uWFhoUDRWSTJGNllQTHA5NGxsNm1uQWVrTFk3bk91MDVZb2tzYVdkdXRCMmMzQ1lRcUtNRUMxTFNVaWJLUw?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-30T12:21:26+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "cy2026 expectations line"
-    },
-    {
       "id": "d9dcf283ca0e488fb02b",
       "company": "Labcorp",
       "title": "Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance",
@@ -894,53 +853,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "bacterial finds increased infection linked million national sti study vaginosis women"
-    },
-    {
-      "id": "d859ee78fa648c9f34a4",
-      "company": "Labcorp",
-      "title": "Labcorp raises annual profit forecast on strong testing demand",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUVaWHd3UlRSR1B0YnNoOE4yZmR3Nmhmb1ctYkFBLTVNZGNjemZ1dDF1bEZBZHdvV3Z5dWVEVnRON1ktcTdOc3NwTXFUbDZ6VmdUbTZLZGcwaHczb0VzYm4wbXp6ZkFrdWtvbTJ6WTZkNE1GdElKQVUwOWpNcDY1ZDc1QTdCdU13ckNvcWZEelF6OUwzeTVXUURKWDhaWE16eGc1Q0FZRzI4LVU0ZGpuc1ZFaGktelotLWt1c2NBUUk0QlVjZWNwQnc2SmM?oc=5",
-      "description": "Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada",
-      "source": "tradingview.com",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T11:20:53+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUVaWHd3UlRSR1B0YnNoOE4yZmR3Nmhmb1ctYkFBLTVNZGNjemZ1dDF1bEZBZHdvV3Z5dWVEVnRON1ktcTdOc3NwTXFUbDZ6VmdUbTZLZGcwaHczb0VzYm4wbXp6ZkFrdWtvbTJ6WTZkNE1GdElKQVUwOWpNcDY1ZDc1QTdCdU13ckNvcWZEelF6OUwzeTVXUURKWDhaWE16eGc1Q0FZRzI4LVU0ZGpuc1ZFaGktelotLWt1c2NBUUk0QlVjZWNwQnc2SmM?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:20:53+00:00"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk9PUWQ3MjRNaWJWdmpmU2RIdERYcE1WMmZlTVJlZEZHcTFBR1RMd2JnazZjanE0TWRJRTVneGY1blpvRFh3dnNKU0ZkeEowZno5cUo0ZGlfckc1MG1qVl9VUGZjNmJXSk03ZF9uSmRLb1lmY2puYXNxYWp0Wmp4TVh6QnNMdmFNR203TnI0bw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T12:26:59+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmtlcnJlNS1pNTZkVWtwUjFKY2JrOE1WdGdJajE5aldiZXJwZm55cFEtLVNNYW4wZlBvTS0xdzVTZmcxSk1sd0tqWWMtNlZhTmRnczdZT3ZkUE1ET3o3ZGpGRG5ITVNhM0xsZ0ZpdzFpTjl1cHpXb1lOeV9EenBUYVhhVGtCOWh4M0RNN0hMOU1BYS1BaVN3cW1lbDYzRFNCeWhkOWt2TEJFcnVnc2FRZ2ZhZkNndw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-30T12:28:57+00:00"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T14:39:04+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-30T15:34:40+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "annual demand forecast profit raises strong testing"
     },
     {
       "id": "bef82adae503aa06a4a2",
@@ -1263,6 +1175,96 @@
       ],
       "coverage_count": 6,
       "event_signature": "call earnings fy2026 transcript"
+    },
+    {
+      "id": "d33ad65750cc3e48824a",
+      "company": "Labcorp",
+      "title": "Labcorp raises annual profit forecast on strong testing demand",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
+      "description": "Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "source_domain": "reuters.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
+          "domain": "reuters.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUVaWHd3UlRSR1B0YnNoOE4yZmR3Nmhmb1ctYkFBLTVNZGNjemZ1dDF1bEZBZHdvV3Z5dWVEVnRON1ktcTdOc3NwTXFUbDZ6VmdUbTZLZGcwaHczb0VzYm4wbXp6ZkFrdWtvbTJ6WTZkNE1GdElKQVUwOWpNcDY1ZDc1QTdCdU13ckNvcWZEelF6OUwzeTVXUURKWDhaWE16eGc1Q0FZRzI4LVU0ZGpuc1ZFaGktelotLWt1c2NBUUk0QlVjZWNwQnc2SmM?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-07-30T11:20:53+00:00"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk9PUWQ3MjRNaWJWdmpmU2RIdERYcE1WMmZlTVJlZEZHcTFBR1RMd2JnazZjanE0TWRJRTVneGY1blpvRFh3dnNKU0ZkeEowZno5cUo0ZGlfckc1MG1qVl9VUGZjNmJXSk03ZF9uSmRLb1lmY2puYXNxYWp0Wmp4TVh6QnNMdmFNR203TnI0bw?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-07-30T12:26:59+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmtlcnJlNS1pNTZkVWtwUjFKY2JrOE1WdGdJajE5aldiZXJwZm55cFEtLVNNYW4wZlBvTS0xdzVTZmcxSk1sd0tqWWMtNlZhTmRnczdZT3ZkUE1ET3o3ZGpGRG5ITVNhM0xsZ0ZpdzFpTjl1cHpXb1lOeV9EenBUYVhhVGtCOWh4M0RNN0hMOU1BYS1BaVN3cW1lbDYzRFNCeWhkOWt2TEJFcnVnc2FRZ2ZhZkNndw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-07-30T12:28:57+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-07-30T15:34:40+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "annual demand forecast profit raises strong testing"
+    },
+    {
+      "id": "0793cd23304353436380",
+      "company": "Labcorp",
+      "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
+      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-07-30T12:21:00+00:00"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-07-30T12:21:26+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDlCcUk1Y0ZRdWdGNUYtTldfVFFkQ0VjV1kyejZ3VDd2dkdreU96Y1lWUnlnRThfWXIwVXd4RFFpTjE3UzhGMTZWc2plMWdCMG9zQjBScnBSSWU2TlB5b2c4b0JhQVNnRV9iUFlYTlo1Qy1aUFhJSmtZMkRYaG9uWFhoUDRWSTJGNllQTHA5NGxsNm1uQWVrTFk3bk91MDVZb2tzYVdkdXRCMmMzQ1lRcUtNRUMxTFNVaWJLUw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-07-30T12:21:26+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "cy2026 expectations line"
     },
     {
       "id": "7cfd8e27018f27b1a958",
@@ -3124,7 +3126,7 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 53,
+  "low_value_items_removed": 52,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership.",
   "next_update_at": "2026-08-07T18:17:00+05:30",
   "next_update_display": "07 Aug 2026, 6:17 PM IST",
