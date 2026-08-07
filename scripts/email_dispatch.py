@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import os
 import re
+import threading
 import urllib.request
 from typing import Any
 
@@ -62,6 +63,11 @@ CATEGORY_SCORE = {
     "Other": 2,
 }
 FORBIDDEN_SUMMARY_PHRASES = core.FORBIDDEN_SUMMARY_PHRASES
+
+GEMINI_QUOTA_EXHAUSTED = False
+GEMINI_QUOTA_MESSAGE = ""
+GEMINI_QUOTA_LOCK = threading.Lock()
+FALLBACK_PREFIX = "AI summary temporarily unavailable because the Gemini API quota is exhausted."
 
 
 def normalized_text(item: dict[str, Any]) -> str:
@@ -131,15 +137,38 @@ def print_worker_diagnostics(identifier: str, result: dict[str, Any]) -> None:
             print("  AI attempt:", attempt.get("api"), attempt.get("model"), attempt.get("tools", "none"), attempt.get("status"), str(attempt.get("error") or "")[:220])
 
 
+def quota_error(result: dict[str, Any]) -> str:
+    for attempt in result.get("diagnostic_attempts") or []:
+        if not isinstance(attempt, dict):
+            continue
+        status = str(attempt.get("status") or "")
+        error = str(attempt.get("error") or "")
+        lowered = error.lower()
+        if status == "429" and ("quota" in lowered or "resource_exhausted" in lowered or "billing" in lowered):
+            return error or "Gemini API returned HTTP 429 quota exhausted."
+    error = str(result.get("error") or "")
+    if "quota" in error.lower() or "resource_exhausted" in error.lower():
+        return error
+    return ""
+
+
+def mark_quota_exhausted(message: str) -> None:
+    global GEMINI_QUOTA_EXHAUSTED, GEMINI_QUOTA_MESSAGE
+    with GEMINI_QUOTA_LOCK:
+        GEMINI_QUOTA_EXHAUSTED = True
+        if message and not GEMINI_QUOTA_MESSAGE:
+            GEMINI_QUOTA_MESSAGE = re.sub(r"\s+", " ", message).strip()[:700]
+
+
 def diagnostic_request_summary(item: dict[str, Any]) -> str:
     identifier = core.item_id(item)
-    if not core.WORKER or not identifier:
+    if not core.WORKER or not identifier or GEMINI_QUOTA_EXHAUSTED:
         return ""
     request = urllib.request.Request(
         core.WORKER,
         data=json.dumps({"mode": "email_article_summary", "article_ids": [identifier]}).encode("utf-8"),
         method="POST",
-        headers={"Content-Type": "application/json", "Accept": "application/json", "User-Agent": "QuestCompetitorUpdates/6.0"},
+        headers={"Content-Type": "application/json", "Accept": "application/json", "User-Agent": "QuestCompetitorUpdates/7.0"},
     )
     try:
         with urllib.request.urlopen(request, timeout=240) as response:
@@ -147,6 +176,10 @@ def diagnostic_request_summary(item: dict[str, Any]) -> str:
     except Exception as exc:
         print(f"Summary HTTP request failed for {identifier}: {exc}")
         return ""
+    quota_message = quota_error(result)
+    if quota_message:
+        mark_quota_exhausted(quota_message)
+        print(f"Gemini quota circuit breaker activated after {identifier}: {GEMINI_QUOTA_MESSAGE}")
     if result.get("content_verified") is not True:
         print_worker_diagnostics(identifier, result)
         return ""
@@ -167,8 +200,9 @@ def collect_verified(candidates: list[dict[str, Any]], target: int, max_attempts
     unreadable: list[str] = []
     attempted = 0
     limit = min(len(candidates), max_attempts)
-    while len(selected) < target and attempted < limit:
-        wave = candidates[attempted : min(attempted + WAVE_SIZE, limit)]
+    while len(selected) < target and attempted < limit and not GEMINI_QUOTA_EXHAUSTED:
+        wave_size = 1 if attempted == 0 else WAVE_SIZE
+        wave = candidates[attempted : min(attempted + wave_size, limit)]
         attempted += len(wave)
         print("Summary wave:", ", ".join(f"{core.item_id(item)} ({item.get('title', '')[:70]})" for item in wave))
         wave_summaries = core.verified_summaries(wave)
@@ -182,6 +216,55 @@ def collect_verified(candidates: list[dict[str, Any]], target: int, max_attempts
                 unreadable.append(identifier)
         print(f"Wave result: {len(wave_summaries)} verified; report now has {len(selected)} of {target} requested alerts.")
     return selected, summary_map, unreadable, attempted
+
+
+def clean_feed_preview(item: dict[str, Any]) -> str:
+    title = re.sub(r"\s+", " ", str(item.get("title") or "")).strip()
+    description = re.sub(r"<[^>]+>", " ", str(item.get("description") or ""))
+    description = re.sub(r"\s+", " ", description).strip()
+    source = str(item.get("source") or "").strip()
+    if source and description.lower().endswith(source.lower()):
+        description = description[: -len(source)].rstrip(" -–—|:;,.")
+    if not description or description.lower() == title.lower() or len(description) < 35:
+        description = title
+    if len(description) > 520:
+        description = description[:517].rstrip() + "..."
+    return description
+
+
+def feed_fallback_summary(item: dict[str, Any]) -> str:
+    preview = clean_feed_preview(item)
+    company = str(item.get("company") or "the monitored company")
+    category = str(item.get("category") or "Other")
+    return (
+        f"{FALLBACK_PREFIX} Source preview: {preview}. "
+        f"This item was identified as a substantive {category} development concerning {company}. "
+        "Open the linked source for the complete article and verify the underlying details before use."
+    )
+
+
+def fill_quota_fallback(
+    ranked: list[dict[str, Any]],
+    selected: list[dict[str, Any]],
+    summary_map: dict[str, str],
+    target: int,
+) -> tuple[list[dict[str, Any]], dict[str, str], int]:
+    used = {core.item_id(item) for item in selected}
+    fallback_count = 0
+    for item in ranked:
+        if len(selected) >= target:
+            break
+        identifier = core.item_id(item)
+        if not identifier or identifier in used:
+            continue
+        selected.append(item)
+        used.add(identifier)
+    for item in selected:
+        identifier = core.item_id(item)
+        if identifier not in summary_map:
+            summary_map[identifier] = feed_fallback_summary(item)
+            fallback_count += 1
+    return selected, summary_map, fallback_count
 
 
 def status_payload(status: str, **extra: Any) -> dict[str, Any]:
@@ -217,9 +300,26 @@ def main() -> int:
     target = TEST_TARGET if is_test else PRODUCTION_TARGET
     max_attempts = MAX_TEST_ATTEMPTS if is_test else MAX_PRODUCTION_ATTEMPTS
     sendable, summary_map, unreadable_ids, attempted = collect_verified(ranked, target, max_attempts)
+    fallback_count = 0
+    if GEMINI_QUOTA_EXHAUSTED:
+        sendable, summary_map, fallback_count = fill_quota_fallback(ranked, sendable, summary_map, target)
+        print(
+            f"Gemini quota is exhausted; using factual feed/source previews for {fallback_count} alert(s) "
+            "instead of suppressing the email."
+        )
+
     if not sendable:
         core.save(core.STATE, state)
-        core.save(core.STATUS, status_payload("no_summarizable_items", ranked_candidate_count=len(ranked), low_value_dismissed_count=len(newly_dismissed), attempted_summary_count=attempted, verified_summary_count=0, unreadable_ids=unreadable_ids))
+        core.save(core.STATUS, status_payload(
+            "no_summarizable_items",
+            ranked_candidate_count=len(ranked),
+            low_value_dismissed_count=len(newly_dismissed),
+            attempted_summary_count=attempted,
+            verified_summary_count=0,
+            unreadable_ids=unreadable_ids,
+            gemini_quota_exhausted=GEMINI_QUOTA_EXHAUSTED,
+            gemini_error=GEMINI_QUOTA_MESSAGE,
+        ))
         print("No verified summaries were produced after scanning substantive candidates; no email sent. Unreadable items remain eligible for later retry.")
         return 0
 
@@ -233,10 +333,30 @@ def main() -> int:
         return 0
 
     subject, plain, html_body = core.build_email(sendable, summary_map, is_test, now_ist())
+    if fallback_count:
+        old_note = (
+            "Only updates whose underlying public content could be read and summarized are included. "
+            "Items that could not be verified are deferred for a later retry. Review linked reporting before material decisions."
+        )
+        new_note = (
+            "Gemini AI summaries are temporarily unavailable because the API quota is exhausted. "
+            "Alerts marked as source previews use collected feed/source text and linked-source metadata. "
+            "Review the linked reporting for complete details before material decisions."
+        )
+        html_body = html_body.replace(old_note, new_note)
+
     try:
         core.send_email(subject, plain, html_body, to_addresses, bcc_addresses, from_address, sender_name)
     except Exception as exc:
-        core.save(core.STATUS, status_payload("email_failed", email_item_count=len(sendable), verified_summary_count=len(summary_map), error=str(exc)))
+        core.save(core.STATUS, status_payload(
+            "email_failed",
+            email_item_count=len(sendable),
+            verified_summary_count=len(summary_map) - fallback_count,
+            fallback_summary_count=fallback_count,
+            gemini_quota_exhausted=GEMINI_QUOTA_EXHAUSTED,
+            gemini_error=GEMINI_QUOTA_MESSAGE,
+            error=str(exc),
+        ))
         print(f"Email send failed: {exc}. No IDs were marked notified; the next run can retry them.")
         return 0
 
@@ -246,8 +366,37 @@ def main() -> int:
         state["last_successful_email_at"] = now_ist().isoformat()
         state["last_successful_email_count"] = len(sendable)
     core.save(core.STATE, state)
-    core.save(core.STATUS, status_payload("test_email_sent" if is_test else "email_sent", ranked_candidate_count=len(ranked), low_value_dismissed_count=len(newly_dismissed), attempted_summary_count=attempted, email_item_count=len(sendable), verified_summary_count=len(summary_map), unreadable_count=len(unreadable_ids), unreadable_ids=unreadable_ids, to_count=len(to_addresses), bcc_count=len(bcc_addresses), subject=subject, selection_strategy="quality_ranked_waves", display_timezone="IST"))
-    print(f"Sent {len(sendable)} substantive alerts after scanning {attempted} ranked candidates.")
+
+    if fallback_count:
+        final_status = "test_email_sent_with_feed_fallback" if is_test else "email_sent_with_feed_fallback"
+        summary_mode = "mixed_ai_and_feed_fallback" if len(summary_map) > fallback_count else "feed_fallback"
+    else:
+        final_status = "test_email_sent" if is_test else "email_sent"
+        summary_mode = "verified_ai"
+
+    core.save(core.STATUS, status_payload(
+        final_status,
+        ranked_candidate_count=len(ranked),
+        low_value_dismissed_count=len(newly_dismissed),
+        attempted_summary_count=attempted,
+        email_item_count=len(sendable),
+        verified_summary_count=len(summary_map) - fallback_count,
+        fallback_summary_count=fallback_count,
+        unreadable_count=len(unreadable_ids),
+        unreadable_ids=unreadable_ids,
+        to_count=len(to_addresses),
+        bcc_count=len(bcc_addresses),
+        subject=subject,
+        selection_strategy="quality_ranked_waves",
+        summary_mode=summary_mode,
+        gemini_quota_exhausted=GEMINI_QUOTA_EXHAUSTED,
+        gemini_error=GEMINI_QUOTA_MESSAGE,
+        display_timezone="IST",
+    ))
+    print(
+        f"Sent {len(sendable)} substantive alerts after scanning {attempted} ranked candidate(s); "
+        f"verified AI summaries={len(summary_map) - fallback_count}, feed fallbacks={fallback_count}."
+    )
     return 0
 
 
