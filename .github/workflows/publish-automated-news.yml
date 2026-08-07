@@ -11,6 +11,7 @@ on:
       - knowledge/**
       - assets/email-logos/rendered/**
       - assets/email-icons/rendered/**
+      - .github/workflows/publish-automated-news.yml
 
 permissions:
   contents: write
