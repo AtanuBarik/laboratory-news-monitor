@@ -12,6 +12,9 @@ on:
       - assets/email-logos/rendered/**
       - assets/email-icons/rendered/**
       - .github/workflows/publish-automated-news.yml
+  workflow_run:
+    workflows: ["Update laboratory news"]
+    types: [completed]
 
 permissions:
   contents: write
@@ -23,6 +26,7 @@ concurrency:
 
 jobs:
   publish:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
