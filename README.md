@@ -1,127 +1,91 @@
-# Laboratory Market News Monitor
+# Laboratory Market Intelligence Monitor
 
-A zero-additional-cost, browser-only starter project that:
+This repository runs a browser-managed competitive-intelligence workflow for:
 
-- monitors Labcorp, Quest Diagnostics, ARUP Laboratories, and Mayo Clinic Laboratories;
-- retrieves public Bing News RSS results every six hours;
-- removes duplicate links and retains up to 90 days of results;
-- classifies articles into simple rule-based categories;
-- publishes a searchable dashboard through GitHub Pages;
-- uses no OpenAI API, paid news API, database, server, or locally installed software.
-
-## Important limitation
-
-The dashboard performs collection, filtering, categorization, and display. It does **not**
-produce automatic AI summaries because ChatGPT and Microsoft Copilot subscriptions do
-not provide a general-purpose API for a custom GitHub website. Use Microsoft Copilot or
-ChatGPT separately to analyze the collected headlines, or use a Microsoft 365 Copilot
-scheduled prompt if that feature is included and enabled for your account.
-
-## Browser-only setup
-
-### 1. Create the repository
-
-1. Sign in at GitHub.
-2. Select **New repository**.
-3. Name it `laboratory-news-monitor`.
-4. Choose **Public** if you are using GitHub Free and want GitHub Pages.
-5. Create the repository with no template files.
-
-Do not place confidential information in a public repository.
-
-### 2. Upload this starter folder
-
-1. Open the new repository.
-2. Select **Add file > Upload files**.
-3. Drag the contents of this folder into the upload page.
-4. Confirm that the hidden `.github` folder is included.
-5. Commit directly to the `main` branch.
-
-If your browser does not upload the hidden `.github` folder, create
-`.github/workflows/update-news.yml` using **Add file > Create new file**.
-
-### 3. Run the collector once
-
-1. Open the repository's **Actions** tab.
-2. Select **Update laboratory news**.
-3. Select **Run workflow**.
-4. Wait for the run to finish.
-5. Confirm that `data/news.json` now contains articles.
-
-If Actions are disabled by an organization policy, use a personal GitHub repository or
-ask the GitHub administrator to permit this workflow.
-
-### 4. Publish the dashboard
-
-1. Open **Settings > Pages**.
-2. Under **Build and deployment**, choose **Deploy from a branch**.
-3. Select branch `main` and folder `/ (root)`.
-4. Save.
-5. GitHub displays the public site address after deployment.
-
-### 5. Modify search terms
-
-Open `scripts/fetch_news.py`, select the pencil icon, and edit `TRACKERS`.
-
-The starter intentionally avoids bare `Quest` and bare `ARUP` because those terms
-produce many unrelated stories. Mayo Clinic is included broadly because it was one of
-the requested terms; remove `"Mayo Clinic"` if you only need laboratory-business news.
-
-### 6. Change the refresh frequency
-
-Open `.github/workflows/update-news.yml` and edit:
-
-```yaml
-- cron: "30 */6 * * *"
-```
-
-Examples, all in UTC:
-
-- Daily at 02:30 UTC / 08:00 IST: `30 2 * * *`
-- Twice daily at 02:30 and 14:30 UTC: `30 2,14 * * *`
-
-GitHub may start scheduled workflows a little later than the exact cron time.
-
-## Suggested Microsoft Copilot agent
-
-Create an agent in Microsoft 365 Copilot Agent Builder and add these four public website
-knowledge sources:
-
-1. `https://www.labcorp.com/newsroom`
-2. `https://newsroom.questdiagnostics.com/`
-3. `https://www.aruplab.com/newsroom`
-4. `https://news.mayocliniclabs.com/homepage/news/`
-
-Suggested instructions:
-
-```text
-You are a competitive-intelligence news analyst for the clinical laboratory market.
-
-Track and analyze developments concerning:
 - Labcorp
 - Quest Diagnostics
 - ARUP Laboratories
 - Mayo Clinic Laboratories
+- Sonic Healthcare
 
-When asked for an update:
-1. Search current public web information and the configured official newsrooms.
-2. Use an explicit date range supplied by the user.
-3. Separate genuinely new developments from older background information.
-4. Group duplicate reports about the same event.
-5. Prioritize official releases, regulators, SEC filings, and credible trade publications.
-6. For every development provide company, event date, publication date, category,
-   factual summary, strategic implication, and source link.
-7. Clearly state when no relevant update is found.
-8. Do not infer facts that are not supported by the sources.
-```
+## Current workflow
 
-## Suggested daily Copilot prompt
+The **Update laboratory news** GitHub Action runs every six hours in India Standard Time at approximately:
 
-```text
-Find public news published during the past 24 hours concerning Labcorp, Quest
-Diagnostics, ARUP Laboratories, or Mayo Clinic Laboratories. Group duplicate coverage
-of the same event. For each distinct development, provide the company, event date,
-publication date, category, a two-sentence factual summary, why it matters to the U.S.
-clinical laboratory market, and source links. Put official company announcements first.
-State "No material update found" for any company without a relevant development.
-```
+- 12:17 AM IST
+- 6:17 AM IST
+- 12:17 PM IST
+- 6:17 PM IST
+
+The non-round minute reduces the risk of GitHub Actions congestion at the start of an hour.
+
+Each run:
+
+1. Searches public news feeds for the monitored companies.
+2. Keeps updates in which the monitored company is the subject or an active party.
+3. Cleans company names and titles.
+4. Maps stories into the current category taxonomy.
+5. Merges duplicate or near-duplicate coverage and retains all identified source links.
+6. Removes low-value valuation, stock-movement, and unrelated market commentary.
+7. Stores the resulting distinct events in `data/news.json`.
+8. Rebuilds the files under `knowledge/`.
+9. Normalizes all user-visible timestamps to IST.
+10. Checks the deployed Cloudflare/Gemini AI Worker.
+11. If the Worker is healthy, generates article-content summaries for substantive new events and sends the branded email report through the configured Gmail SMTP account.
+12. If the Worker or email stage is unavailable, the news dataset is still committed and published; affected items remain eligible for a later email retry.
+13. Writes `data/workflow_health.json` with collection and email health details.
+14. Commits updated data back to `main`.
+
+## Duplicate handling
+
+Duplicate coverage is clustered by company, publication timing, category, and normalized title similarity. One distinct event is retained while all identified source URLs are preserved in its `sources` field.
+
+## Categories
+
+- Product & Services
+- Clinical, R&D
+- Partnership, M&A
+- Financials
+- Organizational Updates
+- Leadership Changes
+- Other
+
+## Dashboard publishing
+
+A separate **Publish laboratory monitor** workflow publishes the latest dashboard, news JSON, workflow-health JSON, company logos, category icons, and knowledge files to the `gh-pages` branch whenever relevant files change on `main`.
+
+Public dashboard:
+
+`https://atanubarik.github.io/laboratory-news-monitor/`
+
+The dashboard shows the last update and next scheduled update in IST only.
+
+## AI summarization
+
+The Cloudflare Worker code is stored in `cloudflare-worker.js`. The deployed Worker requires the `GEMINI_API_KEY` secret in Cloudflare.
+
+For email summaries, the Worker first attempts to read the underlying public article page. If that is not usable, Gemini uses URL Context and Google Search to locate and read the exact development. An alert is emailed only when a substantive article-specific summary can be produced; unreadable items are left for a later retry rather than receiving generic filler text.
+
+After changing `cloudflare-worker.js` in GitHub, manually copy the latest file into the `laboratory-news-ai` Cloudflare Worker and deploy it. The GitHub workflow health check detects an outdated Worker and skips the AI/email stage without blocking news collection or dashboard publication.
+
+## Email configuration
+
+The active Gmail SMTP setup uses GitHub repository secrets/variables rather than storing credentials in the repository. Expected settings include:
+
+- `EMAIL_FROM`
+- `EMAIL_TO`
+- `EMAIL_BCC`
+- `SMTP_HOST`
+- `SMTP_PORT`
+- `SMTP_SECURITY`
+- `SMTP_USERNAME`
+- `SMTP_APP_PASSWORD`
+- `EMAIL_SENDER_NAME` as a repository variable
+
+The email report and its next-update time use IST only.
+
+## Manual test
+
+Open **Actions → Update laboratory news → Run workflow**. Enable the test-email input when you want a preview using up to five substantive verified events.
+
+Do not place confidential data, passwords, API keys, or corporate credentials in this public repository.
