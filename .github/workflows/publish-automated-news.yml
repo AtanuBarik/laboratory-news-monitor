@@ -8,12 +8,13 @@ on:
       - index.html
       - data/news.json
       - data/workflow_health.json
+      - data/chatgpt_strategic_synthesis.json
       - knowledge/**
       - assets/email-logos/rendered/**
       - assets/email-icons/rendered/**
       - .github/workflows/publish-automated-news.yml
   workflow_run:
-    workflows: ["Update laboratory news"]
+    workflows: ["Update laboratory news", "Fallback laboratory email"]
     types: [completed]
 
 permissions:
@@ -45,6 +46,7 @@ jobs:
           cp index.html _site/index.html
           cp data/news.json _site/data/news.json
           if [ -f data/workflow_health.json ]; then cp data/workflow_health.json _site/data/workflow_health.json; fi
+          if [ -f data/chatgpt_strategic_synthesis.json ]; then cp data/chatgpt_strategic_synthesis.json _site/data/chatgpt_strategic_synthesis.json; fi
           cp -R assets/email-logos/rendered/. _site/assets/email-logos/rendered/
           cp -R assets/email-icons/rendered/. _site/assets/email-icons/rendered/
           cp -R knowledge/. _site/knowledge/
@@ -60,6 +62,7 @@ jobs:
           print('Repository timestamp:', payload.get('generated_at_display'))
           print('Published company logos:', len(list(Path('_site/assets/email-logos/rendered').glob('*'))))
           print('Published category icons:', len(list(Path('_site/assets/email-icons/rendered').glob('*'))))
+          print('Published ChatGPT synthesis:', Path('_site/data/chatgpt_strategic_synthesis.json').exists())
           PY
 
       - name: Publish files to gh-pages branch
