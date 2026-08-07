@@ -3,16 +3,11 @@ name: Publish laboratory monitor
 on:
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - index.html
       - data/news.json
-      - .pages-trigger
-  workflow_run:
-    workflows:
-      - Update laboratory news
-    types: [completed]
+      - data/workflow_health.json
 
 permissions:
   contents: write
@@ -24,7 +19,6 @@ concurrency:
 
 jobs:
   publish:
-    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     runs-on: ubuntu-latest
     timeout-minutes: 8
     steps:
@@ -34,27 +28,6 @@ jobs:
           ref: main
           fetch-depth: 0
 
-      - name: Clear stale Pages deployment locks
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          set -euo pipefail
-          for deployment in \
-            5d8429811d8511408ec6d27956ccefb7980214c2 \
-            6509dc8f57ce083fa23f656b9e4c9a6e61d2fbcf
-          do
-            code=$(curl --silent --output /tmp/cancel-response.txt --write-out '%{http_code}' \
-              --request POST \
-              --header 'Accept: application/vnd.github+json' \
-              --header "Authorization: Bearer $GH_TOKEN" \
-              --header 'X-GitHub-Api-Version: 2022-11-28' \
-              "https://api.github.com/repos/$GITHUB_REPOSITORY/pages/deployments/$deployment/cancel" || true)
-            echo "Cancel request for $deployment returned HTTP $code"
-            if [ -s /tmp/cancel-response.txt ]; then cat /tmp/cancel-response.txt; fi
-          done
-          sleep 8
-
       - name: Validate and prepare static site
         shell: bash
         run: |
@@ -63,18 +36,17 @@ jobs:
           mkdir -p _site/data
           cp index.html _site/index.html
           cp data/news.json _site/data/news.json
+          if [ -f data/workflow_health.json ]; then cp data/workflow_health.json _site/data/workflow_health.json; fi
           touch _site/.nojekyll
-
           python - <<'PY'
           import json
           from pathlib import Path
-
-          path = Path('_site/data/news.json')
-          payload = json.loads(path.read_text(encoding='utf-8'))
+          payload = json.loads(Path('_site/data/news.json').read_text(encoding='utf-8'))
           items = payload.get('items') or []
           if not isinstance(items, list):
               raise SystemExit('data/news.json has an invalid items field')
           print('Prepared news records:', len(items))
+          print('Repository timestamp:', payload.get('generated_at_display'))
           PY
 
       - name: Publish files to gh-pages branch
@@ -83,24 +55,21 @@ jobs:
           set -euo pipefail
           git config user.name 'laboratory-pages[bot]'
           git config user.email 'laboratory-pages[bot]@users.noreply.github.com'
-
           git fetch origin gh-pages:gh-pages
           rm -rf /tmp/laboratory-pages
           git worktree add /tmp/laboratory-pages gh-pages
-
           find /tmp/laboratory-pages -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
           cp -R "$GITHUB_WORKSPACE/_site/." /tmp/laboratory-pages/
-
           cd /tmp/laboratory-pages
           git add -A
           if git diff --cached --quiet; then
-            git commit --allow-empty -m "Redeploy laboratory monitor from ${GITHUB_SHA::7}"
-          else
-            git commit -m "Publish laboratory monitor from ${GITHUB_SHA::7}"
+            echo 'Published site already matches main.'
+            exit 0
           fi
+          git commit -m "Publish laboratory monitor from ${GITHUB_SHA::7}"
           git push origin gh-pages
 
-      - name: Start one branch-based Pages build
+      - name: Request Pages build
         shell: bash
         env:
           GH_TOKEN: ${{ github.token }}
@@ -113,4 +82,4 @@ jobs:
             --header 'X-GitHub-Api-Version: 2022-11-28' \
             "https://api.github.com/repos/$GITHUB_REPOSITORY/pages/builds"
           echo
-          echo 'Requested one Pages build from the updated gh-pages branch.'
+          echo 'Requested one Pages build from gh-pages.'
