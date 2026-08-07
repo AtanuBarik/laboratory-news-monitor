@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 07 Aug 2026, 11:15 AM IST
+- **Repository generated:** 07 Aug 2026, 1:08 PM IST
 - **Distinct events in this file:** 49
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -204,12 +204,13 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDlCcUk1Y0ZRdWdGNUYtTldfVFFkQ0VjV1kyejZ3VDd2dkdreU96Y1lWUnlnRThfWXIwVXd4RFFpTjE3UzhGMTZWc2plMWdCMG9zQjBScnBSSWU2TlB5b2c4b0JhQVNnRV9iUFlYTlo1Qy1aUFhJSmtZMkRYaG9uWFhoUDRWSTJGNllQTHA5NGxsNm1uQWVrTFk3bk91MDVZb2tzYVdkdXRCMmMzQ1lRcUtNRUMxTFNVaWJLUw?oc=5
 
 **Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com
 
@@ -391,7 +392,7 @@
 
 **Feed description:** LH Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase stockstory.org
 
-## 31. Labcorp (LH.MX) Q2 FY2026 earnings call transcript
+## 31. Labcorp.MX) Q2 FY2026 earnings call transcript
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -408,19 +409,7 @@
 
 **Feed description:** LABCORP HOLDINGS INC (LH.MX) Q2 FY2026 earnings call transcript Yahoo Finance
 
-## 32. Labcorp earnings ahead: Can specialty tests sustain momentum?
-
-- **Company:** Labcorp
-- **Publication date:** 29 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5
-
-**Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
-
-## 33. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
+## 32. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -431,6 +420,18 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5
 
 **Feed description:** Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates finance.yahoo.com
+
+## 33. Labcorp earnings ahead: Can specialty tests sustain momentum?
+
+- **Company:** Labcorp
+- **Publication date:** 29 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5
+
+**Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
 
 ## 34. Labcorp expands hereditary risk testing access with genetic health panel
 
