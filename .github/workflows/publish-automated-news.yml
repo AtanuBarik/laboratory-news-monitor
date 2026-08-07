@@ -8,6 +8,9 @@ on:
       - index.html
       - data/news.json
       - data/workflow_health.json
+      - knowledge/**
+      - assets/email-logos/rendered/**
+      - assets/email-icons/rendered/**
 
 permissions:
   contents: write
@@ -33,10 +36,13 @@ jobs:
         run: |
           set -euo pipefail
           rm -rf _site
-          mkdir -p _site/data
+          mkdir -p _site/data _site/assets/email-logos/rendered _site/assets/email-icons/rendered _site/knowledge
           cp index.html _site/index.html
           cp data/news.json _site/data/news.json
           if [ -f data/workflow_health.json ]; then cp data/workflow_health.json _site/data/workflow_health.json; fi
+          cp -R assets/email-logos/rendered/. _site/assets/email-logos/rendered/
+          cp -R assets/email-icons/rendered/. _site/assets/email-icons/rendered/
+          cp -R knowledge/. _site/knowledge/
           touch _site/.nojekyll
           python - <<'PY'
           import json
@@ -47,6 +53,8 @@ jobs:
               raise SystemExit('data/news.json has an invalid items field')
           print('Prepared news records:', len(items))
           print('Repository timestamp:', payload.get('generated_at_display'))
+          print('Published company logos:', len(list(Path('_site/assets/email-logos/rendered').glob('*'))))
+          print('Published category icons:', len(list(Path('_site/assets/email-icons/rendered').glob('*'))))
           PY
 
       - name: Publish files to gh-pages branch
