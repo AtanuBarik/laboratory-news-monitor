@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
-"""Prepare a compact queue of substantive news items for ChatGPT Scheduled Tasks."""
+"""Prepare a compact, quality-ranked queue for ChatGPT Scheduled Tasks."""
 
 from __future__ import annotations
 
 import json
 from pathlib import Path
 
+import email_dispatch
 from time_utils import format_datetime_ist, now_ist
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -14,6 +15,32 @@ SUMMARIES = ROOT / "data/chatgpt_summaries.json"
 STATE = ROOT / "data/notified_ids.json"
 QUEUE = ROOT / "data/chatgpt_queue.json"
 MAX_QUEUE_ITEMS = 30
+
+CATEGORY_SCORE = {
+    "Partnership, M&A": 12,
+    "Product & Services": 11,
+    "Clinical, R&D": 11,
+    "Financials": 10,
+    "Leadership Changes": 9,
+    "Organizational Updates": 9,
+    "Other": 2,
+}
+
+EXTRA_LOW_VALUE_PATTERNS = (
+    "stock analysis",
+    "risk assessment",
+    "investor sentiment",
+    "financial health",
+    "growth potential",
+    "bull case",
+    "bear case",
+    "looks cheap",
+    "looks expensive",
+    "fair value",
+    "valuation",
+    "shares are",
+    "stock looks",
+)
 
 
 def load(path: Path, default):
@@ -31,6 +58,23 @@ def save(path: Path, payload) -> None:
 def summary_ids(payload) -> set[str]:
     entries = payload.get("summaries") if isinstance(payload, dict) else {}
     return set(entries or {}) if isinstance(entries, dict) else set()
+
+
+def low_value(item: dict) -> bool:
+    if email_dispatch.is_low_value(item):
+        return True
+    title = str(item.get("title") or "").lower()
+    return any(pattern in title for pattern in EXTRA_LOW_VALUE_PATTERNS)
+
+
+def quality_score(item: dict, notified: set[str]) -> tuple[int, int, int, str]:
+    identifier = str(item.get("id") or "")
+    return (
+        1 if identifier not in notified else 0,
+        1 if item.get("official_source") else 0,
+        CATEGORY_SCORE.get(str(item.get("category") or "Other"), 0),
+        str(item.get("published_at") or ""),
+    )
 
 
 def compact_item(item: dict) -> dict:
@@ -70,29 +114,33 @@ def main() -> int:
     done = summary_ids(summaries)
     notified = set(state.get("notified_ids") or [])
 
-    missing = [item for item in repository.get("items") or [] if str(item.get("id") or "") and str(item.get("id")) not in done]
-    missing.sort(
-        key=lambda item: (
-            str(item.get("id") or "") not in notified,
-            bool(item.get("official_source")),
-            str(item.get("published_at") or ""),
-        ),
-        reverse=True,
-    )
+    missing = [
+        item for item in repository.get("items") or []
+        if str(item.get("id") or "")
+        and str(item.get("id")) not in done
+        and not low_value(item)
+    ]
+    missing.sort(key=lambda item: quality_score(item, notified), reverse=True)
     queued = [compact_item(item) for item in missing[:MAX_QUEUE_ITEMS]]
     now = now_ist()
     payload = {
         "generated_at": now.isoformat(),
         "generated_at_display": format_datetime_ist(now),
         "provider": "ChatGPT Scheduled Task",
-        "instructions_version": "2026-08-07.1",
+        "instructions_version": "2026-08-07.2",
         "queue_limit": MAX_QUEUE_ITEMS,
         "item_count": len(queued),
         "remaining_unsummarized_count": len(missing),
+        "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
         "items": queued,
     }
     save(QUEUE, payload)
-    print(f"Prepared {len(queued)} item(s) for ChatGPT; {len(missing)} total substantive item(s) still lack ChatGPT summaries.")
+    unnotified_count = sum(1 for item in queued if str(item.get("id") or "") not in notified)
+    print(
+        f"Prepared {len(queued)} substantive item(s) for ChatGPT; "
+        f"{unnotified_count} queued item(s) are not yet notified; "
+        f"{len(missing)} total substantive item(s) still lack ChatGPT summaries."
+    )
     return 0
 
 
