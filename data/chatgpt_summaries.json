@@ -1,6 +1,94 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": null,
-  "updated_at_display": null,
-  "summaries": {}
+  "updated_at": "2026-08-07T18:42:00+05:30",
+  "updated_at_display": "07 Aug 2026, 6:42 PM IST",
+  "summaries": {
+    "0dfae174bbd8d4047658": {
+      "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp.\n\nEligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Labcorp Paying Out $35M in Settlement: Who’s Eligible",
+      "company": "Labcorp",
+      "category": "Other",
+      "sources_used": [
+        "https://www.amcadatabreachsettlement.com/",
+        "https://www.classaction.org/news/35m-labcorp-settlement-reached-in-lawsuit-over-american-medical-collection-agency-data-breach"
+      ],
+      "verification": "verified"
+    },
+    "0cc7c51d9ffdbdb20f46": {
+      "summary": "Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services.\n\nFollowing the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion.\n\nLabcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": [
+        "https://finance.yahoo.com/healthcare/articles/labcorp-announces-2026-second-quarter-105000030.html"
+      ],
+      "verification": "verified"
+    },
+    "5e73ffc6e4adedffa411": {
+      "summary": "Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura.\n\nThe consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing.\n\nThe strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Consumer testing is growing in the US: Quest Diagnostics CEO",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": [
+        "https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ],
+      "verification": "verified"
+    },
+    "056ae46b5c843cbf762a": {
+      "summary": "A multicenter U.S. clinical study examined the overlap between vaginitis diagnoses and sexually transmitted infections in 1,051 women evaluated for bacterial vaginosis (BV) and/or symptomatic vulvovaginal candidiasis. Nucleic-acid amplification testing identified at least one STI in 195 women, or 18.5% of the study population. Trichomonas vaginalis was detected in 9.6%, Mycoplasma genitalium in 8.8%, Chlamydia trachomatis in 2.3% and Neisseria gonorrhoeae in 0.8%.\n\nThe strongest finding was the association between BV and STI prevalence. Among women who were BV-positive, 26.3% (136 of 518) had an STI, compared with 12.5% (59 of 474) among BV-negative women, a statistically significant difference (P<0.0002). Solo Mycoplasma genitalium infection was associated with BV-positive/VVC-negative status with an odds ratio of 3.08, while solo Trichomonas vaginalis infection had an odds ratio of 2.87. Mixed infections involving those organisms were also significantly associated with BV.\n\nQuest Diagnostics highlighted these findings in provider education to emphasize that vaginitis symptoms can mask clinically important coinfections. The results support targeted molecular testing that distinguishes causes of vaginitis while also identifying common STIs, helping clinicians avoid treating symptoms empirically without recognizing concurrent infections that may require different therapy and follow-up.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "sources_used": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11389145/",
+        "https://www.questdiagnostics.com/healthcare-professionals/provider-insights/articles/clarifying-the-complexity-of-bacterial-vaginosis-using-targeted-testing-to-identify-causes-and-std-coinfections"
+      ],
+      "verification": "verified"
+    },
+    "5b6d468d0e140886936e": {
+      "summary": "Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%.\n\nManagement increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million.\n\nQuest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": [
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ],
+      "verification": "verified"
+    },
+    "16ce0d23523ebb187a5a": {
+      "summary": "TradingKey’s financial profile of Quest Diagnostics presents the company as having relatively healthy fundamentals, using FY2025 reported data as the basis for its financial-health assessment. The page lists FY2025 revenue of $11.04 billion, up 11.78% year over year, and EPS of $8.90, up 14.09%. Operating profit was $1.66 billion, representing 17.47% year-over-year growth. The reported net-profit margin was 9.48%, gross margin 31.93%, return on equity 14.17% and return on assets 6.46%.\n\nThe balance-sheet data show total assets of $16.23 billion against total liabilities of $9.02 billion and total equity of $7.21 billion. Current assets were $2.38 billion, and TradingKey reported a debt-to-assets ratio of 36.20%. The site also lists FY2025 net investing cash flow of negative $631 million and net financing cash flow of negative $1.39 billion.\n\nTradingKey’s broader stock-analysis framework combines these financial indicators with valuation, earnings forecasts, price momentum, institutional ownership and risk measures. Its assessment should therefore be read as an investment-analysis snapshot rather than a new operating announcement from Quest. The underlying FY2025 figures nevertheless show a business that entered 2026 with double-digit annual revenue and EPS growth, positive operating profitability and a balance sheet in which equity represented roughly 44% of reported assets.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Quest Diagnostics Financial Health: Profitability & Balance Sheet Analysis",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": [
+        "https://www.tradingkey.com/markets/stocks/nasdaq-dgx/financials"
+      ],
+      "verification": "verified"
+    },
+    "b262b32bbe1580e79152": {
+      "summary": "TradingKey’s risk-assessment page characterizes Quest Diagnostics shares as comparatively defensive within its Healthcare Providers & Services peer group. As of its June 18, 2026 update, TradingKey assigned Quest a risk score of 9.69, ranking it first among 76 companies in the industry on the site’s methodology. The stock’s beta versus the S&P 500 was 0.59, indicating lower historical sensitivity to broad-market moves than a beta of 1.0.\n\nThe page reported a 240-day maximum drawdown of 11.94% and 240-day realized volatility of 24.08%, compared with five-year realized volatility of 23.56%. Five-year maximum drawdown was 30.28%. Over the periods shown, the best daily return was 4.45% for the prior 60 days and 7.37% for 120 days, while the worst daily return was negative 3.19% over both the 60- and 120-day windows. The 120-day Sharpe ratio was 1.05, versus 0.05 over 60 days and 0.39 over five years.\n\nTradingKey also reported average turnover rates of 0.80% over 60 days and 0.84% over 120 days. These metrics describe market-price behavior and liquidity rather than Quest’s clinical or operating risk. The page’s conclusion is essentially that Quest’s shares exhibited relatively moderate volatility and drawdown characteristics versus healthcare-provider peers at the time of measurement.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-07T18:42:00+05:30",
+      "title": "Quest Diagnostics Risk Assessment: Volatility, Financial Risk & Investment Risk",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": [
+        "https://www.tradingkey.com/markets/stocks/nasdaq-dgx/risk-assesment"
+      ],
+      "verification": "verified"
+    }
+  }
 }
