@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 07 Aug 2026, 6:25 PM IST
+- **Repository generated:** 07 Aug 2026, 6:46 PM IST
 - **Distinct events in this file:** 64
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -28,7 +28,7 @@
 - **Sources:**
   - Fox Business: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5
 
-**Feed description:** Consumer testing is growing in the US: Quest Diagnostics CEO Fox Business
+**Feed description:** Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.
 
 ## 3. Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds
 
@@ -40,7 +40,7 @@
 - **Sources:**
   - Clinical Lab Products: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLUJCa1dSak0tMzhnRUg3UDVCOFhCSi1ackI0SlYwdk1uUloxNUNOUDN2QVM5NU9qbGZUSnVSaml0clF6cUNUVzBtcFdBcFIxdWtNeU9aU0QtZUNnRDFZSG9MbloxTHU4cW5ZMDMxcWNEMHVnQ185UlVUczlkRzIzM2lkaV9tbGtHcnR4a1EzckdYZ3g0OWZhOGh6S0Z0b2RobEVnMkpNUmkwVVVNcDJCYXhzOWlaTFRXVXd0bktwTl80VlU?oc=5
 
-**Feed description:** Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds Clinical Lab Products
+**Feed description:** A multicenter U.S. clinical study examined the overlap between vaginitis diagnoses and sexually transmitted infections in 1,051 women evaluated for bacterial vaginosis (BV) and/or symptomatic vulvovaginal candidiasis. Nucleic-acid amplification testing identified at least one STI in 195 women, or 18.5% of the study population. Trichomonas vaginalis was detected in 9.6%, Mycoplasma genitalium in 8.8%, Chlamydia trachomatis in 2.3% and Neisseria gonorrhoeae in 0.8%. The strongest finding was the association between BV and STI prevalence. Among women who were BV-positive, 26.3% (136 of 518) had an STI, compared with 12.5% (59 of 474) among BV-negative women, a statistically significant difference (P<0.0002). Solo Mycoplasma genitalium infection was associated with BV-positive/VVC-negative status with an odds ratio of 3.08, while solo Trichomonas vaginalis infection had an odds ratio of 2.87. Mixed infections involving those organisms were also significantly associated with BV. Quest Diagnostics highlighted these findings in provider education to emphasize that vaginitis symptoms can mask clinically important coinfections. The results support targeted molecular testing that distinguishes causes of vaginitis while also identifying common STIs, helping clinicians avoid treating symptoms empirically without recognizing concurrent infections that may require different therapy and follow-up.
 
 ## 4. Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates
 
@@ -53,7 +53,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1lDU1pKQkRNNU9VbkRMZmR6TktFTzNwd0xENnFxQ0ZqMHlRNlZtRmRTVnd3bzE3S2JzbHBhUDlJVmRFRk9JZWdNZ2RXNUNSMHRHTkpQd3o1REdmbG5kMVIwRmI0Qk9lZzN0YVI1MUpweUJRVlJOaFhHNXhKVlpNTWwzRGY4ckRGcGRISXNZdmpoQWFEVGhOYTh6NXpMNjg?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTTFvT18zWDU2Y1V0cjdWa3k1aTZCbHRXYzR1LVNZVGE4dFlEeWxBdmdhMXZKTGVyeGVrcDV1Mk1WaU5xY0ZmOXh0cTBaU3IwUDlzUkxIcTdhc2JRTGJxbV82LTNYM2VFZWlRc1llSF8tZUZRUlB0V3hMNDYteDdZMnlUZ3J0bnp2dTVZV0Z0YVhGMHR1bFZxOXN2eEZDdUZuVGhFdmViTmdLX3lla1YzTjUwdkI1cE9sNU8zX2J0MkhWT21kT3UxNU9lMUNFQ2UxVHVwcWxSOVlQblpIUXhsbVRGZ1BnUGct?oc=5
 
-**Feed description:** Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates The Globe and Mail
+**Feed description:** Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.
 
 ## 5. Quest Diagnostics Stock Analysis: Exploring Growth Potential And Investor Sentiment
 
@@ -77,7 +77,7 @@
 - **Sources:**
   - TradingKey: https://news.google.com/rss/articles/CBMib0FVX3lxTE1Bd3lENm82cWd4NHVnb0Q2ZmVGTWg5a3llc0lPLVNueXdPUUpmTC02QURRbERrUXlEQlNWUWhFMU43Y0FmZUwxbWJhTUo1aVhmLWUyaUZLV0lreU51MFlDZHlGYm9xZkpBXzZjNjZBWQ?oc=5
 
-**Feed description:** Quest Diagnostics Inc (DGX) Financial Health: Profitability & Balance Sheet Analysis tradingkey.com
+**Feed description:** TradingKey’s financial profile of Quest Diagnostics presents the company as having relatively healthy fundamentals, using FY2025 reported data as the basis for its financial-health assessment. The page lists FY2025 revenue of $11.04 billion, up 11.78% year over year, and EPS of $8.90, up 14.09%. Operating profit was $1.66 billion, representing 17.47% year-over-year growth. The reported net-profit margin was 9.48%, gross margin 31.93%, return on equity 14.17% and return on assets 6.46%. The balance-sheet data show total assets of $16.23 billion against total liabilities of $9.02 billion and total equity of $7.21 billion. Current assets were $2.38 billion, and TradingKey reported a debt-to-assets ratio of 36.20%. The site also lists FY2025 net investing cash flow of negative $631 million and net financing cash flow of negative $1.39 billion. TradingKey’s broader stock-analysis framework combines these financial indicators with valuation, earnings forecasts, price momentum, institutional ownership and risk measures. Its assessment should therefore be read as an investment-analysis snapshot rather than a new operating announcement from Quest. The underlying FY2025 figures nevertheless show a business that entered 2026 with double-digit annual revenue and EPS growth, positive operating profitability and a balance sheet in which equity represented roughly 44% of reported assets.
 
 ## 7. Quest Diagnostics Risk Assessment: Volatility, Financial Risk & Investment Risk
 
@@ -89,7 +89,7 @@
 - **Sources:**
   - TradingKey: https://news.google.com/rss/articles/CBMibEFVX3lxTE05RjJzWHZPZlY5TkE1cjZMRWR5dVZpTUFQQTFsLUVKWDUzMUZCMnNYVDJzYm50eFpMNW90Rk1xX0VSc1JlUmJPX253WnpsdW1IOENqdDAtU2xNLUl2aUJvYUZZbE1iLW5VSFdCTw?oc=5
 
-**Feed description:** Quest Diagnostics Inc (DGX) Risk Assessment: Volatility, Financial Risk & Investment Risk tradingkey.com
+**Feed description:** TradingKey’s risk-assessment page characterizes Quest Diagnostics shares as comparatively defensive within its Healthcare Providers & Services peer group. As of its June 18, 2026 update, TradingKey assigned Quest a risk score of 9.69, ranking it first among 76 companies in the industry on the site’s methodology. The stock’s beta versus the S&P 500 was 0.59, indicating lower historical sensitivity to broad-market moves than a beta of 1.0. The page reported a 240-day maximum drawdown of 11.94% and 240-day realized volatility of 24.08%, compared with five-year realized volatility of 23.56%. Five-year maximum drawdown was 30.28%. Over the periods shown, the best daily return was 4.45% for the prior 60 days and 7.37% for 120 days, while the worst daily return was negative 3.19% over both the 60- and 120-day windows. The 120-day Sharpe ratio was 1.05, versus 0.05 over 60 days and 0.39 over five years. TradingKey also reported average turnover rates of 0.80% over 60 days and 0.84% over 120 days. These metrics describe market-price behavior and liquidity rather than Quest’s clinical or operating risk. The page’s conclusion is essentially that Quest’s shares exhibited relatively moderate volatility and drawdown characteristics versus healthcare-provider peers at the time of measurement.
 
 ## 8. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026
 
