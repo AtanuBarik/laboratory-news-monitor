@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-07T19:34:35.489524+05:30",
-  "generated_at_display": "07 Aug 2026, 7:34 PM IST",
-  "item_count": 77,
-  "raw_relevant_item_count": 298,
-  "duplicates_merged": 130,
+  "generated_at": "2026-08-07T21:09:38.814584+05:30",
+  "generated_at_display": "07 Aug 2026, 9:09 PM IST",
+  "item_count": 79,
+  "raw_relevant_item_count": 258,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "0aedc8ea57534ac746c1",
+      "company": "Labcorp",
+      "title": "Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
+      "description": "LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-08-05T20:26:35+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-08-05T20:26:35+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 73b eps revenue summary"
+    },
     {
       "id": "0dfae174bbd8d4047658",
       "company": "Labcorp",
@@ -1401,6 +1425,30 @@
       "event_signature": "score shares surge what"
     },
     {
+      "id": "28d2507af43335dab03e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
+      "description": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-23T20:21:01+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-07-23T20:21:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "04b 2026 eps revenue summary"
+    },
+    {
       "id": "875e7a220e672b4492ec",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com",
@@ -2418,8 +2466,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 56,
-  "post_prune_financial_duplicates_merged": 35,
+  "low_value_items_removed": 59,
+  "post_prune_financial_duplicates_merged": 24,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-08T00:17:00+05:30",
   "next_update_display": "08 Aug 2026, 12:17 AM IST",
