@@ -8,14 +8,12 @@ on:
         required: false
         type: boolean
         default: false
-
   repository_dispatch:
-    types:
-      - refresh_news
-
+    types: [refresh_news]
   schedule:
-    # Every six hours at minute 30. GitHub Actions cron uses UTC.
-    - cron: "30 */6 * * *"
+    # Every six hours in India Standard Time, away from the top-of-hour load peak.
+    - cron: "17 0,6,12,18 * * *"
+      timezone: "Asia/Kolkata"
 
 permissions:
   contents: write
@@ -27,7 +25,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 40
 
     steps:
       - name: Check out repository
@@ -46,10 +44,7 @@ jobs:
           set -euo pipefail
           python - <<'PY'
           from __future__ import annotations
-
-          import base64
-          import binascii
-          import re
+          import base64, binascii, re
           from pathlib import Path
 
           jobs = [
@@ -57,178 +52,188 @@ jobs:
               (Path("assets/email-icons"), "*.png.b64", Path("assets/email-icons/rendered"), b"\x89PNG\r\n\x1a\n", "PNG"),
           ]
 
-          def decode_file(
-              encoded_path: Path,
-              output_dir: Path,
-              signature: bytes,
-              kind: str,
-          ) -> bool:
+          def decode_file(encoded_path, output_dir, signature, kind):
               try:
                   raw = encoded_path.read_text(encoding="utf-8-sig").strip()
                   if raw.lower().startswith("data:") and "," in raw:
                       raw = raw.split(",", 1)[1]
-
                   cleaned = re.sub(r"[^A-Za-z0-9+/=]", "", raw).rstrip("=")
                   if len(cleaned) % 4 == 1:
-                      raise ValueError(
-                          f"invalid character count {len(cleaned)}; Base64 length cannot be 1 modulo 4"
-                      )
+                      raise ValueError(f"invalid character count {len(cleaned)}")
                   cleaned += "=" * (-len(cleaned) % 4)
-                  image_bytes = base64.b64decode(cleaned, validate=True)
-
-                  if len(image_bytes) < 100 or not image_bytes.startswith(signature):
-                      raise ValueError(
-                          f"decoded output is not a valid {kind} ({len(image_bytes)} bytes)"
-                      )
-
+                  image = base64.b64decode(cleaned, validate=True)
+                  if len(image) < 100 or not image.startswith(signature):
+                      raise ValueError(f"decoded output is not a valid {kind}")
                   output_dir.mkdir(parents=True, exist_ok=True)
                   output_path = output_dir / encoded_path.name.removesuffix(".b64")
-                  output_path.write_bytes(image_bytes)
-                  print(
-                      f"Decoded {encoded_path.name} -> {output_path} "
-                      f"({len(image_bytes):,} bytes)"
-                  )
+                  output_path.write_bytes(image)
+                  print(f"Decoded {encoded_path.name} -> {output_path} ({len(image):,} bytes)")
                   return True
               except (OSError, binascii.Error, ValueError) as exc:
                   print(f"::warning file={encoded_path}::Skipped invalid {kind} image: {exc}")
                   return False
 
-          total_decoded = 0
-          total_skipped = 0
-
+          decoded = skipped = 0
           for source_dir, pattern, output_dir, signature, kind in jobs:
-              encoded_files = sorted(source_dir.glob(pattern))
-              if not encoded_files:
+              files = sorted(source_dir.glob(pattern))
+              if not files:
                   raise SystemExit(f"No {kind} source files found in {source_dir}.")
-
               kind_decoded = 0
-              for encoded_path in encoded_files:
-                  if decode_file(encoded_path, output_dir, signature, kind):
-                      kind_decoded += 1
-                      total_decoded += 1
+              for path in files:
+                  if decode_file(path, output_dir, signature, kind):
+                      decoded += 1; kind_decoded += 1
                   else:
-                      total_skipped += 1
-
+                      skipped += 1
               if kind_decoded == 0:
-                  raise SystemExit(
-                      f"None of the {kind} source files in {source_dir} could be decoded."
-                  )
-
-          print(
-              f"Image build complete: {total_decoded} decoded, "
-              f"{total_skipped} skipped."
-          )
+                  raise SystemExit(f"None of the {kind} files could be decoded.")
+          print(f"Image build complete: {decoded} decoded, {skipped} skipped.")
           PY
 
-          ls -lh assets/email-logos/rendered
-          ls -lh assets/email-icons/rendered
-
-      - name: Fetch news and build knowledge files
+      - name: Fetch, classify, and de-duplicate news
         run: python scripts/fetch_news.py
 
       - name: Remove low-value market commentary
         run: PYTHONPATH=scripts python scripts/prune_news.py
 
+      - name: Normalize all displayed times to IST
+        run: PYTHONPATH=scripts python scripts/normalize_timestamps.py
+
       - name: Verify deployed AI Worker
+        id: ai_worker
         env:
           AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
         run: |
           python - <<'PY'
-          import json
-          import os
-          import urllib.request
-
+          import json, os, urllib.request
+          output = os.environ["GITHUB_OUTPUT"]
           url = os.environ["AI_WORKER_URL"].strip()
+          ready = False
+          reason = ""
           try:
-              request = urllib.request.Request(
-                  url,
-                  headers={"Accept": "application/json", "User-Agent": "QuestWorkflowHealthCheck/2.0"},
-              )
-              with urllib.request.urlopen(request, timeout=30) as response:
+              req = urllib.request.Request(url, headers={"Accept":"application/json","User-Agent":"QuestWorkflowHealthCheck/3.0"})
+              with urllib.request.urlopen(req, timeout=30) as response:
                   payload = json.loads(response.read().decode("utf-8"))
+              required = {
+                  "email_article_summary",
+                  "direct_publisher_page_read",
+                  "generate_content_search_fallback",
+                  "model_and_tool_fallbacks",
+              }
+              missing = sorted(required - set(payload.get("capabilities") or []))
+              ready = not missing and bool(payload.get("gemini_configured"))
+              if missing:
+                  reason = "missing capabilities: " + ", ".join(missing)
+              elif not payload.get("gemini_configured"):
+                  reason = "GEMINI_API_KEY is not configured in Cloudflare"
+              else:
+                  print("AI Worker is ready.")
+                  print("Worker version:", payload.get("worker_version"))
+                  print("Preferred model:", payload.get("preferred_model"))
+                  print("Summary pipeline:", " -> ".join(payload.get("summary_pipeline") or []))
           except Exception as exc:
-              raise SystemExit(f"AI Worker health check failed for {url}: {exc}") from exc
-
-          capabilities = set(payload.get("capabilities") or [])
-          required = {
-              "email_article_summary",
-              "model_and_tool_fallbacks",
-              "direct_publisher_page_read",
-              "interactions_api",
-          }
-          missing = sorted(required - capabilities)
-          if missing:
-              raise SystemExit(
-                  "The deployed Cloudflare Worker is older than the GitHub code. "
-                  "Copy the latest cloudflare-worker.js into Cloudflare, deploy it, "
-                  f"and run this workflow again. Missing capabilities: {', '.join(missing)}"
-              )
-
-          print("AI Worker is ready.")
-          print("Preferred model:", payload.get("preferred_model"))
-          print("Model candidates:", ", ".join(payload.get("model_candidates") or []))
-          print("Summary pipeline:", " -> ".join(payload.get("summary_pipeline") or []))
+              reason = str(exc)
+          if not ready:
+              print(f"::warning::AI/email stage unavailable: {reason}. News storage and dashboard publishing will continue.")
+          with open(output, "a", encoding="utf-8") as handle:
+              handle.write(f"ready={'true' if ready else 'false'}\n")
+              handle.write("reason=" + reason.replace("\n", " ")[:500] + "\n")
           PY
 
       - name: Email newly identified items
+        if: steps.ai_worker.outputs.ready == 'true'
+        continue-on-error: true
         env:
-          EMAIL_PROVIDER: ${{ vars.EMAIL_PROVIDER || 'auto' }}
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           EMAIL_BCC: ${{ secrets.EMAIL_BCC }}
           EMAIL_SENDER_NAME: ${{ vars.EMAIL_SENDER_NAME || 'Quest Updates' }}
           AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
-          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_SECURITY: ${{ secrets.SMTP_SECURITY }}
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
           SEND_TEST_EMAIL: ${{ github.event_name == 'workflow_dispatch' && inputs.send_test_email || false }}
-        run: |
-          PYTHONPATH=scripts python scripts/email_dispatch.py
+        run: PYTHONPATH=scripts python scripts/email_dispatch.py
 
-      - name: Commit updated data, hosted images, and notification state
+      - name: Record AI Worker outage without blocking news publication
+        if: steps.ai_worker.outputs.ready != 'true'
+        env:
+          AI_REASON: ${{ steps.ai_worker.outputs.reason }}
+        run: |
+          PYTHONPATH=scripts python - <<'PY'
+          import json, os
+          from pathlib import Path
+          from time_utils import format_datetime_ist, now_ist
+          now = now_ist()
+          Path("data/email_status.json").write_text(json.dumps({
+              "checked_at": now.isoformat(),
+              "checked_at_display": format_datetime_ist(now),
+              "status": "ai_worker_unavailable",
+              "error": os.environ.get("AI_REASON", "AI Worker unavailable"),
+              "display_timezone": "IST",
+          }, indent=2), encoding="utf-8")
+          PY
+
+      - name: Write workflow health snapshot
+        if: always()
+        run: |
+          PYTHONPATH=scripts python - <<'PY'
+          import json
+          from pathlib import Path
+          from time_utils import format_datetime_ist, next_scheduled_ist, now_ist
+
+          def read(path, default):
+              try: return json.loads(Path(path).read_text(encoding="utf-8"))
+              except Exception: return default
+
+          news = read("data/news.json", {})
+          email = read("data/email_status.json", {})
+          now = now_ist()
+          next_update = next_scheduled_ist(now)
+          health = {
+              "last_run_at": now.isoformat(),
+              "last_run_display": format_datetime_ist(now),
+              "next_update_at": next_update.isoformat(),
+              "next_update_display": format_datetime_ist(next_update),
+              "display_timezone": "IST",
+              "news_item_count": news.get("item_count"),
+              "raw_relevant_item_count": news.get("raw_relevant_item_count"),
+              "duplicates_merged": news.get("duplicates_merged"),
+              "fetch_failures": news.get("failures") or [],
+              "email_status": email.get("status", "not_run"),
+              "last_email_check": email.get("checked_at_display"),
+          }
+          Path("data/workflow_health.json").write_text(json.dumps(health, indent=2, ensure_ascii=False), encoding="utf-8")
+          print(json.dumps(health, indent=2, ensure_ascii=False))
+          PY
+
+      - name: Commit updated data and state
+        if: always()
         shell: bash
         run: |
           set -euo pipefail
-
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add \
-            data/news.json \
-            data/notified_ids.json \
-            data/email_status.json \
-            knowledge \
-            assets/email-logos/rendered \
-            assets/email-icons/rendered
-
+          git add data/news.json data/notified_ids.json data/email_status.json data/workflow_health.json knowledge assets/email-logos/rendered assets/email-icons/rendered
           if git diff --cached --quiet; then
             echo "No repository changes to commit."
             exit 0
           fi
-
           git commit -m "Update laboratory news and email state"
-
           for attempt in 1 2 3; do
             echo "Push attempt ${attempt} of 3"
             git fetch origin main
-
             if ! git rebase origin/main; then
               git rebase --abort || true
-              echo "The generated files conflicted with newer changes on main. Start a new workflow run."
+              echo "Generated files conflicted with a newer main commit."
               exit 1
             fi
-
             if git push origin HEAD:main; then
               echo "Repository update pushed successfully."
               exit 0
             fi
-
-            echo "Main changed again before the push. Retrying..."
             sleep $((attempt * 2))
           done
-
           echo "Unable to push after three attempts."
           exit 1
