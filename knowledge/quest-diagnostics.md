@@ -1,7 +1,7 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 07 Aug 2026, 6:24 PM IST
-- **Distinct events in this file:** 63
+- **Repository generated:** 07 Aug 2026, 6:25 PM IST
+- **Distinct events in this file:** 64
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -706,7 +706,19 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch
 
-## 58. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
+## 58. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 16 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - dars.gov.et: https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1I4U1ZKdHNpOFdPTVlzU1Qta3JGOWZ1N1RkbW94UUdsNkhFV2V5NVFUWkZoUXAxMHlsU2Q5N2gtbkZCZVVEeDcyaVU4OEFobUNEOGVyclFoVG16RTlzUm9jR3YxU1RvRHVaRjlCZDVicFBMZFlJWHhiRWhmZXEwTHBzYWJzSzZsRDdfRXRvRFVkUUFrSHJab18zX0Vpc0I5d05FUkEzNWp0WlN4V0hnazRteXplQmRVaS1yOXBR?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et
+
+## 59. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -718,7 +730,7 @@
 
 **Feed description:** Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus finance.yahoo.com
 
-## 59. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
+## 60. Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -730,7 +742,7 @@
 
 **Feed description:** Quest Diagnostics Q1 2026 Earnings: EPS Surpasses Estimates as Diagnostics Demand Remains Steady - Earnings Cycle Report dars.gov.et
 
-## 60. List of Investments by Quest Diagnostics (Jul, 2026)
+## 61. List of Investments by Quest Diagnostics (Jul, 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -742,7 +754,7 @@
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
 
-## 61. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
+## 62. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -754,7 +766,7 @@
 
 **Feed description:** Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products
 
-## 62. Quest Diagnostics integrates cancer testing int...
+## 63. Quest Diagnostics integrates cancer testing int...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -766,7 +778,7 @@
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
 
-## 63. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
+## 64. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Jul 2026
