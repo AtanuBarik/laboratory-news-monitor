@@ -1,112 +1,236 @@
 {
-  "generated_at": "2026-08-07T18:48:08.799167+05:30",
-  "generated_at_display": "07 Aug 2026, 6:48 PM IST",
+  "generated_at": "2026-08-07T19:34:15.080798+05:30",
+  "generated_at_display": "07 Aug 2026, 7:34 PM IST",
   "provider": "ChatGPT Scheduled Task",
-  "instructions_version": "2026-08-07.1",
+  "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 110,
+  "remaining_unsummarized_count": 106,
+  "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
-      "id": "c39aae8638adf66e38ac",
-      "company": "Sonic Healthcare",
-      "category": "Other",
-      "title": "Sonic Healthcare draws attention on diagnostics activity",
-      "source": "Kalkine Media",
-      "description": "Sonic Healthcare draws attention on diagnostics activity Kalkine Media",
-      "published_at": "2026-08-04T13:04:00+00:00",
-      "published_display": "04 Aug 2026",
+      "id": "2238325c47bcfcea8d12",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2",
+      "source": "The Business Journals",
+      "description": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals",
+      "published_at": "2026-07-30T18:54:00+00:00",
+      "published_display": "30 Jul 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5",
       "sources": [
         {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5"
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5"
         }
       ]
     },
     {
-      "id": "945328595ce833917a73",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
-      "source": "EIN Presswire",
-      "description": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono EIN Presswire",
-      "published_at": "2026-08-04T12:45:00+00:00",
-      "published_display": "04 Aug 2026",
+      "id": "23a546158dd1b0f3f328",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions",
+      "source": "HIT Consultant",
+      "description": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net",
+      "published_at": "2026-07-27T21:44:21+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5",
+      "sources": [
+        {
+          "name": "HIT Consultant",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d55db7809f5d2e7a1669",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp launches genetic health panel for consumers By Investing.com",
+      "source": "Investing.com South Africa",
+      "description": "Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa",
+      "published_at": "2026-07-27T12:58:33+00:00",
+      "published_display": "27 Jul 2026",
       "official_source": false,
       "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNFV1hOczBxZEs1OVR2RHF2NnNBZ2d5cXlDa3lsUkNwZlByUFcwWDNZU3FRSHI2STdTdUg0SGpkRW5SZGNYOFBhendwUEdKRkF0VnFQMWROdjIxZnZUWWRWMDF4MkJabklWYUdTY2xvYUZJaF9XakFKekg2dnU4cElOTFY3OUJ5aFJTeGtEa1QzdF9NSTFVTDdoY0hOTEhqLVdMUmFpMXhmcTJSNWNrdjV3?oc=5",
       "sources": [
         {
-          "name": "EIN Presswire",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5"
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNFV1hOczBxZEs1OVR2RHF2NnNBZ2d5cXlDa3lsUkNwZlByUFcwWDNZU3FRSHI2STdTdUg0SGpkRW5SZGNYOFBhendwUEdKRkF0VnFQMWROdjIxZnZUWWRWMDF4MkJabklWYUdTY2xvYUZJaF9XakFKekg2dnU4cElOTFY3OUJ5aFJTeGtEa1QzdF9NSTFVTDdoY0hOTEhqLVdMUmFpMXhmcTJSNWNrdjV3?oc=5"
         },
         {
-          "name": "einnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5"
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlZDcUl0cTBrMmtRNlFvVFdoOUczUUppY05COU5oSnNNTlhscEpCeDRKU3VrTlo2YXJFTDhwaWgzeVZCUXZ4YW9mMXJBODFpampzQXExdjVRTHVpOW1QWlExMENzeGkyOHFpSDYteWdfenJtcnpxWnJDTEhBU3BEVzFOV1dVS0E1aTlBX1I0dFpwN2ZZQnQ4b0YxelM5UktQOGZ6S3VpM3RlU2RkWFloU0VR?oc=5"
         }
       ]
     },
     {
-      "id": "8db9b79b5fb9634f423c",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Stock Analysis: Exploring Growth Potential And Investor Sentiment",
-      "source": "DirectorsTalk Interviews",
-      "description": "Quest Diagnostics (DGX) Stock Analysis: Exploring Growth Potential And Investor Sentiment DirectorsTalk Interviews",
-      "published_at": "2026-08-03T09:13:41+00:00",
-      "published_display": "03 Aug 2026",
+      "id": "750c009b3cae9edeff42",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Launches Marker Genetic Health Panel to Enhance Ris",
+      "source": "GuruFocus",
+      "description": "Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus",
+      "published_at": "2026-07-27T12:55:12+00:00",
+      "published_display": "27 Jul 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTndhNFRwb1FEUVBPNERSNDZPOEFYTjdCSktyclJUSS1HMGdDNGxrYUszd043VUoxclVzRWctaFAta0JOdXE2SnRjZmZNVWRqeDd2U2RfQWNCNkxkTlV4WnNRdUtyaW91TVNWYlpWQlRjbHh4LVY3UHM0aHY2TjJiR1F3bUJDNHlDdlpCUThZUFpuRHV2OWgwVmxIN3p0b1M1MTNJNG9HaTkzQ3FGcEJZdm4xLVNNRGRUZUJ4cmY3Qnp2aWhkdjN2U05yYXdLNFBzUEk0?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkk0LWNuVTBrZkQybzZhVnlMWTBzYzZEWXJUV0pBUmtLUkxpM254TENHT19KWnRkRHdEakFQaWxyWFRjWWc3YUpYSjRVWmJweUZwQ1RqaXZQd0JaV0NhOVpqbUxwRU1ERGRkM3BwVEQ4eldQZVpRcTduYWd6ckFLaVhtdGhTbG5yaVV2ZjFMcFNDbUNpYjZYSXpSYUtLellkbkxxS1Jka2gzWkNnNUNNbldrTQ?oc=5",
       "sources": [
         {
-          "name": "DirectorsTalk Interviews",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTndhNFRwb1FEUVBPNERSNDZPOEFYTjdCSktyclJUSS1HMGdDNGxrYUszd043VUoxclVzRWctaFAta0JOdXE2SnRjZmZNVWRqeDd2U2RfQWNCNkxkTlV4WnNRdUtyaW91TVNWYlpWQlRjbHh4LVY3UHM0aHY2TjJiR1F3bUJDNHlDdlpCUThZUFpuRHV2OWgwVmxIN3p0b1M1MTNJNG9HaTkzQ3FGcEJZdm4xLVNNRGRUZUJ4cmY3Qnp2aWhkdjN2U05yYXdLNFBzUEk0?oc=5"
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkk0LWNuVTBrZkQybzZhVnlMWTBzYzZEWXJUV0pBUmtLUkxpM254TENHT19KWnRkRHdEakFQaWxyWFRjWWc3YUpYSjRVWmJweUZwQ1RqaXZQd0JaV0NhOVpqbUxwRU1ERGRkM3BwVEQ4eldQZVpRcTduYWd6ckFLaVhtdGhTbG5yaVV2ZjFMcFNDbUNpYjZYSXpSYUtLellkbkxxS1Jka2gzWkNnNUNNbldrTQ?oc=5"
         }
       ]
     },
     {
-      "id": "48a6f34bd768e0322b8f",
+      "id": "26041fdd9d9c40ad7b7a",
       "company": "Labcorp",
-      "category": "Financials",
-      "title": "The Bull Case For Labcorp Could Change Following Guidance Hike And New Genetic Panel Launch",
-      "source": "simplywall.st",
-      "description": "The Bull Case For Labcorp (LH) Could Change Following Guidance Hike And New Genetic Panel Launch simplywall.st",
-      "published_at": "2026-08-02T03:10:15+00:00",
-      "published_display": "02 Aug 2026",
+      "category": "Product & Services",
+      "title": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases",
+      "source": "Fierce Biotech",
+      "description": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com",
+      "published_at": "2026-07-27T12:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5",
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "36e61bb422a4c9656fef",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing",
+      "source": "Sahm",
+      "description": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 9,
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5",
+      "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYUZ6Y2NSMzZ5NExpM3R3cmZ4NG83WUFmWDB4UVdkWkM3UEJNQnFDNk85WGJyVk9oMUJucFMtTmo1OFVZcGhPZ0J4ai1iRnk5UnRUMEl5Q3RDekE1clZYWGd0Zk1MUU5UWS1FRTlIU2tBalAybzIwQ2xfV2xGUGg1eGdKQlR4UVFROXdlbVZqcFpvOEZzQS1lTnFBQnJ0Y0ZNYjRELVBQUmt1eGUzN185WEZSZGc1em5ZM2hZeG1WSm80RUk1eGo0aHcxV0ZpWkZLQnpsTFpiRjBVT3BWLUtBcGJGRW9JUkw0eGJpbGZzSWVsRFJCX3A2TGdFOTZ4UTFkWFE?oc=5"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV0R4V1Yya1BPdXR5RllmYlplUVByY0tyMERDWnY4Zm5uNFJzLUc2ajhTdG54M0FVcjRrWFBwMVBrN01jQ3Uzbk05WU9Ua2RqM0NVSHFvQ1VuU2xTbWFBZmhuR3lOOTdYV0xKWF9GcGRxdm9EMW9qWmxFTko2ZUpib2x5dDhWTlpXSGtqaC1MZDRGY2dZNzZBc3NweThRQkJCbGdoajdEX1pEQ1RCb2JpS1d0akFWaXZRcUlSSW5YTzlCd1FqamJfdGlwUXpoYlg1LV9yNURHdFQ4S0tnaDMtRlEtSWp6ZGtfVk1mQmlxdDhHZw?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMENRUmhWYTBrNDg2NHZacFhxM1NKRlRLVExhNEUxcTJWdXhwcFZoWUYzSVdQRXNfZmNxOGJQUktkdEg3Q3B2T21sY1ZSdlVLd3hrdkFvSXMza1NIWFFaNHNFaGFLb056Tmp0MkVLcDRkTDdfNXV6TTVDVWR0cDJOYW1Na1JBMXB3V3R3bFJFS0JDd0xhTURMMVVmZDlucW90Q1lMbUVGNkJaT2V5?oc=5"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0JoWHVFenZVdUcwSlB4RTJ0U2hZVU8xX3BIYjFwM3hvcjh4Z1U1YXp5VzV6V25YRW5MaFNoS0J6UVRlVENrTmhtWjk1Mi1zS1JFYzZVbnZPeFRscDFCTm5Hekd5S2Jrb010Rk05X3J5ZkNaMXRod2xMMGNaZVdKOG1LeWNQQVdvcGs1VEZtRGltSzdxd25abkZKc2VyMFVFbXlGQ3lUeUotZw?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNUNENzJmaWhFNmJ2WjlyWGRzUHNBb3ZmUjh1NnIyam9PTDd5cFRkbl9DaGpMZ3Z1dUtyUlJ1TVFfeW03UjlFd3k5YmhMZURNckNoc1dXY0FCR1A4RGdKQVZGUnRkMUE3QmZNTklYWGhLTWRicElxOVFjT3lacE02a0h2U2FjdUJYMGhYbjJacGN5RV85S243SVhaUjdqVlgtbXI2WE50TGJySkh6LUEtdllHNzVqcmNYc0VHUEdOY0NVQm9qNmZqdjNDX2VhX2pyRTBHbjl3M196NmJDLUNTUVNaY0E1am11VnlsZUdackNsRmFRRWN4cXZRUQ?oc=5"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzg1OG5hTTctRjlISHpaUnhrRkxmWGc0MTZ5ZFpMOVlURV9SZmVxd2xiV0h2YTg1RERCQVpUaWFHU1E1NmhkMG1sVE9EaXdDbndxM1cwbjk1M2NUQjhMeDZKTF9TcWZqQ3RSejBXS3M1clJsOVB1UDdnNWthSkdVNnRNekpmSm1qSFR3?oc=5"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkJ0enYxUHRwUHRuRmJzdEJCSlNvVDJFX1hCWE5veWwwcGxNbVZESzItUDhqb1RkeC1MeDRMWmNRbTZBaEUwWlEwQVJKRFZlYllyZkFPSHkzZm85eGxqd1hNWkktbVVIell1SURJVXJveHQ3UUpVem0ydGcyQTA2U1lYU2JaZ1VkYnZN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7160b5d22106e293802",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday",
+      "source": "Sahm",
+      "description": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday sahmcapital.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
       "official_source": false,
       "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd1dEbWZrV2RTOWtKOXFjallROXhsbTB5QWk3VElrTC16WVNEZEg3VmdpdkNLNUpCb1RpUWZzVUdfTG9BaV9uRlhva2lIMm1rWkpxUndIWnMyUW1nZXVkRmNDWU52eG9NMnVDUmxIS01TSGZXUmNYdThEMVhiOEFYRENXbERPYld6aUZ0WkJoTXlua1NFOGF5UE1KNUxEVnNsV3I3SnBGT2pzWlNhaEdXbXNRYzN6NV9ENE8xb2ZBZ1huMm01M0o5VFpsVjl0UdIB0wFBVV95cUxNTzNmSVhfMmlSYzY5MkZMcXVzblJMUG9QM2llaTlNdW1EYTJPZDBVTXp0bGYxTzU1Qzk3elZDNUVsZEJKVUxsSTJjb1JIMXY5bUota1h0V2RPU0dDUkpvSHJCMlZKV19uX2t3QkpYM1FwbWdTTWc0Z3VTbnl1eE9MVlkyY25pcUdsMjlVQ2lfdHVQTElFMWZuZTRrRFplU2FIcm5HbmxjRTlaY2RBbVQ2YzBjbkZFVnU2Y0FCeEVxSGpBeVdtY2dEQWttTDNKTVBHTzVZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzV3ZDY1SVNvZDg3MDVtQ0Rfbko4a1cxTldRcktKd2RxYzdoeHdBSkRTQ2YxX1ZVMzBOTlBFNnZ6LUlKeGt3R3pOcmgtN1d3S1UzM0hGbTNKejZENTJBdWxTdWhyR09LbGtkWmpsRFM1eldDNFFOQ3JDSXdMU05aZUM4cHJneG50OWRQc1k3cWExSTlHRDJuQmo1OEZDNnVucDNvR0Y2R0RzUVNQd0cxdi03X0J4czE3Y2Y3N2hydy1uQmx5eFgtbk9mNEhjTE16YWFIUU1JNGQyVDBfZTZxemtSX0xKdXZ6WVhnT3BB?oc=5",
       "sources": [
         {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd1dEbWZrV2RTOWtKOXFjallROXhsbTB5QWk3VElrTC16WVNEZEg3VmdpdkNLNUpCb1RpUWZzVUdfTG9BaV9uRlhva2lIMm1rWkpxUndIWnMyUW1nZXVkRmNDWU52eG9NMnVDUmxIS01TSGZXUmNYdThEMVhiOEFYRENXbERPYld6aUZ0WkJoTXlua1NFOGF5UE1KNUxEVnNsV3I3SnBGT2pzWlNhaEdXbXNRYzN6NV9ENE8xb2ZBZ1huMm01M0o5VFpsVjl0UdIB0wFBVV95cUxNTzNmSVhfMmlSYzY5MkZMcXVzblJMUG9QM2llaTlNdW1EYTJPZDBVTXp0bGYxTzU1Qzk3elZDNUVsZEJKVUxsSTJjb1JIMXY5bUota1h0V2RPU0dDUkpvSHJCMlZKV19uX2t3QkpYM1FwbWdTTWc0Z3VTbnl1eE9MVlkyY25pcUdsMjlVQ2lfdHVQTElFMWZuZTRrRFplU2FIcm5HbmxjRTlaY2RBbVQ2YzBjbkZFVnU2Y0FCeEVxSGpBeVdtY2dEQWttTDNKTVBHTzVZ?oc=5"
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzV3ZDY1SVNvZDg3MDVtQ0Rfbko4a1cxTldRcktKd2RxYzdoeHdBSkRTQ2YxX1ZVMzBOTlBFNnZ6LUlKeGt3R3pOcmgtN1d3S1UzM0hGbTNKejZENTJBdWxTdWhyR09LbGtkWmpsRFM1eldDNFFOQ3JDSXdMU05aZUM4cHJneG50OWRQc1k3cWExSTlHRDJuQmo1OEZDNnVucDNvR0Y2R0RzUVNQd0cxdi03X0J4czE3Y2Y3N2hydy1uQmx5eFgtbk9mNEhjTE16YWFIUU1JNGQyVDBfZTZxemtSX0xKdXZ6WVhnT3BB?oc=5"
         },
         {
-          "name": "webull.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkt1UmltMjVqUHhGTnlYQnRoRnlnWVkyUDBwNktCR3BFTGJ3YTBRVWxDYWFEa1gyQzF2bUppM0hxS0NEdndVSnZYV1hSUE9mcno3LXJvVW8?oc=5"
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYlBSLS1rOE43dTZ6OWNHMG5icDNJTU9jTm5IVVlRc1ZrSVhSQXoxS1lkOVU5REtaLTZRdXAtR0NMTENQc0tsM1JmRTZQT1hHOENIeFdXRGF6NVZpQ3NOQWtUMHA4a3dMLVk3R252cFNaeXRBcUFSdUJqSERnbWlHRzdmdW9rYTZlMW9tODc4OHV4aS1QZ0phajRWY0tYNGpHNDNfSHFiYmptOVRPOW1IZGtLQV9tajJBaFNGY2YzTHcwVV9EWnBZak12eGY5SGhLdHBHOEFVNUFYMkdyVVJRMzM5RkpXa3o0TTBSejQzemlrQldqN3NJRDRB?oc=5"
         }
       ]
     },
     {
-      "id": "6247a273c4e8d4156319",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full",
-      "source": "simplywall.st",
-      "description": "Labcorp (LH) Stock Looks Cheap On Cash Flow While Earnings Look Full simplywall.st",
-      "published_at": "2026-07-31T16:25:34+00:00",
-      "published_display": "31 Jul 2026",
+      "id": "191fd4f0957102134377",
+      "company": "ARUP Laboratories",
+      "category": "Product & Services",
+      "title": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring",
+      "source": "Clinical Lab Products",
+      "description": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring Clinical Lab Products",
+      "published_at": "2026-07-22T20:23:01+00:00",
+      "published_display": "22 Jul 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3NQQTVCYTEwV0UxR1BNMk51NmRRVG9UTkxrQlhaWmtVY1VXOGxvYkJfWU1OSTA3a0lFTXp6MTNaRWxDWElUa1MxVFlaN2l4RnRoT1VXdXk0d2VwSmVkdkJWTDA3c0ZXNTJPbWg0aG0tR3RiNGI5SWhSV1o1N2NscnFUdTlIZzlpWHhfd2FBOU5LQ1FyaEhTdGVibk1YblhKb1hReEtsbjJMMFVYTF8xNHpELXg1czJYbmhfZ0J5TUZGM3ktRGpFNDRBVWJCZ9IB0wFBVV95cUxOalA0Mm93UkVqX19pbXRudmVwZ0pWdWE2eWt6UkRsOVdYUVdvcnF5MnNGZ3NBQ2xGMUJiU240Z2FtNFhGR0xzaUpiOUZpRk9tRFJGOS1nMlNHbFJrRWo4ZElQX3hvTGd4dEsyY3ZRQWJya1VyY2VqbkNjekNEWTZwWmRPS2taLUY4dFpLdkU3X1FwZ1dkZEpydlp3QThBRUUxLWxFa09xeWU5MGNqQ3FyMG1NRXdyNS1zTWFLbk9qdnZGdGRyRHJXR1kzMkp2d3BYbnlr?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm9FT0RzblpoenNrZ1BGbjVONHZvSnM1eE5KY1A3YUpkeDdJcmpVMHh2MURIWUV5aUtsVlhzNjlFek9hQWtZNHpPb0M5RkduNFAyUEpZUGEzOGM1Mnh1QWlydnpOWDBTaG44RnNsUzN2Y1NVQnVrWmpVamdCYVZHWkhhTmtBSExsUEdYS21lVUw0Q0ljOWxEbzhtZERsem9pRjlxenJjVUJzb2M5M3BJdDFnUVNzRlZwUzgyaXU5dThyMVE?oc=5",
       "sources": [
         {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3NQQTVCYTEwV0UxR1BNMk51NmRRVG9UTkxrQlhaWmtVY1VXOGxvYkJfWU1OSTA3a0lFTXp6MTNaRWxDWElUa1MxVFlaN2l4RnRoT1VXdXk0d2VwSmVkdkJWTDA3c0ZXNTJPbWg0aG0tR3RiNGI5SWhSV1o1N2NscnFUdTlIZzlpWHhfd2FBOU5LQ1FyaEhTdGVibk1YblhKb1hReEtsbjJMMFVYTF8xNHpELXg1czJYbmhfZ0J5TUZGM3ktRGpFNDRBVWJCZ9IB0wFBVV95cUxOalA0Mm93UkVqX19pbXRudmVwZ0pWdWE2eWt6UkRsOVdYUVdvcnF5MnNGZ3NBQ2xGMUJiU240Z2FtNFhGR0xzaUpiOUZpRk9tRFJGOS1nMlNHbFJrRWo4ZElQX3hvTGd4dEsyY3ZRQWJya1VyY2VqbkNjekNEWTZwWmRPS2taLUY4dFpLdkU3X1FwZ1dkZEpydlp3QThBRUUxLWxFa09xeWU5MGNqQ3FyMG1NRXdyNS1zTWFLbk9qdnZGdGRyRHJXR1kzMkp2d3BYbnlr?oc=5"
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm9FT0RzblpoenNrZ1BGbjVONHZvSnM1eE5KY1A3YUpkeDdJcmpVMHh2MURIWUV5aUtsVlhzNjlFek9hQWtZNHpPb0M5RkduNFAyUEpZUGEzOGM1Mnh1QWlydnpOWDBTaG44RnNsUzN2Y1NVQnVrWmpVamdCYVZHWkhhTmtBSExsUEdYS21lVUw0Q0ljOWxEbzhtZERsem9pRjlxenJjVUJzb2M5M3BJdDFnUVNzRlZwUzgyaXU5dThyMVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53bd2953f9e678d2ed5b",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Business tidbits: Labcorp opens expanded patient service center in Yakima",
+      "source": "yakimaherald.com",
+      "description": "Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic",
+      "published_at": "2026-07-20T07:00:00+00:00",
+      "published_display": "20 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYVllVmtZeFM1WDJvbndTV3RQbFZ2Wk41WWg1TlVtR0JSYXVGYnFaWlowc2F2dzVMdjU1SUNYdzVmRjNDcW9XVkEwYTNkX1JvVG9HMDNjSWlQSzQ4OVN4NkNqdldaQXVSLU9CbkxFZnFZVGpVUXRzZzVVZEZYdGlTY1ZLYks1eWZuR2ZGMHUwRG16ZHc0R2h0akJkM2VsRno3TDN2RDlrWmRQbVNlcTVzNU56bnpxSFlWd1NLVVVXOFNwNU11akRVcWEwZk83R0E1eGJweENPZzNxZ1hOLXhDQXMxS25yM2c2SDlIa21wOWN4Y0NyU2l3aUdjTHV4OWd20gGGAkFVX3lxTE9Pa0xRN0dhOE1oeE1ZQ2ktMnlKTXhLaHlwZmZSaUh2b3ptQ0RReUxqblJwQ093dW9vSUlPak9rdVFKTnhyT0NndU1kRVVJWG01UWxlbS1BT1ZNckcyd1UyYmhGaG03RkRSanE4ZWVITDRUNXhlTzY2TV9pTDFtaUNOLUNQZllXSUdvYmYxZE9SRUZFTGVJazl1YjlQUFdiczNFQm50WWVrR1pmZ0JqbFlhVzZSdUd5Ry10ckJOSVUyb1V2bWVOY2lqemxsc1RyODZQc1BhcnhwYTUwNDg1RjNUTEdZczJ5T3hMZng2MlVxVzdzZGtJdWJhOWZvXzdaOUh1NGJBaUE?oc=5",
+      "sources": [
+        {
+          "name": "yakimaherald.com",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYVllVmtZeFM1WDJvbndTV3RQbFZ2Wk41WWg1TlVtR0JSYXVGYnFaWlowc2F2dzVMdjU1SUNYdzVmRjNDcW9XVkEwYTNkX1JvVG9HMDNjSWlQSzQ4OVN4NkNqdldaQXVSLU9CbkxFZnFZVGpVUXRzZzVVZEZYdGlTY1ZLYks1eWZuR2ZGMHUwRG16ZHc0R2h0akJkM2VsRno3TDN2RDlrWmRQbVNlcTVzNU56bnpxSFlWd1NLVVVXOFNwNU11akRVcWEwZk83R0E1eGJweENPZzNxZ1hOLXhDQXMxS25yM2c2SDlIa21wOWN4Y0NyU2l3aUdjTHV4OWd20gGGAkFVX3lxTE9Pa0xRN0dhOE1oeE1ZQ2ktMnlKTXhLaHlwZmZSaUh2b3ptQ0RReUxqblJwQ093dW9vSUlPak9rdVFKTnhyT0NndU1kRVVJWG01UWxlbS1BT1ZNckcyd1UyYmhGaG03RkRSanE4ZWVITDRUNXhlTzY2TV9pTDFtaUNOLUNQZllXSUdvYmYxZE9SRUZFTGVJazl1YjlQUFdiczNFQm50WWVrR1pmZ0JqbFlhVzZSdUd5Ry10ckJOSVUyb1V2bWVOY2lqemxsc1RyODZQc1BhcnhwYTUwNDg1RjNUTEdZczJ5T3hMZng2MlVxVzdzZGtJdWJhOWZvXzdaOUh1NGJBaUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66d4d187ad2f541510b4",
+      "company": "Quest Diagnostics",
+      "category": "Product & Services",
+      "title": "Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform",
+      "source": "Clinical Lab Products",
+      "description": "Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products",
+      "published_at": "2026-07-08T07:00:00+00:00",
+      "published_display": "08 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXlsVVNpWHN3cEV2OXl2VWV0MEFjM3RCc0ZSRHhVN0hCT3hUVmRmZ1ktNC1DMmNqeEQzRE00Q1JyTFlOcy1zQml3RzRpbEZqR3ExUzN4MVNFU3NEUDdsNGJLazlBNlJmWXVLdUlYVUtWN09mOUUycll6OVA0YjlSdjVEdlEwd1JvSlo3NkdCYUFVUTBBbkJUbA?oc=5",
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXlsVVNpWHN3cEV2OXl2VWV0MEFjM3RCc0ZSRHhVN0hCT3hUVmRmZ1ktNC1DMmNqeEQzRE00Q1JyTFlOcy1zQml3RzRpbEZqR3ExUzN4MVNFU3NEUDdsNGJLazlBNlJmWXVLdUlYVUtWN09mOUUycll6OVA0YjlSdjVEdlEwd1JvSlo3NkdCYUFVUTBBbkJUbA?oc=5"
         }
       ]
     },
@@ -130,25 +254,6 @@
         {
           "name": "simplywall.st",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXQ2eFlzeUJfTGotekMzbzR0UF82VVFJaDgxeG8xY0FsbWZnMFhSQVg3RHJfS3RFT0pMblo1SlpMZlhIdjZ6bkg3NlRnQmphX3ZXUmtEOTNLc01IZGNLbFc3NENSUFIzZkVTNnM2TEFxY05OVUdpeWczSW9yOW1SREpSZkpqNVkwQlFfaVVNUVJ3aVNGU29ib1BwS21pZEVodzFHaGRITjFUMmdweV9sSnhaOFhJd0x2alc5ZEltQWxuOHZjVkJNam1B0gHPAUFVX3lxTE5JenlNQlZSVDhxenR2UVVibmx2WnduU3h5c3A4MHB3anY2UExULVZPSU1IOGFWMHhXanpyNXB4V25IWTdCaHhFbmNFVFFCVHUxZC1pXzhPbWw1QzJMOTNwclFjSXdQdzJkMWZxZ2ltRzJaX2RpRW9WSHlDUEN0RTlKQlhaWlFQZUlyU0laNXpsQUd6eHJkbGZ1ei1zcUpYanNtWDVXbUxOQUV6MElVb2oyUTBoUXZ5Y1YwVDlrOUtkUm05Y2VUSzRjUXFTWlo5UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "74a549d307ec5080bf5a",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026",
-      "source": "O'Dwyer's PR",
-      "description": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR",
-      "published_at": "2026-07-30T23:03:39+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5",
-      "sources": [
-        {
-          "name": "O'Dwyer's PR",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5"
         }
       ]
     },
@@ -199,25 +304,6 @@
       ]
     },
     {
-      "id": "2238325c47bcfcea8d12",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2",
-      "source": "The Business Journals",
-      "description": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals",
-      "published_at": "2026-07-30T18:54:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5",
-      "sources": [
-        {
-          "name": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8db37e21bfef7db6b5e6",
       "company": "Labcorp",
       "category": "Financials",
@@ -252,25 +338,6 @@
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0xBYVh6a2d6MjdMMHRqTzVMUEhQNHRWQVhKZmtfX3RFUU5UVmVBbXFLVm05TE40aXpsbEQ5bzh5T3lsOHY0alJucUFSV3FmSEQ2SVE3WTdzNFQta3pGZ0hUN3VyT0pGM25KNW00NW4zT203bXNTa2NhbGxOMWplaUdIUlBXTzNtcjc1YWN6ajNSLVdwdG9uWFZ3LXVXdEpUNmhuVmhYamtNY3Q3a2FvSHRieU83QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b818375b8fafc32848d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics SVP & Chief Commercial Officer Mark Dela",
-      "source": "GuruFocus",
-      "description": "Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus",
-      "published_at": "2026-07-30T15:02:27+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5",
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5"
         }
       ]
     },
@@ -314,25 +381,6 @@
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "54c57550348b6b8ea01c",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
-      "source": "ROI-NJ",
-      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
-      "published_at": "2026-07-30T13:44:10+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-      "sources": [
-        {
-          "name": "ROI-NJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5"
         }
       ]
     },
@@ -413,25 +461,6 @@
       ]
     },
     {
-      "id": "7ae7da1f27bd119f8422",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
-      "source": "IR Impact",
-      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
-      "published_at": "2026-07-30T12:08:02+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-      "sources": [
-        {
-          "name": "IR Impact",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e95f84d3e96933453ad4",
       "company": "Labcorp",
       "category": "Financials",
@@ -466,25 +495,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b5e247283716db531e0a",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
-      "source": "PR Newswire",
-      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire",
-      "published_at": "2026-07-30T11:30:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5"
         }
       ]
     },
@@ -638,6 +648,29 @@
         {
           "name": "tradingview.com",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHhXMmw3aENWakozRHRVRGhhTzM0OTluU3pXWl9aTUNEakc2eHZnT1JIMHRIVmwzaGoxWEpPcUJVY1JEQU1pZW1GYkZWaW4xdmluTkhaTnBoem5IQjdQeFAzR1hOYmlSUzFMNXpyaUNldHdOMkY4VTNfNV9yX1ZleUpkRnlRWUNrbFVhRks5X1dGbm1ReGQzODZ1WVZQOHliSU5pTE16M2w2SU02bmhvQ201TXNQNzJFR2lVaXAyX3I0SF93SlJOUG9XVkFkQTVMdy1yRW5TbnotbTl4U1JkcTFKckpZUms0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "239171df687d4ba6651c",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance",
+      "source": "PR Newswire",
+      "description": "Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance PR Newswire",
+      "published_at": "2026-07-30T10:50:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWdPQWZLcHJmTG93cU1naGROeTlna09oOXNNdmF1NlFtTlNuY0swLTJvZU50bG95cmxGTm9udk1nbTZWS3dHZWNJamNFWFFFM3RRMlI4WndnZzhJaGZVMGtBRVFJZF96QUtDRFdmMXFrMEx6VDA3Tk51eGsxa2JZa2VFRUpZMjFLS2hkbjg0RUdnTTI4QWpjRVQwUU9KNEJPQUJRWm1wc2tjUjJQWVUwV2txeDFOSnMyWGhkWUg3eHN6TEI4RURHazFMNzM?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWdPQWZLcHJmTG93cU1naGROeTlna09oOXNNdmF1NlFtTlNuY0swLTJvZU50bG95cmxGTm9udk1nbTZWS3dHZWNJamNFWFFFM3RRMlI4WndnZzhJaGZVMGtBRVFJZF96QUtDRFdmMXFrMEx6VDA3Tk51eGsxa2JZa2VFRUpZMjFLS2hkbjg0RUdnTTI4QWpjRVQwUU9KNEJPQUJRWm1wc2tjUjJQWVUwV2txeDFOSnMyWGhkWUg3eHN6TEI4RURHazFMNzM?oc=5"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDh1U0tpenM1QzhYSWRkMVlETmdmamN2RjN4RmFBTmowY0p2T25kUHFPVXo3a1JBR2k0a3NudTlSNEVrUWdpOGlHamNXYlptTUN5dlhzZ3BGUDlWQjBPSDhuSXlwYXZHVG9TQk9nOXlaeHk0bUR0LUhnSjE4emFMQnZmdGw2S2hm?oc=5"
         }
       ]
     }
