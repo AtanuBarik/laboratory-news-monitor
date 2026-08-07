@@ -1,9 +1,16 @@
 {
-  "checked_at": "2026-08-07T19:34:39.629515+05:30",
-  "checked_at_display": "07 Aug 2026, 7:34 PM IST",
-  "status": "no_new_items",
-  "ranked_candidate_count": 0,
+  "checked_at": "2026-08-07T22:05:31.222684+05:30",
+  "checked_at_display": "07 Aug 2026, 10:05 PM IST",
+  "status": "no_summarizable_items",
+  "ranked_candidate_count": 1,
   "low_value_dismissed_count": 0,
+  "attempted_summary_count": 1,
+  "verified_summary_count": 0,
+  "unreadable_ids": [
+    "0aedc8ea57534ac746c1"
+  ],
+  "gemini_quota_exhausted": false,
+  "gemini_error": "",
   "scheduled_chatgpt_summary_count": 0,
   "gemini_summary_count": 0,
   "gemini_fallback_enabled": true
