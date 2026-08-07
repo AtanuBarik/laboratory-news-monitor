@@ -1,7 +1,7 @@
 # Labcorp News
 
 - **Repository generated:** 07 Aug 2026, 7:34 PM IST
-- **Distinct events in this file:** 49
+- **Distinct events in this file:** 27
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -45,32 +45,7 @@
 
 **Feed description:** Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.
 
-## 4. The Bull Case For Labcorp Could Change Following Guidance Hike And New Genetic Panel Launch
-
-- **Company:** Labcorp
-- **Publication date:** 02 Aug 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - simplywall.st: https://news.google.com/rss/articles/CBMizgFBVV95cUxOd1dEbWZrV2RTOWtKOXFjallROXhsbTB5QWk3VElrTC16WVNEZEg3VmdpdkNLNUpCb1RpUWZzVUdfTG9BaV9uRlhva2lIMm1rWkpxUndIWnMyUW1nZXVkRmNDWU52eG9NMnVDUmxIS01TSGZXUmNYdThEMVhiOEFYRENXbERPYld6aUZ0WkJoTXlua1NFOGF5UE1KNUxEVnNsV3I3SnBGT2pzWlNhaEdXbXNRYzN6NV9ENE8xb2ZBZ1huMm01M0o5VFpsVjl0UdIB0wFBVV95cUxNTzNmSVhfMmlSYzY5MkZMcXVzblJMUG9QM2llaTlNdW1EYTJPZDBVTXp0bGYxTzU1Qzk3elZDNUVsZEJKVUxsSTJjb1JIMXY5bUota1h0V2RPU0dDUkpvSHJCMlZKV19uX2t3QkpYM1FwbWdTTWc0Z3VTbnl1eE9MVlkyY25pcUdsMjlVQ2lfdHVQTElFMWZuZTRrRFplU2FIcm5HbmxjRTlaY2RBbVQ2YzBjbkZFVnU2Y0FCeEVxSGpBeVdtY2dEQWttTDNKTVBHTzVZ?oc=5
-  - webull.com: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9SVkt1UmltMjVqUHhGTnlYQnRoRnlnWVkyUDBwNktCR3BFTGJ3YTBRVWxDYWFEa1gyQzF2bUppM0hxS0NEdndVSnZYV1hSUE9mcno3LXJvVW8?oc=5
-
-**Feed description:** The Bull Case For Labcorp (LH) Could Change Following Guidance Hike And New Genetic Panel Launch simplywall.st
-
-## 5. Labcorp Stock Looks Cheap On Cash Flow While Earnings Look Full
-
-- **Company:** Labcorp
-- **Publication date:** 31 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - simplywall.st: https://news.google.com/rss/articles/CBMizgFBVV95cUxNV3NQQTVCYTEwV0UxR1BNMk51NmRRVG9UTkxrQlhaWmtVY1VXOGxvYkJfWU1OSTA3a0lFTXp6MTNaRWxDWElUa1MxVFlaN2l4RnRoT1VXdXk0d2VwSmVkdkJWTDA3c0ZXNTJPbWg0aG0tR3RiNGI5SWhSV1o1N2NscnFUdTlIZzlpWHhfd2FBOU5LQ1FyaEhTdGVibk1YblhKb1hReEtsbjJMMFVYTF8xNHpELXg1czJYbmhfZ0J5TUZGM3ktRGpFNDRBVWJCZ9IB0wFBVV95cUxOalA0Mm93UkVqX19pbXRudmVwZ0pWdWE2eWt6UkRsOVdYUVdvcnF5MnNGZ3NBQ2xGMUJiU240Z2FtNFhGR0xzaUpiOUZpRk9tRFJGOS1nMlNHbFJrRWo4ZElQX3hvTGd4dEsyY3ZRQWJya1VyY2VqbkNjekNEWTZwWmRPS2taLUY4dFpLdkU3X1FwZ1dkZEpydlp3QThBRUUxLWxFa09xeWU5MGNqQ3FyMG1NRXdyNS1zTWFLbk9qdnZGdGRyRHJXR1kzMkp2d3BYbnlr?oc=5
-
-**Feed description:** Labcorp (LH) Stock Looks Cheap On Cash Flow While Earnings Look Full simplywall.st
-
-## 6. Labcorp Stock Holds A Bullish Case On Margin Expansion
+## 4. Labcorp Stock Holds A Bullish Case On Margin Expansion
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -83,33 +58,7 @@
 
 **Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion simplywall.st
 
-## 7. Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjB3OTdTLTlaN1BLRzB5bEVuMi1CeXRaOFV1dC1DSVN3bXN1UE1KUGN2cHFwZjBqMGlmb3lWeHh3Q0JvWnRqTEZ2MUxaMnFVWVF4VVE5VHFsS0ZnUWthYmRLazlWRndQOEhDS3M0NHhSOWZRS1Z0ODdjR051eHZhazFSd0U3eEhJRU1hNGdrTWp1UXNx?oc=5
-
-**Feed description:** Labcorp posts strong Q2 2026 with 5.8% revenue growth and raised full-year guidance pluang.com
-
-## 8. Labcorp (Q2 2026) Earnings Call Highlights: St
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - GuruFocus: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMW1GRkVXNllQMlJIWUNob3QtaGdkWV9vSzJBd3VzSTYwZGhQWjVQcWxNc0dOVXlGTVd0aDFJTDIzQzE4Yk1OUUpGWWhEVVdRWVgxN0ZvaXlNRkgteGhybG5aVjBjTGx1aFVKTE1fSXdUczJYQVE4ZmVrVHZSS2lpaV91ckhLcGd5SS0zWkctRnZlN1M4R0lTV2FOVWZRTmR2VktnYU1kVkFxS190NWhQZkdLbDJPN3RGQ2RqSG9GSTlpSnJRXzhXZC1VYjBMcjQ1Z0FTTTQzcEtaS0hNek5lNW9JMHhyOGZqeFhEa2IwOFNLdjJX?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTkyYmZaUkF3b2tNTGNnS1lRbF8wdzRWejAzUGhXZjJZQ1lDR25GTDFaamMtb1I1LTItejFDWjRzSE9ZR2VwaS0xc182VUtuM0VSQ2JFQkU3enhIZlFkWTlPVWlraVU2a0R1ZmhZSnBtZUMxblg3OU5oU0V3S3h3eFluQVpaWDB6cW5Ga3RzWk1KZTg?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMimwFBVV95cUxPS25EVTFwdUNaMkVld2xheFRwZ1Y1dlF2YnlZS0FJSmlhb202cTlyVjFoTDJkVWJQbUJGcHBSVGVoY1dkOXk4N0g3VUZhNzE3YVVWUzdTSEFVaGVOZEozZlJ2UDRucHhOTjI0RFp6UU9pb2lmcC1tMGh5Wko5NWFsWi1HVFBENXRIbVJTcHFPdjhMN3dVdFhUOHBlSQ?oc=5
-
-**Feed description:** Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: St GuruFocus
-
-## 9. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
+## 5. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -121,109 +70,7 @@
 
 **Feed description:** Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals
 
-## 10. Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0E3OE4wYi1fQTNYY0NqXzFGXzRUVF9tQWtWRWtJRGxyMDd1bWxrUEdoMktYaDVSaGNLVUgzRngtWWxJOW5BVEVrY2VaclRyWVJHMmlia0Fyc1RDTmRjQndtUW9Yb3JaYkFLZGJVMklnaU5LYlNYVnQ3dXRsck9GRWkxVGRHdk1TdkJBNHBFSjFLWVItOTFPX0hxcFo1MWZxQ1lrQzB3SEJ1bl9pbFJrLUpB?oc=5
-
-**Feed description:** Labcorp Q2 2026 slides: revenue rises 5.8%, guidance lifted Investing.com
-
-## 11. Labcorp Q2 2026 slides: strong results drive guidance raise
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0xBYVh6a2d6MjdMMHRqTzVMUEhQNHRWQVhKZmtfX3RFUU5UVmVBbXFLVm05TE40aXpsbEQ5bzh5T3lsOHY0alJucUFSV3FmSEQ2SVE3WTdzNFQta3pGZ0hUN3VyT0pGM25KNW00NW4zT203bXNTa2NhbGxOMWplaUdIUlBXTzNtcjc1YWN6ajNSLVdwdG9uWFZ3LXVXdEpUNmhuVmhYamtNY3Q3a2FvSHRieU83QQ?oc=5
-
-**Feed description:** Labcorp Q2 2026 slides: strong results drive guidance raise Investing.com
-
-## 12. Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 7
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXZuZktEdnNJcVl2ZmxxQTR5ZlVMWm94bzFDSEZ4MHdhOFVZa29ibnJ6QmkxZGJtWlBrN2xpZVNVMTlSTE02RnI2cnBrQjNpdk9iMk94ckFPQklGWmgxSGZnVURINFZ0MktHS2o5Nkc3alRIUmhYREZFbzdadF9IaDJmS3NHR3pfdlVEZ2NaWmM1UkUwRTMtRXN3d003SXpGTTIwSzkxQV9rYkZMVndmaFJ0cGxQSU45ZTRrdC1oV0lTSW1BTTZSeXZlMmpmMGM?oc=5
-  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
-  - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlBhQ3ZYRHlhSHh0cktxb01LUDRGTU02b0dsbGdJZzN6MVQwUGc0VDI1X1M1ZUJhemtwU1k4SFhzUkFWWW9jYXVUaWFyNlNfdEZFUDRRaE9ub0dxY1pNNWtYU2J2V0F6WGlJNWRZQkM5SWJDbUJVaFlwUDJUWTJmSmNqcW5FQUVhS2RyX1RsVlBhWGFMR0hZVUZocnZfemMyS2xaeUtfeFZac1NuY0p5aEpaQmppbmozOE81VHJObU5OWWJv?oc=5
-  - AOL.com: https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWDlpbG9LNEFsclpJUHNXVkFoaU9qLUFoeko4ZUhQZzNfZmVWNTlIVkRfSXFSLU1oQnJyekwtcGxIZXlfYy1OY056djhJdWtSRG5FY0VpUm9iTlN1YUtHQTJUcm4tN1FnVmk2d3VJSFczX0I0ZjRWLUJDWQ?oc=5
-  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5
-  - The Motley Fool: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5
-  - The Globe and Mail: https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5
-
-**Feed description:** Earnings call transcript: Labcorp tops Q2 2026 estimates, lifts full-year outlook Investing.com
-
-## 13. Labcorp Reports Q2 Earnings: What Key Metrics Have to Say
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGZ3VFM1MURKa19NejdQa20zeFN1TmhWTlFmSFpoU0xNQk5fYTVDMzgzYmdyWDdzY2lwVW1SbnpUaDdxZDVGdVAtMGsxOE15OGFwcXY5LUlTcDFIZTZyc2ZFNjVSbjUzX3BXb2ROeVhIRG1iSU0yZUJzTENOY3ZsYkpORzQtQQ?oc=5
-
-**Feed description:** Labcorp (LH) Reports Q2 Earnings: What Key Metrics Have to Say Yahoo! Finance Canada
-
-## 14. Labcorp Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQTFJQlJhVEZSeEFHdUFFTmdMT0JpelF1X1NaUDNuNGQwbFVJS3NhbHdQUF95YmFld0xMYXJHbk5QbWFaVlRJWHNSaWFoNHJIYXlHODlST0dyNjlaeXpmY3dGMHgzOFdGYlVlNTZNYXJKSFBNOVlEeE1RcVZRZmFCNGVOQkFlTkRIWjNkYWJ4TFRZZHdTdDhqZ2ZDRmY1ZU9rQ1pXZ1VBOUNpT0dFSlVnUmlLc3hsaG0welE5LTM0WHYxcDdxM0hjTThkclBtRm16eDRMVW9qQ3BjUENneVFlbjFHRHc?oc=5
-
-**Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
-
-## 15. Labcorp Raised Its 2026 Outlook After A Strong Q2
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Finimize: https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG5VdW5HNXVhcEJvUFlxeDZHeUZiQVN5WGxIYXpmMkFUSkpGQ1JDMVFRU2hOeldBb3JqSWdsbjBwRndYSlpaOWtDSXEwemNNTXEtLTBrZHQ1b3FXYTJCblhWUmFHU1BVSEdMWnJNdXI5WnQwb2dtR20wU1BnczV3YlRNbmE?oc=5
-
-**Feed description:** Labcorp Raised Its 2026 Outlook After A Strong Q2 finimize.com
-
-## 16. Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Fierce Biotech: https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkt4eTN2Q0llZHJlS21VeUxvUnF0c1BNNzRTYVJLTXFwMFMtbGdYQXBBTUthSUJKeS1nN2NhSnd0TTNWZzNSd0R6eldzQllldUp1NkR4YWtsSEZCRTdZdFBYMURHQ3Z5MWN6ZWN1cGh1OTg0TEE3aUNqSDAzM20xLUtvNmZCLWo2dGFlbF9PbUVRV1g1UHpDcjhwN29lRXlmUGs0bzRtbUR5bW1pR3hSUmVXOTFxc3RpVUZQdGtwSQ?oc=5
-
-**Feed description:** Labcorp posts higher Q2 earnings on strength of diagnostics, lab services; adjusts full-year guidance Fierce Biotech
-
-## 17. Labcorp Surpasses Q2 Earnings and Revenue Estimates
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVpRQ1ZwVU1RR1pPT2xUNVJDN1dUWkRycEJ5STNxdUo2S0lMM1poem4xeTNWUzNocFl3OXhYRVdvYjZrd0pGVnJES2FXOXIteWViaUE2WWM3WmVnU3ByNmN4bzVJdlpLSGQ3TDY3cUxSTnFDdUkwS2liRThtWDBWMUprSWNnRklraW5mVEtyUEhhWElkM2hRcA?oc=5
-
-**Feed description:** Labcorp Holdings (LH) Surpasses Q2 Earnings and Revenue Estimates finance.yahoo.com
-
-## 18. Labcorp Revises Earnings Guidance for the Full Year 2026
+## 6. Labcorp Revises Earnings Guidance for the Full Year 2026
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -235,7 +82,7 @@
 
 **Feed description:** Labcorp Holdings Inc. Revises Earnings Guidance for the Full Year 2026 marketscreener.com
 
-## 19. Labcorp earnings beat by $0.20, revenue topped estimates
+## 7. Labcorp earnings beat by $0.20, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -247,21 +94,7 @@
 
 **Feed description:** Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com
 
-## 20. Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - tradingview.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0QyR3R6WEsxYTNMVDFfbUR5b0RIbUpWZE44MVFTUHZmOG9VbnZWZ3k2NkZqeWVzU3N2akliOHBaVUtzSUpibGp2ODdmVk1vQ29jSXd1dU9HR3g4THNQeWNKS2pQcHNUeVVCazJIeVVLSVl0ZUtMV0hzMnNpLVl3Y3ZKTzN5SzNFNXZhN293REY3R2dCVGZpaXhndmhmQTMtdjViRVYxVk1PR2RpdGt2RGo2a2EyZzhONXM5cmthZTdVMzhUZ3FIemZfcw?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxORUNfR2o2cnI4WFV2d3RNSnFzQXFGY25mdXB6dFlHWDVoVlRnS1BLNVdyUzNKdDN5WVFtM0t6UTY1eHhoTjkxY3FiNzdob3FwQjUwMmwwNUdHZ2w0SGVBbU4wWVpRcDVoR0g2WE9TRDZhMlUwTml2YklBTkFkRFZhdGlDMnlIalFjVlRSMlk0RnBDeXNEODc0?oc=5
-
-**Feed description:** Labcorp posts Q2 revenue $3.73B, adjusted EPS $4.99; raises 2026 guidance tradingview.com
-
-## 21. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
+## 8. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -274,33 +107,7 @@
 
 **Feed description:** Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com
 
-## 22. Labcorp: Q2 Earnings Snapshot
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - KING5.com: https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0lUb1dyamhXRXZvM2VMOUxKaG5LcVc3ZGZPRHlPX0M3MWNGMkc0b2VCVTNvOUZRTFpxUEp0dzBlbHBkMGw3UzJTcy16alFCWFpNUm4yVWVqZEpLMV81b1RFX2NEMjgxaEcwM2x6aFVfb3BOQ1RuZVVZV2pTMnZIejJzZm9Ba0F5VldkbHRYV2lLZUxKbllzRDNVcXlvenI1ZHcwSE9laHl4NzUwUFE3N2ZoZHp6NHdSU2FlUlZDakVUT1ZtWVE?oc=5
-  - KTVB: https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5
-  - marketscreener.com: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEhiYVVWd0ZnTVpMS1plUC1feVJJOUtWd2ZFRmpvekw1dzBtX0dOamhLemFJX2ItZU53SDA2MG4xeDZLNDk4My1EazdaWjY4SnM0MkcyMngxSUZkWjEtQ0RkYlF5SUkyNklpS1dTNzZBWFdqZS1hckZndGh2c3ltNGdjcHRBSS1m?oc=5
-
-**Feed description:** Labcorp: Q2 Earnings Snapshot marketscreener.com
-
-## 23. Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Quiver Quantitative: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpUdDdKckp3STFiYnBOdDg4SXlrLXJ2WVczNWx6U3MxRHJ1dGRZQkd5bVhkNVJXczJBamZzMkpLbEJEMjFkV0J6TUx4THRJOW94dFZPcXNCMm5NYVBrYjYyUVJZVVZNUUM4S05MQzlJN0Q4YlBFcHI5Uy15QktWX0pETVhwRmRkZmNUN3NkZEVoZw?oc=5
-
-**Feed description:** Labcorp Q2 Revenue Rises 5.8 Percent to $3.73 Billion Quiver Quantitative
-
-## 24. Labcorp raises 2026 guidance and expands $1.4B buyback
+## 9. Labcorp raises 2026 guidance and expands $1.4B buyback
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -312,73 +119,7 @@
 
 **Feed description:** Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net
 
-## 25. BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - tradingview.com: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHhXMmw3aENWakozRHRVRGhhTzM0OTluU3pXWl9aTUNEakc2eHZnT1JIMHRIVmwzaGoxWEpPcUJVY1JEQU1pZW1GYkZWaW4xdmluTkhaTnBoem5IQjdQeFAzR1hOYmlSUzFMNXpyaUNldHdOMkY4VTNfNV9yX1ZleUpkRnlRWUNrbFVhRks5X1dGbm1ReGQzODZ1WVZQOHliSU5pTE16M2w2SU02bmhvQ201TXNQNzJFR2lVaXAyX3I0SF93SlJOUG9XVkFkQTVMdy1yRW5TbnotbTl4U1JkcTFKckpZUms0?oc=5
-
-**Feed description:** BRIEF-Labcorp Q2 Revenue USD 3,730 Million Vs. IBES Estimate USD 3,711 Million tradingview.com
-
-## 26. Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMizAFBVV95cUxObWdPQWZLcHJmTG93cU1naGROeTlna09oOXNNdmF1NlFtTlNuY0swLTJvZU50bG95cmxGTm9udk1nbTZWS3dHZWNJamNFWFFFM3RRMlI4WndnZzhJaGZVMGtBRVFJZF96QUtDRFdmMXFrMEx6VDA3Tk51eGsxa2JZa2VFRUpZMjFLS2hkbjg0RUdnTTI4QWpjRVQwUU9KNEJPQUJRWm1wc2tjUjJQWVUwV2txeDFOSnMyWGhkWUg3eHN6TEI4RURHazFMNzM?oc=5
-  - AOL.com: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDh1U0tpenM1QzhYSWRkMVlETmdmamN2RjN4RmFBTmowY0p2T25kUHFPVXo3a1JBR2k0a3NudTlSNEVrUWdpOGlHamNXYlptTUN5dlhzZ3BGUDlWQjBPSDhuSXlwYXZHVG9TQk9nOXlaeHk0bUR0LUhnSjE4emFMQnZmdGw2S2hm?oc=5
-
-**Feed description:** Labcorp Announces 2026 Second Quarter Results; Raises Full Year 2026 Guidance PR Newswire
-
-## 27. Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5%
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Stock Titan: https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lrVXF2T2QwTGEyYzBHRGxDZGtDLUtDVWZUQl92c1JnN0tsbWlHT3JwZlRTdklCNy1QUms5REJwMkNPb0x4V21JclBHamoxNDlRT05vVHlYMEt5dHF4ZjllRFB2UE02SzFrMmktVzk3NUdCanZScFc3THhZMVRCbzk1RHFKOGV4MlhMN1JEWHhOUFcyZ3lmelBVT0NkLWpuNVVoMlF0T25BQzNvWGV4bG01THc4dGJHYk13VA?oc=5
-
-**Feed description:** Labcorp Expands Cancer Screening Access as Q2 EPS Rises 28.5% stocktitan.net
-
-## 28. Labcorp Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - StockStory: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlg5cWZfam5IM3FJZ3ZTS1hUekFLdjB0aXMtWkt1cHRyMHozdEh5ZlZ6cHlWb3I1ai1SeGZLX2FILVptQldhUGttaURQc3VWdHRkSWRTZmZwY3RmS2xuM29YdXRSQ3RRam44X3BfV3p1YVMwZndfSjFNcDVsSnZNYnp4NFNLNzhDVFZicVF3Tm43eERiUXZWSDBURUJuMkFWSHBlX2t0eTlseXhtMHY3VnFxc3hseGUyT0pTZjk5Q3RvWkVhUURXc0VxS0kycWJqd1VZ?oc=5
-
-**Feed description:** LH Q2 Deep Dive: Specialty Testing and Consumer Growth Drive Guidance Increase stockstory.org
-
-## 29. Labcorp.MX) Q2 FY2026 earnings call transcript
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 6
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5
-  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
-  - AOL.com: https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWDlpbG9LNEFsclpJUHNXVkFoaU9qLUFoeko4ZUhQZzNfZmVWNTlIVkRfSXFSLU1oQnJyekwtcGxIZXlfYy1OY056djhJdWtSRG5FY0VpUm9iTlN1YUtHQTJUcm4tN1FnVmk2d3VJSFczX0I0ZjRWLUJDWQ?oc=5
-  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5
-  - The Globe and Mail: https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5
-  - The Motley Fool: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5
-
-**Feed description:** LABCORP HOLDINGS INC (LH.MX) Q2 FY2026 earnings call transcript Yahoo Finance
-
-## 30. Labcorp raises annual profit forecast on strong testing demand
+## 10. Labcorp raises annual profit forecast on strong testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -394,7 +135,7 @@
 
 **Feed description:** Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada
 
-## 31. Labcorp Reports Q2 CY2026 In Line With Expectations
+## 11. Labcorp Reports Q2 CY2026 In Line With Expectations
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -409,19 +150,7 @@
 
 **Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com
 
-## 32. Labcorp Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates
-
-- **Company:** Labcorp
-- **Publication date:** 29 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5
-
-**Feed description:** Labcorp (LH) Q2 Earnings Preview: What You Should Know Beyond the Headline Estimates finance.yahoo.com
-
-## 33. Labcorp earnings ahead: Can specialty tests sustain momentum?
+## 12. Labcorp earnings ahead: Can specialty tests sustain momentum?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -433,7 +162,7 @@
 
 **Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
 
-## 34. Labcorp expands hereditary risk testing access with genetic health panel
+## 13. Labcorp expands hereditary risk testing access with genetic health panel
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -445,20 +174,7 @@
 
 **Feed description:** Labcorp expands hereditary risk testing access with genetic health panel Yahoo
 
-## 35. What To Expect From Labcorp’s Q2 Earnings
-
-- **Company:** Labcorp
-- **Publication date:** 28 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NGZG1SeWFBUU01b0ozamZpQVhJLVNyWW1ZNlN0TEFhaHgzbE45eEp2OTduamxGbHV6YURYa201dGdSbWhQVEQtaXNsOVRFRDBPczBiVkJwRXlGUzVEN1NvYm1oTHBkSHV5RVpwWkRFNnlVSzFpZDJrZERxbkROZTVKQ0hDbDA0MlEyX1hrRllVZnhZ?oc=5
-
-**Feed description:** What To Expect From Labcorp’s (LH) Q2 Earnings theglobeandmail.com
-
-## 36. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
+## 14. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -470,7 +186,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net
 
-## 37. Labcorp launches genetic health panel for consumers By Investing.com
+## 15. Labcorp launches genetic health panel for consumers By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -483,7 +199,7 @@
 
 **Feed description:** Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa
 
-## 38. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
+## 16. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -495,7 +211,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus
 
-## 39. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
+## 17. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -507,7 +223,7 @@
 
 **Feed description:** Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com
 
-## 40. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
+## 18. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -527,7 +243,7 @@
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
 
-## 41. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
+## 19. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -539,7 +255,7 @@
 
 **Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com
 
-## 42. Labcorp Secures $364.7M Contract for Military Health Services
+## 20. Labcorp Secures $364.7M Contract for Military Health Services
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -551,20 +267,54 @@
 
 **Feed description:** Labcorp (LH) Secures $364.7M Contract for Military Health Services GuruFocus
 
-## 43. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
+## 21. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 36
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2V4Q3BYMW5ybElNajU1dHE0T3NldTlIckV5QV9mS1VjbEtJME9sUV9RZHdYOFc0WUp4S21qekhuSXJXaFJaR3hLNVl4cmR0U2ctTThNRVJXME9MNU5RYnh5d1RHaUI2UXMxWnY1NUdnT1RHZGxwS3RLYm91SzZEZWtiQ3NfZ3FNMFBqWlFYOHhxSTFFVTZMUTVpUE9ncWs?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NGZG1SeWFBUU01b0ozamZpQVhJLVNyWW1ZNlN0TEFhaHgzbE45eEp2OTduamxGbHV6YURYa201dGdSbWhQVEQtaXNsOVRFRDBPczBiVkJwRXlGUzVEN1NvYm1oTHBkSHV5RVpwWkRFNnlVSzFpZDJrZERxbkROZTVKQ0hDbDA0MlEyX1hrRllVZnhZ?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5
+  - StockStory: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlg5cWZfam5IM3FJZ3ZTS1hUekFLdjB0aXMtWkt1cHRyMHozdEh5ZlZ6cHlWb3I1ai1SeGZLX2FILVptQldhUGttaURQc3VWdHRkSWRTZmZwY3RmS2xuM29YdXRSQ3RRam44X3BfV3p1YVMwZndfSjFNcDVsSnZNYnp4NFNLNzhDVFZicVF3Tm43eERiUXZWSDBURUJuMkFWSHBlX2t0eTlseXhtMHY3VnFxc3hseGUyT0pTZjk5Q3RvWkVhUURXc0VxS0kycWJqd1VZ?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5
+  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
+  - AOL.com: https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWDlpbG9LNEFsclpJUHNXVkFoaU9qLUFoeko4ZUhQZzNfZmVWNTlIVkRfSXFSLU1oQnJyekwtcGxIZXlfYy1OY056djhJdWtSRG5FY0VpUm9iTlN1YUtHQTJUcm4tN1FnVmk2d3VJSFczX0I0ZjRWLUJDWQ?oc=5
+  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5
+  - The Motley Fool: https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMizAFBVV95cUxObWdPQWZLcHJmTG93cU1naGROeTlna09oOXNNdmF1NlFtTlNuY0swLTJvZU50bG95cmxGTm9udk1nbTZWS3dHZWNJamNFWFFFM3RRMlI4WndnZzhJaGZVMGtBRVFJZF96QUtDRFdmMXFrMEx6VDA3Tk51eGsxa2JZa2VFRUpZMjFLS2hkbjg0RUdnTTI4QWpjRVQwUU9KNEJPQUJRWm1wc2tjUjJQWVUwV2txeDFOSnMyWGhkWUg3eHN6TEI4RURHazFMNzM?oc=5
+  - AOL.com: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDh1U0tpenM1QzhYSWRkMVlETmdmamN2RjN4RmFBTmowY0p2T25kUHFPVXo3a1JBR2k0a3NudTlSNEVrUWdpOGlHamNXYlptTUN5dlhzZ3BGUDlWQjBPSDhuSXlwYXZHVG9TQk9nOXlaeHk0bUR0LUhnSjE4emFMQnZmdGw2S2hm?oc=5
+  - Stock Titan: https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lrVXF2T2QwTGEyYzBHRGxDZGtDLUtDVWZUQl92c1JnN0tsbWlHT3JwZlRTdklCNy1QUms5REJwMkNPb0x4V21JclBHamoxNDlRT05vVHlYMEt5dHF4ZjllRFB2UE02SzFrMmktVzk3NUdCanZScFc3THhZMVRCbzk1RHFKOGV4MlhMN1JEWHhOUFcyZ3lmelBVT0NkLWpuNVVoMlF0T25BQzNvWGV4bG01THc4dGJHYk13VA?oc=5
+  - tradingview.com: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHhXMmw3aENWakozRHRVRGhhTzM0OTluU3pXWl9aTUNEakc2eHZnT1JIMHRIVmwzaGoxWEpPcUJVY1JEQU1pZW1GYkZWaW4xdmluTkhaTnBoem5IQjdQeFAzR1hOYmlSUzFMNXpyaUNldHdOMkY4VTNfNV9yX1ZleUpkRnlRWUNrbFVhRks5X1dGbm1ReGQzODZ1WVZQOHliSU5pTE16M2w2SU02bmhvQ201TXNQNzJFR2lVaXAyX3I0SF93SlJOUG9XVkFkQTVMdy1yRW5TbnotbTl4U1JkcTFKckpZUms0?oc=5
+  - Quiver Quantitative: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpUdDdKckp3STFiYnBOdDg4SXlrLXJ2WVczNWx6U3MxRHJ1dGRZQkd5bVhkNVJXczJBamZzMkpLbEJEMjFkV0J6TUx4THRJOW94dFZPcXNCMm5NYVBrYjYyUVJZVVZNUUM4S05MQzlJN0Q4YlBFcHI5Uy15QktWX0pETVhwRmRkZmNUN3NkZEVoZw?oc=5
+  - KING5.com: https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0lUb1dyamhXRXZvM2VMOUxKaG5LcVc3ZGZPRHlPX0M3MWNGMkc0b2VCVTNvOUZRTFpxUEp0dzBlbHBkMGw3UzJTcy16alFCWFpNUm4yVWVqZEpLMV81b1RFX2NEMjgxaEcwM2x6aFVfb3BOQ1RuZVVZV2pTMnZIejJzZm9Ba0F5VldkbHRYV2lLZUxKbllzRDNVcXlvenI1ZHcwSE9laHl4NzUwUFE3N2ZoZHp6NHdSU2FlUlZDakVUT1ZtWVE?oc=5
+  - KTVB: https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5
+  - marketscreener.com: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEhiYVVWd0ZnTVpMS1plUC1feVJJOUtWd2ZFRmpvekw1dzBtX0dOamhLemFJX2ItZU53SDA2MG4xeDZLNDk4My1EazdaWjY4SnM0MkcyMngxSUZkWjEtQ0RkYlF5SUkyNklpS1dTNzZBWFdqZS1hckZndGh2c3ltNGdjcHRBSS1m?oc=5
+  - tradingview.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0QyR3R6WEsxYTNMVDFfbUR5b0RIbUpWZE44MVFTUHZmOG9VbnZWZ3k2NkZqeWVzU3N2akliOHBaVUtzSUpibGp2ODdmVk1vQ29jSXd1dU9HR3g4THNQeWNKS2pQcHNUeVVCazJIeVVLSVl0ZUtMV0hzMnNpLVl3Y3ZKTzN5SzNFNXZhN293REY3R2dCVGZpaXhndmhmQTMtdjViRVYxVk1PR2RpdGt2RGo2a2EyZzhONXM5cmthZTdVMzhUZ3FIemZfcw?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxORUNfR2o2cnI4WFV2d3RNSnFzQXFGY25mdXB6dFlHWDVoVlRnS1BLNVdyUzNKdDN5WVFtM0t6UTY1eHhoTjkxY3FiNzdob3FwQjUwMmwwNUdHZ2w0SGVBbU4wWVpRcDVoR0g2WE9TRDZhMlUwTml2YklBTkFkRFZhdGlDMnlIalFjVlRSMlk0RnBDeXNEODc0?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVpRQ1ZwVU1RR1pPT2xUNVJDN1dUWkRycEJ5STNxdUo2S0lMM1poem4xeTNWUzNocFl3OXhYRVdvYjZrd0pGVnJES2FXOXIteWViaUE2WWM3WmVnU3ByNmN4bzVJdlpLSGQ3TDY3cUxSTnFDdUkwS2liRThtWDBWMUprSWNnRklraW5mVEtyUEhhWElkM2hRcA?oc=5
+  - Fierce Biotech: https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkt4eTN2Q0llZHJlS21VeUxvUnF0c1BNNzRTYVJLTXFwMFMtbGdYQXBBTUthSUJKeS1nN2NhSnd0TTNWZzNSd0R6eldzQllldUp1NkR4YWtsSEZCRTdZdFBYMURHQ3Z5MWN6ZWN1cGh1OTg0TEE3aUNqSDAzM20xLUtvNmZCLWo2dGFlbF9PbUVRV1g1UHpDcjhwN29lRXlmUGs0bzRtbUR5bW1pR3hSUmVXOTFxc3RpVUZQdGtwSQ?oc=5
+  - Finimize: https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG5VdW5HNXVhcEJvUFlxeDZHeUZiQVN5WGxIYXpmMkFUSkpGQ1JDMVFRU2hOeldBb3JqSWdsbjBwRndYSlpaOWtDSXEwemNNTXEtLTBrZHQ1b3FXYTJCblhWUmFHU1BVSEdMWnJNdXI5WnQwb2dtR20wU1BnczV3YlRNbmE?oc=5
+  - marketscreener.com: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQTFJQlJhVEZSeEFHdUFFTmdMT0JpelF1X1NaUDNuNGQwbFVJS3NhbHdQUF95YmFld0xMYXJHbk5QbWFaVlRJWHNSaWFoNHJIYXlHODlST0dyNjlaeXpmY3dGMHgzOFdGYlVlNTZNYXJKSFBNOVlEeE1RcVZRZmFCNGVOQkFlTkRIWjNkYWJ4TFRZZHdTdDhqZ2ZDRmY1ZU9rQ1pXZ1VBOUNpT0dFSlVnUmlLc3hsaG0welE5LTM0WHYxcDdxM0hjTThkclBtRm16eDRMVW9qQ3BjUENneVFlbjFHRHc?oc=5
+  - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGZ3VFM1MURKa19NejdQa20zeFN1TmhWTlFmSFpoU0xNQk5fYTVDMzgzYmdyWDdzY2lwVW1SbnpUaDdxZDVGdVAtMGsxOE15OGFwcXY5LUlTcDFIZTZyc2ZFNjVSbjUzX3BXb2ROeVhIRG1iSU0yZUJzTENOY3ZsYkpORzQtQQ?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXZuZktEdnNJcVl2ZmxxQTR5ZlVMWm94bzFDSEZ4MHdhOFVZa29ibnJ6QmkxZGJtWlBrN2xpZVNVMTlSTE02RnI2cnBrQjNpdk9iMk94ckFPQklGWmgxSGZnVURINFZ0MktHS2o5Nkc3alRIUmhYREZFbzdadF9IaDJmS3NHR3pfdlVEZ2NaWmM1UkUwRTMtRXN3d003SXpGTTIwSzkxQV9rYkZMVndmaFJ0cGxQSU45ZTRrdC1oV0lTSW1BTTZSeXZlMmpmMGM?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlBhQ3ZYRHlhSHh0cktxb01LUDRGTU02b0dsbGdJZzN6MVQwUGc0VDI1X1M1ZUJhemtwU1k4SFhzUkFWWW9jYXVUaWFyNlNfdEZFUDRRaE9ub0dxY1pNNWtYU2J2V0F6WGlJNWRZQkM5SWJDbUJVaFlwUDJUWTJmSmNqcW5FQUVhS2RyX1RsVlBhWGFMR0hZVUZocnZfemMyS2xaeUtfeFZac1NuY0p5aEpaQmppbmozOE81VHJObU5OWWJv?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0xBYVh6a2d6MjdMMHRqTzVMUEhQNHRWQVhKZmtfX3RFUU5UVmVBbXFLVm05TE40aXpsbEQ5bzh5T3lsOHY0alJucUFSV3FmSEQ2SVE3WTdzNFQta3pGZ0hUN3VyT0pGM25KNW00NW4zT203bXNTa2NhbGxOMWplaUdIUlBXTzNtcjc1YWN6ajNSLVdwdG9uWFZ3LXVXdEpUNmhuVmhYamtNY3Q3a2FvSHRieU83QQ?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0E3OE4wYi1fQTNYY0NqXzFGXzRUVF9tQWtWRWtJRGxyMDd1bWxrUEdoMktYaDVSaGNLVUgzRngtWWxJOW5BVEVrY2VaclRyWVJHMmlia0Fyc1RDTmRjQndtUW9Yb3JaYkFLZGJVMklnaU5LYlNYVnQ3dXRsck9GRWkxVGRHdk1TdkJBNHBFSjFLWVItOTFPX0hxcFo1MWZxQ1lrQzB3SEJ1bl9pbFJrLUpB?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMW1GRkVXNllQMlJIWUNob3QtaGdkWV9vSzJBd3VzSTYwZGhQWjVQcWxNc0dOVXlGTVd0aDFJTDIzQzE4Yk1OUUpGWWhEVVdRWVgxN0ZvaXlNRkgteGhybG5aVjBjTGx1aFVKTE1fSXdUczJYQVE4ZmVrVHZSS2lpaV91ckhLcGd5SS0zWkctRnZlN1M4R0lTV2FOVWZRTmR2VktnYU1kVkFxS190NWhQZkdLbDJPN3RGQ2RqSG9GSTlpSnJRXzhXZC1VYjBMcjQ1Z0FTTTQzcEtaS0hNek5lNW9JMHhyOGZqeFhEa2IwOFNLdjJX?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTkyYmZaUkF3b2tNTGNnS1lRbF8wdzRWejAzUGhXZjJZQ1lDR25GTDFaamMtb1I1LTItejFDWjRzSE9ZR2VwaS0xc182VUtuM0VSQ2JFQkU3enhIZlFkWTlPVWlraVU2a0R1ZmhZSnBtZUMxblg3OU5oU0V3S3h3eFluQVpaWDB6cW5Ga3RzWk1KZTg?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMimwFBVV95cUxPS25EVTFwdUNaMkVld2xheFRwZ1Y1dlF2YnlZS0FJSmlhb202cTlyVjFoTDJkVWJQbUJGcHBSVGVoY1dkOXk4N0g3VUZhNzE3YVVWUzdTSEFVaGVOZEozZlJ2UDRucHhOTjI0RFp6UU9pb2lmcC1tMGh5Wko5NWFsWi1HVFBENXRIbVJTcHFPdjhMN3dVdFhUOHBlSQ?oc=5
+  - Pluang: https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjB3OTdTLTlaN1BLRzB5bEVuMi1CeXRaOFV1dC1DSVN3bXN1UE1KUGN2cHFwZjBqMGlmb3lWeHh3Q0JvWnRqTEZ2MUxaMnFVWVF4VVE5VHFsS0ZnUWthYmRLazlWRndQOEhDS3M0NHhSOWZRS1Z0ODdjR051eHZhazFSd0U3eEhJRU1hNGdrTWp1UXNx?oc=5
 
-**Feed description:** Labcorp Prepares to Report Q2 Earnings: What's in the Cards? - July 22, 2026 Zacks Investment Research
+**Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 
-## 44. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
+## 22. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
 
 - **Company:** Labcorp
 - **Publication date:** 21 Jul 2026
@@ -576,7 +326,7 @@
 
 **Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com
 
-## 45. Business tidbits: Labcorp opens expanded patient service center in Yakima
+## 23. Business tidbits: Labcorp opens expanded patient service center in Yakima
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -588,7 +338,7 @@
 
 **Feed description:** Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic
 
-## 46. Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing
+## 24. Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -600,7 +350,7 @@
 
 **Feed description:** Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing Clinical Lab Products
 
-## 47. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
+## 25. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
 
 - **Company:** Labcorp
 - **Publication date:** 15 Jul 2026
@@ -612,7 +362,7 @@
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec Yahoo Finance
 
-## 48. Labcorp Declares Cash Dividend of $0.72 Per S
+## 26. Labcorp Declares Cash Dividend of $0.72 Per S
 
 - **Company:** Labcorp
 - **Publication date:** 10 Jul 2026
@@ -624,7 +374,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
 
-## 49. Labcorp Declares Quarterly Dividend
+## 27. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
