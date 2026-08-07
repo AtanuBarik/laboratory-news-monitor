@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-07T18:20:34.670843+05:30",
-  "generated_at_display": "07 Aug 2026, 6:20 PM IST",
+  "generated_at": "2026-08-07T18:21:25.814678+05:30",
+  "generated_at_display": "07 Aug 2026, 6:21 PM IST",
   "item_count": 117,
-  "raw_relevant_item_count": 297,
-  "duplicates_merged": 128,
+  "raw_relevant_item_count": 299,
+  "duplicates_merged": 132,
   "failures": [],
   "items": [
     {
@@ -742,7 +742,7 @@
       "company": "Quest Diagnostics",
       "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR IR Impact",
+      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
       "source": "IR Impact",
       "source_url": "https://www.ir-impact.com",
       "source_domain": "ir-impact.com",
@@ -3127,7 +3127,7 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 52,
+  "low_value_items_removed": 50,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership.",
   "next_update_at": "2026-08-08T00:17:00+05:30",
   "next_update_display": "08 Aug 2026, 12:17 AM IST",
