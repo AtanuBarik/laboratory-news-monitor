@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 07 Aug 2026, 6:46 PM IST
+- **Repository generated:** 07 Aug 2026, 6:47 PM IST
 - **Distinct events in this file:** 49
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -30,13 +30,13 @@
   - Investing.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5
   - Clinical Lab Products: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFBxbjZSTnoweGNkajlzaXVJY1VXU2Foemd5S3k5UlI3N3g2Y0hFd1o0SlhpWGxrTmxndUhTYXNfX0dBSlBENlNkYnFoVG94eHB0azJIRTZtZER0MXZQa1dBSmRvUzItNFJ3QWxrdVZJMDBFUUtocGNKeUlkblhMcGh3MUx4NWRkaFZJQUJpTnZvd1lpMGM4NVRCbHJhNFZvb3lXQ1VaTU1WMjIzU3A0Sl9R?oc=5
 
-**Feed description:** Labcorp Launches FDA-Approved IHC Companion Diagnostic for Prostate Cancer Clinical Lab Products
+**Feed description:** Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.
 
 ## 3. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
 
 - **Company:** Labcorp
 - **Publication date:** 03 Aug 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
