@@ -7,7 +7,9 @@ on:
     paths:
       - index.html
       - data/news.json
+      - data/email_status.json
       - data/workflow_health.json
+      - data/chatgpt_summaries.json
       - data/chatgpt_strategic_synthesis.json
       - knowledge/**
       - assets/email-logos/rendered/**
@@ -45,7 +47,9 @@ jobs:
           mkdir -p _site/data _site/assets/email-logos/rendered _site/assets/email-icons/rendered _site/knowledge
           cp index.html _site/index.html
           cp data/news.json _site/data/news.json
+          if [ -f data/email_status.json ]; then cp data/email_status.json _site/data/email_status.json; fi
           if [ -f data/workflow_health.json ]; then cp data/workflow_health.json _site/data/workflow_health.json; fi
+          if [ -f data/chatgpt_summaries.json ]; then cp data/chatgpt_summaries.json _site/data/chatgpt_summaries.json; fi
           if [ -f data/chatgpt_strategic_synthesis.json ]; then cp data/chatgpt_strategic_synthesis.json _site/data/chatgpt_strategic_synthesis.json; fi
           cp -R assets/email-logos/rendered/. _site/assets/email-logos/rendered/
           cp -R assets/email-icons/rendered/. _site/assets/email-icons/rendered/
@@ -58,10 +62,16 @@ jobs:
           items = payload.get('items') or []
           if not isinstance(items, list):
               raise SystemExit('data/news.json has an invalid items field')
+          for optional in ('email_status.json','workflow_health.json','chatgpt_summaries.json','chatgpt_strategic_synthesis.json'):
+              path = Path('_site/data') / optional
+              if path.exists():
+                  json.loads(path.read_text(encoding='utf-8'))
           print('Prepared news records:', len(items))
           print('Repository timestamp:', payload.get('generated_at_display'))
           print('Published company logos:', len(list(Path('_site/assets/email-logos/rendered').glob('*'))))
           print('Published category icons:', len(list(Path('_site/assets/email-icons/rendered').glob('*'))))
+          print('Published email status:', Path('_site/data/email_status.json').exists())
+          print('Published ChatGPT summaries:', Path('_site/data/chatgpt_summaries.json').exists())
           print('Published ChatGPT synthesis:', Path('_site/data/chatgpt_strategic_synthesis.json').exists())
           PY
 
