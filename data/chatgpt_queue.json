@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T02:54:05.460636+05:30",
-  "generated_at_display": "08 Aug 2026, 2:54 AM IST",
+  "generated_at": "2026-08-08T10:06:37.184054+05:30",
+  "generated_at_display": "08 Aug 2026, 10:06 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 73,
+  "remaining_unsummarized_count": 74,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,25 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fe4a58a5ec445897fde0",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals",
+      "source": "Traders Union",
+      "description": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals Traders Union",
+      "published_at": "2026-08-05T22:14:20+00:00",
+      "published_display": "05 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
         }
       ]
     },
@@ -632,25 +651,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "28d2507af43335dab03e",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary",
-      "source": "TradingView",
-      "description": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary TradingView",
-      "published_at": "2026-07-23T20:21:01+00:00",
-      "published_display": "23 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5"
         }
       ]
     }

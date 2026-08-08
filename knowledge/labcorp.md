@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 08 Aug 2026, 2:40 AM IST
+- **Repository generated:** 08 Aug 2026, 10:06 AM IST
 - **Distinct events in this file:** 28
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -284,7 +284,7 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 36
+- **Coverage count:** 38
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5
@@ -323,6 +323,8 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTkyYmZaUkF3b2tNTGNnS1lRbF8wdzRWejAzUGhXZjJZQ1lDR25GTDFaamMtb1I1LTItejFDWjRzSE9ZR2VwaS0xc182VUtuM0VSQ2JFQkU3enhIZlFkWTlPVWlraVU2a0R1ZmhZSnBtZUMxblg3OU5oU0V3S3h3eFluQVpaWDB6cW5Ga3RzWk1KZTg?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMimwFBVV95cUxPS25EVTFwdUNaMkVld2xheFRwZ1Y1dlF2YnlZS0FJSmlhb202cTlyVjFoTDJkVWJQbUJGcHBSVGVoY1dkOXk4N0g3VUZhNzE3YVVWUzdTSEFVaGVOZEozZlJ2UDRucHhOTjI0RFp6UU9pb2lmcC1tMGh5Wko5NWFsWi1HVFBENXRIbVJTcHFPdjhMN3dVdFhUOHBlSQ?oc=5
   - Pluang: https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjB3OTdTLTlaN1BLRzB5bEVuMi1CeXRaOFV1dC1DSVN3bXN1UE1KUGN2cHFwZjBqMGlmb3lWeHh3Q0JvWnRqTEZ2MUxaMnFVWVF4VVE5VHFsS0ZnUWthYmRLazlWRndQOEhDS3M0NHhSOWZRS1Z0ODdjR051eHZhazFSd0U3eEhJRU1hNGdrTWp1UXNx?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWVKcmYwLVpudDNtYWo1UzZlVjFyZ21nUktuRHRRZHZTOXJvOGpLUFgzbUlTcmJ2bTIzZWJYczc0Z1I5WHJPQWhYR19CeFJCaE1HeEVwVG4ycTMzUExFTUY4RHBmN2htY0k2c0N2TUJKX1NaT29UOUUxckt4RnFjRmZ4MnA4NDlPbzE4akFjdnpqcERjeXpEeA?oc=5
+  - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnFBcklvVFBWVGtRNnEtVTR5aktLcmgzUXdLYUZCekJPUjU5ZmN3TXR4OVdxdVJUaU04M3A2UVd4RWlEZDRNYURQaElkTERfODhEeGlQNFoyVExMX25vTmJkcWRYSkJpX1FJSGFYXzB0VHNWTVAtRzIyMUFRYzB5VA?oc=5
 
 **Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 
