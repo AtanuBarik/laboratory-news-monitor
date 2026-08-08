@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T19:49:04.011659+05:30",
-  "generated_at_display": "08 Aug 2026, 7:49 PM IST",
-  "item_count": 80,
-  "raw_relevant_item_count": 265,
-  "duplicates_merged": 89,
+  "generated_at": "2026-08-09T01:27:15.058062+05:30",
+  "generated_at_display": "09 Aug 2026, 1:27 AM IST",
+  "item_count": 81,
+  "raw_relevant_item_count": 266,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
     {
@@ -1170,9 +1170,15 @@
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NMkxvQlFNWGNaTm9kbkNJd0lMVFlWOF92VXcwQWNmczJhMVRMTWRFNDJNa05pbG9NZURDZUhsS1dwYUM0Yk9jWEpYY1kzdmt1SXNmdnlBUkxqdw?oc=5",
           "domain": "lelezard.com",
           "published_at": "2026-07-27T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXU4eXRkaW5ZN0k4a0dSblhMUG1nTVB6UmJxRG9nMGMzUnUwVDFQel9oQXEwcF9ndTVHalJPd21KZTlDQjZqWEpRSXJITFhHNkVSSUN2UGR6V3JObmw4blVBVDRzaEtUQlBvX0t4QmRqcEdrdk00YW95eEVYQU0wWHVEZUpadHhzLW9FYTBXcEM5WDlqY2MxSnZFZw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-31T07:00:00+00:00"
         }
       ],
-      "coverage_count": 9,
+      "coverage_count": 10,
       "event_signature": "access consumer expanding genetic health hereditary launches marker panel risk testing"
     },
     {
@@ -1597,7 +1603,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZjJTTlZaU2tudmlMcU1RcFgtdkZYUzNrSldPMG5iclRva2dQUDlIdUp1UmVURGNuZ3BPcmc1OThKLU9WSE5SdHNVZzV1ZkxURlBPdzNVLWN5SlFmYmVkbFVzcWlxeWtKRExYUzRiZ19wT21zR2VqNE1rWnhqTk9rblQ4Qkw2UWhiSVE?oc=5",
-      "description": "Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street StocksToTrade",
+      "description": "Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street stockstotrade.com",
       "source": "StocksToTrade",
       "source_url": "https://stockstotrade.com",
       "source_domain": "stockstotrade.com",
@@ -2074,9 +2080,15 @@
           "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRdIBY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRQ?oc=5",
           "domain": "bitget.com",
           "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdndYR3ZsM2RSTW1KSGVaZS16NG1qcDgtV1FvUkNSV2t5bXpLTUNVZVhwMTRob2hlNFdLTFhVYXNVNktaNE9qNXJoVkw4dy1xVEhNOGdEazBlRUNJSl9xbWVqblJjYnNVQ2RhWHVwRzVEWTdvQTFFMzlhUVJNaFg4UFdqUkYyZ1E5a3poYnBoczQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 39,
+      "coverage_count": 40,
       "event_signature": "cards earnings prepares report what"
     },
     {
@@ -2196,6 +2208,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "assessing gains highs lows momentum sector support technical"
+    },
+    {
+      "id": "bc0ffc022cb3076e82d8",
+      "company": "Quest Diagnostics",
+      "title": "A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5",
+      "description": "A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2% Trefis",
+      "source": "Trefis",
+      "source_url": "https://www.trefis.com",
+      "source_domain": "trefis.com",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "published_display": "16 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Trefis",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5",
+          "domain": "trefis.com",
+          "published_at": "2026-07-16T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "day down has losing stock streak"
     },
     {
       "id": "4e687fe336b544e8d5f8",
@@ -2547,10 +2583,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 77,
+  "post_prune_financial_duplicates_merged": 24,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-09T00:17:00+05:30",
-  "next_update_display": "09 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-09T06:17:00+05:30",
+  "next_update_display": "09 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
