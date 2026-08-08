@@ -1,15 +1,16 @@
 {
-  "checked_at": "2026-08-08T20:31:11.983593+05:30",
-  "checked_at_display": "08 Aug 2026, 8:31 PM IST",
+  "checked_at": "2026-08-09T02:32:11.010424+05:30",
+  "checked_at_display": "09 Aug 2026, 2:32 AM IST",
   "status": "no_summarizable_items",
-  "ranked_candidate_count": 3,
+  "ranked_candidate_count": 4,
   "low_value_dismissed_count": 0,
-  "attempted_summary_count": 3,
+  "attempted_summary_count": 4,
   "verified_summary_count": 0,
   "unreadable_ids": [
     "0bc80dc092ee276171ab",
     "0aedc8ea57534ac746c1",
-    "fe4a58a5ec445897fde0"
+    "fe4a58a5ec445897fde0",
+    "bc0ffc022cb3076e82d8"
   ],
   "gemini_quota_exhausted": false,
   "gemini_error": "",
