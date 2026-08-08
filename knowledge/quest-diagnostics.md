@@ -71,7 +71,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
-- **Category:** Other
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
