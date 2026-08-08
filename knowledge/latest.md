@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 08 Aug 2026, 10:06 AM IST
+- **Repository generated:** 08 Aug 2026, 12:36 PM IST
 - **Distinct events in this file:** 80
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -154,7 +154,7 @@
 - **Sources:**
   - O'Dwyer's PR: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5
 
-**Feed description:** PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR
+**Feed description:** Quest Diagnostics appointed Dominique Chokshi as its new Head of Investor Relations in July 2026. The change was confirmed on Quest’s second-quarter earnings call, where the company introduced Chokshi as having joined the organization the prior week. The role places Chokshi in charge of the company’s investor-relations function and positions him as a key interface between Quest’s executive team and the investment community. The appointment comes as Quest is communicating a period of strong operating momentum. In the same second-quarter reporting cycle, the company disclosed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth, and adjusted diluted EPS of $3.12, up 19.1%. Quest also raised its full-year 2026 revenue and adjusted EPS guidance. Chokshi therefore assumes the investor-relations role while management is emphasizing volume growth, consumer and wellness partnerships, advanced diagnostics, hospital collaborations and acquisition-driven expansion. Public reporting on the personnel move did not disclose compensation, a predecessor transition date, or additional changes to Quest’s finance leadership structure. The available evidence supports a focused organizational change within investor relations rather than a broader executive-management reshuffle. Chokshi’s arrival adds dedicated leadership to shareholder communications during a period when Quest is increasing guidance and broadening its growth narrative across core testing and newer diagnostic channels.
 
 ## 13. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
 
@@ -270,7 +270,7 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - Reuters: https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5
@@ -278,6 +278,7 @@
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk9PUWQ3MjRNaWJWdmpmU2RIdERYcE1WMmZlTVJlZEZHcTFBR1RMd2JnazZjanE0TWRJRTVneGY1blpvRFh3dnNKU0ZkeEowZno5cUo0ZGlfckc1MG1qVl9VUGZjNmJXSk03ZF9uSmRLb1lmY2puYXNxYWp0Wmp4TVh6QnNMdmFNR203TnI0bw?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmtlcnJlNS1pNTZkVWtwUjFKY2JrOE1WdGdJajE5aldiZXJwZm55cFEtLVNNYW4wZlBvTS0xdzVTZmcxSk1sd0tqWWMtNlZhTmRnczdZT3ZkUE1ET3o3ZGpGRG5ITVNhM0xsZ0ZpdzFpTjl1cHpXb1lOeV9EenBUYVhhVGtCOWh4M0RNN0hMOU1BYS1BaVN3cW1lbDYzRFNCeWhkOWt2TEJFcnVnc2FRZ2ZhZkNndw?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5
+  - 93.3 The Drive: https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVFSGxYWm10VzhyUHpLZGxFZnZmbVNTWTEtNWdtd3JLY3ZGRFFPOUw1M252N3I1cW9remtmWGV2bXlHMFdnZG1zSHhjbndVVnhlM2FvMkluN2FUd0o1SFBIUGlwRnVkcGV5bzRBalA0TUdQdWQwVWJfS1BLN3Y2Smc1MHhmaTdiSFh1Z0JEckJub1Z1TGZ5Rjlvd04xMnBxc0VNQg?oc=5
 
 **Feed description:** Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada
 

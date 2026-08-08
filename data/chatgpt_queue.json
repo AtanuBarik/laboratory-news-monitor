@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T10:12:23.947594+05:30",
-  "generated_at_display": "08 Aug 2026, 10:12 AM IST",
+  "generated_at": "2026-08-08T12:36:42.960777+05:30",
+  "generated_at_display": "08 Aug 2026, 12:36 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 74,
+  "remaining_unsummarized_count": 73,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -385,7 +385,7 @@
       "published_at": "2026-07-30T07:00:00+00:00",
       "published_display": "30 Jul 2026",
       "official_source": false,
-      "coverage_count": 5,
+      "coverage_count": 6,
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
       "sources": [
         {
@@ -407,6 +407,10 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5"
+        },
+        {
+          "name": "93.3 The Drive",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVFSGxYWm10VzhyUHpLZGxFZnZmbVNTWTEtNWdtd3JLY3ZGRFFPOUw1M252N3I1cW9remtmWGV2bXlHMFdnZG1zSHhjbndVVnhlM2FvMkluN2FUd0o1SFBIUGlwRnVkcGV5bzRBalA0TUdQdWQwVWJfS1BLN3Y2Smc1MHhmaTdiSFh1Z0JEckJub1Z1TGZ5Rjlvd04xMnBxc0VNQg?oc=5"
         }
       ]
     },

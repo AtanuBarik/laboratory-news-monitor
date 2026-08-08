@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T10:06:34.140306+05:30",
-  "generated_at_display": "08 Aug 2026, 10:06 AM IST",
+  "generated_at": "2026-08-08T12:36:39.934768+05:30",
+  "generated_at_display": "08 Aug 2026, 12:36 PM IST",
   "item_count": 80,
-  "raw_relevant_item_count": 263,
-  "duplicates_merged": 99,
+  "raw_relevant_item_count": 262,
+  "duplicates_merged": 93,
   "failures": [],
   "items": [
     {
@@ -361,7 +361,7 @@
       "company": "Quest Diagnostics",
       "title": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5",
-      "description": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR",
+      "description": "Quest Diagnostics appointed Dominique Chokshi as its new Head of Investor Relations in July 2026. The change was confirmed on Quest’s second-quarter earnings call, where the company introduced Chokshi as having joined the organization the prior week. The role places Chokshi in charge of the company’s investor-relations function and positions him as a key interface between Quest’s executive team and the investment community. The appointment comes as Quest is communicating a period of strong operating momentum. In the same second-quarter reporting cycle, the company disclosed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth, and adjusted diluted EPS of $3.12, up 19.1%. Quest also raised its full-year 2026 revenue and adjusted EPS guidance. Chokshi therefore assumes the investor-relations role while management is emphasizing volume growth, consumer and wellness partnerships, advanced diagnostics, hospital collaborations and acquisition-driven expansion. Public reporting on the personnel move did not disclose compensation, a predecessor transition date, or additional changes to Quest’s finance leadership structure. The available evidence supports a focused organizational change within investor relations rather than a broader executive-management reshuffle. Chokshi’s arrival adds dedicated leadership to shareholder communications during a period when Quest is increasing guidance and broadening its growth narrative across core testing and newer diagnostic channels.",
       "source": "O'Dwyer's PR",
       "source_url": "https://www.odwyerpr.com",
       "source_domain": "odwyerpr.com",
@@ -378,7 +378,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 chief chokshi jul move names thu"
+      "event_signature": "2026 chief chokshi jul move names thu",
+      "source_description": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR",
+      "chatgpt_summary": "Quest Diagnostics appointed Dominique Chokshi as its new Head of Investor Relations in July 2026. The change was confirmed on Quest’s second-quarter earnings call, where the company introduced Chokshi as having joined the organization the prior week. The role places Chokshi in charge of the company’s investor-relations function and positions him as a key interface between Quest’s executive team and the investment community. The appointment comes as Quest is communicating a period of strong operating momentum. In the same second-quarter reporting cycle, the company disclosed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth, and adjusted diluted EPS of $3.12, up 19.1%. Quest also raised its full-year 2026 revenue and adjusted EPS guidance. Chokshi therefore assumes the investor-relations role while management is emphasizing volume growth, consumer and wellness partnerships, advanced diagnostics, hospital collaborations and acquisition-driven expansion. Public reporting on the personnel move did not disclose compensation, a predecessor transition date, or additional changes to Quest’s finance leadership structure. The available evidence supports a focused organizational change within investor relations rather than a broader executive-management reshuffle. Chokshi’s arrival adds dedicated leadership to shareholder communications during a period when Quest is increasing guidance and broadening its growth narrative across core testing and newer diagnostic channels.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_updated_at": "2026-08-08T12:35:00+05:30",
+      "summary_evidence": [
+        "https://www.marketbeat.com/earnings/reports/2026-7-23-quest-diagnostics-incorporated-stock/",
+        "https://www.benzinga.com/news/26/07/60637386/transcript-quest-diagnostics-q2-2026-earnings-conference-call",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "2238325c47bcfcea8d12",
@@ -640,9 +649,15 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-07-30T15:34:40+00:00"
+        },
+        {
+          "name": "93.3 The Drive",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVFSGxYWm10VzhyUHpLZGxFZnZmbVNTWTEtNWdtd3JLY3ZGRFFPOUw1M252N3I1cW9remtmWGV2bXlHMFdnZG1zSHhjbndVVnhlM2FvMkluN2FUd0o1SFBIUGlwRnVkcGV5bzRBalA0TUdQdWQwVWJfS1BLN3Y2Smc1MHhmaTdiSFh1Z0JEckJub1Z1TGZ5Rjlvd04xMnBxc0VNQg?oc=5",
+          "domain": "933thedrive.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "annual demand forecast profit raises strong testing"
     },
     {
@@ -2520,10 +2535,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 65,
+  "post_prune_financial_duplicates_merged": 24,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-08T12:17:00+05:30",
-  "next_update_display": "08 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-08T18:17:00+05:30",
+  "next_update_display": "08 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
