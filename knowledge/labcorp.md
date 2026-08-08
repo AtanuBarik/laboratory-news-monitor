@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 08 Aug 2026, 7:49 PM IST
+- **Repository generated:** 09 Aug 2026, 1:27 AM IST
 - **Distinct events in this file:** 28
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -242,7 +242,7 @@
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
 - **Category:** Product & Services
-- **Coverage count:** 9
+- **Coverage count:** 10
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5
@@ -254,6 +254,7 @@
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzg1OG5hTTctRjlISHpaUnhrRkxmWGc0MTZ5ZFpMOVlURV9SZmVxd2xiV0h2YTg1RERCQVpUaWFHU1E1NmhkMG1sVE9EaXdDbndxM1cwbjk1M2NUQjhMeDZKTF9TcWZqQ3RSejBXS3M1clJsOVB1UDdnNWthSkdVNnRNekpmSm1qSFR3?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkJ0enYxUHRwUHRuRmJzdEJCSlNvVDJFX1hCWE5veWwwcGxNbVZESzItUDhqb1RkeC1MeDRMWmNRbTZBaEUwWlEwQVJKRFZlYllyZkFPSHkzZm85eGxqd1hNWkktbVVIell1SURJVXJveHQ3UUpVem0ydGcyQTA2U1lYU2JaZ1VkYnZN?oc=5
   - Lelezard: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NMkxvQlFNWGNaTm9kbkNJd0lMVFlWOF92VXcwQWNmczJhMVRMTWRFNDJNa05pbG9NZURDZUhsS1dwYUM0Yk9jWEpYY1kzdmt1SXNmdnlBUkxqdw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXU4eXRkaW5ZN0k4a0dSblhMUG1nTVB6UmJxRG9nMGMzUnUwVDFQel9oQXEwcF9ndTVHalJPd21KZTlDQjZqWEpRSXJITFhHNkVSSUN2UGR6V3JObmw4blVBVDRzaEtUQlBvX0t4QmRqcEdrdk00YW95eEVYQU0wWHVEZUpadHhzLW9FYTBXcEM5WDlqY2MxSnZFZw?oc=5
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
 
@@ -286,7 +287,7 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 39
+- **Coverage count:** 40
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5
@@ -328,6 +329,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWVKcmYwLVpudDNtYWo1UzZlVjFyZ21nUktuRHRRZHZTOXJvOGpLUFgzbUlTcmJ2bTIzZWJYczc0Z1I5WHJPQWhYR19CeFJCaE1HeEVwVG4ycTMzUExFTUY4RHBmN2htY0k2c0N2TUJKX1NaT29UOUUxckt4RnFjRmZ4MnA4NDlPbzE4akFjdnpqcERjeXpEeA?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnFBcklvVFBWVGtRNnEtVTR5aktLcmgzUXdLYUZCekJPUjU5ZmN3TXR4OVdxdVJUaU04M3A2UVd4RWlEZDRNYURQaElkTERfODhEeGlQNFoyVExMX25vTmJkcWRYSkJpX1FJSGFYXzB0VHNWTVAtRzIyMUFRYzB5VA?oc=5
   - Bitget: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRdIBY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRQ?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPdndYR3ZsM2RSTW1KSGVaZS16NG1qcDgtV1FvUkNSV2t5bXpLTUNVZVhwMTRob2hlNFdLTFhVYXNVNktaNE9qNXJoVkw4dy1xVEhNOGdEazBlRUNJSl9xbWVqblJjYnNVQ2RhWHVwRzVEWTdvQTFFMzlhUVJNaFg4UFdqUkYyZ1E5a3poYnBoczQ?oc=5
 
 **Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 

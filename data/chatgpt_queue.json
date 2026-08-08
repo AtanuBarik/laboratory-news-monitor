@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T20:31:10.313977+05:30",
-  "generated_at_display": "08 Aug 2026, 8:31 PM IST",
+  "generated_at": "2026-08-09T01:27:18.068381+05:30",
+  "generated_at_display": "09 Aug 2026, 1:27 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 73,
+  "remaining_unsummarized_count": 74,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -66,6 +66,25 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc0ffc022cb3076e82d8",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%",
+      "source": "Trefis",
+      "description": "A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2% Trefis",
+      "published_at": "2026-07-16T07:00:00+00:00",
+      "published_display": "16 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5",
+      "sources": [
+        {
+          "name": "Trefis",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5"
         }
       ]
     },
@@ -178,7 +197,7 @@
       "published_at": "2026-07-27T07:00:00+00:00",
       "published_display": "27 Jul 2026",
       "official_source": false,
-      "coverage_count": 9,
+      "coverage_count": 10,
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5",
       "sources": [
         {
@@ -636,25 +655,6 @@
         {
           "name": "Sahm",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZExVMEhGUWs0al9OcWtJTU5nQUVPdE10bnVtTDRJc3FPYlNLZ1VHWkdsUmFhUlUxRnZSV2RDaElId1NtQ3RFYXJlQVJQXy1PMVJBUjRDYTEzd0V6cVlQZkU4eDFud3JqR0NWdGFWUG5hUnE2RmhrQ3ZBSV9YWm1sRXJ4Z2EyY3pCN2t2X2hnNS03cHZad3RzWGlvMHRoRXhuLW9jUGFCOHJVdlluVWFLS3R3QUVkeHh4SjJROXcxRjd3WUtuRUF4U3p0a0VlRUc1a3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf76d1979ce6b46d85e5",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?",
-      "source": "Yahoo Finance",
-      "description": "Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5"
         }
       ]
     }

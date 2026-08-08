@@ -1,7 +1,7 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 08 Aug 2026, 7:49 PM IST
-- **Distinct events in this file:** 80
+- **Repository generated:** 09 Aug 2026, 1:27 AM IST
+- **Distinct events in this file:** 81
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -482,7 +482,7 @@
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
 - **Category:** Product & Services
-- **Coverage count:** 9
+- **Coverage count:** 10
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5
@@ -494,6 +494,7 @@
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzg1OG5hTTctRjlISHpaUnhrRkxmWGc0MTZ5ZFpMOVlURV9SZmVxd2xiV0h2YTg1RERCQVpUaWFHU1E1NmhkMG1sVE9EaXdDbndxM1cwbjk1M2NUQjhMeDZKTF9TcWZqQ3RSejBXS3M1clJsOVB1UDdnNWthSkdVNnRNekpmSm1qSFR3?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkJ0enYxUHRwUHRuRmJzdEJCSlNvVDJFX1hCWE5veWwwcGxNbVZESzItUDhqb1RkeC1MeDRMWmNRbTZBaEUwWlEwQVJKRFZlYllyZkFPSHkzZm85eGxqd1hNWkktbVVIell1SURJVXJveHQ3UUpVem0ydGcyQTA2U1lYU2JaZ1VkYnZN?oc=5
   - Lelezard: https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NMkxvQlFNWGNaTm9kbkNJd0lMVFlWOF92VXcwQWNmczJhMVRMTWRFNDJNa05pbG9NZURDZUhsS1dwYUM0Yk9jWEpYY1kzdmt1SXNmdnlBUkxqdw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXU4eXRkaW5ZN0k4a0dSblhMUG1nTVB6UmJxRG9nMGMzUnUwVDFQel9oQXEwcF9ndTVHalJPd21KZTlDQjZqWEpRSXJITFhHNkVSSUN2UGR6V3JObmw4blVBVDRzaEtUQlBvX0t4QmRqcEdrdk00YW95eEVYQU0wWHVEZUpadHhzLW9FYTBXcEM5WDlqY2MxSnZFZw?oc=5
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
 
@@ -714,7 +715,7 @@
 - **Sources:**
   - StocksToTrade: https://news.google.com/rss/articles/CBMiigFBVV95cUxQZjJTTlZaU2tudmlMcU1RcFgtdkZYUzNrSldPMG5iclRva2dQUDlIdUp1UmVURGNuZ3BPcmc1OThKLU9WSE5SdHNVZzV1ZkxURlBPdzNVLWN5SlFmYmVkbFVzcWlxeWtKRExYUzRiZ19wT21zR2VqNE1rWnhqTk9rblQ4Qkw2UWhiSVE?oc=5
 
-**Feed description:** Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street StocksToTrade
+**Feed description:** Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street stockstotrade.com
 
 ## 57. Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.
 
@@ -829,7 +830,7 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 39
+- **Coverage count:** 40
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5
@@ -871,6 +872,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWVKcmYwLVpudDNtYWo1UzZlVjFyZ21nUktuRHRRZHZTOXJvOGpLUFgzbUlTcmJ2bTIzZWJYczc0Z1I5WHJPQWhYR19CeFJCaE1HeEVwVG4ycTMzUExFTUY4RHBmN2htY0k2c0N2TUJKX1NaT29UOUUxckt4RnFjRmZ4MnA4NDlPbzE4akFjdnpqcERjeXpEeA?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnFBcklvVFBWVGtRNnEtVTR5aktLcmgzUXdLYUZCekJPUjU5ZmN3TXR4OVdxdVJUaU04M3A2UVd4RWlEZDRNYURQaElkTERfODhEeGlQNFoyVExMX25vTmJkcWRYSkJpX1FJSGFYXzB0VHNWTVAtRzIyMUFRYzB5VA?oc=5
   - Bitget: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRdIBY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRQ?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPdndYR3ZsM2RSTW1KSGVaZS16NG1qcDgtV1FvUkNSV2t5bXpLTUNVZVhwMTRob2hlNFdLTFhVYXNVNktaNE9qNXJoVkw4dy1xVEhNOGdEazBlRUNJSl9xbWVqblJjYnNVQ2RhWHVwRzVEWTdvQTFFMzlhUVJNaFg4UFdqUkYyZ1E5a3poYnBoczQ?oc=5
 
 **Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 
@@ -934,7 +936,19 @@
 
 **Feed description:** Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et
 
-## 72. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
+## 72. A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 16 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Trefis: https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5
+
+**Feed description:** A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2% Trefis
+
+## 73. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
 
 - **Company:** Labcorp
 - **Publication date:** 15 Jul 2026
@@ -946,7 +960,7 @@
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec Yahoo Finance
 
-## 73. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
+## 74. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -977,7 +991,7 @@
 
 **Feed description:** [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% finance.biggo.com
 
-## 74. Labcorp Declares Cash Dividend of $0.72 Per S
+## 75. Labcorp Declares Cash Dividend of $0.72 Per S
 
 - **Company:** Labcorp
 - **Publication date:** 10 Jul 2026
@@ -989,7 +1003,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
 
-## 75. List of Investments by Quest Diagnostics (Jul, 2026)
+## 76. List of Investments by Quest Diagnostics (Jul, 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -1001,7 +1015,7 @@
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
 
-## 76. Labcorp Declares Quarterly Dividend
+## 77. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -1016,7 +1030,7 @@
 
 **Feed description:** Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com
 
-## 77. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 78. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
@@ -1028,7 +1042,7 @@
 
 **Feed description:** Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au
 
-## 78. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
+## 79. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1040,7 +1054,7 @@
 
 **Feed description:** Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products
 
-## 79. Quest Diagnostics integrates cancer testing int...
+## 80. Quest Diagnostics integrates cancer testing int...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1052,7 +1066,7 @@
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
 
-## 80. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
+## 81. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Jul 2026
