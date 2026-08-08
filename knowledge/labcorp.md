@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 08 Aug 2026, 12:36 PM IST
+- **Repository generated:** 08 Aug 2026, 1:53 PM IST
 - **Distinct events in this file:** 28
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5
 
-**Feed description:** LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary TradingView
+**Feed description:** LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary tradingview.com
 
 ## 2. Labcorp Paying Out $35M in Settlement: Who’s Eligible
 

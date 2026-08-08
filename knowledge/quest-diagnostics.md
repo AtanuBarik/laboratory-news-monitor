@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 08 Aug 2026, 12:36 PM IST
+- **Repository generated:** 08 Aug 2026, 1:53 PM IST
 - **Distinct events in this file:** 47
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -377,7 +377,7 @@
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5
 
-**Feed description:** Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary TradingView
+**Feed description:** Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary tradingview.com
 
 ## 31. Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com
 
