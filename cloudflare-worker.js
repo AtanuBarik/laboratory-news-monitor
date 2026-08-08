@@ -9,8 +9,11 @@
  */
 
 const ALLOWED_ORIGINS = new Set(["https://atanubarik.github.io"]);
-const NEWS_URL = "https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json";
-const WORKER_VERSION = "2026-08-07.2";
+const NEWS_URLS = [
+  "https://atanubarik.github.io/quest-intelligence-360/data/laboratory-news.json",
+  "https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json",
+];
+const WORKER_VERSION = "2026-08-08.3";
 const MODEL_CANDIDATES = ["gemini-3.6-flash", "gemini-3.5-flash-lite"];
 const MAX_REQUESTED_IDS = 600;
 const MAX_CHAT_ITEMS = 45;
@@ -144,9 +147,22 @@ async function callGemini(env, prompt, options = {}) {
 }
 
 async function fetchRepository() {
-  const response = await fetch(`${NEWS_URL}?cache=${Date.now()}`, { headers: { Accept: "application/json" } });
-  if (!response.ok) throw new Error(`GitHub repository returned HTTP ${response.status}.`);
-  return response.json();
+  const failures = [];
+  for (const source of NEWS_URLS) {
+    try {
+      const response = await fetch(`${source}?cache=${Date.now()}`, { headers: { Accept: "application/json" } });
+      if (!response.ok) {
+        failures.push(`${source}: HTTP ${response.status}`);
+        continue;
+      }
+      const payload = await response.json();
+      if (Array.isArray(payload?.items) && payload.items.length) return payload;
+      failures.push(`${source}: empty or invalid items`);
+    } catch (error) {
+      failures.push(`${source}: ${error instanceof Error ? error.message : String(error)}`);
+    }
+  }
+  throw new Error(`No laboratory news source is available. ${failures.join(" | ")}`);
 }
 
 function selectionFromIds(items, requestedIds) {
