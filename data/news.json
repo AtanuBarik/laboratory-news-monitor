@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-08T02:40:55.688907+05:30",
-  "generated_at_display": "08 Aug 2026, 2:40 AM IST",
-  "item_count": 79,
-  "raw_relevant_item_count": 259,
+  "generated_at": "2026-08-08T10:06:34.140306+05:30",
+  "generated_at_display": "08 Aug 2026, 10:06 AM IST",
+  "item_count": 80,
+  "raw_relevant_item_count": 263,
   "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "fe4a58a5ec445897fde0",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
+      "description": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals Traders Union",
+      "source": "Traders Union",
+      "source_url": "https://tradersunion.com",
+      "source_domain": "tradersunion.com",
+      "published_at": "2026-08-05T22:14:20+00:00",
+      "published_display": "05 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
+          "domain": "tradersunion.com",
+          "published_at": "2026-08-05T22:14:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "235 above bullish despite holds intact overbought resistance signals stock trend"
+    },
     {
       "id": "0aedc8ea57534ac746c1",
       "company": "Labcorp",
@@ -818,7 +842,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -2011,9 +2035,21 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjB3OTdTLTlaN1BLRzB5bEVuMi1CeXRaOFV1dC1DSVN3bXN1UE1KUGN2cHFwZjBqMGlmb3lWeHh3Q0JvWnRqTEZ2MUxaMnFVWVF4VVE5VHFsS0ZnUWthYmRLazlWRndQOEhDS3M0NHhSOWZRS1Z0ODdjR051eHZhazFSd0U3eEhJRU1hNGdrTWp1UXNx?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-30T20:52:11+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWVKcmYwLVpudDNtYWo1UzZlVjFyZ21nUktuRHRRZHZTOXJvOGpLUFgzbUlTcmJ2bTIzZWJYczc0Z1I5WHJPQWhYR19CeFJCaE1HeEVwVG4ycTMzUExFTUY4RHBmN2htY0k2c0N2TUJKX1NaT29UOUUxckt4RnFjRmZ4MnA4NDlPbzE4akFjdnpqcERjeXpEeA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnFBcklvVFBWVGtRNnEtVTR5aktLcmgzUXdLYUZCekJPUjU5ZmN3TXR4OVdxdVJUaU04M3A2UVd4RWlEZDRNYURQaElkTERfODhEeGlQNFoyVExMX25vTmJkcWRYSkJpX1FJSGFYXzB0VHNWTVAtRzIyMUFRYzB5VA?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-07-30T21:08:48+00:00"
         }
       ],
-      "coverage_count": 36,
+      "coverage_count": 38,
       "event_signature": "cards earnings prepares report what"
     },
     {
@@ -2091,7 +2127,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcWp5N185cHhSZnFjT1I5aTlwamp0cjEyZUU5QmVLZ0NkTGY1RjdwNHlKU1A3QUlQM0tsMXhHRkF2ZWhLdHhTaGdOcFZDVTdHTldzdjV0Rk50MlpVRWxvTDlkcTJFSGJjY0J5b2kxVTRJTFNJVW4ySS1DMlhTTW5PNkJBY1RxZzUyV0ZDQXdHejFtWDMtRDYzM2VXaXRrSzZPdVl6ZEFDUWZWdWFQYkJhM05PbUN3aWdnUDdfS19PZ1BFVmlseXZtVXBCc21EdXNiYXF3?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors marketwatch.com",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -2271,9 +2307,27 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcmdGdENtcUM5YjBzN2ZSSWF6OXRVYVJmSWdITnhDVHVaSDRVSTJySDlONmdzZjk1X2R5QnJ5TlNGV25XeXByN3dNOHNDZ2Rac29hSXJoUkJOR3NpbG9OdWVCMkJTSnVobVlOaHV6Sm8wUEZiVXpDcjN0ZG9MOFg3QkVyQXVLU1E3Q3B3MTNJblE3dTlVTFdCMElmRE9RUFZBTzA0T2NvVURGdEpLTmJzZDVrcHZLWm92NjJz?oc=5",
           "domain": "seekingalpha.com",
           "published_at": "2026-07-24T07:00:00+00:00"
+        },
+        {
+          "name": "sharewise.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkdnS01HUjloWDVBOC00Ul95M29LSk14MGhlcUY3VnA5dzBjX3J4bUh3UGVmaVRMRGVfLTdiVG0wOWczVnVtZ3ZmVDA4ekk1ejBSMXZtbVJHQnNqZ3BuemJ4QzZ6YXhNY0RLckJFTG9FNlF2eFJHc0ljUlhkaUVEc05OVDZXakNpR2t4YXc4S2k3dUJEYmVqZndITzdPX1BFQ1VqSGR3d1lBY1RTQV9adkNrckEwQnB3SjlaaWgybGQyOTJmakRPU0paeS1udw?oc=5",
+          "domain": "sharewise.com",
+          "published_at": "2026-07-14T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHBVUTlvSkZ2eHp2OTkwLUpXYi1JNFJxbU1Pdjdsb2tPRlZDOEZDMzEtZXdJckZQY0R4SlROZkZXUlF3UFdqdjBDck9rWVNtcENLU0FYYTdUMW5OMUoyTHBaMmdNQ2RfV3FmaXd5cTRVR2RCNnpmMEVPN0k2NmxSdFdYUUZZWE0xNFRhQ1VpWi1nZEhFQjJvd3hud0pBRjNUcm5kX2R3?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHZScnQzVDc3S1lYVVE5QmJ2RmZOWXRBbmIxSFE4azljVnY4UUpsSXQwLW94eVN1SHBIYmFyRTRkdkhxWHlMMTJKSUdCSTRidnV6bmpRQ1h0UjFZM3J0bVU3U1g4cUZSaTZKY0ZKNklPUlpqVUR6VFNiNGhmQkRMTnc3TnhVd2ktRS1DSDZ0aUJWb0U?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
         }
       ],
-      "coverage_count": 17,
+      "coverage_count": 20,
       "event_signature": "channels customer earnings focus key report"
     },
     {
@@ -2466,10 +2520,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 58,
+  "post_prune_financial_duplicates_merged": 26,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-08T06:17:00+05:30",
-  "next_update_display": "08 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-08T12:17:00+05:30",
+  "next_update_display": "08 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
