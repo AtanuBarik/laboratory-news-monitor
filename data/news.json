@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-08T13:53:31.784139+05:30",
-  "generated_at_display": "08 Aug 2026, 1:53 PM IST",
+  "generated_at": "2026-08-08T19:49:04.011659+05:30",
+  "generated_at_display": "08 Aug 2026, 7:49 PM IST",
   "item_count": 80,
   "raw_relevant_item_count": 265,
-  "duplicates_merged": 93,
+  "duplicates_merged": 89,
   "failures": [],
   "items": [
     {
@@ -554,36 +554,6 @@
       "event_signature": "beat earnings estimates revenue topped"
     },
     {
-      "id": "db59d3c0eaf07e497188",
-      "company": "Labcorp",
-      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-      "description": "Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "source_domain": "bloomberg.com",
-      "published_at": "2026-07-30T11:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-          "domain": "bloomberg.com",
-          "published_at": "2026-07-30T11:00:00+00:00"
-        },
-        {
-          "name": "Modern Healthcare",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXFrWnJVZ1BmaXRWWjJJZVl4SGM0XzZoLUlqdF93YjJ1c3RHNFAyNHFVOHFnTF9OTmFFVGxqcWlUNDZWZmdHUEpXX3o1NTdrT0ZEMXVheWhoeUFYOXNwWmpXMEN1NndjTm53UkliOFppRjV1ZjBIVHV6dWxtTVpqSG5pRTI0cVZPeXpVWjZTMA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T15:54:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "demand earnings medical outlook raises strong testing"
-    },
-    {
       "id": "1300497ab979c1697414",
       "company": "Labcorp",
       "title": "Labcorp raises 2026 guidance and expands $1.4B buyback",
@@ -725,6 +695,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 drivers growth investors now should watch"
+    },
+    {
+      "id": "0bc80dc092ee276171ab",
+      "company": "Labcorp",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+      "description": "Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "source_domain": "bloomberg.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Modern Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXFrWnJVZ1BmaXRWWjJJZVl4SGM0XzZoLUlqdF93YjJ1c3RHNFAyNHFVOHFnTF9OTmFFVGxqcWlUNDZWZmdHUEpXX3o1NTdrT0ZEMXVheWhoeUFYOXNwWmpXMEN1NndjTm53UkliOFppRjV1ZjBIVHV6dWxtTVpqSG5pRTI0cVZPeXpVWjZTMA?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-07-31T15:54:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "demand earnings medical outlook raises strong testing"
     },
     {
       "id": "7cfd8e27018f27b1a958",
@@ -2068,9 +2068,15 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnFBcklvVFBWVGtRNnEtVTR5aktLcmgzUXdLYUZCekJPUjU5ZmN3TXR4OVdxdVJUaU04M3A2UVd4RWlEZDRNYURQaElkTERfODhEeGlQNFoyVExMX25vTmJkcWRYSkJpX1FJSGFYXzB0VHNWTVAtRzIyMUFRYzB5VA?oc=5",
           "domain": "sg.finance.yahoo.com",
           "published_at": "2026-07-30T21:08:48+00:00"
+        },
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRdIBY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRQ?oc=5",
+          "domain": "bitget.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 38,
+      "coverage_count": 39,
       "event_signature": "cards earnings prepares report what"
     },
     {
@@ -2541,10 +2547,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 72,
+  "post_prune_financial_duplicates_merged": 24,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-08T18:17:00+05:30",
-  "next_update_display": "08 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-09T00:17:00+05:30",
+  "next_update_display": "09 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
