@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-04T13:14:51.591795+00:00",
-  "last_successful_email_at": "2026-08-09T14:47:16.308639+05:30",
+  "last_successful_email_at": "2026-08-10T02:35:53.698028+05:30",
   "notified_ids": [
     "000944de40fb8759e486",
     "0029dbd05411b8be132f",
@@ -600,6 +600,7 @@
     "ed79259306494567d1f4",
     "ed9a987165b3eb29a1a0",
     "ee13cfc5d1f4e35af777",
+    "ef01db00ce5a4ff25908",
     "ef3a5e4b37dd093bb1b0",
     "ef83d2bfd245a3e835a8",
     "f0167e057ec1ca1e34cf",
@@ -631,6 +632,6 @@
     "ff8539db3bbd42a595c8",
     "ffede0cca64cf8811c45"
   ],
-  "last_successful_email_count": 8,
+  "last_successful_email_count": 1,
   "dismissed_ids": []
 }
