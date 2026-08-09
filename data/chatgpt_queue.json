@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T10:57:27.023685+05:30",
-  "generated_at_display": "09 Aug 2026, 10:57 AM IST",
+  "generated_at": "2026-08-09T14:42:13.208112+05:30",
+  "generated_at_display": "09 Aug 2026, 2:42 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 74,
+  "remaining_unsummarized_count": 75,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -51,6 +51,25 @@
       ]
     },
     {
+      "id": "698c3248416c71aed00d",
+      "company": "Labcorp",
+      "category": "Organizational Updates",
+      "title": "Labcorp Number of Employees 2026 | Employee Count & Headcount Data",
+      "source": "Revelio Labs",
+      "description": "Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "published_at": "2026-07-29T21:29:01+00:00",
+      "published_display": "29 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
+      "sources": [
+        {
+          "name": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fe4a58a5ec445897fde0",
       "company": "Quest Diagnostics",
       "category": "Other",
@@ -66,6 +85,44 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "810aa6c73706d03720d7",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
+      "source": "PR Newswire",
+      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "94b0bb8fd0cc2c893f57",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
+      "source": "roi-nj.com",
+      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
+      "sources": [
+        {
+          "name": "roi-nj.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5"
         }
       ]
     },
@@ -622,63 +679,6 @@
         {
           "name": "simplywall.st",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0ZuN0p1YVBSd0JEek5RbExOOVV5ZG5oNTNMVFNqLWRfTXllR0xPX3pRRDBEWE4yUlNoX0VaTkl0aFlla3RmUlZ1NkR4WG5uT2EtY2hCc0VIeXViUGdrTEFJaFBfdmc4Qks1ZzVJZzUzc2dRVGRGS09zYjhMSE1hZDM4UmQwc3F6Ni1vRHIxLWdsdV9SWXhNTDRDRGR4WUNKNk1FVHBrQkRfRUdtZ0h2X1I1eHFfZFJCY3M4SEdsYTFMM3cyMGlWb3NkZEk1WXNL0gHWAUFVX3lxTE5tbERKd1ViRDBQQm1sNkhqZ3hCenZpaUgwV3lfbDVudHhMeHl6WEYyb0Z6dURPT3l5VTlxRTZEQllmWGFfcl9NMkVjZ1JPZ1oxck1yV29PdHd3YnNOX3lRN1ZDbXRrb0d2dXNYRmdHZVN4SjhLa3VZRWtaYUtrTVFwOGxoMkFGODZsMVYtYlhkY1RNejhtZU9teGxteUtic2lOdzdDZ0RGVUlmY0x1UTlCYkdDSHkxYjlwZmIwQzNLeUtKQlRhNGxMX2tsMWI2Y2dLVFhpc3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c02e51cab07fadeb04f",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
-      "source": "TradingKey",
-      "description": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com",
-      "published_at": "2026-07-25T22:23:04+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "baeee3c77eab7f9bd55f",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength",
-      "source": "dars.gov.et",
-      "description": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength dars.gov.et",
-      "published_at": "2026-07-25T07:04:28+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5",
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "197143a6ae5e6c805fbb",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
-      "source": "Yahoo Finance",
-      "description": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com",
-      "published_at": "2026-07-25T07:00:00+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5"
         }
       ]
     }
