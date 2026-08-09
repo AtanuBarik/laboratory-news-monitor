@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 09 Aug 2026, 10:20 AM IST
+- **Repository generated:** 09 Aug 2026, 2:42 PM IST
 - **Distinct events in this file:** 48
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -92,19 +92,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus
 
-## 8. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 30 Jul 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - ROI-NJ: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5
-
-**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com
-
-## 9. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR
+## 8. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -115,6 +103,18 @@
   - IR Impact: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5
 
 **Feed description:** People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com
+
+## 9. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Jul 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5
+
+**Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com
 
 ## 10. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
 
@@ -128,7 +128,7 @@
 
 **Feed description:** Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire
 
-## 11. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026
+## 11. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -136,9 +136,9 @@
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5
+  - roi-nj.com: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5
 
-**Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com
+**Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com
 
 ## 12. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com
 
@@ -544,7 +544,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 21
+- **Coverage count:** 22
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxORVNtQmFVU1JIMzZHNEdoNlJRMHRibkdFS0ZIX0NZNmZzazFLcV9YazU3d0psQ3NtdXZPTHpVS2VfR0NmRFRJMGlkTGJmNHREazY5VDFueDhRNUlldVZva0xyemJ0T2VKUkdzajhEeDQwWER0VzB5M19MMkgxVDR0aVdXRVdUT2dRTGZoUjdNZTZjaGlNX2JMeW5oa1Bodw?oc=5
@@ -568,6 +568,7 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHBVUTlvSkZ2eHp2OTkwLUpXYi1JNFJxbU1Pdjdsb2tPRlZDOEZDMzEtZXdJckZQY0R4SlROZkZXUlF3UFdqdjBDck9rWVNtcENLU0FYYTdUMW5OMUoyTHBaMmdNQ2RfV3FmaXd5cTRVR2RCNnpmMEVPN0k2NmxSdFdYUUZZWE0xNFRhQ1VpWi1nZEhFQjJvd3hud0pBRjNUcm5kX2R3?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHZScnQzVDc3S1lYVVE5QmJ2RmZOWXRBbmIxSFE4azljVnY4UUpsSXQwLW94eVN1SHBIYmFyRTRkdkhxWHlMMTJKSUdCSTRidnV6bmpRQ1h0UjFZM3J0bVU3U1g4cUZSaTZKY0ZKNklPUlpqVUR6VFNiNGhmQkRMTnc3TnhVd2ktRS1DSDZ0aUJWb0U?oc=5
   - barchart.com: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTFZUQ0hVOXB6OWdwLU0zV2RMMU1nTXBsWkdkU08wckQ4RHpFM04ybm1EM2V0RjF2aWwzRS1JZ0oyLUtHWXg4eGc0cFBHZVR2cG5HVVVGWWl4Zmk5YmJBVUVkd3pDd3d3Y3IxbHNSa1NHYVpvR1VnYWlydWQ5WEhDMmNXTldYNV9MbUNZaFNjQ0NnZ1lRblFiV2dhY1NiSDJXZlppMlFWYl9Db0RZbjV5NHdBSVBUWDFPVkhhUS1rYTNKMkJTMUxFNWo3QnZnNkE3NTU2cGNSWjhrOUxDNUpyWmhDSmhIbkpBLUN5Ym9naw?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMihgJBVV95cUxNXy1tRENwSFh4clRYMXhmc1Z2emlKX29vb1VzYlZacFRHb0EzM3RhcE5RbmRrRkd6RVJTNExQSlBrRGlVcXpKR0lLSE9RYnBtWFFRWm9iRlBvbi1HRTZCeUxsTjFHUWFfYmRCaTNFOHdlai1wcklMcFc1VWtmeEN6SlVLcTZhTmZ5Y1pHdDF1eUFFT054bmRfZTlOakRWYmNNMndYZjEwZGFvNk5va3BkeW82bkFHeU9JTFVhNXBtQmZibGZDckROLVhzVWhFSTc3U1U5ZE9YbkhBTDRfa1JwVjBHUFF4RHg1RGRDM2J4aWpQRGdLcFVMbHRsZWQyOTI2eWpyNzFn?oc=5
 
 **Feed description:** [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% finance.biggo.com
 

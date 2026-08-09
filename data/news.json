@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-09T10:20:00.246200+05:30",
-  "generated_at_display": "09 Aug 2026, 10:20 AM IST",
-  "item_count": 81,
-  "raw_relevant_item_count": 262,
-  "duplicates_merged": 80,
+  "generated_at": "2026-08-09T14:42:10.290021+05:30",
+  "generated_at_display": "09 Aug 2026, 2:42 PM IST",
+  "item_count": 82,
+  "raw_relevant_item_count": 261,
+  "duplicates_merged": 78,
   "failures": [],
   "items": [
     {
@@ -443,30 +443,6 @@
       "event_signature": "chief commercial dela mark officer svp"
     },
     {
-      "id": "54c57550348b6b8ea01c",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
-      "source": "ROI-NJ",
-      "source_url": "https://www.roi-nj.com",
-      "source_domain": "roi-nj.com",
-      "published_at": "2026-07-30T13:44:10+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ROI-NJ",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-          "domain": "roi-nj.com",
-          "published_at": "2026-07-30T13:44:10+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "chokshi investor merck names president relations vet vice"
-    },
-    {
       "id": "7ae7da1f27bd119f8422",
       "company": "Quest Diagnostics",
       "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
@@ -512,29 +488,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 earnings full guidance revises year"
-    },
-    {
-      "id": "b5e247283716db531e0a",
-      "company": "Quest Diagnostics",
-      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire",
-      "source": "PR Newswire",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T11:30:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:30:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "bacterial finds increased infection linked million national sti study vaginosis women"
     },
     {
       "id": "bef82adae503aa06a4a2",
@@ -737,6 +690,78 @@
       ],
       "coverage_count": 2,
       "event_signature": "demand earnings medical outlook raises strong testing"
+    },
+    {
+      "id": "810aa6c73706d03720d7",
+      "company": "Quest Diagnostics",
+      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
+      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bacterial finds increased infection linked million national sti study vaginosis women"
+    },
+    {
+      "id": "94b0bb8fd0cc2c893f57",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
+      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
+      "source": "roi-nj.com",
+      "source_url": "https://www.roi-nj.com",
+      "source_domain": "roi-nj.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "roi-nj.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
+          "domain": "roi-nj.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "chokshi investor merck names president relations vet vice"
+    },
+    {
+      "id": "698c3248416c71aed00d",
+      "company": "Labcorp",
+      "title": "Labcorp Number of Employees 2026 | Employee Count & Headcount Data",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
+      "description": "Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "source": "Revelio Labs",
+      "source_url": "https://www.reveliolabs.com",
+      "source_domain": "reveliolabs.com",
+      "published_at": "2026-07-29T21:29:01+00:00",
+      "published_display": "29 Jul 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
+          "domain": "reveliolabs.com",
+          "published_at": "2026-07-29T21:29:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 count data employee employees headcount number"
     },
     {
       "id": "1be2ec1321dc39f0df29",
@@ -2424,9 +2449,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTFZUQ0hVOXB6OWdwLU0zV2RMMU1nTXBsWkdkU08wckQ4RHpFM04ybm1EM2V0RjF2aWwzRS1JZ0oyLUtHWXg4eGc0cFBHZVR2cG5HVVVGWWl4Zmk5YmJBVUVkd3pDd3d3Y3IxbHNSa1NHYVpvR1VnYWlydWQ5WEhDMmNXTldYNV9MbUNZaFNjQ0NnZ1lRblFiV2dhY1NiSDJXZlppMlFWYl9Db0RZbjV5NHdBSVBUWDFPVkhhUS1rYTNKMkJTMUxFNWo3QnZnNkE3NTU2cGNSWjhrOUxDNUpyWmhDSmhIbkpBLUN5Ym9naw?oc=5",
           "domain": "barchart.com",
           "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNXy1tRENwSFh4clRYMXhmc1Z2emlKX29vb1VzYlZacFRHb0EzM3RhcE5RbmRrRkd6RVJTNExQSlBrRGlVcXpKR0lLSE9RYnBtWFFRWm9iRlBvbi1HRTZCeUxsTjFHUWFfYmRCaTNFOHdlai1wcklMcFc1VWtmeEN6SlVLcTZhTmZ5Y1pHdDF1eUFFT054bmRfZTlOakRWYmNNMndYZjEwZGFvNk5va3BkeW82bkFHeU9JTFVhNXBtQmZibGZDckROLVhzVWhFSTc3U1U5ZE9YbkhBTDRfa1JwVjBHUFF4RHg1RGRDM2J4aWpQRGdLcFVMbHRsZWQyOTI2eWpyNzFn?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-07-23T15:19:33+00:00"
         }
       ],
-      "coverage_count": 21,
+      "coverage_count": 22,
       "event_signature": "channels customer earnings focus key report"
     },
     {
@@ -2619,10 +2650,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 27,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-09T12:17:00+05:30",
-  "next_update_display": "09 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-09T18:17:00+05:30",
+  "next_update_display": "09 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
