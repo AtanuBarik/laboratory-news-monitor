@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 09 Aug 2026, 1:27 AM IST
+- **Repository generated:** 09 Aug 2026, 10:20 AM IST
 - **Distinct events in this file:** 48
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -59,11 +59,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 03 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1lDU1pKQkRNNU9VbkRMZmR6TktFTzNwd0xENnFxQ0ZqMHlRNlZtRmRTVnd3bzE3S2JzbHBhUDlJVmRFRk9JZWdNZ2RXNUNSMHRHTkpQd3o1REdmbG5kMVIwRmI0Qk9lZzN0YVI1MUpweUJRVlJOaFhHNXhKVlpNTWwzRGY4ckRGcGRISXNZdmpoQWFEVGhOYTh6NXpMNjg?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQTTFvT18zWDU2Y1V0cjdWa3k1aTZCbHRXYzR1LVNZVGE4dFlEeWxBdmdhMXZKTGVyeGVrcDV1Mk1WaU5xY0ZmOXh0cTBaU3IwUDlzUkxIcTdhc2JRTGJxbV82LTNYM2VFZWlRc1llSF8tZUZRUlB0V3hMNDYteDdZMnlUZ3J0bnp2dTVZV0Z0YVhGMHR1bFZxOXN2eEZDdUZuVGhFdmViTmdLX3lla1YzTjUwdkI1cE9sNU8zX2J0MkhWT21kT3UxNU9lMUNFQ2UxVHVwcWxSOVlQblpIUXhsbVRGZ1BnUGct?oc=5
+  - theglobeandmail.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd180R3FVdmFTMnpRcjczRzlRaVZFaTdMMjQyS0JuOXJVOXNIWFM2Y0RldHM0M3FIbDRHbFByVHExQ3J6UVpiVlgwajVObEhKMXdiUE95T2JEV0F4SjdfZk1qZzJNd0pPMXNURDdCMmJvb2pPLVpBVWwwcDVNdVhtdUNZTVBCMEdockoxTXFLNEZWRmQwQXZqLUt1NXh5Ty16OGdLS00yM1dneGZ2UlQxcWxWU1M4RGhDYjNuMnhrVVhtaXlEWnhhNF90d1YybFNQUkhyOHV2UlFwczFnQWxOUVNVRkpwUQ?oc=5
 
 **Feed description:** Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.
 
@@ -144,9 +145,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
 - **Category:** Other
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5
   - Investing.com UK: https://news.google.com/rss/articles/CBMitwFBVV95cUxQek5vMXVwVm9uLW1XTm9qQmg0aVRNMmpKSEVnSFhOc0Y2aG1VcW0wRWNERDNEUXV2ZGFEY19hYVIwZU8yQ3FVa3VJSmxwOWt2amV5d3ZUQXFhN3RvNGtzZTFkZWstLXhOQk9sbzl4QWg5T3o2MTN3eF8yVXFGNTI0YjNFT1NjZ29EVFloVllkRGpVcmN3YVkxLXczQnV1WVQ2NlZWaVBtS0hCcjhLVGhyNHRCWG1nV2c?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzFsUkFuMVhJWUNfR2FQZ0xuTzdJYWxrLTlDemtPQzM2bWJfT1BLLVhrUEJnZkxoYVFIWkd6ZGpwbG1TS3E0emkxaENVODYwRTlhMHhYSXE2VEVNU2dNd1JPLTBwNHQ5TWhrQ0xvQTdCWHNwOENIVzhETUNGbWZtMUpfRkVDSmU1al9JejFFaE1CODREeWU5NnZidnJoU04ySFI3RnhFSTFxSFFaS0o5azNEb3FqXzRRbDdmSg?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2ktNHBjb3ZzaE8zS285WW5iRkNIUUM3NThNUjBGRlJGYzRyOVZkQlROeS1PYVFLMGhrTUZGNjQ1ZHl1a3ZRTnp3TmhUQ0FDaVRteVRqUUd5TXBnZ1lSc2p3OGQ4RDUzZjVWY2RHRmlObVYxVDlBdWtvemV0Rkh3M2h2MERXc1ltdjRDLVJXLVF4V3ZtX3ExTG5RUUtxX1BPNHhwNTdOMzN3cGxJUEh5b1ZNTVhuR28?oc=5
@@ -353,7 +355,7 @@
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5
 
-**Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and MindWalk Holdings (HYFT) The Globe and Mail
+**Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and MindWalk Holdings (HYFT) theglobeandmail.com
 
 ## 29. Quest Diagnostics Shares Surge 8.6% -- What GF Score o
 
@@ -396,10 +398,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Reuters: https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXpoTjluNk1vbHlYSGJVOEt6OWl2NFRieG8wQTcwMnRBTWlVTzZoc09lenltaHJEenVERlIwb0JGVlc5Vlk3NGc5WlpRZ2dmTUdMRk9yRE5kcWxnb3RuaktlRWxOQjdacFNRX2pkenh0WW9xdXFlMU9UVmZpdk1IY0pIY01XVlNWQ0tBSXJoWmJaV1JVYW1fVXZLUkdRZ1VKaUtkZVFhclcxZHlhc0tPVnFPMHJpWDdtTVVDU0VZUnptQ0Nkb3g0?oc=5
 
 **Feed description:** Quest Diagnostics raises annual forecast on testing demand reuters.com
 
@@ -541,7 +544,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 20
+- **Coverage count:** 21
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxORVNtQmFVU1JIMzZHNEdoNlJRMHRibkdFS0ZIX0NZNmZzazFLcV9YazU3d0psQ3NtdXZPTHpVS2VfR0NmRFRJMGlkTGJmNHREazY5VDFueDhRNUlldVZva0xyemJ0T2VKUkdzajhEeDQwWER0VzB5M19MMkgxVDR0aVdXRVdUT2dRTGZoUjdNZTZjaGlNX2JMeW5oa1Bodw?oc=5
@@ -564,6 +567,7 @@
   - sharewise.com: https://news.google.com/rss/articles/CBMizgFBVV95cUxQVkdnS01HUjloWDVBOC00Ul95M29LSk14MGhlcUY3VnA5dzBjX3J4bUh3UGVmaVRMRGVfLTdiVG0wOWczVnVtZ3ZmVDA4ekk1ejBSMXZtbVJHQnNqZ3BuemJ4QzZ6YXhNY0RLckJFTG9FNlF2eFJHc0ljUlhkaUVEc05OVDZXakNpR2t4YXc4S2k3dUJEYmVqZndITzdPX1BFQ1VqSGR3d1lBY1RTQV9adkNrckEwQnB3SjlaaWgybGQyOTJmakRPU0paeS1udw?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHBVUTlvSkZ2eHp2OTkwLUpXYi1JNFJxbU1Pdjdsb2tPRlZDOEZDMzEtZXdJckZQY0R4SlROZkZXUlF3UFdqdjBDck9rWVNtcENLU0FYYTdUMW5OMUoyTHBaMmdNQ2RfV3FmaXd5cTRVR2RCNnpmMEVPN0k2NmxSdFdYUUZZWE0xNFRhQ1VpWi1nZEhFQjJvd3hud0pBRjNUcm5kX2R3?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQVHZScnQzVDc3S1lYVVE5QmJ2RmZOWXRBbmIxSFE4azljVnY4UUpsSXQwLW94eVN1SHBIYmFyRTRkdkhxWHlMMTJKSUdCSTRidnV6bmpRQ1h0UjFZM3J0bVU3U1g4cUZSaTZKY0ZKNklPUlpqVUR6VFNiNGhmQkRMTnc3TnhVd2ktRS1DSDZ0aUJWb0U?oc=5
+  - barchart.com: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTFZUQ0hVOXB6OWdwLU0zV2RMMU1nTXBsWkdkU08wckQ4RHpFM04ybm1EM2V0RjF2aWwzRS1JZ0oyLUtHWXg4eGc0cFBHZVR2cG5HVVVGWWl4Zmk5YmJBVUVkd3pDd3d3Y3IxbHNSa1NHYVpvR1VnYWlydWQ5WEhDMmNXTldYNV9MbUNZaFNjQ0NnZ1lRblFiV2dhY1NiSDJXZlppMlFWYl9Db0RZbjV5NHdBSVBUWDFPVkhhUS1rYTNKMkJTMUxFNWo3QnZnNkE3NTU2cGNSWjhrOUxDNUpyWmhDSmhIbkpBLUN5Ym9naw?oc=5
 
 **Feed description:** [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% finance.biggo.com
 
