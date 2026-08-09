@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 09 Aug 2026, 2:42 PM IST
+- **Repository generated:** 09 Aug 2026, 7:51 PM IST
 - **Distinct events in this file:** 82
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -143,7 +143,7 @@
   - Sahm: https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmZMWHhhV1ZDOThTM1R0QzhUZm9Md3FISk4wQUU1SjE4cDVfSXBEWmZ3bVlPd3Z1MGlFWmhIYjg1YmREbXJVZ2pUWlducGl3MHJWVmFBbVpKZ09aREFLWUxERk5UOTJMSzZmQ2Faa0lhRkQ0U0padDJETnFJaTFUUEJiT0E4VVJOWS12SW4yaWd2MGhEbXNCTWZIZGl4Z01oQVpXSnpPZUViMV9xRXc?oc=5
   - simplywall.st: https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXQ2eFlzeUJfTGotekMzbzR0UF82VVFJaDgxeG8xY0FsbWZnMFhSQVg3RHJfS3RFT0pMblo1SlpMZlhIdjZ6bkg3NlRnQmphX3ZXUmtEOTNLc01IZGNLbFc3NENSUFIzZkVTNnM2TEFxY05OVUdpeWczSW9yOW1SREpSZkpqNVkwQlFfaVVNUVJ3aVNGU29ib1BwS21pZEVodzFHaGRITjFUMmdweV9sSnhaOFhJd0x2alc5ZEltQWxuOHZjVkJNam1B0gHPAUFVX3lxTE5JenlNQlZSVDhxenR2UVVibmx2WnduU3h5c3A4MHB3anY2UExULVZPSU1IOGFWMHhXanpyNXB4V25IWTdCaHhFbmNFVFFCVHUxZC1pXzhPbWw1QzJMOTNwclFjSXdQdzJkMWZxZ2ltRzJaX2RpRW9WSHlDUEN0RTlKQlhaWlFQZUlyU0laNXpsQUd6eHJkbGZ1ei1zcUpYanNtWDVXbUxOQUV6MElVb2oyUTBoUXZ5Y1YwVDlrOUtkUm05Y2VUSzRjUXFTWlo5UQ?oc=5
 
-**Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion simplywall.st
+**Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion sahmcapital.com
 
 ## 12. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026
 
@@ -321,7 +321,7 @@
 - **Sources:**
   - Revelio Labs: https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5
 
-**Feed description:** Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs
+**Feed description:** Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com
 
 ## 26. Labcorp earnings ahead: Can specialty tests sustain momentum?
 
@@ -419,19 +419,7 @@
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa
 
-## 33. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 27 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Kalkine Media: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5
-
-**Feed description:** Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media
-
-## 34. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
+## 33. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -443,7 +431,7 @@
 
 **Feed description:** Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans kalkinemedia.com
 
-## 35. Quest Diagnostics SVP adds shares via dividend reinvestment plan
+## 34. Quest Diagnostics SVP adds shares via dividend reinvestment plan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -455,7 +443,7 @@
 
 **Feed description:** Quest Diagnostics (NYSE: DGX) SVP adds shares via dividend reinvestment plan stocktitan.net
 
-## 36. Labcorp launches genetic health panel for consumers By Investing.com
+## 35. Labcorp launches genetic health panel for consumers By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -468,7 +456,7 @@
 
 **Feed description:** Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa
 
-## 37. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
+## 36. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -480,7 +468,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus
 
-## 38. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
+## 37. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -492,7 +480,7 @@
 
 **Feed description:** Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com
 
-## 39. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
+## 38. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -512,6 +500,18 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXU4eXRkaW5ZN0k4a0dSblhMUG1nTVB6UmJxRG9nMGMzUnUwVDFQel9oQXEwcF9ndTVHalJPd21KZTlDQjZqWEpRSXJITFhHNkVSSUN2UGR6V3JObmw4blVBVDRzaEtUQlBvX0t4QmRqcEdrdk00YW95eEVYQU0wWHVEZUpadHhzLW9FYTBXcEM5WDlqY2MxSnZFZw?oc=5
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
+
+## 39. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 27 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine Media: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5
+
+**Feed description:** Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media
 
 ## 40. Quest Diagnostics Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next
 
@@ -846,7 +846,7 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 41
+- **Coverage count:** 44
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5
@@ -890,6 +890,9 @@
   - Bitget: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRdIBY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRQ?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPdndYR3ZsM2RSTW1KSGVaZS16NG1qcDgtV1FvUkNSV2t5bXpLTUNVZVhwMTRob2hlNFdLTFhVYXNVNktaNE9qNXJoVkw4dy1xVEhNOGdEazBlRUNJSl9xbWVqblJjYnNVQ2RhWHVwRzVEWTdvQTFFMzlhUVJNaFg4UFdqUkYyZ1E5a3poYnBoczQ?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1BmQWVRaktIVGZOWmhrc3ZVRU1LVG4zaGFqM1JKUVVPRkxIWXhQRG5JQWlIM1RURGlpbEQ5WkJvckFVSlVhN3JYby1HUExEWTNNcEo5Z3lyT1ZFeVdrMlB2TEdxb0JSSk1QNDg5REx4d0ZTemRqNVZOS0cxME5IYTkwSmY1Y0pESXVUT1JqU0dhdUUybkZ2V3I1Mi1aRFdubHBrRDJBZE91MUVScHFwdF9GaDFraEtNdjZ5N2Ric29udGczZEF2MzVLQks?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFBROXNkVnBVeUtRSXJYMWhRaWNYeGVzcnVjTW9faWFHcmtTcHFMY2RhYnp6NHNCZi1qdHFaX180VWwxZ25odXllU1NBNTVYTXBXUFN1M0VyLTktVWUwRzNFR1FRamRfQXU4OHlVVmNWN2F3UWU4UHdCckJIZ0YzNHVCcXRhcUh3OGc1MWpLa3E?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0dPRndUVUxtMWhCUE0yV2NoNHJ4WEhpbnBNWHBsSzVzVkY2UWo2X2Z1ZWRLMk1laDg0X3RIMTNEUm0wNUdzSEhxU212bHUwY09BTmxfX05Vb0tranVUenYtMzBzSk1lR3hVVUJsbkw5cXFkWXJkZHA4LXJ5Nm9qSmtzTnoxOHFxQk1NRGxtUDQ1Rmhja1l3TDZydGE?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMifEFVX3lxTE93dzNtbWN2aGwxOThnNmFZOEJfeG1hVUFGa2gtdXp1X3dLbkl1TXlkWU1BeXBJc19kVlk0NFlWUlkxanpVbGliSkVPU2lpOFI2dzJURDAzWUZMM090VVBTWjFGd0hhZDN1NUpXSXdKcThkTG1UUEo4UDhtSk4?oc=5
 
 **Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
 
