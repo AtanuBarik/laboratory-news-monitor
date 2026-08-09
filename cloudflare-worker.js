@@ -10,10 +10,10 @@
 
 const ALLOWED_ORIGINS = new Set(["https://atanubarik.github.io"]);
 const NEWS_URLS = [
-  "https://atanubarik.github.io/quest-intelligence-360/data/laboratory-news.json",
   "https://raw.githubusercontent.com/AtanuBarik/laboratory-news-monitor/main/data/news.json",
+  "https://atanubarik.github.io/quest-intelligence-360/data/laboratory-news.json",
 ];
-const WORKER_VERSION = "2026-08-08.3";
+const WORKER_VERSION = "2026-08-09.1";
 const MODEL_CANDIDATES = ["gemini-3.6-flash", "gemini-3.5-flash-lite"];
 const MAX_REQUESTED_IDS = 600;
 const MAX_CHAT_ITEMS = 45;
