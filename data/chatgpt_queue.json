@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T14:55:09.010025+05:30",
-  "generated_at_display": "09 Aug 2026, 2:55 PM IST",
+  "generated_at": "2026-08-09T19:51:14.411174+05:30",
+  "generated_at_display": "09 Aug 2026, 7:51 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -259,7 +259,7 @@
       "category": "Financials",
       "title": "Labcorp Stock Holds A Bullish Case On Margin Expansion",
       "source": "Sahm",
-      "description": "Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion simplywall.st",
+      "description": "Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion sahmcapital.com",
       "published_at": "2026-07-31T07:00:00+00:00",
       "published_display": "31 Jul 2026",
       "official_source": false,
@@ -450,25 +450,6 @@
       ]
     },
     {
-      "id": "d3b21ff914d313457038",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan",
-      "source": "Kalkine Media",
-      "description": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media",
-      "published_at": "2026-07-27T21:10:36+00:00",
-      "published_display": "27 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1aa7d3cafd0225bf0748",
       "company": "Quest Diagnostics",
       "category": "Financials",
@@ -503,6 +484,25 @@
         {
           "name": "Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjdUSWUxSEpXRG5XbHpGbFE0UUt5N2tnNUFiNllWRDFXVjRBX0NQNzlKaTFJTnFfUWR4QzI5N0swMzlBWUlwRlR5b3BFRUdXUWd2ekxGQnZhVEVldVdXU0ktQ1JMRkVxVkpsOWNwSFJIM2RJanRCMGhLLVlmNmtmcnVvYXB2djN1UXVDbjFyS1pzcVJmbFI5N0dtaHpIX0NZaHhaTkE1X0EwTGM5YXZwU0l6RzI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3b21ff914d313457038",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan",
+      "source": "Kalkine Media",
+      "description": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan Kalkine Media",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5"
         }
       ]
     },
