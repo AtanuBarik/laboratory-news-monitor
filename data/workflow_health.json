@@ -1,16 +1,16 @@
 {
-  "last_run_at": "2026-08-09T19:51:14.723171+05:30",
-  "last_run_display": "09 Aug 2026, 7:51 PM IST",
-  "next_update_at": "2026-08-10T00:17:00+05:30",
-  "next_update_display": "10 Aug 2026, 12:17 AM IST",
+  "last_run_at": "2026-08-10T01:31:12.199100+05:30",
+  "last_run_display": "10 Aug 2026, 1:31 AM IST",
+  "next_update_at": "2026-08-10T06:17:00+05:30",
+  "next_update_display": "10 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST",
-  "news_item_count": 82,
-  "raw_relevant_item_count": 265,
+  "news_item_count": 83,
+  "raw_relevant_item_count": 266,
   "duplicates_merged": 78,
   "fetch_failures": [],
   "chatgpt_queue_count": 30,
-  "chatgpt_remaining_unsummarized": 75,
+  "chatgpt_remaining_unsummarized": 76,
   "email_status": "no_new_items",
   "email_summary_provider": null,
-  "last_email_check": "09 Aug 2026, 2:55 PM IST"
+  "last_email_check": "09 Aug 2026, 8:34 PM IST"
 }

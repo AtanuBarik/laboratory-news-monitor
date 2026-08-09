@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-09T19:51:11.431239+05:30",
-  "generated_at_display": "09 Aug 2026, 7:51 PM IST",
-  "item_count": 82,
-  "raw_relevant_item_count": 265,
+  "generated_at": "2026-08-10T01:31:08.782891+05:30",
+  "generated_at_display": "10 Aug 2026, 1:31 AM IST",
+  "item_count": 83,
+  "raw_relevant_item_count": 266,
   "duplicates_merged": 78,
   "failures": [],
   "items": [
+    {
+      "id": "ef01db00ce5a4ff25908",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "source": "TradingKey",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-08-07T07:47:44+00:00",
+      "published_display": "07 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-08-07T07:47:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings eps estimates forecast future growth revenue"
+    },
     {
       "id": "fe4a58a5ec445897fde0",
       "company": "Quest Diagnostics",
@@ -2668,10 +2692,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 79,
+  "post_prune_financial_duplicates_merged": 26,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-10T00:17:00+05:30",
-  "next_update_display": "10 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-10T06:17:00+05:30",
+  "next_update_display": "10 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
