@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - index.html
+      - frontend-verified-summaries.js
       - data/news.json
       - data/email_status.json
       - data/workflow_health.json
@@ -39,6 +40,81 @@ jobs:
           ref: main
           fetch-depth: 0
 
+      - name: Apply reviewed article summaries
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import base64
+          import gzip
+          import json
+          import re
+          import urllib.request
+          from pathlib import Path
+
+          base = 'https://raw.githubusercontent.com/AtanuBarik/quest-intelligence-360/main/data'
+          urls = [f'{base}/laboratory-article-summaries-{part:02d}.b64' for part in range(1, 4)]
+          encoded = ''
+          for url in urls:
+              with urllib.request.urlopen(url, timeout=30) as response:
+                  encoded += response.read().decode('utf-8').strip()
+
+          payload = json.loads(gzip.decompress(base64.b64decode(encoded)).decode('utf-8'))
+          summaries = payload.get('summaries') or {}
+          if payload.get('item_count') != 82 or len(summaries) != 82:
+              raise SystemExit('Expected exactly 82 reviewed article summaries.')
+
+          def normalize(value):
+              return re.sub(r'[^a-z0-9]+', ' ', str(value or '').lower()).strip()
+
+          by_title = {normalize(record['title']): record for record in summaries.values()}
+          news_path = Path('data/news.json')
+          news = json.loads(news_path.read_text(encoding='utf-8'))
+          matched = 0
+          matched_titles = set()
+          for item in news.get('items', []):
+              record = by_title.get(normalize(item.get('title')))
+              if not record:
+                  continue
+              matched += 1
+              matched_titles.add(record['title'])
+              item['article_summary'] = record['summary']
+              item['chatgpt_summary'] = record['summary']
+              item['summary_provider'] = 'Verified article-content research'
+              item['summary_updated_at'] = payload['updated_at']
+              item['summary_article_url'] = record.get('article_url') or ''
+              item['summary_evidence_url'] = record.get('evidence_url') or ''
+              item['summary_retrieval_status'] = record.get('retrieval_status') or ''
+              item['summary_verification'] = record.get('verification') or 'article-content-reviewed'
+              evidence = []
+              for candidate in (record.get('article_url'), record.get('evidence_url')):
+                  if candidate and candidate not in evidence:
+                      evidence.append(candidate)
+              item['summary_evidence'] = evidence
+
+          if matched != 82:
+              missing = sorted(record['title'] for record in summaries.values() if record['title'] not in matched_titles)
+              raise SystemExit(f'Mapped {matched}/82 summaries. Missing titles: {missing}')
+
+          news['reviewed_summary_count'] = matched
+          news['reviewed_summaries_updated_at'] = payload['updated_at']
+          news['reviewed_summaries_updated_at_display'] = payload['updated_at_display']
+          news_path.write_text(json.dumps(news, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+          Path('data/article_summaries.json').write_text(json.dumps(payload, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+
+          index_path = Path('index.html')
+          html = index_path.read_text(encoding='utf-8')
+          script_tag = '<script src="frontend-verified-summaries.js?v=20260810a"></script>'
+          if script_tag not in html:
+              if '</body>' not in html:
+                  raise SystemExit('index.html has no closing body tag.')
+              html = html.replace('</body>', script_tag + '\n</body>', 1)
+              index_path.write_text(html, encoding='utf-8')
+
+          print('Mapped reviewed summaries:', matched)
+          PY
+          node --check frontend-verified-summaries.js
+
       - name: Validate and prepare static site
         shell: bash
         run: |
@@ -46,7 +122,9 @@ jobs:
           rm -rf _site
           mkdir -p _site/data _site/assets/email-logos/rendered _site/assets/email-icons/rendered _site/knowledge
           cp index.html _site/index.html
+          cp frontend-verified-summaries.js _site/frontend-verified-summaries.js
           cp data/news.json _site/data/news.json
+          cp data/article_summaries.json _site/data/article_summaries.json
           if [ -f data/email_status.json ]; then cp data/email_status.json _site/data/email_status.json; fi
           if [ -f data/workflow_health.json ]; then cp data/workflow_health.json _site/data/workflow_health.json; fi
           if [ -f data/chatgpt_summaries.json ]; then cp data/chatgpt_summaries.json _site/data/chatgpt_summaries.json; fi
@@ -62,17 +140,19 @@ jobs:
           items = payload.get('items') or []
           if not isinstance(items, list):
               raise SystemExit('data/news.json has an invalid items field')
+          reviewed = [item for item in items if item.get('article_summary')]
+          if len(reviewed) != 82:
+              raise SystemExit(f'Expected 82 mapped summaries in published data, found {len(reviewed)}')
+          json.loads(Path('_site/data/article_summaries.json').read_text(encoding='utf-8'))
           for optional in ('email_status.json','workflow_health.json','chatgpt_summaries.json','chatgpt_strategic_synthesis.json'):
               path = Path('_site/data') / optional
               if path.exists():
                   json.loads(path.read_text(encoding='utf-8'))
           print('Prepared news records:', len(items))
+          print('Reviewed article summaries:', len(reviewed))
           print('Repository timestamp:', payload.get('generated_at_display'))
           print('Published company logos:', len(list(Path('_site/assets/email-logos/rendered').glob('*'))))
           print('Published category icons:', len(list(Path('_site/assets/email-icons/rendered').glob('*'))))
-          print('Published email status:', Path('_site/data/email_status.json').exists())
-          print('Published ChatGPT summaries:', Path('_site/data/chatgpt_summaries.json').exists())
-          print('Published ChatGPT synthesis:', Path('_site/data/chatgpt_strategic_synthesis.json').exists())
           PY
 
       - name: Publish files to gh-pages branch
