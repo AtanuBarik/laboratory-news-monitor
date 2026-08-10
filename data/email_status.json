@@ -1,20 +1,20 @@
 {
-  "checked_at": "2026-08-10T22:00:00.616929+05:30",
-  "checked_at_display": "10 Aug 2026, 10:00 PM IST",
+  "checked_at": "2026-08-11T03:31:52.692730+05:30",
+  "checked_at_display": "11 Aug 2026, 3:31 AM IST",
   "status": "email_sent_with_feed_fallback",
-  "ranked_candidate_count": 5,
+  "ranked_candidate_count": 3,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 1,
-  "email_item_count": 5,
+  "email_item_count": 3,
   "verified_summary_count": 0,
-  "fallback_summary_count": 5,
+  "fallback_summary_count": 3,
   "unreadable_count": 1,
   "unreadable_ids": [
-    "e7cdc3ac26ab39cceaf6"
+    "de3ccea5b8a237b9f3c9"
   ],
   "to_count": 1,
   "bcc_count": 1,
-  "subject": "Quest Competitor Updates | Aug 10, 2026",
+  "subject": "Quest Competitor Updates | Aug 11, 2026",
   "selection_strategy": "quality_ranked_waves",
   "summary_mode": "feed_fallback",
   "gemini_quota_exhausted": true,
