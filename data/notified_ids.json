@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-04T13:14:51.591795+00:00",
-  "last_successful_email_at": "2026-08-10T11:33:51.345633+05:30",
+  "last_successful_email_at": "2026-08-10T22:00:00.616477+05:30",
   "notified_ids": [
     "000944de40fb8759e486",
     "0029dbd05411b8be132f",
@@ -38,6 +38,7 @@
     "10b4914a4bdfc79068cb",
     "10c67207082107e2c772",
     "10c900a6a7ae17cd70f9",
+    "10f33466a047be2ac02f",
     "1159287dbc84613c0eec",
     "11fe563844f482982d45",
     "126320590e3aaa0935a2",
@@ -125,6 +126,7 @@
     "326b80a0a7a292e016be",
     "329ac6a28439a7d78126",
     "329bcdfcf292dd4a6da9",
+    "330dd656b1d06b467973",
     "33e1cb65bff7b1a94e7d",
     "33eea901830bacf5badf",
     "34ce593c87a2a64007c1",
@@ -265,6 +267,7 @@
     "724bbb3d350be010fb30",
     "7397991e4715c0e0f013",
     "73ab9e64214f39037fad",
+    "744ecc0885942423be6c",
     "745475f58c04ecca13a5",
     "745c56af444d00d3b98f",
     "74a549d307ec5080bf5a",
@@ -280,6 +283,7 @@
     "7774b2029a19c7d4c817",
     "777b4b17696554c39bfd",
     "780ac27ca5165b70b7e1",
+    "7821805ba5345b77a918",
     "785603ca4cc616e1258f",
     "78bca8b401d7f956f1d5",
     "7904a6d3266d23a4a9d9",
@@ -581,6 +585,7 @@
     "e7160b5d22106e293802",
     "e75811991930dc5e426f",
     "e77b2dc4084050daba5d",
+    "e7cdc3ac26ab39cceaf6",
     "e81eb830dcac7e1550dc",
     "e83b5392bd86b09cbccf",
     "e8459fbde9e1699a847c",
@@ -634,6 +639,6 @@
     "ff8539db3bbd42a595c8",
     "ffede0cca64cf8811c45"
   ],
-  "last_successful_email_count": 2,
+  "last_successful_email_count": 5,
   "dismissed_ids": []
 }

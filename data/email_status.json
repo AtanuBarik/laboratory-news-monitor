@@ -1,10 +1,27 @@
 {
-  "checked_at": "2026-08-10T16:59:11.568540+05:30",
-  "checked_at_display": "10 Aug 2026, 4:59 PM IST",
-  "status": "no_new_items",
-  "ranked_candidate_count": 0,
+  "checked_at": "2026-08-10T22:00:00.616929+05:30",
+  "checked_at_display": "10 Aug 2026, 10:00 PM IST",
+  "status": "email_sent_with_feed_fallback",
+  "ranked_candidate_count": 5,
   "low_value_dismissed_count": 0,
+  "attempted_summary_count": 1,
+  "email_item_count": 5,
+  "verified_summary_count": 0,
+  "fallback_summary_count": 5,
+  "unreadable_count": 1,
+  "unreadable_ids": [
+    "e7cdc3ac26ab39cceaf6"
+  ],
+  "to_count": 1,
+  "bcc_count": 1,
+  "subject": "Quest Competitor Updates | Aug 10, 2026",
+  "selection_strategy": "quality_ranked_waves",
+  "summary_mode": "feed_fallback",
+  "gemini_quota_exhausted": true,
+  "gemini_error": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit.",
+  "display_timezone": "IST",
   "scheduled_chatgpt_summary_count": 0,
   "gemini_summary_count": 0,
-  "gemini_fallback_enabled": true
+  "gemini_fallback_enabled": true,
+  "primary_summary_provider": "Feed/source preview fallback"
 }
