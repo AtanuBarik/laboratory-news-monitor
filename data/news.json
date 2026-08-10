@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-10T21:38:32.440798+05:30",
-  "generated_at_display": "10 Aug 2026, 9:38 PM IST",
-  "item_count": 88,
-  "raw_relevant_item_count": 257,
+  "generated_at": "2026-08-11T02:54:13.510822+05:30",
+  "generated_at_display": "11 Aug 2026, 2:54 AM IST",
+  "item_count": 91,
+  "raw_relevant_item_count": 259,
   "duplicates_merged": 71,
   "failures": [],
   "items": [
+    {
+      "id": "de3ccea5b8a237b9f3c9",
+      "company": "Labcorp",
+      "title": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
+      "description": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know The Dermatology Digest",
+      "source": "The Dermatology Digest",
+      "source_url": "https://thedermdigest.com",
+      "source_domain": "thedermdigest.com",
+      "published_at": "2026-08-10T18:14:33+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Dermatology Digest",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
+          "domain": "thedermdigest.com",
+          "published_at": "2026-08-10T18:14:33+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advanced approves companion diagnostic fda here know melanoma test what"
+    },
     {
       "id": "744ecc0885942423be6c",
       "company": "Labcorp",
@@ -25,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl9WdmZ5WnZfRENNTkxJZDdhWENXbzY5NGxWSXdMd3VXODdnbW9icjVucHVDSHNvMUx0RnhBTnE3TDYwVDQ4ck9TN2lRcUI1blZOZ3FGa2VRdVI2TThzMnczeFVQWFdPY3dFNFE0dWZ1bmdUdzN2OHFXZEQ2aVZlNW94Y3hQN0dsZnhFemxmZ2ZJMnFxeXN3c0tn?oc=5",
           "domain": "medicaldevice-network.com",
           "published_at": "2026-08-10T15:42:06+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVp6dkFPREJaVXVOeGlQMjNJSkE5Q2V2U055Q3NoV1FXT0c3cUdFM05xNURTN3hzRWFKTUk3Nk00Rl8zTDFGYjJKYUwxTDlXTmxRRERjMnNzbmhQVk5DNXcyT3E5NnJVTnRMQTlRYkJSMHUwVzY1RFJ3OWg2Uy11NlU3czU4SXJUU0M0S1ZCcjItUFpOZW4zZlRuSU4?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-08-10T16:37:36+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "advanced approval cdx fda melanoma secures"
     },
     {
@@ -97,10 +127,40 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-08-10T11:00:00+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-10T19:06:57+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting"
+    },
+    {
+      "id": "26e34857f08ccef9e101",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
+      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) Mshale",
+      "source": "Mshale",
+      "source_url": "https://mshale.com",
+      "source_domain": "mshale.com",
+      "published_at": "2026-08-10T08:08:47+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Mshale",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
+          "domain": "mshale.com",
+          "published_at": "2026-08-10T08:08:47+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting"
+      "event_signature": "against back bounce can dallas report scouting sounders todibo xrfsqrkkv9"
     },
     {
       "id": "ef01db00ce5a4ff25908",
@@ -906,6 +966,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "chokshi investor merck names president relations vet vice"
+    },
+    {
+      "id": "7cf2a17c1d2ea7bf1b01",
+      "company": "Labcorp",
+      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+      "description": "Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings ended june quarter results summary"
     },
     {
       "id": "698c3248416c71aed00d",
@@ -2474,7 +2558,7 @@
       "company": "Labcorp",
       "title": "Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUROWTlMTlBlekN6VVI3N2Q4eFdYcXdldFJmQjloVWlMVXZhREhJdDVSdTlxOENmWW5tdG9jcjdqaEJsRUhBUERzc3V6QUFlRWFVc095WFM2STNFR3NHaEpzVFJLWVZMRkNuOUFjdm5aZ0lOenZrcmtpQ1I2R2xDalVjb0VaTFRPcURTdV9MVlFQelhRZFhVVldOaDFRRkE?oc=5",
-      "description": "Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec Yahoo Finance",
+      "description": "Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_domain": "news.google.com",
       "published_at": "2026-07-15T07:00:00+00:00",
@@ -2831,10 +2915,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 22,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-11T00:17:00+05:30",
-  "next_update_display": "11 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-11T06:17:00+05:30",
+  "next_update_display": "11 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
