@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 12 Aug 2026, 12:46 AM IST
+- **Repository generated:** 12 Aug 2026, 12:47 AM IST
 - **Distinct events in this file:** 35
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -302,7 +302,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
-- **Category:** Product & Services
+- **Category:** Clinical, R&D
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -314,7 +314,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
-- **Category:** Product & Services
+- **Category:** Clinical, R&D
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
@@ -327,7 +327,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
-- **Category:** Product & Services
+- **Category:** Clinical, R&D
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -339,7 +339,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
-- **Category:** Product & Services
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -351,7 +351,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
-- **Category:** Product & Services
+- **Category:** Clinical, R&D
 - **Coverage count:** 10
 - **Official source involved:** No
 - **Sources:**
