@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T15:40:24.322840+05:30",
-  "generated_at_display": "11 Aug 2026, 3:40 PM IST",
-  "item_count": 94,
-  "raw_relevant_item_count": 267,
-  "duplicates_merged": 76,
+  "generated_at": "2026-08-11T16:27:11.835071+05:30",
+  "generated_at_display": "11 Aug 2026, 4:27 PM IST",
+  "item_count": 95,
+  "raw_relevant_item_count": 269,
+  "duplicates_merged": 80,
   "failures": [],
   "items": [
     {
@@ -613,6 +613,30 @@
       "summary_evidence": [
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
+    },
+    {
+      "id": "ceb779dc820a6490b2a9",
+      "company": "Quest Diagnostics",
+      "title": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
+      "description": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026) Tracxn",
+      "source": "Tracxn",
+      "source_url": "https://tracxn.com",
+      "source_domain": "tracxn.com",
+      "published_at": "2026-08-02T07:00:00+00:00",
+      "published_display": "02 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Tracxn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
+          "domain": "tracxn.com",
+          "published_at": "2026-08-02T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisitions aug list"
     },
     {
       "id": "e6a19feb628850b33858",
@@ -3011,8 +3035,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 21,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-11T18:17:00+05:30",
   "next_update_display": "11 Aug 2026, 6:17 PM IST",
