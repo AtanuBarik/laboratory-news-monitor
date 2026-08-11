@@ -8,18 +8,20 @@ from typing import Any
 import email_dispatch as base
 import email_new_items as core
 
-# Email alerts are now ChatGPT-summary-required. The scheduled ChatGPT task writes
+# Email alerts are ChatGPT-summary-required. The scheduled ChatGPT task writes
 # verified summaries into data/chatgpt_summaries.json; apply_chatgpt_summaries.py
-# merges those summaries into data/news.json before this dispatcher runs.
-# Articles without a cached ChatGPT summary remain unnotified and therefore stay
-# eligible for a later run after their summary has been prepared.
+# merges only verified ChatGPT entries into data/news.json before this dispatcher runs.
+# Articles without a verified cached ChatGPT summary remain unnotified and therefore
+# stay eligible for a later run after their summary has been prepared.
 core.WORKER = ""
 base.GEMINI_QUOTA_EXHAUSTED = False
 base.GEMINI_QUOTA_MESSAGE = ""
 
 
 def cached_chatgpt_summary(item: dict[str, Any]) -> str:
-    if str(item.get("summary_provider") or "").strip() not in {"", "ChatGPT Scheduled Task"}:
+    provider = str(item.get("summary_provider") or "").strip()
+    verification = str(item.get("summary_verification") or "").strip().lower()
+    if provider != "ChatGPT Scheduled Task" or verification != "verified":
         return ""
     return core.clean_summary(str(item.get("chatgpt_summary") or ""))
 
@@ -60,7 +62,7 @@ def collect_chatgpt_only(
 
 base.collect_verified = collect_chatgpt_only
 
-# Make the summary provenance explicit in both HTML and plain-text email alerts.
+# Make summary provenance explicit in both HTML and plain-text email alerts.
 _original_article_html = core.article_html
 _original_build_email = core.build_email
 
@@ -107,7 +109,7 @@ def main() -> int:
         status["gemini_summary_count"] = 0
         status["gemini_fallback_enabled"] = False
         status["fallback_summary_count"] = 0
-        status["summary_delivery_policy"] = "chatgpt_required"
+        status["summary_delivery_policy"] = "verified_chatgpt_required"
         status["awaiting_chatgpt_summary_count"] = len(awaiting)
         status["awaiting_chatgpt_summary_ids"] = awaiting[:80]
         if chatgpt_count:
