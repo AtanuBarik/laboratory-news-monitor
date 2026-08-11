@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 11 Aug 2026, 10:24 AM IST
+- **Repository generated:** 11 Aug 2026, 3:40 PM IST
 - **Distinct events in this file:** 52
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Aug 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5
+  - Yahoo Finance UK: https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Stock Price, News, Quote & History Yahoo! Finance Canada
 
@@ -460,12 +461,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5
+  - TradingKey: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5
 
-**Feed description:** Quest Diagnostics earnings beat by $0.30, revenue topped estimates Investing.com
+**Feed description:** Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey
 
 ## 38. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday
 

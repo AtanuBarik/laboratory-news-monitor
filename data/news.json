@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T10:24:20.315748+05:30",
-  "generated_at_display": "11 Aug 2026, 10:24 AM IST",
-  "item_count": 93,
-  "raw_relevant_item_count": 264,
-  "duplicates_merged": 73,
+  "generated_at": "2026-08-11T15:40:24.322840+05:30",
+  "generated_at_display": "11 Aug 2026, 3:40 PM IST",
+  "item_count": 94,
+  "raw_relevant_item_count": 267,
+  "duplicates_merged": 76,
   "failures": [],
   "items": [
     {
@@ -29,6 +29,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "can diagnostic margin prove volumes"
+    },
+    {
+      "id": "0bdc4a693d0cba7b7129",
+      "company": "Labcorp",
+      "title": "Labcorp Colorado Springs Appointment",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
+      "description": "Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto",
+      "source": "Toimihenkilöliitto Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-10T18:58:23+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T18:58:23+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "appointment colorado springs"
     },
     {
       "id": "de3ccea5b8a237b9f3c9",
@@ -73,9 +97,15 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
           "domain": "ca.finance.yahoo.com",
           "published_at": "2026-08-10T16:20:54+00:00"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-08-10T22:42:09+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "history price quote stock"
     },
     {
@@ -550,7 +580,7 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-03T14:37:00+00:00",
+      "published_at": "2026-08-03T07:00:00+00:00",
       "published_display": "03 Aug 2026",
       "category": "Partnership, M&A",
       "official_source": false,
@@ -559,7 +589,7 @@
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV1lDU1pKQkRNNU9VbkRMZmR6TktFTzNwd0xENnFxQ0ZqMHlRNlZtRmRTVnd3bzE3S2JzbHBhUDlJVmRFRk9JZWdNZ2RXNUNSMHRHTkpQd3o1REdmbG5kMVIwRmI0Qk9lZzN0YVI1MUpweUJRVlJOaFhHNXhKVlpNTWwzRGY4ckRGcGRISXNZdmpoQWFEVGhOYTh6NXpMNjg?oc=5",
           "domain": "finance.yahoo.com",
-          "published_at": "2026-08-03T14:37:00+00:00"
+          "published_at": "2026-08-03T07:00:00+00:00"
         },
         {
           "name": "The Globe and Mail",
@@ -576,7 +606,7 @@
       ],
       "coverage_count": 3,
       "event_signature": "2026 accelerates demand outlook raises testing",
-      "source_description": "Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates The Globe and Mail",
+      "source_description": "Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.",
       "chatgpt_summary": "Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.",
       "summary_provider": "ChatGPT Scheduled Task",
       "summary_updated_at": "2026-08-07T18:42:00+05:30",
@@ -1883,7 +1913,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
-      "description": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates Investing.com",
+      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
       "source": "Investing.com",
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -1896,9 +1926,15 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-07-25T03:19:36+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "beat earnings estimates revenue topped"
     },
     {
@@ -2506,30 +2542,6 @@
       "event_signature": "business center expanded opens patient service tidbits yakima"
     },
     {
-      "id": "d906380aeb31a7a4863d",
-      "company": "Labcorp",
-      "title": "Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkFyWUh4TzVDZm5GenYxSE5oNUdLQ0dzUV9fYVhoWGF0Rk4zMEdJemp4bTZDWC1sRTlsWndNeGgzNHlxQk1jc3Y5VWRVR0RMbTA2VjVHaUxhVjRLdkQzWkhxUUxjSzk1QU9kTzVhSTZNY0tFZlRhREdRWUw5Z3RNNzdvSEhMRlJ6MHZSbEpHRVRid1R4bkdmLThxXzlJWEEtVWo2bWs3WWF0Zw?oc=5",
-      "description": "Labcorp to Pay $14.5 Million to Settle Allegations of Unnecessary Urine Drug Testing Clinical Lab Products",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-07-20T07:00:00+00:00",
-      "published_display": "20 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkFyWUh4TzVDZm5GenYxSE5oNUdLQ0dzUV9fYVhoWGF0Rk4zMEdJemp4bTZDWC1sRTlsWndNeGgzNHlxQk1jc3Y5VWRVR0RMbTA2VjVHaUxhVjRLdkQzWkhxUUxjSzk1QU9kTzVhSTZNY0tFZlRhREdRWUw5Z3RNNzdvSEhMRlJ6MHZSbEpHRVRid1R4bkdmLThxXzlJWEEtVWo2bWs3WWF0Zw?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-07-20T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "allegations drug million pay settle testing unnecessary urine"
-    },
-    {
       "id": "768ff61f2da115226d30",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
@@ -2552,6 +2564,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "compared competitors monday stock underperforms when"
+    },
+    {
+      "id": "ee3469be3b162ebacbef",
+      "company": "Labcorp",
+      "title": "Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVncTdrQ2plb0VpYTJlMlVSRnBlLTd5cFRQa0QtZ3g3QnBTYkZLT1ZRZ1o2dXFjU1VTSjlPVENfdmpxQ2s4alpaQlA1R1Y4dVVsS0ZJVlBtc3ZFX040d2F4bTdMeUFUNTVOUElYUV9Pbl9nOXQwME0wTnRFY21WQ0pERUVLWGp1RV9MSTQ0WWdNZUVYanA3QTJmNlZSdWMzdXZXWG1tbThqSGxNQVVmMlhQOTFTU2U1ODNDa2hLc1JlUXFraTVEVXBMMA?oc=5",
+      "description": "Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing dallasexpress.com",
+      "source": "dallasexpress.com",
+      "source_url": "https://dallasexpress.com",
+      "source_domain": "dallasexpress.com",
+      "published_at": "2026-07-18T07:00:00+00:00",
+      "published_display": "18 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dallasexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVncTdrQ2plb0VpYTJlMlVSRnBlLTd5cFRQa0QtZ3g3QnBTYkZLT1ZRZ1o2dXFjU1VTSjlPVENfdmpxQ2s4alpaQlA1R1Y4dVVsS0ZJVlBtc3ZFX040d2F4bTdMeUFUNTVOUElYUV9Pbl9nOXQwME0wTnRFY21WQ0pERUVLWGp1RV9MSTQ0WWdNZUVYanA3QTJmNlZSdWMzdXZXWG1tbThqSGxNQVVmMlhQOTFTU2U1ODNDa2hLc1JlUXFraTVEVXBMMA?oc=5",
+          "domain": "dallasexpress.com",
+          "published_at": "2026-07-18T07:00:00+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkFyWUh4TzVDZm5GenYxSE5oNUdLQ0dzUV9fYVhoWGF0Rk4zMEdJemp4bTZDWC1sRTlsWndNeGgzNHlxQk1jc3Y5VWRVR0RMbTA2VjVHaUxhVjRLdkQzWkhxUUxjSzk1QU9kTzVhSTZNY0tFZlRhREdRWUw5Z3RNNzdvSEhMRlJ6MHZSbEpHRVRid1R4bkdmLThxXzlJWEEtVWo2bWs3WWF0Zw?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-07-20T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     },
     {
       "id": "83bc17b80208f29d54af",
@@ -2969,10 +3011,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 21,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-11T12:17:00+05:30",
-  "next_update_display": "11 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-11T18:17:00+05:30",
+  "next_update_display": "11 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

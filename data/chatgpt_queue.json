@@ -1,48 +1,52 @@
 {
-  "generated_at": "2026-08-11T11:06:48.213334+05:30",
-  "generated_at_display": "11 Aug 2026, 11:06 AM IST",
+  "generated_at": "2026-08-11T15:40:27.069117+05:30",
+  "generated_at_display": "11 Aug 2026, 3:40 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 86,
+  "remaining_unsummarized_count": 87,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
-      "id": "48a2abf995597e48fe1e",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
-      "source": "Kalkine Media",
-      "description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? Kalkine Media",
-      "published_at": "2026-08-11T01:16:00+00:00",
-      "published_display": "11 Aug 2026",
+      "id": "0bdc4a693d0cba7b7129",
+      "company": "Labcorp",
+      "category": "Leadership Changes",
+      "title": "Labcorp Colorado Springs Appointment",
+      "source": "Toimihenkilöliitto Erto",
+      "description": "Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto",
+      "published_at": "2026-08-10T18:58:23+00:00",
+      "published_display": "10 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
       "sources": [
         {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5"
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
         }
       ]
     },
     {
-      "id": "131a04cd4b17846e8707",
-      "company": "Quest Diagnostics",
+      "id": "ee3469be3b162ebacbef",
+      "company": "Labcorp",
       "category": "Other",
-      "title": "Quest Diagnostics Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "description": "Quest Diagnostics Incorporated (DGX) Stock Price, News, Quote & History Yahoo! Finance Canada",
-      "published_at": "2026-08-10T16:20:54+00:00",
-      "published_display": "10 Aug 2026",
+      "title": "Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing",
+      "source": "dallasexpress.com",
+      "description": "Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing dallasexpress.com",
+      "published_at": "2026-07-18T07:00:00+00:00",
+      "published_display": "18 Jul 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVncTdrQ2plb0VpYTJlMlVSRnBlLTd5cFRQa0QtZ3g3QnBTYkZLT1ZRZ1o2dXFjU1VTSjlPVENfdmpxQ2s4alpaQlA1R1Y4dVVsS0ZJVlBtc3ZFX040d2F4bTdMeUFUNTVOUElYUV9Pbl9nOXQwME0wTnRFY21WQ0pERUVLWGp1RV9MSTQ0WWdNZUVYanA3QTJmNlZSdWMzdXZXWG1tbThqSGxNQVVmMlhQOTFTU2U1ODNDa2hLc1JlUXFraTVEVXBMMA?oc=5",
       "sources": [
         {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5"
+          "name": "dallasexpress.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVncTdrQ2plb0VpYTJlMlVSRnBlLTd5cFRQa0QtZ3g3QnBTYkZLT1ZRZ1o2dXFjU1VTSjlPVENfdmpxQ2s4alpaQlA1R1Y4dVVsS0ZJVlBtc3ZFX040d2F4bTdMeUFUNTVOUElYUV9Pbl9nOXQwME0wTnRFY21WQ0pERUVLWGp1RV9MSTQ0WWdNZUVYanA3QTJmNlZSdWMzdXZXWG1tbThqSGxNQVVmMlhQOTFTU2U1ODNDa2hLc1JlUXFraTVEVXBMMA?oc=5"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkFyWUh4TzVDZm5GenYxSE5oNUdLQ0dzUV9fYVhoWGF0Rk4zMEdJemp4bTZDWC1sRTlsWndNeGgzNHlxQk1jc3Y5VWRVR0RMbTA2VjVHaUxhVjRLdkQzWkhxUUxjSzk1QU9kTzVhSTZNY0tFZlRhREdRWUw5Z3RNNzdvSEhMRlJ6MHZSbEpHRVRid1R4bkdmLThxXzlJWEEtVWo2bWs3WWF0Zw?oc=5"
         }
       ]
     },
@@ -334,6 +338,25 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXlsVVNpWHN3cEV2OXl2VWV0MEFjM3RCc0ZSRHhVN0hCT3hUVmRmZ1ktNC1DMmNqeEQzRE00Q1JyTFlOcy1zQml3RzRpbEZqR3ExUzN4MVNFU3NEUDdsNGJLazlBNlJmWXVLdUlYVUtWN09mOUUycll6OVA0YjlSdjVEdlEwd1JvSlo3NkdCYUFVUTBBbkJUbA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "48a2abf995597e48fe1e",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
+      "source": "Kalkine Media",
+      "description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? Kalkine Media",
+      "published_at": "2026-08-11T01:16:00+00:00",
+      "published_display": "11 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5"
         }
       ]
     },
@@ -644,29 +667,6 @@
         {
           "name": "富途牛牛",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFwcUprTnhtSnV5c2xRd1dwemFpM3gyb2JLOVVHXzE1ZVRndGxmaUxNNHotcHB2bkFRdm1DT3FoUE0wdURkZmhzR3dQMUw2YWdUeGEtVkR6ZnB3a0lPcUJpcm1PTUxFTlp2cTNSSjRMcEgtcG1aUnA2RHV0VVNOcGdLWXl1MjFseWlRcWZHWGNtYXpFamRYUkVZb193Mk5HRXNidWZQNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13192f9008969763d5a7",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Earnings Beat: Quest Diagnostics Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
-      "source": "Sahm",
-      "description": "Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models sahmcapital.com",
-      "published_at": "2026-07-26T07:00:00+00:00",
-      "published_display": "26 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLW5hZ3VDejJhakNZOXN4MV9YdGFPMlhYUnFRNjhLREQtN3BFMFZBNldFdEhGVVNsRU85Qm5IQV81VUpHeURMdlNkOVVDelJOdi1Fb0d6RGIzb1BuQVNyaTdFcGNjVEtmODBrcFRRdlZFWTAteHpwV1RMTUdXcThWUHJrYmxHeVJMaHo4LVpkMjVLbS16TnVENzUzSHVoXzlRVFdSYlFxeURZMm84N1RMMjZhZG1VeksxOVhVNGZWMjJ4UlVOUFIzRndwTmx2dE5CUFh2MW5INGlXMXVGSTd5YlpXRGZWX3E0WmIxSk9hNE0tZTVRNTNHaGJqVjU4Zw?oc=5",
-      "sources": [
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLW5hZ3VDejJhakNZOXN4MV9YdGFPMlhYUnFRNjhLREQtN3BFMFZBNldFdEhGVVNsRU85Qm5IQV81VUpHeURMdlNkOVVDelJOdi1Fb0d6RGIzb1BuQVNyaTdFcGNjVEtmODBrcFRRdlZFWTAteHpwV1RMTUdXcThWUHJrYmxHeVJMaHo4LVpkMjVLbS16TnVENzUzSHVoXzlRVFdSYlFxeURZMm84N1RMMjZhZG1VeksxOVhVNGZWMjJ4UlVOUFIzRndwTmx2dE5CUFh2MW5INGlXMXVGSTd5YlpXRGZWX3E0WmIxSk9hNE0tZTVRNTNHaGJqVjU4Zw?oc=5"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0ZuN0p1YVBSd0JEek5RbExOOVV5ZG5oNTNMVFNqLWRfTXllR0xPX3pRRDBEWE4yUlNoX0VaTkl0aFlla3RmUlZ1NkR4WG5uT2EtY2hCc0VIeXViUGdrTEFJaFBfdmc4Qks1ZzVJZzUzc2dRVGRGS09zYjhMSE1hZDM4UmQwc3F6Ni1vRHIxLWdsdV9SWXhNTDRDRGR4WUNKNk1FVHBrQkRfRUdtZ0h2X1I1eHFfZFJCY3M4SEdsYTFMM3cyMGlWb3NkZEk1WXNL0gHWAUFVX3lxTE5tbERKd1ViRDBQQm1sNkhqZ3hCenZpaUgwV3lfbDVudHhMeHl6WEYyb0Z6dURPT3l5VTlxRTZEQllmWGFfcl9NMkVjZ1JPZ1oxck1yV29PdHd3YnNOX3lRN1ZDbXRrb0d2dXNYRmdHZVN4SjhLa3VZRWtaYUtrTVFwOGxoMkFGODZsMVYtYlhkY1RNejhtZU9teGxteUtic2lOdzdDZ0RGVUlmY0x1UTlCYkdDSHkxYjlwZmIwQzNLeUtKQlRhNGxMX2tsMWI2Y2dLVFhpc3c?oc=5"
         }
       ]
     }
