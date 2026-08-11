@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-11T02:54:13.510822+05:30",
-  "generated_at_display": "11 Aug 2026, 2:54 AM IST",
-  "item_count": 91,
-  "raw_relevant_item_count": 259,
-  "duplicates_merged": 71,
+  "generated_at": "2026-08-11T10:24:20.315748+05:30",
+  "generated_at_display": "11 Aug 2026, 10:24 AM IST",
+  "item_count": 93,
+  "raw_relevant_item_count": 264,
+  "duplicates_merged": 73,
   "failures": [],
   "items": [
+    {
+      "id": "48a2abf995597e48fe1e",
+      "company": "Sonic Healthcare",
+      "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
+      "description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-11T01:16:00+00:00",
+      "published_display": "11 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-11T01:16:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can diagnostic margin prove volumes"
+    },
     {
       "id": "de3ccea5b8a237b9f3c9",
       "company": "Labcorp",
@@ -29,6 +53,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "advanced approves companion diagnostic fda here know melanoma test what"
+    },
+    {
+      "id": "131a04cd4b17846e8707",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Price, News, Quote & History",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-08-10T16:20:54+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-08-10T16:20:54+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "history price quote stock"
     },
     {
       "id": "744ecc0885942423be6c",
@@ -2720,9 +2768,15 @@
           "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNXy1tRENwSFh4clRYMXhmc1Z2emlKX29vb1VzYlZacFRHb0EzM3RhcE5RbmRrRkd6RVJTNExQSlBrRGlVcXpKR0lLSE9RYnBtWFFRWm9iRlBvbi1HRTZCeUxsTjFHUWFfYmRCaTNFOHdlai1wcklMcFc1VWtmeEN6SlVLcTZhTmZ5Y1pHdDF1eUFFT054bmRfZTlOakRWYmNNMndYZjEwZGFvNk5va3BkeW82bkFHeU9JTFVhNXBtQmZibGZDckROLVhzVWhFSTc3U1U5ZE9YbkhBTDRfa1JwVjBHUFF4RHg1RGRDM2J4aWpQRGdLcFVMbHRsZWQyOTI2eWpyNzFn?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-07-23T15:19:33+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
         }
       ],
-      "coverage_count": 22,
+      "coverage_count": 23,
       "event_signature": "channels customer earnings focus key report"
     },
     {
@@ -2915,10 +2969,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 22,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-11T06:17:00+05:30",
-  "next_update_display": "11 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-11T12:17:00+05:30",
+  "next_update_display": "11 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

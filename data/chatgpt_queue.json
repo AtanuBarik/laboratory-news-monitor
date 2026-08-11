@@ -1,67 +1,48 @@
 {
-  "generated_at": "2026-08-11T03:31:33.226910+05:30",
-  "generated_at_display": "11 Aug 2026, 3:31 AM IST",
+  "generated_at": "2026-08-11T10:24:23.099470+05:30",
+  "generated_at_display": "11 Aug 2026, 10:24 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 84,
+  "remaining_unsummarized_count": 86,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
-      "id": "de3ccea5b8a237b9f3c9",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know",
-      "source": "The Dermatology Digest",
-      "description": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know The Dermatology Digest",
-      "published_at": "2026-08-10T18:14:33+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
-      "sources": [
-        {
-          "name": "The Dermatology Digest",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7cf2a17c1d2ea7bf1b01",
-      "company": "Labcorp",
+      "id": "48a2abf995597e48fe1e",
+      "company": "Sonic Healthcare",
       "category": "Financials",
-      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
-      "source": "TradingView",
-      "description": "Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary TradingView",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
+      "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
+      "source": "Kalkine Media",
+      "description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? Kalkine Media",
+      "published_at": "2026-08-11T01:16:00+00:00",
+      "published_display": "11 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5"
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5"
         }
       ]
     },
     {
-      "id": "26e34857f08ccef9e101",
+      "id": "131a04cd4b17846e8707",
       "company": "Quest Diagnostics",
       "category": "Other",
-      "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
-      "source": "Mshale",
-      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) Mshale",
-      "published_at": "2026-08-10T08:08:47+00:00",
+      "title": "Quest Diagnostics Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "description": "Quest Diagnostics Incorporated (DGX) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "published_at": "2026-08-10T16:20:54+00:00",
       "published_display": "10 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
       "sources": [
         {
-          "name": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5"
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5"
         }
       ]
     },
@@ -81,6 +62,25 @@
         {
           "name": "The Business Journals",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "de3ccea5b8a237b9f3c9",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know",
+      "source": "The Dermatology Digest",
+      "description": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know The Dermatology Digest",
+      "published_at": "2026-08-10T18:14:33+00:00",
+      "published_display": "10 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
+      "sources": [
+        {
+          "name": "The Dermatology Digest",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
         }
       ]
     },
@@ -553,6 +553,25 @@
       ]
     },
     {
+      "id": "7cf2a17c1d2ea7bf1b01",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
+      "source": "TradingView",
+      "description": "Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary TradingView",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1be2ec1321dc39f0df29",
       "company": "Labcorp",
       "category": "Financials",
@@ -648,25 +667,6 @@
         {
           "name": "simplywall.st",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0ZuN0p1YVBSd0JEek5RbExOOVV5ZG5oNTNMVFNqLWRfTXllR0xPX3pRRDBEWE4yUlNoX0VaTkl0aFlla3RmUlZ1NkR4WG5uT2EtY2hCc0VIeXViUGdrTEFJaFBfdmc4Qks1ZzVJZzUzc2dRVGRGS09zYjhMSE1hZDM4UmQwc3F6Ni1vRHIxLWdsdV9SWXhNTDRDRGR4WUNKNk1FVHBrQkRfRUdtZ0h2X1I1eHFfZFJCY3M4SEdsYTFMM3cyMGlWb3NkZEk1WXNL0gHWAUFVX3lxTE5tbERKd1ViRDBQQm1sNkhqZ3hCenZpaUgwV3lfbDVudHhMeHl6WEYyb0Z6dURPT3l5VTlxRTZEQllmWGFfcl9NMkVjZ1JPZ1oxck1yV29PdHd3YnNOX3lRN1ZDbXRrb0d2dXNYRmdHZVN4SjhLa3VZRWtaYUtrTVFwOGxoMkFGODZsMVYtYlhkY1RNejhtZU9teGxteUtic2lOdzdDZ0RGVUlmY0x1UTlCYkdDSHkxYjlwZmIwQzNLeUtKQlRhNGxMX2tsMWI2Y2dLVFhpc3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9c02e51cab07fadeb04f",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
-      "source": "TradingKey",
-      "description": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com",
-      "published_at": "2026-07-25T22:23:04+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5"
         }
       ]
     }

@@ -1,11 +1,23 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 11 Aug 2026, 2:54 AM IST
-- **Distinct events in this file:** 4
+- **Repository generated:** 11 Aug 2026, 10:24 AM IST
+- **Distinct events in this file:** 5
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Sonic Healthcare draws attention on diagnostics activity
+## 1. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 11 Aug 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine Media: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5
+
+**Feed description:** Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? Kalkine Media
+
+## 2. Sonic Healthcare draws attention on diagnostics activity
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 04 Aug 2026
@@ -17,7 +29,7 @@
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 2. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 3. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -29,7 +41,7 @@
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 3. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 4. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -41,7 +53,7 @@
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 4. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 5. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
