@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T16:28:36.918447+05:30",
-  "generated_at_display": "11 Aug 2026, 4:28 PM IST",
-  "item_count": 97,
-  "raw_relevant_item_count": 271,
+  "generated_at": "2026-08-11T19:19:02.465221+05:30",
+  "generated_at_display": "11 Aug 2026, 7:19 PM IST",
+  "item_count": 94,
+  "raw_relevant_item_count": 273,
   "duplicates_merged": 76,
   "failures": [],
   "items": [
@@ -269,7 +269,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "description": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party analyst snapshot rather than company guidance. In its July 27, 2026 update, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 Healthcare Providers & Services companies. The page labels the analyst consensus “Buy” based on 19 analysts and reports expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. The page also contains inconsistent target-price fields. Its analyst-rating panel displays a target of about $239.02 and 4.90% upside, while its FAQ lists an average target of $198.00, with a $215.00 high and $169.18 low. The same FAQ says the previous quarter’s market EPS expectation was $2.87 and the prior actual EPS was $2.28. Those figures should be treated as TradingKey/LSEG-derived market estimates, not as figures issued by Quest. For operating context, Quest subsequently reported second-quarter revenue of $3.043 billion and adjusted diluted EPS of $3.12 and raised its 2026 outlook. The TradingKey article therefore reflects an analyst-model view captured around the reporting period, and its internally inconsistent target-price presentation limits its usefulness for precise valuation conclusions.",
       "source": "TradingKey",
       "source_url": "https://www.tradingkey.com",
       "source_domain": "tradingkey.com",
@@ -286,14 +286,23 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "earnings eps estimates forecast future growth revenue"
+      "event_signature": "earnings eps estimates forecast future growth revenue",
+      "source_description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "chatgpt_summary": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party analyst snapshot rather than company guidance. In its July 27, 2026 update, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 Healthcare Providers & Services companies. The page labels the analyst consensus “Buy” based on 19 analysts and reports expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. The page also contains inconsistent target-price fields. Its analyst-rating panel displays a target of about $239.02 and 4.90% upside, while its FAQ lists an average target of $198.00, with a $215.00 high and $169.18 low. The same FAQ says the previous quarter’s market EPS expectation was $2.87 and the prior actual EPS was $2.28. Those figures should be treated as TradingKey/LSEG-derived market estimates, not as figures issued by Quest. For operating context, Quest subsequently reported second-quarter revenue of $3.043 billion and adjusted diluted EPS of $3.12 and raised its 2026 outlook. The TradingKey article therefore reflects an analyst-model view captured around the reporting period, and its internally inconsistent target-price presentation limits its usefulness for precise valuation conclusions.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-11T19:07:59+05:30",
+      "summary_evidence": [
+        "https://www.tradingkey.com/markets/stocks/dgx/earnings",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "391ebe110635ad88388d",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages TradingKey",
+      "description": "TradingKey’s technical-analysis page for Quest Diagnostics is a market-price indicator snapshot, not a new operating or clinical development. In the version available for verification, dated June 18, 2026, TradingKey gave Quest a price-momentum score of 7.03, ranking 49th of 76 companies in Healthcare Providers & Services. The page identified resistance at $205.38 and support at $186.75 and characterized the shares as trading in a range. Its nine-indicator panel showed three sell signals, three neutral signals and no buy signals. MACD was -0.391 and rated neutral; RSI was 46.053 and neutral; stochastic KDJ at 25.090, Williams %R at 75.827 and TRIX at 0.202 were rated sell; ATR of 4.781 was labeled high volatility; and StochRSI was 0.000, labeled oversold. Moving averages produced four sell signals and two buy signals: MA5 $199.808, MA10 $200.868, MA20 $197.541 and MA100 $196.855 were sell, while MA50 $194.864 and MA200 $189.581 were buy. TradingKey’s overall automated conclusion was “Sell” at that snapshot. Because the indicators are price-derived and time-sensitive, the article should not be read as evidence of a change in Quest’s business fundamentals or management outlook.",
       "source": "TradingKey",
       "source_url": "https://www.tradingkey.com",
       "source_domain": "tradingkey.com",
@@ -310,7 +319,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "analysis averages indicators moving resistance support technical"
+      "event_signature": "analysis averages indicators moving resistance support technical",
+      "source_description": "Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages TradingKey",
+      "chatgpt_summary": "TradingKey’s technical-analysis page for Quest Diagnostics is a market-price indicator snapshot, not a new operating or clinical development. In the version available for verification, dated June 18, 2026, TradingKey gave Quest a price-momentum score of 7.03, ranking 49th of 76 companies in Healthcare Providers & Services. The page identified resistance at $205.38 and support at $186.75 and characterized the shares as trading in a range. Its nine-indicator panel showed three sell signals, three neutral signals and no buy signals. MACD was -0.391 and rated neutral; RSI was 46.053 and neutral; stochastic KDJ at 25.090, Williams %R at 75.827 and TRIX at 0.202 were rated sell; ATR of 4.781 was labeled high volatility; and StochRSI was 0.000, labeled oversold. Moving averages produced four sell signals and two buy signals: MA5 $199.808, MA10 $200.868, MA20 $197.541 and MA100 $196.855 were sell, while MA50 $194.864 and MA200 $189.581 were buy. TradingKey’s overall automated conclusion was “Sell” at that snapshot. Because the indicators are price-derived and time-sensitive, the article should not be read as evidence of a change in Quest’s business fundamentals or management outlook.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-11T19:07:59+05:30",
+      "summary_evidence": [
+        "https://www.tradingkey.com/markets/stocks/dgx/technical"
+      ]
     },
     {
       "id": "ca9c22649820263e0fd5",
@@ -359,30 +376,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "235 above bullish despite holds intact overbought resistance signals stock trend"
-    },
-    {
-      "id": "0aedc8ea57534ac746c1",
-      "company": "Labcorp",
-      "title": "Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-      "description": "LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary tradingview.com",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-08-05T20:26:35+00:00",
-      "published_display": "05 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-08-05T20:26:35+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 73b eps revenue summary"
     },
     {
       "id": "0dfae174bbd8d4047658",
@@ -785,7 +778,7 @@
       "company": "Labcorp",
       "title": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5",
-      "description": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals",
+      "description": "Labcorp’s second-quarter 2026 results show that acquisitions were a meaningful, but not dominant, contributor to growth while profitability improved. Revenue rose 5.8% to $3.731 billion. Organic growth accounted for 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Labcorp spent $225.7 million on acquisitions during the quarter, alongside $353.8 million of share repurchases and $58.7 million of dividends. Reported operating income increased to $451.6 million from $394.5 million, taking operating margin to 12.1% from 11.2%, a 90-basis-point improvement. Adjusted operating income was $588.7 million and adjusted margin rose to 15.8% from 15.1%. Within Diagnostics Laboratories, revenue increased 5.5% to $2.901 billion; acquisitions net of divestitures contributed 1.9 percentage points, and adjusted margin improved 50 basis points to 18.0%. Biopharma Laboratory Services revenue grew 6.5% to $836.2 million and adjusted margin expanded 130 basis points to 17.0%. The results indicate that acquisition activity supplemented organic testing demand rather than replacing it. Management attributed margin improvement primarily to organic growth and operating efficiencies, while acquisitions broadened the revenue base and supported Labcorp’s scale strategy.",
       "source": "The Business Journals",
       "source_domain": "news.google.com",
       "published_at": "2026-07-30T18:54:00+00:00",
@@ -801,7 +794,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "acquisition drives margins profit spree"
+      "event_signature": "acquisition drives margins profit spree",
+      "source_description": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals",
+      "chatgpt_summary": "Labcorp’s second-quarter 2026 results show that acquisitions were a meaningful, but not dominant, contributor to growth while profitability improved. Revenue rose 5.8% to $3.731 billion. Organic growth accounted for 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Labcorp spent $225.7 million on acquisitions during the quarter, alongside $353.8 million of share repurchases and $58.7 million of dividends. Reported operating income increased to $451.6 million from $394.5 million, taking operating margin to 12.1% from 11.2%, a 90-basis-point improvement. Adjusted operating income was $588.7 million and adjusted margin rose to 15.8% from 15.1%. Within Diagnostics Laboratories, revenue increased 5.5% to $2.901 billion; acquisitions net of divestitures contributed 1.9 percentage points, and adjusted margin improved 50 basis points to 18.0%. Biopharma Laboratory Services revenue grew 6.5% to $836.2 million and adjusted margin expanded 130 basis points to 17.0%. The results indicate that acquisition activity supplemented organic testing demand rather than replacing it. Management attributed margin improvement primarily to organic growth and operating efficiencies, while acquisitions broadened the revenue base and supported Labcorp’s scale strategy.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-11T19:07:59+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html",
+        "https://www.bizjournals.com/news/technology/biotech"
+      ]
     },
     {
       "id": "1b818375b8fafc32848d",
@@ -852,34 +854,11 @@
       "event_signature": "chokshi damini head moves people positive tests"
     },
     {
-      "id": "89f6afae524e14be7da5",
-      "company": "Labcorp",
-      "title": "Labcorp Revises Earnings Guidance for the Full Year 2026",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5",
-      "description": "Labcorp Holdings Inc. Revises Earnings Guidance for the Full Year 2026 marketscreener.com",
-      "source": "marketscreener.com",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T11:50:38+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:50:38+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 earnings full guidance revises year"
-    },
-    {
       "id": "bef82adae503aa06a4a2",
       "company": "Labcorp",
       "title": "Labcorp earnings beat by $0.20, revenue topped estimates",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5",
-      "description": "Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com",
+      "description": "Labcorp raised its full-year 2026 earnings and revenue outlook after second-quarter results exceeded market expectations. The company increased adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. It also lifted expected enterprise revenue growth to 5.4%–6.3%; Reuters translated that growth range into approximately $14.71–$14.83 billion of annual revenue, versus the prior projection of about $14.65–$14.80 billion. The midpoint of the new adjusted EPS range, $18.33, was above the $18.01 analyst consensus cited by Reuters. Segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, or 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, or 5.5%–6.5% growth. Second-quarter Diagnostics revenue grew 5.5% to $2.901 billion, while Biopharma revenue increased 6.5% to $836.2 million. The raised outlook followed consolidated quarterly revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, up 14.9%. Labcorp cited steady diagnostic-testing demand, specialty testing, lab-management agreements and improved pharmaceutical and biotechnology spending as supporting factors. The company kept free-cash-flow guidance at $1.24–$1.36 billion while also expanding its share-repurchase authorization.",
       "source": "Investing.com",
       "source_domain": "news.google.com",
       "published_at": "2026-07-30T11:10:42+00:00",
@@ -892,40 +871,38 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5",
           "domain": "news.google.com",
           "published_at": "2026-07-30T11:10:42+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "beat earnings estimates revenue topped"
-    },
-    {
-      "id": "1300497ab979c1697414",
-      "company": "Labcorp",
-      "title": "Labcorp raises 2026 guidance and expands $1.4B buyback",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5",
-      "description": "Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net",
-      "source": "Stock Titan",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T10:53:41+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
+        },
         {
-          "name": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5",
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5",
           "domain": "news.google.com",
-          "published_at": "2026-07-30T10:53:41+00:00"
+          "published_at": "2026-07-30T11:50:38+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-08-05T20:26:35+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "2026 buyback expands guidance raises"
+      "coverage_count": 3,
+      "event_signature": "beat earnings estimates revenue topped",
+      "source_description": "Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com",
+      "chatgpt_summary": "Labcorp’s second-quarter 2026 earnings and revenue both came in above the market expectations cited in contemporaneous reporting. Adjusted EPS was $4.99, up 14.9% from $4.35 a year earlier, compared with an LSEG analyst consensus of $4.78 reported by Reuters. The queued Investing.com headline described the earnings beat as roughly $0.20 per share. Reported diluted EPS was $3.64, up 28.5% from $2.84. Revenue increased 5.8% to $3.731 billion, above the roughly $3.71 billion analyst expectation cited by Reuters. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%; organic growth was 3.6%, and acquisitions net of divestitures contributed 1.9 percentage points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million, with Central Labs up 9.8%. Reported operating margin improved to 12.1% from 11.2%, while adjusted operating margin rose to 15.8% from 15.1%. Despite the headline beat, Reuters reported Labcorp shares down about 6% in premarket trading, with investors focused on softer-than-expected organic growth in Diagnostics after stronger results from Quest Diagnostics. Labcorp nevertheless raised full-year adjusted EPS and revenue-growth guidance following the quarter.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-11T19:07:59+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html",
+        "https://in.marketscreener.com/news/labcorp-raises-annual-profit-forecast-on-strong-testing-demand-ce7f50dadd88f423"
+      ]
     },
     {
       "id": "d33ad65750cc3e48824a",
       "company": "Labcorp",
       "title": "Labcorp raises annual profit forecast on strong testing demand",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
-      "description": "Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada",
+      "description": "Labcorp raised its annual profit forecast after second-quarter results beat Wall Street expectations, supported by diagnostic-testing demand and growth in drug-development laboratory services. Revenue rose 5.8% to $3.73 billion versus an LSEG consensus of about $3.71 billion, and adjusted EPS of $4.99 exceeded the $4.78 consensus. The company increased 2026 adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35 and raised its annual revenue outlook to approximately $14.71–$14.83 billion from $14.65–$14.80 billion. Diagnostics Laboratories revenue grew 5.5% to $2.90 billion, slightly below analysts’ $2.91 billion expectation. Labcorp said specialty testing and laboratory-management agreements supported the diagnostics business. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, above the roughly $797.3 million analyst estimate, as pharmaceutical and biotechnology spending improved. Central Labs revenue within Biopharma grew 9.8%. Reuters reported the shares down about 6% in premarket trading despite the beat. Leerink Partners analyst Michael Cherny said investors appeared to be focusing on softer-than-expected organic growth in Diagnostics, particularly after Quest Diagnostics had posted stronger results the previous week. The quarter therefore combined improved earnings and guidance with a more mixed investor reaction to the underlying diagnostics growth rate.",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "source_domain": "reuters.com",
@@ -978,7 +955,17 @@
         }
       ],
       "coverage_count": 7,
-      "event_signature": "annual demand forecast profit raises strong testing"
+      "event_signature": "annual demand forecast profit raises strong testing",
+      "source_description": "Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada",
+      "chatgpt_summary": "Labcorp raised its annual profit forecast after second-quarter results beat Wall Street expectations, supported by diagnostic-testing demand and growth in drug-development laboratory services. Revenue rose 5.8% to $3.73 billion versus an LSEG consensus of about $3.71 billion, and adjusted EPS of $4.99 exceeded the $4.78 consensus. The company increased 2026 adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35 and raised its annual revenue outlook to approximately $14.71–$14.83 billion from $14.65–$14.80 billion. Diagnostics Laboratories revenue grew 5.5% to $2.90 billion, slightly below analysts’ $2.91 billion expectation. Labcorp said specialty testing and laboratory-management agreements supported the diagnostics business. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, above the roughly $797.3 million analyst estimate, as pharmaceutical and biotechnology spending improved. Central Labs revenue within Biopharma grew 9.8%. Reuters reported the shares down about 6% in premarket trading despite the beat. Leerink Partners analyst Michael Cherny said investors appeared to be focusing on softer-than-expected organic growth in Diagnostics, particularly after Quest Diagnostics had posted stronger results the previous week. The quarter therefore combined improved earnings and guidance with a more mixed investor reaction to the underlying diagnostics growth rate.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-11T19:07:59+05:30",
+      "summary_evidence": [
+        "https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html",
+        "https://in.marketscreener.com/news/labcorp-raises-annual-profit-forecast-on-strong-testing-demand-ce7f50dadd88f423",
+        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
+      ]
     },
     {
       "id": "0793cd23304353436380",
@@ -2286,7 +2273,7 @@
       "company": "Labcorp",
       "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5",
-      "description": "Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com",
+      "description": "Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.",
       "source": "Yahoo Finance",
       "source_domain": "news.google.com",
       "published_at": "2026-07-22T07:00:00+00:00",
@@ -2569,9 +2556,15 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGhOS09wVmFmR3JpVHVxMWgycFNaNDNNbTFPZWxxdWhVbDhwT3RVMnlrNngyQmJ1MnBabWFIdjM2OXdCWHJTTDFtWWhSSWw2akFLdEVlRE81eDM4SzU4NjhsZVdfakJLdnhidG5TX2xQNlNSNmxjbEtGWlBoT183d0dHczZOZFp5VWgyb2N4a1A3UkU?oc=5",
           "domain": "marketbeat.com",
           "published_at": "2026-07-31T07:00:00+00:00"
+        },
+        {
+          "name": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-07-30T10:53:41+00:00"
         }
       ],
-      "coverage_count": 46,
+      "coverage_count": 47,
       "event_signature": "cards earnings prepares report what"
     },
     {
@@ -3090,10 +3083,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 76,
-  "post_prune_financial_duplicates_merged": 22,
+  "low_value_items_removed": 79,
+  "post_prune_financial_duplicates_merged": 24,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-11T18:17:00+05:30",
-  "next_update_display": "11 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-12T00:17:00+05:30",
+  "next_update_display": "12 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

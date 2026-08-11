@@ -1,7 +1,7 @@
 # Labcorp News
 
-- **Repository generated:** 11 Aug 2026, 4:28 PM IST
-- **Distinct events in this file:** 36
+- **Repository generated:** 11 Aug 2026, 7:19 PM IST
+- **Distinct events in this file:** 33
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -79,19 +79,7 @@
 
 **Feed description:** Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma PR Newswire
 
-## 7. Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary
-
-- **Company:** Labcorp
-- **Publication date:** 05 Aug 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5
-
-**Feed description:** LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary tradingview.com
-
-## 8. Labcorp Paying Out $35M in Settlement: Who’s Eligible
+## 7. Labcorp Paying Out $35M in Settlement: Who’s Eligible
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -103,7 +91,7 @@
 
 **Feed description:** Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.
 
-## 9. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
+## 8. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -118,7 +106,7 @@
 
 **Feed description:** Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.
 
-## 10. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
+## 9. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
 
 - **Company:** Labcorp
 - **Publication date:** 03 Aug 2026
@@ -131,7 +119,7 @@
 
 **Feed description:** Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.
 
-## 11. Labcorp Stock Holds A Bullish Case On Margin Expansion
+## 10. Labcorp Stock Holds A Bullish Case On Margin Expansion
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -144,7 +132,7 @@
 
 **Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion sahmcapital.com
 
-## 12. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
+## 11. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -154,45 +142,23 @@
 - **Sources:**
   - The Business Journals: https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5
 
-**Feed description:** Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals
+**Feed description:** Labcorp’s second-quarter 2026 results show that acquisitions were a meaningful, but not dominant, contributor to growth while profitability improved. Revenue rose 5.8% to $3.731 billion. Organic growth accounted for 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Labcorp spent $225.7 million on acquisitions during the quarter, alongside $353.8 million of share repurchases and $58.7 million of dividends. Reported operating income increased to $451.6 million from $394.5 million, taking operating margin to 12.1% from 11.2%, a 90-basis-point improvement. Adjusted operating income was $588.7 million and adjusted margin rose to 15.8% from 15.1%. Within Diagnostics Laboratories, revenue increased 5.5% to $2.901 billion; acquisitions net of divestitures contributed 1.9 percentage points, and adjusted margin improved 50 basis points to 18.0%. Biopharma Laboratory Services revenue grew 6.5% to $836.2 million and adjusted margin expanded 130 basis points to 17.0%. The results indicate that acquisition activity supplemented organic testing demand rather than replacing it. Management attributed margin improvement primarily to organic growth and operating efficiencies, while acquisitions broadened the revenue base and supported Labcorp’s scale strategy.
 
-## 13. Labcorp Revises Earnings Guidance for the Full Year 2026
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5
-
-**Feed description:** Labcorp Holdings Inc. Revises Earnings Guidance for the Full Year 2026 marketscreener.com
-
-## 14. Labcorp earnings beat by $0.20, revenue topped estimates
+## 12. Labcorp earnings beat by $0.20, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5
+  - marketscreener.com: https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5
 
-**Feed description:** Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com
+**Feed description:** Labcorp raised its full-year 2026 earnings and revenue outlook after second-quarter results exceeded market expectations. The company increased adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. It also lifted expected enterprise revenue growth to 5.4%–6.3%; Reuters translated that growth range into approximately $14.71–$14.83 billion of annual revenue, versus the prior projection of about $14.65–$14.80 billion. The midpoint of the new adjusted EPS range, $18.33, was above the $18.01 analyst consensus cited by Reuters. Segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, or 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, or 5.5%–6.5% growth. Second-quarter Diagnostics revenue grew 5.5% to $2.901 billion, while Biopharma revenue increased 6.5% to $836.2 million. The raised outlook followed consolidated quarterly revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, up 14.9%. Labcorp cited steady diagnostic-testing demand, specialty testing, lab-management agreements and improved pharmaceutical and biotechnology spending as supporting factors. The company kept free-cash-flow guidance at $1.24–$1.36 billion while also expanding its share-repurchase authorization.
 
-## 15. Labcorp raises 2026 guidance and expands $1.4B buyback
-
-- **Company:** Labcorp
-- **Publication date:** 30 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Stock Titan: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5
-
-**Feed description:** Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net
-
-## 16. Labcorp raises annual profit forecast on strong testing demand
+## 13. Labcorp raises annual profit forecast on strong testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -208,9 +174,9 @@
   - 93.3 The Drive: https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVFSGxYWm10VzhyUHpLZGxFZnZmbVNTWTEtNWdtd3JLY3ZGRFFPOUw1M252N3I1cW9remtmWGV2bXlHMFdnZG1zSHhjbndVVnhlM2FvMkluN2FUd0o1SFBIUGlwRnVkcGV5bzRBalA0TUdQdWQwVWJfS1BLN3Y2Smc1MHhmaTdiSFh1Z0JEckJub1Z1TGZ5Rjlvd04xMnBxc0VNQg?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMizAFBVV95cUxNWklJUnRQVWxZOWhHM0xacFlVT0FscGx6SWdrUDNic0k4VVVmamd4WDA3dU9Ob2RsaDFIYWwwcmltUXJpbHJzRC0taEpVTE1Cczk1WXBGM3I1OHVvbmRzU2Nydk5OdlVpazkyZzhIVXdHUTdLLTZOY1FxTzRELU9hZE56QlJwcm8yaHAtLW5jRFhpX0Q0NjZZMnBEMzdqTEhVYW52X050OVdaNllYTHBEcjNjTUFFYWFrSy1EemtUcDBnS09FZUJIc090RDM?oc=5
 
-**Feed description:** Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada
+**Feed description:** Labcorp raised its annual profit forecast after second-quarter results beat Wall Street expectations, supported by diagnostic-testing demand and growth in drug-development laboratory services. Revenue rose 5.8% to $3.73 billion versus an LSEG consensus of about $3.71 billion, and adjusted EPS of $4.99 exceeded the $4.78 consensus. The company increased 2026 adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35 and raised its annual revenue outlook to approximately $14.71–$14.83 billion from $14.65–$14.80 billion. Diagnostics Laboratories revenue grew 5.5% to $2.90 billion, slightly below analysts’ $2.91 billion expectation. Labcorp said specialty testing and laboratory-management agreements supported the diagnostics business. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, above the roughly $797.3 million analyst estimate, as pharmaceutical and biotechnology spending improved. Central Labs revenue within Biopharma grew 9.8%. Reuters reported the shares down about 6% in premarket trading despite the beat. Leerink Partners analyst Michael Cherny said investors appeared to be focusing on softer-than-expected organic growth in Diagnostics, particularly after Quest Diagnostics had posted stronger results the previous week. The quarter therefore combined improved earnings and guidance with a more mixed investor reaction to the underlying diagnostics growth rate.
 
-## 17. Labcorp Reports Q2 CY2026 In Line With Expectations
+## 14. Labcorp Reports Q2 CY2026 In Line With Expectations
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -225,7 +191,7 @@
 
 **Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations theglobeandmail.com
 
-## 18. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
+## 15. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -238,7 +204,7 @@
 
 **Feed description:** Labcorp raises earnings outlook on strong medical testing demand modernhealthcare.com
 
-## 19. Labcorp reports results for the quarter ended June 30 - Earnings Summary
+## 16. Labcorp reports results for the quarter ended June 30 - Earnings Summary
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -250,7 +216,7 @@
 
 **Feed description:** Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary TradingView
 
-## 20. Labcorp Number of Employees 2026 | Employee Count & Headcount Data
+## 17. Labcorp Number of Employees 2026 | Employee Count & Headcount Data
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -262,7 +228,7 @@
 
 **Feed description:** Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com
 
-## 21. Labcorp earnings ahead: Can specialty tests sustain momentum?
+## 18. Labcorp earnings ahead: Can specialty tests sustain momentum?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -274,7 +240,7 @@
 
 **Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
 
-## 22. Labcorp expands hereditary risk testing access with genetic health panel
+## 19. Labcorp expands hereditary risk testing access with genetic health panel
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -287,7 +253,7 @@
 
 **Feed description:** Labcorp expands hereditary risk testing access with genetic health panel Yahoo
 
-## 23. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
+## 20. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -299,7 +265,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net
 
-## 24. Labcorp launches genetic health panel for consumers By Investing.com
+## 21. Labcorp launches genetic health panel for consumers By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -312,7 +278,7 @@
 
 **Feed description:** Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa
 
-## 25. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
+## 22. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -324,7 +290,7 @@
 
 **Feed description:** Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus
 
-## 26. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
+## 23. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -336,7 +302,7 @@
 
 **Feed description:** Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com
 
-## 27. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
+## 24. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -357,7 +323,7 @@
 
 **Feed description:** Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com
 
-## 28. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
+## 25. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -369,7 +335,7 @@
 
 **Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com
 
-## 29. Labcorp Secures $364.7M Contract for Military Health Services
+## 26. Labcorp Secures $364.7M Contract for Military Health Services
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -381,12 +347,12 @@
 
 **Feed description:** Labcorp (LH) Secures $364.7M Contract for Military Health Services GuruFocus
 
-## 30. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
+## 27. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 46
+- **Coverage count:** 47
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5
@@ -435,10 +401,11 @@
   - Barchart.com: https://news.google.com/rss/articles/CBMifEFVX3lxTE93dzNtbWN2aGwxOThnNmFZOEJfeG1hVUFGa2gtdXp1X3dLbkl1TXlkWU1BeXBJc19kVlk0NFlWUlkxanpVbGliSkVPU2lpOFI2dzJURDAzWUZMM090VVBTWjFGd0hhZDN1NUpXSXdKcThkTG1UUEo4UDhtSk4?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkVid1htWEpiWWhxSU5Eb1NSYUp5b2RGRUs4ZlFjOVo3NjBlY0hmc2x3MHdaMEJBd09TTlNwX3RaMVRNd2xzdVhhVWxza3o1dGFMOExPdGZNZWtSQzd1dksxRzhuQXFYZDhNd2QxTEF3SUZNNXBOZm9OSEZtVGR0di04ejRFa2V5VUxGY3dEeTBucVJqdkZuWTRzZDQ?oc=5
   - MarketBeat: https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGhOS09wVmFmR3JpVHVxMWgycFNaNDNNbTFPZWxxdWhVbDhwT3RVMnlrNngyQmJ1MnBabWFIdjM2OXdCWHJTTDFtWWhSSWw2akFLdEVlRE81eDM4SzU4NjhsZVdfakJLdnhidG5TX2xQNlNSNmxjbEtGWlBoT183d0dHczZOZFp5VWgyb2N4a1A3UkU?oc=5
+  - Stock Titan: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5
 
-**Feed description:** Labcorp Holdings Inc. Reports Earnings Results for the Second Quarter and Six Months Ended June 30, 2026 marketscreener.com
+**Feed description:** Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.
 
-## 31. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
+## 28. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
 
 - **Company:** Labcorp
 - **Publication date:** 21 Jul 2026
@@ -450,7 +417,7 @@
 
 **Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com
 
-## 32. Business tidbits: Labcorp opens expanded patient service center in Yakima
+## 29. Business tidbits: Labcorp opens expanded patient service center in Yakima
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
@@ -462,7 +429,7 @@
 
 **Feed description:** Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic
 
-## 33. Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing
+## 30. Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing
 
 - **Company:** Labcorp
 - **Publication date:** 18 Jul 2026
@@ -475,7 +442,7 @@
 
 **Feed description:** Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing dallasexpress.com
 
-## 34. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
+## 31. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
 
 - **Company:** Labcorp
 - **Publication date:** 15 Jul 2026
@@ -487,7 +454,7 @@
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec finance.yahoo.com
 
-## 35. Labcorp Declares Cash Dividend of $0.72 Per S
+## 32. Labcorp Declares Cash Dividend of $0.72 Per S
 
 - **Company:** Labcorp
 - **Publication date:** 10 Jul 2026
@@ -499,7 +466,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
 
-## 36. Labcorp Declares Quarterly Dividend
+## 33. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026

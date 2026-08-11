@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 11 Aug 2026, 4:28 PM IST
+- **Repository generated:** 11 Aug 2026, 7:19 PM IST
 - **Distinct events in this file:** 55
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -52,7 +52,7 @@
 - **Sources:**
   - TradingKey: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5
 
-**Feed description:** Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey
+**Feed description:** TradingKey’s Quest Diagnostics earnings-forecast page is a third-party analyst snapshot rather than company guidance. In its July 27, 2026 update, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 Healthcare Providers & Services companies. The page labels the analyst consensus “Buy” based on 19 analysts and reports expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. The page also contains inconsistent target-price fields. Its analyst-rating panel displays a target of about $239.02 and 4.90% upside, while its FAQ lists an average target of $198.00, with a $215.00 high and $169.18 low. The same FAQ says the previous quarter’s market EPS expectation was $2.87 and the prior actual EPS was $2.28. Those figures should be treated as TradingKey/LSEG-derived market estimates, not as figures issued by Quest. For operating context, Quest subsequently reported second-quarter revenue of $3.043 billion and adjusted diluted EPS of $3.12 and raised its 2026 outlook. The TradingKey article therefore reflects an analyst-model view captured around the reporting period, and its internally inconsistent target-price presentation limits its usefulness for precise valuation conclusions.
 
 ## 5. Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages
 
@@ -64,7 +64,7 @@
 - **Sources:**
   - TradingKey: https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5
 
-**Feed description:** Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages TradingKey
+**Feed description:** TradingKey’s technical-analysis page for Quest Diagnostics is a market-price indicator snapshot, not a new operating or clinical development. In the version available for verification, dated June 18, 2026, TradingKey gave Quest a price-momentum score of 7.03, ranking 49th of 76 companies in Healthcare Providers & Services. The page identified resistance at $205.38 and support at $186.75 and characterized the shares as trading in a range. Its nine-indicator panel showed three sell signals, three neutral signals and no buy signals. MACD was -0.391 and rated neutral; RSI was 46.053 and neutral; stochastic KDJ at 25.090, Williams %R at 75.827 and TRIX at 0.202 were rated sell; ATR of 4.781 was labeled high volatility; and StochRSI was 0.000, labeled oversold. Moving averages produced four sell signals and two buy signals: MA5 $199.808, MA10 $200.868, MA20 $197.541 and MA100 $196.855 were sell, while MA50 $194.864 and MA200 $189.581 were buy. TradingKey’s overall automated conclusion was “Sell” at that snapshot. Because the indicators are price-derived and time-sensitive, the article should not be read as evidence of a change in Quest’s business fundamentals or management outlook.
 
 ## 6. Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States
 

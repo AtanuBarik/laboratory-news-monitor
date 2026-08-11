@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T16:28:39.930735+05:30",
-  "generated_at_display": "11 Aug 2026, 4:28 PM IST",
+  "generated_at": "2026-08-11T19:19:06.067974+05:30",
+  "generated_at_display": "11 Aug 2026, 7:19 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 90,
+  "remaining_unsummarized_count": 82,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -43,44 +43,6 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "391ebe110635ad88388d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages",
-      "source": "TradingKey",
-      "description": "Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages TradingKey",
-      "published_at": "2026-08-07T07:00:00+00:00",
-      "published_display": "07 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2238325c47bcfcea8d12",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2",
-      "source": "The Business Journals",
-      "description": "Labcorp's acquisition spree drives profit margins to 12.1% in Q2 The Business Journals",
-      "published_at": "2026-07-30T18:54:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5",
-      "sources": [
-        {
-          "name": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTFVseElLelJiQ3h4RE5NaTF3VzFRV2tFcGxxU0hoanZnVUtQU1VZV3JaSV9sOHBwZFV0aXplbEVjU3B1RWxSejRheXFOTVhqMy1Ja09jVlR3dlFacUFQMm13c2ZWVEsxN29lb0d1UFUyWEN5OTFJbnAyWDlvTTcxZ0Qyb25DTDlPcndfX3doTi16eTF6WGFGdVhoUXlxMTQ?oc=5"
         }
       ]
     },
@@ -376,44 +338,6 @@
       ]
     },
     {
-      "id": "ef01db00ce5a4ff25908",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
-      "source": "TradingKey",
-      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
-      "published_at": "2026-08-07T07:47:44+00:00",
-      "published_display": "07 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5",
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0aedc8ea57534ac746c1",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary",
-      "source": "TradingView",
-      "description": "LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary tradingview.com",
-      "published_at": "2026-08-05T20:26:35+00:00",
-      "published_display": "05 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "89b96157b0996d360c0f",
       "company": "Labcorp",
       "category": "Financials",
@@ -433,106 +357,6 @@
         {
           "name": "simplywall.st",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXQ2eFlzeUJfTGotekMzbzR0UF82VVFJaDgxeG8xY0FsbWZnMFhSQVg3RHJfS3RFT0pMblo1SlpMZlhIdjZ6bkg3NlRnQmphX3ZXUmtEOTNLc01IZGNLbFc3NENSUFIzZkVTNnM2TEFxY05OVUdpeWczSW9yOW1SREpSZkpqNVkwQlFfaVVNUVJ3aVNGU29ib1BwS21pZEVodzFHaGRITjFUMmdweV9sSnhaOFhJd0x2alc5ZEltQWxuOHZjVkJNam1B0gHPAUFVX3lxTE5JenlNQlZSVDhxenR2UVVibmx2WnduU3h5c3A4MHB3anY2UExULVZPSU1IOGFWMHhXanpyNXB4V25IWTdCaHhFbmNFVFFCVHUxZC1pXzhPbWw1QzJMOTNwclFjSXdQdzJkMWZxZ2ltRzJaX2RpRW9WSHlDUEN0RTlKQlhaWlFQZUlyU0laNXpsQUd6eHJkbGZ1ei1zcUpYanNtWDVXbUxOQUV6MElVb2oyUTBoUXZ5Y1YwVDlrOUtkUm05Y2VUSzRjUXFTWlo5UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89f6afae524e14be7da5",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp Revises Earnings Guidance for the Full Year 2026",
-      "source": "marketscreener.com",
-      "description": "Labcorp Holdings Inc. Revises Earnings Guidance for the Full Year 2026 marketscreener.com",
-      "published_at": "2026-07-30T11:50:38+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bef82adae503aa06a4a2",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp earnings beat by $0.20, revenue topped estimates",
-      "source": "Investing.com",
-      "description": "Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com",
-      "published_at": "2026-07-30T11:10:42+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1300497ab979c1697414",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp raises 2026 guidance and expands $1.4B buyback",
-      "source": "Stock Titan",
-      "description": "Labcorp (NYSE: LH) raises 2026 guidance and expands $1.4B buyback stocktitan.net",
-      "published_at": "2026-07-30T10:53:41+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5",
-      "sources": [
-        {
-          "name": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d33ad65750cc3e48824a",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp raises annual profit forecast on strong testing demand",
-      "source": "Reuters",
-      "description": "Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5"
-        },
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUVaWHd3UlRSR1B0YnNoOE4yZmR3Nmhmb1ctYkFBLTVNZGNjemZ1dDF1bEZBZHdvV3Z5dWVEVnRON1ktcTdOc3NwTXFUbDZ6VmdUbTZLZGcwaHczb0VzYm4wbXp6ZkFrdWtvbTJ6WTZkNE1GdElKQVUwOWpNcDY1ZDc1QTdCdU13ckNvcWZEelF6OUwzeTVXUURKWDhaWE16eGc1Q0FZRzI4LVU0ZGpuc1ZFaGktelotLWt1c2NBUUk0QlVjZWNwQnc2SmM?oc=5"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk9PUWQ3MjRNaWJWdmpmU2RIdERYcE1WMmZlTVJlZEZHcTFBR1RMd2JnazZjanE0TWRJRTVneGY1blpvRFh3dnNKU0ZkeEowZno5cUo0ZGlfckc1MG1qVl9VUGZjNmJXSk03ZF9uSmRLb1lmY2puYXNxYWp0Wmp4TVh6QnNMdmFNR203TnI0bw?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmtlcnJlNS1pNTZkVWtwUjFKY2JrOE1WdGdJajE5aldiZXJwZm55cFEtLVNNYW4wZlBvTS0xdzVTZmcxSk1sd0tqWWMtNlZhTmRnczdZT3ZkUE1ET3o3ZGpGRG5ITVNhM0xsZ0ZpdzFpTjl1cHpXb1lOeV9EenBUYVhhVGtCOWh4M0RNN0hMOU1BYS1BaVN3cW1lbDYzRFNCeWhkOWt2TEJFcnVnc2FRZ2ZhZkNndw?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5"
-        },
-        {
-          "name": "93.3 The Drive",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVFSGxYWm10VzhyUHpLZGxFZnZmbVNTWTEtNWdtd3JLY3ZGRFFPOUw1M252N3I1cW9remtmWGV2bXlHMFdnZG1zSHhjbndVVnhlM2FvMkluN2FUd0o1SFBIUGlwRnVkcGV5bzRBalA0TUdQdWQwVWJfS1BLN3Y2Smc1MHhmaTdiSFh1Z0JEckJub1Z1TGZ5Rjlvd04xMnBxc0VNQg?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWklJUnRQVWxZOWhHM0xacFlVT0FscGx6SWdrUDNic0k4VVVmamd4WDA3dU9Ob2RsaDFIYWwwcmltUXJpbHJzRC0taEpVTE1Cczk1WXBGM3I1OHVvbmRzU2Nydk5OdlVpazkyZzhIVXdHUTdLLTZOY1FxTzRELU9hZE56QlJwcm8yaHAtLW5jRFhpX0Q0NjZZMnBEMzdqTEhVYW52X050OVdaNllYTHBEcjNjTUFFYWFrSy1EemtUcDBnS09FZUJIc090RDM?oc=5"
         }
       ]
     },
@@ -663,6 +487,162 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3c7e3a52e07861682026",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next",
+      "source": "富途牛牛",
+      "description": "Quest Diagnostics Incorporated Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next news.futunn.com",
+      "published_at": "2026-07-26T13:12:09+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFwcUprTnhtSnV5c2xRd1dwemFpM3gyb2JLOVVHXzE1ZVRndGxmaUxNNHotcHB2bkFRdm1DT3FoUE0wdURkZmhzR3dQMUw2YWdUeGEtVkR6ZnB3a0lPcUJpcm1PTUxFTlp2cTNSSjRMcEgtcG1aUnA2RHV0VVNOcGdLWXl1MjFseWlRcWZHWGNtYXpFamRYUkVZb193Mk5HRXNidWZQNA?oc=5",
+      "sources": [
+        {
+          "name": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFwcUprTnhtSnV5c2xRd1dwemFpM3gyb2JLOVVHXzE1ZVRndGxmaUxNNHotcHB2bkFRdm1DT3FoUE0wdURkZmhzR3dQMUw2YWdUeGEtVkR6ZnB3a0lPcUJpcm1PTUxFTlp2cTNSSjRMcEgtcG1aUnA2RHV0VVNOcGdLWXl1MjFseWlRcWZHWGNtYXpFamRYUkVZb193Mk5HRXNidWZQNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "13192f9008969763d5a7",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Earnings Beat: Quest Diagnostics Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+      "source": "Sahm",
+      "description": "Earnings Beat: Quest Diagnostics Incorporated Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models sahmcapital.com",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLW5hZ3VDejJhakNZOXN4MV9YdGFPMlhYUnFRNjhLREQtN3BFMFZBNldFdEhGVVNsRU85Qm5IQV81VUpHeURMdlNkOVVDelJOdi1Fb0d6RGIzb1BuQVNyaTdFcGNjVEtmODBrcFRRdlZFWTAteHpwV1RMTUdXcThWUHJrYmxHeVJMaHo4LVpkMjVLbS16TnVENzUzSHVoXzlRVFdSYlFxeURZMm84N1RMMjZhZG1VeksxOVhVNGZWMjJ4UlVOUFIzRndwTmx2dE5CUFh2MW5INGlXMXVGSTd5YlpXRGZWX3E0WmIxSk9hNE0tZTVRNTNHaGJqVjU4Zw?oc=5",
+      "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLW5hZ3VDejJhakNZOXN4MV9YdGFPMlhYUnFRNjhLREQtN3BFMFZBNldFdEhGVVNsRU85Qm5IQV81VUpHeURMdlNkOVVDelJOdi1Fb0d6RGIzb1BuQVNyaTdFcGNjVEtmODBrcFRRdlZFWTAteHpwV1RMTUdXcThWUHJrYmxHeVJMaHo4LVpkMjVLbS16TnVENzUzSHVoXzlRVFdSYlFxeURZMm84N1RMMjZhZG1VeksxOVhVNGZWMjJ4UlVOUFIzRndwTmx2dE5CUFh2MW5INGlXMXVGSTd5YlpXRGZWX3E0WmIxSk9hNE0tZTVRNTNHaGJqVjU4Zw?oc=5"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0ZuN0p1YVBSd0JEek5RbExOOVV5ZG5oNTNMVFNqLWRfTXllR0xPX3pRRDBEWE4yUlNoX0VaTkl0aFlla3RmUlZ1NkR4WG5uT2EtY2hCc0VIeXViUGdrTEFJaFBfdmc4Qks1ZzVJZzUzc2dRVGRGS09zYjhMSE1hZDM4UmQwc3F6Ni1vRHIxLWdsdV9SWXhNTDRDRGR4WUNKNk1FVHBrQkRfRUdtZ0h2X1I1eHFfZFJCY3M4SEdsYTFMM3cyMGlWb3NkZEk1WXNL0gHWAUFVX3lxTE5tbERKd1ViRDBQQm1sNkhqZ3hCenZpaUgwV3lfbDVudHhMeHl6WEYyb0Z6dURPT3l5VTlxRTZEQllmWGFfcl9NMkVjZ1JPZ1oxck1yV29PdHd3YnNOX3lRN1ZDbXRrb0d2dXNYRmdHZVN4SjhLa3VZRWtaYUtrTVFwOGxoMkFGODZsMVYtYlhkY1RNejhtZU9teGxteUtic2lOdzdDZ0RGVUlmY0x1UTlCYkdDSHkxYjlwZmIwQzNLeUtKQlRhNGxMX2tsMWI2Y2dLVFhpc3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c02e51cab07fadeb04f",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
+      "source": "TradingKey",
+      "description": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com",
+      "published_at": "2026-07-25T22:23:04+00:00",
+      "published_display": "25 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5",
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "baeee3c77eab7f9bd55f",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength",
+      "source": "dars.gov.et",
+      "description": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength dars.gov.et",
+      "published_at": "2026-07-25T07:04:28+00:00",
+      "published_display": "25 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5",
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "197143a6ae5e6c805fbb",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "source": "Yahoo Finance",
+      "description": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com",
+      "published_at": "2026-07-25T07:00:00+00:00",
+      "published_display": "25 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "805744c0006b778ebf36",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative",
+      "source": "Sahm",
+      "description": "Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative sahmcapital.com",
+      "published_at": "2026-07-25T07:00:00+00:00",
+      "published_display": "25 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZExVMEhGUWs0al9OcWtJTU5nQUVPdE10bnVtTDRJc3FPYlNLZ1VHWkdsUmFhUlUxRnZSV2RDaElId1NtQ3RFYXJlQVJQXy1PMVJBUjRDYTEzd0V6cVlQZkU4eDFud3JqR0NWdGFWUG5hUnE2RmhrQ3ZBSV9YWm1sRXJ4Z2EyY3pCN2t2X2hnNS03cHZad3RzWGlvMHRoRXhuLW9jUGFCOHJVdlluVWFLS3R3QUVkeHh4SjJROXcxRjd3WUtuRUF4U3p0a0VlRUc1a3c?oc=5",
+      "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZExVMEhGUWs0al9OcWtJTU5nQUVPdE10bnVtTDRJc3FPYlNLZ1VHWkdsUmFhUlUxRnZSV2RDaElId1NtQ3RFYXJlQVJQXy1PMVJBUjRDYTEzd0V6cVlQZkU4eDFud3JqR0NWdGFWUG5hUnE2RmhrQ3ZBSV9YWm1sRXJ4Z2EyY3pCN2t2X2hnNS03cHZad3RzWGlvMHRoRXhuLW9jUGFCOHJVdlluVWFLS3R3QUVkeHh4SjJROXcxRjd3WUtuRUF4U3p0a0VlRUc1a3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf76d1979ce6b46d85e5",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?",
+      "source": "Yahoo Finance",
+      "description": "Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "28d2507af43335dab03e",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary",
+      "source": "TradingView",
+      "description": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary tradingview.com",
+      "published_at": "2026-07-23T20:21:01+00:00",
+      "published_display": "23 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5"
         }
       ]
     }
