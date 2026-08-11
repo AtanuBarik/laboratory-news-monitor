@@ -1,16 +1,16 @@
 {
-  "checked_at": "2026-08-11T03:31:52.692730+05:30",
-  "checked_at_display": "11 Aug 2026, 3:31 AM IST",
+  "checked_at": "2026-08-11T11:07:09.263569+05:30",
+  "checked_at_display": "11 Aug 2026, 11:07 AM IST",
   "status": "email_sent_with_feed_fallback",
-  "ranked_candidate_count": 3,
+  "ranked_candidate_count": 2,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 1,
-  "email_item_count": 3,
+  "email_item_count": 2,
   "verified_summary_count": 0,
-  "fallback_summary_count": 3,
+  "fallback_summary_count": 2,
   "unreadable_count": 1,
   "unreadable_ids": [
-    "de3ccea5b8a237b9f3c9"
+    "48a2abf995597e48fe1e"
   ],
   "to_count": 1,
   "bcc_count": 1,
