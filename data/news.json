@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-11T16:27:11.835071+05:30",
-  "generated_at_display": "11 Aug 2026, 4:27 PM IST",
-  "item_count": 95,
+  "generated_at": "2026-08-11T16:28:19.517919+05:30",
+  "generated_at_display": "11 Aug 2026, 4:28 PM IST",
+  "item_count": 97,
   "raw_relevant_item_count": 269,
-  "duplicates_merged": 80,
+  "duplicates_merged": 73,
   "failures": [],
   "items": [
+    {
+      "id": "f75e5d91e2de0c65f721",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Schedule An Apptsoundnik Detail",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5",
+      "description": "Quest Diagnostics Schedule An Apptsoundnik Detail Toimihenkilöliitto Erto",
+      "source": "Toimihenkilöliitto Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-11T01:57:04+00:00",
+      "published_display": "11 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-11T01:57:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apptsoundnik detail schedule"
+    },
     {
       "id": "48a2abf995597e48fe1e",
       "company": "Sonic Healthcare",
@@ -143,7 +167,7 @@
       "company": "Labcorp",
       "title": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5",
-      "description": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma Dermatology Times",
+      "description": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma dermatologytimes.com",
       "source": "Dermatology Times",
       "source_url": "https://www.dermatologytimes.com",
       "source_domain": "dermatologytimes.com",
@@ -167,7 +191,7 @@
       "company": "Labcorp",
       "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-      "description": "Labcorp nabs FDA green light for BRAF melanoma diagnostic Fierce Biotech",
+      "description": "Labcorp nabs FDA green light for BRAF melanoma diagnostic fiercebiotech.com",
       "source": "Fierce Biotech",
       "source_url": "https://www.fiercebiotech.com",
       "source_domain": "fiercebiotech.com",
@@ -263,6 +287,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "earnings eps estimates forecast future growth revenue"
+    },
+    {
+      "id": "391ebe110635ad88388d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Technical Analysis: Support, Resistance, Indicators & Moving Averages TradingKey",
+      "source": "TradingKey",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-08-07T07:00:00+00:00",
+      "published_display": "07 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE03VHRENG9xZWZtZDNuZFNCX2MzMFB5TzJZNW9BRzhOY2M3OVJyVWpIdHcxMzRQaXUySzN5U0ZpNm84UjZmNU96Z0cwTHlQVS05UlZJOUk3b2RnRU5kclZqM2FGX3dSUQ?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-08-07T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analysis averages indicators moving resistance support technical"
     },
     {
       "id": "ca9c22649820263e0fd5",
@@ -366,7 +414,8 @@
       "summary_evidence": [
         "https://www.amcadatabreachsettlement.com/",
         "https://www.classaction.org/news/35m-labcorp-settlement-reached-in-lawsuit-over-american-medical-collection-agency-data-breach"
-      ]
+      ],
+      "summary_verification": "verified"
     },
     {
       "id": "c39aae8638adf66e38ac",
@@ -470,7 +519,8 @@
       "summary_evidence": [
         "https://www.labcorp.com/tests/484680/pten-ihc-with-interpretation-for-prostate-adenocarcinoma",
         "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation"
-      ]
+      ],
+      "summary_verification": "verified"
     },
     {
       "id": "0cc7c51d9ffdbdb20f46",
@@ -506,39 +556,8 @@
       "summary_updated_at": "2026-08-07T18:42:00+05:30",
       "summary_evidence": [
         "https://finance.yahoo.com/healthcare/articles/labcorp-announces-2026-second-quarter-105000030.html"
-      ]
-    },
-    {
-      "id": "5e73ffc6e4adedffa411",
-      "company": "Quest Diagnostics",
-      "title": "Consumer testing is growing in the US: Quest Diagnostics CEO",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5",
-      "description": "Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "source_domain": "foxbusiness.com",
-      "published_at": "2026-08-03T21:14:10+00:00",
-      "published_display": "03 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5",
-          "domain": "foxbusiness.com",
-          "published_at": "2026-08-03T21:14:10+00:00"
-        }
       ],
-      "coverage_count": 1,
-      "event_signature": "ceo consumer growing testing",
-      "source_description": "Consumer testing is growing in the US: Quest Diagnostics CEO Fox Business",
-      "chatgpt_summary": "Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_updated_at": "2026-08-07T18:42:00+05:30",
-      "summary_evidence": [
-        "https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
+      "summary_verification": "verified"
     },
     {
       "id": "056ae46b5c843cbf762a",
@@ -569,7 +588,8 @@
       "summary_evidence": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC11389145/",
         "https://www.questdiagnostics.com/healthcare-professionals/provider-insights/articles/clarifying-the-complexity-of-bacterial-vaginosis-using-targeted-testing-to-identify-causes-and-std-coinfections"
-      ]
+      ],
+      "summary_verification": "verified"
     },
     {
       "id": "5b6d468d0e140886936e",
@@ -611,6 +631,40 @@
       "summary_provider": "ChatGPT Scheduled Task",
       "summary_updated_at": "2026-08-07T18:42:00+05:30",
       "summary_evidence": [
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ],
+      "summary_verification": "verified"
+    },
+    {
+      "id": "5e73ffc6e4adedffa411",
+      "company": "Quest Diagnostics",
+      "title": "Consumer testing is growing in the US: Quest Diagnostics CEO",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5",
+      "description": "Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "source_domain": "foxbusiness.com",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKWTBjV081aGdTbjhCVUNMZGlvVUltMVpUZFVLdWhkNkVDaWRyaUt3ZVJrZ0Z1bzRlQ2oxeC0tMDdJaVNkWWtmN2xzVUg2NmdLQnhmbGRONHRhU1U?oc=5",
+          "domain": "foxbusiness.com",
+          "published_at": "2026-08-03T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "ceo consumer growing testing",
+      "source_description": "Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates a…",
+      "chatgpt_summary": "Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-07T18:42:00+05:30",
+      "summary_evidence": [
+        "https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
     },
@@ -723,7 +777,8 @@
         "https://www.marketbeat.com/earnings/reports/2026-7-23-quest-diagnostics-incorporated-stock/",
         "https://www.benzinga.com/news/26/07/60637386/transcript-quest-diagnostics-q2-2026-earnings-conference-call",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
+      ],
+      "summary_verification": "verified"
     },
     {
       "id": "2238325c47bcfcea8d12",
@@ -3035,8 +3090,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 73,
-  "post_prune_financial_duplicates_merged": 21,
+  "low_value_items_removed": 77,
+  "post_prune_financial_duplicates_merged": 22,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-11T18:17:00+05:30",
   "next_update_display": "11 Aug 2026, 6:17 PM IST",

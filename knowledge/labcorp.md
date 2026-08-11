@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 11 Aug 2026, 4:27 PM IST
+- **Repository generated:** 11 Aug 2026, 4:28 PM IST
 - **Distinct events in this file:** 36
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -52,7 +52,7 @@
 - **Sources:**
   - Dermatology Times: https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5
 
-**Feed description:** FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma Dermatology Times
+**Feed description:** FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma dermatologytimes.com
 
 ## 5. Labcorp nabs FDA green light for BRAF melanoma diagnostic
 
@@ -64,7 +64,7 @@
 - **Sources:**
   - Fierce Biotech: https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5
 
-**Feed description:** Labcorp nabs FDA green light for BRAF melanoma diagnostic Fierce Biotech
+**Feed description:** Labcorp nabs FDA green light for BRAF melanoma diagnostic fiercebiotech.com
 
 ## 6. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
 
