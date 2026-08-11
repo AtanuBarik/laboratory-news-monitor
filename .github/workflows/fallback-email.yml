@@ -1,10 +1,10 @@
-name: Fallback laboratory email
+name: Send ChatGPT-summarized laboratory email alerts
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs after the ChatGPT Scheduled Task window. If ChatGPT already committed summaries,
-    # the normal collector workflow will have sent/marked those items and this exits quietly.
+    # Runs after the ChatGPT Scheduled Task window. Articles remain unnotified until
+    # a verified ChatGPT summary is available, then this workflow sends them.
     - cron: "10 1,7,13,19 * * *"
       timezone: "Asia/Kolkata"
 
@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  fallback-email:
+  email-alerts:
     runs-on: ubuntu-latest
     timeout-minutes: 25
     steps:
@@ -31,7 +31,7 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Apply any ChatGPT summaries written since collection
+      - name: Apply verified ChatGPT summaries written since collection
         run: PYTHONPATH=scripts python scripts/apply_chatgpt_summaries.py
 
       - name: Rebuild pruned knowledge and ChatGPT queue
@@ -39,40 +39,12 @@ jobs:
           PYTHONPATH=scripts python scripts/prune_news.py
           PYTHONPATH=scripts python scripts/prepare_chatgpt_queue.py
 
-      - name: Check Gemini fallback availability
-        id: ai_worker
-        env:
-          AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
-        run: |
-          python - <<'PY'
-          import json, os, urllib.request
-          output = os.environ["GITHUB_OUTPUT"]
-          ready = False
-          reason = ""
-          try:
-              req = urllib.request.Request(os.environ["AI_WORKER_URL"], headers={"Accept":"application/json","User-Agent":"QuestFallbackEmail/1.0"})
-              with urllib.request.urlopen(req, timeout=30) as response:
-                  payload = json.loads(response.read().decode("utf-8"))
-              required = {"email_article_summary","direct_publisher_page_read","generate_content_search_fallback","model_and_tool_fallbacks"}
-              missing = sorted(required - set(payload.get("capabilities") or []))
-              ready = not missing and bool(payload.get("gemini_configured"))
-              if missing: reason = "missing capabilities: " + ", ".join(missing)
-              elif not payload.get("gemini_configured"): reason = "GEMINI_API_KEY not configured"
-          except Exception as exc:
-              reason = str(exc)
-          print("Gemini fallback ready:" if ready else "Gemini fallback unavailable:", "yes" if ready else reason)
-          with open(output, "a", encoding="utf-8") as handle:
-              handle.write(f"ready={'true' if ready else 'false'}\n")
-          PY
-
-      - name: Send any still-unnotified alerts
+      - name: Send new articles with verified ChatGPT summaries
         env:
           EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           EMAIL_BCC: ${{ secrets.EMAIL_BCC }}
           EMAIL_SENDER_NAME: ${{ vars.EMAIL_SENDER_NAME || 'Quest Updates' }}
-          AI_WORKER_URL: ${{ vars.AI_WORKER_URL || 'https://laboratory-news-ai.atanu-barik.workers.dev' }}
-          DISABLE_GEMINI: ${{ steps.ai_worker.outputs.ready != 'true' }}
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
           SMTP_PORT: ${{ secrets.SMTP_PORT }}
           SMTP_SECURITY: ${{ secrets.SMTP_SECURITY }}
@@ -81,7 +53,7 @@ jobs:
           SEND_TEST_EMAIL: false
         run: PYTHONPATH=scripts python scripts/email_dispatch_hybrid.py
 
-      - name: Commit fallback email state and enriched dashboard data
+      - name: Commit email state and ChatGPT-enriched dashboard data
         shell: bash
         run: |
           set -euo pipefail
@@ -89,10 +61,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/news.json data/notified_ids.json data/email_status.json data/chatgpt_queue.json knowledge
           if git diff --cached --quiet; then
-            echo "No fallback state changes to commit."
+            echo "No email state changes to commit."
             exit 0
           fi
-          git commit -m "Update fallback email and ChatGPT enrichment state"
+          git commit -m "Update ChatGPT-summarized email alert state"
           git fetch origin main
           git rebase origin/main
           git push origin HEAD:main
