@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-11T21:40:27.544340+05:30",
-  "generated_at_display": "11 Aug 2026, 9:40 PM IST",
+  "generated_at": "2026-08-12T00:46:49.982111+05:30",
+  "generated_at_display": "12 Aug 2026, 12:46 AM IST",
   "item_count": 96,
-  "raw_relevant_item_count": 270,
-  "duplicates_merged": 77,
+  "raw_relevant_item_count": 273,
+  "duplicates_merged": 81,
   "failures": [],
   "items": [
     {
@@ -388,7 +388,7 @@
       "source_domain": "tradingview.com",
       "published_at": "2026-08-05T20:26:35+00:00",
       "published_display": "05 Aug 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -1486,9 +1486,21 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0dPRndUVUxtMWhCUE0yV2NoNHJ4WEhpbnBNWHBsSzVzVkY2UWo2X2Z1ZWRLMk1laDg0X3RIMTNEUm0wNUdzSEhxU212bHUwY09BTmxfX05Vb0tranVUenYtMzBzSk1lR3hVVUJsbkw5cXFkWXJkZHA4LXJ5Nm9qSmtzTnoxOHFxQk1NRGxtUDQ1Rmhja1l3TDZydGE?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-07-31T12:03:56+00:00"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkt4eTN2Q0llZHJlS21VeUxvUnF0c1BNNzRTYVJLTXFwMFMtbGdYQXBBTUthSUJKeS1nN2NhSnd0TTNWZzNSd0R6eldzQllldUp1NkR4YWtsSEZCRTdZdFBYMURHQ3Z5MWN6ZWN1cGh1OTg0TEE3aUNqSDAzM20xLUtvNmZCLWo2dGFlbF9PbUVRV1g1UHpDcjhwN29lRXlmUGs0bzRtbUR5bW1pR3hSUmVXOTFxc3RpVUZQdGtwSQ?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdndYR3ZsM2RSTW1KSGVaZS16NG1qcDgtV1FvUkNSV2t5bXpLTUNVZVhwMTRob2hlNFdLTFhVYXNVNktaNE9qNXJoVkw4dy1xVEhNOGdEazBlRUNJSl9xbWVqblJjYnNVQ2RhWHVwRzVEWTdvQTFFMzlhUVJNaFg4UFdqUkYyZ1E5a3poYnBoczQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 20,
+      "coverage_count": 22,
       "event_signature": "earnings expect what"
     },
     {
@@ -1496,7 +1508,7 @@
       "company": "Labcorp",
       "title": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5",
-      "description": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net",
+      "description": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. Labcorp says the offering builds on capabilities from Labcorp Genetics and Invitae and expands its OnDemand portfolio from biomarker testing into hereditary genetic risk assessment. The company cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
       "source": "HIT Consultant",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T21:44:21+00:00",
@@ -1512,7 +1524,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "100 actionable conditions genetic health launches marker ondemand panel"
+      "event_signature": "100 actionable conditions genetic health launches marker ondemand panel",
+      "source_description": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net",
+      "chatgpt_summary": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. Labcorp says the offering builds on capabilities from Labcorp Genetics and Invitae and expands its OnDemand portfolio from biomarker testing into hereditary genetic risk assessment. The company cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
+      ]
     },
     {
       "id": "1aa7d3cafd0225bf0748",
@@ -1542,7 +1562,7 @@
       "company": "Labcorp",
       "title": "Labcorp launches genetic health panel for consumers By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNFV1hOczBxZEs1OVR2RHF2NnNBZ2d5cXlDa3lsUkNwZlByUFcwWDNZU3FRSHI2STdTdUg0SGpkRW5SZGNYOFBhendwUEdKRkF0VnFQMWROdjIxZnZUWWRWMDF4MkJabklWYUdTY2xvYUZJaF9XakFKekg2dnU4cElOTFY3OUJ5aFJTeGtEa1QzdF9NSTFVTDdoY0hOTEhqLVdMUmFpMXhmcTJSNWNrdjV3?oc=5",
-      "description": "Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa",
+      "description": "Labcorp announced the Marker by Labcorp Genetic Health Panel, a consumer genetic-testing service that evaluates 163 genes linked to more than 100 health conditions. The panel is scheduled to become available through Labcorp OnDemand on August 3, 2026 and covers inherited risks associated with hereditary cancer, cardiovascular disease and metabolic conditions. Consumers can order the test directly, then schedule specimen collection at one of more than 2,200 Labcorp patient service centers, where a trained phlebotomist performs a blood draw. Labcorp laboratories analyze the sample, and results are returned through the company's secure patient portal and MyLabcorp mobile platform. The report includes detected findings, educational material and access to licensed genetic counselors who can help consumers interpret the information and consider follow-up with healthcare providers. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cited research suggesting nearly one in six adults who undergo genetic testing find a variant associated with a medically actionable condition. The company cautions that the panel is not itself diagnostic; results should be considered together with medical history, family history and other clinical risk factors.",
       "source": "Investing.com South Africa",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T12:58:33+00:00",
@@ -1564,14 +1584,23 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "com consumers genetic health investing launches panel"
+      "event_signature": "com consumers genetic health investing launches panel",
+      "source_description": "Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa",
+      "chatgpt_summary": "Labcorp announced the Marker by Labcorp Genetic Health Panel, a consumer genetic-testing service that evaluates 163 genes linked to more than 100 health conditions. The panel is scheduled to become available through Labcorp OnDemand on August 3, 2026 and covers inherited risks associated with hereditary cancer, cardiovascular disease and metabolic conditions. Consumers can order the test directly, then schedule specimen collection at one of more than 2,200 Labcorp patient service centers, where a trained phlebotomist performs a blood draw. Labcorp laboratories analyze the sample, and results are returned through the company's secure patient portal and MyLabcorp mobile platform. The report includes detected findings, educational material and access to licensed genetic counselors who can help consumers interpret the information and consider follow-up with healthcare providers. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cited research suggesting nearly one in six adults who undergo genetic testing find a variant associated with a medically actionable condition. The company cautions that the panel is not itself diagnostic; results should be considered together with medical history, family history and other clinical risk factors.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.investing.com/news/company-news/labcorp-launches-genetic-health-panel-for-consumers-93CH-4814055",
+        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
+      ]
     },
     {
       "id": "750c009b3cae9edeff42",
       "company": "Labcorp",
       "title": "Labcorp Launches Marker Genetic Health Panel to Enhance Ris",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkk0LWNuVTBrZkQybzZhVnlMWTBzYzZEWXJUV0pBUmtLUkxpM254TENHT19KWnRkRHdEakFQaWxyWFRjWWc3YUpYSjRVWmJweUZwQ1RqaXZQd0JaV0NhOVpqbUxwRU1ERGRkM3BwVEQ4eldQZVpRcTduYWd6ckFLaVhtdGhTbG5yaVV2ZjFMcFNDbUNpYjZYSXpSYUtLellkbkxxS1Jka2gzWkNnNUNNbldrTQ?oc=5",
-      "description": "Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus",
+      "description": "Labcorp's Marker by Labcorp Genetic Health Panel expands the company's direct-to-consumer testing portfolio into hereditary disease risk. The new panel analyzes 163 genes associated with more than 100 medically actionable conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. It will be sold through Labcorp OnDemand starting August 3, 2026. Consumers can purchase the panel directly and schedule a blood draw at one of Labcorp's more than 2,200 patient service centers. Samples are then analyzed by Labcorp, with results delivered through its secure patient portal and MyLabcorp mobile platform. Each report includes identified findings, tailored educational information and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp positions the panel as a way to combine its biomarker testing and hereditary genetics capabilities in one consumer channel. The company says the offering is supported by Labcorp Genetics and Invitae expertise. Labcorp also cites evidence that nearly one in six adults who undergo genetic testing identify a variant linked to a serious but medically actionable condition, while many carriers remain unaware of their inherited risk. The company states that Marker results are not diagnostic and should be interpreted in the context of medical and family history and other risk factors.",
       "source": "GuruFocus",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T12:55:12+00:00",
@@ -1587,14 +1616,22 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "enhance genetic health launches marker panel ris"
+      "event_signature": "enhance genetic health launches marker panel ris",
+      "source_description": "Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus",
+      "chatgpt_summary": "Labcorp's Marker by Labcorp Genetic Health Panel expands the company's direct-to-consumer testing portfolio into hereditary disease risk. The new panel analyzes 163 genes associated with more than 100 medically actionable conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. It will be sold through Labcorp OnDemand starting August 3, 2026. Consumers can purchase the panel directly and schedule a blood draw at one of Labcorp's more than 2,200 patient service centers. Samples are then analyzed by Labcorp, with results delivered through its secure patient portal and MyLabcorp mobile platform. Each report includes identified findings, tailored educational information and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp positions the panel as a way to combine its biomarker testing and hereditary genetics capabilities in one consumer channel. The company says the offering is supported by Labcorp Genetics and Invitae expertise. Labcorp also cites evidence that nearly one in six adults who undergo genetic testing identify a variant linked to a serious but medically actionable condition, while many carriers remain unaware of their inherited risk. The company states that Marker results are not diagnostic and should be interpreted in the context of medical and family history and other risk factors.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
+      ]
     },
     {
       "id": "26041fdd9d9c40ad7b7a",
       "company": "Labcorp",
       "title": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5",
-      "description": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com",
+      "description": "Labcorp is launching the Marker by Labcorp Genetic Health Panel as a direct-to-consumer screen for inherited disease risk. The test analyzes 163 genes and is designed to assess risk across more than 100 hereditary conditions, including cancers and cardiovascular, neurological, muscular and metabolic diseases. Fierce Biotech reported that the product also provides information on how genetics may affect responses to certain medications and selected traits related to athletic performance. Labcorp says almost one in six adults carry an inherited risk for a serious but medically actionable condition and that many carriers are unaware of it. The company is positioning the panel toward preventive action rather than curiosity-driven ancestry-style testing. Licensed genetic counseling is built into the service so consumers can discuss findings and potential next steps. The panel becomes available through Labcorp OnDemand on August 3, 2026. Consumers will have blood drawn at Labcorp patient service centers, samples will be analyzed in Labcorp laboratories, and results will be delivered through the company's patient portal and MyLabcorp mobile platform. Fierce noted that Marker is Labcorp's first major consumer genetics product since the company acquired Invitae's assets in 2024, linking the launch to Labcorp's broader expansion in clinical genetics and consumer-access testing.",
       "source": "Fierce Biotech",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T12:00:00+00:00",
@@ -1610,14 +1647,23 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "diseases dtc genetic health launches multiple out panel seek"
+      "event_signature": "diseases dtc genetic health launches multiple out panel seek",
+      "source_description": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases fiercebiotech.com",
+      "chatgpt_summary": "Labcorp is launching the Marker by Labcorp Genetic Health Panel as a direct-to-consumer screen for inherited disease risk. The test analyzes 163 genes and is designed to assess risk across more than 100 hereditary conditions, including cancers and cardiovascular, neurological, muscular and metabolic diseases. Fierce Biotech reported that the product also provides information on how genetics may affect responses to certain medications and selected traits related to athletic performance. Labcorp says almost one in six adults carry an inherited risk for a serious but medically actionable condition and that many carriers are unaware of it. The company is positioning the panel toward preventive action rather than curiosity-driven ancestry-style testing. Licensed genetic counseling is built into the service so consumers can discuss findings and potential next steps. The panel becomes available through Labcorp OnDemand on August 3, 2026. Consumers will have blood drawn at Labcorp patient service centers, samples will be analyzed in Labcorp laboratories, and results will be delivered through the company's patient portal and MyLabcorp mobile platform. Fierce noted that Marker is Labcorp's first major consumer genetics product since the company acquired Invitae's assets in 2024, linking the launch to Labcorp's broader expansion in clinical genetics and consumer-access testing.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.fiercebiotech.com/medtech/labcorp-launches-dtc-genetic-health-panel-seek-out-multiple-diseases",
+        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
+      ]
     },
     {
       "id": "36e61bb422a4c9656fef",
       "company": "Labcorp",
       "title": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5",
-      "description": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com",
+      "description": "Labcorp launched Marker by Labcorp, a Genetic Health Panel intended to give consumers direct access to hereditary-risk information for more than 100 medically actionable conditions. The panel analyzes 163 genes associated with hereditary cancers, cardiovascular conditions and metabolic disorders and is scheduled to become available through Labcorp OnDemand on August 3, 2026. Consumers can buy the test directly and schedule a blood draw at any of more than 2,200 Labcorp patient service centers. Samples are processed by Labcorp laboratories, while results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a comprehensive report, educational resources tied to individual findings and access to licensed genetic counselors who can help consumers understand results and discuss potential follow-up. Labcorp says the product combines the genetics capabilities of Labcorp Genetics and Invitae with its nationwide collection network and existing consumer testing channel. The company cites research suggesting that nearly one in six adults who receive genetic testing learn that they carry a variant linked to a serious, medically actionable condition. Labcorp emphasizes that findings from Marker are not diagnostic on their own and should be evaluated alongside medical history, family history and other clinical risk factors.",
       "source": "Sahm",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T07:00:00+00:00",
@@ -1687,7 +1733,16 @@
         }
       ],
       "coverage_count": 10,
-      "event_signature": "access consumer expanding genetic health hereditary launches marker panel risk testing"
+      "event_signature": "access consumer expanding genetic health hereditary launches marker panel risk testing",
+      "source_description": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com",
+      "chatgpt_summary": "Labcorp launched Marker by Labcorp, a Genetic Health Panel intended to give consumers direct access to hereditary-risk information for more than 100 medically actionable conditions. The panel analyzes 163 genes associated with hereditary cancers, cardiovascular conditions and metabolic disorders and is scheduled to become available through Labcorp OnDemand on August 3, 2026. Consumers can buy the test directly and schedule a blood draw at any of more than 2,200 Labcorp patient service centers. Samples are processed by Labcorp laboratories, while results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a comprehensive report, educational resources tied to individual findings and access to licensed genetic counselors who can help consumers understand results and discuss potential follow-up. Labcorp says the product combines the genetics capabilities of Labcorp Genetics and Invitae with its nationwide collection network and existing consumer testing channel. The company cites research suggesting that nearly one in six adults who receive genetic testing learn that they carry a variant linked to a serious, medically actionable condition. Labcorp emphasizes that findings from Marker are not diagnostic on their own and should be evaluated alongside medical history, family history and other clinical risk factors.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding",
+        "https://www.prnewswire.com/news-releases/labcorp-launches-marker-by-labcorp-genetic-health-panel-expanding-consumer-access-to-hereditary-genetic-risk-testing-302834777.html"
+      ]
     },
     {
       "id": "d3b21ff914d313457038",
@@ -2178,7 +2233,7 @@
       "company": "Quest Diagnostics",
       "title": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzV3ZDY1SVNvZDg3MDVtQ0Rfbko4a1cxTldRcktKd2RxYzdoeHdBSkRTQ2YxX1ZVMzBOTlBFNnZ6LUlKeGt3R3pOcmgtN1d3S1UzM0hGbTNKejZENTJBdWxTdWhyR09LbGtkWmpsRFM1eldDNFFOQ3JDSXdMU05aZUM4cHJneG50OWRQc1k3cWExSTlHRDJuQmo1OEZDNnVucDNvR0Y2R0RzUVNQd0cxdi03X0J4czE3Y2Y3N2hydy1uQmx5eFgtbk9mNEhjTE16YWFIUU1JNGQyVDBfZTZxemtSX0xKdXZ6WVhnT3BB?oc=5",
-      "description": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday sahmcapital.com",
+      "description": "Benzinga's July 23 market-movers roundup said Quest Diagnostics shares rose about 10% to $231.36 after the company reported better-than-expected quarterly results and raised its full-year 2026 guidance. The underlying Quest release showed second-quarter revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic revenue growth. Reported diluted EPS increased 15.0% to $2.84 and adjusted diluted EPS rose 19.1% to $3.12. Diagnostic Information Services revenue grew 10.3%, while requisition volume increased 13.1% and organic requisition volume rose 13.0%. Quest raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion. It also increased reported diluted EPS guidance to $9.97-$10.17 and adjusted diluted EPS guidance to $11.05-$11.25. Expected operating cash flow was raised to approximately $1.80 billion, while capital spending remained about $550 million. The Benzinga item was a stock-movement roundup rather than a clinical or R&D report; its Quest-specific catalyst was the earnings beat and higher guidance, which Quest attributed to broad strength across physician, hospital and consumer channels.",
       "source": "Sahm",
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T07:00:00+00:00",
@@ -2200,7 +2255,16 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "big fisher higher lockheed martin moving other scientific stocks thermo thursday"
+      "event_signature": "big fisher higher lockheed martin moving other scientific stocks thermo thursday",
+      "source_description": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday sahmcapital.com",
+      "chatgpt_summary": "Benzinga's July 23 market-movers roundup said Quest Diagnostics shares rose about 10% to $231.36 after the company reported better-than-expected quarterly results and raised its full-year 2026 guidance. The underlying Quest release showed second-quarter revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic revenue growth. Reported diluted EPS increased 15.0% to $2.84 and adjusted diluted EPS rose 19.1% to $3.12. Diagnostic Information Services revenue grew 10.3%, while requisition volume increased 13.1% and organic requisition volume rose 13.0%. Quest raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion. It also increased reported diluted EPS guidance to $9.97-$10.17 and adjusted diluted EPS guidance to $11.05-$11.25. Expected operating cash flow was raised to approximately $1.80 billion, while capital spending remained about $550 million. The Benzinga item was a stock-movement roundup rather than a clinical or R&D report; its Quest-specific catalyst was the earnings beat and higher guidance, which Quest attributed to broad strength across physician, hospital and consumer channels.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.benzinga.com/trading-ideas/movers/26/07/60640846/lockheed-martin-quest-diagnostics-thermo-fisher-scientific-and-other-big-stocks-moving-higher-on-thursday",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "d2c9e84e3c811b9a3bda",
@@ -2326,7 +2390,7 @@
       "company": "ARUP Laboratories",
       "title": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm9FT0RzblpoenNrZ1BGbjVONHZvSnM1eE5KY1A3YUpkeDdJcmpVMHh2MURIWUV5aUtsVlhzNjlFek9hQWtZNHpPb0M5RkduNFAyUEpZUGEzOGM1Mnh1QWlydnpOWDBTaG44RnNsUzN2Y1NVQnVrWmpVamdCYVZHWkhhTmtBSExsUEdYS21lVUw0Q0ljOWxEbzhtZERsem9pRjlxenJjVUJzb2M5M3BJdDFnUVNzRlZwUzgyaXU5dThyMVE?oc=5",
-      "description": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring Clinical Lab Products",
+      "description": "ARUP Laboratories launched ARUP CLARISPECT Multiple Myeloma MRD by Spectral Flow Cytometry, a laboratory-developed assay for assessing minimal residual disease in patients with multiple myeloma. ARUP says it is the first large U.S. reference laboratory to offer spectral flow cytometry for clinical use. Unlike conventional flow cytometry, spectral flow captures the full light spectrum and can evaluate many fluorescent markers simultaneously. ARUP's multiple-myeloma assay uses 18 markers in a single-tube design, reducing specimen-volume requirements while enabling deep characterization of very small neoplastic cell populations in bone marrow. According to ARUP, the assay can detect as few as 14 neoplastic cells among 5 million analyzed cells with 95% confidence. MRD assessment is clinically important because the quantity of residual malignant cells after treatment helps physicians evaluate response, prognosis and relapse risk. The company describes spectral flow as providing greater sensitivity and confidence than conventional flow for this application. ARUP plans to broaden CLARISPECT into a larger suite of MRD assays. The launch expands the reference laboratory's hematopathology menu into a newer high-parameter technology at a time when multiple myeloma remains a significant U.S. cancer burden, with roughly 36,000 new cases projected in 2026.",
       "source": "Clinical Lab Products",
       "source_domain": "news.google.com",
       "published_at": "2026-07-22T20:23:01+00:00",
@@ -2342,7 +2406,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "cytometry flow launches monitoring multiple myeloma spectral test"
+      "event_signature": "cytometry flow launches monitoring multiple myeloma spectral test",
+      "source_description": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring Clinical Lab Products",
+      "chatgpt_summary": "ARUP Laboratories launched ARUP CLARISPECT Multiple Myeloma MRD by Spectral Flow Cytometry, a laboratory-developed assay for assessing minimal residual disease in patients with multiple myeloma. ARUP says it is the first large U.S. reference laboratory to offer spectral flow cytometry for clinical use. Unlike conventional flow cytometry, spectral flow captures the full light spectrum and can evaluate many fluorescent markers simultaneously. ARUP's multiple-myeloma assay uses 18 markers in a single-tube design, reducing specimen-volume requirements while enabling deep characterization of very small neoplastic cell populations in bone marrow. According to ARUP, the assay can detect as few as 14 neoplastic cells among 5 million analyzed cells with 95% confidence. MRD assessment is clinically important because the quantity of residual malignant cells after treatment helps physicians evaluate response, prognosis and relapse risk. The company describes spectral flow as providing greater sensitivity and confidence than conventional flow for this application. ARUP plans to broaden CLARISPECT into a larger suite of MRD assays. The launch expands the reference laboratory's hematopathology menu into a newer high-parameter technology at a time when multiple myeloma remains a significant U.S. cancer burden, with roughly 36,000 new cases projected in 2026.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/arup-launches-first-clinical-spectral-flow-cytometry-assay-for-mrd-assessment-in-multiple-myeloma-302829698.html"
+      ]
     },
     {
       "id": "b7749ec3ea4122652c1b",
@@ -3064,9 +3136,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdFdzSlBSOS1HSHl3aGd3Si1aVEZwTHhMVlBIM3RndjVVaWtac2h5azJZQlNuRzlfdDFZc3BncFpLYlVKSU5hWUVwWXAtWXBZa3hCM2VCOVFiSWo5VjBUZVZybmJaT09Jd0hvWFhDYWctWUd2ZExpa0E2TFMxQVNHcUJGSkJtLUl5Mm5vWE91eVFvOHc4akQyakRWM3d6M04yRUJuZ01lN0JleXowdTdEclZQUUF0MUp2Q1ZPWUFhXzNkZW13aV82SUZjcU5DcEZpOHJr?oc=5",
           "domain": "king5.com",
           "published_at": "2026-07-23T10:52:00+00:00"
+        },
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
         }
       ],
-      "coverage_count": 24,
+      "coverage_count": 25,
       "event_signature": "channels customer earnings focus key report"
     },
     {
@@ -3186,7 +3264,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXlsVVNpWHN3cEV2OXl2VWV0MEFjM3RCc0ZSRHhVN0hCT3hUVmRmZ1ktNC1DMmNqeEQzRE00Q1JyTFlOcy1zQml3RzRpbEZqR3ExUzN4MVNFU3NEUDdsNGJLazlBNlJmWXVLdUlYVUtWN09mOUUycll6OVA0YjlSdjVEdlEwd1JvSlo3NkdCYUFVUTBBbkJUbA?oc=5",
-      "description": "Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products",
+      "description": "Quest Diagnostics is integrating its Haystack MRD circulating-tumor-DNA test and Comprehensive Genomic Profiling services for solid tumors into Flatiron Health's OncoEMR electronic health record through the OncoEMR Molecular Profiling Integration feature. The rollout begins with a pilot involving American Oncology Network and other community oncology providers. Quest says it is the largest clinical reference laboratory to integrate oncology tests into OncoEMR through the opt-in MPI ordering workflow. Once the integration is fully deployed, approximately 4,700 clinicians across 1,600 U.S. community cancer-care locations in Flatiron's network will be able to access the Quest services. American Oncology Network, which has more than 350 providers across 21 states, is an early participant; nearly 200 AON sites already have OncoEMR MPI access. The workflow is designed to reduce administrative complexity around molecular tests by accelerating account setup, reducing ordering steps and returning easier-to-use reports inside clinicians' existing EHR workflows. Pilot providers can order and receive Quest results now, and Quest plans a nationwide OncoEMR MPI launch in the second half of 2026. Haystack MRD detects ctDNA for minimal residual disease in solid tumors, while Quest's comprehensive genomic profiling panels assess up to 530 genes associated with therapy response.",
       "source": "Clinical Lab Products",
       "source_domain": "news.google.com",
       "published_at": "2026-07-08T07:00:00+00:00",
@@ -3202,7 +3280,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "electronic health integrates oncology platform record tests"
+      "event_signature": "electronic health integrates oncology platform record tests",
+      "source_description": "Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform Clinical Lab Products",
+      "chatgpt_summary": "Quest Diagnostics is integrating its Haystack MRD circulating-tumor-DNA test and Comprehensive Genomic Profiling services for solid tumors into Flatiron Health's OncoEMR electronic health record through the OncoEMR Molecular Profiling Integration feature. The rollout begins with a pilot involving American Oncology Network and other community oncology providers. Quest says it is the largest clinical reference laboratory to integrate oncology tests into OncoEMR through the opt-in MPI ordering workflow. Once the integration is fully deployed, approximately 4,700 clinicians across 1,600 U.S. community cancer-care locations in Flatiron's network will be able to access the Quest services. American Oncology Network, which has more than 350 providers across 21 states, is an early participant; nearly 200 AON sites already have OncoEMR MPI access. The workflow is designed to reduce administrative complexity around molecular tests by accelerating account setup, reducing ordering steps and returning easier-to-use reports inside clinicians' existing EHR workflows. Pilot providers can order and receive Quest results now, and Quest plans a nationwide OncoEMR MPI launch in the second half of 2026. Haystack MRD detects ctDNA for minimal residual disease in solid tumors, while Quest's comprehensive genomic profiling panels assess up to 530 genes associated with therapy response.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T00:35:10+05:30",
+      "summary_evidence": [
+        "https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"
+      ]
     },
     {
       "id": "1300eb1ffc42e9c927d3",
@@ -3259,10 +3345,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 22,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-12T00:17:00+05:30",
-  "next_update_display": "12 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-12T06:17:00+05:30",
+  "next_update_display": "12 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
