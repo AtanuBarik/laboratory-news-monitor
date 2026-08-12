@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T18:57:45.982424+05:30",
-  "generated_at_display": "12 Aug 2026, 6:57 PM IST",
-  "item_count": 92,
-  "raw_relevant_item_count": 271,
-  "duplicates_merged": 78,
+  "generated_at": "2026-08-12T18:58:40.863849+05:30",
+  "generated_at_display": "12 Aug 2026, 6:58 PM IST",
+  "item_count": 93,
+  "raw_relevant_item_count": 267,
+  "duplicates_merged": 75,
   "failures": [],
   "items": [
     {
@@ -121,9 +121,15 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
           "domain": "thedermdigest.com",
           "published_at": "2026-08-10T18:14:33+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-10T19:06:57+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "advanced approves companion diagnostic fda here know melanoma test what",
       "source_description": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know The Dermatology Digest",
       "chatgpt_summary": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and clinical-laboratory workflows.",
@@ -261,7 +267,7 @@
       "source_domain": "prnewswire.com",
       "published_at": "2026-08-10T11:00:00+00:00",
       "published_display": "10 Aug 2026",
-      "category": "Product & Services",
+      "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
         {
@@ -1579,7 +1585,7 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T21:10:12+00:00",
       "published_display": "27 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -1798,7 +1804,7 @@
       "source_domain": "kalkinemedia.com",
       "published_at": "2026-07-27T07:00:00+00:00",
       "published_display": "27 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -1908,6 +1914,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "climbed past stock this week why"
+    },
+    {
+      "id": "5a7a85ae353a3a1d7291",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+      "description": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-26T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after boosting buybacks guidance raising why"
     },
     {
       "id": "9c02e51cab07fadeb04f",
@@ -2338,12 +2368,12 @@
       "company": "Quest Diagnostics",
       "title": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzV3ZDY1SVNvZDg3MDVtQ0Rfbko4a1cxTldRcktKd2RxYzdoeHdBSkRTQ2YxX1ZVMzBOTlBFNnZ6LUlKeGt3R3pOcmgtN1d3S1UzM0hGbTNKejZENTJBdWxTdWhyR09LbGtkWmpsRFM1eldDNFFOQ3JDSXdMU05aZUM4cHJneG50OWRQc1k3cWExSTlHRDJuQmo1OEZDNnVucDNvR0Y2R0RzUVNQd0cxdi03X0J4czE3Y2Y3N2hydy1uQmx5eFgtbk9mNEhjTE16YWFIUU1JNGQyVDBfZTZxemtSX0xKdXZ6WVhnT3BB?oc=5",
-      "description": "Quest Diagnostics shares rose after second-quarter 2026 results and a higher full-year outlook strengthened the company’s earnings narrative. The Yahoo Finance/Simply Wall St article highlighted quarterly sales of $3.043 billion and reported diluted EPS of $2.84. Quest’s official release confirms revenue increased 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion and reported diluted EPS guidance to $9.97–$10.17; adjusted diluted EPS guidance increased to $11.05–$11.25. Capital returns remained part of the story: Quest repurchased 522,436 shares for $100 million during the quarter. The article linked the stronger outlook to higher-value advanced diagnostics and growing testing volumes, while identifying wage inflation and spending on Project NOVA and other modernization programs as factors that could pressure profitability if productivity gains lag. Quest also raised expected operating cash flow to approximately $1.80 billion from $1.75 billion, while keeping capital-expenditure guidance near $550 million. The 8.2% share-price move discussed in the article therefore followed a combination of double-digit revenue growth, higher earnings, increased guidance and continued share repurchases rather than a single product or transaction catalyst.",
+      "description": "Benzinga's July 23 market-movers roundup said Quest Diagnostics shares rose about 10% to $231.36 after the company reported better-than-expected quarterly results and raised its full-year 2026 guidance. The underlying Quest release showed second-quarter revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic revenue growth. Reported diluted EPS increased 15.0% to $2.84 and adjusted diluted EPS rose 19.1% to $3.12. Diagnostic Information Services revenue grew 10.3%, while requisition volume increased 13.1% and organic requisition volume rose 13.0%. Quest raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion. It also increased reported diluted EPS guidance to $9.97-$10.17 and adjusted diluted EPS guidance to $11.05-$11.25. Expected operating cash flow was raised to approximately $1.80 billion, while capital spending remained about $550 million. The Benzinga item was a stock-movement roundup rather than a clinical or R&D report; its Quest-specific catalyst was the earnings beat and higher guidance, which Quest attributed to broad strength across physician, hospital and consumer channels.",
       "source": "Sahm",
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -3388,7 +3418,7 @@
     }
   ],
   "low_value_items_removed": 80,
-  "post_prune_financial_duplicates_merged": 21,
+  "post_prune_financial_duplicates_merged": 19,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-13T00:17:00+05:30",
   "next_update_display": "13 Aug 2026, 12:17 AM IST",
