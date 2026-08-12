@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-12T12:51:11.343393+05:30",
-  "generated_at_display": "12 Aug 2026, 12:51 PM IST",
-  "item_count": 91,
-  "raw_relevant_item_count": 271,
-  "duplicates_merged": 77,
+  "generated_at": "2026-08-12T12:52:51.429590+05:30",
+  "generated_at_display": "12 Aug 2026, 12:52 PM IST",
+  "item_count": 94,
+  "raw_relevant_item_count": 270,
+  "duplicates_merged": 76,
   "failures": [],
   "items": [
+    {
+      "id": "c3f6fbbcd5e4d498cb13",
+      "company": "Labcorp",
+      "title": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5",
+      "description": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp Holdings' (LH) Investment Narrative? finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-12T05:41:00+00:00",
+      "published_display": "12 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-12T05:41:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "buybacks did guidance investment just narrative oncology shift stronger tests"
+    },
     {
       "id": "f75e5d91e2de0c65f721",
       "company": "Quest Diagnostics",
@@ -1072,6 +1096,42 @@
       "event_signature": "chokshi investor merck names president relations vet vice"
     },
     {
+      "id": "512148a0628993b3633f",
+      "company": "Labcorp",
+      "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
+      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations The Globe and Mail",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "cy2026 expectations line"
+    },
+    {
       "id": "0bc80dc092ee276171ab",
       "company": "Labcorp",
       "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
@@ -1846,6 +1906,30 @@
       "event_signature": "climbed past stock this week why"
     },
     {
+      "id": "fa9c3ae0071224b78edc",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+      "description": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-26T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after boosting buybacks guidance raising why"
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
@@ -1911,7 +1995,7 @@
       "source_domain": "dars.gov.et",
       "published_at": "2026-07-25T07:04:28+00:00",
       "published_display": "25 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -2258,12 +2342,12 @@
       "company": "Quest Diagnostics",
       "title": "Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzV3ZDY1SVNvZDg3MDVtQ0Rfbko4a1cxTldRcktKd2RxYzdoeHdBSkRTQ2YxX1ZVMzBOTlBFNnZ6LUlKeGt3R3pOcmgtN1d3S1UzM0hGbTNKejZENTJBdWxTdWhyR09LbGtkWmpsRFM1eldDNFFOQ3JDSXdMU05aZUM4cHJneG50OWRQc1k3cWExSTlHRDJuQmo1OEZDNnVucDNvR0Y2R0RzUVNQd0cxdi03X0J4czE3Y2Y3N2hydy1uQmx5eFgtbk9mNEhjTE16YWFIUU1JNGQyVDBfZTZxemtSX0xKdXZ6WVhnT3BB?oc=5",
-      "description": "Quest Diagnostics shares rose 8.2% after second-quarter 2026 results and a higher full-year outlook strengthened the company’s earnings narrative. The Yahoo Finance/Simply Wall St article highlighted quarterly sales of $3.043 billion and reported diluted EPS of $2.84. Quest’s official release confirms revenue increased 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95-$12.05 billion and reported diluted EPS guidance to $9.97-$10.17; adjusted diluted EPS guidance increased to $11.05-$11.25. Capital returns remained part of the story: Quest repurchased 522,436 shares for $100 million during the quarter. The article linked the stronger outlook to higher-value advanced diagnostics and growing testing volumes, while identifying wage inflation and spending on Project NOVA and other modernization programs as factors that could pressure profitability if productivity gains lag. Quest also raised expected operating cash flow to approximately $1.80 billion from $1.75 billion, while keeping capital-expenditure guidance near $550 million. The market reaction therefore followed a combination of double-digit revenue growth, higher earnings, increased guidance and continued share repurchases rather than a single product or transaction catalyst.",
+      "description": "Benzinga's July 23 market-movers roundup said Quest Diagnostics shares rose about 10% to $231.36 after the company reported better-than-expected quarterly results and raised its full-year 2026 guidance. The underlying Quest release showed second-quarter revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic revenue growth. Reported diluted EPS increased 15.0% to $2.84 and adjusted diluted EPS rose 19.1% to $3.12. Diagnostic Information Services revenue grew 10.3%, while requisition volume increased 13.1% and organic requisition volume rose 13.0%. Quest raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion. It also increased reported diluted EPS guidance to $9.97-$10.17 and adjusted diluted EPS guidance to $11.05-$11.25. Expected operating cash flow was raised to approximately $1.80 billion, while capital spending remained about $550 million. The Benzinga item was a stock-movement roundup rather than a clinical or R&D report; its Quest-specific catalyst was the earnings beat and higher guidance, which Quest attributed to broad strength across physician, hospital and consumer channels.",
       "source": "Sahm",
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -2795,7 +2879,7 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-20T07:00:00+00:00",
       "published_display": "20 Jul 2026",
-      "category": "Product & Services",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
@@ -3308,7 +3392,7 @@
     }
   ],
   "low_value_items_removed": 80,
-  "post_prune_financial_duplicates_merged": 23,
+  "post_prune_financial_duplicates_merged": 20,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-12T18:17:00+05:30",
   "next_update_display": "12 Aug 2026, 6:17 PM IST",

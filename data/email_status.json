@@ -1,13 +1,16 @@
 {
-  "checked_at": "2026-08-12T12:51:14.855464+05:30",
-  "checked_at_display": "12 Aug 2026, 12:51 PM IST",
+  "checked_at": "2026-08-12T12:52:54.607147+05:30",
+  "checked_at_display": "12 Aug 2026, 12:52 PM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 2,
+  "ranked_candidate_count": 5,
   "low_value_dismissed_count": 0,
-  "attempted_summary_count": 2,
+  "attempted_summary_count": 5,
   "verified_summary_count": 0,
   "unreadable_ids": [
     "ceb779dc820a6490b2a9",
+    "c3f6fbbcd5e4d498cb13",
+    "fa9c3ae0071224b78edc",
+    "512148a0628993b3633f",
     "f75e5d91e2de0c65f721"
   ],
   "gemini_quota_exhausted": false,
@@ -17,9 +20,12 @@
   "gemini_fallback_enabled": false,
   "fallback_summary_count": 0,
   "summary_delivery_policy": "verified_chatgpt_required",
-  "awaiting_chatgpt_summary_count": 2,
+  "awaiting_chatgpt_summary_count": 5,
   "awaiting_chatgpt_summary_ids": [
     "ceb779dc820a6490b2a9",
+    "c3f6fbbcd5e4d498cb13",
+    "fa9c3ae0071224b78edc",
+    "512148a0628993b3633f",
     "f75e5d91e2de0c65f721"
   ],
   "primary_summary_provider": "Awaiting ChatGPT Scheduled Task"

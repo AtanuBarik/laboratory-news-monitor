@@ -1,11 +1,23 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 12 Aug 2026, 12:51 PM IST
-- **Distinct events in this file:** 91
+- **Repository generated:** 12 Aug 2026, 12:52 PM IST
+- **Distinct events in this file:** 94
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Quest Diagnostics Schedule An Apptsoundnik Detail
+## 1. Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?
+
+- **Company:** Labcorp
+- **Publication date:** 12 Aug 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - finance.yahoo.com: https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5
+
+**Feed description:** Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp Holdings' (LH) Investment Narrative? finance.yahoo.com
+
+## 2. Quest Diagnostics Schedule An Apptsoundnik Detail
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 11 Aug 2026
@@ -17,7 +29,7 @@
 
 **Feed description:** Quest Diagnostics Schedule An Apptsoundnik Detail Toimihenkilöliitto Erto
 
-## 2. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
+## 3. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Aug 2026
@@ -29,7 +41,7 @@
 
 **Feed description:** Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com
 
-## 3. Labcorp Colorado Springs Appointment
+## 4. Labcorp Colorado Springs Appointment
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -41,7 +53,7 @@
 
 **Feed description:** Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto
 
-## 4. US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know
+## 5. US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -53,7 +65,7 @@
 
 **Feed description:** US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know The Dermatology Digest
 
-## 5. Quest Diagnostics Stock Price, News, Quote & History
+## 6. Quest Diagnostics Stock Price, News, Quote & History
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Aug 2026
@@ -66,7 +78,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com
 
-## 6. Labcorp’s advanced melanoma CDx secures FDA approval
+## 7. Labcorp’s advanced melanoma CDx secures FDA approval
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -79,7 +91,7 @@
 
 **Feed description:** Labcorp’s advanced melanoma CDx secures FDA approval Medical Device Network
 
-## 7. FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma
+## 8. FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -91,7 +103,7 @@
 
 **Feed description:** FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma dermatologytimes.com
 
-## 8. Labcorp nabs FDA green light for BRAF melanoma diagnostic
+## 9. Labcorp nabs FDA green light for BRAF melanoma diagnostic
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -103,7 +115,7 @@
 
 **Feed description:** Labcorp nabs FDA green light for BRAF melanoma diagnostic fiercebiotech.com
 
-## 9. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
+## 10. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -116,7 +128,7 @@
 
 **Feed description:** Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma PR Newswire
 
-## 10. Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)
+## 11. Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Aug 2026
@@ -128,7 +140,7 @@
 
 **Feed description:** Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) Mshale
 
-## 11. Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates
+## 12. Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 07 Aug 2026
@@ -140,7 +152,7 @@
 
 **Feed description:** TradingKey’s Quest Diagnostics earnings-forecast page is a third-party analyst snapshot rather than company guidance. In its July 27, 2026 update, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 Healthcare Providers & Services companies. The page labels the analyst consensus “Buy” based on 19 analysts and reports expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. The page also contains inconsistent target-price fields. Its analyst-rating panel displays a target of about $239.02 and 4.90% upside, while its FAQ lists an average target of $198.00, with a $215.00 high and $169.18 low. The same FAQ says the previous quarter’s market EPS expectation was $2.87 and the prior actual EPS was $2.28. Those figures should be treated as TradingKey/LSEG-derived market estimates, not as figures issued by Quest. For operating context, Quest subsequently reported second-quarter revenue of $3.043 billion and adjusted diluted EPS of $3.12 and raised its 2026 outlook. The TradingKey article therefore reflects an analyst-model view captured around the reporting period, and its internally inconsistent target-price presentation limits its usefulness for precise valuation conclusions.
 
-## 12. Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages
+## 13. Quest Diagnostics Technical Analysis: Support, Resistance, Indicators & Moving Averages
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 07 Aug 2026
@@ -152,7 +164,7 @@
 
 **Feed description:** TradingKey’s technical-analysis page for Quest Diagnostics is a market-price indicator snapshot, not a new operating or clinical development. In the version available for verification, dated June 18, 2026, TradingKey gave Quest a price-momentum score of 7.03, ranking 49th of 76 companies in Healthcare Providers & Services. The page identified resistance at $205.38 and support at $186.75 and characterized the shares as trading in a range. Its nine-indicator panel showed three sell signals, three neutral signals and no buy signals. MACD was -0.391 and rated neutral; RSI was 46.053 and neutral; stochastic KDJ at 25.090, Williams %R at 75.827 and TRIX at 0.202 were rated sell; ATR of 4.781 was labeled high volatility; and StochRSI was 0.000, labeled oversold. Moving averages produced four sell signals and two buy signals: MA5 $199.808, MA10 $200.868, MA20 $197.541 and MA100 $196.855 were sell, while MA50 $194.864 and MA200 $189.581 were buy. TradingKey’s overall automated conclusion was “Sell” at that snapshot. Because the indicators are price-derived and time-sensitive, the article should not be read as evidence of a change in Quest’s business fundamentals or management outlook.
 
-## 13. Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States
+## 14. Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Aug 2026
@@ -164,7 +176,7 @@
 
 **Feed description:** Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States streamlinefeed.co.ke
 
-## 14. Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals
+## 15. Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 05 Aug 2026
@@ -176,7 +188,7 @@
 
 **Feed description:** Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals Traders Union
 
-## 15. Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary
+## 16. Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary
 
 - **Company:** Labcorp
 - **Publication date:** 05 Aug 2026
@@ -188,7 +200,7 @@
 
 **Feed description:** Labcorp’s verified second-quarter 2026 results show revenue of $3.731 billion for the three months ended June 30, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures contributed 1.2 points and foreign exchange added 0.4 points. Operating income increased to $451.6 million from $394.5 million, lifting the reported operating margin to 12.1% from 11.2%. Net earnings attributable to Labcorp were $298.5 million, and diluted EPS rose 28.5% to $3.64 from $2.84. Adjusted EPS increased 14.9% to $4.99. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, with adjusted operating margin of 18.0%, up 50 basis points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million; Central Labs grew 9.8%, while Early Development revenue declined 1.4%. Biopharma adjusted operating margin expanded 130 basis points to 17.0%. Labcorp raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The company also expanded its share-repurchase authorization by $1 billion, leaving $1.4 billion available. These figures are directly confirmed by Labcorp’s July 30 earnings release.
 
-## 16. Labcorp Paying Out $35M in Settlement: Who’s Eligible
+## 17. Labcorp Paying Out $35M in Settlement: Who’s Eligible
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -200,7 +212,7 @@
 
 **Feed description:** Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.
 
-## 17. Sonic Healthcare draws attention on diagnostics activity
+## 18. Sonic Healthcare draws attention on diagnostics activity
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 04 Aug 2026
@@ -212,7 +224,7 @@
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 18. Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono
+## 19. Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 04 Aug 2026
@@ -225,7 +237,7 @@
 
 **Feed description:** Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono EIN Presswire
 
-## 19. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
+## 20. Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer
 
 - **Company:** Labcorp
 - **Publication date:** 04 Aug 2026
@@ -240,7 +252,7 @@
 
 **Feed description:** Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.
 
-## 20. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
+## 21. Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03
 
 - **Company:** Labcorp
 - **Publication date:** 03 Aug 2026
@@ -253,7 +265,7 @@
 
 **Feed description:** Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.
 
-## 21. Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds
+## 22. Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 03 Aug 2026
@@ -265,7 +277,7 @@
 
 **Feed description:** A multicenter U.S. clinical study examined the overlap between vaginitis diagnoses and sexually transmitted infections in 1,051 women evaluated for bacterial vaginosis (BV) and/or symptomatic vulvovaginal candidiasis. Nucleic-acid amplification testing identified at least one STI in 195 women, or 18.5% of the study population. Trichomonas vaginalis was detected in 9.6%, Mycoplasma genitalium in 8.8%, Chlamydia trachomatis in 2.3% and Neisseria gonorrhoeae in 0.8%. The strongest finding was the association between BV and STI prevalence. Among women who were BV-positive, 26.3% (136 of 518) had an STI, compared with 12.5% (59 of 474) among BV-negative women, a statistically significant difference (P<0.0002). Solo Mycoplasma genitalium infection was associated with BV-positive/VVC-negative status with an odds ratio of 3.08, while solo Trichomonas vaginalis infection had an odds ratio of 2.87. Mixed infections involving those organisms were also significantly associated with BV. Quest Diagnostics highlighted these findings in provider education to emphasize that vaginitis symptoms can mask clinically important coinfections. The results support targeted molecular testing that distinguishes causes of vaginitis while also identifying common STIs, helping clinicians avoid treating symptoms empirically without recognizing concurrent infections that may require different therapy and follow-up.
 
-## 22. Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates
+## 23. Quest Diagnostics Raises 2026 Outlook as Testing Demand Accelerates
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 03 Aug 2026
@@ -279,7 +291,7 @@
 
 **Feed description:** Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.
 
-## 23. Consumer testing is growing in the US: Quest Diagnostics CEO
+## 24. Consumer testing is growing in the US: Quest Diagnostics CEO
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 03 Aug 2026
@@ -291,7 +303,7 @@
 
 **Feed description:** Quest Diagnostics is seeing accelerating demand for direct-to-consumer and wellness-oriented laboratory testing as individuals increasingly pay out of pocket to monitor health markers outside traditional physician-directed testing. CEO James Davis said the trend reflects consumers taking a more active role in preventing or managing chronic conditions by tracking measures tied to metabolic, cardiovascular and hormonal health. Quest has positioned itself as the laboratory infrastructure behind several digital-health and wearable platforms, including Hims & Hers, Function Health, Whoop and Oura. The consumer trend is occurring alongside strong core laboratory demand. In second-quarter 2026 results, Quest reported 10.0% organic revenue growth and a 13.1% increase in testing volume, while company-wide revenue reached $3.04 billion. Quest’s own results release said questhealth.com and consumer, wearable and wellness partnerships generated robust revenue growth. The company also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine testing. The strategic significance is that Quest is extending beyond the traditional physician, hospital and employer channels into consumer health ecosystems where testing can be ordered, paid for and interpreted through third-party apps. This creates additional testing occasions and gives Quest exposure to preventive-health and longitudinal biomarker monitoring without requiring it to own the consumer-facing technology platform.
 
-## 24. List of 22 Acquisitions by Quest Diagnostics (Aug 2026)
+## 25. List of 22 Acquisitions by Quest Diagnostics (Aug 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 02 Aug 2026
@@ -303,7 +315,7 @@
 
 **Feed description:** List of 22 Acquisitions by Quest Diagnostics (Aug 2026) Tracxn
 
-## 25. Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns
+## 26. Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Jul 2026
@@ -315,7 +327,7 @@
 
 **Feed description:** Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns tradersunion.com
 
-## 26. Labcorp Stock Holds A Bullish Case On Margin Expansion
+## 27. Labcorp Stock Holds A Bullish Case On Margin Expansion
 
 - **Company:** Labcorp
 - **Publication date:** 31 Jul 2026
@@ -328,7 +340,7 @@
 
 **Feed description:** Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion sahmcapital.com
 
-## 27. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026
+## 28. PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -340,7 +352,7 @@
 
 **Feed description:** Quest Diagnostics appointed Dominique Chokshi as its new Head of Investor Relations in July 2026. The change was confirmed on Quest’s second-quarter earnings call, where the company introduced Chokshi as having joined the organization the prior week. The role places Chokshi in charge of the company’s investor-relations function and positions him as a key interface between Quest’s executive team and the investment community. The appointment comes as Quest is communicating a period of strong operating momentum. In the same second-quarter reporting cycle, the company disclosed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth, and adjusted diluted EPS of $3.12, up 19.1%. Quest also raised its full-year 2026 revenue and adjusted EPS guidance. Chokshi therefore assumes the investor-relations role while management is emphasizing volume growth, consumer and wellness partnerships, advanced diagnostics, hospital collaborations and acquisition-driven expansion. Public reporting on the personnel move did not disclose compensation, a predecessor transition date, or additional changes to Quest’s finance leadership structure. The available evidence supports a focused organizational change within investor relations rather than a broader executive-management reshuffle. Chokshi’s arrival adds dedicated leadership to shareholder communications during a period when Quest is increasing guidance and broadening its growth narrative across core testing and newer diagnostic channels.
 
-## 28. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
+## 29. Labcorp's acquisition spree drives profit margins to 12.1% in Q2
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -352,7 +364,7 @@
 
 **Feed description:** Labcorp’s second-quarter 2026 results show that acquisitions were a meaningful, but not dominant, contributor to growth while profitability improved. Revenue rose 5.8% to $3.731 billion. Organic growth accounted for 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Labcorp spent $225.7 million on acquisitions during the quarter, alongside $353.8 million of share repurchases and $58.7 million of dividends. Reported operating income increased to $451.6 million from $394.5 million, taking operating margin to 12.1% from 11.2%, a 90-basis-point improvement. Adjusted operating income was $588.7 million and adjusted margin rose to 15.8% from 15.1%. Within Diagnostics Laboratories, revenue increased 5.5% to $2.901 billion; acquisitions net of divestitures contributed 1.9 percentage points, and adjusted margin improved 50 basis points to 18.0%. Biopharma Laboratory Services revenue grew 6.5% to $836.2 million and adjusted margin expanded 130 basis points to 17.0%. The results indicate that acquisition activity supplemented organic testing demand rather than replacing it. Management attributed margin improvement primarily to organic growth and operating efficiencies, while acquisitions broadened the revenue base and supported Labcorp’s scale strategy.
 
-## 29. Quest Diagnostics SVP & Chief Commercial Officer Mark Dela
+## 30. Quest Diagnostics SVP & Chief Commercial Officer Mark Dela
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -364,7 +376,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus
 
-## 30. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR
+## 31. People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -376,7 +388,7 @@
 
 **Feed description:** People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com
 
-## 31. Labcorp earnings beat by $0.20, revenue topped estimates
+## 32. Labcorp earnings beat by $0.20, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -390,7 +402,7 @@
 
 **Feed description:** Labcorp’s second-quarter 2026 earnings and revenue both came in above the market expectations cited in contemporaneous reporting. Adjusted EPS was $4.99, up 14.9% from $4.35 a year earlier, compared with an LSEG analyst consensus of $4.78 reported by Reuters. The queued Investing.com headline described the earnings beat as roughly $0.20 per share. Reported diluted EPS was $3.64, up 28.5% from $2.84. Revenue increased 5.8% to $3.731 billion, above the roughly $3.71 billion analyst expectation cited by Reuters. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%; organic growth was 3.6%, and acquisitions net of divestitures contributed 1.9 percentage points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million, with Central Labs up 9.8%. Reported operating margin improved to 12.1% from 11.2%, while adjusted operating margin rose to 15.8% from 15.1%. Despite the headline beat, Reuters reported Labcorp shares down about 6% in premarket trading, with investors focused on softer-than-expected organic growth in Diagnostics after stronger results from Quest Diagnostics. Labcorp nevertheless raised full-year adjusted EPS and revenue-growth guidance following the quarter.
 
-## 32. Labcorp raises annual profit forecast on strong testing demand
+## 33. Labcorp raises annual profit forecast on strong testing demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -408,7 +420,7 @@
 
 **Feed description:** Labcorp raised its annual profit forecast after second-quarter results beat Wall Street expectations, supported by diagnostic-testing demand and growth in drug-development laboratory services. Revenue rose 5.8% to $3.73 billion versus an LSEG consensus of about $3.71 billion, and adjusted EPS of $4.99 exceeded the $4.78 consensus. The company increased 2026 adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35 and raised its annual revenue outlook to approximately $14.71–$14.83 billion from $14.65–$14.80 billion. Diagnostics Laboratories revenue grew 5.5% to $2.90 billion, slightly below analysts’ $2.91 billion expectation. Labcorp said specialty testing and laboratory-management agreements supported the diagnostics business. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, above the roughly $797.3 million analyst estimate, as pharmaceutical and biotechnology spending improved. Central Labs revenue within Biopharma grew 9.8%. Reuters reported the shares down about 6% in premarket trading despite the beat. Leerink Partners analyst Michael Cherny said investors appeared to be focusing on softer-than-expected organic growth in Diagnostics, particularly after Quest Diagnostics had posted stronger results the previous week. The quarter therefore combined improved earnings and guidance with a more mixed investor reaction to the underlying diagnostics growth rate.
 
-## 33. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026
+## 34. Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -420,7 +432,7 @@
 
 **Feed description:** Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com
 
-## 34. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
+## 35. Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -432,7 +444,7 @@
 
 **Feed description:** Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire
 
-## 35. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations
+## 36. Quest Diagnostics names Merck vet Chokshi as vice president, investor relations
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Jul 2026
@@ -444,7 +456,21 @@
 
 **Feed description:** Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com
 
-## 36. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
+## 37. Labcorp Reports Q2 CY2026 In Line With Expectations
+
+- **Company:** Labcorp
+- **Publication date:** 30 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - finance.yahoo.com: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5
+
+**Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations The Globe and Mail
+
+## 38. Labcorp Raises Earnings Outlook on Strong Medical Testing Demand
 
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
@@ -458,7 +484,7 @@
 
 **Feed description:** Labcorp raised its 2026 earnings outlook after second-quarter results showed continued diagnostic-testing demand and stronger performance in its Biopharma Laboratory Services business. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Adjusted EPS rose 14.9% to $4.99, while reported diluted EPS increased 28.5% to $3.64. Reuters reported that the adjusted EPS result exceeded the roughly $4.78 analyst consensus and that revenue was slightly above the approximately $3.71 billion consensus. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion; organic growth in the segment was 3.6%. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, with Central Labs revenue up 9.8%. Labcorp lifted full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. Reuters translated the updated revenue range to approximately $14.71–$14.83 billion. The company also maintained free-cash-flow guidance of $1.24–$1.36 billion and expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Despite the stronger results and guidance, Reuters reported shares down about 6% in premarket trading as investors focused on the pace of organic Diagnostics growth relative to Quest Diagnostics.
 
-## 37. Labcorp Number of Employees 2026 | Employee Count & Headcount Data
+## 39. Labcorp Number of Employees 2026 | Employee Count & Headcount Data
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -470,7 +496,7 @@
 
 **Feed description:** Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com
 
-## 38. Labcorp earnings ahead: Can specialty tests sustain momentum?
+## 40. Labcorp earnings ahead: Can specialty tests sustain momentum?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Jul 2026
@@ -482,7 +508,7 @@
 
 **Feed description:** Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com
 
-## 39. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com
+## 41. Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
@@ -499,7 +525,7 @@
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa
 
-## 40. J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250
+## 42. J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -512,7 +538,7 @@
 
 **Feed description:** J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 news.futunn.com
 
-## 41. Labcorp expands hereditary risk testing access with genetic health panel
+## 43. Labcorp expands hereditary risk testing access with genetic health panel
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -525,7 +551,7 @@
 
 **Feed description:** Labcorp expands hereditary risk testing access with genetic health panel Yahoo
 
-## 42. Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains
+## 44. Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Jul 2026
@@ -537,7 +563,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com
 
-## 43. What To Expect From Labcorp’s Q2 Earnings
+## 45. What To Expect From Labcorp’s Q2 Earnings
 
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
@@ -575,7 +601,7 @@
 
 **Feed description:** Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.
 
-## 44. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
+## 46. Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -587,7 +613,7 @@
 
 **Feed description:** Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. Labcorp says the offering builds on capabilities from Labcorp Genetics and Invitae and expands its OnDemand portfolio from biomarker testing into hereditary genetic risk assessment. The company cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.
 
-## 45. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
+## 47. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -599,7 +625,7 @@
 
 **Feed description:** Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans kalkinemedia.com
 
-## 46. Labcorp launches genetic health panel for consumers By Investing.com
+## 48. Labcorp launches genetic health panel for consumers By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -612,7 +638,7 @@
 
 **Feed description:** Labcorp announced the Marker by Labcorp Genetic Health Panel, a consumer genetic-testing service that evaluates 163 genes linked to more than 100 health conditions. The panel is scheduled to become available through Labcorp OnDemand on August 3, 2026 and covers inherited risks associated with hereditary cancer, cardiovascular disease and metabolic conditions. Consumers can order the test directly, then schedule specimen collection at one of more than 2,200 Labcorp patient service centers, where a trained phlebotomist performs a blood draw. Labcorp laboratories analyze the sample, and results are returned through the company's secure patient portal and MyLabcorp mobile platform. The report includes detected findings, educational material and access to licensed genetic counselors who can help consumers interpret the information and consider follow-up with healthcare providers. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cited research suggesting nearly one in six adults who undergo genetic testing find a variant associated with a medically actionable condition. The company cautions that the panel is not itself diagnostic; results should be considered together with medical history, family history and other clinical risk factors.
 
-## 47. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
+## 49. Labcorp Launches Marker Genetic Health Panel to Enhance Ris
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -624,7 +650,7 @@
 
 **Feed description:** Labcorp's Marker by Labcorp Genetic Health Panel expands the company's direct-to-consumer testing portfolio into hereditary disease risk. The new panel analyzes 163 genes associated with more than 100 medically actionable conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. It will be sold through Labcorp OnDemand starting August 3, 2026. Consumers can purchase the panel directly and schedule a blood draw at one of Labcorp's more than 2,200 patient service centers. Samples are then analyzed by Labcorp, with results delivered through its secure patient portal and MyLabcorp mobile platform. Each report includes identified findings, tailored educational information and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp positions the panel as a way to combine its biomarker testing and hereditary genetics capabilities in one consumer channel. The company says the offering is supported by Labcorp Genetics and Invitae expertise. Labcorp also cites evidence that nearly one in six adults who undergo genetic testing identify a variant linked to a serious but medically actionable condition, while many carriers remain unaware of their inherited risk. The company states that Marker results are not diagnostic and should be interpreted in the context of medical and family history and other risk factors.
 
-## 48. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
+## 50. Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -636,7 +662,7 @@
 
 **Feed description:** Labcorp is launching the Marker by Labcorp Genetic Health Panel as a direct-to-consumer screen for inherited disease risk. The test analyzes 163 genes and is designed to assess risk across more than 100 hereditary conditions, including cancers and cardiovascular, neurological, muscular and metabolic diseases. Fierce Biotech reported that the product also provides information on how genetics may affect responses to certain medications and selected traits related to athletic performance. Labcorp says almost one in six adults carry an inherited risk for a serious but medically actionable condition and that many carriers are unaware of it. The company is positioning the panel toward preventive action rather than curiosity-driven ancestry-style testing. Licensed genetic counseling is built into the service so consumers can discuss findings and potential next steps. The panel becomes available through Labcorp OnDemand on August 3, 2026. Consumers will have blood drawn at Labcorp patient service centers, samples will be analyzed in Labcorp laboratories, and results will be delivered through the company's patient portal and MyLabcorp mobile platform. Fierce noted that Marker is Labcorp's first major consumer genetics product since the company acquired Invitae's assets in 2024, linking the launch to Labcorp's broader expansion in clinical genetics and consumer-access testing.
 
-## 49. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
+## 51. Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
@@ -657,7 +683,7 @@
 
 **Feed description:** Labcorp launched Marker by Labcorp, a Genetic Health Panel intended to give consumers direct access to hereditary-risk information for more than 100 medically actionable conditions. The panel analyzes 163 genes associated with hereditary cancers, cardiovascular conditions and metabolic disorders and is scheduled to become available through Labcorp OnDemand on August 3, 2026. Consumers can buy the test directly and schedule a blood draw at any of more than 2,200 Labcorp patient service centers. Samples are processed by Labcorp laboratories, while results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a comprehensive report, educational resources tied to individual findings and access to licensed genetic counselors who can help consumers understand results and discuss potential follow-up. Labcorp says the product combines the genetics capabilities of Labcorp Genetics and Invitae with its nationwide collection network and existing consumer testing channel. The company cites research suggesting that nearly one in six adults who receive genetic testing learn that they carry a variant linked to a serious, medically actionable condition. Labcorp emphasizes that findings from Marker are not diagnostic on their own and should be evaluated alongside medical history, family history and other clinical risk factors.
 
-## 50. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan
+## 52. Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -669,7 +695,7 @@
 
 **Feed description:** Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan kalkinemedia.com
 
-## 51. Form 4 Quest Diagnostics orporated For: 27 July By Investing.com
+## 53. Form 4 Quest Diagnostics orporated For: 27 July By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 27 Jul 2026
@@ -687,7 +713,7 @@
 
 **Feed description:** Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa
 
-## 52. Why Quest Diagnostics Stock Climbed This Past Week
+## 54. Why Quest Diagnostics Stock Climbed This Past Week
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Jul 2026
@@ -700,7 +726,19 @@
 
 **Feed description:** Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail
 
-## 53. Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution
+## 55. Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 26 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - finance.yahoo.com: https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5
+
+**Feed description:** Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com
+
+## 56. Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -712,7 +750,7 @@
 
 **Feed description:** TradingKey’s Quest Diagnostics company profile breaks FY2025 revenue into operating categories rather than reporting a new quarterly event. The page lists total U.S. revenue of approximately $11.04 billion for FY2025. Routine clinical testing services accounted for about $5.96 billion, or 54% of revenue, making them the largest business category. Gene-based and esoteric testing services contributed approximately $4.19 billion, or 38%. Anatomic pathology testing services generated about $662.1 million, representing 6%, while all other activities contributed approximately $220.7 million, or 2%. TradingKey lists COVID-19 testing revenue at zero in the FY2025 breakdown. Regionally, the page attributes the full $11.04 billion, or 100% of reported revenue, to the United States. The profile is useful for understanding the mix behind Quest’s reported scale: routine testing remains the largest revenue pool, but gene-based and esoteric testing represents a substantial share of the business, consistent with Quest’s emphasis on advanced diagnostics and specialty testing. These figures are a third-party classification of FY2025 financial data and should not be treated as a new company forecast or a separate segment disclosure beyond Quest’s formal financial reporting.
 
-## 54. Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics
+## 57. Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -724,11 +762,11 @@
 
 **Feed description:** Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail
 
-## 55. Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength
+## 58. Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -736,7 +774,7 @@
 
 **Feed description:** Quest Diagnostics’ second-quarter 2026 earnings call highlighted strong volume-led growth while management also described near-term margin pressures. GuruFocus’s call summary reported revenue growth of more than 10%, driven by broad clinical demand and added volume from the Corewell Health and Fresenius Medical Care collaborations; Quest’s official release reported $3.043 billion of revenue, up 10.2%, and adjusted diluted EPS of $3.12, up 19.1%. On the call, management said total revenue per requisition fell 2.8% because of business mix. CFO Sam Samad said Project NOVA, the Corewell and Fresenius ramps, and supplemental deferred-compensation expenses together reduced second-quarter margin by about 70 basis points, while higher NOVA spending and fuel costs were expected in the second half. CEO Jim Davis said hospital reference testing and co-lab business excluding Corewell each grew at mid-single-digit rates. Management expects the Corewell relationship to contribute about $250 million of revenue, with its margin improving from low- to mid-single digits. Quest maintained an estimated 30-basis-point revenue headwind related to ACA exchange-subsidy expiration and continued advocating for PAMA reform. Despite these pressures, management expected full-year margins to improve as volume growth continues and the dilution from newer collaborations moderates.
 
-## 56. Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative
+## 59. Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Jul 2026
@@ -748,7 +786,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative sahmcapital.com
 
-## 57. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
+## 60. Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?
 
 - **Company:** Labcorp
 - **Publication date:** 24 Jul 2026
@@ -760,7 +798,7 @@
 
 **Feed description:** Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com
 
-## 58. Quest Diagnostics Soars to 52-Week High, Time to Cash Out?
+## 61. Quest Diagnostics Soars to 52-Week High, Time to Cash Out?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -772,7 +810,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? finance.yahoo.com
 
-## 59. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and MindWalk (HYFT)
+## 62. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and MindWalk (HYFT)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -784,7 +822,7 @@
 
 **Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and MindWalk Holdings (HYFT) theglobeandmail.com
 
-## 60. Quest Diagnostics Shares Surge 8.6% -- What GF Score o
+## 63. Quest Diagnostics Shares Surge 8.6% -- What GF Score o
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Jul 2026
@@ -796,7 +834,7 @@
 
 **Feed description:** Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o GuruFocus
 
-## 61. Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary
+## 64. Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -808,7 +846,7 @@
 
 **Feed description:** Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary tradingview.com
 
-## 62. Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com
+## 65. Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -820,7 +858,7 @@
 
 **Feed description:** Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com Investing.com Canada
 
-## 63. Quest Diagnostics raises annual forecast on testing demand
+## 66. Quest Diagnostics raises annual forecast on testing demand
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -833,7 +871,7 @@
 
 **Feed description:** Quest Diagnostics raises annual forecast on testing demand reuters.com
 
-## 64. Quest Diagnostics earnings beat by $0.30, revenue topped estimates
+## 67. Quest Diagnostics earnings beat by $0.30, revenue topped estimates
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -846,7 +884,7 @@
 
 **Feed description:** Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey
 
-## 65. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street
+## 68. Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -858,7 +896,7 @@
 
 **Feed description:** Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street stockstotrade.com
 
-## 66. Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.
+## 69. Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -870,7 +908,7 @@
 
 **Feed description:** Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. marketscreener.com
 
-## 67. Why is Quest Diagnostics stock surging today?
+## 70. Why is Quest Diagnostics stock surging today?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -882,7 +920,7 @@
 
 **Feed description:** Why is Quest Diagnostics stock surging today? Investing.com
 
-## 68. Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half
+## 71. Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -894,11 +932,11 @@
 
 **Feed description:** Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half morningstar.com
 
-## 69. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday
+## 72. Lockheed Martin, Quest Diagnostics, Thermo Fisher Scientific And Other Big Stocks Moving Higher On Thursday
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
@@ -909,9 +947,9 @@
   - Sahm: https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLW5hZ3VDejJhakNZOXN4MV9YdGFPMlhYUnFRNjhLREQtN3BFMFZBNldFdEhGVVNsRU85Qm5IQV81VUpHeURMdlNkOVVDelJOdi1Fb0d6RGIzb1BuQVNyaTdFcGNjVEtmODBrcFRRdlZFWTAteHpwV1RMTUdXcThWUHJrYmxHeVJMaHo4LVpkMjVLbS16TnVENzUzSHVoXzlRVFdSYlFxeURZMm84N1RMMjZhZG1VeksxOVhVNGZWMjJ4UlVOUFIzRndwTmx2dE5CUFh2MW5INGlXMXVGSTd5YlpXRGZWX3E0WmIxSk9hNE0tZTVRNTNHaGJqVjU4Zw?oc=5
   - simplywall.st: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0ZuN0p1YVBSd0JEek5RbExOOVV5ZG5oNTNMVFNqLWRfTXllR0xPX3pRRDBEWE4yUlNoX0VaTkl0aFlla3RmUlZ1NkR4WG5uT2EtY2hCc0VIeXViUGdrTEFJaFBfdmc4Qks1ZzVJZzUzc2dRVGRGS09zYjhMSE1hZDM4UmQwc3F6Ni1vRHIxLWdsdV9SWXhNTDRDRGR4WUNKNk1FVHBrQkRfRUdtZ0h2X1I1eHFfZFJCY3M4SEdsYTFMM3cyMGlWb3NkZEk1WXNL0gHWAUFVX3lxTE5tbERKd1ViRDBQQm1sNkhqZ3hCenZpaUgwV3lfbDVudHhMeHl6WEYyb0Z6dURPT3l5VTlxRTZEQllmWGFfcl9NMkVjZ1JPZ1oxck1yV29PdHd3YnNOX3lRN1ZDbXRrb0d2dXNYRmdHZVN4SjhLa3VZRWtaYUtrTVFwOGxoMkFGODZsMVYtYlhkY1RNejhtZU9teGxteUtic2lOdzdDZ0RGVUlmY0x1UTlCYkdDSHkxYjlwZmIwQzNLeUtKQlRhNGxMX2tsMWI2Y2dLVFhpc3c?oc=5
 
-**Feed description:** Quest Diagnostics shares rose 8.2% after second-quarter 2026 results and a higher full-year outlook strengthened the company’s earnings narrative. The Yahoo Finance/Simply Wall St article highlighted quarterly sales of $3.043 billion and reported diluted EPS of $2.84. Quest’s official release confirms revenue increased 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95-$12.05 billion and reported diluted EPS guidance to $9.97-$10.17; adjusted diluted EPS guidance increased to $11.05-$11.25. Capital returns remained part of the story: Quest repurchased 522,436 shares for $100 million during the quarter. The article linked the stronger outlook to higher-value advanced diagnostics and growing testing volumes, while identifying wage inflation and spending on Project NOVA and other modernization programs as factors that could pressure profitability if productivity gains lag. Quest also raised expected operating cash flow to approximately $1.80 billion from $1.75 billion, while keeping capital-expenditure guidance near $550 million. The market reaction therefore followed a combination of double-digit revenue growth, higher earnings, increased guidance and continued share repurchases rather than a single product or transaction catalyst.
+**Feed description:** Benzinga's July 23 market-movers roundup said Quest Diagnostics shares rose about 10% to $231.36 after the company reported better-than-expected quarterly results and raised its full-year 2026 guidance. The underlying Quest release showed second-quarter revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic revenue growth. Reported diluted EPS increased 15.0% to $2.84 and adjusted diluted EPS rose 19.1% to $3.12. Diagnostic Information Services revenue grew 10.3%, while requisition volume increased 13.1% and organic requisition volume rose 13.0%. Quest raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion. It also increased reported diluted EPS guidance to $9.97-$10.17 and adjusted diluted EPS guidance to $11.05-$11.25. Expected operating cash flow was raised to approximately $1.80 billion, while capital spending remained about $550 million. The Benzinga item was a stock-movement roundup rather than a clinical or R&D report; its Quest-specific catalyst was the earnings beat and higher guidance, which Quest attributed to broad strength across physician, hospital and consumer channels.
 
-## 70. Labcorp Secures $364.7M Contract for Military Health Services
+## 73. Labcorp Secures $364.7M Contract for Military Health Services
 
 - **Company:** Labcorp
 - **Publication date:** 23 Jul 2026
@@ -923,7 +961,7 @@
 
 **Feed description:** Labcorp (LH) Secures $364.7M Contract for Military Health Services GuruFocus
 
-## 71. ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring
+## 74. ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring
 
 - **Company:** ARUP Laboratories
 - **Publication date:** 22 Jul 2026
@@ -935,7 +973,7 @@
 
 **Feed description:** ARUP Laboratories launched ARUP CLARISPECT Multiple Myeloma MRD by Spectral Flow Cytometry, a laboratory-developed assay for assessing minimal residual disease in patients with multiple myeloma. ARUP says it is the first large U.S. reference laboratory to offer spectral flow cytometry for clinical use. Unlike conventional flow cytometry, spectral flow captures the full light spectrum and can evaluate many fluorescent markers simultaneously. ARUP's multiple-myeloma assay uses 18 markers in a single-tube design, reducing specimen-volume requirements while enabling deep characterization of very small neoplastic cell populations in bone marrow. According to ARUP, the assay can detect as few as 14 neoplastic cells among 5 million analyzed cells with 95% confidence. MRD assessment is clinically important because the quantity of residual malignant cells after treatment helps physicians evaluate response, prognosis and relapse risk. The company describes spectral flow as providing greater sensitivity and confidence than conventional flow for this application. ARUP plans to broaden CLARISPECT into a larger suite of MRD assays. The launch expands the reference laboratory's hematopathology menu into a newer high-parameter technology at a time when multiple myeloma remains a significant U.S. cancer burden, with roughly 36,000 new cases projected in 2026.
 
-## 72. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
+## 75. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -947,7 +985,7 @@
 
 **Feed description:** Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com Investing.com UK
 
-## 73. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 76. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -959,7 +997,7 @@
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 74. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 77. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -971,7 +1009,7 @@
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 75. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News
+## 78. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
@@ -983,7 +1021,7 @@
 
 **Feed description:** Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative
 
-## 76. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
+## 79. Labcorp Prepares to Report Q2 Earnings: What's in the Cards?
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
@@ -1041,7 +1079,7 @@
 
 **Feed description:** Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.
 
-## 77. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
+## 80. Will Labcorp Beat Estimates Again in Its Next Earnings Report?
 
 - **Company:** Labcorp
 - **Publication date:** 21 Jul 2026
@@ -1053,11 +1091,11 @@
 
 **Feed description:** Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com
 
-## 78. Business tidbits: Labcorp opens expanded patient service center in Yakima
+## 81. Business tidbits: Labcorp opens expanded patient service center in Yakima
 
 - **Company:** Labcorp
 - **Publication date:** 20 Jul 2026
-- **Category:** Product & Services
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -1065,7 +1103,7 @@
 
 **Feed description:** Labcorp expanded its Yakima, Washington, operations at 1104 W. Spruce St., adding a new laboratory and enlarging the patient service center at the site. The Yakima Herald-Republic reported that Labcorp held a grand opening for the remodeled facility on July 15, 2026. Labcorp’s current location directory independently confirms that the W. Spruce Street facility is an active patient service center providing laboratory testing and routine lab work, with weekday operating hours and appointment access. The expansion increases local collection and laboratory capacity at an established Yakima address rather than opening an entirely new market. Labcorp also operates a second Yakima patient service center at 3909 Creekside Loop, so the remodeled W. Spruce site adds capacity within an existing two-location local network. The company’s location materials describe patient service centers as collection points for routine medical testing and recommended screenings, with results made available through Labcorp’s patient portal. The public article body was not fully accessible, but the reported expansion, July grand-opening timing, address and continued operation of the site are corroborated by Labcorp’s own location directory and independent news indexing.
 
-## 79. Quest Diagnostics stock underperforms Monday when compared to competitors
+## 82. Quest Diagnostics stock underperforms Monday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Jul 2026
@@ -1077,7 +1115,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors marketwatch.com
 
-## 80. Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing
+## 83. Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing
 
 - **Company:** Labcorp
 - **Publication date:** 18 Jul 2026
@@ -1090,7 +1128,7 @@
 
 **Feed description:** Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing dallasexpress.com
 
-## 81. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
+## 84. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -1102,7 +1140,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et
 
-## 82. A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%
+## 85. A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -1114,7 +1152,7 @@
 
 **Feed description:** A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2% trefis.com
 
-## 83. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
+## 86. Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec
 
 - **Company:** Labcorp
 - **Publication date:** 15 Jul 2026
@@ -1126,7 +1164,7 @@
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec finance.yahoo.com
 
-## 84. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
+## 87. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -1162,7 +1200,7 @@
 
 **Feed description:** [DGX Q2 2026 Earnings Call] Quest Diagnostics Raises 2026 Outlook as Q2 Revenue Surges 10.2% to $3.04B, Adjusted EPS Jumps 19.1% finance.biggo.com
 
-## 85. Labcorp Declares Cash Dividend of $0.72 Per S
+## 88. Labcorp Declares Cash Dividend of $0.72 Per S
 
 - **Company:** Labcorp
 - **Publication date:** 10 Jul 2026
@@ -1174,7 +1212,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
 
-## 86. List of Investments by Quest Diagnostics (Jul, 2026)
+## 89. List of Investments by Quest Diagnostics (Jul, 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -1186,7 +1224,7 @@
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
 
-## 87. Labcorp Declares Quarterly Dividend
+## 90. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 09 Jul 2026
@@ -1201,7 +1239,7 @@
 
 **Feed description:** Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com
 
-## 88. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 91. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
@@ -1213,7 +1251,7 @@
 
 **Feed description:** Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au
 
-## 89. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
+## 92. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1225,7 +1263,7 @@
 
 **Feed description:** Quest Diagnostics is integrating its Haystack MRD circulating-tumor-DNA test and Comprehensive Genomic Profiling services for solid tumors into Flatiron Health's OncoEMR electronic health record through the OncoEMR Molecular Profiling Integration feature. The rollout begins with a pilot involving American Oncology Network and other community oncology providers. Quest says it is the largest clinical reference laboratory to integrate oncology tests into OncoEMR through the opt-in MPI ordering workflow. Once the integration is fully deployed, approximately 4,700 clinicians across 1,600 U.S. community cancer-care locations in Flatiron's network will be able to access the Quest services. American Oncology Network, which has more than 350 providers across 21 states, is an early participant; nearly 200 AON sites already have OncoEMR MPI access. The workflow is designed to reduce administrative complexity around molecular tests by accelerating account setup, reducing ordering steps and returning easier-to-use reports inside clinicians' existing EHR workflows. Pilot providers can order and receive Quest results now, and Quest plans a nationwide OncoEMR MPI launch in the second half of 2026. Haystack MRD detects ctDNA for minimal residual disease in solid tumors, while Quest's comprehensive genomic profiling panels assess up to 530 genes associated with therapy response.
 
-## 90. Quest Diagnostics integrates cancer testing int...
+## 93. Quest Diagnostics integrates cancer testing int...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -1237,7 +1275,7 @@
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
 
-## 91. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
+## 94. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Jul 2026

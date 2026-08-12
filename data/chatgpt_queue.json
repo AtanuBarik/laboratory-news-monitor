@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T12:51:14.393103+05:30",
-  "generated_at_display": "12 Aug 2026, 12:51 PM IST",
+  "generated_at": "2026-08-12T12:52:54.275812+05:30",
+  "generated_at_display": "12 Aug 2026, 12:52 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 65,
+  "remaining_unsummarized_count": 68,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,71 @@
         {
           "name": "Tracxn",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3f6fbbcd5e4d498cb13",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?",
+      "source": "finance.yahoo.com",
+      "description": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp Holdings' (LH) Investment Narrative? finance.yahoo.com",
+      "published_at": "2026-08-12T05:41:00+00:00",
+      "published_display": "12 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5",
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "512148a0628993b3633f",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
+      "source": "finance.yahoo.com",
+      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations The Globe and Mail",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 3,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa9c3ae0071224b78edc",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "source": "finance.yahoo.com",
+      "description": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks finance.yahoo.com",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5"
         }
       ]
     },
@@ -582,95 +647,6 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "698c3248416c71aed00d",
-      "company": "Labcorp",
-      "category": "Organizational Updates",
-      "title": "Labcorp Number of Employees 2026 | Employee Count & Headcount Data",
-      "source": "Revelio Labs",
-      "description": "Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
-      "published_at": "2026-07-29T21:29:01+00:00",
-      "published_display": "29 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
-      "sources": [
-        {
-          "name": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0d865fed43c9014dee5",
-      "company": "Labcorp",
-      "category": "Leadership Changes",
-      "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards?",
-      "source": "Yahoo Finance",
-      "description": "Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "official_source": false,
-      "coverage_count": 47,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2V4Q3BYMW5ybElNajU1dHE0T3NldTlIckV5QV9mS1VjbEtJME9sUV9RZHdYOFc0WUp4S21qekhuSXJXaFJaR3hLNVl4cmR0U2ctTThNRVJXME9MNU5RYnh5d1RHaUI2UXMxWnY1NUdnT1RHZGxwS3RLYm91SzZEZWtiQ3NfZ3FNMFBqWlFYOHhxSTFFVTZMUTVpUE9ncWs?oc=5"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NGZG1SeWFBUU01b0ozamZpQVhJLVNyWW1ZNlN0TEFhaHgzbE45eEp2OTduamxGbHV6YURYa201dGdSbWhQVEQtaXNsOVRFRDBPczBiVkJwRXlGUzVEN1NvYm1oTHBkSHV5RVpwWkRFNnlVSzFpZDJrZERxbkROZTVKQ0hDbDA0MlEyX1hrRllVZnhZ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5"
-        },
-        {
-          "name": "StockStory",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlg5cWZfam5IM3FJZ3ZTS1hUekFLdjB0aXMtWkt1cHRyMHozdEh5ZlZ6cHlWb3I1ai1SeGZLX2FILVptQldhUGttaURQc3VWdHRkSWRTZmZwY3RmS2xuM29YdXRSQ3RRam44X3BfV3p1YVMwZndfSjFNcDVsSnZNYnp4NFNLNzhDVFZicVF3Tm43eERiUXZWSDBURUJuMkFWSHBlX2t0eTlseXhtMHY3VnFxc3hseGUyT0pTZjk5Q3RvWkVhUURXc0VxS0kycWJqd1VZ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "131a04cd4b17846e8707",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com",
-      "published_at": "2026-08-10T16:20:54+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5"
         }
       ]
     }
