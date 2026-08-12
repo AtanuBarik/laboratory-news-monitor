@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-12T18:50:15+05:30",
-  "updated_at_display": "12 Aug 2026, 6:50 PM IST",
+  "updated_at": "2026-08-13T00:34:32+05:30",
+  "updated_at_display": "13 Aug 2026, 12:34 AM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -384,7 +384,7 @@
       "verification": "verified"
     },
     "744ecc0885942423be6c": {
-      "summary": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a therapy-selection indication to the company’s distributed comprehensive-genomic-profiling platform. The approved use identifies melanoma tumors with BRAF V600E or V600K variants so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitor therapy or BRAF/MEK inhibitor combinations under the relevant drug labels. Labcorp emphasized the clinical need in advanced disease, citing a five-year survival rate of about 16% for stage IV melanoma. The assay is a qualitative next-generation-sequencing in vitro diagnostic performed on DNA from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can identify single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a send-out-only service, the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, enabling institutions to keep samples and data in house while performing molecular profiling. The melanoma approval broadens Labcorp’s PGDx elio portfolio, which already supports tissue and liquid genomic profiling. Strategically, it strengthens Labcorp’s oncology offering by combining a regulated treatment-selection claim with a scalable kit model designed for local laboratory adoption.",
+      "summary": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a therapy-selection indication to the company’s distributed comprehensive-genomic-profiling platform. The approved use identifies melanoma tumors with BRAF V600E or BRAF V600K variants so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitor therapy or BRAF/MEK inhibitor combinations under the relevant drug labels. Labcorp emphasized the clinical need in advanced disease, citing a five-year survival rate of about 16% for stage IV melanoma. The assay is a qualitative next-generation-sequencing in vitro diagnostic performed on DNA from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can identify single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a send-out-only service, the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, enabling institutions to keep samples and data in house while performing molecular profiling. The melanoma approval broadens Labcorp’s PGDx elio portfolio, which already supports tissue and liquid genomic profiling. Strategically, it strengthens Labcorp’s oncology offering by combining a regulated treatment-selection claim with a scalable kit model designed for local laboratory adoption.",
       "provider": "ChatGPT Scheduled Task",
       "updated_at": "2026-08-12T18:50:15+05:30",
       "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
@@ -441,6 +441,76 @@
       "company": "Labcorp",
       "category": "Financials",
       "sources_used": ["https://finance.yahoo.com/markets/stocks/articles/analyst-upgrades-earnings-outlook-require-121328961.html"],
+      "verification": "verified"
+    },
+    "5a7a85ae353a3a1d7291": {
+      "summary": "Yahoo Finance/Simply Wall St linked Quest Diagnostics’ 8.2% share-price gain to a second-quarter beat, higher full-year guidance and continued capital returns. Quest reported quarterly revenue of $3.043 billion and diluted EPS of $2.84. The company’s official results show revenue rose 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion, reported EPS guidance to $9.97–$10.17 and adjusted EPS guidance to $11.05–$11.25. Quest also repurchased 522,436 shares for $100 million during the quarter. The article framed higher-value advanced diagnostics and growing testing volumes as important supports for the stronger earnings story, while noting that wage inflation and spending on Project NOVA and other modernization programs could pressure profitability if productivity gains do not keep pace. Quest separately raised expected operating cash flow to approximately $1.80 billion from $1.75 billion and maintained capital-spending guidance near $550 million. The market reaction therefore reflected a combination of double-digit revenue growth, stronger earnings, increased guidance and buybacks rather than a single product or transaction catalyst.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://finance.yahoo.com/markets/stocks/articles/why-quest-diagnostics-dgx-8-041726532.html", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "28d2507af43335dab03e": {
+      "summary": "TradingView’s summary of Quest Diagnostics’ second-quarter 2026 Form 10-Q reported net revenue of $3.04 billion, up 10.2% from $2.76 billion a year earlier, net income attributable to Quest of $320 million versus $282 million, and diluted EPS of $2.84 versus $2.47, a 15% increase. The filing-based summary said requisition volume grew about 13%, with the Corewell Health and Fresenius dialysis relationships contributing materially to the change in channel mix and organic volume. It also highlighted Quest’s Invigorate productivity program, which targets approximately 3% annual cost savings through automation, artificial intelligence and process improvements across laboratories and services. The Corewell Health laboratory joint venture is consolidated by Quest, which owns 51%, and the company is building a new Michigan laboratory expected to become operational in 2027. TradingView also noted expansion of patient service centers, mobile phlebotomy and consulting medical staff. Quest’s official earnings release corroborates the reported revenue and EPS figures and shows adjusted diluted EPS of $3.12, up 19.1%. The filing therefore adds operational detail to the quarter’s headline growth, particularly around collaboration-driven volume, infrastructure investment and the productivity program intended to support margin conversion.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://es.tradingview.com/news/tradingview%3A9f6aac4c40e33%3A0-quest-diagnostics-2026-revenue-3-04b-eps-2-84-10-q-summary/", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "613f702fa349d7542fe1": {
+      "summary": "Quest Diagnostics raised its full-year 2026 outlook after second-quarter testing demand produced double-digit revenue growth and stronger earnings. Although the Reuters article itself was not directly accessible, the event and figures were independently verified against Quest’s official results and contemporaneous earnings coverage. Quest reported revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, and adjusted diluted EPS rose 19.1% to $3.12. Management lifted expected 2026 revenue to $11.95–$12.05 billion from $11.78–$11.90 billion and raised adjusted diluted EPS guidance to $11.05–$11.25 from $10.63–$10.83. Reported EPS guidance increased to $9.97–$10.17. Quest also raised expected operating cash flow to approximately $1.80 billion while keeping capital expenditure near $550 million. The company attributed performance to broad strength across physician, hospital and consumer channels. The results also exceeded the analyst estimates cited by Investing.com, which reported adjusted EPS of $3.12 versus $2.82 expected and revenue of $3.04 billion versus $2.97 billion expected. The raised outlook therefore reflected sustained testing demand rather than a one-time accounting effect alone.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Quest Diagnostics raises annual forecast on testing demand",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026", "https://www.investing.com/news/earnings/quest-diagnostics-stock-rises-5-on-strong-q2-beat-raised-guidance-93CH-4808233"],
+      "verification": "verified"
+    },
+    "26f8b4af28247b4cb257": {
+      "summary": "Investing.com reported that Quest Diagnostics beat second-quarter 2026 consensus estimates on both earnings and revenue. Adjusted EPS was $3.12, $0.30 above the analyst estimate of $2.82, while revenue was $3.04 billion versus a $2.97 billion consensus. Quest’s official release shows revenue increased 10.2% from $2.761 billion a year earlier and adjusted EPS rose 19.1% from $2.62. Reported diluted EPS was $2.84, up 15.0%. The company also raised its full-year outlook above the consensus figures cited by Investing.com. Quest now expects 2026 adjusted diluted EPS of $11.05–$11.25, compared with the article’s analyst consensus of $10.77, and revenue of $11.95–$12.05 billion, compared with a consensus of $11.85 billion. The prior company guidance had been $10.63–$10.83 for adjusted EPS and $11.78–$11.90 billion for revenue. Quest also increased expected operating cash flow to about $1.80 billion while leaving capital expenditure near $550 million. The earnings beat and guidance increase indicate that stronger testing volumes and broad demand across physician, hospital and consumer channels were translating into financial performance ahead of market expectations at the time of the report.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.investing.com/news/earnings/quest-diagnostics-earnings-beat-by-030-revenue-topped-estimates-4808206", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "ceafc8aa6ca7359b1263": {
+      "summary": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.morningstar.com/company-reports/1489667-quest-diagnostics-earnings-strong-quarterly-results-spur-optimistic-outlook-for-second-half?listing=0P000004JJ", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "b7749ec3ea4122652c1b": {
+      "summary": "Ahead of Quest Diagnostics’ second-quarter 2026 release, Investing.com said analysts expected the company to extend its growth streak after a strong first quarter and an earlier guidance increase. Wall Street’s consensus called for adjusted EPS of $2.82 and revenue of $2.97 billion for the quarter ended June 30, each about 7.6% above the prior-year period. Quest had reported first-quarter adjusted EPS of $2.50 on $2.90 billion of revenue, with revenue growth above 9% and adjusted EPS growth of about 13%. The article identified advanced diagnostics as a key test of the strategy, highlighting integration of Haystack MRD circulating-tumor-DNA testing and comprehensive genomic profiling into Flatiron Health’s OncoEMR platform. That integration was designed to extend access to approximately 4,700 clinicians across 1,600 cancer-care locations. Investing.com also pointed to routine testing demand and the company’s use of automation and artificial intelligence to improve margins as central issues for the earnings call. At the time, Quest had a market capitalization of about $22.9 billion and traded at $206.84. The subsequent results exceeded the preview’s consensus, with adjusted EPS of $3.12 and revenue of $3.043 billion, but the article itself was a pre-earnings assessment of whether innovation and partnerships could sustain growth.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.investing.com/news/earnings/quest-diagnostics-earnings-on-deck-as-testing-growth-accelerates-93CH-4806387"],
+      "verification": "verified"
+    },
+    "89a266b41d3245653b6c": {
+      "summary": "Quiver Quantitative attributed a 5.8% rise in Quest Diagnostics shares on July 22 primarily to positioning ahead of the company’s second-quarter earnings release, while also pointing to recent oncology-access initiatives as support for the growth narrative. Quest was scheduled to report before the market opened on July 23. The article noted that first-quarter 2026 revenue had grown 9.2% and that Quest had raised its full-year revenue and adjusted EPS outlook in April, giving investors a stronger operating backdrop. Quiver also highlighted Quest’s July 8 pilot to integrate oncology testing into Flatiron Health’s OncoEMR Molecular Profiling Integration workflow, including Haystack MRD, and the late-June New York State approval that broadened access to Haystack MRD for patients with solid tumors. The underlying Quest announcement says the OncoEMR integration is intended ultimately to reach approximately 4,700 clinicians across 1,600 community cancer-care locations and includes both Haystack MRD and comprehensive genomic profiling. Quiver’s article explicitly described its price-movement analysis as AI-assisted and advised readers to verify the information. The substantive business signal was therefore not the stock move itself but the combination of prior financial momentum and expanded workflow access for advanced oncology diagnostics immediately before the Q2 report.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T00:34:32+05:30",
+      "title": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.quiverquant.com/news/Quest%2BDiagnostics%2BRallies%2BAhead%2Bof%2BEarnings%2Bas%2BInvestors%2BWeigh%2BGrowth%2BInitiatives", "https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"],
       "verification": "verified"
     }
   }
