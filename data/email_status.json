@@ -1,14 +1,16 @@
 {
-  "checked_at": "2026-08-13T00:42:13.058195+05:30",
+  "checked_at": "2026-08-13T00:42:35.699433+05:30",
   "checked_at_display": "13 Aug 2026, 12:42 AM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 4,
+  "ranked_candidate_count": 6,
   "low_value_dismissed_count": 0,
-  "attempted_summary_count": 4,
+  "attempted_summary_count": 6,
   "verified_summary_count": 0,
   "unreadable_ids": [
+    "ca3821ab91146719d724",
     "ceb779dc820a6490b2a9",
     "c3f6fbbcd5e4d498cb13",
+    "4a777d06a90c5c515cd5",
     "d81d0a5ec5f591fb5354",
     "f75e5d91e2de0c65f721"
   ],
@@ -19,10 +21,12 @@
   "gemini_fallback_enabled": false,
   "fallback_summary_count": 0,
   "summary_delivery_policy": "verified_chatgpt_required",
-  "awaiting_chatgpt_summary_count": 4,
+  "awaiting_chatgpt_summary_count": 6,
   "awaiting_chatgpt_summary_ids": [
+    "ca3821ab91146719d724",
     "ceb779dc820a6490b2a9",
     "c3f6fbbcd5e4d498cb13",
+    "4a777d06a90c5c515cd5",
     "d81d0a5ec5f591fb5354",
     "f75e5d91e2de0c65f721"
   ],

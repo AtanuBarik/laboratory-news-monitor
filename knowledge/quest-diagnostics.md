@@ -1,7 +1,7 @@
 # Quest Diagnostics News
 
 - **Repository generated:** 13 Aug 2026, 12:42 AM IST
-- **Distinct events in this file:** 48
+- **Distinct events in this file:** 49
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -422,7 +422,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -478,7 +478,20 @@
 
 **Feed description:** Why is Quest Diagnostics stock surging today? Investing.com
 
-## 39. Quest Diagnostics raises annual forecast on testing demand
+## 39. Quest Diagnostics earnings beat by $0.30, revenue topped estimates
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Jul 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5
+  - TradingKey: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5
+
+**Feed description:** Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey
+
+## 40. Quest Diagnostics raises annual forecast on testing demand
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
@@ -499,11 +512,11 @@
 
 **Feed description:** Quest Diagnostics raised its full-year 2026 outlook after second-quarter testing demand produced double-digit revenue growth and stronger earnings. Although the Reuters article itself was not directly accessible, the event and figures were independently verified against Quest’s official results and contemporaneous earnings coverage. Quest reported revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, and adjusted diluted EPS rose 19.1% to $3.12. Management lifted expected 2026 revenue to $11.95–$12.05 billion from $11.78–$11.90 billion and raised adjusted diluted EPS guidance to $11.05–$11.25 from $10.63–$10.83. Reported EPS guidance increased to $9.97–$10.17. Quest also raised expected operating cash flow to approximately $1.80 billion while keeping capital expenditure near $550 million. The company attributed performance to broad strength across physician, hospital and consumer channels. The results also exceeded the analyst estimates cited by Investing.com, which reported adjusted EPS of $3.12 versus $2.82 expected and revenue of $3.04 billion versus $2.97 billion expected. The raised outlook therefore reflected sustained testing demand rather than a one-time accounting effect alone.
 
-## 40. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
+## 41. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Jul 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -511,7 +524,7 @@
 
 **Feed description:** Ahead of Quest Diagnostics’ second-quarter 2026 release, Investing.com said analysts expected the company to extend its growth streak after a strong first quarter and an earlier guidance increase. Wall Street’s consensus called for adjusted EPS of $2.82 and revenue of $2.97 billion for the quarter ended June 30, each about 7.6% above the prior-year period. Quest had reported first-quarter adjusted EPS of $2.50 on $2.90 billion of revenue, with revenue growth above 9% and adjusted EPS growth of about 13%. The article identified advanced diagnostics as a key test of the strategy, highlighting integration of Haystack MRD circulating-tumor-DNA testing and comprehensive genomic profiling into Flatiron Health’s OncoEMR platform. That integration was designed to extend access to approximately 4,700 clinicians across 1,600 cancer-care locations. Investing.com also pointed to routine testing demand and the company’s use of automation and artificial intelligence to improve margins as central issues for the earnings call. At the time, Quest had a market capitalization of about $22.9 billion and traded at $206.84. The subsequent results exceeded the preview’s consensus, with adjusted EPS of $3.12 and revenue of $3.043 billion, but the article itself was a pre-earnings assessment of whether innovation and partnerships could sustain growth.
 
-## 41. Quest Diagnostics stock underperforms Monday when compared to competitors
+## 42. Quest Diagnostics stock underperforms Monday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Jul 2026
@@ -523,7 +536,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors marketwatch.com
 
-## 42. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
+## 43. Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -535,7 +548,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et
 
-## 43. A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%
+## 44. A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Jul 2026
@@ -547,7 +560,7 @@
 
 **Feed description:** A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2% trefis.com
 
-## 44. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
+## 45. Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Jul 2026
@@ -585,7 +598,7 @@
 
 **Feed description:** Quiver Quantitative attributed a 5.8% rise in Quest Diagnostics shares on July 22 primarily to positioning ahead of the company’s second-quarter earnings release, while also pointing to recent oncology-access initiatives as support for the growth narrative. Quest was scheduled to report before the market opened on July 23. The article noted that first-quarter 2026 revenue had grown 9.2% and that Quest had raised its full-year revenue and adjusted EPS outlook in April, giving investors a stronger operating backdrop. Quiver also highlighted Quest’s July 8 pilot to integrate oncology testing into Flatiron Health’s OncoEMR Molecular Profiling Integration workflow, including Haystack MRD, and the late-June New York State approval that broadened access to Haystack MRD for patients with solid tumors. The underlying Quest announcement says the OncoEMR integration is intended ultimately to reach approximately 4,700 clinicians across 1,600 community cancer-care locations and includes both Haystack MRD and comprehensive genomic profiling. Quiver’s article explicitly described its price-movement analysis as AI-assisted and advised readers to verify the information. The substantive business signal was therefore not the stock move itself but the combination of prior financial momentum and expanded workflow access for advanced oncology diagnostics immediately before the Q2 report.
 
-## 45. List of Investments by Quest Diagnostics (Jul, 2026)
+## 46. List of Investments by Quest Diagnostics (Jul, 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Jul 2026
@@ -597,7 +610,7 @@
 
 **Feed description:** List of Investments by Quest Diagnostics (Jul, 2026) tracxn.com
 
-## 46. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
+## 47. Quest Diagnostics Integrates Oncology Tests into Electronic Health Record Platform
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -609,7 +622,7 @@
 
 **Feed description:** Quest Diagnostics is integrating its Haystack MRD circulating-tumor-DNA test and Comprehensive Genomic Profiling services for solid tumors into Flatiron Health's OncoEMR electronic health record through the OncoEMR Molecular Profiling Integration feature. The rollout begins with a pilot involving American Oncology Network and other community oncology providers. Quest says it is the largest clinical reference laboratory to integrate oncology tests into OncoEMR through the opt-in MPI ordering workflow. Once the integration is fully deployed, approximately 4,700 clinicians across 1,600 U.S. community cancer-care locations in Flatiron's network will be able to access the Quest services. American Oncology Network, which has more than 350 providers across 21 states, is an early participant; nearly 200 AON sites already have OncoEMR MPI access. The workflow is designed to reduce administrative complexity around molecular tests by accelerating account setup, reducing ordering steps and returning easier-to-use reports inside clinicians' existing EHR workflows. Pilot providers can order and receive Quest results now, and Quest plans a nationwide OncoEMR MPI launch in the second half of 2026. Haystack MRD detects ctDNA for minimal residual disease in solid tumors, while Quest's comprehensive genomic profiling panels assess up to 530 genes associated with therapy response.
 
-## 47. Quest Diagnostics integrates cancer testing int...
+## 48. Quest Diagnostics integrates cancer testing int...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 08 Jul 2026
@@ -621,7 +634,7 @@
 
 **Feed description:** Quest Diagnostics integrates cancer testing int... Pluang
 
-## 48. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
+## 49. Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Jul 2026

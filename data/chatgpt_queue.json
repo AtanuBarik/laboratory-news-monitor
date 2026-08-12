@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T00:42:12.690837+05:30",
+  "generated_at": "2026-08-13T00:42:35.345469+05:30",
   "generated_at_display": "13 Aug 2026, 12:42 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 54,
+  "remaining_unsummarized_count": 56,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -62,6 +62,48 @@
         {
           "name": "finance.yahoo.com",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4a777d06a90c5c515cd5",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
+      "source": "tradingview.com",
+      "description": "Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary tradingview.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+      "sources": [
+        {
+          "name": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ca3821ab91146719d724",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates",
+      "source": "Investing.com",
+      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5"
+        },
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5"
         }
       ]
     },
@@ -621,44 +663,6 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ae7da1f27bd119f8422",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
-      "source": "IR Impact",
-      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
-      "published_at": "2026-07-30T12:08:02+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-      "sources": [
-        {
-          "name": "IR Impact",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce295d63ded2d45b412f",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026",
-      "source": "Yahoo Finance",
-      "description": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5"
         }
       ]
     }

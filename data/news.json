@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T00:42:09.741518+05:30",
+  "generated_at": "2026-08-13T00:42:32.494006+05:30",
   "generated_at_display": "13 Aug 2026, 12:42 AM IST",
-  "item_count": 89,
-  "raw_relevant_item_count": 274,
-  "duplicates_merged": 78,
+  "item_count": 91,
+  "raw_relevant_item_count": 266,
+  "duplicates_merged": 71,
   "failures": [],
   "items": [
     {
@@ -1156,6 +1156,30 @@
       "event_signature": "chokshi investor merck names president relations vet vice"
     },
     {
+      "id": "4a777d06a90c5c515cd5",
+      "company": "Labcorp",
+      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+      "description": "Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary tradingview.com",
+      "source": "tradingview.com",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings ended june quarter results summary"
+    },
+    {
       "id": "0bc80dc092ee276171ab",
       "company": "Labcorp",
       "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
@@ -2178,7 +2202,7 @@
       "source_domain": "tradingview.com",
       "published_at": "2026-07-23T20:21:01+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -2295,6 +2319,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "stock surging today why"
+    },
+    {
+      "id": "ca3821ab91146719d724",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-07-25T03:19:36+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "beat earnings estimates revenue topped"
     },
     {
       "id": "613f702fa349d7542fe1",
@@ -2446,7 +2500,7 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-22T14:34:00+00:00",
       "published_display": "22 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -3371,7 +3425,7 @@
     }
   ],
   "low_value_items_removed": 82,
-  "post_prune_financial_duplicates_merged": 25,
+  "post_prune_financial_duplicates_merged": 22,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-13T06:17:00+05:30",
   "next_update_display": "13 Aug 2026, 6:17 AM IST",
