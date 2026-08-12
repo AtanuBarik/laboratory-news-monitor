@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 12 Aug 2026, 6:44 AM IST
+- **Repository generated:** 12 Aug 2026, 11:33 AM IST
 - **Distinct events in this file:** 33
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -244,7 +244,7 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 26
+- **Coverage count:** 27
 - **Official source involved:** No
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5
@@ -273,6 +273,7 @@
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMipAFBVV95cUxPQXIwLU9OZlp4cXZaVnVFZHdhaEQzZXhva3JmNnMwYnY2Tk9Qa0RjZXM2MmdUTk5UOG5QaDRoaDlacERreWkzM0VZQTFvb1ZpR0JDX3N1T0p1UmFHWmNGOXp5TnkyenhMTGlCS2ZPNnBGa1NhZXhJT21FdTRzNnRwbkdqUk9LOEhDYXg2dUU4NmVqamhXYnRwMXlwRzI0UWFDdzVmOQ?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMivAFBVV95cUxQSDlCcUk1Y0ZRdWdGNUYtTldfVFFkQ0VjV1kyejZ3VDd2dkdreU96Y1lWUnlnRThfWXIwVXd4RFFpTjE3UzhGMTZWc2plMWdCMG9zQjBScnBSSWU2TlB5b2c4b0JhQVNnRV9iUFlYTlo1Qy1aUFhJSmtZMkRYaG9uWFhoUDRWSTJGNllQTHA5NGxsNm1uQWVrTFk3bk91MDVZb2tzYVdkdXRCMmMzQ1lRcUtNRUMxTFNVaWJLUw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxQYUxUdEFrS3p4OHBuUVVrNjNGRXpWUHlEQ1QyWDNQNXFUQnFxaXpjWDdPQ0plbjl5WGIxU0gweEdDSnRsMFdLdTRKM0E0NXpQRUpZT0V2Vld4ekhpNDFHdmpGZ0NlUGdZMXQ3bC16Uy1uWFRWVzBSR1VNaUNWQUZNSmd0QXhlSWNkWXJuYWpiQ3diZjBtdTZSYUJzQQ?oc=5
 
 **Feed description:** Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.
 
