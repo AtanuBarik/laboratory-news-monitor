@@ -3391,8 +3391,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 81,
-  "post_prune_financial_duplicates_merged": 20,
+  "low_value_items_removed": 0,
+  "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-12T18:17:00+05:30",
   "next_update_display": "12 Aug 2026, 6:17 PM IST",
