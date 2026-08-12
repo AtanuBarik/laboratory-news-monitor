@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-12T12:52:51.429590+05:30",
-  "generated_at_display": "12 Aug 2026, 12:52 PM IST",
+  "generated_at": "2026-08-12T16:09:04.375089+05:30",
+  "generated_at_display": "12 Aug 2026, 4:09 PM IST",
   "item_count": 94,
-  "raw_relevant_item_count": 270,
-  "duplicates_merged": 76,
+  "raw_relevant_item_count": 273,
+  "duplicates_merged": 78,
   "failures": [],
   "items": [
     {
@@ -722,7 +722,7 @@
       "company": "Quest Diagnostics",
       "title": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026)",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
-      "description": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026) Tracxn",
+      "description": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026) tracxn.com",
       "source": "Tracxn",
       "source_url": "https://tracxn.com",
       "source_domain": "tracxn.com",
@@ -2347,7 +2347,7 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Partnership, M&A",
+      "category": "Financials",
       "official_source": false,
       "sources": [
         {
@@ -3391,7 +3391,7 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 80,
+  "low_value_items_removed": 81,
   "post_prune_financial_duplicates_merged": 20,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-12T18:17:00+05:30",

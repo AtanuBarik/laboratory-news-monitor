@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 12 Aug 2026, 12:52 PM IST
+- **Repository generated:** 12 Aug 2026, 4:09 PM IST
 - **Distinct events in this file:** 94
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -313,7 +313,7 @@
 - **Sources:**
   - Tracxn: https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5
 
-**Feed description:** List of 22 Acquisitions by Quest Diagnostics (Aug 2026) Tracxn
+**Feed description:** List of 22 Acquisitions by Quest Diagnostics (Aug 2026) tracxn.com
 
 ## 26. Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns
 
@@ -936,7 +936,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Jul 2026
-- **Category:** Partnership, M&A
+- **Category:** Financials
 - **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
