@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-12T00:35:10+05:30",
-  "updated_at_display": "12 Aug 2026, 12:35 AM IST",
+  "updated_at": "2026-08-12T06:35:17+05:30",
+  "updated_at_display": "12 Aug 2026, 6:35 AM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -251,6 +251,56 @@
       "company": "Quest Diagnostics",
       "category": "Product & Services",
       "sources_used": ["https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"],
+      "verification": "verified"
+    },
+    "0793cd23304353436380": {
+      "summary": "Labcorp’s second-quarter 2026 results were broadly in line with Wall Street’s revenue expectations while earnings came in ahead of consensus. Revenue rose 5.8% year over year to $3.731 billion, compared with about $3.71 billion expected in the StockStory/Yahoo Finance report. Adjusted EPS was $4.99, 4.6% above the $4.77 consensus cited there and up 14.9% from $4.35 a year earlier. Reported diluted EPS increased 28.5% to $3.64. Organic revenue grew 4.2%. Labcorp’s reported operating margin was 12.1%, while adjusted operating margin was 15.8%. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%, and Biopharma Laboratory Services produced $836.2 million, up 6.5%. Management raised full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. StockStory translated the revenue outlook to roughly $14.77 billion at the midpoint and noted that the EPS midpoint was about $18.33. Labcorp also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. The quarter therefore combined steady top-line growth, stronger earnings and improved guidance, although the market reaction was negative immediately after the release.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T06:35:17+05:30",
+      "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://finance.yahoo.com/healthcare/articles/labcorp-nyse-lh-reports-q2-122126425.html", "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "0bc80dc092ee276171ab": {
+      "summary": "Labcorp raised its 2026 earnings outlook after second-quarter results showed continued diagnostic-testing demand and stronger performance in its Biopharma Laboratory Services business. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Adjusted EPS rose 14.9% to $4.99, while reported diluted EPS increased 28.5% to $3.64. Reuters reported that the adjusted EPS result exceeded the roughly $4.78 analyst consensus and that revenue was slightly above the approximately $3.71 billion consensus. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion; organic growth in the segment was 3.6%. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, with Central Labs revenue up 9.8%. Labcorp lifted full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. Reuters translated the updated revenue range to approximately $14.71–$14.83 billion. The company also maintained free-cash-flow guidance of $1.24–$1.36 billion and expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Despite the stronger results and guidance, Reuters reported shares down about 6% in premarket trading as investors focused on the pace of organic Diagnostics growth relative to Quest Diagnostics.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T06:35:17+05:30",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html", "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "7cf2a17c1d2ea7bf1b01": {
+      "summary": "Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion in the prior-year quarter. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Reported operating income rose to $451.6 million from $394.5 million, increasing operating margin to 12.1% from 11.2%. Net earnings attributable to Labcorp were about $298.5 million, and diluted EPS increased 28.5% to $3.64. Adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories revenue increased 5.5% to $2.901 billion, with adjusted operating margin of 18.0%, up 50 basis points. Biopharma Laboratory Services revenue grew 6.5% to $836.2 million; Central Labs increased 9.8%, while Early Development declined 1.4%. Biopharma adjusted operating margin expanded 130 basis points to 17.0%. Following the quarter, Labcorp raised full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The company kept free-cash-flow guidance at $1.24–$1.36 billion and added $1.0 billion to its share-repurchase authorization, bringing remaining authorization to $1.4 billion. The results show higher revenue, stronger earnings and margin expansion across the enterprise and both operating segments.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T06:35:17+05:30",
+      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "ec5307491ca834ca0f19": {
+      "summary": "Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T06:35:17+05:30",
+      "title": "What To Expect From Labcorp’s Q2 Earnings",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://stockstory.org/us/stocks/nyse/lh/news/earnings/what-to-expect-from-labcorps-lh-q2-earnings"],
+      "verification": "verified"
+    },
+    "3c7e3a52e07861682026": {
+      "summary": "Quest Diagnostics’ second-quarter 2026 results exceeded analyst expectations and prompted upward revisions to post-earnings forecasts. Simply Wall St reported revenue of about $3.0 billion, ahead of expectations, and statutory EPS roughly 12% above analysts’ forecasts. After the release, 16 analysts were forecasting 2026 revenue of $12.0 billion, representing approximately 3.7% growth versus the prior 12 months, and EPS of $10.13, up about 5.6%. Before the results, the same analyst group had been modelling 2026 revenue of $11.9 billion and EPS of $9.60, so the larger change was in earnings expectations. The consensus price target rose 6.9% to $239, with individual targets ranging from $204 to $265. Quest’s own second-quarter release reported revenue of $3.043 billion, up 10.2% year over year, with 10.0% organic growth. Reported diluted EPS was $2.84 and adjusted diluted EPS was $3.12, up 19.1%. The company raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. The combination of a revenue and earnings beat, stronger company guidance and higher analyst EPS estimates indicates that the quarter materially improved near-term earnings expectations even though analysts still forecast only moderate revenue growth.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T06:35:17+05:30",
+      "title": "Quest Diagnostics Just Recorded A 12% EPS Beat: Here's What Analysts Are Forecasting Next",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://simplywall.st/stocks/us/healthcare/nyse-dgx/quest-diagnostics/news/earnings-beat-quest-diagnostics-incorporated-just-beat-analy", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
       "verification": "verified"
     }
   }
