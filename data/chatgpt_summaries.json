@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-12T06:35:17+05:30",
-  "updated_at_display": "12 Aug 2026, 6:35 AM IST",
+  "updated_at": "2026-08-12T12:38:21+05:30",
+  "updated_at_display": "12 Aug 2026, 12:38 PM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -301,6 +301,56 @@
       "company": "Quest Diagnostics",
       "category": "Financials",
       "sources_used": ["https://simplywall.st/stocks/us/healthcare/nyse-dgx/quest-diagnostics/news/earnings-beat-quest-diagnostics-incorporated-just-beat-analy", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "53bd2953f9e678d2ed5b": {
+      "summary": "Labcorp expanded its Yakima, Washington, operations at 1104 W. Spruce St., adding a new laboratory and enlarging the patient service center at the site. The Yakima Herald-Republic reported that Labcorp held a grand opening for the remodeled facility on July 15, 2026. Labcorp’s current location directory independently confirms that the W. Spruce Street facility is an active patient service center providing laboratory testing and routine lab work, with weekday operating hours and appointment access. The expansion increases local collection and laboratory capacity at an established Yakima address rather than opening an entirely new market. Labcorp also operates a second Yakima patient service center at 3909 Creekside Loop, so the remodeled W. Spruce site adds capacity within an existing two-location local network. The company’s location materials describe patient service centers as collection points for routine medical testing and recommended screenings, with results made available through Labcorp’s patient portal. The public article body was not fully accessible, but the reported expansion, July grand-opening timing, address and continued operation of the site are corroborated by Labcorp’s own location directory and independent news indexing.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T12:38:21+05:30",
+      "title": "Business tidbits: Labcorp opens expanded patient service center in Yakima",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "sources_used": ["https://companies.einnews.com/news/labcorp-news", "https://locations.labcorp.com/wa/yakima/31442/"],
+      "verification": "verified"
+    },
+    "13192f9008969763d5a7": {
+      "summary": "Quest Diagnostics’ second-quarter 2026 results came in ahead of analyst expectations and led analysts to raise their earnings forecasts. Simply Wall St reported quarterly revenue of about $3.0 billion and statutory earnings per share roughly 12% above consensus. Quest’s official release gives the underlying operating figures: revenue was $3.043 billion, up 10.2% year over year, with 10.0% organic growth; reported diluted EPS was $2.84, up 15.0%, and adjusted diluted EPS was $3.12, up 19.1%. After the results, the 16 analysts tracked by Simply Wall St forecast 2026 revenue of $12.0 billion and EPS of $10.13. Before the report, they had expected $11.9 billion of revenue and $9.60 of EPS, making the earnings revision more material than the revenue change. The consensus price target increased 6.9% to $239, with individual targets ranging from $204 to $265. Quest itself raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The article therefore reflects a post-earnings improvement in external earnings expectations following a quarter of double-digit revenue growth and stronger company guidance.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T12:38:21+05:30",
+      "title": "Earnings Beat: Quest Diagnostics Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Models",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://simplywall.st/stocks/us/healthcare/nyse-dgx/quest-diagnostics/news/earnings-beat-quest-diagnostics-incorporated-just-beat-analy", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "9c02e51cab07fadeb04f": {
+      "summary": "TradingKey’s Quest Diagnostics company profile breaks FY2025 revenue into operating categories rather than reporting a new quarterly event. The page lists total U.S. revenue of approximately $11.04 billion for FY2025. Routine clinical testing services accounted for about $5.96 billion, or 54% of revenue, making them the largest business category. Gene-based and esoteric testing services contributed approximately $4.19 billion, or 38%. Anatomic pathology testing services generated about $662.1 million, representing 6%, while all other activities contributed approximately $220.7 million, or 2%. TradingKey lists COVID-19 testing revenue at zero in the FY2025 breakdown. Regionally, the page attributes the full $11.04 billion, or 100% of reported revenue, to the United States. The profile is useful for understanding the mix behind Quest’s reported scale: routine testing remains the largest revenue pool, but gene-based and esoteric testing represents a substantial share of the business, consistent with Quest’s emphasis on advanced diagnostics and specialty testing. These figures are a third-party classification of FY2025 financial data and should not be treated as a new company forecast or a separate segment disclosure beyond Quest’s formal financial reporting.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T12:38:21+05:30",
+      "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.tradingkey.com/markets/stocks/nasdaq-dgx/company"],
+      "verification": "verified"
+    },
+    "baeee3c77eab7f9bd55f": {
+      "summary": "Quest Diagnostics’ second-quarter 2026 earnings call highlighted strong volume-led growth while management also described near-term margin pressures. GuruFocus’s call summary reported revenue growth of more than 10%, driven by broad clinical demand and added volume from the Corewell Health and Fresenius Medical Care collaborations; Quest’s official release reported $3.043 billion of revenue, up 10.2%, and adjusted diluted EPS of $3.12, up 19.1%. On the call, management said total revenue per requisition fell 2.8% because of business mix. CFO Sam Samad said Project NOVA, the Corewell and Fresenius ramps, and supplemental deferred-compensation expenses together reduced second-quarter margin by about 70 basis points, while higher NOVA spending and fuel costs were expected in the second half. CEO Jim Davis said hospital reference testing and co-lab business excluding Corewell each grew at mid-single-digit rates. Management expects the Corewell relationship to contribute about $250 million of revenue, with its margin improving from low- to mid-single digits. Quest maintained an estimated 30-basis-point revenue headwind related to ACA exchange-subsidy expiration and continued advocating for PAMA reform. Despite these pressures, management expected full-year margins to improve as volume growth continues and the dilution from newer collaborations moderates.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T12:38:21+05:30",
+      "title": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.gurufocus.com/news/8975710/quest-diagnostics-inc-dgx-q2-2026-earnings-call-highlights-strong-revenue-growth-amid-operational-challenges", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "197143a6ae5e6c805fbb": {
+      "summary": "Quest Diagnostics shares rose 8.2% after second-quarter 2026 results and a higher full-year outlook strengthened the company’s earnings narrative. The Yahoo Finance/Simply Wall St article highlighted quarterly sales of $3.043 billion and reported diluted EPS of $2.84. Quest’s official release confirms revenue increased 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95-$12.05 billion and reported diluted EPS guidance to $9.97-$10.17; adjusted diluted EPS guidance increased to $11.05-$11.25. Capital returns remained part of the story: Quest repurchased 522,436 shares for $100 million during the quarter. The article linked the stronger outlook to higher-value advanced diagnostics and growing testing volumes, while identifying wage inflation and spending on Project NOVA and other modernization programs as factors that could pressure profitability if productivity gains lag. Quest also raised expected operating cash flow to approximately $1.80 billion from $1.75 billion, while keeping capital-expenditure guidance near $550 million. The market reaction therefore followed a combination of double-digit revenue growth, higher earnings, increased guidance and continued share repurchases rather than a single product or transaction catalyst.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-12T12:38:21+05:30",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://finance.yahoo.com/markets/stocks/articles/why-quest-diagnostics-dgx-8-041726532.html", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
       "verification": "verified"
     }
   }
