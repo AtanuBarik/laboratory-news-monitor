@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 12 Aug 2026, 11:33 AM IST
+- **Repository generated:** 12 Aug 2026, 12:51 PM IST
 - **Distinct events in this file:** 33
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -451,7 +451,7 @@
 - **Sources:**
   - yakimaherald.com: https://news.google.com/rss/articles/CBMigAJBVV95cUxQYVllVmtZeFM1WDJvbndTV3RQbFZ2Wk41WWg1TlVtR0JSYXVGYnFaWlowc2F2dzVMdjU1SUNYdzVmRjNDcW9XVkEwYTNkX1JvVG9HMDNjSWlQSzQ4OVN4NkNqdldaQXVSLU9CbkxFZnFZVGpVUXRzZzVVZEZYdGlTY1ZLYks1eWZuR2ZGMHUwRG16ZHc0R2h0akJkM2VsRno3TDN2RDlrWmRQbVNlcTVzNU56bnpxSFlWd1NLVVVXOFNwNU11akRVcWEwZk83R0E1eGJweENPZzNxZ1hOLXhDQXMxS25yM2c2SDlIa21wOWN4Y0NyU2l3aUdjTHV4OWd20gGGAkFVX3lxTE9Pa0xRN0dhOE1oeE1ZQ2ktMnlKTXhLaHlwZmZSaUh2b3ptQ0RReUxqblJwQ093dW9vSUlPak9rdVFKTnhyT0NndU1kRVVJWG01UWxlbS1BT1ZNckcyd1UyYmhGaG03RkRSanE4ZWVITDRUNXhlTzY2TV9pTDFtaUNOLUNQZllXSUdvYmYxZE9SRUZFTGVJazl1YjlQUFdiczNFQm50WWVrR1pmZ0JqbFlhVzZSdUd5Ry10ckJOSVUyb1V2bWVOY2lqemxsc1RyODZQc1BhcnhwYTUwNDg1RjNUTEdZczJ5T3hMZng2MlVxVzdzZGtJdWJhOWZvXzdaOUh1NGJBaUE?oc=5
 
-**Feed description:** Business tidbits: Labcorp opens expanded patient service center in Yakima Yakima Herald-Republic
+**Feed description:** Labcorp expanded its Yakima, Washington, operations at 1104 W. Spruce St., adding a new laboratory and enlarging the patient service center at the site. The Yakima Herald-Republic reported that Labcorp held a grand opening for the remodeled facility on July 15, 2026. Labcorp’s current location directory independently confirms that the W. Spruce Street facility is an active patient service center providing laboratory testing and routine lab work, with weekday operating hours and appointment access. The expansion increases local collection and laboratory capacity at an established Yakima address rather than opening an entirely new market. Labcorp also operates a second Yakima patient service center at 3909 Creekside Loop, so the remodeled W. Spruce site adds capacity within an existing two-location local network. The company’s location materials describe patient service centers as collection points for routine medical testing and recommended screenings, with results made available through Labcorp’s patient portal. The public article body was not fully accessible, but the reported expansion, July grand-opening timing, address and continued operation of the site are corroborated by Labcorp’s own location directory and independent news indexing.
 
 ## 30. Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing
 
