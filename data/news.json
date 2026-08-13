@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-13T12:50:50.052224+05:30",
-  "generated_at_display": "13 Aug 2026, 12:50 PM IST",
+  "generated_at": "2026-08-13T12:52:06.768758+05:30",
+  "generated_at_display": "13 Aug 2026, 12:52 PM IST",
   "item_count": 98,
-  "raw_relevant_item_count": 282,
+  "raw_relevant_item_count": 283,
   "duplicates_merged": 81,
   "failures": [],
   "items": [
@@ -431,7 +431,7 @@
       "source_domain": "gurufocus.com",
       "published_at": "2026-08-09T08:46:43+00:00",
       "published_display": "09 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -2609,7 +2609,7 @@
       "source_domain": "reuters.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -3757,7 +3757,7 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 82,
+  "low_value_items_removed": 83,
   "post_prune_financial_duplicates_merged": 21,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-13T18:17:00+05:30",
