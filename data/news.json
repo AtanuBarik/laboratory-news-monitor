@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T19:00:40.997695+05:30",
-  "generated_at_display": "13 Aug 2026, 7:00 PM IST",
-  "item_count": 99,
-  "raw_relevant_item_count": 286,
-  "duplicates_merged": 82,
+  "generated_at": "2026-08-13T21:38:47.514628+05:30",
+  "generated_at_display": "13 Aug 2026, 9:38 PM IST",
+  "item_count": 100,
+  "raw_relevant_item_count": 287,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
     {
@@ -1762,9 +1762,15 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkVid1htWEpiWWhxSU5Eb1NSYUp5b2RGRUs4ZlFjOVo3NjBlY0hmc2x3MHdaMEJBd09TTlNwX3RaMVRNd2xzdVhhVWxza3o1dGFMOExPdGZNZWtSQzd1dksxRzhuQXFYZDhNd2QxTEF3SUZNNXBOZm9OSEZtVGR0di04ejRFa2V5VUxGY3dEeTBucVJqdkZuWTRzZDQ?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-07-31T07:00:00+00:00"
+        },
+        {
+          "name": "KING5.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0lUb1dyamhXRXZvM2VMOUxKaG5LcVc3ZGZPRHlPX0M3MWNGMkc0b2VCVTNvOUZRTFpxUEp0dzBlbHBkMGw3UzJTcy16alFCWFpNUm4yVWVqZEpLMV81b1RFX2NEMjgxaEcwM2x6aFVfb3BOQ1RuZVVZV2pTMnZIejJzZm9Ba0F5VldkbHRYV2lLZUxKbllzRDNVcXlvenI1ZHcwSE9laHl4NzUwUFE3N2ZoZHp6NHdSU2FlUlZDakVUT1ZtWVE?oc=5",
+          "domain": "king5.com",
+          "published_at": "2026-07-30T10:58:00+00:00"
         }
       ],
-      "coverage_count": 29,
+      "coverage_count": 30,
       "event_signature": "earnings expect what",
       "source_description": "Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance Singapore",
       "chatgpt_summary": "Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.",
@@ -2699,7 +2705,7 @@
       "source_domain": "prnewswire.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -2773,6 +2779,78 @@
       "summary_evidence": [
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
+    },
+    {
+      "id": "fcea5f5a22ec5b44fab6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q2 2026 Earnings Call Summary",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
+      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "quiverquant.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5",
+          "domain": "scanx.trade",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 9,
+      "event_signature": "2026 call earnings summary"
     },
     {
       "id": "1913eec7daaa3590f8a9",
@@ -3685,7 +3763,7 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-09T07:00:00+00:00",
       "published_display": "09 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -3843,8 +3921,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 84,
-  "post_prune_financial_duplicates_merged": 21,
+  "low_value_items_removed": 83,
+  "post_prune_financial_duplicates_merged": 20,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-14T00:17:00+05:30",
   "next_update_display": "14 Aug 2026, 12:17 AM IST",
