@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T06:45:16.647375+05:30",
-  "generated_at_display": "13 Aug 2026, 6:45 AM IST",
-  "item_count": 95,
-  "raw_relevant_item_count": 275,
-  "duplicates_merged": 75,
+  "generated_at": "2026-08-13T11:34:55.804902+05:30",
+  "generated_at_display": "13 Aug 2026, 11:34 AM IST",
+  "item_count": 96,
+  "raw_relevant_item_count": 283,
+  "duplicates_merged": 79,
   "failures": [],
   "items": [
     {
@@ -35,7 +35,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
-      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com UK",
+      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -67,9 +67,21 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjdJZllLaEpSX0JXT2MzcEx2QUdLZElCampZTkY1aUhzeTFDYzlVNXlqQTZvWnlSUGNkblNXSDdEQW12YTNyVzNpakE0bXFKYUVuanZGZ0sycWpWcGVsT3FfakpVaDlLYUVxaFRaR19RalRiaDZ1amJqZHNkQWt4RkhsMnI3Rk9TSWhVaW9OTzRKYk9JdjJ4clVRWk1DSzJnMUwxVXVMVmJsUGxlcE1j?oc=5",
           "domain": "uk.investing.com",
           "published_at": "2026-08-12T20:30:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-08-12T20:16:09+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-08-12T20:45:15+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "event_signature": "cash declares dividend quarterly"
     },
     {
@@ -77,7 +89,7 @@
       "company": "Labcorp",
       "title": "Is Labcorp Fully Priced Following Oncology Approvals And Raised Outlook?",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFZGOUdHWWtZczdNNW13aExWb2ZlUmF3cC1OS1MzdDNuM21fQ1o1aExpcEJkMVhoeGh0MGF3REl1c1JTNG5qckpxbzYwNXd5cjVJbGd3WTVyLW91MTJOdmNxS25lNUY0R25TOWxOT0xoT0dHaG0ybjZBNEZmRTducXp1ZzA5WVRaT25ac0Y2dkFaVTZsb2FLbjJHNC1FQQ?oc=5",
-      "description": "Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? Yahoo Finance",
+      "description": "Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -407,6 +419,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "against back bounce can dallas report scouting sounders todibo xrfsqrkkv9"
+    },
+    {
+      "id": "c29d4bd11fd2989f4864",
+      "company": "Quest Diagnostics",
+      "title": "IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5",
+      "description": "IVY LANE CAPITAL MANAGEMENT, LLC's Quest Diagnostics Inc(DGX) Holding History GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-08-09T08:46:43+00:00",
+      "published_display": "09 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-08-09T08:46:43+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "capital history holding ivy lane management"
     },
     {
       "id": "ef01db00ce5a4ff25908",
@@ -2060,7 +2096,7 @@
       "source_domain": "finance.yahoo.com",
       "published_at": "2026-07-26T07:00:00+00:00",
       "published_display": "26 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -3584,8 +3620,8 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 83,
-  "post_prune_financial_duplicates_merged": 22,
+  "low_value_items_removed": 85,
+  "post_prune_financial_duplicates_merged": 23,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-13T12:17:00+05:30",
   "next_update_display": "13 Aug 2026, 12:17 PM IST",

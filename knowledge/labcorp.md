@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 13 Aug 2026, 6:45 AM IST
+- **Repository generated:** 13 Aug 2026, 11:34 AM IST
 - **Distinct events in this file:** 36
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOeFZGOUdHWWtZczdNNW13aExWb2ZlUmF3cC1OS1MzdDNuM21fQ1o1aExpcEJkMVhoeGh0MGF3REl1c1JTNG5qckpxbzYwNXd5cjVJbGd3WTVyLW91MTJOdmNxS25lNUY0R25TOWxOT0xoT0dHaG0ybjZBNEZmRTducXp1ZzA5WVRaT25ac0Y2dkFaVTZsb2FLbjJHNC1FQQ?oc=5
 
-**Feed description:** Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? Yahoo Finance
+**Feed description:** Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? finance.yahoo.com
 
 ## 2. Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?
 
