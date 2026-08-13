@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T06:44:54.597305+05:30",
-  "generated_at_display": "13 Aug 2026, 6:44 AM IST",
-  "item_count": 91,
-  "raw_relevant_item_count": 277,
-  "duplicates_merged": 78,
+  "generated_at": "2026-08-13T06:45:16.647375+05:30",
+  "generated_at_display": "13 Aug 2026, 6:45 AM IST",
+  "item_count": 95,
+  "raw_relevant_item_count": 275,
+  "duplicates_merged": 75,
   "failures": [],
   "items": [
     {
@@ -1232,7 +1232,7 @@
       "source_domain": "tradingview.com",
       "published_at": "2026-07-30T07:00:00+00:00",
       "published_display": "30 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -1262,6 +1262,39 @@
       "summary_verification": "verified",
       "summary_updated_at": "2026-08-13T06:36:07+05:30",
       "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
+      ]
+    },
+    {
+      "id": "0bc80dc092ee276171ab",
+      "company": "Labcorp",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+      "description": "Labcorp raised its 2026 earnings outlook after second-quarter results showed continued diagnostic-testing demand and stronger performance in its Biopharma Laboratory Services business. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Adjusted EPS rose 14.9% to $4.99, while reported diluted EPS increased 28.5% to $3.64. Reuters reported that the adjusted EPS result exceeded the roughly $4.78 analyst consensus and that revenue was slightly above the approximately $3.71 billion consensus. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion; organic growth in the segment was 3.6%. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, with Central Labs revenue up 9.8%. Labcorp lifted full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. Reuters translated the updated revenue range to approximately $14.71–$14.83 billion. The company also maintained free-cash-flow guidance of $1.24–$1.36 billion and expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Despite the stronger results and guidance, Reuters reported shares down about 6% in premarket trading as investors focused on the pace of organic Diagnostics growth relative to Quest Diagnostics.",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "source_domain": "bloomberg.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "demand earnings medical outlook raises strong testing",
+      "source_description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg.com",
+      "chatgpt_summary": "Labcorp raised its 2026 earnings outlook after second-quarter results showed continued diagnostic-testing demand and stronger performance in its Biopharma Laboratory Services business. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Adjusted EPS rose 14.9% to $4.99, while reported diluted EPS increased 28.5% to $3.64. Reuters reported that the adjusted EPS result exceeded the roughly $4.78 analyst consensus and that revenue was slightly above the approximately $3.71 billion consensus. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion; organic growth in the segment was 3.6%. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, with Central Labs revenue up 9.8%. Labcorp lifted full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. Reuters translated the updated revenue range to approximately $14.71–$14.83 billion. The company also maintained free-cash-flow guidance of $1.24–$1.36 billion and expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Despite the stronger results and guidance, Reuters reported shares down about 6% in premarket trading as investors focused on the pace of organic Diagnostics growth relative to Quest Diagnostics.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T06:35:17+05:30",
+      "summary_evidence": [
+        "https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html",
         "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
       ]
     },
@@ -2017,6 +2050,39 @@
       "event_signature": "climbed past stock this week why"
     },
     {
+      "id": "5a7a85ae353a3a1d7291",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+      "description": "Yahoo Finance/Simply Wall St linked Quest Diagnostics’ 8.2% share-price gain to a second-quarter beat, higher full-year guidance and continued capital returns. Quest reported quarterly revenue of $3.043 billion and diluted EPS of $2.84. The company’s official results show revenue rose 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion, reported EPS guidance to $9.97–$10.17 and adjusted EPS guidance to $11.05–$11.25. Quest also repurchased 522,436 shares for $100 million during the quarter. The article framed higher-value advanced diagnostics and growing testing volumes as important supports for the stronger earnings story, while noting that wage inflation and spending on Project NOVA and other modernization programs could pressure profitability if productivity gains do not keep pace. Quest separately raised expected operating cash flow to approximately $1.80 billion from $1.75 billion and maintained capital-spending guidance near $550 million. The market reaction therefore reflected a combination of double-digit revenue growth, stronger earnings, increased guidance and buybacks rather than a single product or transaction catalyst.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-26T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after boosting buybacks guidance raising why",
+      "source_description": "Why Quest Diagnostics (DGX) Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks Yahoo Finance",
+      "chatgpt_summary": "Yahoo Finance/Simply Wall St linked Quest Diagnostics’ 8.2% share-price gain to a second-quarter beat, higher full-year guidance and continued capital returns. Quest reported quarterly revenue of $3.043 billion and diluted EPS of $2.84. The company’s official results show revenue rose 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion, reported EPS guidance to $9.97–$10.17 and adjusted EPS guidance to $11.05–$11.25. Quest also repurchased 522,436 shares for $100 million during the quarter. The article framed higher-value advanced diagnostics and growing testing volumes as important supports for the stronger earnings story, while noting that wage inflation and spending on Project NOVA and other modernization programs could pressure profitability if productivity gains do not keep pace. Quest separately raised expected operating cash flow to approximately $1.80 billion from $1.75 billion and maintained capital-spending guidance near $550 million. The market reaction therefore reflected a combination of double-digit revenue growth, stronger earnings, increased guidance and buybacks rather than a single product or transaction catalyst.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T00:34:32+05:30",
+      "summary_evidence": [
+        "https://finance.yahoo.com/markets/stocks/articles/why-quest-diagnostics-dgx-8-041726532.html",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
+    },
+    {
       "id": "9c02e51cab07fadeb04f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
@@ -2134,6 +2200,30 @@
       "summary_evidence": [
         "https://simplywall.st/stocks/us/healthcare/nyse-dgx/quest-diagnostics/news/quest-diagnostics-dgx-stock-earnings-beat-supports-defensive"
       ]
+    },
+    {
+      "id": "bc46eed3f7f6254d7f8f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "source": "TradingKey",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-07-25T03:19:36+00:00",
+      "published_display": "25 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-07-25T03:19:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings eps estimates forecast future growth revenue"
     },
     {
       "id": "cf76d1979ce6b46d85e5",
@@ -2378,7 +2468,7 @@
       "source_domain": "investing.com",
       "published_at": "2026-07-23T07:00:00+00:00",
       "published_display": "23 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -2453,6 +2543,36 @@
         "https://www.investing.com/news/earnings/quest-diagnostics-earnings-beat-by-030-revenue-topped-estimates-4808206",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
+    },
+    {
+      "id": "2f0dbf1fbedc8f5d392e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics raises annual forecast on testing demand",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
+      "description": "Quest Diagnostics raises annual forecast on testing demand TradingView",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "source_domain": "reuters.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
+          "domain": "reuters.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXpoTjluNk1vbHlYSGJVOEt6OWl2NFRieG8wQTcwMnRBTWlVTzZoc09lenltaHJEenVERlIwb0JGVlc5Vlk3NGc5WlpRZ2dmTUdMRk9yRE5kcWxnb3RuaktlRWxOQjdacFNRX2pkenh0WW9xdXFlMU9UVmZpdk1IY0pIY01XVlNWQ0tBSXJoWmJaV1JVYW1fVXZLUkdRZ1VKaUtkZVFhclcxZHlhc0tPVnFPMHJpWDdtTVVDU0VZUnptQ0Nkb3g0?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "annual demand forecast raises testing"
     },
     {
       "id": "1913eec7daaa3590f8a9",
@@ -3465,7 +3585,7 @@
     }
   ],
   "low_value_items_removed": 83,
-  "post_prune_financial_duplicates_merged": 25,
+  "post_prune_financial_duplicates_merged": 22,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-13T12:17:00+05:30",
   "next_update_display": "13 Aug 2026, 12:17 PM IST",
