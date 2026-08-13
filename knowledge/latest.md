@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 14 Aug 2026, 1:03 AM IST
+- **Repository generated:** 14 Aug 2026, 2:58 AM IST
 - **Distinct events in this file:** 100
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -34,7 +34,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 12 Aug 2026
 - **Category:** Financials
-- **Coverage count:** 9
+- **Coverage count:** 10
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5
@@ -46,6 +46,7 @@
   - MarketBeat: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUtFc1lHd2xSYWhVcVNXd3BIMWhDR242QTl3VmFrejN6dDlTN2RiRC11NlhYYWNMTG5maEg3SlZmSS1CU0NXeEo3djJHdmFsblZIRE9sUDV1d3RIVHl4c01IaEJINmFaNzluUS1LTXFJcHNnMDZiTFFTMkUxWFZvaVZnNEszY2lSR3BBSExxd3J5bFMzU3MwckwtYS1mM0ZmWHZ3VFFEM0s3SGw2NHliUFpQLWVUaWVvZFZHWnlYenNiQQ?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVRJd3VpLW1iVEo4VkRKdGxfb3QzaE5EQkdkN25UNm50RXNYdC1GT3NZbDB6bklTQXgyWVNJTjJNVFpGTmdtOTZIeW14T1h5S3lNS3paTW50d0dSYVBIVE1iUGtJNVVoVkRzUzQ4M1FOcjBSQ3EtZ3JNMVNvNkJxbWJlcDcwcUw5OHAyRXNCX0FJcXhSVjBESi13dm1mMlc4MzhyVDFORTZzVDQtZUlZ?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTVkNWRZeGhXLU9RMHY0cGNHbmN2ZkpDcDNyUFFvN01uSkV6UUdhVXRMZkZPUjVWbERLdXM2MVp1dlpCdnVzWnlPNW1tTno1ZWhmZUNEYkE2bDZaN3FCZ19Vek5RejJjbHhPbHA5WmRWZmFwOW5lRjVkSUZXRmkyQU9wUjlTamd4WXp4NnY2VVNHakhRaVhJVERXcjRyRjdtb1IzbmhKb1FxVXpXWVJZ?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV80ZHdEODdlRkNtakRXNzdlSVlmS3FuRW9nb1hLVmlVb1RlWUR6R3A2VGp0VW1wWXBGc0ZubWhGOXBkc25MWG0wLTNRbXN0NmxsSW1naFZRVmxnVnoyQllETWozTVlnRTZkTzRfdVlCXzU0a0xrbHNCRDZDT1dKN2w0YzJMaklZV2luVEhEd0lESlFtakU5S3JKUW10dlpJbU1Ud0RiOUFaTHp6N2VR?oc=5
 
 **Feed description:** Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com South Africa
 

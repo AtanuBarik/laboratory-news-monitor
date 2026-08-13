@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T01:03:14.195881+05:30",
-  "generated_at_display": "14 Aug 2026, 1:03 AM IST",
+  "generated_at": "2026-08-14T02:58:29.558068+05:30",
+  "generated_at_display": "14 Aug 2026, 2:58 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -56,7 +56,7 @@
       "published_at": "2026-08-12T20:15:00+00:00",
       "published_display": "12 Aug 2026",
       "official_source": false,
-      "coverage_count": 9,
+      "coverage_count": 10,
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
       "sources": [
         {

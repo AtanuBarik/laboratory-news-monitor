@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T01:03:10.932160+05:30",
-  "generated_at_display": "14 Aug 2026, 1:03 AM IST",
+  "generated_at": "2026-08-14T02:58:26.451080+05:30",
+  "generated_at_display": "14 Aug 2026, 2:58 AM IST",
   "item_count": 100,
-  "raw_relevant_item_count": 286,
-  "duplicates_merged": 83,
+  "raw_relevant_item_count": 287,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
     {
@@ -121,9 +121,15 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTVkNWRZeGhXLU9RMHY0cGNHbmN2ZkpDcDNyUFFvN01uSkV6UUdhVXRMZkZPUjVWbERLdXM2MVp1dlpCdnVzWnlPNW1tTno1ZWhmZUNEYkE2bDZaN3FCZ19Vek5RejJjbHhPbHA5WmRWZmFwOW5lRjVkSUZXRmkyQU9wUjlTamd4WXp4NnY2VVNHakhRaVhJVERXcjRyRjdtb1IzbmhKb1FxVXpXWVJZ?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-08-12T20:52:06+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV80ZHdEODdlRkNtakRXNzdlSVlmS3FuRW9nb1hLVmlVb1RlWUR6R3A2VGp0VW1wWXBGc0ZubWhGOXBkc25MWG0wLTNRbXN0NmxsSW1naFZRVmxnVnoyQllETWozTVlnRTZkTzRfdVlCXzU0a0xrbHNCRDZDT1dKN2w0YzJMaklZV2luVEhEd0lESlFtakU5S3JKUW10dlpJbU1Ud0RiOUFaTHp6N2VR?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-08-12T20:44:17+00:00"
         }
       ],
-      "coverage_count": 9,
+      "coverage_count": 10,
       "event_signature": "cash declares dividend quarterly"
     },
     {
