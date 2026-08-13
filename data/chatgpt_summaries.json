@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-13T00:34:32+05:30",
-  "updated_at_display": "13 Aug 2026, 12:34 AM IST",
+  "updated_at": "2026-08-13T06:36:07+05:30",
+  "updated_at_display": "13 Aug 2026, 6:36 AM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -511,6 +511,56 @@
       "company": "Quest Diagnostics",
       "category": "Financials",
       "sources_used": ["https://www.quiverquant.com/news/Quest%2BDiagnostics%2BRallies%2BAhead%2Bof%2BEarnings%2Bas%2BInvestors%2BWeigh%2BGrowth%2BInitiatives", "https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"],
+      "verification": "verified"
+    },
+    "4a777d06a90c5c515cd5": {
+      "summary": "Labcorp reported second-quarter 2026 revenue of $3.73 billion, up 5.8% from $3.53 billion a year earlier, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Adjusted operating income reached $588.7 million and adjusted operating margin improved to 15.8%, reflecting organic growth and operating efficiencies. The company raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. It also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Labcorp highlighted several specialty-testing initiatives alongside the results: an advanced DPYD genotyping test for chemotherapy-toxicity risk, nationwide distribution of the FDA-approved ColoSense RNA-based at-home colorectal cancer screening test, a Fox Chase Cancer Center collaboration evaluating Plasma Detect Genome MRD in early-stage non-small cell lung cancer, and nationwide access to Roche’s FDA-approved VENTANA PTEN (SP218) companion diagnostic for prostate cancer patients who may qualify for AstraZeneca’s TRUQAP-based therapy. Labcorp also announced Marker by Labcorp, a consumer genetic-health panel. The quarter therefore combined mid-single-digit revenue growth with stronger earnings, margin expansion, increased capital returns and continued investment in oncology and consumer diagnostics.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T06:36:07+05:30",
+      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "ca3821ab91146719d724": {
+      "summary": "Investing.com reported that Quest Diagnostics posted second-quarter 2026 adjusted EPS of $3.12, $0.30 above the analyst consensus of $2.82, and revenue of about $3.04 billion versus $2.97 billion expected. Quest’s official results show revenue increased 10.2% year over year from $2.761 billion, while adjusted EPS grew 19.1% from $2.62. Organic revenue growth was 10.0% and total requisition volume rose 13.1%, with strength across physician, hospital and consumer channels. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion and adjusted diluted EPS guidance to $11.05–$11.25 from $10.63–$10.83. It also increased expected operating cash flow to approximately $1.80 billion while keeping capital spending near $550 million. Recent growth drivers included hospital collaborations, consumer and wellness partnerships, and Advanced Diagnostics, including Alzheimer’s blood testing and cardiometabolic and endocrine testing. Investing.com’s article emphasized the earnings and revenue beats versus Wall Street forecasts, while Quest’s underlying release shows the beat was accompanied by another upward revision to full-year guidance, indicating stronger-than-planned testing demand and operating performance through the first half of 2026.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T06:36:07+05:30",
+      "title": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.investing.com/news/earnings/quest-diagnostics-earnings-beat-by-030-revenue-topped-estimates-4808206", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "868dcdfb31b112a6d9d5": {
+      "summary": "Morningstar characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half, citing roughly 10% revenue growth and 19% adjusted EPS growth with strength across hospital, physician and consumer segments. Quest’s official figures confirm revenue of $3.043 billion, up 10.2% year over year, and adjusted diluted EPS of $3.12, up 19.1%. Organic revenue growth was 10.0% and requisition volume increased 13.1%. The company raised 2026 revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. Quest also reported double-digit growth in several Advanced Diagnostics areas, including AD-Detect Alzheimer’s blood testing and advanced cardiometabolic and endocrine tests. Despite the strong top line, adjusted operating margin was 16.5%, down from 16.9% a year earlier, while reported operating margin was 15.1%. The underlying company release also highlighted continued Corewell Health and Fresenius collaboration work, consumer and wellness growth, and Haystack MRD access through Flatiron Health’s OncoEMR workflow. Morningstar’s core point was that broad-based demand and higher earnings increased confidence in the second half, a conclusion reinforced by Quest’s raised full-year guidance.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T06:36:07+05:30",
+      "title": "Quest Diagnostics Earnings: Strong Quarterly Results Spur Optimistic Outlook for Second Half",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.morningstar.com/company-reports/1489667-quest-diagnostics-earnings-strong-quarterly-results-spur-optimistic-outlook-for-second-half?listing=0P000004JJ", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "03c2890fe00da27f1759": {
+      "summary": "Zacks’ July 21 earnings-preview article said Labcorp entered its July 30 report with a favorable record of beating consensus earnings estimates. Across the previous two quarters, the company had produced an average positive earnings surprise of 3.47%. In the most recent quarter cited, Labcorp delivered $4.25 per share versus a $4.09 consensus estimate, a 3.91% beat; in the preceding quarter, it reported $4.07 versus $3.95 expected, a 3.04% beat. Zacks also noted that analyst estimates had moved favorably ahead of the next report. Its Earnings ESP, which compares its Most Accurate Estimate with the broader consensus, stood at +0.71%, while Labcorp carried a Zacks Rank #2 (Buy). Zacks said the combination of a positive Earnings ESP and a Rank of #3 or better historically improves the probability of an earnings beat, while the framework remains probabilistic rather than a guarantee. The article therefore focused on analyst-estimate momentum and Labcorp’s recent execution record rather than on a new operating announcement or product launch. At publication, Labcorp’s next earnings release was scheduled for July 30, 2026, making the piece a pre-earnings assessment of whether the company could extend its recent earnings-beat streak.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T06:36:07+05:30",
+      "title": "Will Labcorp Beat Estimates Again in Its Next Earnings Report?",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://www.zacks.com/stock/news/2957518/will-labcorp-lh-beat-estimates-again-in-its-next-earnings-report"],
+      "verification": "verified"
+    },
+    "1842edd5bf9c1fdf68b9": {
+      "summary": "Zacks previewed Quest Diagnostics’ second-quarter 2026 results with consensus revenue of $2.98 billion, implying 7.9% year-over-year growth, and adjusted EPS of $2.81, up 7.3%. Quest was scheduled to report before the market opened on July 23. The article noted that Quest had beaten earnings estimates in each of the prior four quarters, with an average surprise of 3.5%, including first-quarter adjusted EPS of $2.50, 5.49% above consensus. Zacks expected physician-channel growth to benefit from broader health-plan access, enterprise customer wins and Quest’s entry into end-stage renal disease testing. It also highlighted hospital growth through Co-Lab solutions, particularly the 2026 expansion across all 21 Corewell Health hospitals. In consumer testing, Zacks pointed to questhealth.com and consumer-health collaborations. Advanced Diagnostics was expected to contribute through AD-Detect Alzheimer’s blood testing, ANAlyzeR autoimmune testing and myeloma MRD flow-cytometry testing. The article also cited Quest AI Companion and the Invigorate productivity program as potential supports. Overall, Zacks framed the quarter around whether broad channel expansion, specialized diagnostics and productivity initiatives could sustain above-market growth. The article’s focus was the breadth of Quest’s channel and product growth drivers rather than a single expected catalyst.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T06:36:07+05:30",
+      "title": "Quest Diagnostics to Report Q2 Earnings: Key Customer Channels in Focus",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.zacks.com/stock/news/2953193/quest-diagnostics-to-report-q2-earnings-key-customer-channels-in-focus"],
       "verification": "verified"
     }
   }
