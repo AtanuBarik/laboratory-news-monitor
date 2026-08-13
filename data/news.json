@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-13T21:38:47.514628+05:30",
-  "generated_at_display": "13 Aug 2026, 9:38 PM IST",
-  "item_count": 100,
+  "generated_at": "2026-08-14T01:02:04.698747+05:30",
+  "generated_at_display": "14 Aug 2026, 1:02 AM IST",
+  "item_count": 99,
   "raw_relevant_item_count": 287,
   "duplicates_merged": 84,
   "failures": [],
@@ -59,7 +59,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
-      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada",
+      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com South Africa",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -109,9 +109,21 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUtFc1lHd2xSYWhVcVNXd3BIMWhDR242QTl3VmFrejN6dDlTN2RiRC11NlhYYWNMTG5maEg3SlZmSS1CU0NXeEo3djJHdmFsblZIRE9sUDV1d3RIVHl4c01IaEJINmFaNzluUS1LTXFJcHNnMDZiTFFTMkUxWFZvaVZnNEszY2lSR3BBSExxd3J5bFMzU3MwckwtYS1mM0ZmWHZ3VFFEM0s3SGw2NHliUFpQLWVUaWVvZFZHWnlYenNiQQ?oc=5",
           "domain": "marketbeat.com",
           "published_at": "2026-08-13T11:56:40+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVRJd3VpLW1iVEo4VkRKdGxfb3QzaE5EQkdkN25UNm50RXNYdC1GT3NZbDB6bklTQXgyWVNJTjJNVFpGTmdtOTZIeW14T1h5S3lNS3paTW50d0dSYVBIVE1iUGtJNVVoVkRzUzQ4M1FOcjBSQ3EtZ3JNMVNvNkJxbWJlcDcwcUw5OHAyRXNCX0FJcXhSVjBESi13dm1mMlc4MzhyVDFORTZzVDQtZUlZ?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-08-12T20:41:05+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTVkNWRZeGhXLU9RMHY0cGNHbmN2ZkpDcDNyUFFvN01uSkV6UUdhVXRMZkZPUjVWbERLdXM2MVp1dlpCdnVzWnlPNW1tTno1ZWhmZUNEYkE2bDZaN3FCZ19Vek5RejJjbHhPbHA5WmRWZmFwOW5lRjVkSUZXRmkyQU9wUjlTamd4WXp4NnY2VVNHakhRaVhJVERXcjRyRjdtb1IzbmhKb1FxVXpXWVJZ?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-08-12T20:52:06+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 9,
       "event_signature": "cash declares dividend quarterly"
     },
     {
@@ -1357,44 +1369,11 @@
       ]
     },
     {
-      "id": "0bc80dc092ee276171ab",
-      "company": "Labcorp",
-      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-      "description": "Labcorp raised its 2026 earnings outlook after second-quarter results showed continued diagnostic-testing demand and stronger performance in its Biopharma Laboratory Services business. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Adjusted EPS rose 14.9% to $4.99, while reported diluted EPS increased 28.5% to $3.64. Reuters reported that the adjusted EPS result exceeded the roughly $4.78 analyst consensus and that revenue was slightly above the approximately $3.71 billion consensus. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion; organic growth in the segment was 3.6%. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, with Central Labs revenue up 9.8%. Labcorp lifted full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. Reuters translated the updated revenue range to approximately $14.71–$14.83 billion. The company also maintained free-cash-flow guidance of $1.24–$1.36 billion and expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Despite the stronger results and guidance, Reuters reported shares down about 6% in premarket trading as investors focused on the pace of organic Diagnostics growth relative to Quest Diagnostics.",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "source_domain": "bloomberg.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-          "domain": "bloomberg.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "demand earnings medical outlook raises strong testing",
-      "source_description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg.com",
-      "chatgpt_summary": "Labcorp raised its 2026 earnings outlook after second-quarter results showed continued diagnostic-testing demand and stronger performance in its Biopharma Laboratory Services business. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Adjusted EPS rose 14.9% to $4.99, while reported diluted EPS increased 28.5% to $3.64. Reuters reported that the adjusted EPS result exceeded the roughly $4.78 analyst consensus and that revenue was slightly above the approximately $3.71 billion consensus. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion; organic growth in the segment was 3.6%. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, with Central Labs revenue up 9.8%. Labcorp lifted full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. Reuters translated the updated revenue range to approximately $14.71–$14.83 billion. The company also maintained free-cash-flow guidance of $1.24–$1.36 billion and expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Despite the stronger results and guidance, Reuters reported shares down about 6% in premarket trading as investors focused on the pace of organic Diagnostics growth relative to Quest Diagnostics.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T06:35:17+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
-    },
-    {
       "id": "698c3248416c71aed00d",
       "company": "Labcorp",
       "title": "Labcorp Number of Employees 2026 | Employee Count & Headcount Data",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
-      "description": "Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
+      "description": "Revelio Labs estimates that Labcorp Holdings employed approximately 71,180 people worldwide as of March 2026. The figure is based on Revelio’s workforce-intelligence data derived from public professional information and should be treated as a third-party estimate rather than an audited company headcount. Revelio reports that Labcorp’s estimated workforce was down about 0.2% year over year and roughly 4.0% below a 2023 peak of 74,148 employees. The geographic distribution remains concentrated in the United States, which accounts for about 39,246 employees, or 55.8% of the estimated total. India represents approximately 10,971 employees, or 15.6%, and Canada about 5,490, or 7.8%. Revelio also estimates that Labcorp’s largest functional groups are Finance and Operations at 29,273 employees, or 41.6% of the workforce; Engineering at 27,266, or 38.7%; and Sales and Marketing at 13,836, or 19.7%. The page reports 3,211 active job postings in 2026 and a hiring velocity of about 2,447 new roles per month. Some of Revelio’s job-posting comparisons are internally inconsistent, so those figures are best read as directional indicators rather than exact company disclosures. The overall profile points to a broadly stable workforce entering 2026, with most employees concentrated in North America and a substantial operating and technical presence in India.",
       "source": "Revelio Labs",
       "source_url": "https://www.reveliolabs.com",
       "source_domain": "reveliolabs.com",
@@ -1411,31 +1390,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 count data employee employees headcount number"
-    },
-    {
-      "id": "1be2ec1321dc39f0df29",
-      "company": "Labcorp",
-      "title": "Labcorp earnings ahead: Can specialty tests sustain momentum?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5",
-      "description": "Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "published_display": "29 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-29T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "ahead can earnings momentum specialty sustain tests"
+      "event_signature": "2026 count data employee employees headcount number",
+      "source_description": "Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
+      "chatgpt_summary": "Revelio Labs estimates that Labcorp Holdings employed approximately 71,180 people worldwide as of March 2026. The figure is based on Revelio’s workforce-intelligence data derived from public professional information and should be treated as a third-party estimate rather than an audited company headcount. Revelio reports that Labcorp’s estimated workforce was down about 0.2% year over year and roughly 4.0% below a 2023 peak of 74,148 employees. The geographic distribution remains concentrated in the United States, which accounts for about 39,246 employees, or 55.8% of the estimated total. India represents approximately 10,971 employees, or 15.6%, and Canada about 5,490, or 7.8%. Revelio also estimates that Labcorp’s largest functional groups are Finance and Operations at 29,273 employees, or 41.6% of the workforce; Engineering at 27,266, or 38.7%; and Sales and Marketing at 13,836, or 19.7%. The page reports 3,211 active job postings in 2026 and a hiring velocity of about 2,447 new roles per month. Some of Revelio’s job-posting comparisons are internally inconsistent, so those figures are best read as directional indicators rather than exact company disclosures. The overall profile points to a broadly stable workforce entering 2026, with most employees concentrated in North America and a substantial operating and technical presence in India.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T00:49:37+05:30",
+      "summary_evidence": [
+        "https://www.reveliolabs.com/companies/labcorp-holdings/employees/"
+      ]
     },
     {
       "id": "4182f5e29fb587888231",
@@ -1490,6 +1453,44 @@
       ],
       "coverage_count": 6,
       "event_signature": "376k com delaney investing mark sells shares svp"
+    },
+    {
+      "id": "1be2ec1321dc39f0df29",
+      "company": "Labcorp",
+      "title": "Labcorp earnings ahead: Can specialty tests sustain momentum?",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5",
+      "description": "Investing.com’s July 29 preview framed Labcorp’s second-quarter 2026 report around whether specialty testing could sustain the company’s first-quarter momentum. Analysts expected adjusted earnings of $4.78 per share and revenue of $3.71 billion for the quarter ended June 30, implying year-over-year growth of 9.9% and 5.1%, respectively. Labcorp had reported first-quarter adjusted EPS of $4.25 on revenue of $3.54 billion, both above analyst expectations, and had raised its full-year outlook after that quarter. The article highlighted specialty diagnostics as a key growth lever, including oncology, women’s health, neurology and autoimmune testing, with particular attention to liquid biopsy and minimal-residual-disease applications. It also pointed to the company’s planned Marker by Labcorp consumer genetics launch, a 163-gene panel covering hereditary cancer, cardiovascular and metabolic risks, as part of a broader direct-access testing strategy. Investing.com cited expectations that direct-to-consumer testing could grow faster than the overall diagnostics market, while noting that the investment case depended on converting specialty-test demand into sustained earnings growth. Wall Street sentiment remained positive immediately before the report: 14 of 19 analysts rated Labcorp a buy and five rated it a hold, with a consensus price target of $312.35 versus a share price of $314.23, near its 52-week high of $315.77. The piece was a pre-earnings assessment, not a report of the subsequent quarter’s actual results.",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-07-29T07:00:00+00:00",
+      "published_display": "29 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-07-29T07:00:00+00:00"
+        },
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "ahead can earnings momentum specialty sustain tests",
+      "source_description": "Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com",
+      "chatgpt_summary": "Investing.com’s July 29 preview framed Labcorp’s second-quarter 2026 report around whether specialty testing could sustain the company’s first-quarter momentum. Analysts expected adjusted earnings of $4.78 per share and revenue of $3.71 billion for the quarter ended June 30, implying year-over-year growth of 9.9% and 5.1%, respectively. Labcorp had reported first-quarter adjusted EPS of $4.25 on revenue of $3.54 billion, both above analyst expectations, and had raised its full-year outlook after that quarter. The article highlighted specialty diagnostics as a key growth lever, including oncology, women’s health, neurology and autoimmune testing, with particular attention to liquid biopsy and minimal-residual-disease applications. It also pointed to the company’s planned Marker by Labcorp consumer genetics launch, a 163-gene panel covering hereditary cancer, cardiovascular and metabolic risks, as part of a broader direct-access testing strategy. Investing.com cited expectations that direct-to-consumer testing could grow faster than the overall diagnostics market, while noting that the investment case depended on converting specialty-test demand into sustained earnings growth. Wall Street sentiment remained positive immediately before the report: 14 of 19 analysts rated Labcorp a buy and five rated it a hold, with a consensus price target of $312.35 versus a share price of $314.23, near its 52-week high of $315.77. The piece was a pre-earnings assessment, not a report of the subsequent quarter’s actual results.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T00:49:37+05:30",
+      "summary_evidence": [
+        "https://m.za.investing.com/news/earnings/labcorp-earnings-ahead-can-specialty-tests-sustain-momentum-93CH-4393975?ampMode=1"
+      ]
     },
     {
       "id": "62bbf9d01e537be1d528",
@@ -2785,7 +2786,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Q2 2026 Earnings Call Summary",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
-      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "description": "Quest Diagnostics’ second-quarter 2026 earnings call described broad, volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Total requisition volume increased 13.1%. Management said the Corewell Health and Fresenius Medical Care collaborations contributed about 9% of total volume, while revenue per requisition increased 2.9% excluding business-mix effects. Tests per requisition have risen to more than 4.5 from a pre-COVID range of roughly 3.5–4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. Management nevertheless flagged margin pressure from wages, fuel, Project Nova and newer collaborations, partly offset by automation and the Invigorate program’s roughly 3% annual cost-savings target. The company expects its new Michigan laboratory supporting the Corewell relationship to be operational in early 2027 and plans a nationwide Flatiron Health OncoEMR rollout later in 2026 to simplify oncology-test ordering for about 4,700 clinicians. Management maintained an estimated 30-basis-point revenue headwind from ACA exchange-subsidy expiration and reported no meaningful deterioration in bad debt.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -2850,7 +2851,16 @@
         }
       ],
       "coverage_count": 9,
-      "event_signature": "2026 call earnings summary"
+      "event_signature": "2026 call earnings summary",
+      "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "chatgpt_summary": "Quest Diagnostics’ second-quarter 2026 earnings call described broad, volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Total requisition volume increased 13.1%. Management said the Corewell Health and Fresenius Medical Care collaborations contributed about 9% of total volume, while revenue per requisition increased 2.9% excluding business-mix effects. Tests per requisition have risen to more than 4.5 from a pre-COVID range of roughly 3.5–4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. Management nevertheless flagged margin pressure from wages, fuel, Project Nova and newer collaborations, partly offset by automation and the Invigorate program’s roughly 3% annual cost-savings target. The company expects its new Michigan laboratory supporting the Corewell relationship to be operational in early 2027 and plans a nationwide Flatiron Health OncoEMR rollout later in 2026 to simplify oncology-test ordering for about 4,700 clinicians. Management maintained an estimated 30-basis-point revenue headwind from ACA exchange-subsidy expiration and reported no meaningful deterioration in bad debt.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T00:49:37+05:30",
+      "summary_evidence": [
+        "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-incorporated-q2-2026-003056844.html",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "1913eec7daaa3590f8a9",
@@ -3895,7 +3905,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFVnUVhlMHlFRHN2MU5lQldHOWx0RFJNWjJXdzJ6VkhoWWRXRVZ6aF9UTmhlbWRPclhUVVZKbkNycHBXd0dIRVhnYkZzODlBeUtzSi1vWW1vLWtUaXpUck1KTXRLZmZWZF9KYXY5UzNCNjZKaDFFS2pYa1Zwb2dqZlhXdU96TkFxNDcyalcyQWVhQldsQXBsSktBTzhZcGFSbk05WVRBVFFQZkRQQTV2YUxjVnlUOUR6VTlUUFJtWUg2ZWZrQTRDVXV3S0FYWVJTdWpycWdR?oc=5",
-      "description": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase dars.gov.et",
+      "description": "Quest Diagnostics reported first-quarter 2026 net revenue of $2.895 billion, up 9.2% from a year earlier, with 9.0% organic revenue growth. Diagnostic Information Services revenue increased 9.4% to $2.832 billion. Total requisition volume rose 10.9%, including 10.8% organic growth, while revenue per requisition declined 1.3%. Reported operating income increased 15.5% to $399 million and operating margin improved to 13.8% from 13.0%. Net income attributable to Quest rose 14.4% to $252 million, and reported diluted EPS increased 15.5% to $2.24. Adjusted operating income was $447 million, up 10.1%, with a 15.4% margin, while adjusted diluted EPS rose 13.1% to $2.50. Operating cash flow was $278 million and capital expenditures were $114 million. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.78–$11.90 billion from $11.70–$11.82 billion. Reported diluted EPS guidance increased to $9.58–$9.78 from $9.45–$9.65, and adjusted diluted EPS guidance rose to $10.63–$10.83 from $10.50–$10.70. Expected operating cash flow remained approximately $1.75 billion and capital spending about $550 million. Management highlighted strong physician, hospital and consumer demand, double-digit Advanced Diagnostics growth and expansion of collaborations with Corewell Health and Fresenius Medical Care as important operating drivers.",
       "source": "dars.gov.et",
       "source_url": "https://www.dars.gov.et",
       "source_domain": "dars.gov.et",
@@ -3918,13 +3928,21 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
+      "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume",
+      "source_description": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase dars.gov.et",
+      "chatgpt_summary": "Quest Diagnostics reported first-quarter 2026 net revenue of $2.895 billion, up 9.2% from a year earlier, with 9.0% organic revenue growth. Diagnostic Information Services revenue increased 9.4% to $2.832 billion. Total requisition volume rose 10.9%, including 10.8% organic growth, while revenue per requisition declined 1.3%. Reported operating income increased 15.5% to $399 million and operating margin improved to 13.8% from 13.0%. Net income attributable to Quest rose 14.4% to $252 million, and reported diluted EPS increased 15.5% to $2.24. Adjusted operating income was $447 million, up 10.1%, with a 15.4% margin, while adjusted diluted EPS rose 13.1% to $2.50. Operating cash flow was $278 million and capital expenditures were $114 million. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.78–$11.90 billion from $11.70–$11.82 billion. Reported diluted EPS guidance increased to $9.58–$9.78 from $9.45–$9.65, and adjusted diluted EPS guidance rose to $10.63–$10.83 from $10.50–$10.70. Expected operating cash flow remained approximately $1.75 billion and capital spending about $550 million. Management highlighted strong physician, hospital and consumer demand, double-digit Advanced Diagnostics growth and expansion of collaborations with Corewell Health and Fresenius Medical Care as important operating drivers.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T00:49:37+05:30",
+      "summary_evidence": [
+        "https://newsroom.questdiagnostics.com/2026-04-21-Quest-Diagnostics-Reports-First-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 20,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-14T00:17:00+05:30",
-  "next_update_display": "14 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-14T06:17:00+05:30",
+  "next_update_display": "14 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

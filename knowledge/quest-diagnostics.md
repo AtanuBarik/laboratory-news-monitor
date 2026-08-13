@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 13 Aug 2026, 9:38 PM IST
+- **Repository generated:** 14 Aug 2026, 1:02 AM IST
 - **Distinct events in this file:** 57
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,7 +22,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 12 Aug 2026
 - **Category:** Financials
-- **Coverage count:** 7
+- **Coverage count:** 9
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5
@@ -32,8 +32,10 @@
   - AOL.com: https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5
   - MarketBeat: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUtFc1lHd2xSYWhVcVNXd3BIMWhDR242QTl3VmFrejN6dDlTN2RiRC11NlhYYWNMTG5maEg3SlZmSS1CU0NXeEo3djJHdmFsblZIRE9sUDV1d3RIVHl4c01IaEJINmFaNzluUS1LTXFJcHNnMDZiTFFTMkUxWFZvaVZnNEszY2lSR3BBSExxd3J5bFMzU3MwckwtYS1mM0ZmWHZ3VFFEM0s3SGw2NHliUFpQLWVUaWVvZFZHWnlYenNiQQ?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVRJd3VpLW1iVEo4VkRKdGxfb3QzaE5EQkdkN25UNm50RXNYdC1GT3NZbDB6bklTQXgyWVNJTjJNVFpGTmdtOTZIeW14T1h5S3lNS3paTW50d0dSYVBIVE1iUGtJNVVoVkRzUzQ4M1FOcjBSQ3EtZ3JNMVNvNkJxbWJlcDcwcUw5OHAyRXNCX0FJcXhSVjBESi13dm1mMlc4MzhyVDFORTZzVDQtZUlZ?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTVkNWRZeGhXLU9RMHY0cGNHbmN2ZkpDcDNyUFFvN01uSkV6UUdhVXRMZkZPUjVWbERLdXM2MVp1dlpCdnVzWnlPNW1tTno1ZWhmZUNEYkE2bDZaN3FCZ19Vek5RejJjbHhPbHA5WmRWZmFwOW5lRjVkSUZXRmkyQU9wUjlTamd4WXp4NnY2VVNHakhRaVhJVERXcjRyRjdtb1IzbmhKb1FxVXpXWVJZ?oc=5
 
-**Feed description:** Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada
+**Feed description:** Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com South Africa
 
 ## 3. Quest Diagnostics Schedule An Apptsoundnik Detail
 
@@ -618,7 +620,7 @@
   - scanx.trade: https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5
   - Kalkine Media: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5
 
-**Feed description:** Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.
+**Feed description:** Quest Diagnostics’ second-quarter 2026 earnings call described broad, volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Total requisition volume increased 13.1%. Management said the Corewell Health and Fresenius Medical Care collaborations contributed about 9% of total volume, while revenue per requisition increased 2.9% excluding business-mix effects. Tests per requisition have risen to more than 4.5 from a pre-COVID range of roughly 3.5–4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. Management nevertheless flagged margin pressure from wages, fuel, Project Nova and newer collaborations, partly offset by automation and the Invigorate program’s roughly 3% annual cost-savings target. The company expects its new Michigan laboratory supporting the Corewell relationship to be operational in early 2027 and plans a nationwide Flatiron Health OncoEMR rollout later in 2026 to simplify oncology-test ordering for about 4,700 clinicians. Management maintained an estimated 30-basis-point revenue headwind from ACA exchange-subsidy expiration and reported no meaningful deterioration in bad debt.
 
 ## 48. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
 
@@ -766,4 +768,4 @@
   - dars.gov.et: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFVnUVhlMHlFRHN2MU5lQldHOWx0RFJNWjJXdzJ6VkhoWWRXRVZ6aF9UTmhlbWRPclhUVVZKbkNycHBXd0dIRVhnYkZzODlBeUtzSi1vWW1vLWtUaXpUck1KTXRLZmZWZF9KYXY5UzNCNjZKaDFFS2pYa1Zwb2dqZlhXdU96TkFxNDcyalcyQWVhQldsQXBsSktBTzhZcGFSbk05WVRBVFFQZkRQQTV2YUxjVnlUOUR6VTlUUFJtWUg2ZWZrQTRDVXV3S0FYWVJTdWpycWdR?oc=5
   - dars.gov.et: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1FFUTFnMHA5dDNPTlhnR1lfeFJlQlBNck1pUXRoZm9XY2JkU2tLNUVQOE9KZDA2UXRGbjhVSWFNdWFtem13N1lXMGVjMWVDTjdDakRreEpmVVBVS1JtVUhTS2lJRjNQaU9Kd1R1eEdNX2c0ZjlTOG4wTXdUNFRVcWZWS2VCNDZzdndRMTd2VnlRcU1xYlZDLVdwOFgwYjZ3UU1NTHlHV0Fvakp5Z01uY05vYlUwT1hoQ01PRTQxRlNNd1NIRXNFR3pXR3VNRC1TQm5NMmRB?oc=5
 
-**Feed description:** Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase dars.gov.et
+**Feed description:** Quest Diagnostics reported first-quarter 2026 net revenue of $2.895 billion, up 9.2% from a year earlier, with 9.0% organic revenue growth. Diagnostic Information Services revenue increased 9.4% to $2.832 billion. Total requisition volume rose 10.9%, including 10.8% organic growth, while revenue per requisition declined 1.3%. Reported operating income increased 15.5% to $399 million and operating margin improved to 13.8% from 13.0%. Net income attributable to Quest rose 14.4% to $252 million, and reported diluted EPS increased 15.5% to $2.24. Adjusted operating income was $447 million, up 10.1%, with a 15.4% margin, while adjusted diluted EPS rose 13.1% to $2.50. Operating cash flow was $278 million and capital expenditures were $114 million. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.78–$11.90 billion from $11.70–$11.82 billion. Reported diluted EPS guidance increased to $9.58–$9.78 from $9.45–$9.65, and adjusted diluted EPS guidance rose to $10.63–$10.83 from $10.50–$10.70. Expected operating cash flow remained approximately $1.75 billion and capital spending about $550 million. Management highlighted strong physician, hospital and consumer demand, double-digit Advanced Diagnostics growth and expansion of collaborations with Corewell Health and Fresenius Medical Care as important operating drivers.
