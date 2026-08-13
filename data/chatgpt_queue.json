@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T12:30:19.560317+05:30",
-  "generated_at_display": "13 Aug 2026, 12:30 PM IST",
+  "generated_at": "2026-08-13T12:50:53.264087+05:30",
+  "generated_at_display": "13 Aug 2026, 12:50 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 57,
+  "remaining_unsummarized_count": 55,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -124,44 +124,68 @@
       ]
     },
     {
-      "id": "bc46eed3f7f6254d7f8f",
+      "id": "1a3489939ae2ee42c508",
       "company": "Quest Diagnostics",
       "category": "Financials",
-      "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
-      "source": "TradingKey",
-      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
-      "published_at": "2026-07-25T03:19:36+00:00",
-      "published_display": "25 Jul 2026",
+      "title": "Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
+      "source": "PR Newswire",
+      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
+      "coverage_count": 10,
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
       "sources": [
         {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5"
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5"
+        },
+        {
+          "name": "quiverquant.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5"
         }
       ]
     },
     {
-      "id": "2f0dbf1fbedc8f5d392e",
+      "id": "c72d0b6434beac76ee08",
       "company": "Quest Diagnostics",
       "category": "Financials",
-      "title": "Quest Diagnostics raises annual forecast on testing demand",
-      "source": "Reuters",
-      "description": "Quest Diagnostics raises annual forecast on testing demand TradingView",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
+      "title": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News",
+      "source": "quiverquant.com",
+      "description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News quiverquant.com",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "published_display": "22 Jul 2026",
       "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5",
       "sources": [
         {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXpoTjluNk1vbHlYSGJVOEt6OWl2NFRieG8wQTcwMnRBTWlVTzZoc09lenltaHJEenVERlIwb0JGVlc5Vlk3NGc5WlpRZ2dmTUdMRk9yRE5kcWxnb3RuaktlRWxOQjdacFNRX2pkenh0WW9xdXFlMU9UVmZpdk1IY0pIY01XVlNWQ0tBSXJoWmJaV1JVYW1fVXZLUkdRZ1VKaUtkZVFhclcxZHlhc0tPVnFPMHJpWDdtTVVDU0VZUnptQ0Nkb3g0?oc=5"
+          "name": "quiverquant.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5"
         }
       ]
     },
@@ -181,25 +205,6 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c29d4bd11fd2989f4864",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History",
-      "source": "GuruFocus",
-      "description": "IVY LANE CAPITAL MANAGEMENT, LLC's Quest Diagnostics Inc(DGX) Holding History GuruFocus",
-      "published_at": "2026-08-09T08:46:43+00:00",
-      "published_display": "09 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5",
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5"
         }
       ]
     },
@@ -299,25 +304,6 @@
         {
           "name": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cb3a99800d7bb46a55b2",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp Declares Cash Dividend of $0.72 Per S",
-      "source": "GuruFocus",
-      "description": "Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus",
-      "published_at": "2026-07-10T07:00:00+00:00",
-      "published_display": "10 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5",
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5"
         }
       ]
     },
@@ -655,6 +641,44 @@
         {
           "name": "tradersunion.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1b818375b8fafc32848d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics SVP & Chief Commercial Officer Mark Dela",
+      "source": "GuruFocus",
+      "description": "Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus",
+      "published_at": "2026-07-30T15:02:27+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5",
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ae7da1f27bd119f8422",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
+      "source": "IR Impact",
+      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
+      "published_at": "2026-07-30T12:08:02+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
+      "sources": [
+        {
+          "name": "IR Impact",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5"
         }
       ]
     }

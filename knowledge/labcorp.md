@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 13 Aug 2026, 11:34 AM IST
+- **Repository generated:** 13 Aug 2026, 12:50 PM IST
 - **Distinct events in this file:** 36
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -527,7 +527,7 @@
 - **Sources:**
   - GuruFocus: https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5
 
-**Feed description:** Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus
+**Feed description:** Labcorp announced on July 9, 2026 that its Board of Directors declared a cash dividend of $0.72 per share of common stock. The dividend is payable September 11, 2026 to shareholders of record as of the close of business on August 28, 2026. The announcement is a routine capital-return action and does not introduce a change to Labcorp’s operating guidance, product portfolio or organizational structure. In the same release, Labcorp described itself as a global provider of diagnostics and drug-development laboratory services serving physicians, hospitals, pharmaceutical companies, researchers and patients. The company said it has nearly 71,000 employees and serves clients in approximately 100 countries. It also stated that its laboratory capabilities supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025 and that it performed more than 750 million patient tests worldwide. Those company-profile metrics provide scale context for the dividend declaration but are not separate financial results. The material action in the article is the board-approved $0.72-per-share distribution, with the August 28 record date and September 11 payment date determining shareholder eligibility.
 
 ## 36. Labcorp Declares Quarterly Dividend
 

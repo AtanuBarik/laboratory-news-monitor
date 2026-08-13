@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-13T11:34:55.804902+05:30",
-  "generated_at_display": "13 Aug 2026, 11:34 AM IST",
-  "item_count": 96,
-  "raw_relevant_item_count": 283,
-  "duplicates_merged": 79,
+  "generated_at": "2026-08-13T12:50:50.052224+05:30",
+  "generated_at_display": "13 Aug 2026, 12:50 PM IST",
+  "item_count": 98,
+  "raw_relevant_item_count": 282,
+  "duplicates_merged": 81,
   "failures": [],
   "items": [
     {
@@ -425,7 +425,7 @@
       "company": "Quest Diagnostics",
       "title": "IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5",
-      "description": "IVY LANE CAPITAL MANAGEMENT, LLC's Quest Diagnostics Inc(DGX) Holding History GuruFocus",
+      "description": "GuruFocus’s Ivy Lane Capital Management portfolio page shows that Quest Diagnostics remained one of the investment manager’s five largest reported U.S. equity positions in its latest available Form 13F data. For the quarter ended March 31, 2026, Ivy Lane reported 11 holdings with a portfolio value of about $66 million and a 10% turnover rate. Quest represented 8.59% of the portfolio, behind Alphabet, BlackRock, AT&T and Union Pacific. SEC-derived holdings data independently show Ivy Lane owned 29,000 Quest common shares valued at approximately $5.7 million at quarter-end, with sole voting authority. Holdings Channel reports the Quest share count was unchanged from December 31, 2025, when the same 29,000 shares were valued at about $5.0 million. Ivy Lane’s total reported portfolio value declined from roughly $79.1 million at year-end 2025 to $66.15 million at March 31, 2026, while the Quest position remained intact. The filing therefore documents continuity in one institutional investor’s Quest stake, not a new purchase, sale, strategic investment or company transaction. It also does not indicate any operating, clinical or management change at Quest Diagnostics; it is an ownership disclosure based on quarterly 13F reporting.",
       "source": "GuruFocus",
       "source_url": "https://www.gurufocus.com",
       "source_domain": "gurufocus.com",
@@ -442,7 +442,17 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "capital history holding ivy lane management"
+      "event_signature": "capital history holding ivy lane management",
+      "source_description": "IVY LANE CAPITAL MANAGEMENT, LLC's Quest Diagnostics Inc(DGX) Holding History GuruFocus",
+      "chatgpt_summary": "GuruFocus’s Ivy Lane Capital Management portfolio page shows that Quest Diagnostics remained one of the investment manager’s five largest reported U.S. equity positions in its latest available Form 13F data. For the quarter ended March 31, 2026, Ivy Lane reported 11 holdings with a portfolio value of about $66 million and a 10% turnover rate. Quest represented 8.59% of the portfolio, behind Alphabet, BlackRock, AT&T and Union Pacific. SEC-derived holdings data independently show Ivy Lane owned 29,000 Quest common shares valued at approximately $5.7 million at quarter-end, with sole voting authority. Holdings Channel reports the Quest share count was unchanged from December 31, 2025, when the same 29,000 shares were valued at about $5.0 million. Ivy Lane’s total reported portfolio value declined from roughly $79.1 million at year-end 2025 to $66.15 million at March 31, 2026, while the Quest position remained intact. The filing therefore documents continuity in one institutional investor’s Quest stake, not a new purchase, sale, strategic investment or company transaction. It also does not indicate any operating, clinical or management change at Quest Diagnostics; it is an ownership disclosure based on quarterly 13F reporting.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T12:40:12+05:30",
+      "summary_evidence": [
+        "https://www.gurufocus.com/guru/ivy%2Blane%2Bcapital%2Bmanagement%2C%2Bllc/current-portfolio/top-yield",
+        "https://www.mondegar.ai/filings/0001839851-26-000002",
+        "https://www.holdingschannel.com/13f/ivy-lane-capital-management-llc-top-holdings/"
+      ]
     },
     {
       "id": "ef01db00ce5a4ff25908",
@@ -2242,7 +2252,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "description": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party market-expectations snapshot rather than company-issued guidance. In the version updated July 28, 2026, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 companies in Healthcare Providers & Services. Its analyst-rating panel was based on 19 analysts and labeled the consensus “Buy.” The page listed expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. It also said the prior quarter’s market EPS expectation was $2.87 and displayed prior-quarter EPS of $2.28. TradingKey’s target-price information is internally inconsistent: the main forecast text and FAQ give an average target of $198.00, with a $215.00 high and $169.18 low, while a separate analyst-rating panel shows a $239.015 target and 4.90% upside. Because those figures conflict within the same page, they should not be treated as a single precise consensus estimate. The article is therefore best read as an analyst-model dashboard showing generally positive external sentiment and near-term earnings expectations, not as evidence that Quest changed its own financial outlook.",
       "source": "TradingKey",
       "source_url": "https://www.tradingkey.com",
       "source_domain": "tradingkey.com",
@@ -2259,7 +2269,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "earnings eps estimates forecast future growth revenue"
+      "event_signature": "earnings eps estimates forecast future growth revenue",
+      "source_description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
+      "chatgpt_summary": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party market-expectations snapshot rather than company-issued guidance. In the version updated July 28, 2026, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 companies in Healthcare Providers & Services. Its analyst-rating panel was based on 19 analysts and labeled the consensus “Buy.” The page listed expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. It also said the prior quarter’s market EPS expectation was $2.87 and displayed prior-quarter EPS of $2.28. TradingKey’s target-price information is internally inconsistent: the main forecast text and FAQ give an average target of $198.00, with a $215.00 high and $169.18 low, while a separate analyst-rating panel shows a $239.015 target and 4.90% upside. Because those figures conflict within the same page, they should not be treated as a single precise consensus estimate. The article is therefore best read as an analyst-model dashboard showing generally positive external sentiment and near-term earnings expectations, not as evidence that Quest changed its own financial outlook.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T12:40:12+05:30",
+      "summary_evidence": [
+        "https://www.tradingkey.com/markets/stocks/dgx/earnings"
+      ]
     },
     {
       "id": "cf76d1979ce6b46d85e5",
@@ -2585,7 +2603,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics raises annual forecast on testing demand",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
-      "description": "Quest Diagnostics raises annual forecast on testing demand TradingView",
+      "description": "Reuters reported that Quest Diagnostics raised its full-year 2026 profit forecast after routine diagnostic-testing demand helped the company beat second-quarter expectations. Revenue was $3.04 billion, above the $2.97 billion average analyst estimate compiled by LSEG, while adjusted profit was $3.12 per share versus $2.83 expected. Diagnostic Information Services revenue, Quest’s largest business, increased 10.3% year over year to $2.98 billion. Requisition volume rose 13.1%, including 13.0% organic volume growth. Quest said testing demand was strong across physician, hospital and consumer channels, and it recorded double-digit growth in Advanced Diagnostics areas including Alzheimer’s blood testing, advanced cardiometabolic testing and liver-fibrosis testing. The company raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion, above the $11.85 billion analyst estimate cited by Reuters. Adjusted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83, compared with the $10.76 analyst estimate. Reuters said Quest shares rose about 5% in premarket trading after the results and quoted Barclays analysts describing the quarter as well above broad expectations. The report ties the guidance increase directly to sustained testing demand and higher volumes rather than a one-time transaction.",
       "source": "Reuters",
       "source_url": "https://www.reuters.com",
       "source_domain": "reuters.com",
@@ -2608,7 +2626,94 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "annual demand forecast raises testing"
+      "event_signature": "annual demand forecast raises testing",
+      "source_description": "Quest Diagnostics raises annual forecast on testing demand TradingView",
+      "chatgpt_summary": "Reuters reported that Quest Diagnostics raised its full-year 2026 profit forecast after routine diagnostic-testing demand helped the company beat second-quarter expectations. Revenue was $3.04 billion, above the $2.97 billion average analyst estimate compiled by LSEG, while adjusted profit was $3.12 per share versus $2.83 expected. Diagnostic Information Services revenue, Quest’s largest business, increased 10.3% year over year to $2.98 billion. Requisition volume rose 13.1%, including 13.0% organic volume growth. Quest said testing demand was strong across physician, hospital and consumer channels, and it recorded double-digit growth in Advanced Diagnostics areas including Alzheimer’s blood testing, advanced cardiometabolic testing and liver-fibrosis testing. The company raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion, above the $11.85 billion analyst estimate cited by Reuters. Adjusted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83, compared with the $10.76 analyst estimate. Reuters said Quest shares rose about 5% in premarket trading after the results and quoted Barclays analysts describing the quarter as well above broad expectations. The report ties the guidance increase directly to sustained testing demand and higher volumes rather than a one-time transaction.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T12:40:12+05:30",
+      "summary_evidence": [
+        "https://wkzo.com/2026/07/23/quest-diagnostics-raises-annual-forecast-on-testing-demand/",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
+    },
+    {
+      "id": "1a3489939ae2ee42c508",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
+      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "quiverquant.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5",
+          "domain": "scanx.trade",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 10,
+      "event_signature": "2026 eps financial full guidance quarter raises results revenue second year"
     },
     {
       "id": "1913eec7daaa3590f8a9",
@@ -3042,6 +3147,30 @@
       "event_signature": "cards earnings prepares report what"
     },
     {
+      "id": "c72d0b6434beac76ee08",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5",
+      "description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News quiverquant.com",
+      "source": "quiverquant.com",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "published_display": "22 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "quiverquant.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-07-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "ahead earnings growth initiatives investors rallies stock weigh"
+    },
+    {
       "id": "03c2890fe00da27f1759",
       "company": "Labcorp",
       "title": "Will Labcorp Beat Estimates Again in Its Next Earnings Report?",
@@ -3239,7 +3368,7 @@
       "source_domain": "news.google.com",
       "published_at": "2026-07-14T07:00:00+00:00",
       "published_display": "14 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -3427,7 +3556,7 @@
       "company": "Labcorp",
       "title": "Labcorp Declares Cash Dividend of $0.72 Per S",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5",
-      "description": "Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus",
+      "description": "Labcorp announced on July 9, 2026 that its Board of Directors declared a cash dividend of $0.72 per share of common stock. The dividend is payable September 11, 2026 to shareholders of record as of the close of business on August 28, 2026. The announcement is a routine capital-return action and does not introduce a change to Labcorp’s operating guidance, product portfolio or organizational structure. In the same release, Labcorp described itself as a global provider of diagnostics and drug-development laboratory services serving physicians, hospitals, pharmaceutical companies, researchers and patients. The company said it has nearly 71,000 employees and serves clients in approximately 100 countries. It also stated that its laboratory capabilities supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025 and that it performed more than 750 million patient tests worldwide. Those company-profile metrics provide scale context for the dividend declaration but are not separate financial results. The material action in the article is the board-approved $0.72-per-share distribution, with the August 28 record date and September 11 payment date determining shareholder eligibility.",
       "source": "GuruFocus",
       "source_url": "https://www.gurufocus.com",
       "source_domain": "gurufocus.com",
@@ -3444,7 +3573,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "cash declares dividend per"
+      "event_signature": "cash declares dividend per",
+      "source_description": "Labcorp Holdings Inc. (LH) Declares Cash Dividend of $0.72 Per S GuruFocus",
+      "chatgpt_summary": "Labcorp announced on July 9, 2026 that its Board of Directors declared a cash dividend of $0.72 per share of common stock. The dividend is payable September 11, 2026 to shareholders of record as of the close of business on August 28, 2026. The announcement is a routine capital-return action and does not introduce a change to Labcorp’s operating guidance, product portfolio or organizational structure. In the same release, Labcorp described itself as a global provider of diagnostics and drug-development laboratory services serving physicians, hospitals, pharmaceutical companies, researchers and patients. The company said it has nearly 71,000 employees and serves clients in approximately 100 countries. It also stated that its laboratory capabilities supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025 and that it performed more than 750 million patient tests worldwide. Those company-profile metrics provide scale context for the dividend declaration but are not separate financial results. The material action in the article is the board-approved $0.72-per-share distribution, with the August 28 record date and September 11 payment date determining shareholder eligibility.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T12:40:12+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-declares-quarterly-dividend-15"
+      ]
     },
     {
       "id": "1159287dbc84613c0eec",
@@ -3620,10 +3757,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 21,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-13T12:17:00+05:30",
-  "next_update_display": "13 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-13T18:17:00+05:30",
+  "next_update_display": "13 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
