@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-13T06:36:07+05:30",
-  "updated_at_display": "13 Aug 2026, 6:36 AM IST",
+  "updated_at": "2026-08-13T12:40:12+05:30",
+  "updated_at_display": "13 Aug 2026, 12:40 PM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -561,6 +561,46 @@
       "company": "Quest Diagnostics",
       "category": "Financials",
       "sources_used": ["https://www.zacks.com/stock/news/2953193/quest-diagnostics-to-report-q2-earnings-key-customer-channels-in-focus"],
+      "verification": "verified"
+    },
+    "bc46eed3f7f6254d7f8f": {
+      "summary": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party market-expectations snapshot rather than company-issued guidance. In the version updated July 28, 2026, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 companies in Healthcare Providers & Services. Its analyst-rating panel was based on 19 analysts and labeled the consensus “Buy.” The page listed expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. It also said the prior quarter’s market EPS expectation was $2.87 and displayed prior-quarter EPS of $2.28. TradingKey’s target-price information is internally inconsistent: the main forecast text and FAQ give an average target of $198.00, with a $215.00 high and $169.18 low, while a separate analyst-rating panel shows a $239.015 target and 4.90% upside. Because those figures conflict within the same page, they should not be treated as a single precise consensus estimate. The article is therefore best read as an analyst-model dashboard showing generally positive external sentiment and near-term earnings expectations, not as evidence that Quest changed its own financial outlook.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T12:40:12+05:30",
+      "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.tradingkey.com/markets/stocks/dgx/earnings"],
+      "verification": "verified"
+    },
+    "2f0dbf1fbedc8f5d392e": {
+      "summary": "Reuters reported that Quest Diagnostics raised its full-year 2026 profit forecast after routine diagnostic-testing demand helped the company beat second-quarter expectations. Revenue was $3.04 billion, above the $2.97 billion average analyst estimate compiled by LSEG, while adjusted profit was $3.12 per share versus $2.83 expected. Diagnostic Information Services revenue, Quest’s largest business, increased 10.3% year over year to $2.98 billion. Requisition volume rose 13.1%, including 13.0% organic volume growth. Quest said testing demand was strong across physician, hospital and consumer channels, and it recorded double-digit growth in Advanced Diagnostics areas including Alzheimer’s blood testing, advanced cardiometabolic testing and liver-fibrosis testing. The company raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion, above the $11.85 billion analyst estimate cited by Reuters. Adjusted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83, compared with the $10.76 analyst estimate. Reuters said Quest shares rose about 5% in premarket trading after the results and quoted Barclays analysts describing the quarter as well above broad expectations. The report ties the guidance increase directly to sustained testing demand and higher volumes rather than a one-time transaction.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T12:40:12+05:30",
+      "title": "Quest Diagnostics raises annual forecast on testing demand",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://wkzo.com/2026/07/23/quest-diagnostics-raises-annual-forecast-on-testing-demand/", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "c29d4bd11fd2989f4864": {
+      "summary": "GuruFocus’s Ivy Lane Capital Management portfolio page shows that Quest Diagnostics remained one of the investment manager’s five largest reported U.S. equity positions in its latest available Form 13F data. For the quarter ended March 31, 2026, Ivy Lane reported 11 holdings with a portfolio value of about $66 million and a 10% turnover rate. Quest represented 8.59% of the portfolio, behind Alphabet, BlackRock, AT&T and Union Pacific. SEC-derived holdings data independently show Ivy Lane owned 29,000 Quest common shares valued at approximately $5.7 million at quarter-end, with sole voting authority. Holdings Channel reports the Quest share count was unchanged from December 31, 2025, when the same 29,000 shares were valued at about $5.0 million. Ivy Lane’s total reported portfolio value declined from roughly $79.1 million at year-end 2025 to $66.15 million at March 31, 2026, while the Quest position remained intact. The filing therefore documents continuity in one institutional investor’s Quest stake, not a new purchase, sale, strategic investment or company transaction. It also does not indicate any operating, clinical or management change at Quest Diagnostics; it is an ownership disclosure based on quarterly 13F reporting.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T12:40:12+05:30",
+      "title": "IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": ["https://www.gurufocus.com/guru/ivy%2Blane%2Bcapital%2Bmanagement%2C%2Bllc/current-portfolio/top-yield", "https://www.mondegar.ai/filings/0001839851-26-000002", "https://www.holdingschannel.com/13f/ivy-lane-capital-management-llc-top-holdings/"],
+      "verification": "verified"
+    },
+    "cb3a99800d7bb46a55b2": {
+      "summary": "Labcorp announced on July 9, 2026 that its Board of Directors declared a cash dividend of $0.72 per share of common stock. The dividend is payable September 11, 2026 to shareholders of record as of the close of business on August 28, 2026. The announcement is a routine capital-return action and does not introduce a change to Labcorp’s operating guidance, product portfolio or organizational structure. In the same release, Labcorp described itself as a global provider of diagnostics and drug-development laboratory services serving physicians, hospitals, pharmaceutical companies, researchers and patients. The company said it has nearly 71,000 employees and serves clients in approximately 100 countries. It also stated that its laboratory capabilities supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025 and that it performed more than 750 million patient tests worldwide. Those company-profile metrics provide scale context for the dividend declaration but are not separate financial results. The material action in the article is the board-approved $0.72-per-share distribution, with the August 28 record date and September 11 payment date determining shareholder eligibility.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-13T12:40:12+05:30",
+      "title": "Labcorp Declares Cash Dividend of $0.72 Per S",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://ir.labcorp.com/news-releases/news-release-details/labcorp-declares-quarterly-dividend-15"],
       "verification": "verified"
     }
   }
