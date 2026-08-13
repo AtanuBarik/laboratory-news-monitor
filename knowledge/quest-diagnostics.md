@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 13 Aug 2026, 4:10 PM IST
+- **Repository generated:** 13 Aug 2026, 7:00 PM IST
 - **Distinct events in this file:** 56
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,7 +22,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 12 Aug 2026
 - **Category:** Financials
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5
@@ -31,6 +31,7 @@
   - Investing.com UK: https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjdJZllLaEpSX0JXT2MzcEx2QUdLZElCampZTkY1aUhzeTFDYzlVNXlqQTZvWnlSUGNkblNXSDdEQW12YTNyVzNpakE0bXFKYUVuanZGZ0sycWpWcGVsT3FfakpVaDlLYUVxaFRaR19RalRiaDZ1amJqZHNkQWt4RkhsMnI3Rk9TSWhVaW9OTzRKYk9JdjJ4clVRWk1DSzJnMUwxVXVMVmJsUGxlcE1j?oc=5
   - AOL.com: https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5
+  - MarketBeat: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUtFc1lHd2xSYWhVcVNXd3BIMWhDR242QTl3VmFrejN6dDlTN2RiRC11NlhYYWNMTG5maEg3SlZmSS1CU0NXeEo3djJHdmFsblZIRE9sUDV1d3RIVHl4c01IaEJINmFaNzluUS1LTXFJcHNnMDZiTFFTMkUxWFZvaVZnNEszY2lSR3BBSExxd3J5bFMzU3MwckwtYS1mM0ZmWHZ3VFFEM0s3SGw2NHliUFpQLWVUaWVvZFZHWnlYenNiQQ?oc=5
 
 **Feed description:** Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada
 
@@ -193,7 +194,7 @@
 - **Sources:**
   - Tracxn: https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5
 
-**Feed description:** List of 22 Acquisitions by Quest Diagnostics (Aug 2026) tracxn.com
+**Feed description:** The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.
 
 ## 16. Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns
 
@@ -597,7 +598,7 @@
   - scanx.trade: https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5
   - Kalkine Media: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5
 
-**Feed description:** Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.
+**Feed description:** Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% year over year, with organic revenue growth of 10.0%. Diagnostic Information Services revenue rose 10.3% to $2.978 billion. Requisition volume increased 13.1%, including 13.0% organic growth, while revenue per requisition fell 2.8%. Reported operating income increased 4.6% to $459 million, but operating margin declined to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and reported diluted EPS increased 15.0% to $2.84. On an adjusted basis, operating income rose 7.8% to $502 million, margin was 16.5%, adjusted net income rose 17.3% to $350 million and adjusted diluted EPS increased 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Quest raised full-year 2026 guidance to revenue of $11.95-$12.05 billion, reported EPS of $9.97-$10.17 and adjusted EPS of $11.05-$11.25; operating cash flow is now expected at about $1.80 billion. The company also highlighted Corewell Health and Fresenius collaborations, double-digit Advanced Diagnostics growth, New York approval for Haystack MRD, Flatiron OncoEMR integration and continued laboratory automation. It repurchased about 0.5 million shares for $100 million in Q2, leaving $1.3 billion authorized.
 
 ## 47. Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com
 
@@ -621,7 +622,7 @@
 - **Sources:**
   - quiverquant.com: https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5
 
-**Feed description:** Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative
+**Feed description:** Quiver Quantitative reported that Quest Diagnostics shares rose 5.8% on July 22, one day before its scheduled second-quarter 2026 earnings release. The article framed the move as likely pre-earnings positioning rather than a newly disclosed operating event, pointing to Quest's first-quarter performance and recent oncology expansion as the main backdrop. Quest had reported 9.2% first-quarter revenue growth and raised its full-year 2026 revenue and adjusted EPS guidance in April. Quiver also highlighted two Haystack MRD developments that could support expectations for growth beyond routine laboratory testing. On July 8, Quest announced a pilot using Flatiron Health's OncoEMR Molecular Profiling Integration platform to expand access to select oncology tests, including Haystack MRD, for community oncology practices. In late June, New York State approved Haystack MRD, a circulating-tumor-DNA minimal residual disease test, expanding access for patients with solid tumors in that state. Quiver cited Quest Investor Relations, the Quest newsroom and Kiplinger as sources. The article explicitly described its explanation for the 5.8% stock move as analysis rather than a confirmed causal statement and disclosed that the price-movement analysis was generated with AI and should be checked for errors. The central business takeaway was therefore stronger operating momentum plus broader oncology-test access ahead of earnings, not a new company forecast.
 
 ## 49. Quest Diagnostics stock underperforms Monday when compared to competitors
 

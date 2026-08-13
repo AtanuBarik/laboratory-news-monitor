@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-13T16:10:50.513638+05:30",
-  "generated_at_display": "13 Aug 2026, 4:10 PM IST",
-  "item_count": 98,
+  "generated_at": "2026-08-13T19:00:40.997695+05:30",
+  "generated_at_display": "13 Aug 2026, 7:00 PM IST",
+  "item_count": 99,
   "raw_relevant_item_count": 286,
   "duplicates_merged": 82,
   "failures": [],
   "items": [
+    {
+      "id": "bf59ba3d72fa86b61827",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Diagnostic Services Market Outlook",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-13T11:13:00+00:00",
+      "published_display": "13 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-13T11:13:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "diagnostic market outlook services"
+    },
     {
       "id": "2c47099f711e79acda11",
       "company": "Quest Diagnostics",
@@ -79,9 +103,15 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-08-12T20:45:15+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUtFc1lHd2xSYWhVcVNXd3BIMWhDR242QTl3VmFrejN6dDlTN2RiRC11NlhYYWNMTG5maEg3SlZmSS1CU0NXeEo3djJHdmFsblZIRE9sUDV1d3RIVHl4c01IaEJINmFaNzluUS1LTXFJcHNnMDZiTFFTMkUxWFZvaVZnNEszY2lSR3BBSExxd3J5bFMzU3MwckwtYS1mM0ZmWHZ3VFFEM0s3SGw2NHliUFpQLWVUaWVvZFZHWnlYenNiQQ?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-08-13T11:56:40+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "cash declares dividend quarterly"
     },
     {
@@ -900,7 +930,7 @@
       "company": "Quest Diagnostics",
       "title": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026)",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
-      "description": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026) tracxn.com",
+      "description": "The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.",
       "source": "Tracxn",
       "source_url": "https://tracxn.com",
       "source_domain": "tracxn.com",
@@ -917,7 +947,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 acquisitions aug list"
+      "event_signature": "2026 acquisitions aug list",
+      "source_description": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026) tracxn.com",
+      "chatgpt_summary": "The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T18:38:44+05:30",
+      "summary_evidence": [
+        "https://docs.multiples.vc/public-comps/quest-diagnostics-valuation-multiples",
+        "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000015/dgx-20251231.htm"
+      ]
     },
     {
       "id": "e6a19feb628850b33858",
@@ -1717,9 +1756,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5",
           "domain": "ktvb.com",
           "published_at": "2026-07-30T10:58:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkVid1htWEpiWWhxSU5Eb1NSYUp5b2RGRUs4ZlFjOVo3NjBlY0hmc2x3MHdaMEJBd09TTlNwX3RaMVRNd2xzdVhhVWxza3o1dGFMOExPdGZNZWtSQzd1dksxRzhuQXFYZDhNd2QxTEF3SUZNNXBOZm9OSEZtVGR0di04ejRFa2V5VUxGY3dEeTBucVJqdkZuWTRzZDQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-31T07:00:00+00:00"
         }
       ],
-      "coverage_count": 28,
+      "coverage_count": 29,
       "event_signature": "earnings expect what",
       "source_description": "Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance Singapore",
       "chatgpt_summary": "Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.",
@@ -2648,7 +2693,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
-      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "description": "Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% year over year, with organic revenue growth of 10.0%. Diagnostic Information Services revenue rose 10.3% to $2.978 billion. Requisition volume increased 13.1%, including 13.0% organic growth, while revenue per requisition fell 2.8%. Reported operating income increased 4.6% to $459 million, but operating margin declined to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and reported diluted EPS increased 15.0% to $2.84. On an adjusted basis, operating income rose 7.8% to $502 million, margin was 16.5%, adjusted net income rose 17.3% to $350 million and adjusted diluted EPS increased 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Quest raised full-year 2026 guidance to revenue of $11.95-$12.05 billion, reported EPS of $9.97-$10.17 and adjusted EPS of $11.05-$11.25; operating cash flow is now expected at about $1.80 billion. The company also highlighted Corewell Health and Fresenius collaborations, double-digit Advanced Diagnostics growth, New York approval for Haystack MRD, Flatiron OncoEMR integration and continued laboratory automation. It repurchased about 0.5 million shares for $100 million in Q2, leaving $1.3 billion authorized.",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -2719,7 +2764,15 @@
         }
       ],
       "coverage_count": 10,
-      "event_signature": "2026 eps financial full guidance quarter raises results revenue second year"
+      "event_signature": "2026 eps financial full guidance quarter raises results revenue second year",
+      "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% year over year, with organic revenue growth of 10.0%. Diagnostic Information Services revenue rose 10.3% to $2.978 billion. Requisition volume increased 13.1%, including 13.0% organic growth, while revenue per requisition fell 2.8%. Reported operating income increased 4.6% to $459 million, but operating margin declined to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and reported diluted EPS increased 15.0% to $2.84. On an adjusted basis, operating income rose 7.8% to $502 million, margin was 16.5%, adjusted net income rose 17.3% to $350 million and adjusted diluted EPS increased 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Quest raised full-year 2026 guidance to revenue of $11.95-$12.05 billion, reported EPS of $9.97-$10.17 and adjusted EPS of $11.05-$11.25; operating cash flow is now expected at about $1.80 billion. The company also highlighted Corewell Health and Fresenius collaborations, double-digit Advanced Diagnostics growth, New York approval for Haystack MRD, Flatiron OncoEMR integration and continued laboratory automation. It repurchased about 0.5 million shares for $100 million in Q2, leaving $1.3 billion authorized.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T18:38:44+05:30",
+      "summary_evidence": [
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "1913eec7daaa3590f8a9",
@@ -3157,7 +3210,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5",
-      "description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative",
+      "description": "Quiver Quantitative reported that Quest Diagnostics shares rose 5.8% on July 22, one day before its scheduled second-quarter 2026 earnings release. The article framed the move as likely pre-earnings positioning rather than a newly disclosed operating event, pointing to Quest's first-quarter performance and recent oncology expansion as the main backdrop. Quest had reported 9.2% first-quarter revenue growth and raised its full-year 2026 revenue and adjusted EPS guidance in April. Quiver also highlighted two Haystack MRD developments that could support expectations for growth beyond routine laboratory testing. On July 8, Quest announced a pilot using Flatiron Health's OncoEMR Molecular Profiling Integration platform to expand access to select oncology tests, including Haystack MRD, for community oncology practices. In late June, New York State approved Haystack MRD, a circulating-tumor-DNA minimal residual disease test, expanding access for patients with solid tumors in that state. Quiver cited Quest Investor Relations, the Quest newsroom and Kiplinger as sources. The article explicitly described its explanation for the 5.8% stock move as analysis rather than a confirmed causal statement and disclosed that the price-movement analysis was generated with AI and should be checked for errors. The central business takeaway was therefore stronger operating momentum plus broader oncology-test access ahead of earnings, not a new company forecast.",
       "source": "quiverquant.com",
       "source_url": "https://www.quiverquant.com",
       "source_domain": "quiverquant.com",
@@ -3174,7 +3227,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "ahead earnings growth initiatives investors rallies stock weigh"
+      "event_signature": "ahead earnings growth initiatives investors rallies stock weigh",
+      "source_description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative",
+      "chatgpt_summary": "Quiver Quantitative reported that Quest Diagnostics shares rose 5.8% on July 22, one day before its scheduled second-quarter 2026 earnings release. The article framed the move as likely pre-earnings positioning rather than a newly disclosed operating event, pointing to Quest's first-quarter performance and recent oncology expansion as the main backdrop. Quest had reported 9.2% first-quarter revenue growth and raised its full-year 2026 revenue and adjusted EPS guidance in April. Quiver also highlighted two Haystack MRD developments that could support expectations for growth beyond routine laboratory testing. On July 8, Quest announced a pilot using Flatiron Health's OncoEMR Molecular Profiling Integration platform to expand access to select oncology tests, including Haystack MRD, for community oncology practices. In late June, New York State approved Haystack MRD, a circulating-tumor-DNA minimal residual disease test, expanding access for patients with solid tumors in that state. Quiver cited Quest Investor Relations, the Quest newsroom and Kiplinger as sources. The article explicitly described its explanation for the 5.8% stock move as analysis rather than a confirmed causal statement and disclosed that the price-movement analysis was generated with AI and should be checked for errors. The central business takeaway was therefore stronger operating momentum plus broader oncology-test access ahead of earnings, not a new company forecast.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T18:38:44+05:30",
+      "summary_evidence": [
+        "https://www.quiverquant.com/news/Quest%2BDiagnostics%2BRallies%2BAhead%2Bof%2BEarnings%2Bas%2BInvestors%2BWeigh%2BGrowth%2BInitiatives",
+        "https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"
+      ]
     },
     {
       "id": "03c2890fe00da27f1759",
@@ -3618,7 +3680,7 @@
       "company": "Labcorp",
       "title": "Labcorp Declares Quarterly Dividend",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmpmaXJEUGd3cy1lOUhLR0FPdWdwdmR2V1dBa2VVbXMtM2ZrZThCN3ZFcXJxdV80ZzFzVEU4RF8wQkhyai11aHZzbklCWmFRMjl5SHlMQTRFMUhqUWt2Z2NiT1laMXNSZUFyNm8xZnY2R2VXQmtQUUNZM3ZidTF5QmpMUDItcTh1aXgxQ2hVOEQ1Skl6UVd2VnRXSzVnWEhpaFE?oc=5",
-      "description": "Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com",
+      "description": "Labcorp's board declared a quarterly cash dividend of $0.72 per share of common stock on July 9, 2026. The dividend is scheduled to be paid September 11, 2026 to shareholders of record at the close of business on August 28, 2026. The company did not announce a change in the per-share rate in this release; the update confirms the next payment date and record date for its existing quarterly distribution. In the same release, Labcorp described the scale of its diagnostics and drug-development laboratory network. It said the company has nearly 71,000 employees serving customers in approximately 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025, and performed more than 750 million tests for patients globally. The announcement contains no new earnings guidance, acquisition terms or product launch. Its material financial content is the board-approved $0.72 dividend and the September/August payment timetable. The release therefore reflects continued capital return alongside Labcorp's ongoing laboratory-services operations rather than a change to the company's operating outlook.",
       "source": "Yahoo Finance",
       "source_domain": "news.google.com",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -3652,14 +3714,22 @@
         }
       ],
       "coverage_count": 4,
-      "event_signature": "declares dividend quarterly"
+      "event_signature": "declares dividend quarterly",
+      "source_description": "Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com",
+      "chatgpt_summary": "Labcorp's board declared a quarterly cash dividend of $0.72 per share of common stock on July 9, 2026. The dividend is scheduled to be paid September 11, 2026 to shareholders of record at the close of business on August 28, 2026. The company did not announce a change in the per-share rate in this release; the update confirms the next payment date and record date for its existing quarterly distribution. In the same release, Labcorp described the scale of its diagnostics and drug-development laboratory network. It said the company has nearly 71,000 employees serving customers in approximately 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025, and performed more than 750 million tests for patients globally. The announcement contains no new earnings guidance, acquisition terms or product launch. Its material financial content is the board-approved $0.72 dividend and the September/August payment timetable. The release therefore reflects continued capital return alongside Labcorp's ongoing laboratory-services operations rather than a change to the company's operating outlook.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T18:38:44+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-declares-quarterly-dividend-15"
+      ]
     },
     {
       "id": "9645d672076a9bc10459",
       "company": "Sonic Healthcare",
       "title": "Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUZlakpyeDZLSnJmWldoODdFNGlfZW1zWUZHVVdGZERjMUF4TzI1S3V3RURmQUJNV2RnWW1ycG5XTkVQSnpDVUhuSHlGWmIyUUo3V1p0dXFVSTJ6YlZJYWZhcFFvSnZ4bmZHUjBtczVBclE3dzlMYnZFM0VCTUhjdXphRFNGeEh6TEtmZFRreHRxQ1k4N2tRbzBhb0pxcllScFlMdmRrd2VOTU4wejA5TlE3aUdyVzhlOERVVFNSU1FTZw?oc=5",
-      "description": "Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au",
+      "description": "Because the queued Kalkine link did not expose the article body, the dividend and business-profile points were independently checked against Sonic Healthcare's investor materials. Sonic describes itself as one of the world's leading medical-diagnostics groups, providing pathology or clinical-laboratory and radiology services. It is the largest private pathology operator in Australia, Germany, Switzerland and the U.K., the second largest in Belgium and New Zealand and the third largest in the U.S. Sonic reported FY2025 revenue of A$9.645 billion, EBITDA of A$1.725 billion, net profit after tax of A$513.6 million and operating cash flow of A$1.297 billion. Net interest-bearing debt was A$2.818 billion. Diluted EPS was 106.7 Australian cents. The company paid 107 cents per share of dividends for FY2025, compared with 106 cents in FY2024, producing a 101.8% payout ratio on the company's tear sheet. For FY2026, Sonic's dividend history shows an interim dividend of 45 cents per share, 60% franked, up from 44 cents in FY2025; the dividend reinvestment plan was suspended for the FY2026 interim payment. Sonic's FY2026 preliminary final results were scheduled for August 20, so the final FY2026 dividend and full-year financial performance were not yet available when these sources were reviewed.",
       "source": "Kalkine",
       "source_domain": "news.google.com",
       "published_at": "2026-07-09T07:00:00+00:00",
@@ -3675,7 +3745,17 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "business dividend global inside profile"
+      "event_signature": "business dividend global inside profile",
+      "source_description": "Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au",
+      "chatgpt_summary": "Because the queued Kalkine link did not expose the article body, the dividend and business-profile points were independently checked against Sonic Healthcare's investor materials. Sonic describes itself as one of the world's leading medical-diagnostics groups, providing pathology or clinical-laboratory and radiology services. It is the largest private pathology operator in Australia, Germany, Switzerland and the U.K., the second largest in Belgium and New Zealand and the third largest in the U.S. Sonic reported FY2025 revenue of A$9.645 billion, EBITDA of A$1.725 billion, net profit after tax of A$513.6 million and operating cash flow of A$1.297 billion. Net interest-bearing debt was A$2.818 billion. Diluted EPS was 106.7 Australian cents. The company paid 107 cents per share of dividends for FY2025, compared with 106 cents in FY2024, producing a 101.8% payout ratio on the company's tear sheet. For FY2026, Sonic's dividend history shows an interim dividend of 45 cents per share, 60% franked, up from 44 cents in FY2025; the dividend reinvestment plan was suspended for the FY2026 interim payment. Sonic's FY2026 preliminary final results were scheduled for August 20, so the final FY2026 dividend and full-year financial performance were not yet available when these sources were reviewed.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T18:38:44+05:30",
+      "summary_evidence": [
+        "https://investors.sonichealthcare.com/investors/?page=financial-tear-sheet",
+        "https://investors.sonichealthcare.com/investors/?page=dividends",
+        "https://investors.sonichealthcare.com/Investors/?page=annual-reports"
+      ]
     },
     {
       "id": "66d4d187ad2f541510b4",
@@ -3763,10 +3843,10 @@
       "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 21,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-13T18:17:00+05:30",
-  "next_update_display": "13 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-14T00:17:00+05:30",
+  "next_update_display": "14 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

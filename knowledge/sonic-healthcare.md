@@ -1,11 +1,23 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 13 Aug 2026, 4:10 PM IST
-- **Distinct events in this file:** 5
+- **Repository generated:** 13 Aug 2026, 7:00 PM IST
+- **Distinct events in this file:** 6
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
+## 1. Sonic Healthcare Diagnostic Services Market Outlook
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 13 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine Media: https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5
+
+**Feed description:** Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook Kalkine Media
+
+## 2. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Aug 2026
@@ -17,7 +29,7 @@
 
 **Feed description:** Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com
 
-## 2. Sonic Healthcare draws attention on diagnostics activity
+## 3. Sonic Healthcare draws attention on diagnostics activity
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 04 Aug 2026
@@ -29,7 +41,7 @@
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 3. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 4. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -41,7 +53,7 @@
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 4. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 5. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -53,7 +65,7 @@
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 5. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 6. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
@@ -63,4 +75,4 @@
 - **Sources:**
   - Kalkine: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUZlakpyeDZLSnJmWldoODdFNGlfZW1zWUZHVVdGZERjMUF4TzI1S3V3RURmQUJNV2RnWW1ycG5XTkVQSnpDVUhuSHlGWmIyUUo3V1p0dXFVSTJ6YlZJYWZhcFFvSnZ4bmZHUjBtczVBclE3dzlMYnZFM0VCTUhjdXphRFNGeEh6TEtmZFRreHRxQ1k4N2tRbzBhb0pxcllScFlMdmRrd2VOTU4wejA5TlE3aUdyVzhlOERVVFNSU1FTZw?oc=5
 
-**Feed description:** Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au
+**Feed description:** Because the queued Kalkine link did not expose the article body, the dividend and business-profile points were independently checked against Sonic Healthcare's investor materials. Sonic describes itself as one of the world's leading medical-diagnostics groups, providing pathology or clinical-laboratory and radiology services. It is the largest private pathology operator in Australia, Germany, Switzerland and the U.K., the second largest in Belgium and New Zealand and the third largest in the U.S. Sonic reported FY2025 revenue of A$9.645 billion, EBITDA of A$1.725 billion, net profit after tax of A$513.6 million and operating cash flow of A$1.297 billion. Net interest-bearing debt was A$2.818 billion. Diluted EPS was 106.7 Australian cents. The company paid 107 cents per share of dividends for FY2025, compared with 106 cents in FY2024, producing a 101.8% payout ratio on the company's tear sheet. For FY2026, Sonic's dividend history shows an interim dividend of 45 cents per share, 60% franked, up from 44 cents in FY2025; the dividend reinvestment plan was suspended for the FY2026 interim payment. Sonic's FY2026 preliminary final results were scheduled for August 20, so the final FY2026 dividend and full-year financial performance were not yet available when these sources were reviewed.
