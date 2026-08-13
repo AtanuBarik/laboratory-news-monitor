@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T12:52:09.398979+05:30",
-  "generated_at_display": "13 Aug 2026, 12:52 PM IST",
+  "generated_at": "2026-08-13T16:10:53.564420+05:30",
+  "generated_at_display": "13 Aug 2026, 4:10 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -176,7 +176,7 @@
       "category": "Financials",
       "title": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News",
       "source": "quiverquant.com",
-      "description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News quiverquant.com",
+      "description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative",
       "published_at": "2026-07-22T07:00:00+00:00",
       "published_display": "22 Jul 2026",
       "official_source": false,
@@ -471,11 +471,11 @@
       "category": "Other",
       "title": "Quest Diagnostics Stock Price, News, Quote & History",
       "source": "Yahoo! Finance Canada",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
       "published_at": "2026-08-10T16:20:54+00:00",
       "published_display": "10 Aug 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
       "sources": [
         {
@@ -485,6 +485,10 @@
         {
           "name": "Yahoo Finance UK",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5"
         }
       ]
     },
