@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T06:49:44.643457+05:30",
-  "generated_at_display": "14 Aug 2026, 6:49 AM IST",
+  "generated_at": "2026-08-14T11:34:02.595652+05:30",
+  "generated_at_display": "14 Aug 2026, 11:34 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 48,
+  "remaining_unsummarized_count": 50,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -151,6 +151,44 @@
       ]
     },
     {
+      "id": "a72f4d252eca37f5af7a",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip",
+      "source": "dars.gov.et",
+      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et",
+      "published_at": "2026-08-06T21:36:37+00:00",
+      "published_display": "06 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "277f41b8ca07db3a1e07",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics is a Great Choice",
+      "source": "Yahoo Finance",
+      "description": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics (DGX) is a Great Choice Yahoo Finance",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "48a2abf995597e48fe1e",
       "company": "Sonic Healthcare",
       "category": "Financials",
@@ -198,7 +236,7 @@
       "category": "Financials",
       "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
       "source": "Bloomberg",
-      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg",
+      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg.com",
       "published_at": "2026-07-30T07:00:00+00:00",
       "published_display": "30 Jul 2026",
       "official_source": false,
@@ -339,7 +377,7 @@
       "category": "Other",
       "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
       "source": "Mshale",
-      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) Mshale",
+      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com",
       "published_at": "2026-08-10T08:08:47+00:00",
       "published_display": "10 Aug 2026",
       "official_source": false,
@@ -605,48 +643,6 @@
         {
           "name": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a82c0ff56fc3931600bb",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "Labcorp expands hereditary risk testing access with genetic health panel",
-      "source": "Yahoo",
-      "description": "Labcorp expands hereditary risk testing access with genetic health panel Yahoo",
-      "published_at": "2026-07-28T09:33:48+00:00",
-      "published_display": "28 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b44ec09afb37d0ac7b2",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains",
-      "source": "MarketWatch",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
-      "published_at": "2026-07-28T07:00:00+00:00",
-      "published_display": "28 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5"
         }
       ]
     }

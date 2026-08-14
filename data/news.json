@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T06:49:41.232415+05:30",
-  "generated_at_display": "14 Aug 2026, 6:49 AM IST",
-  "item_count": 101,
+  "generated_at": "2026-08-14T11:33:59.685574+05:30",
+  "generated_at_display": "14 Aug 2026, 11:33 AM IST",
+  "item_count": 102,
   "raw_relevant_item_count": 285,
-  "duplicates_merged": 85,
+  "duplicates_merged": 83,
   "failures": [],
   "items": [
     {
@@ -455,7 +455,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
-      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) Mshale",
+      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com",
       "source": "Mshale",
       "source_url": "https://mshale.com",
       "source_domain": "mshale.com",
@@ -572,6 +572,30 @@
       "summary_evidence": [
         "https://www.tradingkey.com/markets/stocks/dgx/technical"
       ]
+    },
+    {
+      "id": "a72f4d252eca37f5af7a",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
+      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-08-06T21:36:37+00:00",
+      "published_display": "06 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-08-06T21:36:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advances between flip midpoint resistance shares supertrend support test"
     },
     {
       "id": "ca9c22649820263e0fd5",
@@ -1379,7 +1403,7 @@
       "company": "Labcorp",
       "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg",
+      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg.com",
       "source": "Bloomberg",
       "source_url": "https://www.bloomberg.com",
       "source_domain": "bloomberg.com",
@@ -2272,39 +2296,6 @@
       "event_signature": "financial hold rating reaffirms their truist"
     },
     {
-      "id": "baeee3c77eab7f9bd55f",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5",
-      "description": "Quest Diagnostics’ second-quarter 2026 earnings call highlighted strong volume-led growth while management also described near-term margin pressures. GuruFocus’s call summary reported revenue growth of more than 10%, driven by broad clinical demand and added volume from the Corewell Health and Fresenius Medical Care collaborations; Quest’s official release reported $3.043 billion of revenue, up 10.2%, and adjusted diluted EPS of $3.12, up 19.1%. On the call, management said total revenue per requisition fell 2.8% because of business mix. CFO Sam Samad said Project NOVA, the Corewell and Fresenius ramps, and supplemental deferred-compensation expenses together reduced second-quarter margin by about 70 basis points, while higher NOVA spending and fuel costs were expected in the second half. CEO Jim Davis said hospital reference testing and co-lab business excluding Corewell each grew at mid-single-digit rates. Management expects the Corewell relationship to contribute about $250 million of revenue, with its margin improving from low- to mid-single digits. Quest maintained an estimated 30-basis-point revenue headwind related to ACA exchange-subsidy expiration and continued advocating for PAMA reform. Despite these pressures, management expected full-year margins to improve as volume growth continues and the dilution from newer collaborations moderates.",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-07-25T07:04:28+00:00",
-      "published_display": "25 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMXN4eWhNT2NmMDBENERmUUJRZWlLNW1jSDZHQnB1Q0piX21LR2ZwWURLSmt0ck4wRWxKeF93bnUzMTFjMmxQTEg1SzFObTVmSVJlZDBPY3RyeGZSRUZyS3ZsZUF3aVJubmd6VEk1LVEyV2xhN0hYaFB6WllzdWg2ajZvT0tNM1pOSnJHTUo2SGtJWU12S1JuMzFBWFJ6MURPOURxSVdVaVdBamw0eWpwOHRSTmI3T1liRkZqUGh1NC10YVh5YXo0UWFoTEk?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-07-25T07:04:28+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 balance call earnings growth highlights outlook revenue sheet strategic strength",
-      "source_description": "Quest Diagnostics Q2 2026 Earnings Call Highlights: Revenue Growth and Strategic Outlook - Balance Sheet Strength dars.gov.et",
-      "chatgpt_summary": "Quest Diagnostics’ second-quarter 2026 earnings call highlighted strong volume-led growth while management also described near-term margin pressures. GuruFocus’s call summary reported revenue growth of more than 10%, driven by broad clinical demand and added volume from the Corewell Health and Fresenius Medical Care collaborations; Quest’s official release reported $3.043 billion of revenue, up 10.2%, and adjusted diluted EPS of $3.12, up 19.1%. On the call, management said total revenue per requisition fell 2.8% because of business mix. CFO Sam Samad said Project NOVA, the Corewell and Fresenius ramps, and supplemental deferred-compensation expenses together reduced second-quarter margin by about 70 basis points, while higher NOVA spending and fuel costs were expected in the second half. CEO Jim Davis said hospital reference testing and co-lab business excluding Corewell each grew at mid-single-digit rates. Management expects the Corewell relationship to contribute about $250 million of revenue, with its margin improving from low- to mid-single digits. Quest maintained an estimated 30-basis-point revenue headwind related to ACA exchange-subsidy expiration and continued advocating for PAMA reform. Despite these pressures, management expected full-year margins to improve as volume growth continues and the dilution from newer collaborations moderates.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T12:38:21+05:30",
-      "summary_evidence": [
-        "https://www.gurufocus.com/news/8975710/quest-diagnostics-inc-dgx-q2-2026-earnings-call-highlights-strong-revenue-growth-amid-operational-challenges",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
       "id": "805744c0006b778ebf36",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative",
@@ -2445,6 +2436,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "analysts companies hyft insights mindwalk offer"
+    },
+    {
+      "id": "277f41b8ca07db3a1e07",
+      "company": "Quest Diagnostics",
+      "title": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics is a Great Choice",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5",
+      "description": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics (DGX) is a Great Choice Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are choice great looking momentum pick top why you"
     },
     {
       "id": "b1583b18f1235fb0e64d",
@@ -4046,8 +4061,8 @@
       ]
     }
   ],
-  "low_value_items_removed": 81,
-  "post_prune_financial_duplicates_merged": 18,
+  "low_value_items_removed": 83,
+  "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-14T12:17:00+05:30",
   "next_update_display": "14 Aug 2026, 12:17 PM IST",

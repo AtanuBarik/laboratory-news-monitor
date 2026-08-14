@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 14 Aug 2026, 6:49 AM IST
+- **Repository generated:** 14 Aug 2026, 11:33 AM IST
 - **Distinct events in this file:** 36
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -238,7 +238,7 @@
 - **Sources:**
   - Bloomberg: https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5
 
-**Feed description:** Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg
+**Feed description:** Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg.com
 
 ## 19. Labcorp Number of Employees 2026 | Employee Count & Headcount Data
 
