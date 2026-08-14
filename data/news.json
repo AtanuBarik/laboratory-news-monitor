@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T11:33:59.685574+05:30",
-  "generated_at_display": "14 Aug 2026, 11:33 AM IST",
-  "item_count": 102,
-  "raw_relevant_item_count": 285,
-  "duplicates_merged": 83,
+  "generated_at": "2026-08-14T16:04:44.040532+05:30",
+  "generated_at_display": "14 Aug 2026, 4:04 PM IST",
+  "item_count": 103,
+  "raw_relevant_item_count": 286,
+  "duplicates_merged": 87,
   "failures": [],
   "items": [
     {
@@ -574,30 +574,6 @@
       ]
     },
     {
-      "id": "a72f4d252eca37f5af7a",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
-      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-08-06T21:36:37+00:00",
-      "published_display": "06 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-06T21:36:37+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "advances between flip midpoint resistance shares supertrend support test"
-    },
-    {
       "id": "ca9c22649820263e0fd5",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States",
@@ -620,6 +596,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "across labs outbreak overwhelmed parasitic states sweeps united"
+    },
+    {
+      "id": "a72f4d252eca37f5af7a",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
+      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "published_display": "06 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-08-06T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advances between buffered etf midpoint resistance shares support test"
     },
     {
       "id": "fe4a58a5ec445897fde0",
@@ -889,6 +889,30 @@
         "https://www.questdiagnostics.com/healthcare-professionals/provider-insights/articles/clarifying-the-complexity-of-bacterial-vaginosis-using-targeted-testing-to-identify-causes-and-std-coinfections"
       ],
       "summary_verification": "verified"
+    },
+    {
+      "id": "7df3340b661949c9d514",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNRFBkWUpuSHNUbFd6NVlSc3RIeGVxakVCTnlXM1huYTNfTkxiS2dHUElnX3JJR2EwSVMwTUZ6aW1RVGNwQnBSSVR1OUFnT1M3alZ2MXJicTlXM2JIXzRSU3p6OFY2QWdrcW1hMmZXOGl4dw?oc=5",
+      "description": "Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "source": "Revelio Labs",
+      "source_url": "https://www.reveliolabs.com",
+      "source_domain": "reveliolabs.com",
+      "published_at": "2026-08-03T10:06:44+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNRFBkWUpuSHNUbFd6NVlSc3RIeGVxakVCTnlXM1huYTNfTkxiS2dHUElnX3JJR2EwSVMwTUZ6aW1RVGNwQnBSSVR1OUFnT1M3alZ2MXJicTlXM2JIXzRSU3p6OFY2QWdrcW1hMmZXOGl4dw?oc=5",
+          "domain": "reveliolabs.com",
+          "published_at": "2026-08-03T10:06:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 count data employee employees headcount number"
     },
     {
       "id": "5b6d468d0e140886936e",
@@ -4061,10 +4085,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 79,
+  "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-14T12:17:00+05:30",
-  "next_update_display": "14 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-14T18:17:00+05:30",
+  "next_update_display": "14 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

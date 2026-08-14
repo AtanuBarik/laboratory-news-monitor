@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 14 Aug 2026, 11:33 AM IST
+- **Repository generated:** 14 Aug 2026, 4:04 PM IST
 - **Distinct events in this file:** 59
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -112,19 +112,7 @@
 
 **Feed description:** TradingKey’s technical-analysis page for Quest Diagnostics is a market-price indicator snapshot, not a new operating or clinical development. In the version available for verification, dated June 18, 2026, TradingKey gave Quest a price-momentum score of 7.03, ranking 49th of 76 companies in Healthcare Providers & Services. The page identified resistance at $205.38 and support at $186.75 and characterized the shares as trading in a range. Its nine-indicator panel showed three sell signals, three neutral signals and no buy signals. MACD was -0.391 and rated neutral; RSI was 46.053 and neutral; stochastic KDJ at 25.090, Williams %R at 75.827 and TRIX at 0.202 were rated sell; ATR of 4.781 was labeled high volatility; and StochRSI was 0.000, labeled oversold. Moving averages produced four sell signals and two buy signals: MA5 $199.808, MA10 $200.868, MA20 $197.541 and MA100 $196.855 were sell, while MA50 $194.864 and MA200 $189.581 were buy. TradingKey’s overall automated conclusion was “Sell” at that snapshot. Because the indicators are price-derived and time-sensitive, the article should not be read as evidence of a change in Quest’s business fundamentals or management outlook.
 
-## 9. Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 06 Aug 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - dars.gov.et: https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5
-
-**Feed description:** Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et
-
-## 10. Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States
+## 9. Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Aug 2026
@@ -135,6 +123,18 @@
   - streamlinefeed.co.ke: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5
 
 **Feed description:** Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States streamlinefeed.co.ke
+
+## 10. Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 06 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - dars.gov.et: https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et
 
 ## 11. Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals
 

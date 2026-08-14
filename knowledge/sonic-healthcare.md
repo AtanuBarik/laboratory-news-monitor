@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 14 Aug 2026, 11:33 AM IST
-- **Distinct events in this file:** 6
+- **Repository generated:** 14 Aug 2026, 4:04 PM IST
+- **Distinct events in this file:** 7
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -41,7 +41,19 @@
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 4. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 4. Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 03 Aug 2026
+- **Category:** Organizational Updates
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Revelio Labs: https://news.google.com/rss/articles/CBMickFVX3lxTFBNRFBkWUpuSHNUbFd6NVlSc3RIeGVxakVCTnlXM1huYTNfTkxiS2dHUElnX3JJR2EwSVMwTUZ6aW1RVGNwQnBSSVR1OUFnT1M3alZ2MXJicTlXM2JIXzRSU3p6OFY2QWdrcW1hMmZXOGl4dw?oc=5
+
+**Feed description:** Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs
+
+## 5. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -53,7 +65,7 @@
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 5. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 6. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -65,7 +77,7 @@
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 6. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 7. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026
