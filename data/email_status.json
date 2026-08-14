@@ -1,14 +1,11 @@
 {
-  "checked_at": "2026-08-15T02:14:54.818966+05:30",
-  "checked_at_display": "15 Aug 2026, 2:14 AM IST",
-  "status": "email_sent",
-  "ranked_candidate_count": 16,
+  "checked_at": "2026-08-15T02:15:17.656367+05:30",
+  "checked_at_display": "15 Aug 2026, 2:15 AM IST",
+  "status": "awaiting_chatgpt_summaries",
+  "ranked_candidate_count": 9,
   "low_value_dismissed_count": 0,
-  "attempted_summary_count": 16,
-  "email_item_count": 7,
-  "verified_summary_count": 7,
-  "fallback_summary_count": 0,
-  "unreadable_count": 9,
+  "attempted_summary_count": 9,
+  "verified_summary_count": 0,
   "unreadable_ids": [
     "c3f6fbbcd5e4d498cb13",
     "d81d0a5ec5f591fb5354",
@@ -20,17 +17,12 @@
     "f75e5d91e2de0c65f721",
     "277f41b8ca07db3a1e07"
   ],
-  "to_count": 1,
-  "bcc_count": 1,
-  "subject": "Quest Competitor Updates | Aug 15, 2026",
-  "selection_strategy": "quality_ranked_waves",
-  "summary_mode": "verified_ai",
   "gemini_quota_exhausted": false,
   "gemini_error": "",
-  "display_timezone": "IST",
-  "scheduled_chatgpt_summary_count": 7,
+  "scheduled_chatgpt_summary_count": 0,
   "gemini_summary_count": 0,
   "gemini_fallback_enabled": false,
+  "fallback_summary_count": 0,
   "summary_delivery_policy": "verified_chatgpt_required",
   "awaiting_chatgpt_summary_count": 9,
   "awaiting_chatgpt_summary_ids": [
@@ -44,5 +36,5 @@
     "f75e5d91e2de0c65f721",
     "277f41b8ca07db3a1e07"
   ],
-  "primary_summary_provider": "ChatGPT Scheduled Task"
+  "primary_summary_provider": "Awaiting ChatGPT Scheduled Task"
 }

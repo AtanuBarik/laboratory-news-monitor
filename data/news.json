@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T02:14:49.888108+05:30",
-  "generated_at_display": "15 Aug 2026, 2:14 AM IST",
+  "generated_at": "2026-08-15T02:15:14.235738+05:30",
+  "generated_at_display": "15 Aug 2026, 2:15 AM IST",
   "item_count": 109,
   "raw_relevant_item_count": 297,
-  "duplicates_merged": 86,
+  "duplicates_merged": 85,
   "failures": [],
   "items": [
     {
@@ -17,7 +17,7 @@
       "source_domain": "investing.com",
       "published_at": "2026-08-14T19:14:11+00:00",
       "published_display": "14 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -121,7 +121,7 @@
       "source_domain": "gurufocus.com",
       "published_at": "2026-08-13T02:35:52+00:00",
       "published_display": "13 Aug 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -1823,7 +1823,7 @@
       "source_domain": "newsroom.questdiagnostics.com",
       "published_at": "2026-07-28T07:00:00+00:00",
       "published_display": "28 Jul 2026",
-      "category": "Product & Services",
+      "category": "Clinical, R&D",
       "official_source": true,
       "sources": [
         {
@@ -4315,8 +4315,8 @@
       ]
     }
   ],
-  "low_value_items_removed": 86,
-  "post_prune_financial_duplicates_merged": 16,
+  "low_value_items_removed": 89,
+  "post_prune_financial_duplicates_merged": 14,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-15T06:17:00+05:30",
   "next_update_display": "15 Aug 2026, 6:17 AM IST",
