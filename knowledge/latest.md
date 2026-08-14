@@ -1137,7 +1137,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 22 Jul 2026
-- **Category:** Leadership Changes
+- **Category:** Partnership, M&A
 - **Coverage count:** 47
 - **Official source involved:** No
 - **Sources:**
