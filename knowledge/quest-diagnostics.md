@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 15 Aug 2026, 1:46 AM IST
+- **Repository generated:** 15 Aug 2026, 2:14 AM IST
 - **Distinct events in this file:** 64
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5
 
-**Feed description:** Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp Investing.com
+**Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
 
 ## 2. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
 
@@ -39,7 +39,7 @@
 - **Sources:**
   - GuruFocus: https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ1pGNE5wd1ZPcWJlWHB1RGNjWVp2Vnp2WlZqWDZOeVpXM1dEc29BZnNiclMyNGduUlZ0djZtVDhUY3IwTUlMeUE0b0ZKaHBvRWZTb3l3dnBuMW1hclBZem82bTVFME5QdzRV?oc=5
 
-**Feed description:** Q2 2026 Quest Diagnostics Inc Earnings Call Transcript GuruFocus
+**Feed description:** Quest Diagnostics' second-quarter 2026 earnings call described broad volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Total requisition volume rose 13.1%; management said the Corewell Health and Fresenius Medical Care collaborations together accounted for about 9% of total volume. Revenue per requisition declined 2.8% because of business mix, but management said it increased 2.9% excluding those mix effects. Tests per requisition have moved above 4.5 from a pre-COVID range of roughly 3.5-4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. Management also highlighted margin pressure from wages, fuel, Project NOVA and newer collaborations, partly offset by automation and the Invigorate program's approximately 3% annual cost-savings target. The new Michigan laboratory supporting Corewell is expected to be operational in early 2027, and Quest plans broader Flatiron Health OncoEMR access for oncology testing later in 2026.
 
 ## 4. Quest Diagnostics Keeps Quarterly Dividend at $0.86 per Share, Payable Oct. 21, to Shareholders of Record Oct. 6
 
@@ -51,7 +51,7 @@
 - **Sources:**
   - marketscreener.com: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk5MQWE4YmlUaVpGc3lFWnotMnY1aGNMT21xQlAzaWhXTkpJQXJXZ0dVZ3FtTjNoS25UNDlqSDJiMS1GSW9SQVZKYzRYeEFoWGRxTTQydjdvaVNxeVJiUkVQU1ozZ3VMODEyalZkYXE5N19YdmhJY1JueWZvUU9qejdpZkVtb0NpbW5CWHcybEtseUtnam9kdEctZ0NqZWRsUzJfSk0xeEVvY3I4bUtHTnp6b0FJM1owWUxBOUpOZVFwMm83NDBFZjBKOWN4bmdFUW9MVjcxVk9IckZaOFVLUU5aVQ?oc=5
 
-**Feed description:** Quest Diagnostics Keeps Quarterly Dividend at $0.86 per Share, Payable Oct. 21, to Shareholders of Record Oct. 6 marketscreener.com
+**Feed description:** Quest Diagnostics' board declared a quarterly cash dividend of $0.86 per common share on August 12, 2026. The dividend is payable October 21, 2026 to shareholders of record at the close of business on October 6, 2026. The action keeps the quarterly rate unchanged from the $0.86 level the board established in February 2026, when Quest raised the dividend 7.5% from $0.80 per share. That February increase set the annualized cash dividend at $3.44 per share and marked the company's fifteenth consecutive year of dividend increases. The August declaration does not announce a new increase, change full-year operating guidance or alter the share-repurchase program; it authorizes the next payment at the previously approved rate. Quest's February capital-allocation announcement also increased share-repurchase authorization by $1.0 billion on top of approximately $0.4 billion available at December 31, 2025. The August release separately describes Quest's current operating scale as serving half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees. The material development in the queued item is therefore the confirmation of the October dividend timetable and continuation of the $0.86 quarterly distribution.
 
 ## 5. Quest Diagnostics Declares Quarterly Cash Dividend
 
@@ -73,7 +73,7 @@
   - Investing.com Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV80ZHdEODdlRkNtakRXNzdlSVlmS3FuRW9nb1hLVmlVb1RlWUR6R3A2VGp0VW1wWXBGc0ZubWhGOXBkc25MWG0wLTNRbXN0NmxsSW1naFZRVmxnVnoyQllETWozTVlnRTZkTzRfdVlCXzU0a0xrbHNCRDZDT1dKN2w0YzJMaklZV2luVEhEd0lESlFtakU5S3JKUW10dlpJbU1Ud0RiOUFaTHp6N2VR?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com
+**Feed description:** Quest Diagnostics announced that its Board of Directors declared a quarterly cash dividend of $0.86 per share. The dividend will be paid on October 21, 2026 to holders of Quest common stock who are shareholders of record on October 6, 2026. The declaration continues the dividend rate established earlier in 2026 rather than increasing it again. On February 10, Quest authorized a 7.5% increase in the quarterly dividend from $0.80 to $0.86 per share, which set an annualized cash dividend of $3.44 per share and extended the company's record to fifteen consecutive years of dividend increases. The same February capital-allocation action increased Quest's share-repurchase authorization by $1 billion in addition to roughly $0.4 billion that remained available at the end of 2025. The August 12 release does not revise earnings guidance, announce a new repurchase authorization or change the dividend rate; its operative terms are the $0.86 amount, October 6 record date and October 21 payment date. Quest also states that it serves half of U.S. physicians and hospitals and one in three American adults annually, with a workforce of nearly 60,000 employees. The announcement therefore represents continuity in shareholder cash returns rather than a new operating or strategic initiative.
 
 ## 6. Quest Diagnostics Schedule An Apptsoundnik Detail
 
@@ -386,7 +386,7 @@
 - **Sources:**
   - Quest Diagnostics Newsroom: https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUYybzRlazZJTkJQT0hDaXJSNEtYQWl4am91UnQtUkhyUzRXeWl4N2dpcF9ObExOQk5ERjZHaW9namZiVGV5VkM0Y1ZYVHliZHp4MU4yaXlRZGhKUlBwWVozRjBOSTExNmxVVlJEbGhoRVREWmdUcjBRS19qSWNWNlY5UVAzRlZ5cldqQzk3T3dHTkhmalA3dkE0N2RuVENoYk5mOWcteTMzYkhRMkhneFY5QUJlbzhtODlqYkpnbzI0SFJiSExCNnFXc2pxUGc?oc=5
 
-**Feed description:** Quest Diagnostics Team Tests Impact of Teplizumab’s FDA Approval on Screening for Type 1 Diabetes Quest Diagnostics Newsroom
+**Feed description:** A Quest Diagnostics-led study examined whether the November 2022 FDA approval of teplizumab, the first therapy shown to delay progression from stage 2 to stage 3 type 1 diabetes in eligible patients, changed real-world islet autoantibody testing. Researchers analyzed 28,206 nondiabetic individuals with HbA1c below 6.5% in a pre-approval period from November 2017 to November 2018 and a post-approval period from November 2022 to November 2023, stratifying results by age and glycemic status. Islet autoantibody testing increased 1.9-fold after approval, significantly more than other testing, with the largest increases among adults and dysglycemic children. Providers also became more likely to order three or all four available biochemical autoantibodies. Most testing of normoglycemic individuals came from primary care, while endocrinologists placed most orders for dysglycemic patients. Testing remained highly dispersed: providers ordering only one to three tests per year accounted for more than 80% of orders. Among dysglycemic children, multiple-autoantibody positivity after teplizumab approval was 35.6% higher than expected versus the pre-approval period. The authors concluded that treatment availability is increasing screening, but screening of normoglycemic children in primary care remains limited and requires better integration into routine care pathways.
 
 ## 31. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
 
@@ -696,7 +696,7 @@
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGJHdlBESlk1OFZKOVhtdGFmWWdmeHdQOFplam9HcTVzSHNNWEt5OTJXcXVqVkpDWHhkbWR6Z21kalFQb1pTR25kR3E1WXRoa2VVYXhOOU13V0JOc29tXzlORjFMeUh0MnZUNEdIak00OEJMY0loLVFvY0lJdFJFQ0hOTzNDWnVlZmpGWjZueVd3cmdiQ01EMFg0M0cxdHVPMjlSVTV3cU9ndld6dEJPUzFGakUtVm5JMWFpZUJkSGRQUnNaaHdSMUhQS0xuXy1pUVE4SGY5YjBvU1lUSXJJdE9EWXZ4aTVsWEE?oc=5
 
-**Feed description:** Quest Diagnostics Inc reports results for the quarter ended June 30 - Earnings Summary TradingView
+**Feed description:** Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, including 10.0% organic growth. Diagnostic Information Services revenue increased 10.3% to $2.978 billion. Requisition volume rose 13.1%, with organic requisition volume up 13.0%, while revenue per requisition declined 2.8% because of business mix. Reported operating income increased 4.6% to $459 million, although operating margin narrowed to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and diluted EPS increased 15.0% to $2.84. Adjusted operating income was $502 million, up 7.8%, with a 16.5% margin, while adjusted diluted EPS rose 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Following the quarter, Quest raised 2026 revenue guidance to $11.95-$12.05 billion from $11.78-$11.90 billion and adjusted diluted EPS guidance to $11.05-$11.25 from $10.63-$10.83. Expected operating cash flow increased to approximately $1.80 billion, while capital-spending guidance remained about $550 million. Quest attributed the quarter to broad strength across physician, hospital and consumer channels and continued growth in Advanced Diagnostics.
 
 ## 54. Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates
 
