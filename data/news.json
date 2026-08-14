@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-14T16:04:44.040532+05:30",
-  "generated_at_display": "14 Aug 2026, 4:04 PM IST",
-  "item_count": 103,
-  "raw_relevant_item_count": 286,
-  "duplicates_merged": 87,
+  "generated_at": "2026-08-14T18:51:44.957402+05:30",
+  "generated_at_display": "14 Aug 2026, 6:51 PM IST",
+  "item_count": 105,
+  "raw_relevant_item_count": 288,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
     {
@@ -29,6 +29,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "diagnostic market outlook services"
+    },
+    {
+      "id": "50b37b71e433c3eefb71",
+      "company": "Quest Diagnostics",
+      "title": "Q2 2026 Quest Diagnostics Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ1pGNE5wd1ZPcWJlWHB1RGNjWVp2Vnp2WlZqWDZOeVpXM1dEc29BZnNiclMyNGduUlZ0djZtVDhUY3IwTUlMeUE0b0ZKaHBvRWZTb3l3dnBuMW1hclBZem82bTVFME5QdzRV?oc=5",
+      "description": "Q2 2026 Quest Diagnostics Inc Earnings Call Transcript GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-08-13T02:35:52+00:00",
+      "published_display": "13 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ1pGNE5wd1ZPcWJlWHB1RGNjWVp2Vnp2WlZqWDZOeVpXM1dEc29BZnNiclMyNGduUlZ0djZtVDhUY3IwTUlMeUE0b0ZKaHBvRWZTb3l3dnBuMW1hclBZem82bTVFME5QdzRV?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-08-13T02:35:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings transcript"
     },
     {
       "id": "2c47099f711e79acda11",
@@ -59,7 +83,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
-      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com South Africa",
+      "description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -127,9 +151,15 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV80ZHdEODdlRkNtakRXNzdlSVlmS3FuRW9nb1hLVmlVb1RlWUR6R3A2VGp0VW1wWXBGc0ZubWhGOXBkc25MWG0wLTNRbXN0NmxsSW1naFZRVmxnVnoyQllETWozTVlnRTZkTzRfdVlCXzU0a0xrbHNCRDZDT1dKN2w0YzJMaklZV2luVEhEd0lESlFtakU5S3JKUW10dlpJbU1Ud0RiOUFaTHp6N2VR?oc=5",
           "domain": "au.investing.com",
           "published_at": "2026-08-12T20:44:17+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-12T20:15:00+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "event_signature": "cash declares dividend quarterly"
     },
     {
@@ -895,7 +925,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNRFBkWUpuSHNUbFd6NVlSc3RIeGVxakVCTnlXM1huYTNfTkxiS2dHUElnX3JJR2EwSVMwTUZ6aW1RVGNwQnBSSVR1OUFnT1M3alZ2MXJicTlXM2JIXzRSU3p6OFY2QWdrcW1hMmZXOGl4dw?oc=5",
-      "description": "Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "description": "Revelio Labs estimates that Sonic Healthcare employed approximately 42,892 people worldwide as of March 2026, down 0.3% year over year from 43,119 in the first quarter of 2025. The workforce-intelligence provider shows Sonic's employee base concentrated in Australia, with 16,871 employees or 39.6% of the total, followed by the United States with 12,033 or 28.2%, Germany with 4,256 or 10.0%, the United Kingdom with 3,034 or 7.1%, Switzerland with 2,296 or 5.4%, and India with 2,204 or 5.2%. Among these major locations, Germany was the only one showing clear year-over-year expansion, up 0.9%; Australia declined 0.4%, the United States 0.2%, the U.K. 0.8%, Switzerland 2.7%, and India 1.1%. Revelio classifies Sonic's largest functional groups as Engineering at 19,429 employees, Finance and Operations at 14,931, and Sales and Marketing at 8,015. Median employee tenure is estimated at 4.5 years. The page also lists 944 active job postings in 2026 and a hiring velocity of about 595 new roles per month. Because Revelio derives these figures from public workforce data rather than Sonic's audited reporting, they should be treated as third-party estimates. Overall, the data indicate a broadly stable global workforce with continued hiring and a strong concentration in Australia, the U.S. and Germany.",
       "source": "Revelio Labs",
       "source_url": "https://www.reveliolabs.com",
       "source_domain": "reveliolabs.com",
@@ -912,7 +942,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 count data employee employees headcount number"
+      "event_signature": "2026 count data employee employees headcount number",
+      "source_description": "Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "chatgpt_summary": "Revelio Labs estimates that Sonic Healthcare employed approximately 42,892 people worldwide as of March 2026, down 0.3% year over year from 43,119 in the first quarter of 2025. The workforce-intelligence provider shows Sonic's employee base concentrated in Australia, with 16,871 employees or 39.6% of the total, followed by the United States with 12,033 or 28.2%, Germany with 4,256 or 10.0%, the United Kingdom with 3,034 or 7.1%, Switzerland with 2,296 or 5.4%, and India with 2,204 or 5.2%. Among these major locations, Germany was the only one showing clear year-over-year expansion, up 0.9%; Australia declined 0.4%, the United States 0.2%, the U.K. 0.8%, Switzerland 2.7%, and India 1.1%. Revelio classifies Sonic's largest functional groups as Engineering at 19,429 employees, Finance and Operations at 14,931, and Sales and Marketing at 8,015. Median employee tenure is estimated at 4.5 years. The page also lists 944 active job postings in 2026 and a hiring velocity of about 595 new roles per month. Because Revelio derives these figures from public workforce data rather than Sonic's audited reporting, they should be treated as third-party estimates. Overall, the data indicate a broadly stable global workforce with continued hiring and a strong concentration in Australia, the U.S. and Germany.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T18:40:18+05:30",
+      "summary_evidence": [
+        "https://www.reveliolabs.com/companies/sonic-healthcare/employees/"
+      ]
     },
     {
       "id": "5b6d468d0e140886936e",
@@ -2932,6 +2970,30 @@
       ]
     },
     {
+      "id": "6ca9448fe48d21e561e6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics reports results for the quarter ended June 30 - Earnings Summary",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGJHdlBESlk1OFZKOVhtdGFmWWdmeHdQOFplam9HcTVzSHNNWEt5OTJXcXVqVkpDWHhkbWR6Z21kalFQb1pTR25kR3E1WXRoa2VVYXhOOU13V0JOc29tXzlORjFMeUh0MnZUNEdIak00OEJMY0loLVFvY0lJdFJFQ0hOTzNDWnVlZmpGWjZueVd3cmdiQ01EMFg0M0cxdHVPMjlSVTV3cU9ndld6dEJPUzFGakUtVm5JMWFpZUJkSGRQUnNaaHdSMUhQS0xuXy1pUVE4SGY5YjBvU1lUSXJJdE9EWXZ4aTVsWEE?oc=5",
+      "description": "Quest Diagnostics Inc reports results for the quarter ended June 30 - Earnings Summary TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-07-23T07:00:00+00:00",
+      "published_display": "23 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGJHdlBESlk1OFZKOVhtdGFmWWdmeHdQOFplam9HcTVzSHNNWEt5OTJXcXVqVkpDWHhkbWR6Z21kalFQb1pTR25kR3E1WXRoa2VVYXhOOU13V0JOc29tXzlORjFMeUh0MnZUNEdIak00OEJMY0loLVFvY0lJdFJFQ0hOTzNDWnVlZmpGWjZueVd3cmdiQ01EMFg0M0cxdHVPMjlSVTV3cU9ndld6dEJPUzFGakUtVm5JMWFpZUJkSGRQUnNaaHdSMUhQS0xuXy1pUVE4SGY5YjBvU1lUSXJJdE9EWXZ4aTVsWEE?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings ended june quarter results summary"
+    },
+    {
       "id": "b19959146ca03b493679",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates",
@@ -4085,10 +4147,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-14T18:17:00+05:30",
-  "next_update_display": "14 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-15T00:17:00+05:30",
+  "next_update_display": "15 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
