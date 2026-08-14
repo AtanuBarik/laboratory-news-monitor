@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-08-14T21:07:15.132978+05:30",
-  "generated_at_display": "14 Aug 2026, 9:07 PM IST",
-  "item_count": 107,
-  "raw_relevant_item_count": 292,
-  "duplicates_merged": 86,
+  "generated_at": "2026-08-15T01:46:58.642040+05:30",
+  "generated_at_display": "15 Aug 2026, 1:46 AM IST",
+  "item_count": 109,
+  "raw_relevant_item_count": 294,
+  "duplicates_merged": 83,
   "failures": [],
   "items": [
+    {
+      "id": "ca9f960013ab517ac497",
+      "company": "Quest Diagnostics",
+      "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5",
+      "description": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-14T19:14:11+00:00",
+      "published_display": "14 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-14T19:14:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bancorp carol devine miller pfizer sells stocks target"
+    },
+    {
+      "id": "576e8190f77e98aa149f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5",
+      "description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-14T16:00:02+00:00",
+      "published_display": "14 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-14T16:00:02+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "know one should week what you"
+    },
     {
       "id": "e5ca053f7a1eadcd1fc5",
       "company": "Labcorp",
@@ -345,42 +393,6 @@
       ]
     },
     {
-      "id": "131a04cd4b17846e8707",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock Price, News, Quote & History",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "source_domain": "ca.finance.yahoo.com",
-      "published_at": "2026-08-10T16:20:54+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-          "domain": "ca.finance.yahoo.com",
-          "published_at": "2026-08-10T16:20:54+00:00"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
-          "domain": "uk.finance.yahoo.com",
-          "published_at": "2026-08-10T22:42:09+00:00"
-        },
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
-          "domain": "au.finance.yahoo.com",
-          "published_at": "2026-08-11T12:01:15+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "history price quote stock"
-    },
-    {
       "id": "744ecc0885942423be6c",
       "company": "Labcorp",
       "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
@@ -561,6 +573,48 @@
         "https://www.mondegar.ai/filings/0001839851-26-000002",
         "https://www.holdingschannel.com/13f/ivy-lane-capital-management-llc-top-holdings/"
       ]
+    },
+    {
+      "id": "588313cd0791b0f57368",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics (QDI.F) Stock Price, News, Quote & History",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-08-08T04:16:16+00:00",
+      "published_display": "08 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-08-08T04:16:16+00:00"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-08-10T16:20:54+00:00"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-08-10T22:42:09+00:00"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
+          "domain": "au.finance.yahoo.com",
+          "published_at": "2026-08-11T12:01:15+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "history price qdi quote stock"
     },
     {
       "id": "ef01db00ce5a4ff25908",
@@ -876,43 +930,6 @@
       ]
     },
     {
-      "id": "0cc7c51d9ffdbdb20f46",
-      "company": "Labcorp",
-      "title": "Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHNrUFV3OGNLRTVKNzAyOHU0T0pocklaMjd0bHE3a0NDWXpzNzRVeDEtUDBfbWdEN0JoRXlOcUdRN082VWVQbS1kMFlzS0ktaVp3ckNqSTZzYlh4bFlCWGZDZF9DeGlvLVlZVGVNUVJ4VHlEUW1QUmpLaWtMb2FvYUdiclJhb09NczJZbzFSQ2tfMXlHS3JIZnV3N1p1Tk9neVBXejUyLTNndWwwZHZyN2lXTjNSbVg2WU84Rm02Tlc?oc=5",
-      "description": "Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.",
-      "source": "Seeking Alpha",
-      "source_domain": "news.google.com",
-      "published_at": "2026-08-03T23:03:40+00:00",
-      "published_display": "03 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHNrUFV3OGNLRTVKNzAyOHU0T0pocklaMjd0bHE3a0NDWXpzNzRVeDEtUDBfbWdEN0JoRXlOcUdRN082VWVQbS1kMFlzS0ktaVp3ckNqSTZzYlh4bFlCWGZDZF9DeGlvLVlZVGVNUVJ4VHlEUW1QUmpLaWtMb2FvYUdiclJhb09NczJZbzFSQ2tfMXlHS3JIZnV3N1p1Tk9neVBXejUyLTNndWwwZHZyN2lXTjNSbVg2WU84Rm02Tlc?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-08-03T23:03:40+00:00"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkU3bklVSUVHNmdNdDZZemVnVGpzZDE4QmJGelRMQlBiV2ZTTll6d19qUEJHU0w1dEdOekp1S1dlSzRYbkVBbC0zXzZ0RjdLWmpNVG5HazNtU3pWbXhHR3VGQVFLRmZOVkQtSTZxTkNteTV6VVFxb042NHUyamFNTUFYaTdMZE5XaDBQb0ViakQ0VUFDajUzbzBoMUdQcTdScmt6NjFCMA?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-08-03T23:03:40+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 call earnings presentation results",
-      "source_description": "Labcorp Holdings Inc. 2026 Q2 - Results - Earnings Call Presentation (NYSE:LH) 2026-08-03 Seeking Alpha",
-      "chatgpt_summary": "Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_updated_at": "2026-08-07T18:42:00+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/healthcare/articles/labcorp-announces-2026-second-quarter-105000030.html"
-      ],
-      "summary_verification": "verified"
-    },
-    {
       "id": "056ae46b5c843cbf762a",
       "company": "Quest Diagnostics",
       "title": "Bacterial Vaginosis Triples STI Risk in Women, Quest Diagnostics Study Finds",
@@ -1007,9 +1024,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPd180R3FVdmFTMnpRcjczRzlRaVZFaTdMMjQyS0JuOXJVOXNIWFM2Y0RldHM0M3FIbDRHbFByVHExQ3J6UVpiVlgwajVObEhKMXdiUE95T2JEV0F4SjdfZk1qZzJNd0pPMXNURDdCMmJvb2pPLVpBVWwwcDVNdVhtdUNZTVBCMEdockoxTXFLNEZWRmQwQXZqLUt1NXh5Ty16OGdLS00yM1dneGZ2UlQxcWxWU1M4RGhDYjNuMnhrVVhtaXlEWnhhNF90d1YybFNQUkhyOHV2UlFwczFnQWxOUVNVRkpwUQ?oc=5",
           "domain": "theglobeandmail.com",
           "published_at": "2026-08-03T15:46:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPME9WXzRyWExNR0Z2cHZhNnByV1BHbVBJVms1SFg3NmdqV0lJYjlkeUFmT0VVbGxJYlpkNzFsVlFqeWhYZUFadE9fdVhDYVYwanhtLUoxbm90QnlXU29OS2ctcURZQjhEQVc0Ym9BRUlWTERIVVlObGV5aDdmSDloT2NFS3Y3UUwtTGNzNXZVclFtNWZRaUh3anZUNUdZaTJLeDgxZGpxZk5GZ2hhR29PVElla1htWmlpa1hBZWJELXdjcS1Xei0wQ0pjdTNVMnhoMHpCM1Etc2FvZDg1QnFaVDlKajM?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-08-03T15:46:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "2026 accelerates demand outlook raises testing",
       "source_description": "Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.",
       "chatgpt_summary": "Quest Diagnostics raised its full-year 2026 outlook after a second quarter marked by double-digit revenue growth and stronger earnings. Revenue reached $3.043 billion, up 10.2% from $2.761 billion a year earlier, with 10.0% organic growth. Reported diluted EPS increased 15.0% to $2.84, while adjusted diluted EPS rose 19.1% to $3.12. Adjusted operating income was $502 million, up 7.8%, with an adjusted operating margin of 16.5%. Management increased 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion. Reported diluted EPS guidance moved to $9.97–$10.17 from $9.58–$9.78, and adjusted diluted EPS guidance increased to $11.05–$11.25 from $10.63–$10.83. Expected operating cash flow was also raised to approximately $1.80 billion from $1.75 billion, while capital-spending guidance remained about $550 million. Quest attributed the performance to broad strength across physician, hospital and consumer channels. Recent growth initiatives include its Corewell Health laboratory joint venture, collaboration with Fresenius Medical Care, consumer and wearable partnerships, expansion of AD-Detect Alzheimer’s testing, New York approval for Haystack MRD and broader oncology-test integration through Flatiron Health’s OncoEMR platform. The raised outlook indicates that higher testing demand and newer diagnostic offerings are translating into sustained organic growth.",
@@ -1052,6 +1075,36 @@
         "https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
+    },
+    {
+      "id": "927a9aced99f16a0d20c",
+      "company": "Labcorp",
+      "title": "Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkU3bklVSUVHNmdNdDZZemVnVGpzZDE4QmJGelRMQlBiV2ZTTll6d19qUEJHU0w1dEdOekp1S1dlSzRYbkVBbC0zXzZ0RjdLWmpNVG5HazNtU3pWbXhHR3VGQVFLRmZOVkQtSTZxTkNteTV6VVFxb042NHUyamFNTUFYaTdMZE5XaDBQb0ViakQ0VUFDajUzbzBoMUdQcTdScmt6NjFCMA?oc=5",
+      "description": "Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "published_display": "03 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkU3bklVSUVHNmdNdDZZemVnVGpzZDE4QmJGelRMQlBiV2ZTTll6d19qUEJHU0w1dEdOekp1S1dlSzRYbkVBbC0zXzZ0RjdLWmpNVG5HazNtU3pWbXhHR3VGQVFLRmZOVkQtSTZxTkNteTV6VVFxb042NHUyamFNTUFYaTdMZE5XaDBQb0ViakQ0VUFDajUzbzBoMUdQcTdScmt6NjFCMA?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-08-03T07:00:00+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHNrUFV3OGNLRTVKNzAyOHU0T0pocklaMjd0bHE3a0NDWXpzNzRVeDEtUDBfbWdEN0JoRXlOcUdRN082VWVQbS1kMFlzS0ktaVp3ckNqSTZzYlh4bFlCWGZDZF9DeGlvLVlZVGVNUVJ4VHlEUW1QUmpLaWtMb2FvYUdiclJhb09NczJZbzFSQ2tfMXlHS3JIZnV3N1p1Tk9neVBXejUyLTNndWwwZHZyN2lXTjNSbVg2WU84Rm02Tlc?oc=5",
+          "domain": "news.google.com",
+          "published_at": "2026-08-03T23:03:40+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 call earnings presentation results"
     },
     {
       "id": "ceb779dc820a6490b2a9",
@@ -3096,9 +3149,15 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5",
           "domain": "scanx.trade",
           "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkh1ekFPVG9nMXlxZzVEd3dtSkNNZVlwZVVwYW5CblpXUk1tTW5IcFF0MU5qM0tCNE81SkdtSHE2SVpONTVUNWZmYmY0UmdCS1UtRm9GZ2puTmdSRWpOWFo2TlVYWkI1ZzZHcVl3U3NFc3MtdnRMLVlkMlptTFFEd0o5SUs2RVRrNWk0ZUFrZi0xQXMxTEhrM2htVlh6bWpyTEhVaHJ1Sl8zWFppdjljRjJ6REc?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-07-23T07:00:00+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "earnings estimates revenue surpasses",
       "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
       "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 results above Wall Street expectations, with adjusted earnings of $3.12 per share versus the Zacks consensus estimate of $2.81 and $2.62 a year earlier. That represented an 11.03% earnings surprise and a 19.1% year-over-year increase in adjusted EPS. Revenue was $3.04 billion, up from $2.76 billion a year earlier and 2.15% above the Zacks consensus estimate. Quest’s own earnings release reported revenue growth of 10.2%, including 10.0% organic growth, while reported diluted EPS increased 15.0% to $2.84. The company raised full-year 2026 guidance after the quarter. It now expects revenue of $11.95 billion to $12.05 billion, compared with prior guidance of $11.78 billion to $11.90 billion. Reported diluted EPS guidance increased to $9.97-$10.17 from $9.58-$9.78, and adjusted diluted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83. Quest also increased its operating cash flow outlook to approximately $1.80 billion while maintaining planned capital expenditures of about $550 million. Zacks noted that Quest had exceeded consensus EPS and revenue estimates in each of the previous four quarters, although subsequent share-price performance would depend heavily on management’s outlook and execution.",
@@ -4195,10 +4254,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 85,
+  "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-15T00:17:00+05:30",
-  "next_update_display": "15 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-15T06:17:00+05:30",
+  "next_update_display": "15 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

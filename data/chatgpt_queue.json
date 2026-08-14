@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T21:59:56.519033+05:30",
-  "generated_at_display": "14 Aug 2026, 9:59 PM IST",
+  "generated_at": "2026-08-15T01:47:01.686772+05:30",
+  "generated_at_display": "15 Aug 2026, 1:47 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 54,
+  "remaining_unsummarized_count": 57,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,29 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUYybzRlazZJTkJQT0hDaXJSNEtYQWl4am91UnQtUkhyUzRXeWl4N2dpcF9ObExOQk5ERjZHaW9namZiVGV5VkM0Y1ZYVHliZHp4MU4yaXlRZGhKUlBwWVozRjBOSTExNmxVVlJEbGhoRVREWmdUcjBRS19qSWNWNlY5UVAzRlZ5cldqQzk3T3dHTkhmalA3dkE0N2RuVENoYk5mOWcteTMzYkhRMkhneFY5QUJlbzhtODlqYkpnbzI0SFJiSExCNnFXc2pxUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "927a9aced99f16a0d20c",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp 2026 Q2 - Results - Earnings Call Presentation 2026-08-03",
+      "source": "Seeking Alpha",
+      "description": "Labcorp reported second-quarter 2026 revenue of $3.731 billion, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures added 1.2 points and foreign exchange added 0.4 points. Diluted EPS increased 28.5% to $3.64 from $2.84, while adjusted EPS rose 14.9% to $4.99 from $4.35. Management described the quarter as benefiting from organic growth, operating efficiencies and continued momentum across Diagnostics Laboratories and Biopharma Laboratory Services. Following the quarter, Labcorp raised its 2026 enterprise revenue-growth outlook to 5.4%–6.3%, from 5.0%–6.1% previously. It also lifted adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35. Updated segment guidance calls for Diagnostics Laboratories revenue of $11.450–$11.532 billion, representing 5.3%–6.0% growth, and Biopharma Laboratory Services revenue of $3.269–$3.300 billion, representing 5.5%–6.5% growth. Free-cash-flow guidance remains $1.24–$1.36 billion. Labcorp also increased its share-repurchase authorization by $1 billion, leaving $1.4 billion available. Operational priorities highlighted with the results included expansion in oncology, nationwide distribution of the ColoSense at-home colorectal cancer screening test, a new DPYD genotyping test and the Marker by Labcorp consumer genetic-health panel.",
+      "published_at": "2026-08-03T07:00:00+00:00",
+      "published_display": "03 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkU3bklVSUVHNmdNdDZZemVnVGpzZDE4QmJGelRMQlBiV2ZTTll6d19qUEJHU0w1dEdOekp1S1dlSzRYbkVBbC0zXzZ0RjdLWmpNVG5HazNtU3pWbXhHR3VGQVFLRmZOVkQtSTZxTkNteTV6VVFxb042NHUyamFNTUFYaTdMZE5XaDBQb0ViakQ0VUFDajUzbzBoMUdQcTdScmt6NjFCMA?oc=5",
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTkU3bklVSUVHNmdNdDZZemVnVGpzZDE4QmJGelRMQlBiV2ZTTll6d19qUEJHU0w1dEdOekp1S1dlSzRYbkVBbC0zXzZ0RjdLWmpNVG5HazNtU3pWbXhHR3VGQVFLRmZOVkQtSTZxTkNteTV6VVFxb042NHUyamFNTUFYaTdMZE5XaDBQb0ViakQ0VUFDajUzbzBoMUdQcTdScmt6NjFCMA?oc=5"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHNrUFV3OGNLRTVKNzAyOHU0T0pocklaMjd0bHE3a0NDWXpzNzRVeDEtUDBfbWdEN0JoRXlOcUdRN082VWVQbS1kMFlzS0ktaVp3ckNqSTZzYlh4bFlCWGZDZF9DeGlvLVlZVGVNUVJ4VHlEUW1QUmpLaWtMb2FvYUdiclJhb09NczJZbzFSQ2tfMXlHS3JIZnV3N1p1Tk9neVBXejUyLTNndWwwZHZyN2lXTjNSbVg2WU84Rm02Tlc?oc=5"
         }
       ]
     },
@@ -189,6 +212,44 @@
       ]
     },
     {
+      "id": "ca9f960013ab517ac497",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
+      "source": "Investing.com",
+      "description": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp Investing.com",
+      "published_at": "2026-08-14T19:14:11+00:00",
+      "published_display": "14 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "576e8190f77e98aa149f",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
+      "source": "Yahoo Finance",
+      "description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know Yahoo Finance",
+      "published_at": "2026-08-14T16:00:02+00:00",
+      "published_display": "14 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bf59ba3d72fa86b61827",
       "company": "Sonic Healthcare",
       "category": "Other",
@@ -223,6 +284,37 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "588313cd0791b0f57368",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics (QDI.F) Stock Price, News, Quote & History",
+      "source": "Yahoo! Finance Canada",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
+      "published_at": "2026-08-08T04:16:16+00:00",
+      "published_display": "08 Aug 2026",
+      "official_source": false,
+      "coverage_count": 4,
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5"
         }
       ]
     },
@@ -383,33 +475,6 @@
       ]
     },
     {
-      "id": "131a04cd4b17846e8707",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
-      "published_at": "2026-08-10T16:20:54+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 3,
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5"
-        },
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "330dd656b1d06b467973",
       "company": "Labcorp",
       "category": "Other",
@@ -562,63 +627,6 @@
         {
           "name": "tradersunion.com",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b818375b8fafc32848d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics SVP & Chief Commercial Officer Mark Dela",
-      "source": "GuruFocus",
-      "description": "Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus",
-      "published_at": "2026-07-30T15:02:27+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5",
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ae7da1f27bd119f8422",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
-      "source": "IR Impact",
-      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
-      "published_at": "2026-07-30T12:08:02+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-      "sources": [
-        {
-          "name": "IR Impact",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce295d63ded2d45b412f",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026",
-      "source": "Yahoo Finance",
-      "description": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5"
         }
       ]
     }
