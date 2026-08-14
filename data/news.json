@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T02:58:26.451080+05:30",
-  "generated_at_display": "14 Aug 2026, 2:58 AM IST",
-  "item_count": 100,
-  "raw_relevant_item_count": 287,
+  "generated_at": "2026-08-14T06:49:05.141385+05:30",
+  "generated_at_display": "14 Aug 2026, 6:49 AM IST",
+  "item_count": 101,
+  "raw_relevant_item_count": 285,
   "duplicates_merged": 84,
   "failures": [],
   "items": [
@@ -1373,6 +1373,30 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
       ]
+    },
+    {
+      "id": "db59d3c0eaf07e497188",
+      "company": "Labcorp",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg",
+      "source": "Bloomberg",
+      "source_url": "https://www.bloomberg.com",
+      "source_domain": "bloomberg.com",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "demand earnings medical outlook raises strong testing"
     },
     {
       "id": "698c3248416c71aed00d",
@@ -2873,7 +2897,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
-      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "description": "Quest Diagnostics reported second-quarter 2026 results above Wall Street expectations, with adjusted earnings of $3.12 per share versus the Zacks consensus estimate of $2.81 and $2.62 a year earlier. That represented an 11.03% earnings surprise and a 19.1% year-over-year increase in adjusted EPS. Revenue was $3.04 billion, up from $2.76 billion a year earlier and 2.15% above the Zacks consensus estimate. Quest’s own earnings release reported revenue growth of 10.2%, including 10.0% organic growth, while reported diluted EPS increased 15.0% to $2.84. The company raised full-year 2026 guidance after the quarter. It now expects revenue of $11.95 billion to $12.05 billion, compared with prior guidance of $11.78 billion to $11.90 billion. Reported diluted EPS guidance increased to $9.97-$10.17 from $9.58-$9.78, and adjusted diluted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83. Quest also increased its operating cash flow outlook to approximately $1.80 billion while maintaining planned capital expenditures of about $550 million. Zacks noted that Quest had exceeded consensus EPS and revenue estimates in each of the previous four quarters, although subsequent share-price performance would depend heavily on management’s outlook and execution.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -2926,7 +2950,16 @@
         }
       ],
       "coverage_count": 7,
-      "event_signature": "earnings estimates revenue surpasses"
+      "event_signature": "earnings estimates revenue surpasses",
+      "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
+      "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 results above Wall Street expectations, with adjusted earnings of $3.12 per share versus the Zacks consensus estimate of $2.81 and $2.62 a year earlier. That represented an 11.03% earnings surprise and a 19.1% year-over-year increase in adjusted EPS. Revenue was $3.04 billion, up from $2.76 billion a year earlier and 2.15% above the Zacks consensus estimate. Quest’s own earnings release reported revenue growth of 10.2%, including 10.0% organic growth, while reported diluted EPS increased 15.0% to $2.84. The company raised full-year 2026 guidance after the quarter. It now expects revenue of $11.95 billion to $12.05 billion, compared with prior guidance of $11.78 billion to $11.90 billion. Reported diluted EPS guidance increased to $9.97-$10.17 from $9.58-$9.78, and adjusted diluted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83. Quest also increased its operating cash flow outlook to approximately $1.80 billion while maintaining planned capital expenditures of about $550 million. Zacks noted that Quest had exceeded consensus EPS and revenue estimates in each of the previous four quarters, although subsequent share-price performance would depend heavily on management’s outlook and execution.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T06:37:04+05:30",
+      "summary_evidence": [
+        "https://www.zacks.com/stock/news/2958866/quest-diagnostics-dgx-surpasses-q2-earnings-and-revenue-estimates",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "1913eec7daaa3590f8a9",
@@ -3065,7 +3098,7 @@
       "company": "Labcorp",
       "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards?",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5",
-      "description": "Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.",
+      "description": "Ahead of Labcorp’s July 30 second-quarter 2026 results, Zacks expected the company to report revenue of about $3.72 billion, up 5.4% year over year, and adjusted EPS of $4.79, up 10.1%. Labcorp had beaten earnings estimates in each of the prior four quarters, with an average surprise of 3.31%, and entered the report with a Zacks Rank #2 and a positive Earnings ESP of 0.71%. The preview identified Diagnostics Laboratories as the main growth engine, supported by organic demand, health-system partnerships and acquisitions. It cited Labcorp’s nationwide collaboration with Children’s Hospital of Philadelphia, the March acquisition of selected Laboratory Alliance of Central New York assets, and the expanded DPYD genotyping test intended to identify cancer patients at risk of severe chemotherapy toxicity. Zacks also highlighted specialty-testing growth in oncology, neurology and autoimmune disease, including liquid-biopsy and MRD offerings, an FDA-approved ovarian-cancer companion diagnostic for KEYTRUDA eligibility, and a rapid FDA-cleared fentanyl test with a 10-minute result. The article expected Diagnostics revenue to grow 6.1% and Biopharma Laboratory Services revenue to rise 2.7%, with Central Laboratories supporting BLS while Early Development streamlining constrained growth. Labcorp’s broader technology initiatives included expanded Epic Aura integration and collaborations with AWS, Datavant and Optum.ai to improve research, laboratory operations and customer workflows.",
       "source": "Yahoo Finance",
       "source_domain": "news.google.com",
       "published_at": "2026-07-22T07:00:00+00:00",
@@ -3357,7 +3390,15 @@
         }
       ],
       "coverage_count": 47,
-      "event_signature": "cards earnings prepares report what"
+      "event_signature": "cards earnings prepares report what",
+      "source_description": "Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.",
+      "chatgpt_summary": "Ahead of Labcorp’s July 30 second-quarter 2026 results, Zacks expected the company to report revenue of about $3.72 billion, up 5.4% year over year, and adjusted EPS of $4.79, up 10.1%. Labcorp had beaten earnings estimates in each of the prior four quarters, with an average surprise of 3.31%, and entered the report with a Zacks Rank #2 and a positive Earnings ESP of 0.71%. The preview identified Diagnostics Laboratories as the main growth engine, supported by organic demand, health-system partnerships and acquisitions. It cited Labcorp’s nationwide collaboration with Children’s Hospital of Philadelphia, the March acquisition of selected Laboratory Alliance of Central New York assets, and the expanded DPYD genotyping test intended to identify cancer patients at risk of severe chemotherapy toxicity. Zacks also highlighted specialty-testing growth in oncology, neurology and autoimmune disease, including liquid-biopsy and MRD offerings, an FDA-approved ovarian-cancer companion diagnostic for KEYTRUDA eligibility, and a rapid FDA-cleared fentanyl test with a 10-minute result. The article expected Diagnostics revenue to grow 6.1% and Biopharma Laboratory Services revenue to rise 2.7%, with Central Laboratories supporting BLS while Early Development streamlining constrained growth. Labcorp’s broader technology initiatives included expanded Epic Aura integration and collaborations with AWS, Datavant and Optum.ai to improve research, laboratory operations and customer workflows.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-14T06:37:04+05:30",
+      "summary_evidence": [
+        "https://www.zacks.com/stock/news/2957862/labcorp-prepares-to-report-q2-earnings-whats-in-the-cards"
+      ]
     },
     {
       "id": "c72d0b6434beac76ee08",
@@ -4005,10 +4046,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 83,
+  "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-14T06:17:00+05:30",
-  "next_update_display": "14 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-14T12:17:00+05:30",
+  "next_update_display": "14 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

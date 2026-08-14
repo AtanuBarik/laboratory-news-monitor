@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T03:38:38.550107+05:30",
-  "generated_at_display": "14 Aug 2026, 3:38 AM IST",
+  "generated_at": "2026-08-14T06:49:08.269476+05:30",
+  "generated_at_display": "14 Aug 2026, 6:49 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 49,
+  "remaining_unsummarized_count": 48,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -113,49 +113,6 @@
       ]
     },
     {
-      "id": "b19959146ca03b493679",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates",
-      "source": "Yahoo Finance",
-      "description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5"
-        },
-        {
-          "name": "Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5"
-        },
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bf59ba3d72fa86b61827",
       "company": "Sonic Healthcare",
       "category": "Other",
@@ -236,6 +193,25 @@
       ]
     },
     {
+      "id": "db59d3c0eaf07e497188",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "source": "Bloomberg",
+      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg",
+      "published_at": "2026-07-30T07:00:00+00:00",
+      "published_display": "30 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
+      "sources": [
+        {
+          "name": "Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "448697c2ed67c00d7e1e",
       "company": "Sonic Healthcare",
       "category": "Financials",
@@ -289,53 +265,6 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f0d865fed43c9014dee5",
-      "company": "Labcorp",
-      "category": "Leadership Changes",
-      "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards?",
-      "source": "Yahoo Finance",
-      "description": "Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "official_source": false,
-      "coverage_count": 47,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2V4Q3BYMW5ybElNajU1dHE0T3NldTlIckV5QV9mS1VjbEtJME9sUV9RZHdYOFc0WUp4S21qekhuSXJXaFJaR3hLNVl4cmR0U2ctTThNRVJXME9MNU5RYnh5d1RHaUI2UXMxWnY1NUdnT1RHZGxwS3RLYm91SzZEZWtiQ3NfZ3FNMFBqWlFYOHhxSTFFVTZMUTVpUE9ncWs?oc=5"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NGZG1SeWFBUU01b0ozamZpQVhJLVNyWW1ZNlN0TEFhaHgzbE45eEp2OTduamxGbHV6YURYa201dGdSbWhQVEQtaXNsOVRFRDBPczBiVkJwRXlGUzVEN1NvYm1oTHBkSHV5RVpwWkRFNnlVSzFpZDJrZERxbkROZTVKQ0hDbDA0MlEyX1hrRllVZnhZ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5"
-        },
-        {
-          "name": "StockStory",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlg5cWZfam5IM3FJZ3ZTS1hUekFLdjB0aXMtWkt1cHRyMHozdEh5ZlZ6cHlWb3I1ai1SeGZLX2FILVptQldhUGttaURQc3VWdHRkSWRTZmZwY3RmS2xuM29YdXRSQ3RRam44X3BfV3p1YVMwZndfSjFNcDVsSnZNYnp4NFNLNzhDVFZicVF3Tm43eERiUXZWSDBURUJuMkFWSHBlX2t0eTlseXhtMHY3VnFxc3hseGUyT0pTZjk5Q3RvWkVhUURXc0VxS0kycWJqd1VZ?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5"
         }
       ]
     },
@@ -699,6 +628,25 @@
         {
           "name": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b44ec09afb37d0ac7b2",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains",
+      "source": "MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5"
         }
       ]
     }
