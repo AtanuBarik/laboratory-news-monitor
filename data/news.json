@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-14T18:52:18.424273+05:30",
-  "generated_at_display": "14 Aug 2026, 6:52 PM IST",
-  "item_count": 105,
-  "raw_relevant_item_count": 290,
-  "duplicates_merged": 87,
+  "generated_at": "2026-08-14T21:07:15.132978+05:30",
+  "generated_at_display": "14 Aug 2026, 9:07 PM IST",
+  "item_count": 107,
+  "raw_relevant_item_count": 292,
+  "duplicates_merged": 86,
   "failures": [],
   "items": [
+    {
+      "id": "e5ca053f7a1eadcd1fc5",
+      "company": "Labcorp",
+      "title": "Labcorp announces executive leadership changes effective in September",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
+      "description": "Labcorp announces executive leadership changes effective in September Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-14T14:04:14+00:00",
+      "published_display": "14 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-14T14:04:14+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "changes effective executive leadership september"
+    },
     {
       "id": "bf59ba3d72fa86b61827",
       "company": "Sonic Healthcare",
@@ -1691,6 +1715,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "compared competitors daily despite gains stock tuesday underperforms when"
+    },
+    {
+      "id": "052da069673e63abdcec",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Team Tests Impact of Teplizumab’s FDA Approval on Screening for Type 1 Diabetes",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUYybzRlazZJTkJQT0hDaXJSNEtYQWl4am91UnQtUkhyUzRXeWl4N2dpcF9ObExOQk5ERjZHaW9namZiVGV5VkM0Y1ZYVHliZHp4MU4yaXlRZGhKUlBwWVozRjBOSTExNmxVVlJEbGhoRVREWmdUcjBRS19qSWNWNlY5UVAzRlZ5cldqQzk3T3dHTkhmalA3dkE0N2RuVENoYk5mOWcteTMzYkhRMkhneFY5QUJlbzhtODlqYkpnbzI0SFJiSExCNnFXc2pxUGc?oc=5",
+      "description": "Quest Diagnostics Team Tests Impact of Teplizumab’s FDA Approval on Screening for Type 1 Diabetes Quest Diagnostics Newsroom",
+      "source": "Quest Diagnostics Newsroom",
+      "source_url": "https://newsroom.questdiagnostics.com",
+      "source_domain": "newsroom.questdiagnostics.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "category": "Product & Services",
+      "official_source": true,
+      "sources": [
+        {
+          "name": "Quest Diagnostics Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUYybzRlazZJTkJQT0hDaXJSNEtYQWl4am91UnQtUkhyUzRXeWl4N2dpcF9ObExOQk5ERjZHaW9namZiVGV5VkM0Y1ZYVHliZHp4MU4yaXlRZGhKUlBwWVozRjBOSTExNmxVVlJEbGhoRVREWmdUcjBRS19qSWNWNlY5UVAzRlZ5cldqQzk3T3dHTkhmalA3dkE0N2RuVENoYk5mOWcteTMzYkhRMkhneFY5QUJlbzhtODlqYkpnbzI0SFJiSExCNnFXc2pxUGc?oc=5",
+          "domain": "newsroom.questdiagnostics.com",
+          "published_at": "2026-07-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "approval diabetes fda impact screening team teplizumab tests type"
     },
     {
       "id": "ec5307491ca834ca0f19",
@@ -4147,7 +4195,7 @@
       ]
     }
   ],
-  "low_value_items_removed": 81,
+  "low_value_items_removed": 82,
   "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-15T00:17:00+05:30",

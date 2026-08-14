@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-14T18:52:21.499985+05:30",
-  "generated_at_display": "14 Aug 2026, 6:52 PM IST",
+  "generated_at": "2026-08-14T21:07:17.748493+05:30",
+  "generated_at_display": "14 Aug 2026, 9:07 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 52,
+  "remaining_unsummarized_count": 54,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "052da069673e63abdcec",
+      "company": "Quest Diagnostics",
+      "category": "Product & Services",
+      "title": "Quest Diagnostics Team Tests Impact of Teplizumab’s FDA Approval on Screening for Type 1 Diabetes",
+      "source": "Quest Diagnostics Newsroom",
+      "description": "Quest Diagnostics Team Tests Impact of Teplizumab’s FDA Approval on Screening for Type 1 Diabetes Quest Diagnostics Newsroom",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "official_source": true,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUYybzRlazZJTkJQT0hDaXJSNEtYQWl4am91UnQtUkhyUzRXeWl4N2dpcF9ObExOQk5ERjZHaW9namZiVGV5VkM0Y1ZYVHliZHp4MU4yaXlRZGhKUlBwWVozRjBOSTExNmxVVlJEbGhoRVREWmdUcjBRS19qSWNWNlY5UVAzRlZ5cldqQzk3T3dHTkhmalA3dkE0N2RuVENoYk5mOWcteTMzYkhRMkhneFY5QUJlbzhtODlqYkpnbzI0SFJiSExCNnFXc2pxUGc?oc=5",
+      "sources": [
+        {
+          "name": "Quest Diagnostics Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSUYybzRlazZJTkJQT0hDaXJSNEtYQWl4am91UnQtUkhyUzRXeWl4N2dpcF9ObExOQk5ERjZHaW9namZiVGV5VkM0Y1ZYVHliZHp4MU4yaXlRZGhKUlBwWVozRjBOSTExNmxVVlJEbGhoRVREWmdUcjBRS19qSWNWNlY5UVAzRlZ5cldqQzk3T3dHTkhmalA3dkE0N2RuVENoYk5mOWcteTMzYkhRMkhneFY5QUJlbzhtODlqYkpnbzI0SFJiSExCNnFXc2pxUGc?oc=5"
+        }
+      ]
+    },
     {
       "id": "d81d0a5ec5f591fb5354",
       "company": "Labcorp",
@@ -147,6 +166,25 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGJHdlBESlk1OFZKOVhtdGFmWWdmeHdQOFplam9HcTVzSHNNWEt5OTJXcXVqVkpDWHhkbWR6Z21kalFQb1pTR25kR3E1WXRoa2VVYXhOOU13V0JOc29tXzlORjFMeUh0MnZUNEdIak00OEJMY0loLVFvY0lJdFJFQ0hOTzNDWnVlZmpGWjZueVd3cmdiQ01EMFg0M0cxdHVPMjlSVTV3cU9ndld6dEJPUzFGakUtVm5JMWFpZUJkSGRQUnNaaHdSMUhQS0xuXy1pUVE4SGY5YjBvU1lUSXJJdE9EWXZ4aTVsWEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5ca053f7a1eadcd1fc5",
+      "company": "Labcorp",
+      "category": "Leadership Changes",
+      "title": "Labcorp announces executive leadership changes effective in September",
+      "source": "Investing.com",
+      "description": "Labcorp announces executive leadership changes effective in September Investing.com",
+      "published_at": "2026-08-14T14:04:14+00:00",
+      "published_display": "14 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5"
         }
       ]
     },
@@ -581,44 +619,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "810aa6c73706d03720d7",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
-      "source": "PR Newswire",
-      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94b0bb8fd0cc2c893f57",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
-      "source": "roi-nj.com",
-      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-      "sources": [
-        {
-          "name": "roi-nj.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5"
         }
       ]
     }
