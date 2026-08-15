@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-15T13:24:00.993743+05:30",
-  "generated_at_display": "15 Aug 2026, 1:24 PM IST",
-  "item_count": 109,
-  "raw_relevant_item_count": 297,
-  "duplicates_merged": 84,
+  "generated_at": "2026-08-15T18:55:10.533496+05:30",
+  "generated_at_display": "15 Aug 2026, 6:55 PM IST",
+  "item_count": 108,
+  "raw_relevant_item_count": 296,
+  "duplicates_merged": 85,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzNXbzdCai1LbllKbXFZZjhfTWs1bXQ5Yng5ck9PYTdZMmxpSWZhWnZSN2UtRVZuSC1QdTZ2Wl9odFpldHowTVZKc0lkbUEtMGtzenQyaWVPLUZQZjU4bXByUXZQX2p3QmcyRGFsQzhIZnpyeG4tS2tsVjVIeFZtb0tTNURIbjVxRjhWaEtmOXZQdzFIUUYxZTRhNkpXbmk0M0ZmRV9UQ3NLcFFhTWVOaFE4dThhY2NaREtOTk85RUZwZ0l4eXBBRWEtZ1ZLcmpSWU1uQWVKcVNKUlE?oc=5",
-      "description": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
+      "description": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
       "source": "Investing.com UK",
       "source_url": "https://uk.investing.com",
       "source_domain": "uk.investing.com",
@@ -34,7 +34,15 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "bancorp carol devine miller pfizer sells stocks target"
+      "event_signature": "bancorp carol devine miller pfizer sells stocks target",
+      "source_description": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
+      "chatgpt_summary": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-15T18:38:25+05:30",
+      "summary_evidence": [
+        "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf"
+      ]
     },
     {
       "id": "576e8190f77e98aa149f",
@@ -272,7 +280,7 @@
       "company": "Labcorp",
       "title": "Is Labcorp Fully Priced Following Oncology Approvals And Raised Outlook?",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFZGOUdHWWtZczdNNW13aExWb2ZlUmF3cC1OS1MzdDNuM21fQ1o1aExpcEJkMVhoeGh0MGF3REl1c1JTNG5qckpxbzYwNXd5cjVJbGd3WTVyLW91MTJOdmNxS25lNUY0R25TOWxOT0xoT0dHaG0ybjZBNEZmRTducXp1ZzA5WVRaT25ac0Y2dkFaVTZsb2FLbjJHNC1FQQ?oc=5",
-      "description": "Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? finance.yahoo.com",
+      "description": "Labcorp's second-quarter 2026 results and specialty-testing updates provide the factual backdrop to the queued article's question about whether recent oncology progress and a higher outlook are already reflected in the company's valuation. Revenue reached $3.731 billion, up 5.8% year over year, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Labcorp raised 2026 enterprise revenue guidance to $14.710-$14.827 billion, equivalent to 5.4%-6.3% growth, and lifted adjusted EPS guidance to $18.10-$18.55. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, and Biopharma Laboratory Services revenue rose 6.5% to $836.2 million. Labcorp also expanded several higher-value oncology offerings. It added an advanced DPYD genotyping test to identify patients at risk of severe chemotherapy toxicity, launched ColoSense nationwide as the first FDA-approved RNA-based colorectal cancer screening test with at-home collection, entered a Fox Chase Cancer Center trial collaboration for Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and broadened access to Roche's FDA-approved VENTANA PTEN companion diagnostic for prostate cancer. These operating and product developments are verifiable; the source evidence does not establish a definitive conclusion about whether Labcorp is fully priced.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -289,14 +297,22 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "approvals following fully oncology outlook priced raised"
+      "event_signature": "approvals following fully oncology outlook priced raised",
+      "source_description": "Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? finance.yahoo.com",
+      "chatgpt_summary": "Labcorp's second-quarter 2026 results and specialty-testing updates provide the factual backdrop to the queued article's question about whether recent oncology progress and a higher outlook are already reflected in the company's valuation. Revenue reached $3.731 billion, up 5.8% year over year, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Labcorp raised 2026 enterprise revenue guidance to $14.710-$14.827 billion, equivalent to 5.4%-6.3% growth, and lifted adjusted EPS guidance to $18.10-$18.55. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, and Biopharma Laboratory Services revenue rose 6.5% to $836.2 million. Labcorp also expanded several higher-value oncology offerings. It added an advanced DPYD genotyping test to identify patients at risk of severe chemotherapy toxicity, launched ColoSense nationwide as the first FDA-approved RNA-based colorectal cancer screening test with at-home collection, entered a Fox Chase Cancer Center trial collaboration for Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and broadened access to Roche's FDA-approved VENTANA PTEN companion diagnostic for prostate cancer. These operating and product developments are verifiable; the source evidence does not establish a definitive conclusion about whether Labcorp is fully priced.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-15T18:38:25+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
+      ]
     },
     {
       "id": "c3f6fbbcd5e4d498cb13",
       "company": "Labcorp",
       "title": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5",
-      "description": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp Holdings' (LH) Investment Narrative? finance.yahoo.com",
+      "description": "Labcorp strengthened its 2026 financial outlook after a second quarter that combined mid-single-digit revenue growth, higher earnings, improving margins and continued capital deployment. Revenue rose 5.8% to $3.731 billion from $3.527 billion a year earlier. Diluted EPS increased 28.5% to $3.64 and adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%, including 3.6% organic growth, while Biopharma Laboratory Services revenue increased 6.5% to $836.2 million; Central Labs grew 9.8% and Early Development declined 1.4%. Labcorp raised full-year enterprise revenue guidance to $14.710-$14.827 billion, or 5.4%-6.3% growth, from $14.649-$14.803 billion. Adjusted EPS guidance increased to $18.10-$18.55 from $17.70-$18.35, while free-cash-flow guidance remained $1.24-$1.36 billion. The company also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Alongside the financial actions, Labcorp highlighted new oncology and specialty-testing initiatives, including advanced DPYD genotyping, nationwide ColoSense distribution, a Fox Chase MRD collaboration and expanded access to the VENTANA PTEN companion diagnostic. The combination supports a stronger operating narrative, while any valuation conclusion remains an investor judgment rather than a company-reported fact.",
       "source": "finance.yahoo.com",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -313,7 +329,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "buybacks did guidance investment just narrative oncology shift stronger tests"
+      "event_signature": "buybacks did guidance investment just narrative oncology shift stronger tests",
+      "source_description": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp Holdings' (LH) Investment Narrative? finance.yahoo.com",
+      "chatgpt_summary": "Labcorp strengthened its 2026 financial outlook after a second quarter that combined mid-single-digit revenue growth, higher earnings, improving margins and continued capital deployment. Revenue rose 5.8% to $3.731 billion from $3.527 billion a year earlier. Diluted EPS increased 28.5% to $3.64 and adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%, including 3.6% organic growth, while Biopharma Laboratory Services revenue increased 6.5% to $836.2 million; Central Labs grew 9.8% and Early Development declined 1.4%. Labcorp raised full-year enterprise revenue guidance to $14.710-$14.827 billion, or 5.4%-6.3% growth, from $14.649-$14.803 billion. Adjusted EPS guidance increased to $18.10-$18.55 from $17.70-$18.35, while free-cash-flow guidance remained $1.24-$1.36 billion. The company also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Alongside the financial actions, Labcorp highlighted new oncology and specialty-testing initiatives, including advanced DPYD genotyping, nationwide ColoSense distribution, a Fox Chase MRD collaboration and expanded access to the VENTANA PTEN companion diagnostic. The combination supports a stronger operating narrative, while any valuation conclusion remains an investor judgment rather than a company-reported fact.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-15T18:38:25+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
+      ]
     },
     {
       "id": "f75e5d91e2de0c65f721",
@@ -1577,30 +1601,6 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
       ]
-    },
-    {
-      "id": "db59d3c0eaf07e497188",
-      "company": "Labcorp",
-      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-      "description": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand Bloomberg.com",
-      "source": "Bloomberg",
-      "source_url": "https://www.bloomberg.com",
-      "source_domain": "bloomberg.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Bloomberg",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-          "domain": "bloomberg.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "demand earnings medical outlook raises strong testing"
     },
     {
       "id": "698c3248416c71aed00d",
@@ -4319,10 +4319,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 19,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-15T18:17:00+05:30",
-  "next_update_display": "15 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-16T00:17:00+05:30",
+  "next_update_display": "16 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
