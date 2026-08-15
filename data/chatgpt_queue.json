@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T20:13:05.626616+05:30",
-  "generated_at_display": "15 Aug 2026, 8:13 PM IST",
+  "generated_at": "2026-08-16T00:51:37.493484+05:30",
+  "generated_at_display": "16 Aug 2026, 12:51 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 47,
+  "remaining_unsummarized_count": 44,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -173,29 +173,6 @@
       ]
     },
     {
-      "id": "89b96157b0996d360c0f",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp Stock Holds A Bullish Case On Margin Expansion",
-      "source": "Sahm",
-      "description": "Labcorp (LH) Stock Holds A Bullish Case On Margin Expansion sahmcapital.com",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "published_display": "31 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmZMWHhhV1ZDOThTM1R0QzhUZm9Md3FISk4wQUU1SjE4cDVfSXBEWmZ3bVlPd3Z1MGlFWmhIYjg1YmREbXJVZ2pUWlducGl3MHJWVmFBbVpKZ09aREFLWUxERk5UOTJMSzZmQ2Faa0lhRkQ0U0padDJETnFJaTFUUEJiT0E4VVJOWS12SW4yaWd2MGhEbXNCTWZIZGl4Z01oQVpXSnpPZUViMV9xRXc?oc=5",
-      "sources": [
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmZMWHhhV1ZDOThTM1R0QzhUZm9Md3FISk4wQUU1SjE4cDVfSXBEWmZ3bVlPd3Z1MGlFWmhIYjg1YmREbXJVZ2pUWlducGl3MHJWVmFBbVpKZ09aREFLWUxERk5UOTJMSzZmQ2Faa0lhRkQ0U0padDJETnFJaTFUUEJiT0E4VVJOWS12SW4yaWd2MGhEbXNCTWZIZGl4Z01oQVpXSnpPZUViMV9xRXc?oc=5"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXQ2eFlzeUJfTGotekMzbzR0UF82VVFJaDgxeG8xY0FsbWZnMFhSQVg3RHJfS3RFT0pMblo1SlpMZlhIdjZ6bkg3NlRnQmphX3ZXUmtEOTNLc01IZGNLbFc3NENSUFIzZkVTNnM2TEFxY05OVUdpeWczSW9yOW1SREpSZkpqNVkwQlFfaVVNUVJ3aVNGU29ib1BwS21pZEVodzFHaGRITjFUMmdweV9sSnhaOFhJd0x2alc5ZEltQWxuOHZjVkJNam1B0gHPAUFVX3lxTE5JenlNQlZSVDhxenR2UVVibmx2WnduU3h5c3A4MHB3anY2UExULVZPSU1IOGFWMHhXanpyNXB4V25IWTdCaHhFbmNFVFFCVHUxZC1pXzhPbWw1QzJMOTNwclFjSXdQdzJkMWZxZ2ltRzJaX2RpRW9WSHlDUEN0RTlKQlhaWlFQZUlyU0laNXpsQUd6eHJkbGZ1ei1zcUpYanNtWDVXbUxOQUV6MElVb2oyUTBoUXZ5Y1YwVDlrOUtkUm05Y2VUSzRjUXFTWlo5UQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "448697c2ed67c00d7e1e",
       "company": "Sonic Healthcare",
       "category": "Financials",
@@ -249,44 +226,6 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "330dd656b1d06b467973",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma",
-      "source": "Dermatology Times",
-      "description": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma dermatologytimes.com",
-      "published_at": "2026-08-10T15:10:24+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5",
-      "sources": [
-        {
-          "name": "Dermatology Times",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7821805ba5345b77a918",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
-      "source": "Fierce Biotech",
-      "description": "Labcorp nabs FDA green light for BRAF melanoma diagnostic fiercebiotech.com",
-      "published_at": "2026-08-10T13:28:52+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5"
         }
       ]
     },
@@ -651,6 +590,67 @@
         {
           "name": "Investing.com Canada",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da70bf985fd9e363c79d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
+      "source": "The Motley Fool",
+      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
+      "sources": [
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68ec9092452923f92fdd",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics",
+      "source": "The Globe and Mail",
+      "description": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail",
+      "published_at": "2026-07-25T12:02:00+00:00",
+      "published_display": "25 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb7ce2e5ae90abbc934d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Soars to 52-Week High, Time to Cash Out?",
+      "source": "Yahoo Finance",
+      "description": "Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? finance.yahoo.com",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5"
         }
       ]
     }
