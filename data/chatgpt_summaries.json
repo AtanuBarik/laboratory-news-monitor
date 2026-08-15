@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-15T18:38:25+05:30",
-  "updated_at_display": "15 Aug 2026, 6:38 PM IST",
+  "updated_at": "2026-08-16T00:35:32+05:30",
+  "updated_at_display": "16 Aug 2026, 12:35 AM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -53,7 +53,7 @@
       "sources_used": ["https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
       "verification": "verified"
     },
-    "16ce0d23523ebb187a5a": {
+    "16ce0d23523ebb20f46": {
       "summary": "TradingKey’s financial profile of Quest Diagnostics presents the company as having relatively healthy fundamentals, using FY2025 reported data as the basis for its financial-health assessment. The page lists FY2025 revenue of $11.04 billion, up 11.78% year over year, and EPS of $8.90, up 14.09%. Operating profit was $1.66 billion, representing 17.47% year-over-year growth. The reported net-profit margin was 9.48%, gross margin 31.93%, return on equity 14.17% and return on assets 6.46%. The balance-sheet data show total assets of $16.23 billion against total liabilities of $9.02 billion and total equity of $7.21 billion. Current assets were $2.38 billion, and TradingKey reported a debt-to-assets ratio of 36.20%. The site also lists FY2025 net investing cash flow of negative $631 million and net financing cash flow of negative $1.39 billion. TradingKey’s broader stock-analysis framework combines these financial indicators with valuation, earnings forecasts, price momentum, institutional ownership and risk measures. Its assessment should therefore be read as an investment-analysis snapshot rather than a new operating announcement from Quest. The underlying FY2025 figures nevertheless show a business that entered 2026 with double-digit annual revenue and EPS growth, positive operating profitability and a balance sheet in which equity represented roughly 44% of reported assets.",
       "provider": "ChatGPT Scheduled Task",
       "updated_at": "2026-08-07T18:42:00+05:30",
@@ -831,6 +831,36 @@
       "company": "Labcorp",
       "category": "Financials",
       "sources_used": ["https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "89b96157b0996d360c0f": {
+      "summary": "Simply Wall St’s July 31 analysis argues that Labcorp’s second-quarter 2026 performance strengthened the case for margin expansion. The company reported revenue of $3.731 billion, up 5.8% from a year earlier, while net income excluding extraordinary items rose 25.6% to $298.7 million. Basic EPS increased 28.2% to $3.66, and the trailing net margin improved to 7.0% from 5.7%. The article also notes approximately 15% growth in adjusted EPS, free cash flow of $314 million and organic growth across both Diagnostics Laboratories and Biopharma Laboratory Services. Biopharma’s backlog was about $8.7 billion and its book-to-bill ratio remained above 1.0, supporting future revenue visibility. Labcorp’s official second-quarter release separately confirmed adjusted EPS of $4.99, up 14.9%, and raised full-year 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. The investment analysis views the improving margin profile and higher guidance as evidence that operating leverage is beginning to convert growth into stronger earnings. It also flags reimbursement and policy risks, including potential pressure from PAMA and Affordable Care Act changes, as factors that could offset margin progress. Overall, the article presents Labcorp’s near-term financial momentum as a combination of steady organic laboratory growth, better profitability and disciplined reinvestment in higher-value diagnostics.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-16T00:35:32+05:30",
+      "title": "Labcorp Stock Holds A Bullish Case On Margin Expansion",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://simplywall.st/stocks/us/healthcare/nyse-lh/labcorp-holdings/news/labcorp-lh-stock-holds-a-bullish-case-on-margin-expansion", "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-2026-second-quarter-results-raises-full-year"],
+      "verification": "verified"
+    },
+    "330dd656b1d06b467973": {
+      "summary": "Labcorp announced on August 10, 2026 that the FDA approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma. The next-generation sequencing assay is intended to identify tumors carrying BRAF V600E or V600K variants so clinicians can determine eligibility for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the relevant drug labels. Labcorp said the kit is designed for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing testing to be implemented within health-system laboratories rather than requiring all specimens to be sent to a central reference facility. The assay uses DNA isolated from formalin-fixed, paraffin-embedded tumor tissue and a high-throughput hybridization-based capture method. Its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp positioned the approval as an expansion of its precision-oncology portfolio and a way to broaden access to molecular testing for treatment selection in advanced melanoma. The company noted that stage IV melanoma has a five-year survival rate of about 16%, underscoring the clinical importance of identifying patients whose BRAF-altered tumors may be eligible for targeted therapy.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-16T00:35:32+05:30",
+      "title": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma",
+      "company": "Labcorp",
+      "category": "Other",
+      "sources_used": ["https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting", "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"],
+      "verification": "verified"
+    },
+    "7821805ba5345b77a918": {
+      "summary": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-16T00:35:32+05:30",
+      "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
+      "company": "Labcorp",
+      "category": "Other",
+      "sources_used": ["https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting", "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"],
       "verification": "verified"
     }
   }
