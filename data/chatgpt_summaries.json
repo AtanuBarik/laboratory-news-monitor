@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-15T01:58:45+05:30",
-  "updated_at_display": "15 Aug 2026, 1:58 AM IST",
+  "updated_at": "2026-08-15T18:38:25+05:30",
+  "updated_at_display": "15 Aug 2026, 6:38 PM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -791,6 +791,46 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf"],
+      "verification": "verified"
+    },
+    "95bde11d917a75647e48": {
+      "summary": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-15T18:38:25+05:30",
+      "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "sources_used": ["https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf"],
+      "verification": "verified"
+    },
+    "d81d0a5ec5f591fb5354": {
+      "summary": "Labcorp's second-quarter 2026 results and specialty-testing updates provide the factual backdrop to the queued article's question about whether recent oncology progress and a higher outlook are already reflected in the company's valuation. Revenue reached $3.731 billion, up 5.8% year over year, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Labcorp raised 2026 enterprise revenue guidance to $14.710-$14.827 billion, equivalent to 5.4%-6.3% growth, and lifted adjusted EPS guidance to $18.10-$18.55. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, and Biopharma Laboratory Services revenue rose 6.5% to $836.2 million. Labcorp also expanded several higher-value oncology offerings. It added an advanced DPYD genotyping test to identify patients at risk of severe chemotherapy toxicity, launched ColoSense nationwide as the first FDA-approved RNA-based colorectal cancer screening test with at-home collection, entered a Fox Chase Cancer Center trial collaboration for Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and broadened access to Roche's FDA-approved VENTANA PTEN companion diagnostic for prostate cancer. These operating and product developments are verifiable; the source evidence does not establish a definitive conclusion about whether Labcorp is fully priced.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-15T18:38:25+05:30",
+      "title": "Is Labcorp Fully Priced Following Oncology Approvals And Raised Outlook?",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "sources_used": ["https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "c3f6fbbcd5e4d498cb13": {
+      "summary": "Labcorp strengthened its 2026 financial outlook after a second quarter that combined mid-single-digit revenue growth, higher earnings, improving margins and continued capital deployment. Revenue rose 5.8% to $3.731 billion from $3.527 billion a year earlier. Diluted EPS increased 28.5% to $3.64 and adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%, including 3.6% organic growth, while Biopharma Laboratory Services revenue increased 6.5% to $836.2 million; Central Labs grew 9.8% and Early Development declined 1.4%. Labcorp raised full-year enterprise revenue guidance to $14.710-$14.827 billion, or 5.4%-6.3% growth, from $14.649-$14.803 billion. Adjusted EPS guidance increased to $18.10-$18.55 from $17.70-$18.35, while free-cash-flow guidance remained $1.24-$1.36 billion. The company also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Alongside the financial actions, Labcorp highlighted new oncology and specialty-testing initiatives, including advanced DPYD genotyping, nationwide ColoSense distribution, a Fox Chase MRD collaboration and expanded access to the VENTANA PTEN companion diagnostic. The combination supports a stronger operating narrative, while any valuation conclusion remains an investor judgment rather than a company-reported fact.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-15T18:38:25+05:30",
+      "title": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
+      "verification": "verified"
+    },
+    "db59d3c0eaf07e497188": {
+      "summary": "Labcorp raised its 2026 earnings and revenue outlook after second-quarter performance showed continued diagnostic-testing demand and stronger Biopharma Laboratory Services growth. Revenue increased 5.8% to $3.731 billion from $3.527 billion a year earlier. Reported diluted EPS rose 28.5% to $3.64, while adjusted EPS increased 14.9% to $4.99. Diagnostics Laboratories revenue grew 5.5% to $2.901 billion, with 3.6% organic growth and 1.9 percentage points from acquisitions net of divestitures. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, including 9.8% growth in Central Labs; Early Development revenue declined 1.4%. Adjusted operating margin was 18.0% in Diagnostics Laboratories and 17.0% in Biopharma Laboratory Services, with the latter improving 130 basis points year over year. Labcorp increased full-year enterprise revenue guidance to $14.710-$14.827 billion, representing 5.4%-6.3% growth, and raised adjusted EPS guidance to $18.10-$18.55. It kept free-cash-flow guidance at $1.24-$1.36 billion. The company also expanded its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. The results support the article's central point that sustained medical-testing demand and improved operating execution led management to increase its full-year outlook.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-15T18:38:25+05:30",
+      "title": "Labcorp Raises Earnings Outlook on Strong Medical Testing Demand",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"],
       "verification": "verified"
     }
   }
