@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 15 Aug 2026, 8:53 AM IST
+- **Repository generated:** 15 Aug 2026, 1:24 PM IST
 - **Distinct events in this file:** 109
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
