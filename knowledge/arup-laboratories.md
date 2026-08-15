@@ -1,6 +1,6 @@
 # ARUP Laboratories News
 
-- **Repository generated:** 15 Aug 2026, 6:55 PM IST
+- **Repository generated:** 15 Aug 2026, 7:23 PM IST
 - **Distinct events in this file:** 1
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.

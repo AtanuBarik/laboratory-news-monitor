@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 15 Aug 2026, 6:55 PM IST
+- **Repository generated:** 15 Aug 2026, 7:23 PM IST
 - **Distinct events in this file:** 108
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,11 +10,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Investing.com UK: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzNXbzdCai1LbllKbXFZZjhfTWs1bXQ5Yng5ck9PYTdZMmxpSWZhWnZSN2UtRVZuSC1QdTZ2Wl9odFpldHowTVZKc0lkbUEtMGtzenQyaWVPLUZQZjU4bXByUXZQX2p3QmcyRGFsQzhIZnpyeG4tS2tsVjVIeFZtb0tTNURIbjVxRjhWaEtmOXZQdzFIUUYxZTRhNkpXbmk0M0ZmRV9UQ3NLcFFhTWVOaFE4dThhY2NaREtOTk85RUZwZ0l4eXBBRWEtZ1ZLcmpSWU1uQWVKcVNKUlE?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzBRNWdwQ0p0b3p1LWNqa2ktR245RzBsTC05THlIeFJ1bHAwdk1jV3BXRXltNFNVY1l2ckRtVWpfVFVNczRmSWd1VjhnZGhxZGhxcFl2TW1VOW1TT0ZaZXdGS1RwQXY3X0k2X1lBZUlxbS1JM05abFdDcUhVenNBLS1ZS2oyaFZzemFZWU9sTktBVVp6TUZKbkYzaG15MXV6U0duM0RTbmE0TXl1aEhiaDE2M0lyNFFUS3VkZjk0S1h4UDEtRW1OY1VlUmdnTmpXZnJXNkxmYUtqVUU?oc=5
 
 **Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
 
@@ -104,7 +105,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 12 Aug 2026
-- **Category:** Product & Services
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -116,7 +117,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 12 Aug 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
