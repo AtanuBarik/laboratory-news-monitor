@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 15 Aug 2026, 2:15 AM IST
+- **Repository generated:** 15 Aug 2026, 8:53 AM IST
 - **Distinct events in this file:** 109
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,9 +10,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com UK: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzNXbzdCai1LbllKbXFZZjhfTWs1bXQ5Yng5ck9PYTdZMmxpSWZhWnZSN2UtRVZuSC1QdTZ2Wl9odFpldHowTVZKc0lkbUEtMGtzenQyaWVPLUZQZjU4bXByUXZQX2p3QmcyRGFsQzhIZnpyeG4tS2tsVjVIeFZtb0tTNURIbjVxRjhWaEtmOXZQdzFIUUYxZTRhNkpXbmk0M0ZmRV9UQ3NLcFFhTWVOaFE4dThhY2NaREtOTk85RUZwZ0l4eXBBRWEtZ1ZLcmpSWU1uQWVKcVNKUlE?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5
 
 **Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
@@ -646,7 +647,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Jul 2026
 - **Category:** Other
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - Investing.com Canada: https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5
@@ -655,6 +656,7 @@
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2ktNHBjb3ZzaE8zS285WW5iRkNIUUM3NThNUjBGRlJGYzRyOVZkQlROeS1PYVFLMGhrTUZGNjQ1ZHl1a3ZRTnp3TmhUQ0FDaVRteVRqUUd5TXBnZ1lSc2p3OGQ4RDUzZjVWY2RHRmlObVYxVDlBdWtvemV0Rkh3M2h2MERXc1ltdjRDLVJXLVF4V3ZtX3ExTG5RUUtxX1BPNHhwNTdOMzN3cGxJUEh5b1ZNTVhuR28?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitwFBVV95cUxQbU5xOHlyTVhJOXpwZFRTRU55ckJPZXB3cXdjRGVBSEdkSWJzbV9pYmFvNXBzdndMZ090Tzczbms1WFpHYTI1MjdjaXdjeW85YnRjNHI5QlNkVjREWDdfdUxid085emtfYlZCd0h0VDczQkhpQ3pJNGlwNlpSV3gxM3FRNjgwMFg1c1pSaDhZZTI5WEF6cFFCQlpiLWdScThEVW9tbGp4N3lQWmZlYTBqdTE1VTZiak0?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHpwTUVHSkpxVmItbmtkdXpDNDRVekliendzOTFEX1BZaWFEenRoMkpCMXhiNFRFT3RVSmVqV2plTm9BY3V1ZkNBQ0VnWnpURWp1ZEJNbGZMQkVoYVVvajVnamIzVm1yMDd5YmZwVGtkTmdkQVdTQnpBVXU5emFLVXk1clUxdWd1N09lUndLbDQxODJvNGRxU0FndkR3YnNMNzRHNnVwdXlVcWRmRnZWb3ZwcUdRNUMxUFRMcTRxMUdOcmZVZXdr?oc=5
+  - MarketBeat: https://news.google.com/rss/articles/CBMitAFBVV95cUxNLS1ZMENUQzBvVHhLb3ZXYk1XOTMyZEQzV2lmVF9GcDRXMjM3WkM2NFJ1SHJ5YnlaSXBSRDF6SUVmUmtuRGlDbWJadU9ienBoYzRKVGs4U09VbkZyMXVtRE9ScWR4dTJYZkFWTy1lZHRXMm5RU0kxLTFiVUhxZ0tJVXp3a0lmdU5xMjZzN013RHNFZzhnNVFlWEV6NkRtSVlfdnFZMEdDSE5IcEVyN3p3OENTWUg?oc=5
 
 **Feed description:** Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa
 
