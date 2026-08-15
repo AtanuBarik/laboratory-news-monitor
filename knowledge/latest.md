@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 16 Aug 2026, 12:51 AM IST
+- **Repository generated:** 16 Aug 2026, 1:09 AM IST
 - **Distinct events in this file:** 107
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -191,7 +191,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
-- **Category:** Other
+- **Category:** Organizational Updates
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -203,7 +203,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
-- **Category:** Other
+- **Category:** Clinical, R&D
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
