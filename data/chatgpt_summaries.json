@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-16T00:35:32+05:30",
-  "updated_at_display": "16 Aug 2026, 12:35 AM IST",
+  "updated_at": "2026-08-16T06:37:43+05:30",
+  "updated_at_display": "16 Aug 2026, 6:37 AM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -861,6 +861,16 @@
       "company": "Labcorp",
       "category": "Other",
       "sources_used": ["https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting", "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"],
+      "verification": "verified"
+    },
+    "ca9c22649820263e0fd5": {
+      "summary": "During the 2026 U.S. cyclosporiasis outbreak, Quest Diagnostics' parasitology network experienced a sharp surge in stool-test demand. The Wall Street Journal reported that Quest normally performs about 30 to 40 Cyclospora tests per day across 10 laboratories equipped for the work, but daily volume climbed to more than 1,500 tests. At the Clifton, New Jersey laboratory, specimens arriving from seven eastern states accumulated faster than scientists could process them; on July 30, some samples near the front of the queue were dated July 22. Quest shifted the parasitology bench to full-capacity, seven-day-a-week operations and used extended shifts and staff redeployment to work through the backlog. The conventional microscopy workflow is labor intensive: stool is concentrated in a centrifuge, sediment is placed on a slide, and a scientist may spend 10 to 15 minutes scanning a single slide to avoid a false negative. Orders for other gastrointestinal-pathogen tests also increased. The Journal cited test-maker data showing Cyclospora positivity peaked at 14.2% during July 12-18 before declining to roughly 10% in the final week of July. CDC surveillance separately documented 4,173 laboratory-confirmed domestically acquired cases through July 20 and more than 7,400 additional cases under review. The episode represents an acute outbreak-driven capacity challenge rather than evidence of a permanent Quest operating disruption.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-16T06:37:43+05:30",
+      "title": "Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": ["https://www.wsj.com/health/the-science-lab-where-technicians-are-drowning-in-feces-5b4f3645", "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"],
       "verification": "verified"
     }
   }
