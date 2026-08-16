@@ -193,7 +193,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 04 Aug 2026
-- **Category:** Other
+- **Category:** Leadership Changes
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
@@ -541,7 +541,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5
 
-**Feed description:** Are You Looking for a Top Momentum Pick? Why Quest Diagnostics (DGX) is a Great Choice Yahoo Finance
+**Feed description:** Are You Looking for a Top Momentum Pick? Why Quest Diagnostics (DGX) is a Great Choice finance.yahoo.com
 
 ## 43. Quest Diagnostics Shares Surge 8.6% -- What GF Score o
 
