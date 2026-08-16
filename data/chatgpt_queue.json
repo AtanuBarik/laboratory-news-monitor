@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T01:29:26.632921+05:30",
-  "generated_at_display": "16 Aug 2026, 1:29 AM IST",
+  "generated_at": "2026-08-16T06:48:36.416097+05:30",
+  "generated_at_display": "16 Aug 2026, 6:48 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 44,
+  "remaining_unsummarized_count": 43,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -28,18 +28,22 @@
       ]
     },
     {
-      "id": "576e8190f77e98aa149f",
+      "id": "9345ff18a7852eee2d7c",
       "company": "Quest Diagnostics",
       "category": "Other",
       "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
-      "source": "Yahoo Finance",
-      "description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know Yahoo Finance",
-      "published_at": "2026-08-14T16:00:02+00:00",
+      "source": "sharewise.com",
+      "description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know sharewise.com",
+      "published_at": "2026-08-14T07:00:00+00:00",
       "published_display": "14 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5",
       "sources": [
+        {
+          "name": "sharewise.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5"
+        },
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5"
@@ -245,25 +249,6 @@
         {
           "name": "Mshale",
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca9c22649820263e0fd5",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States",
-      "source": "streamlinefeed.co.ke",
-      "description": "Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States streamlinefeed.co.ke",
-      "published_at": "2026-08-06T11:05:59+00:00",
-      "published_display": "06 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5",
-      "sources": [
-        {
-          "name": "streamlinefeed.co.ke",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5"
         }
       ]
     },
@@ -651,6 +636,25 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "000944de40fb8759e486",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and MindWalk (HYFT)",
+      "source": "The Globe and Mail",
+      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and MindWalk Holdings (HYFT) theglobeandmail.com",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5",
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5"
         }
       ]
     }

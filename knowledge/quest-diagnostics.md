@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 16 Aug 2026, 1:09 AM IST
+- **Repository generated:** 16 Aug 2026, 6:48 AM IST
 - **Distinct events in this file:** 64
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -24,12 +24,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Aug 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - sharewise.com: https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know Yahoo Finance
+**Feed description:** Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know sharewise.com
 
 ## 3. Q2 2026 Quest Diagnostics Earnings Call Transcript
 
@@ -162,7 +163,7 @@
 - **Sources:**
   - streamlinefeed.co.ke: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5
 
-**Feed description:** Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States streamlinefeed.co.ke
+**Feed description:** During the 2026 U.S. cyclosporiasis outbreak, Quest Diagnostics' parasitology network experienced a sharp surge in stool-test demand. The Wall Street Journal reported that Quest normally performs about 30 to 40 Cyclospora tests per day across 10 laboratories equipped for the work, but daily volume climbed to more than 1,500 tests. At the Clifton, New Jersey laboratory, specimens arriving from seven eastern states accumulated faster than scientists could process them; on July 30, some samples near the front of the queue were dated July 22. Quest shifted the parasitology bench to full-capacity, seven-day-a-week operations and used extended shifts and staff redeployment to work through the backlog. The conventional microscopy workflow is labor intensive: stool is concentrated in a centrifuge, sediment is placed on a slide, and a scientist may spend 10 to 15 minutes scanning a single slide to avoid a false negative. Orders for other gastrointestinal-pathogen tests also increased. The Journal cited test-maker data showing Cyclospora positivity peaked at 14.2% during July 12-18 before declining to roughly 10% in the final week of July. CDC surveillance separately documented 4,173 laboratory-confirmed domestically acquired cases through July 20 and more than 7,400 additional cases under review. The episode represents an acute outbreak-driven capacity challenge rather than evidence of a permanent Quest operating disruption.
 
 ## 13. Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF
 

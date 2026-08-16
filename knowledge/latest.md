@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 16 Aug 2026, 1:09 AM IST
+- **Repository generated:** 16 Aug 2026, 6:48 AM IST
 - **Distinct events in this file:** 107
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -19,19 +19,7 @@
 
 **Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
 
-## 2. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 14 Aug 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5
-
-**Feed description:** Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know Yahoo Finance
-
-## 3. Labcorp announces executive leadership changes effective in September
+## 2. Labcorp announces executive leadership changes effective in September
 
 - **Company:** Labcorp
 - **Publication date:** 14 Aug 2026
@@ -42,6 +30,19 @@
   - Investing.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5
 
 **Feed description:** Labcorp announces executive leadership changes effective in September Investing.com
+
+## 3. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 14 Aug 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - sharewise.com: https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know sharewise.com
 
 ## 4. Sonic Healthcare Diagnostic Services Market Outlook
 
@@ -297,7 +298,7 @@
 - **Sources:**
   - streamlinefeed.co.ke: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5
 
-**Feed description:** Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States streamlinefeed.co.ke
+**Feed description:** During the 2026 U.S. cyclosporiasis outbreak, Quest Diagnostics' parasitology network experienced a sharp surge in stool-test demand. The Wall Street Journal reported that Quest normally performs about 30 to 40 Cyclospora tests per day across 10 laboratories equipped for the work, but daily volume climbed to more than 1,500 tests. At the Clifton, New Jersey laboratory, specimens arriving from seven eastern states accumulated faster than scientists could process them; on July 30, some samples near the front of the queue were dated July 22. Quest shifted the parasitology bench to full-capacity, seven-day-a-week operations and used extended shifts and staff redeployment to work through the backlog. The conventional microscopy workflow is labor intensive: stool is concentrated in a centrifuge, sediment is placed on a slide, and a scientist may spend 10 to 15 minutes scanning a single slide to avoid a false negative. Orders for other gastrointestinal-pathogen tests also increased. The Journal cited test-maker data showing Cyclospora positivity peaked at 14.2% during July 12-18 before declining to roughly 10% in the final week of July. CDC surveillance separately documented 4,173 laboratory-confirmed domestically acquired cases through July 20 and more than 7,400 additional cases under review. The episode represents an acute outbreak-driven capacity challenge rather than evidence of a permanent Quest operating disruption.
 
 ## 24. Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF
 
