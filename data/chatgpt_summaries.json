@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-16T06:37:43+05:30",
-  "updated_at_display": "16 Aug 2026, 6:37 AM IST",
+  "updated_at": "2026-08-16T06:51:28+05:30",
+  "updated_at_display": "16 Aug 2026, 6:51 AM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -871,6 +871,16 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://www.wsj.com/health/the-science-lab-where-technicians-are-drowning-in-feces-5b4f3645", "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"],
+      "verification": "verified"
+    },
+    "945328595ce833917a73": {
+      "summary": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, exclusivity, minimum testing volumes or a separate new Quest assay; the development is primarily a workflow and distribution integration that embeds Quest testing into a digital mental-health provider’s existing EHR.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-16T06:51:28+05:30",
+      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": ["https://mentavi.com/press-release/mentavi-health-quest-diagnostics-integration-drchrono/", "https://support.drchrono.com/home/200891020-getting-started-integrating-with-labs"],
       "verification": "verified"
     }
   }
