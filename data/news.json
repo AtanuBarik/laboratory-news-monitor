@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T19:24:55.161391+05:30",
-  "generated_at_display": "16 Aug 2026, 7:24 PM IST",
+  "generated_at": "2026-08-17T01:08:29.463946+05:30",
+  "generated_at_display": "17 Aug 2026, 1:08 AM IST",
   "item_count": 107,
-  "raw_relevant_item_count": 300,
-  "duplicates_merged": 79,
+  "raw_relevant_item_count": 299,
+  "duplicates_merged": 78,
   "failures": [],
   "items": [
     {
@@ -109,7 +109,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Diagnostic Services Market Outlook",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5",
-      "description": "Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook Kalkine Media",
+      "description": "Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -4342,10 +4342,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 96,
+  "post_prune_financial_duplicates_merged": 18,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-17T00:17:00+05:30",
-  "next_update_display": "17 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-17T06:17:00+05:30",
+  "next_update_display": "17 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
