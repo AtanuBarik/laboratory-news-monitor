@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 16 Aug 2026, 1:26 PM IST
+- **Repository generated:** 16 Aug 2026, 7:24 PM IST
 - **Distinct events in this file:** 64
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -30,7 +30,7 @@
   - sharewise.com: https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know sharewise.com
+**Feed description:** Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know finance.yahoo.com
 
 ## 3. Q2 2026 Quest Diagnostics Earnings Call Transcript
 
