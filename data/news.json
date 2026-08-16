@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T06:48:33.460721+05:30",
-  "generated_at_display": "16 Aug 2026, 6:48 AM IST",
+  "generated_at": "2026-08-16T07:01:02.620875+05:30",
+  "generated_at_display": "16 Aug 2026, 7:01 AM IST",
   "item_count": 107,
-  "raw_relevant_item_count": 296,
-  "duplicates_merged": 82,
+  "raw_relevant_item_count": 298,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
     {
@@ -779,7 +779,7 @@
       "source_domain": "streamlinefeed.co.ke",
       "published_at": "2026-08-06T11:05:59+00:00",
       "published_display": "06 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -910,7 +910,7 @@
       "company": "Quest Diagnostics",
       "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5",
-      "description": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono EIN Presswire",
+      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, exclusivity, minimum testing volumes or a separate new Quest assay; the development is primarily a workflow and distribution integration that embeds Quest testing into a digital mental-health provider’s existing EHR.",
       "source": "EIN Presswire",
       "source_url": "https://www.einpresswire.com",
       "source_domain": "einpresswire.com",
@@ -933,7 +933,16 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "care coordinated drchrono expands health integration mentavi through virtual"
+      "event_signature": "care coordinated drchrono expands health integration mentavi through virtual",
+      "source_description": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono EIN Presswire",
+      "chatgpt_summary": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, exclusivity, minimum testing volumes or a separate new Quest assay; the development is primarily a workflow and distribution integration that embeds Quest testing into a digital mental-health provider’s existing EHR.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-16T06:51:28+05:30",
+      "summary_evidence": [
+        "https://mentavi.com/press-release/mentavi-health-quest-diagnostics-integration-drchrono/",
+        "https://support.drchrono.com/home/200891020-getting-started-integrating-with-labs"
+      ]
     },
     {
       "id": "cf79abed1e9a5dd7be6b",
@@ -3341,29 +3350,6 @@
       ]
     },
     {
-      "id": "448697c2ed67c00d7e1e",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare's Longer-Term Margin Recovery Still Expected",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5",
-      "description": "Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar",
-      "source": "Morningstar",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-22T12:17:01+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-22T12:17:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "expected longer margin recovery still term"
-    },
-    {
       "id": "ec192a490b0d32576517",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
@@ -3693,6 +3679,30 @@
       "summary_evidence": [
         "https://www.zacks.com/stock/news/2957862/labcorp-prepares-to-report-q2-earnings-whats-in-the-cards"
       ]
+    },
+    {
+      "id": "866fc2d28d2897b73cf1",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare's Longer-Term Margin Recovery Still Expected",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5",
+      "description": "Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "source_domain": "morningstar.com",
+      "published_at": "2026-07-22T07:00:00+00:00",
+      "published_display": "22 Jul 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-07-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "expected longer margin recovery still term"
     },
     {
       "id": "c72d0b6434beac76ee08",
@@ -4340,8 +4350,8 @@
       ]
     }
   ],
-  "low_value_items_removed": 89,
-  "post_prune_financial_duplicates_merged": 18,
+  "low_value_items_removed": 90,
+  "post_prune_financial_duplicates_merged": 17,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-16T12:17:00+05:30",
   "next_update_display": "16 Aug 2026, 12:17 PM IST",
