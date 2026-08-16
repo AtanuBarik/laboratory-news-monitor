@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-16T09:34:20.839297+05:30",
-  "generated_at_display": "16 Aug 2026, 9:34 AM IST",
+  "generated_at": "2026-08-16T13:26:20.715112+05:30",
+  "generated_at_display": "16 Aug 2026, 1:26 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 42,
+  "remaining_unsummarized_count": 43,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "aaf0a98848118699447b",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases",
+      "source": "Fierce Biotech",
+      "description": "Labcorp is launching the Marker by Labcorp Genetic Health Panel as a direct-to-consumer screen for inherited disease risk. The test analyzes 163 genes and is designed to assess risk across more than 100 hereditary conditions, including cancers and cardiovascular, neurological, muscular and metabolic diseases. Fierce Biotech reported that the product also provides information on how genetics may affect responses to certain medications and selected traits related to athletic performance. Labcorp says almost one in six adults carry an inherited risk for a serious but medically actionable condition and that many carriers are unaware of it. The company is positioning the panel toward preventive action rather than curiosity-driven ancestry-style testing. Licensed genetic counseling is built into the service so consumers can discuss findings and potential next steps. The panel becomes available through Labcorp OnDemand on August 3, 2026. Consumers will have blood drawn at Labcorp patient service centers, samples will be analyzed in Labcorp laboratories, and results will be delivered through the company's patient portal and MyLabcorp mobile platform. Fierce noted that Marker is Labcorp's first major consumer genetics product since the company acquired Invitae's assets in 2024, linking the launch to Labcorp's broader expansion in clinical genetics and consumer-access testing.",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5",
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "866fc2d28d2897b73cf1",
       "company": "Sonic Healthcare",
@@ -632,25 +651,6 @@
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b1583b18f1235fb0e64d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Shares Surge 8.6% -- What GF Score o",
-      "source": "GuruFocus",
-      "description": "Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o GuruFocus",
-      "published_at": "2026-07-24T00:53:23+00:00",
-      "published_display": "24 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFJQUZ0ZmVmVnkzb0JnVHNSZ2U4LUxrNGF1YUE5YlZjVjJ2dnFlb0NKOHo2RXJXNUhUY1dDb00yTTczdFEwcTNjRE9UNkRMN2xCc0xnUnhHSVpuUWplakdFMHJ5cUs2YWw3X25KeTJya2dqNUhPNDl3bkpqOWNTVlRHU3VHa2lkcTFEYTU4QURySWU2ZzBxUDZpUk93MGFhTE4xS2tDZmVYM0dLY01SRmk3UDhUcU9rbEpnTDFneDlCMWNLcVBN?oc=5",
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFJQUZ0ZmVmVnkzb0JnVHNSZ2U4LUxrNGF1YUE5YlZjVjJ2dnFlb0NKOHo2RXJXNUhUY1dDb00yTTczdFEwcTNjRE9UNkRMN2xCc0xnUnhHSVpuUWplakdFMHJ5cUs2YWw3X25KeTJya2dqNUhPNDl3bkpqOWNTVlRHU3VHa2lkcTFEYTU4QURySWU2ZzBxUDZpUk93MGFhTE4xS2tDZmVYM0dLY01SRmk3UDhUcU9rbEpnTDFneDlCMWNLcVBN?oc=5"
         }
       ]
     }
