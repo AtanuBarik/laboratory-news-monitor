@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-16T07:01:53.344925+05:30",
-  "generated_at_display": "16 Aug 2026, 7:01 AM IST",
+  "generated_at": "2026-08-16T09:03:38.835133+05:30",
+  "generated_at_display": "16 Aug 2026, 9:03 AM IST",
   "item_count": 107,
-  "raw_relevant_item_count": 296,
-  "duplicates_merged": 82,
+  "raw_relevant_item_count": 297,
+  "duplicates_merged": 80,
   "failures": [],
   "items": [
     {
@@ -4350,7 +4350,7 @@
       ]
     }
   ],
-  "low_value_items_removed": 89,
+  "low_value_items_removed": 92,
   "post_prune_financial_duplicates_merged": 18,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-16T12:17:00+05:30",
