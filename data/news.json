@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T19:34:15.413640+05:30",
-  "generated_at_display": "17 Aug 2026, 7:34 PM IST",
+  "generated_at": "2026-08-18T01:22:39.665536+05:30",
+  "generated_at_display": "18 Aug 2026, 1:22 AM IST",
   "item_count": 109,
-  "raw_relevant_item_count": 300,
+  "raw_relevant_item_count": 301,
   "duplicates_merged": 75,
   "failures": [],
   "items": [
@@ -55,9 +55,15 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
           "domain": "pluang.com",
           "published_at": "2026-08-17T12:52:06+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-17T12:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 day host investor september"
     },
     {
@@ -4402,10 +4408,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 101,
+  "post_prune_financial_duplicates_merged": 16,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-18T00:17:00+05:30",
-  "next_update_display": "18 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-18T06:17:00+05:30",
+  "next_update_display": "18 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

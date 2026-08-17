@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T20:24:21.405053+05:30",
-  "generated_at_display": "17 Aug 2026, 8:24 PM IST",
+  "generated_at": "2026-08-18T01:22:42.916397+05:30",
+  "generated_at_display": "18 Aug 2026, 1:22 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -56,7 +56,7 @@
       "published_at": "2026-08-17T12:00:00+00:00",
       "published_display": "17 Aug 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
       "sources": [
         {
@@ -66,6 +66,10 @@
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5"
         }
       ]
     },

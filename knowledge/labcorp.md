@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 17 Aug 2026, 7:34 PM IST
+- **Repository generated:** 18 Aug 2026, 1:22 AM IST
 - **Distinct events in this file:** 37
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,11 +22,12 @@
 - **Company:** Labcorp
 - **Publication date:** 17 Aug 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5
   - Pluang: https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance
 
