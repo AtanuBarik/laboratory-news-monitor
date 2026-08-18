@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T09:32:38.979574+05:30",
-  "generated_at_display": "18 Aug 2026, 9:32 AM IST",
+  "generated_at": "2026-08-18T12:51:07.718274+05:30",
+  "generated_at_display": "18 Aug 2026, 12:51 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 47,
+  "remaining_unsummarized_count": 46,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -257,25 +257,6 @@
         {
           "name": "dars.gov.et",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "277f41b8ca07db3a1e07",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics is a Great Choice",
-      "source": "Yahoo Finance",
-      "description": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics (DGX) is a Great Choice finance.yahoo.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5"
         }
       ]
     },
@@ -655,6 +636,29 @@
         {
           "name": "Investing.com Canada",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da70bf985fd9e363c79d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
+      "source": "The Motley Fool",
+      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
+      "sources": [
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
         }
       ]
     }
