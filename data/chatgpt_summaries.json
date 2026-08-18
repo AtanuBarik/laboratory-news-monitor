@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-16T06:51:28+05:30",
-  "updated_at_display": "16 Aug 2026, 6:51 AM IST",
+  "updated_at": "2026-08-18T12:35:53+05:30",
+  "updated_at_display": "18 Aug 2026, 12:35 PM IST",
   "summaries": {
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
@@ -514,7 +514,7 @@
       "verification": "verified"
     },
     "4a777d06a90c5c515cd5": {
-      "summary": "Labcorp reported second-quarter 2026 revenue of $3.73 billion, up 5.8% from $3.53 billion a year earlier, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Adjusted operating income reached $588.7 million and adjusted operating margin improved to 15.8%, reflecting organic growth and operating efficiencies. The company raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. It also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Labcorp highlighted several specialty-testing initiatives alongside the results: an advanced DPYD genotyping test for chemotherapy-toxicity risk, nationwide distribution of the FDA-approved ColoSense RNA-based at-home colorectal cancer screening test, a Fox Chase Cancer Center collaboration evaluating Plasma Detect Genome MRD in early-stage non-small cell lung cancer, and nationwide access to Roche’s FDA-approved VENTANA PTEN (SP218) companion diagnostic for prostate cancer patients who may qualify for AstraZeneca’s TRUQAP-based therapy. Labcorp also announced Marker by Labcorp, a consumer genetic-health panel. The quarter therefore combined mid-single-digit revenue growth with stronger earnings, margin expansion, increased capital returns and continued investment in oncology and consumer diagnostics.",
+      "summary": "Labcorp reported second-quarter 2026 revenue of $3.73 billion, up 5.8% from $3.53 billion a year earlier, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Adjusted operating income reached $588.7 million and adjusted operating margin improved to 15.8%, reflecting organic growth and operating efficiencies. The company raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. It also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Labcorp highlighted several specialty-testing initiatives alongside the results: an advanced DPYD genotyping test for chemotherapy-toxicity risk, nationwide distribution of the FDA-approved ColoSense RNA-based at-home colorectal cancer screening test, a Fox Chase Cancer Center collaboration evaluating Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and nationwide access to Roche’s FDA-approved VENTANA PTEN (SP218) companion diagnostic for prostate cancer patients who may qualify for AstraZeneca’s TRUQAP-based therapy. Labcorp also announced Marker by Labcorp, a consumer genetic-health panel. The quarter therefore combined mid-single-digit revenue growth with stronger earnings, margin expansion, increased capital returns and continued investment in oncology and consumer diagnostics.",
       "provider": "ChatGPT Scheduled Task",
       "updated_at": "2026-08-13T06:36:07+05:30",
       "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
@@ -881,6 +881,16 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://mentavi.com/press-release/mentavi-health-quest-diagnostics-integration-drchrono/", "https://support.drchrono.com/home/200891020-getting-started-integrating-with-labs"],
+      "verification": "verified"
+    },
+    "277f41b8ca07db3a1e07": {
+      "summary": "Zacks Equity Research’s July 24, 2026 market commentary argued that Quest Diagnostics was showing positive share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. At publication, the shares had risen 1.56% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.41% gain, and were up 10.5% over one month versus 7.08% for the industry. Quest shares had advanced 17.35% over the preceding three months and 32.58% over one year, compared with S&P 500 gains of 4.48% and 17.65%, respectively. Average 20-day trading volume was 1,013,849 shares. The article also pointed to upward earnings-estimate revisions: over the prior two months, one full-year estimate moved higher and none moved lower, lifting the consensus full-year estimate from $10.70 to $10.72 per share. For the next fiscal year, one estimate was revised upward and none downward over the same period. Based on those price trends and estimate revisions, Zacks characterized Quest as a momentum candidate. The article is investment analysis and does not announce a new laboratory product, acquisition, partnership, clinical result or company-issued guidance change.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-18T12:35:53+05:30",
+      "title": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics is a Great Choice",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": ["https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160003584.html"],
       "verification": "verified"
     }
   }
