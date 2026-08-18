@@ -1,8 +1,28 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-18T12:35:53+05:30",
-  "updated_at_display": "18 Aug 2026, 12:35 PM IST",
+  "updated_at": "2026-08-18T18:38:49+05:30",
+  "updated_at_display": "18 Aug 2026, 6:38 PM IST",
   "summaries": {
+    "34fa7df29dc0e42583db": {
+      "summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-18T18:38:49+05:30",
+      "title": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026", "https://ir.labcorp.com/news-and-events/presentations"],
+      "verification": "verified"
+    },
+    "39504d5a4346bb44669d": {
+      "summary": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-18T18:38:49+05:30",
+      "title": "Labcorp to Host Investor Day on September 10, 2026",
+      "company": "Labcorp",
+      "category": "Financials",
+      "sources_used": ["https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026", "https://ir.labcorp.com/news-and-events/presentations"],
+      "verification": "verified"
+    },
     "0dfae174bbd8d4047658": {
       "summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
       "provider": "ChatGPT Scheduled Task",
