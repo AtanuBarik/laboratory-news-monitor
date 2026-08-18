@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-08-18T13:36:03.727516+05:30",
-  "generated_at_display": "18 Aug 2026, 1:36 PM IST",
-  "item_count": 111,
-  "raw_relevant_item_count": 306,
-  "duplicates_merged": 76,
+  "generated_at": "2026-08-18T18:58:25.792292+05:30",
+  "generated_at_display": "18 Aug 2026, 6:58 PM IST",
+  "item_count": 115,
+  "raw_relevant_item_count": 312,
+  "duplicates_merged": 73,
   "failures": [],
   "items": [
+    {
+      "id": "599dbc393e5c79a8d51f",
+      "company": "Labcorp",
+      "title": "Labcorp partners with NACHC to develop health center leaders",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5",
+      "description": "Labcorp partners with NACHC to develop health center leaders Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-18T11:40:52+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-18T11:40:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "center develop health leaders nachc partners"
+    },
+    {
+      "id": "16b5bedc330823c45f3c",
+      "company": "Labcorp",
+      "title": "Labcorp and NACHC form alliance to boost leader...",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
+      "description": "Labcorp and NACHC form alliance to boost leader... Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-18T11:23:52+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-18T11:23:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alliance boost form leader nachc"
+    },
+    {
+      "id": "d83eb31ae94cc850e659",
+      "company": "Labcorp",
+      "title": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
+      "description": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-18T11:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advance alliance center community health launch leadership nachc strategic strengthen"
+    },
+    {
+      "id": "3178619de1b5fa4f6db9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
+      "description": "Quest Diagnostics (NYSE:DGX) Shows Dividend Quality Beyond the Headline Yield ChartMill",
+      "source": "ChartMill",
+      "source_url": "https://www.chartmill.com",
+      "source_domain": "chartmill.com",
+      "published_at": "2026-08-18T08:21:08+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
+          "domain": "chartmill.com",
+          "published_at": "2026-08-18T08:21:08+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beyond dividend headline quality shows yield"
+    },
     {
       "id": "d853207c9c70c8b1173f",
       "company": "Sonic Healthcare",
@@ -35,7 +131,7 @@
       "company": "Labcorp",
       "title": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFZYaGR1d0hxVTctRFVVUlpPR1djRVlCWWNuV3dZZmNvV3RCb1dRM3RyNzlFYlIxU2UybmNQUWY2Ry1naUpzdm9XcHFqbVJUaGxtYTduVkIyVUNBeXhwQnViNmlQeHFmanpabnVBenlyZmVlQi0tcklQUmNocWNIbmkzNFFhclhPMUlzUWRXaDdRWkxra3hlc2JJWFBuN2lYell4Wk9kUHpiM2FHM3VvdXh6dmtPcGh5SzVUdHFfRHB3UzdCcE9xVk55U1J1VFczYnM3ZTAzd2VqZGFheEl2Tk9B?oc=5",
-      "description": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook TradingView",
+      "description": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -52,14 +148,23 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "capital day host investor outlining outlook priorities sept strategy"
+      "event_signature": "capital day host investor outlining outlook priorities sept strategy",
+      "source_description": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook tradingview.com",
+      "chatgpt_summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-18T18:38:49+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026",
+        "https://ir.labcorp.com/news-and-events/presentations"
+      ]
     },
     {
       "id": "39504d5a4346bb44669d",
       "company": "Labcorp",
       "title": "Labcorp to Host Investor Day on September 10, 2026",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
-      "description": "Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance",
+      "description": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -88,7 +193,16 @@
         }
       ],
       "coverage_count": 3,
-      "event_signature": "2026 day host investor september"
+      "event_signature": "2026 day host investor september",
+      "source_description": "Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance",
+      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-18T18:38:49+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026",
+        "https://ir.labcorp.com/news-and-events/presentations"
+      ]
     },
     {
       "id": "95bde11d917a75647e48",
@@ -641,39 +755,6 @@
       ]
     },
     {
-      "id": "7821805ba5345b77a918",
-      "company": "Labcorp",
-      "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-      "description": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
-      "source": "Fierce Biotech",
-      "source_url": "https://www.fiercebiotech.com",
-      "source_domain": "fiercebiotech.com",
-      "published_at": "2026-08-10T13:28:52+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-08-10T13:28:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "braf diagnostic fda green light melanoma nabs",
-      "source_description": "Labcorp nabs FDA green light for BRAF melanoma diagnostic fiercebiotech.com",
-      "chatgpt_summary": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-16T00:35:32+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
       "id": "e7cdc3ac26ab39cceaf6",
       "company": "Labcorp",
       "title": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma",
@@ -734,6 +815,39 @@
       ],
       "coverage_count": 1,
       "event_signature": "against back bounce can dallas report scouting sounders todibo xrfsqrkkv9"
+    },
+    {
+      "id": "7821805ba5345b77a918",
+      "company": "Labcorp",
+      "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
+      "description": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
+      "source": "Fierce Biotech",
+      "source_url": "https://www.fiercebiotech.com",
+      "source_domain": "fiercebiotech.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "braf diagnostic fda green light melanoma nabs",
+      "source_description": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
+      "chatgpt_summary": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-16T00:35:32+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
+        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
+      ]
     },
     {
       "id": "c29d4bd11fd2989f4864",
@@ -1014,45 +1128,6 @@
       "event_signature": "activity attention draws"
     },
     {
-      "id": "945328595ce833917a73",
-      "company": "Quest Diagnostics",
-      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5",
-      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, exclusivity, minimum testing volumes or a separate new Quest assay; the development is primarily a workflow and distribution integration that embeds Quest testing into a digital mental-health provider’s existing EHR.",
-      "source": "EIN Presswire",
-      "source_url": "https://www.einpresswire.com",
-      "source_domain": "einpresswire.com",
-      "published_at": "2026-08-04T12:45:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "EIN Presswire",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5",
-          "domain": "einpresswire.com",
-          "published_at": "2026-08-04T12:45:00+00:00"
-        },
-        {
-          "name": "einnews.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
-          "domain": "einnews.com",
-          "published_at": "2026-08-04T12:45:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "care coordinated drchrono expands health integration mentavi through virtual",
-      "source_description": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono EIN Presswire",
-      "chatgpt_summary": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, exclusivity, minimum testing volumes or a separate new Quest assay; the development is primarily a workflow and distribution integration that embeds Quest testing into a digital mental-health provider’s existing EHR.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-16T06:51:28+05:30",
-      "summary_evidence": [
-        "https://mentavi.com/press-release/mentavi-health-quest-diagnostics-integration-drchrono/",
-        "https://support.drchrono.com/home/200891020-getting-started-integrating-with-labs"
-      ]
-    },
-    {
       "id": "cf79abed1e9a5dd7be6b",
       "company": "Labcorp",
       "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer",
@@ -1141,6 +1216,36 @@
         "https://www.amcadatabreachsettlement.com/",
         "https://www.classaction.org/news/35m-labcorp-settlement-reached-in-lawsuit-over-american-medical-collection-agency-data-breach"
       ]
+    },
+    {
+      "id": "8f53ea5c387cd622e227",
+      "company": "Quest Diagnostics",
+      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
+      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, excl…",
+      "source": "EIN News",
+      "source_url": "https://www.einnews.com",
+      "source_domain": "einnews.com",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
+          "domain": "einnews.com",
+          "published_at": "2026-08-04T07:00:00+00:00"
+        },
+        {
+          "name": "EIN Presswire",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5",
+          "domain": "einpresswire.com",
+          "published_at": "2026-08-04T12:45:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "care coordinated drchrono expands health integration mentavi through virtual"
     },
     {
       "id": "056ae46b5c843cbf762a",
@@ -4464,10 +4569,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 108,
+  "post_prune_financial_duplicates_merged": 16,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-18T18:17:00+05:30",
-  "next_update_display": "18 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-19T00:17:00+05:30",
+  "next_update_display": "19 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

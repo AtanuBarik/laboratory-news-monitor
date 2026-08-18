@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-08-18T14:36:53.545708+05:30",
-  "generated_at_display": "18 Aug 2026, 2:36 PM IST",
+  "generated_at": "2026-08-18T18:58:28.889016+05:30",
+  "generated_at_display": "18 Aug 2026, 6:58 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 46,
+  "remaining_unsummarized_count": 49,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "599dbc393e5c79a8d51f",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp partners with NACHC to develop health center leaders",
+      "source": "Investing.com",
+      "description": "Labcorp partners with NACHC to develop health center leaders Investing.com",
+      "published_at": "2026-08-18T11:40:52+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "16b5bedc330823c45f3c",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp and NACHC form alliance to boost leader...",
+      "source": "Pluang",
+      "description": "Labcorp and NACHC form alliance to boost leader... Pluang",
+      "published_at": "2026-08-18T11:23:52+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d83eb31ae94cc850e659",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health",
+      "source": "Yahoo Finance",
+      "description": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health Yahoo Finance",
+      "published_at": "2026-08-18T11:00:00+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5"
+        }
+      ]
+    },
     {
       "id": "aaf0a98848118699447b",
       "company": "Labcorp",
@@ -28,48 +85,21 @@
       ]
     },
     {
-      "id": "34fa7df29dc0e42583db",
-      "company": "Labcorp",
+      "id": "3178619de1b5fa4f6db9",
+      "company": "Quest Diagnostics",
       "category": "Financials",
-      "title": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook",
-      "source": "TradingView",
-      "description": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook TradingView",
-      "published_at": "2026-08-17T12:13:13+00:00",
-      "published_display": "17 Aug 2026",
+      "title": "Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield",
+      "source": "ChartMill",
+      "description": "Quest Diagnostics (NYSE:DGX) Shows Dividend Quality Beyond the Headline Yield ChartMill",
+      "published_at": "2026-08-18T08:21:08+00:00",
+      "published_display": "18 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFZYaGR1d0hxVTctRFVVUlpPR1djRVlCWWNuV3dZZmNvV3RCb1dRM3RyNzlFYlIxU2UybmNQUWY2Ry1naUpzdm9XcHFqbVJUaGxtYTduVkIyVUNBeXhwQnViNmlQeHFmanpabnVBenlyZmVlQi0tcklQUmNocWNIbmkzNFFhclhPMUlzUWRXaDdRWkxra3hlc2JJWFBuN2lYell4Wk9kUHpiM2FHM3VvdXh6dmtPcGh5SzVUdHFfRHB3UzdCcE9xVk55U1J1VFczYnM3ZTAzd2VqZGFheEl2Tk9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
       "sources": [
         {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUFZYaGR1d0hxVTctRFVVUlpPR1djRVlCWWNuV3dZZmNvV3RCb1dRM3RyNzlFYlIxU2UybmNQUWY2Ry1naUpzdm9XcHFqbVJUaGxtYTduVkIyVUNBeXhwQnViNmlQeHFmanpabnVBenlyZmVlQi0tcklQUmNocWNIbmkzNFFhclhPMUlzUWRXaDdRWkxra3hlc2JJWFBuN2lYell4Wk9kUHpiM2FHM3VvdXh6dmtPcGh5SzVUdHFfRHB3UzdCcE9xVk55U1J1VFczYnM3ZTAzd2VqZGFheEl2Tk9B?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "39504d5a4346bb44669d",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp to Host Investor Day on September 10, 2026",
-      "source": "Yahoo Finance",
-      "description": "Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance",
-      "published_at": "2026-08-17T12:00:00+00:00",
-      "published_display": "17 Aug 2026",
-      "official_source": false,
-      "coverage_count": 3,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5"
+          "name": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5"
         }
       ]
     },
@@ -314,6 +344,29 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f53ea5c387cd622e227",
+      "company": "Quest Diagnostics",
+      "category": "Leadership Changes",
+      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
+      "source": "EIN News",
+      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, excl…",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
+      "sources": [
+        {
+          "name": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5"
+        },
+        {
+          "name": "EIN Presswire",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5"
         }
       ]
     },
@@ -574,91 +627,6 @@
         {
           "name": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3b44ec09afb37d0ac7b2",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains",
-      "source": "MarketWatch",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
-      "published_at": "2026-07-28T07:00:00+00:00",
-      "published_display": "28 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10f33466a047be2ac02f",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
-      "source": "Investing.com Nigeria",
-      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "published_display": "27 Jul 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da70bf985fd9e363c79d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
-      "source": "The Motley Fool",
-      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
-      "published_at": "2026-07-26T07:00:00+00:00",
-      "published_display": "26 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
-      "sources": [
-        {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
         }
       ]
     }
