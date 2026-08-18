@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-08-18T19:47:50.241685+05:30",
-  "generated_at_display": "18 Aug 2026, 7:47 PM IST",
-  "item_count": 116,
-  "raw_relevant_item_count": 316,
-  "duplicates_merged": 76,
+  "generated_at": "2026-08-19T01:17:31.434700+05:30",
+  "generated_at_display": "19 Aug 2026, 1:17 AM IST",
+  "item_count": 118,
+  "raw_relevant_item_count": 319,
+  "duplicates_merged": 79,
   "failures": [],
   "items": [
+    {
+      "id": "2a6d1dc78f202048d1eb",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Upgraded to Buy: Here's Why",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5",
+      "description": "Quest Diagnostics (DGX) Upgraded to Buy: Here's Why finance.yahoo.com",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-18T16:00:04+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-18T16:00:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "buy here upgraded why"
+    },
+    {
+      "id": "1c6ad790701fb10cf228",
+      "company": "Labcorp",
+      "title": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
+      "description": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-08-18T14:19:35+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-18T14:19:35+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alliance community data health improve nachc use will"
+    },
     {
       "id": "599dbc393e5c79a8d51f",
       "company": "Labcorp",
@@ -73,9 +121,15 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-08-18T11:00:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMG9pNElMV3o3a3dBeWxaUmRQYlQ0Yy1SQjdwamt2WEpteENlVmZRUjVBejNnNXFwRndVSmxLLS11bzd5TGVwd2duNFVGa0NHSVNnNGhjSkV2WXhjWEhoZC14S2sxVkR1bXY0TUVXaEhDOU9mZFVzOTA2SE5QeGItbmFmclM0UHpRbi1NRzRtV1BaNEFXN3MybHpBLUNvbk1EYW9QZFl4VGpPY0dWTGctVzRtS2kzLVRKQjNXemF0RlcydFlGektScWVQQkpTcjRwbXZrdHVKYWtINlBXMFBFdVU3UWNLVEpscU5PalM1NExiTnhoUC1qTkRZZw?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-18T11:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "advance alliance center community health launch leadership nachc strategic strengthen"
     },
     {
@@ -779,44 +833,6 @@
       ]
     },
     {
-      "id": "e7cdc3ac26ab39cceaf6",
-      "company": "Labcorp",
-      "title": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
-      "description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-10T11:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-10T11:00:00+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-10T19:06:57+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting",
-      "source_description": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma PR Newswire",
-      "chatgpt_summary": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
       "id": "26e34857f08ccef9e101",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
@@ -870,6 +886,50 @@
       "summary_updated_at": "2026-08-16T00:35:32+05:30",
       "summary_evidence": [
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
+        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
+      ]
+    },
+    {
+      "id": "e7cdc3ac26ab39cceaf6",
+      "company": "Labcorp",
+      "title": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
+      "description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-10T19:06:57+00:00"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-08-10T12:51:24+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting",
+      "source_description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liqu…",
+      "chatgpt_summary": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-12T18:50:15+05:30",
+      "summary_evidence": [
         "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
       ]
     },
@@ -1152,63 +1212,6 @@
       "event_signature": "activity attention draws"
     },
     {
-      "id": "cf79abed1e9a5dd7be6b",
-      "company": "Labcorp",
-      "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
-      "description": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-04T11:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-04T11:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbS04ZXd2M2xtTXNpWnd0QWVCMG1QN09nUEVzY1JQa1RSaThyV3ZfTnd4Y3o0ejVab25GZnVuUTVWNTNqNHpGdDhJVkE1VG5QYlp3N3lWTGg3TW9odWVmZkRXVlRXMjhTSEZuSktYNV94MmlVRVNBQlZaX1hROER0S2IxMks4cVBJWVlFU1hFdDZnZWkyYzUyd0VKVQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-04T11:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-05T05:01:39+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFBxbjZSTnoweGNkajlzaXVJY1VXU2Foemd5S3k5UlI3N3g2Y0hFd1o0SlhpWGxrTmxndUhTYXNfX0dBSlBENlNkYnFoVG94eHB0azJIRTZtZER0MXZQa1dBSmRvUzItNFJ3QWxrdVZJMDBFUUtocGNKeUlkblhMcGh3MUx4NWRkaFZJQUJpTnZvd1lpMGM4NVRCbHJhNFZvb3lXQ1VaTU1WMjIzU3A0Sl9R?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-05T20:43:26+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHF6eGxvMXBfUnRucC1LX2traTdJQzVmQ3ZCSDI0TEdwd3hmcnZaMUI3eEN3VGZqc1V5dzY4UzNDcVMyWEVIZm5neWpHSmpwcl9YMG5zY01HTVAzY2IzUVROSFhheldHVE1NTnZqaWVtX1FBampRUnRlak5YODJqT2gyZFlPY041dnB3UjBwZkIxazJjT0wwQ3FGN2FZZ1NJLWdkaHhTR2NQU2JXckJObnVUN3I5WUlIZi1MLTNUZEkwS0tSVXY4bDdQSW1DcVk0OGc?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-04T16:00:00+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "approved cancer companion diagnostic fda launches prostate pten",
-      "source_description": "Labcorp Launches FDA-Approved IHC Companion Diagnostic for Prostate Cancer Clinical Lab Products",
-      "chatgpt_summary": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_updated_at": "2026-08-07T18:47:00+05:30",
-      "summary_evidence": [
-        "https://www.labcorp.com/tests/484680/pten-ihc-with-interpretation-for-prostate-adenocarcinoma",
-        "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation"
-      ],
-      "summary_verification": "verified"
-    },
-    {
       "id": "0dfae174bbd8d4047658",
       "company": "Labcorp",
       "title": "Labcorp Paying Out $35M in Settlement: Who’s Eligible",
@@ -1270,6 +1273,63 @@
       ],
       "coverage_count": 2,
       "event_signature": "care coordinated drchrono expands health integration mentavi through virtual"
+    },
+    {
+      "id": "cf79abed1e9a5dd7be6b",
+      "company": "Labcorp",
+      "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
+      "description": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-04T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbS04ZXd2M2xtTXNpWnd0QWVCMG1QN09nUEVzY1JQa1RSaThyV3ZfTnd4Y3o0ejVab25GZnVuUTVWNTNqNHpGdDhJVkE1VG5QYlp3N3lWTGg3TW9odWVmZkRXVlRXMjhTSEZuSktYNV94MmlVRVNBQlZaX1hROER0S2IxMks4cVBJWVlFU1hFdDZnZWkyYzUyd0VKVQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-04T11:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-05T05:01:39+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFBxbjZSTnoweGNkajlzaXVJY1VXU2Foemd5S3k5UlI3N3g2Y0hFd1o0SlhpWGxrTmxndUhTYXNfX0dBSlBENlNkYnFoVG94eHB0azJIRTZtZER0MXZQa1dBSmRvUzItNFJ3QWxrdVZJMDBFUUtocGNKeUlkblhMcGh3MUx4NWRkaFZJQUJpTnZvd1lpMGM4NVRCbHJhNFZvb3lXQ1VaTU1WMjIzU3A0Sl9R?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-05T20:43:26+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHF6eGxvMXBfUnRucC1LX2traTdJQzVmQ3ZCSDI0TEdwd3hmcnZaMUI3eEN3VGZqc1V5dzY4UzNDcVMyWEVIZm5neWpHSmpwcl9YMG5zY01HTVAzY2IzUVROSFhheldHVE1NTnZqaWVtX1FBampRUnRlak5YODJqT2gyZFlPY041dnB3UjBwZkIxazJjT0wwQ3FGN2FZZ1NJLWdkaHhTR2NQU2JXckJObnVUN3I5WUlIZi1MLTNUZEkwS0tSVXY4bDdQSW1DcVk0OGc?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-08-04T16:00:00+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "approved cancer companion diagnostic fda launches prostate pten",
+      "source_description": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection t…",
+      "chatgpt_summary": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-07T18:47:00+05:30",
+      "summary_evidence": [
+        "https://www.labcorp.com/tests/484680/pten-ihc-with-interpretation-for-prostate-adenocarcinoma",
+        "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation"
+      ]
     },
     {
       "id": "056ae46b5c843cbf762a",
@@ -4593,10 +4653,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 106,
+  "post_prune_financial_duplicates_merged": 16,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-19T00:17:00+05:30",
-  "next_update_display": "19 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-19T06:17:00+05:30",
+  "next_update_display": "19 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

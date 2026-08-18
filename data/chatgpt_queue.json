@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-18T20:34:39.093318+05:30",
-  "generated_at_display": "18 Aug 2026, 8:34 PM IST",
+  "generated_at": "2026-08-19T01:17:34.452896+05:30",
+  "generated_at_display": "19 Aug 2026, 1:17 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 50,
+  "remaining_unsummarized_count": 52,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "1c6ad790701fb10cf228",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health",
+      "source": "Clinical Lab Products",
+      "description": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health Clinical Lab Products",
+      "published_at": "2026-08-18T14:19:35+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5"
+        }
+      ]
+    },
     {
       "id": "599dbc393e5c79a8d51f",
       "company": "Labcorp",
@@ -56,12 +75,16 @@
       "published_at": "2026-08-18T11:00:00+00:00",
       "published_display": "18 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
       "sources": [
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMG9pNElMV3o3a3dBeWxaUmRQYlQ0Yy1SQjdwamt2WEpteENlVmZRUjVBejNnNXFwRndVSmxLLS11bzd5TGVwd2duNFVGa0NHSVNnNGhjSkV2WXhjWEhoZC14S2sxVkR1bXY0TUVXaEhDOU9mZFVzOTA2SE5QeGItbmFmclM0UHpRbi1NRzRtV1BaNEFXN3MybHpBLUNvbk1EYW9QZFl4VGpPY0dWTGctVzRtS2kzLVRKQjNXemF0RlcydFlGektScWVQQkpTcjRwbXZrdHVKYWtINlBXMFBFdVU3UWNLVEpscU5PalM1NExiTnhoUC1qTkRZZw?oc=5"
         }
       ]
     },
@@ -157,6 +180,25 @@
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2a6d1dc78f202048d1eb",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Upgraded to Buy: Here's Why",
+      "source": "finance.yahoo.com",
+      "description": "Quest Diagnostics (DGX) Upgraded to Buy: Here's Why finance.yahoo.com",
+      "published_at": "2026-08-18T16:00:04+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5",
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5"
         }
       ]
     },
@@ -557,72 +599,6 @@
         {
           "name": "roi-nj.com",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4182f5e29fb587888231",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com",
-      "source": "Investing.com Canada",
-      "description": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "published_display": "29 Jul 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5"
-        },
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQek5vMXVwVm9uLW1XTm9qQmg0aVRNMmpKSEVnSFhOc0Y2aG1VcW0wRWNERDNEUXV2ZGFEY19hYVIwZU8yQ3FVa3VJSmxwOWt2amV5d3ZUQXFhN3RvNGtzZTFkZWstLXhOQk9sbzl4QWg5T3o2MTN3eF8yVXFGNTI0YjNFT1NjZ29EVFloVllkRGpVcmN3YVkxLXczQnV1WVQ2NlZWaVBtS0hCcjhLVGhyNHRCWG1nV2c?oc=5"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzFsUkFuMVhJWUNfR2FQZ0xuTzdJYWxrLTlDemtPQzM2bWJfT1BLLVhrUEJnZkxoYVFIWkd6ZGpwbG1TS3E0emkxaENVODYwRTlhMHhYSXE2VEVNU2dNd1JPLTBwNHQ5TWhrQ0xvQTdCWHNwOENIVzhETUNGbWZtMUpfRkVDSmU1al9JejFFaE1CODREeWU5NnZidnJoU04ySFI3RnhFSTFxSFFaS0o5azNEb3FqXzRRbDdmSg?oc=5"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2ktNHBjb3ZzaE8zS285WW5iRkNIUUM3NThNUjBGRlJGYzRyOVZkQlROeS1PYVFLMGhrTUZGNjQ1ZHl1a3ZRTnp3TmhUQ0FDaVRteVRqUUd5TXBnZ1lSc2p3OGQ4RDUzZjVWY2RHRmlObVYxVDlBdWtvemV0Rkh3M2h2MERXc1ltdjRDLVJXLVF4V3ZtX3ExTG5RUUtxX1BPNHhwNTdOMzN3cGxJUEh5b1ZNTVhuR28?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbU5xOHlyTVhJOXpwZFRTRU55ckJPZXB3cXdjRGVBSEdkSWJzbV9pYmFvNXBzdndMZ090Tzczbms1WFpHYTI1MjdjaXdjeW85YnRjNHI5QlNkVjREWDdfdUxid085emtfYlZCd0h0VDczQkhpQ3pJNGlwNlpSV3gxM3FRNjgwMFg1c1pSaDhZZTI5WEF6cFFCQlpiLWdScThEVW9tbGp4N3lQWmZlYTBqdTE1VTZiak0?oc=5"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHpwTUVHSkpxVmItbmtkdXpDNDRVekliendzOTFEX1BZaWFEenRoMkpCMXhiNFRFT3RVSmVqV2plTm9BY3V1ZkNBQ0VnWnpURWp1ZEJNbGZMQkVoYVVvajVnamIzVm1yMDd5YmZwVGtkTmdkQVdTQnpBVXU5emFLVXk1clUxdWd1N09lUndLbDQxODJvNGRxU0FndkR3YnNMNzRHNnVwdXlVcWRmRnZWb3ZwcUdRNUMxUFRMcTRxMUdOcmZVZXdr?oc=5"
-        },
-        {
-          "name": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLS1ZMENUQzBvVHhLb3ZXYk1XOTMyZEQzV2lmVF9GcDRXMjM3WkM2NFJ1SHJ5YnlaSXBSRDF6SUVmUmtuRGlDbWJadU9ienBoYzRKVGs4U09VbkZyMXVtRE9ScWR4dTJYZkFWTy1lZHRXMm5RU0kxLTFiVUhxZ0tJVXp3a0lmdU5xMjZzN013RHNFZzhnNVFlWEV6NkRtSVlfdnFZMEdDSE5IcEVyN3p3OENTWUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62bbf9d01e537be1d528",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250",
-      "source": "富途牛牛",
-      "description": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 news.futunn.com",
-      "published_at": "2026-07-28T12:33:00+00:00",
-      "published_display": "28 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5",
-      "sources": [
-        {
-          "name": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5"
-        },
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5"
         }
       ]
     }
