@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-18T01:22:39.665536+05:30",
-  "generated_at_display": "18 Aug 2026, 1:22 AM IST",
-  "item_count": 109,
-  "raw_relevant_item_count": 301,
-  "duplicates_merged": 75,
+  "generated_at": "2026-08-18T08:56:05.232905+05:30",
+  "generated_at_display": "18 Aug 2026, 8:56 AM IST",
+  "item_count": 111,
+  "raw_relevant_item_count": 303,
+  "duplicates_merged": 73,
   "failures": [],
   "items": [
+    {
+      "id": "d853207c9c70c8b1173f",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
+      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-18T03:16:00+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-18T03:16:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "broadens deals reach"
+    },
     {
       "id": "34fa7df29dc0e42583db",
       "company": "Labcorp",
@@ -410,6 +434,30 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
       ]
+    },
+    {
+      "id": "7c6ef6091076493b9070",
+      "company": "Quest Diagnostics",
+      "title": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJBT1Yyb2gzTFNWRGpuS05zTXJvVHVXaDJDQjFUMUZuV25TWVdlRTFOWk1QNXh4V2J1VkxYVFdObzktc29aMUtZamRmTzFJUElIaHNGc3JTWGJVdHEyMFhEVWxjZmdyTWc2U3RlcHdyVEctamwyMjdZTTNzTlVfMW4yR3hJaVV1NzNkOWlqOA?oc=5",
+      "description": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart CoinMarketCap",
+      "source": "CoinMarketCap",
+      "source_url": "https://coinmarketcap.com",
+      "source_domain": "coinmarketcap.com",
+      "published_at": "2026-08-11T23:20:24+00:00",
+      "published_display": "11 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJBT1Yyb2gzTFNWRGpuS05zTXJvVHVXaDJDQjFUMUZuV25TWVdlRTFOWk1QNXh4V2J1VkxYVFdObzktc29aMUtZamRmTzFJUElIaHNGc3JTWGJVdHEyMFhEVWxjZmdyTWc2U3RlcHdyVEctamwyMjdZTTNzTlVfMW4yR3hJaVV1NzNkOWlqOA?oc=5",
+          "domain": "coinmarketcap.com",
+          "published_at": "2026-08-11T23:20:24+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "chart live marketcap price stock today tokenized usd wdgxx wrapped xstock"
     },
     {
       "id": "f75e5d91e2de0c65f721",
@@ -4408,10 +4456,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 103,
+  "post_prune_financial_duplicates_merged": 16,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-18T06:17:00+05:30",
-  "next_update_display": "18 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-18T12:17:00+05:30",
+  "next_update_display": "18 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

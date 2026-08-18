@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T02:24:32.758109+05:30",
-  "generated_at_display": "18 Aug 2026, 2:24 AM IST",
+  "generated_at": "2026-08-18T08:56:08.257831+05:30",
+  "generated_at_display": "18 Aug 2026, 8:56 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 45,
+  "remaining_unsummarized_count": 47,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -112,6 +112,25 @@
       ]
     },
     {
+      "id": "d853207c9c70c8b1173f",
+      "company": "Sonic Healthcare",
+      "category": "Other",
+      "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
+      "source": "Kalkine Media",
+      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) Kalkine Media",
+      "published_at": "2026-08-18T03:16:00+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9345ff18a7852eee2d7c",
       "company": "Quest Diagnostics",
       "category": "Other",
@@ -150,6 +169,25 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7c6ef6091076493b9070",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart",
+      "source": "CoinMarketCap",
+      "description": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart CoinMarketCap",
+      "published_at": "2026-08-11T23:20:24+00:00",
+      "published_display": "11 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJBT1Yyb2gzTFNWRGpuS05zTXJvVHVXaDJDQjFUMUZuV25TWVdlRTFOWk1QNXh4V2J1VkxYVFdObzktc29aMUtZamRmTzFJUElIaHNGc3JTWGJVdHEyMFhEVWxjZmdyTWc2U3RlcHdyVEctamwyMjdZTTNzTlVfMW4yR3hJaVV1NzNkOWlqOA?oc=5",
+      "sources": [
+        {
+          "name": "CoinMarketCap",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJBT1Yyb2gzTFNWRGpuS05zTXJvVHVXaDJDQjFUMUZuV25TWVdlRTFOWk1QNXh4V2J1VkxYVFdObzktc29aMUtZamRmTzFJUElIaHNGc3JTWGJVdHEyMFhEVWxjZmdyTWc2U3RlcHdyVEctamwyMjdZTTNzTlVfMW4yR3hJaVV1NzNkOWlqOA?oc=5"
         }
       ]
     },
@@ -617,48 +655,6 @@
         {
           "name": "Investing.com Canada",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "da70bf985fd9e363c79d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
-      "source": "The Motley Fool",
-      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
-      "published_at": "2026-07-26T07:00:00+00:00",
-      "published_display": "26 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
-      "sources": [
-        {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68ec9092452923f92fdd",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics",
-      "source": "The Globe and Mail",
-      "description": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail",
-      "published_at": "2026-07-25T12:02:00+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5",
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5"
         }
       ]
     }
