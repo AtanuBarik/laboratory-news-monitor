@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-18T18:58:25.792292+05:30",
-  "generated_at_display": "18 Aug 2026, 6:58 PM IST",
-  "item_count": 115,
-  "raw_relevant_item_count": 312,
-  "duplicates_merged": 73,
+  "generated_at": "2026-08-18T19:47:50.241685+05:30",
+  "generated_at_display": "18 Aug 2026, 7:47 PM IST",
+  "item_count": 116,
+  "raw_relevant_item_count": 316,
+  "duplicates_merged": 76,
   "failures": [],
   "items": [
     {
@@ -127,6 +127,30 @@
       "event_signature": "broadens deals reach"
     },
     {
+      "id": "6a1a472bbed068f33892",
+      "company": "Labcorp",
+      "title": "Labcorp to hold Investor Day on Sept 10 to disc...",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
+      "description": "Labcorp to hold Investor Day on Sept 10 to disc... Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-17T12:52:06+00:00",
+      "published_display": "17 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-17T12:52:06+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "day disc hold investor sept"
+    },
+    {
       "id": "34fa7df29dc0e42583db",
       "company": "Labcorp",
       "title": "Labcorp to host Investor Day Sept. 10 outlining strategy, capital priorities and outlook",
@@ -137,7 +161,7 @@
       "source_domain": "tradingview.com",
       "published_at": "2026-08-17T12:13:13+00:00",
       "published_display": "17 Aug 2026",
-      "category": "Financials",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
@@ -170,7 +194,7 @@
       "source_domain": "finance.yahoo.com",
       "published_at": "2026-08-17T12:00:00+00:00",
       "published_display": "17 Aug 2026",
-      "category": "Financials",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
