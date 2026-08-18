@@ -1,6 +1,6 @@
 {
-  "last_run_at": "2026-08-18T12:51:10.043996+05:30",
-  "last_run_display": "18 Aug 2026, 12:51 PM IST",
+  "last_run_at": "2026-08-18T12:59:40.180575+05:30",
+  "last_run_display": "18 Aug 2026, 12:59 PM IST",
   "next_update_at": "2026-08-18T18:17:00+05:30",
   "next_update_display": "18 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST",
@@ -10,7 +10,7 @@
   "fetch_failures": [],
   "chatgpt_queue_count": 30,
   "chatgpt_remaining_unsummarized": 46,
-  "email_status": "email_sent",
-  "email_summary_provider": "ChatGPT Scheduled Task",
-  "last_email_check": "18 Aug 2026, 12:51 PM IST"
+  "email_status": "awaiting_chatgpt_summaries",
+  "email_summary_provider": "Awaiting ChatGPT Scheduled Task",
+  "last_email_check": "18 Aug 2026, 12:59 PM IST"
 }
