@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-19T07:14:17.896122+05:30",
-  "generated_at_display": "19 Aug 2026, 7:14 AM IST",
+  "generated_at": "2026-08-19T08:58:34.514537+05:30",
+  "generated_at_display": "19 Aug 2026, 8:58 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 52,
+  "remaining_unsummarized_count": 53,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "8e7618c5061c2f0479b1",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data",
+      "source": "HIT Consultant",
+      "description": "Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data HIT Consultant",
+      "published_at": "2026-08-18T22:42:28+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0dLMjBDaTVsX292aUhBWVYxazhweVljV3Jia2NhRC1Jemc3TTg4S05nVzhmcmRHSXpxMkZLOXQtMUZheEdLQ3gtUFM1ZzRPOS04a0VVY0J6X3BIa0lBZmhicW0tS2F5MDJSR2V3bDBUZklMcEVCWkNvempYaXNUb0VyeFBBY1V6bTg4OExRNDg2NkpJUTAyc21oMTFDZW8?oc=5",
+      "sources": [
+        {
+          "name": "HIT Consultant",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0dLMjBDaTVsX292aUhBWVYxazhweVljV3Jia2NhRC1Jemc3TTg4S05nVzhmcmRHSXpxMkZLOXQtMUZheEdLQ3gtUFM1ZzRPOS04a0VVY0J6X3BIa0lBZmhicW0tS2F5MDJSR2V3bDBUZklMcEVCWkNvempYaXNUb0VyeFBBY1V6bTg4OExRNDg2NkpJUTAyc21oMTFDZW8?oc=5"
+        }
+      ]
+    },
     {
       "id": "1c6ad790701fb10cf228",
       "company": "Labcorp",
@@ -580,25 +599,6 @@
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94b0bb8fd0cc2c893f57",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
-      "source": "roi-nj.com",
-      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-      "sources": [
-        {
-          "name": "roi-nj.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5"
         }
       ]
     }
