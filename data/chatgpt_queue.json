@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T20:34:58.578567+05:30",
-  "generated_at_display": "19 Aug 2026, 8:34 PM IST",
+  "generated_at": "2026-08-20T01:18:31.331814+05:30",
+  "generated_at_display": "20 Aug 2026, 1:18 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 55,
+  "remaining_unsummarized_count": 59,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -150,6 +150,48 @@
       ]
     },
     {
+      "id": "00712c2ceed998d43783",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp wins FDA approval for melanoma companion diagnostic",
+      "source": "Investing.com",
+      "description": "Labcorp wins FDA approval for melanoma companion diagnostic Investing.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "published_display": "10 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFadGNidmtXOXkySmF5U0FTcUQzR2RwS3FpaEtMWHIyMkpqNDFxM2NOUWlyM3VCcTMyamZ2eXNnMWt6YjF3MmRCMUZPbHhYeV9feDJhd3p3THF4U01oS0IyVjhVMWJvNWlmZEJfYzViME45Wk81RVJSeTI2TnR1c3BoYVZFY2UyWk1wN2xyb3o3aEdpSUNndklZQmdTelQ3R3pja2lFWmxUTER0YWtZQmJRdDBGcXc?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFadGNidmtXOXkySmF5U0FTcUQzR2RwS3FpaEtMWHIyMkpqNDFxM2NOUWlyM3VCcTMyamZ2eXNnMWt6YjF3MmRCMUZPbHhYeV9feDJhd3p3THF4U01oS0IyVjhVMWJvNWlmZEJfYzViME45Wk81RVJSeTI2TnR1c3BoYVZFY2UyWk1wN2xyb3o3aEdpSUNndklZQmdTelQ3R3pja2lFWmxUTER0YWtZQmJRdDBGcXc?oc=5"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "548a60b92b657060f9af",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
+      "source": "AD HOC NEWS",
+      "description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations AD HOC NEWS",
+      "published_at": "2026-08-19T18:11:19+00:00",
+      "published_display": "19 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3178619de1b5fa4f6db9",
       "company": "Quest Diagnostics",
       "category": "Financials",
@@ -188,6 +230,25 @@
       ]
     },
     {
+      "id": "2d5f1b0442ca39c3c32d",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "What Labcorp's New PTEN Test and Guidance Hike Means For Shareholders",
+      "source": "Sahm",
+      "description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders Sahm",
+      "published_at": "2026-08-09T07:00:00+00:00",
+      "published_display": "09 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
+      "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5"
+        }
+      ]
+    },
+    {
       "id": "866fc2d28d2897b73cf1",
       "company": "Sonic Healthcare",
       "category": "Financials",
@@ -207,18 +268,22 @@
       ]
     },
     {
-      "id": "e5ca053f7a1eadcd1fc5",
+      "id": "1cccab103810ccffa71a",
       "company": "Labcorp",
       "category": "Leadership Changes",
       "title": "Labcorp announces executive leadership changes effective in September",
-      "source": "Investing.com",
-      "description": "Labcorp announces executive leadership changes effective in September Investing.com",
-      "published_at": "2026-08-14T14:04:14+00:00",
+      "source": "Investing.com Nigeria",
+      "description": "Labcorp announces executive leadership changes effective in September Investing.com Nigeria",
+      "published_at": "2026-08-14T13:35:39+00:00",
       "published_display": "14 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5",
       "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5"
+        },
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5"
@@ -363,6 +428,25 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "93ef46d5e6650088af23",
+      "company": "Labcorp",
+      "category": "Other",
+      "title": "FDA approves Labcorp's PGDx elio® test to ident...",
+      "source": "Pluang",
+      "description": "FDA approves Labcorp's PGDx elio® test to ident... Pluang",
+      "published_at": "2026-08-10T11:19:32+00:00",
+      "published_display": "10 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5"
         }
       ]
     },
@@ -535,82 +619,6 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c39aae8638adf66e38ac",
-      "company": "Sonic Healthcare",
-      "category": "Other",
-      "title": "Sonic Healthcare draws attention on diagnostics activity",
-      "source": "Kalkine Media",
-      "description": "Sonic Healthcare draws attention on diagnostics activity Kalkine Media",
-      "published_at": "2026-08-04T13:04:00+00:00",
-      "published_display": "04 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e6a19feb628850b33858",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns",
-      "source": "tradersunion.com",
-      "description": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns tradersunion.com",
-      "published_at": "2026-07-31T07:24:17+00:00",
-      "published_display": "31 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5",
-      "sources": [
-        {
-          "name": "tradersunion.com",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b818375b8fafc32848d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics SVP & Chief Commercial Officer Mark Dela",
-      "source": "GuruFocus",
-      "description": "Quest Diagnostics (DGX) SVP & Chief Commercial Officer Mark Dela GuruFocus",
-      "published_at": "2026-07-30T15:02:27+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5",
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYk80MlFNU2ZYal92VXVVdlFLb0pDaHRIZHZueE9nYWlEdmVXczMzeHBrdm04NVpGQlFOeGJUSFFTa2UwbUZCN1B5ZmNTVnVLcG1pdVNDVGlidHpiTFlfM2xsaGhRczRwQ0tNcVI4eVpJTlV1a0N0OHVLMGJsRzRzZ09oVFlSY0s1TkJhRVh5NTVJclNhQkVuWXhndDdUYjNTN3Q4elNzRnZyTVdiOEdSZjZVMXR2XzdUNzl2VVpCZFNoNW13dUx2dVhsd18?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ae7da1f27bd119f8422",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
-      "source": "IR Impact",
-      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
-      "published_at": "2026-07-30T12:08:02+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-      "sources": [
-        {
-          "name": "IR Impact",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5"
         }
       ]
     }
