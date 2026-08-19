@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 19 Aug 2026, 7:48 PM IST
+- **Repository generated:** 19 Aug 2026, 8:27 PM IST
 - **Distinct events in this file:** 68
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,9 +10,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Aug 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdIbjI1UTRIQndkejBXZlNtbTZTVjVsMklsd3UwRDhyWTkxNnJxLTNIUTE5YkhiRHVneUJOWGtTSkJPc3hCQ0dDV3gwOE12RDd3QUF3bmtuUjhvYjFDR21CRVJWYkxNMUhqNVVZOVBRQkRISFhFM1IzajlVdWQ4eUo0c0pnU2JhSjYzV1FMOXktdGo3R2tTbHhrYUFoMHdra2JLZ2llVlowc3JTVDVJLVdCN21FZw?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5
 
 **Feed description:** Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com Investing.com Nigeria

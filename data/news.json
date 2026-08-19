@@ -1,25 +1,31 @@
 {
-  "generated_at": "2026-08-19T19:48:59.718524+05:30",
-  "generated_at_display": "19 Aug 2026, 7:48 PM IST",
+  "generated_at": "2026-08-19T20:27:01.951500+05:30",
+  "generated_at_display": "19 Aug 2026, 8:27 PM IST",
   "item_count": 120,
-  "raw_relevant_item_count": 325,
-  "duplicates_merged": 79,
+  "raw_relevant_item_count": 324,
+  "duplicates_merged": 78,
   "failures": [],
   "items": [
     {
-      "id": "832a76fb4ea12216460c",
+      "id": "792c9d90656f156cc51a",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdIbjI1UTRIQndkejBXZlNtbTZTVjVsMklsd3UwRDhyWTkxNnJxLTNIUTE5YkhiRHVneUJOWGtTSkJPc3hCQ0dDV3gwOE12RDd3QUF3bmtuUjhvYjFDR21CRVJWYkxNMUhqNVVZOVBRQkRISFhFM1IzajlVdWQ4eUo0c0pnU2JhSjYzV1FMOXktdGo3R2tTbHhrYUFoMHdra2JLZ2llVlowc3JTVDVJLVdCN21FZw?oc=5",
       "description": "Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "source_url": "https://ng.investing.com",
-      "source_domain": "ng.investing.com",
-      "published_at": "2026-08-19T13:49:40+00:00",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-08-19T13:47:04+00:00",
       "published_display": "19 Aug 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdIbjI1UTRIQndkejBXZlNtbTZTVjVsMklsd3UwRDhyWTkxNnJxLTNIUTE5YkhiRHVneUJOWGtTSkJPc3hCQ0dDV3gwOE12RDd3QUF3bmtuUjhvYjFDR21CRVJWYkxNMUhqNVVZOVBRQkRISFhFM1IzajlVdWQ4eUo0c0pnU2JhSjYzV1FMOXktdGo3R2tTbHhrYUFoMHdra2JLZ2llVlowc3JTVDVJLVdCN21FZw?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-08-19T13:47:04+00:00"
+        },
         {
           "name": "Investing.com Nigeria",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5",
@@ -27,7 +33,7 @@
           "published_at": "2026-08-19T13:49:40+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "240 all com high hits investing stock time usd"
     },
     {
