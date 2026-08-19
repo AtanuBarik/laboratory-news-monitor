@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 19 Aug 2026, 8:58 AM IST
+- **Repository generated:** 19 Aug 2026, 1:37 PM IST
 - **Distinct events in this file:** 119
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -323,20 +323,7 @@
 
 **Feed description:** Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and clinical-laboratory workflows.
 
-## 26. Labcorp’s advanced melanoma CDx secures FDA approval
-
-- **Company:** Labcorp
-- **Publication date:** 10 Aug 2026
-- **Category:** Product & Services
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Medical Device Network: https://news.google.com/rss/articles/CBMimgFBVV95cUxORl9WdmZ5WnZfRENNTkxJZDdhWENXbzY5NGxWSXdMd3VXODdnbW9icjVucHVDSHNvMUx0RnhBTnE3TDYwVDQ4ck9TN2lRcUI1blZOZ3FGa2VRdVI2TThzMnczeFVQWFdPY3dFNFE0dWZ1bmdUdzN2OHFXZEQ2aVZlNW94Y3hQN0dsZnhFemxmZ2ZJMnFxeXN3c0tn?oc=5
-  - Yahoo: https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVp6dkFPREJaVXVOeGlQMjNJSkE5Q2V2U055Q3NoV1FXT0c3cUdFM05xNURTN3hzRWFKTUk3Nk00Rl8zTDFGYjJKYUwxTDlXTmxRRERjMnNzbmhQVk5DNXcyT3E5NnJVTnRMQTlRYkJSMHUwVzY1RFJ3OWg2Uy11NlU3czU4SXJUU0M0S1ZCcjItUFpOZW4zZlRuSU4?oc=5
-
-**Feed description:** Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a therapy-selection indication to the company’s distributed comprehensive-genomic-profiling platform. The approved use identifies melanoma tumors with BRAF V600E or BRAF V600K variants so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitor therapy or BRAF/MEK inhibitor combinations under the relevant drug labels. Labcorp emphasized the clinical need in advanced disease, citing a five-year survival rate of about 16% for stage IV melanoma. The assay is a qualitative next-generation-sequencing in vitro diagnostic performed on DNA from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can identify single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a send-out-only service, the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, enabling institutions to keep samples and data in house while performing molecular profiling. The melanoma approval broadens Labcorp’s PGDx elio portfolio, which already supports tissue and liquid genomic profiling. Strategically, it strengthens Labcorp’s oncology offering by combining a regulated treatment-selection claim with a scalable kit model designed for local laboratory adoption.
-
-## 27. Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)
+## 26. Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Aug 2026
@@ -348,7 +335,7 @@
 
 **Feed description:** Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com
 
-## 28. Labcorp nabs FDA green light for BRAF melanoma diagnostic
+## 27. Labcorp nabs FDA green light for BRAF melanoma diagnostic
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -360,7 +347,7 @@
 
 **Feed description:** Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.
 
-## 29. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
+## 28. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -374,7 +361,7 @@
 
 **Feed description:** Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.
 
-## 30. FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma
+## 29. FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -385,6 +372,19 @@
   - Dermatology Times: https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5
 
 **Feed description:** Labcorp announced on August 10, 2026 that the FDA approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma. The next-generation sequencing assay is intended to identify tumors carrying BRAF V600E or V600K variants so clinicians can determine eligibility for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the relevant drug labels. Labcorp said the kit is designed for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing testing to be implemented within health-system laboratories rather than requiring all specimens to be sent to a central reference facility. The assay uses DNA isolated from formalin-fixed, paraffin-embedded tumor tissue and a high-throughput hybridization-based capture method. Its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp positioned the approval as an expansion of its precision-oncology portfolio and a way to broaden access to molecular testing for treatment selection in advanced melanoma. The company noted that stage IV melanoma has a five-year survival rate of about 16%, underscoring the clinical importance of identifying patients whose BRAF-altered tumors may be eligible for targeted therapy.
+
+## 30. Labcorp’s advanced melanoma CDx secures FDA approval
+
+- **Company:** Labcorp
+- **Publication date:** 10 Aug 2026
+- **Category:** Product & Services
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo: https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVp6dkFPREJaVXVOeGlQMjNJSkE5Q2V2U055Q3NoV1FXT0c3cUdFM05xNURTN3hzRWFKTUk3Nk00Rl8zTDFGYjJKYUwxTDlXTmxRRERjMnNzbmhQVk5DNXcyT3E5NnJVTnRMQTlRYkJSMHUwVzY1RFJ3OWg2Uy11NlU3czU4SXJUU0M0S1ZCcjItUFpOZW4zZlRuSU4?oc=5
+  - Medical Device Network: https://news.google.com/rss/articles/CBMimgFBVV95cUxORl9WdmZ5WnZfRENNTkxJZDdhWENXbzY5NGxWSXdMd3VXODdnbW9icjVucHVDSHNvMUx0RnhBTnE3TDYwVDQ4ck9TN2lRcUI1blZOZ3FGa2VRdVI2TThzMnczeFVQWFdPY3dFNFE0dWZ1bmdUdzN2OHFXZEQ2aVZlNW94Y3hQN0dsZnhFemxmZ2ZJMnFxeXN3c0tn?oc=5
+
+**Feed description:** Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a therapy-selection indication to the company’s distributed comprehensive-genomic-profiling platform. The approved use identifies melanoma tumors with BRAF V600E or BRAF V600K variants so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitor therapy or BRAF/MEK inhibitor combinations under the relevant drug labels. Labcorp emphasized the clinical need in advanced disease, citing a five-year survival rate of about 16% for stage IV melanoma. The assay is a qualitative next-generation-sequencing in vitro diagnostic performed on DNA from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can identify single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a send-out-only service, the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, enabling institutions to keep samples and data in house while performing molecular profiling. The melanoma approval broadens Labcorp’s PGDx elio portfolio, which already supports tissue and liquid genomic profiling. Strategically, it strengthens Labcorp’s oncology offering by combining a regulated treatment-selection claim with a scalable kit…
 
 ## 31. IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History
 
