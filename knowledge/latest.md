@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 19 Aug 2026, 1:17 AM IST
+- **Repository generated:** 19 Aug 2026, 7:14 AM IST
 - **Distinct events in this file:** 118
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -119,12 +119,13 @@
 - **Company:** Labcorp
 - **Publication date:** 17 Aug 2026
 - **Category:** Leadership Changes
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5
   - Pluang: https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5
+  - Sahm: https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZUYzgwTFMyQ2x2dGhsWnRkbGhoelFILTFRWGo5NVc5SXNPUEFuRGI4VzZDcGh4dVB3QmxlMEthWWFOZ0tMUlNzSE1sMWk0azJzNXhlS0NhQTYzMk1tQ0hBVWpZTmhuT2pMbGwxYXljYVpIR3dlM2VITmdualFUM3d5bDgzX2dtdHluYjIzdTJRWVBTTFlERk1TZzlPTVJXMmRN?oc=5
 
 **Feed description:** Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.
 

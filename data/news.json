@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-19T01:17:31.434700+05:30",
-  "generated_at_display": "19 Aug 2026, 1:17 AM IST",
+  "generated_at": "2026-08-19T07:14:14.626735+05:30",
+  "generated_at_display": "19 Aug 2026, 7:14 AM IST",
   "item_count": 118,
-  "raw_relevant_item_count": 319,
-  "duplicates_merged": 79,
+  "raw_relevant_item_count": 321,
+  "duplicates_merged": 81,
   "failures": [],
   "items": [
     {
@@ -268,9 +268,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-08-17T12:00:00+00:00"
+        },
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZUYzgwTFMyQ2x2dGhsWnRkbGhoelFILTFRWGo5NVc5SXNPUEFuRGI4VzZDcGh4dVB3QmxlMEthWWFOZ0tMUlNzSE1sMWk0azJzNXhlS0NhQTYzMk1tQ0hBVWpZTmhuT2pMbGwxYXljYVpIR3dlM2VITmdualFUM3d5bDgzX2dtdHluYjIzdTJRWVBTTFlERk1TZzlPTVJXMmRN?oc=5",
+          "domain": "sahmcapital.com",
+          "published_at": "2026-08-18T10:53:01+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "2026 day host investor september",
       "source_description": "Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance",
       "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
@@ -4653,10 +4659,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 106,
+  "post_prune_financial_duplicates_merged": 16,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-19T06:17:00+05:30",
-  "next_update_display": "19 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-19T12:17:00+05:30",
+  "next_update_display": "19 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
