@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-08-19T13:37:20.591937+05:30",
-  "generated_at_display": "19 Aug 2026, 1:37 PM IST",
-  "item_count": 119,
-  "raw_relevant_item_count": 322,
-  "duplicates_merged": 81,
+  "generated_at": "2026-08-19T19:48:59.718524+05:30",
+  "generated_at_display": "19 Aug 2026, 7:48 PM IST",
+  "item_count": 120,
+  "raw_relevant_item_count": 325,
+  "duplicates_merged": 79,
   "failures": [],
   "items": [
+    {
+      "id": "832a76fb4ea12216460c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com Investing.com Nigeria",
+      "source": "Investing.com Nigeria",
+      "source_url": "https://ng.investing.com",
+      "source_domain": "ng.investing.com",
+      "published_at": "2026-08-19T13:49:40+00:00",
+      "published_display": "19 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-08-19T13:49:40+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "240 all com high hits investing stock time usd"
+    },
     {
       "id": "8e7618c5061c2f0479b1",
       "company": "Labcorp",
       "title": "Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0dLMjBDaTVsX292aUhBWVYxazhweVljV3Jia2NhRC1Jemc3TTg4S05nVzhmcmRHSXpxMkZLOXQtMUZheEdLQ3gtUFM1ZzRPOS04a0VVY0J6X3BIa0lBZmhicW0tS2F5MDJSR2V3bDBUZklMcEVCWkNvempYaXNUb0VyeFBBY1V6bTg4OExRNDg2NkpJUTAyc21oMTFDZW8?oc=5",
-      "description": "Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data HIT Consultant",
+      "description": "Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data hitconsultant.net",
       "source": "HIT Consultant",
       "source_url": "https://hitconsultant.net",
       "source_domain": "hitconsultant.net",
@@ -1134,7 +1158,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
-      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - SuperTrend Flip dars.gov.et",
+      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts Vinanet",
       "source": "dars.gov.et",
       "source_url": "https://www.dars.gov.et",
       "source_domain": "dars.gov.et",
@@ -1148,9 +1172,15 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
           "domain": "dars.gov.et",
           "published_at": "2026-08-06T07:00:00+00:00"
+        },
+        {
+          "name": "Vinanet",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-08-06T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "advances between buffered etf midpoint resistance shares support test"
     },
     {
@@ -4675,10 +4705,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 110,
+  "post_prune_financial_duplicates_merged": 16,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-19T18:17:00+05:30",
-  "next_update_display": "19 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-20T00:17:00+05:30",
+  "next_update_display": "20 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

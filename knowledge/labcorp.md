@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 19 Aug 2026, 1:37 PM IST
+- **Repository generated:** 19 Aug 2026, 7:48 PM IST
 - **Distinct events in this file:** 43
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - HIT Consultant: https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0dLMjBDaTVsX292aUhBWVYxazhweVljV3Jia2NhRC1Jemc3TTg4S05nVzhmcmRHSXpxMkZLOXQtMUZheEdLQ3gtUFM1ZzRPOS04a0VVY0J6X3BIa0lBZmhicW0tS2F5MDJSR2V3bDBUZklMcEVCWkNvempYaXNUb0VyeFBBY1V6bTg4OExRNDg2NkpJUTAyc21oMTFDZW8?oc=5
 
-**Feed description:** Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data HIT Consultant
+**Feed description:** Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data hitconsultant.net
 
 ## 2. Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health
 
