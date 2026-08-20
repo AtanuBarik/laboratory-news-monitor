@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 20 Aug 2026, 6:56 PM IST
+- **Repository generated:** 20 Aug 2026, 6:57 PM IST
 - **Distinct events in this file:** 71
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -33,7 +33,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Aug 2026
-- **Category:** Other
+- **Category:** Partnership, M&A
 - **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
@@ -47,7 +47,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 18 Aug 2026
-- **Category:** Other
+- **Category:** Financials
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**

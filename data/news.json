@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-20T18:56:29.543031+05:30",
-  "generated_at_display": "20 Aug 2026, 6:56 PM IST",
+  "generated_at": "2026-08-20T18:57:45.315008+05:30",
+  "generated_at_display": "20 Aug 2026, 6:57 PM IST",
   "item_count": 134,
-  "raw_relevant_item_count": 358,
-  "duplicates_merged": 90,
+  "raw_relevant_item_count": 359,
+  "duplicates_merged": 89,
   "failures": [],
   "items": [
     {
@@ -74,7 +74,7 @@
       "source_domain": "seekingalpha.com",
       "published_at": "2026-08-20T02:02:30+00:00",
       "published_display": "20 Aug 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -108,7 +108,7 @@
       "source_domain": "tipranks.com",
       "published_at": "2026-08-20T01:16:49+00:00",
       "published_display": "20 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -141,7 +141,7 @@
       "source_domain": "tipranks.com",
       "published_at": "2026-08-20T01:11:10+00:00",
       "published_display": "20 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -174,7 +174,7 @@
       "source_domain": "grafa.com",
       "published_at": "2026-08-20T01:06:37+00:00",
       "published_display": "20 Aug 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -213,7 +213,7 @@
       "source_domain": "tipranks.com",
       "published_at": "2026-08-20T00:30:14+00:00",
       "published_display": "20 Aug 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -270,7 +270,7 @@
       "source_domain": "fool.com.au",
       "published_at": "2026-08-19T23:49:50+00:00",
       "published_display": "19 Aug 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -328,7 +328,7 @@
       "source_domain": "ca.investing.com",
       "published_at": "2026-08-19T13:47:04+00:00",
       "published_display": "19 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -405,7 +405,7 @@
       "source_domain": "finance.yahoo.com",
       "published_at": "2026-08-18T16:00:04+00:00",
       "published_display": "18 Aug 2026",
-      "category": "Other",
+      "category": "Financials",
       "official_source": false,
       "sources": [
         {
@@ -4614,7 +4614,7 @@
       "source_domain": "morningstar.com",
       "published_at": "2026-07-22T07:00:00+00:00",
       "published_display": "22 Jul 2026",
-      "category": "Financials",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -5283,7 +5283,7 @@
     }
   ],
   "low_value_items_removed": 121,
-  "post_prune_financial_duplicates_merged": 13,
+  "post_prune_financial_duplicates_merged": 15,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-21T00:17:00+05:30",
   "next_update_display": "21 Aug 2026, 12:17 AM IST",
