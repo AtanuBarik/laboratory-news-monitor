@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T00:49:36.680196+05:30",
-  "generated_at_display": "21 Aug 2026, 12:49 AM IST",
+  "generated_at": "2026-08-21T01:28:34.569313+05:30",
+  "generated_at_display": "21 Aug 2026, 1:28 AM IST",
   "item_count": 135,
   "raw_relevant_item_count": 359,
-  "duplicates_merged": 90,
+  "duplicates_merged": 91,
   "failures": [],
   "items": [
     {
@@ -850,7 +850,7 @@
       "source_domain": "sharewise.com",
       "published_at": "2026-08-14T07:00:00+00:00",
       "published_display": "14 Aug 2026",
-      "category": "Other",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
@@ -5315,7 +5315,7 @@
     }
   ],
   "low_value_items_removed": 120,
-  "post_prune_financial_duplicates_merged": 14,
+  "post_prune_financial_duplicates_merged": 13,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-21T06:17:00+05:30",
   "next_update_display": "21 Aug 2026, 6:17 AM IST",
