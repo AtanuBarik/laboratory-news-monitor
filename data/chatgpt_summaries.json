@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-20T18:35:15+05:30",
-  "updated_at_display": "20 Aug 2026, 6:35 PM IST",
+  "updated_at": "2026-08-21T00:35:03+05:30",
+  "updated_at_display": "21 Aug 2026, 12:35 AM IST",
   "summaries": {
     "34fa7df29dc0e42583db": {
       "summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
@@ -274,7 +274,7 @@
       "verification": "verified"
     },
     "0793cd23304353436380": {
-      "summary": "Labcorp’s second-quarter 2026 results were broadly in line with Wall Street’s revenue expectations while earnings came in ahead of consensus. Revenue rose 5.8% year over year to $3.731 billion, compared with about $3.71 billion expected in the StockStory/Yahoo Finance report. Adjusted EPS was $4.99, 4.6% above the $4.77 consensus cited there and up 14.9% from $4.35 a year earlier. Reported diluted EPS increased 28.5% to $3.64. Organic revenue grew 4.2%. Labcorp’s reported operating margin was 12.1%, while adjusted operating margin was 15.8%. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%, and Biopharma Laboratory Services produced $836.2 million, up 6.5%. Management raised full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. StockStory translated the revenue outlook to roughly $14.77 billion at the midpoint and noted that the EPS midpoint was about $18.33. Labcorp also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. The quarter therefore combined steady top-line growth, stronger earnings and improved guidance, although the market reaction was negative immediately after the release.",
+      "summary": "Labcorp’s second-quarter 2026 results were broadly in line with Wall Street’s revenue expectations while earnings came in ahead of consensus. Revenue rose 5.8% year over year to $3.731 billion, compared with about $3.71 billion expected in the StockStory/Yahoo Finance report. Adjusted EPS was $4.99, 4.6% above the $4.77 consensus cited there and up 14.9% from $4.35 a year earlier. Reported diluted EPS increased 28.5% to $3.64. Organic revenue grew 4.2%. Labcorp’s reported operating margin was 12.1%, while adjusted operating margin was 15.8%. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%; Biopharma Laboratory Services produced $836.2 million, up 6.5%. Management raised full-year enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. StockStory translated the revenue outlook to roughly $14.77 billion at the midpoint and noted that the EPS midpoint was about $18.33. Labcorp also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. The quarter therefore combined steady top-line growth, stronger earnings and improved guidance, although the market reaction was negative immediately after the release.",
       "provider": "ChatGPT Scheduled Task",
       "updated_at": "2026-08-12T06:35:17+05:30",
       "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
@@ -1121,6 +1121,16 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://www.zacks.com/stock/news/2976477/quest-diagnostics-dgx-upgraded-to-buy-heres-why", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "9345ff18a7852eee2d7c": {
+      "summary": "Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-21T00:35:03+05:30",
+      "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": ["https://www.zacks.com/stock/news/2975210/quest-diagnostics-dgx-is-up-229-in-one-week-what-you-should-know"],
       "verification": "verified"
     }
   }
