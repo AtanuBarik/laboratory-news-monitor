@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T20:47:36.287616+05:30",
-  "generated_at_display": "20 Aug 2026, 8:47 PM IST",
+  "generated_at": "2026-08-21T00:49:40.137296+05:30",
+  "generated_at_display": "21 Aug 2026, 12:49 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -43,6 +43,25 @@
         {
           "name": "ChartMill",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e7c9d723c49a7bb33134",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team",
+      "source": "Medical Product Outsourcing",
+      "description": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team Medical Product Outsourcing",
+      "published_at": "2026-08-20T16:17:53+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5",
+      "sources": [
+        {
+          "name": "Medical Product Outsourcing",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5"
         }
       ]
     },
@@ -100,29 +119,6 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9345ff18a7852eee2d7c",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
-      "source": "sharewise.com",
-      "description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know finance.yahoo.com",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "published_display": "14 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5",
-      "sources": [
-        {
-          "name": "sharewise.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5"
         }
       ]
     },

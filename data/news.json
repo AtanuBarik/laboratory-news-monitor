@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-20T19:52:17.502295+05:30",
-  "generated_at_display": "20 Aug 2026, 7:52 PM IST",
-  "item_count": 134,
-  "raw_relevant_item_count": 358,
-  "duplicates_merged": 88,
+  "generated_at": "2026-08-21T00:49:36.680196+05:30",
+  "generated_at_display": "21 Aug 2026, 12:49 AM IST",
+  "item_count": 135,
+  "raw_relevant_item_count": 359,
+  "duplicates_merged": 90,
   "failures": [],
   "items": [
+    {
+      "id": "e7c9d723c49a7bb33134",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5",
+      "description": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team Medical Product Outsourcing",
+      "source": "Medical Product Outsourcing",
+      "source_url": "https://www.mpo-mag.com",
+      "source_domain": "mpo-mag.com",
+      "published_at": "2026-08-20T16:17:53+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Product Outsourcing",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5",
+          "domain": "mpo-mag.com",
+          "published_at": "2026-08-20T16:17:53+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "executive management quanterix recruited senior team"
+    },
     {
       "id": "f2783facee1bb7625252",
       "company": "Sonic Healthcare",
@@ -820,7 +844,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5",
-      "description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know finance.yahoo.com",
+      "description": "Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.",
       "source": "sharewise.com",
       "source_url": "https://www.sharewise.com",
       "source_domain": "sharewise.com",
@@ -843,7 +867,15 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "know one should week what you"
+      "event_signature": "know one should week what you",
+      "source_description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know finance.yahoo.com",
+      "chatgpt_summary": "Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-21T00:35:03+05:30",
+      "summary_evidence": [
+        "https://www.zacks.com/stock/news/2975210/quest-diagnostics-dgx-is-up-229-in-one-week-what-you-should-know"
+      ]
     },
     {
       "id": "bf59ba3d72fa86b61827",
@@ -1037,7 +1069,7 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-12T17:08:43+00:00",
+      "published_at": "2026-08-12T07:00:00+00:00",
       "published_display": "12 Aug 2026",
       "category": "Partnership, M&A",
       "official_source": false,
@@ -1046,12 +1078,12 @@
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeFZGOUdHWWtZczdNNW13aExWb2ZlUmF3cC1OS1MzdDNuM21fQ1o1aExpcEJkMVhoeGh0MGF3REl1c1JTNG5qckpxbzYwNXd5cjVJbGd3WTVyLW91MTJOdmNxS25lNUY0R25TOWxOT0xoT0dHaG0ybjZBNEZmRTducXp1ZzA5WVRaT25ac0Y2dkFaVTZsb2FLbjJHNC1FQQ?oc=5",
           "domain": "finance.yahoo.com",
-          "published_at": "2026-08-12T17:08:43+00:00"
+          "published_at": "2026-08-12T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
       "event_signature": "approvals following fully oncology outlook priced raised",
-      "source_description": "Is Labcorp Holdings (LH) Fully Priced Following Oncology Approvals And Raised Outlook? finance.yahoo.com",
+      "source_description": "Labcorp's second-quarter 2026 results and specialty-testing updates provide the factual backdrop to the queued article's question about whether recent oncology progress and a higher outlook are already reflected in the company's valuation. Revenue reached $3.731 billion, up 5.8% year over year, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Labcorp raised 2026 enterprise revenue guidance to $14.710-$14.827 billion, equivalent to 5.4%-6.3% growth, and lifted adjusted EPS guidance to $18.10-$18.55. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, and Biopharma Laboratory Services revenue rose 6.5% to $836.2 million. Labcorp also expanded several higher-value oncology offerings. It added an advanced DPYD genotyping test to identify patients at risk of severe chemotherapy toxicity, launched ColoSense nationwide as the first FDA-approved RNA-based colorectal cancer screening test with at-home collection, entered a Fox Chase Cancer Center trial collaboration for Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and broadened access to Roche's FDA-approved VENTANA PTEN companion diagnostic for prostate cancer. These operating and product developments are verifiable; the source evidence does not establish a definitive conclusion about whether Labcorp is fully priced.",
       "chatgpt_summary": "Labcorp's second-quarter 2026 results and specialty-testing updates provide the factual backdrop to the queued article's question about whether recent oncology progress and a higher outlook are already reflected in the company's valuation. Revenue reached $3.731 billion, up 5.8% year over year, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Labcorp raised 2026 enterprise revenue guidance to $14.710-$14.827 billion, equivalent to 5.4%-6.3% growth, and lifted adjusted EPS guidance to $18.10-$18.55. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, and Biopharma Laboratory Services revenue rose 6.5% to $836.2 million. Labcorp also expanded several higher-value oncology offerings. It added an advanced DPYD genotyping test to identify patients at risk of severe chemotherapy toxicity, launched ColoSense nationwide as the first FDA-approved RNA-based colorectal cancer screening test with at-home collection, entered a Fox Chase Cancer Center trial collaboration for Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and broadened access to Roche's FDA-approved VENTANA PTEN companion diagnostic for prostate cancer. These operating and product developments are verifiable; the source evidence does not establish a definitive conclusion about whether Labcorp is fully priced.",
       "summary_provider": "ChatGPT Scheduled Task",
       "summary_verification": "verified",
@@ -5282,10 +5314,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 120,
+  "post_prune_financial_duplicates_merged": 14,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-21T00:17:00+05:30",
-  "next_update_display": "21 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-21T06:17:00+05:30",
+  "next_update_display": "21 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
