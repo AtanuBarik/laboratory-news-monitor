@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 20 Aug 2026, 1:49 PM IST
+- **Repository generated:** 20 Aug 2026, 6:56 PM IST
 - **Distinct events in this file:** 71
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -41,7 +41,7 @@
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5
 
-**Feed description:** Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com Investing.com Nigeria
+**Feed description:** Quest Diagnostics shares reached an all-time high of $240.15 on August 19, 2026, according to Investing.com. The article reported a year-to-date return of 38%, a one-year share-price increase of 29.7% and a market capitalization of approximately $26.35 billion. InvestingPro's valuation model characterized the shares as overvalued relative to its fair-value estimate; that assessment is third-party investment analysis rather than Quest guidance. The market milestone followed a strong second quarter. Quest reported adjusted EPS of $3.12 versus the $2.82 consensus estimate cited by Investing.com, while quarterly revenue was about $3.04 billion. Quest's official release showed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic growth and a 13.1% increase in requisition volume. The company raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. The article also noted that Truist Securities raised its Quest price target to $250 from $225 while maintaining a Hold rating after the quarter. The all-time-high story therefore reflects market reaction to earnings, higher guidance and sustained operating momentum rather than a newly announced product, acquisition or partnership.
 
 ## 4. Quest Diagnostics Upgraded to Buy: Here's Why
 
@@ -53,7 +53,7 @@
 - **Sources:**
   - finance.yahoo.com: https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Upgraded to Buy: Here's Why finance.yahoo.com
+**Feed description:** Zacks upgraded Quest Diagnostics to a Zacks Rank #2 (Buy) on August 18, 2026, citing an upward trend in sell-side earnings estimates rather than a new company announcement. For the fiscal year ending December 2026, Zacks listed a consensus EPS estimate of $11.15 per share. The consensus estimate had increased 4.1% over the prior three months, which drove the rating change under Zacks' estimate-revision methodology. Zacks ranks stocks from #1 Strong Buy to #5 Strong Sell based on four factors related to earnings estimates. The firm says only the top 5% of its covered universe receives a Strong Buy rating and the next 15% receives a Buy rating, placing a Rank #2 stock within the top 20% on its estimate-revision framework. The article argues that rising estimates can support near-term share-price performance, but that is Zacks' investment thesis rather than Quest-issued guidance. Quest's most recent company outlook, issued with second-quarter results, calls for adjusted diluted EPS of $11.05-$11.25 and revenue of $11.95-$12.05 billion for 2026. The queued item therefore documents improving external earnings expectations and a ratings-model upgrade, not a change in Quest's own financial forecast, products, clinical pipeline or corporate structure.
 
 ## 5. Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield
 

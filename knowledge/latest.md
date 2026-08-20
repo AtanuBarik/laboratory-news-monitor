@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 20 Aug 2026, 1:49 PM IST
+- **Repository generated:** 20 Aug 2026, 6:56 PM IST
 - **Distinct events in this file:** 134
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - marketscreener.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMXYxVEVHdUNyLTRSR0YxZHd5aEY0N2VaRWVFUlloTktpaWxTRVVKYVpZWVJZbFl5STFnOThmeW9uNUN6T2c3ZjV3V1gzZnM4MHpSZGhXOTVfeEV1Qk92N29tVHFvbThIUk5yemhhQkRWbG9lUWxWQV9JcHlnWmFIN3BQWGZTbENUbWR1TmNBdV9MU2FwNlJsYUFWNUZzZGxKc1RIWklJX0p3OHlBb0NwSzB3dXlGZzA3YmVzWUo3Y1NKcGd4YVliZHFBcEQ2UklDemxMdGlDSW94aUpKNmdtVUNLR01SQQ?oc=5
 
-**Feed description:** Sonic Healthcare Limited Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026 marketscreener.com
+**Feed description:** Sonic Healthcare declared a final dividend of A$0.63 per share for FY2026, with the payment scheduled for September 17, 2026 and a record date of September 3. The dividend will be 60% franked. Together with the A$0.45 interim dividend paid in March, the final distribution brings total FY2026 dividends to A$1.08 per share, one cent higher than FY2025. Sonic's official results materials classify the A$0.63 distribution as the final dividend, rather than an interim payment. Management said the payout ratio is relatively high this year but is supported by strong operating cash flow and an investment-grade balance sheet; its medium-term capital-management framework targets a dividend payout ratio of 70%-80% of net profit as earnings grow. The dividend declaration accompanied FY2026 underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Revenue increased 13% to A$10.867 billion and underlying EBITDA rose 11% to A$1.933 billion. Sonic also ended June with a debt-cover ratio of 2.2 times and approximately A$1.6 billion of available funding headroom before the final dividend payment.
 
 ## 2. What Does Sonic Healthcare Signal on Diagnostics?
 
@@ -39,7 +39,7 @@
 - **Sources:**
   - Seeking Alpha: https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5
 
-**Feed description:** Sonic Healthcare Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19 Seeking Alpha
+**Feed description:** Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.
 
 ## 4. Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results
 
@@ -51,7 +51,7 @@
 - **Sources:**
   - TipRanks: https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXB4c0sxUWFRUHpDSnRIdFY5R3l6MWIzM3dMLWtsSUtuelg3RWpaTllNUDVrTjhYLXIxVUVTcGI3S0RuNWlfandXSjVPcHJVNGNWTHUwdTRjeVV3MUhtVGprdlAzT2dlWDF6WjVCMngwcF9HLVNDcG1jNXllcTJ0YUxzeXlaU0RZMTdaU2dMWm5LODRkenMtR20yMTY4dVdSTUJodjhWcTNkb2ZWcWExYUdCbWVTOGc0VFdKRDZGWGE0V0tid3c?oc=5
 
-**Feed description:** Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results TipRanks
+**Feed description:** Sonic Healthcare scheduled its FY2026 preliminary final-results release and management presentation for August 20, 2026 at 10:00 a.m. AEST, with CEO and Managing Director Jim Newcombe and CFO Chris Wilks presenting the year ended June 30 results. The presentation subsequently reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying EPS of 125.6 cents, up 14%. Organic revenue growth was 5%. Management said the result achieved underlying EBITDA guidance and reflected the LADR acquisition, synergies in Germany and Switzerland, advanced-diagnostics growth and operating leverage. The presentation also outlined priorities for FY2027: continuing the U.S. operating review, progressing LADR integration, improving U.K. operations and investing in digital infrastructure. Sonic guided to FY2027 constant-currency EBITDA of A$1.95-A$2.03 billion, excluding about A$30 million of back-office IT transformation costs. The company expects A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies. The announcement and presentation therefore provided both the scheduled investor briefing and the substantive financial and operational results discussed during it.
 
 ## 5. Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth
 
@@ -63,19 +63,20 @@
 - **Sources:**
   - TipRanks: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlFXTTh5X3NMcGNNUXZBQ09TSzVJdkZhUUxaTFlLR1ZXRzdNWV9DTnRoeWxUaTlnUHlhUmhrVWdjRGVzUHN5am1SaE9CQ25ZeGZ1ZkR3NTMtd2tFcTlhLURTVGw3ajVCcUs1VFVCcm9USmtqdnlhbW5mbHFDekI0RlBTVFN2TENPUDF5WFlEQThIVFF4bmZ4bTRkMTlHaEk4Q0I0bGpmSVdMTWhBVGIwWWNmcm51MGt4bzdKaGVvaFhxZXpMRlR0WmxfY1F4dG9jdW0xTjFFNTE2bzN2c1o1VA?oc=5
 
-**Feed description:** Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth TipRanks
+**Feed description:** Sonic Healthcare's FY2026 results showed growth from both acquisitions and higher-value diagnostics. Revenue increased 13% to A$10.867 billion and underlying EBITDA rose 11% to A$1.933 billion. Underlying net profit climbed 17% to A$621 million and underlying EPS increased 14% to 125.6 cents. Organic revenue growth was 5%. In Germany, the LADR acquisition completed on July 1, 2025 and integration is well advanced; Sonic said it realized more than 40% of total expected LADR synergies in the first year, with the balance expected over the next two years. The group also reported substantial synergy capture from recent Swiss acquisitions. Advanced diagnostics outpaced broader growth: Sonic Genetics in Australia increased 15%, Biovis in Germany 12%, and the U.S. advanced-diagnostics division combining Cairo Diagnostics, ThyroSeq and other specialized testing grew 16% organically. Direct-to-consumer testing at Mein Direktlabor in Germany grew more than 60%. Sonic also launched a global digital and AI transformation program and continued its U.S. operating review. For FY2027, management expects constant-currency EBITDA of A$1.95-A$2.03 billion excluding about A$30 million of back-office transformation costs, with A$25-A$30 million of expected U.S. review benefits and continued acquisition synergies.
 
 ## 6. Sonic Healthcare logs $10.87B in annual revenue
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - grafa.com: https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1VZRUFzNmNfa2hWcmtYRGpkYVg0WXk1OUl1NlpYSnRjS0FKTmY3SDRBY2pFOU9PVHBnalFaWFdzM25YV0xNaFpYV2JRckpyT1hKNWFuMDRuWW5yRU10SmpBT0o2TUR0THpHYXVjTmR0cnE2eW54emZNbkRlZG1PbG5EYnBudw?oc=5
+  - grafa.com: https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2s4OW9ENUNIZnhFYXluNHNtODFYYmlmdncxVXZLRy15dGxESnd5d2NubjlNSFR0V01ZNWprMktfdTlQSHdJR0F1RHkzOEhRM3lZbElhRWU2aS04M011YlhtYkxJMkFkdndTWDBmOThtMFM4UFQyUnJ4SG9Ib0kwZWtEZWl4d3dnWkE?oc=5
 
-**Feed description:** Sonic Healthcare logs $10.87B in annual revenue grafa.com
+**Feed description:** Sonic Healthcare reported FY2026 revenue of A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. The company's geographic mix remained diversified: Germany generated A$2.729 billion, or 25% of group revenue; Australian pathology A$2.184 billion, or 20%; the United States A$2.048 billion, or 19%; Switzerland A$1.173 billion, or 11%; and radiology A$1.037 billion, or 10%. Underlying EBITDA increased 11% to A$1.933 billion. Underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 cents; statutory net profit was A$608 million. Sonic said growth benefited from the completed LADR acquisition, continuing synergy capture in Germany and Switzerland, and stronger advanced diagnostics. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while specialist referrals in Australian pathology grew 7%. Direct-to-consumer testing also accelerated, with Mein Direktlabor in Germany growing more than 60%. Management is continuing a U.S. operating review and a global digital-infrastructure modernization program. For FY2027, Sonic expects constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office IT transformation costs, while maintaining an underlying group organic-growth expectation around 5%.
 
 ## 7. Sonic Healthcare Announces AUD 0.63 Interim Dividend
 
@@ -87,7 +88,7 @@
 - **Sources:**
   - TipRanks: https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5
 
-**Feed description:** Sonic Healthcare Announces AUD 0.63 Interim Dividend TipRanks
+**Feed description:** Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.
 
 ## 8. Is Quest Diagnostics Still Worth A Look After A 92% Run?
 
@@ -111,7 +112,7 @@
 - **Sources:**
   - The Motley Fool Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5
 
-**Feed description:** Sonic Healthcare share price in focus on FY26 profit jump and digital push The Motley Fool Australia
+**Feed description:** Sonic Healthcare's FY2026 results show a sharp improvement in profit alongside the start of a multi-year digital modernization program. Revenue rose 13% to A$10.867 billion, underlying EBITDA increased 11% to A$1.933 billion and underlying net profit climbed 17% to A$621 million. Statutory net profit was A$608 million, up 18%, while underlying EPS rose 14% to 125.6 cents. Organic revenue growth was 5%. Advanced diagnostics were a notable growth area: Sonic Genetics in Australia grew 15%, Biovis in Germany 12%, and the U.S. advanced-diagnostics division, which combines Cairo Diagnostics, ThyroSeq and other specialized testing, grew 16% organically. More than 70% of U.S. dermatopathology volume has migrated to Sonic's PathologyWatch digital platform. Sonic also began a global digital and AI transformation covering finance, supply chain and HR systems, laboratory and radiology information systems, and clinical applications. Management plans approximately A$30 million of annual investment in the back-office program for the next three years. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion excluding those transformation costs, with roughly A$25-A$30 million of expected benefits from the U.S. operating review and further LADR and Swiss acquisition synergies.
 
 ## 10. Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations
 
@@ -137,7 +138,7 @@
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5
 
-**Feed description:** Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com Investing.com Nigeria
+**Feed description:** Quest Diagnostics shares reached an all-time high of $240.15 on August 19, 2026, according to Investing.com. The article reported a year-to-date return of 38%, a one-year share-price increase of 29.7% and a market capitalization of approximately $26.35 billion. InvestingPro's valuation model characterized the shares as overvalued relative to its fair-value estimate; that assessment is third-party investment analysis rather than Quest guidance. The market milestone followed a strong second quarter. Quest reported adjusted EPS of $3.12 versus the $2.82 consensus estimate cited by Investing.com, while quarterly revenue was about $3.04 billion. Quest's official release showed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic growth and a 13.1% increase in requisition volume. The company raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. The article also noted that Truist Securities raised its Quest price target to $250 from $225 while maintaining a Hold rating after the quarter. The all-time-high story therefore reflects market reaction to earnings, higher guidance and sustained operating momentum rather than a newly announced product, acquisition or partnership.
 
 ## 12. Labcorp and NACHC Form Alliance to Train CMOs and Leverage CHC Lab Data
 
@@ -161,7 +162,7 @@
 - **Sources:**
   - finance.yahoo.com: https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Upgraded to Buy: Here's Why finance.yahoo.com
+**Feed description:** Zacks upgraded Quest Diagnostics to a Zacks Rank #2 (Buy) on August 18, 2026, citing an upward trend in sell-side earnings estimates rather than a new company announcement. For the fiscal year ending December 2026, Zacks listed a consensus EPS estimate of $11.15 per share. The consensus estimate had increased 4.1% over the prior three months, which drove the rating change under Zacks' estimate-revision methodology. Zacks ranks stocks from #1 Strong Buy to #5 Strong Sell based on four factors related to earnings estimates. The firm says only the top 5% of its covered universe receives a Strong Buy rating and the next 15% receives a Buy rating, placing a Rank #2 stock within the top 20% on its estimate-revision framework. The article argues that rising estimates can support near-term share-price performance, but that is Zacks' investment thesis rather than Quest-issued guidance. Quest's most recent company outlook, issued with second-quarter results, calls for adjusted diluted EPS of $11.05-$11.25 and revenue of $11.95-$12.05 billion for 2026. The queued item therefore documents improving external earnings expectations and a ratings-model upgrade, not a change in Quest's own financial forecast, products, clinical pipeline or corporate structure.
 
 ## 14. Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health
 
@@ -301,7 +302,7 @@
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5
 
-**Feed description:** Labcorp announces executive leadership changes effective in September Investing.com Nigeria
+**Feed description:** Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both Early Development Research Laboratories and Central Laboratories, consolidating leadership across the two principal Biopharma Laboratory Services businesses. The filing-based announcement did not disclose a new external hire, transaction, compensation package or change to Labcorp's CEO or CFO positions. The transition comes shortly after Labcorp reported second-quarter revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is therefore the consolidation of biopharma laboratory leadership under Caveney following Bailey's resignation, with the two effective dates separated by three days to provide continuity in the transition.
 
 ## 25. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
 
@@ -1609,7 +1610,7 @@
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5
 
-**Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
+**Feed description:** Morningstar's July 2026 review argued that Sonic Healthcare's longer-term earnings case still depended primarily on margin recovery in pathology, which represented about 85% of group revenue at the time. The analyst identified three main supports: indexation introduced from July 1, 2025 on roughly one-third of Australian pathology tests, integration synergies from the LADR acquisition in Germany and expected restructuring benefits in the United States. Morningstar also highlighted execution risks. LADR was only in its first year of integration, the U.S. operating review was expected to be a multistage process, and the new U.K. NHS contract was viewed as margin dilutive in the medium term. As a result, Morningstar reduced its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic's roughly 17% pre-COVID average, and cut its fair-value estimate by 16% to A$27. At publication the analyst said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. Morningstar also flagged German private-fee reform as a key risk because Germany represented roughly 25% of Sonic revenue. These are third-party forecasts made before Sonic's August 20 FY2026 results, not company-issued guidance.
 
 ## 119. Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News
 

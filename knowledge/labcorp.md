@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 20 Aug 2026, 1:49 PM IST
+- **Repository generated:** 20 Aug 2026, 6:56 PM IST
 - **Distinct events in this file:** 46
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -117,7 +117,7 @@
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5
 
-**Feed description:** Labcorp announces executive leadership changes effective in September Investing.com Nigeria
+**Feed description:** Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both Early Development Research Laboratories and Central Laboratories, consolidating leadership across the two principal Biopharma Laboratory Services businesses. The filing-based announcement did not disclose a new external hire, transaction, compensation package or change to Labcorp's CEO or CFO positions. The transition comes shortly after Labcorp reported second-quarter revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is therefore the consolidation of biopharma laboratory leadership under Caveney following Bailey's resignation, with the two effective dates separated by three days to provide continuity in the transition.
 
 ## 10. Is Labcorp Fully Priced Following Oncology Approvals And Raised Outlook?
 
