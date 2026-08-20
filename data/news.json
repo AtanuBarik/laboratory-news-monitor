@@ -1,17 +1,161 @@
 {
-  "generated_at": "2026-08-20T01:18:28.000061+05:30",
-  "generated_at_display": "20 Aug 2026, 1:18 AM IST",
-  "item_count": 124,
-  "raw_relevant_item_count": 327,
-  "duplicates_merged": 82,
+  "generated_at": "2026-08-20T08:58:17.701376+05:30",
+  "generated_at_display": "20 Aug 2026, 8:58 AM IST",
+  "item_count": 131,
+  "raw_relevant_item_count": 343,
+  "duplicates_merged": 80,
   "failures": [],
   "items": [
+    {
+      "id": "3d741f5699ae7dd941ee",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
+      "description": "Sonic Healthcare Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19 Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-08-20T02:02:30+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-08-20T02:02:30+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings otcmkts presentation results skhhy"
+    },
+    {
+      "id": "32e9f8e7d394cb66c552",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXB4c0sxUWFRUHpDSnRIdFY5R3l6MWIzM3dMLWtsSUtuelg3RWpaTllNUDVrTjhYLXIxVUVTcGI3S0RuNWlfandXSjVPcHJVNGNWTHUwdTRjeVV3MUhtVGprdlAzT2dlWDF6WjVCMngwcF9HLVNDcG1jNXllcTJ0YUxzeXlaU0RZMTdaU2dMWm5LODRkenMtR20yMTY4dVdSTUJodjhWcTNkb2ZWcWExYUdCbWVTOGc0VFdKRDZGWGE0V0tid3c?oc=5",
+      "description": "Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-08-20T01:16:49+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXB4c0sxUWFRUHpDSnRIdFY5R3l6MWIzM3dMLWtsSUtuelg3RWpaTllNUDVrTjhYLXIxVUVTcGI3S0RuNWlfandXSjVPcHJVNGNWTHUwdTRjeVV3MUhtVGprdlAzT2dlWDF6WjVCMngwcF9HLVNDcG1jNXllcTJ0YUxzeXlaU0RZMTdaU2dMWm5LODRkenMtR20yMTY4dVdSTUJodjhWcTNkb2ZWcWExYUdCbWVTOGc0VFdKRDZGWGE0V0tid3c?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-08-20T01:16:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 financial full operational present results year"
+    },
+    {
+      "id": "8ce262ac0985d0848121",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlFXTTh5X3NMcGNNUXZBQ09TSzVJdkZhUUxaTFlLR1ZXRzdNWV9DTnRoeWxUaTlnUHlhUmhrVWdjRGVzUHN5am1SaE9CQ25ZeGZ1ZkR3NTMtd2tFcTlhLURTVGw3ajVCcUs1VFVCcm9USmtqdnlhbW5mbHFDekI0RlBTVFN2TENPUDF5WFlEQThIVFF4bmZ4bTRkMTlHaEk4Q0I0bGpmSVdMTWhBVGIwWWNmcm51MGt4bzdKaGVvaFhxZXpMRlR0WmxfY1F4dG9jdW0xTjFFNTE2bzN2c1o1VA?oc=5",
+      "description": "Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-08-20T01:11:10+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlFXTTh5X3NMcGNNUXZBQ09TSzVJdkZhUUxaTFlLR1ZXRzdNWV9DTnRoeWxUaTlnUHlhUmhrVWdjRGVzUHN5am1SaE9CQ25ZeGZ1ZkR3NTMtd2tFcTlhLURTVGw3ajVCcUs1VFVCcm9USmtqdnlhbW5mbHFDekI0RlBTVFN2TENPUDF5WFlEQThIVFF4bmZ4bTRkMTlHaEk4Q0I0bGpmSVdMTWhBVGIwWWNmcm51MGt4bzdKaGVvaFhxZXpMRlR0WmxfY1F4dG9jdW0xTjFFNTE2bzN2c1o1VA?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-08-20T01:11:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advanced drive fy2026 growth posts results strong synergies"
+    },
+    {
+      "id": "6a81316b1b3cb233fe09",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Announces AUD 0.63 Interim Dividend",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
+      "description": "Sonic Healthcare Announces AUD 0.63 Interim Dividend TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-08-20T00:30:14+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-08-20T00:30:14+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "aud dividend interim"
+    },
+    {
+      "id": "6ef40a506d49c49ae796",
+      "company": "Quest Diagnostics",
+      "title": "Is Quest Diagnostics Still Worth A Look After A 92% Run?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
+      "description": "Is Quest Diagnostics (DGX) Still Worth A Look After A 92% Run? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-20T00:17:00+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-20T00:17:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after look run still worth"
+    },
+    {
+      "id": "fb4c75abf14335d93875",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare share price in focus on FY26 profit jump and digital push",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5",
+      "description": "Sonic Healthcare share price in focus on FY26 profit jump and digital push The Motley Fool Australia",
+      "source": "The Motley Fool Australia",
+      "source_url": "https://www.fool.com.au",
+      "source_domain": "fool.com.au",
+      "published_at": "2026-08-19T23:49:50+00:00",
+      "published_display": "19 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Motley Fool Australia",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5",
+          "domain": "fool.com.au",
+          "published_at": "2026-08-19T23:49:50+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "digital focus fy26 jump price profit push share"
+    },
     {
       "id": "548a60b92b657060f9af",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5",
-      "description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations AD HOC NEWS",
+      "description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations Ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -55,9 +199,15 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-08-19T13:49:40+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-19T13:49:45+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "240 all com high hits investing stock time usd"
     },
     {
@@ -1114,7 +1264,7 @@
       "company": "Labcorp",
       "title": "What Labcorp's New PTEN Test and Guidance Hike Means For Shareholders",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
-      "description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders Sahm",
+      "description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders simplywall.st",
       "source": "Sahm",
       "source_url": "https://www.sahmcapital.com",
       "source_domain": "sahmcapital.com",
@@ -1128,9 +1278,15 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
           "domain": "sahmcapital.com",
           "published_at": "2026-08-09T07:00:00+00:00"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNVZRbGhnNlhacFJMSVE5dTlncDFjV0xlSkpUZVh1aXNxcnUzR1JiZHBNNDlUTE9sNjZpdExXeUJhS1JHREVDZndmUjBQM25CYzcwR1NWdkh4RWdjeldweE50UnJRNXhTbk9UU0NjQVZqNExLblNFemI5RlFyc0Vwa01wd1FKREtnci1KOG1lTk83UHNsMTgzWHZrN0I1a2QxTm53VXlGWHhTMGdTQUo2MlNCanZHM3pTU3pTQ2IxVFR3X1NITVptTjlCeV9nd9IB0wFBVV95cUxOTkQtdmtENlF5Y3pEejJPVWJBdTdEX2xBdEdSQ2pDN1BxWmd3NEY0bm5sREdlX3EyVUhBQ2IzNTQ4N0lOclNhWXM4NVg0Vkw1eU9rS3EyUWk5YjZIYTdZT3NjaDQwQjNFODZwWjhfYmgtaGtXc0o1VmNBOVFWQ1VTVzc3RWNYMDczX0ZJdXoxdEZUdEpNa3lBVDVSYjVsNW01ZFZmZk1PZUQtZ3pJWGJ5aE5FV2FJcDBud3Q0RG1DaF9qM1JZdFFidU9MREtadUxSamNZ?oc=5",
+          "domain": "simplywall.st",
+          "published_at": "2026-08-09T13:40:12+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "guidance hike means pten shareholders test what"
     },
     {
@@ -1302,6 +1458,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "advances between buffered etf midpoint resistance shares support test"
+    },
+    {
+      "id": "b0dd935b15f040e61bb6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Edges Higher as Diagnostic Demand Remains Steady - Stop Hunt",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGNyZVJEN2lwaFNRd0ROZngzVlIyWmIxVVNtcUlRLUs4RFRDelNiTVNRNG1pb0RNUkEtZ2RsVVJ3Mml0VlA2aTZQWUtJQnlKSzk4NW1BMXZTNHFONFYzWG9XemlHV0NzRk95Q2Q5RXlncTM1Ykp1RnN3a1RWcWxfR2h2cnAyTWpIZDdEVTZDLTI0LUY2V2I3aEhKb2RoWG05ZWhjLWF5RHZyaWJZalBwOE1B?oc=5",
+      "description": "Quest Diagnostics (DGX) Edges Higher as Diagnostic Demand Remains Steady - Stop Hunt Vinanet",
+      "source": "Vinanet",
+      "source_url": "http://vinanet.vn",
+      "source_domain": "vinanet.vn",
+      "published_at": "2026-08-06T07:00:00+00:00",
+      "published_display": "06 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Vinanet",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGNyZVJEN2lwaFNRd0ROZngzVlIyWmIxVVNtcUlRLUs4RFRDelNiTVNRNG1pb0RNUkEtZ2RsVVJ3Mml0VlA2aTZQWUtJQnlKSzk4NW1BMXZTNHFONFYzWG9XemlHV0NzRk95Q2Q5RXlncTM1Ykp1RnN3a1RWcWxfR2h2cnAyTWpIZDdEVTZDLTI0LUY2V2I3aEhKb2RoWG05ZWhjLWF5RHZyaWJZalBwOE1B?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-08-06T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "demand diagnostic edges higher hunt remains steady stop"
     },
     {
       "id": "fe4a58a5ec445897fde0",
@@ -4837,10 +5017,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 117,
+  "post_prune_financial_duplicates_merged": 15,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-20T06:17:00+05:30",
-  "next_update_display": "20 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-20T12:17:00+05:30",
+  "next_update_display": "20 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

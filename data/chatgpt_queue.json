@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T02:24:58.121406+05:30",
-  "generated_at_display": "20 Aug 2026, 2:24 AM IST",
+  "generated_at": "2026-08-20T08:58:20.976361+05:30",
+  "generated_at_display": "20 Aug 2026, 8:58 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 59,
+  "remaining_unsummarized_count": 66,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -173,12 +173,69 @@
       ]
     },
     {
+      "id": "3d741f5699ae7dd941ee",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19",
+      "source": "Seeking Alpha",
+      "description": "Sonic Healthcare Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19 Seeking Alpha",
+      "published_at": "2026-08-20T02:02:30+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a81316b1b3cb233fe09",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Sonic Healthcare Announces AUD 0.63 Interim Dividend",
+      "source": "TipRanks",
+      "description": "Sonic Healthcare Announces AUD 0.63 Interim Dividend TipRanks",
+      "published_at": "2026-08-20T00:30:14+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fb4c75abf14335d93875",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Sonic Healthcare share price in focus on FY26 profit jump and digital push",
+      "source": "The Motley Fool Australia",
+      "description": "Sonic Healthcare share price in focus on FY26 profit jump and digital push The Motley Fool Australia",
+      "published_at": "2026-08-19T23:49:50+00:00",
+      "published_display": "19 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5",
+      "sources": [
+        {
+          "name": "The Motley Fool Australia",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5"
+        }
+      ]
+    },
+    {
       "id": "548a60b92b657060f9af",
       "company": "Quest Diagnostics",
       "category": "Financials",
       "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
       "source": "AD HOC NEWS",
-      "description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations AD HOC NEWS",
+      "description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations Ad-hoc-news.de",
       "published_at": "2026-08-19T18:11:19+00:00",
       "published_display": "19 Aug 2026",
       "official_source": false,
@@ -235,16 +292,20 @@
       "category": "Financials",
       "title": "What Labcorp's New PTEN Test and Guidance Hike Means For Shareholders",
       "source": "Sahm",
-      "description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders Sahm",
+      "description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders simplywall.st",
       "published_at": "2026-08-09T07:00:00+00:00",
       "published_display": "09 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
       "sources": [
         {
           "name": "Sahm",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5"
+        },
+        {
+          "name": "simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNVZRbGhnNlhacFJMSVE5dTlncDFjV0xlSkpUZVh1aXNxcnUzR1JiZHBNNDlUTE9sNjZpdExXeUJhS1JHREVDZndmUjBQM25CYzcwR1NWdkh4RWdjeldweE50UnJRNXhTbk9UU0NjQVZqNExLblNFemI5RlFyc0Vwa01wd1FKREtnci1KOG1lTk83UHNsMTgzWHZrN0I1a2QxTm53VXlGWHhTMGdTQUo2MlNCanZHM3pTU3pTQ2IxVFR3X1NITVptTjlCeV9nd9IB0wFBVV95cUxOTkQtdmtENlF5Y3pEejJPVWJBdTdEX2xBdEdSQ2pDN1BxWmd3NEY0bm5sREdlX3EyVUhBQ2IzNTQ4N0lOclNhWXM4NVg0Vkw1eU9rS3EyUWk5YjZIYTdZT3NjaDQwQjNFODZwWjhfYmgtaGtXc0o1VmNBOVFWQ1VTVzc3RWNYMDczX0ZJdXoxdEZUdEpNa3lBVDVSYjVsNW01ZFZmZk1PZUQtZ3pJWGJ5aE5FV2FJcDBud3Q0RG1DaF9qM1JZdFFidU9MREtadUxSamNZ?oc=5"
         }
       ]
     },
@@ -291,6 +352,63 @@
       ]
     },
     {
+      "id": "32e9f8e7d394cb66c552",
+      "company": "Sonic Healthcare",
+      "category": "Other",
+      "title": "Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results",
+      "source": "TipRanks",
+      "description": "Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results TipRanks",
+      "published_at": "2026-08-20T01:16:49+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXB4c0sxUWFRUHpDSnRIdFY5R3l6MWIzM3dMLWtsSUtuelg3RWpaTllNUDVrTjhYLXIxVUVTcGI3S0RuNWlfandXSjVPcHJVNGNWTHUwdTRjeVV3MUhtVGprdlAzT2dlWDF6WjVCMngwcF9HLVNDcG1jNXllcTJ0YUxzeXlaU0RZMTdaU2dMWm5LODRkenMtR20yMTY4dVdSTUJodjhWcTNkb2ZWcWExYUdCbWVTOGc0VFdKRDZGWGE0V0tid3c?oc=5",
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXB4c0sxUWFRUHpDSnRIdFY5R3l6MWIzM3dMLWtsSUtuelg3RWpaTllNUDVrTjhYLXIxVUVTcGI3S0RuNWlfandXSjVPcHJVNGNWTHUwdTRjeVV3MUhtVGprdlAzT2dlWDF6WjVCMngwcF9HLVNDcG1jNXllcTJ0YUxzeXlaU0RZMTdaU2dMWm5LODRkenMtR20yMTY4dVdSTUJodjhWcTNkb2ZWcWExYUdCbWVTOGc0VFdKRDZGWGE0V0tid3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ce262ac0985d0848121",
+      "company": "Sonic Healthcare",
+      "category": "Other",
+      "title": "Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth",
+      "source": "TipRanks",
+      "description": "Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth TipRanks",
+      "published_at": "2026-08-20T01:11:10+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlFXTTh5X3NMcGNNUXZBQ09TSzVJdkZhUUxaTFlLR1ZXRzdNWV9DTnRoeWxUaTlnUHlhUmhrVWdjRGVzUHN5am1SaE9CQ25ZeGZ1ZkR3NTMtd2tFcTlhLURTVGw3ajVCcUs1VFVCcm9USmtqdnlhbW5mbHFDekI0RlBTVFN2TENPUDF5WFlEQThIVFF4bmZ4bTRkMTlHaEk4Q0I0bGpmSVdMTWhBVGIwWWNmcm51MGt4bzdKaGVvaFhxZXpMRlR0WmxfY1F4dG9jdW0xTjFFNTE2bzN2c1o1VA?oc=5",
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlFXTTh5X3NMcGNNUXZBQ09TSzVJdkZhUUxaTFlLR1ZXRzdNWV9DTnRoeWxUaTlnUHlhUmhrVWdjRGVzUHN5am1SaE9CQ25ZeGZ1ZkR3NTMtd2tFcTlhLURTVGw3ajVCcUs1VFVCcm9USmtqdnlhbW5mbHFDekI0RlBTVFN2TENPUDF5WFlEQThIVFF4bmZ4bTRkMTlHaEk4Q0I0bGpmSVdMTWhBVGIwWWNmcm51MGt4bzdKaGVvaFhxZXpMRlR0WmxfY1F4dG9jdW0xTjFFNTE2bzN2c1o1VA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ef40a506d49c49ae796",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Is Quest Diagnostics Still Worth A Look After A 92% Run?",
+      "source": "Yahoo Finance",
+      "description": "Is Quest Diagnostics (DGX) Still Worth A Look After A 92% Run? Yahoo Finance",
+      "published_at": "2026-08-20T00:17:00+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5"
+        }
+      ]
+    },
+    {
       "id": "792c9d90656f156cc51a",
       "company": "Quest Diagnostics",
       "category": "Other",
@@ -300,7 +418,7 @@
       "published_at": "2026-08-19T13:47:04+00:00",
       "published_display": "19 Aug 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdIbjI1UTRIQndkejBXZlNtbTZTVjVsMklsd3UwRDhyWTkxNnJxLTNIUTE5YkhiRHVneUJOWGtTSkJPc3hCQ0dDV3gwOE12RDd3QUF3bmtuUjhvYjFDR21CRVJWYkxNMUhqNVVZOVBRQkRISFhFM1IzajlVdWQ4eUo0c0pnU2JhSjYzV1FMOXktdGo3R2tTbHhrYUFoMHdra2JLZ2llVlowc3JTVDVJLVdCN21FZw?oc=5",
       "sources": [
         {
@@ -310,6 +428,10 @@
         {
           "name": "Investing.com Nigeria",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5"
         }
       ]
     },
@@ -501,124 +623,6 @@
         {
           "name": "Vinanet",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "48a2abf995597e48fe1e",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
-      "source": "Kalkine Media",
-      "description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com",
-      "published_at": "2026-08-11T01:16:00+00:00",
-      "published_display": "11 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec192a490b0d32576517",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
-      "source": "Morningstar",
-      "description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5",
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bdc4a693d0cba7b7129",
-      "company": "Labcorp",
-      "category": "Leadership Changes",
-      "title": "Labcorp Colorado Springs Appointment",
-      "source": "Toimihenkilöliitto Erto",
-      "description": "Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto",
-      "published_at": "2026-08-10T18:58:23+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f53ea5c387cd622e227",
-      "company": "Quest Diagnostics",
-      "category": "Leadership Changes",
-      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
-      "source": "EIN News",
-      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, excl…",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
-      "sources": [
-        {
-          "name": "EIN News",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5"
-        },
-        {
-          "name": "EIN Presswire",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "26e34857f08ccef9e101",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
-      "source": "Mshale",
-      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com",
-      "published_at": "2026-08-10T08:08:47+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
-      "sources": [
-        {
-          "name": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe4a58a5ec445897fde0",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals",
-      "source": "Traders Union",
-      "description": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals Traders Union",
-      "published_at": "2026-08-05T22:14:20+00:00",
-      "published_display": "05 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
         }
       ]
     }

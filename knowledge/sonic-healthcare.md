@@ -1,11 +1,71 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 20 Aug 2026, 1:18 AM IST
-- **Distinct events in this file:** 8
+- **Repository generated:** 20 Aug 2026, 8:58 AM IST
+- **Distinct events in this file:** 13
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Sonic Healthcare Broadens Reach With Diagnostics Deals
+## 1. Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 20 Aug 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Seeking Alpha: https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5
+
+**Feed description:** Sonic Healthcare Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19 Seeking Alpha
+
+## 2. Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 20 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TipRanks: https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXB4c0sxUWFRUHpDSnRIdFY5R3l6MWIzM3dMLWtsSUtuelg3RWpaTllNUDVrTjhYLXIxVUVTcGI3S0RuNWlfandXSjVPcHJVNGNWTHUwdTRjeVV3MUhtVGprdlAzT2dlWDF6WjVCMngwcF9HLVNDcG1jNXllcTJ0YUxzeXlaU0RZMTdaU2dMWm5LODRkenMtR20yMTY4dVdSTUJodjhWcTNkb2ZWcWExYUdCbWVTOGc0VFdKRDZGWGE0V0tid3c?oc=5
+
+**Feed description:** Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results TipRanks
+
+## 3. Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 20 Aug 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TipRanks: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlFXTTh5X3NMcGNNUXZBQ09TSzVJdkZhUUxaTFlLR1ZXRzdNWV9DTnRoeWxUaTlnUHlhUmhrVWdjRGVzUHN5am1SaE9CQ25ZeGZ1ZkR3NTMtd2tFcTlhLURTVGw3ajVCcUs1VFVCcm9USmtqdnlhbW5mbHFDekI0RlBTVFN2TENPUDF5WFlEQThIVFF4bmZ4bTRkMTlHaEk4Q0I0bGpmSVdMTWhBVGIwWWNmcm51MGt4bzdKaGVvaFhxZXpMRlR0WmxfY1F4dG9jdW0xTjFFNTE2bzN2c1o1VA?oc=5
+
+**Feed description:** Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth TipRanks
+
+## 4. Sonic Healthcare Announces AUD 0.63 Interim Dividend
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 20 Aug 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TipRanks: https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5
+
+**Feed description:** Sonic Healthcare Announces AUD 0.63 Interim Dividend TipRanks
+
+## 5. Sonic Healthcare share price in focus on FY26 profit jump and digital push
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 19 Aug 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The Motley Fool Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5
+
+**Feed description:** Sonic Healthcare share price in focus on FY26 profit jump and digital push The Motley Fool Australia
+
+## 6. Sonic Healthcare Broadens Reach With Diagnostics Deals
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 18 Aug 2026
@@ -17,7 +77,7 @@
 
 **Feed description:** Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) Kalkine Media
 
-## 2. Sonic Healthcare Diagnostic Services Market Outlook
+## 7. Sonic Healthcare Diagnostic Services Market Outlook
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 13 Aug 2026
@@ -29,7 +89,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook kalkinemedia.com
 
-## 3. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
+## 8. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Aug 2026
@@ -41,7 +101,7 @@
 
 **Feed description:** Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com
 
-## 4. Sonic Healthcare draws attention on diagnostics activity
+## 9. Sonic Healthcare draws attention on diagnostics activity
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 04 Aug 2026
@@ -53,7 +113,7 @@
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 5. Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data
+## 10. Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 03 Aug 2026
@@ -65,7 +125,7 @@
 
 **Feed description:** Revelio Labs estimates that Sonic Healthcare employed approximately 42,892 people worldwide as of March 2026, down 0.3% year over year from 43,119 in the first quarter of 2025. The workforce-intelligence provider shows Sonic's employee base concentrated in Australia, with 16,871 employees or 39.6% of the total, followed by the United States with 12,033 or 28.2%, Germany with 4,256 or 10.0%, the United Kingdom with 3,034 or 7.1%, Switzerland with 2,296 or 5.4%, and India with 2,204 or 5.2%. Among these major locations, Germany was the only one showing clear year-over-year expansion, up 0.9%; Australia declined 0.4%, the United States 0.2%, the U.K. 0.8%, Switzerland 2.7%, and India 1.1%. Revelio classifies Sonic's largest functional groups as Engineering at 19,429 employees, Finance and Operations at 14,931, and Sales and Marketing at 8,015. Median employee tenure is estimated at 4.5 years. The page also lists 944 active job postings in 2026 and a hiring velocity of about 595 new roles per month. Because Revelio derives these figures from public workforce data rather than Sonic's audited reporting, they should be treated as third-party estimates. Overall, the data indicate a broadly stable global workforce with continued hiring and a strong concentration in Australia, the U.S. and Germany.
 
-## 6. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 11. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -77,7 +137,7 @@
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 7. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 12. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -89,7 +149,7 @@
 
 **Feed description:** Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar
 
-## 8. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 13. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026

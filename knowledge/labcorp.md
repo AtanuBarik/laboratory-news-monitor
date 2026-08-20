@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 20 Aug 2026, 1:18 AM IST
+- **Repository generated:** 20 Aug 2026, 8:58 AM IST
 - **Distinct events in this file:** 46
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -249,12 +249,13 @@
 - **Company:** Labcorp
 - **Publication date:** 09 Aug 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5
+  - simplywall.st: https://news.google.com/rss/articles/CBMizgFBVV95cUxQNVZRbGhnNlhacFJMSVE5dTlncDFjV0xlSkpUZVh1aXNxcnUzR1JiZHBNNDlUTE9sNjZpdExXeUJhS1JHREVDZndmUjBQM25CYzcwR1NWdkh4RWdjeldweE50UnJRNXhTbk9UU0NjQVZqNExLblNFemI5RlFyc0Vwa01wd1FKREtnci1KOG1lTk83UHNsMTgzWHZrN0I1a2QxTm53VXlGWHhTMGdTQUo2MlNCanZHM3pTU3pTQ2IxVFR3X1NITVptTjlCeV9nd9IB0wFBVV95cUxOTkQtdmtENlF5Y3pEejJPVWJBdTdEX2xBdEdSQ2pDN1BxWmd3NEY0bm5sREdlX3EyVUhBQ2IzNTQ4N0lOclNhWXM4NVg0Vkw1eU9rS3EyUWk5YjZIYTdZT3NjaDQwQjNFODZwWjhfYmgtaGtXc0o1VmNBOVFWQ1VTVzc3RWNYMDczX0ZJdXoxdEZUdEpNa3lBVDVSYjVsNW01ZFZmZk1PZUQtZ3pJWGJ5aE5FV2FJcDBud3Q0RG1DaF9qM1JZdFFidU9MREtadUxSamNZ?oc=5
 
-**Feed description:** What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders Sahm
+**Feed description:** What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders simplywall.st
 
 ## 21. Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary
 
