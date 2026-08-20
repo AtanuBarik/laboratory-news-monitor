@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T09:33:10.846510+05:30",
-  "generated_at_display": "20 Aug 2026, 9:33 AM IST",
+  "generated_at": "2026-08-20T12:41:24.256133+05:30",
+  "generated_at_display": "20 Aug 2026, 12:41 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 66,
+  "remaining_unsummarized_count": 68,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -192,6 +192,25 @@
       ]
     },
     {
+      "id": "8995aa9720f14a4dcb24",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Sonic Healthcare logs $10.87B in annual revenue",
+      "source": "grafa.com",
+      "description": "Sonic Healthcare logs $10.87B in annual revenue grafa.com",
+      "published_at": "2026-08-20T01:06:37+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1VZRUFzNmNfa2hWcmtYRGpkYVg0WXk1OUl1NlpYSnRjS0FKTmY3SDRBY2pFOU9PVHBnalFaWFdzM25YV0xNaFpYV2JRckpyT1hKNWFuMDRuWW5yRU10SmpBT0o2TUR0THpHYXVjTmR0cnE2eW54emZNbkRlZG1PbG5EYnBudw?oc=5",
+      "sources": [
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1VZRUFzNmNfa2hWcmtYRGpkYVg0WXk1OUl1NlpYSnRjS0FKTmY3SDRBY2pFOU9PVHBnalFaWFdzM25YV0xNaFpYV2JRckpyT1hKNWFuMDRuWW5yRU10SmpBT0o2TUR0THpHYXVjTmR0cnE2eW54emZNbkRlZG1PbG5EYnBudw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6a81316b1b3cb233fe09",
       "company": "Sonic Healthcare",
       "category": "Financials",
@@ -352,6 +371,25 @@
       ]
     },
     {
+      "id": "0613c3dd2eb953bd8d43",
+      "company": "Sonic Healthcare",
+      "category": "Other",
+      "title": "What Does Sonic Healthcare Signal on Diagnostics?",
+      "source": "kalkinemedia.com",
+      "description": "What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com",
+      "published_at": "2026-08-20T04:00:00+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5",
+      "sources": [
+        {
+          "name": "kalkinemedia.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5"
+        }
+      ]
+    },
+    {
       "id": "32e9f8e7d394cb66c552",
       "company": "Sonic Healthcare",
       "category": "Other",
@@ -460,7 +498,7 @@
       "category": "Other",
       "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
       "source": "Kalkine Media",
-      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) Kalkine Media",
+      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com",
       "published_at": "2026-08-18T03:16:00+00:00",
       "published_display": "18 Aug 2026",
       "official_source": false,
@@ -560,7 +598,7 @@
       "title": "FDA approves Labcorp's PGDx elio® test to ident...",
       "source": "Pluang",
       "description": "FDA approves Labcorp's PGDx elio® test to ident... Pluang",
-      "published_at": "2026-08-10T11:19:32+00:00",
+      "published_at": "2026-08-10T07:00:00+00:00",
       "published_display": "10 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -569,60 +607,6 @@
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "588313cd0791b0f57368",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics (QDI.F) Stock Price, News, Quote & History",
-      "source": "Yahoo! Finance Canada",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
-      "published_at": "2026-08-08T04:16:16+00:00",
-      "published_display": "08 Aug 2026",
-      "official_source": false,
-      "coverage_count": 4,
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5"
-        },
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a72f4d252eca37f5af7a",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF",
-      "source": "dars.gov.et",
-      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts Vinanet",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "published_display": "06 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5"
-        },
-        {
-          "name": "Vinanet",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5"
         }
       ]
     }

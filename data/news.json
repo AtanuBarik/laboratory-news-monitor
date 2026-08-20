@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-20T08:58:17.701376+05:30",
-  "generated_at_display": "20 Aug 2026, 8:58 AM IST",
-  "item_count": 131,
-  "raw_relevant_item_count": 343,
-  "duplicates_merged": 80,
+  "generated_at": "2026-08-20T12:41:21.173171+05:30",
+  "generated_at_display": "20 Aug 2026, 12:41 PM IST",
+  "item_count": 133,
+  "raw_relevant_item_count": 353,
+  "duplicates_merged": 88,
   "failures": [],
   "items": [
+    {
+      "id": "0613c3dd2eb953bd8d43",
+      "company": "Sonic Healthcare",
+      "title": "What Does Sonic Healthcare Signal on Diagnostics?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5",
+      "description": "What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com",
+      "source": "kalkinemedia.com",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-20T04:00:00+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "kalkinemedia.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-20T04:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "does signal what"
+    },
     {
       "id": "3d741f5699ae7dd941ee",
       "company": "Sonic Healthcare",
@@ -77,6 +101,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "advanced drive fy2026 growth posts results strong synergies"
+    },
+    {
+      "id": "8995aa9720f14a4dcb24",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare logs $10.87B in annual revenue",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1VZRUFzNmNfa2hWcmtYRGpkYVg0WXk1OUl1NlpYSnRjS0FKTmY3SDRBY2pFOU9PVHBnalFaWFdzM25YV0xNaFpYV2JRckpyT1hKNWFuMDRuWW5yRU10SmpBT0o2TUR0THpHYXVjTmR0cnE2eW54emZNbkRlZG1PbG5EYnBudw?oc=5",
+      "description": "Sonic Healthcare logs $10.87B in annual revenue grafa.com",
+      "source": "grafa.com",
+      "source_url": "https://grafa.com",
+      "source_domain": "grafa.com",
+      "published_at": "2026-08-20T01:06:37+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1VZRUFzNmNfa2hWcmtYRGpkYVg0WXk1OUl1NlpYSnRjS0FKTmY3SDRBY2pFOU9PVHBnalFaWFdzM25YV0xNaFpYV2JRckpyT1hKNWFuMDRuWW5yRU10SmpBT0o2TUR0THpHYXVjTmR0cnE2eW54emZNbkRlZG1PbG5EYnBudw?oc=5",
+          "domain": "grafa.com",
+          "published_at": "2026-08-20T01:06:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "87b annual logs revenue"
     },
     {
       "id": "6a81316b1b3cb233fe09",
@@ -389,7 +437,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
-      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) Kalkine Media",
+      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -1008,30 +1056,6 @@
       ]
     },
     {
-      "id": "93ef46d5e6650088af23",
-      "company": "Labcorp",
-      "title": "FDA approves Labcorp's PGDx elio® test to ident...",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
-      "description": "FDA approves Labcorp's PGDx elio® test to ident... Pluang",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-10T11:19:32+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-10T11:19:32+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "approves elio fda ident pgdx test"
-    },
-    {
       "id": "26e34857f08ccef9e101",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
@@ -1224,6 +1248,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "approval companion diagnostic fda melanoma wins"
+    },
+    {
+      "id": "93ef46d5e6650088af23",
+      "company": "Labcorp",
+      "title": "FDA approves Labcorp's PGDx elio® test to ident...",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
+      "description": "FDA approves Labcorp's PGDx elio® test to ident... Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "approves elio fda ident pgdx test"
     },
     {
       "id": "c29d4bd11fd2989f4864",
@@ -5017,10 +5065,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 117,
+  "post_prune_financial_duplicates_merged": 15,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-20T12:17:00+05:30",
-  "next_update_display": "20 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-20T18:17:00+05:30",
+  "next_update_display": "20 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
