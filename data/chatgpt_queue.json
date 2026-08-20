@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-20T12:49:57.607611+05:30",
-  "generated_at_display": "20 Aug 2026, 12:49 PM IST",
+  "generated_at": "2026-08-20T13:49:32.303789+05:30",
+  "generated_at_display": "20 Aug 2026, 1:49 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 58,
+  "remaining_unsummarized_count": 59,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "f2783facee1bb7625252",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026",
+      "source": "marketscreener.com",
+      "description": "Sonic Healthcare Limited Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026 marketscreener.com",
+      "published_at": "2026-08-20T07:51:19+00:00",
+      "published_display": "20 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMXYxVEVHdUNyLTRSR0YxZHd5aEY0N2VaRWVFUlloTktpaWxTRVVKYVpZWVJZbFl5STFnOThmeW9uNUN6T2c3ZjV3V1gzZnM4MHpSZGhXOTVfeEV1Qk92N29tVHFvbThIUk5yemhhQkRWbG9lUWxWQV9JcHlnWmFIN3BQWGZTbENUbWR1TmNBdV9MU2FwNlJsYUFWNUZzZGxKc1RIWklJX0p3OHlBb0NwSzB3dXlGZzA3YmVzWUo3Y1NKcGd4YVliZHFBcEQ2UklDemxMdGlDSW94aUpKNmdtVUNLR01SQQ?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMXYxVEVHdUNyLTRSR0YxZHd5aEY0N2VaRWVFUlloTktpaWxTRVVKYVpZWVJZbFl5STFnOThmeW9uNUN6T2c3ZjV3V1gzZnM4MHpSZGhXOTVfeEV1Qk92N29tVHFvbThIUk5yemhhQkRWbG9lUWxWQV9JcHlnWmFIN3BQWGZTbENUbWR1TmNBdV9MU2FwNlJsYUFWNUZzZGxKc1RIWklJX0p3OHlBb0NwSzB3dXlGZzA3YmVzWUo3Y1NKcGd4YVliZHFBcEQ2UklDemxMdGlDSW94aUpKNmdtVUNLR01SQQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "3d741f5699ae7dd941ee",
       "company": "Sonic Healthcare",
@@ -592,25 +611,6 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c39aae8638adf66e38ac",
-      "company": "Sonic Healthcare",
-      "category": "Other",
-      "title": "Sonic Healthcare draws attention on diagnostics activity",
-      "source": "Kalkine Media",
-      "description": "Sonic Healthcare draws attention on diagnostics activity Kalkine Media",
-      "published_at": "2026-08-04T13:04:00+00:00",
-      "published_display": "04 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5"
         }
       ]
     }

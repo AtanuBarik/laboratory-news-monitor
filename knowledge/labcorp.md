@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 20 Aug 2026, 12:49 PM IST
+- **Repository generated:** 20 Aug 2026, 1:49 PM IST
 - **Distinct events in this file:** 46
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -9,7 +9,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
-- **Category:** Partnership, M&A
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -21,7 +21,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
-- **Category:** Partnership, M&A
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -33,7 +33,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
-- **Category:** Partnership, M&A
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -45,7 +45,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
-- **Category:** Partnership, M&A
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -57,7 +57,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
-- **Category:** Partnership, M&A
+- **Category:** Leadership Changes
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
@@ -514,7 +514,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 27 Jul 2026
-- **Category:** Partnership, M&A
+- **Category:** Organizational Updates
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
