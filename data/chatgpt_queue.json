@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T14:50:41.902776+05:30",
-  "generated_at_display": "21 Aug 2026, 2:50 PM IST",
+  "generated_at": "2026-08-21T18:55:56.224861+05:30",
+  "generated_at_display": "21 Aug 2026, 6:55 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 50,
+  "remaining_unsummarized_count": 46,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,63 +24,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2596906aab55bacf29e",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Did Stronger Guidance, Buybacks and New Oncology Tests Just Shift Labcorp' Investment Narrative?",
-      "source": "Yahoo Finance",
-      "description": "Labcorp strengthened its 2026 financial outlook after a second quarter that combined mid-single-digit revenue growth, higher earnings, improving margins and continued capital deployment. Revenue rose 5.8% to $3.731 billion from $3.527 billion a year earlier. Diluted EPS increased 28.5% to $3.64 and adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%, including 3.6% organic growth, while Biopharma Laboratory Services revenue increased 6.5% to $836.2 million; Central Labs grew 9.8% and Early Development declined 1.4%. Labcorp raised full-year enterprise revenue guidance to $14.710-$14.827 billion, or 5.4%-6.3% growth, from $14.649-$14.803 billion. Adjusted EPS guidance increased to $18.10-$18.55 from $17.70-$18.35, while free-cash-flow guidance remained $1.24-$1.36 billion. The company also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Alongside the financial actions, Labcorp highlighted new oncology and specialty-testing initiatives, including advanced DPYD genotyping, nationwide ColoSense distribution, a Fox Chase MRD collaboration and expanded access to the VENTANA PTEN companion diagnostic. The combination supports a stronger operating narrative, while any valuation conclusion remains an investor judgment rather than a company-reported fact.",
-      "published_at": "2026-08-11T07:00:00+00:00",
-      "published_display": "11 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGl3d0Q0NUlvaWMwWlllV2ZmRjZOMHY5ZDhPLURWY0ozcEpuYTVhZTN5T2Z6M2hVWWhxWmYxWWlnV1VYc2REMzFfNDUyUUllemRNQm5CckkzOFhQWXRrdmJCS2xoTG13d3FNTTE5UTdDUE5ackdXTTh3SnBnRnNrN0JkQTdiaDZ6bTdCNEFwOXR3MmhpcVlFbHYycDlGRWk4WGc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b7f26c71a32c89b380a",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "ASX Movers Today: Sonic Healthcare in focus as volatility after earnings reshapes Midcap Stocks",
-      "source": "Kalkine Media",
-      "description": "ASX Movers Today: Sonic Healthcare (ASX:SHL) in focus as volatility after earnings reshapes Midcap Stocks Kalkine Media",
-      "published_at": "2026-08-21T01:33:00+00:00",
-      "published_display": "21 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa29ETmxOeVVPZU5hc0ZqbnlpeGtJaUxTSVo1TFpic1ptVWRsV2VqZ1Q2bDR6NWt6NlE4SUZjQ1Zrb2gzc2oxNVFnX0pCbkdsMUFJUHpzbU0yU2RUd2JieEdfSXFBS0Z0RjdWQXZtMVU1NlpwYlA2X05EYzJ3RFlhWE5iSlp2X2JjaTVUNmVkdUxlRXltd1ZnZjljcERueHBmZnVFTGlrYXZQT1hYUTVSa3FsQmVBZ3ZvbzN0dXRnNldsS2R5X242el9McVE1em9Nb0Z5d2xtaEh0Wms?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa29ETmxOeVVPZU5hc0ZqbnlpeGtJaUxTSVo1TFpic1ptVWRsV2VqZ1Q2bDR6NWt6NlE4SUZjQ1Zrb2gzc2oxNVFnX0pCbkdsMUFJUHpzbU0yU2RUd2JieEdfSXFBS0Z0RjdWQXZtMVU1NlpwYlA2X05EYzJ3RFlhWE5iSlp2X2JjaTVUNmVkdUxlRXltd1ZnZjljcERueHBmZnVFTGlrYXZQT1hYUTVSa3FsQmVBZ3ZvbzN0dXRnNldsS2R5X242el9McVE1em9Nb0Z5d2xtaEh0Wms?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "548a60b92b657060f9af",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
-      "source": "AD HOC NEWS",
-      "description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations Ad-hoc-news.de",
-      "published_at": "2026-08-19T18:11:19+00:00",
-      "published_display": "19 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5"
         }
       ]
     },
@@ -104,6 +47,25 @@
       ]
     },
     {
+      "id": "e41108bab7e6cfc51f45",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "LabCorp revenues 2013-2025",
+      "source": "Statista",
+      "description": "LabCorp revenues 2013-2025 Statista",
+      "published_at": "2026-07-24T07:00:00+00:00",
+      "published_display": "24 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5",
+      "sources": [
+        {
+          "name": "Statista",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0613c3dd2eb953bd8d43",
       "company": "Sonic Healthcare",
       "category": "Other",
@@ -119,25 +81,6 @@
         {
           "name": "kalkinemedia.com",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ef40a506d49c49ae796",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Is Quest Diagnostics Still Worth A Look After A 92% Run?",
-      "source": "Yahoo Finance",
-      "description": "Is Quest Diagnostics (DGX) Still Worth A Look After A 92% Run? Yahoo Finance",
-      "published_at": "2026-08-20T00:17:00+00:00",
-      "published_display": "20 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5"
         }
       ]
     },
@@ -214,25 +157,6 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "93ef46d5e6650088af23",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "FDA approves Labcorp's PGDx elio® test to ident...",
-      "source": "Pluang",
-      "description": "FDA approves Labcorp's PGDx elio® test to ident... Pluang",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5"
         }
       ]
     },
@@ -623,6 +547,114 @@
         {
           "name": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b44ec09afb37d0ac7b2",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains",
+      "source": "MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5756ac4158d68a543133",
+      "company": "Labcorp",
+      "category": "Other",
+      "title": "Labcorp expands hereditary risk testing access with genetic health panel",
+      "source": "Yahoo",
+      "description": "Labcorp expands hereditary risk testing access with genetic health panel Yahoo",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10f33466a047be2ac02f",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
+      "source": "Investing.com Nigeria",
+      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 7,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da70bf985fd9e363c79d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
+      "source": "The Motley Fool",
+      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
+      "sources": [
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
         }
       ]
     }

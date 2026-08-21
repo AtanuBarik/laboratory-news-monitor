@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 21 Aug 2026, 1:51 PM IST
+- **Repository generated:** 21 Aug 2026, 6:55 PM IST
 - **Distinct events in this file:** 72
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -27,7 +27,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5
 
-**Feed description:** Is Quest Diagnostics (DGX) Still Worth A Look After A 92% Run? Yahoo Finance
+**Feed description:** Yahoo Finance’s Simply Wall St analysis asks whether Quest Diagnostics’ strong share-price run is justified by projected cash flows rather than reporting a new company operating event. The article says Quest shares had returned 92.2% over three years and 33.4% over the prior year. Its discounted-cash-flow model starts from roughly $1.4 billion of latest-twelve-month free cash flow and estimates intrinsic value near $348 per share, implying about a 30.5% discount to the market price used in the analysis. By contrast, valuation on earnings looks much closer to peers: Quest traded at about 25.2 times earnings versus roughly 25.0 times for the healthcare industry and 25.4 times for the peer group, while Simply Wall St’s modeled fair P/E was about 26.3 times. The site gave Quest a mixed value score of 4 out of 6. The analysis points to expansion of WHOOP Advanced Labs, powered in the U.S. by Quest, and broader access to Galleri testing as potential supports for future testing volumes and cash flow, while emphasizing execution risk around newer partnerships and services. The $348 DCF value, fair-P/E estimate and long-term valuation conclusions are third-party modeling assumptions rather than Quest guidance or reported financial targets.
 
 ## 3. Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations
 
@@ -39,7 +39,7 @@
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5
 
-**Feed description:** Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations Ad-hoc-news.de
+**Feed description:** Quest Diagnostics shares reached a new high on August 19, 2026, extending a three-session advance after the company’s strong second-quarter report and raised full-year outlook. MarketWatch reported that the shares rose 2.33% that day to close at $241.76, above the prior 52-week peak of $240.13 set on July 28. Trading volume was 923,732 shares, slightly below the 50-day average of 957,070. The operating backdrop was Quest’s second quarter: revenue was $3.043 billion, up 10.2% year over year, with 10.0% organic revenue growth. Reported diluted EPS rose 15.0% to $2.84 and adjusted diluted EPS increased 19.1% to $3.12. MarketBeat’s earnings data show adjusted EPS beat its $2.82 consensus by $0.30, while revenue exceeded the roughly $2.97 billion expectation. Quest raised 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The share-price milestone is a market reaction rather than a new operating announcement, but it followed stronger-than-expected earnings, double-digit organic growth and improved company guidance in the public market.
 
 ## 4. Quest Diagnostics stock hits all-time high at 240.15 USD By Investing.com
 

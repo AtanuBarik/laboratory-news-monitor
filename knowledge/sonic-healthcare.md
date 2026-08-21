@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 21 Aug 2026, 1:51 PM IST
+- **Repository generated:** 21 Aug 2026, 6:55 PM IST
 - **Distinct events in this file:** 18
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -27,7 +27,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa29ETmxOeVVPZU5hc0ZqbnlpeGtJaUxTSVo1TFpic1ptVWRsV2VqZ1Q2bDR6NWt6NlE4SUZjQ1Zrb2gzc2oxNVFnX0pCbkdsMUFJUHpzbU0yU2RUd2JieEdfSXFBS0Z0RjdWQXZtMVU1NlpwYlA2X05EYzJ3RFlhWE5iSlp2X2JjaTVUNmVkdUxlRXltd1ZnZjljcERueHBmZnVFTGlrYXZQT1hYUTVSa3FsQmVBZ3ZvbzN0dXRnNldsS2R5X242el9McVE1em9Nb0Z5d2xtaEh0Wms?oc=5
 
-**Feed description:** ASX Movers Today: Sonic Healthcare (ASX:SHL) in focus as volatility after earnings reshapes Midcap Stocks Kalkine Media
+**Feed description:** Sonic Healthcare’s shares sold off sharply after its FY2026 results even though the company reported double-digit growth and met its constant-currency EBITDA guidance. Sonic reported revenue of A$10.867 billion, up 13%, organic revenue growth of 5%, underlying EBITDA of A$1.933 billion, up 11%, and underlying net profit after tax of A$621 million, up 17%. Underlying EPS was 125.6 Australian cents. Contemporary market coverage said EPS was below consensus expectations and the shares fell about 9% after the release, highlighting investor concern about the pace of margin recovery rather than a contraction in testing demand. Sonic’s results also showed statutory net profit of A$608 million and continuing investment in acquisition integration, U.S. restructuring and digital infrastructure. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion before about A$30 million of annual back-office transformation costs. It expects A$25-A$30 million of benefits from the U.S. operating review, with further LADR and Swiss acquisition synergies also supporting earnings. The immediate market reaction therefore reflected the gap between solid FY2026 operating growth and investor expectations for margins, EPS and the speed of FY2027 improvement.
 
 ## 3. Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026
 
