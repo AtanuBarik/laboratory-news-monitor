@@ -1,11 +1,23 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 21 Aug 2026, 9:07 AM IST
-- **Distinct events in this file:** 17
+- **Repository generated:** 21 Aug 2026, 1:51 PM IST
+- **Distinct events in this file:** 18
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. ASX Movers Today: Sonic Healthcare in focus as volatility after earnings reshapes Midcap Stocks
+## 1. Sonic Healthcare Says Citi Acquires Over 5% Voting Power
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 21 Aug 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5
+
+**Feed description:** Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com
+
+## 2. ASX Movers Today: Sonic Healthcare in focus as volatility after earnings reshapes Midcap Stocks
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 21 Aug 2026
@@ -17,7 +29,7 @@
 
 **Feed description:** ASX Movers Today: Sonic Healthcare (ASX:SHL) in focus as volatility after earnings reshapes Midcap Stocks Kalkine Media
 
-## 2. Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026
+## 3. Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -29,7 +41,7 @@
 
 **Feed description:** Sonic Healthcare declared a final dividend of A$0.63 per share for FY2026, with the payment scheduled for September 17, 2026 and a record date of September 3. The dividend will be 60% franked. Together with the A$0.45 interim dividend paid in March, the final distribution brings total FY2026 dividends to A$1.08 per share, one cent higher than FY2025. Sonic's official results materials classify the A$0.63 distribution as the final dividend, rather than an interim payment. Management said the payout ratio is relatively high this year but is supported by strong operating cash flow and an investment-grade balance sheet; its medium-term capital-management framework targets a dividend payout ratio of 70%-80% of net profit as earnings grow. The dividend declaration accompanied FY2026 underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Revenue increased 13% to A$10.867 billion and underlying EBITDA rose 11% to A$1.933 billion. Sonic also ended June with a debt-cover ratio of 2.2 times and approximately A$1.6 billion of available funding headroom before the final dividend payment.
 
-## 3. What Does Sonic Healthcare Signal on Diagnostics?
+## 4. What Does Sonic Healthcare Signal on Diagnostics?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -41,7 +53,7 @@
 
 **Feed description:** What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com
 
-## 4. Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19
+## 5. Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -53,7 +65,7 @@
 
 **Feed description:** Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.
 
-## 5. Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results
+## 6. Sonic Healthcare to Present Full‑Year 2026 Financial and Operational Results
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -65,7 +77,7 @@
 
 **Feed description:** Sonic Healthcare scheduled its FY2026 preliminary final-results release and management presentation for August 20, 2026 at 10:00 a.m. AEST, with CEO and Managing Director Jim Newcombe and CFO Chris Wilks presenting the year ended June 30 results. The presentation subsequently reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying EPS of 125.6 cents, up 14%. Organic revenue growth was 5%. Management said the result achieved underlying EBITDA guidance and reflected the LADR acquisition, synergies in Germany and Switzerland, advanced-diagnostics growth and operating leverage. The presentation also outlined priorities for FY2027: continuing the U.S. operating review, progressing LADR integration, improving U.K. operations and investing in digital infrastructure. Sonic guided to FY2027 constant-currency EBITDA of A$1.95-A$2.03 billion, excluding about A$30 million of back-office IT transformation costs. The company expects A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies. The announcement and presentation therefore provided both the scheduled investor briefing and the substantive financial and operational results discussed during it.
 
-## 6. Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth
+## 7. Sonic Healthcare posts strong FY2026 results as advanced diagnostics and synergies drive growth
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -77,7 +89,7 @@
 
 **Feed description:** Sonic Healthcare's FY2026 results showed growth from both acquisitions and higher-value diagnostics. Revenue increased 13% to A$10.867 billion and underlying EBITDA rose 11% to A$1.933 billion. Underlying net profit climbed 17% to A$621 million and underlying EPS increased 14% to 125.6 cents. Organic revenue growth was 5%. In Germany, the LADR acquisition completed on July 1, 2025 and integration is well advanced; Sonic said it realized more than 40% of total expected LADR synergies in the first year, with the balance expected over the next two years. The group also reported substantial synergy capture from recent Swiss acquisitions. Advanced diagnostics outpaced broader growth: Sonic Genetics in Australia increased 15%, Biovis in Germany 12%, and the U.S. advanced-diagnostics division combining Cairo Diagnostics, ThyroSeq and other specialized testing grew 16% organically. Direct-to-consumer testing at Mein Direktlabor in Germany grew more than 60%. Sonic also launched a global digital and AI transformation program and continued its U.S. operating review. For FY2027, management expects constant-currency EBITDA of A$1.95-A$2.03 billion excluding about A$30 million of back-office transformation costs, with A$25-A$30 million of expected U.S. review benefits and continued acquisition synergies.
 
-## 7. Sonic Healthcare logs $10.87B in annual revenue
+## 8. Sonic Healthcare logs $10.87B in annual revenue
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -90,7 +102,7 @@
 
 **Feed description:** Sonic Healthcare reported FY2026 revenue of A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. The company's geographic mix remained diversified: Germany generated A$2.729 billion, or 25% of group revenue; Australian pathology A$2.184 billion, or 20%; the United States A$2.048 billion, or 19%; Switzerland A$1.173 billion, or 11%; and radiology A$1.037 billion, or 10%. Underlying EBITDA increased 11% to A$1.933 billion. Underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 cents; statutory net profit was A$608 million. Sonic said growth benefited from the completed LADR acquisition, continuing synergy capture in Germany and Switzerland, and stronger advanced diagnostics. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while specialist referrals in Australian pathology grew 7%. Direct-to-consumer testing also accelerated, with Mein Direktlabor in Germany growing more than 60%. Management is continuing a U.S. operating review and a global digital-infrastructure modernization program. For FY2027, Sonic expects constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office IT transformation costs, while maintaining an underlying group organic-growth expectation around 5%.
 
-## 8. Sonic Healthcare Announces AUD 0.63 Interim Dividend
+## 9. Sonic Healthcare Announces AUD 0.63 Interim Dividend
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 20 Aug 2026
@@ -102,7 +114,7 @@
 
 **Feed description:** Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.
 
-## 9. Sonic Healthcare share price in focus on FY26 profit jump and digital push
+## 10. Sonic Healthcare share price in focus on FY26 profit jump and digital push
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 19 Aug 2026
@@ -114,7 +126,7 @@
 
 **Feed description:** Sonic Healthcare's FY2026 results show a sharp improvement in profit alongside the start of a multi-year digital modernization program. Revenue rose 13% to A$10.867 billion, underlying EBITDA increased 11% to A$1.933 billion and underlying net profit climbed 17% to A$621 million. Statutory net profit was A$608 million, up 18%, while underlying EPS rose 14% to 125.6 cents. Organic revenue growth was 5%. Advanced diagnostics were a notable growth area: Sonic Genetics in Australia grew 15%, Biovis in Germany 12%, and the U.S. advanced-diagnostics division, which combines Cairo Diagnostics, ThyroSeq and other specialized testing, grew 16% organically. More than 70% of U.S. dermatopathology volume has migrated to Sonic's PathologyWatch digital platform. Sonic also began a global digital and AI transformation covering finance, supply chain and HR systems, laboratory and radiology information systems, and clinical applications. Management plans approximately A$30 million of annual investment in the back-office program for the next three years. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion excluding those transformation costs, with roughly A$25-A$30 million of expected benefits from the U.S. operating review and further LADR and Swiss acquisition synergies.
 
-## 10. Sonic Healthcare Broadens Reach With Diagnostics Deals
+## 11. Sonic Healthcare Broadens Reach With Diagnostics Deals
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 18 Aug 2026
@@ -126,7 +138,7 @@
 
 **Feed description:** Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com
 
-## 11. Sonic Healthcare Diagnostic Services Market Outlook
+## 12. Sonic Healthcare Diagnostic Services Market Outlook
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 13 Aug 2026
@@ -138,7 +150,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook kalkinemedia.com
 
-## 12. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
+## 13. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Aug 2026
@@ -150,7 +162,7 @@
 
 **Feed description:** Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com
 
-## 13. Sonic Healthcare draws attention on diagnostics activity
+## 14. Sonic Healthcare draws attention on diagnostics activity
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 04 Aug 2026
@@ -162,7 +174,7 @@
 
 **Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
 
-## 14. Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data
+## 15. Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 03 Aug 2026
@@ -174,7 +186,7 @@
 
 **Feed description:** Revelio Labs estimates that Sonic Healthcare employed approximately 42,892 people worldwide as of March 2026, down 0.3% year over year from 43,119 in the first quarter of 2025. The workforce-intelligence provider shows Sonic's employee base concentrated in Australia, with 16,871 employees or 39.6% of the total, followed by the United States with 12,033 or 28.2%, Germany with 4,256 or 10.0%, the United Kingdom with 3,034 or 7.1%, Switzerland with 2,296 or 5.4%, and India with 2,204 or 5.2%. Among these major locations, Germany was the only one showing clear year-over-year expansion, up 0.9%; Australia declined 0.4%, the United States 0.2%, the U.K. 0.8%, Switzerland 2.7%, and India 1.1%. Revelio classifies Sonic's largest functional groups as Engineering at 19,429 employees, Finance and Operations at 14,931, and Sales and Marketing at 8,015. Median employee tenure is estimated at 4.5 years. The page also lists 944 active job postings in 2026 and a hiring velocity of about 595 new roles per month. Because Revelio derives these figures from public workforce data rather than Sonic's audited reporting, they should be treated as third-party estimates. Overall, the data indicate a broadly stable global workforce with continued hiring and a strong concentration in Australia, the U.S. and Germany.
 
-## 15. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
+## 16. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -186,7 +198,7 @@
 
 **Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
 
-## 16. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
+## 17. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 22 Jul 2026
@@ -198,7 +210,7 @@
 
 **Feed description:** Morningstar's July 2026 review argued that Sonic Healthcare's longer-term earnings case still depended primarily on margin recovery in pathology, which represented about 85% of group revenue at the time. The analyst identified three main supports: indexation introduced from July 1, 2025 on roughly one-third of Australian pathology tests, integration synergies from the LADR acquisition in Germany and expected restructuring benefits in the United States. Morningstar also highlighted execution risks. LADR was only in its first year of integration, the U.S. operating review was expected to be a multistage process, and the new U.K. NHS contract was viewed as margin dilutive in the medium term. As a result, Morningstar reduced its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic's roughly 17% pre-COVID average, and cut its fair-value estimate by 16% to A$27. At publication the analyst said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. Morningstar also flagged German private-fee reform as a key risk because Germany represented roughly 25% of Sonic revenue. These are third-party forecasts made before Sonic's August 20 FY2026 results, not company-issued guidance.
 
-## 17. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
+## 18. Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 09 Jul 2026

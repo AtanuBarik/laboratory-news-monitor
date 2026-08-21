@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-08-21T09:36:22.407348+05:30",
-  "generated_at_display": "21 Aug 2026, 9:36 AM IST",
+  "generated_at": "2026-08-21T13:51:37.665437+05:30",
+  "generated_at_display": "21 Aug 2026, 1:51 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 49,
+  "remaining_unsummarized_count": 50,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "0060ca4454ac659b4f79",
+      "company": "Sonic Healthcare",
+      "category": "Partnership, M&A",
+      "title": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power",
+      "source": "marketscreener.com",
+      "description": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com",
+      "published_at": "2026-08-21T06:53:38+00:00",
+      "published_display": "21 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
+        }
+      ]
+    },
     {
       "id": "a2596906aab55bacf29e",
       "company": "Labcorp",
@@ -604,29 +623,6 @@
         {
           "name": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a82c0ff56fc3931600bb",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "Labcorp expands hereditary risk testing access with genetic health panel",
-      "source": "Yahoo",
-      "description": "Labcorp expands hereditary risk testing access with genetic health panel Yahoo",
-      "published_at": "2026-07-28T09:33:48+00:00",
-      "published_display": "28 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5"
         }
       ]
     }

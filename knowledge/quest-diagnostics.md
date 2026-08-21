@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 21 Aug 2026, 9:07 AM IST
+- **Repository generated:** 21 Aug 2026, 1:51 PM IST
 - **Distinct events in this file:** 72
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -46,12 +46,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Investing.com Canada: https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdIbjI1UTRIQndkejBXZlNtbTZTVjVsMklsd3UwRDhyWTkxNnJxLTNIUTE5YkhiRHVneUJOWGtTSkJPc3hCQ0dDV3gwOE12RDd3QUF3bmtuUjhvYjFDR21CRVJWYkxNMUhqNVVZOVBRQkRISFhFM1IzajlVdWQ4eUo0c0pnU2JhSjYzV1FMOXktdGo3R2tTbHhrYUFoMHdra2JLZ2llVlowc3JTVDVJLVdCN21FZw?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3JWYllteWVvaldDZGY2a1N0LXpvYkQ5ejExSkp1NkI0TnhxYm1Ca1h6OExkOEtRNzdvSlRmb0g2bmRJOHMwbk1hd1gyQlFNVlN3ajg2QnpVamJpTG1Kc05RMmRDWG1zSmpkTVBheE1aVlJHaDBDR1RvNktvYXZkWHZyVEgyNG1Sa2p5MDN4WGxrdkdYVTdvWU1kcUhlcDRLOHhmYkttdUhreHFXajFoT1BNX3Fndw?oc=5
 
 **Feed description:** Quest Diagnostics shares reached an all-time high of $240.15 on August 19, 2026, according to Investing.com. The article reported a year-to-date return of 38%, a one-year share-price increase of 29.7% and a market capitalization of approximately $26.35 billion. InvestingPro's valuation model characterized the shares as overvalued relative to its fair-value estimate; that assessment is third-party investment analysis rather than Quest guidance. The market milestone followed a strong second quarter. Quest reported adjusted EPS of $3.12 versus the $2.82 consensus estimate cited by Investing.com, while quarterly revenue was about $3.04 billion. Quest's official release showed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic growth and a 13.1% increase in requisition volume. The company raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. The article also noted that Truist Securities raised its Quest price target to $250 from $225 while maintaining a Hold rating after the quarter. The all-time-high story therefore reflects market reaction to earnings, higher guidance and sustained operating momentum rather than a newly announced product, acquisition or partnership.
 
