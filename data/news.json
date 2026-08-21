@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T01:28:34.569313+05:30",
-  "generated_at_display": "21 Aug 2026, 1:28 AM IST",
+  "generated_at": "2026-08-21T06:57:43.341449+05:30",
+  "generated_at_display": "21 Aug 2026, 6:57 AM IST",
   "item_count": 135,
   "raw_relevant_item_count": 359,
-  "duplicates_merged": 91,
+  "duplicates_merged": 90,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5",
-      "description": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team Medical Product Outsourcing",
+      "description": "Quanterix appointed longtime Quest Diagnostics executive Geoff Albrecht as Senior Vice President and General Manager of Diagnostics, adding him to the company’s executive leadership team and having him report directly to CEO Everett Cunningham. The June 4 appointment is intended to make diagnostics a larger growth pillar for Quanterix, beginning with Alzheimer’s disease testing. Albrecht is responsible for diagnostics strategy and for building the infrastructure and operating framework needed to scale the portfolio commercially. Quanterix said Albrecht brings more than 25 years of commercial leadership experience from Quest Diagnostics. Most recently, he served as Quest’s Regional Vice President for the Northeast United States, with full profit-and-loss responsibility for a business representing approximately $2.9 billion in revenue. During his Quest tenure, he also held management, sales-director and vice-president positions and worked across business development, sales operations, joint-venture partnerships and M&A-led growth strategies. His experience spans health systems, health plans, physician-outreach organizations and employers. Quanterix positioned the hire as part of its effort to expand from biomarker research into a more substantial diagnostics business, with Alzheimer’s disease diagnostics as the initial commercial focus. The announcement does not disclose compensation, transaction terms or a broader restructuring at Quest.",
       "source": "Medical Product Outsourcing",
       "source_url": "https://www.mpo-mag.com",
       "source_domain": "mpo-mag.com",
@@ -28,7 +28,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "executive management quanterix recruited senior team"
+      "event_signature": "executive management quanterix recruited senior team",
+      "source_description": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team Medical Product Outsourcing",
+      "chatgpt_summary": "Quanterix appointed longtime Quest Diagnostics executive Geoff Albrecht as Senior Vice President and General Manager of Diagnostics, adding him to the company’s executive leadership team and having him report directly to CEO Everett Cunningham. The June 4 appointment is intended to make diagnostics a larger growth pillar for Quanterix, beginning with Alzheimer’s disease testing. Albrecht is responsible for diagnostics strategy and for building the infrastructure and operating framework needed to scale the portfolio commercially. Quanterix said Albrecht brings more than 25 years of commercial leadership experience from Quest Diagnostics. Most recently, he served as Quest’s Regional Vice President for the Northeast United States, with full profit-and-loss responsibility for a business representing approximately $2.9 billion in revenue. During his Quest tenure, he also held management, sales-director and vice-president positions and worked across business development, sales operations, joint-venture partnerships and M&A-led growth strategies. His experience spans health systems, health plans, physician-outreach organizations and employers. Quanterix positioned the hire as part of its effort to expand from biomarker research into a more substantial diagnostics business, with Alzheimer’s disease diagnostics as the initial commercial focus. The announcement does not disclose compensation, transaction terms or a broader restructuring at Quest.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-21T06:35:53+05:30",
+      "summary_evidence": [
+        "https://ir.quanterix.com/news-releases/news-release-details/quanterix-appoints-industry-veteran-geoff-albrecht-senior-vice"
+      ]
     },
     {
       "id": "f2783facee1bb7625252",
@@ -5314,10 +5322,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 121,
+  "post_prune_financial_duplicates_merged": 13,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-21T06:17:00+05:30",
-  "next_update_display": "21 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-21T12:17:00+05:30",
+  "next_update_display": "21 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

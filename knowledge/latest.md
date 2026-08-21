@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 21 Aug 2026, 1:28 AM IST
+- **Repository generated:** 21 Aug 2026, 6:57 AM IST
 - **Distinct events in this file:** 135
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Medical Product Outsourcing: https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5
 
-**Feed description:** Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team Medical Product Outsourcing
+**Feed description:** Quanterix appointed longtime Quest Diagnostics executive Geoff Albrecht as Senior Vice President and General Manager of Diagnostics, adding him to the company’s executive leadership team and having him report directly to CEO Everett Cunningham. The June 4 appointment is intended to make diagnostics a larger growth pillar for Quanterix, beginning with Alzheimer’s disease testing. Albrecht is responsible for diagnostics strategy and for building the infrastructure and operating framework needed to scale the portfolio commercially. Quanterix said Albrecht brings more than 25 years of commercial leadership experience from Quest Diagnostics. Most recently, he served as Quest’s Regional Vice President for the Northeast United States, with full profit-and-loss responsibility for a business representing approximately $2.9 billion in revenue. During his Quest tenure, he also held management, sales-director and vice-president positions and worked across business development, sales operations, joint-venture partnerships and M&A-led growth strategies. His experience spans health systems, health plans, physician-outreach organizations and employers. Quanterix positioned the hire as part of its effort to expand from biomarker research into a more substantial diagnostics business, with Alzheimer’s disease diagnostics as the initial commercial focus. The announcement does not disclose compensation, transaction terms or a broader restructuring at Quest.
 
 ## 2. Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026
 
