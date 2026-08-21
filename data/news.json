@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T18:57:03.922471+05:30",
-  "generated_at_display": "21 Aug 2026, 6:57 PM IST",
+  "generated_at": "2026-08-21T19:50:31.597574+05:30",
+  "generated_at_display": "21 Aug 2026, 7:50 PM IST",
   "item_count": 138,
-  "raw_relevant_item_count": 370,
-  "duplicates_merged": 87,
+  "raw_relevant_item_count": 371,
+  "duplicates_merged": 85,
   "failures": [],
   "items": [
     {
@@ -1057,79 +1057,19 @@
       ]
     },
     {
-      "id": "8419f6fde87e5afccc36",
+      "id": "de1c0870706e15d02ec6",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
-      "description": "Quest Diagnostics announced that its Board of Directors declared a quarterly cash dividend of $0.86 per share. The dividend will be paid on October 21, 2026 to holders of Quest common stock who are shareholders of record on October 6, 2026. The declaration continues the dividend rate established earlier in 2026 rather than increasing it again. On February 10, Quest authorized a 7.5% increase in the quarterly dividend from $0.80 to $0.86 per share, which set an annualized cash dividend of $3.44 per share and extended the company's record to fifteen consecutive years of dividend increases. The same February capital-allocation action increased Quest's share-repurchase authorization by $1 billion in addition to roughly $0.4 billion that remained available at the end of 2025. The August 12 release does not revise earnings guidance, announce a new repurchase authorization or change the dividend rate; its operative terms are the $0.86 amount, October 6 record date and October 21 payment date. Quest also states that it serves half of U.S. physicians and hospitals and one in three American adults annually, with a workforce of nearly 60,000 employees. The announcement therefore represents continuity in shareholder cash returns rather than a new operating or strategic initiative.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
+      "title": "Quest Diagnostics Declares Quarterly Cash Dividend, Payable on October 21, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5",
+      "description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
       "published_at": "2026-08-12T20:15:00+00:00",
       "published_display": "12 Aug 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-12T20:15:00+00:00"
-        },
-        {
-          "name": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTW1ieDBzdHJsMVJOcFJTQkIyalNEaUVsTjFhaDR5VmJHRVpRRklMRm8zRThrTVdGYTRYSC1jX0dKTzFwNHdwdFA0T0lfZXpxYnFtMUtXMExSLWR4QnFEbl9oZ054UE1zdHFrRldtQXJpNmpnUF9mT1praS04b2tIYVJoanFENjFPMDhYSEJaS1kzQ0Jzb3E1a25hVQ?oc=5",
-          "domain": "stocktitan.net",
-          "published_at": "2026-08-12T20:15:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVqU1NfcS1vcGtDblJReTlLUHd5Q2NSeXgxaGI5czBkVkZzT1lLTmFWZG5EbmVrZEVXRXU1MWxDNGhubTltTDBMUUowOGNWYXRIMVNKV3NkOF9qZVhUdXNVNmFHTms0a2ZURzB1ckJiREVXQnpCOXFnZXFqMVJfTkRHV0VrX09EUjI0UHdlZ29jTDhDaUxRb2l2UGowZVI4cjRfX2VmVU16dw?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-12T21:00:05+00:00"
-        },
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjdJZllLaEpSX0JXT2MzcEx2QUdLZElCampZTkY1aUhzeTFDYzlVNXlqQTZvWnlSUGNkblNXSDdEQW12YTNyVzNpakE0bXFKYUVuanZGZ0sycWpWcGVsT3FfakpVaDlLYUVxaFRaR19RalRiaDZ1amJqZHNkQWt4RkhsMnI3Rk9TSWhVaW9OTzRKYk9JdjJ4clVRWk1DSzJnMUwxVXVMVmJsUGxlcE1j?oc=5",
-          "domain": "uk.investing.com",
-          "published_at": "2026-08-12T20:30:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5",
-          "domain": "aol.com",
-          "published_at": "2026-08-12T20:16:09+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-08-12T20:45:15+00:00"
-        },
-        {
-          "name": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUtFc1lHd2xSYWhVcVNXd3BIMWhDR242QTl3VmFrejN6dDlTN2RiRC11NlhYYWNMTG5maEg3SlZmSS1CU0NXeEo3djJHdmFsblZIRE9sUDV1d3RIVHl4c01IaEJINmFaNzluUS1LTXFJcHNnMDZiTFFTMkUxWFZvaVZnNEszY2lSR3BBSExxd3J5bFMzU3MwckwtYS1mM0ZmWHZ3VFFEM0s3SGw2NHliUFpQLWVUaWVvZFZHWnlYenNiQQ?oc=5",
-          "domain": "marketbeat.com",
-          "published_at": "2026-08-13T11:56:40+00:00"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcVRJd3VpLW1iVEo4VkRKdGxfb3QzaE5EQkdkN25UNm50RXNYdC1GT3NZbDB6bklTQXgyWVNJTjJNVFpGTmdtOTZIeW14T1h5S3lNS3paTW50d0dSYVBIVE1iUGtJNVVoVkRzUzQ4M1FOcjBSQ3EtZ3JNMVNvNkJxbWJlcDcwcUw5OHAyRXNCX0FJcXhSVjBESi13dm1mMlc4MzhyVDFORTZzVDQtZUlZ?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-08-12T20:41:05+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTVkNWRZeGhXLU9RMHY0cGNHbmN2ZkpDcDNyUFFvN01uSkV6UUdhVXRMZkZPUjVWbERLdXM2MVp1dlpCdnVzWnlPNW1tTno1ZWhmZUNEYkE2bDZaN3FCZ19Vek5RejJjbHhPbHA5WmRWZmFwOW5lRjVkSUZXRmkyQU9wUjlTamd4WXp4NnY2VVNHakhRaVhJVERXcjRyRjdtb1IzbmhKb1FxVXpXWVJZ?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-08-12T20:52:06+00:00"
-        },
-        {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZV80ZHdEODdlRkNtakRXNzdlSVlmS3FuRW9nb1hLVmlVb1RlWUR6R3A2VGp0VW1wWXBGc0ZubWhGOXBkc25MWG0wLTNRbXN0NmxsSW1naFZRVmxnVnoyQllETWozTVlnRTZkTzRfdVlCXzU0a0xrbHNCRDZDT1dKN2w0YzJMaklZV2luVEhEd0lESlFtakU5S3JKUW10dlpJbU1Ud0RiOUFaTHp6N2VR?oc=5",
-          "domain": "au.investing.com",
-          "published_at": "2026-08-12T20:44:17+00:00"
-        },
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5",
@@ -1137,17 +1077,8 @@
           "published_at": "2026-08-12T20:15:00+00:00"
         }
       ],
-      "coverage_count": 11,
-      "event_signature": "cash declares dividend quarterly",
-      "source_description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
-      "chatgpt_summary": "Quest Diagnostics announced that its Board of Directors declared a quarterly cash dividend of $0.86 per share. The dividend will be paid on October 21, 2026 to holders of Quest common stock who are shareholders of record on October 6, 2026. The declaration continues the dividend rate established earlier in 2026 rather than increasing it again. On February 10, Quest authorized a 7.5% increase in the quarterly dividend from $0.80 to $0.86 per share, which set an annualized cash dividend of $3.44 per share and extended the company's record to fifteen consecutive years of dividend increases. The same February capital-allocation action increased Quest's share-repurchase authorization by $1 billion in addition to roughly $0.4 billion that remained available at the end of 2025. The August 12 release does not revise earnings guidance, announce a new repurchase authorization or change the dividend rate; its operative terms are the $0.86 amount, October 6 record date and October 21 payment date. Quest also states that it serves half of U.S. physicians and hospitals and one in three American adults annually, with a workforce of nearly 60,000 employees. The announcement therefore represents continuity in shareholder cash returns rather than a new operating or strategic initiative.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-15T01:58:45+05:30",
-      "summary_evidence": [
-        "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
-        "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
-      ]
+      "coverage_count": 1,
+      "event_signature": "2026 cash declares dividend october payable quarterly"
     },
     {
       "id": "d81d0a5ec5f591fb5354",
@@ -5444,7 +5375,7 @@
       ]
     }
   ],
-  "low_value_items_removed": 133,
+  "low_value_items_removed": 136,
   "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-22T00:17:00+05:30",
