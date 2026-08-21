@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-21T19:50:31.597574+05:30",
-  "generated_at_display": "21 Aug 2026, 7:50 PM IST",
-  "item_count": 138,
-  "raw_relevant_item_count": 371,
-  "duplicates_merged": 85,
+  "generated_at": "2026-08-22T01:13:38.704557+05:30",
+  "generated_at_display": "22 Aug 2026, 1:13 AM IST",
+  "item_count": 139,
+  "raw_relevant_item_count": 369,
+  "duplicates_merged": 82,
   "failures": [],
   "items": [
+    {
+      "id": "c75f56aa86d2fa75b079",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Hit a 52 Week High, Can the Run Continue?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Hit a 52 Week High, Can the Run Continue? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-21T13:15:02+00:00",
+      "published_display": "21 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-21T13:15:02+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can continue high hit run week"
+    },
     {
       "id": "0060ca4454ac659b4f79",
       "company": "Sonic Healthcare",
@@ -1075,9 +1099,15 @@
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-08-12T20:15:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-12T20:15:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 cash declares dividend october payable quarterly"
     },
     {
@@ -5375,10 +5405,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 138,
+  "post_prune_financial_duplicates_merged": 10,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-22T00:17:00+05:30",
-  "next_update_display": "22 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-22T06:17:00+05:30",
+  "next_update_display": "22 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

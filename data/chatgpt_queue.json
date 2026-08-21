@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T20:37:03.891183+05:30",
-  "generated_at_display": "21 Aug 2026, 8:37 PM IST",
+  "generated_at": "2026-08-22T01:13:42.118291+05:30",
+  "generated_at_display": "22 Aug 2026, 1:13 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 47,
+  "remaining_unsummarized_count": 48,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -56,12 +56,16 @@
       "published_at": "2026-08-12T20:15:00+00:00",
       "published_display": "12 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5",
       "sources": [
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5"
         }
       ]
     },
@@ -81,6 +85,25 @@
         {
           "name": "Statista",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c75f56aa86d2fa75b079",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Hit a 52 Week High, Can the Run Continue?",
+      "source": "Yahoo Finance",
+      "description": "Quest Diagnostics Incorporated (DGX) Hit a 52 Week High, Can the Run Continue? Yahoo Finance",
+      "published_at": "2026-08-21T13:15:02+00:00",
+      "published_display": "21 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5"
         }
       ]
     },
@@ -608,49 +631,6 @@
         {
           "name": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "10f33466a047be2ac02f",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
-      "source": "Investing.com Nigeria",
-      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "published_display": "27 Jul 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
         }
       ]
     }
