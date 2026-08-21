@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 21 Aug 2026, 6:55 PM IST
+- **Repository generated:** 21 Aug 2026, 6:57 PM IST
 - **Distinct events in this file:** 138
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -21,7 +21,7 @@
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 21 Aug 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -130,7 +130,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Aug 2026
-- **Category:** Other
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -440,7 +440,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 11 Aug 2026
-- **Category:** Partnership, M&A
+- **Category:** Financials
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -577,7 +577,7 @@
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
-- **Category:** Other
+- **Category:** Clinical, R&D
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
