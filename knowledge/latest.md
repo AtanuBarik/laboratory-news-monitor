@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 21 Aug 2026, 6:57 AM IST
+- **Repository generated:** 21 Aug 2026, 6:59 AM IST
 - **Distinct events in this file:** 135
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -9,7 +9,7 @@
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Aug 2026
-- **Category:** Other
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
