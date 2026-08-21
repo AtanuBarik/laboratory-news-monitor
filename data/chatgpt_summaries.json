@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-21T00:35:03+05:30",
-  "updated_at_display": "21 Aug 2026, 12:35 AM IST",
+  "updated_at": "2026-08-21T06:35:53+05:30",
+  "updated_at_display": "21 Aug 2026, 6:35 AM IST",
   "summaries": {
     "34fa7df29dc0e42583db": {
       "summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
@@ -1131,6 +1131,16 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://www.zacks.com/stock/news/2975210/quest-diagnostics-dgx-is-up-229-in-one-week-what-you-should-know"],
+      "verification": "verified"
+    },
+    "e7c9d723c49a7bb33134": {
+      "summary": "Quanterix appointed longtime Quest Diagnostics executive Geoff Albrecht as Senior Vice President and General Manager of Diagnostics, adding him to the company’s executive leadership team and having him report directly to CEO Everett Cunningham. The June 4 appointment is intended to make diagnostics a larger growth pillar for Quanterix, beginning with Alzheimer’s disease testing. Albrecht is responsible for diagnostics strategy and for building the infrastructure and operating framework needed to scale the portfolio commercially. Quanterix said Albrecht brings more than 25 years of commercial leadership experience from Quest Diagnostics. Most recently, he served as Quest’s Regional Vice President for the Northeast United States, with full profit-and-loss responsibility for a business representing approximately $2.9 billion in revenue. During his Quest tenure, he also held management, sales-director and vice-president positions and worked across business development, sales operations, joint-venture partnerships and M&A-led growth strategies. His experience spans health systems, health plans, physician-outreach organizations and employers. Quanterix positioned the hire as part of its effort to expand from biomarker research into a more substantial diagnostics business, with Alzheimer’s disease diagnostics as the initial commercial focus. The announcement does not disclose compensation, transaction terms or a broader restructuring at Quest.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-21T06:35:53+05:30",
+      "title": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "sources_used": ["https://ir.quanterix.com/news-releases/news-release-details/quanterix-appoints-industry-veteran-geoff-albrecht-senior-vice"],
       "verification": "verified"
     }
   }
