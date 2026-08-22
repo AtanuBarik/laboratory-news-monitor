@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-22T06:49:47+05:30",
-  "updated_at_display": "22 Aug 2026, 6:49 AM IST",
+  "updated_at": "2026-08-22T18:38:16+05:30",
+  "updated_at_display": "22 Aug 2026, 6:38 PM IST",
   "summaries": {
     "34fa7df29dc0e42583db": {
       "summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
@@ -1211,6 +1211,46 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://www.zacks.com/stock/news/2978169/quest-diagnostics-incorporated-dgx-hit-a-52-week-high-can-the-run-continue"],
+      "verification": "verified"
+    },
+    "299810a036bfad1b48c4": {
+      "summary": "Ad Hoc News’ August 21 market note said Quest Diagnostics shares were holding close to their 52-week high after a strong second quarter. The article’s market snapshot put DGX at $241.80, with a $26.69 billion market capitalization, a $245.68 52-week high and a $171.18 low. The operating catalyst was Quest’s quarter ended June 30: revenue reached $3.043 billion, up 10.2% year over year, including 10.0% organic growth, and adjusted diluted EPS was $3.12, up 19.1%. Ad Hoc cited a $2.82 consensus, making the EPS beat $0.30. Quest raised its full-year 2026 revenue outlook to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25; the article said its analyst set centered on about $11.15 of full-year EPS. The market note also reported a trailing P/E of 25.67 and an average analyst target of $235.31, with several targets in the $245-$260 range. Those valuation figures are third-party market data, not Quest guidance. The underlying business point is that the share-price strength followed double-digit laboratory revenue growth, stronger earnings and higher company guidance across Quest’s broad testing platform rather than a newly announced single assay, acquisition or partnership.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-22T18:38:16+05:30",
+      "title": "Quest Diagnostics stock holds near highs after Q2 beat",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-holds-near-highs-after-q2-beat/69982432", "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"],
+      "verification": "verified"
+    },
+    "3178619de1b5fa4f6db9": {
+      "summary": "ChartMill’s August 18 dividend screen identified Quest Diagnostics as a dividend-quality candidate based on payout history, profitability and balance-sheet measures rather than a high headline yield. The article gave DGX a Dividend Rating of 7/10 and reported a 1.46% yield, versus about 0.43% for its healthcare-provider industry and 1.70% for the S&P 500. It said Quest had paid a dividend for at least 10 years without a reduction, with dividend growth averaging roughly 7.42% annually and a payout ratio of 34.31% of income. ChartMill also assigned profitability and health ratings of 7/10 and 6/10. Metrics cited included 6.25% return on assets, 14.08% return on equity, 8.49% return on invested capital, a 14.56% operating margin, 1.59 current ratio, 1.46 quick ratio, 3.60 Altman Z-score and debt-to-free-cash-flow ratio of 4.18. The article cautioned that profit and operating margins had declined and that ROIC was below cost of capital. Separately, Quest’s board set the 2026 quarterly dividend at $0.86 per share, annualized at $3.44, after a 7.5% increase in February that marked 15 consecutive years of dividend increases. ChartMill’s ratings and peer comparisons are third-party investment analysis, not company forecasts.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-22T18:38:16+05:30",
+      "title": "Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.chartmill.com/news/DGX/Chartmill-53695-Quest-Diagnostics-NYSEDGX-Shows-Dividend-Quality-Beyond-the-Headline-Yield", "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend", "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"],
+      "verification": "verified"
+    },
+    "62915f201a0b235a0635": {
+      "summary": "Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-22T18:38:16+05:30",
+      "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "sources_used": ["https://www.prnewswire.com/news-releases/quest-diagnostics-declares-quarterly-cash-dividend-302527358.html", "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend", "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"],
+      "verification": "verified"
+    },
+    "ec192a490b0d32576517": {
+      "summary": "Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-22T18:38:16+05:30",
+      "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "sources_used": ["https://www.morningstar.com/company-reports/1489071-sonic-healthcare-still-a-margin-of-safety-despite-margins-being-off-forecast", "https://www.morningstar.com.au/stocks/asx-healthcare-share-remains-undervalued-ahead-earnings"],
       "verification": "verified"
     }
   }
