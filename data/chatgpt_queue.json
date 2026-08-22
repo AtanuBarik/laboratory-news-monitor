@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T00:46:45.005340+05:30",
-  "generated_at_display": "23 Aug 2026, 12:46 AM IST",
+  "generated_at": "2026-08-23T01:11:46.876005+05:30",
+  "generated_at_display": "23 Aug 2026, 1:11 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 45,
+  "remaining_unsummarized_count": 46,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,25 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52dc6102cca23b69bba1",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock underperforms Friday when compared to competitors despite daily gains",
+      "source": "MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Friday when compared to competitors despite daily gains MarketWatch",
+      "published_at": "2026-08-21T21:00:00+00:00",
+      "published_display": "21 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDRqWEN3M0YxVksxZXlSMFdxTHZvQk5iMVZ6Z3JUaTdnS0dOWDd4ZTRBOTJjUElmS2dKRFRHR21fdTF3UGRJNUlQWUV1MGVCXy1oWmJEdkplWG9JWmpiUVpoUnBOWGdkRWtvWDJxVUxGNXVreVludkRPemRnQ1NzN3JORml0SlNELVRZNXg4UGkxOFp6Qm5ySFJ1MnhyMk9jU2Rtc3Y5NTNnV2RCU0pDeXo4QWI3M2M4dDhMOGZkR1psYnAxRldtYUFtVEFnSWhOVkNpY2xadEM3bjhRV1p4N0hWVXNJeXZIOFNCNktR?oc=5",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDRqWEN3M0YxVksxZXlSMFdxTHZvQk5iMVZ6Z3JUaTdnS0dOWDd4ZTRBOTJjUElmS2dKRFRHR21fdTF3UGRJNUlQWUV1MGVCXy1oWmJEdkplWG9JWmpiUVpoUnBOWGdkRWtvWDJxVUxGNXVreVludkRPemRnQ1NzN3JORml0SlNELVRZNXg4UGkxOFp6Qm5ySFJ1MnhyMk9jU2Rtc3Y5NTNnV2RCU0pDeXo4QWI3M2M4dDhMOGZkR1psYnAxRldtYUFtVEFnSWhOVkNpY2xadEM3bjhRV1p4N0hWVXNJeXZIOFNCNktR?oc=5"
         }
       ]
     },
@@ -636,25 +655,6 @@
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68ec9092452923f92fdd",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics",
-      "source": "The Globe and Mail",
-      "description": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail",
-      "published_at": "2026-07-25T12:02:00+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5",
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5"
         }
       ]
     }
