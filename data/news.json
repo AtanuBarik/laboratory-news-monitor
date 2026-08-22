@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-22T08:53:40.734568+05:30",
-  "generated_at_display": "22 Aug 2026, 8:53 AM IST",
-  "item_count": 139,
-  "raw_relevant_item_count": 367,
-  "duplicates_merged": 85,
+  "generated_at": "2026-08-22T13:26:50.435441+05:30",
+  "generated_at_display": "22 Aug 2026, 1:26 PM IST",
+  "item_count": 141,
+  "raw_relevant_item_count": 365,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
+    {
+      "id": "299810a036bfad1b48c4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds near highs after Q2 beat",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5",
+      "description": "Quest Diagnostics stock holds near highs after Q2 beat Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-21T16:23:14+00:00",
+      "published_display": "21 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-21T16:23:14+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after beat highs holds near stock"
+    },
     {
       "id": "c75f56aa86d2fa75b079",
       "company": "Quest Diagnostics",
@@ -876,6 +900,30 @@
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026",
         "https://ir.labcorp.com/news-and-events/presentations"
       ]
+    },
+    {
+      "id": "5b7f642cc799a1e44b17",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
+      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow vinanet.vn",
+      "source": "vinanet.vn",
+      "source_url": "http://vinanet.vn",
+      "source_domain": "vinanet.vn",
+      "published_at": "2026-08-16T11:36:07+00:00",
+      "published_display": "16 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-08-16T11:36:07+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "234 demand diagnostic flow key levels order slips stabilizes sweep watch"
     },
     {
       "id": "95bde11d917a75647e48",
@@ -4326,9 +4374,15 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkh1ekFPVG9nMXlxZzVEd3dtSkNNZVlwZVVwYW5CblpXUk1tTW5IcFF0MU5qM0tCNE81SkdtSHE2SVpONTVUNWZmYmY0UmdCS1UtRm9GZ2puTmdSRWpOWFo2TlVYWkI1ZzZHcVl3U3NFc3MtdnRMLVlkMlptTFFEd0o5SUs2RVRrNWk0ZUFrZi0xQXMxTEhrM2htVlh6bWpyTEhVaHJ1Sl8zWFppdjljRjJ6REc?oc=5",
           "domain": "seekingalpha.com",
           "published_at": "2026-07-23T07:00:00+00:00"
+        },
+        {
+          "name": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0hsbE5fYVFTVFUyQnBCcjRHRmtILU0wZzRTUV8yaG05SVNZN0tfWTZScmdabHFkcHJTOTNIMmFjbklSaGhVV1NMZXM1bU00VkVRVG1kdm1xRnNjcGxLX2ZLMFI5U1dBWXZkTkpadjhvRXNnd2lKb1VuYWo5UjhvaUVraDViYXE3em9remZXSDNGT1R6Mjd5YldQT3lWTXQ5VDFkVGtUZ2pnRWkwbmdfYTRwVy1mMFItUDR4YnlFVjlkcC1nNEx0Tg?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-07-25T07:00:00+00:00"
         }
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "event_signature": "earnings estimates revenue surpasses",
       "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
       "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 results above Wall Street expectations, with adjusted earnings of $3.12 per share versus the Zacks consensus estimate of $2.81 and $2.62 a year earlier. That represented an 11.03% earnings surprise and a 19.1% year-over-year increase in adjusted EPS. Revenue was $3.04 billion, up from $2.76 billion a year earlier and 2.15% above the Zacks consensus estimate. Quest’s own earnings release reported revenue growth of 10.2%, including 10.0% organic growth, while reported diluted EPS increased 15.0% to $2.84. The company raised full-year 2026 guidance after the quarter. It now expects revenue of $11.95 billion to $12.05 billion, compared with prior guidance of $11.78 billion to $11.90 billion. Reported diluted EPS guidance increased to $9.97-$10.17 from $9.58-$9.78, and adjusted diluted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83. Quest also increased its operating cash flow outlook to approximately $1.80 billion while maintaining planned capital expenditures of about $550 million. Zacks noted that Quest had exceeded consensus EPS and revenue estimates in each of the previous four quarters, although subsequent share-price performance would depend heavily on management’s outlook and execution.",
@@ -5435,10 +5489,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 128,
+  "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-22T12:17:00+05:30",
-  "next_update_display": "22 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-22T18:17:00+05:30",
+  "next_update_display": "22 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
