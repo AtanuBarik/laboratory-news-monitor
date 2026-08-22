@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 22 Aug 2026, 1:26 PM IST
+- **Repository generated:** 22 Aug 2026, 6:54 PM IST
 - **Distinct events in this file:** 18
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -196,7 +196,7 @@
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5
 
-**Feed description:** Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com
+**Feed description:** Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.
 
 ## 17. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
 

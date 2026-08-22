@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T14:29:48.778417+05:30",
-  "generated_at_display": "22 Aug 2026, 2:29 PM IST",
+  "generated_at": "2026-08-22T18:54:49.246094+05:30",
+  "generated_at_display": "22 Aug 2026, 6:54 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 48,
+  "remaining_unsummarized_count": 46,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -28,71 +28,40 @@
       ]
     },
     {
-      "id": "299810a036bfad1b48c4",
+      "id": "28bf33721b637a27bf98",
       "company": "Quest Diagnostics",
       "category": "Financials",
-      "title": "Quest Diagnostics stock holds near highs after Q2 beat",
+      "title": "Quest Diagnostics stock holds above $244 as earnings and guidance support outlook",
       "source": "Ad-hoc-news.de",
-      "description": "Quest Diagnostics stock holds near highs after Q2 beat Ad-hoc-news.de",
-      "published_at": "2026-08-21T16:23:14+00:00",
-      "published_display": "21 Aug 2026",
+      "description": "Quest Diagnostics stock holds above $244 as earnings and guidance support outlook Ad-hoc-news.de",
+      "published_at": "2026-08-22T10:03:11+00:00",
+      "published_display": "22 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5",
       "sources": [
         {
           "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5"
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5"
         }
       ]
     },
     {
-      "id": "3178619de1b5fa4f6db9",
+      "id": "08f1694ed2323d86758b",
       "company": "Quest Diagnostics",
       "category": "Financials",
-      "title": "Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield",
-      "source": "ChartMill",
-      "description": "Quest Diagnostics (NYSE:DGX) Shows Dividend Quality Beyond the Headline Yield ChartMill",
-      "published_at": "2026-08-18T08:21:08+00:00",
-      "published_display": "18 Aug 2026",
+      "title": "Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat",
+      "source": "Ad-hoc-news.de",
+      "description": "Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat Ad-hoc-news.de",
+      "published_at": "2026-08-20T17:40:25+00:00",
+      "published_display": "20 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5",
       "sources": [
         {
-          "name": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62915f201a0b235a0635",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
-      "source": "AOL.com",
-      "description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
-      "published_at": "2026-08-12T07:00:00+00:00",
-      "published_display": "12 Aug 2026",
-      "official_source": false,
-      "coverage_count": 4,
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU3VacThaTEc4SDJuc04yYW92LXl3dmw1cmFNRFd2TldoYjdrSUV6MTNkblRBb0tsM1ZKVjdCREk0ekVXU1d6R2dxWlNRRmltR3RMLXRJVi16cVhkcEFpU1BxTkFQUHBneWtSTDJKdS1haVphUFFuLV8yM3Z4LXRGLW1ESTEwRTJ1b0JwdzdyWUg0MGtZWEtoUXNnbHBfWEVuQ3F5dGJLa1JuOXJBMlU5QjRJS29udkxleWdzakdZbnpmNkg4Y3ZVVXozanhacDlWaTNKVFoyTkEtT2c?oc=5"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5"
-        },
-        {
-          "name": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTW1ieDBzdHJsMVJOcFJTQkIyalNEaUVsTjFhaDR5VmJHRVpRRklMRm8zRThrTVdGYTRYSC1jX0dKTzFwNHdwdFA0T0lfZXpxYnFtMUtXMExSLWR4QnFEbl9oZ054UE1zdHFrRldtQXJpNmpnUF9mT1praS04b2tIYVJoanFENjFPMDhYSEJaS1kzQ0Jzb3E1a25hVQ?oc=5"
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5"
         }
       ]
     },
@@ -299,25 +268,6 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec192a490b0d32576517",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
-      "source": "Morningstar",
-      "description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5",
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5"
         }
       ]
     },
@@ -639,6 +589,72 @@
         {
           "name": "Yahoo",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10f33466a047be2ac02f",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
+      "source": "Investing.com Nigeria",
+      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 7,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "da70bf985fd9e363c79d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
+      "source": "The Motley Fool",
+      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
+      "published_at": "2026-07-26T07:00:00+00:00",
+      "published_display": "26 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
+      "sources": [
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
         }
       ]
     }

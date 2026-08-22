@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-08-22T13:26:50.435441+05:30",
-  "generated_at_display": "22 Aug 2026, 1:26 PM IST",
-  "item_count": 141,
-  "raw_relevant_item_count": 365,
-  "duplicates_merged": 84,
+  "generated_at": "2026-08-22T18:54:46.001186+05:30",
+  "generated_at_display": "22 Aug 2026, 6:54 PM IST",
+  "item_count": 143,
+  "raw_relevant_item_count": 367,
+  "duplicates_merged": 87,
   "failures": [],
   "items": [
+    {
+      "id": "28bf33721b637a27bf98",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds above $244 as earnings and guidance support outlook",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5",
+      "description": "Quest Diagnostics stock holds above $244 as earnings and guidance support outlook Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-22T10:03:11+00:00",
+      "published_display": "22 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-22T10:03:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "244 above earnings guidance holds outlook stock support"
+    },
     {
       "id": "299810a036bfad1b48c4",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds near highs after Q2 beat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5",
-      "description": "Quest Diagnostics stock holds near highs after Q2 beat Ad-hoc-news.de",
+      "description": "Ad Hoc News’ August 21 market note said Quest Diagnostics shares were holding close to their 52-week high after a strong second quarter. The article’s market snapshot put DGX at $241.80, with a $26.69 billion market capitalization, a $245.68 52-week high and a $171.18 low. The operating catalyst was Quest’s quarter ended June 30: revenue reached $3.043 billion, up 10.2% year over year, including 10.0% organic growth, and adjusted diluted EPS was $3.12, up 19.1%. Ad Hoc cited a $2.82 consensus, making the EPS beat $0.30. Quest raised its full-year 2026 revenue outlook to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25; the article said its analyst set centered on about $11.15 of full-year EPS. The market note also reported a trailing P/E of 25.67 and an average analyst target of $235.31, with several targets in the $245-$260 range. Those valuation figures are third-party market data, not Quest guidance. The underlying business point is that the share-price strength followed double-digit laboratory revenue growth, stronger earnings and higher company guidance across Quest’s broad testing platform rather than a newly announced single assay, acquisition or partnership.",
       "source": "Ad-hoc-news.de",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -28,7 +52,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "after beat highs holds near stock"
+      "event_signature": "after beat highs holds near stock",
+      "source_description": "Quest Diagnostics stock holds near highs after Q2 beat Ad-hoc-news.de",
+      "chatgpt_summary": "Ad Hoc News’ August 21 market note said Quest Diagnostics shares were holding close to their 52-week high after a strong second quarter. The article’s market snapshot put DGX at $241.80, with a $26.69 billion market capitalization, a $245.68 52-week high and a $171.18 low. The operating catalyst was Quest’s quarter ended June 30: revenue reached $3.043 billion, up 10.2% year over year, including 10.0% organic growth, and adjusted diluted EPS was $3.12, up 19.1%. Ad Hoc cited a $2.82 consensus, making the EPS beat $0.30. Quest raised its full-year 2026 revenue outlook to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25; the article said its analyst set centered on about $11.15 of full-year EPS. The market note also reported a trailing P/E of 25.67 and an average analyst target of $235.31, with several targets in the $245-$260 range. Those valuation figures are third-party market data, not Quest guidance. The underlying business point is that the share-price strength followed double-digit laboratory revenue growth, stronger earnings and higher company guidance across Quest’s broad testing platform rather than a newly announced single assay, acquisition or partnership.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-22T18:38:16+05:30",
+      "summary_evidence": [
+        "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-holds-near-highs-after-q2-beat/69982432",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "c75f56aa86d2fa75b079",
@@ -119,6 +152,30 @@
         "https://au.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-4608523",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf"
       ]
+    },
+    {
+      "id": "08f1694ed2323d86758b",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5",
+      "description": "Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-20T17:40:25+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-20T17:40:25+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after beat earnings extends rally revenue stock"
     },
     {
       "id": "e7c9d723c49a7bb33134",
@@ -735,7 +792,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
-      "description": "Quest Diagnostics (NYSE:DGX) Shows Dividend Quality Beyond the Headline Yield ChartMill",
+      "description": "ChartMill’s August 18 dividend screen identified Quest Diagnostics as a dividend-quality candidate based on payout history, profitability and balance-sheet measures rather than a high headline yield. The article gave DGX a Dividend Rating of 7/10 and reported a 1.46% yield, versus about 0.43% for its healthcare-provider industry and 1.70% for the S&P 500. It said Quest had paid a dividend for at least 10 years without a reduction, with dividend growth averaging roughly 7.42% annually and a payout ratio of 34.31% of income. ChartMill also assigned profitability and health ratings of 7/10 and 6/10. Metrics cited included 6.25% return on assets, 14.08% return on equity, 8.49% return on invested capital, a 14.56% operating margin, 1.59 current ratio, 1.46 quick ratio, 3.60 Altman Z-score and debt-to-free-cash-flow ratio of 4.18. The article cautioned that profit and operating margins had declined and that ROIC was below cost of capital. Separately, Quest’s board set the 2026 quarterly dividend at $0.86 per share, annualized at $3.44, after a 7.5% increase in February that marked 15 consecutive years of dividend increases. ChartMill’s ratings and peer comparisons are third-party investment analysis, not company forecasts.",
       "source": "ChartMill",
       "source_url": "https://www.chartmill.com",
       "source_domain": "chartmill.com",
@@ -752,7 +809,17 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "beyond dividend headline quality shows yield"
+      "event_signature": "beyond dividend headline quality shows yield",
+      "source_description": "Quest Diagnostics (NYSE:DGX) Shows Dividend Quality Beyond the Headline Yield ChartMill",
+      "chatgpt_summary": "ChartMill’s August 18 dividend screen identified Quest Diagnostics as a dividend-quality candidate based on payout history, profitability and balance-sheet measures rather than a high headline yield. The article gave DGX a Dividend Rating of 7/10 and reported a 1.46% yield, versus about 0.43% for its healthcare-provider industry and 1.70% for the S&P 500. It said Quest had paid a dividend for at least 10 years without a reduction, with dividend growth averaging roughly 7.42% annually and a payout ratio of 34.31% of income. ChartMill also assigned profitability and health ratings of 7/10 and 6/10. Metrics cited included 6.25% return on assets, 14.08% return on equity, 8.49% return on invested capital, a 14.56% operating margin, 1.59 current ratio, 1.46 quick ratio, 3.60 Altman Z-score and debt-to-free-cash-flow ratio of 4.18. The article cautioned that profit and operating margins had declined and that ROIC was below cost of capital. Separately, Quest’s board set the 2026 quarterly dividend at $0.86 per share, annualized at $3.44, after a 7.5% increase in February that marked 15 consecutive years of dividend increases. ChartMill’s ratings and peer comparisons are third-party investment analysis, not company forecasts.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-22T18:38:16+05:30",
+      "summary_evidence": [
+        "https://www.chartmill.com/news/DGX/Chartmill-53695-Quest-Diagnostics-NYSEDGX-Shows-Dividend-Quality-Beyond-the-Headline-Yield",
+        "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
+        "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
+      ]
     },
     {
       "id": "d853207c9c70c8b1173f",
@@ -1173,7 +1240,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5",
-      "description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
+      "description": "Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.",
       "source": "AOL.com",
       "source_url": "https://www.aol.com",
       "source_domain": "aol.com",
@@ -1208,7 +1275,17 @@
         }
       ],
       "coverage_count": 4,
-      "event_signature": "cash declares dividend quarterly"
+      "event_signature": "cash declares dividend quarterly",
+      "source_description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
+      "chatgpt_summary": "Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-22T18:38:16+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/quest-diagnostics-declares-quarterly-cash-dividend-302527358.html",
+        "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
+        "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
+      ]
     },
     {
       "id": "7c6ef6091076493b9070",
@@ -4484,7 +4561,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5",
-      "description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com",
+      "description": "Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.",
       "source": "Morningstar",
       "source_url": "https://www.morningstar.com",
       "source_domain": "morningstar.com",
@@ -4501,7 +4578,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "being despite forecast margin margins off safety still"
+      "event_signature": "being despite forecast margin margins off safety still",
+      "source_description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com",
+      "chatgpt_summary": "Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-22T18:38:16+05:30",
+      "summary_evidence": [
+        "https://www.morningstar.com/company-reports/1489071-sonic-healthcare-still-a-margin-of-safety-despite-margins-being-off-forecast",
+        "https://www.morningstar.com.au/stocks/asx-healthcare-share-remains-undervalued-ahead-earnings"
+      ]
     },
     {
       "id": "f0d865fed43c9014dee5",
@@ -5489,10 +5575,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 125,
+  "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-22T18:17:00+05:30",
-  "next_update_display": "22 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-23T00:17:00+05:30",
+  "next_update_display": "23 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
