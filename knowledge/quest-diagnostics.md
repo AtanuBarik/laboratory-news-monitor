@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 22 Aug 2026, 7:24 PM IST
+- **Repository generated:** 23 Aug 2026, 12:46 AM IST
 - **Distinct events in this file:** 77
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5
 
-**Feed description:** Quest Diagnostics stock holds above $244 as earnings and guidance support outlook Ad-hoc-news.de
+**Feed description:** Ad Hoc News reported Quest Diagnostics at $244.43 on August 22, 2026, up 1.30% in the latest session after opening at $240.33, trading between $239.43 and $244.70 and recording volume of 701,437 shares. The article linked the share price to Quest’s stronger second-quarter results and higher 2026 outlook. Quest officially reported quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth. Reported diluted EPS was $2.84, up 15.0%, while adjusted diluted EPS reached $3.12, up 19.1%; the article compared adjusted EPS with a $2.82 consensus and revenue with a $2.97 billion consensus. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. The article cited an analyst consensus centered at $11.15 of 2026 EPS and roughly $12.01 billion of revenue, plus a $235.31 consensus price target. It also noted Quest’s $0.86 quarterly dividend, equal to $3.44 annualized and about a 1.4% yield at the cited share price. The piece is investment-market commentary; the substantive operating support is the double-digit Q2 revenue growth, earnings beat and raised company guidance.
 
 ## 2. Quest Diagnostics stock holds near highs after Q2 beat
 
@@ -51,7 +51,7 @@
 - **Sources:**
   - Ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5
 
-**Feed description:** Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat Ad-hoc-news.de
+**Feed description:** Ad Hoc News’ August 20 market analysis said Quest Diagnostics remained close to its 2026 highs after its second-quarter earnings beat. The article used an August 18 close of $236.71, corresponding to a market capitalization of about $26.13 billion, a 36.5% year-to-date gain and a 29.7% one-year increase. It cited a 52-week high of $240.13 and a trailing P/E of 25.13. The operating catalyst was Quest’s June-quarter performance. Quest officially reported $3.043 billion of revenue, up 10.2% year over year with 10.0% organic growth, and adjusted diluted EPS of $3.12, up 19.1%. The article said revenue exceeded consensus by about 2.3% and described the post-results share level near $236 as roughly 12.6% above the pre-earnings price. Quest raised its 2026 revenue outlook to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25, reflecting stronger testing demand across physician, hospital and consumer channels. Ad Hoc also cited a consensus price target of $235.31, close to the market level used in the article. The piece is market-performance commentary; the underlying business development is the Q2 revenue and earnings beat plus the upward revision to full-year guidance.
 
 ## 5. Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team
 

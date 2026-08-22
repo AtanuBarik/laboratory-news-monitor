@@ -1,6 +1,6 @@
 {
   "initialized_at": "2026-08-04T13:14:51.591795+00:00",
-  "last_successful_email_at": "2026-08-22T18:54:51.241764+05:30",
+  "last_successful_email_at": "2026-08-23T00:46:47.360776+05:30",
   "notified_ids": [
     "000944de40fb8759e486",
     "0029dbd05411b8be132f",
@@ -23,6 +23,7 @@
     "07f8ade2bffa7b40dc75",
     "08a0d77da59d2ed19b71",
     "08b2a1a711d99ab79afe",
+    "08f1694ed2323d86758b",
     "0925936f6c28238c1669",
     "0a1029a18bc213a5658a",
     "0aedc8ea57534ac746c1",
@@ -84,6 +85,7 @@
     "1d1aa1a4b36442214cc4",
     "1d3550442ebb5fc356fa",
     "1d886fcb94dac58be2e8",
+    "1e0615b3f141b4cc47ce",
     "1e3343fe83b60c1c4a54",
     "1e8417aa8392d875b7af",
     "1fd9bdbdf8a3594adfc3",
@@ -112,6 +114,7 @@
     "27e59108d17f61d8d495",
     "2863c80afb164e740e51",
     "289cd51baeea5cb71c67",
+    "28bf33721b637a27bf98",
     "28d2507af43335dab03e",
     "28eb7aca8bcd294b11fb",
     "290722929f328038377f",
@@ -260,6 +263,7 @@
     "634c0a93f61b0e6bf745",
     "6358cce809fbed69681f",
     "63f703739ca704cf0b61",
+    "64319bcd261f6ef3b1db",
     "6451707ad9feb0d05774",
     "649968fa3b8e5009a7cc",
     "6534a496c9d40570fa0f",
@@ -313,6 +317,7 @@
     "75ceb034dfddf88e8898",
     "75fae64a6e37ebecab9b",
     "768ff61f2da115226d30",
+    "76b8bc552687be3e751e",
     "77171a94e7e55a06336f",
     "7774b2029a19c7d4c817",
     "777b4b17696554c39bfd",
@@ -430,6 +435,7 @@
     "9b5d8104c5c7e0fc083d",
     "9b72e290087db2be298b",
     "9b98ffdb40250d2ddc78",
+    "9bd8cd371e6de356ea9b",
     "9bfcd04b95943de34ebd",
     "9c02e51cab07fadeb04f",
     "9c2a6c05d74cc5c77589",
@@ -574,6 +580,7 @@
     "cd1f98ff00c70dffc8b9",
     "cd473b566a30afcefc16",
     "cd823611e96057953941",
+    "cddd7819199c55e2ed48",
     "ce295d63ded2d45b412f",
     "ce6af4f3567364975790",
     "ceafc8aa6ca7359b1263",
@@ -705,6 +712,6 @@
     "ff8539db3bbd42a595c8",
     "ffede0cca64cf8811c45"
   ],
-  "last_successful_email_count": 3,
+  "last_successful_email_count": 7,
   "dismissed_ids": []
 }
