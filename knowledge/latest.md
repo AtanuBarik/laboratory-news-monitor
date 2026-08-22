@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 22 Aug 2026, 1:13 AM IST
+- **Repository generated:** 22 Aug 2026, 7:07 AM IST
 - **Distinct events in this file:** 139
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Hit a 52 Week High, Can the Run Continue? Yahoo Finance
+**Feed description:** Zacks’ August 21 analysis said Quest Diagnostics shares reached a new 52-week high of $245.68 in the prior session after gaining 5.9% over the preceding month. DGX was up 39.1% year to date, compared with 5.2% for the Zacks Medical sector and 22.7% for its Medical–Outpatient and Home Healthcare industry. Zacks linked the move to earnings execution and upward estimate revisions. Quest’s July 23 quarter delivered adjusted EPS of $3.12 versus the $2.81 consensus used by Zacks, while revenue exceeded consensus by 2.15%. Zacks’ current full-year 2026 consensus was $11.15 of EPS on about $12.01 billion of revenue, implying 13.2% EPS growth and 8.87% revenue growth; for the following year it modeled $11.97 of EPS on $12.56 billion of revenue, representing 7.31% EPS growth and 4.58% revenue growth. The article also noted that DGX traded at 21.6 times current-year EPS estimates versus 21.3 times for the peer industry, while its trailing cash-flow multiple was 15.9 times versus 17.2 times for peers. Quest carried a Zacks Rank #2 (Buy), with Value and Growth scores of B, Momentum D and VGM B. These are third-party market estimates and valuation signals, not new company guidance or an operating announcement.
 
 ## 2. Sonic Healthcare Says Citi Acquires Over 5% Voting Power
 
@@ -1367,7 +1367,7 @@
 - **Sources:**
   - Statista: https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5
 
-**Feed description:** LabCorp revenues 2013-2025 Statista
+**Feed description:** Statista’s updated Labcorp revenue series extends the company’s historical chart through 2025 and reports that annual revenue reached nearly $14 billion in 2025, while the chart’s historical peak was above $16 billion in 2021. Labcorp’s 2025 Form 10-K confirms current-period revenue of $13.9517 billion, up 7.2% from $13.0089 billion in 2024; 2023 revenue was $12.1616 billion. Management attributed the 2025 increase primarily to 4.4% organic growth, 2.5% from acquisitions net of divestitures and 0.4% from favorable foreign-currency translation. Diagnostics Laboratories generated $10.8765 billion, up 7.2%, while Biopharma Laboratory Services produced $3.0982 billion, up 6.0%. Historical comparisons require care because Labcorp spun off Fortrea in June 2023. Statista’s long-run chart retains the older historical presentation and identifies 2021 as the peak above $16 billion, whereas Labcorp’s current investor-relations financial series presents continuing-operations revenue on a restated basis after the separation. The article is therefore best read as a long-term revenue-history reference rather than a new earnings release. On the current reporting basis, Labcorp entered 2026 after three consecutive annual revenue increases from 2023 through 2025, with recent growth supported by both organic demand and acquisitions.
 
 ## 106. Quest Diagnostics Shares Surge 8.6% -- What GF Score o
 

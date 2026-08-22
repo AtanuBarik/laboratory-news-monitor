@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 22 Aug 2026, 1:13 AM IST
+- **Repository generated:** 22 Aug 2026, 7:07 AM IST
 - **Distinct events in this file:** 73
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Hit a 52 Week High, Can the Run Continue? Yahoo Finance
+**Feed description:** Zacks’ August 21 analysis said Quest Diagnostics shares reached a new 52-week high of $245.68 in the prior session after gaining 5.9% over the preceding month. DGX was up 39.1% year to date, compared with 5.2% for the Zacks Medical sector and 22.7% for its Medical–Outpatient and Home Healthcare industry. Zacks linked the move to earnings execution and upward estimate revisions. Quest’s July 23 quarter delivered adjusted EPS of $3.12 versus the $2.81 consensus used by Zacks, while revenue exceeded consensus by 2.15%. Zacks’ current full-year 2026 consensus was $11.15 of EPS on about $12.01 billion of revenue, implying 13.2% EPS growth and 8.87% revenue growth; for the following year it modeled $11.97 of EPS on $12.56 billion of revenue, representing 7.31% EPS growth and 4.58% revenue growth. The article also noted that DGX traded at 21.6 times current-year EPS estimates versus 21.3 times for the peer industry, while its trailing cash-flow multiple was 15.9 times versus 17.2 times for peers. Quest carried a Zacks Rank #2 (Buy), with Value and Growth scores of B, Momentum D and VGM B. These are third-party market estimates and valuation signals, not new company guidance or an operating announcement.
 
 ## 2. Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team
 

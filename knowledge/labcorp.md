@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 22 Aug 2026, 1:13 AM IST
+- **Repository generated:** 22 Aug 2026, 7:07 AM IST
 - **Distinct events in this file:** 47
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -545,7 +545,7 @@
 - **Sources:**
   - Statista: https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5
 
-**Feed description:** LabCorp revenues 2013-2025 Statista
+**Feed description:** Statista’s updated Labcorp revenue series extends the company’s historical chart through 2025 and reports that annual revenue reached nearly $14 billion in 2025, while the chart’s historical peak was above $16 billion in 2021. Labcorp’s 2025 Form 10-K confirms current-period revenue of $13.9517 billion, up 7.2% from $13.0089 billion in 2024; 2023 revenue was $12.1616 billion. Management attributed the 2025 increase primarily to 4.4% organic growth, 2.5% from acquisitions net of divestitures and 0.4% from favorable foreign-currency translation. Diagnostics Laboratories generated $10.8765 billion, up 7.2%, while Biopharma Laboratory Services produced $3.0982 billion, up 6.0%. Historical comparisons require care because Labcorp spun off Fortrea in June 2023. Statista’s long-run chart retains the older historical presentation and identifies 2021 as the peak above $16 billion, whereas Labcorp’s current investor-relations financial series presents continuing-operations revenue on a restated basis after the separation. The article is therefore best read as a long-term revenue-history reference rather than a new earnings release. On the current reporting basis, Labcorp entered 2026 after three consecutive annual revenue increases from 2023 through 2025, with recent growth supported by both organic demand and acquisitions.
 
 ## 40. Labcorp Secures $364.7M Contract for Military Health Services
 
