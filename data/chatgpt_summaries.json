@@ -1,7 +1,7 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-23T06:48:36+05:30",
-  "updated_at_display": "23 Aug 2026, 6:48 AM IST",
+  "updated_at": "2026-08-23T19:07:05+05:30",
+  "updated_at_display": "23 Aug 2026, 7:07 PM IST",
   "summaries": {
     "34fa7df29dc0e42583db": {
       "summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
@@ -1004,7 +1004,7 @@
       "verification": "verified"
     },
     "2d5f1b0442ca39c3c32d": {
-      "summary": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and competitive-pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
+      "summary": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
       "provider": "ChatGPT Scheduled Task",
       "updated_at": "2026-08-20T12:33:52+05:30",
       "title": "What Labcorp's New PTEN Test and Guidance Hike Means For Shareholders",
@@ -1331,6 +1331,26 @@
       "company": "Quest Diagnostics",
       "category": "Other",
       "sources_used": ["https://www.marketwatch.com/data-news/quest-diagnostics-inc-stock-underperforms-friday-when-compared-to-competitors-despite-daily-gains-cfd2098c-e342e8f8b997"],
+      "verification": "verified"
+    },
+    "bf59ba3d72fa86b61827": {
+      "summary": "Kalkine Media’s August 13 analysis presents Sonic Healthcare’s diagnostic-services position as a scale-and-infrastructure story rather than a new results announcement. It describes Sonic’s pathology networks as recurring healthcare infrastructure serving hospitals and medical practitioners, with diagnostic imaging supporting clinical decision-making across specialties. The article argues that regional laboratory expansion can widen access and market penetration, while consolidation among Australian healthcare providers may favor larger operators able to bundle services and integrate workflows. It also highlights laboratory automation as a route to lower per-test costs and expand throughput without proportionate staffing growth, and digital pathology as a way to support remote diagnosis and consultation. Longer-term demand is linked to aging populations and chronic-disease management. The investment test, according to the article, is whether network scale and activity translate into durable economics: margins, cash conversion, working-capital discipline, balance-sheet flexibility and returns on new investment. It flags weaker demand, execution delays, cost inflation, regulation and competition as risks. The piece does not name a new acquisition, customer contract, product launch, financial target or guidance change, so it should be read as market-positioning commentary rather than a fresh Sonic operating disclosure.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-23T19:07:05+05:30",
+      "title": "Sonic Healthcare Diagnostic Services Market Outlook",
+      "company": "Sonic Healthcare",
+      "category": "Other",
+      "sources_used": ["https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-asxshl-diagnostic-services-market-outlook"],
+      "verification": "verified"
+    },
+    "48a2abf995597e48fe1e": {
+      "summary": "Kalkine Media’s August 11 article frames Sonic Healthcare’s near-term investment case around whether diagnostic volumes and margin recovery can prove durable, rather than reporting a new company result. It argues that higher test activity is only economically meaningful if reimbursement quality, commercial adoption and operating discipline move together. The article says investors should distinguish recurring or contracted demand from activity that must be repeatedly won or repriced, then test whether scale is absorbing fixed costs and whether delivery expenses allow margins to improve. Cash conversion is presented as an important boundary condition because working capital, project costs, receivables and capital expenditure can consume accounting gains. The piece also emphasizes research discipline and asks whether commercial adoption translates into repeatable revenue quality rather than merely higher capital intensity. Regulatory pathways are identified as a risk because slower launch timing can affect demand, unit economics, cash generation and strategic flexibility. The article does not provide new Sonic revenue, EBITDA, test-volume, reimbursement-rate or guidance figures and does not announce a product, contract or acquisition. Its conclusion is therefore a pre-results analytical framework: the evidence to watch is consistency among operating commentary, margins, cash conversion and forward priorities.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-23T19:07:05+05:30",
+      "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "sources_used": ["https://kalkinemedia.com/au/stocks/healthcare/can-sonic-healthcare-asxshl-prove-diagnostic-volumes-margin"],
       "verification": "verified"
     }
   }
