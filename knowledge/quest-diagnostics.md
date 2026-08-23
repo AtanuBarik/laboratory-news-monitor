@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 23 Aug 2026, 1:11 AM IST
+- **Repository generated:** 23 Aug 2026, 7:05 AM IST
 - **Distinct events in this file:** 78
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -27,7 +27,7 @@
 - **Sources:**
   - MarketWatch: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNMDRqWEN3M0YxVksxZXlSMFdxTHZvQk5iMVZ6Z3JUaTdnS0dOWDd4ZTRBOTJjUElmS2dKRFRHR21fdTF3UGRJNUlQWUV1MGVCXy1oWmJEdkplWG9JWmpiUVpoUnBOWGdkRWtvWDJxVUxGNXVreVludkRPemRnQ1NzN3JORml0SlNELVRZNXg4UGkxOFp6Qm5ySFJ1MnhyMk9jU2Rtc3Y5NTNnV2RCU0pDeXo4QWI3M2M4dDhMOGZkR1psYnAxRldtYUFtVEFnSWhOVkNpY2xadEM3bjhRV1p4N0hWVXNJeXZIOFNCNktR?oc=5
 
-**Feed description:** Quest Diagnostics Inc. stock underperforms Friday when compared to competitors despite daily gains MarketWatch
+**Feed description:** MarketWatch’s August 21 automated market report said Quest Diagnostics shares gained 1.28% on Friday to close at $244.39 during a broadly positive U.S. session, but the stock’s advance was slightly weaker than several named healthcare peers. The S&P 500 rose 0.43% to 7,674.37 and the Dow Jones Industrial Average advanced 0.98% to 53,277.01. Quest finished 0.52% below its 52-week high of $245.68, which had been set the previous day. UnitedHealth Group gained 1.37% to $390.11, IQVIA Holdings rose 1.47% to $259.82 and Centene advanced 1.37% to $65.02, which is why the article described Quest as underperforming competitors despite its positive daily return. Trading activity was heavier than usual: about 1.3 million Quest shares changed hands compared with a 50-day average of 966,964. The MarketWatch item is a market-performance report generated from Dow Jones Market Data and FactSet, not a company operating announcement. It does not disclose new Quest revenue, earnings guidance, clinical results, product launches, partnerships, acquisitions or leadership changes; its substantive content is the August 21 share-price move, relative peer performance and elevated trading volume.
 
 ## 3. Quest Diagnostics stock holds near highs after Q2 beat
 
@@ -153,21 +153,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow vinanet.vn
 
-## 13. Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 14 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com UK: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzNXbzdCai1LbllKbXFZZjhfTWs1bXQ5Yng5ck9PYTdZMmxpSWZhWnZSN2UtRVZuSC1QdTZ2Wl9odFpldHowTVZKc0lkbUEtMGtzenQyaWVPLUZQZjU4bXByUXZQX2p3QmcyRGFsQzhIZnpyeG4tS2tsVjVIeFZtb0tTNURIbjVxRjhWaEtmOXZQdzFIUUYxZTRhNkpXbmk0M0ZmRV9UQ3NLcFFhTWVOaFE4dThhY2NaREtOTk85RUZwZ0l4eXBBRWEtZ1ZLcmpSWU1uQWVKcVNKUlE?oc=5
-  - Investing.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5
-  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzBRNWdwQ0p0b3p1LWNqa2ktR245RzBsTC05THlIeFJ1bHAwdk1jV3BXRXltNFNVY1l2ckRtVWpfVFVNczRmSWd1VjhnZGhxZGhxcFl2TW1VOW1TT0ZaZXdGS1RwQXY3X0k2X1lBZUlxbS1JM05abFdDcUhVenNBLS1ZS2oyaFZzemFZWU9sTktBVVp6TUZKbkYzaG15MXV6U0duM0RTbmE0TXl1aEhiaDE2M0lyNFFUS3VkZjk0S1h4UDEtRW1OY1VlUmdnTmpXZnJXNkxmYUtqVUU?oc=5
-
-**Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
-
-## 14. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
+## 13. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Aug 2026
@@ -179,6 +165,20 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5
 
 **Feed description:** Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.
+
+## 14. Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 14 Aug 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5
+  - Investing.com UK: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzNXbzdCai1LbllKbXFZZjhfTWs1bXQ5Yng5ck9PYTdZMmxpSWZhWnZSN2UtRVZuSC1QdTZ2Wl9odFpldHowTVZKc0lkbUEtMGtzenQyaWVPLUZQZjU4bXByUXZQX2p3QmcyRGFsQzhIZnpyeG4tS2tsVjVIeFZtb0tTNURIbjVxRjhWaEtmOXZQdzFIUUYxZTRhNkpXbmk0M0ZmRV9UQ3NLcFFhTWVOaFE4dThhY2NaREtOTk85RUZwZ0l4eXBBRWEtZ1ZLcmpSWU1uQWVKcVNKUlE?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzBRNWdwQ0p0b3p1LWNqa2ktR245RzBsTC05THlIeFJ1bHAwdk1jV3BXRXltNFNVY1l2ckRtVWpfVFVNczRmSWd1VjhnZGhxZGhxcFl2TW1VOW1TT0ZaZXdGS1RwQXY3X0k2X1lBZUlxbS1JM05abFdDcUhVenNBLS1ZS2oyaFZzemFZWU9sTktBVVp6TUZKbkYzaG15MXV6U0duM0RTbmE0TXl1aEhiaDE2M0lyNFFUS3VkZjk0S1h4UDEtRW1OY1VlUmdnTmpXZnJXNkxmYUtqVUU?oc=5
+
+**Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
 
 ## 15. Q2 2026 Quest Diagnostics Earnings Call Transcript
 
@@ -329,7 +329,7 @@
   - dars.gov.et: https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5
   - Vinanet: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts Vinanet
+**Feed description:** Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts vinanet.vn
 
 ## 27. Quest Diagnostics Edges Higher as Diagnostic Demand Remains Steady - Stop Hunt
 
