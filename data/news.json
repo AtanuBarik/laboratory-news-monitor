@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T07:05:02.183760+05:30",
-  "generated_at_display": "23 Aug 2026, 7:05 AM IST",
+  "generated_at": "2026-08-23T09:06:59.678958+05:30",
+  "generated_at_display": "23 Aug 2026, 9:06 AM IST",
   "item_count": 149,
-  "raw_relevant_item_count": 375,
-  "duplicates_merged": 92,
+  "raw_relevant_item_count": 372,
+  "duplicates_merged": 91,
   "failures": [],
   "items": [
     {
@@ -83,7 +83,7 @@
       "source_domain": "marketwatch.com",
       "published_at": "2026-08-21T21:00:00+00:00",
       "published_display": "21 Aug 2026",
-      "category": "Other",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
@@ -5798,7 +5798,7 @@
       ]
     }
   ],
-  "low_value_items_removed": 122,
+  "low_value_items_removed": 120,
   "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-23T12:17:00+05:30",
