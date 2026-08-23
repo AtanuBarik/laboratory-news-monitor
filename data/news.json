@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T13:28:19.868919+05:30",
-  "generated_at_display": "23 Aug 2026, 1:28 PM IST",
-  "item_count": 149,
+  "generated_at": "2026-08-23T19:22:10.141888+05:30",
+  "generated_at_display": "23 Aug 2026, 7:22 PM IST",
+  "item_count": 150,
   "raw_relevant_item_count": 369,
-  "duplicates_merged": 91,
+  "duplicates_merged": 90,
   "failures": [],
   "items": [
     {
@@ -195,9 +195,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXhCVnZ0dlJrbjlvUG4zekMydENwWl80T0UybHpxTTRhalo5ZEdueUtPaEdBdXIxVV96NktzZWZFaTNleWxsQW9kMWU0dlRPLXhwZk1KZHIzRzdDTE4tbW1ReG5tNWxXeDg5bnlRc3BfM2paWFlJeDI1aFVMWGhKT3p1UFQxVmlQdktuWC1BU291UDgzNE5RMC15a1lrQ2duOWluel9qU0JhM1dpU3UzRzRHSVlCazgzVUlRR0FUel9qNC1XTUtfeDhhQWlaRndreTd3?oc=5",
           "domain": "sharewise.com",
           "published_at": "2026-08-21T22:01:35+00:00"
+        },
+        {
+          "name": "Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTNSeHl4eE53OVZTeENzT282OWFKSW5fek05ekZ1RWVvVGRCcTBGSEdCVHdQVzdkdmJObzZUVi1hQjRjakk5b1N2V0U0T08tOFFOblNLR1hGX2xZSV9nMm1NUGdXaDRkc3NMSzdLMm9XdS1NR016LWg2UTRKclhtLTNpRUdDLVNkV1FDX0F4RVlzaDJUMXVfb1FGOEFzS2NuS1hkaVRxZVh5ZlFickp4d0FGcmJnUkczNjAydUtZUTItTGZtNVFGTTU3bVI5U2tXMF9XMU9RSlJnZUZCRjRTaGZITXMwLWZLQjV0eQ?oc=5",
+          "domain": "easternprogress.com",
+          "published_at": "2026-08-21T13:15:02+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "can continue high hit run week",
       "source_description": "Quest Diagnostics Incorporated (DGX) Hit a 52 Week High, Can the Run Continue? Yahoo Finance",
       "chatgpt_summary": "Zacks’ August 21 analysis said Quest Diagnostics shares reached a new 52-week high of $245.68 in the prior session after gaining 5.9% over the preceding month. DGX was up 39.1% year to date, compared with 5.2% for the Zacks Medical sector and 22.7% for its Medical–Outpatient and Home Healthcare industry. Zacks linked the move to earnings execution and upward estimate revisions. Quest’s July 23 quarter delivered adjusted EPS of $3.12 versus the $2.81 consensus used by Zacks, while revenue exceeded consensus by 2.15%. Zacks’ current full-year 2026 consensus was $11.15 of EPS on about $12.01 billion of revenue, implying 13.2% EPS growth and 8.87% revenue growth; for the following year it modeled $11.97 of EPS on $12.56 billion of revenue, representing 7.31% EPS growth and 4.58% revenue growth. The article also noted that DGX traded at 21.6 times current-year EPS estimates versus 21.3 times for the peer industry, while its trailing cash-flow multiple was 15.9 times versus 17.2 times for peers. Quest carried a Zacks Rank #2 (Buy), with Value and Growth scores of B, Momentum D and VGM B. These are third-party market estimates and valuation signals, not new company guidance or an operating announcement.",
@@ -1270,7 +1276,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Diagnostic Services Market Outlook",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5",
-      "description": "Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook kalkinemedia.com",
+      "description": "Kalkine Media’s August 13 analysis presents Sonic Healthcare’s diagnostic-services position as a scale-and-infrastructure story rather than a new results announcement. It describes Sonic’s pathology networks as recurring healthcare infrastructure serving hospitals and medical practitioners, with diagnostic imaging supporting clinical decision-making across specialties. The article argues that regional laboratory expansion can widen access and market penetration, while consolidation among Australian healthcare providers may favor larger operators able to bundle services and integrate workflows. It also highlights laboratory automation as a route to lower per-test costs and expand throughput without proportionate staffing growth, and digital pathology as a way to support remote diagnosis and consultation. Longer-term demand is linked to aging populations and chronic-disease management. The investment test, according to the article, is whether network scale and activity translate into durable economics: margins, cash conversion, working-capital discipline, balance-sheet flexibility and returns on new investment. It flags weaker demand, execution delays, cost inflation, regulation and competition as risks. The piece does not name a new acquisition, customer contract, product launch, financial target or guidance change, so it should be read as market-positioning commentary rather than a fresh Sonic operating disclosure.",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -1287,7 +1293,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "diagnostic market outlook services"
+      "event_signature": "diagnostic market outlook services",
+      "source_description": "Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook kalkinemedia.com",
+      "chatgpt_summary": "Kalkine Media’s August 13 analysis presents Sonic Healthcare’s diagnostic-services position as a scale-and-infrastructure story rather than a new results announcement. It describes Sonic’s pathology networks as recurring healthcare infrastructure serving hospitals and medical practitioners, with diagnostic imaging supporting clinical decision-making across specialties. The article argues that regional laboratory expansion can widen access and market penetration, while consolidation among Australian healthcare providers may favor larger operators able to bundle services and integrate workflows. It also highlights laboratory automation as a route to lower per-test costs and expand throughput without proportionate staffing growth, and digital pathology as a way to support remote diagnosis and consultation. Longer-term demand is linked to aging populations and chronic-disease management. The investment test, according to the article, is whether network scale and activity translate into durable economics: margins, cash conversion, working-capital discipline, balance-sheet flexibility and returns on new investment. It flags weaker demand, execution delays, cost inflation, regulation and competition as risks. The piece does not name a new acquisition, customer contract, product launch, financial target or guidance change, so it should be read as market-positioning commentary rather than a fresh Sonic operating disclosure.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-23T19:07:05+05:30",
+      "summary_evidence": [
+        "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-asxshl-diagnostic-services-market-outlook"
+      ]
     },
     {
       "id": "50b37b71e433c3eefb71",
@@ -1354,6 +1368,30 @@
         "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
         "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
       ]
+    },
+    {
+      "id": "5527001244fc8258762e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
+      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-08-12T20:45:15+00:00",
+      "published_display": "12 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-08-12T20:45:15+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "com declares dividend investing quarterly"
     },
     {
       "id": "d81d0a5ec5f591fb5354",
@@ -1424,9 +1462,15 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTW1ieDBzdHJsMVJOcFJTQkIyalNEaUVsTjFhaDR5VmJHRVpRRklMRm8zRThrTVdGYTRYSC1jX0dKTzFwNHdwdFA0T0lfZXpxYnFtMUtXMExSLWR4QnFEbl9oZ054UE1zdHFrRldtQXJpNmpnUF9mT1praS04b2tIYVJoanFENjFPMDhYSEJaS1kzQ0Jzb3E1a25hVQ?oc=5",
           "domain": "stocktitan.net",
           "published_at": "2026-08-12T20:15:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVqU1NfcS1vcGtDblJReTlLUHd5Q2NSeXgxaGI5czBkVkZzT1lLTmFWZG5EbmVrZEVXRXU1MWxDNGhubTltTDBMUUowOGNWYXRIMVNKV3NkOF9qZVhUdXNVNmFHTms0a2ZURzB1ckJiREVXQnpCOXFnZXFqMVJfTkRHV0VrX09EUjI0UHdlZ29jTDhDaUxRb2l2UGowZVI4cjRfX2VmVU16dw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-12T07:00:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "cash declares dividend quarterly",
       "source_description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
       "chatgpt_summary": "Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.",
@@ -1559,7 +1603,7 @@
       "company": "Sonic Healthcare",
       "title": "Can Sonic Healthcare Prove Diagnostic Volumes Margin?",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5",
-      "description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com",
+      "description": "Kalkine Media’s August 11 article frames Sonic Healthcare’s near-term investment case around whether diagnostic volumes and margin recovery can prove durable, rather than reporting a new company result. It argues that higher test activity is only economically meaningful if reimbursement quality, commercial adoption and operating discipline move together. The article says investors should distinguish recurring or contracted demand from activity that must be repeatedly won or repriced, then test whether scale is absorbing fixed costs and whether delivery expenses allow margins to improve. Cash conversion is presented as an important boundary condition because working capital, project costs, receivables and capital expenditure can consume accounting gains. The piece also emphasizes research discipline and asks whether commercial adoption translates into repeatable revenue quality rather than merely higher capital intensity. Regulatory pathways are identified as a risk because slower launch timing can affect demand, unit economics, cash generation and strategic flexibility. The article does not provide new Sonic revenue, EBITDA, test-volume, reimbursement-rate or guidance figures and does not announce a product, contract or acquisition. Its conclusion is therefore a pre-results analytical framework: the evidence to watch is consistency among operating commentary, margins, cash conversion and forward priorities.",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -1576,7 +1620,15 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "can diagnostic margin prove volumes"
+      "event_signature": "can diagnostic margin prove volumes",
+      "source_description": "Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com",
+      "chatgpt_summary": "Kalkine Media’s August 11 article frames Sonic Healthcare’s near-term investment case around whether diagnostic volumes and margin recovery can prove durable, rather than reporting a new company result. It argues that higher test activity is only economically meaningful if reimbursement quality, commercial adoption and operating discipline move together. The article says investors should distinguish recurring or contracted demand from activity that must be repeatedly won or repriced, then test whether scale is absorbing fixed costs and whether delivery expenses allow margins to improve. Cash conversion is presented as an important boundary condition because working capital, project costs, receivables and capital expenditure can consume accounting gains. The piece also emphasizes research discipline and asks whether commercial adoption translates into repeatable revenue quality rather than merely higher capital intensity. Regulatory pathways are identified as a risk because slower launch timing can affect demand, unit economics, cash generation and strategic flexibility. The article does not provide new Sonic revenue, EBITDA, test-volume, reimbursement-rate or guidance figures and does not announce a product, contract or acquisition. Its conclusion is therefore a pre-results analytical framework: the evidence to watch is consistency among operating commentary, margins, cash conversion and forward priorities.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-23T19:07:05+05:30",
+      "summary_evidence": [
+        "https://kalkinemedia.com/au/stocks/healthcare/can-sonic-healthcare-asxshl-prove-diagnostic-volumes-margin"
+      ]
     },
     {
       "id": "0bdc4a693d0cba7b7129",
@@ -1956,7 +2008,7 @@
       "company": "Labcorp",
       "title": "What Labcorp's New PTEN Test and Guidance Hike Means For Shareholders",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
-      "description": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and competitive-pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
+      "description": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
       "source": "Sahm",
       "source_url": "https://www.sahmcapital.com",
       "source_domain": "sahmcapital.com",
@@ -1981,7 +2033,7 @@
       "coverage_count": 2,
       "event_signature": "guidance hike means pten shareholders test what",
       "source_description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders simplywall.st",
-      "chatgpt_summary": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and competitive-pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
+      "chatgpt_summary": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
       "summary_provider": "ChatGPT Scheduled Task",
       "summary_verification": "verified",
       "summary_updated_at": "2026-08-20T12:33:52+05:30",
@@ -5798,10 +5850,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 117,
+  "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-23T18:17:00+05:30",
-  "next_update_display": "23 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-24T00:17:00+05:30",
+  "next_update_display": "24 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

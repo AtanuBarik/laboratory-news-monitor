@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 23 Aug 2026, 1:28 PM IST
+- **Repository generated:** 23 Aug 2026, 7:22 PM IST
 - **Distinct events in this file:** 18
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -148,7 +148,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ3ZYTUxkcWs3WE9KS3ZhNFlFX1dCbjlibnQtYzdSZk9BSnlRX1JmNWNaVm1hYXR0ZGlnbnpXWHZVLTljd09KdDFITVFuNGcza3dUMzQ2bUQ2VWpjN3pYYXI5NmNuOUxlaGhqb2VyUmNxel83RWVCQVg5QlRsemM5bHh6RXBzSWJpc1ZtTkFHYmtHM1VsZjgwSUJkZXB5Um4xbllaSUstcw?oc=5
 
-**Feed description:** Sonic Healthcare (ASX:SHL) Diagnostic Services Market Outlook kalkinemedia.com
+**Feed description:** Kalkine Media’s August 13 analysis presents Sonic Healthcare’s diagnostic-services position as a scale-and-infrastructure story rather than a new results announcement. It describes Sonic’s pathology networks as recurring healthcare infrastructure serving hospitals and medical practitioners, with diagnostic imaging supporting clinical decision-making across specialties. The article argues that regional laboratory expansion can widen access and market penetration, while consolidation among Australian healthcare providers may favor larger operators able to bundle services and integrate workflows. It also highlights laboratory automation as a route to lower per-test costs and expand throughput without proportionate staffing growth, and digital pathology as a way to support remote diagnosis and consultation. Longer-term demand is linked to aging populations and chronic-disease management. The investment test, according to the article, is whether network scale and activity translate into durable economics: margins, cash conversion, working-capital discipline, balance-sheet flexibility and returns on new investment. It flags weaker demand, execution delays, cost inflation, regulation and competition as risks. The piece does not name a new acquisition, customer contract, product launch, financial target or guidance change, so it should be read as market-positioning commentary rather than a fresh Sonic operating disclosure.
 
 ## 13. Can Sonic Healthcare Prove Diagnostic Volumes Margin?
 
@@ -160,7 +160,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZTNLQmRranNUcDVOYUJITUozSXo2OWNIZWtYR3QwOWlYSUt3V2JFRzZURXRJSkQ1ZTIyUWZZRFRHSzVhTVN6SmFwRjVmYlFHd3lCenAyVkVoNHFZNGxzWWRHNkVkTXhPeHpwZm5FOTZ4bFg2ajNVcXdTQ1lIZXljZVJvLXNkaXUtOERZc0JtbW1mRWVQZXFtM20yX1l1UVhSU1dCZFJxbFk?oc=5
 
-**Feed description:** Can Sonic Healthcare (ASX:SHL) Prove Diagnostic Volumes Margin? kalkinemedia.com
+**Feed description:** Kalkine Media’s August 11 article frames Sonic Healthcare’s near-term investment case around whether diagnostic volumes and margin recovery can prove durable, rather than reporting a new company result. It argues that higher test activity is only economically meaningful if reimbursement quality, commercial adoption and operating discipline move together. The article says investors should distinguish recurring or contracted demand from activity that must be repeatedly won or repriced, then test whether scale is absorbing fixed costs and whether delivery expenses allow margins to improve. Cash conversion is presented as an important boundary condition because working capital, project costs, receivables and capital expenditure can consume accounting gains. The piece also emphasizes research discipline and asks whether commercial adoption translates into repeatable revenue quality rather than merely higher capital intensity. Regulatory pathways are identified as a risk because slower launch timing can affect demand, unit economics, cash generation and strategic flexibility. The article does not provide new Sonic revenue, EBITDA, test-volume, reimbursement-rate or guidance figures and does not announce a product, contract or acquisition. Its conclusion is therefore a pre-results analytical framework: the evidence to watch is consistency among operating commentary, margins, cash conversion and forward priorities.
 
 ## 14. Sonic Healthcare draws attention on diagnostics activity
 
