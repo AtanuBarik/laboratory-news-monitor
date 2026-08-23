@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T19:22:13.895081+05:30",
-  "generated_at_display": "23 Aug 2026, 7:22 PM IST",
+  "generated_at": "2026-08-23T19:26:44.533685+05:30",
+  "generated_at_display": "23 Aug 2026, 7:26 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 44,
+  "remaining_unsummarized_count": 45,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -157,6 +157,25 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8c9345ac12a7111b6808",
+      "company": "Labcorp",
+      "category": "Other",
+      "title": "Labcorp Drug Testing Process",
+      "source": "Toimihenkilöliitto Erto",
+      "description": "Labcorp Drug Testing Process Toimihenkilöliitto Erto",
+      "published_at": "2026-08-10T23:28:34+00:00",
+      "published_display": "10 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yel9PQUZVMlZOVGNKU19hMWVWczRUQ2xGc0stVWttWV9uLTcxeFE1MDl0TmxXTTZUYjNFOHVfR0pYVG9RR2hCLVZna1psS3dzNUM0VURiV0FlU0h4UmtJdDMzMjV3QkU?oc=5",
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yel9PQUZVMlZOVGNKU19hMWVWczRUQ2xGc0stVWttWV9uLTcxeFE1MDl0TmxXTTZUYjNFOHVfR0pYVG9RR2hCLVZna1psS3dzNUM0VURiV0FlU0h4UmtJdDMzMjV3QkU?oc=5"
         }
       ]
     },
@@ -636,25 +655,6 @@
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bb7ce2e5ae90abbc934d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Soars to 52-Week High, Time to Cash Out?",
-      "source": "Yahoo Finance",
-      "description": "Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? finance.yahoo.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5"
         }
       ]
     }

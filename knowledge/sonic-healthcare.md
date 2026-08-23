@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 23 Aug 2026, 7:22 PM IST
+- **Repository generated:** 23 Aug 2026, 7:26 PM IST
 - **Distinct events in this file:** 18
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -142,7 +142,7 @@
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 13 Aug 2026
-- **Category:** Other
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -154,7 +154,7 @@
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Aug 2026
-- **Category:** Financials
+- **Category:** Partnership, M&A
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
