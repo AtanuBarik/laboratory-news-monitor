@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-23T19:26:41.029830+05:30",
-  "generated_at_display": "23 Aug 2026, 7:26 PM IST",
-  "item_count": 151,
-  "raw_relevant_item_count": 372,
-  "duplicates_merged": 90,
+  "generated_at": "2026-08-24T01:11:22.741773+05:30",
+  "generated_at_display": "24 Aug 2026, 1:11 AM IST",
+  "item_count": 152,
+  "raw_relevant_item_count": 350,
+  "duplicates_merged": 86,
   "failures": [],
   "items": [
     {
@@ -3196,6 +3196,30 @@
       ]
     },
     {
+      "id": "01ce5f16f98032427679",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWTdESXEtaTlqMGRaY0NybVZnV1RKb0w2SVhIWV9jMEd4a1lYQ0M0NVJDTFFYVHdTMUlLUi1tN2RBaWhwRnVEQTgwYzlydDNSQmpMRUExcWp5SnRvYnh6cjRCTmU2SWdFbWpXOGhmcHhRQ1E?oc=5",
+      "description": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "source": "Revelio Labs",
+      "source_url": "https://www.reveliolabs.com",
+      "source_domain": "reveliolabs.com",
+      "published_at": "2026-07-29T05:12:42+00:00",
+      "published_display": "29 Jul 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Revelio Labs",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWTdESXEtaTlqMGRaY0NybVZnV1RKb0w2SVhIWV9jMEd4a1lYQ0M0NVJDTFFYVHdTMUlLUi1tN2RBaWhwRnVEQTgwYzlydDNSQmpMRUExcWp5SnRvYnh6cjRCTmU2SWdFbWpXOGhmcHhRQ1E?oc=5",
+          "domain": "reveliolabs.com",
+          "published_at": "2026-07-29T05:12:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 count data employee employees headcount number"
+    },
+    {
       "id": "62bbf9d01e537be1d528",
       "company": "Quest Diagnostics",
       "title": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250",
@@ -5874,10 +5898,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 100,
+  "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-24T00:17:00+05:30",
-  "next_update_display": "24 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-24T06:17:00+05:30",
+  "next_update_display": "24 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
