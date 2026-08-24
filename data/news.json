@@ -1,11 +1,191 @@
 {
-  "generated_at": "2026-08-24T14:59:28.876695+05:30",
-  "generated_at_display": "24 Aug 2026, 2:59 PM IST",
-  "item_count": 152,
-  "raw_relevant_item_count": 340,
-  "duplicates_merged": 82,
+  "generated_at": "2026-08-24T20:40:01.209364+05:30",
+  "generated_at_display": "24 Aug 2026, 8:40 PM IST",
+  "item_count": 159,
+  "raw_relevant_item_count": 346,
+  "duplicates_merged": 83,
   "failures": [],
   "items": [
+    {
+      "id": "6e9bc5f12dfa4af5f4da",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
+      "description": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-08-24T13:22:06+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-24T13:22:06+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer biomarker blood cleared fda launch multi panel test"
+    },
+    {
+      "id": "b7573b272b658b79bc2c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics CFO to discuss company strate...",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
+      "description": "Quest Diagnostics CFO to discuss company strate... Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-24T13:20:08+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-24T13:20:08+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cfo discuss strate"
+    },
+    {
+      "id": "18496cf65147fd2e91a4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREpERU9ZVmdSRTBhNFYxN0tVRTlCbzZBUEo5YWo4aE9TekN1Y21KQmRxVGVzckZ0ZDdYeVVlaDhGQkZTQjFBRHpEbG5Ya1NRMjFtUk9mSUpMSEhEZW1iU2pTd3JXR2NIQllzSk1nMDZxNWR5Si0tQjU2MTBsRE95c01iWVJQTzl1X18xOUcwTVpySEtVUDVJaGJkdkpIY2ZwdlU1LVZWMnpoMXdlRm9MTmhabHJSa2d5VDdfcEYybnZ5bVczZG50NDB5cmNtem1VUmYtYnJZXzNxVWhzY1E?oc=5",
+      "description": "Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-24T13:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREpERU9ZVmdSRTBhNFYxN0tVRTlCbzZBUEo5YWo4aE9TekN1Y21KQmRxVGVzckZ0ZDdYeVVlaDhGQkZTQjFBRHpEbG5Ya1NRMjFtUk9mSUpMSEhEZW1iU2pTd3JXR2NIQllzSk1nMDZxNWR5Si0tQjU2MTBsRE95c01iWVJQTzl1X18xOUcwTVpySEtVUDVJaGJkdkpIY2ZwdlU1LVZWMnpoMXdlRm9MTmhabHJSa2d5VDdfcEYybnZ5bVczZG50NDB5cmNtem1VUmYtYnJZXzNxVWhzY1E?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-24T13:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "24th annual conference global morgan speak stanley"
+    },
+    {
+      "id": "8e74f5a277e435ccb3e6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTd2R3ROaHJaM3VZdmV4TU5rT0ZlUDZZWTVraGlWcUQ2SEJoOGVZS3hsSnlxakptWDBaVWNZWW1faFhRaFRoT2gwWHdlVHNKR1JrTWZBWTlWRFZQUkxXWG91NTJNV0hVOGExU0t6RGluQXpNT0tIanZ2Wm5NME0xdFRxLUdLdnRzb3Rfdkp2VlBWT21ldmJlZ0FoU3RtY0hqLXU5TTQwaW5weE9zQ25TT0w5Yk1FcC1DdHZTR2ljRHpldVVLOXVCcw?oc=5",
+      "description": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-24T12:38:55+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTd2R3ROaHJaM3VZdmV4TU5rT0ZlUDZZWTVraGlWcUQ2SEJoOGVZS3hsSnlxakptWDBaVWNZWW1faFhRaFRoT2gwWHdlVHNKR1JrTWZBWTlWRFZQUkxXWG91NTJNV0hVOGExU0t6RGluQXpNT0tIanZ2Wm5NME0xdFRxLUdLdnRzb3Rfdkp2VlBWT21ldmJlZ0FoU3RtY0hqLXU5TTQwaW5weE9zQ25TT0w5Yk1FcC1DdHZTR2ljRHpldVVLOXVCcw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-24T12:38:55+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer assess earnings expansion firm holds investors stock testing"
+    },
+    {
+      "id": "474131cf507e3ae53cbf",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics expands Alzheimer's blood tes...",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlMzNVB3QkZJVVBUZG8tdThRSXVkbkhsN3R4bjN1Tk1pMldyR3I1eFoydzBVN01WWEhFWjJ5ekVSeWJJNFN3cXZ5X0RBbkhweWt4QS0zek96QjJPc2ZaWUNycG00UlR0d2JxSGVPZnlWcFpoVEd0NnBqY1EwcGVUQS1aOWdkQkJrYVB6TkpPYmpkckpmdlppVGVpcU5FS1pNeHlfUXNHY0loUXp5SGpDZUV3?oc=5",
+      "description": "Quest Diagnostics expands Alzheimer's blood tes... Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-24T11:57:16+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlMzNVB3QkZJVVBUZG8tdThRSXVkbkhsN3R4bjN1Tk1pMldyR3I1eFoydzBVN01WWEhFWjJ5ekVSeWJJNFN3cXZ5X0RBbkhweWt4QS0zek96QjJPc2ZaWUNycG00UlR0d2JxSGVPZnlWcFpoVEd0NnBqY1EwcGVUQS1aOWdkQkJrYVB6TkpPYmpkckpmdlppVGVpcU5FS1pNeHlfUXNHY0loUXp5SGpDZUV3?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-24T11:57:16+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer blood expands tes"
+    },
+    {
+      "id": "d5687d4caaf25e15b862",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
+      "description": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-24T11:24:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-24T11:24:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer assess blood cleared disease fda offer pathology ptau217 roche test"
+    },
+    {
+      "id": "b7ef373b7be9a0dd9f1f",
+      "company": "Labcorp",
+      "title": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNXBBRHhzazZ2eXJtejd1MTJ2X0hxZ2xOZ2puVVE0MEJMYUEtQVpQdnduendhZUR3Y0szUjIzcHVnd3k4aGhyTFBCUXZ0TTRWbDlJdFJNWlVaOXhGbnZfNFk5Y3RkSzZ1ZU5mMHhGd29iLXdfMi1SdEotM016X1NTTmlLS001M1ZnNlNXazFnMmttR1doYmRfM0pmTzlUVlVtZkt5dTl1ZWZ2VEN4WUI4N0dSMVBwZTlUQnlnOFlxWTRxLWVpTlBNSmNkRjI0dWt6aHhBR1pnRWFPS0hqbTF1UGtsbkpPdkdCZkFYTTBIQlprQWxmU2xid0NtVDg4ZjFUS1JpZHY5UEZSM3ZKRC10dW9B?oc=5",
+      "description": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-24T11:02:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNXBBRHhzazZ2eXJtejd1MTJ2X0hxZ2xOZ2puVVE0MEJMYUEtQVpQdnduendhZUR3Y0szUjIzcHVnd3k4aGhyTFBCUXZ0TTRWbDlJdFJNWlVaOXhGbnZfNFk5Y3RkSzZ1ZU5mMHhGd29iLXdfMi1SdEotM016X1NTTmlLS001M1ZnNlNXazFnMmttR1doYmRfM0pmTzlUVlVtZkt5dTl1ZWZ2VEN4WUI4N0dSMVBwZTlUQnlnOFlxWTRxLWVpTlBNSmNkRjI0dWt6aHhBR1pnRWFPS0hqbTF1UGtsbkpPdkdCZkFYTTBIQlprQWxmU2xid0NtVDg4ZjFUS1JpZHY5UEZSM3ZKRC10dW9B?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-24T11:02:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-24T11:18:21+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0lhdVo4OU1mZUd0UVl1VGxjTW5lLWtoOGI1OHZlVWs3M1dxR2doYmZFV25ZRG93U21tNEdTYUVEQzlJaXlrb0xqRWFSZFpKQWtwSWpaakNaV0tiUmxFcUZSU0NtTkx5b25hcVY5VFdyRmgxQ1VMYzdLMXZldlAzbkNONFh3ZEc1RHJrZFZKdVdCRG41emhYYmtkQXlOc3hRYVJvSWJB?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-24T13:17:10+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
+    },
     {
       "id": "9bd8cd371e6de356ea9b",
       "company": "Labcorp",
@@ -5898,10 +6078,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 93,
+  "post_prune_financial_duplicates_merged": 11,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-24T18:17:00+05:30",
-  "next_update_display": "24 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-25T00:17:00+05:30",
+  "next_update_display": "25 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
