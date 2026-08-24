@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T01:28:01.479952+05:30",
-  "generated_at_display": "25 Aug 2026, 1:28 AM IST",
+  "generated_at": "2026-08-25T01:33:49.099160+05:30",
+  "generated_at_display": "25 Aug 2026, 1:33 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 54,
+  "remaining_unsummarized_count": 55,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -325,6 +325,25 @@
       ]
     },
     {
+      "id": "bbeb7997a9dd145c7f19",
+      "company": "Labcorp",
+      "category": "Other",
+      "title": "Labcorp Urine Drug Test Results Time",
+      "source": "Toimihenkilöliitto Erto",
+      "description": "Labcorp Urine Drug Test Results Time Toimihenkilöliitto Erto",
+      "published_at": "2026-08-11T02:12:50+00:00",
+      "published_display": "11 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMWE1czhKa1RkX25tQmhaSUhYbzhYbThPRWZNSUc0Y2kwVlE5cTVjNlhkUWJqelAwQlhlNzZiNHh0RjFER3o0MzJVby1IalFpRS1RYWxjdUFvaEN6YkYwV241YkJtQkMwd0tZaVVpMHlrZw?oc=5",
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMWE1czhKa1RkX25tQmhaSUhYbzhYbThPRWZNSUc0Y2kwVlE5cTVjNlhkUWJqelAwQlhlNzZiNHh0RjFER3o0MzJVby1IalFpRS1RYWxjdUFvaEN6YkYwV241YkJtQkMwd0tZaVVpMHlrZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f75e5d91e2de0c65f721",
       "company": "Quest Diagnostics",
       "category": "Other",
@@ -588,25 +607,6 @@
         {
           "name": "IR Impact",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ce295d63ded2d45b412f",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026",
-      "source": "Yahoo Finance",
-      "description": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5"
         }
       ]
     }

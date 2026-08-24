@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T01:27:58.147883+05:30",
-  "generated_at_display": "25 Aug 2026, 1:27 AM IST",
-  "item_count": 160,
-  "raw_relevant_item_count": 347,
-  "duplicates_merged": 91,
+  "generated_at": "2026-08-25T01:33:45.828037+05:30",
+  "generated_at_display": "25 Aug 2026, 1:33 AM IST",
+  "item_count": 161,
+  "raw_relevant_item_count": 346,
+  "duplicates_merged": 90,
   "failures": [],
   "items": [
     {
@@ -1316,9 +1316,15 @@
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
           "domain": "kalkinemedia.com",
           "published_at": "2026-08-17T19:22:27+00:00"
+        },
+        {
+          "name": "The AI Journal",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeDRpWTh5NjBrTlhDc0g2YUN4cEZSZmVNT2h5RF9GME9VeXlQX1ZwZGpWdmxWYW9XdjlzdWFtZVJ6b0pwYU9OX0RVazZmaGJYcTM1eWJUTFJRR1ctLVZYYWw4YW82YjN3dVp5YzFJeVpoZkI1RW9oMXl3?oc=5",
+          "domain": "aijourn.com",
+          "published_at": "2026-08-17T19:05:22+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "2026 day host investor september",
       "source_description": "Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance",
       "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
@@ -1768,6 +1774,30 @@
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-2026-second-quarter-results-raises-full-year",
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting"
       ]
+    },
+    {
+      "id": "bbeb7997a9dd145c7f19",
+      "company": "Labcorp",
+      "title": "Labcorp Urine Drug Test Results Time",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMWE1czhKa1RkX25tQmhaSUhYbzhYbThPRWZNSUc0Y2kwVlE5cTVjNlhkUWJqelAwQlhlNzZiNHh0RjFER3o0MzJVby1IalFpRS1RYWxjdUFvaEN6YkYwV241YkJtQkMwd0tZaVVpMHlrZw?oc=5",
+      "description": "Labcorp Urine Drug Test Results Time Toimihenkilöliitto Erto",
+      "source": "Toimihenkilöliitto Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-11T02:12:50+00:00",
+      "published_display": "11 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMWE1czhKa1RkX25tQmhaSUhYbzhYbThPRWZNSUc0Y2kwVlE5cTVjNlhkUWJqelAwQlhlNzZiNHh0RjFER3o0MzJVby1IalFpRS1RYWxjdUFvaEN6YkYwV241YkJtQkMwd0tZaVVpMHlrZw?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-11T02:12:50+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "drug results test time urine"
     },
     {
       "id": "f75e5d91e2de0c65f721",
@@ -3757,9 +3787,15 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXdrZC1wLVJ6WXAzMUFob29VTTRTbC0wX1I5bjhLd3FMNVNFdURiSzdrSm5XUWZ6TkRuTDMyenNfX0xVRDRKR0NlQXc4QXc4RFc0N09kMEF5M0ZHTzJZT0duU3NmVEdUalU3X2dNdHBnZ0x6ZW12Ti1yQmlSQk45MUh2YkV5a1I1MzcwRmY1SWtzVHZWQ2JuNXpGb0MzU29TRlRQUmdSQTZhcjN2UkhXSlh3?oc=5",
           "domain": "vinanet.vn",
           "published_at": "2026-08-01T07:00:00+00:00"
+        },
+        {
+          "name": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GX0E0dnEwQS1Xa0pWLXZWLWdLaWJsd0t0REhwaHF4d0tIaDJqQmZUUFg3UUdIR3N3MjlFVFdUaTNjakhYVHJjN0NadUMxWno3N1Y1Z2gtb2wxVXM?oc=5",
+          "domain": "finance.biggo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 34,
+      "coverage_count": 35,
       "event_signature": "earnings expect what",
       "source_description": "Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance Singapore",
       "chatgpt_summary": "Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.",
@@ -6102,7 +6138,7 @@
       ]
     }
   ],
-  "low_value_items_removed": 85,
+  "low_value_items_removed": 84,
   "post_prune_financial_duplicates_merged": 11,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-25T06:17:00+05:30",
