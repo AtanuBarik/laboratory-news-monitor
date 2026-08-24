@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 24 Aug 2026, 6:53 AM IST
+- **Repository generated:** 24 Aug 2026, 9:10 AM IST
 - **Distinct events in this file:** 152
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -425,20 +425,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow vinanet.vn
 
-## 35. Labcorp announces executive leadership changes effective in September
-
-- **Company:** Labcorp
-- **Publication date:** 14 Aug 2026
-- **Category:** Leadership Changes
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5
-  - Investing.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5
-
-**Feed description:** Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both Early Development Research Laboratories and Central Laboratories, consolidating leadership across the two principal Biopharma Laboratory Services businesses. The filing-based announcement did not disclose a new external hire, transaction, compensation package or change to Labcorp's CEO or CFO positions. The transition comes shortly after Labcorp reported second-quarter revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is therefore the consolidation of biopharma laboratory leadership under Caveney following Bailey's resignation, with the two effective dates separated by three days to provide continuity in the transition.
-
-## 36. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
+## 35. Quest Diagnostics Is Up 2.29% in One Week: What You Should Know
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Aug 2026
@@ -451,7 +438,7 @@
 
 **Feed description:** Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.
 
-## 37. Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp
+## 36. Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Aug 2026
@@ -464,6 +451,19 @@
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzBRNWdwQ0p0b3p1LWNqa2ktR245RzBsTC05THlIeFJ1bHAwdk1jV3BXRXltNFNVY1l2ckRtVWpfVFVNczRmSWd1VjhnZGhxZGhxcFl2TW1VOW1TT0ZaZXdGS1RwQXY3X0k2X1lBZUlxbS1JM05abFdDcUhVenNBLS1ZS2oyaFZzemFZWU9sTktBVVp6TUZKbkYzaG15MXV6U0duM0RTbmE0TXl1aEhiaDE2M0lyNFFUS3VkZjk0S1h4UDEtRW1OY1VlUmdnTmpXZnJXNkxmYUtqVUU?oc=5
 
 **Feed description:** A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.
+
+## 37. Labcorp announces executive leadership changes effective in September
+
+- **Company:** Labcorp
+- **Publication date:** 14 Aug 2026
+- **Category:** Leadership Changes
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5
+
+**Feed description:** Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both Early Development Research Laboratories and Central Laboratories, consolidating leadership across the two principal Biopharma Laboratory Services businesses. The filing-based announcement did not disclose a new external hire, transaction, compensation package or change to Labcorp's CEO or CFO positions. The transition comes shortly after Labcorp reported second-quarter revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is therefore the consolidation of biopharma laboratory leadership under Caveney following Bailey's resignation, with the two effective dates separated by three days to provide continuity in the transi…
 
 ## 38. Sonic Healthcare Diagnostic Services Market Outlook
 

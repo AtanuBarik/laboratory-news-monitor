@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T06:53:58.683764+05:30",
-  "generated_at_display": "24 Aug 2026, 6:53 AM IST",
+  "generated_at": "2026-08-24T09:10:19.030583+05:30",
+  "generated_at_display": "24 Aug 2026, 9:10 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 45,
+  "remaining_unsummarized_count": 46,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -43,6 +43,29 @@
         {
           "name": "Investing.com Canada",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e5ca053f7a1eadcd1fc5",
+      "company": "Labcorp",
+      "category": "Leadership Changes",
+      "title": "Labcorp announces executive leadership changes effective in September",
+      "source": "Investing.com",
+      "description": "Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both Early Development Research Laboratories and Central Laboratories, consolidating leadership across the two principal Biopharma Laboratory Services businesses. The filing-based announcement did not disclose a new external hire, transaction, compensation package or change to Labcorp's CEO or CFO positions. The transition comes shortly after Labcorp reported second-quarter revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is therefore the consolidation of biopharma laboratory leadership under Caveney following Bailey's resignation, with the two effective dates separated by three days to provide continuity in the transi…",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "published_display": "14 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5"
         }
       ]
     },
@@ -636,25 +659,6 @@
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68ec9092452923f92fdd",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics",
-      "source": "The Globe and Mail",
-      "description": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail",
-      "published_at": "2026-07-25T12:02:00+00:00",
-      "published_display": "25 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5",
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5"
         }
       ]
     }
