@@ -1,8 +1,18 @@
 {
   "provider": "ChatGPT Scheduled Task",
-  "updated_at": "2026-08-23T19:07:05+05:30",
-  "updated_at_display": "23 Aug 2026, 7:07 PM IST",
+  "updated_at": "2026-08-24T06:35:48+05:30",
+  "updated_at_display": "24 Aug 2026, 6:35 AM IST",
   "summaries": {
+    "01ce5f16f98032427679": {
+      "summary": "Revelio Labs estimates that Quest Diagnostics employed approximately 57,207 people worldwide as of March 2026. The workforce-intelligence provider describes Quest’s headcount as broadly stable from 2023 through 2026 and reports that 89.6% of employees are in North America, followed by 3.7% in South Asia and 2.2% in South America. Revelio’s functional classification places about 27,290 employees, or 48.3%, in Engineering; 20,417, or 36.1%, in Finance and Operations; and 8,827, or 15.6%, in Sales and Marketing. The page also shows 3,685 active job postings in 2026, up 24.9% from 2025, while monthly new postings have cooled to about 1,630 from 2,128 in 2025 and 3,882 in 2023. Revelio reports an average salary of approximately $63,504 and characterizes employee sentiment as negative and declining. These figures are derived from Revelio Labs workforce data and should be treated as third-party estimates rather than audited Quest disclosures. The page contains some internally inconsistent year-over-year labels, so the most reliable interpretation is the directly displayed absolute counts and geographic/function shares. Overall, the data point to a large, North America-concentrated workforce with stable total headcount, a sizable current vacancy pool and slower new-posting velocity than earlier years.",
+      "provider": "ChatGPT Scheduled Task",
+      "updated_at": "2026-08-24T06:35:48+05:30",
+      "title": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data",
+      "company": "Quest Diagnostics",
+      "category": "Organizational Updates",
+      "sources_used": ["https://www.reveliolabs.com/companies/quest-diagnostics/employees", "https://newsroom.questdiagnostics.com/2026-05-19-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend"],
+      "verification": "verified"
+    },
     "34fa7df29dc0e42583db": {
       "summary": "Labcorp announced it will hold an Investor Day on Thursday, September 10, 2026, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and the company plans to post a replay and supporting materials after the event. The August 17 announcement establishes the agenda and timing but does not itself provide new long-term financial targets, announce an acquisition, change the dividend or repurchase program, or revise 2026 guidance. Labcorp had previously told investors that an Investor Day would be held September 10, and the current Investor Relations calendar now lists the event and webcast. The company describes its current scale as nearly 71,000 employees serving clients in approximately 100 countries, with support for more than 85% of new drugs and therapeutic products approved by the FDA in 2025 and more than 750 million patient tests performed worldwide. The material development is therefore the formal schedule and strategic agenda for management’s September investor briefing.",
       "provider": "ChatGPT Scheduled Task",
