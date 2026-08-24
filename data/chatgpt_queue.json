@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T20:54:58.765612+05:30",
-  "generated_at_display": "24 Aug 2026, 8:54 PM IST",
+  "generated_at": "2026-08-25T01:28:01.479952+05:30",
+  "generated_at_display": "25 Aug 2026, 1:28 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 53,
+  "remaining_unsummarized_count": 54,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -34,7 +34,7 @@
       "title": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel",
       "source": "Clinical Lab Products",
       "description": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel Clinical Lab Products",
-      "published_at": "2026-08-24T13:22:06+00:00",
+      "published_at": "2026-08-24T13:21:31+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -150,6 +150,25 @@
         {
           "name": "Investing.com Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "85bf149a7066fde4209d",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?",
+      "source": "Traders Union",
+      "description": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68? Traders Union",
+      "published_at": "2026-08-24T18:55:31+00:00",
+      "published_display": "24 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5",
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5"
         }
       ]
     },
@@ -588,25 +607,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "810aa6c73706d03720d7",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
-      "source": "PR Newswire",
-      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics PR Newswire",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5"
         }
       ]
     }

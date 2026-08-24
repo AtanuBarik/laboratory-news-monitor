@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-24T20:40:01.209364+05:30",
-  "generated_at_display": "24 Aug 2026, 8:40 PM IST",
-  "item_count": 159,
-  "raw_relevant_item_count": 346,
-  "duplicates_merged": 83,
+  "generated_at": "2026-08-25T01:27:58.147883+05:30",
+  "generated_at_display": "25 Aug 2026, 1:27 AM IST",
+  "item_count": 160,
+  "raw_relevant_item_count": 347,
+  "duplicates_merged": 91,
   "failures": [],
   "items": [
+    {
+      "id": "85bf149a7066fde4209d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5",
+      "description": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68? Traders Union",
+      "source": "Traders Union",
+      "source_url": "https://tradersunion.com",
+      "source_domain": "tradersunion.com",
+      "published_at": "2026-08-24T18:55:31+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5",
+          "domain": "tradersunion.com",
+          "published_at": "2026-08-24T18:55:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "245 above adds blood break can elecsys ptau217 roche test"
+    },
     {
       "id": "6e9bc5f12dfa4af5f4da",
       "company": "Quest Diagnostics",
@@ -15,7 +39,7 @@
       "source": "Clinical Lab Products",
       "source_url": "https://clpmag.com",
       "source_domain": "clpmag.com",
-      "published_at": "2026-08-24T13:22:06+00:00",
+      "published_at": "2026-08-24T13:21:31+00:00",
       "published_display": "24 Aug 2026",
       "category": "Clinical, R&D",
       "official_source": false,
@@ -24,7 +48,7 @@
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
           "domain": "clpmag.com",
-          "published_at": "2026-08-24T13:22:06+00:00"
+          "published_at": "2026-08-24T13:21:31+00:00"
         }
       ],
       "coverage_count": 1,
@@ -6078,10 +6102,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 85,
+  "post_prune_financial_duplicates_merged": 11,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-25T00:17:00+05:30",
-  "next_update_display": "25 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-25T06:17:00+05:30",
+  "next_update_display": "25 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
