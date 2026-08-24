@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-24T01:11:22.741773+05:30",
-  "generated_at_display": "24 Aug 2026, 1:11 AM IST",
+  "generated_at": "2026-08-24T06:53:55.651402+05:30",
+  "generated_at_display": "24 Aug 2026, 6:53 AM IST",
   "item_count": 152,
-  "raw_relevant_item_count": 350,
-  "duplicates_merged": 86,
+  "raw_relevant_item_count": 327,
+  "duplicates_merged": 77,
   "failures": [],
   "items": [
     {
@@ -3200,7 +3200,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWTdESXEtaTlqMGRaY0NybVZnV1RKb0w2SVhIWV9jMEd4a1lYQ0M0NVJDTFFYVHdTMUlLUi1tN2RBaWhwRnVEQTgwYzlydDNSQmpMRUExcWp5SnRvYnh6cjRCTmU2SWdFbWpXOGhmcHhRQ1E?oc=5",
-      "description": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "description": "Revelio Labs estimates that Quest Diagnostics employed approximately 57,207 people worldwide as of March 2026. The workforce-intelligence provider describes Quest’s headcount as broadly stable from 2023 through 2026 and reports that 89.6% of employees are in North America, followed by 3.7% in South Asia and 2.2% in South America. Revelio’s functional classification places about 27,290 employees, or 48.3%, in Engineering; 20,417, or 36.1%, in Finance and Operations; and 8,827, or 15.6%, in Sales and Marketing. The page also shows 3,685 active job postings in 2026, up 24.9% from 2025, while monthly new postings have cooled to about 1,630 from 2,128 in 2025 and 3,882 in 2023. Revelio reports an average salary of approximately $63,504 and characterizes employee sentiment as negative and declining. These figures are derived from Revelio Labs workforce data and should be treated as third-party estimates rather than audited Quest disclosures. The page contains some internally inconsistent year-over-year labels, so the most reliable interpretation is the directly displayed absolute counts and geographic/function shares. Overall, the data point to a large, North America-concentrated workforce with stable total headcount, a sizable current vacancy pool and slower new-posting velocity than earlier years.",
       "source": "Revelio Labs",
       "source_url": "https://www.reveliolabs.com",
       "source_domain": "reveliolabs.com",
@@ -3217,7 +3217,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 count data employee employees headcount number"
+      "event_signature": "2026 count data employee employees headcount number",
+      "source_description": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
+      "chatgpt_summary": "Revelio Labs estimates that Quest Diagnostics employed approximately 57,207 people worldwide as of March 2026. The workforce-intelligence provider describes Quest’s headcount as broadly stable from 2023 through 2026 and reports that 89.6% of employees are in North America, followed by 3.7% in South Asia and 2.2% in South America. Revelio’s functional classification places about 27,290 employees, or 48.3%, in Engineering; 20,417, or 36.1%, in Finance and Operations; and 8,827, or 15.6%, in Sales and Marketing. The page also shows 3,685 active job postings in 2026, up 24.9% from 2025, while monthly new postings have cooled to about 1,630 from 2,128 in 2025 and 3,882 in 2023. Revelio reports an average salary of approximately $63,504 and characterizes employee sentiment as negative and declining. These figures are derived from Revelio Labs workforce data and should be treated as third-party estimates rather than audited Quest disclosures. The page contains some internally inconsistent year-over-year labels, so the most reliable interpretation is the directly displayed absolute counts and geographic/function shares. Overall, the data point to a large, North America-concentrated workforce with stable total headcount, a sizable current vacancy pool and slower new-posting velocity than earlier years.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-24T06:35:48+05:30",
+      "summary_evidence": [
+        "https://www.reveliolabs.com/companies/quest-diagnostics/employees",
+        "https://newsroom.questdiagnostics.com/2026-05-19-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend"
+      ]
     },
     {
       "id": "62bbf9d01e537be1d528",
@@ -5898,10 +5907,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 86,
+  "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-24T06:17:00+05:30",
-  "next_update_display": "24 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-24T12:17:00+05:30",
+  "next_update_display": "24 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

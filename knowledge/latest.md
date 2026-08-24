@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 24 Aug 2026, 1:11 AM IST
+- **Repository generated:** 24 Aug 2026, 6:53 AM IST
 - **Distinct events in this file:** 152
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -1190,7 +1190,7 @@
 - **Sources:**
   - Revelio Labs: https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWTdESXEtaTlqMGRaY0NybVZnV1RKb0w2SVhIWV9jMEd4a1lYQ0M0NVJDTFFYVHdTMUlLUi1tN2RBaWhwRnVEQTgwYzlydDNSQmpMRUExcWp5SnRvYnh6cjRCTmU2SWdFbWpXOGhmcHhRQ1E?oc=5
 
-**Feed description:** Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs
+**Feed description:** Revelio Labs estimates that Quest Diagnostics employed approximately 57,207 people worldwide as of March 2026. The workforce-intelligence provider describes Quest’s headcount as broadly stable from 2023 through 2026 and reports that 89.6% of employees are in North America, followed by 3.7% in South Asia and 2.2% in South America. Revelio’s functional classification places about 27,290 employees, or 48.3%, in Engineering; 20,417, or 36.1%, in Finance and Operations; and 8,827, or 15.6%, in Sales and Marketing. The page also shows 3,685 active job postings in 2026, up 24.9% from 2025, while monthly new postings have cooled to about 1,630 from 2,128 in 2025 and 3,882 in 2023. Revelio reports an average salary of approximately $63,504 and characterizes employee sentiment as negative and declining. These figures are derived from Revelio Labs workforce data and should be treated as third-party estimates rather than audited Quest disclosures. The page contains some internally inconsistent year-over-year labels, so the most reliable interpretation is the directly displayed absolute counts and geographic/function shares. Overall, the data point to a large, North America-concentrated workforce with stable total headcount, a sizable current vacancy pool and slower new-posting velocity than earlier years.
 
 ## 95. J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250
 
