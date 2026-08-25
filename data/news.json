@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-25T07:53:58.043028+05:30",
-  "generated_at_display": "25 Aug 2026, 7:53 AM IST",
-  "item_count": 164,
-  "raw_relevant_item_count": 349,
-  "duplicates_merged": 92,
+  "generated_at": "2026-08-25T09:02:41.495740+05:30",
+  "generated_at_display": "25 Aug 2026, 9:02 AM IST",
+  "item_count": 165,
+  "raw_relevant_item_count": 350,
+  "duplicates_merged": 94,
   "failures": [],
   "items": [
     {
@@ -74,7 +74,7 @@
       "source_domain": "pluang.com",
       "published_at": "2026-08-24T13:20:08+00:00",
       "published_display": "24 Aug 2026",
-      "category": "Other",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
@@ -107,7 +107,7 @@
       "source_domain": "prnewswire.com",
       "published_at": "2026-08-24T13:00:00+00:00",
       "published_display": "24 Aug 2026",
-      "category": "Other",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
@@ -180,7 +180,7 @@
       "source_domain": "pluang.com",
       "published_at": "2026-08-24T11:57:16+00:00",
       "published_display": "24 Aug 2026",
-      "category": "Other",
+      "category": "Organizational Updates",
       "official_source": false,
       "sources": [
         {
@@ -213,7 +213,7 @@
       "source_domain": "prnewswire.com",
       "published_at": "2026-08-24T11:24:00+00:00",
       "published_display": "24 Aug 2026",
-      "category": "Product & Services",
+      "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
         {
@@ -236,6 +236,30 @@
       ]
     },
     {
+      "id": "6248cf18c368ee3da656",
+      "company": "Labcorp",
+      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
+      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-24T11:18:21+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-24T11:18:21+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer blood cleared fda nationwide offer test"
+    },
+    {
       "id": "b7ef373b7be9a0dd9f1f",
       "company": "Labcorp",
       "title": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings",
@@ -246,7 +270,7 @@
       "source_domain": "prnewswire.com",
       "published_at": "2026-08-24T11:02:00+00:00",
       "published_display": "24 Aug 2026",
-      "category": "Product & Services",
+      "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
         {
@@ -6304,7 +6328,7 @@
       ]
     }
   ],
-  "low_value_items_removed": 81,
+  "low_value_items_removed": 79,
   "post_prune_financial_duplicates_merged": 12,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
   "next_update_at": "2026-08-25T12:17:00+05:30",
