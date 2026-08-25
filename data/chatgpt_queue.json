@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T09:34:56.702938+05:30",
-  "generated_at_display": "25 Aug 2026, 9:34 AM IST",
+  "generated_at": "2026-08-25T12:57:28.720987+05:30",
+  "generated_at_display": "25 Aug 2026, 12:57 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 50,
+  "remaining_unsummarized_count": 47,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -28,21 +28,25 @@
       ]
     },
     {
-      "id": "6248cf18c368ee3da656",
+      "id": "868654c81234f2674032",
       "company": "Labcorp",
       "category": "Product & Services",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
-      "source": "Investing.com",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com",
-      "published_at": "2026-08-24T11:18:21+00:00",
-      "published_display": "24 Aug 2026",
+      "title": "FDA Approves Labcorp Companion Diagnostic for Advanced Melanoma",
+      "source": "Clinical Lab Products",
+      "description": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and…",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "published_display": "10 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5"
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5"
+        },
+        {
+          "name": "The Dermatology Digest",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
         }
       ]
     },
@@ -66,29 +70,6 @@
       ]
     },
     {
-      "id": "24ff906371957d967e82",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up",
-      "source": "marketscreener.com",
-      "description": "Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up; Shares Fall 7% marketscreener.com",
-      "published_at": "2026-08-20T00:18:16+00:00",
-      "published_display": "20 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmozNEtXb3NFemxWOE1nWUFJVXBTbV94X2ExT3NEcmZOTDM1N1Q0ZWhCWnlZc0hacUlhVkRkalUybVhnWHBhd184RlpMbGxtRkdNSTM2TDJtb1VaYjVQb0tWTWtzS2lMWnBtcHo1aWxxdE1uenlyRXdfYlo1VDFSbGNudEx2eTE2V3RTaWR2OFJNeFpuVndjVDZzeVgwaGdLOUVEdG03QnNncHF1WTI3UGt3?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmozNEtXb3NFemxWOE1nWUFJVXBTbV94X2ExT3NEcmZOTDM1N1Q0ZWhCWnlZc0hacUlhVkRkalUybVhnWHBhd184RlpMbGxtRkdNSTM2TDJtb1VaYjVQb0tWTWtzS2lMWnBtcHo1aWxxdE1uenlyRXdfYlo1VDFSbGNudEx2eTE2V3RTaWR2OFJNeFpuVndjVDZzeVgwaGdLOUVEdG03QnNncHF1WTI3UGt3?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXFPem5NcVg2bUctNWtwZmVRYVdwbkNaUVJzRjRmMU1SM05PM0JGVThieHZvVUxmX2ZOYlVxcTc3YVpfcjRUUTV2d1Yydkl2T1d5T0MwT1JqRVBqNU9ZbGtTT2c0emlJdVdaTWx6R2FBMHN6LXRkQm9NUzdUNmJrckhGYUJvSXRqWVpWRHdsdldhM25nekpUTjdHdW9INVM3Yy0zdWJCb05WeTBKQ01xOXBLV19iNkEyeF9EdXJwLWtDanpF?oc=5"
-        }
-      ]
-    },
-    {
       "id": "85bf149a7066fde4209d",
       "company": "Quest Diagnostics",
       "category": "Other",
@@ -108,25 +89,6 @@
       ]
     },
     {
-      "id": "0613c3dd2eb953bd8d43",
-      "company": "Sonic Healthcare",
-      "category": "Other",
-      "title": "What Does Sonic Healthcare Signal on Diagnostics?",
-      "source": "kalkinemedia.com",
-      "description": "What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com",
-      "published_at": "2026-08-20T04:00:00+00:00",
-      "published_display": "20 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5",
-      "sources": [
-        {
-          "name": "kalkinemedia.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5"
-        }
-      ]
-    },
-    {
       "id": "05fe2a3bf3d4448eabda",
       "company": "Labcorp",
       "category": "Other",
@@ -142,25 +104,6 @@
         {
           "name": "vinanet.vn",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzBRLWl6LW41Wi1ZdjJ1dkVOS0d0b3pMLUxESm9qbFB4NnY1OGhOX3BiV0wyTENUNGZOZmFYRF92WXRXd2dRRUpBbm5YQmVuUnJGX1pSNHY2c1ZXU2N4WmVGeG0tczVha1RzYTZRVkhFeWgySzBFejVqMndWeEVMSEZGUjhheFpDbjJhVlAtcG56UGp5RWYyQTZWdjZfRXo0eU5MRERlRTJ4Vkl4LUdtZm02ZE01Y2hFV3NJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d853207c9c70c8b1173f",
-      "company": "Sonic Healthcare",
-      "category": "Other",
-      "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
-      "source": "Kalkine Media",
-      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com",
-      "published_at": "2026-08-18T03:16:00+00:00",
-      "published_display": "18 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5"
         }
       ]
     },
@@ -627,6 +570,91 @@
         {
           "name": "Moomoo",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b44ec09afb37d0ac7b2",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors despite daily gains",
+      "source": "MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors despite daily gains marketwatch.com",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5",
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRDV4cl9XQ2k3MF9CYVhFbkN3Q0RPSTZfeWFpbnhrLXBPcDdRN2Rxa2JseExUc3AzdjRMU3RhbDNiOEVJLWRMRjJqQldxR1MtcVV4Rk9XZjI2Y0poZzc4MFhCSW1SQmMzT043SDNMS2hEel91SWhhRXZPVmxOWElldnAycG02RTZKd3ZIUHVlRENTNHFBNzhMMmUzaEkxbzMwdHM1d0g4SHY3c1l2aEJVelRzWGRIQWZzUHJMVE9VZ1l5OU15Q3k5blhZN0U0TkRab3pHRS1uRWE3WV9ma0JzZzlBTmdFeGk1QzFPZEQ1TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5756ac4158d68a543133",
+      "company": "Labcorp",
+      "category": "Other",
+      "title": "Labcorp expands hereditary risk testing access with genetic health panel",
+      "source": "Yahoo",
+      "description": "Labcorp expands hereditary risk testing access with genetic health panel Yahoo",
+      "published_at": "2026-07-28T07:00:00+00:00",
+      "published_display": "28 Jul 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXRrWlZYRHptS3VDSFUxYlNuVWloNzdtUnF0eVlZMmhJT2ExbXRTZ0w3VThvU3Y1Wkd6R3A0aXNxWXBvZ0JmX2FDdmkwbEYyMUJCMGtGZ2xZb1JvZWlLeERadXFwMGRzcDZNc080ZUk3anpVbDhhTEpuZFU5STdnTzBVM19lMFh0ZzkwZTAyY0p4bF92X3BJVnNDRlowWG8?oc=5"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaGVJMVBxakw5VFl5eFpzWDRKLVFkeVU2dmd0bmVSZEp2RnQxWUp2dXlTbVZSdDlPcWM0b0RlejNqU2NMbjFIRG91RnN1cWR4cF9ycTBZYXN2eTR4OVdLQjdUbDEzNDdsWVFMZ1NwSmhnNmhIaXF6QmVzVkRNY2ZudkN2eTVXakZVU3V6NXUtM0lfaFdTZ2JBUC1FdW91cU0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "10f33466a047be2ac02f",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
+      "source": "Investing.com Nigeria",
+      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
+      "published_at": "2026-07-27T07:00:00+00:00",
+      "published_display": "27 Jul 2026",
+      "official_source": false,
+      "coverage_count": 7,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5"
         }
       ]
     }

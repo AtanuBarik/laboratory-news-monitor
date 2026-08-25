@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 25 Aug 2026, 9:02 AM IST
+- **Repository generated:** 25 Aug 2026, 12:57 PM IST
 - **Distinct events in this file:** 165
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -100,7 +100,7 @@
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5
 
-**Feed description:** Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com
+**Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
 ## 9. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
 
@@ -284,7 +284,7 @@
 - **Sources:**
   - kalkinemedia.com: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5
 
-**Feed description:** What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com
+**Feed description:** Kalkine Media’s August 20 analysis interprets Sonic Healthcare’s diagnostic-services performance as a broad-based recovery supported by testing volumes, specialty diagnostics and operating leverage rather than a one-off product event. The article says pathology activity strengthened across geographies, with general-practitioner referrals and higher-value specialized testing contributing to demand. It also argues that earnings per share grew faster than revenue because Sonic was able to absorb higher activity without proportionate growth in its cost base, while genomics, molecular testing and other specialized services continued to outpace routine testing. Sonic’s FY2026 results released the same day provide the quantitative context: revenue rose 13% to A$10.867 billion, organic revenue grew 5%, underlying EBITDA increased 11% to A$1.933 billion, underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 Australian cents. Advanced diagnostics also grew strongly, including 15% growth at Sonic Genetics in Australia, 12% at Biovis in Germany and 16% organic growth in the U.S. advanced-diagnostics business. Management continues to prioritize pathology and radiology expansion, acquisition integration, the U.S. operating review and digital modernization. The Kalkine article does not announce a new acquisition, product approval or contract; it reads the FY2026 performance as evidence that scale and a richer diagnostic mix are supporting earnings growth.
 
 ## 24. Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19
 
@@ -358,7 +358,7 @@
   - marketscreener.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmozNEtXb3NFemxWOE1nWUFJVXBTbV94X2ExT3NEcmZOTDM1N1Q0ZWhCWnlZc0hacUlhVkRkalUybVhnWHBhd184RlpMbGxtRkdNSTM2TDJtb1VaYjVQb0tWTWtzS2lMWnBtcHo1aWxxdE1uenlyRXdfYlo1VDFSbGNudEx2eTE2V3RTaWR2OFJNeFpuVndjVDZzeVgwaGdLOUVEdG03QnNncHF1WTI3UGt3?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXFPem5NcVg2bUctNWtwZmVRYVdwbkNaUVJzRjRmMU1SM05PM0JGVThieHZvVUxmX2ZOYlVxcTc3YVpfcjRUUTV2d1Yydkl2T1d5T0MwT1JqRVBqNU9ZbGtTT2c0emlJdVdaTWx6R2FBMHN6LXRkQm9NUzdUNmJrckhGYUJvSXRqWVpWRHdsdldhM25nekpUTjdHdW9INVM3Yy0zdWJCb05WeTBKQ01xOXBLV19iNkEyeF9EdXJwLWtDanpF?oc=5
 
-**Feed description:** Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up; Shares Fall 7% marketscreener.com
+**Feed description:** Sonic Healthcare’s official FY2026 results confirm the financial increase described in the queued MarketScreener item. Revenue for the year ended June 30, 2026 was A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. Underlying EBITDA rose 11% to A$1.933 billion, underlying net profit after tax increased 17% to A$621 million and underlying earnings per share rose 14% to 125.6 Australian cents. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Sonic declared a final dividend of A$0.63 per share, 60% franked, taking total FY2026 dividends to A$1.08 per share. Management highlighted integration of the LADR laboratory group in Germany, continued acquisition synergies and growth in advanced diagnostics. Sonic Genetics in Australia grew 15%, Biovis in Germany grew 12% and the U.S. advanced-diagnostics business grew 16% organically. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of annual back-office transformation costs. Management expects about A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies, while underlying group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.
 
 ## 30. Is Quest Diagnostics Still Worth A Look After A 92% Run?
 
@@ -518,7 +518,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5
 
-**Feed description:** Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com
+**Feed description:** Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.
 
 ## 43. Labcorp to hold Investor Day on Sept 10 to disc...
 
@@ -786,20 +786,7 @@
 
 **Feed description:** Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto
 
-## 64. US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know
-
-- **Company:** Labcorp
-- **Publication date:** 10 Aug 2026
-- **Category:** Product & Services
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - The Dermatology Digest: https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5
-  - Clinical Lab Products: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5
-
-**Feed description:** Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and clinical-laboratory workflows.
-
-## 65. Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)
+## 64. Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Aug 2026
@@ -811,7 +798,7 @@
 
 **Feed description:** Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com
 
-## 66. Labcorp nabs FDA green light for BRAF melanoma diagnostic
+## 65. Labcorp nabs FDA green light for BRAF melanoma diagnostic
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -823,7 +810,7 @@
 
 **Feed description:** Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.
 
-## 67. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
+## 66. Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -837,7 +824,7 @@
 
 **Feed description:** Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.
 
-## 68. FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma
+## 67. FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -849,7 +836,7 @@
 
 **Feed description:** Labcorp announced on August 10, 2026 that the FDA approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma. The next-generation sequencing assay is intended to identify tumors carrying BRAF V600E or V600K variants so clinicians can determine eligibility for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the relevant drug labels. Labcorp said the kit is designed for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing testing to be implemented within health-system laboratories rather than requiring all specimens to be sent to a central reference facility. The assay uses DNA isolated from formalin-fixed, paraffin-embedded tumor tissue and a high-throughput hybridization-based capture method. Its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp positioned the approval as an expansion of its precision-oncology portfolio and a way to broaden access to molecular testing for treatment selection in advanced melanoma. The company noted that stage IV melanoma has a five-year survival rate of about 16%, underscoring the clinical importance of identifying patients whose BRAF-altered tumors may be eligible for targeted therapy.
 
-## 69. Labcorp’s advanced melanoma CDx secures FDA approval
+## 68. Labcorp’s advanced melanoma CDx secures FDA approval
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -862,7 +849,7 @@
 
 **Feed description:** Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.
 
-## 70. Labcorp wins FDA approval for melanoma companion diagnostic
+## 69. Labcorp wins FDA approval for melanoma companion diagnostic
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -875,7 +862,7 @@
 
 **Feed description:** Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.
 
-## 71. FDA approves Labcorp's PGDx elio® test to ident...
+## 70. FDA approves Labcorp's PGDx elio® test to ident...
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -887,7 +874,7 @@
 
 **Feed description:** Labcorp announced FDA approval of PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combination regimens under the relevant drug labels. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations important for treatment selection. PGDx elio tissue complete CDx is a qualitative next-generation sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA extracted from formalin-fixed, paraffin-embedded tumor tissue. The targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp says the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to perform testing locally while retaining samples and data that may also support future research. The approval expands Labcorp’s precision-oncology portfolio beyond centralized testing by pairing a distributed, kit-based comprehensive genomic profiling platform with a specific FDA-approved treatment-selection use in melanoma. The release did not disclose pricing, reimbursement terms or commercial volume expectations.
 
-## 72. Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4%; Shares Edge Higher - Free Cash Flow Trends
+## 71. Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4%; Shares Edge Higher - Free Cash Flow Trends
 
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
@@ -898,6 +885,19 @@
   - vinanet.vn: https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWROYXZ5V3F0enRGWUhVcFBHSFpGZHRpSG94cnVPa0dCcVpTVGNlQkI5Tml2aENqWEtIMnlqRlp2VzVFQi1TTGl6MWNFdU40TjNpMTJjWGFtcnhheWZlcjdoTWdyRExWSFdEWDNVZWg5UDk2YzhmbzV2aTRLSndFcGJYT1N4RlVLSVllYmNzMnV3MU9WWGVQbzVGRjNkbE0xa3pZSGF0WENfczZwdERzZ2p3?oc=5
 
 **Feed description:** Labcorp reported adjusted EPS of $4.99 for the second quarter of 2026, up 14.9% year over year, with revenue of $3.731 billion, up 5.8%. The more important cash-flow detail in the company’s official release is that operating cash flow was $445.5 million for the quarter, down from $620.6 million a year earlier. Capital expenditures increased to $131.6 million from $77.9 million, leaving quarterly free cash flow of $313.9 million versus $542.7 million in the prior-year period. Labcorp said the free-cash-flow decline primarily reflected working-capital timing and planned increases in capital expenditures. For the first six months of 2026, operating cash flow was $637.0 million, capital expenditures were $252.6 million and free cash flow was $384.4 million. Management kept full-year free-cash-flow guidance unchanged at $1.24–$1.36 billion while raising enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. During Q2, Labcorp invested $225.7 million in acquisitions, repurchased $353.8 million of stock, paid $58.7 million in dividends and retired $500 million of senior notes. Quarter-end cash was $141.8 million and total debt was $5.86 billion. The headline’s 1.4% consensus-beat figure was not independently confirmed, so this summary uses the verified reported results and cash-flow disclosures.
+
+## 72. FDA Approves Labcorp Companion Diagnostic for Advanced Melanoma
+
+- **Company:** Labcorp
+- **Publication date:** 10 Aug 2026
+- **Category:** Product & Services
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5
+  - The Dermatology Digest: https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5
+
+**Feed description:** Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and…
 
 ## 73. IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History
 
@@ -1408,7 +1408,7 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 35
+- **Coverage count:** 37
 - **Official source involved:** No
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5
@@ -1446,6 +1446,8 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQZTZDbDQ1a0J2dld5Tmc3Z1NNRC13TEM4OUl0c1lLNExVUnRPMkwxc0JfczZ6SlZXRU5qbUpwbzg2bmVNTXNURHdvbUhJUHAtLXU3MHFYSXNWN2VmQlhsdDJCY1F6TlN1MDBCdTlVeXJ1bl9UOEtqMzdTb25KMDlaU0tTb3ZkVWM3Y0FLSHUyUHVyRDlhclVqa1RYdmZaV3c?oc=5
   - vinanet.vn: https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXdrZC1wLVJ6WXAzMUFob29VTTRTbC0wX1I5bjhLd3FMNVNFdURiSzdrSm5XUWZ6TkRuTDMyenNfX0xVRDRKR0NlQXc4QXc4RFc0N09kMEF5M0ZHTzJZT0duU3NmVEdUalU3X2dNdHBnZ0x6ZW12Ti1yQmlSQk45MUh2YkV5a1I1MzcwRmY1SWtzVHZWQ2JuNXpGb0MzU29TRlRQUmdSQTZhcjN2UkhXSlh3?oc=5
   - finance.biggo.com: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GX0E0dnEwQS1Xa0pWLXZWLWdLaWJsd0t0REhwaHF4d0tIaDJqQmZUUFg3UUdIR3N3MjlFVFdUaTNjakhYVHJjN0NadUMxWno3N1Y1Z2gtb2wxVXM?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXZuZktEdnNJcVl2ZmxxQTR5ZlVMWm94bzFDSEZ4MHdhOFVZa29ibnJ6QmkxZGJtWlBrN2xpZVNVMTlSTE02RnI2cnBrQjNpdk9iMk94ckFPQklGWmgxSGZnVURINFZ0MktHS2o5Nkc3alRIUmhYREZFbzdadF9IaDJmS3NHR3pfdlVEZ2NaWmM1UkUwRTMtRXN3d003SXpGTTIwSzkxQV9rYkZMVndmaFJ0cGxQSU45ZTRrdC1oV0lTSW1BTTZSeXZlMmpmMGM?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlhBUG5GLW9rQlBCcy1kYjN5cm14RnQweHJhTU9oVElHX3NfcWd1Tldtckg2Zndjd1VvOHp6alpDenF2bVJabVcyM3RMWEwtR0Y0ZmVfOWl5WGNDNXVGZ2dOeUZwb21VLURlZzRYMnB1akdveW5STUM4S1JjVlctZ3lOOVlkTFFhNy1obWdqWW9TcEZMVnhxZk4wVmloV2FPcGM0WjNLVWt4emJmdjBRNUhvb1BWZlEwNW0wQ2pRSDg0dHZt?oc=5
 
 **Feed description:** Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.
 
@@ -1459,7 +1461,7 @@
 - **Sources:**
   - HIT Consultant: https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5
 
-**Feed description:** Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. Labcorp says the offering builds on capabilities from Labcorp Genetics and Invitae and expands its OnDemand portfolio from biomarker testing into hereditary genetic risk assessment. The company cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.
+**Feed description:** Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.
 
 ## 114. Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans
 

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-25T09:02:41.495740+05:30",
-  "generated_at_display": "25 Aug 2026, 9:02 AM IST",
+  "generated_at": "2026-08-25T12:57:25.728473+05:30",
+  "generated_at_display": "25 Aug 2026, 12:57 PM IST",
   "item_count": 165,
-  "raw_relevant_item_count": 350,
+  "raw_relevant_item_count": 347,
   "duplicates_merged": 94,
   "failures": [],
   "items": [
@@ -240,7 +240,7 @@
       "company": "Labcorp",
       "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com",
+      "description": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -257,7 +257,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "alzheimer blood cleared fda nationwide offer test"
+      "event_signature": "alzheimer blood cleared fda nationwide offer test",
+      "source_description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com",
+      "chatgpt_summary": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T12:39:40+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-offer-first-fda-cleared-blood-test-detect-alzheimers",
+        "https://sg.finance.yahoo.com/news/labcorp-offer-first-fda-cleared-110200128.html"
+      ]
     },
     {
       "id": "b7ef373b7be9a0dd9f1f",
@@ -721,7 +730,7 @@
       "company": "Sonic Healthcare",
       "title": "What Does Sonic Healthcare Signal on Diagnostics?",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5",
-      "description": "What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com",
+      "description": "Kalkine Media’s August 20 analysis interprets Sonic Healthcare’s diagnostic-services performance as a broad-based recovery supported by testing volumes, specialty diagnostics and operating leverage rather than a one-off product event. The article says pathology activity strengthened across geographies, with general-practitioner referrals and higher-value specialized testing contributing to demand. It also argues that earnings per share grew faster than revenue because Sonic was able to absorb higher activity without proportionate growth in its cost base, while genomics, molecular testing and other specialized services continued to outpace routine testing. Sonic’s FY2026 results released the same day provide the quantitative context: revenue rose 13% to A$10.867 billion, organic revenue grew 5%, underlying EBITDA increased 11% to A$1.933 billion, underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 Australian cents. Advanced diagnostics also grew strongly, including 15% growth at Sonic Genetics in Australia, 12% at Biovis in Germany and 16% organic growth in the U.S. advanced-diagnostics business. Management continues to prioritize pathology and radiology expansion, acquisition integration, the U.S. operating review and digital modernization. The Kalkine article does not announce a new acquisition, product approval or contract; it reads the FY2026 performance as evidence that scale and a richer diagnostic mix are supporting earnings growth.",
       "source": "kalkinemedia.com",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -738,7 +747,16 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "does signal what"
+      "event_signature": "does signal what",
+      "source_description": "What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com",
+      "chatgpt_summary": "Kalkine Media’s August 20 analysis interprets Sonic Healthcare’s diagnostic-services performance as a broad-based recovery supported by testing volumes, specialty diagnostics and operating leverage rather than a one-off product event. The article says pathology activity strengthened across geographies, with general-practitioner referrals and higher-value specialized testing contributing to demand. It also argues that earnings per share grew faster than revenue because Sonic was able to absorb higher activity without proportionate growth in its cost base, while genomics, molecular testing and other specialized services continued to outpace routine testing. Sonic’s FY2026 results released the same day provide the quantitative context: revenue rose 13% to A$10.867 billion, organic revenue grew 5%, underlying EBITDA increased 11% to A$1.933 billion, underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 Australian cents. Advanced diagnostics also grew strongly, including 15% growth at Sonic Genetics in Australia, 12% at Biovis in Germany and 16% organic growth in the U.S. advanced-diagnostics business. Management continues to prioritize pathology and radiology expansion, acquisition integration, the U.S. operating review and digital modernization. The Kalkine article does not announce a new acquisition, product approval or contract; it reads the FY2026 performance as evidence that scale and a richer diagnostic mix are supporting earnings growth.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T12:39:40+05:30",
+      "summary_evidence": [
+        "https://kalkinemedia.com/au/stocks/healthcare/what-does-sonic-healthcare-asxshl-signal-on-diagnostics",
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf"
+      ]
     },
     {
       "id": "3d741f5699ae7dd941ee",
@@ -917,7 +935,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmozNEtXb3NFemxWOE1nWUFJVXBTbV94X2ExT3NEcmZOTDM1N1Q0ZWhCWnlZc0hacUlhVkRkalUybVhnWHBhd184RlpMbGxtRkdNSTM2TDJtb1VaYjVQb0tWTWtzS2lMWnBtcHo1aWxxdE1uenlyRXdfYlo1VDFSbGNudEx2eTE2V3RTaWR2OFJNeFpuVndjVDZzeVgwaGdLOUVEdG03QnNncHF1WTI3UGt3?oc=5",
-      "description": "Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up; Shares Fall 7% marketscreener.com",
+      "description": "Sonic Healthcare’s official FY2026 results confirm the financial increase described in the queued MarketScreener item. Revenue for the year ended June 30, 2026 was A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. Underlying EBITDA rose 11% to A$1.933 billion, underlying net profit after tax increased 17% to A$621 million and underlying earnings per share rose 14% to 125.6 Australian cents. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Sonic declared a final dividend of A$0.63 per share, 60% franked, taking total FY2026 dividends to A$1.08 per share. Management highlighted integration of the LADR laboratory group in Germany, continued acquisition synergies and growth in advanced diagnostics. Sonic Genetics in Australia grew 15%, Biovis in Germany grew 12% and the U.S. advanced-diagnostics business grew 16% organically. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of annual back-office transformation costs. Management expects about A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies, while underlying group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
       "source": "marketscreener.com",
       "source_url": "https://www.marketscreener.com",
       "source_domain": "marketscreener.com",
@@ -940,7 +958,16 @@
         }
       ],
       "coverage_count": 2,
-      "event_signature": "2026 earnings fiscal revenue underlying"
+      "event_signature": "2026 earnings fiscal revenue underlying",
+      "source_description": "Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up; Shares Fall 7% marketscreener.com",
+      "chatgpt_summary": "Sonic Healthcare’s official FY2026 results confirm the financial increase described in the queued MarketScreener item. Revenue for the year ended June 30, 2026 was A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. Underlying EBITDA rose 11% to A$1.933 billion, underlying net profit after tax increased 17% to A$621 million and underlying earnings per share rose 14% to 125.6 Australian cents. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Sonic declared a final dividend of A$0.63 per share, 60% franked, taking total FY2026 dividends to A$1.08 per share. Management highlighted integration of the LADR laboratory group in Germany, continued acquisition synergies and growth in advanced diagnostics. Sonic Genetics in Australia grew 15%, Biovis in Germany grew 12% and the U.S. advanced-diagnostics business grew 16% organically. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of annual back-office transformation costs. Management expects about A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies, while underlying group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T12:39:40+05:30",
+      "summary_evidence": [
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/CEO/Financial_and_Operational_Review_30_June_2026.pdf"
+      ]
     },
     {
       "id": "6ef40a506d49c49ae796",
@@ -1354,7 +1381,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
-      "description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com",
+      "description": "Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -1371,7 +1398,17 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "broadens deals reach"
+      "event_signature": "broadens deals reach",
+      "source_description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com",
+      "chatgpt_summary": "Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T12:39:40+05:30",
+      "summary_evidence": [
+        "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
+        "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
+      ]
     },
     {
       "id": "6a1a472bbed068f33892",
@@ -2094,44 +2131,6 @@
       "event_signature": "appointment colorado springs"
     },
     {
-      "id": "de3ccea5b8a237b9f3c9",
-      "company": "Labcorp",
-      "title": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
-      "description": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and clinical-laboratory workflows.",
-      "source": "The Dermatology Digest",
-      "source_url": "https://thedermdigest.com",
-      "source_domain": "thedermdigest.com",
-      "published_at": "2026-08-10T18:14:33+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Dermatology Digest",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
-          "domain": "thedermdigest.com",
-          "published_at": "2026-08-10T18:14:33+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-10T19:06:57+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "advanced approves companion diagnostic fda here know melanoma test what",
-      "source_description": "US FDA Approves LabCorp’s Companion Diagnostic Test for Advanced Melanoma: Here’s What To Know The Dermatology Digest",
-      "chatgpt_summary": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and clinical-laboratory workflows.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
       "id": "26e34857f08ccef9e101",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
@@ -2407,6 +2406,36 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
       ]
+    },
+    {
+      "id": "868654c81234f2674032",
+      "company": "Labcorp",
+      "title": "FDA Approves Labcorp Companion Diagnostic for Advanced Melanoma",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
+      "description": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and…",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-08-10T07:00:00+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
+        },
+        {
+          "name": "The Dermatology Digest",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
+          "domain": "thedermdigest.com",
+          "published_at": "2026-08-10T18:14:33+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "advanced approves companion diagnostic fda melanoma"
     },
     {
       "id": "c29d4bd11fd2989f4864",
@@ -3983,9 +4012,21 @@
           "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GX0E0dnEwQS1Xa0pWLXZWLWdLaWJsd0t0REhwaHF4d0tIaDJqQmZUUFg3UUdIR3N3MjlFVFdUaTNjakhYVHJjN0NadUMxWno3N1Y1Z2gtb2wxVXM?oc=5",
           "domain": "finance.biggo.com",
           "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXZuZktEdnNJcVl2ZmxxQTR5ZlVMWm94bzFDSEZ4MHdhOFVZa29ibnJ6QmkxZGJtWlBrN2xpZVNVMTlSTE02RnI2cnBrQjNpdk9iMk94ckFPQklGWmgxSGZnVURINFZ0MktHS2o5Nkc3alRIUmhYREZFbzdadF9IaDJmS3NHR3pfdlVEZ2NaWmM1UkUwRTMtRXN3d003SXpGTTIwSzkxQV9rYkZMVndmaFJ0cGxQSU45ZTRrdC1oV0lTSW1BTTZSeXZlMmpmMGM?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlhBUG5GLW9rQlBCcy1kYjN5cm14RnQweHJhTU9oVElHX3NfcWd1Tldtckg2Zndjd1VvOHp6alpDenF2bVJabVcyM3RMWEwtR0Y0ZmVfOWl5WGNDNXVGZ2dOeUZwb21VLURlZzRYMnB1akdveW5STUM4S1JjVlctZ3lOOVlkTFFhNy1obWdqWW9TcEZMVnhxZk4wVmloV2FPcGM0WjNLVWt4emJmdjBRNUhvb1BWZlEwNW0wQ2pRSDg0dHZt?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-08-03T07:00:00+00:00"
         }
       ],
-      "coverage_count": 35,
+      "coverage_count": 37,
       "event_signature": "earnings expect what",
       "source_description": "Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance Singapore",
       "chatgpt_summary": "Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.",
@@ -4001,7 +4042,7 @@
       "company": "Labcorp",
       "title": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5",
-      "description": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. Labcorp says the offering builds on capabilities from Labcorp Genetics and Invitae and expands its OnDemand portfolio from biomarker testing into hereditary genetic risk assessment. The company cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
+      "description": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
       "source": "HIT Consultant",
       "source_domain": "news.google.com",
       "published_at": "2026-07-27T21:44:21+00:00",
@@ -4019,7 +4060,7 @@
       "coverage_count": 1,
       "event_signature": "100 actionable conditions genetic health launches marker ondemand panel",
       "source_description": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net",
-      "chatgpt_summary": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. Labcorp says the offering builds on capabilities from Labcorp Genetics and Invitae and expands its OnDemand portfolio from biomarker testing into hereditary genetic risk assessment. The company cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
+      "chatgpt_summary": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
       "summary_provider": "ChatGPT Scheduled Task",
       "summary_verification": "verified",
       "summary_updated_at": "2026-08-12T00:35:10+05:30",
@@ -6328,10 +6369,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 13,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-25T12:17:00+05:30",
-  "next_update_display": "25 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-25T18:17:00+05:30",
+  "next_update_display": "25 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

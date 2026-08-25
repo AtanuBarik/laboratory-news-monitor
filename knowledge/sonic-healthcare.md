@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 25 Aug 2026, 9:02 AM IST
+- **Repository generated:** 25 Aug 2026, 12:57 PM IST
 - **Distinct events in this file:** 20
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -63,7 +63,7 @@
 - **Sources:**
   - kalkinemedia.com: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5
 
-**Feed description:** What Does Sonic Healthcare (ASX:SHL) Signal on Diagnostics? kalkinemedia.com
+**Feed description:** Kalkine Media’s August 20 analysis interprets Sonic Healthcare’s diagnostic-services performance as a broad-based recovery supported by testing volumes, specialty diagnostics and operating leverage rather than a one-off product event. The article says pathology activity strengthened across geographies, with general-practitioner referrals and higher-value specialized testing contributing to demand. It also argues that earnings per share grew faster than revenue because Sonic was able to absorb higher activity without proportionate growth in its cost base, while genomics, molecular testing and other specialized services continued to outpace routine testing. Sonic’s FY2026 results released the same day provide the quantitative context: revenue rose 13% to A$10.867 billion, organic revenue grew 5%, underlying EBITDA increased 11% to A$1.933 billion, underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 Australian cents. Advanced diagnostics also grew strongly, including 15% growth at Sonic Genetics in Australia, 12% at Biovis in Germany and 16% organic growth in the U.S. advanced-diagnostics business. Management continues to prioritize pathology and radiology expansion, acquisition integration, the U.S. operating review and digital modernization. The Kalkine article does not announce a new acquisition, product approval or contract; it reads the FY2026 performance as evidence that scale and a richer diagnostic mix are supporting earnings growth.
 
 ## 6. Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19
 
@@ -137,7 +137,7 @@
   - marketscreener.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmozNEtXb3NFemxWOE1nWUFJVXBTbV94X2ExT3NEcmZOTDM1N1Q0ZWhCWnlZc0hacUlhVkRkalUybVhnWHBhd184RlpMbGxtRkdNSTM2TDJtb1VaYjVQb0tWTWtzS2lMWnBtcHo1aWxxdE1uenlyRXdfYlo1VDFSbGNudEx2eTE2V3RTaWR2OFJNeFpuVndjVDZzeVgwaGdLOUVEdG03QnNncHF1WTI3UGt3?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXFPem5NcVg2bUctNWtwZmVRYVdwbkNaUVJzRjRmMU1SM05PM0JGVThieHZvVUxmX2ZOYlVxcTc3YVpfcjRUUTV2d1Yydkl2T1d5T0MwT1JqRVBqNU9ZbGtTT2c0emlJdVdaTWx6R2FBMHN6LXRkQm9NUzdUNmJrckhGYUJvSXRqWVpWRHdsdldhM25nekpUTjdHdW9INVM3Yy0zdWJCb05WeTBKQ01xOXBLV19iNkEyeF9EdXJwLWtDanpF?oc=5
 
-**Feed description:** Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up; Shares Fall 7% marketscreener.com
+**Feed description:** Sonic Healthcare’s official FY2026 results confirm the financial increase described in the queued MarketScreener item. Revenue for the year ended June 30, 2026 was A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. Underlying EBITDA rose 11% to A$1.933 billion, underlying net profit after tax increased 17% to A$621 million and underlying earnings per share rose 14% to 125.6 Australian cents. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Sonic declared a final dividend of A$0.63 per share, 60% franked, taking total FY2026 dividends to A$1.08 per share. Management highlighted integration of the LADR laboratory group in Germany, continued acquisition synergies and growth in advanced diagnostics. Sonic Genetics in Australia grew 15%, Biovis in Germany grew 12% and the U.S. advanced-diagnostics business grew 16% organically. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of annual back-office transformation costs. Management expects about A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies, while underlying group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.
 
 ## 12. Sonic Healthcare share price in focus on FY26 profit jump and digital push
 
@@ -161,7 +161,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5
 
-**Feed description:** Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com
+**Feed description:** Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.
 
 ## 14. Sonic Healthcare Diagnostic Services Market Outlook
 
