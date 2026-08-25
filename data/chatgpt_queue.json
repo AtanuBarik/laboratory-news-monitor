@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T21:34:31.880376+05:30",
-  "generated_at_display": "25 Aug 2026, 9:34 PM IST",
+  "generated_at": "2026-08-26T01:27:58.431408+05:30",
+  "generated_at_display": "26 Aug 2026, 1:27 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 50,
+  "remaining_unsummarized_count": 53,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,44 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aebd1c26176c4525ccb3",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "List of 33 Acquisitions by LabCorp (Aug 2026)",
+      "source": "Tracxn",
+      "description": "List of 33 Acquisitions by LabCorp (Aug 2026) Tracxn",
+      "published_at": "2026-08-02T07:00:00+00:00",
+      "published_display": "02 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
+      "sources": [
+        {
+          "name": "Tracxn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08db6cdb9f2af816df45",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
+      "source": "Fierce Biotech",
+      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus Fierce Biotech",
+      "published_at": "2026-08-25T17:22:48+00:00",
+      "published_display": "25 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5"
         }
       ]
     },
@@ -104,6 +142,25 @@
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b33a6039ee07b55c0ae5",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
+      "source": "Barchart.com",
+      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Barchart.com",
+      "published_at": "2026-08-25T15:52:43+00:00",
+      "published_display": "25 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
+      "sources": [
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5"
         }
       ]
     },
@@ -546,91 +603,6 @@
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "94b0bb8fd0cc2c893f57",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
-      "source": "roi-nj.com",
-      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-      "sources": [
-        {
-          "name": "roi-nj.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4182f5e29fb587888231",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com",
-      "source": "Investing.com Canada",
-      "description": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "published_display": "29 Jul 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5"
-        },
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQek5vMXVwVm9uLW1XTm9qQmg0aVRNMmpKSEVnSFhOc0Y2aG1VcW0wRWNERDNEUXV2ZGFEY19hYVIwZU8yQ3FVa3VJSmxwOWt2amV5d3ZUQXFhN3RvNGtzZTFkZWstLXhOQk9sbzl4QWg5T3o2MTN3eF8yVXFGNTI0YjNFT1NjZ29EVFloVllkRGpVcmN3YVkxLXczQnV1WVQ2NlZWaVBtS0hCcjhLVGhyNHRCWG1nV2c?oc=5"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzFsUkFuMVhJWUNfR2FQZ0xuTzdJYWxrLTlDemtPQzM2bWJfT1BLLVhrUEJnZkxoYVFIWkd6ZGpwbG1TS3E0emkxaENVODYwRTlhMHhYSXE2VEVNU2dNd1JPLTBwNHQ5TWhrQ0xvQTdCWHNwOENIVzhETUNGbWZtMUpfRkVDSmU1al9JejFFaE1CODREeWU5NnZidnJoU04ySFI3RnhFSTFxSFFaS0o5azNEb3FqXzRRbDdmSg?oc=5"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2ktNHBjb3ZzaE8zS285WW5iRkNIUUM3NThNUjBGRlJGYzRyOVZkQlROeS1PYVFLMGhrTUZGNjQ1ZHl1a3ZRTnp3TmhUQ0FDaVRteVRqUUd5TXBnZ1lSc2p3OGQ4RDUzZjVWY2RHRmlObVYxVDlBdWtvemV0Rkh3M2h2MERXc1ltdjRDLVJXLVF4V3ZtX3ExTG5RUUtxX1BPNHhwNTdOMzN3cGxJUEh5b1ZNTVhuR28?oc=5"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbU5xOHlyTVhJOXpwZFRTRU55ckJPZXB3cXdjRGVBSEdkSWJzbV9pYmFvNXBzdndMZ090Tzczbms1WFpHYTI1MjdjaXdjeW85YnRjNHI5QlNkVjREWDdfdUxid085emtfYlZCd0h0VDczQkhpQ3pJNGlwNlpSV3gxM3FRNjgwMFg1c1pSaDhZZTI5WEF6cFFCQlpiLWdScThEVW9tbGp4N3lQWmZlYTBqdTE1VTZiak0?oc=5"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHpwTUVHSkpxVmItbmtkdXpDNDRVekliendzOTFEX1BZaWFEenRoMkpCMXhiNFRFT3RVSmVqV2plTm9BY3V1ZkNBQ0VnWnpURWp1ZEJNbGZMQkVoYVVvajVnamIzVm1yMDd5YmZwVGtkTmdkQVdTQnpBVXU5emFLVXk1clUxdWd1N09lUndLbDQxODJvNGRxU0FndkR3YnNMNzRHNnVwdXlVcWRmRnZWb3ZwcUdRNUMxUFRMcTRxMUdOcmZVZXdr?oc=5"
-        },
-        {
-          "name": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLS1ZMENUQzBvVHhLb3ZXYk1XOTMyZEQzV2lmVF9GcDRXMjM3WkM2NFJ1SHJ5YnlaSXBSRDF6SUVmUmtuRGlDbWJadU9ienBoYzRKVGs4U09VbkZyMXVtRE9ScWR4dTJYZkFWTy1lZHRXMm5RU0kxLTFiVUhxZ0tJVXp3a0lmdU5xMjZzN013RHNFZzhnNVFlWEV6NkRtSVlfdnFZMEdDSE5IcEVyN3p3OENTWUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "62bbf9d01e537be1d528",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250",
-      "source": "富途牛牛",
-      "description": "J.P. Morgan Maintains Quest Diagnostics(DGX.US) With Hold Rating, Raises Target Price to $250 news.futunn.com",
-      "published_at": "2026-07-28T12:33:00+00:00",
-      "published_display": "28 Jul 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5",
-      "sources": [
-        {
-          "name": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdk9QTi15bE1oTlhqN0xtNjVNbENyWnF5WUYzSUpCNnZMcHhPUHJTY2RHMUhIMHBTdE5Rc19JVnU0ZkhoU0RTX29TaDBMdmtZWHI4THVLdXM4VGc4VnNDQ2h6UWc5Z2U5WkdHWU1iSlBHR2VkRFpqQ1BxVlFiaGladExhWTVFcDdqRUlLVF9aaXpFUTdnMUJubk5mdVFIc091LV9PdzFJM1VXeXpm?oc=5"
-        },
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcV9XWnNMamk4ZXJIZWhXVUlGTml1LVZ1ZlA2Vm9NY2N0cElRU3hjd0xiblRqQXp6MWMtZGxqb1drQlRISmpzLWZ6czhsQjR4QmtrQ215ck1LQm5IQjRsemdqMk81UFo4NzZLdmE1NXIyQVY5dDFNc2laNGxIdGJnXzdyWmtONmtaM1JqTXhtYlFILURfNUh5LVd4Q004bzY5SEduQm5YRUVLWG8xQ1phVHJ2STRxbTZRM2F3?oc=5"
         }
       ]
     }

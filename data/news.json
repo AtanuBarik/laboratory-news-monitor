@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-08-25T20:56:30.882416+05:30",
-  "generated_at_display": "25 Aug 2026, 8:56 PM IST",
-  "item_count": 168,
-  "raw_relevant_item_count": 349,
+  "generated_at": "2026-08-26T01:27:55.215362+05:30",
+  "generated_at_display": "26 Aug 2026, 1:27 AM IST",
+  "item_count": 171,
+  "raw_relevant_item_count": 351,
   "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "08db6cdb9f2af816df45",
+      "company": "Labcorp",
+      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
+      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus Fierce Biotech",
+      "source": "Fierce Biotech",
+      "source_url": "https://www.fiercebiotech.com",
+      "source_domain": "fiercebiotech.com",
+      "published_at": "2026-08-25T17:22:48+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-08-25T17:22:48+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "find form hepatitis launches most patients severe test virus"
+    },
+    {
+      "id": "b33a6039ee07b55c0ae5",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
+      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Barchart.com",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "source_domain": "barchart.com",
+      "published_at": "2026-08-25T15:52:43+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-08-25T15:52:43+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bearish bullish stock street wall"
+    },
     {
       "id": "eeabcbf906af0fc26fa9",
       "company": "Labcorp",
@@ -3182,6 +3230,30 @@
         "https://docs.multiples.vc/public-comps/quest-diagnostics-valuation-multiples",
         "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000015/dgx-20251231.htm"
       ]
+    },
+    {
+      "id": "aebd1c26176c4525ccb3",
+      "company": "Labcorp",
+      "title": "List of 33 Acquisitions by LabCorp (Aug 2026)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
+      "description": "List of 33 Acquisitions by LabCorp (Aug 2026) Tracxn",
+      "source": "Tracxn",
+      "source_url": "https://tracxn.com",
+      "source_domain": "tracxn.com",
+      "published_at": "2026-08-02T07:00:00+00:00",
+      "published_display": "02 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Tracxn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
+          "domain": "tracxn.com",
+          "published_at": "2026-08-02T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisitions aug list"
     },
     {
       "id": "e6a19feb628850b33858",
@@ -6453,10 +6525,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 10,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-26T00:17:00+05:30",
-  "next_update_display": "26 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-26T06:17:00+05:30",
+  "next_update_display": "26 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
