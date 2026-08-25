@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-08-25T14:35:25.393410+05:30",
-  "generated_at_display": "25 Aug 2026, 2:35 PM IST",
-  "item_count": 166,
-  "raw_relevant_item_count": 347,
-  "duplicates_merged": 95,
+  "generated_at": "2026-08-25T20:56:30.882416+05:30",
+  "generated_at_display": "25 Aug 2026, 8:56 PM IST",
+  "item_count": 168,
+  "raw_relevant_item_count": 349,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "eeabcbf906af0fc26fa9",
+      "company": "Labcorp",
+      "title": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5",
+      "description": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-08-25T15:10:09+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-25T15:10:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "detection earlier hepatitis launches reflex testing"
+    },
+    {
+      "id": "4dd0048daf1f9d591dda",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
+      "description": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI",
+      "source": "Intellectia AI",
+      "source_url": "https://intellectia.ai",
+      "source_domain": "intellectia.ai",
+      "published_at": "2026-08-25T13:05:49+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
+          "domain": "intellectia.ai",
+          "published_at": "2026-08-25T13:05:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 baird conference global present"
+    },
     {
       "id": "85bf149a7066fde4209d",
       "company": "Quest Diagnostics",
@@ -82,9 +130,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
           "domain": "pluang.com",
           "published_at": "2026-08-24T13:20:08+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFoNnJRRHdXZHhfLTc5d0tza19qNW91cjNRZ3Q1aExZRFNCczZiVXVNbXI3aENXUzBvbko1ckJ6cEtBbDJBejYzaFZuRjRQSWw1dzhNZTRMZ1J6QWwtLWNvZVpaczMyRGt6T1daVXVENWlVLXp5RUIxQlR5dTN0ZEFudUowczdmeW9vZ1B6N21WWDdQUGFnYURSRG1maWZBRV80?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-25T13:49:18+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "cfo discuss strate",
       "source_description": "Quest Diagnostics CFO to discuss company strate... Pluang",
       "chatgpt_summary": "Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.",
@@ -6399,10 +6453,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 11,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-25T18:17:00+05:30",
-  "next_update_display": "25 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-26T00:17:00+05:30",
+  "next_update_display": "26 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
