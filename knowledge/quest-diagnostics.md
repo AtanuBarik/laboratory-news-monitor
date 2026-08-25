@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 25 Aug 2026, 12:57 PM IST
+- **Repository generated:** 25 Aug 2026, 2:35 PM IST
 - **Distinct events in this file:** 87
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -435,12 +435,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Aug 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Vinanet: https://news.google.com/rss/articles/CBMisgFBVV95cUxORGNyZVJEN2lwaFNRd0ROZngzVlIyWmIxVVNtcUlRLUs4RFRDelNiTVNRNG1pb0RNUkEtZ2RsVVJ3Mml0VlA2aTZQWUtJQnlKSzk4NW1BMXZTNHFONFYzWG9XemlHV0NzRk95Q2Q5RXlncTM1Ykp1RnN3a1RWcWxfR2h2cnAyTWpIZDdEVTZDLTI0LUY2V2I3aEhKb2RoWG05ZWhjLWF5RHZyaWJZalBwOE1B?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmRjREprTThITzN0QV91NFBlVnJURHB5R2VucG13dXFxNGh2MXF1QVpyMElGQnJzSDQwQWVGa1hLOEdYVXhPNG85LXRBRm0wdVhZcERRQWRsX0RWYk9tbm1kY3RvQ3ptZjRhbWM5NnFBRHg1b2JQQmMxbV9hdVQtX0gxUnlqd0NENGxMLWZXTWNwaUNMVVVhR0NSNEsxY3l2amhnUDVqd2hOWldQVmJxcUVxanJEUQ?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Edges Higher as Diagnostic Demand Remains Steady - Stop Hunt Vinanet
+**Feed description:** Quest Diagnostics (DGX) Edges Higher as Diagnostic Demand Remains Steady - ALMA Signal dars.gov.et
 
 ## 36. Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals
 
