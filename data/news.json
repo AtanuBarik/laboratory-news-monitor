@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T09:10:52.367279+05:30",
-  "generated_at_display": "26 Aug 2026, 9:10 AM IST",
+  "generated_at": "2026-08-26T14:42:42.562209+05:30",
+  "generated_at_display": "26 Aug 2026, 2:42 PM IST",
   "item_count": 173,
-  "raw_relevant_item_count": 355,
-  "duplicates_merged": 98,
+  "raw_relevant_item_count": 351,
+  "duplicates_merged": 97,
   "failures": [],
   "items": [
     {
@@ -384,7 +384,7 @@
       "source_domain": "investing.com",
       "published_at": "2026-08-24T11:18:21+00:00",
       "published_display": "24 Aug 2026",
-      "category": "Product & Services",
+      "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
         {
@@ -407,19 +407,25 @@
       ]
     },
     {
-      "id": "b7ef373b7be9a0dd9f1f",
+      "id": "75aa9000c39c9d39c5b6",
       "company": "Labcorp",
       "title": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNXBBRHhzazZ2eXJtejd1MTJ2X0hxZ2xOZ2puVVE0MEJMYUEtQVpQdnduendhZUR3Y0szUjIzcHVnd3k4aGhyTFBCUXZ0TTRWbDlJdFJNWlVaOXhGbnZfNFk5Y3RkSzZ1ZU5mMHhGd29iLXdfMi1SdEotM016X1NTTmlLS001M1ZnNlNXazFnMmttR1doYmRfM0pmTzlUVlVtZkt5dTl1ZWZ2VEN4WUI4N0dSMVBwZTlUQnlnOFlxWTRxLWVpTlBNSmNkRjI0dWt6aHhBR1pnRWFPS0hqbTF1UGtsbkpPdkdCZkFYTTBIQlprQWxmU2xid0NtVDg4ZjFUS1JpZHY5UEZSM3ZKRC10dW9B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "description": "Labcorp said it will make Roche’s FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding its Alzheimer’s disease testing portfolio into a standardized single-biomarker assay for both primary and specialty care. The test is intended for people age 55 and older with signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. The FDA-cleared assay uses the same clinically validated cutoffs in primary and specialty settings and reports positive, intermediate or negative results to help assess the likelihood of amyloid pathology. Labcorp describes the test as a minimally invasive option with performance comparable to cerebrospinal-fluid and PET-based assessment when used in an appropriate clinical evaluation. Once a clinician orders the test, blood can be collected in the physician’s office or at more than 2,200 Labcorp patient service centers. The company plans nationwide availability in the coming months. Elecsys pTau-217 will extend a neurodegenerative-disease menu that already includes Roche’s FDA-cleared Elecsys pTau-181 and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. Labcorp emphasizes that the test is not a stand-alone diagnosis and should be interpreted with other clinical information.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-24T11:02:00+00:00",
+      "source": "Sahm",
+      "source_url": "https://www.sahmcapital.com",
+      "source_domain": "sahmcapital.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
+          "domain": "sahmcapital.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        },
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNXBBRHhzazZ2eXJtejd1MTJ2X0hxZ2xOZ2puVVE0MEJMYUEtQVpQdnduendhZUR3Y0szUjIzcHVnd3k4aGhyTFBCUXZ0TTRWbDlJdFJNWlVaOXhGbnZfNFk5Y3RkSzZ1ZU5mMHhGd29iLXdfMi1SdEotM016X1NTTmlLS001M1ZnNlNXazFnMmttR1doYmRfM0pmTzlUVlVtZkt5dTl1ZWZ2VEN4WUI4N0dSMVBwZTlUQnlnOFlxWTRxLWVpTlBNSmNkRjI0dWt6aHhBR1pnRWFPS0hqbTF1UGtsbkpPdkdCZkFYTTBIQlprQWxmU2xid0NtVDg4ZjFUS1JpZHY5UEZSM3ZKRC10dW9B?oc=5",
@@ -439,17 +445,8 @@
           "published_at": "2026-08-24T13:17:10+00:00"
         }
       ],
-      "coverage_count": 3,
-      "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test",
-      "source_description": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings PR Newswire",
-      "chatgpt_summary": "Labcorp said it will make Roche’s FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding its Alzheimer’s disease testing portfolio into a standardized single-biomarker assay for both primary and specialty care. The test is intended for people age 55 and older with signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. The FDA-cleared assay uses the same clinically validated cutoffs in primary and specialty settings and reports positive, intermediate or negative results to help assess the likelihood of amyloid pathology. Labcorp describes the test as a minimally invasive option with performance comparable to cerebrospinal-fluid and PET-based assessment when used in an appropriate clinical evaluation. Once a clinician orders the test, blood can be collected in the physician’s office or at more than 2,200 Labcorp patient service centers. The company plans nationwide availability in the coming months. Elecsys pTau-217 will extend a neurodegenerative-disease menu that already includes Roche’s FDA-cleared Elecsys pTau-181 and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. Labcorp emphasizes that the test is not a stand-alone diagnosis and should be interpreted with other clinical information.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-offer-first-fda-cleared-blood-test-detect-alzheimers",
-        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
-      ]
+      "coverage_count": 4,
+      "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
       "id": "90e213eccfc396c44dfd",
@@ -6585,10 +6582,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 8,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-26T12:17:00+05:30",
-  "next_update_display": "26 Aug 2026, 12:17 PM IST",
+  "next_update_at": "2026-08-26T18:17:00+05:30",
+  "next_update_display": "26 Aug 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
