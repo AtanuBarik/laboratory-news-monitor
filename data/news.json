@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-26T01:27:55.215362+05:30",
-  "generated_at_display": "26 Aug 2026, 1:27 AM IST",
-  "item_count": 171,
-  "raw_relevant_item_count": 351,
-  "duplicates_merged": 96,
+  "generated_at": "2026-08-26T09:10:52.367279+05:30",
+  "generated_at_display": "26 Aug 2026, 9:10 AM IST",
+  "item_count": 173,
+  "raw_relevant_item_count": 355,
+  "duplicates_merged": 98,
   "failures": [],
   "items": [
     {
@@ -35,7 +35,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
-      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Barchart.com",
+      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Yahoo Finance",
       "source": "Barchart.com",
       "source_url": "https://www.barchart.com",
       "source_domain": "barchart.com",
@@ -49,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
           "domain": "barchart.com",
           "published_at": "2026-08-25T15:52:43+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHEtVklrV05VV3NZSGlFTDdITngyRVY1WFdZaVFfMGNaSy0xdEMxQWpfTzhMaE5mVWxucnRvM2lXWXgwT3hNMHdxemdSb3NRZ2UxbW0taXNaeFd1SEFERC15T0FUTkhFaU1sWmF4T0MwWWI0aG1RLXZaWmxEX0hRcURReFQ0QkxTbmJELUJlUVRhT1ZzdkwwLTBkcGIxRHN6M2c?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-25T15:52:43+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "bearish bullish stock street wall"
     },
     {
@@ -101,6 +107,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 baird conference global present"
+    },
+    {
+      "id": "83183b5bd6ffdfb7313d",
+      "company": "Labcorp",
+      "title": "Should You Continue to Hold Labcorp Stock in Your Portfolio?",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
+      "description": "Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-08-25T12:32:57+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-08-25T12:32:57+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-08-25T13:20:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "continue hold portfolio should stock you your"
     },
     {
       "id": "85bf149a7066fde4209d",
@@ -1646,6 +1682,30 @@
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026",
         "https://ir.labcorp.com/news-and-events/presentations"
       ]
+    },
+    {
+      "id": "25c3a5b01e531b65bb0d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Investor Outlook: Analyzing Growth And Potential Upside",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
+      "description": "Quest Diagnostics (DGX) Investor Outlook: Analyzing Growth And Potential Upside DirectorsTalk Interviews",
+      "source": "DirectorsTalk Interviews",
+      "source_url": "https://www.directorstalkinterviews.com",
+      "source_domain": "directorstalkinterviews.com",
+      "published_at": "2026-08-17T09:11:42+00:00",
+      "published_display": "17 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "DirectorsTalk Interviews",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
+          "domain": "directorstalkinterviews.com",
+          "published_at": "2026-08-17T09:11:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analyzing growth investor outlook potential upside"
     },
     {
       "id": "5b7f642cc799a1e44b17",
@@ -6525,10 +6585,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 10,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-26T06:17:00+05:30",
-  "next_update_display": "26 Aug 2026, 6:17 AM IST",
+  "next_update_at": "2026-08-26T12:17:00+05:30",
+  "next_update_display": "26 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
