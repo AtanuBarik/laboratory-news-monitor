@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T22:08:31.326969+05:30",
-  "generated_at_display": "26 Aug 2026, 10:08 PM IST",
+  "generated_at": "2026-08-28T07:41:18.229625+05:30",
+  "generated_at_display": "28 Aug 2026, 7:41 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 58,
+  "remaining_unsummarized_count": 62,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -94,7 +94,7 @@
       "published_at": "2026-08-25T12:32:57+00:00",
       "published_display": "25 Aug 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
       "sources": [
         {
@@ -104,6 +104,10 @@
         {
           "name": "Yahoo Finance Singapore",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5"
         }
       ]
     },
@@ -117,7 +121,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 4,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {
@@ -135,6 +139,10 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0lhdVo4OU1mZUd0UVl1VGxjTW5lLWtoOGI1OHZlVWs3M1dxR2doYmZFV25ZRG93U21tNEdTYUVEQzlJaXlrb0xqRWFSZFpKQWtwSWpaakNaV0tiUmxFcUZSU0NtTkx5b25hcVY5VFdyRmgxQ1VMYzdLMXZldlAzbkNONFh3ZEc1RHJrZFZKdVdCRG41emhYYmtkQXlOc3hRYVJvSWJB?oc=5"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGNNRmFrZ3RteVU0TE9uX0hSRFJweVExMU9uSWNnTVVXaElPV2dpeV9RV1dlX2l5aDRTaWdhUlF1WWo2aGR6YXNBMlpjNXFjLWYyRk1EZEJSQnJwM0RHTUh5M0ZHZlpFa3RYcHE2ODBISlBTRjhiSzVDajdWdWtaM0dDU3lvdDJMQUpFLXY2cVZ1NGRZUGZWYk5zbHJtb1NEQnlGengwc3BlbkcwS0pOdnVwVkpZd1l4Q2ZkX2IzZEJEdWo2RVhfZGRQblJJTUZqY2dpS1lKWHhBcms3dVJGeHp5a29RbGVMdkdmRmJiaXRPVldBc1QwQTRrWFFmcnlSMDYw?oc=5"
         }
       ]
     },
@@ -158,6 +166,25 @@
         {
           "name": "The Dermatology Digest",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a4f4d00d22b27e51d7a1",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Can Sonic Healthcare Rally Further on Profit Growth?",
+      "source": "Kalkine Media",
+      "description": "Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? Kalkine Media",
+      "published_at": "2026-08-27T01:19:00+00:00",
+      "published_display": "27 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5"
         }
       ]
     },
@@ -209,12 +236,97 @@
       "published_at": "2026-07-30T07:00:00+00:00",
       "published_display": "30 Jul 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
       "sources": [
         {
           "name": "The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5473b148b0e029cad6fd",
+      "company": "Labcorp",
+      "category": "Leadership Changes",
+      "title": "Labcorp to Host Investor Day on September 10, 2026",
+      "source": "PR Newswire",
+      "description": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "published_display": "17 Aug 2026",
+      "official_source": false,
+      "coverage_count": 7,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5"
+        },
+        {
+          "name": "Sahm",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZUYzgwTFMyQ2x2dGhsWnRkbGhoelFILTFRWGo5NVc5SXNPUEFuRGI4VzZDcGh4dVB3QmxlMEthWWFOZ0tMUlNzSE1sMWk0azJzNXhlS0NhQTYzMk1tQ0hBVWpZTmhuT2pMbGwxYXljYVpIR3dlM2VITmdualFUM3d5bDgzX2dtdHluYjIzdTJRWVBTTFlERk1TZzlPTVJXMmRN?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUYydnFaUnA0dDlmYVBNc212RHRzMnFVd3ZvWUlSekNfLTcxVHgyY2hHeHFQTVF6UXI4OXhrOFNUV2ZXaElwXzFZdVZScEVUb2tnYjF0em1UdUlfMmx6dlczNEtyaWFRMVYxd2tJcUVWZEtwV3lJVVpiUnA1aFhGUTZRV3hiTHhjUGlHbnU3R1BkX3ZQektBbF9RM0plZEdQUmc?oc=5"
+        },
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5"
+        },
+        {
+          "name": "The AI Journal",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeDRpWTh5NjBrTlhDc0g2YUN4cEZSZmVNT2h5RF9GME9VeXlQX1ZwZGpWdmxWYW9XdjlzdWFtZVJ6b0pwYU9OX0RVazZmaGJYcTM1eWJUTFJRR1ctLVZYYWw4YW82YjN3dVp5YzFJeVpoZkI1RW9oMXl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a579ca93a2b4becd7cbe",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock hits all-time high at 246.06 USD",
+      "source": "Investing.com",
+      "description": "Quest Diagnostics stock hits all-time high at 246.06 USD Investing.com",
+      "published_at": "2026-08-27T14:13:20+00:00",
+      "published_display": "27 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "eaaf783d25e14d44c542",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e",
+      "source": "Ad-hoc-news.de",
+      "description": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e Ad-hoc-news.de",
+      "published_at": "2026-08-27T10:37:48+00:00",
+      "published_display": "27 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5"
         }
       ]
     },
@@ -271,7 +383,7 @@
       "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
       "source": "Intellectia AI",
       "description": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI",
-      "published_at": "2026-08-25T13:05:49+00:00",
+      "published_at": "2026-08-25T00:05:49+00:00",
       "published_display": "25 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -513,6 +625,25 @@
       ]
     },
     {
+      "id": "85ff17beba593f679d02",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns",
+      "source": "Traders Union",
+      "description": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns tradersunion.com",
+      "published_at": "2026-07-31T07:00:00+00:00",
+      "published_display": "31 Jul 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5",
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5"
+        }
+      ]
+    },
+    {
       "id": "90e213eccfc396c44dfd",
       "company": "Labcorp",
       "category": "Financials",
@@ -528,105 +659,6 @@
         {
           "name": "Fortune",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bdc4a693d0cba7b7129",
-      "company": "Labcorp",
-      "category": "Leadership Changes",
-      "title": "Labcorp Colorado Springs Appointment",
-      "source": "Toimihenkilöliitto Erto",
-      "description": "Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto",
-      "published_at": "2026-08-10T18:58:23+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8f53ea5c387cd622e227",
-      "company": "Quest Diagnostics",
-      "category": "Leadership Changes",
-      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
-      "source": "EIN News",
-      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, excl…",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
-      "sources": [
-        {
-          "name": "EIN News",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5"
-        },
-        {
-          "name": "EIN Presswire",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "26e34857f08ccef9e101",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
-      "source": "Mshale",
-      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com",
-      "published_at": "2026-08-10T08:08:47+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
-      "sources": [
-        {
-          "name": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fe4a58a5ec445897fde0",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals",
-      "source": "Traders Union",
-      "description": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals Traders Union",
-      "published_at": "2026-08-05T22:14:20+00:00",
-      "published_display": "05 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c39aae8638adf66e38ac",
-      "company": "Sonic Healthcare",
-      "category": "Other",
-      "title": "Sonic Healthcare draws attention on diagnostics activity",
-      "source": "Kalkine Media",
-      "description": "Sonic Healthcare draws attention on diagnostics activity Kalkine Media",
-      "published_at": "2026-08-04T13:04:00+00:00",
-      "published_display": "04 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5"
         }
       ]
     }

@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 26 Aug 2026, 10:06 PM IST
+- **Repository generated:** 28 Aug 2026, 7:41 AM IST
 - **Distinct events in this file:** 62
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -34,11 +34,12 @@
 - **Company:** Labcorp
 - **Publication date:** 25 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5
 
 **Feed description:** Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research
 
@@ -59,13 +60,14 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMikgJBVV95cUxNNXBBRHhzazZ2eXJtejd1MTJ2X0hxZ2xOZ2puVVE0MEJMYUEtQVpQdnduendhZUR3Y0szUjIzcHVnd3k4aGhyTFBCUXZ0TTRWbDlJdFJNWlVaOXhGbnZfNFk5Y3RkSzZ1ZU5mMHhGd29iLXdfMi1SdEotM016X1NTTmlLS001M1ZnNlNXazFnMmttR1doYmRfM0pmTzlUVlVtZkt5dTl1ZWZ2VEN4WUI4N0dSMVBwZTlUQnlnOFlxWTRxLWVpTlBNSmNkRjI0dWt6aHhBR1pnRWFPS0hqbTF1UGtsbkpPdkdCZkFYTTBIQlprQWxmU2xid0NtVDg4ZjFUS1JpZHY5UEZSM3ZKRC10dW9B?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5
   - Clinical Lab Products: https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0lhdVo4OU1mZUd0UVl1VGxjTW5lLWtoOGI1OHZlVWs3M1dxR2doYmZFV25ZRG93U21tNEdTYUVEQzlJaXlrb0xqRWFSZFpKQWtwSWpaakNaV0tiUmxFcUZSU0NtTkx5b25hcVY5VFdyRmgxQ1VMYzdLMXZldlAzbkNONFh3ZEc1RHJrZFZKdVdCRG41emhYYmtkQXlOc3hRYVJvSWJB?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGNNRmFrZ3RteVU0TE9uX0hSRFJweVExMU9uSWNnTVVXaElPV2dpeV9RV1dlX2l5aDRTaWdhUlF1WWo2aGR6YXNBMlpjNXFjLWYyRk1EZEJSQnJwM0RHTUh5M0ZHZlpFa3RYcHE2ODBISlBTRjhiSzVDajdWdWtaM0dDU3lvdDJMQUpFLXY2cVZ1NGRZUGZWYk5zbHJtb1NEQnlGengwc3BlbkcwS0pOdnVwVkpZd1l4Q2ZkX2IzZEJEdWo2RVhfZGRQblJJTUZqY2dpS1lKWHhBcms3dVJGeHp5a29RbGVMdkdmRmJiaXRPVldBc1QwQTRrWFFmcnlSMDYw?oc=5
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
@@ -153,19 +155,7 @@
 
 **Feed description:** Labcorp (LH) Gains 1.64% to $323.34 as Diagnostics Leader Presses Toward Resistance - Upthrust Pattern vinanet.vn
 
-## 13. Labcorp and NACHC form alliance to boost leader...
-
-- **Company:** Labcorp
-- **Publication date:** 18 Aug 2026
-- **Category:** Leadership Changes
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5
-
-**Feed description:** Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.
-
-## 14. Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health
+## 13. Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health
 
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
@@ -178,11 +168,23 @@
 
 **Feed description:** Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.
 
+## 14. Labcorp and NACHC form alliance to boost leader...
+
+- **Company:** Labcorp
+- **Publication date:** 18 Aug 2026
+- **Category:** Leadership Changes
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5
+
+**Feed description:** Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.
+
 ## 15. Labcorp to hold Investor Day on Sept 10 to disc...
 
 - **Company:** Labcorp
 - **Publication date:** 17 Aug 2026
-- **Category:** Financials
+- **Category:** Leadership Changes
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
@@ -210,9 +212,9 @@
 - **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5
-  - Pluang: https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5
+  - Pluang: https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5
   - Sahm: https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZUYzgwTFMyQ2x2dGhsWnRkbGhoelFILTFRWGo5NVc5SXNPUEFuRGI4VzZDcGh4dVB3QmxlMEthWWFOZ0tMUlNzSE1sMWk0azJzNXhlS0NhQTYzMk1tQ0hBVWpZTmhuT2pMbGwxYXljYVpIR3dlM2VITmdualFUM3d5bDgzX2dtdHluYjIzdTJRWVBTTFlERk1TZzlPTVJXMmRN?oc=5
   - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUYydnFaUnA0dDlmYVBNc212RHRzMnFVd3ZvWUlSekNfLTcxVHgyY2hHeHFQTVF6UXI4OXhrOFNUV2ZXaElwXzFZdVZScEVUb2tnYjF0em1UdUlfMmx6dlczNEtyaWFRMVYxd2tJcUVWZEtwV3lJVVpiUnA1aFhGUTZRV3hiTHhjUGlHbnU3R1BkX3ZQektBbF9RM0plZEdQUmc?oc=5
   - Kalkine Media: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5
@@ -548,10 +550,11 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5
 
 **Feed description:** Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations The Globe and Mail
 
@@ -600,7 +603,7 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Jul 2026
 - **Category:** Financials
-- **Coverage count:** 37
+- **Coverage count:** 38
 - **Official source involved:** No
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5
@@ -640,6 +643,7 @@
   - finance.biggo.com: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GX0E0dnEwQS1Xa0pWLXZWLWdLaWJsd0t0REhwaHF4d0tIaDJqQmZUUFg3UUdIR3N3MjlFVFdUaTNjakhYVHJjN0NadUMxWno3N1Y1Z2gtb2wxVXM?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXZuZktEdnNJcVl2ZmxxQTR5ZlVMWm94bzFDSEZ4MHdhOFVZa29ibnJ6QmkxZGJtWlBrN2xpZVNVMTlSTE02RnI2cnBrQjNpdk9iMk94ckFPQklGWmgxSGZnVURINFZ0MktHS2o5Nkc3alRIUmhYREZFbzdadF9IaDJmS3NHR3pfdlVEZ2NaWmM1UkUwRTMtRXN3d003SXpGTTIwSzkxQV9rYkZMVndmaFJ0cGxQSU45ZTRrdC1oV0lTSW1BTTZSeXZlMmpmMGM?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlhBUG5GLW9rQlBCcy1kYjN5cm14RnQweHJhTU9oVElHX3NfcWd1Tldtckg2Zndjd1VvOHp6alpDenF2bVJabVcyM3RMWEwtR0Y0ZmVfOWl5WGNDNXVGZ2dOeUZwb21VLURlZzRYMnB1akdveW5STUM4S1JjVlctZ3lOOVlkTFFhNy1obWdqWW9TcEZMVnhxZk4wVmloV2FPcGM0WjNLVWt4emJmdjBRNUhvb1BWZlEwNW0wQ2pRSDg0dHZt?oc=5
+  - Quiver Quantitative: https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkd5cVVlVW1YMm5YYW9JbzZDLWdmelZqdnRfZ1Y1eXd3ai1WamprVWh3cWRoSFdTWks3TURoYkhBcThseXY4MzBRazk1bUJNVDhqdWo2ek1HYXB1UzYtb1ZFRWFmTHI5bXl5ay1idWM4b2Z4QUpKcUpVSHZfa05aMktaTm1sM3g2YmJMMno2cw?oc=5
 
 **Feed description:** Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.
 

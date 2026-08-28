@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-08-26T22:06:45.215532+05:30",
-  "generated_at_display": "26 Aug 2026, 10:06 PM IST",
-  "item_count": 174,
-  "raw_relevant_item_count": 356,
-  "duplicates_merged": 98,
+  "generated_at": "2026-08-28T07:41:14.895914+05:30",
+  "generated_at_display": "28 Aug 2026, 7:41 AM IST",
+  "item_count": 177,
+  "raw_relevant_item_count": 359,
+  "duplicates_merged": 101,
   "failures": [],
   "items": [
+    {
+      "id": "a579ca93a2b4becd7cbe",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 246.06 USD",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 246.06 USD Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-27T14:13:20+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-27T14:13:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "246 all high hits stock time usd"
+    },
+    {
+      "id": "eaaf783d25e14d44c542",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5",
+      "description": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-27T10:37:48+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-27T10:37:48+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "buying edges fresh higher institutional investors respond steady stock"
+    },
+    {
+      "id": "a4f4d00d22b27e51d7a1",
+      "company": "Sonic Healthcare",
+      "title": "Can Sonic Healthcare Rally Further on Profit Growth?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
+      "description": "Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-27T01:19:00+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-27T01:19:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can further growth profit rally"
+    },
     {
       "id": "3e1e4f3db6aa38de16d8",
       "company": "Quest Diagnostics",
@@ -115,30 +187,6 @@
       "event_signature": "detection earlier hepatitis launches reflex testing"
     },
     {
-      "id": "4dd0048daf1f9d591dda",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-      "description": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI",
-      "source": "Intellectia AI",
-      "source_url": "https://intellectia.ai",
-      "source_domain": "intellectia.ai",
-      "published_at": "2026-08-25T13:05:49+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-          "domain": "intellectia.ai",
-          "published_at": "2026-08-25T13:05:49+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 baird conference global present"
-    },
-    {
       "id": "83183b5bd6ffdfb7313d",
       "company": "Labcorp",
       "title": "Should You Continue to Hold Labcorp Stock in Your Portfolio?",
@@ -163,10 +211,40 @@
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5",
           "domain": "sg.finance.yahoo.com",
           "published_at": "2026-08-25T13:20:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-25T13:20:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "continue hold portfolio should stock you your"
+    },
+    {
+      "id": "4dd0048daf1f9d591dda",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
+      "description": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI",
+      "source": "Intellectia AI",
+      "source_url": "https://intellectia.ai",
+      "source_domain": "intellectia.ai",
+      "published_at": "2026-08-25T00:05:49+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
+          "domain": "intellectia.ai",
+          "published_at": "2026-08-25T00:05:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 baird conference global present"
     },
     {
       "id": "85bf149a7066fde4209d",
@@ -389,9 +467,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-08-24T11:24:00+00:00"
+        },
+        {
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFYtdTlxanIzNlozYUE5aWtsR2tjbEV4dWJLbXVVYVFzdWhnR09QcHpTemh4dWx2SDZZeWRiY1dyNWE4N1NoQzk4eUtaNGdIV3JGYUNpeVYwdTZicEY1SXU3dWRjUVcyMXdPc3NsMnNhVU9VeDBhS1l2Ml8tZV9jZGVzVEN0Rm9LaGl4Z1pzMnEzTldTMEhlU1ZQV3ZBT3dMcXlHUDF2YndNT2JTRlQwRmNXcXlsV0VuTzlHa2NUUmItVkR2VFE?oc=5",
+          "domain": "biobuzz.io",
+          "published_at": "2026-08-26T15:23:09+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "alzheimer assess blood cleared disease fda offer pathology ptau217 roche test",
       "source_description": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology PR Newswire",
       "chatgpt_summary": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
@@ -473,9 +557,15 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0lhdVo4OU1mZUd0UVl1VGxjTW5lLWtoOGI1OHZlVWs3M1dxR2doYmZFV25ZRG93U21tNEdTYUVEQzlJaXlrb0xqRWFSZFpKQWtwSWpaakNaV0tiUmxFcUZSU0NtTkx5b25hcVY5VFdyRmgxQ1VMYzdLMXZldlAzbkNONFh3ZEc1RHJrZFZKdVdCRG41emhYYmtkQXlOc3hRYVJvSWJB?oc=5",
           "domain": "clpmag.com",
           "published_at": "2026-08-24T13:17:10+00:00"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGNNRmFrZ3RteVU0TE9uX0hSRFJweVExMU9uSWNnTVVXaElPV2dpeV9RV1dlX2l5aDRTaWdhUlF1WWo2aGR6YXNBMlpjNXFjLWYyRk1EZEJSQnJwM0RHTUh5M0ZHZlpFa3RYcHE2ODBISlBTRjhiSzVDajdWdWtaM0dDU3lvdDJMQUpFLXY2cVZ1NGRZUGZWYk5zbHJtb1NEQnlGengwc3BlbkcwS0pOdnVwVkpZd1l4Q2ZkX2IzZEJEdWo2RVhfZGRQblJJTUZqY2dpS1lKWHhBcms3dVJGeHp5a29RbGVMdkdmRmJiaXRPVldBc1QwQTRrWFFmcnlSMDYw?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-08-24T11:02:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
@@ -1135,38 +1225,6 @@
       ]
     },
     {
-      "id": "6ef40a506d49c49ae796",
-      "company": "Quest Diagnostics",
-      "title": "Is Quest Diagnostics Still Worth A Look After A 92% Run?",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
-      "description": "Yahoo Finance’s Simply Wall St analysis asks whether Quest Diagnostics’ strong share-price run is justified by projected cash flows rather than reporting a new company operating event. The article says Quest shares had returned 92.2% over three years and 33.4% over the prior year. Its discounted-cash-flow model starts from roughly $1.4 billion of latest-twelve-month free cash flow and estimates intrinsic value near $348 per share, implying about a 30.5% discount to the market price used in the analysis. By contrast, valuation on earnings looks much closer to peers: Quest traded at about 25.2 times earnings versus roughly 25.0 times for the healthcare industry and 25.4 times for the peer group, while Simply Wall St’s modeled fair P/E was about 26.3 times. The site gave Quest a mixed value score of 4 out of 6. The analysis points to expansion of WHOOP Advanced Labs, powered in the U.S. by Quest, and broader access to Galleri testing as potential supports for future testing volumes and cash flow, while emphasizing execution risk around newer partnerships and services. The $348 DCF value, fair-P/E estimate and long-term valuation conclusions are third-party modeling assumptions rather than Quest guidance or reported financial targets.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-20T00:17:00+00:00",
-      "published_display": "20 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-20T00:17:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after look run still worth",
-      "source_description": "Is Quest Diagnostics (DGX) Still Worth A Look After A 92% Run? Yahoo Finance",
-      "chatgpt_summary": "Yahoo Finance’s Simply Wall St analysis asks whether Quest Diagnostics’ strong share-price run is justified by projected cash flows rather than reporting a new company operating event. The article says Quest shares had returned 92.2% over three years and 33.4% over the prior year. Its discounted-cash-flow model starts from roughly $1.4 billion of latest-twelve-month free cash flow and estimates intrinsic value near $348 per share, implying about a 30.5% discount to the market price used in the analysis. By contrast, valuation on earnings looks much closer to peers: Quest traded at about 25.2 times earnings versus roughly 25.0 times for the healthcare industry and 25.4 times for the peer group, while Simply Wall St’s modeled fair P/E was about 26.3 times. The site gave Quest a mixed value score of 4 out of 6. The analysis points to expansion of WHOOP Advanced Labs, powered in the U.S. by Quest, and broader access to Galleri testing as potential supports for future testing volumes and cash flow, while emphasizing execution risk around newer partnerships and services. The $348 DCF value, fair-P/E estimate and long-term valuation conclusions are third-party modeling assumptions rather than Quest guidance or reported financial targets.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-21T18:35:37+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/"
-      ]
-    },
-    {
       "id": "fb4c75abf14335d93875",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare share price in focus on FY26 profit jump and digital push",
@@ -1282,6 +1340,38 @@
       "summary_evidence": [
         "https://ng.investing.com/news/stock-market-news/quest-diagnostics-stock-hits-alltime-high-at-24015-usd-93CH-2667039",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
+    },
+    {
+      "id": "6ef40a506d49c49ae796",
+      "company": "Quest Diagnostics",
+      "title": "Is Quest Diagnostics Still Worth A Look After A 92% Run?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
+      "description": "Yahoo Finance’s Simply Wall St analysis asks whether Quest Diagnostics’ strong share-price run is justified by projected cash flows rather than reporting a new company operating event. The article says Quest shares had returned 92.2% over three years and 33.4% over the prior year. Its discounted-cash-flow model starts from roughly $1.4 billion of latest-twelve-month free cash flow and estimates intrinsic value near $348 per share, implying about a 30.5% discount to the market price used in the analysis. By contrast, valuation on earnings looks much closer to peers: Quest traded at about 25.2 times earnings versus roughly 25.0 times for the healthcare industry and 25.4 times for the peer group, while Simply Wall St’s modeled fair P/E was about 26.3 times. The site gave Quest a mixed value score of 4 out of 6. The analysis points to expansion of WHOOP Advanced Labs, powered in the U.S. by Quest, and broader access to Galleri testing as potential supports for future testing volumes and cash flow, while emphasizing execution risk around newer partnerships and services. The $348 DCF value, fair-P/E estimate and long-term valuation conclusions are third-party modeling assumptions rather than Quest guidance or reported financial targets.",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "published_display": "19 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaHhrV2tGOWVmeWt5blNRbGhYWFNYaXFVUS1RUGJsQ2Npdm50UjI0NXpmZU5rSzVyaXNSdlV4cUQtQnJQa2VlWDBMaWctX0FkYzlsSkt5VzRFdjA4a05yVmdYMnp1WDRmbkFZNlZ2bWJCck9SV2dFLVkyMHVNTEl6RmU2RVQ0dkk4WGQ0V0FtSFE2TVBYQks2S2Q0Z0tJcm8?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-19T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after look run still worth",
+      "source_description": "Yahoo Finance’s Simply Wall St analysis asks whether Quest Diagnostics’ strong share-price run is justified by projected cash flows rather than reporting a new company operating event. The article says Quest shares had returned 92.2% over three years and 33.4% over the prior year. Its discounted-cash-flow model starts from roughly $1.4 billion of latest-twelve-month free cash flow and estimates intrinsic value near $348 per share, implying about a 30.5% discount to the market price used in the analysis. By contrast, valuation on earnings looks much closer to peers: Quest traded at about 25.2 times earnings versus roughly 25.0 times for the healthcare industry and 25.4 times for the peer group, while Simply Wall St’s modeled fair P/E was about 26.3 times. The site gave Quest a mixed value score of 4 out of 6. The analysis points to expansion of WHOOP Advanced Labs, powered in the U.S. by Quest, and broader access to Galleri testing as potential supports for future testing volumes and cash flow, while emphasizing execution risk around newer partnerships and services. The $348 DCF value, fair-P/E estimate and long-term valuation conclusions are third-party modeling assumptions rather than Quest guidance or reported financial targets.",
+      "chatgpt_summary": "Yahoo Finance’s Simply Wall St analysis asks whether Quest Diagnostics’ strong share-price run is justified by projected cash flows rather than reporting a new company operating event. The article says Quest shares had returned 92.2% over three years and 33.4% over the prior year. Its discounted-cash-flow model starts from roughly $1.4 billion of latest-twelve-month free cash flow and estimates intrinsic value near $348 per share, implying about a 30.5% discount to the market price used in the analysis. By contrast, valuation on earnings looks much closer to peers: Quest traded at about 25.2 times earnings versus roughly 25.0 times for the healthcare industry and 25.4 times for the peer group, while Simply Wall St’s modeled fair P/E was about 26.3 times. The site gave Quest a mixed value score of 4 out of 6. The analysis points to expansion of WHOOP Advanced Labs, powered in the U.S. by Quest, and broader access to Galleri testing as potential supports for future testing volumes and cash flow, while emphasizing execution risk around newer partnerships and services. The $348 DCF value, fair-P/E estimate and long-term valuation conclusions are third-party modeling assumptions rather than Quest guidance or reported financial targets.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-21T18:35:37+05:30",
+      "summary_evidence": [
+        "https://finance.yahoo.com/"
       ]
     },
     {
@@ -1405,38 +1495,6 @@
       "event_signature": "323 gains leader pattern presses resistance toward upthrust"
     },
     {
-      "id": "16b5bedc330823c45f3c",
-      "company": "Labcorp",
-      "title": "Labcorp and NACHC form alliance to boost leader...",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
-      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-18T11:23:52+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-18T11:23:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alliance boost form leader nachc",
-      "source_description": "Labcorp and NACHC form alliance to boost leader... Pluang",
-      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
-      ]
-    },
-    {
       "id": "d83eb31ae94cc850e659",
       "company": "Labcorp",
       "title": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health",
@@ -1533,6 +1591,38 @@
       "event_signature": "buy here upgraded why"
     },
     {
+      "id": "16b5bedc330823c45f3c",
+      "company": "Labcorp",
+      "title": "Labcorp and NACHC form alliance to boost leader...",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
+      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-18T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alliance boost form leader nachc",
+      "source_description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
+      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-20T12:33:52+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
+      ]
+    },
+    {
       "id": "d853207c9c70c8b1173f",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
@@ -1577,7 +1667,7 @@
       "source_domain": "pluang.com",
       "published_at": "2026-08-17T12:52:06+00:00",
       "published_display": "17 Aug 2026",
-      "category": "Financials",
+      "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
@@ -1633,35 +1723,59 @@
       ]
     },
     {
-      "id": "39504d5a4346bb44669d",
+      "id": "25c3a5b01e531b65bb0d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Investor Outlook: Analyzing Growth And Potential Upside",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
+      "description": "Quest Diagnostics (DGX) Investor Outlook: Analyzing Growth And Potential Upside DirectorsTalk Interviews",
+      "source": "DirectorsTalk Interviews",
+      "source_url": "https://www.directorstalkinterviews.com",
+      "source_domain": "directorstalkinterviews.com",
+      "published_at": "2026-08-17T09:11:42+00:00",
+      "published_display": "17 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "DirectorsTalk Interviews",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
+          "domain": "directorstalkinterviews.com",
+          "published_at": "2026-08-17T09:11:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analyzing growth investor outlook potential upside"
+    },
+    {
+      "id": "5473b148b0e029cad6fd",
       "company": "Labcorp",
       "title": "Labcorp to Host Investor Day on September 10, 2026",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
       "description": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-17T12:00:00+00:00",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-17T07:00:00+00:00",
       "published_display": "17 Aug 2026",
       "category": "Leadership Changes",
       "official_source": false,
       "sources": [
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-17T12:00:00+00:00"
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-17T07:00:00+00:00"
         },
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
           "domain": "pluang.com",
-          "published_at": "2026-08-17T12:52:06+00:00"
+          "published_at": "2026-08-17T07:00:00+00:00"
         },
         {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
-          "domain": "prnewswire.com",
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
+          "domain": "finance.yahoo.com",
           "published_at": "2026-08-17T12:00:00+00:00"
         },
         {
@@ -1690,40 +1804,7 @@
         }
       ],
       "coverage_count": 7,
-      "event_signature": "2026 day host investor september",
-      "source_description": "Labcorp to Host Investor Day on September 10, 2026 Yahoo Finance",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for September 10 from 9 a.m. to noon ET. The company said Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other senior leaders will use the session to discuss Labcorp’s go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a Q&A. A live webcast will be available through Labcorp Investor Relations beginning at 9 a.m. ET, with a replay and supporting presentation materials to be posted after the event. The release is an event announcement rather than a change to current operating guidance: it does not disclose new long-range growth or margin targets, deal terms, a capital-return change or a product launch. Labcorp had already flagged the September 10 Investor Day on its first-quarter 2026 earnings call, and the Investor Relations presentations page now confirms the webcast date and time. Labcorp says it has nearly 71,000 employees, serves clients in about 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the FDA in 2025, and performs more than 750 million patient tests globally. Investors will need the September presentations for the specific long-term financial and capital-allocation targets.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-18T18:38:49+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026",
-        "https://ir.labcorp.com/news-and-events/presentations"
-      ]
-    },
-    {
-      "id": "25c3a5b01e531b65bb0d",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Investor Outlook: Analyzing Growth And Potential Upside",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
-      "description": "Quest Diagnostics (DGX) Investor Outlook: Analyzing Growth And Potential Upside DirectorsTalk Interviews",
-      "source": "DirectorsTalk Interviews",
-      "source_url": "https://www.directorstalkinterviews.com",
-      "source_domain": "directorstalkinterviews.com",
-      "published_at": "2026-08-17T09:11:42+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "DirectorsTalk Interviews",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
-          "domain": "directorstalkinterviews.com",
-          "published_at": "2026-08-17T09:11:42+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "analyzing growth investor outlook potential upside"
+      "event_signature": "2026 day host investor september"
     },
     {
       "id": "5b7f642cc799a1e44b17",
@@ -3334,24 +3415,24 @@
       "event_signature": "2026 acquisitions aug list"
     },
     {
-      "id": "e6a19feb628850b33858",
+      "id": "85ff17beba593f679d02",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5",
       "description": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns tradersunion.com",
-      "source": "tradersunion.com",
+      "source": "Traders Union",
       "source_url": "https://tradersunion.com",
       "source_domain": "tradersunion.com",
-      "published_at": "2026-07-31T07:24:17+00:00",
+      "published_at": "2026-07-31T07:00:00+00:00",
       "published_display": "31 Jul 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "tradersunion.com",
+          "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5",
           "domain": "tradersunion.com",
-          "published_at": "2026-07-31T07:24:17+00:00"
+          "published_at": "2026-07-31T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -3726,9 +3807,15 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
           "domain": "theglobeandmail.com",
           "published_at": "2026-07-30T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "cy2026 expectations line"
     },
     {
@@ -4258,9 +4345,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWlhBUG5GLW9rQlBCcy1kYjN5cm14RnQweHJhTU9oVElHX3NfcWd1Tldtckg2Zndjd1VvOHp6alpDenF2bVJabVcyM3RMWEwtR0Y0ZmVfOWl5WGNDNXVGZ2dOeUZwb21VLURlZzRYMnB1akdveW5STUM4S1JjVlctZ3lOOVlkTFFhNy1obWdqWW9TcEZMVnhxZk4wVmloV2FPcGM0WjNLVWt4emJmdjBRNUhvb1BWZlEwNW0wQ2pRSDg0dHZt?oc=5",
           "domain": "theglobeandmail.com",
           "published_at": "2026-08-03T07:00:00+00:00"
+        },
+        {
+          "name": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWkd5cVVlVW1YMm5YYW9JbzZDLWdmelZqdnRfZ1Y1eXd3ai1WamprVWh3cWRoSFdTWks3TURoYkhBcThseXY4MzBRazk1bUJNVDhqdWo2ek1HYXB1UzYtb1ZFRWFmTHI5bXl5ay1idWM4b2Z4QUpKcUpVSHZfa05aMktaTm1sM3g2YmJMMno2cw?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-07-30T07:00:00+00:00"
         }
       ],
-      "coverage_count": 37,
+      "coverage_count": 38,
       "event_signature": "earnings expect what",
       "source_description": "Labcorp Holdings Inc (LH) (Q2 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance Singapore",
       "chatgpt_summary": "Ahead of Labcorp’s second-quarter 2026 earnings release, StockStory said the market expected revenue growth to slow from the prior-year comparison while analysts had largely held their estimates steady. Labcorp had reported $3.54 billion of revenue in the preceding quarter, up 5.8% year over year. For the June quarter, the market was expecting revenue to grow 5.3% year over year, compared with 9.5% growth in the same quarter a year earlier. StockStory said analysts covering Labcorp had generally reconfirmed their estimates during the previous 30 days, suggesting limited change in expectations immediately before the report. The article also compared Labcorp with peers that had already reported: Quest Diagnostics delivered 10.2% year-over-year revenue growth and beat analysts’ revenue expectations by 2.3%, while NeoGenomics grew 11.2% and beat estimates by 2.2%. Quest shares rose 8.6% following its results. Investor sentiment across healthcare providers and services had been positive, with sector shares up 4.4% on average over the prior month and Labcorp shares up 12.5%. StockStory cited an average analyst price target of $312.35 versus a then-current Labcorp share price of $314.40. The preview framed the central question as whether Labcorp could sustain growth and meet relatively stable expectations after stronger peer results.",
@@ -6603,10 +6696,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 71,
+  "post_prune_financial_duplicates_merged": 10,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-27T00:17:00+05:30",
-  "next_update_display": "27 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-28T12:17:00+05:30",
+  "next_update_display": "28 Aug 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
