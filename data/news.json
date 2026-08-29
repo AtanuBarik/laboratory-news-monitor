@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-08-29T12:22:43.423400+05:30",
-  "generated_at_display": "29 Aug 2026, 12:22 PM IST",
-  "item_count": 181,
-  "raw_relevant_item_count": 372,
-  "duplicates_merged": 106,
+  "generated_at": "2026-08-29T18:22:25.948469+05:30",
+  "generated_at_display": "29 Aug 2026, 6:22 PM IST",
+  "item_count": 189,
+  "raw_relevant_item_count": 343,
+  "duplicates_merged": 80,
   "failures": [],
   "items": [
+    {
+      "id": "013532cfb9d101e30902",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
+      "description": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-29T10:39:00+00:00",
+      "published_display": "29 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-29T10:39:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "holds investors quarterly steady stock trends weigh"
+    },
     {
       "id": "f5e967895f8f5d6625e2",
       "company": "Quest Diagnostics",
@@ -518,6 +542,30 @@
       ]
     },
     {
+      "id": "0ebe71e6e440112bd771",
+      "company": "Labcorp",
+      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
+      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-08-24T12:21:59+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-24T12:21:59+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "217 clearance elecsys fda following offers ptau test"
+    },
+    {
       "id": "474131cf507e3ae53cbf",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics expands Alzheimer's blood tes...",
@@ -675,6 +723,30 @@
       ],
       "coverage_count": 6,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
+    },
+    {
+      "id": "a57b4a7bb5fce7f31d04",
+      "company": "Labcorp",
+      "title": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5",
+      "description": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheime blood cleared detect fda first offer test"
     },
     {
       "id": "90e213eccfc396c44dfd",
@@ -1050,9 +1122,15 @@
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-08-20T16:17:43+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-08-21T02:59:13+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "but earnings health intact jabs long near prickly term"
     },
     {
@@ -1722,6 +1800,30 @@
       ]
     },
     {
+      "id": "0cb009a1ddb8153f38a8",
+      "company": "Sonic Healthcare",
+      "title": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5",
+      "description": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-18T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "010 according boosts holder notice stake substantial vanguard voting"
+    },
+    {
       "id": "d853207c9c70c8b1173f",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
@@ -2305,6 +2407,30 @@
       ]
     },
     {
+      "id": "b33731fc15b89f5b10b4",
+      "company": "Labcorp",
+      "title": "Labcorp Insider Sold Shares Worth $1,495,808, According to a Recent SEC Filing",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDVpM3YtZGZjRGg2WWN4OFZ6YVl6bVpOYXhzTWFGeTlWdGUzV2pUb1RIVVdJZzI4ZHJVZWJVb0N6SVVmTzhoS3U3UDI2NG1uR3Q4dWtNTEpqNHpfRmxySkZ1eUMtWWhwUjlYRHd1WXlxYlpDM3BKNHd2TE5lWW5CQ0tGWDhreUlsZ3c0ZXBBOVR0aWk1RXJ1SlhUSmxtVGpXUlFrOF9fWVhwTXg3QWJnZFc5NWJ3LXNfMnA1ajRvVzRfNGtOeVVNaXpQMTNVejRDMk5Vdg?oc=5",
+      "description": "Labcorp Holdings Insider Sold Shares Worth $1,495,808, According to a Recent SEC Filing marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "published_display": "12 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDVpM3YtZGZjRGg2WWN4OFZ6YVl6bVpOYXhzTWFGeTlWdGUzV2pUb1RIVVdJZzI4ZHJVZWJVb0N6SVVmTzhoS3U3UDI2NG1uR3Q4dWtNTEpqNHpfRmxySkZ1eUMtWWhwUjlYRHd1WXlxYlpDM3BKNHd2TE5lWW5CQ0tGWDhreUlsZ3c0ZXBBOVR0aWk1RXJ1SlhUSmxtVGpXUlFrOF9fWVhwTXg3QWJnZFc5NWJ3LXNfMnA1ajRvVzRfNGtOeVVNaXpQMTNVejRDMk5Vdg?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-12T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "495 808 according filing insider recent sec shares sold worth"
+    },
+    {
       "id": "7c6ef6091076493b9070",
       "company": "Quest Diagnostics",
       "title": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart",
@@ -2361,6 +2487,30 @@
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-2026-second-quarter-results-raises-full-year",
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting"
       ]
+    },
+    {
+      "id": "257c44d5a73b950cb054",
+      "company": "Labcorp",
+      "title": "Labcorp Frederick Md Appointment",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5",
+      "description": "Labcorp Frederick Md Appointment Toimihenkilöliitto Erto",
+      "source": "Toimihenkilöliitto Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-11T03:46:49+00:00",
+      "published_display": "11 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-11T03:46:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "appointment frederick"
     },
     {
       "id": "bbeb7997a9dd145c7f19",
@@ -2465,6 +2615,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "drug process testing"
+    },
+    {
+      "id": "3f24010abd430909eef1",
+      "company": "Labcorp",
+      "title": "Labcorp Locations For Drug Testing",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcmFXaHR5NTBKeHdrYlRrTl9YWTE1UFpDcTJoQm1iZmtITXJMd2xnSEhMbEpBVjlYcExvbTlnRWFwQnBsWmx6ZXN4cjliOTRSeUYxaHhWd0RpVGUxQ0VJWnY5RXN0Z2tYX2V2M05CSQ?oc=5",
+      "description": "Labcorp Locations For Drug Testing Toimihenkilöliitto Erto",
+      "source": "Toimihenkilöliitto Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-10T20:35:31+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcmFXaHR5NTBKeHdrYlRrTl9YWTE1UFpDcTJoQm1iZmtITXJMd2xnSEhMbEpBVjlYcExvbTlnRWFwQnBsWmx6ZXN4cjliOTRSeUYxaHhWd0RpVGUxQ0VJWnY5RXN0Z2tYX2V2M05CSQ?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T20:35:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "drug locations testing"
     },
     {
       "id": "0bdc4a693d0cba7b7129",
@@ -2688,9 +2862,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5",
           "domain": "moomoo.com",
           "published_at": "2026-08-10T12:51:24+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHNfUUYxbkwtNXEzM0NLN0RsUnJBc25oM055bUxPMURxWWN0VURGendVNTNvblNDMjZpU2FFbXhOVlNLQnM5M3JpUXVXcDNiaW1xMFN1eDNvQXVYS2hsM2VlemV2T1c0cDUteWgyYVBPbFNGNVlISWR4bG1fdU1ZUnh2cFhRd2VpRGUxWTF0T1JTczQ4YUQ5bmdhRW15S3YwMHRrTF9tbU10NWlKQ1pTbnZBQkUtWmZlT3Rveg?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-08-10T12:28:52+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "approval companion diagnostic fda melanoma wins",
       "source_description": "Labcorp wins FDA approval for melanoma companion diagnostic Investing.com",
       "chatgpt_summary": "Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.",
@@ -3276,6 +3456,30 @@
         "https://www.labcorp.com/tests/484680/pten-ihc-with-interpretation-for-prostate-adenocarcinoma",
         "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation"
       ]
+    },
+    {
+      "id": "fadd083308d918478609",
+      "company": "Labcorp",
+      "title": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
+      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-04T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "approved cancer fda identify launches patients prostate test treatment truqap"
     },
     {
       "id": "056ae46b5c843cbf762a",
@@ -6807,10 +7011,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-29T18:17:00+05:30",
-  "next_update_display": "29 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-30T00:17:00+05:30",
+  "next_update_display": "30 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

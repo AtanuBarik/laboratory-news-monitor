@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T13:13:13.083510+05:30",
-  "generated_at_display": "29 Aug 2026, 1:13 PM IST",
+  "generated_at": "2026-08-29T18:22:31.376901+05:30",
+  "generated_at_display": "29 Aug 2026, 6:22 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 67,
+  "remaining_unsummarized_count": 75,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -181,6 +181,25 @@
       ]
     },
     {
+      "id": "0ebe71e6e440112bd771",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
+      "source": "marketscreener.com",
+      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
+      "published_at": "2026-08-24T12:21:59+00:00",
+      "published_display": "24 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "75aa9000c39c9d39c5b6",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -220,6 +239,25 @@
       ]
     },
     {
+      "id": "a57b4a7bb5fce7f31d04",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime",
+      "source": "GuruFocus",
+      "description": "Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime GuruFocus",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5",
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "868654c81234f2674032",
       "company": "Labcorp",
       "category": "Product & Services",
@@ -239,6 +277,25 @@
         {
           "name": "The Dermatology Digest",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fadd083308d918478609",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment.",
+      "source": "Pluang",
+      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. Pluang",
+      "published_at": "2026-08-04T07:00:00+00:00",
+      "published_display": "04 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5"
         }
       ]
     },
@@ -271,12 +328,16 @@
       "published_at": "2026-08-20T16:17:43+00:00",
       "published_display": "20 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5",
       "sources": [
         {
           "name": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5"
         }
       ]
     },
@@ -296,6 +357,25 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b33731fc15b89f5b10b4",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp Insider Sold Shares Worth $1,495,808, According to a Recent SEC Filing",
+      "source": "marketscreener.com",
+      "description": "Labcorp Holdings Insider Sold Shares Worth $1,495,808, According to a Recent SEC Filing marketscreener.com",
+      "published_at": "2026-08-12T07:00:00+00:00",
+      "published_display": "12 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDVpM3YtZGZjRGg2WWN4OFZ6YVl6bVpOYXhzTWFGeTlWdGUzV2pUb1RIVVdJZzI4ZHJVZWJVb0N6SVVmTzhoS3U3UDI2NG1uR3Q4dWtNTEpqNHpfRmxySkZ1eUMtWWhwUjlYRHd1WXlxYlpDM3BKNHd2TE5lWW5CQ0tGWDhreUlsZ3c0ZXBBOVR0aWk1RXJ1SlhUSmxtVGpXUlFrOF9fWVhwTXg3QWJnZFc5NWJ3LXNfMnA1ajRvVzRfNGtOeVVNaXpQMTNVejRDMk5Vdg?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVDVpM3YtZGZjRGg2WWN4OFZ6YVl6bVpOYXhzTWFGeTlWdGUzV2pUb1RIVVdJZzI4ZHJVZWJVb0N6SVVmTzhoS3U3UDI2NG1uR3Q4dWtNTEpqNHpfRmxySkZ1eUMtWWhwUjlYRHd1WXlxYlpDM3BKNHd2TE5lWW5CQ0tGWDhreUlsZ3c0ZXBBOVR0aWk1RXJ1SlhUSmxtVGpXUlFrOF9fWVhwTXg3QWJnZFc5NWJ3LXNfMnA1ajRvVzRfNGtOeVVNaXpQMTNVejRDMk5Vdg?oc=5"
         }
       ]
     },
@@ -362,6 +442,44 @@
         {
           "name": "The AI Journal",
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeDRpWTh5NjBrTlhDc0g2YUN4cEZSZmVNT2h5RF9GME9VeXlQX1ZwZGpWdmxWYW9XdjlzdWFtZVJ6b0pwYU9OX0RVazZmaGJYcTM1eWJUTFJRR1ctLVZYYWw4YW82YjN3dVp5YzFJeVpoZkI1RW9oMXl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "257c44d5a73b950cb054",
+      "company": "Labcorp",
+      "category": "Leadership Changes",
+      "title": "Labcorp Frederick Md Appointment",
+      "source": "Toimihenkilöliitto Erto",
+      "description": "Labcorp Frederick Md Appointment Toimihenkilöliitto Erto",
+      "published_at": "2026-08-11T03:46:49+00:00",
+      "published_display": "11 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5",
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "013532cfb9d101e30902",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends",
+      "source": "Ad-hoc-news.de",
+      "description": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends Ad-hoc-news.de",
+      "published_at": "2026-08-29T10:39:00+00:00",
+      "published_display": "29 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5"
         }
       ]
     },
@@ -545,120 +663,6 @@
         {
           "name": "vinanet.vn",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzBRLWl6LW41Wi1ZdjJ1dkVOS0d0b3pMLUxESm9qbFB4NnY1OGhOX3BiV0wyTENUNGZOZmFYRF92WXRXd2dRRUpBbm5YQmVuUnJGX1pSNHY2c1ZXU2N4WmVGeG0tczVha1RzYTZRVkhFeWgySzBFejVqMndWeEVMSEZGUjhheFpDbjJhVlAtcG56UGp5RWYyQTZWdjZfRXo0eU5MRERlRTJ4Vkl4LUdtZm02ZE01Y2hFV3NJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "25c3a5b01e531b65bb0d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Investor Outlook: Analyzing Growth And Potential Upside",
-      "source": "DirectorsTalk Interviews",
-      "description": "Quest Diagnostics (DGX) Investor Outlook: Analyzing Growth And Potential Upside DirectorsTalk Interviews",
-      "published_at": "2026-08-17T09:11:42+00:00",
-      "published_display": "17 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5",
-      "sources": [
-        {
-          "name": "DirectorsTalk Interviews",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU84ZFNZUzZJZEhhT09oOTUzc0pGSGtfX3hmSkxqaGlQWEwzeVZXZzB5OExlWjlvOGdaODlmOUtELVpYa05ZZm41WTZSNzJyaHB3UXJVSlJ5UXo3MWpjV1AyekJnSkpzZTY1V3lVWnRIcW96LVR5RDlCMEhRUTZDVHVSSENTNkdOMjBwQ1JnT3R3RlAxRmlJczRLRV9hc0laY3lRNWFMYmpLLWhXY0M0S1JmNGs4dU8xR3p3NEhEcUtxSk5XblE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5b7f642cc799a1e44b17",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow",
-      "source": "vinanet.vn",
-      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow vinanet.vn",
-      "published_at": "2026-08-16T07:00:00+00:00",
-      "published_display": "16 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7c6ef6091076493b9070",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart",
-      "source": "CoinMarketCap",
-      "description": "Wrapped Quest Diagnostics Tokenized Stock (xStock) price today, wDGXx to USD live price, marketcap and chart CoinMarketCap",
-      "published_at": "2026-08-11T23:20:24+00:00",
-      "published_display": "11 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJBT1Yyb2gzTFNWRGpuS05zTXJvVHVXaDJDQjFUMUZuV25TWVdlRTFOWk1QNXh4V2J1VkxYVFdObzktc29aMUtZamRmTzFJUElIaHNGc3JTWGJVdHEyMFhEVWxjZmdyTWc2U3RlcHdyVEctamwyMjdZTTNzTlVfMW4yR3hJaVV1NzNkOWlqOA?oc=5",
-      "sources": [
-        {
-          "name": "CoinMarketCap",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlJBT1Yyb2gzTFNWRGpuS05zTXJvVHVXaDJDQjFUMUZuV25TWVdlRTFOWk1QNXh4V2J1VkxYVFdObzktc29aMUtZamRmTzFJUElIaHNGc3JTWGJVdHEyMFhEVWxjZmdyTWc2U3RlcHdyVEctamwyMjdZTTNzTlVfMW4yR3hJaVV1NzNkOWlqOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bbeb7997a9dd145c7f19",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "Labcorp Urine Drug Test Results Time",
-      "source": "Toimihenkilöliitto Erto",
-      "description": "Labcorp Urine Drug Test Results Time Toimihenkilöliitto Erto",
-      "published_at": "2026-08-11T02:12:50+00:00",
-      "published_display": "11 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMWE1czhKa1RkX25tQmhaSUhYbzhYbThPRWZNSUc0Y2kwVlE5cTVjNlhkUWJqelAwQlhlNzZiNHh0RjFER3o0MzJVby1IalFpRS1RYWxjdUFvaEN6YkYwV241YkJtQkMwd0tZaVVpMHlrZw?oc=5",
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xMWE1czhKa1RkX25tQmhaSUhYbzhYbThPRWZNSUc0Y2kwVlE5cTVjNlhkUWJqelAwQlhlNzZiNHh0RjFER3o0MzJVby1IalFpRS1RYWxjdUFvaEN6YkYwV241YkJtQkMwd0tZaVVpMHlrZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f75e5d91e2de0c65f721",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Schedule An Apptsoundnik Detail",
-      "source": "Toimihenkilöliitto Erto",
-      "description": "Quest Diagnostics Schedule An Apptsoundnik Detail Toimihenkilöliitto Erto",
-      "published_at": "2026-08-11T01:57:04+00:00",
-      "published_display": "11 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5",
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcWxnLXp1cXFKRjZrMEhQa1lUT3NoU3ZhdVNMSG84TkRlSlpwWHM1UENjckg2OG1YdGJaa3lEMGNRUTRlYTN3cUpVeFA0dFh6U2JoSmlBdFFZSFdmLVBpaTZoeHBFc2hXc1BxNVBDc0tJV29Sal9Dd2tzWXZTeUdrV0VQWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c9345ac12a7111b6808",
-      "company": "Labcorp",
-      "category": "Other",
-      "title": "Labcorp Drug Testing Process",
-      "source": "Toimihenkilöliitto Erto",
-      "description": "Labcorp Drug Testing Process Toimihenkilöliitto Erto",
-      "published_at": "2026-08-10T23:28:34+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yel9PQUZVMlZOVGNKU19hMWVWczRUQ2xGc0stVWttWV9uLTcxeFE1MDl0TmxXTTZUYjNFOHVfR0pYVG9RR2hCLVZna1psS3dzNUM0VURiV0FlU0h4UmtJdDMzMjV3QkU?oc=5",
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Yel9PQUZVMlZOVGNKU19hMWVWczRUQ2xGc0stVWttWV9uLTcxeFE1MDl0TmxXTTZUYjNFOHVfR0pYVG9RR2hCLVZna1psS3dzNUM0VURiV0FlU0h4UmtJdDMzMjV3QkU?oc=5"
         }
       ]
     }
