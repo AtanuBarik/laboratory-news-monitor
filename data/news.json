@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29T18:22:25.948469+05:30",
-  "generated_at_display": "29 Aug 2026, 6:22 PM IST",
-  "item_count": 189,
-  "raw_relevant_item_count": 343,
-  "duplicates_merged": 80,
+  "generated_at": "2026-08-30T00:22:31.520401+05:30",
+  "generated_at_display": "30 Aug 2026, 12:22 AM IST",
+  "item_count": 190,
+  "raw_relevant_item_count": 373,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -125,6 +125,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "alzheimer biomarker blood cleared fda first single test unveiled"
+    },
+    {
+      "id": "3358baa196876082cd35",
+      "company": "Labcorp",
+      "title": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5",
+      "description": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares Ad-hoc-news.de",
+      "source": "Ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-27T14:34:27+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-27T14:34:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "ceo close guidance high month rises sells shares stock trades"
     },
     {
       "id": "a579ca93a2b4becd7cbe",
@@ -7011,10 +7035,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 78,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-30T00:17:00+05:30",
-  "next_update_display": "30 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-30T06:17:00+05:30",
+  "next_update_display": "30 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
