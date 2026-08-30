@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T18:22:30.933029+05:30",
-  "generated_at_display": "30 Aug 2026, 6:22 PM IST",
+  "generated_at": "2026-08-31T00:22:42.432427+05:30",
+  "generated_at_display": "31 Aug 2026, 12:22 AM IST",
   "item_count": 192,
-  "raw_relevant_item_count": 368,
+  "raw_relevant_item_count": 366,
   "duplicates_merged": 99,
   "failures": [],
   "items": [
@@ -331,9 +331,15 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5",
           "domain": "clpmag.com",
           "published_at": "2026-08-25T15:10:09+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-25T15:47:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "detection earlier hepatitis launches reflex testing"
     },
     {
@@ -7089,10 +7095,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-31T00:17:00+05:30",
-  "next_update_display": "31 Aug 2026, 12:17 AM IST",
+  "next_update_at": "2026-08-31T06:17:00+05:30",
+  "next_update_display": "31 Aug 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
