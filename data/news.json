@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-30T12:22:39.546424+05:30",
-  "generated_at_display": "30 Aug 2026, 12:22 PM IST",
-  "item_count": 190,
-  "raw_relevant_item_count": 371,
-  "duplicates_merged": 103,
+  "generated_at": "2026-08-30T18:22:30.933029+05:30",
+  "generated_at_display": "30 Aug 2026, 6:22 PM IST",
+  "item_count": 192,
+  "raw_relevant_item_count": 368,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
     {
@@ -1224,40 +1224,6 @@
       ]
     },
     {
-      "id": "3d741f5699ae7dd941ee",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
-      "description": "Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "source_domain": "seekingalpha.com",
-      "published_at": "2026-08-20T02:02:30+00:00",
-      "published_display": "20 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-08-20T02:02:30+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 call earnings otcmkts presentation results skhhy",
-      "source_description": "Sonic Healthcare Limited 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19 Seeking Alpha",
-      "chatgpt_summary": "Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T18:35:15+05:30",
-      "summary_evidence": [
-        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/CEO/Financial_and_Operational_Review_30_June_2026.pdf",
-        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
-        "https://ng.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-2667765"
-      ]
-    },
-    {
       "id": "8995aa9720f14a4dcb24",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare logs $10.87B in annual revenue",
@@ -1573,6 +1539,40 @@
       "summary_evidence": [
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/CEO/Financial_and_Operational_Review_30_June_2026.pdf"
+      ]
+    },
+    {
+      "id": "3d741f5699ae7dd941ee",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SKHHY) 2026-08-19",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
+      "description": "Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "published_display": "19 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNk53ZmRNeUVwVFF3YnZ6bUVKNnFmdG5ZbzRRaTNZalNYWUQ0N0JMWVpNVV9jYTZqWldBeWJSZl90bUhHeEl3OHRnNUtRMWRPeDdoZXZ0OGhZVXdKY185OUpzUkxEMzNWNEU1SkVUZGJJZmsxMGNmSkVfSlVEQnpoazdEWjFGajhPM0ZxamxMZ0JLLU9temVnQncyMmdJQmVnNHRZeW0zdDhNZVNI?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-08-19T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings otcmkts presentation results skhhy",
+      "source_description": "Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
+      "chatgpt_summary": "Sonic Healthcare's FY2026 full-year presentation reported revenue of A$10.867 billion, up 13%, underlying EBITDA of A$1.933 billion, up 11%, underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Organic revenue growth was 5%. Management highlighted completion of the LADR Laboratory Group acquisition in Germany, ongoing synergies from German and Swiss acquisitions, strong advanced-diagnostics growth and a continuing U.S. operating review. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while German direct-to-consumer brand Mein Direktlabor grew more than 60%. The company also began a global digital transformation program covering back-office systems, laboratory and radiology workflows and clinical applications, with about A$30 million of annual investment planned for three years. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office transformation costs, and expects roughly A$25-A$30 million of benefits from U.S. operating-review initiatives. Group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-20T18:35:15+05:30",
+      "summary_evidence": [
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/CEO/Financial_and_Operational_Review_30_June_2026.pdf",
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
+        "https://ng.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-2667765"
       ]
     },
     {
@@ -2177,6 +2177,30 @@
       ]
     },
     {
+      "id": "8938126e440d849c4a13",
+      "company": "Labcorp",
+      "title": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue…",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5",
+      "description": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue… Trend Hunter",
+      "source": "Trend Hunter",
+      "source_url": "https://www.trendhunter.com",
+      "source_domain": "trendhunter.com",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "published_display": "14 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Trend Hunter",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5",
+          "domain": "trendhunter.com",
+          "published_at": "2026-08-14T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "approval companion diagnostic elio gen next pgdx receives tests tissue"
+    },
+    {
       "id": "bf59ba3d72fa86b61827",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Diagnostic Services Market Outlook",
@@ -2689,6 +2713,30 @@
       "event_signature": "appointment colorado springs"
     },
     {
+      "id": "9a458e83129ae19f68d1",
+      "company": "Labcorp",
+      "title": "Health At Your Fingertips Labcorp Riverside Cas Convenient Services",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelV6VnNoSGhNVXVKeWt4R0F1bmRPOUJkeXNwR0xxS1dxU3QzN1I4T2lNMGdTYTFUVV9KUWNLRVFlS2w2aURHVmRWQ2RmUEplYmc3MnVVRUMySVlUeXFVZlF0U3VDa3NCOEIxOGFwNlFJNnFISDlJOUwwZ2Y4OFRmd1QtNlR2UXdiU1h1eGNhTGFtdEZ2dFVNUS1DTQ?oc=5",
+      "description": "Health At Your Fingertips Labcorp Riverside Cas Convenient Services Toimihenkilöliitto Erto",
+      "source": "Toimihenkilöliitto Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-10T15:09:44+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelV6VnNoSGhNVXVKeWt4R0F1bmRPOUJkeXNwR0xxS1dxU3QzN1I4T2lNMGdTYTFUVV9KUWNLRVFlS2w2aURHVmRWQ2RmUEplYmc3MnVVRUMySVlUeXFVZlF0U3VDa3NCOEIxOGFwNlFJNnFISDlJOUwwZ2Y4OFRmd1QtNlR2UXdiU1h1eGNhTGFtdEZ2dFVNUS1DTQ?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T15:09:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cas convenient fingertips health riverside services your"
+    },
+    {
       "id": "26e34857f08ccef9e101",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
@@ -2892,9 +2940,15 @@
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHNfUUYxbkwtNXEzM0NLN0RsUnJBc25oM055bUxPMURxWWN0VURGendVNTNvblNDMjZpU2FFbXhOVlNLQnM5M3JpUXVXcDNiaW1xMFN1eDNvQXVYS2hsM2VlemV2T1c0cDUteWgyYVBPbFNGNVlISWR4bG1fdU1ZUnh2cFhRd2VpRGUxWTF0T1JTczQ4YUQ5bmdhRW15S3YwMHRrTF9tbU10NWlKQ1pTbnZBQkUtWmZlT3Rveg?oc=5",
           "domain": "za.investing.com",
           "published_at": "2026-08-10T12:28:52+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnZvalZfLV9MUVRmRmprLUhWOXY2XzZuNWI0eHZtQzBZdUg5dUNtbGJOek1GdUdHakJ6dFdVc3BYQVR3UkJnVG9QalROcXdHbDRDUVcybUEzRjZHLWR2blJHSl91aG9mYzhWRTE3aTN1M3ZmY01rTjRQa0NpeEdjZ3cyaXVLSkFtNHZQYmctTTJjTV9SZFVfS0w4YmYxTktBejYwazV3T1poak9TT01MdU9jS3E3dy1yMjFWaA?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "approval companion diagnostic fda melanoma wins",
       "source_description": "Labcorp wins FDA approval for melanoma companion diagnostic Investing.com",
       "chatgpt_summary": "Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.",
@@ -7035,10 +7089,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-30T18:17:00+05:30",
-  "next_update_display": "30 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-08-31T00:17:00+05:30",
+  "next_update_display": "31 Aug 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

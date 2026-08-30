@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-30T13:13:14.634512+05:30",
-  "generated_at_display": "30 Aug 2026, 1:13 PM IST",
+  "generated_at": "2026-08-30T18:22:33.903110+05:30",
+  "generated_at_display": "30 Aug 2026, 6:22 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 76,
+  "remaining_unsummarized_count": 78,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -254,6 +254,25 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8938126e440d849c4a13",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue…",
+      "source": "Trend Hunter",
+      "description": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue… Trend Hunter",
+      "published_at": "2026-08-14T07:00:00+00:00",
+      "published_display": "14 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5",
+      "sources": [
+        {
+          "name": "Trend Hunter",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5"
         }
       ]
     },
@@ -644,25 +663,6 @@
         {
           "name": "Intellectia AI",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "85bf149a7066fde4209d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?",
-      "source": "Traders Union",
-      "description": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68? Traders Union",
-      "published_at": "2026-08-24T18:55:31+00:00",
-      "published_display": "24 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5",
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5"
         }
       ]
     }
