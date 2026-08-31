@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T07:13:31.763166+05:30",
-  "generated_at_display": "31 Aug 2026, 7:13 AM IST",
+  "generated_at": "2026-08-31T12:22:39.060524+05:30",
+  "generated_at_display": "31 Aug 2026, 12:22 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 78,
+  "remaining_unsummarized_count": 81,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -445,6 +445,48 @@
       ]
     },
     {
+      "id": "f4adad9ddadf57122309",
+      "company": "Sonic Healthcare",
+      "category": "Leadership Changes",
+      "title": "Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?",
+      "source": "Kalkine Media",
+      "description": "Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? Kalkine Media",
+      "published_at": "2026-08-31T02:48:00+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "030498f153e67765a3cf",
+      "company": "Labcorp",
+      "category": "Leadership Changes",
+      "title": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health",
+      "source": "PR Newswire",
+      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "published_display": "18 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMG9pNElMV3o3a3dBeWxaUmRQYlQ0Yy1SQjdwamt2WEpteENlVmZRUjVBejNnNXFwRndVSmxLLS11bzd5TGVwd2duNFVGa0NHSVNnNGhjSkV2WXhjWEhoZC14S2sxVkR1bXY0TUVXaEhDOU9mZFVzOTA2SE5QeGItbmFmclM0UHpRbi1NRzRtV1BaNEFXN3MybHpBLUNvbk1EYW9QZFl4VGpPY0dWTGctVzRtS2kzLVRKQjNXemF0RlcydFlGektScWVQQkpTcjRwbXZrdHVKYWtINlBXMFBFdVU3UWNLVEpscU5PalM1NExiTnhoUC1qTkRZZw?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMG9pNElMV3o3a3dBeWxaUmRQYlQ0Yy1SQjdwamt2WEpteENlVmZRUjVBejNnNXFwRndVSmxLLS11bzd5TGVwd2duNFVGa0NHSVNnNGhjSkV2WXhjWEhoZC14S2sxVkR1bXY0TUVXaEhDOU9mZFVzOTA2SE5QeGItbmFmclM0UHpRbi1NRzRtV1BaNEFXN3MybHpBLUNvbk1EYW9QZFl4VGpPY0dWTGctVzRtS2kzLVRKQjNXemF0RlcydFlGektScWVQQkpTcjRwbXZrdHVKYWtINlBXMFBFdVU3UWNLVEpscU5PalM1NExiTnhoUC1qTkRZZw?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5473b148b0e029cad6fd",
       "company": "Labcorp",
       "category": "Leadership Changes",
@@ -503,6 +545,25 @@
         {
           "name": "Toimihenkilöliitto Erto",
           "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "844a8e1a425358c5b6a6",
+      "company": "Quest Diagnostics",
+      "category": "Leadership Changes",
+      "title": "Make An Appointment With Quest Diagnostics Onlinelibrary Detail",
+      "source": "Toimihenkilöliitto Erto",
+      "description": "Make An Appointment With Quest Diagnostics Onlinelibrary Detail Toimihenkilöliitto Erto",
+      "published_at": "2026-08-10T21:33:43+00:00",
+      "published_display": "10 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5",
+      "sources": [
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5"
         }
       ]
     },
@@ -602,71 +663,6 @@
         {
           "name": "Ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3e1e4f3db6aa38de16d8",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics updates health tests with Humanity Biological Age insights as stock edges higher",
-      "source": "Traders Union",
-      "description": "Quest Diagnostics updates health tests with Humanity Biological Age insights as stock edges higher Traders Union",
-      "published_at": "2026-08-26T15:15:33+00:00",
-      "published_display": "26 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXMwSFVrVmZHOHpiSjRBaUhUQlVmYk9CcW5uNFA5SEJDZlFVTnhzYWxMS3I2RDhJS3RnaVZWUjY0dDdzei1JTEI0UktvMUdEWFBqWjVLU25ObjhveVJ3cXJ3c0xnS3N1QVdibDkyYkVyR2E4M3g2QmxLZHJlb3VJRnpJNE9fc2ctbG4xemIwTUtsc1pq?oc=5",
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXMwSFVrVmZHOHpiSjRBaUhUQlVmYk9CcW5uNFA5SEJDZlFVTnhzYWxMS3I2RDhJS3RnaVZWUjY0dDdzei1JTEI0UktvMUdEWFBqWjVLU25ObjhveVJ3cXJ3c0xnS3N1QVdibDkyYkVyR2E4M3g2QmxLZHJlb3VJRnpJNE9fc2ctbG4xemIwTUtsc1pq?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b33a6039ee07b55c0ae5",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
-      "source": "Barchart.com",
-      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Yahoo Finance",
-      "published_at": "2026-08-25T15:52:43+00:00",
-      "published_display": "25 Aug 2026",
-      "official_source": false,
-      "coverage_count": 3,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
-      "sources": [
-        {
-          "name": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHEtVklrV05VV3NZSGlFTDdITngyRVY1WFdZaVFfMGNaSy0xdEMxQWpfTzhMaE5mVWxucnRvM2lXWXgwT3hNMHdxemdSb3NRZ2UxbW0taXNaeFd1SEFERC15T0FUTkhFaU1sWmF4T0MwWWI0aG1RLXZaWmxEX0hRcURReFQ0QkxTbmJELUJlUVRhT1ZzdkwwLTBkcGIxRHN6M2c?oc=5"
-        },
-        {
-          "name": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWi1sLW9mVzdaMGh0Q014YUp3d1ZqRTRPdURTNktQZXY0MWZRM0lMZG5TSC1pZkxCUlZkV19xLW1FNU5xQ0VTRUJXblQ5ZGpBZW5wR2VNMG8wQVE4QVNUYUJLVVNGYlZhRjlVYlFEU0tLTzJPU0JDMGRYczYwYjl3b3dTTXI3SW8wVlNJYXRLb3VydTlSVERB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4dd0048daf1f9d591dda",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
-      "source": "Intellectia AI",
-      "description": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI",
-      "published_at": "2026-08-25T00:05:49+00:00",
-      "published_display": "25 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-      "sources": [
-        {
-          "name": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5"
         }
       ]
     }
