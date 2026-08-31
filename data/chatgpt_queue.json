@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T19:13:17.689710+05:30",
-  "generated_at_display": "31 Aug 2026, 7:13 PM IST",
+  "generated_at": "2026-09-01T00:22:55.049619+05:30",
+  "generated_at_display": "01 Sep 2026, 12:22 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 84,
+  "remaining_unsummarized_count": 85,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -97,6 +97,25 @@
       ]
     },
     {
+      "id": "620b0ba2841e5b3b2c6b",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
+      "source": "Pluang",
+      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making Pluang",
+      "published_at": "2026-08-31T11:38:24+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1ba2a749f89c055a8e66",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -106,7 +125,7 @@
       "published_at": "2026-08-31T11:00:00+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
       "sources": [
         {
@@ -116,6 +135,10 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2tpMGtkYklrTGFKM2htdFVhUjVSV3pPQllfYUdFajRBeWx2MFlwckoyUnZwMWx0MTMwNlJTeGluQ0xCY3JhX01MNHdOdWxidDJ1X3pKRm9HZmpDMklYY2VGWThLaHJ3TFUteDZNOGE5X0VSRFJ4ckpKQ0NtV3FrektZcUViWnhCV3ZQTGJ6X1ROTFM0Y1hfWC1ZRzdrOGVCSURKRTcxcHh5YU4wS1hNcnNWdGgyRFpkZGpkbHlrYk5iaFJWYktfc3ZrRDJQNXdGLTVrcXc1QjJFWHo5ZGIyeUJxT241QQ?oc=5"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmR1bFJqY3drVk1NTlBfTWU5ZGRIVXIzaVNVUXZ2ZjlHZDFpcy0zdmdINl84ZThLWk9wZVVDejhwRUFSem9xd1VCallTVG15ZGRCSFB6NFFlQk5rdkhXN18zcXU0UGFQTkpCUGtjbDU5a0lHWjhPcWw2VVpXU2FvSTFpcUtSM1RPZUlNT1dZUWxpTC1WRk82TEl4Zkg4X05RWndSRDdSU2FXQjl1d3hrUEtiSk9lZ2d2MDRBSTJLWmtZTklNVFBfT0tOckFDc2VrQ01aOFRjV1ZvZFNwd05BVzhLUG56ZWVC?oc=5"
         }
       ]
     },
@@ -644,25 +667,6 @@
         {
           "name": "Ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f5e967895f8f5d6625e2",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock climbs on a $3.12 EPS beat",
-      "source": "Ad-hoc-news.de",
-      "description": "Quest Diagnostics stock climbs on a $3.12 EPS beat Ad-hoc-news.de",
-      "published_at": "2026-08-28T15:36:13+00:00",
-      "published_display": "28 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN08wYzE5X1FiVEFPVmxzU3JVM04xT1JxOVZkMFRSVko1Y2ROVHlpRGZKT0d1UTUySkJ0SHNHejNTVV9mYTNrTmE2MG1UTmdfQVU0UFA1dzU2OTlON1M2S0p1Wk8xQmlCaF9jeUdEOEloUGJCRE5lekRZZjVZSkJsNk9QNVlMQWN2NEk3R0J5bkY5UlZfdGxNWmJPaGRKS2stalZkLU82RGJWbnlIVzlodzRB?oc=5",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN08wYzE5X1FiVEFPVmxzU3JVM04xT1JxOVZkMFRSVko1Y2ROVHlpRGZKT0d1UTUySkJ0SHNHejNTVV9mYTNrTmE2MG1UTmdfQVU0UFA1dzU2OTlON1M2S0p1Wk8xQmlCaF9jeUdEOEloUGJCRE5lekRZZjVZSkJsNk9QNVlMQWN2NEk3R0J5bkY5UlZfdGxNWmJPaGRKS2stalZkLU82RGJWbnlIVzlodzRB?oc=5"
         }
       ]
     }
