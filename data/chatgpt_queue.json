@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T13:13:19.561535+05:30",
-  "generated_at_display": "31 Aug 2026, 1:13 PM IST",
+  "generated_at": "2026-08-31T18:22:47.480460+05:30",
+  "generated_at_display": "31 Aug 2026, 6:22 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 81,
+  "remaining_unsummarized_count": 84,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -74,6 +74,48 @@
         {
           "name": "Tracxn",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fdbcfbe8cc5bac321180",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Announces Enhanced Global Trial Connect Platform for Sponsors, Investigator Sites",
+      "source": "marketscreener.com",
+      "description": "Labcorp Announces Enhanced Global Trial Connect Platform for Sponsors, Investigator Sites marketscreener.com",
+      "published_at": "2026-08-31T11:59:45+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtmQmlsN3pYLVRkU1pBcnFYMVYzN0RTbDRDWmM0NDVSS08tdE9PeHh3QjFkVm9nTVg0Mzh6Y2h0QzdKeWRsaDI1VXc2blZXNC1yUUtrclhnM1JDZGhuQVdyQWtFdS1BWThMQjhSMWp3Tm9SSS1DMlRpR2JSNm9yRnd1dzlldWxYcXBBMjU1di15d2RxUUFWN3BsSkNnZDdOMks4MDBvSHMwc0FNNVY0UDVHTmVvMUF3Q29LWUZweHVnOTNoSU1mUnNWQWh3WnJBVmRia1JmQTU?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtmQmlsN3pYLVRkU1pBcnFYMVYzN0RTbDRDWmM0NDVSS08tdE9PeHh3QjFkVm9nTVg0Mzh6Y2h0QzdKeWRsaDI1VXc2blZXNC1yUUtrclhnM1JDZGhuQVdyQWtFdS1BWThMQjhSMWp3Tm9SSS1DMlRpR2JSNm9yRnd1dzlldWxYcXBBMjU1di15d2RxUUFWN3BsSkNnZDdOMks4MDBvSHMwc0FNNVY0UDVHTmVvMUF3Q29LWUZweHVnOTNoSU1mUnNWQWh3WnJBVmRia1JmQTU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1ba2a749f89c055a8e66",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity",
+      "source": "PR Newswire",
+      "description": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity marketscreener.com",
+      "published_at": "2026-08-31T11:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2tpMGtkYklrTGFKM2htdFVhUjVSV3pPQllfYUdFajRBeWx2MFlwckoyUnZwMWx0MTMwNlJTeGluQ0xCY3JhX01MNHdOdWxidDJ1X3pKRm9HZmpDMklYY2VGWThLaHJ3TFUteDZNOGE5X0VSRFJ4ckpKQ0NtV3FrektZcUViWnhCV3ZQTGJ6X1ROTFM0Y1hfWC1ZRzdrOGVCSURKRTcxcHh5YU4wS1hNcnNWdGgyRFpkZGpkbHlrYk5iaFJWYktfc3ZrRDJQNXdGLTVrcXc1QjJFWHo5ZGIyeUJxT241QQ?oc=5"
         }
       ]
     },
@@ -319,6 +361,25 @@
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b7601bce9d24af12b2cf",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
+      "source": "AD HOC NEWS",
+      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts AD HOC NEWS",
+      "published_at": "2026-08-31T08:12:09+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5"
         }
       ]
     },
@@ -602,67 +663,6 @@
         {
           "name": "Ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN08wYzE5X1FiVEFPVmxzU3JVM04xT1JxOVZkMFRSVko1Y2ROVHlpRGZKT0d1UTUySkJ0SHNHejNTVV9mYTNrTmE2MG1UTmdfQVU0UFA1dzU2OTlON1M2S0p1Wk8xQmlCaF9jeUdEOEloUGJCRE5lekRZZjVZSkJsNk9QNVlMQWN2NEk3R0J5bkY5UlZfdGxNWmJPaGRKS2stalZkLU82RGJWbnlIVzlodzRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8eaf16b075579565324d",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director",
-      "source": "Oncodaily",
-      "description": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director Oncodaily",
-      "published_at": "2026-08-28T09:17:02+00:00",
-      "published_display": "28 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qndpc1N1c1RRbmZ3dTV3QkJiNURZQTF4cEV1RG10X3FjTDY3YVo5Z3RBUl84aHExZERwaTdpaV9qUVh3QV9zUG5NRGJNU3hRc003NFRB?oc=5",
-      "sources": [
-        {
-          "name": "Oncodaily",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qndpc1N1c1RRbmZ3dTV3QkJiNURZQTF4cEV1RG10X3FjTDY3YVo5Z3RBUl84aHExZERwaTdpaV9qUVh3QV9zUG5NRGJNU3hRc003NFRB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a579ca93a2b4becd7cbe",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock hits all-time high at 246.06 USD",
-      "source": "Investing.com",
-      "description": "Quest Diagnostics stock hits all-time high at 246.06 USD By Investing.com Investing.com South Africa",
-      "published_at": "2026-08-27T14:13:20+00:00",
-      "published_display": "27 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUkySmRBNHN4dUI3OXRTS0Zoa1hoVkV1c2lYLW9wU0NXUUZISWRMSFFobklOakJBTVBFMi1iNmNZenJfb25BdU00WlJLbHZ4aXkyMkJPSGJGYjFKd2F0NXhrSk9sSWRZSzgxOGpYa0duYV9zU2dmMjA1U3JxOXp5YVhub3FGM2J0SEh0UklxczJFa0ppRjlieDRUMmtKUEwxRlV1R0ZmUnJKTjNqb2ozcTlVNzgwdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "eaaf783d25e14d44c542",
-      "company": "Quest Diagnostics",
-      "category": "Other",
-      "title": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e",
-      "source": "Ad-hoc-news.de",
-      "description": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e Ad-hoc-news.de",
-      "published_at": "2026-08-27T10:37:48+00:00",
-      "published_display": "27 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5"
         }
       ]
     }

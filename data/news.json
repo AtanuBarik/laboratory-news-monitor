@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-08-31T12:22:35.983474+05:30",
-  "generated_at_display": "31 Aug 2026, 12:22 PM IST",
-  "item_count": 195,
-  "raw_relevant_item_count": 365,
-  "duplicates_merged": 96,
+  "generated_at": "2026-08-31T18:22:43.712947+05:30",
+  "generated_at_display": "31 Aug 2026, 6:22 PM IST",
+  "item_count": 197,
+  "raw_relevant_item_count": 369,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "fdbcfbe8cc5bac321180",
+      "company": "Labcorp",
+      "title": "Labcorp Announces Enhanced Global Trial Connect Platform for Sponsors, Investigator Sites",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtmQmlsN3pYLVRkU1pBcnFYMVYzN0RTbDRDWmM0NDVSS08tdE9PeHh3QjFkVm9nTVg0Mzh6Y2h0QzdKeWRsaDI1VXc2blZXNC1yUUtrclhnM1JDZGhuQVdyQWtFdS1BWThMQjhSMWp3Tm9SSS1DMlRpR2JSNm9yRnd1dzlldWxYcXBBMjU1di15d2RxUUFWN3BsSkNnZDdOMks4MDBvSHMwc0FNNVY0UDVHTmVvMUF3Q29LWUZweHVnOTNoSU1mUnNWQWh3WnJBVmRia1JmQTU?oc=5",
+      "description": "Labcorp Announces Enhanced Global Trial Connect Platform for Sponsors, Investigator Sites marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-08-31T11:59:45+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtmQmlsN3pYLVRkU1pBcnFYMVYzN0RTbDRDWmM0NDVSS08tdE9PeHh3QjFkVm9nTVg0Mzh6Y2h0QzdKeWRsaDI1VXc2blZXNC1yUUtrclhnM1JDZGhuQVdyQWtFdS1BWThMQjhSMWp3Tm9SSS1DMlRpR2JSNm9yRnd1dzlldWxYcXBBMjU1di15d2RxUUFWN3BsSkNnZDdOMks4MDBvSHMwc0FNNVY0UDVHTmVvMUF3Q29LWUZweHVnOTNoSU1mUnNWQWh3WnJBVmRia1JmQTU?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-31T11:59:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "connect enhanced global investigator platform sites sponsors trial"
+    },
+    {
+      "id": "1ba2a749f89c055a8e66",
+      "company": "Labcorp",
+      "title": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
+      "description": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity marketscreener.com",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-31T11:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-31T11:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ2tpMGtkYklrTGFKM2htdFVhUjVSV3pPQllfYUdFajRBeWx2MFlwckoyUnZwMWx0MTMwNlJTeGluQ0xCY3JhX01MNHdOdWxidDJ1X3pKRm9HZmpDMklYY2VGWThLaHJ3TFUteDZNOGE5X0VSRFJ4ckpKQ0NtV3FrektZcUViWnhCV3ZQTGJ6X1ROTFM0Y1hfWC1ZRzdrOGVCSURKRTcxcHh5YU4wS1hNcnNWdGgyRFpkZGpkbHlrYk5iaFJWYktfc3ZrRDJQNXdGLTVrcXc1QjJFWHo5ZGIyeUJxT241QQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-31T11:01:12+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "clinical complexity connect generation global help investigator launches navigate next sites sponsors trial"
+    },
+    {
+      "id": "b7601bce9d24af12b2cf",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
+      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-31T08:12:09+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-31T08:12:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "await catalysts earnings fresh holds investors steady stock"
+    },
     {
       "id": "f4adad9ddadf57122309",
       "company": "Sonic Healthcare",
@@ -1901,38 +1979,6 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
-      ]
-    },
-    {
-      "id": "76b8bc552687be3e751e",
-      "company": "Labcorp",
-      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-17T19:22:27+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-17T19:22:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
-      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -7167,10 +7213,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 72,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-08-31T18:17:00+05:30",
-  "next_update_display": "31 Aug 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-01T00:17:00+05:30",
+  "next_update_display": "01 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
