@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-01T07:16:09.735514+05:30",
-  "generated_at_display": "01 Sep 2026, 7:16 AM IST",
+  "generated_at": "2026-09-01T12:27:02.409714+05:30",
+  "generated_at_display": "01 Sep 2026, 12:27 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 89,
+  "remaining_unsummarized_count": 91,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -102,7 +102,7 @@
       "category": "Clinical, R&D",
       "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
       "source": "Pluang",
-      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making Pluang",
+      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
       "published_at": "2026-08-31T11:38:24+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
@@ -186,7 +186,7 @@
       "category": "Product & Services",
       "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
       "source": "Fierce Biotech",
-      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus Fierce Biotech",
+      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
       "published_at": "2026-08-25T17:22:48+00:00",
       "published_display": "25 Aug 2026",
       "official_source": false,
@@ -374,7 +374,7 @@
       "category": "Product & Services",
       "title": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment.",
       "source": "Pluang",
-      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. Pluang",
+      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. pluang.com",
       "published_at": "2026-08-04T07:00:00+00:00",
       "published_display": "04 Aug 2026",
       "official_source": false,
@@ -384,6 +384,25 @@
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0eaa14e16f8cec46476",
+      "company": "Sonic Healthcare",
+      "category": "Financials",
+      "title": "Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?",
+      "source": "Kalkine Media",
+      "description": "Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? Kalkine Media",
+      "published_at": "2026-09-01T04:52:00+00:00",
+      "published_display": "01 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5"
         }
       ]
     },
@@ -525,6 +544,25 @@
       ]
     },
     {
+      "id": "03edb8450d08357ea3bd",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp to hold Investor Day on Sept 10 to disc...",
+      "source": "pluang.com",
+      "description": "Labcorp to hold Investor Day on Sept 10 to disc... pluang.com",
+      "published_at": "2026-08-17T07:00:00+00:00",
+      "published_display": "17 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
+      "sources": [
+        {
+          "name": "pluang.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b33731fc15b89f5b10b4",
       "company": "Labcorp",
       "category": "Financials",
@@ -605,68 +643,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5473b148b0e029cad6fd",
-      "company": "Labcorp",
-      "category": "Leadership Changes",
-      "title": "Labcorp to Host Investor Day on September 10, 2026",
-      "source": "PR Newswire",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will use the session to discuss Labcorp's go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a question-and-answer session. The company will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and it plans to post a replay and supporting materials after the event. The August 17 announcement establishes the timing and agenda but does not itself provide new long-range revenue, margin or earnings targets, announce an acquisition, change the dividend or repurchase program, or revise current 2026 guidance. That distinction is important because Labcorp had already raised its 2026 enterprise revenue-growth outlook to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55 after second-quarter results. The material development in the queued article is therefore the formal schedule for a management briefing where investors should receive more detail on long-term strategy and capital allocation, rather than a new financial forecast contained in the scheduling release itself.",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "published_display": "17 Aug 2026",
-      "official_source": false,
-      "coverage_count": 7,
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5"
-        },
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZUYzgwTFMyQ2x2dGhsWnRkbGhoelFILTFRWGo5NVc5SXNPUEFuRGI4VzZDcGh4dVB3QmxlMEthWWFOZ0tMUlNzSE1sMWk0azJzNXhlS0NhQTYzMk1tQ0hBVWpZTmhuT2pMbGwxYXljYVpIR3dlM2VITmdualFUM3d5bDgzX2dtdHluYjIzdTJRWVBTTFlERk1TZzlPTVJXMmRN?oc=5"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUYydnFaUnA0dDlmYVBNc212RHRzMnFVd3ZvWUlSekNfLTcxVHgyY2hHeHFQTVF6UXI4OXhrOFNUV2ZXaElwXzFZdVZScEVUb2tnYjF0em1UdUlfMmx6dlczNEtyaWFRMVYxd2tJcUVWZEtwV3lJVVpiUnA1aFhGUTZRV3hiTHhjUGlHbnU3R1BkX3ZQektBbF9RM0plZEdQUmc?oc=5"
-        },
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5"
-        },
-        {
-          "name": "The AI Journal",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeDRpWTh5NjBrTlhDc0g2YUN4cEZSZmVNT2h5RF9GME9VeXlQX1ZwZGpWdmxWYW9XdjlzdWFtZVJ6b0pwYU9OX0RVazZmaGJYcTM1eWJUTFJRR1ctLVZYYWw4YW82YjN3dVp5YzFJeVpoZkI1RW9oMXl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "257c44d5a73b950cb054",
-      "company": "Labcorp",
-      "category": "Leadership Changes",
-      "title": "Labcorp Frederick Md Appointment",
-      "source": "Toimihenkilöliitto Erto",
-      "description": "Labcorp Frederick Md Appointment Toimihenkilöliitto Erto",
-      "published_at": "2026-08-11T03:46:49+00:00",
-      "published_display": "11 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5",
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9CSGRGRkNkc2wtYktndEQxWldSdExxNmdMdHJFOVMyc1ZhdWxhNkQzRk9XVVVGelZDUDdQcklROVZROEFJYnRQSzZRc1dqMXhfMS1HSGh0MVJHOVdxLTBDTVFjWmJuMEk2RXladQ?oc=5"
         }
       ]
     }

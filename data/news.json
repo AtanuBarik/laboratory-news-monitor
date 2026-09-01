@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-01T06:27:59.708124+05:30",
-  "generated_at_display": "01 Sep 2026, 6:27 AM IST",
+  "generated_at": "2026-09-01T12:26:58.685115+05:30",
+  "generated_at_display": "01 Sep 2026, 12:26 PM IST",
   "item_count": 203,
-  "raw_relevant_item_count": 373,
-  "duplicates_merged": 98,
+  "raw_relevant_item_count": 384,
+  "duplicates_merged": 107,
   "failures": [],
   "items": [
+    {
+      "id": "e0eaa14e16f8cec46476",
+      "company": "Sonic Healthcare",
+      "title": "Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5",
+      "description": "Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-09-01T04:52:00+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-09-01T04:52:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "build focus guidance reaches synergies why"
+    },
     {
       "id": "8c9b015ba4214fd6a787",
       "company": "Labcorp",
@@ -59,7 +83,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics SVP & general counsel sells $5.5m in shares",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
-      "description": "Quest Diagnostics SVP & general counsel sells $5.5m in shares Investing.com",
+      "description": "Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia",
       "source": "Investing.com",
       "source_url": "https://m.investing.com",
       "source_domain": "m.investing.com",
@@ -73,9 +97,15 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
           "domain": "m.investing.com",
           "published_at": "2026-08-31T21:01:00+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5",
+          "domain": "m.au.investing.com",
+          "published_at": "2026-09-01T02:49:25+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "counsel general sells shares svp"
     },
     {
@@ -131,7 +161,7 @@
       "company": "Labcorp",
       "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
-      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making Pluang",
+      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
       "source": "Pluang",
       "source_url": "https://pluang.com",
       "source_domain": "pluang.com",
@@ -485,7 +515,7 @@
       "company": "Labcorp",
       "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
-      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus Fierce Biotech",
+      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
       "source": "Fierce Biotech",
       "source_url": "https://www.fiercebiotech.com",
       "source_domain": "fiercebiotech.com",
@@ -1842,38 +1872,6 @@
       ]
     },
     {
-      "id": "1c6ad790701fb10cf228",
-      "company": "Labcorp",
-      "title": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
-      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-08-18T14:19:35+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-18T14:19:35+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alliance community data health improve nachc use will",
-      "source_description": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health Clinical Lab Products",
-      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
-      ]
-    },
-    {
       "id": "05fe2a3bf3d4448eabda",
       "company": "Labcorp",
       "title": "Labcorp Gains 1.64% to $323.34 as Diagnostics Leader Presses Toward Resistance - Upthrust Pattern",
@@ -2074,6 +2072,38 @@
       "event_signature": "advance alliance center community health launch leadership nachc strategic strengthen"
     },
     {
+      "id": "1c6ad790701fb10cf228",
+      "company": "Labcorp",
+      "title": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
+      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-08-18T07:00:00+00:00",
+      "published_display": "18 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-18T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alliance community data health improve nachc use will",
+      "source_description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
+      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-20T12:33:52+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
+      ]
+    },
+    {
       "id": "d853207c9c70c8b1173f",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
@@ -2105,38 +2135,6 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
-      ]
-    },
-    {
-      "id": "76b8bc552687be3e751e",
-      "company": "Labcorp",
-      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-17T19:22:27+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-17T19:22:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
-      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -2257,12 +2255,12 @@
       "event_signature": "2026 day host investor september"
     },
     {
-      "id": "6a1a472bbed068f33892",
+      "id": "03edb8450d08357ea3bd",
       "company": "Labcorp",
       "title": "Labcorp to hold Investor Day on Sept 10 to disc...",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will use the session to discuss Labcorp's go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a question-and-answer session. The company will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and it plans to post a replay and supporting materials after the event. The August 17 announcement establishes the timing and agenda but does not itself provide new long-range revenue, margin or earnings targets, announce an acquisition, change the dividend or repurchase program, or revise current 2026 guidance. That distinction is important because Labcorp had already raised its 2026 enterprise revenue-growth outlook to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55 after second-quarter results. The material development in the queued article is therefore the formal schedule for a management briefing where investors should receive more detail on long-term strategy and capital allocation, rather than a new financial forecast contained in the scheduling release itself.",
-      "source": "Pluang",
+      "description": "Labcorp to hold Investor Day on Sept 10 to disc... pluang.com",
+      "source": "pluang.com",
       "source_url": "https://pluang.com",
       "source_domain": "pluang.com",
       "published_at": "2026-08-17T07:00:00+00:00",
@@ -2271,23 +2269,14 @@
       "official_source": false,
       "sources": [
         {
-          "name": "Pluang",
+          "name": "pluang.com",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
           "domain": "pluang.com",
           "published_at": "2026-08-17T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "day disc hold investor sept",
-      "source_description": "Labcorp to hold Investor Day on Sept 10 to disc... Pluang",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will use the session to discuss Labcorp's go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a question-and-answer session. The company will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and it plans to post a replay and supporting materials after the event. The August 17 announcement establishes the timing and agenda but does not itself provide new long-range revenue, margin or earnings targets, announce an acquisition, change the dividend or repurchase program, or revise current 2026 guidance. That distinction is important because Labcorp had already raised its 2026 enterprise revenue-growth outlook to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55 after second-quarter results. The material development in the queued article is therefore the formal schedule for a management briefing where investors should receive more detail on long-term strategy and capital allocation, rather than a new financial forecast contained in the scheduling release itself.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026",
-        "https://ir.labcorp.com/news-and-events/recent-past-presentations?mobile=1&page=6"
-      ]
+      "event_signature": "day disc hold investor sept"
     },
     {
       "id": "5b7f642cc799a1e44b17",
@@ -3822,7 +3811,7 @@
       "company": "Labcorp",
       "title": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment.",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
-      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. Pluang",
+      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. pluang.com",
       "source": "Pluang",
       "source_url": "https://pluang.com",
       "source_domain": "pluang.com",
@@ -7371,10 +7360,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-01T12:17:00+05:30",
-  "next_update_display": "01 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-01T18:17:00+05:30",
+  "next_update_display": "01 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
