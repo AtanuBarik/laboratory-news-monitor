@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 01 Sep 2026, 6:27 PM IST
+- **Repository generated:** 02 Sep 2026, 12:24 AM IST
 - **Distinct events in this file:** 24
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -76,7 +76,7 @@
   - Morningstar: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5
   - Morningstar: https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5
 
-**Feed description:** Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact Morningstar
+**Feed description:** Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact morningstar.com
 
 ## 7. Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026
 

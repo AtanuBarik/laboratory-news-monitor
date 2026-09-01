@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-01T18:27:08.443698+05:30",
-  "generated_at_display": "01 Sep 2026, 6:27 PM IST",
-  "item_count": 204,
-  "raw_relevant_item_count": 383,
-  "duplicates_merged": 104,
+  "generated_at": "2026-09-02T00:24:35.599872+05:30",
+  "generated_at_display": "02 Sep 2026, 12:24 AM IST",
+  "item_count": 205,
+  "raw_relevant_item_count": 382,
+  "duplicates_merged": 101,
   "failures": [],
   "items": [
+    {
+      "id": "08dbf9065b8794da6148",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock trades near 52-week high on new kidney testing deal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5",
+      "description": "Quest Diagnostics stock trades near 52-week high on new kidney testing deal AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-01T16:23:13+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-01T16:23:13+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "deal high kidney near stock testing trades week"
+    },
     {
       "id": "865eaad19fc1f858fac7",
       "company": "Quest Diagnostics",
@@ -365,7 +389,7 @@
       "company": "Quest Diagnostics",
       "title": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qndpc1N1c1RRbmZ3dTV3QkJiNURZQTF4cEV1RG10X3FjTDY3YVo5Z3RBUl84aHExZERwaTdpaV9qUVh3QV9zUG5NRGJNU3hRc003NFRB?oc=5",
-      "description": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director Oncodaily",
+      "description": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director oncodaily.com",
       "source": "Oncodaily",
       "source_url": "https://oncodaily.com",
       "source_domain": "oncodaily.com",
@@ -1420,7 +1444,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5",
-      "description": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact Morningstar",
+      "description": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact morningstar.com",
       "source": "Morningstar",
       "source_url": "https://www.morningstar.com",
       "source_domain": "morningstar.com",
@@ -7384,10 +7408,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-02T00:17:00+05:30",
-  "next_update_display": "02 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-02T06:17:00+05:30",
+  "next_update_display": "02 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
