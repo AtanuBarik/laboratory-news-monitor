@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-09-01T00:22:51.783773+05:30",
-  "generated_at_display": "01 Sep 2026, 12:22 AM IST",
-  "item_count": 198,
-  "raw_relevant_item_count": 369,
+  "generated_at": "2026-09-01T06:27:59.708124+05:30",
+  "generated_at_display": "01 Sep 2026, 6:27 AM IST",
+  "item_count": 203,
+  "raw_relevant_item_count": 373,
   "duplicates_merged": 98,
   "failures": [],
   "items": [
+    {
+      "id": "8c9b015ba4214fd6a787",
+      "company": "Labcorp",
+      "title": "Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjI1bG1UTF9QVmdPZFVXNUtaeG5zNWlqdnhCeS1icVhidHJFUWR0Q2RPOVJFU19tczlIWmViWkx4aTB0WHJzTkFlY01EdGhBaVJ5RVhIUHh0S2tHZG1ZaEFkSnNLMDNETmJCYUlUcUxxVFVEV29rTFNfTjlFMmw4TmRJaFU3NEx0R3YzdUcya0hiRElDeUxtZ01fU3VWdjlwdnI3WTh5SVBRZ3B4ZUtKY052NTBIbXhsQXNmS3ZzSkE?oc=5",
+      "description": "Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows HIT Consultant",
+      "source": "HIT Consultant",
+      "source_url": "https://hitconsultant.net",
+      "source_domain": "hitconsultant.net",
+      "published_at": "2026-08-31T22:30:37+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HIT Consultant",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjI1bG1UTF9QVmdPZFVXNUtaeG5zNWlqdnhCeS1icVhidHJFUWR0Q2RPOVJFU19tczlIWmViWkx4aTB0WHJzTkFlY01EdGhBaVJ5RVhIUHh0S2tHZG1ZaEFkSnNLMDNETmJCYUlUcUxxVFVEV29rTFNfTjlFMmw4TmRJaFU3NEx0R3YzdUcya0hiRElDeUxtZ01fU3VWdjlwdnI3WTh5SVBRZ3B4ZUtKY052NTBIbXhsQXNmS3ZzSkE?oc=5",
+          "domain": "hitconsultant.net",
+          "published_at": "2026-08-31T22:30:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "connect global investigator redesigns sponsor streamline trial workflows"
+    },
+    {
+      "id": "b2e6cd18ee19d336fb01",
+      "company": "Labcorp",
+      "title": "Labcorp stock steady as guidance and earnings frame 2026 outlook",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2cyR05LbmhPcWViaWgxTUF5Nmt2alFxdllLN3lsTV9JU0EybE9hUkg1NGlpdEZ3REVtUGlBSzAzZGF2b1M5V1o2RUwtNFJwcjNqaFg1ekFBbk5oQWdqMUtIUl9IZUk0WmR3c0tZdGNYSlJfQnZ5Ty1JS1hieUYtbVI0NWw5bGJ5b0NyeUMxUnpQZzQ2NE51d1FMUXZJclN5Tjl5RWhiSk8wWjc4a1BscEZaOV9XY0hqc09RM3FqZHE5bjluZUE?oc=5",
+      "description": "Labcorp stock steady as guidance and earnings frame 2026 outlook AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-31T21:12:01+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2cyR05LbmhPcWViaWgxTUF5Nmt2alFxdllLN3lsTV9JU0EybE9hUkg1NGlpdEZ3REVtUGlBSzAzZGF2b1M5V1o2RUwtNFJwcjNqaFg1ekFBbk5oQWdqMUtIUl9IZUk0WmR3c0tZdGNYSlJfQnZ5Ty1JS1hieUYtbVI0NWw5bGJ5b0NyeUMxUnpQZzQ2NE51d1FMUXZJclN5Tjl5RWhiSk8wWjc4a1BscEZaOV9XY0hqc09RM3FqZHE5bjluZUE?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-31T21:12:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 earnings frame guidance outlook steady stock"
+    },
+    {
+      "id": "b290ab73e11f257b60ff",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics SVP & general counsel sells $5.5m in shares",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
+      "description": "Quest Diagnostics SVP & general counsel sells $5.5m in shares Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://m.investing.com",
+      "source_domain": "m.investing.com",
+      "published_at": "2026-08-31T21:01:00+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
+          "domain": "m.investing.com",
+          "published_at": "2026-08-31T21:01:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "counsel general sells shares svp"
+    },
+    {
+      "id": "b2fb6b3d5db51177f621",
+      "company": "Labcorp",
+      "title": "Labcorp stock outlook constrained as data and earnings context stay unclear",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3NqTkpNQXdZM3duUllTSW1MOURZMFpFMFA3eFV4N1Q0U0tXX180UWE0UjM4a3hOY3ZYOU9OVmdyYWxTazlxbTMzT0JEVU1YQ2hyc2ZrNVdpUmhFWjF2ZGxpVm1NUkdvRHpkN0hFemwxUnU1cF9zcHBnV2pEZXRMNFZlRXZySWF1dUZrcm5mUkhaaHNId0JiUnhfckh4cmEwY2NIbko4U0pVU08xcUJmMVRaZWJPRXU1eXVzbWQ3VGVYWHdk?oc=5",
+      "description": "Labcorp stock outlook constrained as data and earnings context stay unclear AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-31T17:40:46+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3NqTkpNQXdZM3duUllTSW1MOURZMFpFMFA3eFV4N1Q0U0tXX180UWE0UjM4a3hOY3ZYOU9OVmdyYWxTazlxbTMzT0JEVU1YQ2hyc2ZrNVdpUmhFWjF2ZGxpVm1NUkdvRHpkN0hFemwxUnU1cF9zcHBnV2pEZXRMNFZlRXZySWF1dUZrcm5mUkhaaHNId0JiUnhfckh4cmEwY2NIbko4U0pVU08xcUJmMVRaZWJPRXU1eXVzbWQ3VGVYWHdk?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-31T17:40:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "constrained context data earnings outlook stay stock unclear"
+    },
     {
       "id": "fdbcfbe8cc5bac321180",
       "company": "Labcorp",
@@ -1401,39 +1497,6 @@
       ]
     },
     {
-      "id": "6a81316b1b3cb233fe09",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare Announces AUD 0.63 Interim Dividend",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
-      "description": "Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "source_domain": "tipranks.com",
-      "published_at": "2026-08-20T00:30:14+00:00",
-      "published_display": "20 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
-          "domain": "tipranks.com",
-          "published_at": "2026-08-20T00:30:14+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "aud dividend interim",
-      "source_description": "Sonic Healthcare Announces AUD 0.63 Interim Dividend TipRanks",
-      "chatgpt_summary": "Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T18:35:15+05:30",
-      "summary_evidence": [
-        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
-        "https://ng.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-2667765"
-      ]
-    },
-    {
       "id": "24ff906371957d967e82",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up",
@@ -1709,6 +1772,39 @@
       "summary_updated_at": "2026-08-20T18:35:15+05:30",
       "summary_evidence": [
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/CEO/Financial_and_Operational_Review_30_June_2026.pdf",
+        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
+        "https://ng.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-2667765"
+      ]
+    },
+    {
+      "id": "6a81316b1b3cb233fe09",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Announces AUD 0.63 Interim Dividend",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
+      "description": "Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-08-19T07:00:00+00:00",
+      "published_display": "19 Aug 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-08-19T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "aud dividend interim",
+      "source_description": "Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.",
+      "chatgpt_summary": "Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-20T18:35:15+05:30",
+      "summary_evidence": [
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
         "https://ng.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-2667765"
       ]
@@ -2009,6 +2105,38 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
+      ]
+    },
+    {
+      "id": "76b8bc552687be3e751e",
+      "company": "Labcorp",
+      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
+      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-17T19:22:27+00:00",
+      "published_display": "17 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-17T19:22:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
+      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
+      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-23T00:32:54+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -7243,10 +7371,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 71,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-01T06:17:00+05:30",
-  "next_update_display": "01 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-01T12:17:00+05:30",
+  "next_update_display": "01 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
