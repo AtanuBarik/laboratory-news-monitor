@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 01 Sep 2026, 12:26 PM IST
+- **Repository generated:** 01 Sep 2026, 6:27 PM IST
 - **Distinct events in this file:** 24
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5
 
-**Feed description:** Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? Kalkine Media
+**Feed description:** Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? kalkinemedia.com
 
 ## 2. Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?
 
@@ -27,7 +27,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5
 
-**Feed description:** Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? Kalkine Media
+**Feed description:** Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? kalkinemedia.com
 
 ## 3. Can Sonic Healthcare Rally Further on Profit Growth?
 
@@ -39,7 +39,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5
 
-**Feed description:** Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? Kalkine Media
+**Feed description:** Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? kalkinemedia.com
 
 ## 4. Sonic Healthcare Says Citi Acquires Over 5% Voting Power
 
@@ -198,7 +198,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5
 
-**Feed description:** Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice Kalkine Media
+**Feed description:** Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice kalkinemedia.com
 
 ## 17. Sonic Healthcare Broadens Reach With Diagnostics Deals
 
@@ -246,7 +246,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5
 
-**Feed description:** Sonic Healthcare draws attention on diagnostics activity Kalkine Media
+**Feed description:** Sonic Healthcare draws attention on diagnostics activity kalkinemedia.com
 
 ## 21. Sonic Healthcare Number of Employees 2026 | Employee Count & Headcount Data
 

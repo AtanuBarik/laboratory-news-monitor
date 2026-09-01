@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-09-01T12:26:58.685115+05:30",
-  "generated_at_display": "01 Sep 2026, 12:26 PM IST",
-  "item_count": 203,
-  "raw_relevant_item_count": 384,
-  "duplicates_merged": 107,
+  "generated_at": "2026-09-01T18:27:08.443698+05:30",
+  "generated_at_display": "01 Sep 2026, 6:27 PM IST",
+  "item_count": 204,
+  "raw_relevant_item_count": 383,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
+    {
+      "id": "865eaad19fc1f858fac7",
+      "company": "Quest Diagnostics",
+      "title": "Renalytix and Quest Diagnostics Enter Agreement to Expand Kidneyintelx.Dkd Testing in the United States",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWjJfcUk2Z1JuRi1uNzhpdHR3YnM1clBYQ2VUMDhDRV9EdVVUUmt5MzhtYTUybWFLbzNRU0lMRjVxOFhIdUpldndfSnpqdFU5V01hNXg3MjdOMDR4dFlhU2FJb3B3alZ4WGRONWFTYnc3Nk1hU0NkemR6VUljUmZPZDJBTV9aVkc4OTBlcUthMTduMDBTYW9tQTU5UGpPeXR2QVhoSVYtbmQ0TEV5Z1o5OUJ1VC1jenlKcDljVkdvQzJTMWtwcVdNNFZoTmRhQm1wM2wyYThFeW5maXRHZDNCbUJ0aEMtV0pq?oc=5",
+      "description": "Renalytix plc and Quest Diagnostics Enter Agreement to Expand Kidneyintelx.Dkd Testing in the United States marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-09-01T09:22:10+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWjJfcUk2Z1JuRi1uNzhpdHR3YnM1clBYQ2VUMDhDRV9EdVVUUmt5MzhtYTUybWFLbzNRU0lMRjVxOFhIdUpldndfSnpqdFU5V01hNXg3MjdOMDR4dFlhU2FJb3B3alZ4WGRONWFTYnc3Nk1hU0NkemR6VUljUmZPZDJBTV9aVkc4OTBlcUthMTduMDBTYW9tQTU5UGpPeXR2QVhoSVYtbmQ0TEV5Z1o5OUJ1VC1jenlKcDljVkdvQzJTMWtwcVdNNFZoTmRhQm1wM2wyYThFeW5maXRHZDNCbUJ0aEMtV0pq?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-01T09:22:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "agreement dkd enter expand kidneyintelx renalytix states testing united"
+    },
     {
       "id": "e0eaa14e16f8cec46476",
       "company": "Sonic Healthcare",
       "title": "Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5",
-      "description": "Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? Kalkine Media",
+      "description": "Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -245,7 +269,7 @@
       "company": "Sonic Healthcare",
       "title": "Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5",
-      "description": "Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? Kalkine Media",
+      "description": "Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -467,7 +491,7 @@
       "company": "Sonic Healthcare",
       "title": "Can Sonic Healthcare Rally Further on Profit Growth?",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
-      "description": "Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? Kalkine Media",
+      "description": "Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -1990,7 +2014,7 @@
       "company": "Sonic Healthcare",
       "title": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5",
-      "description": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice Kalkine Media",
+      "description": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -3667,7 +3691,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare draws attention on diagnostics activity",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
-      "description": "Sonic Healthcare draws attention on diagnostics activity Kalkine Media",
+      "description": "Sonic Healthcare draws attention on diagnostics activity kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -7360,10 +7384,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-01T18:17:00+05:30",
-  "next_update_display": "01 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-02T00:17:00+05:30",
+  "next_update_display": "02 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
