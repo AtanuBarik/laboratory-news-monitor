@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T13:15:55.766113+05:30",
-  "generated_at_display": "02 Sep 2026, 1:15 PM IST",
+  "generated_at": "2026-09-02T22:22:38.200009+05:30",
+  "generated_at_display": "02 Sep 2026, 10:22 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 100,
+  "remaining_unsummarized_count": 102,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -125,7 +125,7 @@
       "published_at": "2026-08-31T11:00:00+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
-      "coverage_count": 3,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
       "sources": [
         {
@@ -139,6 +139,14 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmR1bFJqY3drVk1NTlBfTWU5ZGRIVXIzaVNVUXZ2ZjlHZDFpcy0zdmdINl84ZThLWk9wZVVDejhwRUFSem9xd1VCallTVG15ZGRCSFB6NFFlQk5rdkhXN18zcXU0UGFQTkpCUGtjbDU5a0lHWjhPcWw2VVpXU2FvSTFpcUtSM1RPZUlNT1dZUWxpTC1WRk82TEl4Zkg4X05RWndSRDdSU2FXQjl1d3hrUEtiSk9lZ2d2MDRBSTJLWmtZTklNVFBfT0tOckFDc2VrQ01aOFRjV1ZvZFNwd05BVzhLUG56ZWVC?oc=5"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOenF0S1pPRWxFSkNkVVpNN2xkWVY4QXE1dXdZTDVQMHM0V2dYWC1uUWtCSjlDcWN0N00wSmNwNlZ1RDh4ZnI1Zk1wZ0FlSEJzZUNLU29DM1YzSmNWMEhNY0VicFRpNVBVVkE0dmZyUktRR1lXVHRGdHcyN0NyeFkzdFY1T25fUVhPZldYdVNsRXgtT0UwRDVmczBlVzc4STVaemE0?oc=5"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEpZaTM0SVU1UUdVRFZJdnFLMWo4SFpzMHBvaHZ5TTNvdS11YVVFNHpqTmxzMnY5cG1rS2IxRGVwTWlVVmRVLVFCbC1zSzF4MGtKcmpxS1BJLUNwWVYtTE5VME1TSHR0WkYwYlM0Ri1GZXVsWXFPZW1ISXNxbmRvU2ZabGhHQzZxaWVXODliR0ZpNWZqRHY4WDVqUkdhY2dyWE9vaTFmWTVwMUJrLWxmQWRaaGlGaTZPOWtkdXZmQ200SFJmM21kN0dDTmg?oc=5"
         }
       ]
     },
@@ -335,7 +343,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 6,
+      "coverage_count": 7,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {
@@ -361,6 +369,10 @@
         {
           "name": "AOL.com",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTlWXzVSa1NYMW5VdXYtck16eElSVHpjQV9XcEloc1hLalR0VVAzRnl3RjRIWWdoMlpoRDBpNXVHdGRhdlNoNERxeG9vMThYR2xscHpTNzVTZGdQNjlMWTI3WG9NSzM1bldMWnNjTmFHZXE5MXNTd05NQzNxeXpOUQ?oc=5"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3FMNFZmT0gtVG01UlNWNWF1b09hb2V4ZjJpQUNDc1RHeUVoaHFMRTNFVWZmVHQ0OGktM0ZjTUU3aUlwNFJ5d2pSWktEUjBxV0NCTVhkdHJKdVlwT3FDYUEyTEUydWpWWEsyQ29mMF9JTTJDZUkwRU12elFMSEE?oc=5"
         }
       ]
     },
@@ -578,6 +590,25 @@
       ]
     },
     {
+      "id": "35d4ac99a6dbdff14d3c",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp raises annual profit forecast on strong testing demand",
+      "source": "AOL.ca",
+      "description": "Labcorp raises annual profit forecast on strong testing demand AOL.ca",
+      "published_at": "2026-08-26T02:04:41+00:00",
+      "published_display": "26 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5",
+      "sources": [
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "403288b5f818c5e8cd2a",
       "company": "Labcorp",
       "category": "Financials",
@@ -616,25 +647,6 @@
         {
           "name": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3c4070630c1b99e19a05",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Upgraded to Buy: Here's Why",
-      "source": "Yahoo Finance",
-      "description": "Zacks upgraded Quest Diagnostics to a Zacks Rank #2 (Buy) on August 18, 2026, citing an upward trend in sell-side earnings estimates rather than a new company announcement. For the fiscal year ending December 2026, Zacks listed a consensus EPS estimate of $11.15 per share. The consensus estimate had increased 4.1% over the prior three months, which drove the rating change under Zacks' estimate-revision methodology. Zacks ranks stocks from #1 Strong Buy to #5 Strong Sell based on four factors related to earnings estimates. The firm says only the top 5% of its covered universe receives a Strong Buy rating and the next 15% receives a Buy rating, placing a Rank #2 stock within the top 20% on its estimate-revision framework. The article argues that rising estimates can support near-term share-price performance, but that is Zacks' investment thesis rather than Quest-issued guidance. Quest's most recent company outlook, issued with second-quarter results, calls for adjusted diluted EPS of $11.05-$11.25 and revenue of $11.95-$12.05 billion for 2026. The queued item therefore documents improving external earnings expectations and a ratings-model upgrade, not a change in Quest's own financial forecast, products, clinical pipeline or corporate structure.",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5"
         }
       ]
     }

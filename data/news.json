@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T12:26:58.902089+05:30",
-  "generated_at_display": "02 Sep 2026, 12:26 PM IST",
-  "item_count": 211,
-  "raw_relevant_item_count": 384,
-  "duplicates_merged": 102,
+  "generated_at": "2026-09-02T22:22:34.890873+05:30",
+  "generated_at_display": "02 Sep 2026, 10:22 PM IST",
+  "item_count": 213,
+  "raw_relevant_item_count": 367,
+  "duplicates_merged": 84,
   "failures": [],
   "items": [
     {
@@ -241,6 +241,30 @@
       "event_signature": "connect enhanced global investigator platform sites sponsors trial"
     },
     {
+      "id": "bc36f82aefb416cc2725",
+      "company": "Labcorp",
+      "title": "Labcorp announces enhancements to Labcorp Global Trial Connect",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOek1XRDZsZmdtZXByeTZVU0Fuc2Z1UTlTTXZNT1labWxXRTEtcjl6eHloSXJteFFPZ19jdkFLcVA5QjJLbmJicHloMnNCN1NGcHBub09TNkhPNllaenVjMlFpMzBIRTltTk1zUlJlZzBtU0pMZm55R1psN01jQ1o4OWxCazVPQTZ5Wl95YWJYUGtZd2NWUVAzSnJ0alBjeXFPSnhQUFJaaXFTSDhSX1JjcHVn?oc=5",
+      "description": "Labcorp announces enhancements to Labcorp Global Trial Connect TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-08-31T11:58:31+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOek1XRDZsZmdtZXByeTZVU0Fuc2Z1UTlTTXZNT1labWxXRTEtcjl6eHloSXJteFFPZ19jdkFLcVA5QjJLbmJicHloMnNCN1NGcHBub09TNkhPNllaenVjMlFpMzBIRTltTk1zUlJlZzBtU0pMZm55R1psN01jQ1o4OWxCazVPQTZ5Wl95YWJYUGtZd2NWUVAzSnJ0alBjeXFPSnhQUFJaaXFTSDhSX1JjcHVn?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-08-31T11:58:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "connect enhancements global trial"
+    },
+    {
       "id": "620b0ba2841e5b3b2c6b",
       "company": "Labcorp",
       "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
@@ -295,9 +319,21 @@
           "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWmR1bFJqY3drVk1NTlBfTWU5ZGRIVXIzaVNVUXZ2ZjlHZDFpcy0zdmdINl84ZThLWk9wZVVDejhwRUFSem9xd1VCallTVG15ZGRCSFB6NFFlQk5rdkhXN18zcXU0UGFQTkpCUGtjbDU5a0lHWjhPcWw2VVpXU2FvSTFpcUtSM1RPZUlNT1dZUWxpTC1WRk82TEl4Zkg4X05RWndSRDdSU2FXQjl1d3hrUEtiSk9lZ2d2MDRBSTJLWmtZTklNVFBfT0tOckFDc2VrQ01aOFRjV1ZvZFNwd05BVzhLUG56ZWVC?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-08-31T13:38:32+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOenF0S1pPRWxFSkNkVVpNN2xkWVY4QXE1dXdZTDVQMHM0V2dYWC1uUWtCSjlDcWN0N00wSmNwNlZ1RDh4ZnI1Zk1wZ0FlSEJzZUNLU29DM1YzSmNWMEhNY0VicFRpNVBVVkE0dmZyUktRR1lXVHRGdHcyN0NyeFkzdFY1T25fUVhPZldYdVNsRXgtT0UwRDVmczBlVzc4STVaemE0?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-31T11:00:00+00:00"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEpZaTM0SVU1UUdVRFZJdnFLMWo4SFpzMHBvaHZ5TTNvdS11YVVFNHpqTmxzMnY5cG1rS2IxRGVwTWlVVmRVLVFCbC1zSzF4MGtKcmpxS1BJLUNwWVYtTE5VME1TSHR0WkYwYlM0Ri1GZXVsWXFPZW1ISXNxbmRvU2ZabGhHQzZxaWVXODliR0ZpNWZqRHY4WDVqUkdhY2dyWE9vaTFmWTVwMUJrLWxmQWRaaGlGaTZPOWtkdXZmQ200SFJmM21kN0dDTmg?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-09-01T00:35:19+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "event_signature": "clinical complexity connect generation global help investigator launches navigate next sites sponsors trial"
     },
     {
@@ -641,6 +677,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "age biological edges health higher humanity insights stock tests updates"
+    },
+    {
+      "id": "35d4ac99a6dbdff14d3c",
+      "company": "Labcorp",
+      "title": "Labcorp raises annual profit forecast on strong testing demand",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5",
+      "description": "Labcorp raises annual profit forecast on strong testing demand AOL.ca",
+      "source": "AOL.ca",
+      "source_url": "https://www.aol.ca",
+      "source_domain": "aol.ca",
+      "published_at": "2026-08-26T02:04:41+00:00",
+      "published_display": "26 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5",
+          "domain": "aol.ca",
+          "published_at": "2026-08-26T02:04:41+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "annual demand forecast profit raises strong testing"
     },
     {
       "id": "08db6cdb9f2af816df45",
@@ -1154,9 +1214,15 @@
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTlWXzVSa1NYMW5VdXYtck16eElSVHpjQV9XcEloc1hLalR0VVAzRnl3RjRIWWdoMlpoRDBpNXVHdGRhdlNoNERxeG9vMThYR2xscHpTNzVTZGdQNjlMWTI3WG9NSzM1bldMWnNjTmFHZXE5MXNTd05NQzNxeXpOUQ?oc=5",
           "domain": "aol.com",
           "published_at": "2026-08-24T16:18:30+00:00"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3FMNFZmT0gtVG01UlNWNWF1b09hb2V4ZjJpQUNDc1RHeUVoaHFMRTNFVWZmVHQ0OGktM0ZjTUU3aUlwNFJ5d2pSWktEUjBxV0NCTVhkdHJKdVlwT3FDYUEyTEUydWpWWEsyQ29mMF9JTTJDZUkwRU12elFMSEE?oc=5",
+          "domain": "aol.ca",
+          "published_at": "2026-08-25T01:41:03+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
@@ -7567,10 +7633,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 70,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-02T18:17:00+05:30",
-  "next_update_display": "02 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-03T00:17:00+05:30",
+  "next_update_display": "03 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
