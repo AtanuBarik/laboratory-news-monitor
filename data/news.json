@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T06:25:16.697763+05:30",
-  "generated_at_display": "02 Sep 2026, 6:25 AM IST",
+  "generated_at": "2026-09-02T12:26:58.902089+05:30",
+  "generated_at_display": "02 Sep 2026, 12:26 PM IST",
   "item_count": 211,
-  "raw_relevant_item_count": 381,
-  "duplicates_merged": 99,
+  "raw_relevant_item_count": 384,
+  "duplicates_merged": 102,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock trades near 52-week high on new kidney testing deal",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5",
-      "description": "Quest Diagnostics stock trades near 52-week high on new kidney testing deal AD HOC NEWS",
+      "description": "Quest Diagnostics stock trades near 52-week high as kidney testing deal lifts valuation AD HOC NEWS",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -25,9 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-01T16:23:13+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGR1c0RHSGJGZ0M5S21WTll4TTdIRk5PNHVWN1FqS3RydzE2RkxMT3NUOUdRZ0VHVGhINzcxMjdNUGZBY1Nua1VOb2FJRE5vLU1pemkwRHVmZXBHa3ZWazE1a1RUT3U5Nndtd0dXZ2k3OFZLa1JEcVBzbGNNelczdDVodTJlZEd2eC00bGJlemlmcEtGZVVUV1hwWG1aZmtNbjFCRWRYUDJmM1ctZlBQYjZJUHdobEtFY3ZES18wRHdzWDZyMm9kd0VSQlEtbm8?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-02T06:37:15+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "deal high kidney near stock testing trades week"
     },
     {
@@ -83,7 +89,7 @@
       "company": "Labcorp",
       "title": "Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjI1bG1UTF9QVmdPZFVXNUtaeG5zNWlqdnhCeS1icVhidHJFUWR0Q2RPOVJFU19tczlIWmViWkx4aTB0WHJzTkFlY01EdGhBaVJ5RVhIUHh0S2tHZG1ZaEFkSnNLMDNETmJCYUlUcUxxVFVEV29rTFNfTjlFMmw4TmRJaFU3NEx0R3YzdUcya0hiRElDeUxtZ01fU3VWdjlwdnI3WTh5SVBRZ3B4ZUtKY052NTBIbXhsQXNmS3ZzSkE?oc=5",
-      "description": "Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows HIT Consultant",
+      "description": "Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows hitconsultant.net",
       "source": "HIT Consultant",
       "source_url": "https://hitconsultant.net",
       "source_domain": "hitconsultant.net",
@@ -161,7 +167,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -175,9 +181,15 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
           "domain": "marketwatch.com",
           "published_at": "2026-08-31T21:00:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-01T20:59:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "compared competitors monday stock underperforms when"
     },
     {
@@ -461,7 +473,7 @@
       "company": "Labcorp",
       "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test Yahoo Finance",
+      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -2211,9 +2223,15 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5",
           "domain": "investing.com",
           "published_at": "2026-08-18T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3dIenBPLWVOejY1WXB0UlhLSTZ0ZEtiWVJPdjFrT0o5YTM4bHdOVnplWng2MktIR1BCd1NhTGFxaHlyUmV3MXQ5djl3SzFvTDNpYmo5MEw2Um5tRjZXdmpTSG10dnZsQ0N4aEtzUjFlS1Vzd0c2VWZjMzJaSnhFbVVrcmMwZmlEQm9xNkZUTEFnQlc5dTVtRlRGLVhlRDRxdExkMlEybmd5b00tQ2c3NGVQVlRibWJsYkp0Nk9B?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-08-18T11:36:29+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "center develop health leaders nachc partners",
       "source_description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
       "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
@@ -7549,10 +7567,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 70,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-02T12:17:00+05:30",
-  "next_update_display": "02 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-02T18:17:00+05:30",
+  "next_update_display": "02 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

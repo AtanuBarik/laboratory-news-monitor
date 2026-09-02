@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T07:25:49.188311+05:30",
-  "generated_at_display": "02 Sep 2026, 7:25 AM IST",
+  "generated_at": "2026-09-02T12:27:02.205397+05:30",
+  "generated_at_display": "02 Sep 2026, 12:27 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -167,7 +167,7 @@
       "category": "Clinical, R&D",
       "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
       "source": "Yahoo Finance",
-      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test Yahoo Finance",
+      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
       "published_at": "2026-08-28T02:17:00+00:00",
       "published_display": "28 Aug 2026",
       "official_source": false,

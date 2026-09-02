@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 02 Sep 2026, 6:25 AM IST
+- **Repository generated:** 02 Sep 2026, 12:26 PM IST
 - **Distinct events in this file:** 104
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,12 +10,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 01 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGR1c0RHSGJGZ0M5S21WTll4TTdIRk5PNHVWN1FqS3RydzE2RkxMT3NUOUdRZ0VHVGhINzcxMjdNUGZBY1Nua1VOb2FJRE5vLU1pemkwRHVmZXBHa3ZWazE1a1RUT3U5Nndtd0dXZ2k3OFZLa1JEcVBzbGNNelczdDVodTJlZEd2eC00bGJlemlmcEtGZVVUV1hwWG1aZmtNbjFCRWRYUDJmM1ctZlBQYjZJUHdobEtFY3ZES18wRHdzWDZyMm9kd0VSQlEtbm8?oc=5
 
-**Feed description:** Quest Diagnostics stock trades near 52-week high on new kidney testing deal AD HOC NEWS
+**Feed description:** Quest Diagnostics stock trades near 52-week high as kidney testing deal lifts valuation AD HOC NEWS
 
 ## 2. Renalytix and Quest Diagnostics Enter Agreement to Expand Kidneyintelx.Dkd Testing in the United States
 
@@ -47,12 +48,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - MarketWatch: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5
+  - MarketWatch: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5
 
-**Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch
+**Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch
 
 ## 5. Quest Diagnostics stock holds steady as investors await fresh earnings catalysts
 

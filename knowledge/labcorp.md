@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 02 Sep 2026, 6:25 AM IST
+- **Repository generated:** 02 Sep 2026, 12:26 PM IST
 - **Distinct events in this file:** 82
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - HIT Consultant: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjI1bG1UTF9QVmdPZFVXNUtaeG5zNWlqdnhCeS1icVhidHJFUWR0Q2RPOVJFU19tczlIWmViWkx4aTB0WHJzTkFlY01EdGhBaVJ5RVhIUHh0S2tHZG1ZaEFkSnNLMDNETmJCYUlUcUxxVFVEV29rTFNfTjlFMmw4TmRJaFU3NEx0R3YzdUcya0hiRElDeUxtZ01fU3VWdjlwdnI3WTh5SVBRZ3B4ZUtKY052NTBIbXhsQXNmS3ZzSkE?oc=5
 
-**Feed description:** Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows HIT Consultant
+**Feed description:** Labcorp Redesigns Global Trial Connect to Streamline Sponsor and Investigator Workflows hitconsultant.net
 
 ## 2. Labcorp stock steady as guidance and earnings frame 2026 outlook
 
@@ -101,7 +101,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test Yahoo Finance
+**Feed description:** Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com
 
 ## 9. Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares
 
@@ -320,10 +320,11 @@
 - **Company:** Labcorp
 - **Publication date:** 18 Aug 2026
 - **Category:** Leadership Changes
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3dIenBPLWVOejY1WXB0UlhLSTZ0ZEtiWVJPdjFrT0o5YTM4bHdOVnplWng2MktIR1BCd1NhTGFxaHlyUmV3MXQ5djl3SzFvTDNpYmo5MEw2Um5tRjZXdmpTSG10dnZsQ0N4aEtzUjFlS1Vzd0c2VWZjMzJaSnhFbVVrcmMwZmlEQm9xNkZUTEFnQlc5dTVtRlRGLVhlRDRxdExkMlEybmd5b00tQ2c3NGVQVlRibWJsYkp0Nk9B?oc=5
 
 **Feed description:** Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.
 
