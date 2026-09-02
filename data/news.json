@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-02T22:22:34.890873+05:30",
-  "generated_at_display": "02 Sep 2026, 10:22 PM IST",
-  "item_count": 213,
-  "raw_relevant_item_count": 367,
-  "duplicates_merged": 84,
+  "generated_at": "2026-09-03T02:50:21.372086+05:30",
+  "generated_at_display": "03 Sep 2026, 2:50 AM IST",
+  "item_count": 214,
+  "raw_relevant_item_count": 346,
+  "duplicates_merged": 68,
   "failures": [],
   "items": [
+    {
+      "id": "6bdc6a87c38084cb51d9",
+      "company": "Labcorp",
+      "title": "Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnhUbk80aW1HeXpzY3N5dDlUVFNXOWkySjFxU1VzbjNadkkzUHBybVJtSHQ5NUcwNHFzNVlfSTlQM3JuMV91THZsanh2SVI3N2Y4YUN1QnFfT0YxS21XbUllbm5DVDhST2hsel8zU0NfQlM5WkVUd09jRWZzUnlNaUJyd1RCeklKRldEVkwxNGx1QTlJdGtIRzZDSWxHVnc5dVRTNEVFVF9fUmFVbFRsRDJXajNPSXB5RFhzNU4tTkZ3U2kxcjB6RjAyLTQ?oc=5",
+      "description": "Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-02T07:11:23+00:00",
+      "published_display": "02 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnhUbk80aW1HeXpzY3N5dDlUVFNXOWkySjFxU1VzbjNadkkzUHBybVJtSHQ5NUcwNHFzNVlfSTlQM3JuMV91THZsanh2SVI3N2Y4YUN1QnFfT0YxS21XbUllbm5DVDhST2hsel8zU0NfQlM5WkVUd09jRWZzUnlNaUJyd1RCeklKRldEVkwxNGx1QTlJdGtIRzZDSWxHVnc5dVRTNEVFVF9fUmFVbFRsRDJXajNPSXB5RFhzNU4tTkZ3U2kxcjB6RjAyLTQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-02T07:11:23+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "high holds investors momentum near recent steady stock watch yearly"
+    },
     {
       "id": "08dbf9065b8794da6148",
       "company": "Quest Diagnostics",
@@ -157,9 +181,15 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5",
           "domain": "m.au.investing.com",
           "published_at": "2026-09-01T02:49:25+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-31T21:18:33+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "counsel general sells shares svp"
     },
     {
@@ -245,7 +275,7 @@
       "company": "Labcorp",
       "title": "Labcorp announces enhancements to Labcorp Global Trial Connect",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOek1XRDZsZmdtZXByeTZVU0Fuc2Z1UTlTTXZNT1labWxXRTEtcjl6eHloSXJteFFPZ19jdkFLcVA5QjJLbmJicHloMnNCN1NGcHBub09TNkhPNllaenVjMlFpMzBIRTltTk1zUlJlZzBtU0pMZm55R1psN01jQ1o4OWxCazVPQTZ5Wl95YWJYUGtZd2NWUVAzSnJ0alBjeXFPSnhQUFJaaXFTSDhSX1JjcHVn?oc=5",
-      "description": "Labcorp announces enhancements to Labcorp Global Trial Connect TipRanks",
+      "description": "Labcorp announces enhancements to Labcorp Global Trial Connect tipranks.com",
       "source": "TipRanks",
       "source_url": "https://www.tipranks.com",
       "source_domain": "tipranks.com",
@@ -7633,10 +7663,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 64,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-03T00:17:00+05:30",
-  "next_update_display": "03 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-03T06:17:00+05:30",
+  "next_update_display": "03 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

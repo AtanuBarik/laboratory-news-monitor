@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 02 Sep 2026, 10:22 PM IST
+- **Repository generated:** 03 Sep 2026, 2:50 AM IST
 - **Distinct events in this file:** 104
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -35,11 +35,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5
   - Investing.com Australia: https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5
 
 **Feed description:** Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia
 
