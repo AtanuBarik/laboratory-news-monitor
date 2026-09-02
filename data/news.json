@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T00:24:35.599872+05:30",
-  "generated_at_display": "02 Sep 2026, 12:24 AM IST",
-  "item_count": 205,
-  "raw_relevant_item_count": 382,
-  "duplicates_merged": 101,
+  "generated_at": "2026-09-02T06:25:16.697763+05:30",
+  "generated_at_display": "02 Sep 2026, 6:25 AM IST",
+  "item_count": 211,
+  "raw_relevant_item_count": 381,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
     {
@@ -155,6 +155,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "counsel general sells shares svp"
+    },
+    {
+      "id": "32c016b42b6cde2453b4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-08-31T21:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-08-31T21:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors monday stock underperforms when"
     },
     {
       "id": "b2fb6b3d5db51177f621",
@@ -311,6 +335,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "200 attention drawing income retirement"
+    },
+    {
+      "id": "78f83c99f40c88b7d91d",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
+      "description": "LH Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning vinanet.vn",
+      "source": "vinanet.vn",
+      "source_url": "http://vinanet.vn",
+      "source_domain": "vinanet.vn",
+      "published_at": "2026-08-29T13:37:36+00:00",
+      "published_display": "29 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-08-29T13:37:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beats consensus earnings edges eps growth lower slow stock warning"
     },
     {
       "id": "013532cfb9d101e30902",
@@ -485,6 +533,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "246 all high hits stock time usd"
+    },
+    {
+      "id": "5a7b9d5ee29df8231edb",
+      "company": "Labcorp",
+      "title": "Labcorp Careers: Clinical Research Job Opportunity",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5",
+      "description": "Labcorp Careers: Clinical Research Job Opportunity BioTecNika",
+      "source": "BioTecNika",
+      "source_url": "https://www.biotecnika.org",
+      "source_domain": "biotecnika.org",
+      "published_at": "2026-08-27T12:34:26+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioTecNika",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5",
+          "domain": "biotecnika.org",
+          "published_at": "2026-08-27T12:34:26+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "careers clinical job opportunity research"
     },
     {
       "id": "eaaf783d25e14d44c542",
@@ -733,6 +805,30 @@
       "event_signature": "245 above adds blood break can elecsys ptau217 roche test"
     },
     {
+      "id": "624c470e6f4210921500",
+      "company": "Labcorp",
+      "title": "Labcorp announces FDA-cleared Elecsys pTau217 test as stock edges lower",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHFjVVFBLWp3MU1RZ1NVMU1reXZHZmZ1ZUVQZ3FaUW41TDFSa0tIQnRva2l3NWZrSlNUUVpIcmVKMWZJNEFiUGhPRzRhNFBEb2FvUUg5aW92dnpYaFFBV0ZZMFVTNElZU09UN0hIQ2t1S1RkNDFzQl93UUpUZEdlb1JrTThrTjlKbEE?oc=5",
+      "description": "Labcorp announces FDA-cleared Elecsys pTau217 test as stock edges lower Traders Union",
+      "source": "Traders Union",
+      "source_url": "https://tradersunion.com",
+      "source_domain": "tradersunion.com",
+      "published_at": "2026-08-24T13:35:24+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHFjVVFBLWp3MU1RZ1NVMU1reXZHZmZ1ZUVQZ3FaUW41TDFSa0tIQnRva2l3NWZrSlNUUVpIcmVKMWZJNEFiUGhPRzRhNFBEb2FvUUg5aW92dnpYaFFBV0ZZMFVTNElZU09UN0hIQ2t1S1RkNDFzQl93UUpUZEdlb1JrTThrTjlKbEE?oc=5",
+          "domain": "tradersunion.com",
+          "published_at": "2026-08-24T13:35:24+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cleared edges elecsys fda lower ptau217 stock test"
+    },
+    {
       "id": "6e9bc5f12dfa4af5f4da",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel",
@@ -935,6 +1031,30 @@
       ]
     },
     {
+      "id": "8051c7ada888b66eb62e",
+      "company": "Labcorp",
+      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
+      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-08-24T11:33:54+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-08-24T11:33:54+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer blood cleared com fda investing nationwide offer test"
+    },
+    {
       "id": "d5687d4caaf25e15b862",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology",
@@ -971,39 +1091,6 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
         "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
-      ]
-    },
-    {
-      "id": "6248cf18c368ee3da656",
-      "company": "Labcorp",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
-      "description": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-24T11:18:21+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-24T11:18:21+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer blood cleared fda nationwide offer test",
-      "source_description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com",
-      "chatgpt_summary": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T12:39:40+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-offer-first-fda-cleared-blood-test-detect-alzheimers",
-        "https://sg.finance.yahoo.com/news/labcorp-offer-first-fda-cleared-110200128.html"
       ]
     },
     {
@@ -1083,6 +1170,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "alzheime blood cleared detect fda first offer test"
+    },
+    {
+      "id": "403288b5f818c5e8cd2a",
+      "company": "Labcorp",
+      "title": "Labcorp EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5",
+      "description": "Labcorp (LH) EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-08-23T07:00:00+00:00",
+      "published_display": "23 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-08-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "capex current eps expectations finish guidance higher market move revenue session shares tops"
     },
     {
       "id": "90e213eccfc396c44dfd",
@@ -1501,6 +1612,30 @@
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf",
         "https://ng.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-2667765"
       ]
+    },
+    {
+      "id": "bc6ba8d23077ebaf2b17",
+      "company": "Quest Diagnostics",
+      "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and Irhythm Technologies (IRTC)",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTnF4N3pnelUwa2lsUW1ZcGVieGJFQVlpT2lRVjFuMkh0bGVmanJFXzQwZVZxdWhzZVF3cXFDbDNkYzhlY2pDUHItS3VzR0VVUGhfTTE5Tk5mcTJzcVZTcWhldlM3WmlsR0FGN2ZwdElGUnBzYy1lZWtSOVZScWdrazJOTWFxWXJzb2FfSnpDYjAxd2p2NGdPV1F6ZmRDeVgwTnpxeHRCTmlBbm80NVA3WWFPRUdvYXd4cHRTczU4ZWhTWXVZMWFYUG9Ma2k5SjBaR3dTbjFnajd0Rm1XWFZ4YWVxcExjcDFsNHQ1dWI2b19IVUdsN0FhS3F3VGFpUm9JYlVEbTJRWmR5LVRzMVJmSVVPVHg?oc=5",
+      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and Irhythm Technologies (IRTC) The Globe and Mail",
+      "source": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com",
+      "source_domain": "theglobeandmail.com",
+      "published_at": "2026-08-20T07:00:00+00:00",
+      "published_display": "20 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTnF4N3pnelUwa2lsUW1ZcGVieGJFQVlpT2lRVjFuMkh0bGVmanJFXzQwZVZxdWhzZVF3cXFDbDNkYzhlY2pDUHItS3VzR0VVUGhfTTE5Tk5mcTJzcVZTcWhldlM3WmlsR0FGN2ZwdElGUnBzYy1lZWtSOVZScWdrazJOTWFxWXJzb2FfSnpDYjAxd2p2NGdPV1F6ZmRDeVgwTnpxeHRCTmlBbm80NVA3WWFPRUdvYXd4cHRTczU4ZWhTWXVZMWFYUG9Ma2k5SjBaR3dTbjFnajd0Rm1XWFZ4YWVxcExjcDFsNHQ1dWI2b19IVUdsN0FhS3F3VGFpUm9JYlVEbTJRWmR5LVRzMVJmSVVPVHg?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-08-20T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analysts companies insights irhythm irtc offer technologies"
     },
     {
       "id": "0613c3dd2eb953bd8d43",
@@ -3143,9 +3278,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5",
           "domain": "moomoo.com",
           "published_at": "2026-08-10T12:51:24+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVBQalRabnNQOFg1ZTRCaFdfTGhOUG9pQ2ZiUWxQWjF5ZUNqSXE0WTFaUmVLc1J4ai1KMllQZDBOZlFVa1V3TGoyZkZkallZWDN0VWhHMURmX09idjZNRGQyMWRNa1VQZDJoZFloTDlaRTZMX1Vxcjdrd2NlNkp6NGtTTXp6TnI1TkVNYi1sOFowUzZRamxuZjBxRkJFRGlESlhJ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting",
       "source_description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liqu…",
       "chatgpt_summary": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
@@ -7408,10 +7549,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 70,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-02T06:17:00+05:30",
-  "next_update_display": "02 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-02T12:17:00+05:30",
+  "next_update_display": "02 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
