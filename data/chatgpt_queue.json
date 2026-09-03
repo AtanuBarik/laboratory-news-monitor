@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-03T22:39:51.960744+05:30",
-  "generated_at_display": "03 Sep 2026, 10:39 PM IST",
+  "generated_at": "2026-09-04T02:52:38.268793+05:30",
+  "generated_at_display": "04 Sep 2026, 2:52 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 104,
+  "remaining_unsummarized_count": 107,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "f2d3303ec258ff623e8d",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction",
+      "source": "Kalkine Media",
+      "description": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media",
+      "published_at": "2026-09-03T18:41:45+00:00",
+      "published_display": "03 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5"
+        }
+      ]
+    },
     {
       "id": "c0dd83030e2a3cae140a",
       "company": "Quest Diagnostics",
@@ -476,6 +495,25 @@
       ]
     },
     {
+      "id": "c2306c7453f1c6b8198b",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp stock holds steady as investors look to next earnings signal",
+      "source": "AD HOC NEWS",
+      "description": "Labcorp stock holds steady as investors look to next earnings signal AD HOC NEWS",
+      "published_at": "2026-09-03T20:11:04+00:00",
+      "published_display": "03 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e0eaa14e16f8cec46476",
       "company": "Sonic Healthcare",
       "category": "Financials",
@@ -605,44 +643,6 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "35d4ac99a6dbdff14d3c",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp raises annual profit forecast on strong testing demand",
-      "source": "AOL.ca",
-      "description": "Labcorp raises annual profit forecast on strong testing demand AOL.ca",
-      "published_at": "2026-08-26T02:04:41+00:00",
-      "published_display": "26 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5",
-      "sources": [
-        {
-          "name": "AOL.ca",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "403288b5f818c5e8cd2a",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance",
-      "source": "dars.gov.et",
-      "description": "Labcorp (LH) EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance dars.gov.et",
-      "published_at": "2026-08-23T07:00:00+00:00",
-      "published_display": "23 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5",
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5"
         }
       ]
     }

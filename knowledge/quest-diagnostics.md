@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 03 Sep 2026, 10:11 PM IST
+- **Repository generated:** 04 Sep 2026, 2:52 AM IST
 - **Distinct events in this file:** 105
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -47,12 +47,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5
   - Investing.com Australia: https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpfQlNTekJ0QjA0TjdQX09CZTJ5V0FrSFFSU3czNzIwXy1rNzRzMDlucjBZTnE0SXEwT2k2RjZ3VDhLX3JDVW9wWWNiMU5oQnY1Ynd3ODc2bzRPX3dxZUtsc05OaTE5bnlreVVkcDRDWmtiUGpiZHlmZFF0RnJCUHBHVVpzdTJ2VGN2VGxZd1E0azVJQlVUZGd4WHluTTRETGVhUW1LZzBnUlI2Sk1yUk1mNzRFV3lPSmZj?oc=5
 
 **Feed description:** Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia
 
@@ -67,7 +68,7 @@
   - MarketWatch: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5
   - MarketWatch: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5
 
-**Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch
+**Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
 ## 6. Quest Diagnostics stock holds steady as investors await fresh earnings catalysts
 
@@ -271,11 +272,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5
   - BioBuzz: https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFYtdTlxanIzNlozYUE5aWtsR2tjbEV4dWJLbXVVYVFzdWhnR09QcHpTemh4dWx2SDZZeWRiY1dyNWE4N1NoQzk4eUtaNGdIV3JGYUNpeVYwdTZicEY1SXU3dWRjUVcyMXdPc3NsMnNhVU9VeDBhS1l2Ml8tZV9jZGVzVEN0Rm9LaGl4Z1pzMnEzTldTMEhlU1ZQV3ZBT3dMcXlHUDF2YndNT2JTRlQwRmNXcXlsV0VuTzlHa2NUUmItVkR2VFE?oc=5
+  - finance.yahoo.com: https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmRpS3V2N2lfTnNLYU5MbFR4SkdKN2ZSRG5Ddmp4Z3Q0enE2dTFHQTBNY1dWOWVMZl9OTlQ4MXFsNzJoak1Iam1Ob2VfZjI3dkp3Q1Q1blFMb2tlV3dsY1lQV1FWVVo2YVg0Y2tnVFVwQmpjYzNoTktmUXZyTHZ5U0pkZ0FZQWpPUlNxZHNtSEhaSzRkOVhuRWRqVWU?oc=5
 
 **Feed description:** Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.
 
@@ -521,7 +523,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 12 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - AOL.com: https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5
@@ -529,6 +531,7 @@
   - PR Newswire: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT3BJNUowMmpSa2FTaHlCYjNpdjByd2JVNUlaXzdNSFZlV1E4bnpfTV9NZ0ZVTEJ6c3dleGVod2NvT1MyTjUyNG1CSldzVm4xVks1dnJ4aU92ck5JSnhvaTdPNHNzU3c3UFFMbW5rbEd2eDc1dlQ0cDdaRzVRZXN3aHZNQkJiZlNrd2ZUR0JfZVUxa2lsQzBiV0NVbW4yaW9EZURKWXJBZWZWUQ?oc=5
   - Stock Titan: https://news.google.com/rss/articles/CBMimwFBVV95cUxNTW1ieDBzdHJsMVJOcFJTQkIyalNEaUVsTjFhaDR5VmJHRVpRRklMRm8zRThrTVdGYTRYSC1jX0dKTzFwNHdwdFA0T0lfZXpxYnFtMUtXMExSLWR4QnFEbl9oZ054UE1zdHFrRldtQXJpNmpnUF9mT1praS04b2tIYVJoanFENjFPMDhYSEJaS1kzQ0Jzb3E1a25hVQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVqU1NfcS1vcGtDblJReTlLUHd5Q2NSeXgxaGI5czBkVkZzT1lLTmFWZG5EbmVrZEVXRXU1MWxDNGhubTltTDBMUUowOGNWYXRIMVNKV3NkOF9qZVhUdXNVNmFHTms0a2ZURzB1ckJiREVXQnpCOXFnZXFqMVJfTkRHV0VrX09EUjI0UHdlZ29jTDhDaUxRb2l2UGowZVI4cjRfX2VmVU16dw?oc=5
+  - finance.yahoo.com: https://news.google.com/rss/articles/CBMipAFBVV95cUxNM01OR0g1LS00U1BDSHRNRnY4ZV9wUEZLVlFaa3dCZ3J2dXBPV1V5SmpaM1ZzMkZHZUg3WGN3Y2F3S0p1M25vYno4RkprQ3Fmbml0QmREdkJMS3hFQm5zV0RDWS1qMzFKZExZTGp0X1lsLTN2QTdfNW9ZT2VtN1NYT0Vta3lwWmtIQ1FWWlhkTjNPMEZkUkVsRExCNjFRUEU1LVZEaw?oc=5
 
 **Feed description:** Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.
 
@@ -556,14 +559,15 @@
 
 **Feed description:** Quest Diagnostics Schedule An Apptsoundnik Detail Toimihenkilöliitto Erto
 
-## 45. Make An Appointment With Quest Diagnostics Onlinelibrary Detail
+## 45. Make An Appointment With Quest Diagnostics Onlinecontribution
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Aug 2026
 - **Category:** Leadership Changes
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Oma Erto: https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2doM0N6bEpqMjRyLVJPaEcyMW9uQnlHN1NadTRFN2c0Vi1ET1dSUzdhV1dXZkVEVG1IYng3UTN1UkRXZFcxbVRHRVI2V3BCWUs1R051ZWg3bHpPdlZGVUJNTTl1TFdjYmlPUmJtZ2RHQVIzTVJkbGoxSTBqSU52WmVXQmY3T2luTXd0VWU0NU9Bckk?oc=5
   - Toimihenkilöliitto Erto: https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5
 
 **Feed description:** Make An Appointment With Quest Diagnostics Onlinelibrary Detail Toimihenkilöliitto Erto

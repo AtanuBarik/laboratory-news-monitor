@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-03T22:11:52.332983+05:30",
-  "generated_at_display": "03 Sep 2026, 10:11 PM IST",
-  "item_count": 215,
-  "raw_relevant_item_count": 318,
-  "duplicates_merged": 53,
+  "generated_at": "2026-09-04T02:52:34.447008+05:30",
+  "generated_at_display": "04 Sep 2026, 2:52 AM IST",
+  "item_count": 218,
+  "raw_relevant_item_count": 336,
+  "duplicates_merged": 58,
   "failures": [],
   "items": [
+    {
+      "id": "c2306c7453f1c6b8198b",
+      "company": "Labcorp",
+      "title": "Labcorp stock holds steady as investors look to next earnings signal",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
+      "description": "Labcorp stock holds steady as investors look to next earnings signal AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-03T20:11:04+00:00",
+      "published_display": "03 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-03T20:11:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings holds investors look next signal steady stock"
+    },
+    {
+      "id": "f2d3303ec258ff623e8d",
+      "company": "Labcorp",
+      "title": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5",
+      "description": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-09-03T18:41:45+00:00",
+      "published_display": "03 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-09-03T18:41:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 940 acquires akinbolade cio derivative oyegunwa securities september transaction"
+    },
     {
       "id": "6bdc6a87c38084cb51d9",
       "company": "Labcorp",
@@ -211,9 +259,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5",
           "domain": "investing.com",
           "published_at": "2026-08-31T21:18:33+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpfQlNTekJ0QjA0TjdQX09CZTJ5V0FrSFFSU3czNzIwXy1rNzRzMDlucjBZTnE0SXEwT2k2RjZ3VDhLX3JDVW9wWWNiMU5oQnY1Ynd3ODc2bzRPX3dxZUtsc05OaTE5bnlreVVkcDRDWmtiUGpiZHlmZFF0RnJCUHBHVVpzdTJ2VGN2VGxZd1E0azVJQlVUZGd4WHluTTRETGVhUW1LZzBnUlI2Sk1yUk1mNzRFV3lPSmZj?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-08-31T22:25:57+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "counsel general sells shares svp"
     },
     {
@@ -221,7 +275,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -1205,9 +1259,15 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFYtdTlxanIzNlozYUE5aWtsR2tjbEV4dWJLbXVVYVFzdWhnR09QcHpTemh4dWx2SDZZeWRiY1dyNWE4N1NoQzk4eUtaNGdIV3JGYUNpeVYwdTZicEY1SXU3dWRjUVcyMXdPc3NsMnNhVU9VeDBhS1l2Ml8tZV9jZGVzVEN0Rm9LaGl4Z1pzMnEzTldTMEhlU1ZQV3ZBT3dMcXlHUDF2YndNT2JTRlQwRmNXcXlsV0VuTzlHa2NUUmItVkR2VFE?oc=5",
           "domain": "biobuzz.io",
           "published_at": "2026-08-26T15:23:09+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmRpS3V2N2lfTnNLYU5MbFR4SkdKN2ZSRG5Ddmp4Z3Q0enE2dTFHQTBNY1dWOWVMZl9OTlQ4MXFsNzJoak1Iam1Ob2VfZjI3dkp3Q1Q1blFMb2tlV3dsY1lQV1FWVVo2YVg0Y2tnVFVwQmpjYzNoTktmUXZyTHZ5U0pkZ0FZQWpPUlNxZHNtSEhaSzRkOVhuRWRqVWU?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-24T11:24:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "alzheimer assess blood cleared disease fda offer pathology ptau217 roche test",
       "source_description": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology PR Newswire",
       "chatgpt_summary": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
@@ -2986,9 +3046,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVqU1NfcS1vcGtDblJReTlLUHd5Q2NSeXgxaGI5czBkVkZzT1lLTmFWZG5EbmVrZEVXRXU1MWxDNGhubTltTDBMUUowOGNWYXRIMVNKV3NkOF9qZVhUdXNVNmFHTms0a2ZURzB1ckJiREVXQnpCOXFnZXFqMVJfTkRHV0VrX09EUjI0UHdlZ29jTDhDaUxRb2l2UGowZVI4cjRfX2VmVU16dw?oc=5",
           "domain": "investing.com",
           "published_at": "2026-08-12T07:00:00+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM01OR0g1LS00U1BDSHRNRnY4ZV9wUEZLVlFaa3dCZ3J2dXBPV1V5SmpaM1ZzMkZHZUg3WGN3Y2F3S0p1M25vYno4RkprQ3Fmbml0QmREdkJMS3hFQm5zV0RDWS1qMzFKZExZTGp0X1lsLTN2QTdfNW9ZT2VtN1NYT0Vta3lwWmtIQ1FWWlhkTjNPMEZkUkVsRExCNjFRUEU1LVZEaw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-12T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "cash declares dividend quarterly",
       "source_description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
       "chatgpt_summary": "Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.",
@@ -3245,30 +3311,6 @@
       "event_signature": "drug process testing"
     },
     {
-      "id": "844a8e1a425358c5b6a6",
-      "company": "Quest Diagnostics",
-      "title": "Make An Appointment With Quest Diagnostics Onlinelibrary Detail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5",
-      "description": "Make An Appointment With Quest Diagnostics Onlinelibrary Detail Toimihenkilöliitto Erto",
-      "source": "Toimihenkilöliitto Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T21:33:43+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T21:33:43+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "appointment detail make onlinelibrary"
-    },
-    {
       "id": "3f24010abd430909eef1",
       "company": "Labcorp",
       "title": "Labcorp Locations For Drug Testing",
@@ -3291,6 +3333,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "drug locations testing"
+    },
+    {
+      "id": "36f7803cb44ad23a08f0",
+      "company": "Quest Diagnostics",
+      "title": "Make An Appointment With Quest Diagnostics Onlinecontribution",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2doM0N6bEpqMjRyLVJPaEcyMW9uQnlHN1NadTRFN2c0Vi1ET1dSUzdhV1dXZkVEVG1IYng3UTN1UkRXZFcxbVRHRVI2V3BCWUs1R051ZWg3bHpPdlZGVUJNTTl1TFdjYmlPUmJtZ2RHQVIzTVJkbGoxSTBqSU52WmVXQmY3T2luTXd0VWU0NU9Bckk?oc=5",
+      "description": "Make An Appointment With Quest Diagnostics Onlinelibrary Detail Toimihenkilöliitto Erto",
+      "source": "Oma Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-10T20:09:30+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Oma Erto",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2doM0N6bEpqMjRyLVJPaEcyMW9uQnlHN1NadTRFN2c0Vi1ET1dSUzdhV1dXZkVEVG1IYng3UTN1UkRXZFcxbVRHRVI2V3BCWUs1R051ZWg3bHpPdlZGVUJNTTl1TFdjYmlPUmJtZ2RHQVIzTVJkbGoxSTBqSU52WmVXQmY3T2luTXd0VWU0NU9Bckk?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T20:09:30+00:00"
+        },
+        {
+          "name": "Toimihenkilöliitto Erto",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T21:33:43+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "appointment make onlinecontribution"
     },
     {
       "id": "0bdc4a693d0cba7b7129",
@@ -3339,6 +3411,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "cas convenient fingertips health riverside services your"
+    },
+    {
+      "id": "24a884501ed24661b9a2",
+      "company": "Labcorp",
+      "title": "Unraveling The Mystery Of Your Body Labcorp Memphis Tns Comprehensive Metabolic Panel",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUJGWXpCdVFLZk1CWkIwQndMR21zSHBCRWVRSUpZOHZ4TFplZWlyRGlEQWViWFk1c0hCWDdLRXYyQVp2MzlTWkE3dWl6cW5UQjI3V1FQZmNQcE0wbFBMSlZUOHFzM3cza1dJaWpOeGpwVENPX1ZRTFA4T25QbXV4ZllBaHVJb2c0cTktX29yNEtpN3hTazZXb29DUDlpc3IwMElNa29XMmlteUMzcmxUTGRURQ?oc=5",
+      "description": "Unraveling The Mystery Of Your Body Labcorp Memphis Tns Comprehensive Metabolic Panel Oma Erto",
+      "source": "Oma Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-10T12:56:50+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Oma Erto",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUJGWXpCdVFLZk1CWkIwQndMR21zSHBCRWVRSUpZOHZ4TFplZWlyRGlEQWViWFk1c0hCWDdLRXYyQVp2MzlTWkE3dWl6cW5UQjI3V1FQZmNQcE0wbFBMSlZUOHFzM3cza1dJaWpOeGpwVENPX1ZRTFA4T25QbXV4ZllBaHVJb2c0cTktX29yNEtpN3hTazZXb29DUDlpc3IwMElNa29XMmlteUMzcmxUTGRURQ?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T12:56:50+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "body comprehensive memphis metabolic mystery panel tns unraveling your"
     },
     {
       "id": "26e34857f08ccef9e101",
@@ -7705,10 +7801,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 60,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-04T00:17:00+05:30",
-  "next_update_display": "04 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-04T06:17:00+05:30",
+  "next_update_display": "04 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
