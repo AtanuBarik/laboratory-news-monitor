@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T10:38:37.170924+05:30",
-  "generated_at_display": "03 Sep 2026, 10:38 AM IST",
-  "item_count": 214,
-  "raw_relevant_item_count": 331,
-  "duplicates_merged": 64,
+  "generated_at": "2026-09-03T17:14:23.674983+05:30",
+  "generated_at_display": "03 Sep 2026, 5:14 PM IST",
+  "item_count": 215,
+  "raw_relevant_item_count": 322,
+  "duplicates_merged": 59,
   "failures": [],
   "items": [
     {
@@ -83,6 +83,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "agreement dkd enter expand kidneyintelx renalytix states testing united"
+    },
+    {
+      "id": "c0dd83030e2a3cae140a",
+      "company": "Quest Diagnostics",
+      "title": "REG - Renalytix - Collaboration with Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
+      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-01T06:00:00+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-01T06:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "collaboration reg renalytix"
     },
     {
       "id": "e0eaa14e16f8cec46476",
@@ -2546,9 +2570,15 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeDRpWTh5NjBrTlhDc0g2YUN4cEZSZmVNT2h5RF9GME9VeXlQX1ZwZGpWdmxWYW9XdjlzdWFtZVJ6b0pwYU9OX0RVazZmaGJYcTM1eWJUTFJRR1ctLVZYYWw4YW82YjN3dVp5YzFJeVpoZkI1RW9oMXl3?oc=5",
           "domain": "aijourn.com",
           "published_at": "2026-08-17T19:05:22+00:00"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzc5MnJJcm5GcW9uQmdNR1FlVnd5VmlXdEx6RWZlY0FlQ1FtM1FtMnBMZHFYTVZCZkMtNERxRU5waW94U2hwWU1JN1FTcG5SVVhUSnJXOW43clI5bmMxU3NBVFExMk9oZTc5dG1IbGhkejdyeWtlSk0tQXowcklGQ3JMeEY?oc=5",
+          "domain": "aol.ca",
+          "published_at": "2026-08-17T07:00:00+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "2026 day host investor september"
     },
     {
@@ -7669,10 +7699,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 48,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-03T12:17:00+05:30",
-  "next_update_display": "03 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-03T18:17:00+05:30",
+  "next_update_display": "03 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

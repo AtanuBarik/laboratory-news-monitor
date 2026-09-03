@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-03T11:57:32.842442+05:30",
-  "generated_at_display": "03 Sep 2026, 11:57 AM IST",
+  "generated_at": "2026-09-03T17:14:26.504603+05:30",
+  "generated_at_display": "03 Sep 2026, 5:14 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 103,
+  "remaining_unsummarized_count": 104,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "c0dd83030e2a3cae140a",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "REG - Renalytix - Collaboration with Quest Diagnostics",
+      "source": "TradingView",
+      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView",
+      "published_at": "2026-09-01T06:00:00+00:00",
+      "published_display": "01 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5"
+        }
+      ]
+    },
     {
       "id": "0060ca4454ac659b4f79",
       "company": "Sonic Healthcare",
@@ -624,29 +643,6 @@
         {
           "name": "dars.gov.et",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6013518f949db492536d",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact",
-      "source": "Morningstar",
-      "description": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact morningstar.com",
-      "published_at": "2026-08-20T16:17:43+00:00",
-      "published_display": "20 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5",
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5"
         }
       ]
     }
