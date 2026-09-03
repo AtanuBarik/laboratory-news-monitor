@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 03 Sep 2026, 5:14 PM IST
+- **Repository generated:** 03 Sep 2026, 10:11 PM IST
 - **Distinct events in this file:** 85
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -597,13 +597,14 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5
   - Clinical Lab Products: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5
   - Moomoo: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVBQalRabnNQOFg1ZTRCaFdfTGhOUG9pQ2ZiUWxQWjF5ZUNqSXE0WTFaUmVLc1J4ai1KMllQZDBOZlFVa1V3TGoyZkZkallZWDN0VWhHMURmX09idjZNRGQyMWRNa1VQZDJoZFloTDlaRTZMX1Vxcjdrd2NlNkp6NGtTTXp6TnI1TkVNYi1sOFowUzZRamxuZjBxRkJFRGlESlhJ?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmszRXdqR1BXc045X0swekhIOWhyYTJLZ3YxMnRNek1XN29IVU5ZNWpDWFdaejFfdkdIbGh5dkRaU1plN2ozcTU0RmRoSGF2YlY1U0hRYjNqTjljaWd2ZnBtRHZFSkthR2pzM19qNGpVTGJjNDZOdlhQTWtrcHY3LU5mT3hndEVWejBEaW4yNW9HUU5PTTZGcGFYa0tPOF9lLU9YMTZNZ0VUQ01aX01uemJJV254Qm5vbUtyQTZfdjdEVHhwRmRkTThjOUJFNUJwVTl1Vnd0VnJGNHR6ZnRMMWZvTW0tWWRoaFVBUDRMMA?oc=5
 
 **Feed description:** Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.
 
