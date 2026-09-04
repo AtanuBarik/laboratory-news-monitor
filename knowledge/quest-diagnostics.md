@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 04 Sep 2026, 10:38 AM IST
+- **Repository generated:** 04 Sep 2026, 5:15 PM IST
 - **Distinct events in this file:** 108
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -28,7 +28,7 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizwFBVV95cUxNNGR1c0RHSGJGZ0M5S21WTll4TTdIRk5PNHVWN1FqS3RydzE2RkxMT3NUOUdRZ0VHVGhINzcxMjdNUGZBY1Nua1VOb2FJRE5vLU1pemkwRHVmZXBHa3ZWazE1a1RUT3U5Nndtd0dXZ2k3OFZLa1JEcVBzbGNNelczdDVodTJlZEd2eC00bGJlemlmcEtGZVVUV1hwWG1aZmtNbjFCRWRYUDJmM1ctZlBQYjZJUHdobEtFY3ZES18wRHdzWDZyMm9kd0VSQlEtbm8?oc=5
 
-**Feed description:** Quest Diagnostics stock trades near 52-week high as kidney testing deal lifts valuation AD HOC NEWS
+**Feed description:** Quest Diagnostics stock trades near 52-week high as kidney testing deal lifts valuation ad-hoc-news.de
 
 ## 3. Renalytix and Quest Diagnostics Enter Agreement to Expand Kidneyintelx.Dkd Testing in the United States
 
@@ -71,13 +71,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
 - **Category:** Other
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5
   - Investing.com Australia: https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5
   - Investing.com Australia: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpfQlNTekJ0QjA0TjdQX09CZTJ5V0FrSFFSU3czNzIwXy1rNzRzMDlucjBZTnE0SXEwT2k2RjZ3VDhLX3JDVW9wWWNiMU5oQnY1Ynd3ODc2bzRPX3dxZUtsc05OaTE5bnlreVVkcDRDWmtiUGpiZHlmZFF0RnJCUHBHVVpzdTJ2VGN2VGxZd1E0azVJQlVUZGd4WHluTTRETGVhUW1LZzBnUlI2Sk1yUk1mNzRFV3lPSmZj?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY21qbFJ4NkFXdW9ScDNCRWVTOFJfZkVibVJwVXE1eTFUcHZMN2g3ZlR5WWtoNUJMSTFGYjdFLVZ6WmpYYThuNmJ2RVZ6ejJJcDhlbG9PYjYwVE1VbUxlcDdFV2NEOHJJTnhJZGN0amtPLXhkeTZITUtYemx1OFhBeFI0LU1ieGwzWnlGUEpBRlk4aDBLZS1fdkF0bFpQenZaR3R1Nm03NUNwbnZnQ3g3YVVWVFdWSDJmckZJ?oc=5
 
 **Feed description:** Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia
 
@@ -104,7 +105,7 @@
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5
 
-**Feed description:** Quest Diagnostics stock holds steady as investors await fresh earnings catalysts AD HOC NEWS
+**Feed description:** Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de
 
 ## 9. Quest Diagnostics stock holds steady as investors weigh latest quarterly trends
 
@@ -199,7 +200,7 @@
 - **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
-  - Barchart.com: https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5
+  - barchart.com: https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHEtVklrV05VV3NZSGlFTDdITngyRVY1WFdZaVFfMGNaSy0xdEMxQWpfTzhMaE5mVWxucnRvM2lXWXgwT3hNMHdxemdSb3NRZ2UxbW0taXNaeFd1SEFERC15T0FUTkhFaU1sWmF4T0MwWWI0aG1RLXZaWmxEX0hRcURReFQ0QkxTbmJELUJlUVRhT1ZzdkwwLTBkcGIxRHN6M2c?oc=5
   - inkl: https://news.google.com/rss/articles/CBMilwFBVV95cUxQWi1sLW9mVzdaMGh0Q014YUp3d1ZqRTRPdURTNktQZXY0MWZRM0lMZG5TSC1pZkxCUlZkV19xLW1FNU5xQ0VTRUJXblQ5ZGpBZW5wR2VNMG8wQVE4QVNUYUJLVVNGYlZhRjlVYlFEU0tLTzJPU0JDMGRYczYwYjl3b3dTTXI3SW8wVlNJYXRLb3VydTlSVERB?oc=5
 

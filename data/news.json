@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T10:38:10.828285+05:30",
-  "generated_at_display": "04 Sep 2026, 10:38 AM IST",
-  "item_count": 221,
-  "raw_relevant_item_count": 359,
-  "duplicates_merged": 72,
+  "generated_at": "2026-09-04T17:15:16.625079+05:30",
+  "generated_at_display": "04 Sep 2026, 5:15 PM IST",
+  "item_count": 222,
+  "raw_relevant_item_count": 376,
+  "duplicates_merged": 82,
   "failures": [],
   "items": [
     {
@@ -35,7 +35,7 @@
       "company": "Labcorp",
       "title": "Labcorp stock holds steady as investors look to next earnings signal",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
-      "description": "Labcorp stock holds steady as investors look to next earnings signal AD HOC NEWS",
+      "description": "Labcorp stock holds steady as investors look to next earnings signal ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -79,11 +79,35 @@
       "event_signature": "2026 940 acquires akinbolade cio derivative oyegunwa securities september transaction"
     },
     {
+      "id": "a897f99465c4d12083c4",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
+      "description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn",
+      "source": "vinanet.vn",
+      "source_url": "http://vinanet.vn",
+      "source_domain": "vinanet.vn",
+      "published_at": "2026-09-03T17:33:01+00:00",
+      "published_display": "03 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-09-03T17:33:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beats breakdown consensus earnings eps revenue segment"
+    },
+    {
       "id": "041ed096f5697608ade2",
       "company": "Labcorp",
       "title": "Labcorp stock holds near its yearly high",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmlnYmJXeU1wQWNpUEdtLTFjendpampaSGFmUDlPZkEza2tKYTlNUjNvZFZkSUgyYzVPdmM1SVN3VkRDaXQ3T2Fva2xpeEt0bVZnNkVyZFZxUWlNNkRyb0hFNGVJTkxXYUc3TWV4ZmxDRk1XVl9jWHhudzlVQW8xZmIzXzJOd1Fhemgwa1hQVVZRM3hQclA5aTJPM3AwZVB6TlBJak53?oc=5",
-      "description": "Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum AD HOC NEWS",
+      "description": "Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -113,7 +137,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock trades near 52-week high on new kidney testing deal",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPREY1OHRVU2doanlSNXptWHRmOFlMa3JXZk5tTDZRRW1RT2xtLWR0SUxmeDVQZ3JOQWJOWHNQUklzZ2FuWnBIbEhUSGRLYm9LUnpzVkh4QzBLN0Jvd1FGZzM2ZHp5ZF9lNExHU3JMVG9KcjFPc21BOUdMd1E0SnA1V1VwU2l5MHpNRllmUm5vdzhYS1VIa2V5SlBGTmNPVlZUbFFmU3FjWmJxT085cEJTRFNTZTg4SHZyaE00Q0FRdEM3b3FSalhXbENBOEZsdw?oc=5",
-      "description": "Quest Diagnostics stock trades near 52-week high as kidney testing deal lifts valuation AD HOC NEWS",
+      "description": "Quest Diagnostics stock trades near 52-week high as kidney testing deal lifts valuation ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -272,7 +296,7 @@
       "company": "Labcorp",
       "title": "Labcorp stock steady as guidance and earnings frame 2026 outlook",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2cyR05LbmhPcWViaWgxTUF5Nmt2alFxdllLN3lsTV9JU0EybE9hUkg1NGlpdEZ3REVtUGlBSzAzZGF2b1M5V1o2RUwtNFJwcjNqaFg1ekFBbk5oQWdqMUtIUl9IZUk0WmR3c0tZdGNYSlJfQnZ5Ty1JS1hieUYtbVI0NWw5bGJ5b0NyeUMxUnpQZzQ2NE51d1FMUXZJclN5Tjl5RWhiSk8wWjc4a1BscEZaOV9XY0hqc09RM3FqZHE5bjluZUE?oc=5",
-      "description": "Labcorp stock steady as guidance and earnings frame 2026 outlook AD HOC NEWS",
+      "description": "Labcorp stock steady as guidance and earnings frame 2026 outlook ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -328,9 +352,15 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpfQlNTekJ0QjA0TjdQX09CZTJ5V0FrSFFSU3czNzIwXy1rNzRzMDlucjBZTnE0SXEwT2k2RjZ3VDhLX3JDVW9wWWNiMU5oQnY1Ynd3ODc2bzRPX3dxZUtsc05OaTE5bnlreVVkcDRDWmtiUGpiZHlmZFF0RnJCUHBHVVpzdTJ2VGN2VGxZd1E0azVJQlVUZGd4WHluTTRETGVhUW1LZzBnUlI2Sk1yUk1mNzRFV3lPSmZj?oc=5",
           "domain": "au.investing.com",
           "published_at": "2026-08-31T22:25:57+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY21qbFJ4NkFXdW9ScDNCRWVTOFJfZkVibVJwVXE1eTFUcHZMN2g3ZlR5WWtoNUJMSTFGYjdFLVZ6WmpYYThuNmJ2RVZ6ejJJcDhlbG9PYjYwVE1VbUxlcDdFV2NEOHJJTnhJZGN0amtPLXhkeTZITUtYemx1OFhBeFI0LU1ieGwzWnlGUEpBRlk4aDBLZS1fdkF0bFpQenZaR3R1Nm03NUNwbnZnQ3g3YVVWVFdWSDJmckZJ?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-08-31T22:25:43+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "counsel general sells shares svp"
     },
     {
@@ -368,7 +398,7 @@
       "company": "Labcorp",
       "title": "Labcorp stock outlook constrained as data and earnings context stay unclear",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3NqTkpNQXdZM3duUllTSW1MOURZMFpFMFA3eFV4N1Q0U0tXX180UWE0UjM4a3hOY3ZYOU9OVmdyYWxTazlxbTMzT0JEVU1YQ2hyc2ZrNVdpUmhFWjF2ZGxpVm1NUkdvRHpkN0hFemwxUnU1cF9zcHBnV2pEZXRMNFZlRXZySWF1dUZrcm5mUkhaaHNId0JiUnhfckh4cmEwY2NIbko4U0pVU08xcUJmMVRaZWJPRXU1eXVzbWQ3VGVYWHdk?oc=5",
-      "description": "Labcorp stock outlook constrained as data and earnings context stay unclear AD HOC NEWS",
+      "description": "Labcorp stock outlook constrained as data and earnings context stay unclear ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -512,7 +542,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
-      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts AD HOC NEWS",
+      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -898,42 +928,6 @@
       "event_signature": "find form hepatitis launches most patients severe test virus"
     },
     {
-      "id": "b33a6039ee07b55c0ae5",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
-      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Yahoo Finance",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "source_domain": "barchart.com",
-      "published_at": "2026-08-25T15:52:43+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
-          "domain": "barchart.com",
-          "published_at": "2026-08-25T15:52:43+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHEtVklrV05VV3NZSGlFTDdITngyRVY1WFdZaVFfMGNaSy0xdEMxQWpfTzhMaE5mVWxucnRvM2lXWXgwT3hNMHdxemdSb3NRZ2UxbW0taXNaeFd1SEFERC15T0FUTkhFaU1sWmF4T0MwWWI0aG1RLXZaWmxEX0hRcURReFQ0QkxTbmJELUJlUVRhT1ZzdkwwLTBkcGIxRHN6M2c?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-25T15:52:43+00:00"
-        },
-        {
-          "name": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWi1sLW9mVzdaMGh0Q014YUp3d1ZqRTRPdURTNktQZXY0MWZRM0lMZG5TSC1pZkxCUlZkV19xLW1FNU5xQ0VTRUJXblQ5ZGpBZW5wR2VNMG8wQVE4QVNUYUJLVVNGYlZhRjlVYlFEU0tLTzJPU0JDMGRYczYwYjl3b3dTTXI3SW8wVlNJYXRLb3VydTlSVERB?oc=5",
-          "domain": "inkl.com",
-          "published_at": "2026-08-25T15:52:43+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "bearish bullish stock street wall"
-    },
-    {
       "id": "eeabcbf906af0fc26fa9",
       "company": "Labcorp",
       "title": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection",
@@ -998,6 +992,42 @@
       ],
       "coverage_count": 3,
       "event_signature": "continue hold portfolio should stock you your"
+    },
+    {
+      "id": "b33a6039ee07b55c0ae5",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
+      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? Yahoo Finance",
+      "source": "barchart.com",
+      "source_url": "https://www.barchart.com",
+      "source_domain": "barchart.com",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-08-25T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHEtVklrV05VV3NZSGlFTDdITngyRVY1WFdZaVFfMGNaSy0xdEMxQWpfTzhMaE5mVWxucnRvM2lXWXgwT3hNMHdxemdSb3NRZ2UxbW0taXNaeFd1SEFERC15T0FUTkhFaU1sWmF4T0MwWWI0aG1RLXZaWmxEX0hRcURReFQ0QkxTbmJELUJlUVRhT1ZzdkwwLTBkcGIxRHN6M2c?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-25T15:52:43+00:00"
+        },
+        {
+          "name": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWi1sLW9mVzdaMGh0Q014YUp3d1ZqRTRPdURTNktQZXY0MWZRM0lMZG5TSC1pZkxCUlZkV19xLW1FNU5xQ0VTRUJXblQ5ZGpBZW5wR2VNMG8wQVE4QVNUYUJLVVNGYlZhRjlVYlFEU0tLTzJPU0JDMGRYczYwYjl3b3dTTXI3SW8wVlNJYXRLb3VydTlSVERB?oc=5",
+          "domain": "inkl.com",
+          "published_at": "2026-08-25T15:52:43+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "bearish bullish stock street wall"
     },
     {
       "id": "4dd0048daf1f9d591dda",
@@ -1286,9 +1316,15 @@
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDh1amlORHFNMC1XTzl3UUxXQ0sxUmpWM01EOUt6dGdaLUNGX3VUdkpXalFSTVVvOFZFa1RWemVkem9yNEJheFFPak01YnNTRkd2VDVGVW1vWTE5Zm5JRXBJMldoV0RSc3pqTkgxQkVWWDNZRGhEZnBrR2xUVHdBOEtuRjVuZUlGSFI5ZGVidHNHQ1lPeHNURDZuYTFVQm9HTHhqbDFKM1VtcWE3cF9lTThfcTQzZDZpeXhJVnREZmEzWFpTcDRlQ1otTV83ZlN4OEE2YUpjYmxibUM5c3lreml6dUtzQWZJZnJ6d3k4MnhWTGVFa0U0YW5aUGs?oc=5",
           "domain": "biospace.com",
           "published_at": "2026-08-24T12:11:28+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckRvTUxpMFZIR1JJNWlTMVZub2xFT1YxUXhQZkUtbWJYeGk1Y3ZMaEVaRUQwcnRtbG5Ob0NtMjgwYzFxSzFPN1VWZk1YRHcyMWJjMTJqRXg2Q1RTVHVqSDN3M0V5QzJIM0FrTnc2U3dZMVIzQ1I5Rnd3cTRMS242YzdyTWRxSFhLNDdkQ3BUaTQ2ZTZFOEhv?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
         }
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
@@ -7894,10 +7930,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 72,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-04T12:17:00+05:30",
-  "next_update_display": "04 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-04T18:17:00+05:30",
+  "next_update_display": "04 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

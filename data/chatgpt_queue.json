@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T12:00:36.950619+05:30",
-  "generated_at_display": "04 Sep 2026, 12:00 PM IST",
+  "generated_at": "2026-09-04T17:15:19.699898+05:30",
+  "generated_at_display": "04 Sep 2026, 5:15 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 109,
+  "remaining_unsummarized_count": 110,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -381,7 +381,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 8,
+      "coverage_count": 9,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {
@@ -523,7 +523,7 @@
       "category": "Financials",
       "title": "Labcorp stock holds steady as investors look to next earnings signal",
       "source": "AD HOC NEWS",
-      "description": "Labcorp stock holds steady as investors look to next earnings signal AD HOC NEWS",
+      "description": "Labcorp stock holds steady as investors look to next earnings signal ad-hoc-news.de",
       "published_at": "2026-09-03T20:11:04+00:00",
       "published_display": "03 Sep 2026",
       "official_source": false,
@@ -533,6 +533,25 @@
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a897f99465c4d12083c4",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown",
+      "source": "vinanet.vn",
+      "description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn",
+      "published_at": "2026-09-03T17:33:01+00:00",
+      "published_display": "03 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
+      "sources": [
+        {
+          "name": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5"
         }
       ]
     },
@@ -561,7 +580,7 @@
       "category": "Financials",
       "title": "Labcorp stock steady as guidance and earnings frame 2026 outlook",
       "source": "AD HOC NEWS",
-      "description": "Labcorp stock steady as guidance and earnings frame 2026 outlook AD HOC NEWS",
+      "description": "Labcorp stock steady as guidance and earnings frame 2026 outlook ad-hoc-news.de",
       "published_at": "2026-08-31T21:12:01+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
@@ -580,7 +599,7 @@
       "category": "Financials",
       "title": "Labcorp stock outlook constrained as data and earnings context stay unclear",
       "source": "AD HOC NEWS",
-      "description": "Labcorp stock outlook constrained as data and earnings context stay unclear AD HOC NEWS",
+      "description": "Labcorp stock outlook constrained as data and earnings context stay unclear ad-hoc-news.de",
       "published_at": "2026-08-31T17:40:46+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
@@ -599,7 +618,7 @@
       "category": "Financials",
       "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
       "source": "AD HOC NEWS",
-      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts AD HOC NEWS",
+      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de",
       "published_at": "2026-08-31T08:12:09+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
@@ -628,25 +647,6 @@
         {
           "name": "vinanet.vn",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3358baa196876082cd35",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares",
-      "source": "Ad-hoc-news.de",
-      "description": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares Ad-hoc-news.de",
-      "published_at": "2026-08-27T14:34:27+00:00",
-      "published_display": "27 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5",
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5"
         }
       ]
     }
