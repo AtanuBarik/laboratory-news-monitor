@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 04 Sep 2026, 2:52 AM IST
+- **Repository generated:** 04 Sep 2026, 10:38 AM IST
 - **Distinct events in this file:** 88
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -29,14 +29,15 @@
 
 **Feed description:** Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media
 
-## 3. Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum
+## 3. Labcorp stock holds near its yearly high
 
 - **Company:** Labcorp
-- **Publication date:** 02 Sep 2026
+- **Publication date:** 01 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmlnYmJXeU1wQWNpUEdtLTFjendpampaSGFmUDlPZkEza2tKYTlNUjNvZFZkSUgyYzVPdmM1SVN3VkRDaXQ3T2Fva2xpeEt0bVZnNkVyZFZxUWlNNkRyb0hFNGVJTkxXYUc3TWV4ZmxDRk1XVl9jWHhudzlVQW8xZmIzXzJOd1Fhemgwa1hQVVZRM3hQclA5aTJPM3AwZVB6TlBJak53?oc=5
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnhUbk80aW1HeXpzY3N5dDlUVFNXOWkySjFxU1VzbjNadkkzUHBybVJtSHQ5NUcwNHFzNVlfSTlQM3JuMV91THZsanh2SVI3N2Y4YUN1QnFfT0YxS21XbUllbm5DVDhST2hsel8zU0NfQlM5WkVUd09jRWZzUnlNaUJyd1RCeklKRldEVkwxNGx1QTlJdGtIRzZDSWxHVnc5dVRTNEVFVF9fUmFVbFRsRDJXajNPSXB5RFhzNU4tTkZ3U2kxcjB6RjAyLTQ?oc=5
 
 **Feed description:** Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum AD HOC NEWS
@@ -222,9 +223,9 @@
 - **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5
 
 **Feed description:** Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research
 
@@ -269,7 +270,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 7
+- **Coverage count:** 8
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5
@@ -279,6 +280,7 @@
   - Barchart.com: https://news.google.com/rss/articles/CBMigwJBVV95cUxPdGNNRmFrZ3RteVU0TE9uX0hSRFJweVExMU9uSWNnTVVXaElPV2dpeV9RV1dlX2l5aDRTaWdhUlF1WWo2aGR6YXNBMlpjNXFjLWYyRk1EZEJSQnJwM0RHTUh5M0ZHZlpFa3RYcHE2ODBISlBTRjhiSzVDajdWdWtaM0dDU3lvdDJMQUpFLXY2cVZ1NGRZUGZWYk5zbHJtb1NEQnlGengwc3BlbkcwS0pOdnVwVkpZd1l4Q2ZkX2IzZEJEdWo2RVhfZGRQblJJTUZqY2dpS1lKWHhBcms3dVJGeHp5a29RbGVMdkdmRmJiaXRPVldBc1QwQTRrWFFmcnlSMDYw?oc=5
   - AOL.com: https://news.google.com/rss/articles/CBMigAFBVV95cUxOaTlWXzVSa1NYMW5VdXYtck16eElSVHpjQV9XcEloc1hLalR0VVAzRnl3RjRIWWdoMlpoRDBpNXVHdGRhdlNoNERxeG9vMThYR2xscHpTNzVTZGdQNjlMWTI3WG9NSzM1bldMWnNjTmFHZXE5MXNTd05NQzNxeXpOUQ?oc=5
   - AOL.ca: https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3FMNFZmT0gtVG01UlNWNWF1b09hb2V4ZjJpQUNDc1RHeUVoaHFMRTNFVWZmVHQ0OGktM0ZjTUU3aUlwNFJ5d2pSWktEUjBxV0NCTVhkdHJKdVlwT3FDYUEyTEUydWpWWEsyQ29mMF9JTTJDZUkwRU12elFMSEE?oc=5
+  - BioSpace: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDh1amlORHFNMC1XTzl3UUxXQ0sxUmpWM01EOUt6dGdaLUNGX3VUdkpXalFSTVVvOFZFa1RWemVkem9yNEJheFFPak01YnNTRkd2VDVGVW1vWTE5Zm5JRXBJMldoV0RSc3pqTkgxQkVWWDNZRGhEZnBrR2xUVHdBOEtuRjVuZUlGSFI5ZGVidHNHQ1lPeHNURDZuYTFVQm9HTHhqbDFKM1VtcWE3cF9lTThfcTQzZDZpeXhJVnREZmEzWFpTcDRlQ1otTV83ZlN4OEE2YUpjYmxibUM5c3lreml6dUtzQWZJZnJ6d3k4MnhWTGVFa0U0YW5aUGs?oc=5
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 

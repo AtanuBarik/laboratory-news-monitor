@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-04T03:22:21.545540+05:30",
-  "generated_at_display": "04 Sep 2026, 3:22 AM IST",
+  "generated_at": "2026-09-04T10:38:13.843470+05:30",
+  "generated_at_display": "04 Sep 2026, 10:38 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 107,
+  "remaining_unsummarized_count": 109,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -288,18 +288,22 @@
       ]
     },
     {
-      "id": "83183b5bd6ffdfb7313d",
+      "id": "992ea1ddef606a61aeab",
       "company": "Labcorp",
       "category": "Clinical, R&D",
       "title": "Should You Continue to Hold Labcorp Stock in Your Portfolio?",
-      "source": "Zacks Investment Research",
+      "source": "Yahoo Finance",
       "description": "Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research",
-      "published_at": "2026-08-25T12:32:57+00:00",
+      "published_at": "2026-08-25T07:00:00+00:00",
       "published_display": "25 Aug 2026",
       "official_source": false,
       "coverage_count": 3,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5"
@@ -307,10 +311,6 @@
         {
           "name": "Yahoo Finance Singapore",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5"
         }
       ]
     },
@@ -381,7 +381,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 7,
+      "coverage_count": 8,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {
@@ -411,6 +411,10 @@
         {
           "name": "AOL.ca",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3FMNFZmT0gtVG01UlNWNWF1b09hb2V4ZjJpQUNDc1RHeUVoaHFMRTNFVWZmVHQ0OGktM0ZjTUU3aUlwNFJ5d2pSWktEUjBxV0NCTVhkdHJKdVlwT3FDYUEyTEUydWpWWEsyQ29mMF9JTTJDZUkwRU12elFMSEE?oc=5"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDh1amlORHFNMC1XTzl3UUxXQ0sxUmpWM01EOUt6dGdaLUNGX3VUdkpXalFSTVVvOFZFa1RWemVkem9yNEJheFFPak01YnNTRkd2VDVGVW1vWTE5Zm5JRXBJMldoV0RSc3pqTkgxQkVWWDNZRGhEZnBrR2xUVHdBOEtuRjVuZUlGSFI5ZGVidHNHQ1lPeHNURDZuYTFVQm9HTHhqbDFKM1VtcWE3cF9lTThfcTQzZDZpeXhJVnREZmEzWFpTcDRlQ1otTV83ZlN4OEE2YUpjYmxibUM5c3lreml6dUtzQWZJZnJ6d3k4MnhWTGVFa0U0YW5aUGs?oc=5"
         }
       ]
     },
@@ -491,6 +495,25 @@
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a770a17260c644b3e2f4",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics Insider Sold Shares Worth $2,427,200, According to a Recent SEC Filing",
+      "source": "marketscreener.com",
+      "description": "Quest Diagnostics Insider Sold Shares Worth $2,427,200, According to a Recent SEC Filing marketscreener.com",
+      "published_at": "2026-09-03T21:24:40+00:00",
+      "published_display": "03 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpQOE9kLVZfRjZkY2NhZ0JCTy1SdUtIeHpsQkpTSE9iaHVFTlVjUHFvSjdBRnh1Zm1EVUlVblpkNW9hN3ljVnFYTFBHcjRLTklFUUJ3Zy1lelBlNnlCT2tMc0ppVmxpUlJ5ZU9QWkdMcXNsOURDX0NLcDJqTVpYY2VteVZvUEtfU1ozZDNXU083a1h3M0ZBMERQWnpUcVdpWFNRRV9aSE4wdjU0Q3VLeHVBeUE0UFlqc3FLMzdaRkZfWjUwRFcyU3BGUzN1Ti14ZHViWWpR?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpQOE9kLVZfRjZkY2NhZ0JCTy1SdUtIeHpsQkpTSE9iaHVFTlVjUHFvSjdBRnh1Zm1EVUlVblpkNW9hN3ljVnFYTFBHcjRLTklFUUJ3Zy1lelBlNnlCT2tMc0ppVmxpUlJ5ZU9QWkdMcXNsOURDX0NLcDJqTVpYY2VteVZvUEtfU1ozZDNXU083a1h3M0ZBMERQWnpUcVdpWFNRRV9aSE4wdjU0Q3VLeHVBeUE0UFlqc3FLMzdaRkZfWjUwRFcyU3BGUzN1Ti14ZHViWWpR?oc=5"
         }
       ]
     },
@@ -624,25 +647,6 @@
         {
           "name": "Ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a4f4d00d22b27e51d7a1",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Can Sonic Healthcare Rally Further on Profit Growth?",
-      "source": "Kalkine Media",
-      "description": "Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? kalkinemedia.com",
-      "published_at": "2026-08-27T01:19:00+00:00",
-      "published_display": "27 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5"
         }
       ]
     }

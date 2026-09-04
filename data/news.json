@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-04T02:52:34.447008+05:30",
-  "generated_at_display": "04 Sep 2026, 2:52 AM IST",
-  "item_count": 218,
-  "raw_relevant_item_count": 336,
-  "duplicates_merged": 58,
+  "generated_at": "2026-09-04T10:38:10.828285+05:30",
+  "generated_at_display": "04 Sep 2026, 10:38 AM IST",
+  "item_count": 221,
+  "raw_relevant_item_count": 359,
+  "duplicates_merged": 72,
   "failures": [],
   "items": [
+    {
+      "id": "a770a17260c644b3e2f4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Insider Sold Shares Worth $2,427,200, According to a Recent SEC Filing",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpQOE9kLVZfRjZkY2NhZ0JCTy1SdUtIeHpsQkpTSE9iaHVFTlVjUHFvSjdBRnh1Zm1EVUlVblpkNW9hN3ljVnFYTFBHcjRLTklFUUJ3Zy1lelBlNnlCT2tMc0ppVmxpUlJ5ZU9QWkdMcXNsOURDX0NLcDJqTVpYY2VteVZvUEtfU1ozZDNXU083a1h3M0ZBMERQWnpUcVdpWFNRRV9aSE4wdjU0Q3VLeHVBeUE0UFlqc3FLMzdaRkZfWjUwRFcyU3BGUzN1Ti14ZHViWWpR?oc=5",
+      "description": "Quest Diagnostics Insider Sold Shares Worth $2,427,200, According to a Recent SEC Filing marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-09-03T21:24:40+00:00",
+      "published_display": "03 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpQOE9kLVZfRjZkY2NhZ0JCTy1SdUtIeHpsQkpTSE9iaHVFTlVjUHFvSjdBRnh1Zm1EVUlVblpkNW9hN3ljVnFYTFBHcjRLTklFUUJ3Zy1lelBlNnlCT2tMc0ppVmxpUlJ5ZU9QWkdMcXNsOURDX0NLcDJqTVpYY2VteVZvUEtfU1ozZDNXU083a1h3M0ZBMERQWnpUcVdpWFNRRV9aSE4wdjU0Q3VLeHVBeUE0UFlqc3FLMzdaRkZfWjUwRFcyU3BGUzN1Ti14ZHViWWpR?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-03T21:24:40+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "200 427 according filing insider recent sec shares sold worth"
+    },
     {
       "id": "c2306c7453f1c6b8198b",
       "company": "Labcorp",
@@ -55,19 +79,25 @@
       "event_signature": "2026 940 acquires akinbolade cio derivative oyegunwa securities september transaction"
     },
     {
-      "id": "6bdc6a87c38084cb51d9",
+      "id": "041ed096f5697608ade2",
       "company": "Labcorp",
-      "title": "Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnhUbk80aW1HeXpzY3N5dDlUVFNXOWkySjFxU1VzbjNadkkzUHBybVJtSHQ5NUcwNHFzNVlfSTlQM3JuMV91THZsanh2SVI3N2Y4YUN1QnFfT0YxS21XbUllbm5DVDhST2hsel8zU0NfQlM5WkVUd09jRWZzUnlNaUJyd1RCeklKRldEVkwxNGx1QTlJdGtIRzZDSWxHVnc5dVRTNEVFVF9fUmFVbFRsRDJXajNPSXB5RFhzNU4tTkZ3U2kxcjB6RjAyLTQ?oc=5",
+      "title": "Labcorp stock holds near its yearly high",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmlnYmJXeU1wQWNpUEdtLTFjendpampaSGFmUDlPZkEza2tKYTlNUjNvZFZkSUgyYzVPdmM1SVN3VkRDaXQ3T2Fva2xpeEt0bVZnNkVyZFZxUWlNNkRyb0hFNGVJTkxXYUc3TWV4ZmxDRk1XVl9jWHhudzlVQW8xZmIzXzJOd1Fhemgwa1hQVVZRM3hQclA5aTJPM3AwZVB6TlBJak53?oc=5",
       "description": "Labcorp stock holds steady near yearly high as investors watch recent diagnostics momentum AD HOC NEWS",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-02T07:11:23+00:00",
-      "published_display": "02 Sep 2026",
+      "published_at": "2026-09-01T16:25:14+00:00",
+      "published_display": "01 Sep 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmlnYmJXeU1wQWNpUEdtLTFjendpampaSGFmUDlPZkEza2tKYTlNUjNvZFZkSUgyYzVPdmM1SVN3VkRDaXQ3T2Fva2xpeEt0bVZnNkVyZFZxUWlNNkRyb0hFNGVJTkxXYUc3TWV4ZmxDRk1XVl9jWHhudzlVQW8xZmIzXzJOd1Fhemgwa1hQVVZRM3hQclA5aTJPM3AwZVB6TlBJak53?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-01T16:25:14+00:00"
+        },
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnhUbk80aW1HeXpzY3N5dDlUVFNXOWkySjFxU1VzbjNadkkzUHBybVJtSHQ5NUcwNHFzNVlfSTlQM3JuMV91THZsanh2SVI3N2Y4YUN1QnFfT0YxS21XbUllbm5DVDhST2hsel8zU0NfQlM5WkVUd09jRWZzUnlNaUJyd1RCeklKRldEVkwxNGx1QTlJdGtIRzZDSWxHVnc5dVRTNEVFVF9fUmFVbFRsRDJXajNPSXB5RFhzNU4tTkZ3U2kxcjB6RjAyLTQ?oc=5",
@@ -75,8 +105,8 @@
           "published_at": "2026-09-02T07:11:23+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "high holds investors momentum near recent steady stock watch yearly"
+      "coverage_count": 2,
+      "event_signature": "high holds near stock yearly"
     },
     {
       "id": "08dbf9065b8794da6148",
@@ -131,6 +161,39 @@
       ],
       "coverage_count": 1,
       "event_signature": "agreement dkd enter expand kidneyintelx renalytix states testing united"
+    },
+    {
+      "id": "ceb779dc820a6490b2a9",
+      "company": "Quest Diagnostics",
+      "title": "List of 22 Acquisitions by Quest Diagnostics (Sep 2026)",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
+      "description": "The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.",
+      "source": "Tracxn",
+      "source_url": "https://tracxn.com",
+      "source_domain": "tracxn.com",
+      "published_at": "2026-09-01T06:01:43+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Tracxn",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
+          "domain": "tracxn.com",
+          "published_at": "2026-09-01T06:01:43+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisitions list sep",
+      "source_description": "List of 22 Acquisitions by Quest Diagnostics (Sep 2026) Tracxn",
+      "chatgpt_summary": "The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-13T18:38:44+05:30",
+      "summary_evidence": [
+        "https://docs.multiples.vc/public-comps/quest-diagnostics-valuation-multiples",
+        "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000015/dgx-20251231.htm"
+      ]
     },
     {
       "id": "c0dd83030e2a3cae140a",
@@ -901,19 +964,25 @@
       "event_signature": "detection earlier hepatitis launches reflex testing"
     },
     {
-      "id": "83183b5bd6ffdfb7313d",
+      "id": "992ea1ddef606a61aeab",
       "company": "Labcorp",
       "title": "Should You Continue to Hold Labcorp Stock in Your Portfolio?",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
       "description": "Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-08-25T12:32:57+00:00",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-25T07:00:00+00:00",
       "published_display": "25 Aug 2026",
       "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-25T07:00:00+00:00"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
@@ -924,12 +993,6 @@
           "name": "Yahoo Finance Singapore",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5",
           "domain": "sg.finance.yahoo.com",
-          "published_at": "2026-08-25T13:20:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
-          "domain": "finance.yahoo.com",
           "published_at": "2026-08-25T13:20:00+00:00"
         }
       ],
@@ -1081,45 +1144,6 @@
       ]
     },
     {
-      "id": "18496cf65147fd2e91a4",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREpERU9ZVmdSRTBhNFYxN0tVRTlCbzZBUEo5YWo4aE9TekN1Y21KQmRxVGVzckZ0ZDdYeVVlaDhGQkZTQjFBRHpEbG5Ya1NRMjFtUk9mSUpMSEhEZW1iU2pTd3JXR2NIQllzSk1nMDZxNWR5Si0tQjU2MTBsRE95c01iWVJQTzl1X18xOUcwTVpySEtVUDVJaGJkdkpIY2ZwdlU1LVZWMnpoMXdlRm9MTmhabHJSa2d5VDdfcEYybnZ5bVczZG50NDB5cmNtem1VUmYtYnJZXzNxVWhzY1E?oc=5",
-      "description": "Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-24T13:00:00+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREpERU9ZVmdSRTBhNFYxN0tVRTlCbzZBUEo5YWo4aE9TekN1Y21KQmRxVGVzckZ0ZDdYeVVlaDhGQkZTQjFBRHpEbG5Ya1NRMjFtUk9mSUpMSEhEZW1iU2pTd3JXR2NIQllzSk1nMDZxNWR5Si0tQjU2MTBsRE95c01iWVJQTzl1X18xOUcwTVpySEtVUDVJaGJkdkpIY2ZwdlU1LVZWMnpoMXdlRm9MTmhabHJSa2d5VDdfcEYybnZ5bVczZG50NDB5cmNtem1VUmYtYnJZXzNxVWhzY1E?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-24T13:00:00+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0NEOThGV0RNZzgzZEZfSmNsbkVMSlp0NFZJX3pGNXhObmZZWDFUWjRtUGpTeVNrY3F3dHhIX0RrcTQzaDdULWMtNjYwb1AtMTJwWTJzbDBRU21sWWJaX1E1RGRCM2R4XzNpdE12T05JZksyZWlsblRBYWt4QlJxbGNvZkRkSXJHLVlqQ3FvSV9kbGtObnJMYmZTd0hGOGRXWm95U3lSTGtGWnNXRm9OYzhvcTFNMkphX0JiMVdqeERITWdua0U2UXV4NEFfSkV0MGRMU3lHTFhGMEZNRkdOWFYtNTU?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-24T18:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "24th annual conference global morgan speak stanley",
-      "source_description": "Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference PR Newswire",
-      "chatgpt_summary": "Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-speak-at-the-morgan-stanley-24th-annual-global-healthcare-conference-302857722.html",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
       "id": "8e74f5a277e435ccb3e6",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings",
@@ -1178,39 +1202,6 @@
       "event_signature": "217 clearance elecsys fda following offers ptau test"
     },
     {
-      "id": "474131cf507e3ae53cbf",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics expands Alzheimer's blood tes...",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlMzNVB3QkZJVVBUZG8tdThRSXVkbkhsN3R4bjN1Tk1pMldyR3I1eFoydzBVN01WWEhFWjJ5ekVSeWJJNFN3cXZ5X0RBbkhweWt4QS0zek96QjJPc2ZaWUNycG00UlR0d2JxSGVPZnlWcFpoVEd0NnBqY1EwcGVUQS1aOWdkQkJrYVB6TkpPYmpkckpmdlppVGVpcU5FS1pNeHlfUXNHY0loUXp5SGpDZUV3?oc=5",
-      "description": "Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-alone Alzheimer’s diagnosis.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-24T11:57:16+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Organizational Updates",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlMzNVB3QkZJVVBUZG8tdThRSXVkbkhsN3R4bjN1Tk1pMldyR3I1eFoydzBVN01WWEhFWjJ5ekVSeWJJNFN3cXZ5X0RBbkhweWt4QS0zek96QjJPc2ZaWUNycG00UlR0d2JxSGVPZnlWcFpoVEd0NnBqY1EwcGVUQS1aOWdkQkJrYVB6TkpPYmpkckpmdlppVGVpcU5FS1pNeHlfUXNHY0loUXp5SGpDZUV3?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-24T11:57:16+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer blood expands tes",
-      "source_description": "Quest Diagnostics expands Alzheimer's blood tes... Pluang",
-      "chatgpt_summary": "Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-alone Alzheimer’s diagnosis.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
-        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
-      ]
-    },
-    {
       "id": "8051c7ada888b66eb62e",
       "company": "Labcorp",
       "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
@@ -1233,51 +1224,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "alzheimer blood cleared com fda investing nationwide offer test"
-    },
-    {
-      "id": "d5687d4caaf25e15b862",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
-      "description": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-24T11:24:00+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-24T11:24:00+00:00"
-        },
-        {
-          "name": "BioBuzz",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFYtdTlxanIzNlozYUE5aWtsR2tjbEV4dWJLbXVVYVFzdWhnR09QcHpTemh4dWx2SDZZeWRiY1dyNWE4N1NoQzk4eUtaNGdIV3JGYUNpeVYwdTZicEY1SXU3dWRjUVcyMXdPc3NsMnNhVU9VeDBhS1l2Ml8tZV9jZGVzVEN0Rm9LaGl4Z1pzMnEzTldTMEhlU1ZQV3ZBT3dMcXlHUDF2YndNT2JTRlQwRmNXcXlsV0VuTzlHa2NUUmItVkR2VFE?oc=5",
-          "domain": "biobuzz.io",
-          "published_at": "2026-08-26T15:23:09+00:00"
-        },
-        {
-          "name": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmRpS3V2N2lfTnNLYU5MbFR4SkdKN2ZSRG5Ddmp4Z3Q0enE2dTFHQTBNY1dWOWVMZl9OTlQ4MXFsNzJoak1Iam1Ob2VfZjI3dkp3Q1Q1blFMb2tlV3dsY1lQV1FWVVo2YVg0Y2tnVFVwQmpjYzNoTktmUXZyTHZ5U0pkZ0FZQWpPUlNxZHNtSEhaSzRkOVhuRWRqVWU?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-24T11:24:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "alzheimer assess blood cleared disease fda offer pathology ptau217 roche test",
-      "source_description": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology PR Newswire",
-      "chatgpt_summary": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
-        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
-      ]
     },
     {
       "id": "75aa9000c39c9d39c5b6",
@@ -1334,9 +1280,15 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3FMNFZmT0gtVG01UlNWNWF1b09hb2V4ZjJpQUNDc1RHeUVoaHFMRTNFVWZmVHQ0OGktM0ZjTUU3aUlwNFJ5d2pSWktEUjBxV0NCTVhkdHJKdVlwT3FDYUEyTEUydWpWWEsyQ29mMF9JTTJDZUkwRU12elFMSEE?oc=5",
           "domain": "aol.ca",
           "published_at": "2026-08-25T01:41:03+00:00"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDh1amlORHFNMC1XTzl3UUxXQ0sxUmpWM01EOUt6dGdaLUNGX3VUdkpXalFSTVVvOFZFa1RWemVkem9yNEJheFFPak01YnNTRkd2VDVGVW1vWTE5Zm5JRXBJMldoV0RSc3pqTkgxQkVWWDNZRGhEZnBrR2xUVHdBOEtuRjVuZUlGSFI5ZGVidHNHQ1lPeHNURDZuYTFVQm9HTHhqbDFKM1VtcWE3cF9lTThfcTQzZDZpeXhJVnREZmEzWFpTcDRlQ1otTV83ZlN4OEE2YUpjYmxibUM5c3lreml6dUtzQWZJZnJ6d3k4MnhWTGVFa0U0YW5aUGs?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-08-24T12:11:28+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
@@ -1362,6 +1314,123 @@
       ],
       "coverage_count": 1,
       "event_signature": "alzheime blood cleared detect fda first offer test"
+    },
+    {
+      "id": "18496cf65147fd2e91a4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREpERU9ZVmdSRTBhNFYxN0tVRTlCbzZBUEo5YWo4aE9TekN1Y21KQmRxVGVzckZ0ZDdYeVVlaDhGQkZTQjFBRHpEbG5Ya1NRMjFtUk9mSUpMSEhEZW1iU2pTd3JXR2NIQllzSk1nMDZxNWR5Si0tQjU2MTBsRE95c01iWVJQTzl1X18xOUcwTVpySEtVUDVJaGJkdkpIY2ZwdlU1LVZWMnpoMXdlRm9MTmhabHJSa2d5VDdfcEYybnZ5bVczZG50NDB5cmNtem1VUmYtYnJZXzNxVWhzY1E?oc=5",
+      "description": "Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPREpERU9ZVmdSRTBhNFYxN0tVRTlCbzZBUEo5YWo4aE9TekN1Y21KQmRxVGVzckZ0ZDdYeVVlaDhGQkZTQjFBRHpEbG5Ya1NRMjFtUk9mSUpMSEhEZW1iU2pTd3JXR2NIQllzSk1nMDZxNWR5Si0tQjU2MTBsRE95c01iWVJQTzl1X18xOUcwTVpySEtVUDVJaGJkdkpIY2ZwdlU1LVZWMnpoMXdlRm9MTmhabHJSa2d5VDdfcEYybnZ5bVczZG50NDB5cmNtem1VUmYtYnJZXzNxVWhzY1E?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0NEOThGV0RNZzgzZEZfSmNsbkVMSlp0NFZJX3pGNXhObmZZWDFUWjRtUGpTeVNrY3F3dHhIX0RrcTQzaDdULWMtNjYwb1AtMTJwWTJzbDBRU21sWWJaX1E1RGRCM2R4XzNpdE12T05JZksyZWlsblRBYWt4QlJxbGNvZkRkSXJHLVlqQ3FvSV9kbGtObnJMYmZTd0hGOGRXWm95U3lSTGtGWnNXRm9OYzhvcTFNMkphX0JiMVdqeERITWdua0U2UXV4NEFfSkV0MGRMU3lHTFhGMEZNRkdOWFYtNTU?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-08-24T18:00:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "24th annual conference global morgan speak stanley",
+      "source_description": "Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.",
+      "chatgpt_summary": "Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T07:31:38+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-speak-at-the-morgan-stanley-24th-annual-global-healthcare-conference-302857722.html",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
+    },
+    {
+      "id": "474131cf507e3ae53cbf",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics expands Alzheimer's blood tes...",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlMzNVB3QkZJVVBUZG8tdThRSXVkbkhsN3R4bjN1Tk1pMldyR3I1eFoydzBVN01WWEhFWjJ5ekVSeWJJNFN3cXZ5X0RBbkhweWt4QS0zek96QjJPc2ZaWUNycG00UlR0d2JxSGVPZnlWcFpoVEd0NnBqY1EwcGVUQS1aOWdkQkJrYVB6TkpPYmpkckpmdlppVGVpcU5FS1pNeHlfUXNHY0loUXp5SGpDZUV3?oc=5",
+      "description": "Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-alone Alzheimer’s diagnosis.",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTlMzNVB3QkZJVVBUZG8tdThRSXVkbkhsN3R4bjN1Tk1pMldyR3I1eFoydzBVN01WWEhFWjJ5ekVSeWJJNFN3cXZ5X0RBbkhweWt4QS0zek96QjJPc2ZaWUNycG00UlR0d2JxSGVPZnlWcFpoVEd0NnBqY1EwcGVUQS1aOWdkQkJrYVB6TkpPYmpkckpmdlppVGVpcU5FS1pNeHlfUXNHY0loUXp5SGpDZUV3?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer blood expands tes",
+      "source_description": "Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-a…",
+      "chatgpt_summary": "Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-alone Alzheimer’s diagnosis.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T07:31:38+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
+        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
+      ]
+    },
+    {
+      "id": "d5687d4caaf25e15b862",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
+      "description": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZ2ZTbDZUazFhdmRQaE9qbmd4NWpUTWVaSWFjdi1IR3JjVE8zRjU3ZWRRV1pUdGJDVncxajRKRVhZc1hpSjlXekkzTVFoV01mRHlheWlvaHFNTlU2NzVOaFpha1FKRkZleWg5VUowUDVjdVZxZ3oyOE9vOE1oN0RTaExtb0JCUi1ZQng5aHBNSG1pamFOM0JwcUtheFpDa1hVc0VrcUdSOHhrN3d3VTFFNFM5YmJVdzVqek1ReFF5djJvLXNLUGFrM0ZnTl9CUHhBMFh0YzBSU21Qc3hHN2VRQy1WN3NxNEhzTEljSkNZaw?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWFYtdTlxanIzNlozYUE5aWtsR2tjbEV4dWJLbXVVYVFzdWhnR09QcHpTemh4dWx2SDZZeWRiY1dyNWE4N1NoQzk4eUtaNGdIV3JGYUNpeVYwdTZicEY1SXU3dWRjUVcyMXdPc3NsMnNhVU9VeDBhS1l2Ml8tZV9jZGVzVEN0Rm9LaGl4Z1pzMnEzTldTMEhlU1ZQV3ZBT3dMcXlHUDF2YndNT2JTRlQwRmNXcXlsV0VuTzlHa2NUUmItVkR2VFE?oc=5",
+          "domain": "biobuzz.io",
+          "published_at": "2026-08-26T15:23:09+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmRpS3V2N2lfTnNLYU5MbFR4SkdKN2ZSRG5Ddmp4Z3Q0enE2dTFHQTBNY1dWOWVMZl9OTlQ4MXFsNzJoak1Iam1Ob2VfZjI3dkp3Q1Q1blFMb2tlV3dsY1lQV1FWVVo2YVg0Y2tnVFVwQmpjYzNoTktmUXZyTHZ5U0pkZ0FZQWpPUlNxZHNtSEhaSzRkOVhuRWRqVWU?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-24T11:24:00+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "alzheimer assess blood cleared disease fda offer pathology ptau217 roche test",
+      "source_description": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
+      "chatgpt_summary": "Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T07:31:38+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
+        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
+      ]
     },
     {
       "id": "403288b5f818c5e8cd2a",
@@ -3387,6 +3456,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "appointment colorado springs"
+    },
+    {
+      "id": "1d963d9c6a75d6395034",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Long Beach Appointmentpodcast Personal",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLW1LUjVER0xLc1hQS1ZPXzZKNGtoSS1TVHVkM3JsbzE5T09mV1BPeFFNOTUzWTh1c0NPNVNUWnNrZW5sdXVrM2xyYnUzN2xtTnN2dGNvLVd0cWwydzkyUFkyMGlEdGUtOHZ6d25kbFpuTS1RWENzdHRtSkpiUm9wQkNxZXVIN2Fxenh1NA?oc=5",
+      "description": "Quest Diagnostics Long Beach Appointmentpodcast Personal Oma Erto",
+      "source": "Oma Erto",
+      "source_url": "https://ftp.erto.fi",
+      "source_domain": "ftp.erto.fi",
+      "published_at": "2026-08-10T15:54:05+00:00",
+      "published_display": "10 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Oma Erto",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLW1LUjVER0xLc1hQS1ZPXzZKNGtoSS1TVHVkM3JsbzE5T09mV1BPeFFNOTUzWTh1c0NPNVNUWnNrZW5sdXVrM2xyYnUzN2xtTnN2dGNvLVd0cWwydzkyUFkyMGlEdGUtOHZ6d25kbFpuTS1RWENzdHRtSkpiUm9wQkNxZXVIN2Fxenh1NA?oc=5",
+          "domain": "ftp.erto.fi",
+          "published_at": "2026-08-10T15:54:05+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "appointmentpodcast beach long personal"
     },
     {
       "id": "9a458e83129ae19f68d1",
@@ -7801,10 +7894,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 66,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-04T06:17:00+05:30",
-  "next_update_display": "04 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-04T12:17:00+05:30",
+  "next_update_display": "04 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
