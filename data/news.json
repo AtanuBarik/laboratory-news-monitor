@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T22:06:33.265976+05:30",
-  "generated_at_display": "04 Sep 2026, 10:06 PM IST",
-  "item_count": 222,
-  "raw_relevant_item_count": 378,
-  "duplicates_merged": 82,
+  "generated_at": "2026-09-05T02:33:28.281777+05:30",
+  "generated_at_display": "05 Sep 2026, 2:33 AM IST",
+  "item_count": 223,
+  "raw_relevant_item_count": 302,
+  "duplicates_merged": 37,
   "failures": [],
   "items": [
     {
@@ -185,6 +185,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "agreement dkd enter expand kidneyintelx renalytix states testing united"
+    },
+    {
+      "id": "b4b79bfc42c23fa2447b",
+      "company": "Quest Diagnostics",
+      "title": "Renalytix signs multi-year Quest Diagnostics agreement for U.S. kidneyintelX.dkd rollout",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2cwU1lWSllmb1gweGlCM2phNEp3RXRscWw1c3N5T1lraGk0V2YwVUZ1NlRwYzFDd05uU1JsRUpkMExORzd4ZWxHQkxOTW5xbEdDV0g0NXZHSnRJQXhheDMwSHpLbG1nV1hPSHF5c2ZuclA5Q2FtNk1GUEFtSzhfeFp5WDhleEpPSGx4dnhndW4tQQ?oc=5",
+      "description": "Renalytix signs multi-year Quest Diagnostics agreement for U.S. kidneyintelX.dkd rollout Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "source_domain": "uk.finance.yahoo.com",
+      "published_at": "2026-09-01T07:17:10+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2cwU1lWSllmb1gweGlCM2phNEp3RXRscWw1c3N5T1lraGk0V2YwVUZ1NlRwYzFDd05uU1JsRUpkMExORzd4ZWxHQkxOTW5xbEdDV0g0NXZHSnRJQXhheDMwSHpLbG1nV1hPSHF5c2ZuclA5Q2FtNk1GUEFtSzhfeFp5WDhleEpPSGx4dnhndW4tQQ?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-09-01T07:17:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "agreement dkd kidneyintelx multi renalytix rollout signs year"
     },
     {
       "id": "ceb779dc820a6490b2a9",
@@ -388,9 +412,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5",
           "domain": "marketwatch.com",
           "published_at": "2026-09-01T20:59:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb05la2t0dDRFM1lFM0tDbE5HS3hXclMxcVh0ZmlLeTZITE9samxPazYzcFEyOW94MF9GOFhOaXRJcnZoY2hDX2g5SGdZaXZhdWI0ZWJrLTRyT3EzM0UzOXhlNHJIMVd4a3dZdERyYnloZG1VYW45UHNUakUzY2VNWm95Zl9vZjRxY1ZKQl9kdllsU0E1ekdWLS1zLXZ0U0NjcU14UEVGUWxsc2syV2xiUmN2aXZLZlh2djRTZFlwOUZhNjNtTXgyX0dfYjR3TmRqQTExYQ?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-01T20:59:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "compared competitors monday stock underperforms when"
     },
     {
@@ -7942,10 +7972,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 42,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-05T00:17:00+05:30",
-  "next_update_display": "05 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-05T06:17:00+05:30",
+  "next_update_display": "05 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
