@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T17:15:16.625079+05:30",
-  "generated_at_display": "04 Sep 2026, 5:15 PM IST",
+  "generated_at": "2026-09-04T22:06:33.265976+05:30",
+  "generated_at_display": "04 Sep 2026, 10:06 PM IST",
   "item_count": 222,
-  "raw_relevant_item_count": 376,
+  "raw_relevant_item_count": 378,
   "duplicates_merged": 82,
   "failures": [],
   "items": [
@@ -2181,9 +2181,15 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3JWYllteWVvaldDZGY2a1N0LXpvYkQ5ejExSkp1NkI0TnhxYm1Ca1h6OExkOEtRNzdvSlRmb0g2bmRJOHMwbk1hd1gyQlFNVlN3ajg2QnpVamJpTG1Kc05RMmRDWG1zSmpkTVBheE1aVlJHaDBDR1RvNktvYXZkWHZyVEgyNG1Sa2p5MDN4WGxrdkdYVTdvWU1kcUhlcDRLOHhmYkttdUhreHFXajFoT1BNX3Fndw?oc=5",
           "domain": "au.investing.com",
           "published_at": "2026-08-19T14:19:17+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDdOc1M5NXAyRWFXekRLZU5INnRaMm5aak1TQmdrWlozZ2ZLRUlwZmp5eHRZcWdOeHJsU18tbzBBczE0XzBxV2RHQnFJemhScnhrM0t0WlZjM3hfazNOSHhEMFJvc1BSSnhDUXdreUtUY0JLLTM3OWFoQ2pmN2EyVVpSeEJBeVRqSEtfNGV0WWZIMjloZnY0Y003TVhJVE1KdmRuT0QwVkw5ZnBmSGNQNlRVZVBoQQ?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-08-19T14:13:34+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "240 all high hits stock time usd"
     },
     {
@@ -3157,9 +3163,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM01OR0g1LS00U1BDSHRNRnY4ZV9wUEZLVlFaa3dCZ3J2dXBPV1V5SmpaM1ZzMkZHZUg3WGN3Y2F3S0p1M25vYno4RkprQ3Fmbml0QmREdkJMS3hFQm5zV0RDWS1qMzFKZExZTGp0X1lsLTN2QTdfNW9ZT2VtN1NYT0Vta3lwWmtIQ1FWWlhkTjNPMEZkUkVsRExCNjFRUEU1LVZEaw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-08-12T07:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeE15Nzl4SVRkcUpzUkRBVGlrdXRtYnpUZWlybk5VTnQxTWZRNWlwRGh5SlNLS2F6YklJMzJQZDBuYW9kbEpDQ3p3d284bUdCT28xTG9NYjQ2UFExRUwzeDR0aUVZdndHRkRuY1E1SjdYZGExRmJWSWRfbVpubGh2SEpIdlE5ZWF3Z3IzbnVIZWFVclVidlpPUDB3NXpSalBGNWVpdklLdmZ1R3hxRkk3TQ?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-08-12T07:00:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "cash declares dividend quarterly",
       "source_description": "Quest Diagnostics Incorporated Declares Quarterly Cash Dividend, Payable on October 21, 2026 marketscreener.com",
       "chatgpt_summary": "Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.",
@@ -7930,10 +7942,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 74,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-04T18:17:00+05:30",
-  "next_update_display": "04 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-05T00:17:00+05:30",
+  "next_update_display": "05 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

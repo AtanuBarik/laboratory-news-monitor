@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T17:44:57.465964+05:30",
-  "generated_at_display": "04 Sep 2026, 5:44 PM IST",
+  "generated_at": "2026-09-04T22:06:37.686215+05:30",
+  "generated_at_display": "04 Sep 2026, 10:06 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -75,7 +75,7 @@
       "published_at": "2026-08-19T07:00:00+00:00",
       "published_display": "19 Aug 2026",
       "official_source": false,
-      "coverage_count": 4,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5",
       "sources": [
         {
@@ -93,6 +93,10 @@
         {
           "name": "Investing.com Australia",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3JWYllteWVvaldDZGY2a1N0LXpvYkQ5ejExSkp1NkI0TnhxYm1Ca1h6OExkOEtRNzdvSlRmb0g2bmRJOHMwbk1hd1gyQlFNVlN3ajg2QnpVamJpTG1Kc05RMmRDWG1zSmpkTVBheE1aVlJHaDBDR1RvNktvYXZkWHZyVEgyNG1Sa2p5MDN4WGxrdkdYVTdvWU1kcUhlcDRLOHhmYkttdUhreHFXajFoT1BNX3Fndw?oc=5"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDdOc1M5NXAyRWFXekRLZU5INnRaMm5aak1TQmdrWlozZ2ZLRUlwZmp5eHRZcWdOeHJsU18tbzBBczE0XzBxV2RHQnFJemhScnhrM0t0WlZjM3hfazNOSHhEMFJvc1BSSnhDUXdreUtUY0JLLTM3OWFoQ2pmN2EyVVpSeEJBeVRqSEtfNGV0WWZIMjloZnY0Y003TVhJVE1KdmRuT0QwVkw5ZnBmSGNQNlRVZVBoQQ?oc=5"
         }
       ]
     },

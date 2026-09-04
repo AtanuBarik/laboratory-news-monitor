@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 04 Sep 2026, 5:15 PM IST
+- **Repository generated:** 04 Sep 2026, 10:06 PM IST
 - **Distinct events in this file:** 108
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -421,13 +421,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxOVDNldVozSkNQYmt6TWhIXzRTZTZ2UmgwNnM1bGFFMnh0NVptejJYZHNkbUtJckMzWkVZRWk4R0VPQkRIM3gtNXd2cWhabmFMMEVDVHQzcmxHcXcyRXAwcU1Ha1doTU9LWXdDNkROV3BScmZmSXM0TDBJVjFPN3VuSXpHY0tZMnU0MXlpQlJmaHRpZUxjV1dfRDJObVNFdnV4bkgyZ0tVQkFrckplWWFqNw?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGdIbjI1UTRIQndkejBXZlNtbTZTVjVsMklsd3UwRDhyWTkxNnJxLTNIUTE5YkhiRHVneUJOWGtTSkJPc3hCQ0dDV3gwOE12RDd3QUF3bmtuUjhvYjFDR21CRVJWYkxNMUhqNVVZOVBRQkRISFhFM1IzajlVdWQ4eUo0c0pnU2JhSjYzV1FMOXktdGo3R2tTbHhrYUFoMHdra2JLZ2llVlowc3JTVDVJLVdCN21FZw?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMitgFBVV95cUxPTl9LZjNDYU1WYmZFTzhnNGNuaUszTlBSSmdwZ2c5NFdteWw0R2xOWlIwMXJydGJYQTQxbGl4d3JFUjh3ZzcyRzU0S1lRbnJ2aXRTZWdZNS1kYkdKYXlyQnFOeUhDVzFIUGh3NkREOXhpa29jaVNFS3FfZENYLWEtLWpCT29zcUhNR1dfbHN6ZDZYay1QVldJSFBtbEZIX01HQWR2dXNDR1Q4X3hXV3kwUjZSNjN5UQ?oc=5
   - Investing.com Australia: https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3JWYllteWVvaldDZGY2a1N0LXpvYkQ5ejExSkp1NkI0TnhxYm1Ca1h6OExkOEtRNzdvSlRmb0g2bmRJOHMwbk1hd1gyQlFNVlN3ajg2QnpVamJpTG1Kc05RMmRDWG1zSmpkTVBheE1aVlJHaDBDR1RvNktvYXZkWHZyVEgyNG1Sa2p5MDN4WGxrdkdYVTdvWU1kcUhlcDRLOHhmYkttdUhreHFXajFoT1BNX3Fndw?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDdOc1M5NXAyRWFXekRLZU5INnRaMm5aak1TQmdrWlozZ2ZLRUlwZmp5eHRZcWdOeHJsU18tbzBBczE0XzBxV2RHQnFJemhScnhrM0t0WlZjM3hfazNOSHhEMFJvc1BSSnhDUXdreUtUY0JLLTM3OWFoQ2pmN2EyVVpSeEJBeVRqSEtfNGV0WWZIMjloZnY0Y003TVhJVE1KdmRuT0QwVkw5ZnBmSGNQNlRVZVBoQQ?oc=5
 
 **Feed description:** Quest Diagnostics shares reached an all-time high of $240.15 on August 19, 2026, according to Investing.com. The article reported a year-to-date return of 38%, a one-year share-price increase of 29.7% and a market capitalization of approximately $26.35 billion. InvestingPro's valuation model characterized the shares as overvalued relative to its fair-value estimate; that assessment is third-party investment analysis rather than Quest guidance. The market milestone followed a strong second quarter. Quest reported adjusted EPS of $3.12 versus the $2.82 consensus estimate cited by Investing.com, while quarterly revenue was about $3.04 billion. Quest's official release showed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic growth and a 13.1% increase in requisition volume. The company raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. The article also noted that Truist Securities raised its Quest price target to $250 from $225 while maintaining a Hold rating after the quarter. The all-time-high story therefore reflects market reaction to earnings, higher guidance and sustained operating momentum rather than a newly announced product, acquisition or partnership.
 
@@ -548,7 +549,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 12 Aug 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - AOL.com: https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDFLX0hpM1dYOGlFS2xRM1FHaVl5dmdWQi02dmNweTN5SjRqQVZIdFF2enI2UUZndUl0NGFvYUV1NHNFNWFUdERkNkhURTVNdmc0aENqTTFRVExud1B0eWFRMVlKRTlSTS1WRFBNTDU1dlV4UFZiVTh6cUZqZThDeEVGZTh0d0ZlaDVCTHdB?oc=5
@@ -557,6 +558,7 @@
   - Stock Titan: https://news.google.com/rss/articles/CBMimwFBVV95cUxNTW1ieDBzdHJsMVJOcFJTQkIyalNEaUVsTjFhaDR5VmJHRVpRRklMRm8zRThrTVdGYTRYSC1jX0dKTzFwNHdwdFA0T0lfZXpxYnFtMUtXMExSLWR4QnFEbl9oZ054UE1zdHFrRldtQXJpNmpnUF9mT1praS04b2tIYVJoanFENjFPMDhYSEJaS1kzQ0Jzb3E1a25hVQ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcDVqU1NfcS1vcGtDblJReTlLUHd5Q2NSeXgxaGI5czBkVkZzT1lLTmFWZG5EbmVrZEVXRXU1MWxDNGhubTltTDBMUUowOGNWYXRIMVNKV3NkOF9qZVhUdXNVNmFHTms0a2ZURzB1ckJiREVXQnpCOXFnZXFqMVJfTkRHV0VrX09EUjI0UHdlZ29jTDhDaUxRb2l2UGowZVI4cjRfX2VmVU16dw?oc=5
   - finance.yahoo.com: https://news.google.com/rss/articles/CBMipAFBVV95cUxNM01OR0g1LS00U1BDSHRNRnY4ZV9wUEZLVlFaa3dCZ3J2dXBPV1V5SmpaM1ZzMkZHZUg3WGN3Y2F3S0p1M25vYno4RkprQ3Fmbml0QmREdkJMS3hFQm5zV0RDWS1qMzFKZExZTGp0X1lsLTN2QTdfNW9ZT2VtN1NYT0Vta3lwWmtIQ1FWWlhkTjNPMEZkUkVsRExCNjFRUEU1LVZEaw?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMisAFBVV95cUxQeE15Nzl4SVRkcUpzUkRBVGlrdXRtYnpUZWlybk5VTnQxTWZRNWlwRGh5SlNLS2F6YklJMzJQZDBuYW9kbEpDQ3p3d284bUdCT28xTG9NYjQ2UFExRUwzeDR0aUVZdndHRkRuY1E1SjdYZGExRmJWSWRfbVpubGh2SEpIdlE5ZWF3Z3IzbnVIZWFVclVidlpPUDB3NXpSalBGNWVpdklLdmZ1R3hxRkk3TQ?oc=5
 
 **Feed description:** Quest Diagnostics announced on August 12, 2026 that its board declared a quarterly cash dividend of $0.86 per common share. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, on top of approximately $0.4 billion that remained available at December 31, 2025. The August dividend release does not revise earnings guidance, announce a new repurchase program, alter the dividend rate or describe a new laboratory product or transaction. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The declaration therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s latest public company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees.
 
