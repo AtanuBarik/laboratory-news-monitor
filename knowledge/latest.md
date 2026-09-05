@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 05 Sep 2026, 10:27 AM IST
+- **Repository generated:** 05 Sep 2026, 4:26 PM IST
 - **Distinct events in this file:** 223
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -120,10 +120,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 01 Sep 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5
 
 **Feed description:** REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView
 
@@ -569,11 +570,10 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Product & Services
-- **Coverage count:** 2
+- **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5
-  - Investing.com India: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
@@ -582,7 +582,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 9
+- **Coverage count:** 10
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5
@@ -594,6 +594,7 @@
   - AOL.ca: https://news.google.com/rss/articles/CBMif0FVX3lxTE4tS3FMNFZmT0gtVG01UlNWNWF1b09hb2V4ZjJpQUNDc1RHeUVoaHFMRTNFVWZmVHQ0OGktM0ZjTUU3aUlwNFJ5d2pSWktEUjBxV0NCTVhkdHJKdVlwT3FDYUEyTEUydWpWWEsyQ29mMF9JTTJDZUkwRU12elFMSEE?oc=5
   - BioSpace: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDh1amlORHFNMC1XTzl3UUxXQ0sxUmpWM01EOUt6dGdaLUNGX3VUdkpXalFSTVVvOFZFa1RWemVkem9yNEJheFFPak01YnNTRkd2VDVGVW1vWTE5Zm5JRXBJMldoV0RSc3pqTkgxQkVWWDNZRGhEZnBrR2xUVHdBOEtuRjVuZUlGSFI5ZGVidHNHQ1lPeHNURDZuYTFVQm9HTHhqbDFKM1VtcWE3cF9lTThfcTQzZDZpeXhJVnREZmEzWFpTcDRlQ1otTV83ZlN4OEE2YUpjYmxibUM5c3lreml6dUtzQWZJZnJ6d3k4MnhWTGVFa0U0YW5aUGs?oc=5
   - finance.yahoo.com: https://news.google.com/rss/articles/CBMilwFBVV95cUxQckRvTUxpMFZIR1JJNWlTMVZub2xFT1YxUXhQZkUtbWJYeGk1Y3ZMaEVaRUQwcnRtbG5Ob0NtMjgwYzFxSzFPN1VWZk1YRHcyMWJjMTJqRXg2Q1RTVHVqSDN3M0V5QzJIM0FrTnc2U3dZMVIzQ1I5Rnd3cTRMS242YzdyTWRxSFhLNDdkQ3BUaTQ2ZTZFOEhv?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 

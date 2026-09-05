@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Sep 2026, 10:27 AM IST
+- **Repository generated:** 05 Sep 2026, 4:26 PM IST
 - **Distinct events in this file:** 109
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -71,10 +71,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 01 Sep 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5
 
 **Feed description:** REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView
 

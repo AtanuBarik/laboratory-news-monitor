@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T11:47:00.938128+05:30",
-  "generated_at_display": "05 Sep 2026, 11:47 AM IST",
+  "generated_at": "2026-09-05T16:26:11.038809+05:30",
+  "generated_at_display": "05 Sep 2026, 4:26 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -37,12 +37,16 @@
       "published_at": "2026-09-01T06:00:00+00:00",
       "published_display": "01 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
       "sources": [
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5"
         }
       ]
     },
@@ -347,7 +351,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 9,
+      "coverage_count": 10,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {
