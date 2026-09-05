@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-05T16:26:07.933868+05:30",
-  "generated_at_display": "05 Sep 2026, 4:26 PM IST",
-  "item_count": 223,
-  "raw_relevant_item_count": 394,
+  "generated_at": "2026-09-05T21:05:07.409278+05:30",
+  "generated_at_display": "05 Sep 2026, 9:05 PM IST",
+  "item_count": 224,
+  "raw_relevant_item_count": 395,
   "duplicates_merged": 87,
   "failures": [],
   "items": [
+    {
+      "id": "5acf9dc9cae8899bd7dc",
+      "company": "Quest Diagnostics",
+      "title": "Man Group takes new $495K stake in Quest Diagnostics as stock nears record high",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlB6ZG1WZjk5V0FabEJvaERBSTQ3Z1RfT0dJMDZEYWhNbllEWTVGN1hOaXFSWWg3OVQ2V282QlNLU1RiaXUwc0E3RFNIN2U2N0s0XzRiVWM2Vl9jNzJ4SmZFQjdjMjBJY0ZOSjFNRnh0VmJMRllhVGpDVmNCcTIxUDFWaGx2a3JFbDNMSll3ZHAybVFfZTdpU1NiUDBSdWxMZ25zcC1fbF9ycFctcnBRYnln?oc=5",
+      "description": "Man Group takes new $495K stake in Quest Diagnostics as stock nears record high Dealroom",
+      "source": "Dealroom",
+      "source_url": "https://app.dealroom.co",
+      "source_domain": "app.dealroom.co",
+      "published_at": "2026-09-05T12:26:46+00:00",
+      "published_display": "05 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlB6ZG1WZjk5V0FabEJvaERBSTQ3Z1RfT0dJMDZEYWhNbllEWTVGN1hOaXFSWWg3OVQ2V282QlNLU1RiaXUwc0E3RFNIN2U2N0s0XzRiVWM2Vl9jNzJ4SmZFQjdjMjBJY0ZOSjFNRnh0VmJMRllhVGpDVmNCcTIxUDFWaGx2a3JFbDNMSll3ZHAybVFfZTdpU1NiUDBSdWxMZ25zcC1fbF9ycFctcnBRYnln?oc=5",
+          "domain": "app.dealroom.co",
+          "published_at": "2026-09-05T12:26:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "495k high man nears record stake stock takes"
+    },
     {
       "id": "a770a17260c644b3e2f4",
       "company": "Quest Diagnostics",
@@ -191,7 +215,7 @@
       "company": "Quest Diagnostics",
       "title": "Renalytix signs multi-year Quest Diagnostics agreement for U.S. kidneyintelX.dkd rollout",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2cwU1lWSllmb1gweGlCM2phNEp3RXRscWw1c3N5T1lraGk0V2YwVUZ1NlRwYzFDd05uU1JsRUpkMExORzd4ZWxHQkxOTW5xbEdDV0g0NXZHSnRJQXhheDMwSHpLbG1nV1hPSHF5c2ZuclA5Q2FtNk1GUEFtSzhfeFp5WDhleEpPSGx4dnhndW4tQQ?oc=5",
-      "description": "Renalytix signs multi-year Quest Diagnostics agreement for U.S. kidneyintelX.dkd rollout Yahoo Finance UK",
+      "description": "Renalytix signs multi-year Quest Diagnostics agreement for U.S. kidneyintelX.dkd rollout uk.finance.yahoo.com",
       "source": "Yahoo Finance UK",
       "source_url": "https://uk.finance.yahoo.com",
       "source_domain": "uk.finance.yahoo.com",
@@ -1094,7 +1118,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmd1WlYwTXMwbFVod2w4WnQ0X0VZTjJyX1JlbDdKYVFuSU9rczRKLVBhd0VPQXcxaUFqWFJwaEwyckU2c3RMSmQ2MDQ5X1RYMGNwZkFEeFhQUWpTekpqbkxJR0hRSXVMdjRwbnM5elhFUkVzT3dCWXp0VU5JR3JZVzBmS2VWNTNGamJaa1c5TGNobk0?oc=5",
-      "description": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68? Traders Union",
+      "description": "Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68? tradersunion.com",
       "source": "Traders Union",
       "source_url": "https://tradersunion.com",
       "source_domain": "tradersunion.com",
@@ -8005,10 +8029,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 84,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-05T18:17:00+05:30",
-  "next_update_display": "05 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-06T00:17:00+05:30",
+  "next_update_display": "06 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
