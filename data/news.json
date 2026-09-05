@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T02:33:28.281777+05:30",
-  "generated_at_display": "05 Sep 2026, 2:33 AM IST",
+  "generated_at": "2026-09-05T10:27:40.503930+05:30",
+  "generated_at_display": "05 Sep 2026, 10:27 AM IST",
   "item_count": 223,
-  "raw_relevant_item_count": 302,
-  "duplicates_merged": 37,
+  "raw_relevant_item_count": 392,
+  "duplicates_merged": 85,
   "failures": [],
   "items": [
     {
@@ -1238,43 +1238,25 @@
       ]
     },
     {
-      "id": "0ebe71e6e440112bd771",
+      "id": "6248cf18c368ee3da656",
       "company": "Labcorp",
-      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
-      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-08-24T12:21:59+00:00",
+      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
+      "description": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-24T11:18:21+00:00",
       "published_display": "24 Aug 2026",
       "category": "Product & Services",
       "official_source": false,
       "sources": [
         {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-08-24T12:21:59+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "217 clearance elecsys fda following offers ptau test"
-    },
-    {
-      "id": "8051c7ada888b66eb62e",
-      "company": "Labcorp",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-08-24T11:33:54+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-24T11:18:21+00:00"
+        },
         {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
@@ -1282,8 +1264,17 @@
           "published_at": "2026-08-24T11:33:54+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer blood cleared com fda investing nationwide offer test"
+      "coverage_count": 2,
+      "event_signature": "alzheimer blood cleared fda nationwide offer test",
+      "source_description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com India",
+      "chatgpt_summary": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T12:39:40+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-offer-first-fda-cleared-blood-test-detect-alzheimers",
+        "https://sg.finance.yahoo.com/news/labcorp-offer-first-fda-cleared-110200128.html"
+      ]
     },
     {
       "id": "75aa9000c39c9d39c5b6",
@@ -1497,6 +1488,30 @@
         "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
         "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
       ]
+    },
+    {
+      "id": "0ebe71e6e440112bd771",
+      "company": "Labcorp",
+      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
+      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "217 clearance elecsys fda following offers ptau test"
     },
     {
       "id": "403288b5f818c5e8cd2a",
@@ -3707,9 +3722,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmszRXdqR1BXc045X0swekhIOWhyYTJLZ3YxMnRNek1XN29IVU5ZNWpDWFdaejFfdkdIbGh5dkRaU1plN2ozcTU0RmRoSGF2YlY1U0hRYjNqTjljaWd2ZnBtRHZFSkthR2pzM19qNGpVTGJjNDZOdlhQTWtrcHY3LU5mT3hndEVWejBEaW4yNW9HUU5PTTZGcGFYa0tPOF9lLU9YMTZNZ0VUQ01aX01uemJJV254Qm5vbUtyQTZfdjdEVHhwRmRkTThjOUJFNUJwVTl1Vnd0VnJGNHR6ZnRMMWZvTW0tWWRoaFVBUDRMMA?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-08-10T07:00:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pyM0UyZGpVMDU5OU8xLXNqM3dWVnJMYnhFNHU3ODRvcVBkZ1U1RW9oYU1wTVZGcElTX2JFenVSNVhFTWEzbjN4R183MVNneEJ0cGlVNS1WZTlSVm1oYmpMYkRtR3R4OUVsRXc2dmhnWGxXdzU1cGdXcGhIQTkyeUdJZkdtUUNKanRDWg?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-08-10T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting",
       "source_description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liqu…",
       "chatgpt_summary": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
@@ -4177,9 +4198,15 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5",
           "domain": "vinanet.vn",
           "published_at": "2026-08-06T07:00:00+00:00"
+        },
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmZqQVpUMGZfbE81NnkwTXZaM1ZTM0RUczVCbWJXcUNKcEhFbzFSTFczTElGTXF6WnQyZUsyeUNMWV9UNzRicUk3ZEdDU2xlS0RlazFsNlhmSzNZMWpBNVRXV2k5VXZ4RFdtX1dPUlpqMURaV3FVZzkzVkhHNFlPWE0yb2FzNUlNZGpWMksxbGNoa2V2LXVYZWozYlNaRURNTWJLaHUyYWxUM2pEQ01DY2UzZjdjTGk3OUZja2xtdV95ZGRBdjRhMkdFQTNSQTQ?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-08-06T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "advances between buffered etf midpoint resistance shares support test"
     },
     {
@@ -7972,10 +7999,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 84,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-05T06:17:00+05:30",
-  "next_update_display": "05 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-05T12:17:00+05:30",
+  "next_update_display": "05 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

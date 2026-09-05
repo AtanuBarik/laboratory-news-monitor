@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 05 Sep 2026, 2:33 AM IST
+- **Repository generated:** 05 Sep 2026, 10:27 AM IST
 - **Distinct events in this file:** 89
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -253,31 +253,20 @@
 
 **Feed description:** Labcorp announces FDA-cleared Elecsys pTau217 test as stock edges lower Traders Union
 
-## 21. Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance
+## 21. Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Product & Services
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5
-
-**Feed description:** Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com
-
-## 22. Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com
-
-- **Company:** Labcorp
-- **Publication date:** 24 Aug 2026
-- **Category:** Product & Services
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5
 
-**Feed description:** Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com India
+**Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
-## 23. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
+## 22. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -297,7 +286,7 @@
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
-## 24. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime
+## 23. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -308,6 +297,18 @@
   - GuruFocus: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5
 
 **Feed description:** Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime GuruFocus
+
+## 24. Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance
+
+- **Company:** Labcorp
+- **Publication date:** 24 Aug 2026
+- **Category:** Product & Services
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5
+
+**Feed description:** Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com
 
 ## 25. Labcorp EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance
 
@@ -648,7 +649,7 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5
@@ -656,6 +657,7 @@
   - Moomoo: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVBQalRabnNQOFg1ZTRCaFdfTGhOUG9pQ2ZiUWxQWjF5ZUNqSXE0WTFaUmVLc1J4ai1KMllQZDBOZlFVa1V3TGoyZkZkallZWDN0VWhHMURmX09idjZNRGQyMWRNa1VQZDJoZFloTDlaRTZMX1Vxcjdrd2NlNkp6NGtTTXp6TnI1TkVNYi1sOFowUzZRamxuZjBxRkJFRGlESlhJ?oc=5
   - Morningstar: https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmszRXdqR1BXc045X0swekhIOWhyYTJLZ3YxMnRNek1XN29IVU5ZNWpDWFdaejFfdkdIbGh5dkRaU1plN2ozcTU0RmRoSGF2YlY1U0hRYjNqTjljaWd2ZnBtRHZFSkthR2pzM19qNGpVTGJjNDZOdlhQTWtrcHY3LU5mT3hndEVWejBEaW4yNW9HUU5PTTZGcGFYa0tPOF9lLU9YMTZNZ0VUQ01aX01uemJJV254Qm5vbUtyQTZfdjdEVHhwRmRkTThjOUJFNUJwVTl1Vnd0VnJGNHR6ZnRMMWZvTW0tWWRoaFVBUDRMMA?oc=5
+  - AOL.com: https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pyM0UyZGpVMDU5OU8xLXNqM3dWVnJMYnhFNHU3ODRvcVBkZ1U1RW9oYU1wTVZGcElTX2JFenVSNVhFTWEzbjN4R183MVNneEJ0cGlVNS1WZTlSVm1oYmpMYkRtR3R4OUVsRXc2dmhnWGxXdzU1cGdXcGhIQTkyeUdJZkdtUUNKanRDWg?oc=5
 
 **Feed description:** Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.
 

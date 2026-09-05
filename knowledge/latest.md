@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 05 Sep 2026, 2:33 AM IST
+- **Repository generated:** 05 Sep 2026, 10:27 AM IST
 - **Distinct events in this file:** 223
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -564,31 +564,20 @@
 
 **Feed description:** Ad Hoc News reported that Quest Diagnostics shares were holding in the mid-$240 range on August 24 as investors weighed a new Alzheimer’s blood-testing expansion alongside recent earnings momentum. The article cited an opening price of $244.34 for the latest session. It linked the valuation discussion to Quest’s second-quarter results, when adjusted EPS was $3.12 versus a $2.82 consensus estimate cited by the publication, and to full-year 2026 adjusted EPS guidance of $11.05-$11.25. Quest’s official results also showed quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth, and a 13.1% increase in requisition volume. The article said the analyst consensus rating was “Moderate Buy” and cited an average price target of $235.31, below the prevailing share price, illustrating the tension between strong operating momentum and valuation. The fresh product catalyst was Quest’s August 24 plan to add Roche’s newly FDA-cleared Elecsys pTau217 blood test to its AD-Detect portfolio and separately launch a multi-biomarker Alzheimer’s panel. The article is principally market and valuation commentary; its substantive corporate inputs are the strong Q2 earnings, raised guidance and expansion of Quest’s Alzheimer’s testing portfolio.
 
-## 46. Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance
+## 46. Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Product & Services
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5
-
-**Feed description:** Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com
-
-## 47. Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com
-
-- **Company:** Labcorp
-- **Publication date:** 24 Aug 2026
-- **Category:** Product & Services
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5
 
-**Feed description:** Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com India
+**Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
-## 48. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
+## 47. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -608,7 +597,7 @@
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
-## 49. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime
+## 48. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -620,7 +609,7 @@
 
 **Feed description:** Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime GuruFocus
 
-## 50. Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference
+## 49. Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -633,7 +622,7 @@
 
 **Feed description:** Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.
 
-## 51. Quest Diagnostics expands Alzheimer's blood tes...
+## 50. Quest Diagnostics expands Alzheimer's blood tes...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -645,7 +634,7 @@
 
 **Feed description:** Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-alone Alzheimer’s diagnosis.
 
-## 52. Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology
+## 51. Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -658,6 +647,18 @@
   - finance.yahoo.com: https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmRpS3V2N2lfTnNLYU5MbFR4SkdKN2ZSRG5Ddmp4Z3Q0enE2dTFHQTBNY1dWOWVMZl9OTlQ4MXFsNzJoak1Iam1Ob2VfZjI3dkp3Q1Q1blFMb2tlV3dsY1lQV1FWVVo2YVg0Y2tnVFVwQmpjYzNoTktmUXZyTHZ5U0pkZ0FZQWpPUlNxZHNtSEhaSzRkOVhuRWRqVWU?oc=5
 
 **Feed description:** Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.
+
+## 52. Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance
+
+- **Company:** Labcorp
+- **Publication date:** 24 Aug 2026
+- **Category:** Product & Services
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5
+
+**Feed description:** Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com
 
 ## 53. Labcorp EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance
 
@@ -1510,7 +1511,7 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5
@@ -1518,6 +1519,7 @@
   - Moomoo: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVBQalRabnNQOFg1ZTRCaFdfTGhOUG9pQ2ZiUWxQWjF5ZUNqSXE0WTFaUmVLc1J4ai1KMllQZDBOZlFVa1V3TGoyZkZkallZWDN0VWhHMURmX09idjZNRGQyMWRNa1VQZDJoZFloTDlaRTZMX1Vxcjdrd2NlNkp6NGtTTXp6TnI1TkVNYi1sOFowUzZRamxuZjBxRkJFRGlESlhJ?oc=5
   - Morningstar: https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmszRXdqR1BXc045X0swekhIOWhyYTJLZ3YxMnRNek1XN29IVU5ZNWpDWFdaejFfdkdIbGh5dkRaU1plN2ozcTU0RmRoSGF2YlY1U0hRYjNqTjljaWd2ZnBtRHZFSkthR2pzM19qNGpVTGJjNDZOdlhQTWtrcHY3LU5mT3hndEVWejBEaW4yNW9HUU5PTTZGcGFYa0tPOF9lLU9YMTZNZ0VUQ01aX01uemJJV254Qm5vbUtyQTZfdjdEVHhwRmRkTThjOUJFNUJwVTl1Vnd0VnJGNHR6ZnRMMWZvTW0tWWRoaFVBUDRMMA?oc=5
+  - AOL.com: https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pyM0UyZGpVMDU5OU8xLXNqM3dWVnJMYnhFNHU3ODRvcVBkZ1U1RW9oYU1wTVZGcElTX2JFenVSNVhFTWEzbjN4R183MVNneEJ0cGlVNS1WZTlSVm1oYmpMYkRtR3R4OUVsRXc2dmhnWGxXdzU1cGdXcGhIQTkyeUdJZkdtUUNKanRDWg?oc=5
 
 **Feed description:** Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.
 
@@ -1679,11 +1681,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Aug 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - dars.gov.et: https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5
   - Vinanet: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmZqQVpUMGZfbE81NnkwTXZaM1ZTM0RUczVCbWJXcUNKcEhFbzFSTFczTElGTXF6WnQyZUsyeUNMWV9UNzRicUk3ZEdDU2xlS0RlazFsNlhmSzNZMWpBNVRXV2k5VXZ4RFdtX1dPUlpqMURaV3FVZzkzVkhHNFlPWE0yb2FzNUlNZGpWMksxbGNoa2V2LXVYZWozYlNaRURNTWJLaHUyYWxUM2pEQ01DY2UzZjdjTGk3OUZja2xtdV95ZGRBdjRhMkdFQTNSQTQ?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts vinanet.vn
 

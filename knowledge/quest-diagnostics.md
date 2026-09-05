@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Sep 2026, 2:33 AM IST
+- **Repository generated:** 05 Sep 2026, 10:27 AM IST
 - **Distinct events in this file:** 109
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -704,11 +704,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Aug 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - dars.gov.et: https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5
   - Vinanet: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmZqQVpUMGZfbE81NnkwTXZaM1ZTM0RUczVCbWJXcUNKcEhFbzFSTFczTElGTXF6WnQyZUsyeUNMWV9UNzRicUk3ZEdDU2xlS0RlazFsNlhmSzNZMWpBNVRXV2k5VXZ4RFdtX1dPUlpqMURaV3FVZzkzVkhHNFlPWE0yb2FzNUlNZGpWMksxbGNoa2V2LXVYZWozYlNaRURNTWJLaHUyYWxUM2pEQ01DY2UzZjdjTGk3OUZja2xtdV95ZGRBdjRhMkdFQTNSQTQ?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts vinanet.vn
 

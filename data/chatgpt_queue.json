@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-05T03:15:56.498408+05:30",
-  "generated_at_display": "05 Sep 2026, 3:15 AM IST",
+  "generated_at": "2026-09-05T10:27:43.606456+05:30",
+  "generated_at_display": "05 Sep 2026, 10:27 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 111,
+  "remaining_unsummarized_count": 110,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -338,44 +338,6 @@
       ]
     },
     {
-      "id": "0ebe71e6e440112bd771",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
-      "source": "marketscreener.com",
-      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
-      "published_at": "2026-08-24T12:21:59+00:00",
-      "published_display": "24 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8051c7ada888b66eb62e",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
-      "source": "Investing.com India",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com India",
-      "published_at": "2026-08-24T11:33:54+00:00",
-      "published_display": "24 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "75aa9000c39c9d39c5b6",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -438,6 +400,25 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0ebe71e6e440112bd771",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
+      "source": "marketscreener.com",
+      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5"
         }
       ]
     },
@@ -651,6 +632,25 @@
         {
           "name": "vinanet.vn",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3358baa196876082cd35",
+      "company": "Labcorp",
+      "category": "Financials",
+      "title": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares",
+      "source": "Ad-hoc-news.de",
+      "description": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares Ad-hoc-news.de",
+      "published_at": "2026-08-27T14:34:27+00:00",
+      "published_display": "27 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5",
+      "sources": [
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5"
         }
       ]
     }
