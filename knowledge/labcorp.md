@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 06 Sep 2026, 4:52 PM IST
+- **Repository generated:** 06 Sep 2026, 9:18 PM IST
 - **Distinct events in this file:** 90
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,12 +10,13 @@
 - **Company:** Labcorp
 - **Publication date:** 03 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5QY2JuaUZ4SGZVeGM3UnhfN2VwMDdQMTdkaU1LRHJiQUJSTkxBZEdxWnNlT2dUMk45cWpFb09RTUlieEEwVENBbUVZbmlkVGc1Vk5fU1lmRXVBa3ljNlEyUXFjODhIYW5oR2tiUmJIaV84LVdBemh3bE1leXVMNkx4VXVSdmJjdWw5WXVzWVlZOV9LMkxSdjFsaE9FTkYyRmxoN1kzQWZMdkxPNG5SUTJ5eEVYYnZoSjJmNjhTNnU3Rmhq?oc=5
 
-**Feed description:** Labcorp stock holds steady as investors look to next earnings signal ad-hoc-news.de
+**Feed description:** Labcorp stock holds steady as investors eye recent earnings and diagnostics demand AD HOC NEWS
 
 ## 2. Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction
 

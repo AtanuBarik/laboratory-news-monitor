@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T17:14:15.133525+05:30",
-  "generated_at_display": "06 Sep 2026, 5:14 PM IST",
+  "generated_at": "2026-09-06T21:18:41.539904+05:30",
+  "generated_at_display": "06 Sep 2026, 9:18 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -512,16 +512,20 @@
       "category": "Financials",
       "title": "Labcorp stock holds steady as investors look to next earnings signal",
       "source": "AD HOC NEWS",
-      "description": "Labcorp stock holds steady as investors look to next earnings signal ad-hoc-news.de",
+      "description": "Labcorp stock holds steady as investors eye recent earnings and diagnostics demand AD HOC NEWS",
       "published_at": "2026-09-03T20:11:04+00:00",
       "published_display": "03 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
       "sources": [
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5QY2JuaUZ4SGZVeGM3UnhfN2VwMDdQMTdkaU1LRHJiQUJSTkxBZEdxWnNlT2dUMk45cWpFb09RTUlieEEwVENBbUVZbmlkVGc1Vk5fU1lmRXVBa3ljNlEyUXFjODhIYW5oR2tiUmJIaV84LVdBemh3bE1leXVMNkx4VXVSdmJjdWw5WXVzWVlZOV9LMkxSdjFsaE9FTkYyRmxoN1kzQWZMdkxPNG5SUTJ5eEVYYnZoSjJmNjhTNnU3Rmhq?oc=5"
         }
       ]
     },
