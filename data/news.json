@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T21:18:37.681278+05:30",
-  "generated_at_display": "06 Sep 2026, 9:18 PM IST",
+  "generated_at": "2026-09-07T02:21:17.538236+05:30",
+  "generated_at_display": "07 Sep 2026, 2:21 AM IST",
   "item_count": 225,
-  "raw_relevant_item_count": 401,
-  "duplicates_merged": 91,
+  "raw_relevant_item_count": 403,
+  "duplicates_merged": 94,
   "failures": [],
   "items": [
     {
@@ -8079,10 +8079,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 84,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-07T00:17:00+05:30",
-  "next_update_display": "07 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-07T06:17:00+05:30",
+  "next_update_display": "07 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
