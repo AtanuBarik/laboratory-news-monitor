@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T10:37:12.552381+05:30",
-  "generated_at_display": "06 Sep 2026, 10:37 AM IST",
+  "generated_at": "2026-09-06T16:52:07.405994+05:30",
+  "generated_at_display": "06 Sep 2026, 4:52 PM IST",
   "item_count": 225,
-  "raw_relevant_item_count": 403,
-  "duplicates_merged": 93,
+  "raw_relevant_item_count": 400,
+  "duplicates_merged": 87,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Man Group takes new $495K stake in Quest Diagnostics as stock nears record high",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlB6ZG1WZjk5V0FabEJvaERBSTQ3Z1RfT0dJMDZEYWhNbllEWTVGN1hOaXFSWWg3OVQ2V282QlNLU1RiaXUwc0E3RFNIN2U2N0s0XzRiVWM2Vl9jNzJ4SmZFQjdjMjBJY0ZOSjFNRnh0VmJMRllhVGpDVmNCcTIxUDFWaGx2a3JFbDNMSll3ZHAybVFfZTdpU1NiUDBSdWxMZ25zcC1fbF9ycFctcnBRYnln?oc=5",
-      "description": "Man Group takes new $495K stake in Quest Diagnostics as stock nears record high Dealroom",
+      "description": "Man Group takes new $495K stake in Quest Diagnostics as stock nears record high app.dealroom.co",
       "source": "Dealroom",
       "source_url": "https://app.dealroom.co",
       "source_domain": "app.dealroom.co",
@@ -616,9 +616,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-08-31T08:12:09+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTQta0lnSzUxMEoya0RDcG8tNUE1SWhXVjR6TFh3ckc1V0tEVUlSS3l0VXkxRHRSdWV3MmlTUl9yeVZ1WlhweXF0RnRhX29uaXJCc3hrcWlEb053X043WV9fcWJIWXZoVnY4TU4yVFdDcko1WjM3ZTAyWG1KTEFHLXFxVXNJa24tLVdibDhJTmVVVlhWNDBQSG5sU2NVZmdVSGhmR3BLaEVPY0h4a1J5UDRUR0hWa2FWQnRLSWdGUEtVNUtZd1ZacURWaDA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-06T10:01:24+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "await catalysts earnings fresh holds investors steady stock"
     },
     {
@@ -766,30 +772,6 @@
       "event_signature": "director excited join medical oncology wang"
     },
     {
-      "id": "20a67ab17183ba0b54fe",
-      "company": "Labcorp",
-      "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-28T02:17:00+00:00",
-      "published_display": "28 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-28T02:17:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer biomarker blood cleared fda first single test unveiled"
-    },
-    {
       "id": "3358baa196876082cd35",
       "company": "Labcorp",
       "title": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares",
@@ -812,36 +794,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "ceo close guidance high month rises sells shares stock trades"
-    },
-    {
-      "id": "a579ca93a2b4becd7cbe",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock hits all-time high at 246.06 USD",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
-      "description": "Quest Diagnostics stock hits all-time high at 246.06 USD By Investing.com Investing.com South Africa",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-27T14:13:20+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-27T14:13:20+00:00"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUkySmRBNHN4dUI3OXRTS0Zoa1hoVkV1c2lYLW9wU0NXUUZISWRMSFFobklOakJBTVBFMi1iNmNZenJfb25BdU00WlJLbHZ4aXkyMkJPSGJGYjFKd2F0NXhrSk9sSWRZSzgxOGpYa0duYV9zU2dmMjA1U3JxOXp5YVhub3FGM2J0SEh0UklxczJFa0ppRjlieDRUMmtKUEwxRlV1R0ZmUnJKTjNqb2ozcTlVNzgwdw?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-08-27T14:54:45+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "246 all high hits stock time usd"
     },
     {
       "id": "5a7b9d5ee29df8231edb",
@@ -890,6 +842,60 @@
       ],
       "coverage_count": 1,
       "event_signature": "buying edges fresh higher institutional investors respond steady stock"
+    },
+    {
+      "id": "20a67ab17183ba0b54fe",
+      "company": "Labcorp",
+      "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
+      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-27T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer biomarker blood cleared fda first single test unveiled"
+    },
+    {
+      "id": "a579ca93a2b4becd7cbe",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 246.06 USD",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 246.06 USD By Investing.com Investing.com South Africa",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-27T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUkySmRBNHN4dUI3OXRTS0Zoa1hoVkV1c2lYLW9wU0NXUUZISWRMSFFobklOakJBTVBFMi1iNmNZenJfb25BdU00WlJLbHZ4aXkyMkJPSGJGYjFKd2F0NXhrSk9sSWRZSzgxOGpYa0duYV9zU2dmMjA1U3JxOXp5YVhub3FGM2J0SEh0UklxczJFa0ppRjlieDRUMmtKUEwxRlV1R0ZmUnJKTjNqb2ozcTlVNzgwdw?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-08-27T14:54:45+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "246 all high hits stock time usd"
     },
     {
       "id": "a4f4d00d22b27e51d7a1",
@@ -2982,9 +2988,15 @@
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXhSQ1VrWThCS01JYTRXaC12VUotZHhuNkplVTlFTHNRZm1pa1B4VjhtRndDUnROd2FqUnJWOVZ2MFdGa1Z2NWRRUVNaYVRJYTFSVk52V3VTanNKU2NyaC1FbGswWkJkMWY5TERvWldPNWtGQWNwaGt0b3p2U252a1RuOVVrM2tCRHB0Z1l2ZXFuV1YxLW16WHRfWV9UcjgwWWZiYkJWOEUwRlNBamY5eTJuajZRZHdFZlFXR0YyZUg5NUVJczVJNktiX2M4dV9FN1gyVkxFemdPMDA?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-08-14T19:09:09+00:00"
+        },
+        {
+          "name": "in.investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX2xnUjN3Rm1Dd21YTUtON013Z3BsTFUxTTNoTG10Q24wNnlyYkdpWnFub3IyNnJ1cDV4NUExc01VNmZvanJqMlBZYU1aN2hXRmt5SlRXV2NCd0U4ckY3NDdZTWpLdVpPTlUwMEdVOFFINExKWUhWckMyblhwcl9uR0diemktaDZrYWRzYzNpT1Q5VGR2MlVFV1NOdEVuaTUxdUdYeTNZcG1NczlFZ0RhNERWdEk2ZDlzNWEycTZRSTFZcnBTcDlCOEYyWXozc1FYNjJjQUg1aXBERzg?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-08-15T07:00:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "bancorp carol devine miller pfizer sells stocks target",
       "source_description": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
       "chatgpt_summary": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
@@ -8061,10 +8073,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 88,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-06T12:17:00+05:30",
-  "next_update_display": "06 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-06T18:17:00+05:30",
+  "next_update_display": "06 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

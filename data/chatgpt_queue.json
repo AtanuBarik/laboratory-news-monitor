@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T11:58:10.217608+05:30",
-  "generated_at_display": "06 Sep 2026, 11:58 AM IST",
+  "generated_at": "2026-09-06T16:52:10.500380+05:30",
+  "generated_at_display": "06 Sep 2026, 4:52 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -216,25 +216,6 @@
       ]
     },
     {
-      "id": "20a67ab17183ba0b54fe",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
-      "source": "Yahoo Finance",
-      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
-      "published_at": "2026-08-28T02:17:00+00:00",
-      "published_display": "28 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5a7b9d5ee29df8231edb",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -250,6 +231,25 @@
         {
           "name": "BioTecNika",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20a67ab17183ba0b54fe",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
+      "source": "Yahoo Finance",
+      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
+      "published_at": "2026-08-27T07:00:00+00:00",
+      "published_display": "27 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5"
         }
       ]
     },
@@ -611,12 +611,16 @@
       "published_at": "2026-08-31T08:12:09+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
       "sources": [
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTQta0lnSzUxMEoya0RDcG8tNUE1SWhXVjR6TFh3ckc1V0tEVUlSS3l0VXkxRHRSdWV3MmlTUl9yeVZ1WlhweXF0RnRhX29uaXJCc3hrcWlEb053X043WV9fcWJIWXZoVnY4TU4yVFdDcko1WjM3ZTAyWG1KTEFHLXFxVXNJa24tLVdibDhJTmVVVlhWNDBQSG5sU2NVZmdVSGhmR3BLaEVPY0h4a1J5UDRUR0hWa2FWQnRLSWdGUEtVNUtZd1ZacURWaDA?oc=5"
         }
       ]
     },

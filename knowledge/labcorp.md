@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 06 Sep 2026, 10:37 AM IST
+- **Repository generated:** 06 Sep 2026, 4:52 PM IST
 - **Distinct events in this file:** 90
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -154,19 +154,7 @@
 
 **Feed description:** LH Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning vinanet.vn
 
-## 13. Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test
-
-- **Company:** Labcorp
-- **Publication date:** 28 Aug 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5
-
-**Feed description:** Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com
-
-## 14. Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares
+## 13. Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares
 
 - **Company:** Labcorp
 - **Publication date:** 27 Aug 2026
@@ -178,7 +166,7 @@
 
 **Feed description:** Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares Ad-hoc-news.de
 
-## 15. Labcorp Careers: Clinical Research Job Opportunity
+## 14. Labcorp Careers: Clinical Research Job Opportunity
 
 - **Company:** Labcorp
 - **Publication date:** 27 Aug 2026
@@ -189,6 +177,18 @@
   - BioTecNika: https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5
 
 **Feed description:** Labcorp Careers: Clinical Research Job Opportunity BioTecNika
+
+## 15. Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test
+
+- **Company:** Labcorp
+- **Publication date:** 27 Aug 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5
+
+**Feed description:** Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com
 
 ## 16. Labcorp raises annual profit forecast on strong testing demand
 
