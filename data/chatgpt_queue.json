@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T23:53:11.842407+05:30",
-  "generated_at_display": "07 Sep 2026, 11:53 PM IST",
+  "generated_at": "2026-09-08T03:17:15.726307+05:30",
+  "generated_at_display": "08 Sep 2026, 3:17 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 113,
+  "remaining_unsummarized_count": 115,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -254,25 +254,6 @@
       ]
     },
     {
-      "id": "08db6cdb9f2af816df45",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
-      "source": "Fierce Biotech",
-      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
-      "published_at": "2026-08-25T17:22:48+00:00",
-      "published_display": "25 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eeabcbf906af0fc26fa9",
       "company": "Labcorp",
       "category": "Product & Services",
@@ -319,6 +300,25 @@
         {
           "name": "Yahoo Finance Singapore",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "08db6cdb9f2af816df45",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
+      "source": "Fierce Biotech",
+      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "published_display": "25 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5"
         }
       ]
     },
@@ -507,6 +507,25 @@
       ]
     },
     {
+      "id": "ebe750529cb72224cbd0",
+      "company": "Quest Diagnostics",
+      "category": "Financials",
+      "title": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth",
+      "source": "AD HOC NEWS",
+      "description": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth AD HOC NEWS",
+      "published_at": "2026-09-07T13:28:32+00:00",
+      "published_display": "07 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a770a17260c644b3e2f4",
       "company": "Quest Diagnostics",
       "category": "Financials",
@@ -648,25 +667,6 @@
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTQta0lnSzUxMEoya0RDcG8tNUE1SWhXVjR6TFh3ckc1V0tEVUlSS3l0VXkxRHRSdWV3MmlTUl9yeVZ1WlhweXF0RnRhX29uaXJCc3hrcWlEb053X043WV9fcWJIWXZoVnY4TU4yVFdDcko1WjM3ZTAyWG1KTEFHLXFxVXNJa24tLVdibDhJTmVVVlhWNDBQSG5sU2NVZmdVSGhmR3BLaEVPY0h4a1J5UDRUR0hWa2FWQnRLSWdGUEtVNUtZd1ZacURWaDA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "78f83c99f40c88b7d91d",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning",
-      "source": "vinanet.vn",
-      "description": "LH Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning vinanet.vn",
-      "published_at": "2026-08-29T13:37:36+00:00",
-      "published_display": "29 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5"
         }
       ]
     }

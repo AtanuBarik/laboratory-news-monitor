@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-07T18:32:27.813799+05:30",
-  "generated_at_display": "07 Sep 2026, 6:32 PM IST",
-  "item_count": 226,
-  "raw_relevant_item_count": 402,
-  "duplicates_merged": 87,
+  "generated_at": "2026-09-08T03:17:12.282818+05:30",
+  "generated_at_display": "08 Sep 2026, 3:17 AM IST",
+  "item_count": 228,
+  "raw_relevant_item_count": 403,
+  "duplicates_merged": 85,
   "failures": [],
   "items": [
+    {
+      "id": "ebe750529cb72224cbd0",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
+      "description": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-07T13:28:32+00:00",
+      "published_display": "07 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-07T13:28:32+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after edges growth highs lower near solid stock week"
+    },
+    {
+      "id": "5437036cf7acc46fe7d6",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-09-05T19:27:59+00:00",
+      "published_display": "05 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-05T19:27:59+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings transcript"
+    },
     {
       "id": "5acf9dc9cae8899bd7dc",
       "company": "Quest Diagnostics",
@@ -722,7 +770,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Financials – Balance Sheet, Profit & Loss, Cash Flow",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVJczcxOXVvVEF1N1lEMWkwZ1pKVDVLajlLRE1SeHZ2UGZ6VUhHR1FJcXNaMXhIOW8zelE4TFVva0RhNmduRnhERUFweFVuZ2diUHZnS0dpRndpT2I2aWx3QWF3d29Vb2NCZFlkN1JGRlhocVZmdU5BbDRHMjQ5Z3RtblFqRkNqYW95bGpCWFQ3eVdpMGJqSmRVcDAtVVhFb2IxYW9B?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Financials – Balance Sheet, Profit & Loss, Cash Flow Value Research",
+      "description": "Quest Diagnostics Incorporated (DGX) Financials – Balance Sheet, Profit & Loss, Cash Flow valueresearchonline.com",
       "source": "Value Research",
       "source_url": "https://www.valueresearchonline.com",
       "source_domain": "valueresearchonline.com",
@@ -1012,30 +1060,6 @@
       "event_signature": "annual demand forecast profit raises strong testing"
     },
     {
-      "id": "08db6cdb9f2af816df45",
-      "company": "Labcorp",
-      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
-      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
-      "source": "Fierce Biotech",
-      "source_url": "https://www.fiercebiotech.com",
-      "source_domain": "fiercebiotech.com",
-      "published_at": "2026-08-25T17:22:48+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-08-25T17:22:48+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "find form hepatitis launches most patients severe test virus"
-    },
-    {
       "id": "eeabcbf906af0fc26fa9",
       "company": "Labcorp",
       "title": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection",
@@ -1136,6 +1160,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "bearish bullish stock street wall"
+    },
+    {
+      "id": "08db6cdb9f2af816df45",
+      "company": "Labcorp",
+      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
+      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
+      "source": "Fierce Biotech",
+      "source_url": "https://www.fiercebiotech.com",
+      "source_domain": "fiercebiotech.com",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "published_display": "25 Aug 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-08-25T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "find form hepatitis launches most patients severe test virus"
     },
     {
       "id": "4dd0048daf1f9d591dda",
@@ -8106,10 +8154,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 90,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-08T00:17:00+05:30",
-  "next_update_display": "08 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-08T06:17:00+05:30",
+  "next_update_display": "08 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
