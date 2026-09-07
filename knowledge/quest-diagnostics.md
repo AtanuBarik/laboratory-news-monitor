@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 07 Sep 2026, 2:21 AM IST
+- **Repository generated:** 07 Sep 2026, 10:45 AM IST
 - **Distinct events in this file:** 110
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -112,12 +112,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - MarketWatch: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5
   - MarketWatch: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5
   - MarketWatch: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb05la2t0dDRFM1lFM0tDbE5HS3hXclMxcVh0ZmlLeTZITE9samxPazYzcFEyOW94MF9GOFhOaXRJcnZoY2hDX2g5SGdZaXZhdWI0ZWJrLTRyT3EzM0UzOXhlNHJIMVd4a3dZdERyYnloZG1VYW45UHNUakUzY2VNWm95Zl9vZjRxY1ZKQl9kdllsU0E1ekdWLS1zLXZ0U0NjcU14UEVGUWxsc2syV2xiUmN2aXZLZlh2djRTZFlwOUZhNjNtTXgyX0dfYjR3TmRqQTExYQ?oc=5
+  - MarketWatch: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEwzLVRNelFQdjR4dDBVZXZNSXY3QXBEWmlLQ0ljYXJ5cThBTi03WkhTXzRzZlZWbmx0ZFZ6UkpYYkRpVXFJcElLNnlqSlVYMXAySXg2dHk2YXFEOUpIQjlVbFMyTE9kV1hPY0poVnVWTWU1WC05aWRWQzVWamV6c05XSFZ3alNNTjBjNkwzY1N2RUhVN0xWYkVZaFQ1UnduTExtRVl1SVAzNDNrajJfdE1ZMEpHUGE4dTR5WW55amlST0RiU084QlJYMXJJSVZ3bkdz?oc=5
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
@@ -417,7 +418,7 @@
 - **Sources:**
   - The Globe and Mail: https://news.google.com/rss/articles/CBMilAJBVV95cUxPTnF4N3pnelUwa2lsUW1ZcGVieGJFQVlpT2lRVjFuMkh0bGVmanJFXzQwZVZxdWhzZVF3cXFDbDNkYzhlY2pDUHItS3VzR0VVUGhfTTE5Tk5mcTJzcVZTcWhldlM3WmlsR0FGN2ZwdElGUnBzYy1lZWtSOVZScWdrazJOTWFxWXJzb2FfSnpDYjAxd2p2NGdPV1F6ZmRDeVgwTnpxeHRCTmlBbm80NVA3WWFPRUdvYXd4cHRTczU4ZWhTWXVZMWFYUG9Ma2k5SjBaR3dTbjFnajd0Rm1XWFZ4YWVxcExjcDFsNHQ1dWI2b19IVUdsN0FhS3F3VGFpUm9JYlVEbTJRWmR5LVRzMVJmSVVPVHg?oc=5
 
-**Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and Irhythm Technologies (IRTC) The Globe and Mail
+**Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and Irhythm Technologies (IRTC) theglobeandmail.com
 
 ## 34. Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations
 

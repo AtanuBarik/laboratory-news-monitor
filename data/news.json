@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T02:21:17.538236+05:30",
-  "generated_at_display": "07 Sep 2026, 2:21 AM IST",
-  "item_count": 225,
-  "raw_relevant_item_count": 403,
-  "duplicates_merged": 94,
+  "generated_at": "2026-09-07T10:45:13.545470+05:30",
+  "generated_at_display": "07 Sep 2026, 10:45 AM IST",
+  "item_count": 224,
+  "raw_relevant_item_count": 401,
+  "duplicates_merged": 90,
   "failures": [],
   "items": [
     {
@@ -15,7 +15,7 @@
       "source": "Dealroom",
       "source_url": "https://app.dealroom.co",
       "source_domain": "app.dealroom.co",
-      "published_at": "2026-09-05T12:26:46+00:00",
+      "published_at": "2026-09-05T03:10:43+00:00",
       "published_display": "05 Sep 2026",
       "category": "Other",
       "official_source": false,
@@ -24,7 +24,7 @@
           "name": "Dealroom",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlB6ZG1WZjk5V0FabEJvaERBSTQ3Z1RfT0dJMDZEYWhNbllEWTVGN1hOaXFSWWg3OVQ2V282QlNLU1RiaXUwc0E3RFNIN2U2N0s0XzRiVWM2Vl9jNzJ4SmZFQjdjMjBJY0ZOSjFNRnh0VmJMRllhVGpDVmNCcTIxUDFWaGx2a3JFbDNMSll3ZHAybVFfZTdpU1NiUDBSdWxMZ25zcC1fbF9ycFctcnBRYnln?oc=5",
           "domain": "app.dealroom.co",
-          "published_at": "2026-09-05T12:26:46+00:00"
+          "published_at": "2026-09-05T03:10:43+00:00"
         }
       ],
       "coverage_count": 1,
@@ -454,9 +454,15 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb05la2t0dDRFM1lFM0tDbE5HS3hXclMxcVh0ZmlLeTZITE9samxPazYzcFEyOW94MF9GOFhOaXRJcnZoY2hDX2g5SGdZaXZhdWI0ZWJrLTRyT3EzM0UzOXhlNHJIMVd4a3dZdERyYnloZG1VYW45UHNUakUzY2VNWm95Zl9vZjRxY1ZKQl9kdllsU0E1ekdWLS1zLXZ0U0NjcU14UEVGUWxsc2syV2xiUmN2aXZLZlh2djRTZFlwOUZhNjNtTXgyX0dfYjR3TmRqQTExYQ?oc=5",
           "domain": "marketwatch.com",
           "published_at": "2026-09-01T20:59:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEwzLVRNelFQdjR4dDBVZXZNSXY3QXBEWmlLQ0ljYXJ5cThBTi03WkhTXzRzZlZWbmx0ZFZ6UkpYYkRpVXFJcElLNnlqSlVYMXAySXg2dHk2YXFEOUpIQjlVbFMyTE9kV1hPY0poVnVWTWU1WC05aWRWQzVWamV6c05XSFZ3alNNTjBjNkwzY1N2RUhVN0xWYkVZaFQ1UnduTExtRVl1SVAzNDNrajJfdE1ZMEpHUGE4dTR5WW55amlST0RiU084QlJYMXJJSVZ3bkdz?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-08-31T21:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "compared competitors monday stock underperforms when"
     },
     {
@@ -1280,37 +1286,28 @@
       ]
     },
     {
-      "id": "6248cf18c368ee3da656",
+      "id": "8051c7ada888b66eb62e",
       "company": "Labcorp",
       "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
-      "description": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-24T11:18:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
+      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-08-24T11:33:54+00:00",
       "published_display": "24 Aug 2026",
       "category": "Product & Services",
       "official_source": false,
       "sources": [
         {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc2RZUGFZcXQ4R1VNNEpreS1yeHJLbFJ4QXBiZU9WY05yaHdHc2ZWaW9IdWxFdXhRUjZrcTZ6MjY4SXR2cXZxQU9LanF1X3I2dkx2WGJWYlZaRF91cjYtbndONlBsNzMwM2FJRTZYREliMjZ6b1FRSDFBMjM0alpKX3hYWW9wVzZUQ3Y1UXZKOUFUSTk4SlY0alowWS1SUnpwMnN6QVczMDAtUVhFVTJ6eVN4MTRsTFpQ?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-24T11:18:21+00:00"
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-08-24T11:33:54+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "alzheimer blood cleared fda nationwide offer test",
-      "source_description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com",
-      "chatgpt_summary": "Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T12:39:40+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-offer-first-fda-cleared-blood-test-detect-alzheimers",
-        "https://sg.finance.yahoo.com/news/labcorp-offer-first-fda-cleared-110200128.html"
-      ]
+      "event_signature": "alzheimer blood cleared fda nationwide offer test"
     },
     {
       "id": "75aa9000c39c9d39c5b6",
@@ -2002,7 +1999,7 @@
       "company": "Quest Diagnostics",
       "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and Irhythm Technologies (IRTC)",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPTnF4N3pnelUwa2lsUW1ZcGVieGJFQVlpT2lRVjFuMkh0bGVmanJFXzQwZVZxdWhzZVF3cXFDbDNkYzhlY2pDUHItS3VzR0VVUGhfTTE5Tk5mcTJzcVZTcWhldlM3WmlsR0FGN2ZwdElGUnBzYy1lZWtSOVZScWdrazJOTWFxWXJzb2FfSnpDYjAxd2p2NGdPV1F6ZmRDeVgwTnpxeHRCTmlBbm80NVA3WWFPRUdvYXd4cHRTczU4ZWhTWXVZMWFYUG9Ma2k5SjBaR3dTbjFnajd0Rm1XWFZ4YWVxcExjcDFsNHQ1dWI2b19IVUdsN0FhS3F3VGFpUm9JYlVEbTJRWmR5LVRzMVJmSVVPVHg?oc=5",
-      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and Irhythm Technologies (IRTC) The Globe and Mail",
+      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and Irhythm Technologies (IRTC) theglobeandmail.com",
       "source": "The Globe and Mail",
       "source_url": "https://www.theglobeandmail.com",
       "source_domain": "theglobeandmail.com",
@@ -2714,38 +2711,6 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
-      ]
-    },
-    {
-      "id": "76b8bc552687be3e751e",
-      "company": "Labcorp",
-      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-17T19:22:27+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-17T19:22:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
-      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -8079,10 +8044,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 87,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-07T06:17:00+05:30",
-  "next_update_display": "07 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-07T12:17:00+05:30",
+  "next_update_display": "07 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
