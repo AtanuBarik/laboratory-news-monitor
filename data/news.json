@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T10:45:13.545470+05:30",
-  "generated_at_display": "07 Sep 2026, 10:45 AM IST",
-  "item_count": 224,
-  "raw_relevant_item_count": 401,
-  "duplicates_merged": 90,
+  "generated_at": "2026-09-07T18:32:27.813799+05:30",
+  "generated_at_display": "07 Sep 2026, 6:32 PM IST",
+  "item_count": 226,
+  "raw_relevant_item_count": 402,
+  "duplicates_merged": 87,
   "failures": [],
   "items": [
     {
@@ -79,9 +79,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5QY2JuaUZ4SGZVeGM3UnhfN2VwMDdQMTdkaU1LRHJiQUJSTkxBZEdxWnNlT2dUMk45cWpFb09RTUlieEEwVENBbUVZbmlkVGc1Vk5fU1lmRXVBa3ljNlEyUXFjODhIYW5oR2tiUmJIaV84LVdBemh3bE1leXVMNkx4VXVSdmJjdWw5WXVzWVlZOV9LMkxSdjFsaE9FTkYyRmxoN1kzQWZMdkxPNG5SUTJ5eEVYYnZoSjJmNjhTNnU3Rmhq?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-06T14:09:03+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTUyYVFvbXY3SnU1ZElURUxfWmZNRlJqTDlNN2VCdHJ5akV6YXprcGVNbFR3QkVzcXZBUlBUVDJiSVVULVdkRjJjNU5BSlY0dUhqb0RjcFpoWlVJb0xfSHZCSnBITU5iV3pqMG9oRkRfYzJWcl9TV0M3dWxVbzVXbldMNUJYb0J1Rnl2aFRUWkVBVjBwOGFrTlYwZEluQ0VrOUdDMHJWOWo3ZGRuVXFPbDJZYzFMdnVm?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-07T10:22:40+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "earnings holds investors look next signal steady stock"
     },
     {
@@ -710,6 +716,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "holds investors quarterly steady stock trends weigh"
+    },
+    {
+      "id": "6f63e39716b5547c81a3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Financials – Balance Sheet, Profit & Loss, Cash Flow",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVJczcxOXVvVEF1N1lEMWkwZ1pKVDVLajlLRE1SeHZ2UGZ6VUhHR1FJcXNaMXhIOW8zelE4TFVva0RhNmduRnhERUFweFVuZ2diUHZnS0dpRndpT2I2aWx3QWF3d29Vb2NCZFlkN1JGRlhocVZmdU5BbDRHMjQ5Z3RtblFqRkNqYW95bGpCWFQ3eVdpMGJqSmRVcDAtVVhFb2IxYW9B?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Financials – Balance Sheet, Profit & Loss, Cash Flow Value Research",
+      "source": "Value Research",
+      "source_url": "https://www.valueresearchonline.com",
+      "source_domain": "valueresearchonline.com",
+      "published_at": "2026-08-28T17:44:00+00:00",
+      "published_display": "28 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Value Research",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVJczcxOXVvVEF1N1lEMWkwZ1pKVDVLajlLRE1SeHZ2UGZ6VUhHR1FJcXNaMXhIOW8zelE4TFVva0RhNmduRnhERUFweFVuZ2diUHZnS0dpRndpT2I2aWx3QWF3d29Vb2NCZFlkN1JGRlhocVZmdU5BbDRHMjQ5Z3RtblFqRkNqYW95bGpCWFQ3eVdpMGJqSmRVcDAtVVhFb2IxYW9B?oc=5",
+          "domain": "valueresearchonline.com",
+          "published_at": "2026-08-28T17:44:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "balance cash financials flow loss profit sheet"
     },
     {
       "id": "f5e967895f8f5d6625e2",
@@ -2711,6 +2741,38 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
+      ]
+    },
+    {
+      "id": "76b8bc552687be3e751e",
+      "company": "Labcorp",
+      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
+      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-17T19:22:27+00:00",
+      "published_display": "17 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-17T19:22:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
+      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
+      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-23T00:32:54+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -8044,10 +8106,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 89,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-07T12:17:00+05:30",
-  "next_update_display": "07 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-08T00:17:00+05:30",
+  "next_update_display": "08 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

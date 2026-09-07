@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-07T12:06:29.709531+05:30",
-  "generated_at_display": "07 Sep 2026, 12:06 PM IST",
+  "generated_at": "2026-09-07T18:32:31.217543+05:30",
+  "generated_at_display": "07 Sep 2026, 6:32 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 112,
+  "remaining_unsummarized_count": 113,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -535,7 +535,7 @@
       "published_at": "2026-09-03T20:11:04+00:00",
       "published_display": "03 Sep 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
       "sources": [
         {
@@ -545,6 +545,10 @@
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5QY2JuaUZ4SGZVeGM3UnhfN2VwMDdQMTdkaU1LRHJiQUJSTkxBZEdxWnNlT2dUMk45cWpFb09RTUlieEEwVENBbUVZbmlkVGc1Vk5fU1lmRXVBa3ljNlEyUXFjODhIYW5oR2tiUmJIaV84LVdBemh3bE1leXVMNkx4VXVSdmJjdWw5WXVzWVlZOV9LMkxSdjFsaE9FTkYyRmxoN1kzQWZMdkxPNG5SUTJ5eEVYYnZoSjJmNjhTNnU3Rmhq?oc=5"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTUyYVFvbXY3SnU1ZElURUxfWmZNRlJqTDlNN2VCdHJ5akV6YXprcGVNbFR3QkVzcXZBUlBUVDJiSVVULVdkRjJjNU5BSlY0dUhqb0RjcFpoWlVJb0xfSHZCSnBITU5iV3pqMG9oRkRfYzJWcl9TV0M3dWxVbzVXbldMNUJYb0J1Rnl2aFRUWkVBVjBwOGFrTlYwZEluQ0VrOUdDMHJWOWo3ZGRuVXFPbDJZYzFMdnVm?oc=5"
         }
       ]
     },
