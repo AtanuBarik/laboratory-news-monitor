@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 08 Sep 2026, 3:17 AM IST
+- **Repository generated:** 08 Sep 2026, 10:48 AM IST
 - **Distinct events in this file:** 228
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,10 +22,11 @@
 - **Company:** Labcorp
 - **Publication date:** 05 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
+  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5
 
 **Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune
 
@@ -592,20 +593,7 @@
 
 **Feed description:** Quest Diagnostics said it will expand the Quest AD-Detect blood-test portfolio for symptomatic patients with two Alzheimer’s disease offerings. First, Quest plans in the fourth quarter of 2026 to launch nationwide an AD-Detect-branded laboratory service based on Roche’s newly FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs in primary and specialty care. Quest also plans to incorporate the Roche assay into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The panel combines a third-party pTau217 in-vitro diagnostic with amyloid-beta 42/40 and APOE isoform measurements performed by Quest using mass spectrometry to estimate the likelihood of Alzheimer pathology. Quest says published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. With a physician order, patients can use roughly 2,000 Quest patient service centers, physician-office phlebotomy or mobile collection.
 
-## 48. Quest Diagnostics CFO to discuss company strate...
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 24 Aug 2026
-- **Category:** Leadership Changes
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5
-  - Pluang: https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFoNnJRRHdXZHhfLTc5d0tza19qNW91cjNRZ3Q1aExZRFNCczZiVXVNbXI3aENXUzBvbko1ckJ6cEtBbDJBejYzaFZuRjRQSWw1dzhNZTRMZ1J6QWwtLWNvZVpaczMyRGt6T1daVXVENWlVLXp5RUIxQlR5dTN0ZEFudUowczdmeW9vZ1B6N21WWDdQUGFnYURSRG1maWZBRV80?oc=5
-
-**Feed description:** Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.
-
-## 49. Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings
+## 48. Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -617,7 +605,7 @@
 
 **Feed description:** Ad Hoc News reported that Quest Diagnostics shares were holding in the mid-$240 range on August 24 as investors weighed a new Alzheimer’s blood-testing expansion alongside recent earnings momentum. The article cited an opening price of $244.34 for the latest session. It linked the valuation discussion to Quest’s second-quarter results, when adjusted EPS was $3.12 versus a $2.82 consensus estimate cited by the publication, and to full-year 2026 adjusted EPS guidance of $11.05-$11.25. Quest’s official results also showed quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth, and a 13.1% increase in requisition volume. The article said the analyst consensus rating was “Moderate Buy” and cited an average price target of $235.31, below the prevailing share price, illustrating the tension between strong operating momentum and valuation. The fresh product catalyst was Quest’s August 24 plan to add Roche’s newly FDA-cleared Elecsys pTau217 blood test to its AD-Detect portfolio and separately launch a multi-biomarker Alzheimer’s panel. The article is principally market and valuation commentary; its substantive corporate inputs are the strong Q2 earnings, raised guidance and expansion of Quest’s Alzheimer’s testing portfolio.
 
-## 50. Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide
+## 49. Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -629,7 +617,7 @@
 
 **Feed description:** Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com India
 
-## 51. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
+## 50. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheimer's Disease Pathology in Both Primary and Specialty Care Settings
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -650,7 +638,7 @@
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
-## 52. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime
+## 51. Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -662,7 +650,7 @@
 
 **Feed description:** Labcorp to Offer First FDA-Cleared Blood Test to Detect Alzheime GuruFocus
 
-## 53. Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference
+## 52. Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -675,7 +663,7 @@
 
 **Feed description:** Quest Diagnostics said Executive Vice President and Chief Financial Officer Sam Samad will speak at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on September 14, 2026 at 10:00 a.m. Eastern Time. According to the company, the fireside chat and question-and-answer session will cover Quest’s strategy, performance and the latest market developments and trends. The event will be webcast live on Quest’s investor-relations website, with an archived version expected within 24 hours of the session and available through October 12, 2026. The August 24 announcement is a conference-scheduling notice and does not contain a revision to earnings guidance, a product launch, acquisition, partnership or new long-term financial target. For context, Quest’s latest reported quarter produced revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth and adjusted diluted EPS of $3.12, up 19.1%. Management raised full-year 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25 after that quarter. Samad’s September appearance therefore gives investors a scheduled opportunity to hear management discuss current strategy and market trends against a backdrop of stronger recent operating performance, but the scheduling release itself does not alter the company’s outlook.
 
-## 54. Quest Diagnostics expands Alzheimer's blood tes...
+## 53. Quest Diagnostics expands Alzheimer's blood tes...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -687,7 +675,7 @@
 
 **Feed description:** Quest Diagnostics is expanding its Alzheimer’s blood-testing portfolio with both a newly FDA-cleared Roche assay and a separate multi-biomarker laboratory-developed test. Quest plans to launch an AD-Detect-branded laboratory service based on Roche’s Elecsys Phospho-Tau (217P) Plasma assay nationwide in the fourth quarter of 2026 for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs across primary and specialty care. Quest also expects to incorporate it into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The laboratory-developed panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered collection is available through approximately 2,000 Quest patient service centers, physician offices and mobile phlebotomy. The expansion broadens access to blood-based assessment but does not make either test a stand-alone Alzheimer’s diagnosis.
 
-## 55. Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology
+## 54. Quest Diagnostics to Offer FDA-Cleared Roche pTau217 Blood Test to Assess Alzheimer's Disease Pathology
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Aug 2026
@@ -701,7 +689,7 @@
 
 **Feed description:** Quest Diagnostics announced two additions to its Quest AD-Detect portfolio intended to broaden blood-based assessment of symptomatic patients for Alzheimer’s disease. The company plans a nationwide fourth-quarter 2026 launch of an AD-Detect laboratory service built on Roche’s FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay. Roche’s pTau217 test is the first FDA-cleared single-biomarker blood assay that supports both rule-in and rule-out assessment of amyloid pathology with the same validated cutoffs across primary and specialty care. Quest says the service will be available to physicians and clinical-trial collaborators and that the Roche assay is also planned for additional AD-Detect panels in 2027. Separately, Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation at the end of August 2026. That panel combines a third-party pTau217 in-vitro diagnostic with Quest mass-spectrometry measurements of amyloid-beta 42/40 and APOE isoforms to generate a predictive score. Quest said published research found a 10% indeterminate rate, compared with a 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. Physician-ordered specimens can be collected at about 2,000 Quest patient service centers, physician offices or through mobile phlebotomy.
 
-## 56. Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance
+## 55. Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance
 
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
@@ -712,6 +700,19 @@
   - marketscreener.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5
 
 **Feed description:** Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com
+
+## 56. Quest Diagnostics CFO to discuss company strate...
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 24 Aug 2026
+- **Category:** Leadership Changes
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5
+  - Pluang: https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFoNnJRRHdXZHhfLTc5d0tza19qNW91cjNRZ3Q1aExZRFNCczZiVXVNbXI3aENXUzBvbko1ckJ6cEtBbDJBejYzaFZuRjRQSWw1dzhNZTRMZ1J6QWwtLWNvZVpaczMyRGt6T1daVXVENWlVLXp5RUIxQlR5dTN0ZEFudUowczdmeW9vZ1B6N21WWDdQUGFnYURSRG1maWZBRV80?oc=5
+
+**Feed description:** Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.
 
 ## 57. Labcorp EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance
 

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T03:17:12.282818+05:30",
-  "generated_at_display": "08 Sep 2026, 3:17 AM IST",
+  "generated_at": "2026-09-08T10:48:39.256373+05:30",
+  "generated_at_display": "08 Sep 2026, 10:48 AM IST",
   "item_count": 228,
-  "raw_relevant_item_count": 403,
-  "duplicates_merged": 85,
+  "raw_relevant_item_count": 409,
+  "duplicates_merged": 88,
   "failures": [],
   "items": [
     {
@@ -49,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
           "domain": "fortune.com",
           "published_at": "2026-09-05T19:27:59+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-05T23:14:02+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 call earnings transcript"
     },
     {
@@ -1291,45 +1297,6 @@
       ]
     },
     {
-      "id": "b7573b272b658b79bc2c",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics CFO to discuss company strate...",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
-      "description": "Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-24T13:20:08+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-24T13:20:08+00:00"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFoNnJRRHdXZHhfLTc5d0tza19qNW91cjNRZ3Q1aExZRFNCczZiVXVNbXI3aENXUzBvbko1ckJ6cEtBbDJBejYzaFZuRjRQSWw1dzhNZTRMZ1J6QWwtLWNvZVpaczMyRGt6T1daVXVENWlVLXp5RUIxQlR5dTN0ZEFudUowczdmeW9vZ1B6N21WWDdQUGFnYURSRG1maWZBRV80?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-25T13:49:18+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "cfo discuss strate",
-      "source_description": "Quest Diagnostics CFO to discuss company strate... Pluang",
-      "chatgpt_summary": "Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-speak-at-the-morgan-stanley-24th-annual-global-healthcare-conference-302857722.html",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
       "id": "8e74f5a277e435ccb3e6",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings",
@@ -1629,6 +1596,45 @@
       ],
       "coverage_count": 1,
       "event_signature": "217 clearance elecsys fda following offers ptau test"
+    },
+    {
+      "id": "b7573b272b658b79bc2c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics CFO to discuss company strate...",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
+      "description": "Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHRYVWFlZk5YMmRrdUpYemN4aXVDMTAwZnR1bnVJR2l2djdYUHVyYlhsbUNLXzRrTV8wQW1XaXhrUEZTejIzWktWZmI3Q0ZCSXpLQjhBUnhTa1JCLVN1YUI1TGM5MTB2SWtCWkRvamVwUjAwZnFjLVZ1RDZZczM2MWw1eHdERGh2T21rdi1IMkVtSmlHb1ZfNHc2T0ZlNWVHbGk0RkktYk4?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFoNnJRRHdXZHhfLTc5d0tza19qNW91cjNRZ3Q1aExZRFNCczZiVXVNbXI3aENXUzBvbko1ckJ6cEtBbDJBejYzaFZuRjRQSWw1dzhNZTRMZ1J6QWwtLWNvZVpaczMyRGt6T1daVXVENWlVLXp5RUIxQlR5dTN0ZEFudUowczdmeW9vZ1B6N21WWDdQUGFnYURSRG1maWZBRV80?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-25T13:49:18+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "cfo discuss strate",
+      "source_description": "Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.",
+      "chatgpt_summary": "Quest Diagnostics announced that Executive Vice President and Chief Financial Officer Sam Samad will represent the company at the Morgan Stanley 24th Annual Global Healthcare Conference in New York City on Monday, September 14, 2026 at 10:00 a.m. Eastern Time. Quest said Samad will discuss the company’s strategy, performance and the latest market developments and trends during a fireside chat and question-and-answer session. The session will be webcast live through Quest’s investor-relations website. An archived replay is expected to be posted within 24 hours after the live event and remain available until October 12, 2026. The scheduling announcement does not change Quest’s financial guidance, disclose a transaction, introduce a new laboratory product or provide new operating targets. The relevant financial backdrop remains the company’s second-quarter 2026 report, in which revenue increased 10.2% to $3.043 billion, organic revenue grew 10.0% and adjusted diluted EPS increased 19.1% to $3.12. Quest also raised full-year revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The September conference is therefore an upcoming investor-communication event where management plans to discuss strategy and market conditions rather than a new corporate action in itself.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T07:31:38+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-speak-at-the-morgan-stanley-24th-annual-global-healthcare-conference-302857722.html",
+        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
     },
     {
       "id": "403288b5f818c5e8cd2a",
@@ -8154,10 +8160,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 93,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-08T06:17:00+05:30",
-  "next_update_display": "08 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-08T12:17:00+05:30",
+  "next_update_display": "08 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
