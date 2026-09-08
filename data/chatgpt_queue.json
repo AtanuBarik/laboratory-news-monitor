@@ -1,13 +1,78 @@
 {
-  "generated_at": "2026-09-08T17:46:36.822532+05:30",
-  "generated_at_display": "08 Sep 2026, 5:46 PM IST",
+  "generated_at": "2026-09-08T22:21:13.635150+05:30",
+  "generated_at_display": "08 Sep 2026, 10:21 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 116,
+  "remaining_unsummarized_count": 119,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "ddae27c4a8214dea68c4",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs",
+      "source": "GenomeWeb",
+      "description": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs GenomeWeb",
+      "published_at": "2026-09-08T14:23:53+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5",
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "13f4149c2ac60a9139f1",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp acquires MLM Medical Labs to expand global network",
+      "source": "Investing.com",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Services citybiz",
+      "published_at": "2026-09-08T13:11:37+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "692205b0b1bc2bc14349",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
+      "source": "PR Newswire",
+      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
+      "published_at": "2026-09-08T13:05:00+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5"
+        }
+      ]
+    },
     {
       "id": "f2d3303ec258ff623e8d",
       "company": "Labcorp",
@@ -33,7 +98,7 @@
       "category": "Partnership, M&A",
       "title": "REG - Renalytix - Collaboration with Quest Diagnostics",
       "source": "TradingView",
-      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView",
+      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics tradingview.com",
       "published_at": "2026-09-01T06:00:00+00:00",
       "published_display": "01 Sep 2026",
       "official_source": false,
@@ -171,7 +236,7 @@
       "published_at": "2026-08-31T11:00:00+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
-      "coverage_count": 5,
+      "coverage_count": 6,
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
       "sources": [
         {
@@ -193,6 +258,10 @@
         {
           "name": "TipRanks",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEpZaTM0SVU1UUdVRFZJdnFLMWo4SFpzMHBvaHZ5TTNvdS11YVVFNHpqTmxzMnY5cG1rS2IxRGVwTWlVVmRVLVFCbC1zSzF4MGtKcmpxS1BJLUNwWVYtTE5VME1TSHR0WkYwYlM0Ri1GZXVsWXFPZW1ISXNxbmRvU2ZabGhHQzZxaWVXODliR0ZpNWZqRHY4WDVqUkdhY2dyWE9vaTFmWTVwMUJrLWxmQWRaaGlGaTZPOWtkdXZmQ200SFJmM21kN0dDTmg?oc=5"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1FnWXBXQUd6MFhRTlZadjlnVWFfZEJTeFdvVTNZV0ZaYXRIdHB4TnNRS1RPS2RhSTdVRk83MXQwOUhxY29xbGM2azdNNWt5c2lOZkpLa1VzTXpEc2s2eVF5Z0w1NGYtVEdxOUJYTHNwQzVvWnJjbmRnU0Q4YndSQ0dvT0dTQ1QtZ0x5RnpweGNHR2J4TEVzTDcwbnp2RWd4Y1djVkdNUnplUkp4YjZhY1E5d2lhVmI5aFlTMzg0T2I4aTl1NWc2b1NfVlFfX0owUy0wSlk3LTdOb3EwdnkydGtLNzlDZDBaMEVyc1c4OFYxbEpTVDdiT1lZQVRRUW1lQi1DVGxNMWw3Q1Bfd1RRSm9zWWxLQQ?oc=5"
         }
       ]
     },
@@ -610,67 +679,6 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2e6cd18ee19d336fb01",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp stock steady as guidance and earnings frame 2026 outlook",
-      "source": "AD HOC NEWS",
-      "description": "Labcorp stock steady as guidance and earnings frame 2026 outlook ad-hoc-news.de",
-      "published_at": "2026-08-31T21:12:01+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2cyR05LbmhPcWViaWgxTUF5Nmt2alFxdllLN3lsTV9JU0EybE9hUkg1NGlpdEZ3REVtUGlBSzAzZGF2b1M5V1o2RUwtNFJwcjNqaFg1ekFBbk5oQWdqMUtIUl9IZUk0WmR3c0tZdGNYSlJfQnZ5Ty1JS1hieUYtbVI0NWw5bGJ5b0NyeUMxUnpQZzQ2NE51d1FMUXZJclN5Tjl5RWhiSk8wWjc4a1BscEZaOV9XY0hqc09RM3FqZHE5bjluZUE?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR2cyR05LbmhPcWViaWgxTUF5Nmt2alFxdllLN3lsTV9JU0EybE9hUkg1NGlpdEZ3REVtUGlBSzAzZGF2b1M5V1o2RUwtNFJwcjNqaFg1ekFBbk5oQWdqMUtIUl9IZUk0WmR3c0tZdGNYSlJfQnZ5Ty1JS1hieUYtbVI0NWw5bGJ5b0NyeUMxUnpQZzQ2NE51d1FMUXZJclN5Tjl5RWhiSk8wWjc4a1BscEZaOV9XY0hqc09RM3FqZHE5bjluZUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b2fb6b3d5db51177f621",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp stock outlook constrained as data and earnings context stay unclear",
-      "source": "AD HOC NEWS",
-      "description": "Labcorp stock outlook constrained as data and earnings context stay unclear ad-hoc-news.de",
-      "published_at": "2026-08-31T17:40:46+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3NqTkpNQXdZM3duUllTSW1MOURZMFpFMFA3eFV4N1Q0U0tXX180UWE0UjM4a3hOY3ZYOU9OVmdyYWxTazlxbTMzT0JEVU1YQ2hyc2ZrNVdpUmhFWjF2ZGxpVm1NUkdvRHpkN0hFemwxUnU1cF9zcHBnV2pEZXRMNFZlRXZySWF1dUZrcm5mUkhaaHNId0JiUnhfckh4cmEwY2NIbko4U0pVU08xcUJmMVRaZWJPRXU1eXVzbWQ3VGVYWHdk?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa3NqTkpNQXdZM3duUllTSW1MOURZMFpFMFA3eFV4N1Q0U0tXX180UWE0UjM4a3hOY3ZYOU9OVmdyYWxTazlxbTMzT0JEVU1YQ2hyc2ZrNVdpUmhFWjF2ZGxpVm1NUkdvRHpkN0hFemwxUnU1cF9zcHBnV2pEZXRMNFZlRXZySWF1dUZrcm5mUkhaaHNId0JiUnhfckh4cmEwY2NIbko4U0pVU08xcUJmMVRaZWJPRXU1eXVzbWQ3VGVYWHdk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7601bce9d24af12b2cf",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
-      "source": "AD HOC NEWS",
-      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de",
-      "published_at": "2026-08-31T08:12:09+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5"
-        },
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTQta0lnSzUxMEoya0RDcG8tNUE1SWhXVjR6TFh3ckc1V0tEVUlSS3l0VXkxRHRSdWV3MmlTUl9yeVZ1WlhweXF0RnRhX29uaXJCc3hrcWlEb053X043WV9fcWJIWXZoVnY4TU4yVFdDcko1WjM3ZTAyWG1KTEFHLXFxVXNJa24tLVdibDhJTmVVVlhWNDBQSG5sU2NVZmdVSGhmR3BLaEVPY0h4a1J5UDRUR0hWa2FWQnRLSWdGUEtVNUtZd1ZacURWaDA?oc=5"
         }
       ]
     }

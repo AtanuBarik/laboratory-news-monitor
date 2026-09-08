@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-09-08T17:15:28.223118+05:30",
-  "generated_at_display": "08 Sep 2026, 5:15 PM IST",
-  "item_count": 229,
-  "raw_relevant_item_count": 407,
-  "duplicates_merged": 88,
+  "generated_at": "2026-09-08T22:21:10.326320+05:30",
+  "generated_at_display": "08 Sep 2026, 10:21 PM IST",
+  "item_count": 232,
+  "raw_relevant_item_count": 410,
+  "duplicates_merged": 91,
   "failures": [],
   "items": [
+    {
+      "id": "ddae27c4a8214dea68c4",
+      "company": "Labcorp",
+      "title": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5",
+      "description": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-09-08T14:23:53+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-09-08T14:23:53+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquires central lab labs medical mlm provider services"
+    },
+    {
+      "id": "13f4149c2ac60a9139f1",
+      "company": "Labcorp",
+      "title": "Labcorp acquires MLM Medical Labs to expand global network",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Services citybiz",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-09-08T13:11:37+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-09-08T13:11:37+00:00"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5",
+          "domain": "citybiz.co",
+          "published_at": "2026-09-08T14:56:35+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "acquires expand global labs medical mlm network"
+    },
+    {
+      "id": "692205b0b1bc2bc14349",
+      "company": "Labcorp",
+      "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
+      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-09-08T13:05:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-08T13:05:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-08T14:30:23+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
+    },
     {
       "id": "ebe750529cb72224cbd0",
       "company": "Quest Diagnostics",
@@ -344,7 +428,7 @@
       "company": "Quest Diagnostics",
       "title": "REG - Renalytix - Collaboration with Quest Diagnostics",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
-      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView",
+      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics tradingview.com",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -670,9 +754,15 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEpZaTM0SVU1UUdVRFZJdnFLMWo4SFpzMHBvaHZ5TTNvdS11YVVFNHpqTmxzMnY5cG1rS2IxRGVwTWlVVmRVLVFCbC1zSzF4MGtKcmpxS1BJLUNwWVYtTE5VME1TSHR0WkYwYlM0Ri1GZXVsWXFPZW1ISXNxbmRvU2ZabGhHQzZxaWVXODliR0ZpNWZqRHY4WDVqUkdhY2dyWE9vaTFmWTVwMUJrLWxmQWRaaGlGaTZPOWtkdXZmQ200SFJmM21kN0dDTmg?oc=5",
           "domain": "tipranks.com",
           "published_at": "2026-09-01T00:35:19+00:00"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1FnWXBXQUd6MFhRTlZadjlnVWFfZEJTeFdvVTNZV0ZaYXRIdHB4TnNRS1RPS2RhSTdVRk83MXQwOUhxY29xbGM2azdNNWt5c2lOZkpLa1VzTXpEc2s2eVF5Z0w1NGYtVEdxOUJYTHNwQzVvWnJjbmRnU0Q4YndSQ0dvT0dTQ1QtZ0x5RnpweGNHR2J4TEVzTDcwbnp2RWd4Y1djVkdNUnplUkp4YjZhY1E5d2lhVmI5aFlTMzg0T2I4aTl1NWc2b1NfVlFfX0owUy0wSlk3LTdOb3EwdnkydGtLNzlDZDBaMEVyc1c4OFYxbEpTVDdiT1lZQVRRUW1lQi1DVGxNMWw3Q1Bfd1RRSm9zWWxLQQ?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-08-31T11:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "clinical complexity connect generation global help investigator launches navigate next sites sponsors trial"
     },
     {
@@ -926,7 +1016,7 @@
       "company": "Labcorp",
       "title": "Labcorp To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5",
-      "description": "Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share Moomoo",
+      "description": "Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share moomoo.com",
       "source": "富途牛牛",
       "source_url": "https://news.futunn.com",
       "source_domain": "news.futunn.com",
@@ -8196,10 +8286,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 87,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-08T18:17:00+05:30",
-  "next_update_display": "08 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-09T00:17:00+05:30",
+  "next_update_display": "09 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

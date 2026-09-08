@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 08 Sep 2026, 5:15 PM IST
+- **Repository generated:** 08 Sep 2026, 10:21 PM IST
 - **Distinct events in this file:** 112
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -102,7 +102,7 @@
   - TradingView: https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5
 
-**Feed description:** REG - Renalytix PLC - Collaboration with Quest Diagnostics TradingView
+**Feed description:** REG - Renalytix PLC - Collaboration with Quest Diagnostics tradingview.com
 
 ## 9. Quest Diagnostics SVP & general counsel sells $5.5m in shares
 
