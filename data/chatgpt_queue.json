@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-09-08T22:56:40.481716+05:30",
-  "generated_at_display": "08 Sep 2026, 10:56 PM IST",
+  "generated_at": "2026-09-09T02:56:49.297938+05:30",
+  "generated_at_display": "09 Sep 2026, 2:56 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 119,
+  "remaining_unsummarized_count": 123,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "1f2f7b914163bde49e9c",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
+      "source": "The Business Journals",
+      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
+      "published_at": "2026-09-08T19:10:00+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
+      "sources": [
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "800063064414154e0e65",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp acquired MLM Medical Labs GmbH.",
+      "source": "marketscreener.com",
+      "description": "Labcorp Holdings Inc. (NYSE: LH) acquired MLM Medical Labs GmbH. marketscreener.com",
+      "published_at": "2026-09-08T17:51:49+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "858ed41f64214b58dda7",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp acquires German specialty laboratory provider",
+      "source": "Greensboro News and Record",
+      "description": "Labcorp acquires German specialty laboratory provider Greensboro News and Record",
+      "published_at": "2026-09-08T17:15:00+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5",
+      "sources": [
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5"
+        }
+      ]
+    },
     {
       "id": "ddae27c4a8214dea68c4",
       "company": "Labcorp",
@@ -33,11 +90,11 @@
       "category": "Partnership, M&A",
       "title": "Labcorp acquires MLM Medical Labs to expand global network",
       "source": "Investing.com",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Services citybiz",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Clinical Trial Laboratory Network Clinical Lab Products",
       "published_at": "2026-09-08T13:11:37+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 4,
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
       "sources": [
         {
@@ -47,6 +104,14 @@
         {
           "name": "citybiz",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVRnMzJ3R25lenc4UzliMkxmMHNhVnhuU25lX08zMDFLLTNPR3k3Y3RlSnF6eV9aRmlWUUllSHZVclBHVElHWm04Tkd0elp5d3hCaFVkT3hKQlljU0VnQy1SQUdSVTMzbXYwNWlZcS1IdzMwUXlNb2U0TFM5TEhwaDZrS2xjSDVPMmNRWWhJNE80NU9TMnVienFzY2dCMlM0UVQ4bFkydjdWRk9VZExDSXJoZVRpREk5RlBn?oc=5"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5"
         }
       ]
     },
@@ -233,7 +298,7 @@
       "title": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity",
       "source": "PR Newswire",
       "description": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity marketscreener.com",
-      "published_at": "2026-08-31T11:00:00+00:00",
+      "published_at": "2026-08-31T07:00:00+00:00",
       "published_display": "31 Aug 2026",
       "official_source": false,
       "coverage_count": 6,
@@ -262,6 +327,25 @@
         {
           "name": "Barchart.com",
           "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1FnWXBXQUd6MFhRTlZadjlnVWFfZEJTeFdvVTNZV0ZaYXRIdHB4TnNRS1RPS2RhSTdVRk83MXQwOUhxY29xbGM2azdNNWt5c2lOZkpLa1VzTXpEc2s2eVF5Z0w1NGYtVEdxOUJYTHNwQzVvWnJjbmRnU0Q4YndSQ0dvT0dTQ1QtZ0x5RnpweGNHR2J4TEVzTDcwbnp2RWd4Y1djVkdNUnplUkp4YjZhY1E5d2lhVmI5aFlTMzg0T2I4aTl1NWc2b1NfVlFfX0owUy0wSlk3LTdOb3EwdnkydGtLNzlDZDBaMEVyc1c4OFYxbEpTVDdiT1lZQVRRUW1lQi1DVGxNMWw3Q1Bfd1RRSm9zWWxLQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ebd836250a0dd1fee999",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Quest Diagnostics Shareholding Pattern – Promoters, FIIs & DIIs",
+      "source": "Value Research",
+      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs Value Research",
+      "published_at": "2026-08-28T14:43:00+00:00",
+      "published_display": "28 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
+      "sources": [
+        {
+          "name": "Value Research",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5"
         }
       ]
     },
@@ -595,90 +679,6 @@
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU81OGl5dzNZLTVFbzNMVTVfY1o0MGVqTnl5OEVFakphbk1wWXoyMzRJLUhMLWoyT3J2b3FrU2pZMFg3aU4xX2JIY1N4LUIyeHF6M3FoQzhmdGtZYmIyRVVWUWJWVHZCbmxLeUVhSjh3di13cUh3aTJxaTJDR2MtVVg2TmN2OVoxakVFY3pRVGZLWVl1U0ZoOHBYNnpzMXdmTWpjM0YyQWYwbEFBNURrQ2xUNl9oUV9HMFRaRXZVQUdNbE5kMnJsdXp6eDI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a770a17260c644b3e2f4",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics Insider Sold Shares Worth $2,427,200, According to a Recent SEC Filing",
-      "source": "marketscreener.com",
-      "description": "Quest Diagnostics Insider Sold Shares Worth $2,427,200, According to a Recent SEC Filing marketscreener.com",
-      "published_at": "2026-09-03T21:24:40+00:00",
-      "published_display": "03 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpQOE9kLVZfRjZkY2NhZ0JCTy1SdUtIeHpsQkpTSE9iaHVFTlVjUHFvSjdBRnh1Zm1EVUlVblpkNW9hN3ljVnFYTFBHcjRLTklFUUJ3Zy1lelBlNnlCT2tMc0ppVmxpUlJ5ZU9QWkdMcXNsOURDX0NLcDJqTVpYY2VteVZvUEtfU1ozZDNXU083a1h3M0ZBMERQWnpUcVdpWFNRRV9aSE4wdjU0Q3VLeHVBeUE0UFlqc3FLMzdaRkZfWjUwRFcyU3BGUzN1Ti14ZHViWWpR?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVmpQOE9kLVZfRjZkY2NhZ0JCTy1SdUtIeHpsQkpTSE9iaHVFTlVjUHFvSjdBRnh1Zm1EVUlVblpkNW9hN3ljVnFYTFBHcjRLTklFUUJ3Zy1lelBlNnlCT2tMc0ppVmxpUlJ5ZU9QWkdMcXNsOURDX0NLcDJqTVpYY2VteVZvUEtfU1ozZDNXU083a1h3M0ZBMERQWnpUcVdpWFNRRV9aSE4wdjU0Q3VLeHVBeUE0UFlqc3FLMzdaRkZfWjUwRFcyU3BGUzN1Ti14ZHViWWpR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2306c7453f1c6b8198b",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp stock holds steady as investors look to next earnings signal",
-      "source": "AD HOC NEWS",
-      "description": "Labcorp stock holds steady as investors eye recent earnings and diagnostics demand AD HOC NEWS",
-      "published_at": "2026-09-03T20:11:04+00:00",
-      "published_display": "03 Sep 2026",
-      "official_source": false,
-      "coverage_count": 3,
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbURKdGxGa2V5QnpueG1ic1ltUTdUVFU1dW96UWJfMk11UnU3NzNPcFhnZ2JlMWtaTFl2S2tKQXhtVGRfbHA4clJqQ2JSWXJMRzRRWDh4MXhDY2lvRU9wcVpmdkE0Q2I1cUlOQmFZXzhoWDRuZ0Fhc0ZXSmU0T2IyVk5YRDNKQjR6R3ZQel9fWmJvamtJOGpveFN4VDI1d0psbnBnNms0eER2RE5LbS1ZVWVmbWhhRWtoOU8xaGJuY29lTGstRHpBQUVSWQ?oc=5"
-        },
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaE5QY2JuaUZ4SGZVeGM3UnhfN2VwMDdQMTdkaU1LRHJiQUJSTkxBZEdxWnNlT2dUMk45cWpFb09RTUlieEEwVENBbUVZbmlkVGc1Vk5fU1lmRXVBa3ljNlEyUXFjODhIYW5oR2tiUmJIaV84LVdBemh3bE1leXVMNkx4VXVSdmJjdWw5WXVzWVlZOV9LMkxSdjFsaE9FTkYyRmxoN1kzQWZMdkxPNG5SUTJ5eEVYYnZoSjJmNjhTNnU3Rmhq?oc=5"
-        },
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNTUyYVFvbXY3SnU1ZElURUxfWmZNRlJqTDlNN2VCdHJ5akV6YXprcGVNbFR3QkVzcXZBUlBUVDJiSVVULVdkRjJjNU5BSlY0dUhqb0RjcFpoWlVJb0xfSHZCSnBITU5iV3pqMG9oRkRfYzJWcl9TV0M3dWxVbzVXbldMNUJYb0J1Rnl2aFRUWkVBVjBwOGFrTlYwZEluQ0VrOUdDMHJWOWo3ZGRuVXFPbDJZYzFMdnVm?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a897f99465c4d12083c4",
-      "company": "Labcorp",
-      "category": "Financials",
-      "title": "Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown",
-      "source": "vinanet.vn",
-      "description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn",
-      "published_at": "2026-09-03T17:33:01+00:00",
-      "published_display": "03 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e0eaa14e16f8cec46476",
-      "company": "Sonic Healthcare",
-      "category": "Financials",
-      "title": "Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?",
-      "source": "Kalkine Media",
-      "description": "Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? kalkinemedia.com",
-      "published_at": "2026-09-01T04:52:00+00:00",
-      "published_display": "01 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5"
         }
       ]
     }

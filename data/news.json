@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-09-08T22:21:10.326320+05:30",
-  "generated_at_display": "08 Sep 2026, 10:21 PM IST",
-  "item_count": 232,
-  "raw_relevant_item_count": 410,
-  "duplicates_merged": 91,
+  "generated_at": "2026-09-09T02:56:45.825225+05:30",
+  "generated_at_display": "09 Sep 2026, 2:56 AM IST",
+  "item_count": 235,
+  "raw_relevant_item_count": 414,
+  "duplicates_merged": 94,
   "failures": [],
   "items": [
+    {
+      "id": "1f2f7b914163bde49e9c",
+      "company": "Labcorp",
+      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
+      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "source_domain": "bizjournals.com",
+      "published_at": "2026-09-08T19:10:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
+          "domain": "bizjournals.com",
+          "published_at": "2026-09-08T19:10:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition africa builds first gaining operations spree"
+    },
+    {
+      "id": "800063064414154e0e65",
+      "company": "Labcorp",
+      "title": "Labcorp acquired MLM Medical Labs GmbH.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5",
+      "description": "Labcorp Holdings Inc. (NYSE: LH) acquired MLM Medical Labs GmbH. marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-09-08T17:51:49+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-08T17:51:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquired gmbh labs medical mlm"
+    },
+    {
+      "id": "858ed41f64214b58dda7",
+      "company": "Labcorp",
+      "title": "Labcorp acquires German specialty laboratory provider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5",
+      "description": "Labcorp acquires German specialty laboratory provider Greensboro News and Record",
+      "source": "Greensboro News and Record",
+      "source_url": "https://greensboro.com",
+      "source_domain": "greensboro.com",
+      "published_at": "2026-09-08T17:15:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5",
+          "domain": "greensboro.com",
+          "published_at": "2026-09-08T17:15:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquires german provider specialty"
+    },
     {
       "id": "ddae27c4a8214dea68c4",
       "company": "Labcorp",
@@ -35,7 +107,7 @@
       "company": "Labcorp",
       "title": "Labcorp acquires MLM Medical Labs to expand global network",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Services citybiz",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Clinical Trial Laboratory Network Clinical Lab Products",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -55,9 +127,21 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5",
           "domain": "citybiz.co",
           "published_at": "2026-09-08T14:56:35+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVRnMzJ3R25lenc4UzliMkxmMHNhVnhuU25lX08zMDFLLTNPR3k3Y3RlSnF6eV9aRmlWUUllSHZVclBHVElHWm04Tkd0elp5d3hCaFVkT3hKQlljU0VnQy1SQUdSVTMzbXYwNWlZcS1IdzMwUXlNb2U0TFM5TEhwaDZrS2xjSDVPMmNRWWhJNE80NU9TMnVienFzY2dCMlM0UVQ4bFkydjdWRk9VZExDSXJoZVRpREk5RlBn?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-09-08T13:42:18+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-09-08T18:33:27+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "acquires expand global labs medical mlm network"
     },
     {
@@ -526,54 +610,6 @@
       "event_signature": "2026 earnings frame guidance outlook steady stock"
     },
     {
-      "id": "b290ab73e11f257b60ff",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics SVP & general counsel sells $5.5m in shares",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
-      "description": "Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia",
-      "source": "Investing.com",
-      "source_url": "https://m.investing.com",
-      "source_domain": "m.investing.com",
-      "published_at": "2026-08-31T21:01:00+00:00",
-      "published_display": "31 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
-          "domain": "m.investing.com",
-          "published_at": "2026-08-31T21:01:00+00:00"
-        },
-        {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5",
-          "domain": "m.au.investing.com",
-          "published_at": "2026-09-01T02:49:25+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-31T21:18:33+00:00"
-        },
-        {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpfQlNTekJ0QjA0TjdQX09CZTJ5V0FrSFFSU3czNzIwXy1rNzRzMDlucjBZTnE0SXEwT2k2RjZ3VDhLX3JDVW9wWWNiMU5oQnY1Ynd3ODc2bzRPX3dxZUtsc05OaTE5bnlreVVkcDRDWmtiUGpiZHlmZFF0RnJCUHBHVVpzdTJ2VGN2VGxZd1E0azVJQlVUZGd4WHluTTRETGVhUW1LZzBnUlI2Sk1yUk1mNzRFV3lPSmZj?oc=5",
-          "domain": "au.investing.com",
-          "published_at": "2026-08-31T22:25:57+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY21qbFJ4NkFXdW9ScDNCRWVTOFJfZkVibVJwVXE1eTFUcHZMN2g3ZlR5WWtoNUJMSTFGYjdFLVZ6WmpYYThuNmJ2RVZ6ejJJcDhlbG9PYjYwVE1VbUxlcDdFV2NEOHJJTnhJZGN0amtPLXhkeTZITUtYemx1OFhBeFI0LU1ieGwzWnlGUEpBRlk4aDBLZS1fdkF0bFpQenZaR3R1Nm03NUNwbnZnQ3g3YVVWVFdWSDJmckZJ?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-08-31T22:25:43+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "counsel general sells shares svp"
-    },
-    {
       "id": "32c016b42b6cde2453b4",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
@@ -712,6 +748,36 @@
       "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
     },
     {
+      "id": "b7601bce9d24af12b2cf",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
+      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-08-31T08:12:09+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-31T08:12:09+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTQta0lnSzUxMEoya0RDcG8tNUE1SWhXVjR6TFh3ckc1V0tEVUlSS3l0VXkxRHRSdWV3MmlTUl9yeVZ1WlhweXF0RnRhX29uaXJCc3hrcWlEb053X043WV9fcWJIWXZoVnY4TU4yVFdDcko1WjM3ZTAyWG1KTEFHLXFxVXNJa24tLVdibDhJTmVVVlhWNDBQSG5sU2NVZmdVSGhmR3BLaEVPY0h4a1J5UDRUR0hWa2FWQnRLSWdGUEtVNUtZd1ZacURWaDA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-06T10:01:24+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "await catalysts earnings fresh holds investors steady stock"
+    },
+    {
       "id": "1ba2a749f89c055a8e66",
       "company": "Labcorp",
       "title": "Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity",
@@ -720,7 +786,7 @@
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
-      "published_at": "2026-08-31T11:00:00+00:00",
+      "published_at": "2026-08-31T07:00:00+00:00",
       "published_display": "31 Aug 2026",
       "category": "Clinical, R&D",
       "official_source": false,
@@ -729,7 +795,7 @@
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOaUNkWlFDQ25Ja0trQjRKeDJmUTdWZkdLV2lBNXNGVnFyUjdBc3pJTVpJR0dwR2F0RmZWSjlhRFlIci05MTBhM3NabUN1d1lMOVhzd0Q1WW5JYkV0dllrcjFkNDEwZDhmZk04SVhvRk9tbmJTX1BWNUU1emVsV3U0eE93YUJ5RTZzQ25JZnRwa1FkMElEMnBBSU1OWXoxajFKeG9KYVB4Y3R0dXRiWk5XeXlmdXBVMlhMTlU2M3NLTGxCLWpJbGdlNjJ1UUY4UzhfLXNSdzhFNzAyTDhlR0p1VlowSkpYOC1vSzRCMWpLeXY4RWdITEhubGNYNFpDTXo2NURyUDlfLTU2OUdsLU54V1ZZZlRzS3dfQmNIOC1reGk?oc=5",
           "domain": "prnewswire.com",
-          "published_at": "2026-08-31T11:00:00+00:00"
+          "published_at": "2026-08-31T07:00:00+00:00"
         },
         {
           "name": "marketscreener.com",
@@ -766,34 +832,52 @@
       "event_signature": "clinical complexity connect generation global help investigator launches navigate next sites sponsors trial"
     },
     {
-      "id": "b7601bce9d24af12b2cf",
+      "id": "c5cdd429fd894599a60c",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
-      "description": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-31T08:12:09+00:00",
+      "title": "Quest Diagnostics SVP & general counsel sells $5.5m in shares",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5",
+      "description": "Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-08-31T07:00:00+00:00",
       "published_display": "31 Aug 2026",
-      "category": "Financials",
+      "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkhFaTN3dGpJOGdvMmlXNnctVkR6eERSTko3blRBZldsYVhid0M1Q1JlWk5yQ3g1Vk80c25ycFdqQmtTSU9VNWJ0N1p3SGtOT3Q3cXhDSjlqWjdHaWxSRVhmLWZPQ3g3Vl8yTGo3MEJvbTdVei1aOGhNS2NIdGZTWWtDMTdSVGxkLU95WVhKN2hiTUZCTzVUUFo1V3A1OUE1OXZfZDBvaU15eXlyUng4aG4ydGlWMmVid3ZmRFhkbTZ3VTJUWWctYklfWTUtZw?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-31T08:12:09+00:00"
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXBhYmdSMl85eW5HOTZYWGhtdDNpSFNDczNqY0I4RjRXWi1NVU02YWFwOU9MQkhSNGR3VHZ6SnN4RFBBeVhBbHVuTURqSmVtdnVzaXJJRGo1LWoxd0VpUmNFanY1YjUzRjI1UVp4c3d0SnJqZ0taRUk2aUtQcDc3UzdEMm56SEtOV1lMSE40bEZMcy1SRDUyQ1g1Ym1GNVY0Q2NNY2MzTGt2N1BhNUVLODlPMENzSlU5S2hNNFRRRnY?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-08-31T07:00:00+00:00"
         },
         {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQTQta0lnSzUxMEoya0RDcG8tNUE1SWhXVjR6TFh3ckc1V0tEVUlSS3l0VXkxRHRSdWV3MmlTUl9yeVZ1WlhweXF0RnRhX29uaXJCc3hrcWlEb053X043WV9fcWJIWXZoVnY4TU4yVFdDcko1WjM3ZTAyWG1KTEFHLXFxVXNJa24tLVdibDhJTmVVVlhWNDBQSG5sU2NVZmdVSGhmR3BLaEVPY0h4a1J5UDRUR0hWa2FWQnRLSWdGUEtVNUtZd1ZacURWaDA?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-06T10:01:24+00:00"
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0Q1U1pHbXJ3cVdtOFJEOU1GdnJObUFoU3BtV3llN0hrY2hhQmZXQnVfY29ZQlR6YnhGYllIYTlwMGZoN2YtcHZBS244ems1YUlsZWZrcEp5Y3BPUkZlSk9IVUdSSVh5SEFhMUJwUGxhUEx4MWhoN3duYzhzbk1ZWElLM3dzVEw1UFI2WTBDYzNqLTFEZGptblNzbU9GTXJGOTFiZWJYSzUyVDl6MzBkQ0VhMVllbjA2UG5ObjlNUHJNblJuaFUweHRXdw?oc=5",
+          "domain": "m.investing.com",
+          "published_at": "2026-08-31T21:01:00+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDFTMDN5eTROcEJDMlNnTnJMV3FiREJqdlZ5NF91RTZ0eUFSTVJ0NnRISnFGeHZnMUpnSWVjV01EemlXMVBpdUhyalNJcWE5bkx0QW12QlJUdTY1a0hwbmVZaURuMFBnek1wZWliUXFDd3V5SE1WaU5wbGk1ZTJObERXMEhWRzc2UHJLeVlCNU5pUnhTTVhRQ3o5MXJyT0k2SC1pQ0xBRlFxNU5WZks1YTVaVkYwblVLUWxfVjZtRkM3SVNnejd2S0w0NA?oc=5",
+          "domain": "m.au.investing.com",
+          "published_at": "2026-09-01T02:49:25+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVXpfQlNTekJ0QjA0TjdQX09CZTJ5V0FrSFFSU3czNzIwXy1rNzRzMDlucjBZTnE0SXEwT2k2RjZ3VDhLX3JDVW9wWWNiMU5oQnY1Ynd3ODc2bzRPX3dxZUtsc05OaTE5bnlreVVkcDRDWmtiUGpiZHlmZFF0RnJCUHBHVVpzdTJ2VGN2VGxZd1E0azVJQlVUZGd4WHluTTRETGVhUW1LZzBnUlI2Sk1yUk1mNzRFV3lPSmZj?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-08-31T22:25:57+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY21qbFJ4NkFXdW9ScDNCRWVTOFJfZkVibVJwVXE1eTFUcHZMN2g3ZlR5WWtoNUJMSTFGYjdFLVZ6WmpYYThuNmJ2RVZ6ejJJcDhlbG9PYjYwVE1VbUxlcDdFV2NEOHJJTnhJZGN0amtPLXhkeTZITUtYemx1OFhBeFI0LU1ieGwzWnlGUEpBRlk4aDBLZS1fdkF0bFpQenZaR3R1Nm03NUNwbnZnQ3g3YVVWVFdWSDJmckZJ?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-08-31T22:25:43+00:00"
         }
       ],
-      "coverage_count": 2,
-      "event_signature": "await catalysts earnings fresh holds investors steady stock"
+      "coverage_count": 5,
+      "event_signature": "counsel general sells shares svp"
     },
     {
       "id": "f4adad9ddadf57122309",
@@ -916,6 +1000,30 @@
       "event_signature": "beat climbs eps stock"
     },
     {
+      "id": "ebd836250a0dd1fee999",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Shareholding Pattern – Promoters, FIIs & DIIs",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs Value Research",
+      "source": "Value Research",
+      "source_url": "https://www.valueresearchonline.com",
+      "source_domain": "valueresearchonline.com",
+      "published_at": "2026-08-28T14:43:00+00:00",
+      "published_display": "28 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Value Research",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
+          "domain": "valueresearchonline.com",
+          "published_at": "2026-08-28T14:43:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "diis fiis pattern promoters shareholding"
+    },
+    {
       "id": "55942355d081eb6ece71",
       "company": "Quest Diagnostics",
       "title": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US",
@@ -948,7 +1056,7 @@
       "source": "Oncodaily",
       "source_url": "https://oncodaily.com",
       "source_domain": "oncodaily.com",
-      "published_at": "2026-08-28T09:17:02+00:00",
+      "published_at": "2026-08-28T07:00:00+00:00",
       "published_display": "28 Aug 2026",
       "category": "Other",
       "official_source": false,
@@ -957,7 +1065,7 @@
           "name": "Oncodaily",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qndpc1N1c1RRbmZ3dTV3QkJiNURZQTF4cEV1RG10X3FjTDY3YVo5Z3RBUl84aHExZERwaTdpaV9qUVh3QV9zUG5NRGJNU3hRc003NFRB?oc=5",
           "domain": "oncodaily.com",
-          "published_at": "2026-08-28T09:17:02+00:00"
+          "published_at": "2026-08-28T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -2921,38 +3029,6 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
-      ]
-    },
-    {
-      "id": "76b8bc552687be3e751e",
-      "company": "Labcorp",
-      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-17T19:22:27+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-17T19:22:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
-      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -8286,10 +8362,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 85,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-09T00:17:00+05:30",
-  "next_update_display": "09 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-09T06:17:00+05:30",
+  "next_update_display": "09 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
