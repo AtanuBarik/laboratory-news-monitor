@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T10:48:39.256373+05:30",
-  "generated_at_display": "08 Sep 2026, 10:48 AM IST",
-  "item_count": 228,
-  "raw_relevant_item_count": 409,
+  "generated_at": "2026-09-08T17:15:28.223118+05:30",
+  "generated_at_display": "08 Sep 2026, 5:15 PM IST",
+  "item_count": 229,
+  "raw_relevant_item_count": 407,
   "duplicates_merged": 88,
   "failures": [],
   "items": [
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
-      "description": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth AD HOC NEWS",
+      "description": "Quest Diagnostics stock holds near 52-week highs after strong Q2 2026 figures AD HOC NEWS",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -25,9 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-07T13:28:32+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU81OGl5dzNZLTVFbzNMVTVfY1o0MGVqTnl5OEVFakphbk1wWXoyMzRJLUhMLWoyT3J2b3FrU2pZMFg3aU4xX2JIY1N4LUIyeHF6M3FoQzhmdGtZYmIyRVVWUWJWVHZCbmxLeUVhSjh3di13cUh3aTJxaTJDR2MtVVg2TmN2OVoxakVFY3pRVGZLWVl1U0ZoOHBYNnpzMXdmTWpjM0YyQWYwbEFBNURrQ2xUNl9oUV9HMFRaRXZVQUdNbE5kMnJsdXp6eDI?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-08T11:34:52+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "after edges growth highs lower near solid stock week"
     },
     {
@@ -914,6 +920,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "careers clinical job opportunity research"
+    },
+    {
+      "id": "d525782063ddd2d03702",
+      "company": "Labcorp",
+      "title": "Labcorp To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5",
+      "description": "Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share Moomoo",
+      "source": "富途牛牛",
+      "source_url": "https://news.futunn.com",
+      "source_domain": "news.futunn.com",
+      "published_at": "2026-08-27T12:08:37+00:00",
+      "published_display": "27 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "富途牛牛",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5",
+          "domain": "news.futunn.com",
+          "published_at": "2026-08-27T12:08:37+00:00"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHBxbFNXTkJGX19tS0VIMkdONUVWSGNGQS04bkNNeE80NU1jT1pmM3NHaE9jNElWdjBzT1hzZ0J6X21xcnQzQlUzZ0JBWXR1Tk9Lczc1al83RXhhalItMVNZTzdaNGpKTzlwbVhsYUtUdEtjd0toSGNWTEdrUFpfZG9Oc0xfeDBIVk1oSXNSWFlMVXBJRkZhelhobk8?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-08-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 28th august dividend per share usd"
     },
     {
       "id": "eaaf783d25e14d44c542",
@@ -8160,10 +8196,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 90,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-08T12:17:00+05:30",
-  "next_update_display": "08 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-08T18:17:00+05:30",
+  "next_update_display": "08 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
