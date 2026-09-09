@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 09 Sep 2026, 10:49 AM IST
+- **Repository generated:** 09 Sep 2026, 5:23 PM IST
 - **Distinct events in this file:** 113
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -194,7 +194,7 @@
 - **Sources:**
   - Value Research: https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs Value Research
+**Feed description:** Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs valueresearchonline.com
 
 ## 16. Humanity and Quest Diagnostics Launch Biological Age Analysis in the US
 

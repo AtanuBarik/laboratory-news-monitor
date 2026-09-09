@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T10:49:35.879728+05:30",
-  "generated_at_display": "09 Sep 2026, 10:49 AM IST",
-  "item_count": 235,
+  "generated_at": "2026-09-09T17:23:55.010002+05:30",
+  "generated_at_display": "09 Sep 2026, 5:23 PM IST",
+  "item_count": 236,
   "raw_relevant_item_count": 420,
-  "duplicates_merged": 99,
+  "duplicates_merged": 95,
   "failures": [],
   "items": [
     {
@@ -145,9 +145,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5",
           "domain": "clpmag.com",
           "published_at": "2026-09-08T18:33:27+00:00"
+        },
+        {
+          "name": "Medical Device Network",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5",
+          "domain": "medicaldevice-network.com",
+          "published_at": "2026-09-09T09:58:35+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "acquires expand global labs medical mlm network"
     },
     {
@@ -175,9 +181,15 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-09-08T14:30:23+00:00"
+        },
+        {
+          "name": "Medical Buyer",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQlNZVTNfc2d0Z3pNVmlMYnVJNndRVEpIWVpoeEprUHNsYjRiU1FNekxoZGNZSEJ0T2NFeXpXZXJSdDVhZ0J5YXNUSFo2c0ROZEZZT3pQWk5IV242VDJwbFBLQkp3RWxQZWxzV3NB?oc=5",
+          "domain": "medicalbuyer.co.in",
+          "published_at": "2026-09-09T11:37:30+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
     },
     {
@@ -1010,7 +1022,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Shareholding Pattern – Promoters, FIIs & DIIs",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs Value Research",
+      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs valueresearchonline.com",
       "source": "Value Research",
       "source_url": "https://www.valueresearchonline.com",
       "source_domain": "valueresearchonline.com",
@@ -1571,19 +1583,25 @@
       ]
     },
     {
-      "id": "8051c7ada888b66eb62e",
+      "id": "1b6b8da9658496ef1447",
       "company": "Labcorp",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-08-24T11:33:54+00:00",
+      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hzNWpPdElsaDdPdTh4eXlMQXJieUNKbTdkUGZia1VDOGFPODhrd2J2eGlUbk4xa1pZOXdqdVNhR245OXRVaUt3d2FhZUp1dncxUGV0YmQ1NlpMUGFnT3hhOFQ1bVlUOXlxdFljU2VZV3hlNEtZcGMycG15U3RxOTZFVjI0eTdrOUM3MktVYWhhZ0VKTjVuUWNMYWstRlM3a25iUFpWNjZhVVJfLXA3cVFyZnFsQmxsd3RNcU93?oc=5",
+      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-08-24T11:18:53+00:00",
       "published_display": "24 Aug 2026",
       "category": "Product & Services",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hzNWpPdElsaDdPdTh4eXlMQXJieUNKbTdkUGZia1VDOGFPODhrd2J2eGlUbk4xa1pZOXdqdVNhR245OXRVaUt3d2FhZUp1dncxUGV0YmQ1NlpMUGFnT3hhOFQ1bVlUOXlxdFljU2VZV3hlNEtZcGMycG15U3RxOTZFVjI0eTdrOUM3MktVYWhhZ0VKTjVuUWNMYWstRlM3a25iUFpWNjZhVVJfLXA3cVFyZnFsQmxsd3RNcU93?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-08-24T11:18:53+00:00"
+        },
         {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
@@ -1591,8 +1609,8 @@
           "published_at": "2026-08-24T11:33:54+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer blood cleared fda nationwide offer test"
+      "coverage_count": 2,
+      "event_signature": "alzheimer blood cleared com fda investing nationwide offer test"
     },
     {
       "id": "75aa9000c39c9d39c5b6",
@@ -2972,9 +2990,15 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-08-18T11:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN00wR3kwdElIMXZGUWxWbG5JZjdsd21WRWhZMzVGQ1l5R2FnRjZyZHY0c3ZKZTc5eGhZUWk1NkFhaXRmbzU1dm5CbkZ2S1ZKTHNXU1RqYm1ZNklIeHMzUF9fakpjdU4yYUxBVTg4cC1VaWFRS1dDUWVRSnVSMDY1ZGVxelVUOWxyUnFPNFlPU2xfT0F2N1Z3YjdvdHhJc21aZVpGaGprc1AwSDUwblZPLWNUdHFvaFNtSzUxeFJqZXREdEtWdzdpZGhVTmpQbjZKb05xYmhBRDdDeVI5c3llRlJuQzNNWElZaG5TeURhaEdXYkN2aWtMZVYzTTRiMFBhSEE?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-08-18T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "advance alliance center community health launch leadership nachc strategic strengthen"
     },
     {
@@ -3041,6 +3065,38 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
+      ]
+    },
+    {
+      "id": "76b8bc552687be3e751e",
+      "company": "Labcorp",
+      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
+      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-08-17T19:22:27+00:00",
+      "published_display": "17 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-08-17T19:22:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
+      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
+      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-23T00:32:54+05:30",
+      "summary_evidence": [
+        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -8374,10 +8430,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 89,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-09T12:17:00+05:30",
-  "next_update_display": "09 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-09T18:17:00+05:30",
+  "next_update_display": "09 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

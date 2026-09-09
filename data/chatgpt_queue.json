@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:07:53.589170+05:30",
-  "generated_at_display": "09 Sep 2026, 12:07 PM IST",
+  "generated_at": "2026-09-09T17:23:58.663277+05:30",
+  "generated_at_display": "09 Sep 2026, 5:23 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -98,7 +98,7 @@
       "published_at": "2026-09-08T13:11:37+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 4,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
       "sources": [
         {
@@ -116,6 +116,10 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5"
+        },
+        {
+          "name": "Medical Device Network",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5"
         }
       ]
     },
@@ -129,7 +133,7 @@
       "published_at": "2026-09-08T13:05:00+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
       "sources": [
         {
@@ -139,6 +143,10 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5"
+        },
+        {
+          "name": "Medical Buyer",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQlNZVTNfc2d0Z3pNVmlMYnVJNndRVEpIWVpoeEprUHNsYjRiU1FNekxoZGNZSEJ0T2NFeXpXZXJSdDVhZ0J5YXNUSFo2c0ROZEZZT3pQWk5IV242VDJwbFBLQkp3RWxQZWxzV3NB?oc=5"
         }
       ]
     },
@@ -340,7 +348,7 @@
       "category": "Clinical, R&D",
       "title": "Quest Diagnostics Shareholding Pattern – Promoters, FIIs & DIIs",
       "source": "Value Research",
-      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs Value Research",
+      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs valueresearchonline.com",
       "published_at": "2026-08-28T14:43:00+00:00",
       "published_display": "28 Aug 2026",
       "official_source": false,
@@ -499,18 +507,22 @@
       ]
     },
     {
-      "id": "8051c7ada888b66eb62e",
+      "id": "1b6b8da9658496ef1447",
       "company": "Labcorp",
       "category": "Product & Services",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide",
-      "source": "Investing.com India",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide Investing.com India",
-      "published_at": "2026-08-24T11:33:54+00:00",
+      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
+      "source": "Investing.com Canada",
+      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com Canada",
+      "published_at": "2026-08-24T11:18:53+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hzNWpPdElsaDdPdTh4eXlMQXJieUNKbTdkUGZia1VDOGFPODhrd2J2eGlUbk4xa1pZOXdqdVNhR245OXRVaUt3d2FhZUp1dncxUGV0YmQ1NlpMUGFnT3hhOFQ1bVlUOXlxdFljU2VZV3hlNEtZcGMycG15U3RxOTZFVjI0eTdrOUM3MktVYWhhZ0VKTjVuUWNMYWstRlM3a25iUFpWNjZhVVJfLXA3cVFyZnFsQmxsd3RNcU93?oc=5",
       "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hzNWpPdElsaDdPdTh4eXlMQXJieUNKbTdkUGZia1VDOGFPODhrd2J2eGlUbk4xa1pZOXdqdVNhR245OXRVaUt3d2FhZUp1dncxUGV0YmQ1NlpMUGFnT3hhOFQ1bVlUOXlxdFljU2VZV3hlNEtZcGMycG15U3RxOTZFVjI0eTdrOUM3MktVYWhhZ0VKTjVuUWNMYWstRlM3a25iUFpWNjZhVVJfLXA3cVFyZnFsQmxsd3RNcU93?oc=5"
+        },
         {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5"
