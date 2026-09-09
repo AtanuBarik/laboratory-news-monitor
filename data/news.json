@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-09T17:23:55.010002+05:30",
-  "generated_at_display": "09 Sep 2026, 5:23 PM IST",
+  "generated_at": "2026-09-09T22:23:57.109160+05:30",
+  "generated_at_display": "09 Sep 2026, 10:23 PM IST",
   "item_count": 236,
   "raw_relevant_item_count": 420,
   "duplicates_merged": 95,
   "failures": [],
   "items": [
+    {
+      "id": "8bf8eccdb47bfb651cb9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock edges lower after insider sale and UBS target hike",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
+      "description": "Quest Diagnostics stock edges lower after insider sale and UBS target hike AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-09T15:07:15+00:00",
+      "published_display": "09 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-09T15:07:15+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after edges hike insider lower sale stock target ubs"
+    },
     {
       "id": "1f2f7b914163bde49e9c",
       "company": "Labcorp",
@@ -89,7 +113,7 @@
       "company": "Labcorp",
       "title": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5",
-      "description": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs GenomeWeb",
+      "description": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs genomeweb.com",
       "source": "GenomeWeb",
       "source_url": "https://www.genomeweb.com",
       "source_domain": "genomeweb.com",
@@ -187,9 +211,15 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQlNZVTNfc2d0Z3pNVmlMYnVJNndRVEpIWVpoeEprUHNsYjRiU1FNekxoZGNZSEJ0T2NFeXpXZXJSdDVhZ0J5YXNUSFo2c0ROZEZZT3pQWk5IV242VDJwbFBLQkp3RWxQZWxzV3NB?oc=5",
           "domain": "medicalbuyer.co.in",
           "published_at": "2026-09-09T11:37:30+00:00"
+        },
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-09-09T14:45:29+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
     },
     {
@@ -628,48 +658,6 @@
       "event_signature": "2026 earnings frame guidance outlook steady stock"
     },
     {
-      "id": "32c016b42b6cde2453b4",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "source_domain": "marketwatch.com",
-      "published_at": "2026-08-31T21:00:00+00:00",
-      "published_display": "31 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-08-31T21:00:00+00:00"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-09-01T20:59:00+00:00"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb05la2t0dDRFM1lFM0tDbE5HS3hXclMxcVh0ZmlLeTZITE9samxPazYzcFEyOW94MF9GOFhOaXRJcnZoY2hDX2g5SGdZaXZhdWI0ZWJrLTRyT3EzM0UzOXhlNHJIMVd4a3dZdERyYnloZG1VYW45UHNUakUzY2VNWm95Zl9vZjRxY1ZKQl9kdllsU0E1ekdWLS1zLXZ0U0NjcU14UEVGUWxsc2syV2xiUmN2aXZLZlh2djRTZFlwOUZhNjNtTXgyX0dfYjR3TmRqQTExYQ?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-09-01T20:59:00+00:00"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEwzLVRNelFQdjR4dDBVZXZNSXY3QXBEWmlLQ0ljYXJ5cThBTi03WkhTXzRzZlZWbmx0ZFZ6UkpYYkRpVXFJcElLNnlqSlVYMXAySXg2dHk2YXFEOUpIQjlVbFMyTE9kV1hPY0poVnVWTWU1WC05aWRWQzVWamV6c05XSFZ3alNNTjBjNkwzY1N2RUhVN0xWYkVZaFQ1UnduTExtRVl1SVAzNDNrajJfdE1ZMEpHUGE4dTR5WW55amlST0RiU084QlJYMXJJSVZ3bkdz?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-08-31T21:00:00+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "compared competitors monday stock underperforms when"
-    },
-    {
       "id": "b2fb6b3d5db51177f621",
       "company": "Labcorp",
       "title": "Labcorp stock outlook constrained as data and earnings context stay unclear",
@@ -896,6 +884,48 @@
       ],
       "coverage_count": 5,
       "event_signature": "counsel general sells shares svp"
+    },
+    {
+      "id": "61b4b995f736881bc704",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Monday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEwzLVRNelFQdjR4dDBVZXZNSXY3QXBEWmlLQ0ljYXJ5cThBTi03WkhTXzRzZlZWbmx0ZFZ6UkpYYkRpVXFJcElLNnlqSlVYMXAySXg2dHk2YXFEOUpIQjlVbFMyTE9kV1hPY0poVnVWTWU1WC05aWRWQzVWamV6c05XSFZ3alNNTjBjNkwzY1N2RUhVN0xWYkVZaFQ1UnduTExtRVl1SVAzNDNrajJfdE1ZMEpHUGE4dTR5WW55amlST0RiU084QlJYMXJJSVZ3bkdz?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVEwzLVRNelFQdjR4dDBVZXZNSXY3QXBEWmlLQ0ljYXJ5cThBTi03WkhTXzRzZlZWbmx0ZFZ6UkpYYkRpVXFJcElLNnlqSlVYMXAySXg2dHk2YXFEOUpIQjlVbFMyTE9kV1hPY0poVnVWTWU1WC05aWRWQzVWamV6c05XSFZ3alNNTjBjNkwzY1N2RUhVN0xWYkVZaFQ1UnduTExtRVl1SVAzNDNrajJfdE1ZMEpHUGE4dTR5WW55amlST0RiU084QlJYMXJJSVZ3bkdz?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-08-31T07:00:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlhqRDB3ODRiVkx4TWFzX2xyVl9NbF9mTWlhZjQ2aktQdXlobDdZbHV1YWNrd1hwUGRGSjZZa3lGLTNkc2xJSzNPQ25ZUXhLd0JWRE9jbzNxTEpMeXV4NnBGVVNfY3FjYkJwMjYxcWNXTjY0bDAyTVJYQ09qd0RhaWZzdTZPVWR4N0ZZZFE4d185c0I3a3FVNDd5TkE0ZlQtcGRpTmN0NkpYTEVSOVMzVXV6U1htYkJHU21iMngyRVRVZmdmbXViU2ExeVJpZ2RJMDVkR3Jxc2FoeFdtc3Rsa21RQWpKRkJwV1Vj?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-08-31T21:00:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNVTdTSGFsOGFla1NPcDQzSEI1NVBfOVNrQ28yQlJ6aWdWYjhWa05RbEJjbkpBS000TUJZdUlrMk9KbnNYMXRUU1FoNk9qRWtCMnFfVVZNdG5yTGFNY2tWWmFNSGRERkZkaElYMVZhakVEY2Mzc1VvckktbHBTdEV3dGRjYVRNTXlwUUxWcG9xQUZSUzd3R0NRaTViOGFfUUZ0M0lUOFgwV0VwNzB1MmgzMWhUS0NnZ2d6RXhYWllXV1kyY0djcU1CSFRpeHVuYmJrMXZXZFpyWDhZOF8yYk1oRXFIM0M0Sk1nZi1HdA?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-01T20:59:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb05la2t0dDRFM1lFM0tDbE5HS3hXclMxcVh0ZmlLeTZITE9samxPazYzcFEyOW94MF9GOFhOaXRJcnZoY2hDX2g5SGdZaXZhdWI0ZWJrLTRyT3EzM0UzOXhlNHJIMVd4a3dZdERyYnloZG1VYW45UHNUakUzY2VNWm95Zl9vZjRxY1ZKQl9kdllsU0E1ekdWLS1zLXZ0U0NjcU14UEVGUWxsc2syV2xiUmN2aXZLZlh2djRTZFlwOUZhNjNtTXgyX0dfYjR3TmRqQTExYQ?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-01T20:59:00+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "compared competitors monday stock underperforms when"
     },
     {
       "id": "f4adad9ddadf57122309",
@@ -3065,38 +3095,6 @@
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
         "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
-      ]
-    },
-    {
-      "id": "76b8bc552687be3e751e",
-      "company": "Labcorp",
-      "title": "Labcorp Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-17T19:22:27+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-17T19:22:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 day executive featuring investor presentations september sets strategy",
-      "source_description": "Labcorp Holdings Sets Investor Day for September 10, 2026, Featuring Executive Strategy Presentations Kalkine Media",
-      "chatgpt_summary": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will present the company’s go-forward strategy, capital deployment priorities and long-term financial outlook. The presentations will be followed by a question-and-answer session. Labcorp will stream the event live through its Investor Relations website beginning at 9 a.m. ET and plans to make a replay and supporting materials available after the event. The August 17 announcement establishes the date, speakers and agenda but does not itself provide new long-term revenue, margin or earnings targets and does not revise 2026 guidance. That distinction matters because Labcorp had already increased its current-year outlook after second-quarter results: enterprise revenue growth is expected at 5.4%–6.3% and adjusted EPS at $18.10–$18.55. The company also expanded its repurchase authorization by $1.0 billion in July, leaving $1.4 billion available. The material development in this queued item is therefore the formal investor briefing where management intends to give more detail on strategy, capital allocation and the company’s longer-term financial framework.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-host-investor-day-september-10-2026"
       ]
     },
     {
@@ -8430,10 +8428,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 89,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-09T18:17:00+05:30",
-  "next_update_display": "09 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-10T00:17:00+05:30",
+  "next_update_display": "10 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
