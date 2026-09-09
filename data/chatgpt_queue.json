@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:29:48.914194+05:30",
-  "generated_at_display": "09 Sep 2026, 3:29 AM IST",
+  "generated_at": "2026-09-09T10:49:38.936686+05:30",
+  "generated_at_display": "09 Sep 2026, 10:49 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -56,12 +56,16 @@
       "published_at": "2026-09-08T17:15:00+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5",
       "sources": [
         {
           "name": "Greensboro News and Record",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5"
+        },
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1c3ZDRrU3o2djUzV1B4QWNQdzk0STI2NzYwZHZhSDhGUHVHZlNITnFMeWdSMzgtZnpSbEtJNjB6S0QwYnRNUXNYYTIteU9BS2RfTVl2Wk54b1pNNmpUMmZ2SFZhZjdKcjl4RlREYXF4aGxXVHpYcDBWelVWaXFUZko5TEFkYmk4eXBOaTR1a1A0VkZZVmRmaGRha1NqRUp4cGxVdW1TSQ?oc=5"
         }
       ]
     },
@@ -523,7 +527,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 10,
+      "coverage_count": 11,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {

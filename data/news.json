@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T02:56:45.825225+05:30",
-  "generated_at_display": "09 Sep 2026, 2:56 AM IST",
+  "generated_at": "2026-09-09T10:49:35.879728+05:30",
+  "generated_at_display": "09 Sep 2026, 10:49 AM IST",
   "item_count": 235,
-  "raw_relevant_item_count": 414,
-  "duplicates_merged": 94,
+  "raw_relevant_item_count": 420,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
     {
@@ -73,9 +73,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5",
           "domain": "greensboro.com",
           "published_at": "2026-09-08T17:15:00+00:00"
+        },
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1c3ZDRrU3o2djUzV1B4QWNQdzk0STI2NzYwZHZhSDhGUHVHZlNITnFMeWdSMzgtZnpSbEtJNjB6S0QwYnRNUXNYYTIteU9BS2RfTVl2Wk54b1pNNmpUMmZ2SFZhZjdKcjl4RlREYXF4aGxXVHpYcDBWelVWaXFUZko5TEFkYmk4eXBOaTR1a1A0VkZZVmRmaGRha1NqRUp4cGxVdW1TSQ?oc=5",
+          "domain": "journalnow.com",
+          "published_at": "2026-09-08T17:15:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "acquires german provider specialty"
     },
     {
@@ -1124,7 +1130,7 @@
       "company": "Labcorp",
       "title": "Labcorp To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5",
-      "description": "Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share moomoo.com",
+      "description": "Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share news.futunn.com",
       "source": "富途牛牛",
       "source_url": "https://news.futunn.com",
       "source_domain": "news.futunn.com",
@@ -1661,9 +1667,15 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-08-24T11:33:54+00:00"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV0pVbkltQldzejNlNlczNG1sX2txLW9DS1M4X2dfN0ZYVGxlSVphSVJnU0FVemJjWHZ5NDUyeFhBN1dpSTR1OEx1SGk3TGpWVnlmVF9fZmt4ZTdqZGxXQ3RpdDNiOXV4akFKamJCcjRwaHJtRDhseWtNVHZMbHlJSGdtNmktTXhlZXNlSkZUdXV4U0VrUHIyN1hqVklraXFGNGZ0ME1vUXhoMUphbDcwTlRCUEwzY09KV0Q4TjJaLUVJOG4zVVNVcU9wMF9UYjVLQkdZYVk3c3NNeG00ODkwZmtIV0VQaUNnTmlaMUJqNGdNSG5YQWUyNzBoN1dvMUhuNXc4TWU1RGU?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
@@ -8362,10 +8374,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 86,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-09T06:17:00+05:30",
-  "next_update_display": "09 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-09T12:17:00+05:30",
+  "next_update_display": "09 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

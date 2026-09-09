@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 09 Sep 2026, 2:56 AM IST
+- **Repository generated:** 09 Sep 2026, 10:49 AM IST
 - **Distinct events in this file:** 235
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -34,10 +34,11 @@
 - **Company:** Labcorp
 - **Publication date:** 08 Sep 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Greensboro News and Record: https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5
+  - Winston-Salem Journal: https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1c3ZDRrU3o2djUzV1B4QWNQdzk0STI2NzYwZHZhSDhGUHVHZlNITnFMeWdSMzgtZnpSbEtJNjB6S0QwYnRNUXNYYTIteU9BS2RfTVl2Wk54b1pNNmpUMmZ2SFZhZjdKcjl4RlREYXF4aGxXVHpYcDBWelVWaXFUZko5TEFkYmk4eXBOaTR1a1A0VkZZVmRmaGRha1NqRUp4cGxVdW1TSQ?oc=5
 
 **Feed description:** Labcorp acquires German specialty laboratory provider Greensboro News and Record
 
@@ -520,7 +521,7 @@
   - 富途牛牛: https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5
   - Moomoo: https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHBxbFNXTkJGX19tS0VIMkdONUVWSGNGQS04bkNNeE80NU1jT1pmM3NHaE9jNElWdjBzT1hzZ0J6X21xcnQzQlUzZ0JBWXR1Tk9Lczc1al83RXhhalItMVNZTzdaNGpKTzlwbVhsYUtUdEtjd0toSGNWTEdrUFpfZG9Oc0xfeDBIVk1oSXNSWFlMVXBJRkZhelhobk8?oc=5
 
-**Feed description:** Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share moomoo.com
+**Feed description:** Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share news.futunn.com
 
 ## 42. Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e
 
@@ -725,7 +726,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Aug 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 10
+- **Coverage count:** 11
 - **Official source involved:** No
 - **Sources:**
   - Sahm: https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5
@@ -738,6 +739,7 @@
   - BioSpace: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdDh1amlORHFNMC1XTzl3UUxXQ0sxUmpWM01EOUt6dGdaLUNGX3VUdkpXalFSTVVvOFZFa1RWemVkem9yNEJheFFPak01YnNTRkd2VDVGVW1vWTE5Zm5JRXBJMldoV0RSc3pqTkgxQkVWWDNZRGhEZnBrR2xUVHdBOEtuRjVuZUlGSFI5ZGVidHNHQ1lPeHNURDZuYTFVQm9HTHhqbDFKM1VtcWE3cF9lTThfcTQzZDZpeXhJVnREZmEzWFpTcDRlQ1otTV83ZlN4OEE2YUpjYmxibUM5c3lreml6dUtzQWZJZnJ6d3k4MnhWTGVFa0U0YW5aUGs?oc=5
   - finance.yahoo.com: https://news.google.com/rss/articles/CBMilwFBVV95cUxQckRvTUxpMFZIR1JJNWlTMVZub2xFT1YxUXhQZkUtbWJYeGk1Y3ZMaEVaRUQwcnRtbG5Ob0NtMjgwYzFxSzFPN1VWZk1YRHcyMWJjMTJqRXg2Q1RTVHVqSDN3M0V5QzJIM0FrTnc2U3dZMVIzQ1I5Rnd3cTRMS242YzdyTWRxSFhLNDdkQ3BUaTQ2ZTZFOEhv?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV0pVbkltQldzejNlNlczNG1sX2txLW9DS1M4X2dfN0ZYVGxlSVphSVJnU0FVemJjWHZ5NDUyeFhBN1dpSTR1OEx1SGk3TGpWVnlmVF9fZmt4ZTdqZGxXQ3RpdDNiOXV4akFKamJCcjRwaHJtRDhseWtNVHZMbHlJSGdtNmktTXhlZXNlSkZUdXV4U0VrUHIyN1hqVklraXFGNGZ0ME1vUXhoMUphbDcwTlRCUEwzY09KV0Q4TjJaLUVJOG4zVVNVcU9wMF9UYjVLQkdZYVk3c3NNeG00ODkwZmtIV0VQaUNnTmlaMUJqNGdNSG5YQWUyNzBoN1dvMUhuNXc4TWU1RGU?oc=5
 
 **Feed description:** Labcorp said it will make Roche Diagnostics’ FDA-cleared Elecsys pTau-217 blood test available nationwide in the coming months, expanding access to a standardized blood-based assessment for Alzheimer’s disease pathology. The test is intended for people age 55 and older who have signs, symptoms or complaints of cognitive decline and measures phosphorylated Tau 217, a biomarker associated with amyloid pathology. Labcorp describes Elecsys pTau-217 as the first and only FDA-cleared single-biomarker blood test that can support both rule-in and rule-out assessment of amyloid pathology across primary and specialty care using the same clinically validated cutoffs. Results are reported as positive, intermediate or negative and are intended to be interpreted alongside clinical information and other relevant findings. Labcorp says the minimally invasive assay provides performance comparable to cerebrospinal-fluid testing and PET imaging. Once ordered by a clinician, blood can be collected in a physician’s office or at more than 2,200 Labcorp patient service centers. The assay will join Labcorp’s existing Alzheimer’s testing menu, including the FDA-cleared Elecsys pTau-181 test and the Lumipulse pTau-217/Beta-Amyloid 42 Ratio. The announcement did not disclose pricing, reimbursement terms or expected testing volumes, and the assay is not presented as a stand-alone Alzheimer’s diagnosis.
 
