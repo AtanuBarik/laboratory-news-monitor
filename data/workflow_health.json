@@ -1,16 +1,22 @@
 {
-  "last_run_at": "2026-09-09T22:24:01.211908+05:30",
-  "last_run_display": "09 Sep 2026, 10:24 PM IST",
-  "next_update_at": "2026-09-10T00:17:00+05:30",
-  "next_update_display": "10 Sep 2026, 12:17 AM IST",
+  "last_run_at": "2026-09-10T02:44:31.754944+05:30",
+  "last_run_display": "10 Sep 2026, 2:44 AM IST",
+  "next_update_at": "2026-09-10T06:17:00+05:30",
+  "next_update_display": "10 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST",
   "news_item_count": 236,
-  "raw_relevant_item_count": 420,
-  "duplicates_merged": 95,
-  "fetch_failures": [],
+  "raw_relevant_item_count": 236,
+  "duplicates_merged": 0,
+  "fetch_failures": [
+    "Labcorp: HTTP Error 503: Service Unavailable",
+    "Quest Diagnostics: HTTP Error 503: Service Unavailable",
+    "ARUP Laboratories: HTTP Error 503: Service Unavailable",
+    "Mayo Clinic Laboratories: HTTP Error 503: Service Unavailable",
+    "Sonic Healthcare: HTTP Error 503: Service Unavailable"
+  ],
   "chatgpt_queue_count": 30,
   "chatgpt_remaining_unsummarized": 124,
   "email_status": "awaiting_chatgpt_summaries",
   "email_summary_provider": "Awaiting ChatGPT Scheduled Task",
-  "last_email_check": "09 Sep 2026, 5:57 PM IST"
+  "last_email_check": "09 Sep 2026, 10:45 PM IST"
 }
