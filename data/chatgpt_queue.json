@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-10T22:39:13.738248+05:30",
-  "generated_at_display": "10 Sep 2026, 10:39 PM IST",
+  "generated_at": "2026-09-11T02:43:13.782029+05:30",
+  "generated_at_display": "11 Sep 2026, 2:43 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 137,
+  "remaining_unsummarized_count": 139,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "9a1370ffdef6e6e28518",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "Quest Diagnostics stock gains on Apple Health lab testing partnership",
+      "source": "ad-hoc-news.de",
+      "description": "Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de",
+      "published_at": "2026-09-10T17:22:59+00:00",
+      "published_display": "10 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5"
+        }
+      ]
+    },
     {
       "id": "fe25212c7539ce16b122",
       "company": "Labcorp",
@@ -18,12 +37,16 @@
       "published_at": "2026-09-09T13:00:00+00:00",
       "published_display": "09 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5",
       "sources": [
         {
           "name": "Indian Pharma Post",
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5"
+        },
+        {
+          "name": "Indian Pharma Post",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVcwaTBUM0dEcnhDVkFDUjh2QWZOZk11TmlrR18tUnlhendodGlvSHVTWktuQ3paVXVjVUNLVEJTSG5SV2NET05WWDBWWlBSSHVaS3ZoOEUwaFgzQnFwRkVZVmQ0TEJ0dlJYQ2Z4OEhjN21xVHpPd2hyZEN2UVJJaVN0OWdJZ1dEaS1sWDB4UWpxQ3Jza1pYQ2pQNHBYZzNESC1yYUFHcFJ6UVlfWTFSUzJEUDY3SXB0RkFmaF9TcGFJNHo2ZVAwZWNBaG9rd9IB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5"
         }
       ]
     },
@@ -676,25 +699,6 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOb0ZIVy12RWZ6RnBidmtBcWVFdDUzWkZCbXNNcnR4RTVYSkNueDBTbGdycEJEdkpQbDVRV3JjUTRUcHUzQTUwcXdVbEZ4Z3Z1RVJiVnV6S0Fld0RPNnYzaW1pT1E0TnU1eDhUS1A2R0JYVTkxUmQ3anR3dnMwZ2NPcGpqeGJYRXZoUm1aNTBpYkdVeXVHWUgzVkFfR0F0XzhocDdqWldIVnd5dDZqdnhGdGFRT0E5QUlLMmRxUlhJWkxORG1CTENpcHVzeExfLUh1ZGxMZF9Xc0RmRG1nY0NRZ2V3a0ZtWW9odUN6dkotdUNsYzNyZ2s1VFB3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ebe71e6e440112bd771",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance",
-      "source": "marketscreener.com",
-      "description": "Labcorp Offers Elecsys pTau-217 Test Following FDA Clearance marketscreener.com",
-      "published_at": "2026-08-24T07:00:00+00:00",
-      "published_display": "24 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5"
         }
       ]
     }
