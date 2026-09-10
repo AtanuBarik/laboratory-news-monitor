@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-10T17:21:28.146972+05:30",
-  "generated_at_display": "10 Sep 2026, 5:21 PM IST",
-  "item_count": 247,
-  "raw_relevant_item_count": 436,
-  "duplicates_merged": 93,
+  "generated_at": "2026-09-10T22:11:43.875788+05:30",
+  "generated_at_display": "10 Sep 2026, 10:11 PM IST",
+  "item_count": 249,
+  "raw_relevant_item_count": 444,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "b73136df616a847aa222",
+      "company": "Labcorp",
+      "title": "Labcorp reaffirms 2026 guidance, sets outlook through 2029",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5",
+      "description": "Labcorp reaffirms 2026 guidance, sets outlook through 2029 Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-09-10T11:54:29+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-09-10T11:54:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 2029 guidance outlook reaffirms sets through"
+    },
+    {
+      "id": "75e736c0982bb8a5c57b",
+      "company": "Labcorp",
+      "title": "Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5",
+      "description": "Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade",
+      "source": "scanx.trade",
+      "source_url": "https://scanx.trade",
+      "source_domain": "scanx.trade",
+      "published_at": "2026-09-10T11:40:29+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5",
+          "domain": "scanx.trade",
+          "published_at": "2026-09-10T11:40:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2029 cagr fy26 guidance reaffirms revenue sets through"
+    },
     {
       "id": "c1da4dd433d70b84e941",
       "company": "Labcorp",
@@ -413,7 +461,7 @@
       "company": "Labcorp",
       "title": "Labcorp acquires MLM Medical Labs to expand global network",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Clinical Trial Laboratory Network Clinical Lab Products",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities Digital Health News",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -451,9 +499,15 @@
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5",
           "domain": "medicaldevice-network.com",
           "published_at": "2026-09-09T09:58:35+00:00"
+        },
+        {
+          "name": "Digital Health News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5",
+          "domain": "digitalhealthnews.com",
+          "published_at": "2026-09-10T09:39:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "acquires expand global labs medical mlm network"
     },
     {
@@ -1822,39 +1876,6 @@
       "event_signature": "cleared edges elecsys fda lower ptau217 stock test"
     },
     {
-      "id": "6e9bc5f12dfa4af5f4da",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
-      "description": "Quest Diagnostics said it will expand the Quest AD-Detect blood-test portfolio for symptomatic patients with two Alzheimer’s disease offerings. First, Quest plans in the fourth quarter of 2026 to launch nationwide an AD-Detect-branded laboratory service based on Roche’s newly FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs in primary and specialty care. Quest also plans to incorporate the Roche assay into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The panel combines a third-party pTau217 in-vitro diagnostic with amyloid-beta 42/40 and APOE isoform measurements performed by Quest using mass spectrometry to estimate the likelihood of Alzheimer pathology. Quest says published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. With a physician order, patients can use roughly 2,000 Quest patient service centers, physician-office phlebotomy or mobile collection.",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-08-24T13:21:31+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-24T13:21:31+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer biomarker blood cleared fda launch multi panel test",
-      "source_description": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel Clinical Lab Products",
-      "chatgpt_summary": "Quest Diagnostics said it will expand the Quest AD-Detect blood-test portfolio for symptomatic patients with two Alzheimer’s disease offerings. First, Quest plans in the fourth quarter of 2026 to launch nationwide an AD-Detect-branded laboratory service based on Roche’s newly FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs in primary and specialty care. Quest also plans to incorporate the Roche assay into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The panel combines a third-party pTau217 in-vitro diagnostic with amyloid-beta 42/40 and APOE isoform measurements performed by Quest using mass spectrometry to estimate the likelihood of Alzheimer pathology. Quest says published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. With a physician order, patients can use roughly 2,000 Quest patient service centers, physician-office phlebotomy or mobile collection.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
-        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
-      ]
-    },
-    {
       "id": "8e74f5a277e435ccb3e6",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings",
@@ -2204,6 +2225,39 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/quest-diagnostics-to-speak-at-the-morgan-stanley-24th-annual-global-healthcare-conference-302857722.html",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
+      ]
+    },
+    {
+      "id": "6e9bc5f12dfa4af5f4da",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Launch FDA-Cleared Alzheimer Blood Test and Multi-Biomarker Panel",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
+      "description": "Quest Diagnostics said it will expand the Quest AD-Detect blood-test portfolio for symptomatic patients with two Alzheimer’s disease offerings. First, Quest plans in the fourth quarter of 2026 to launch nationwide an AD-Detect-branded laboratory service based on Roche’s newly FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs in primary and specialty care. Quest also plans to incorporate the Roche assay into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The panel combines a third-party pTau217 in-vitro diagnostic with amyloid-beta 42/40 and APOE isoform measurements performed by Quest using mass spectrometry to estimate the likelihood of Alzheimer pathology. Quest says published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. With a physician order, patients can use roughly 2,000 Quest patient service centers, physician-office phlebotomy or mobile collection.",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRWJSMVQ0T3h0d3RMbnlxZGpjOWF0VzJuVVloTWF2QXdUYjdSX09HWUZiMF81RmZSNlRWaUpuRm5Qa2V6SGFDV3EwaVVDUkJDQVhLWEFNMXFIN294OV9mZ2FJX1VOeFVRUTJUWXh1YmdDUlZObGhjMlZXRGdBTXo1RTVJcG1VTk5VY3ZjbnI5UGk3N1k0UzQtZENFN0NMZVJSeEdScWZvN255UnkwcnpZVUdDbVd4SnpWR3doVw?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alzheimer biomarker blood cleared fda launch multi panel test",
+      "source_description": "Quest Diagnostics said it will expand the Quest AD-Detect blood-test portfolio for symptomatic patients with two Alzheimer’s disease offerings. First, Quest plans in the fourth quarter of 2026 to launch nationwide an AD-Detect-branded laboratory service based on Roche’s newly FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs in primary and specialty care. Quest also plans to incorporate the Roche assay into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The panel combines a third-party pTau217 in-vitro diagnostic with amyloid-beta 42/40 and APOE isoform measurements performed by Quest using mass spectrometry to estimate the likelihood of Alzheimer pathology. Quest says published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. With a physician order, patients can use roughly 2,000 Quest patient service centers, physician-office phlebotomy or mobile collection.",
+      "chatgpt_summary": "Quest Diagnostics said it will expand the Quest AD-Detect blood-test portfolio for symptomatic patients with two Alzheimer’s disease offerings. First, Quest plans in the fourth quarter of 2026 to launch nationwide an AD-Detect-branded laboratory service based on Roche’s newly FDA-cleared Elecsys Phospho-Tau (217P) Plasma assay for physicians and clinical-trial collaborators. Roche’s assay is the first FDA-cleared single-assay, single-biomarker blood test designed to support both rule-in and rule-out assessment of amyloid pathology using the same validated cutoffs in primary and specialty care. Quest also plans to incorporate the Roche assay into additional AD-Detect panels in 2027. Separately, at the end of August 2026 Quest plans to launch its laboratory-developed AD-Detect ABeta 42/40, p-tau217 and ApoE Evaluation. The panel combines a third-party pTau217 in-vitro diagnostic with amyloid-beta 42/40 and APOE isoform measurements performed by Quest using mass spectrometry to estimate the likelihood of Alzheimer pathology. Quest says published research showed a 10% indeterminate rate, below the 15%-20% range recommended by the Global CEO Initiative for a typical clinical population. With a physician order, patients can use roughly 2,000 Quest patient service centers, physician-office phlebotomy or mobile collection.",
+      "summary_provider": "ChatGPT Scheduled Task",
+      "summary_verification": "verified",
+      "summary_updated_at": "2026-08-25T07:31:38+05:30",
+      "summary_evidence": [
+        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
+        "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
       ]
     },
     {
@@ -8704,10 +8758,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 96,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-10T18:17:00+05:30",
-  "next_update_display": "10 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-11T00:17:00+05:30",
+  "next_update_display": "11 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T17:51:37.753124+05:30",
-  "generated_at_display": "10 Sep 2026, 5:51 PM IST",
+  "generated_at": "2026-09-10T22:11:48.251314+05:30",
+  "generated_at_display": "10 Sep 2026, 10:11 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 135,
+  "remaining_unsummarized_count": 137,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -113,11 +113,11 @@
       "category": "Partnership, M&A",
       "title": "Labcorp acquires MLM Medical Labs to expand global network",
       "source": "Investing.com",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Clinical Trial Laboratory Network Clinical Lab Products",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities Digital Health News",
       "published_at": "2026-09-08T13:11:37+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 5,
+      "coverage_count": 6,
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
       "sources": [
         {
@@ -139,6 +139,10 @@
         {
           "name": "Medical Device Network",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5"
+        },
+        {
+          "name": "Digital Health News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5"
         }
       ]
     },
