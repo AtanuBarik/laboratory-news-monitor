@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 10 Sep 2026, 2:43 AM IST
+- **Repository generated:** 10 Sep 2026, 10:50 AM IST
 - **Distinct events in this file:** 97
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -311,20 +311,7 @@
 
 **Feed description:** Labcorp raises annual profit forecast on strong testing demand AOL.ca
 
-## 25. Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection
-
-- **Company:** Labcorp
-- **Publication date:** 25 Aug 2026
-- **Category:** Product & Services
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Clinical Lab Products: https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5
-  - marketscreener.com: https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5
-
-**Feed description:** Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products
-
-## 26. Should You Continue to Hold Labcorp Stock in Your Portfolio?
+## 25. Should You Continue to Hold Labcorp Stock in Your Portfolio?
 
 - **Company:** Labcorp
 - **Publication date:** 25 Aug 2026
@@ -338,7 +325,7 @@
 
 **Feed description:** Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research
 
-## 27. Labcorp launches new hepatitis D test to find patients with most severe form of virus
+## 26. Labcorp launches new hepatitis D test to find patients with most severe form of virus
 
 - **Company:** Labcorp
 - **Publication date:** 25 Aug 2026
@@ -349,6 +336,19 @@
   - Fierce Biotech: https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5
 
 **Feed description:** Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com
+
+## 27. Labcorp Launches Hepatitis D Reflex Testing
+
+- **Company:** Labcorp
+- **Publication date:** 25 Aug 2026
+- **Category:** Product & Services
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5
+
+**Feed description:** Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products
 
 ## 28. Labcorp announces FDA-cleared Elecsys pTau217 test as stock edges lower
 

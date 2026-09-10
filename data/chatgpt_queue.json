@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-10T03:25:40.805452+05:30",
-  "generated_at_display": "10 Sep 2026, 3:25 AM IST",
+  "generated_at": "2026-09-10T10:50:53.126426+05:30",
+  "generated_at_display": "10 Sep 2026, 10:50 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 124,
+  "remaining_unsummarized_count": 129,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -270,6 +270,44 @@
       ]
     },
     {
+      "id": "76ac25cf6183696601f9",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works",
+      "source": "The Mac Observer",
+      "description": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer",
+      "published_at": "2026-09-09T21:21:35+00:00",
+      "published_display": "09 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5",
+      "sources": [
+        {
+          "name": "The Mac Observer",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3441bb91bbd8285652a",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App",
+      "source": "Clinical Lab Products",
+      "description": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products",
+      "published_at": "2026-09-09T21:08:37+00:00",
+      "published_display": "09 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5",
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fdbcfbe8cc5bac321180",
       "company": "Labcorp",
       "category": "Product & Services",
@@ -372,7 +410,7 @@
       "title": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US",
       "source": "Clinical Lab Products",
       "description": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US Clinical Lab Products",
-      "published_at": "2026-08-28T14:06:11+00:00",
+      "published_at": "2026-08-28T07:00:00+00:00",
       "published_display": "28 Aug 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -423,29 +461,6 @@
       ]
     },
     {
-      "id": "eeabcbf906af0fc26fa9",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection",
-      "source": "Clinical Lab Products",
-      "description": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products",
-      "published_at": "2026-08-25T15:10:09+00:00",
-      "published_display": "25 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "992ea1ddef606a61aeab",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -488,6 +503,29 @@
         {
           "name": "Fierce Biotech",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "581bcd30666c4880a445",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Labcorp Launches Hepatitis D Reflex Testing",
+      "source": "marketscreener.com",
+      "description": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products",
+      "published_at": "2026-08-25T07:00:00+00:00",
+      "published_display": "25 Aug 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5"
         }
       ]
     },
@@ -657,48 +695,6 @@
         {
           "name": "The Dermatology Digest",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fadd083308d918478609",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment.",
-      "source": "Pluang",
-      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. pluang.com",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebe750529cb72224cbd0",
-      "company": "Quest Diagnostics",
-      "category": "Financials",
-      "title": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth",
-      "source": "AD HOC NEWS",
-      "description": "Quest Diagnostics stock holds near 52-week highs after strong Q2 2026 figures AD HOC NEWS",
-      "published_at": "2026-09-07T13:28:32+00:00",
-      "published_display": "07 Sep 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5"
-        },
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU81OGl5dzNZLTVFbzNMVTVfY1o0MGVqTnl5OEVFakphbk1wWXoyMzRJLUhMLWoyT3J2b3FrU2pZMFg3aU4xX2JIY1N4LUIyeHF6M3FoQzhmdGtZYmIyRVVWUWJWVHZCbmxLeUVhSjh3di13cUh3aTJxaTJDR2MtVVg2TmN2OVoxakVFY3pRVGZLWVl1U0ZoOHBYNnpzMXdmTWpjM0YyQWYwbEFBNURrQ2xUNl9oUV9HMFRaRXZVQUdNbE5kMnJsdXp6eDI?oc=5"
         }
       ]
     }
