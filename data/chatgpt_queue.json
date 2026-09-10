@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-10T12:06:50.066830+05:30",
-  "generated_at_display": "10 Sep 2026, 12:06 PM IST",
+  "generated_at": "2026-09-10T17:21:31.724373+05:30",
+  "generated_at_display": "10 Sep 2026, 5:21 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 129,
+  "remaining_unsummarized_count": 135,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "fe25212c7539ce16b122",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp acquires MLM Medical Labs to strengthen global clinical trial services",
+      "source": "Indian Pharma Post",
+      "description": "Labcorp acquires MLM Medical Labs to strengthen global clinical trial services Indian Pharma Post",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5",
+      "sources": [
+        {
+          "name": "Indian Pharma Post",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5"
+        }
+      ]
+    },
     {
       "id": "1f2f7b914163bde49e9c",
       "company": "Labcorp",
@@ -266,6 +285,25 @@
         {
           "name": "Tracxn",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f239e96a33a1423f3cd4",
+      "company": "Sonic Healthcare",
+      "category": "Clinical, R&D",
+      "title": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare",
+      "source": "Smartkarma",
+      "description": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare Smartkarma",
+      "published_at": "2026-09-10T11:04:37+00:00",
+      "published_display": "10 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXRHN0xhcWdUZHRKdHpHMVlCVndTMUJ5MU9rR3hkZHFLaEhWLUlRY0h3NlJOZWZNWXladkY3QWNhS2JIQmFzSlRKQTN5aXdzVjRZRGFXZmFUdnlLY1VyRWVDT1JPVmQ2TGtCUjZYeDlYTVVlSmZoM09WYXpSVkROY3Z0cmhOQjByUDkwbnpiNUthUTNwakY0R3NHMW9PRHowcGNfS1pVanRxZm9MdkpQSjRyUGZXdGU2VTRjRQ?oc=5",
+      "sources": [
+        {
+          "name": "Smartkarma",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXRHN0xhcWdUZHRKdHpHMVlCVndTMUJ5MU9rR3hkZHFLaEhWLUlRY0h3NlJOZWZNWXladkY3QWNhS2JIQmFzSlRKQTN5aXdzVjRZRGFXZmFUdnlLY1VyRWVDT1JPVmQ2TGtCUjZYeDlYTVVlSmZoM09WYXpSVkROY3Z0cmhOQjByUDkwbnpiNUthUTNwakY0R3NHMW9PRHowcGNfS1pVanRxZm9MdkpQSjRyUGZXdGU2VTRjRQ?oc=5"
         }
       ]
     },
@@ -653,48 +691,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckU4cEZkNmM4ZHc3SUpaN3EyRVRDYUYxakdMQXZiNVBhWFJuZzhxNk1ubHM5eEdTSUFscVNUOE9wSzYxU3NKZktkOXNGTzVac1ZIY04tR2dmLTNhcUI0U2xxZ3NzS2k3SWlKSE4yX3lqWDV3TUwxc3hLaVBIVEpvSXlOVEx4QWpiRjRpYjJUTWROVXhMSHBXaWM3Q1FaVnEya2hTd2p1NWt4VEJjNnZsVDJRZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8938126e440d849c4a13",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue…",
-      "source": "Trend Hunter",
-      "description": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue… Trend Hunter",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "published_display": "14 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5",
-      "sources": [
-        {
-          "name": "Trend Hunter",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "868654c81234f2674032",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "FDA Approves Labcorp Companion Diagnostic for Advanced Melanoma",
-      "source": "Clinical Lab Products",
-      "description": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and…",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5"
-        },
-        {
-          "name": "The Dermatology Digest",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5"
         }
       ]
     }

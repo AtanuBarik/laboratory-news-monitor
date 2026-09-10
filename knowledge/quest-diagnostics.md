@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 10 Sep 2026, 10:50 AM IST
+- **Repository generated:** 10 Sep 2026, 5:21 PM IST
 - **Distinct events in this file:** 119
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5
 
-**Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop AD HOC NEWS
+**Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
 
 ## 2. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
 
@@ -58,11 +58,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0JJcE00MGlhSjMxVEZZc0Y4MFQzSFVHbEFKT0FDdVBLM3lMRUxzdnB1WE1mcThDTTlmOHU1X2ZjWU5fTEJ1VkRpWGowWndyYnhaemZXUFg0dVBLVGRjcDVzRUNqQ2lpQnBQM3AyTUFzU3VoLTloSEhwVUJHbmpGeGwtdXcwaDVfZlZiQVlIa1ZZdDJHdmZ3ZHczUllWWWpHTU5qTTUzcDVaOEJYS09TSFZ1eUtpaHRwR2g1c0h6MjgtZXg0?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVC1zd0FxRHZ2ODd0ZW1Ed0dJRzY1S09Sb3dPRVNJNTJyWkN2TnhoeE1OYUc2b3NHcXlQNWwzLUIzUlgxaVZ2eXo0Q3NoZURJeEdDNUpiajFVUnRYME1KdW9DMFhXVkxwWDNlalpPbGhjSktkOU9TS0pTdWxyY2YtcTV0RUt0cUV2ODJFdXZVYWJfVzRPaG4zQTNhMUJqOVBtRHZBZE9KcEMzdVRZWnNjM2plaFUweW1DSnc1NUZZREFVcTVaY3R3RDJVNzR0eW00OUlTUUlSYXNnS1I5YlZHMzJNbmhWQQ?oc=5
+  - TipRanks: https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0E4V2R2VlJoSW5Xbl9EMmlsdVFBV2lpR01VUjJQWkJWS2hJeTVTTm5YTFRRZVFISHRHZG16Z2c1SWt2UXB1Q2dweURqRF9EYzNtYVlTZnBoZ2JyU2VwZzc1dmFiTXJXY045UExWX1JHa3lCSGMwdDlJLVhfVUFUYWlOVVltdndKaXFjNDQwUHZUeVRGMHZRZW9hZ2xOcWJFZFBxaVMzSmNRd1JPSXZn?oc=5
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
 
@@ -76,7 +77,7 @@
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
 
-**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike AD HOC NEWS
+**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
 
 ## 7. Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth
 
@@ -89,7 +90,7 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizAFBVV95cUxOSU81OGl5dzNZLTVFbzNMVTVfY1o0MGVqTnl5OEVFakphbk1wWXoyMzRJLUhMLWoyT3J2b3FrU2pZMFg3aU4xX2JIY1N4LUIyeHF6M3FoQzhmdGtZYmIyRVVWUWJWVHZCbmxLeUVhSjh3di13cUh3aTJxaTJDR2MtVVg2TmN2OVoxakVFY3pRVGZLWVl1U0ZoOHBYNnpzMXdmTWpjM0YyQWYwbEFBNURrQ2xUNl9oUV9HMFRaRXZVQUdNbE5kMnJsdXp6eDI?oc=5
 
-**Feed description:** Quest Diagnostics stock holds near 52-week highs after strong Q2 2026 figures AD HOC NEWS
+**Feed description:** Quest Diagnostics stock holds near 52-week highs after strong Q2 2026 figures ad-hoc-news.de
 
 ## 8. Man Group takes new $495K stake in Quest Diagnostics as stock nears record high
 

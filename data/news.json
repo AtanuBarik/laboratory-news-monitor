@@ -1,17 +1,137 @@
 {
-  "generated_at": "2026-09-10T10:50:49.438562+05:30",
-  "generated_at_display": "10 Sep 2026, 10:50 AM IST",
-  "item_count": 241,
-  "raw_relevant_item_count": 431,
+  "generated_at": "2026-09-10T17:21:28.146972+05:30",
+  "generated_at_display": "10 Sep 2026, 5:21 PM IST",
+  "item_count": 247,
+  "raw_relevant_item_count": 436,
   "duplicates_merged": 93,
   "failures": [],
   "items": [
+    {
+      "id": "c1da4dd433d70b84e941",
+      "company": "Labcorp",
+      "title": "Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFltYlZoVk1ucldzb0ZwWVhXX29OaWJjTDB0bmxBZDZPdEVTQU9Pa1BfQ1phcF9SQ2M4bm0xa2U1UE9KUzQ2dmQ5SnIwVVo5TTBYUnRUSGJnMEJha0tIY3RodkEwOTViUW91ZU01bENKMnR3N1BSNTUwT2w3eFo2Ml85VkJDNlhIQ2hOQ2FTbF9lTHZWeTdMVXhCMG1jZjRGSkNTd1hNRDdwUzB3R3BPb0RvR0FKRVlZZms0?oc=5",
+      "description": "Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-09-10T11:27:05+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFltYlZoVk1ucldzb0ZwWVhXX29OaWJjTDB0bmxBZDZPdEVTQU9Pa1BfQ1phcF9SQ2M4bm0xa2U1UE9KUzQ2dmQ5SnIwVVo5TTBYUnRUSGJnMEJha0tIY3RodkEwOTViUW91ZU01bENKMnR3N1BSNTUwT2w3eFo2Ml85VkJDNlhIQ2hOQ2FTbF9lTHZWeTdMVXhCMG1jZjRGSkNTd1hNRDdwUzB3R3BPb0RvR0FKRVlZZms0?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-10T11:27:05+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 guidance issues long outlook reiterates term"
+    },
+    {
+      "id": "f239e96a33a1423f3cd4",
+      "company": "Sonic Healthcare",
+      "title": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXRHN0xhcWdUZHRKdHpHMVlCVndTMUJ5MU9rR3hkZHFLaEhWLUlRY0h3NlJOZWZNWXladkY3QWNhS2JIQmFzSlRKQTN5aXdzVjRZRGFXZmFUdnlLY1VyRWVDT1JPVmQ2TGtCUjZYeDlYTVVlSmZoM09WYXpSVkROY3Z0cmhOQjByUDkwbnpiNUthUTNwakY0R3NHMW9PRHowcGNfS1pVanRxZm9MdkpQSjRyUGZXdGU2VTRjRQ?oc=5",
+      "description": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare Smartkarma",
+      "source": "Smartkarma",
+      "source_url": "https://www.smartkarma.com",
+      "source_domain": "smartkarma.com",
+      "published_at": "2026-09-10T11:04:37+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Smartkarma",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXRHN0xhcWdUZHRKdHpHMVlCVndTMUJ5MU9rR3hkZHFLaEhWLUlRY0h3NlJOZWZNWXladkY3QWNhS2JIQmFzSlRKQTN5aXdzVjRZRGFXZmFUdnlLY1VyRWVDT1JPVmQ2TGtCUjZYeDlYTVVlSmZoM09WYXpSVkROY3Z0cmhOQjByUDkwbnpiNUthUTNwakY0R3NHMW9PRHowcGNfS1pVanRxZm9MdkpQSjRyUGZXdGU2VTRjRQ?oc=5",
+          "domain": "smartkarma.com",
+          "published_at": "2026-09-10T11:04:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "4th car cochlear discovery interest predictive sep short weekly"
+    },
+    {
+      "id": "93fede91f20516b1aeed",
+      "company": "Labcorp",
+      "title": "Labcorp Unveils Long-Term Outlook Driven by Specialty Testing",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5",
+      "description": "Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "source_domain": "bloomberg.com",
+      "published_at": "2026-09-10T11:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-09-10T11:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "driven long outlook specialty term testing unveils"
+    },
+    {
+      "id": "1aaa36633871663346d6",
+      "company": "Labcorp",
+      "title": "Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5",
+      "description": "Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-09-10T11:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-10T11:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 day driving durable growth highlights investor priorities shareholder strategic value"
+    },
+    {
+      "id": "d3b51ae4607e32db1780",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories to bring testing operations to Southaven",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXE4aWNmMWNjV1hkRlVaSnJzYlVkeHdfTlhEaWtSZ1VCWTF0dUwwcVB1UzcwVjlXT29HMWJ4cnFSOXhaT09GMXF0ZFU2N3BqR3g5Yk85Z1NaVmM3SjlIYlFkTzhJVzZRa3hERnRnTkw0QjNiUXc0ejVkc0xocHV3Z2VkeU9HVzkwUmRjUlUxcnFRQ09oSF83VWxaMA?oc=5",
+      "description": "Mayo Clinic Laboratories to bring testing operations to Southaven Mississippi Development Authority",
+      "source": "Mississippi Development Authority",
+      "source_url": "https://mississippi.org",
+      "source_domain": "mississippi.org",
+      "published_at": "2026-09-10T04:22:40+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Mississippi Development Authority",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXE4aWNmMWNjV1hkRlVaSnJzYlVkeHdfTlhEaWtSZ1VCWTF0dUwwcVB1UzcwVjlXT29HMWJ4cnFSOXhaT09GMXF0ZFU2N3BqR3g5Yk85Z1NaVmM3SjlIYlFkTzhJVzZRa3hERnRnTkw0QjNiUXc0ejVkc0xocHV3Z2VkeU9HVzkwUmRjUlUxcnFRQ09oSF83VWxaMA?oc=5",
+          "domain": "mississippi.org",
+          "published_at": "2026-09-10T04:22:40+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bring operations southaven testing"
+    },
     {
       "id": "b05f60c6cc88a787eed6",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5",
-      "description": "Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop AD HOC NEWS",
+      "description": "Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -127,9 +247,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVC1zd0FxRHZ2ODd0ZW1Ed0dJRzY1S09Sb3dPRVNJNTJyWkN2TnhoeE1OYUc2b3NHcXlQNWwzLUIzUlgxaVZ2eXo0Q3NoZURJeEdDNUpiajFVUnRYME1KdW9DMFhXVkxwWDNlalpPbGhjSktkOU9TS0pTdWxyY2YtcTV0RUt0cUV2ODJFdXZVYWJfVzRPaG4zQTNhMUJqOVBtRHZBZE9KcEMzdVRZWnNjM2plaFUweW1DSnc1NUZZREFVcTVaY3R3RDJVNzR0eW00OUlTUUlSYXNnS1I5YlZHMzJNbmhWQQ?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-09-09T20:50:24+00:00"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0E4V2R2VlJoSW5Xbl9EMmlsdVFBV2lpR01VUjJQWkJWS2hJeTVTTm5YTFRRZVFISHRHZG16Z2c1SWt2UXB1Q2dweURqRF9EYzNtYVlTZnBoZ2JyU2VwZzc1dmFiTXJXY045UExWX1JHa3lCSGMwdDlJLVhfVUFUYWlOVVltdndKaXFjNDQwUHZUeVRGMHZRZW9hZ2xOcWJFZFBxaVMzSmNRd1JPSXZn?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-09-09T21:22:34+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "able app apple health labs order users"
     },
     {
@@ -137,7 +263,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock edges lower after insider sale and UBS target hike",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
-      "description": "Quest Diagnostics stock edges lower after insider sale and UBS target hike AD HOC NEWS",
+      "description": "Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -155,6 +281,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "after edges hike insider lower sale stock target ubs"
+    },
+    {
+      "id": "fe25212c7539ce16b122",
+      "company": "Labcorp",
+      "title": "Labcorp acquires MLM Medical Labs to strengthen global clinical trial services",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5",
+      "description": "Labcorp acquires MLM Medical Labs to strengthen global clinical trial services Indian Pharma Post",
+      "source": "Indian Pharma Post",
+      "source_url": "https://www.indianpharmapost.com",
+      "source_domain": "indianpharmapost.com",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Indian Pharma Post",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5",
+          "domain": "indianpharmapost.com",
+          "published_at": "2026-09-09T13:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquires clinical global labs medical mlm services strengthen trial"
     },
     {
       "id": "1f2f7b914163bde49e9c",
@@ -353,7 +503,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMWJpbzUzOXJ5X0xrM1RTQnhhalhsVGZNX3dIRk5qNlNBSlZIdVFISUszb29wWTRTV2ZFenFkcnFsSkpqSThBdGNGb2J6RjV3a2daTUdQeUZHT0tvTjI1aVE0VDNiLWxwZU92Uld2Q2hPS3dzLWxUSWZKdE40WHkwQ0NmUUQ4eGMyVV9IWTlBay1Bb3hvMHdjQXhmQjBlQXkzVjFrSnlDdE5WOVJqY0dJVVM3THBYUG80RDVFejhPTmdoNXBGQV96cERUOFA?oc=5",
-      "description": "Quest Diagnostics stock holds near 52-week highs after strong Q2 2026 figures AD HOC NEWS",
+      "description": "Quest Diagnostics stock holds near 52-week highs after strong Q2 2026 figures ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -8554,10 +8704,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 96,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-10T12:17:00+05:30",
-  "next_update_display": "10 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-10T18:17:00+05:30",
+  "next_update_display": "10 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

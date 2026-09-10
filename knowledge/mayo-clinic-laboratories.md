@@ -1,8 +1,18 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 10 Sep 2026, 10:50 AM IST
-- **Distinct events in this file:** 0
+- **Repository generated:** 10 Sep 2026, 5:21 PM IST
+- **Distinct events in this file:** 1
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-No matching events are currently available.
+## 1. Mayo Clinic Laboratories to bring testing operations to Southaven
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 10 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Mississippi Development Authority: https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXE4aWNmMWNjV1hkRlVaSnJzYlVkeHdfTlhEaWtSZ1VCWTF0dUwwcVB1UzcwVjlXT29HMWJ4cnFSOXhaT09GMXF0ZFU2N3BqR3g5Yk85Z1NaVmM3SjlIYlFkTzhJVzZRa3hERnRnTkw0QjNiUXc0ejVkc0xocHV3Z2VkeU9HVzkwUmRjUlUxcnFRQ09oSF83VWxaMA?oc=5
+
+**Feed description:** Mayo Clinic Laboratories to bring testing operations to Southaven Mississippi Development Authority
