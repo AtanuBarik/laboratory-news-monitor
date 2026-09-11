@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-09-11T02:43:09.379401+05:30",
-  "generated_at_display": "11 Sep 2026, 2:43 AM IST",
-  "item_count": 251,
-  "raw_relevant_item_count": 449,
-  "duplicates_merged": 98,
+  "generated_at": "2026-09-11T10:48:04.661818+05:30",
+  "generated_at_display": "11 Sep 2026, 10:48 AM IST",
+  "item_count": 256,
+  "raw_relevant_item_count": 455,
+  "duplicates_merged": 100,
   "failures": [],
   "items": [
+    {
+      "id": "bdd85fb23903455d2d62",
+      "company": "Sonic Healthcare",
+      "title": "Are Margins Turning for Sonic Healthcare?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmVRSDh4UTZGVVVNNXlSVk93Vkl4TEpZR2lXSzdXRmFhZW05SFpsQ0JrVWNxM2p2U2hUR3FvQ3M1T1BaM2syS3dIcFBDU2pfV1Jma2xjdU1HZmFqMlg0Q2lBTTR0SE4zblpqQlhnaWJMdXN1T0FEQW0tNzRDa0xkeVBTdXIwMGNHZEJMMDljQnNfYU5YcVJzXw?oc=5",
+      "description": "Are Margins Turning for Sonic Healthcare (ASX:SHL)? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-09-11T03:41:00+00:00",
+      "published_display": "11 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmVRSDh4UTZGVVVNNXlSVk93Vkl4TEpZR2lXSzdXRmFhZW05SFpsQ0JrVWNxM2p2U2hUR3FvQ3M1T1BaM2syS3dIcFBDU2pfV1Jma2xjdU1HZmFqMlg0Q2lBTTR0SE4zblpqQlhnaWJMdXN1T0FEQW0tNzRDa0xkeVBTdXIwMGNHZEJMMDljQnNfYU5YcVJzXw?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-09-11T03:41:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are margins turning"
+    },
+    {
+      "id": "83834a299e8a014a587c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Thursday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Thursday when compared to competitors MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-09-10T21:01:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-10T21:01:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors stock thursday underperforms when"
+    },
+    {
+      "id": "091a75d3a57aec430ac8",
+      "company": "Labcorp",
+      "title": "Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5",
+      "description": "Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-10T20:53:11+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-10T20:53:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 2029 adjusted cagr eps guidance outlines outlook revenue"
+    },
+    {
+      "id": "bac52154e1717573c01a",
+      "company": "Labcorp",
+      "title": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjdQX2V0RkstRVlaeVM1QW90ang5X0RpenhZdVhvZ1dBSDdHcFgxVnhRT0FtVkVJTjZYSWR0LS1uR1Jabk9uZ0FycTZ4TTBncUNuRU1Ca0dLVUJjYzdoVVhkWGZoSkxxb3RnT0RSOXhobnBNMThCQVdzQ1doWWZkOXVRaDFOTXJGcFpwdWMzSzVZQWJLeHVjRDFsUkRNR28?oc=5",
+      "description": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-09-10T17:54:49+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjdQX2V0RkstRVlaeVM1QW90ang5X0RpenhZdVhvZ1dBSDdHcFgxVnhRT0FtVkVJTjZYSWR0LS1uR1Jabk9uZ0FycTZ4TTBncUNuRU1Ca0dLVUJjYzdoVVhkWGZoSkxxb3RnT0RSOXhobnBNMThCQVdzQ1doWWZkOXVRaDFOTXJGcFpwdWMzSzVZQWJLeHVjRDFsUkRNR28?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-09-10T17:54:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cost distributing nowdx otc syphilis tests"
+    },
     {
       "id": "3603ad9f606b07159f6b",
       "company": "Labcorp",
@@ -3657,6 +3753,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "234 demand diagnostic flow key levels order slips stabilizes sweep watch"
+    },
+    {
+      "id": "f7ce55520338303eb2fc",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Profit Surge Picks",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXVtVlFqaDNoVkg4UVNLS19UWUJvOVJ1eXNmV0o0VEhtZVQ1cFFlMWJJM3NIYVZ2WmpEZHB4NWhTM0dwRVhTcVdHTGt3czJ0WWRfX2lZWno2bDRQYlZSUE9MMGJvOXJWZjJmWnp0eURuQktuR1dxQ2g2N1h1V1lmTEZCeTg5R2JVQjdmdl9jcmF4ZUQyQ2wyZmNLcFhmNUtfOHVTVDlIX2E3Z2JoUWFCeXZkbFRHTC05RnFkNXZkc05BSWg4UU1UQ2ttWGxidw?oc=5",
+      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Profit Surge Picks dars.gov.et",
+      "source": "dars.gov.et",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-08-16T07:00:00+00:00",
+      "published_display": "16 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXVtVlFqaDNoVkg4UVNLS19UWUJvOVJ1eXNmV0o0VEhtZVQ1cFFlMWJJM3NIYVZ2WmpEZHB4NWhTM0dwRVhTcVdHTGt3czJ0WWRfX2lZWno2bDRQYlZSUE9MMGJvOXJWZjJmWnp0eURuQktuR1dxQ2g2N1h1V1lmTEZCeTg5R2JVQjdmdl9jcmF4ZUQyQ2wyZmNLcFhmNUtfOHVTVDlIX2E3Z2JoUWFCeXZkbFRHTC05RnFkNXZkc05BSWg4UU1UQ2ttWGxidw?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-08-16T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "234 demand diagnostic key levels picks profit slips stabilizes surge watch"
     },
     {
       "id": "9345ff18a7852eee2d7c",
@@ -8818,10 +8938,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 99,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-11T06:17:00+05:30",
-  "next_update_display": "11 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-11T12:17:00+05:30",
+  "next_update_display": "11 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
