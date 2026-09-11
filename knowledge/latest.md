@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 11 Sep 2026, 10:48 AM IST
+- **Repository generated:** 11 Sep 2026, 5:20 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmVRSDh4UTZGVVVNNXlSVk93Vkl4TEpZR2lXSzdXRmFhZW05SFpsQ0JrVWNxM2p2U2hUR3FvQ3M1T1BaM2syS3dIcFBDU2pfV1Jma2xjdU1HZmFqMlg0Q2lBTTR0SE4zblpqQlhnaWJMdXN1T0FEQW0tNzRDa0xkeVBTdXIwMGNHZEJMMDljQnNfYU5YcVJzXw?oc=5
 
-**Feed description:** Are Margins Turning for Sonic Healthcare (ASX:SHL)? Kalkine Media
+**Feed description:** Are Margins Turning for Sonic Healthcare (ASX:SHL)? kalkinemedia.com
 
 ## 2. Quest Diagnostics stock underperforms Thursday when compared to competitors
 
@@ -58,12 +58,13 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Benzinga: https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmF1ZmYwRG1tb2NfdEU4VXkwRzcwWGU3YS1rNGRvaG1HSjFaMFVVMk01M0NzdFJoTlVCRjk4VVp3b2V5OWpqVUdkbE9uLV9Ka3hqX1MxRVk4OVFSRHZ6WkhXOVFLTE1GMWdpRjU3OWswUF9uYzJkLUhIWl9XalczVXBQQ2VkQTVNMUI5SzFrcFZNWElCbENhRkRkQUhSNWpRUHU4TDl1OXVKVHhrVkNlR3IyMjE0VU80ZmE0anVidDljckhJ?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5
 
-**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 Benzinga
+**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 TradingView
 
 ## 6. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
@@ -565,19 +566,7 @@
 
 **Feed description:** Labcorp announces enhancements to Labcorp Global Trial Connect tipranks.com
 
-## 46. Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making
-
-- **Company:** Labcorp
-- **Publication date:** 31 Aug 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5
-
-**Feed description:** Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com
-
-## 47. Quest Diagnostics stock holds steady as investors await fresh earnings catalysts
+## 46. Quest Diagnostics stock holds steady as investors await fresh earnings catalysts
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
@@ -590,7 +579,7 @@
 
 **Feed description:** Quest Diagnostics stock holds steady as investors await fresh earnings catalysts ad-hoc-news.de
 
-## 48. Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity
+## 47. Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity
 
 - **Company:** Labcorp
 - **Publication date:** 31 Aug 2026
@@ -607,7 +596,7 @@
 
 **Feed description:** Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity marketscreener.com
 
-## 49. Quest Diagnostics SVP & general counsel sells $5.5m in shares
+## 48. Quest Diagnostics SVP & general counsel sells $5.5m in shares
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
@@ -623,7 +612,7 @@
 
 **Feed description:** Quest Diagnostics SVP & general counsel sells $5.5m in shares By Investing.com Investing.com Australia
 
-## 50. Quest Diagnostics stock underperforms Monday when compared to competitors
+## 49. Quest Diagnostics stock underperforms Monday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 31 Aug 2026
@@ -637,6 +626,18 @@
   - MarketWatch: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb05la2t0dDRFM1lFM0tDbE5HS3hXclMxcVh0ZmlLeTZITE9samxPazYzcFEyOW94MF9GOFhOaXRJcnZoY2hDX2g5SGdZaXZhdWI0ZWJrLTRyT3EzM0UzOXhlNHJIMVd4a3dZdERyYnloZG1VYW45UHNUakUzY2VNWm95Zl9vZjRxY1ZKQl9kdllsU0E1ekdWLS1zLXZ0U0NjcU14UEVGUWxsc2syV2xiUmN2aXZLZlh2djRTZFlwOUZhNjNtTXgyX0dfYjR3TmRqQTExYQ?oc=5
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
+
+## 50. Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making
+
+- **Company:** Labcorp
+- **Publication date:** 31 Aug 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5
+
+**Feed description:** Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com
 
 ## 51. Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?
 
@@ -670,9 +671,9 @@
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - Ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5
 
-**Feed description:** Quest Diagnostics stock holds steady as investors weigh latest quarterly trends Ad-hoc-news.de
+**Feed description:** Quest Diagnostics stock holds steady as investors weigh latest quarterly trends ad-hoc-news.de
 
 ## 54. Quest Diagnostics Financials – Balance Sheet, Profit & Loss, Cash Flow
 

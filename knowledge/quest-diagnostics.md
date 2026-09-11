@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 11 Sep 2026, 10:48 AM IST
+- **Repository generated:** 11 Sep 2026, 5:20 PM IST
 - **Distinct events in this file:** 122
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -255,9 +255,9 @@
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - Ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5
 
-**Feed description:** Quest Diagnostics stock holds steady as investors weigh latest quarterly trends Ad-hoc-news.de
+**Feed description:** Quest Diagnostics stock holds steady as investors weigh latest quarterly trends ad-hoc-news.de
 
 ## 21. Quest Diagnostics Financials – Balance Sheet, Profit & Loss, Cash Flow
 

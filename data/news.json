@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T10:48:04.661818+05:30",
-  "generated_at_display": "11 Sep 2026, 10:48 AM IST",
+  "generated_at": "2026-09-11T17:20:00.154918+05:30",
+  "generated_at_display": "11 Sep 2026, 5:20 PM IST",
   "item_count": 256,
-  "raw_relevant_item_count": 455,
-  "duplicates_merged": 100,
+  "raw_relevant_item_count": 459,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Sonic Healthcare",
       "title": "Are Margins Turning for Sonic Healthcare?",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmVRSDh4UTZGVVVNNXlSVk93Vkl4TEpZR2lXSzdXRmFhZW05SFpsQ0JrVWNxM2p2U2hUR3FvQ3M1T1BaM2syS3dIcFBDU2pfV1Jma2xjdU1HZmFqMlg0Q2lBTTR0SE4zblpqQlhnaWJMdXN1T0FEQW0tNzRDa0xkeVBTdXIwMGNHZEJMMDljQnNfYU5YcVJzXw?oc=5",
-      "description": "Are Margins Turning for Sonic Healthcare (ASX:SHL)? Kalkine Media",
+      "description": "Are Margins Turning for Sonic Healthcare (ASX:SHL)? kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -107,7 +107,7 @@
       "company": "Labcorp",
       "title": "Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmF1ZmYwRG1tb2NfdEU4VXkwRzcwWGU3YS1rNGRvaG1HSjFaMFVVMk01M0NzdFJoTlVCRjk4VVp3b2V5OWpqVUdkbE9uLV9Ka3hqX1MxRVk4OVFSRHZ6WkhXOVFLTE1GMWdpRjU3OWswUF9uYzJkLUhIWl9XalczVXBQQ2VkQTVNMUI5SzFrcFZNWElCbENhRkRkQUhSNWpRUHU4TDl1OXVKVHhrVkNlR3IyMjE0VU80ZmE0anVidDljckhJ?oc=5",
-      "description": "Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 Benzinga",
+      "description": "Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 TradingView",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "source_domain": "benzinga.com",
@@ -121,9 +121,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmF1ZmYwRG1tb2NfdEU4VXkwRzcwWGU3YS1rNGRvaG1HSjFaMFVVMk01M0NzdFJoTlVCRjk4VVp3b2V5OWpqVUdkbE9uLV9Ka3hqX1MxRVk4OVFSRHZ6WkhXOVFLTE1GMWdpRjU3OWswUF9uYzJkLUhIWl9XalczVXBQQ2VkQTVNMUI5SzFrcFZNWElCbENhRkRkQUhSNWpRUHU4TDl1OXVKVHhrVkNlR3IyMjE0VU80ZmE0anVidDljckhJ?oc=5",
           "domain": "benzinga.com",
           "published_at": "2026-09-10T17:40:03+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-10T17:40:03+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2029 bets big drive growth specialty testing through"
     },
     {
@@ -1216,30 +1222,6 @@
       "event_signature": "connect enhancements global trial"
     },
     {
-      "id": "620b0ba2841e5b3b2c6b",
-      "company": "Labcorp",
-      "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
-      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-31T11:38:24+00:00",
-      "published_display": "31 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-31T11:38:24+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
-    },
-    {
       "id": "b7601bce9d24af12b2cf",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds steady as investors await fresh earnings catalysts",
@@ -1414,6 +1396,30 @@
       "event_signature": "compared competitors monday stock underperforms when"
     },
     {
+      "id": "620b0ba2841e5b3b2c6b",
+      "company": "Labcorp",
+      "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
+      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-08-31T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
+    },
+    {
       "id": "f4adad9ddadf57122309",
       "company": "Sonic Healthcare",
       "title": "Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?",
@@ -1466,20 +1472,20 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
-      "description": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
+      "description": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-29T10:39:00+00:00",
+      "published_at": "2026-08-29T07:00:00+00:00",
       "published_display": "29 Aug 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "Ad-hoc-news.de",
+          "name": "ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
           "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-29T10:39:00+00:00"
+          "published_at": "2026-08-29T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -8938,10 +8944,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 99,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-11T12:17:00+05:30",
-  "next_update_display": "11 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-11T18:17:00+05:30",
+  "next_update_display": "11 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

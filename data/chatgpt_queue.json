@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:06:05.626339+05:30",
-  "generated_at_display": "11 Sep 2026, 12:06 PM IST",
+  "generated_at": "2026-09-11T17:20:03.240542+05:30",
+  "generated_at_display": "11 Sep 2026, 5:20 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -392,25 +392,6 @@
       ]
     },
     {
-      "id": "620b0ba2841e5b3b2c6b",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
-      "source": "Pluang",
-      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
-      "published_at": "2026-08-31T11:38:24+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ba2a749f89c055a8e66",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -446,6 +427,25 @@
         {
           "name": "Barchart.com",
           "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1FnWXBXQUd6MFhRTlZadjlnVWFfZEJTeFdvVTNZV0ZaYXRIdHB4TnNRS1RPS2RhSTdVRk83MXQwOUhxY29xbGM2azdNNWt5c2lOZkpLa1VzTXpEc2s2eVF5Z0w1NGYtVEdxOUJYTHNwQzVvWnJjbmRnU0Q4YndSQ0dvT0dTQ1QtZ0x5RnpweGNHR2J4TEVzTDcwbnp2RWd4Y1djVkdNUnplUkp4YjZhY1E5d2lhVmI5aFlTMzg0T2I4aTl1NWc2b1NfVlFfX0owUy0wSlk3LTdOb3EwdnkydGtLNzlDZDBaMEVyc1c4OFYxbEpTVDdiT1lZQVRRUW1lQi1DVGxNMWw3Q1Bfd1RRSm9zWWxLQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "620b0ba2841e5b3b2c6b",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
+      "source": "Pluang",
+      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5"
         }
       ]
     },

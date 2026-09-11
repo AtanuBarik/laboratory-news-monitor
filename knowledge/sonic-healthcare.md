@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 11 Sep 2026, 10:48 AM IST
+- **Repository generated:** 11 Sep 2026, 5:20 PM IST
 - **Distinct events in this file:** 26
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmVRSDh4UTZGVVVNNXlSVk93Vkl4TEpZR2lXSzdXRmFhZW05SFpsQ0JrVWNxM2p2U2hUR3FvQ3M1T1BaM2syS3dIcFBDU2pfV1Jma2xjdU1HZmFqMlg0Q2lBTTR0SE4zblpqQlhnaWJMdXN1T0FEQW0tNzRDa0xkeVBTdXIwMGNHZEJMMDljQnNfYU5YcVJzXw?oc=5
 
-**Feed description:** Are Margins Turning for Sonic Healthcare (ASX:SHL)? Kalkine Media
+**Feed description:** Are Margins Turning for Sonic Healthcare (ASX:SHL)? kalkinemedia.com
 
 ## 2. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
 

@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 11 Sep 2026, 10:48 AM IST
+- **Repository generated:** 11 Sep 2026, 5:20 PM IST
 - **Distinct events in this file:** 106
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -34,12 +34,13 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Benzinga: https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmF1ZmYwRG1tb2NfdEU4VXkwRzcwWGU3YS1rNGRvaG1HSjFaMFVVMk01M0NzdFJoTlVCRjk4VVp3b2V5OWpqVUdkbE9uLV9Ka3hqX1MxRVk4OVFSRHZ6WkhXOVFLTE1GMWdpRjU3OWswUF9uYzJkLUhIWl9XalczVXBQQ2VkQTVNMUI5SzFrcFZNWElCbENhRkRkQUhSNWpRUHU4TDl1OXVKVHhrVkNlR3IyMjE0VU80ZmE0anVidDljckhJ?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5
 
-**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 Benzinga
+**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 TradingView
 
 ## 4. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
@@ -319,19 +320,7 @@
 
 **Feed description:** Labcorp announces enhancements to Labcorp Global Trial Connect tipranks.com
 
-## 26. Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making
-
-- **Company:** Labcorp
-- **Publication date:** 31 Aug 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5
-
-**Feed description:** Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com
-
-## 27. Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity
+## 26. Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity
 
 - **Company:** Labcorp
 - **Publication date:** 31 Aug 2026
@@ -347,6 +336,18 @@
   - Barchart.com: https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1FnWXBXQUd6MFhRTlZadjlnVWFfZEJTeFdvVTNZV0ZaYXRIdHB4TnNRS1RPS2RhSTdVRk83MXQwOUhxY29xbGM2azdNNWt5c2lOZkpLa1VzTXpEc2s2eVF5Z0w1NGYtVEdxOUJYTHNwQzVvWnJjbmRnU0Q4YndSQ0dvT0dTQ1QtZ0x5RnpweGNHR2J4TEVzTDcwbnp2RWd4Y1djVkdNUnplUkp4YjZhY1E5d2lhVmI5aFlTMzg0T2I4aTl1NWc2b1NfVlFfX0owUy0wSlk3LTdOb3EwdnkydGtLNzlDZDBaMEVyc1c4OFYxbEpTVDdiT1lZQVRRUW1lQi1DVGxNMWw3Q1Bfd1RRSm9zWWxLQQ?oc=5
 
 **Feed description:** Labcorp Launches Next Generation of Labcorp Global Trial Connect™ to Help Sponsors and Investigator Sites Navigate Clinical Trial Complexity marketscreener.com
+
+## 27. Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making
+
+- **Company:** Labcorp
+- **Publication date:** 31 Aug 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5
+
+**Feed description:** Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com
 
 ## 28. Labcorp Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning
 
