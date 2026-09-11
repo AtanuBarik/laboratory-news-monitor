@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-11T17:20:00.154918+05:30",
-  "generated_at_display": "11 Sep 2026, 5:20 PM IST",
-  "item_count": 256,
-  "raw_relevant_item_count": 459,
+  "generated_at": "2026-09-11T22:16:02.451987+05:30",
+  "generated_at_display": "11 Sep 2026, 10:16 PM IST",
+  "item_count": 258,
+  "raw_relevant_item_count": 463,
   "duplicates_merged": 104,
   "failures": [],
   "items": [
+    {
+      "id": "96206d3d4500b037e6eb",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
+      "description": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi Post Bulletin",
+      "source": "Post Bulletin",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
+      "published_at": "2026-09-11T15:21:51+00:00",
+      "published_display": "11 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Post Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
+          "domain": "postbulletin.com",
+          "published_at": "2026-09-11T15:21:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "build facility million mississippi testing"
+    },
+    {
+      "id": "821716659df30f3d5ffd",
+      "company": "Labcorp",
+      "title": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVYZE5Tb2JCRnh0Z2swdmNsQ3hYQmdTVnlFdWhyWUNDSVI4d2IzV2dOaWNoZHFCanNFd1htZ3lPSjE0bjFkSlBiY0ZGMTJQdm1HQk5VWEw2cmFRWjZRUFdNc2dKSGd3a3pPYl8ySzdDQ243SE4ta0h3NE5WZWtZYm96aGplNG9hZ2J6NVQ5cEpNS0RGMGwyVVdfZ1M2bVg4N3lrNHRKYWlDak9PWnpDcjBEbjNEeHdXUy1Xcm91bU13MlgtcTJHMw?oc=5",
+      "description": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners Investors in Healthcare",
+      "source": "Investors in Healthcare",
+      "source_url": "https://www.investorsinhealthcare.com",
+      "source_domain": "investorsinhealthcare.com",
+      "published_at": "2026-09-11T13:50:42+00:00",
+      "published_display": "11 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investors in Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVYZE5Tb2JCRnh0Z2swdmNsQ3hYQmdTVnlFdWhyWUNDSVI4d2IzV2dOaWNoZHFCanNFd1htZ3lPSjE0bjFkSlBiY0ZGMTJQdm1HQk5VWEw2cmFRWjZRUFdNc2dKSGd3a3pPYl8ySzdDQ243SE4ta0h3NE5WZWtZYm96aGplNG9hZ2J6NVQ5cEpNS0RGMGwyVVdfZ1M2bVg4N3lrNHRKYWlDak9PWnpDcjBEbjNEeHdXUy1Xcm91bU13MlgtcTJHMw?oc=5",
+          "domain": "investorsinhealthcare.com",
+          "published_at": "2026-09-11T13:50:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquires germany great labs medical mlm partners point"
+    },
     {
       "id": "bdd85fb23903455d2d62",
       "company": "Sonic Healthcare",
@@ -151,9 +199,15 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-10T17:22:59+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-11T09:20:18+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "apple gains health lab partnership stock testing"
     },
     {
@@ -233,7 +287,7 @@
       "company": "Sonic Healthcare",
       "title": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXRHN0xhcWdUZHRKdHpHMVlCVndTMUJ5MU9rR3hkZHFLaEhWLUlRY0h3NlJOZWZNWXladkY3QWNhS2JIQmFzSlRKQTN5aXdzVjRZRGFXZmFUdnlLY1VyRWVDT1JPVmQ2TGtCUjZYeDlYTVVlSmZoM09WYXpSVkROY3Z0cmhOQjByUDkwbnpiNUthUTNwakY0R3NHMW9PRHowcGNfS1pVanRxZm9MdkpQSjRyUGZXdGU2VTRjRQ?oc=5",
-      "description": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare Smartkarma",
+      "description": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com",
       "source": "Smartkarma",
       "source_url": "https://www.smartkarma.com",
       "source_domain": "smartkarma.com",
@@ -401,7 +455,7 @@
       "company": "Quest Diagnostics",
       "title": "Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk1mNVR4Nm1oUXcyM3JnQ0Y3RUk1Umd3cnVmNVMwNEJzSklKLTl5LW9aa2VyOE85S0dmUVFtVGRENUFCbEhZbEkzN0JTRXpCU2ZERS1JSkdUMndHUzl6UkV3SFFGTzhNeEFqM2JndmpBUF9leG1vSkVzekN4ZUtmWm5JOTR6MWE0?oc=5",
-      "description": "Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. Pluang",
+      "description": "Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com",
       "source": "Pluang",
       "source_url": "https://pluang.com",
       "source_domain": "pluang.com",
@@ -8944,10 +8998,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 101,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-11T18:17:00+05:30",
-  "next_update_display": "11 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-12T00:17:00+05:30",
+  "next_update_display": "12 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

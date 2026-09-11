@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 11 Sep 2026, 5:20 PM IST
+- **Repository generated:** 11 Sep 2026, 10:16 PM IST
 - **Distinct events in this file:** 26
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -27,7 +27,7 @@
 - **Sources:**
   - Smartkarma: https://news.google.com/rss/articles/CBMivAFBVV95cUxOcXRHN0xhcWdUZHRKdHpHMVlCVndTMUJ5MU9rR3hkZHFLaEhWLUlRY0h3NlJOZWZNWXladkY3QWNhS2JIQmFzSlRKQTN5aXdzVjRZRGFXZmFUdnlLY1VyRWVDT1JPVmQ2TGtCUjZYeDlYTVVlSmZoM09WYXpSVkROY3Z0cmhOQjByUDkwbnpiNUthUTNwakY0R3NHMW9PRHowcGNfS1pVanRxZm9MdkpQSjRyUGZXdGU2VTRjRQ?oc=5
 
-**Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare Smartkarma
+**Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com
 
 ## 3. Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?
 

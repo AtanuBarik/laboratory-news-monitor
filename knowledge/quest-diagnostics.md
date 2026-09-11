@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 11 Sep 2026, 5:20 PM IST
+- **Repository generated:** 11 Sep 2026, 10:16 PM IST
 - **Distinct events in this file:** 122
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,10 +22,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Sep 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
 
@@ -75,7 +76,7 @@
 - **Sources:**
   - Pluang: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk1mNVR4Nm1oUXcyM3JnQ0Y3RUk1Umd3cnVmNVMwNEJzSklKLTl5LW9aa2VyOE85S0dmUVFtVGRENUFCbEhZbEkzN0JTRXpCU2ZERS1JSkdUMndHUzl6UkV3SFFGTzhNeEFqM2JndmpBUF9leG1vSkVzekN4ZUtmWm5JOTR6MWE0?oc=5
 
-**Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. Pluang
+**Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
 ## 7. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
