@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T22:16:02.451987+05:30",
-  "generated_at_display": "11 Sep 2026, 10:16 PM IST",
-  "item_count": 258,
-  "raw_relevant_item_count": 463,
+  "generated_at": "2026-09-12T02:50:39.243304+05:30",
+  "generated_at_display": "12 Sep 2026, 2:50 AM IST",
+  "item_count": 259,
+  "raw_relevant_item_count": 464,
   "duplicates_merged": 104,
   "failures": [],
   "items": [
@@ -353,6 +353,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 day driving durable growth highlights investor priorities shareholder strategic value"
+    },
+    {
+      "id": "291e71137568b423e82e",
+      "company": "Labcorp",
+      "title": "Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZWJDbWVIalBuTFNXTlpSaUNjVnYxbEdqenNYRjdIR2V0UVExUS1DMWlsUjZQamlRYi1MTndTdm5VVGdyWXNodzRhelk5SWxYLUNnT0J6YW5sU1RKOWRNemwtRTNrcjBOa2w2WERacFpFUDl6UWNhSmR5VXZtSVNqWUJpdTZ6eHNjNG1CTXptMG5Ramk5RGRqMF9hdzBNVFctVWZ3TVFhNmltTXhMRVJWVjFfQkFzeUxBOHNVaEdjNE1fYmRoLUxlYTlXZnZHWDFLeWY2b19uZGM?oc=5",
+      "description": "Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZWJDbWVIalBuTFNXTlpSaUNjVnYxbEdqenNYRjdIR2V0UVExUS1DMWlsUjZQamlRYi1MTndTdm5VVGdyWXNodzRhelk5SWxYLUNnT0J6YW5sU1RKOWRNemwtRTNrcjBOa2w2WERacFpFUDl6UWNhSmR5VXZtSVNqWUJpdTZ6eHNjNG1CTXptMG5Ramk5RGRqMF9hdzBNVFctVWZ3TVFhNmltTXhMRVJWVjFfQkFzeUxBOHNVaEdjNE1fYmRoLUxlYTlXZnZHWDFLeWY2b19uZGM?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 finan guidance long reaffirms term unveils"
     },
     {
       "id": "d3b51ae4607e32db1780",
@@ -1053,7 +1077,7 @@
       "source": "Yahoo Finance UK",
       "source_url": "https://uk.finance.yahoo.com",
       "source_domain": "uk.finance.yahoo.com",
-      "published_at": "2026-09-01T07:17:10+00:00",
+      "published_at": "2026-09-01T07:00:00+00:00",
       "published_display": "01 Sep 2026",
       "category": "Other",
       "official_source": false,
@@ -1062,7 +1086,7 @@
           "name": "Yahoo Finance UK",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY2cwU1lWSllmb1gweGlCM2phNEp3RXRscWw1c3N5T1lraGk0V2YwVUZ1NlRwYzFDd05uU1JsRUpkMExORzd4ZWxHQkxOTW5xbEdDV0g0NXZHSnRJQXhheDMwSHpLbG1nV1hPSHF5c2ZuclA5Q2FtNk1GUEFtSzhfeFp5WDhleEpPSGx4dnhndW4tQQ?oc=5",
           "domain": "uk.finance.yahoo.com",
-          "published_at": "2026-09-01T07:17:10+00:00"
+          "published_at": "2026-09-01T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -8998,10 +9022,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 101,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-12T00:17:00+05:30",
-  "next_update_display": "12 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-12T06:17:00+05:30",
+  "next_update_display": "12 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
