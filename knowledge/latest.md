@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 12 Sep 2026, 10:37 AM IST
+- **Repository generated:** 12 Sep 2026, 4:46 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -63,7 +63,7 @@
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5
 
-**Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance TradingView
+**Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com
 
 ## 6. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
 
@@ -88,7 +88,7 @@
   - Benzinga: https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmF1ZmYwRG1tb2NfdEU4VXkwRzcwWGU3YS1rNGRvaG1HSjFaMFVVMk01M0NzdFJoTlVCRjk4VVp3b2V5OWpqVUdkbE9uLV9Ka3hqX1MxRVk4OVFSRHZ6WkhXOVFLTE1GMWdpRjU3OWswUF9uYzJkLUhIWl9XalczVXBQQ2VkQTVNMUI5SzFrcFZNWElCbENhRkRkQUhSNWpRUHU4TDl1OXVKVHhrVkNlR3IyMjE0VU80ZmE0anVidDljckhJ?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5
 
-**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 TradingView
+**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
 
 ## 8. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
