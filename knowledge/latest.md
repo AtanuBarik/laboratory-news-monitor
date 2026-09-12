@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 12 Sep 2026, 2:50 AM IST
+- **Repository generated:** 12 Sep 2026, 10:37 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -285,7 +285,7 @@
   - Indian Pharma Post: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
   - Indian Pharma Post: https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVcwaTBUM0dEcnhDVkFDUjh2QWZOZk11TmlrR18tUnlhendodGlvSHVTWktuQ3paVXVjVUNLVEJTSG5SV2NET05WWDBWWlBSSHVaS3ZoOEUwaFgzQnFwRkVZVmQ0TEJ0dlJYQ2Z4OEhjN21xVHpPd2hyZEN2UVJJaVN0OWdJZ1dEaS1sWDB4UWpxQ3Jza1pYQ2pQNHBYZzNESC1yYUFHcFJ6UVlfWTFSUzJEUDY3SXB0RkFmaF9TcGFJNHo2ZVAwZWNBaG9rd9IB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
 
-**Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services Indian Pharma Post
+**Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services indianpharmapost.com
 
 ## 24. Labcorp builds on acquisition spree, gaining first operations in Africa
 

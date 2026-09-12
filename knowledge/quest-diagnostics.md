@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 12 Sep 2026, 2:50 AM IST
+- **Repository generated:** 12 Sep 2026, 10:37 AM IST
 - **Distinct events in this file:** 122
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
