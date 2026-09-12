@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 12 Sep 2026, 9:21 PM IST
+- **Repository generated:** 13 Sep 2026, 2:29 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Post Bulletin: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5
 
-**Feed description:** Mayo Clinic Laboratories to build $30 million testing facility in Mississippi Post Bulletin
+**Feed description:** Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com
 
 ## 2. Germany: Labcorp acquires MLM Medical Labs from Great Point Partners
 
@@ -108,12 +108,13 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5
 
-**Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 Investing.com
+**Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
 ## 10. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 

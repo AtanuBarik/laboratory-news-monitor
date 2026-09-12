@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T21:21:19.983048+05:30",
-  "generated_at_display": "12 Sep 2026, 9:21 PM IST",
+  "generated_at": "2026-09-13T02:29:51.837709+05:30",
+  "generated_at_display": "13 Sep 2026, 2:29 AM IST",
   "item_count": 260,
-  "raw_relevant_item_count": 461,
-  "duplicates_merged": 102,
+  "raw_relevant_item_count": 464,
+  "duplicates_merged": 103,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Mayo Clinic Laboratories",
       "title": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
-      "description": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi Post Bulletin",
+      "description": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com",
       "source": "Post Bulletin",
       "source_url": "https://www.postbulletin.com",
       "source_domain": "postbulletin.com",
@@ -215,7 +215,7 @@
       "company": "Labcorp",
       "title": "Labcorp reaffirms 2026 guidance, sets outlook through 2029",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5",
-      "description": "Labcorp reaffirms 2026 guidance, sets outlook through 2029 Investing.com",
+      "description": "Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -229,9 +229,15 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5",
           "domain": "investing.com",
           "published_at": "2026-09-10T11:54:29+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-09-11T05:24:34+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 2029 guidance outlook reaffirms sets through"
     },
     {
@@ -9046,10 +9052,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 101,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-13T00:17:00+05:30",
-  "next_update_display": "13 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-13T06:17:00+05:30",
+  "next_update_display": "13 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

@@ -1,6 +1,6 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 12 Sep 2026, 9:21 PM IST
+- **Repository generated:** 13 Sep 2026, 2:29 AM IST
 - **Distinct events in this file:** 2
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Post Bulletin: https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5
 
-**Feed description:** Mayo Clinic Laboratories to build $30 million testing facility in Mississippi Post Bulletin
+**Feed description:** Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com
 
 ## 2. Mayo Clinic Laboratories to bring testing operations to Southaven
 
