@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 13 Sep 2026, 10:54 AM IST
+- **Repository generated:** 13 Sep 2026, 5:49 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -112,7 +112,7 @@
 - **Sources:**
   - quiverquant.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5
 
-**Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift quiverquant.com
+**Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
 ## 10. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
@@ -978,12 +978,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Aug 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Intellectia AI: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmNISUNKVTJneG5aMlNzb2ZSenVuVmt4UmZidXhtT3VLU184dFpLUmZBa2h4SVE2dkxJOUpFZmlhYlZTLUdua2JKeHRLUVJ5ejRDR3NYVEoxRXk3SDBUZGxuSzM5VjdJbW5iX2lLRmNLa0hJdFNja0JBLU1VMzh4UDFNdnJXakVoQlRBT3JpNlpLQWdxeE9fR0s4UQ?oc=5
 
-**Feed description:** Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI
+**Feed description:** Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference Yahoo Finance
 
 ## 79. Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?
 

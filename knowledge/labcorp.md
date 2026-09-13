@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 13 Sep 2026, 10:54 AM IST
+- **Repository generated:** 13 Sep 2026, 5:49 PM IST
 - **Distinct events in this file:** 111
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -76,7 +76,7 @@
 - **Sources:**
   - quiverquant.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5
 
-**Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift quiverquant.com
+**Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
 ## 7. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 

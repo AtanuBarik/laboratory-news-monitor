@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T10:54:15.703274+05:30",
-  "generated_at_display": "13 Sep 2026, 10:54 AM IST",
+  "generated_at": "2026-09-13T17:49:05.105428+05:30",
+  "generated_at_display": "13 Sep 2026, 5:49 PM IST",
   "item_count": 262,
-  "raw_relevant_item_count": 458,
-  "duplicates_merged": 97,
+  "raw_relevant_item_count": 459,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
     {
@@ -209,7 +209,7 @@
       "company": "Labcorp",
       "title": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
-      "description": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift quiverquant.com",
+      "description": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative",
       "source": "quiverquant.com",
       "source_url": "https://www.quiverquant.com",
       "source_domain": "quiverquant.com",
@@ -2132,7 +2132,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-      "description": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference Intellectia AI",
+      "description": "Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference Yahoo Finance",
       "source": "Intellectia AI",
       "source_url": "https://intellectia.ai",
       "source_domain": "intellectia.ai",
@@ -2146,9 +2146,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
           "domain": "intellectia.ai",
           "published_at": "2026-08-25T00:05:49+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmNISUNKVTJneG5aMlNzb2ZSenVuVmt4UmZidXhtT3VLU184dFpLUmZBa2h4SVE2dkxJOUpFZmlhYlZTLUdua2JKeHRLUVJ5ejRDR3NYVEoxRXk3SDBUZGxuSzM5VjdJbW5iX2lLRmNLa0hJdFNja0JBLU1VMzh4UDFNdnJXakVoQlRBT3JpNlpLQWdxeE9fR0s4UQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-25T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 baird conference global present"
     },
     {
@@ -9112,10 +9118,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 101,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-13T12:17:00+05:30",
-  "next_update_display": "13 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-13T18:17:00+05:30",
+  "next_update_display": "13 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
