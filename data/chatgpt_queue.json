@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-13T03:06:07.938749+05:30",
-  "generated_at_display": "13 Sep 2026, 3:06 AM IST",
+  "generated_at": "2026-09-13T10:54:19.125288+05:30",
+  "generated_at_display": "13 Sep 2026, 10:54 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 148,
+  "remaining_unsummarized_count": 150,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -14,7 +14,7 @@
       "category": "Partnership, M&A",
       "title": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners",
       "source": "Investors in Healthcare",
-      "description": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners Investors in Healthcare",
+      "description": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners investorsinhealthcare.com",
       "published_at": "2026-09-11T13:50:42+00:00",
       "published_display": "11 Sep 2026",
       "official_source": false,
@@ -163,7 +163,7 @@
       "published_at": "2026-09-08T13:11:37+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 6,
+      "coverage_count": 7,
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
       "sources": [
         {
@@ -189,6 +189,10 @@
         {
           "name": "Digital Health News",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5"
+        },
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjA1VzhtdV9WNEJ6VjhhRXJ0ejUxenRXcHJ0VDMyWmczdnFTQnJodzIweDBpT1oxNlpGVGdMRDcyTW1ET2l1QXViSlZ3bUdKS3paVEZrUTh0V01PZWhLeVFpOTFpa1ppRWNHZ3dtOVdELWF2aFZMWlBXLWVIVkgzR3luRDNDT0hZRllfMTVDU0gzUHdfNlQweE02RXlDbl9vN0ZqU19JRdIBrAFBVV95cUxObUxxZTFmODM5Z3BVMVZnN0lBRWgtMElCal82RFFyMjUyaVZ1S0twVlJ1RW1NZXQ4Nzg2cVkzYnVHV0N4WExRVjhYVkF4VTZ1by1WVGVHQ2hnRzdob0xnZU1zZ3NGT09YRTJMUExxZkFhSHkySWZrZVFmRjYzV2JDTUlBR0JCdHVycTNrd3BEQVY0Tzd0OVpiUEFHOElWME12YThXWDFTcUprZmVT?oc=5"
         }
       ]
     },
@@ -669,7 +673,7 @@
       "published_at": "2026-08-24T07:00:00+00:00",
       "published_display": "24 Aug 2026",
       "official_source": false,
-      "coverage_count": 11,
+      "coverage_count": 12,
       "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQdnZRMm5ydVllRVVDVUNPYTNQdjZJa05FOGk3b1J2cUllWUFGejc2R0hWQ3hMMkFWN1R3YmZkVFEzVmZVYl9iVkNFc3paWTFKZVlVWDNkU3BHLXFzbEc3R3dfU2pETENoUWhwc3czY0ZBWUF5c1QzMnNlNDF1d3hVcXktRDFKVTY2bzZqMXBKR2tHNEJERURhRkhIeWhrN2FRUVZ3TEZIaDhlSThDU0w0RDZwYllYVy1mUFNLVUwtQU1uY2ZsaklZaUw1Y28zZVlOelYzYkFKMFZIRlJ1M210SGJfYTBjZ3NQdmF6T1E2ZDJPV0swUTRkWlBsb2tGYkJmRlNMZ214S0RUX2FB?oc=5",
       "sources": [
         {

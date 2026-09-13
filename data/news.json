@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-13T02:29:51.837709+05:30",
-  "generated_at_display": "13 Sep 2026, 2:29 AM IST",
-  "item_count": 260,
-  "raw_relevant_item_count": 464,
-  "duplicates_merged": 103,
+  "generated_at": "2026-09-13T10:54:15.703274+05:30",
+  "generated_at_display": "13 Sep 2026, 10:54 AM IST",
+  "item_count": 262,
+  "raw_relevant_item_count": 458,
+  "duplicates_merged": 97,
   "failures": [],
   "items": [
+    {
+      "id": "f0377f6b0add77ea3859",
+      "company": "Labcorp",
+      "title": "Labcorp Analyst/Investor Day - Slideshow 2026-09-12",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBqYzJubHJ4a3RZaHRaSk1DNHVPcEdBTDJGbFg5TW5CRXVJMUxudF9zajF0SXNybmtIb19uN3ZHOGxmbnc5U3lyVzRTVUExTGFSWDdoTGtmU0lodFcyQ0xMNHpERlFEYjFyR0lmYk1KTElwZ0Nmc2NxcGEzVGNyWWp5alhQbU1yOThGZVRlektjTnU0QkYyTGFfSQ?oc=5",
+      "description": "Labcorp Holdings Inc. (LH) Analyst/Investor Day - Slideshow (NYSE:LH) 2026-09-12 Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-09-12T23:13:46+00:00",
+      "published_display": "12 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBqYzJubHJ4a3RZaHRaSk1DNHVPcEdBTDJGbFg5TW5CRXVJMUxudF9zajF0SXNybmtIb19uN3ZHOGxmbnc5U3lyVzRTVUExTGFSWDdoTGtmU0lodFcyQ0xMNHpERlFEYjFyR0lmYk1KTElwZ0Nmc2NxcGEzVGNyWWp5alhQbU1yOThGZVRlektjTnU0QkYyTGFfSQ?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-12T23:13:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 analyst day investor slideshow"
+    },
     {
       "id": "96206d3d4500b037e6eb",
       "company": "Mayo Clinic Laboratories",
@@ -35,7 +59,7 @@
       "company": "Labcorp",
       "title": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVYZE5Tb2JCRnh0Z2swdmNsQ3hYQmdTVnlFdWhyWUNDSVI4d2IzV2dOaWNoZHFCanNFd1htZ3lPSjE0bjFkSlBiY0ZGMTJQdm1HQk5VWEw2cmFRWjZRUFdNc2dKSGd3a3pPYl8ySzdDQ243SE4ta0h3NE5WZWtZYm96aGplNG9hZ2J6NVQ5cEpNS0RGMGwyVVdfZ1M2bVg4N3lrNHRKYWlDak9PWnpDcjBEbjNEeHdXUy1Xcm91bU13MlgtcTJHMw?oc=5",
-      "description": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners Investors in Healthcare",
+      "description": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners investorsinhealthcare.com",
       "source": "Investors in Healthcare",
       "source_url": "https://www.investorsinhealthcare.com",
       "source_domain": "investorsinhealthcare.com",
@@ -179,6 +203,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "2029 bets big drive growth specialty testing through"
+    },
+    {
+      "id": "ee61e4c8e10a53d3a94c",
+      "company": "Labcorp",
+      "title": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
+      "description": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift quiverquant.com",
+      "source": "quiverquant.com",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-09-10T17:36:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "quiverquant.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-09-10T17:36:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 brings but day falls fresh investor lift long targets term"
     },
     {
       "id": "9a1370ffdef6e6e28518",
@@ -775,9 +823,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5",
           "domain": "digitalhealthnews.com",
           "published_at": "2026-09-10T09:39:00+00:00"
+        },
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjA1VzhtdV9WNEJ6VjhhRXJ0ejUxenRXcHJ0VDMyWmczdnFTQnJodzIweDBpT1oxNlpGVGdMRDcyTW1ET2l1QXViSlZ3bUdKS3paVEZrUTh0V01PZWhLeVFpOTFpa1ppRWNHZ3dtOVdELWF2aFZMWlBXLWVIVkgzR3luRDNDT0hZRllfMTVDU0gzUHdfNlQweE02RXlDbl9vN0ZqU19JRdIBrAFBVV95cUxObUxxZTFmODM5Z3BVMVZnN0lBRWgtMElCal82RFFyMjUyaVZ1S0twVlJ1RW1NZXQ4Nzg2cVkzYnVHV0N4WExRVjhYVkF4VTZ1by1WVGVHQ2hnRzdob0xnZU1zZ3NGT09YRTJMUExxZkFhSHkySWZrZVFmRjYzV2JDTUlBR0JCdHVycTNrd3BEQVY0Tzd0OVpiUEFHOElWME12YThXWDFTcUprZmVT?oc=5",
+          "domain": "pulse2.com",
+          "published_at": "2026-09-13T00:12:54+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "acquires expand global labs medical mlm network"
     },
     {
@@ -2288,9 +2342,15 @@
           "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV0pVbkltQldzejNlNlczNG1sX2txLW9DS1M4X2dfN0ZYVGxlSVphSVJnU0FVemJjWHZ5NDUyeFhBN1dpSTR1OEx1SGk3TGpWVnlmVF9fZmt4ZTdqZGxXQ3RpdDNiOXV4akFKamJCcjRwaHJtRDhseWtNVHZMbHlJSGdtNmktTXhlZXNlSkZUdXV4U0VrUHIyN1hqVklraXFGNGZ0ME1vUXhoMUphbDcwTlRCUEwzY09KV0Q4TjJaLUVJOG4zVVNVcU9wMF9UYjVLQkdZYVk3c3NNeG00ODkwZmtIV0VQaUNnTmlaMUJqNGdNSG5YQWUyNzBoN1dvMUhuNXc4TWU1RGU?oc=5",
           "domain": "barchart.com",
           "published_at": "2026-08-24T07:00:00+00:00"
+        },
+        {
+          "name": "Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSklOMGZRMzlSbFFDTERXMFpidVB2Qy1GM3I5bkdoUHlwb3lES3pEOGdZVmNrbkkwRzNsQ1JRUFI0U1VlUy1LRExVZlVza0pDUDlUQkw1TUZRLVQwTGZiMVVKRXVxb2E4YWszMjU1Q1pFX1dsLUg5U3hfQ2k1aDRaYlVJN0RZY3FGajRXU3NOY2kzVnhfUXB3OU9hMEtwMm92a01KRU9tOUxzcjk5NkJCOFRzUjlxWHJhaF90WWdqNG5XOTlIOEtwOUhZVEdWYmkxek9KMVVGYk9pTzN4YkRxb1NDbDlVYTBsVjU4ZW5yYTRYRjl5Qld1MmdodzlCQ0xERTJPRw?oc=5",
+          "domain": "easternprogress.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
         }
       ],
-      "coverage_count": 11,
+      "coverage_count": 12,
       "event_signature": "alzheimer blood both care cleared detect disease fda first offer pathology primary settings specialty test"
     },
     {
@@ -9052,10 +9112,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 99,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-13T06:17:00+05:30",
-  "next_update_display": "13 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-13T12:17:00+05:30",
+  "next_update_display": "13 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
