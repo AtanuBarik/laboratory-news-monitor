@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-14T18:52:37.269387+05:30",
-  "generated_at_display": "14 Sep 2026, 6:52 PM IST",
-  "item_count": 267,
-  "raw_relevant_item_count": 460,
+  "generated_at": "2026-09-15T03:35:24.189610+05:30",
+  "generated_at_display": "15 Sep 2026, 3:35 AM IST",
+  "item_count": 269,
+  "raw_relevant_item_count": 459,
   "duplicates_merged": 93,
   "failures": [],
   "items": [
+    {
+      "id": "ad90a1f2251a370d03b3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
+      "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-09-14T14:54:59+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-09-14T14:54:59+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "broadens com conference growth investing morgan stanley"
+    },
     {
       "id": "81e3e6491140a9aab35e",
       "company": "Quest Diagnostics",
@@ -301,9 +325,15 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-09-10T17:40:03+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDdYeW9sYS1jU3BfNDRzTW5YYlF4MFVnV0t4RU1HWEc0dUprYmZ2ek9oUk5ZTEh5TzRlN2t6T2NsTS1GTUNaQlVGRTE3bnVOYk1pQXlpelRPSVY0RWNmaFR5NW1wblFIVHFQTTR4dEd3bjBkMGd4ekUtV0ZZalpfYUdaQldvLUJhRVc1X2xuRENsYkJs?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-14T19:30:24+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2029 bets big drive growth specialty testing through"
     },
     {
@@ -1706,6 +1736,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
+    },
+    {
+      "id": "e7242e0b5012cf6b5a57",
+      "company": "Labcorp",
+      "title": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5",
+      "description": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials scanx.trade",
+      "source": "scanx.trade",
+      "source_url": "https://scanx.trade",
+      "source_domain": "scanx.trade",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5",
+          "domain": "scanx.trade",
+          "published_at": "2026-08-31T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clinical connect gen global launches next streamline trial trials"
     },
     {
       "id": "f4adad9ddadf57122309",
@@ -9250,10 +9304,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 97,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-15T00:17:00+05:30",
-  "next_update_display": "15 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-15T06:17:00+05:30",
+  "next_update_display": "15 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

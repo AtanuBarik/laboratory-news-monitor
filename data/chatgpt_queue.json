@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T19:53:13.515063+05:30",
-  "generated_at_display": "14 Sep 2026, 7:53 PM IST",
+  "generated_at": "2026-09-15T03:35:27.759370+05:30",
+  "generated_at_display": "15 Sep 2026, 3:35 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 155,
+  "remaining_unsummarized_count": 157,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -496,6 +496,25 @@
       ]
     },
     {
+      "id": "e7242e0b5012cf6b5a57",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials",
+      "source": "scanx.trade",
+      "description": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials scanx.trade",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_display": "31 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5",
+      "sources": [
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ebd836250a0dd1fee999",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
@@ -656,29 +675,6 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHFjVVFBLWp3MU1RZ1NVMU1reXZHZmZ1ZUVQZ3FaUW41TDFSa0tIQnRva2l3NWZrSlNUUVpIcmVKMWZJNEFiUGhPRzRhNFBEb2FvUUg5aW92dnpYaFFBV0ZZMFVTNElZU09UN0hIQ2t1S1RkNDFzQl93UUpUZEdlb1JrTThrTjlKbEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b6b8da9658496ef1447",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
-      "source": "Investing.com Canada",
-      "description": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com Investing.com Canada",
-      "published_at": "2026-08-24T11:18:53+00:00",
-      "published_display": "24 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hzNWpPdElsaDdPdTh4eXlMQXJieUNKbTdkUGZia1VDOGFPODhrd2J2eGlUbk4xa1pZOXdqdVNhR245OXRVaUt3d2FhZUp1dncxUGV0YmQ1NlpMUGFnT3hhOFQ1bVlUOXlxdFljU2VZV3hlNEtZcGMycG15U3RxOTZFVjI0eTdrOUM3MktVYWhhZ0VKTjVuUWNMYWstRlM3a25iUFpWNjZhVVJfLXA3cVFyZnFsQmxsd3RNcU93?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY0hzNWpPdElsaDdPdTh4eXlMQXJieUNKbTdkUGZia1VDOGFPODhrd2J2eGlUbk4xa1pZOXdqdVNhR245OXRVaUt3d2FhZUp1dncxUGV0YmQ1NlpMUGFnT3hhOFQ1bVlUOXlxdFljU2VZV3hlNEtZcGMycG15U3RxOTZFVjI0eTdrOUM3MktVYWhhZ0VKTjVuUWNMYWstRlM3a25iUFpWNjZhVVJfLXA3cVFyZnFsQmxsd3RNcU93?oc=5"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQll2aTE1MTZmTk1FTXNNNnE3UFQzSmdxQ196Y2Izc0hlc3JOSlJYeHpaNlJ6R3JYSW5yVHo2RFdSb1BIc1dFdEVsQUVLYkM2V2dNUTVLV25xWV9ONjVoMGtRY0ZBZ1Vvb0V0ZTNlZWZBTzZ4ckxRTUpTQ1YxUkpRc2JDWTRUZGxVMlNkVDV4V1JJaUx2NS1aZVJ5VjkyREpEWHg3Q0J4QjJrM1FjOWhBMXZjQ1NQNGNTUmFTSEp3?oc=5"
         }
       ]
     }
