@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T02:38:27.986093+05:30",
-  "generated_at_display": "14 Sep 2026, 2:38 AM IST",
-  "item_count": 263,
-  "raw_relevant_item_count": 456,
-  "duplicates_merged": 94,
+  "generated_at": "2026-09-14T10:58:48.437763+05:30",
+  "generated_at_display": "14 Sep 2026, 10:58 AM IST",
+  "item_count": 265,
+  "raw_relevant_item_count": 458,
+  "duplicates_merged": 93,
   "failures": [],
   "items": [
     {
@@ -25,9 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUndyTWN2cW9aS3BtZlZheWFXOHIzWHpPSFltc3U3ZTNEWWt5UGxfR19nWWd6ZklmY1A2QjZ1OXo5ZjdfUmp2ZmRXV1k2QnNCSTVKblRTNVE5eFY1N19PRXozd0VqNFdqalJlNlZGdU9GWHhoVVMxbHVHLU9sdE1adjB6YXp4NEY0M2hz?oc=5",
           "domain": "greensboro.com",
           "published_at": "2026-09-13T08:45:00+00:00"
+        },
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3hGWEtUNm83SjlVQVdJdXRJNThQcUlJMTFQS2JSVUh1MDZpMDRLZ3IzSnMxNTdhb195dkxrWG1TUXNYaGpISXg4ZkxNWklHQjRxWFViOWlNczlaWmI3VmJDRkZSdUFYMnVSOTFkbHdSM3JQS0NRaGktTU5NU0NVSUpTXzFXTkp3dFZv?oc=5",
+          "domain": "journalnow.com",
+          "published_at": "2026-09-13T08:45:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "alzheimer blood disease identify patients potential test unveils"
     },
     {
@@ -125,6 +131,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "are margins turning"
+    },
+    {
+      "id": "3c6c3a4ac77250aa6401",
+      "company": "Quest Diagnostics",
+      "title": "List of Investments by Quest Diagnostics (Sep, 2026)",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEhKbGRacTh4a3NVbE9ISXpGa3FMNmJlcVBOVE5vcjh4c014Tnp0aDJIUHA4Z3QzLVFHZU1TUmhEQjF4SDhFeTNnR2VwR3BfSy01Q1d1WFNsT1NpXzJUX1JfdlFkU3lCaklTWV9Eb1lUQ3pBZzJHYlEwWVh5anRldUNWckkzVmU2ZzI5YWEyWDRfTFVSajNWRDJhTTdGRmRteFNFcDg2VjFERGRrbUpqWlVQWEVhTWNPU0dyVmNR?oc=5",
+      "description": "List of Investments by Quest Diagnostics (Sep, 2026) tracxn.com",
+      "source": "tracxn.com",
+      "source_url": "https://tracxn.com",
+      "source_domain": "tracxn.com",
+      "published_at": "2026-09-11T01:52:44+00:00",
+      "published_display": "11 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "tracxn.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUEhKbGRacTh4a3NVbE9ISXpGa3FMNmJlcVBOVE5vcjh4c014Tnp0aDJIUHA4Z3QzLVFHZU1TUmhEQjF4SDhFeTNnR2VwR3BfSy01Q1d1WFNsT1NpXzJUX1JfdlFkU3lCaklTWV9Eb1lUQ3pBZzJHYlEwWVh5anRldUNWckkzVmU2ZzI5YWEyWDRfTFVSajNWRDJhTTdGRmRteFNFcDg2VjFERGRrbUpqWlVQWEVhTWNPU0dyVmNR?oc=5",
+          "domain": "tracxn.com",
+          "published_at": "2026-09-11T01:52:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 investments list sep"
     },
     {
       "id": "83834a299e8a014a587c",
@@ -697,6 +727,30 @@
       "event_signature": "acquires clinical global labs medical mlm services strengthen trial"
     },
     {
+      "id": "aca11e78dc910ff7be06",
+      "company": "Labcorp",
+      "title": "Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJhd2d3U2V1b3k0RG1RWXloNGxqdTE3akNlbnFqREJVWk82S2VLTURwdk5IXzB3aEgyaXgtLW9oQUZGT2NyZkVmVEQwVVBJczk2U2pxV1U4ektpeUxUcmtqQkRmeTVCbFFCSkg3azNvdGhseTl0OXJ2LTYxcEUtQnp4LUY3TTJkN3ZLMkZrZC0taUZqNkwxRHBBdVBXQVhxNWNFY1M5SVhPT3ZnVnplRW5sVGNaT2hVTXN0d0V3eE9FS3Bnem5DcnVKdXRxaHAzZVlMdF9RWTVVNzJQTGhTU3RRZUsydw?oc=5",
+      "description": "Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-09-08T22:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJhd2d3U2V1b3k0RG1RWXloNGxqdTE3akNlbnFqREJVWk82S2VLTURwdk5IXzB3aEgyaXgtLW9oQUZGT2NyZkVmVEQwVVBJczk2U2pxV1U4ektpeUxUcmtqQkRmeTVCbFFCSkg3azNvdGhseTl0OXJ2LTYxcEUtQnp4LUY3TTJkN3ZLMkZrZC0taUZqNkwxRHBBdVBXQVhxNWNFY1M5SVhPT3ZnVnplRW5sVGNaT2hVTXN0d0V3eE9FS3Bnem5DcnVKdXRxaHAzZVlMdF9RWTVVNzJQTGhTU3RRZUsydw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-08T22:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bladder cancer clinical collaborates evaluating health invasive mrd muscle oregon science study testing university"
+    },
+    {
       "id": "1f2f7b914163bde49e9c",
       "company": "Labcorp",
       "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
@@ -803,7 +857,7 @@
       "company": "Labcorp",
       "title": "Labcorp acquires MLM Medical Labs to expand global network",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities Digital Health News",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities digitalhealthnews.com",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -3939,7 +3993,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
-      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow vinanet.vn",
+      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Market Neutral Pair dars.gov.et",
       "source": "vinanet.vn",
       "source_url": "http://vinanet.vn",
       "source_domain": "vinanet.vn",
@@ -3953,9 +4007,15 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
           "domain": "vinanet.vn",
           "published_at": "2026-08-16T07:00:00+00:00"
+        },
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5WWUk3eUpsVFZMRWdzWTZMUmpDaVRRQVl4WVZDSkhJZ01oekZ5Tzh5aGlKZFVVY2VjRTRlZ2pOQlRFcFlxVW1ub1hvTGlBdEJWb0ZZNU9ETGhXTzAza1pUSV9rT2RLTlRyd2IzaFo0NkxuclJGOVFlbmR0bWRvUDVleVdPeVBJSWhlYy05N2ZOVzVTak1EbFBOa1Q5MHhhcGNOUGtVZnlJVThBbFRKWU5HMkh2ZnZCYTM4aFUxRVo1Nlh1MlpZT19nYw?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-08-16T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "234 demand diagnostic flow key levels order slips stabilizes sweep watch"
     },
     {
@@ -9142,10 +9202,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 100,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-14T06:17:00+05:30",
-  "next_update_display": "14 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-14T12:17:00+05:30",
+  "next_update_display": "14 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
