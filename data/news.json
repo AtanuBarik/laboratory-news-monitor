@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-14T10:58:48.437763+05:30",
-  "generated_at_display": "14 Sep 2026, 10:58 AM IST",
-  "item_count": 265,
-  "raw_relevant_item_count": 458,
+  "generated_at": "2026-09-14T18:52:37.269387+05:30",
+  "generated_at_display": "14 Sep 2026, 6:52 PM IST",
+  "item_count": 267,
+  "raw_relevant_item_count": 460,
   "duplicates_merged": 93,
   "failures": [],
   "items": [
+    {
+      "id": "81e3e6491140a9aab35e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock heads into the open after a 1.6% gain",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGRZaUpwOVVKaWIwYkFRVlNTdDltcjdHOWpjU1YtUTd2bnhxaEdSMkdlcFY3Y0dueHByS1BULXVSWnZYMzd4Y1VuVnB2RXBIOGVwdDg4ZGtoLWxjSld6ODlBWFgyTFVpUm1PMzdfVVJTQ3ZhY1FfcFB0Z0EyYmdnb0lTWVZWOFhSOTltZWM4Z1hwODQteXRXLWRwT2lSWEFFYXBySGNZaEpYVmVQRl9wUGYxS29GT1JxS2xZQ0tPaTlGNWZDeG1MZk1kOA?oc=5",
+      "description": "Quest Diagnostics stock heads into the open after a 1.6% gain ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-14T06:02:47+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbGRZaUpwOVVKaWIwYkFRVlNTdDltcjdHOWpjU1YtUTd2bnhxaEdSMkdlcFY3Y0dueHByS1BULXVSWnZYMzd4Y1VuVnB2RXBIOGVwdDg4ZGtoLWxjSld6ODlBWFgyTFVpUm1PMzdfVVJTQ3ZhY1FfcFB0Z0EyYmdnb0lTWVZWOFhSOTltZWM4Z1hwODQteXRXLWRwT2lSWEFFYXBySGNZaEpYVmVQRl9wUGYxS29GT1JxS2xZQ0tPaTlGNWZDeG1MZk1kOA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-14T06:02:47+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after gain heads open stock"
+    },
+    {
+      "id": "ce4e82d9e77089107357",
+      "company": "Sonic Healthcare",
+      "title": "Which Markets Are Lifting Sonic Healthcare Revenue?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXN0bGh4cjhxQ2JWakNwa3RNZVJ3UmpWSWRXUkpWOHFlVGZHSmh3RjlNZk9QRGRtb3p6SGZGbW52VERjbW9EZ2FndHVPQnhIWkVXYVk2YWc5S0dtYnk4cVFCV2lrNVpNXzNuZjY2eVJfWERaUmhkblBPZEhzWUFYdnJ4TmtubnN2b2g0MVV1UVlMdXZIMUFPZ2FERnpYS2RMcGxyNHRB?oc=5",
+      "description": "Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-09-14T00:28:00+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXN0bGh4cjhxQ2JWakNwa3RNZVJ3UmpWSWRXUkpWOHFlVGZHSmh3RjlNZk9QRGRtb3p6SGZGbW52VERjbW9EZ2FndHVPQnhIWkVXYVk2YWc5S0dtYnk4cVFCV2lrNVpNXzNuZjY2eVJfWERaUmhkblBPZEhzWUFYdnJ4TmtubnN2b2g0MVV1UVlMdXZIMUFPZ2FERnpYS2RMcGxyNHRB?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-09-14T00:28:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are lifting markets revenue which"
+    },
     {
       "id": "6cbd44bc8bc746ce5a2d",
       "company": "Labcorp",
@@ -9202,10 +9250,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 100,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-14T12:17:00+05:30",
-  "next_update_display": "14 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-15T00:17:00+05:30",
+  "next_update_display": "15 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
