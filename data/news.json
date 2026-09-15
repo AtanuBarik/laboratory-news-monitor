@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-15T17:40:47.473408+05:30",
-  "generated_at_display": "15 Sep 2026, 5:40 PM IST",
-  "item_count": 272,
-  "raw_relevant_item_count": 462,
-  "duplicates_merged": 96,
+  "generated_at": "2026-09-15T22:48:04.449541+05:30",
+  "generated_at_display": "15 Sep 2026, 10:48 PM IST",
+  "item_count": 273,
+  "raw_relevant_item_count": 466,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "6b4344eeea5de54adf11",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at $247.3 By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTklIZnZta1F3eklfWmYtRWx4dk1HdW5VaFJXRUVpVnQ1dzlMZHE4VVRIR1pwbnA0cnl1bGJLZFR3WUpqR0otUXY0UnhCSGM4OXdFOGJLRndZMFQ4blNyTnljclBKLU13ZGRZQllSZTNfQ0hSMTJ4dm5SUzdwMnN2NGhfUGtJMlp3VXEyZXl0MUk4Y1VvM2E5UVhzRlFrbDI5MlRrbzVvRHFSZ0RSRmxJ?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com UK",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-09-15T15:34:00+00:00",
+      "published_display": "15 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTklIZnZta1F3eklfWmYtRWx4dk1HdW5VaFJXRUVpVnQ1dzlMZHE4VVRIR1pwbnA0cnl1bGJLZFR3WUpqR0otUXY0UnhCSGM4OXdFOGJLRndZMFQ4blNyTnljclBKLU13ZGRZQllSZTNfQ0hSMTJ4dm5SUzdwMnN2NGhfUGtJMlp3VXEyZXl0MUk4Y1VvM2E5UVhzRlFrbDI5MlRrbzVvRHFSZ0RSRmxJ?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-09-15T15:34:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "247 all com high hits investing stock time"
+    },
     {
       "id": "1837e9e1ce3225f216c2",
       "company": "Mayo Clinic Laboratories",
@@ -9406,10 +9430,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 94,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-15T18:17:00+05:30",
-  "next_update_display": "15 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-16T00:17:00+05:30",
+  "next_update_display": "16 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
