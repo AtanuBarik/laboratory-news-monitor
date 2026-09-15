@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 15 Sep 2026, 3:35 AM IST
+- **Repository generated:** 15 Sep 2026, 10:55 AM IST
 - **Distinct events in this file:** 114
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -64,7 +64,7 @@
 - **Sources:**
   - GenomeWeb: https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjdQX2V0RkstRVlaeVM1QW90ang5X0RpenhZdVhvZ1dBSDdHcFgxVnhRT0FtVkVJTjZYSWR0LS1uR1Jabk9uZ0FycTZ4TTBncUNuRU1Ca0dLVUJjYzdoVVhkWGZoSkxxb3RnT0RSOXhobnBNMThCQVdzQ1doWWZkOXVRaDFOTXJGcFpwdWMzSzVZQWJLeHVjRDFsUkRNR28?oc=5
 
-**Feed description:** Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests GenomeWeb
+**Feed description:** Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests genomeweb.com
 
 ## 6. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
 

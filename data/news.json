@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T03:35:24.189610+05:30",
-  "generated_at_display": "15 Sep 2026, 3:35 AM IST",
-  "item_count": 269,
-  "raw_relevant_item_count": 459,
-  "duplicates_merged": 93,
+  "generated_at": "2026-09-15T10:55:36.596837+05:30",
+  "generated_at_display": "15 Sep 2026, 10:55 AM IST",
+  "item_count": 270,
+  "raw_relevant_item_count": 461,
+  "duplicates_merged": 97,
   "failures": [],
   "items": [
     {
@@ -29,6 +29,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "broadens com conference growth investing morgan stanley"
+    },
+    {
+      "id": "66abb5aef21ff0cf2627",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: Investor Outlook Highlights 4.98% Potential Upside",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWNITUJNU01ncHVXQmhPQnBhMlV2T293dTZnUG9pbDRrc1dIMmlkVjlIVVVmRXJ4RWFfZkJ5aUE0QmtNY1gyUUZ1WG9CSTJpU1J1T0xnVXdzUGQybVdmWWp4Y2ViLVZWUHlaeHUwT2FMRDUtZVZiejNhYndOcmh4YnJMNDViVmNiaXNfYkRNbXpmZm1RSGlaNEdkZ1loZEhrWDVkV0ppa2M1UGZLTk53a2l3eE5XcGlqcnAwc2syQQ?oc=5",
+      "description": "Quest Diagnostics (DGX): Investor Outlook Highlights 4.98% Potential Upside DirectorsTalk Interviews",
+      "source": "DirectorsTalk Interviews",
+      "source_url": "https://www.directorstalkinterviews.com",
+      "source_domain": "directorstalkinterviews.com",
+      "published_at": "2026-09-14T09:20:39+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "DirectorsTalk Interviews",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWNITUJNU01ncHVXQmhPQnBhMlV2T293dTZnUG9pbDRrc1dIMmlkVjlIVVVmRXJ4RWFfZkJ5aUE0QmtNY1gyUUZ1WG9CSTJpU1J1T0xnVXdzUGQybVdmWWp4Y2ViLVZWUHlaeHUwT2FMRDUtZVZiejNhYndOcmh4YnJMNDViVmNiaXNfYkRNbXpmZm1RSGlaNEdkZ1loZEhrWDVkV0ppa2M1UGZLTk53a2l3eE5XcGlqcnAwc2syQQ?oc=5",
+          "domain": "directorstalkinterviews.com",
+          "published_at": "2026-09-14T09:20:39+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "highlights investor outlook potential upside"
     },
     {
       "id": "81e3e6491140a9aab35e",
@@ -281,7 +305,7 @@
       "company": "Labcorp",
       "title": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUjdQX2V0RkstRVlaeVM1QW90ang5X0RpenhZdVhvZ1dBSDdHcFgxVnhRT0FtVkVJTjZYSWR0LS1uR1Jabk9uZ0FycTZ4TTBncUNuRU1Ca0dLVUJjYzdoVVhkWGZoSkxxb3RnT0RSOXhobnBNMThCQVdzQ1doWWZkOXVRaDFOTXJGcFpwdWMzSzVZQWJLeHVjRDFsUkRNR28?oc=5",
-      "description": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests GenomeWeb",
+      "description": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests genomeweb.com",
       "source": "GenomeWeb",
       "source_url": "https://www.genomeweb.com",
       "source_domain": "genomeweb.com",
@@ -631,9 +655,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-10T01:35:16+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDkzU20zbHVHRmI4UHpXcGRjZ2p3WERhWlp4RnJGcFBFaFZPSnYyS2lxdTlwdUVabklONHBzTk1GNVhOa0M1eDBIaGNjYVJXUjFYMk9wVVBNZ0t1NENTOGZVRlVMc2wzdGNHMENXMzBfa0hzb0s1bjNjTll5Q2NHWk52cDJhenRtNURkNWNaRGVocldOY2k0MzVGT21ncnl3NDk1dWxwdE5MZHROMnBPYUhMYmUtOXJiaGNPSmNJM19rNDhILS1JOFVOSQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-15T02:25:41+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "after ahead drop edges lower open percent stock"
     },
     {
@@ -745,9 +775,15 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUdlcEk3OUVHUXUyQlNhbEpuaXhENFYwRndFZnZZekZvcDFWOVRxbEg3d3JwMllYejJzQkxPS3hMUWVhal8wNVFTMEs5LVFjdThXS3JocGhobnB6dDBtSm1qSGVmcXBMYk1zRnY0N216SEdvTVlOU0kzNU5EQUR0aVJzVjk3ZFl3VHNka0Qydk1pX1U?oc=5",
           "domain": "moomoo.com",
           "published_at": "2026-09-09T20:01:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVZ4dzMzZGYtN0ZtTTlCMV8xendlNkxXaEpsNWJwT090TjZTTUZzRV9UbktQU19kNUExZmhDNHhpbHJYS1IwMVhvdmxvUWs2bXVNeE1MSDhPeVZJTXVEUFkzX1lJa21EcVI0UEFzS0p5RUZaX05IYnpZbnF6WmE1blZINDZ4ZURnYXlKMjY4SlZvVEhXTFdsMFc2RUFqSWpQekV6UHctdDRfUHpvXzcwdUhaR1BhWHpFbklacUlMR3Nmbm9rY0hJS1ZpSQ?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-09T20:01:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "able app apple health labs order users"
     },
     {
@@ -9304,10 +9340,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 94,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-15T06:17:00+05:30",
-  "next_update_display": "15 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-15T12:17:00+05:30",
+  "next_update_display": "15 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
