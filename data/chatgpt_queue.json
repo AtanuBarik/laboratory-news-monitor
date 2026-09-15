@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T12:08:35.648538+05:30",
-  "generated_at_display": "15 Sep 2026, 12:08 PM IST",
+  "generated_at": "2026-09-15T17:40:51.091120+05:30",
+  "generated_at_display": "15 Sep 2026, 5:40 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 158,
+  "remaining_unsummarized_count": 160,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -262,6 +262,25 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aebd1c26176c4525ccb3",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "List of 33 Acquisitions by LabCorp (Sep 2026)",
+      "source": "Tracxn",
+      "description": "List of 33 Acquisitions by LabCorp (Sep 2026) Tracxn",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "published_display": "01 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
+      "sources": [
+        {
+          "name": "Tracxn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
         }
       ]
     },
@@ -656,25 +675,6 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "624c470e6f4210921500",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp announces FDA-cleared Elecsys pTau217 test as stock edges lower",
-      "source": "Traders Union",
-      "description": "Labcorp announces FDA-cleared Elecsys pTau217 test as stock edges lower Traders Union",
-      "published_at": "2026-08-24T13:35:24+00:00",
-      "published_display": "24 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHFjVVFBLWp3MU1RZ1NVMU1reXZHZmZ1ZUVQZ3FaUW41TDFSa0tIQnRva2l3NWZrSlNUUVpIcmVKMWZJNEFiUGhPRzRhNFBEb2FvUUg5aW92dnpYaFFBV0ZZMFVTNElZU09UN0hIQ2t1S1RkNDFzQl93UUpUZEdlb1JrTThrTjlKbEE?oc=5",
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUHFjVVFBLWp3MU1RZ1NVMU1reXZHZmZ1ZUVQZ3FaUW41TDFSa0tIQnRva2l3NWZrSlNUUVpIcmVKMWZJNEFiUGhPRzRhNFBEb2FvUUg5aW92dnpYaFFBV0ZZMFVTNElZU09UN0hIQ2t1S1RkNDFzQl93UUpUZEdlb1JrTThrTjlKbEE?oc=5"
         }
       ]
     }

@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 15 Sep 2026, 10:55 AM IST
+- **Repository generated:** 15 Sep 2026, 5:40 PM IST
 - **Distinct events in this file:** 126
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,12 +10,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Investing.com Canada: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpCaDBRN0hlQklOaVdvZHJMZTltNElLZE5QdXRwSEpyXy1pQ21KcXBZRmNGMHIxQXowdzdFTGNMUTJNU0xEOWVpcWwxZXlnTUx3ZHZVUThTNXZkS1hPblVxWmk3VlNzYmktb3lMcHhSanZTdHhWZFZVZnBiZmhxZ3Z5eWdCbnFYMkQ4cjJsdlh1T0pJNmFaUkV3ODNXazMySlJUUFBBeTZhdjRsTnJVaEpITnF3d3k3T2RkaE1teHE?oc=5
 
-**Feed description:** Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com Canada
+**Feed description:** Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com Nigeria
 
 ## 2. Quest Diagnostics: Investor Outlook Highlights 4.98% Potential Upside
 

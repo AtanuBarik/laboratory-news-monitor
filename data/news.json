@@ -1,17 +1,47 @@
 {
-  "generated_at": "2026-09-15T10:55:36.596837+05:30",
-  "generated_at_display": "15 Sep 2026, 10:55 AM IST",
-  "item_count": 270,
-  "raw_relevant_item_count": 461,
-  "duplicates_merged": 97,
+  "generated_at": "2026-09-15T17:40:47.473408+05:30",
+  "generated_at_display": "15 Sep 2026, 5:40 PM IST",
+  "item_count": 272,
+  "raw_relevant_item_count": 462,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "1837e9e1ce3225f216c2",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5",
+      "description": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis The Joplin Globe",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "source_domain": "businesswire.com",
+      "published_at": "2026-09-15T11:00:00+00:00",
+      "published_display": "15 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5",
+          "domain": "businesswire.com",
+          "published_at": "2026-09-15T11:00:00+00:00"
+        },
+        {
+          "name": "The Joplin Globe",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORmpJMFdEQ3kyR01FXzVPNG93dDZVWGxSVTB5OFBxTXhPcThONi0wQm1CQ1NfYVBvekVqTG1Bemd4U3B1RlRyLTM1aEdPLU82dGxzbjgtUnFRWXZuTnBmUXVzdDRodE1CNGhhcTdxLW1IYktjUEVyLUh4X18weTBKa01Iei1pNldYd2pBUmx2LUtCQk82eloxbmt6QU1iazNfRmg0b0ltY1AxMjRkX2hDd0VnYVY3Y0d1LWFlbFd5ZHNwY0ZLdVRtSXBaU0hwcjYwUkJNMEs1LWRUYnUxZmRrN0Z4ZThxQ0tUVEROZEQzckdNSFVsdlM2dXBWQVNpQmNuRHJMRW5ZWk9PMXdBV1dIQ1gycXR5OVdqWng4RUVoeFc2WWs0TE1aRg?oc=5",
+          "domain": "joplinglobe.com",
+          "published_at": "2026-09-15T11:02:39+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
+    },
     {
       "id": "ad90a1f2251a370d03b3",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
-      "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com Canada",
+      "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com Nigeria",
       "source": "Investing.com Canada",
       "source_url": "https://ca.investing.com",
       "source_domain": "ca.investing.com",
@@ -25,9 +55,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-09-14T14:54:59+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpCaDBRN0hlQklOaVdvZHJMZTltNElLZE5QdXRwSEpyXy1pQ21KcXBZRmNGMHIxQXowdzdFTGNMUTJNU0xEOWVpcWwxZXlnTUx3ZHZVUThTNXZkS1hPblVxWmk3VlNzYmktb3lMcHhSanZTdHhWZFZVZnBiZmhxZ3Z5eWdCbnFYMkQ4cjJsdlh1T0pJNmFaUkV3ODNXazMySlJUUFBBeTZhdjRsTnJVaEpITnF3d3k3T2RkaE1teHE?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-09-14T17:33:48+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "broadens com conference growth investing morgan stanley"
     },
     {
@@ -559,9 +595,15 @@
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-09-10T11:00:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-09-11T21:26:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 day driving durable growth highlights investor priorities shareholder strategic value"
     },
     {
@@ -1367,6 +1409,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "agreement dkd kidneyintelx multi renalytix rollout signs year"
+    },
+    {
+      "id": "aebd1c26176c4525ccb3",
+      "company": "Labcorp",
+      "title": "List of 33 Acquisitions by LabCorp (Sep 2026)",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
+      "description": "List of 33 Acquisitions by LabCorp (Sep 2026) Tracxn",
+      "source": "Tracxn",
+      "source_url": "https://tracxn.com",
+      "source_domain": "tracxn.com",
+      "published_at": "2026-09-01T07:00:00+00:00",
+      "published_display": "01 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Tracxn",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
+          "domain": "tracxn.com",
+          "published_at": "2026-09-01T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisitions list sep"
     },
     {
       "id": "ceb779dc820a6490b2a9",
@@ -9340,10 +9406,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 94,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-15T12:17:00+05:30",
-  "next_update_display": "15 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-15T18:17:00+05:30",
+  "next_update_display": "15 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
