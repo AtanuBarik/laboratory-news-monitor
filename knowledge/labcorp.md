@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 16 Sep 2026, 5:37 PM IST
+- **Repository generated:** 16 Sep 2026, 10:47 PM IST
 - **Distinct events in this file:** 117
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -227,19 +227,7 @@
 
 **Feed description:** Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer marketscreener.com
 
-## 19. Labcorp builds on acquisition spree, gaining first operations in Africa
-
-- **Company:** Labcorp
-- **Publication date:** 08 Sep 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - The Business Journals: https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5
-
-**Feed description:** Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals
-
-## 20. Labcorp acquired MLM Medical Labs GmbH.
+## 19. Labcorp acquired MLM Medical Labs GmbH.
 
 - **Company:** Labcorp
 - **Publication date:** 08 Sep 2026
@@ -251,7 +239,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (NYSE: LH) acquired MLM Medical Labs GmbH. marketscreener.com
 
-## 21. Labcorp acquires German specialty laboratory provider
+## 20. Labcorp acquires German specialty laboratory provider
 
 - **Company:** Labcorp
 - **Publication date:** 08 Sep 2026
@@ -264,7 +252,7 @@
 
 **Feed description:** Labcorp acquires German specialty laboratory provider Greensboro News and Record
 
-## 22. Labcorp Acquires Central Lab Services Provider MLM Medical Labs
+## 21. Labcorp Acquires Central Lab Services Provider MLM Medical Labs
 
 - **Company:** Labcorp
 - **Publication date:** 08 Sep 2026
@@ -276,7 +264,7 @@
 
 **Feed description:** Labcorp Acquires Central Lab Services Provider MLM Medical Labs genomeweb.com
 
-## 23. Labcorp acquires MLM Medical Labs to expand global network
+## 22. Labcorp acquires MLM Medical Labs to expand global network
 
 - **Company:** Labcorp
 - **Publication date:** 08 Sep 2026
@@ -294,7 +282,7 @@
 
 **Feed description:** Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities digitalhealthnews.com
 
-## 24. Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials
+## 23. Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials
 
 - **Company:** Labcorp
 - **Publication date:** 08 Sep 2026
@@ -308,6 +296,18 @@
   - MedTech Dive: https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5
 
 **Feed description:** Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire
+
+## 24. Labcorp builds on acquisition spree, gaining first operations in Africa
+
+- **Company:** Labcorp
+- **Publication date:** 08 Sep 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The Business Journals: https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5
+
+**Feed description:** Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals
 
 ## 25. Labcorp Q2 2026 Earnings Call Transcript
 

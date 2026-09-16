@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-09-16T17:37:50.809679+05:30",
-  "generated_at_display": "16 Sep 2026, 5:37 PM IST",
-  "item_count": 277,
-  "raw_relevant_item_count": 468,
+  "generated_at": "2026-09-16T22:47:33.519240+05:30",
+  "generated_at_display": "16 Sep 2026, 10:47 PM IST",
+  "item_count": 280,
+  "raw_relevant_item_count": 473,
   "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "01f9378ca9a6b18d7730",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics, Apple team up on lab testing via Health app",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY0pFdGxRQTZEUGFuNUNGZTlHR0JfeFVvVGVZdU5xUWstempIbFR4XzZQMUJkTm94cmNfX2I4UU5qN3l1eTBZWFlKcGMwZkhJQ1BiQzVWd0h1eWpDZ0RGeFFqR2gtOWxoVlpyVW5R?oc=5",
+      "description": "Quest Diagnostics, Apple team up on lab testing via Health app NJBIZ",
+      "source": "NJBIZ",
+      "source_url": "https://njbiz.com",
+      "source_domain": "njbiz.com",
+      "published_at": "2026-09-16T17:10:55+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "NJBIZ",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY0pFdGxRQTZEUGFuNUNGZTlHR0JfeFVvVGVZdU5xUWstempIbFR4XzZQMUJkTm94cmNfX2I4UU5qN3l1eTBZWFlKcGMwZkhJQ1BiQzVWd0h1eWpDZ0RGeFFqR2gtOWxoVlpyVW5R?oc=5",
+          "domain": "njbiz.com",
+          "published_at": "2026-09-16T17:10:55+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "app apple health lab team testing via"
+    },
+    {
+      "id": "2bf56e2b19db0f4b0c20",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Hits Fresh High: Is There Still Room to Run?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-16T13:15:02+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-16T13:15:02+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "fresh high hits room run still there"
+    },
+    {
+      "id": "9c4833464b625e04a508",
+      "company": "Quest Diagnostics",
+      "title": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
+      "description": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics Morningstar",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "source_domain": "morningstar.com",
+      "published_at": "2026-09-16T12:03:00+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-16T12:03:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access concern cuts diagnostic express finds harm lab medicare national nine patient payment survey testing that voters will"
+    },
     {
       "id": "88c8705af4b0bb18e565",
       "company": "Quest Diagnostics",
@@ -149,7 +221,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
-      "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com Nigeria",
+      "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com South Africa",
       "source": "Investing.com Canada",
       "source_url": "https://ca.investing.com",
       "source_domain": "ca.investing.com",
@@ -169,9 +241,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpCaDBRN0hlQklOaVdvZHJMZTltNElLZE5QdXRwSEpyXy1pQ21KcXBZRmNGMHIxQXowdzdFTGNMUTJNU0xEOWVpcWwxZXlnTUx3ZHZVUThTNXZkS1hPblVxWmk3VlNzYmktb3lMcHhSanZTdHhWZFZVZnBiZmhxZ3Z5eWdCbnFYMkQ4cjJsdlh1T0pJNmFaUkV3ODNXazMySlJUUFBBeTZhdjRsTnJVaEpITnF3d3k3T2RkaE1teHE?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-09-14T17:33:48+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY193VHRKQlJOeEdUTm1Id0traEVIU2FWZEIwZWpGN3p0eHJpSnNtOHdMaTNacWh5YkFzY25NV2kyejdOU0VuYllPWTdiZWl6MGJFZzBjNlBtYlp1ODZHMmRTM3hYbzRIa2lKQUN4bUMwa0ZHZlp2TVBLakFyN0M1dXFqWGtTY21tMU1IUHg5aGNBTWVKWEVuZUtwTWw0Y1BJMVk2dGYxQ0xFaVU0d2YxVVNBNGV4RGRuSnJZQ3BYMkE?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-09-15T06:33:25+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "broadens com conference growth investing morgan stanley"
     },
     {
@@ -1045,30 +1123,6 @@
       "event_signature": "bladder cancer clinical collaborates evaluating health invasive mrd muscle oregon science study testing university"
     },
     {
-      "id": "1f2f7b914163bde49e9c",
-      "company": "Labcorp",
-      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
-      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "source_domain": "bizjournals.com",
-      "published_at": "2026-09-08T19:10:00+00:00",
-      "published_display": "08 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
-          "domain": "bizjournals.com",
-          "published_at": "2026-09-08T19:10:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acquisition africa builds first gaining operations spree"
-    },
-    {
       "id": "800063064414154e0e65",
       "company": "Labcorp",
       "title": "Labcorp acquired MLM Medical Labs GmbH.",
@@ -1247,6 +1301,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
+    },
+    {
+      "id": "1f2f7b914163bde49e9c",
+      "company": "Labcorp",
+      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
+      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "source_domain": "bizjournals.com",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
+          "domain": "bizjournals.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition africa builds first gaining operations spree"
     },
     {
       "id": "ebe750529cb72224cbd0",
@@ -9544,10 +9622,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 94,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-16T18:17:00+05:30",
-  "next_update_display": "16 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-17T00:17:00+05:30",
+  "next_update_display": "17 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

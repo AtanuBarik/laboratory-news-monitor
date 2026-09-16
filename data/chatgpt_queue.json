@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T18:18:09.153645+05:30",
-  "generated_at_display": "16 Sep 2026, 6:18 PM IST",
+  "generated_at": "2026-09-16T22:47:37.034681+05:30",
+  "generated_at_display": "16 Sep 2026, 10:47 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 165,
+  "remaining_unsummarized_count": 168,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -108,25 +108,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJhd2d3U2V1b3k0RG1RWXloNGxqdTE3akNlbnFqREJVWk82S2VLTURwdk5IXzB3aEgyaXgtLW9oQUZGT2NyZkVmVEQwVVBJczk2U2pxV1U4ektpeUxUcmtqQkRmeTVCbFFCSkg3azNvdGhseTl0OXJ2LTYxcEUtQnp4LUY3TTJkN3ZLMkZrZC0taUZqNkwxRHBBdVBXQVhxNWNFY1M5SVhPT3ZnVnplRW5sVGNaT2hVTXN0d0V3eE9FS3Bnem5DcnVKdXRxaHAzZVlMdF9RWTVVNzJQTGhTU3RRZUsydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f2f7b914163bde49e9c",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
-      "source": "The Business Journals",
-      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
-      "published_at": "2026-09-08T19:10:00+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
-      "sources": [
-        {
-          "name": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5"
         }
       ]
     },
@@ -262,6 +243,25 @@
         {
           "name": "MedTech Dive",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1f2f7b914163bde49e9c",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
+      "source": "The Business Journals",
+      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
+      "sources": [
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5"
         }
       ]
     },
