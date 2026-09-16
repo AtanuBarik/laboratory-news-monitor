@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T03:16:43.078948+05:30",
-  "generated_at_display": "16 Sep 2026, 3:16 AM IST",
-  "item_count": 274,
-  "raw_relevant_item_count": 465,
-  "duplicates_merged": 99,
+  "generated_at": "2026-09-16T10:49:20.910786+05:30",
+  "generated_at_display": "16 Sep 2026, 10:49 AM IST",
+  "item_count": 275,
+  "raw_relevant_item_count": 464,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
     {
@@ -85,9 +85,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORmpJMFdEQ3kyR01FXzVPNG93dDZVWGxSVTB5OFBxTXhPcThONi0wQm1CQ1NfYVBvekVqTG1Bemd4U3B1RlRyLTM1aEdPLU82dGxzbjgtUnFRWXZuTnBmUXVzdDRodE1CNGhhcTdxLW1IYktjUEVyLUh4X18weTBKa01Iei1pNldYd2pBUmx2LUtCQk82eloxbmt6QU1iazNfRmg0b0ltY1AxMjRkX2hDd0VnYVY3Y0d1LWFlbFd5ZHNwY0ZLdVRtSXBaU0hwcjYwUkJNMEs1LWRUYnUxZmRrN0Z4ZThxQ0tUVEROZEQzckdNSFVsdlM2dXBWQVNpQmNuRHJMRW5ZWk9PMXdBV1dIQ1gycXR5OVdqWng4RUVoeFc2WWs0TE1aRg?oc=5",
           "domain": "joplinglobe.com",
           "published_at": "2026-09-15T11:02:39+00:00"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblJnUFlKTUFUWEh5LUg5aGprc0lMcVBITFU4dDR3eUI5bWh2d3lMUlU3RXBuY1Nvbm5yZFJ2YlN0UzVILW5lQnhtSndMVnA4UER1Q1dpVTVsSWFQVTQzT0NobnVaX1Q5MDlmU1VteF9TQ0JRREMwbjh6NUZJLThXTVVpVTVIcVJkem1NZ0tEOEtVMDdmSmJkWkZXNnpDOWlkRDJRMHBKNDlnTVhyNkZaUEJBaGMyV2JNMUtvb2pMMk9HRmMzMi0yM1FXNUwweWVURHJ3MA?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-09-16T01:32:53+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
     },
     {
@@ -143,6 +149,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "highlights investor outlook potential upside"
+    },
+    {
+      "id": "b4e8e26d3d05b4e5c38b",
+      "company": "Labcorp",
+      "title": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5",
+      "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
+      "source": "Private Equity Professional",
+      "source_url": "https://peprofessional.com",
+      "source_domain": "peprofessional.com",
+      "published_at": "2026-09-14T07:00:00+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Private Equity Professional",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5",
+          "domain": "peprofessional.com",
+          "published_at": "2026-09-14T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clinical great iii lab labs medical mlm partners point sells trial"
     },
     {
       "id": "81e3e6491140a9aab35e",
@@ -9466,10 +9496,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 93,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-16T06:17:00+05:30",
-  "next_update_display": "16 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-16T12:17:00+05:30",
+  "next_update_display": "16 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

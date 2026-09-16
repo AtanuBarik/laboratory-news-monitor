@@ -1,6 +1,6 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 16 Sep 2026, 3:16 AM IST
+- **Repository generated:** 16 Sep 2026, 10:49 AM IST
 - **Distinct events in this file:** 3
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,11 +10,12 @@
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Sep 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Business Wire: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5
   - The Joplin Globe: https://news.google.com/rss/articles/CBMiqAJBVV95cUxORmpJMFdEQ3kyR01FXzVPNG93dDZVWGxSVTB5OFBxTXhPcThONi0wQm1CQ1NfYVBvekVqTG1Bemd4U3B1RlRyLTM1aEdPLU82dGxzbjgtUnFRWXZuTnBmUXVzdDRodE1CNGhhcTdxLW1IYktjUEVyLUh4X18weTBKa01Iei1pNldYd2pBUmx2LUtCQk82eloxbmt6QU1iazNfRmg0b0ltY1AxMjRkX2hDd0VnYVY3Y0d1LWFlbFd5ZHNwY0ZLdVRtSXBaU0hwcjYwUkJNMEs1LWRUYnUxZmRrN0Z4ZThxQ0tUVEROZEQzckdNSFVsdlM2dXBWQVNpQmNuRHJMRW5ZWk9PMXdBV1dIQ1gycXR5OVdqWng4RUVoeFc2WWs0TE1aRg?oc=5
+  - BioSpace: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblJnUFlKTUFUWEh5LUg5aGprc0lMcVBITFU4dDR3eUI5bWh2d3lMUlU3RXBuY1Nvbm5yZFJ2YlN0UzVILW5lQnhtSndMVnA4UER1Q1dpVTVsSWFQVTQzT0NobnVaX1Q5MDlmU1VteF9TQ0JRREMwbjh6NUZJLThXTVVpVTVIcVJkem1NZ0tEOEtVMDdmSmJkWkZXNnpDOWlkRDJRMHBKNDlnTVhyNkZaUEJBaGMyV2JNMUtvb2pMMk9HRmMzMi0yM1FXNUwweWVURHJ3MA?oc=5
 
 **Feed description:** Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis The Joplin Globe
 

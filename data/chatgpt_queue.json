@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T03:55:05.226858+05:30",
-  "generated_at_display": "16 Sep 2026, 3:55 AM IST",
+  "generated_at": "2026-09-16T10:49:24.406400+05:30",
+  "generated_at_display": "16 Sep 2026, 10:49 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 162,
+  "remaining_unsummarized_count": 163,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -381,6 +381,25 @@
       ]
     },
     {
+      "id": "b4e8e26d3d05b4e5c38b",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp",
+      "source": "Private Equity Professional",
+      "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
+      "published_at": "2026-09-14T07:00:00+00:00",
+      "published_display": "14 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5",
+      "sources": [
+        {
+          "name": "Private Equity Professional",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f239e96a33a1423f3cd4",
       "company": "Sonic Healthcare",
       "category": "Clinical, R&D",
@@ -652,29 +671,6 @@
         {
           "name": "Fierce Biotech",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "581bcd30666c4880a445",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp Launches Hepatitis D Reflex Testing",
-      "source": "marketscreener.com",
-      "description": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "published_display": "25 Aug 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5"
         }
       ]
     }
