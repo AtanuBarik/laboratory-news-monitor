@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T22:47:33.519240+05:30",
-  "generated_at_display": "16 Sep 2026, 10:47 PM IST",
-  "item_count": 280,
-  "raw_relevant_item_count": 473,
-  "duplicates_merged": 99,
+  "generated_at": "2026-09-17T03:14:06.458396+05:30",
+  "generated_at_display": "17 Sep 2026, 3:14 AM IST",
+  "item_count": 282,
+  "raw_relevant_item_count": 478,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics, Apple team up on lab testing via Health app",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY0pFdGxRQTZEUGFuNUNGZTlHR0JfeFVvVGVZdU5xUWstempIbFR4XzZQMUJkTm94cmNfX2I4UU5qN3l1eTBZWFlKcGMwZkhJQ1BiQzVWd0h1eWpDZ0RGeFFqR2gtOWxoVlpyVW5R?oc=5",
-      "description": "Quest Diagnostics, Apple team up on lab testing via Health app NJBIZ",
+      "description": "Quest Diagnostics, Apple team up on lab testing via Health app njbiz.com",
       "source": "NJBIZ",
       "source_url": "https://njbiz.com",
       "source_domain": "njbiz.com",
@@ -29,6 +29,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "app apple health lab team testing via"
+    },
+    {
+      "id": "473fd1d44f152e0285f5",
+      "company": "Labcorp",
+      "title": "Labcorp Website Tracking Class Action Settlement",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
+      "description": "Labcorp Website Tracking Class Action Settlement Claim Depot",
+      "source": "Claim Depot",
+      "source_url": "https://www.claimdepot.com",
+      "source_domain": "claimdepot.com",
+      "published_at": "2026-09-16T17:00:01+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Claim Depot",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
+          "domain": "claimdepot.com",
+          "published_at": "2026-09-16T17:00:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action class settlement tracking website"
     },
     {
       "id": "2bf56e2b19db0f4b0c20",
@@ -73,9 +97,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-09-16T12:03:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-16T12:03:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "access concern cuts diagnostic express finds harm lab medicare national nine patient payment survey testing that voters will"
     },
     {
@@ -347,6 +377,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "are lifting markets revenue which"
+    },
+    {
+      "id": "5437036cf7acc46fe7d6",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-09-13T17:42:12+00:00",
+      "published_display": "13 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-13T17:42:12+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings transcript"
     },
     {
       "id": "6cbd44bc8bc746ce5a2d",
@@ -1201,66 +1255,6 @@
       "event_signature": "acquires central lab labs medical mlm provider services"
     },
     {
-      "id": "13f4149c2ac60a9139f1",
-      "company": "Labcorp",
-      "title": "Labcorp acquires MLM Medical Labs to expand global network",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities digitalhealthnews.com",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-09-08T13:11:37+00:00",
-      "published_display": "08 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-09-08T13:11:37+00:00"
-        },
-        {
-          "name": "citybiz",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5",
-          "domain": "citybiz.co",
-          "published_at": "2026-09-08T14:56:35+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVRnMzJ3R25lenc4UzliMkxmMHNhVnhuU25lX08zMDFLLTNPR3k3Y3RlSnF6eV9aRmlWUUllSHZVclBHVElHWm04Tkd0elp5d3hCaFVkT3hKQlljU0VnQy1SQUdSVTMzbXYwNWlZcS1IdzMwUXlNb2U0TFM5TEhwaDZrS2xjSDVPMmNRWWhJNE80NU9TMnVienFzY2dCMlM0UVQ4bFkydjdWRk9VZExDSXJoZVRpREk5RlBn?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-09-08T13:42:18+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-09-08T18:33:27+00:00"
-        },
-        {
-          "name": "Medical Device Network",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5",
-          "domain": "medicaldevice-network.com",
-          "published_at": "2026-09-09T09:58:35+00:00"
-        },
-        {
-          "name": "Digital Health News",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5",
-          "domain": "digitalhealthnews.com",
-          "published_at": "2026-09-10T09:39:00+00:00"
-        },
-        {
-          "name": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjA1VzhtdV9WNEJ6VjhhRXJ0ejUxenRXcHJ0VDMyWmczdnFTQnJodzIweDBpT1oxNlpGVGdMRDcyTW1ET2l1QXViSlZ3bUdKS3paVEZrUTh0V01PZWhLeVFpOTFpa1ppRWNHZ3dtOVdELWF2aFZMWlBXLWVIVkgzR3luRDNDT0hZRllfMTVDU0gzUHdfNlQweE02RXlDbl9vN0ZqU19JRdIBrAFBVV95cUxObUxxZTFmODM5Z3BVMVZnN0lBRWgtMElCal82RFFyMjUyaVZ1S0twVlJ1RW1NZXQ4Nzg2cVkzYnVHV0N4WExRVjhYVkF4VTZ1by1WVGVHQ2hnRzdob0xnZU1zZ3NGT09YRTJMUExxZkFhSHkySWZrZVFmRjYzV2JDTUlBR0JCdHVycTNrd3BEQVY0Tzd0OVpiUEFHOElWME12YThXWDFTcUprZmVT?oc=5",
-          "domain": "pulse2.com",
-          "published_at": "2026-09-13T00:12:54+00:00"
-        }
-      ],
-      "coverage_count": 7,
-      "event_signature": "acquires expand global labs medical mlm network"
-    },
-    {
       "id": "692205b0b1bc2bc14349",
       "company": "Labcorp",
       "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
@@ -1325,6 +1319,78 @@
       ],
       "coverage_count": 1,
       "event_signature": "acquisition africa builds first gaining operations spree"
+    },
+    {
+      "id": "13f4149c2ac60a9139f1",
+      "company": "Labcorp",
+      "title": "Labcorp acquires MLM Medical Labs to expand global network",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
+      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities digitalhealthnews.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5",
+          "domain": "citybiz.co",
+          "published_at": "2026-09-08T14:56:35+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVRnMzJ3R25lenc4UzliMkxmMHNhVnhuU25lX08zMDFLLTNPR3k3Y3RlSnF6eV9aRmlWUUllSHZVclBHVElHWm04Tkd0elp5d3hCaFVkT3hKQlljU0VnQy1SQUdSVTMzbXYwNWlZcS1IdzMwUXlNb2U0TFM5TEhwaDZrS2xjSDVPMmNRWWhJNE80NU9TMnVienFzY2dCMlM0UVQ4bFkydjdWRk9VZExDSXJoZVRpREk5RlBn?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-09-08T13:42:18+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-09-08T18:33:27+00:00"
+        },
+        {
+          "name": "Medical Device Network",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5",
+          "domain": "medicaldevice-network.com",
+          "published_at": "2026-09-09T09:58:35+00:00"
+        },
+        {
+          "name": "Digital Health News",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5",
+          "domain": "digitalhealthnews.com",
+          "published_at": "2026-09-10T09:39:00+00:00"
+        },
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjA1VzhtdV9WNEJ6VjhhRXJ0ejUxenRXcHJ0VDMyWmczdnFTQnJodzIweDBpT1oxNlpGVGdMRDcyTW1ET2l1QXViSlZ3bUdKS3paVEZrUTh0V01PZWhLeVFpOTFpa1ppRWNHZ3dtOVdELWF2aFZMWlBXLWVIVkgzR3luRDNDT0hZRllfMTVDU0gzUHdfNlQweE02RXlDbl9vN0ZqU19JRdIBrAFBVV95cUxObUxxZTFmODM5Z3BVMVZnN0lBRWgtMElCal82RFFyMjUyaVZ1S0twVlJ1RW1NZXQ4Nzg2cVkzYnVHV0N4WExRVjhYVkF4VTZ1by1WVGVHQ2hnRzdob0xnZU1zZ3NGT09YRTJMUExxZkFhSHkySWZrZVFmRjYzV2JDTUlBR0JCdHVycTNrd3BEQVY0Tzd0OVpiUEFHOElWME12YThXWDFTcUprZmVT?oc=5",
+          "domain": "pulse2.com",
+          "published_at": "2026-09-13T00:12:54+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-08T14:30:23+00:00"
+        },
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-09-09T14:45:29+00:00"
+        }
+      ],
+      "coverage_count": 9,
+      "event_signature": "acquires expand global labs medical mlm network"
     },
     {
       "id": "ebe750529cb72224cbd0",
@@ -9622,10 +9688,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 92,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-17T00:17:00+05:30",
-  "next_update_display": "17 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-17T06:17:00+05:30",
+  "next_update_display": "17 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

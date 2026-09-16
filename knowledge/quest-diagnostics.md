@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 16 Sep 2026, 10:47 PM IST
+- **Repository generated:** 17 Sep 2026, 3:14 AM IST
 - **Distinct events in this file:** 132
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - NJBIZ: https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY0pFdGxRQTZEUGFuNUNGZTlHR0JfeFVvVGVZdU5xUWstempIbFR4XzZQMUJkTm94cmNfX2I4UU5qN3l1eTBZWFlKcGMwZkhJQ1BiQzVWd0h1eWpDZ0RGeFFqR2gtOWxoVlpyVW5R?oc=5
 
-**Feed description:** Quest Diagnostics, Apple team up on lab testing via Health app NJBIZ
+**Feed description:** Quest Diagnostics, Apple team up on lab testing via Health app njbiz.com
 
 ## 2. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
 
@@ -34,10 +34,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5
 
 **Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics Morningstar
 
