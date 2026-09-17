@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T03:47:51.315479+05:30",
-  "generated_at_display": "17 Sep 2026, 3:47 AM IST",
+  "generated_at": "2026-09-17T10:58:17.866928+05:30",
+  "generated_at_display": "17 Sep 2026, 10:58 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -404,25 +404,6 @@
       ]
     },
     {
-      "id": "b4e8e26d3d05b4e5c38b",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp",
-      "source": "Private Equity Professional",
-      "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
-      "published_at": "2026-09-14T07:00:00+00:00",
-      "published_display": "14 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5",
-      "sources": [
-        {
-          "name": "Private Equity Professional",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f239e96a33a1423f3cd4",
       "company": "Sonic Healthcare",
       "category": "Clinical, R&D",
@@ -476,6 +457,37 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "06ca4720388ccab588e3",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Great Point Partners III Sells MLM Medical Labs to Labcorp",
+      "source": "BioSpace",
+      "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
+      "published_at": "2026-09-09T14:35:46+00:00",
+      "published_display": "09 Sep 2026",
+      "official_source": false,
+      "coverage_count": 4,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5",
+      "sources": [
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5"
+        },
+        {
+          "name": "Private Equity Professional",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5"
+        },
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5"
         }
       ]
     },
