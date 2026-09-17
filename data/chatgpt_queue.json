@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T12:06:26.645198+05:30",
-  "generated_at_display": "17 Sep 2026, 12:06 PM IST",
+  "generated_at": "2026-09-17T17:38:31.306555+05:30",
+  "generated_at_display": "17 Sep 2026, 5:38 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 170,
+  "remaining_unsummarized_count": 173,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -467,7 +467,7 @@
       "title": "Great Point Partners III Sells MLM Medical Labs to Labcorp",
       "source": "BioSpace",
       "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
-      "published_at": "2026-09-09T14:35:46+00:00",
+      "published_at": "2026-09-09T07:00:00+00:00",
       "published_display": "09 Sep 2026",
       "official_source": false,
       "coverage_count": 4,

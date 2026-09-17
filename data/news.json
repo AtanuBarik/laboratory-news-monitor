@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-17T10:58:14.113644+05:30",
-  "generated_at_display": "17 Sep 2026, 10:58 AM IST",
-  "item_count": 282,
-  "raw_relevant_item_count": 479,
-  "duplicates_merged": 105,
+  "generated_at": "2026-09-17T17:38:26.325130+05:30",
+  "generated_at_display": "17 Sep 2026, 5:38 PM IST",
+  "item_count": 285,
+  "raw_relevant_item_count": 476,
+  "duplicates_merged": 102,
   "failures": [],
   "items": [
+    {
+      "id": "ce7869897003b5c9f2d8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
+      "description": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-17T11:36:50+00:00",
+      "published_display": "17 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-17T11:36:50+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "figures gains impact medicare quarter second stock strong survey"
+    },
     {
       "id": "01f9378ca9a6b18d7730",
       "company": "Quest Diagnostics",
@@ -133,6 +157,30 @@
       "event_signature": "analyst apple deal health highs lab lift reaches sentime stock upgrades"
     },
     {
+      "id": "923aa4fee8f0ee5803e8",
+      "company": "Quest Diagnostics",
+      "title": "A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDBBWjZibjd0REJRY1FnT3BPOXJ5cEk2X2RFNXRfZlZDSlR1OE4tOHhMWExUZUtIZndGcm4tc2NNUGhBVGtsckhQZ3NlTWJfMk1vMHFmbFIyLUVHX2h1Vm1TWXdSQTJiYktyZ2lvZUZDZTJGN2NabWUwVmV1M2VfWmlvZ1l0eUx2UGZFWG1tVUhXUHppemZoRlQ5bkl1RWUzOC1jYVVvbGZoNGlDVDlTQkVDemsteTZ5SFE?oc=5",
+      "description": "A Look at Quest Diagnostics Inc (DGX) After 3.9% Gain -- GF Value $196.33 vs Price $247.08 GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-09-15T23:59:45+00:00",
+      "published_display": "15 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDBBWjZibjd0REJRY1FnT3BPOXJ5cEk2X2RFNXRfZlZDSlR1OE4tOHhMWExUZUtIZndGcm4tc2NNUGhBVGtsckhQZ3NlTWJfMk1vMHFmbFIyLUVHX2h1Vm1TWXdSQTJiYktyZ2lvZUZDZTJGN2NabWUwVmV1M2VfWmlvZ1l0eUx2UGZFWG1tVUhXUHppemZoRlQ5bkl1RWUzOC1jYVVvbGZoNGlDVDlTQkVDemsteTZ5SFE?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-09-15T23:59:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "196 247 after gain look price value"
+    },
+    {
       "id": "de3f6f174853b93653ec",
       "company": "Quest Diagnostics",
       "title": "Why Quest Diagnostics Stock Is Up Today",
@@ -245,6 +293,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
+    },
+    {
+      "id": "ebdc2f40140288c33e41",
+      "company": "Labcorp",
+      "title": "Labcorp stock steadies after earnings beat and guidance reaffirmation",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT3RvSTFDSnowampBS1ZEY3J3bFdiWVByUVE1RWVlWFBPbjBxY05ZOEtMcjdpaVB2QlU2NzFVUktfaVFneHFYcXFpSUpSVUN6bUQ5R2I5UGlfSVgtYTZfTWdaTWtxZnlKYjIzajNFWmxNdmtWaDY2SFZjOW5CdG01U0dMcXQtM3RWcGJVY2VNNzJ1MGdzcUk2Um4xNklRMlhKSDRWX2JTUzhJQzF3YnpfVUViZm1jdmFrQ0lYak80cF9DYjZCLXR0VVpUZTg?oc=5",
+      "description": "Labcorp stock steadies after earnings beat and guidance reaffirmation ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-14T19:49:29+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT3RvSTFDSnowampBS1ZEY3J3bFdiWVByUVE1RWVlWFBPbjBxY05ZOEtMcjdpaVB2QlU2NzFVUktfaVFneHFYcXFpSUpSVUN6bUQ5R2I5UGlfSVgtYTZfTWdaTWtxZnlKYjIzajNFWmxNdmtWaDY2SFZjOW5CdG01U0dMcXQtM3RWcGJVY2VNNzJ1MGdzcUk2Um4xNklRMlhKSDRWX2JTUzhJQzF3YnpfVUViZm1jdmFrQ0lYak80cF9DYjZCLXR0VVpUZTg?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-14T19:49:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after beat earnings guidance reaffirmation steadies stock"
     },
     {
       "id": "ad90a1f2251a370d03b3",
@@ -1111,48 +1183,6 @@
       "event_signature": "after edges hike insider lower sale stock target ubs"
     },
     {
-      "id": "06ca4720388ccab588e3",
-      "company": "Labcorp",
-      "title": "Great Point Partners III Sells MLM Medical Labs to Labcorp",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5",
-      "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
-      "source": "BioSpace",
-      "source_url": "https://www.biospace.com",
-      "source_domain": "biospace.com",
-      "published_at": "2026-09-09T14:35:46+00:00",
-      "published_display": "09 Sep 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "BioSpace",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5",
-          "domain": "biospace.com",
-          "published_at": "2026-09-09T14:35:46+00:00"
-        },
-        {
-          "name": "citybiz",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5",
-          "domain": "citybiz.co",
-          "published_at": "2026-09-09T18:58:03+00:00"
-        },
-        {
-          "name": "Private Equity Professional",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5",
-          "domain": "peprofessional.com",
-          "published_at": "2026-09-14T07:00:00+00:00"
-        },
-        {
-          "name": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5",
-          "domain": "pulse2.com",
-          "published_at": "2026-09-15T04:06:13+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "great iii labs medical mlm partners point sells"
-    },
-    {
       "id": "fe25212c7539ce16b122",
       "company": "Labcorp",
       "title": "Labcorp acquires MLM Medical Labs to strengthen global clinical trial services",
@@ -1181,6 +1211,48 @@
       ],
       "coverage_count": 2,
       "event_signature": "acquires clinical global labs medical mlm services strengthen trial"
+    },
+    {
+      "id": "06ca4720388ccab588e3",
+      "company": "Labcorp",
+      "title": "Great Point Partners III Sells MLM Medical Labs to Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5",
+      "description": "Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional",
+      "source": "BioSpace",
+      "source_url": "https://www.biospace.com",
+      "source_domain": "biospace.com",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-09-09T07:00:00+00:00"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5",
+          "domain": "citybiz.co",
+          "published_at": "2026-09-09T18:58:03+00:00"
+        },
+        {
+          "name": "Private Equity Professional",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5",
+          "domain": "peprofessional.com",
+          "published_at": "2026-09-14T07:00:00+00:00"
+        },
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5",
+          "domain": "pulse2.com",
+          "published_at": "2026-09-15T04:06:13+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "great iii labs medical mlm partners point sells"
     },
     {
       "id": "aca11e78dc910ff7be06",
@@ -9718,10 +9790,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 89,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-17T12:17:00+05:30",
-  "next_update_display": "17 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-17T18:17:00+05:30",
+  "next_update_display": "17 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
