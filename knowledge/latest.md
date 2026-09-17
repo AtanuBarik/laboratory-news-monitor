@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 17 Sep 2026, 5:38 PM IST
+- **Repository generated:** 17 Sep 2026, 10:47 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -525,7 +525,47 @@
 
 **Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
-## 43. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 43. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
+
+**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
+
+## 44. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
+
+- **Company:** Labcorp
+- **Publication date:** 09 Sep 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Indian Pharma Post: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
+  - Indian Pharma Post: https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVcwaTBUM0dEcnhDVkFDUjh2QWZOZk11TmlrR18tUnlhendodGlvSHVTWktuQ3paVXVjVUNLVEJTSG5SV2NET05WWDBWWlBSSHVaS3ZoOEUwaFgzQnFwRkVZVmQ0TEJ0dlJYQ2Z4OEhjN21xVHpPd2hyZEN2UVJJaVN0OWdJZ1dEaS1sWDB4UWpxQ3Jza1pYQ2pQNHBYZzNESC1yYUFHcFJ6UVlfWTFSUzJEUDY3SXB0RkFmaF9TcGFJNHo2ZVAwZWNBaG9rd9IB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
+
+**Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services indianpharmapost.com
+
+## 45. Great Point Partners III Sells MLM Medical Labs to Labcorp
+
+- **Company:** Labcorp
+- **Publication date:** 09 Sep 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - BioSpace: https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5
+  - citybiz: https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5
+  - Private Equity Professional: https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5
+  - Pulse 2.0: https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5
+
+**Feed description:** Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional
+
+## 46. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -540,46 +580,6 @@
   - Morningstar: https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVZ4dzMzZGYtN0ZtTTlCMV8xendlNkxXaEpsNWJwT090TjZTTUZzRV9UbktQU19kNUExZmhDNHhpbHJYS1IwMVhvdmxvUWs2bXVNeE1MSDhPeVZJTXVEUFkzX1lJa21EcVI0UEFzS0p5RUZaX05IYnpZbnF6WmE1blZINDZ4ZURnYXlKMjY4SlZvVEhXTFdsMFc2RUFqSWpQekV6UHctdDRfUHpvXzcwdUhaR1BhWHpFbklacUlMR3Nmbm9rY0hJS1ZpSQ?oc=5
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
-
-## 44. Quest Diagnostics stock edges lower after insider sale and UBS target hike
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
-
-**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
-
-## 45. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
-
-- **Company:** Labcorp
-- **Publication date:** 09 Sep 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Indian Pharma Post: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
-  - Indian Pharma Post: https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVcwaTBUM0dEcnhDVkFDUjh2QWZOZk11TmlrR18tUnlhendodGlvSHVTWktuQ3paVXVjVUNLVEJTSG5SV2NET05WWDBWWlBSSHVaS3ZoOEUwaFgzQnFwRkVZVmQ0TEJ0dlJYQ2Z4OEhjN21xVHpPd2hyZEN2UVJJaVN0OWdJZ1dEaS1sWDB4UWpxQ3Jza1pYQ2pQNHBYZzNESC1yYUFHcFJ6UVlfWTFSUzJEUDY3SXB0RkFmaF9TcGFJNHo2ZVAwZWNBaG9rd9IB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
-
-**Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services indianpharmapost.com
-
-## 46. Great Point Partners III Sells MLM Medical Labs to Labcorp
-
-- **Company:** Labcorp
-- **Publication date:** 09 Sep 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - BioSpace: https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5
-  - citybiz: https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5
-  - Private Equity Professional: https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5
-  - Pulse 2.0: https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5
-
-**Feed description:** Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional
 
 ## 47. Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer
 

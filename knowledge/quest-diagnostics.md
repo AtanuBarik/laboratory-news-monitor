@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 17 Sep 2026, 5:38 PM IST
+- **Repository generated:** 17 Sep 2026, 10:47 PM IST
 - **Distinct events in this file:** 134
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -229,7 +229,19 @@
 
 **Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
-## 19. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 19. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
+
+**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
+
+## 20. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -244,18 +256,6 @@
   - Morningstar: https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVZ4dzMzZGYtN0ZtTTlCMV8xendlNkxXaEpsNWJwT090TjZTTUZzRV9UbktQU19kNUExZmhDNHhpbHJYS1IwMVhvdmxvUWs2bXVNeE1MSDhPeVZJTXVEUFkzX1lJa21EcVI0UEFzS0p5RUZaX05IYnpZbnF6WmE1blZINDZ4ZURnYXlKMjY4SlZvVEhXTFdsMFc2RUFqSWpQekV6UHctdDRfUHpvXzcwdUhaR1BhWHpFbklacUlMR3Nmbm9rY0hJS1ZpSQ?oc=5
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
-
-## 20. Quest Diagnostics stock edges lower after insider sale and UBS target hike
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
-
-**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
 
 ## 21. Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth
 
