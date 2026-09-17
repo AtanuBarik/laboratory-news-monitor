@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T22:47:14.551146+05:30",
-  "generated_at_display": "17 Sep 2026, 10:47 PM IST",
+  "generated_at": "2026-09-18T03:17:28.899732+05:30",
+  "generated_at_display": "18 Sep 2026, 3:17 AM IST",
   "item_count": 285,
-  "raw_relevant_item_count": 480,
-  "duplicates_merged": 106,
+  "raw_relevant_item_count": 478,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -745,36 +745,6 @@
       "event_signature": "2026 brings but day falls fresh investor lift long targets term"
     },
     {
-      "id": "9a1370ffdef6e6e28518",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock gains on Apple Health lab testing partnership",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
-      "description": "Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-10T17:22:59+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-10T17:22:59+00:00"
-        },
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-11T09:20:18+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "apple gains health lab partnership stock testing"
-    },
-    {
       "id": "b73136df616a847aa222",
       "company": "Labcorp",
       "title": "Labcorp reaffirms 2026 guidance, sets outlook through 2029",
@@ -1255,6 +1225,36 @@
       "event_signature": "able app apple health labs order users"
     },
     {
+      "id": "9a1370ffdef6e6e28518",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock gains on Apple Health lab testing partnership",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
+      "description": "Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-09T07:00:00+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-11T09:20:18+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "apple gains health lab partnership stock testing"
+    },
+    {
       "id": "aca11e78dc910ff7be06",
       "company": "Labcorp",
       "title": "Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer",
@@ -1489,9 +1489,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5",
           "domain": "medtechdive.com",
           "published_at": "2026-09-09T14:45:29+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNk8yTXNtWVQzWE40MjhjeG1VeHkydXAwZ0ticHRjM1p6WFAxUFlLRHMwOHdXQW9QVDNCbUVScFpNN0RCdm05eTFMUW01eDQ0enRqN195QkJjQmpDTVpaVVhQTW51X3NPa0lleTZWRXctUEJLa3lCbzFZQ0xWSm81SjdvbjMwc0dsZFU3eGlpdGcxTV9Rdm9iMVpn?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-09T07:00:00+00:00"
         }
       ],
-      "coverage_count": 9,
+      "coverage_count": 10,
       "event_signature": "acquires expand global labs medical mlm network"
     },
     {
@@ -9790,10 +9796,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 89,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-18T00:17:00+05:30",
-  "next_update_display": "18 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-18T06:17:00+05:30",
+  "next_update_display": "18 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
