@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 18 Sep 2026, 3:17 AM IST
+- **Repository generated:** 18 Sep 2026, 10:45 AM IST
 - **Distinct events in this file:** 27
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXN0bGh4cjhxQ2JWakNwa3RNZVJ3UmpWSWRXUkpWOHFlVGZHSmh3RjlNZk9QRGRtb3p6SGZGbW52VERjbW9EZ2FndHVPQnhIWkVXYVk2YWc5S0dtYnk4cVFCV2lrNVpNXzNuZjY2eVJfWERaUmhkblBPZEhzWUFYdnJ4TmtubnN2b2g0MVV1UVlMdXZIMUFPZ2FERnpYS2RMcGxyNHRB?oc=5
 
-**Feed description:** Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? Kalkine Media
+**Feed description:** Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? kalkinemedia.com
 
 ## 2. Are Margins Turning for Sonic Healthcare?
 

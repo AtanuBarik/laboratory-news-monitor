@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-18T03:17:28.899732+05:30",
-  "generated_at_display": "18 Sep 2026, 3:17 AM IST",
-  "item_count": 285,
+  "generated_at": "2026-09-18T10:45:37.780959+05:30",
+  "generated_at_display": "18 Sep 2026, 10:45 AM IST",
+  "item_count": 287,
   "raw_relevant_item_count": 478,
-  "duplicates_merged": 104,
+  "duplicates_merged": 101,
   "failures": [],
   "items": [
+    {
+      "id": "b74c7bee9e554d50a8af",
+      "company": "Labcorp",
+      "title": "Labcorp stock gains after Q2 2026 results and raised guidance",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5",
+      "description": "Labcorp stock gains after Q2 2026 results and raised guidance ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-17T16:13:56+00:00",
+      "published_display": "17 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-17T16:13:56+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after gains guidance raised results stock"
+    },
     {
       "id": "ce7869897003b5c9f2d8",
       "company": "Quest Diagnostics",
@@ -319,6 +343,30 @@
       "event_signature": "after beat earnings guidance reaffirmation steadies stock"
     },
     {
+      "id": "d22014d55f59b5e8de88",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3pSLW5DV0E3LXJMdXZOLU9rWjl1V3BZb0FfVmNydmFBYUFVN0dQM01ObmxfcG1LdXhaUjdfODhNQndCb3hyYWZtLUpPQ0tVRnRNMjlyT2ZOT3FYdHhtMmZNeVBZOG90RnNLanhaYkJHbnpMVFg0VWk2MmlaMTFWakJzV2lQOGNtdjI4MHQ4ang5MmpZdUJOSEVNZDBqRGJUeUI2TC1lamZDMWduVzQwSnZlcTE4QkhTZXlQcWxrcHhLVGlIblUwUmJVYw?oc=5",
+      "description": "Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure Morningstar",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "source_domain": "morningstar.com",
+      "published_at": "2026-09-14T18:14:27+00:00",
+      "published_display": "14 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU3pSLW5DV0E3LXJMdXZOLU9rWjl1V3BZb0FfVmNydmFBYUFVN0dQM01ObmxfcG1LdXhaUjdfODhNQndCb3hyYWZtLUpPQ0tVRnRNMjlyT2ZOT3FYdHhtMmZNeVBZOG90RnNLanhaYkJHbnpMVFg0VWk2MmlaMTFWakJzV2lQOGNtdjI4MHQ4ang5MmpZdUJOSEVNZDBqRGJUeUI2TC1lamZDMWduVzQwSnZlcTE4QkhTZXlQcWxrcHhLVGlIblUwUmJVYw?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-14T18:14:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "attractive carved cost has moat narrow out structure"
+    },
+    {
       "id": "ad90a1f2251a370d03b3",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com",
@@ -359,7 +407,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics: Investor Outlook Highlights 4.98% Potential Upside",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYWNITUJNU01ncHVXQmhPQnBhMlV2T293dTZnUG9pbDRrc1dIMmlkVjlIVVVmRXJ4RWFfZkJ5aUE0QmtNY1gyUUZ1WG9CSTJpU1J1T0xnVXdzUGQybVdmWWp4Y2ViLVZWUHlaeHUwT2FMRDUtZVZiejNhYndOcmh4YnJMNDViVmNiaXNfYkRNbXpmZm1RSGlaNEdkZ1loZEhrWDVkV0ppa2M1UGZLTk53a2l3eE5XcGlqcnAwc2syQQ?oc=5",
-      "description": "Quest Diagnostics (DGX): Investor Outlook Highlights 4.98% Potential Upside DirectorsTalk Interviews",
+      "description": "Quest Diagnostics (DGX): Investor Outlook Highlights 4.98% Potential Upside directorstalkinterviews.com",
       "source": "DirectorsTalk Interviews",
       "source_url": "https://www.directorstalkinterviews.com",
       "source_domain": "directorstalkinterviews.com",
@@ -403,9 +451,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGdubm91eVl5VjNzaGM3Y0tYLVZLdW1YdWRDS2NtQXlNWnRXd3hXS3dpLXZNMzR4TzEzOEtqY01Qdk0wejRBb3J2eG9vcWlMRmNRdjJfa3JPZkdvbFZiNXVQWDJLeHhHSENlVDhUanBxYlhhYkk5d3JOS3BSUFZwRnVZWnBib3JhdmZRVmNrUURhWXZ1MzZQeVRObVBZYzdWN0hPaEMtSzZDUnhRUlhhb0xQWGtNSHBGX2JXaG9GRU9iYVpOa0hQY05HNzl4dw?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-17T04:31:47+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFdoVjEwaUlCaWNEMnhEdG4zVW0tdFFBOEJKQnlZX2RZbzhKZ3lPaktLZkV1TzExWWpya0RzNjczdmFXZksyMDRiRlFxUjRfdFNLQmEwejEtQXlpRGRWam5ycThIS2hQLTB6clgwX2drbFU0Rk10TzB0Z0FtWjhyZ0VldGU5RmVjeWhValNtdngzSHo2cHM0OUNpalVEcWJmSkROOC0xMEhOWXAyTDlCS2FWcHBDLWVDT1VROU14WDNNTUE?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-18T01:15:41+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "after gain heads open stock"
     },
     {
@@ -413,7 +467,7 @@
       "company": "Sonic Healthcare",
       "title": "Which Markets Are Lifting Sonic Healthcare Revenue?",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNXN0bGh4cjhxQ2JWakNwa3RNZVJ3UmpWSWRXUkpWOHFlVGZHSmh3RjlNZk9QRGRtb3p6SGZGbW52VERjbW9EZ2FndHVPQnhIWkVXYVk2YWc5S0dtYnk4cVFCV2lrNVpNXzNuZjY2eVJfWERaUmhkblBPZEhzWUFYdnJ4TmtubnN2b2g0MVV1UVlMdXZIMUFPZ2FERnpYS2RMcGxyNHRB?oc=5",
-      "description": "Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? Kalkine Media",
+      "description": "Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? kalkinemedia.com",
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
@@ -1357,48 +1411,6 @@
       "event_signature": "acquires central lab labs medical mlm provider services"
     },
     {
-      "id": "692205b0b1bc2bc14349",
-      "company": "Labcorp",
-      "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
-      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-09-08T13:05:00+00:00",
-      "published_display": "08 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-09-08T13:05:00+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-09-08T14:30:23+00:00"
-        },
-        {
-          "name": "Medical Buyer",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQlNZVTNfc2d0Z3pNVmlMYnVJNndRVEpIWVpoeEprUHNsYjRiU1FNekxoZGNZSEJ0T2NFeXpXZXJSdDVhZ0J5YXNUSFo2c0ROZEZZT3pQWk5IV242VDJwbFBLQkp3RWxQZWxzV3NB?oc=5",
-          "domain": "medicalbuyer.co.in",
-          "published_at": "2026-09-09T11:37:30+00:00"
-        },
-        {
-          "name": "MedTech Dive",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5",
-          "domain": "medtechdive.com",
-          "published_at": "2026-09-09T14:45:29+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
-    },
-    {
       "id": "1f2f7b914163bde49e9c",
       "company": "Labcorp",
       "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
@@ -1499,6 +1511,48 @@
       ],
       "coverage_count": 10,
       "event_signature": "acquires expand global labs medical mlm network"
+    },
+    {
+      "id": "692205b0b1bc2bc14349",
+      "company": "Labcorp",
+      "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
+      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-08T14:30:23+00:00"
+        },
+        {
+          "name": "Medical Buyer",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQlNZVTNfc2d0Z3pNVmlMYnVJNndRVEpIWVpoeEprUHNsYjRiU1FNekxoZGNZSEJ0T2NFeXpXZXJSdDVhZ0J5YXNUSFo2c0ROZEZZT3pQWk5IV242VDJwbFBLQkp3RWxQZWxzV3NB?oc=5",
+          "domain": "medicalbuyer.co.in",
+          "published_at": "2026-09-09T11:37:30+00:00"
+        },
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-09-09T14:45:29+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
     },
     {
       "id": "ebe750529cb72224cbd0",
@@ -9796,10 +9850,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 90,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-18T06:17:00+05:30",
-  "next_update_display": "18 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-18T12:17:00+05:30",
+  "next_update_display": "18 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
