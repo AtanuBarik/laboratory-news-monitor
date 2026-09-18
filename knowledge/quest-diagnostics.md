@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 18 Sep 2026, 10:45 AM IST
+- **Repository generated:** 18 Sep 2026, 5:21 PM IST
 - **Distinct events in this file:** 135
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -95,11 +95,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Sep 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Investing.com UK: https://news.google.com/rss/articles/CBMirwFBVV95cUxQTklIZnZta1F3eklfWmYtRWx4dk1HdW5VaFJXRUVpVnQ1dzlMZHE4VVRIR1pwbnA0cnl1bGJLZFR3WUpqR0otUXY0UnhCSGM4OXdFOGJLRndZMFQ4blNyTnljclBKLU13ZGRZQllSZTNfQ0hSMTJ4dm5SUzdwMnN2NGhfUGtJMlp3VXEyZXl0MUk4Y1VvM2E5UVhzRlFrbDI5MlRrbzVvRHFSZ0RSRmxJ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXdmQkFoenYxWHVTVHpkcTh0bzRTZ1h6Wk9Oa1BEZEpmRWh0Vi15bTV2RWpZd04xeTNQQ1ZNbHRLODIxR201WGtBdmVRWUtueHVtdmNrWllSVmJVMjUzZjN1ZE1SQmhpaExFWXpSZHpHcktLSl9IWTRFcGUxRldaZlI0YUZpNHFiR2N6SHpmV3E4dHNLTDc4RUxQTi1JakdmQXRnWWd4bEk4UQ?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXFuMEFJR1gydzEwYW0zRWtZVUJNUzlWU1o5UDdWTWZoQUtBYy1iS3d5TTEtdmcwb1J2WFVHT3dydmsyTHNqZ1dsYzRXV01VVzh4QThIV2plN3dtZzlTWWpDQjlPSXp2UWw1eEVQejU0UGdZcDdvOHB2aTVUQlZYUHdvOXVKbVl2ZVEwQ1RxVUExajFoT3EwbHpnaXFkYVdaSXEzclFxMGo1SEt4U0w4?oc=5
 
 **Feed description:** Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com UK
 
@@ -229,19 +230,7 @@
 
 **Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
-## 19. Quest Diagnostics stock edges lower after insider sale and UBS target hike
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
-
-**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
-
-## 20. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 19. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -257,7 +246,7 @@
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
 
-## 21. Quest Diagnostics stock gains on Apple Health lab testing partnership
+## 20. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -269,6 +258,18 @@
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
+
+## 21. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
+
+**Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
 
 ## 22. Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth
 

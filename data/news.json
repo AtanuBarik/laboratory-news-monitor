@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-18T10:45:37.780959+05:30",
-  "generated_at_display": "18 Sep 2026, 10:45 AM IST",
-  "item_count": 287,
-  "raw_relevant_item_count": 478,
+  "generated_at": "2026-09-18T17:21:43.134225+05:30",
+  "generated_at_display": "18 Sep 2026, 5:21 PM IST",
+  "item_count": 288,
+  "raw_relevant_item_count": 481,
   "duplicates_merged": 101,
   "failures": [],
   "items": [
@@ -253,9 +253,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXdmQkFoenYxWHVTVHpkcTh0bzRTZ1h6Wk9Oa1BEZEpmRWh0Vi15bTV2RWpZd04xeTNQQ1ZNbHRLODIxR201WGtBdmVRWUtueHVtdmNrWllSVmJVMjUzZjN1ZE1SQmhpaExFWXpSZHpHcktLSl9IWTRFcGUxRldaZlI0YUZpNHFiR2N6SHpmV3E4dHNLTDc4RUxQTi1JakdmQXRnWWd4bEk4UQ?oc=5",
           "domain": "investing.com",
           "published_at": "2026-09-15T15:37:04+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXFuMEFJR1gydzEwYW0zRWtZVUJNUzlWU1o5UDdWTWZoQUtBYy1iS3d5TTEtdmcwb1J2WFVHT3dydmsyTHNqZ1dsYzRXV01VVzh4QThIV2plN3dtZzlTWWpDQjlPSXp2UWw1eEVQejU0UGdZcDdvOHB2aTVUQlZYUHdvOXVKbVl2ZVEwQ1RxVUExajFoT3EwbHpnaXFkYVdaSXEzclFxMGo1SEt4U0w4?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-09-15T15:35:32+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "247 all com high hits investing stock time"
     },
     {
@@ -1135,30 +1141,6 @@
       "event_signature": "2026 app apple buy can directly health lab late starting tests users"
     },
     {
-      "id": "8bf8eccdb47bfb651cb9",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock edges lower after insider sale and UBS target hike",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
-      "description": "Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-09T15:07:15+00:00",
-      "published_display": "09 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-09T15:07:15+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after edges hike insider lower sale stock target ubs"
-    },
-    {
       "id": "fe25212c7539ce16b122",
       "company": "Labcorp",
       "title": "Labcorp acquires MLM Medical Labs to strengthen global clinical trial services",
@@ -1307,6 +1289,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "apple gains health lab partnership stock testing"
+    },
+    {
+      "id": "8bf8eccdb47bfb651cb9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock edges lower after insider sale and UBS target hike",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
+      "description": "Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-09T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after edges hike insider lower sale stock target ubs"
     },
     {
       "id": "aca11e78dc910ff7be06",
@@ -3321,6 +3327,30 @@
         "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
         "https://www.prnewswire.com/news-releases/roche-receives-fda-clearance-for-elecsys-ptau217-advancing-alzheimers-disease-assessment-across-primary-and-specialty-care-302857619.html"
       ]
+    },
+    {
+      "id": "acdad8c289f257e8fc8e",
+      "company": "Labcorp",
+      "title": "Labcorp Quarterly Results: EPS Comes in Above Forecast for the Current Session; Post-Report",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQ2hyUnEtRDFKTjZrSmRiMGlvOTh2cGEzRGI0ZHhhckZkdy1TNnZ1dEx1R2pZOUZUMkJ5RUpsQVE1NmVSdXc5UWRQY0xNdFRLTi1NWTh3cTFWQVh3Q3VQNWhqWHNkbUVGd1ZzZnV2RS15Um44eDdkbkRSSGgyWUlDRkZmS2gwQTg0bjBRVHV6RnlybG13WEk2bXExQkhYLXlJTUI1NE5GRkpyaVFETHQtRjVrQmpWOW9IQ2RmS2N5RGlESkN5N29BanZXRkEzdWhLMkZnSnRnYnRneEVIVGdPTW9DazQ4LS1FRUduNEdKZnJXd2xBdDdHdlZvYkN3WkVtdjJ3VGdxWjNTYklSU1BMeHNUSnJYWkI0cXc?oc=5",
+      "description": "Labcorp (LH) Quarterly Results: EPS Comes in Above Forecast for the Current Session; Post-Report CarePlus VietNam",
+      "source": "CarePlus VietNam",
+      "source_url": "https://careplusvn.com",
+      "source_domain": "careplusvn.com",
+      "published_at": "2026-08-24T07:00:00+00:00",
+      "published_display": "24 Aug 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CarePlus VietNam",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNQ2hyUnEtRDFKTjZrSmRiMGlvOTh2cGEzRGI0ZHhhckZkdy1TNnZ1dEx1R2pZOUZUMkJ5RUpsQVE1NmVSdXc5UWRQY0xNdFRLTi1NWTh3cTFWQVh3Q3VQNWhqWHNkbUVGd1ZzZnV2RS15Um44eDdkbkRSSGgyWUlDRkZmS2gwQTg0bjBRVHV6RnlybG13WEk2bXExQkhYLXlJTUI1NE5GRkpyaVFETHQtRjVrQmpWOW9IQ2RmS2N5RGlESkN5N29BanZXRkEzdWhLMkZnSnRnYnRneEVIVGdPTW9DazQ4LS1FRUduNEdKZnJXd2xBdDdHdlZvYkN3WkVtdjJ3VGdxWjNTYklSU1BMeHNUSnJYWkI0cXc?oc=5",
+          "domain": "careplusvn.com",
+          "published_at": "2026-08-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "above comes current eps forecast post quarterly report results session"
     },
     {
       "id": "403288b5f818c5e8cd2a",
@@ -9850,10 +9880,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 92,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-18T12:17:00+05:30",
-  "next_update_display": "18 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-18T18:17:00+05:30",
+  "next_update_display": "18 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
