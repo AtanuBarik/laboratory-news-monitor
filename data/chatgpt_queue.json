@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T22:40:34.841421+05:30",
-  "generated_at_display": "18 Sep 2026, 10:40 PM IST",
+  "generated_at": "2026-09-19T02:46:46.991622+05:30",
+  "generated_at_display": "19 Sep 2026, 2:46 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -423,25 +423,6 @@
       ]
     },
     {
-      "id": "76ac25cf6183696601f9",
-      "company": "Quest Diagnostics",
-      "category": "Clinical, R&D",
-      "title": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works",
-      "source": "The Mac Observer",
-      "description": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer",
-      "published_at": "2026-09-09T21:21:35+00:00",
-      "published_display": "09 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5",
-      "sources": [
-        {
-          "name": "The Mac Observer",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f3441bb91bbd8285652a",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
@@ -488,6 +469,25 @@
         {
           "name": "Pulse 2.0",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "46ce4c1388bf82f42e3c",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works",
+      "source": "macobserver.com",
+      "description": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5",
+      "sources": [
+        {
+          "name": "macobserver.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5"
         }
       ]
     },

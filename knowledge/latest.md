@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 18 Sep 2026, 10:14 PM IST
+- **Repository generated:** 19 Sep 2026, 2:46 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -367,20 +367,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
 
-## 30. Labcorp reaffirms 2026 guidance, sets outlook through 2029
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5
-  - Investing.com South Africa: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5
-
-**Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
-
-## 31. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
+## 30. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -392,7 +379,7 @@
 
 **Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
 
-## 32. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 31. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -404,7 +391,7 @@
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
-## 33. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
+## 32. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Sep 2026
@@ -416,7 +403,7 @@
 
 **Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com
 
-## 34. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
+## 33. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -428,21 +415,7 @@
 
 **Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
 
-## 35. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
-  - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTNvaVhVamI4dVZYMmJBZ2x6YWJyVzluNTVDbG9oeVBUcE5oazlTV0MxZUdQWkRWNWgycTg1Um1ycXUybHJoVHJTWnpZZk5ySGE0SzZjT0k2aG5mZTA1andGb1Jod29iNjlDX2JxRDdsX2lmb1VabjRWcUQ5dkdkMk92YWRMdFZfOEVzeDVjQzItbXZ0ZmpNQTJ0V1dhcmtOYU9tQ1dzZGVTWDV0?oc=5
-
-**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
-
-## 36. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 34. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -454,7 +427,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus
 
-## 37. Labcorp to Host Investor Day on September 10, 2026
+## 35. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -466,7 +439,7 @@
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
 
-## 38. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+## 36. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -477,6 +450,33 @@
   - Quiver Quantitative: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5
 
 **Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
+
+## 37. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTNvaVhVamI4dVZYMmJBZ2x6YWJyVzluNTVDbG9oeVBUcE5oazlTV0MxZUdQWkRWNWgycTg1Um1ycXUybHJoVHJTWnpZZk5ySGE0SzZjT0k2aG5mZTA1andGb1Jod29iNjlDX2JxRDdsX2lmb1VabjRWcUQ5dkdkMk92YWRMdFZfOEVzeDVjQzItbXZ0ZmpNQTJ0V1dhcmtOYU9tQ1dzZGVTWDV0?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
+
+**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
+
+## 38. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5
+
+**Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
 ## 39. Mayo Clinic Laboratories to bring testing operations to Southaven
 
@@ -503,19 +503,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
 
-## 41. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - The Mac Observer: https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5
-
-**Feed description:** Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer
-
-## 42. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
+## 41. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -527,7 +515,7 @@
 
 **Feed description:** Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products
 
-## 43. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
+## 42. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -539,7 +527,7 @@
 
 **Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
-## 44. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
+## 43. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
 
 - **Company:** Labcorp
 - **Publication date:** 09 Sep 2026
@@ -552,7 +540,7 @@
 
 **Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services indianpharmapost.com
 
-## 45. Great Point Partners III Sells MLM Medical Labs to Labcorp
+## 44. Great Point Partners III Sells MLM Medical Labs to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 09 Sep 2026
@@ -567,7 +555,7 @@
 
 **Feed description:** Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional
 
-## 46. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 45. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -583,7 +571,7 @@
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
 
-## 47. Quest Diagnostics stock gains on Apple Health lab testing partnership
+## 46. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -596,7 +584,7 @@
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
 
-## 48. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+## 47. Quest Diagnostics stock edges lower after insider sale and UBS target hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -607,6 +595,18 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
 
 **Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
+
+## 48. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - macobserver.com: https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5
+
+**Feed description:** Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer
 
 ## 49. Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer
 

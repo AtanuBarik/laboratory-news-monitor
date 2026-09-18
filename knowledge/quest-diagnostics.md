@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 18 Sep 2026, 10:14 PM IST
+- **Repository generated:** 19 Sep 2026, 2:46 AM IST
 - **Distinct events in this file:** 135
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -195,19 +195,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
 
-## 16. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - The Mac Observer: https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5
-
-**Feed description:** Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer
-
-## 17. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
+## 16. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -219,7 +207,7 @@
 
 **Feed description:** Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products
 
-## 18. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
+## 17. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -231,7 +219,7 @@
 
 **Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
-## 19. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 18. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -247,7 +235,7 @@
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
 
-## 20. Quest Diagnostics stock gains on Apple Health lab testing partnership
+## 19. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -260,7 +248,7 @@
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
 
-## 21. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+## 20. Quest Diagnostics stock edges lower after insider sale and UBS target hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -271,6 +259,18 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQUMtd0d2WWZRMTJTS1NabzlpbDNORWN0UEkzNG1kTUxmY3pKbzNfcG5SWWQ3TVlVZ3g0NXlaajAxNFpKbTBIb2laM1hqMEFoUHBZSXowQVVyMW5USm0zX1g1ckVpLWozZkZkeUpTb1ZNb2V6Q3dxQzBYd3hqbGNYQ1g1LW9mRjJMYi14TmE5eWNSTnJ4UDNyZG82eFozZ3YtYXBDbTVwZGU5V3RLa2JPc1U1ZUxkZXh4MzUteWlpMHJsU2Zwb0VOZDZPT04zUnRjUzBJ?oc=5
 
 **Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
+
+## 21. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - macobserver.com: https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5
+
+**Feed description:** Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer
 
 ## 22. Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth
 

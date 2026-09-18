@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 18 Sep 2026, 10:14 PM IST
+- **Repository generated:** 19 Sep 2026, 2:46 AM IST
 - **Distinct events in this file:** 122
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -140,20 +140,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
 
-## 12. Labcorp reaffirms 2026 guidance, sets outlook through 2029
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5
-  - Investing.com South Africa: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5
-
-**Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
-
-## 13. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
+## 12. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -165,7 +152,7 @@
 
 **Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
 
-## 14. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 13. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -177,7 +164,7 @@
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
-## 15. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
+## 14. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -189,21 +176,7 @@
 
 **Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
 
-## 16. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
-  - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTNvaVhVamI4dVZYMmJBZ2x6YWJyVzluNTVDbG9oeVBUcE5oazlTV0MxZUdQWkRWNWgycTg1Um1ycXUybHJoVHJTWnpZZk5ySGE0SzZjT0k2aG5mZTA1andGb1Jod29iNjlDX2JxRDdsX2lmb1VabjRWcUQ5dkdkMk92YWRMdFZfOEVzeDVjQzItbXZ0ZmpNQTJ0V1dhcmtOYU9tQ1dzZGVTWDV0?oc=5
-
-**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
-
-## 17. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 15. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -215,7 +188,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus
 
-## 18. Labcorp to Host Investor Day on September 10, 2026
+## 16. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -227,7 +200,7 @@
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
 
-## 19. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+## 17. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -238,6 +211,33 @@
   - Quiver Quantitative: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5
 
 **Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
+
+## 18. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTNvaVhVamI4dVZYMmJBZ2x6YWJyVzluNTVDbG9oeVBUcE5oazlTV0MxZUdQWkRWNWgycTg1Um1ycXUybHJoVHJTWnpZZk5ySGE0SzZjT0k2aG5mZTA1andGb1Jod29iNjlDX2JxRDdsX2lmb1VabjRWcUQ5dkdkMk92YWRMdFZfOEVzeDVjQzItbXZ0ZmpNQTJ0V1dhcmtOYU9tQ1dzZGVTWDV0?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
+
+**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
+
+## 19. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3g4MTBXVlpxVF9wOGY5OTFLOXI0dGRDcmYzM09maHR4QWtkaW0tMG1aVUQ1M0NDcU1RdEV2ZVRDS0FmdjZVMndvNFlsZTRhSnhBdjRVQzFxXzNDZS05YmVyQ1JCeGo3RWRnMTBkc2xOX0VVUFNGSVE4TGlnUDZETGF0azAwbHl2SkpNQkExeDJIV3ZZNjJMZXdGZEhEc08yb3U0eFVfSm55T2E0QTFhbUUxTmI?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5
+
+**Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
 ## 20. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
 
