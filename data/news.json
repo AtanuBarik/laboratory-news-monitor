@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T17:21:43.134225+05:30",
-  "generated_at_display": "18 Sep 2026, 5:21 PM IST",
+  "generated_at": "2026-09-18T22:14:25.524948+05:30",
+  "generated_at_display": "18 Sep 2026, 10:14 PM IST",
   "item_count": 288,
-  "raw_relevant_item_count": 481,
-  "duplicates_merged": 101,
+  "raw_relevant_item_count": 485,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -373,19 +373,25 @@
       "event_signature": "attractive carved cost has moat narrow out structure"
     },
     {
-      "id": "ad90a1f2251a370d03b3",
+      "id": "581eea4f4a74debf1d9d",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
+      "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2xTZnpBX3RiR3Nnenp5WVMzdmpISjRvc1VTci1jMHlBRm5FR2VPaEpETnVyN0NRYVhXU3dmVmkxSlZ5V0RUd3Nvd2FzeG5Tei1YOEwwZEs0c2t2N0ItX3p1b1NoZ1dLb19hdjZJS3U0SFFaQUNGTXRXRG9ObC03Y2ZHZlk2M1NCTGxQYWtrYk1sUVBWaUdRVjlKaDFyNnJ5My1QRG9feXhqM2lvbzV2eXFUVHI0cFdFcnc?oc=5",
       "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com South Africa",
-      "source": "Investing.com Canada",
-      "source_url": "https://ca.investing.com",
-      "source_domain": "ca.investing.com",
-      "published_at": "2026-09-14T14:54:59+00:00",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-09-14T14:51:25+00:00",
       "published_display": "14 Sep 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2xTZnpBX3RiR3Nnenp5WVMzdmpISjRvc1VTci1jMHlBRm5FR2VPaEpETnVyN0NRYVhXU3dmVmkxSlZ5V0RUd3Nvd2FzeG5Tei1YOEwwZEs0c2t2N0ItX3p1b1NoZ1dLb19hdjZJS3U0SFFaQUNGTXRXRG9ObC03Y2ZHZlk2M1NCTGxQYWtrYk1sUVBWaUdRVjlKaDFyNnJ5My1QRG9feXhqM2lvbzV2eXFUVHI0cFdFcnc?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-09-14T14:51:25+00:00"
+        },
         {
           "name": "Investing.com Canada",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5",
@@ -405,8 +411,8 @@
           "published_at": "2026-09-15T06:33:25+00:00"
         }
       ],
-      "coverage_count": 3,
-      "event_signature": "broadens com conference growth investing morgan stanley"
+      "coverage_count": 4,
+      "event_signature": "broadens conference growth morgan stanley"
     },
     {
       "id": "66abb5aef21ff0cf2627",
@@ -781,30 +787,6 @@
       "event_signature": "2029 bets big drive growth specialty testing through"
     },
     {
-      "id": "ee61e4c8e10a53d3a94c",
-      "company": "Labcorp",
-      "title": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
-      "description": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative",
-      "source": "quiverquant.com",
-      "source_url": "https://www.quiverquant.com",
-      "source_domain": "quiverquant.com",
-      "published_at": "2026-09-10T17:36:00+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "quiverquant.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
-          "domain": "quiverquant.com",
-          "published_at": "2026-09-10T17:36:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 brings but day falls fresh investor lift long targets term"
-    },
-    {
       "id": "b73136df616a847aa222",
       "company": "Labcorp",
       "title": "Labcorp reaffirms 2026 guidance, sets outlook through 2029",
@@ -1013,6 +995,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 day host investor september"
+    },
+    {
+      "id": "2d8080bc9db565826bcb",
+      "company": "Labcorp",
+      "title": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
+      "description": "Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 brings but day falls fresh investor lift long targets term"
     },
     {
       "id": "d3b51ae4607e32db1780",
@@ -9880,10 +9886,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 93,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-18T18:17:00+05:30",
-  "next_update_display": "18 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-19T00:17:00+05:30",
+  "next_update_display": "19 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

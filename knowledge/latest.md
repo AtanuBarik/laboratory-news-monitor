@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 18 Sep 2026, 5:21 PM IST
+- **Repository generated:** 18 Sep 2026, 10:14 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -178,14 +178,15 @@
 
 **Feed description:** Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure Morningstar
 
-## 15. Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com
+## 15. Quest Diagnostics at Morgan Stanley conference: growth broadens
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2xTZnpBX3RiR3Nnenp5WVMzdmpISjRvc1VTci1jMHlBRm5FR2VPaEpETnVyN0NRYVhXU3dmVmkxSlZ5V0RUd3Nvd2FzeG5Tei1YOEwwZEs0c2t2N0ItX3p1b1NoZ1dLb19hdjZJS3U0SFFaQUNGTXRXRG9ObC03Y2ZHZlk2M1NCTGxQYWtrYk1sUVBWaUdRVjlKaDFyNnJ5My1QRG9feXhqM2lvbzV2eXFUVHI0cFdFcnc?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpCaDBRN0hlQklOaVdvZHJMZTltNElLZE5QdXRwSEpyXy1pQ21KcXBZRmNGMHIxQXowdzdFTGNMUTJNU0xEOWVpcWwxZXlnTUx3ZHZVUThTNXZkS1hPblVxWmk3VlNzYmktb3lMcHhSanZTdHhWZFZVZnBiZmhxZ3Z5eWdCbnFYMkQ4cjJsdlh1T0pJNmFaUkV3ODNXazMySlJUUFBBeTZhdjRsTnJVaEpITnF3d3k3T2RkaE1teHE?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY193VHRKQlJOeEdUTm1Id0traEVIU2FWZEIwZWpGN3p0eHJpSnNtOHdMaTNacWh5YkFzY25NV2kyejdOU0VuYllPWTdiZWl6MGJFZzBjNlBtYlp1ODZHMmRTM3hYbzRIa2lKQUN4bUMwa0ZHZlp2TVBLakFyN0M1dXFqWGtTY21tMU1IUHg5aGNBTWVKWEVuZUtwTWw0Y1BJMVk2dGYxQ0xFaVU0d2YxVVNBNGV4RGRuSnJZQ3BYMkE?oc=5
@@ -366,19 +367,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
 
-## 30. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - quiverquant.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5
-
-**Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
-
-## 31. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+## 30. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -391,7 +380,7 @@
 
 **Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
-## 32. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
+## 31. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -403,7 +392,7 @@
 
 **Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
 
-## 33. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 32. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -415,7 +404,7 @@
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
-## 34. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
+## 33. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Sep 2026
@@ -427,7 +416,7 @@
 
 **Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com
 
-## 35. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
+## 34. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -439,7 +428,7 @@
 
 **Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
 
-## 36. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+## 35. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -453,7 +442,7 @@
 
 **Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
 
-## 37. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 36. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -465,7 +454,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus
 
-## 38. Labcorp to Host Investor Day on September 10, 2026
+## 37. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -476,6 +465,18 @@
   - PR Newswire: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
+
+## 38. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Quiver Quantitative: https://news.google.com/rss/articles/CBMirwFBVV95cUxPTnJmLUhkM0U0QklubmFsMkt0eWlZUFgxOVNXcUhzNy1NUHFDSHhRYmRXblM5Z2tRcmVGc1RhQldDTk1HMUxKUVBYbzZKT0ExMERWSVVjZmtiRGFyb2tqVWpuMTJCLUpMcHpDaUo0Z05UZkE4S0h1ZmNpRWhJaHZXcEZybjBUUmpNVG92VmJvSllyMnRtdlJFYWVKdmIxWXRzaWhxTkdJdGZ3ZVU0b3Mw?oc=5
+
+**Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
 ## 39. Mayo Clinic Laboratories to bring testing operations to Southaven
 

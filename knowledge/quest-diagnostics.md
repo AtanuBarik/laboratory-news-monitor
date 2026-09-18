@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 18 Sep 2026, 5:21 PM IST
+- **Repository generated:** 18 Sep 2026, 10:14 PM IST
 - **Distinct events in this file:** 135
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -116,14 +116,15 @@
 
 **Feed description:** Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure Morningstar
 
-## 10. Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com
+## 10. Quest Diagnostics at Morgan Stanley conference: growth broadens
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2xTZnpBX3RiR3Nnenp5WVMzdmpISjRvc1VTci1jMHlBRm5FR2VPaEpETnVyN0NRYVhXU3dmVmkxSlZ5V0RUd3Nvd2FzeG5Tei1YOEwwZEs0c2t2N0ItX3p1b1NoZ1dLb19hdjZJS3U0SFFaQUNGTXRXRG9ObC03Y2ZHZlk2M1NCTGxQYWtrYk1sUVBWaUdRVjlKaDFyNnJ5My1QRG9feXhqM2lvbzV2eXFUVHI0cFdFcnc?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPakZwWERkaGJrUU15WHVNb2xNSlVVeHVoaFExWFNDVjVSb3BNSWRZS3V0SkZCdWtwSTMzR1VzVlhJQ0xxWWR3MEFUME5xdWJIQlNDbGN6Wnc2ZUFsM1VmLTRzLWhUNkxQaWFaUmtrbVY4S0g1aGc4VDlkT2dIZjFWWVFTd3JYVDdGa2lncER4aFlKLXlDRjRxUGRycW1fYmNyN3JIaXNxSTlrbVYzV3FpSzMzNHdQQWU1S201bndwdE0?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHpCaDBRN0hlQklOaVdvZHJMZTltNElLZE5QdXRwSEpyXy1pQ21KcXBZRmNGMHIxQXowdzdFTGNMUTJNU0xEOWVpcWwxZXlnTUx3ZHZVUThTNXZkS1hPblVxWmk3VlNzYmktb3lMcHhSanZTdHhWZFZVZnBiZmhxZ3Z5eWdCbnFYMkQ4cjJsdlh1T0pJNmFaUkV3ODNXazMySlJUUFBBeTZhdjRsTnJVaEpITnF3d3k3T2RkaE1teHE?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY193VHRKQlJOeEdUTm1Id0traEVIU2FWZEIwZWpGN3p0eHJpSnNtOHdMaTNacWh5YkFzY25NV2kyejdOU0VuYllPWTdiZWl6MGJFZzBjNlBtYlp1ODZHMmRTM3hYbzRIa2lKQUN4bUMwa0ZHZlp2TVBLakFyN0M1dXFqWGtTY21tMU1IUHg5aGNBTWVKWEVuZUtwTWw0Y1BJMVk2dGYxQ0xFaVU0d2YxVVNBNGV4RGRuSnJZQ3BYMkE?oc=5
