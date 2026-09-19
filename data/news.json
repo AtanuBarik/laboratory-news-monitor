@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T17:05:19.567484+05:30",
-  "generated_at_display": "19 Sep 2026, 5:05 PM IST",
+  "generated_at": "2026-09-19T21:35:23.918628+05:30",
+  "generated_at_display": "19 Sep 2026, 9:35 PM IST",
   "item_count": 289,
-  "raw_relevant_item_count": 482,
-  "duplicates_merged": 105,
+  "raw_relevant_item_count": 476,
+  "duplicates_merged": 102,
   "failures": [],
   "items": [
     {
@@ -817,30 +817,6 @@
       "event_signature": "2029 cagr fy26 guidance reaffirms revenue sets through"
     },
     {
-      "id": "c1da4dd433d70b84e941",
-      "company": "Labcorp",
-      "title": "Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFltYlZoVk1ucldzb0ZwWVhXX29OaWJjTDB0bmxBZDZPdEVTQU9Pa1BfQ1phcF9SQ2M4bm0xa2U1UE9KUzQ2dmQ5SnIwVVo5TTBYUnRUSGJnMEJha0tIY3RodkEwOTViUW91ZU01bENKMnR3N1BSNTUwT2w3eFo2Ml85VkJDNlhIQ2hOQ2FTbF9lTHZWeTdMVXhCMG1jZjRGSkNTd1hNRDdwUzB3R3BPb0RvR0FKRVlZZms0?oc=5",
-      "description": "Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-09-10T11:27:05+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFltYlZoVk1ucldzb0ZwWVhXX29OaWJjTDB0bmxBZDZPdEVTQU9Pa1BfQ1phcF9SQ2M4bm0xa2U1UE9KUzQ2dmQ5SnIwVVo5TTBYUnRUSGJnMEJha0tIY3RodkEwOTViUW91ZU01bENKMnR3N1BSNTUwT2w3eFo2Ml85VkJDNlhIQ2hOQ2FTbF9lTHZWeTdMVXhCMG1jZjRGSkNTd1hNRDdwUzB3R3BPb0RvR0FKRVlZZms0?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-09-10T11:27:05+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 guidance issues long outlook reiterates term"
-    },
-    {
       "id": "f239e96a33a1423f3cd4",
       "company": "Sonic Healthcare",
       "title": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare",
@@ -1049,6 +1025,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 2029 adjusted cagr eps guidance outlines outlook revenue"
+    },
+    {
+      "id": "35c5fbdd90c6bf3259f2",
+      "company": "Labcorp",
+      "title": "Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kSmdiZGt4SWNoWTRBcDhoajJZUXNIVE00WHZKWUF1ZDdTRXNfSkQtT2NlcklLMXNnR0ZXaWg5bU9uZUxaZDlZTlJ1eUFXeVdObjF3dTdOUC1pVVhjYUhCdEJRRdIBY0FVX3lxTE1kSmdiZGt4SWNoWTRBcDhoajJZUXNIVE00WHZKWUF1ZDdTRXNfSkQtT2NlcklLMXNnR0ZXaWg5bU9uZUxaZDlZTlJ1eUFXeVdObjF3dTdOUC1pVVhjYUhCdEJRRQ?oc=5",
+      "description": "Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com",
+      "source": "Bitget",
+      "source_url": "https://www.bitget.com",
+      "source_domain": "bitget.com",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bitget",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kSmdiZGt4SWNoWTRBcDhoajJZUXNIVE00WHZKWUF1ZDdTRXNfSkQtT2NlcklLMXNnR0ZXaWg5bU9uZUxaZDlZTlJ1eUFXeVdObjF3dTdOUC1pVVhjYUhCdEJRRdIBY0FVX3lxTE1kSmdiZGt4SWNoWTRBcDhoajJZUXNIVE00WHZKWUF1ZDdTRXNfSkQtT2NlcklLMXNnR0ZXaWg5bU9uZUxaZDlZTlJ1eUFXeVdObjF3dTdOUC1pVVhjYUhCdEJRRQ?oc=5",
+          "domain": "bitget.com",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFltYlZoVk1ucldzb0ZwWVhXX29OaWJjTDB0bmxBZDZPdEVTQU9Pa1BfQ1phcF9SQ2M4bm0xa2U1UE9KUzQ2dmQ5SnIwVVo5TTBYUnRUSGJnMEJha0tIY3RodkEwOTViUW91ZU01bENKMnR3N1BSNTUwT2w3eFo2Ml85VkJDNlhIQ2hOQ2FTbF9lTHZWeTdMVXhCMG1jZjRGSkNTd1hNRDdwUzB3R3BPb0RvR0FKRVlZZms0?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-10T11:27:05+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 guidance issues long outlook reiterates term"
     },
     {
       "id": "d3b51ae4607e32db1780",
@@ -9916,10 +9922,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 85,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-19T18:17:00+05:30",
-  "next_update_display": "19 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-20T00:17:00+05:30",
+  "next_update_display": "20 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
