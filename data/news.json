@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T02:46:43.540518+05:30",
-  "generated_at_display": "19 Sep 2026, 2:46 AM IST",
-  "item_count": 288,
-  "raw_relevant_item_count": 477,
-  "duplicates_merged": 98,
+  "generated_at": "2026-09-19T10:38:35.397897+05:30",
+  "generated_at_display": "19 Sep 2026, 10:38 AM IST",
+  "item_count": 289,
+  "raw_relevant_item_count": 483,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -29,6 +29,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 after gains guidance raised results stock"
+    },
+    {
+      "id": "8f63ec20f2b9a42c139c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - Estimate Dispersion",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWTMzVGJ2cDRGUW5LTFRWaF93NmxRS1JXWHBjTlhBMHFfa0ZkRHVfR181SDBRa0FaUHRlb1FILTlVZTdueW5KcXdnTUxrMHJJM0lpQTRVeVpIZmRIdExKbVpudWFTQUVJMXpPRXBrOV9kWmtRcnI3UXFUNjMtd1hheFFWaUpwRm13WWhfMGcwd3FXUEhHUVdJSFZyTkhCNW9fX09XNUhaUVZacXBhQy1lUzhhRXdCY3RRel9RWjc1aHl1VWtvMUxaUHJRSHZwZ0hZWG83Tko4WW1MYldDRjJ0NG02WDg4T1lkcnRz?oc=5",
+      "description": "Quest Diagnostics (DGX) Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - Estimate Dispersion CarePlus VietNam",
+      "source": "CarePlus VietNam",
+      "source_url": "https://careplusvn.com",
+      "source_domain": "careplusvn.com",
+      "published_at": "2026-09-17T13:30:27+00:00",
+      "published_display": "17 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CarePlus VietNam",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWTMzVGJ2cDRGUW5LTFRWaF93NmxRS1JXWHBjTlhBMHFfa0ZkRHVfR181SDBRa0FaUHRlb1FILTlVZTdueW5KcXdnTUxrMHJJM0lpQTRVeVpIZmRIdExKbVpudWFTQUVJMXpPRXBrOV9kWmtRcnI3UXFUNjMtd1hheFFWaUpwRm13WWhfMGcwd3FXUEhHUVdJSFZyTkhCNW9fX09XNUhaUVZacXBhQy1lUzhhRXdCY3RRel9RWjc1aHl1VWtvMUxaUHJRSHZwZ0hZWG83Tko4WW1MYldDRjJ0NG02WDg4T1lkcnRz?oc=5",
+          "domain": "careplusvn.com",
+          "published_at": "2026-09-17T13:30:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beat details dispersion earnings eps estimate fails move needle remain revenue unavailable"
     },
     {
       "id": "ce7869897003b5c9f2d8",
@@ -9886,10 +9910,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 90,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-19T06:17:00+05:30",
-  "next_update_display": "19 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-19T12:17:00+05:30",
+  "next_update_display": "19 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
