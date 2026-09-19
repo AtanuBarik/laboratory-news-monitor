@@ -1,21 +1,22 @@
 # Labcorp News
 
-- **Repository generated:** 19 Sep 2026, 9:35 PM IST
+- **Repository generated:** 20 Sep 2026, 2:34 AM IST
 - **Distinct events in this file:** 122
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Labcorp stock gains after Q2 2026 results and raised guidance
+## 1. Labcorp stock gains after Q2 2026 earnings and investor day guidance
 
 - **Company:** Labcorp
-- **Publication date:** 17 Sep 2026
+- **Publication date:** 16 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2tnaHB2ZEFObTBSMGttSEk2a0JtdlJuU0VaSHQyUlBFV05oRGxBUnBSV2JyWXo4UGxKNy1HZDR2NWNva3U2RlJJUTgxNjc1b2sydEF4ZXpvZGRwcC1mUlR0Z3d2Y1JMV3dTUHNWbVZ5N0RiNGZ4a1g1MkZwNjQ0bk9oZFhMaVdXN1RvZHpUMDJIUU1yYmVKOEpPS2pkeXFRbHJxTVFBdEVsa1A5YkZJeDlHYVJkVDA4NmdsUk1wQllZT1JhS2hUd1BDMA?oc=5
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5
 
-**Feed description:** Labcorp stock gains after Q2 2026 results and raised guidance ad-hoc-news.de
+**Feed description:** Labcorp stock gains after Q2 2026 earnings and investor day guidance AD HOC NEWS
 
 ## 2. Labcorp Website Tracking Class Action Settlement
 
