@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 19 Sep 2026, 10:38 AM IST
+- **Repository generated:** 19 Sep 2026, 5:05 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,10 +22,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - CarePlus VietNam: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWTMzVGJ2cDRGUW5LTFRWaF93NmxRS1JXWHBjTlhBMHFfa0ZkRHVfR181SDBRa0FaUHRlb1FILTlVZTdueW5KcXdnTUxrMHJJM0lpQTRVeVpIZmRIdExKbVpudWFTQUVJMXpPRXBrOV9kWmtRcnI3UXFUNjMtd1hheFFWaUpwRm13WWhfMGcwd3FXUEhHUVdJSFZyTkhCNW9fX09XNUhaUVZacXBhQy1lUzhhRXdCY3RRel9RWjc1aHl1VWtvMUxaUHJRSHZwZ0hZWG83Tko4WW1MYldDRjJ0NG02WDg4T1lkcnRz?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1RPaU5YQ2RhOF9ibFhWS3VpbV92bF9nNTl2cGFLa1Z5WXVVN0M1bVh5bGpRU3FGZTVPWjNrR2pONnRVSUljbWMtc2k3REN1MVhDMDlpYnJVZXpnM01GeVI5MVNqbnllOXdvR2xsbFdnV1VzQURDOG5uOWMxblllb0Y2YVZwbl91RlI5SEtpeGpCRFhTdFNsYjlLUmpYTDRIM2Z0ZWotWm1NdktxdGs2YklTR25xaW9PdWZXWmF5eFNTbS1kTjVRbHotakwtVDUzc2JxamZSRG9xQm85VjZDUldvMlpWMWJ0?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - Estimate Dispersion CarePlus VietNam
 
@@ -341,19 +342,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors despite daily gains MarketWatch
 
-## 28. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5
-
-**Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com
-
-## 29. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
+## 28. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -365,7 +354,7 @@
 
 **Feed description:** Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests genomeweb.com
 
-## 30. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
+## 29. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -379,7 +368,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
 
-## 31. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
+## 30. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -391,7 +380,7 @@
 
 **Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
 
-## 32. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 31. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -403,7 +392,7 @@
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
-## 33. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
+## 32. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Sep 2026
@@ -415,7 +404,7 @@
 
 **Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com
 
-## 34. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
+## 33. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -427,7 +416,7 @@
 
 **Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
 
-## 35. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 34. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -439,7 +428,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus
 
-## 36. Labcorp to Host Investor Day on September 10, 2026
+## 35. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -451,7 +440,7 @@
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
 
-## 37. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+## 36. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -463,7 +452,7 @@
 
 **Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
-## 38. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+## 37. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -477,7 +466,7 @@
 
 **Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
 
-## 39. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+## 38. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -489,6 +478,18 @@
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWm9PSmJZTzRubzdwSGJ2U0llQy1PdDZ4OVdwQTZDZEVKWG9HWm9fNWk0aEgyRG15R2ZaM0NqRTFsUnRKWVMtVUE5Y2dkd2dESUZrcEJScEdNZ2QtVHFpLVYtR1BFcjF6RW42VmduajJwMEZ2YVhvS1V0c3lpYWJhenBVSDdySEVMOFB6cWNzb2VMLUJPREhmMno3c3plYjBkMGhLaXI1MjczV05uZ19ULTdEQXQzR1AxZFE?oc=5
 
 **Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
+
+## 39. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5
+
+**Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com
 
 ## 40. Mayo Clinic Laboratories to bring testing operations to Southaven
 

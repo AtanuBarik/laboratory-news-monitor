@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T10:38:35.397897+05:30",
-  "generated_at_display": "19 Sep 2026, 10:38 AM IST",
+  "generated_at": "2026-09-19T17:05:19.567484+05:30",
+  "generated_at_display": "19 Sep 2026, 5:05 PM IST",
   "item_count": 289,
-  "raw_relevant_item_count": 483,
-  "duplicates_merged": 104,
+  "raw_relevant_item_count": 482,
+  "duplicates_merged": 105,
   "failures": [],
   "items": [
     {
@@ -49,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWTMzVGJ2cDRGUW5LTFRWaF93NmxRS1JXWHBjTlhBMHFfa0ZkRHVfR181SDBRa0FaUHRlb1FILTlVZTdueW5KcXdnTUxrMHJJM0lpQTRVeVpIZmRIdExKbVpudWFTQUVJMXpPRXBrOV9kWmtRcnI3UXFUNjMtd1hheFFWaUpwRm13WWhfMGcwd3FXUEhHUVdJSFZyTkhCNW9fX09XNUhaUVZacXBhQy1lUzhhRXdCY3RRel9RWjc1aHl1VWtvMUxaUHJRSHZwZ0hZWG83Tko4WW1MYldDRjJ0NG02WDg4T1lkcnRz?oc=5",
           "domain": "careplusvn.com",
           "published_at": "2026-09-17T13:30:27+00:00"
+        },
+        {
+          "name": "dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1RPaU5YQ2RhOF9ibFhWS3VpbV92bF9nNTl2cGFLa1Z5WXVVN0M1bVh5bGpRU3FGZTVPWjNrR2pONnRVSUljbWMtc2k3REN1MVhDMDlpYnJVZXpnM01GeVI5MVNqbnllOXdvR2xsbFdnV1VzQURDOG5uOWMxblllb0Y2YVZwbl91RlI5SEtpeGpCRFhTdFNsYjlLUmpYTDRIM2Z0ZWotWm1NdktxdGs2YklTR25xaW9PdWZXWmF5eFNTbS1kTjVRbHotakwtVDUzc2JxamZSRG9xQm85VjZDUldvMlpWMWJ0?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-09-17T13:37:11+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 beat details dispersion earnings eps estimate fails move needle remain revenue unavailable"
     },
     {
@@ -727,30 +733,6 @@
       "event_signature": "compared competitors stock thursday underperforms when"
     },
     {
-      "id": "091a75d3a57aec430ac8",
-      "company": "Labcorp",
-      "title": "Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5",
-      "description": "Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-09-10T20:53:11+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-09-10T20:53:11+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 2029 adjusted cagr eps guidance outlines outlook revenue"
-    },
-    {
       "id": "bac52154e1717573c01a",
       "company": "Labcorp",
       "title": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests",
@@ -1043,6 +1025,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "2026 2029 guidance outlook reaffirms sets through"
+    },
+    {
+      "id": "091a75d3a57aec430ac8",
+      "company": "Labcorp",
+      "title": "Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5",
+      "description": "Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQUJlUFVLM052N05mb2ZFOWJjNlRSa1BoRXd5QkU4emhvME1yd09sdlRpYU5pcVphcnhlTWRWVk8xczQ2RGgyM24wX1FMUmhUX2hwY0oySEN5eVhkWlVvMjRnZmNTTGtyTU5KWUEtanJzekg3aVkzRzNvd2p4ZEo3YjdIWmFnZ1lhM3ZzU3RpSS1DV1E1X0Y3UzZTQmpGdFBucng4NVBDdkNoVE9Qcm9aTEJuUHNFbTAtc0NWTENRb2Y1U1g3dmtOd09tS1RmWUwxMWt5aTRlWGZwVU0wQ1h3SE12TmJrWG1sWUp2UGRpb1JYMjMwMGxFWTVLZ1BWOFk?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 2029 adjusted cagr eps guidance outlines outlook revenue"
     },
     {
       "id": "d3b51ae4607e32db1780",
@@ -9910,10 +9916,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 88,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-19T12:17:00+05:30",
-  "next_update_display": "19 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-19T18:17:00+05:30",
+  "next_update_display": "19 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

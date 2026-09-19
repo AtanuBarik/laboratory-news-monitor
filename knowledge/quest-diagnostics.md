@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 19 Sep 2026, 10:38 AM IST
+- **Repository generated:** 19 Sep 2026, 5:05 PM IST
 - **Distinct events in this file:** 136
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - CarePlus VietNam: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWTMzVGJ2cDRGUW5LTFRWaF93NmxRS1JXWHBjTlhBMHFfa0ZkRHVfR181SDBRa0FaUHRlb1FILTlVZTdueW5KcXdnTUxrMHJJM0lpQTRVeVpIZmRIdExKbVpudWFTQUVJMXpPRXBrOV9kWmtRcnI3UXFUNjMtd1hheFFWaUpwRm13WWhfMGcwd3FXUEhHUVdJSFZyTkhCNW9fX09XNUhaUVZacXBhQy1lUzhhRXdCY3RRel9RWjc1aHl1VWtvMUxaUHJRSHZwZ0hZWG83Tko4WW1MYldDRjJ0NG02WDg4T1lkcnRz?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1RPaU5YQ2RhOF9ibFhWS3VpbV92bF9nNTl2cGFLa1Z5WXVVN0M1bVh5bGpRU3FGZTVPWjNrR2pONnRVSUljbWMtc2k3REN1MVhDMDlpYnJVZXpnM01GeVI5MVNqbnllOXdvR2xsbFdnV1VzQURDOG5uOWMxblllb0Y2YVZwbl91RlI5SEtpeGpCRFhTdFNsYjlLUmpYTDRIM2Z0ZWotWm1NdktxdGs2YklTR25xaW9PdWZXWmF5eFNTbS1kTjVRbHotakwtVDUzc2JxamZSRG9xQm85VjZDUldvMlpWMWJ0?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - Estimate Dispersion CarePlus VietNam
 
