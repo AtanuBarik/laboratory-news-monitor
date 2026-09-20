@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 20 Sep 2026, 5:20 PM IST
+- **Repository generated:** 20 Sep 2026, 10:00 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,10 +22,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUZ4V3hPd0UxUUFZWDRBd1hmTnRnQ2NULU81ZktrWnBZQW51dmJ0c0paYmNOQ0loeFBjMzVGc0hKdUdHcktnRVRGcFNaNzJCRzdROFZjdWo4SGxhWGFWT2FYUzhEbERnRHdXd1NXeFZycGJBZ1NRYWwzWGROSWRodEZGSnJYWXNqeGRUalRPZzdDcWplSUxkNlBKNGhJTi1ZQjJUaGp5eXotRzN1WEJUUzhjc3N1dlp0NGdPcERKWmZ3Vl9oU2lNQUZBLVpjMXZK?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWE2S3VjdFAyRjVUOXpuQ2Jicks4aWQxRGxyLTI3bXJBNHE1SVFMc0txVzFiZEhQQ1ZpZVdka3hjVHA4RG9CWFNENlpIR3ZBSGpONWlQZzdWb2w4djhVejBwTFo4NmdHVVVpb2cxdlQ4enJGWl9oQkxsWVBLVVNESVpJRFBtcTVKNU9aSkx3d1dSY3RWUVhzaXE4N0tlZExNc2QzeWpJbG0zNmRoeGl5Uml4YTRFbDZWdlFPNXVELTE0TGpkQnhSRWdORG1HQQ?oc=5
 
 **Feed description:** Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally AD HOC NEWS
 
@@ -126,7 +127,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? Yahoo Finance
+**Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com
 
 ## 11. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
 
@@ -404,7 +405,7 @@
   - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDdYeW9sYS1jU3BfNDRzTW5YYlF4MFVnV0t4RU1HWEc0dUprYmZ2ek9oUk5ZTEh5TzRlN2t6T2NsTS1GTUNaQlVGRTE3bnVOYk1pQXlpelRPSVY0RWNmaFR5NW1wblFIVHFQTTR4dEd3bjBkMGd4ekUtV0ZZalpfYUdaQldvLUJhRVc1X2xuRENsYkJs?oc=5
 
-**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
+**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 finance.yahoo.com
 
 ## 33. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 
@@ -478,7 +479,7 @@
   - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
 
-**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
+**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com
 
 ## 39. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
@@ -1384,7 +1385,7 @@
   - Intellectia AI: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmNISUNKVTJneG5aMlNzb2ZSenVuVmt4UmZidXhtT3VLU184dFpLUmZBa2h4SVE2dkxJOUpFZmlhYlZTLUdua2JKeHRLUVJ5ejRDR3NYVEoxRXk3SDBUZGxuSzM5VjdJbW5iX2lLRmNLa0hJdFNja0JBLU1VMzh4UDFNdnJXakVoQlRBT3JpNlpLQWdxeE9fR0s4UQ?oc=5
 
-**Feed description:** Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference Yahoo Finance
+**Feed description:** Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference finance.yahoo.com
 
 ## 110. Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?
 

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T17:20:36.144030+05:30",
-  "generated_at_display": "20 Sep 2026, 5:20 PM IST",
+  "generated_at": "2026-09-20T22:00:30.831052+05:30",
+  "generated_at_display": "20 Sep 2026, 10:00 PM IST",
   "item_count": 295,
-  "raw_relevant_item_count": 474,
-  "duplicates_merged": 95,
+  "raw_relevant_item_count": 478,
+  "duplicates_merged": 100,
   "failures": [],
   "items": [
     {
@@ -49,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUZ4V3hPd0UxUUFZWDRBd1hmTnRnQ2NULU81ZktrWnBZQW51dmJ0c0paYmNOQ0loeFBjMzVGc0hKdUdHcktnRVRGcFNaNzJCRzdROFZjdWo4SGxhWGFWT2FYUzhEbERnRHdXd1NXeFZycGJBZ1NRYWwzWGROSWRodEZGSnJYWXNqeGRUalRPZzdDcWplSUxkNlBKNGhJTi1ZQjJUaGp5eXotRzN1WEJUUzhjc3N1dlp0NGdPcERKWmZ3Vl9oU2lNQUZBLVpjMXZK?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-19T18:28:58+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWE2S3VjdFAyRjVUOXpuQ2Jicks4aWQxRGxyLTI3bXJBNHE1SVFMc0txVzFiZEhQQ1ZpZVdka3hjVHA4RG9CWFNENlpIR3ZBSGpONWlQZzdWb2w4djhVejBwTFo4NmdHVVVpb2cxdlQ4enJGWl9oQkxsWVBLVVNESVpJRFBtcTVKNU9aSkx3d1dSY3RWUVhzaXE4N0tlZExNc2QzeWpJbG0zNmRoeGl5Uml4YTRFbDZWdlFPNXVELTE0TGpkQnhSRWdORG1HQQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-20T14:58:56+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "earnings high near outlook rally stock support trades week"
     },
     {
@@ -245,7 +251,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Hits Fresh High: Is There Still Room to Run?",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? Yahoo Finance",
+      "description": "Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -845,7 +851,7 @@
       "company": "Labcorp",
       "title": "Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmF1ZmYwRG1tb2NfdEU4VXkwRzcwWGU3YS1rNGRvaG1HSjFaMFVVMk01M0NzdFJoTlVCRjk4VVp3b2V5OWpqVUdkbE9uLV9Ka3hqX1MxRVk4OVFSRHZ6WkhXOVFLTE1GMWdpRjU3OWswUF9uYzJkLUhIWl9XalczVXBQQ2VkQTVNMUI5SzFrcFZNWElCbENhRkRkQUhSNWpRUHU4TDl1OXVKVHhrVkNlR3IyMjE0VU80ZmE0anVidDljckhJ?oc=5",
-      "description": "Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com",
+      "description": "Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 finance.yahoo.com",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "source_domain": "benzinga.com",
@@ -1001,7 +1007,7 @@
       "company": "Labcorp",
       "title": "Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTNvaVhVamI4dVZYMmJBZ2x6YWJyVzluNTVDbG9oeVBUcE5oazlTV0MxZUdQWkRWNWgycTg1Um1ycXUybHJoVHJTWnpZZk5ySGE0SzZjT0k2aG5mZTA1andGb1Jod29iNjlDX2JxRDdsX2lmb1VabjRWcUQ5dkdkMk92YWRMdFZfOEVzeDVjQzItbXZ0ZmpNQTJ0V1dhcmtOYU9tQ1dzZGVTWDV0?oc=5",
-      "description": "Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance",
+      "description": "Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -3044,7 +3050,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-      "description": "Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference Yahoo Finance",
+      "description": "Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference finance.yahoo.com",
       "source": "Intellectia AI",
       "source_url": "https://intellectia.ai",
       "source_domain": "intellectia.ai",
@@ -10084,10 +10090,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 83,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-20T18:17:00+05:30",
-  "next_update_display": "20 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-21T00:17:00+05:30",
+  "next_update_display": "21 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

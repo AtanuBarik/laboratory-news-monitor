@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 20 Sep 2026, 5:20 PM IST
+- **Repository generated:** 20 Sep 2026, 10:00 PM IST
 - **Distinct events in this file:** 139
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUZ4V3hPd0UxUUFZWDRBd1hmTnRnQ2NULU81ZktrWnBZQW51dmJ0c0paYmNOQ0loeFBjMzVGc0hKdUdHcktnRVRGcFNaNzJCRzdROFZjdWo4SGxhWGFWT2FYUzhEbERnRHdXd1NXeFZycGJBZ1NRYWwzWGROSWRodEZGSnJYWXNqeGRUalRPZzdDcWplSUxkNlBKNGhJTi1ZQjJUaGp5eXotRzN1WEJUUzhjc3N1dlp0NGdPcERKWmZ3Vl9oU2lNQUZBLVpjMXZK?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxPQWE2S3VjdFAyRjVUOXpuQ2Jicks4aWQxRGxyLTI3bXJBNHE1SVFMc0txVzFiZEhQQ1ZpZVdka3hjVHA4RG9CWFNENlpIR3ZBSGpONWlQZzdWb2w4djhVejBwTFo4NmdHVVVpb2cxdlQ4enJGWl9oQkxsWVBLVVNESVpJRFBtcTVKNU9aSkx3d1dSY3RWUVhzaXE4N0tlZExNc2QzeWpJbG0zNmRoeGl5Uml4YTRFbDZWdlFPNXVELTE0TGpkQnhSRWdORG1HQQ?oc=5
 
 **Feed description:** Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally AD HOC NEWS
 
@@ -76,7 +77,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? Yahoo Finance
+**Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com
 
 ## 7. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
 
@@ -586,7 +587,7 @@
   - Intellectia AI: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmNISUNKVTJneG5aMlNzb2ZSenVuVmt4UmZidXhtT3VLU184dFpLUmZBa2h4SVE2dkxJOUpFZmlhYlZTLUdua2JKeHRLUVJ5ejRDR3NYVEoxRXk3SDBUZGxuSzM5VjdJbW5iX2lLRmNLa0hJdFNja0JBLU1VMzh4UDFNdnJXakVoQlRBT3JpNlpLQWdxeE9fR0s4UQ?oc=5
 
-**Feed description:** Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference Yahoo Finance
+**Feed description:** Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference finance.yahoo.com
 
 ## 47. Quest Diagnostics adds Roche Elecsys pTau217 blood test: Can DGX break above $245.68?
 

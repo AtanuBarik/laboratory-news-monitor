@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 20 Sep 2026, 5:20 PM IST
+- **Repository generated:** 20 Sep 2026, 10:00 PM IST
 - **Distinct events in this file:** 125
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -153,7 +153,7 @@
   - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxQM1BfNUdPa3puSnVfUENiUDhkMENHRVJtVGEtbTJvZWxZd1lscEs2NTBmZUV6ZTZ2N01Rd2tNc0pjVi1xMlhhM3U1WWJfSDRLbHBWQjY5eEw4YjFidnctXzhGS2s4b0VZT2JlMkJvTGVZWjNrMjFKOEMzcU9iUnBTaGswTUFIZ2tydlctYWp1SW9TLU9sM1FReWxHeHlReWxEanNnRVdnMXF2NlNTV1J6c1J1d0lCWjhISkNrY2xCRzFiMUVPX2ZZ?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDdYeW9sYS1jU3BfNDRzTW5YYlF4MFVnV0t4RU1HWEc0dUprYmZ2ek9oUk5ZTEh5TzRlN2t6T2NsTS1GTUNaQlVGRTE3bnVOYk1pQXlpelRPSVY0RWNmaFR5NW1wblFIVHFQTTR4dEd3bjBkMGd4ekUtV0ZZalpfYUdaQldvLUJhRVc1X2xuRENsYkJs?oc=5
 
-**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 tradingview.com
+**Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 finance.yahoo.com
 
 ## 13. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
 
@@ -215,7 +215,7 @@
   - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
 
-**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day Yahoo Finance
+**Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com
 
 ## 18. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
