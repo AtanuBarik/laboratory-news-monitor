@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-20T10:56:36.116646+05:30",
-  "generated_at_display": "20 Sep 2026, 10:56 AM IST",
-  "item_count": 293,
-  "raw_relevant_item_count": 477,
-  "duplicates_merged": 101,
+  "generated_at": "2026-09-20T17:20:36.144030+05:30",
+  "generated_at_display": "20 Sep 2026, 5:20 PM IST",
+  "item_count": 295,
+  "raw_relevant_item_count": 474,
+  "duplicates_merged": 95,
   "failures": [],
   "items": [
+    {
+      "id": "18afb25ed038975713dc",
+      "company": "Labcorp",
+      "title": "Labcorp stock holds near recent highs after Q2 2026 earnings beat",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
+      "description": "Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-20T10:08:18+00:00",
+      "published_display": "20 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-20T10:08:18+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after beat earnings highs holds near recent stock"
+    },
     {
       "id": "2a3bed422bbba8d6a84e",
       "company": "Quest Diagnostics",
@@ -53,6 +77,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 call earnings transcript"
+    },
+    {
+      "id": "dfa7d32435dc261b581a",
+      "company": "Labcorp",
+      "title": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
+      "description": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-18T11:51:12+00:00",
+      "published_display": "18 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-18T11:51:12+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beat earnings gains guidance stock updated"
     },
     {
       "id": "8f63ec20f2b9a42c139c",
@@ -157,9 +205,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-17T16:13:56+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXpTZkJQcXVkRDNDVFlGcWlBVHNtWUZTcnAtcDhzVXJuRWlaZzR5V0pIaDNCTUNMYS0yV2lXR1pGbG1VZjBVcThNeVhmcUdRZE1zLTZFOGxHMWk0UHo2enY3SERsMVRXVkhHWDg0dnI4dFVxOHFNTUxkeUc5aEQ4dkRFSllYdGpIbE5Idlc1UWxhR3dBS3RqekJtMjdmZXZYVkw2YzBHRkQzd09rYmRWY1dGbkNNSkI4Y2JXWUhGWGtmMTN6WWlmY3BNOA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-19T10:58:19+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 after day earnings gains guidance investor stock"
     },
     {
@@ -317,7 +371,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits all-time high at $247.3 By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTklIZnZta1F3eklfWmYtRWx4dk1HdW5VaFJXRUVpVnQ1dzlMZHE4VVRIR1pwbnA0cnl1bGJLZFR3WUpqR0otUXY0UnhCSGM4OXdFOGJLRndZMFQ4blNyTnljclBKLU13ZGRZQllSZTNfQ0hSMTJ4dm5SUzdwMnN2NGhfUGtJMlp3VXEyZXl0MUk4Y1VvM2E5UVhzRlFrbDI5MlRrbzVvRHFSZ0RSRmxJ?oc=5",
-      "description": "Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com UK",
+      "description": "Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com India",
       "source": "Investing.com UK",
       "source_url": "https://uk.investing.com",
       "source_domain": "uk.investing.com",
@@ -601,9 +655,15 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
           "domain": "fortune.com",
           "published_at": "2026-09-13T17:42:12+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-19T05:46:59+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 call earnings transcript"
     },
     {
@@ -757,36 +817,6 @@
       "event_signature": "2026 investments list sep"
     },
     {
-      "id": "83834a299e8a014a587c",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock underperforms Thursday when compared to competitors",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors despite daily gains MarketWatch",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "source_domain": "marketwatch.com",
-      "published_at": "2026-09-10T21:01:00+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-09-10T21:01:00+00:00"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1h2aVVCQnIwdy0za05pdVF5QWxhc2Q0bjNURm1zSFB6QUVXekFJWXYtTWp3VEdPZURqLS14Qkt2NG8yb3JXdzFlNWFsVl8zOHJYYnc5b2p3X09yQ2phdkhqMlczMEltNHpiYkdzSWFYT21rQXZwRGdQdlVReW1nMGNsSFlwaVZ2dWRtT2hYc3FMSGp3ckxuc2xSSWhvdjktN1ZfWUJEZU1wSWdPa1FPSlotQTJOUmczN2Y2YTdvRGZ4cng2XzA1NjJ5N0NtOUNjY0ZtdHFJZWZncUVPX0xhZXFxVUV4QkdyS21JeFRn?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-09-14T21:01:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "compared competitors stock thursday underperforms when"
-    },
-    {
       "id": "bac52154e1717573c01a",
       "company": "Labcorp",
       "title": "Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests",
@@ -893,30 +923,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "4th car cochlear discovery interest predictive sep short weekly"
-    },
-    {
-      "id": "93fede91f20516b1aeed",
-      "company": "Labcorp",
-      "title": "Labcorp Unveils Long-Term Outlook Driven by Specialty Testing",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5",
-      "description": "Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com",
-      "source": "Bloomberg.com",
-      "source_url": "https://www.bloomberg.com",
-      "source_domain": "bloomberg.com",
-      "published_at": "2026-09-10T11:00:00+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5",
-          "domain": "bloomberg.com",
-          "published_at": "2026-09-10T11:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "driven long outlook specialty term testing unveils"
     },
     {
       "id": "291e71137568b423e82e",
@@ -1133,6 +1139,60 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 2029 annual growth guidance projects reaffirms revenue through"
+    },
+    {
+      "id": "93fede91f20516b1aeed",
+      "company": "Labcorp",
+      "title": "Labcorp Unveils Long-Term Outlook Driven by Specialty Testing",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5",
+      "description": "Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com",
+      "source": "Bloomberg.com",
+      "source_url": "https://www.bloomberg.com",
+      "source_domain": "bloomberg.com",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5",
+          "domain": "bloomberg.com",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "driven long outlook specialty term testing unveils"
+    },
+    {
+      "id": "83834a299e8a014a587c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Thursday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors despite daily gains MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1h2aVVCQnIwdy0za05pdVF5QWxhc2Q0bjNURm1zSFB6QUVXekFJWXYtTWp3VEdPZURqLS14Qkt2NG8yb3JXdzFlNWFsVl8zOHJYYnc5b2p3X09yQ2phdkhqMlczMEltNHpiYkdzSWFYT21rQXZwRGdQdlVReW1nMGNsSFlwaVZ2dWRtT2hYc3FMSGp3ckxuc2xSSWhvdjktN1ZfWUJEZU1wSWdPa1FPSlotQTJOUmczN2Y2YTdvRGZ4cng2XzA1NjJ5N0NtOUNjY0ZtdHFJZWZncUVPX0xhZXFxVUV4QkdyS21JeFRn?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-14T21:01:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "compared competitors stock thursday underperforms when"
     },
     {
       "id": "d3b51ae4607e32db1780",
@@ -10024,10 +10084,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 84,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-20T12:17:00+05:30",
-  "next_update_display": "20 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-20T18:17:00+05:30",
+  "next_update_display": "20 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
