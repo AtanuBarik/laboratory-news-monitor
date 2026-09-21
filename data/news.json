@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-21T11:01:50.865468+05:30",
-  "generated_at_display": "21 Sep 2026, 11:01 AM IST",
-  "item_count": 295,
-  "raw_relevant_item_count": 478,
-  "duplicates_merged": 98,
+  "generated_at": "2026-09-21T18:52:41.545854+05:30",
+  "generated_at_display": "21 Sep 2026, 6:52 PM IST",
+  "item_count": 296,
+  "raw_relevant_item_count": 483,
+  "duplicates_merged": 100,
   "failures": [],
   "items": [
+    {
+      "id": "d7e8d55bbebbf5ba6614",
+      "company": "Quest Diagnostics",
+      "title": "Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbi1xbXVQNllnaEZJTTRkdWNOeXZvYU1aR29Ua1E0Zjg4X1FKM09reHAzek5zek9ocm9Fc1RzS3RQSFVIV3FtRE9Fc1hfbDViRFNfWUVybmxET2NicGNUb0RIT09sMEd5V2M5SXhncnFzNno0VDBwYW8tNTcwV0dHVkxUMURpa1Q4YjUxajllYUQ3VFIwNVpQa1pjaUxsZ0VSWGxfendsUDFKdFhlRXhyaXVrRW90MjlVYzRfelNNNV9FX1lacWZzZjFmQWlTUzJBQVMxTXN5RUtJQVJhaW5Ydl9fNjFDbEJpVmZoZUdLV0lxcDFvMk5GSlR2LU04eTZCYzJDT1BjUl82S1BrZVgtZXFCeC1IOUxoN1BF?oc=5",
+      "description": "Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics Morningstar",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "source_domain": "morningstar.com",
+      "published_at": "2026-09-21T12:03:00+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbi1xbXVQNllnaEZJTTRkdWNOeXZvYU1aR29Ua1E0Zjg4X1FKM09reHAzek5zek9ocm9Fc1RzS3RQSFVIV3FtRE9Fc1hfbDViRFNfWUVybmxET2NicGNUb0RIT09sMEd5V2M5SXhncnFzNno0VDBwYW8tNTcwV0dHVkxUMURpa1Q4YjUxajllYUQ3VFIwNVpQa1pjaUxsZ0VSWGxfendsUDFKdFhlRXhyaXVrRW90MjlVYzRfelNNNV9FX1lacWZzZjFmQWlTUzJBQVMxTXN5RUtJQVJhaW5Ydl9fNjFDbEJpVmZoZUdLV0lxcDFvMk5GSlR2LU04eTZCYzJDT1BjUl82S1BrZVgtZXFCeC1IOUxoN1BF?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-21T12:03:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are borne disease finds lyme nearly other pathogens patients positive study suspected tick"
+    },
     {
       "id": "18afb25ed038975713dc",
       "company": "Labcorp",
@@ -25,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-20T10:08:18+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEotZW9vUTFjb0NmSmRoNXdnVHVKaXNzeUdueWxTZGo2V0RUUU5qWlJxV3JtbXhialJCSEk5cW1uVGVOd2VEODEzX1JQaUVDS3Z1am55N0t5SG1VNTFiSjBnVXpRcTBfdkpfZ2pCS2otTjhxLVFxampzeDNralZpODJYTjFRNWJRZTNRb1NoenF2Y0FSOGU0VFdHWmszU0d2QllxS2RJSG1hb2QyaUxKLTB3ejJYNjhDUXR3LUpDVWhfWXM3dm1F?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-21T10:33:26+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 after beat earnings highs holds near recent stock"
     },
     {
@@ -281,7 +311,7 @@
       "company": "Quest Diagnostics",
       "title": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics",
       "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
-      "description": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics Yahoo Finance",
+      "description": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com",
       "source": "Morningstar",
       "source_url": "https://www.morningstar.com",
       "source_domain": "morningstar.com",
@@ -895,30 +925,6 @@
       "event_signature": "2029 bets big drive growth specialty testing through"
     },
     {
-      "id": "75e736c0982bb8a5c57b",
-      "company": "Labcorp",
-      "title": "Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5",
-      "description": "Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade",
-      "source": "scanx.trade",
-      "source_url": "https://scanx.trade",
-      "source_domain": "scanx.trade",
-      "published_at": "2026-09-10T11:40:29+00:00",
-      "published_display": "10 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5",
-          "domain": "scanx.trade",
-          "published_at": "2026-09-10T11:40:29+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2029 cagr fy26 guidance reaffirms revenue sets through"
-    },
-    {
       "id": "f239e96a33a1423f3cd4",
       "company": "Sonic Healthcare",
       "title": "ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare",
@@ -1211,6 +1217,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "compared competitors stock thursday underperforms when"
+    },
+    {
+      "id": "75e736c0982bb8a5c57b",
+      "company": "Labcorp",
+      "title": "Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5",
+      "description": "Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade",
+      "source": "scanx.trade",
+      "source_url": "https://scanx.trade",
+      "source_domain": "scanx.trade",
+      "published_at": "2026-09-10T07:00:00+00:00",
+      "published_display": "10 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5",
+          "domain": "scanx.trade",
+          "published_at": "2026-09-10T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2029 cagr fy26 guidance reaffirms revenue sets through"
     },
     {
       "id": "d3b51ae4607e32db1780",
@@ -10102,10 +10132,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 87,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-21T12:17:00+05:30",
-  "next_update_display": "21 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-22T00:17:00+05:30",
+  "next_update_display": "22 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

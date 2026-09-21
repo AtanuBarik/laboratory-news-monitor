@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 21 Sep 2026, 11:01 AM IST
+- **Repository generated:** 21 Sep 2026, 6:52 PM IST
 - **Distinct events in this file:** 125
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Labcorp
 - **Publication date:** 20 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEotZW9vUTFjb0NmSmRoNXdnVHVKaXNzeUdueWxTZGo2V0RUUU5qWlJxV3JtbXhialJCSEk5cW1uVGVOd2VEODEzX1JQaUVDS3Z1am55N0t5SG1VNTFiSjBnVXpRcTBfdkpfZ2pCS2otTjhxLVFxampzeDNralZpODJYTjFRNWJRZTNRb1NoenF2Y0FSOGU0VFdHWmszU0d2QllxS2RJSG1hb2QyaUxKLTB3ejJYNjhDUXR3LUpDVWhfWXM3dm1F?oc=5
 
 **Feed description:** Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat AD HOC NEWS
 
@@ -155,19 +156,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 finance.yahoo.com
 
-## 13. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - scanx.trade: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5
-
-**Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
-
-## 14. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 13. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -179,7 +168,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus
 
-## 15. Labcorp to Host Investor Day on September 10, 2026
+## 14. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -191,7 +180,7 @@
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
 
-## 16. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+## 15. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -203,7 +192,7 @@
 
 **Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
-## 17. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+## 16. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -217,7 +206,7 @@
 
 **Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com
 
-## 18. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+## 17. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -230,7 +219,7 @@
 
 **Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
-## 19. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
+## 18. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -242,7 +231,7 @@
 
 **Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com
 
-## 20. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 19. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -255,7 +244,7 @@
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
-## 21. Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029
+## 20. Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -267,7 +256,7 @@
 
 **Feed description:** Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029 Pluang
 
-## 22. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
+## 21. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -278,6 +267,18 @@
   - Bloomberg.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5
 
 **Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
+
+## 22. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
+
+- **Company:** Labcorp
+- **Publication date:** 10 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - scanx.trade: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5
+
+**Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
 
 ## 23. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
 
