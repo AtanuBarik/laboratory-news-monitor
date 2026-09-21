@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 21 Sep 2026, 2:34 AM IST
+- **Repository generated:** 21 Sep 2026, 11:01 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -59,11 +59,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - CarePlus VietNam: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWTMzVGJ2cDRGUW5LTFRWaF93NmxRS1JXWHBjTlhBMHFfa0ZkRHVfR181SDBRa0FaUHRlb1FILTlVZTdueW5KcXdnTUxrMHJJM0lpQTRVeVpIZmRIdExKbVpudWFTQUVJMXpPRXBrOV9kWmtRcnI3UXFUNjMtd1hheFFWaUpwRm13WWhfMGcwd3FXUEhHUVdJSFZyTkhCNW9fX09XNUhaUVZacXBhQy1lUzhhRXdCY3RRel9RWjc1aHl1VWtvMUxaUHJRSHZwZ0hZWG83Tko4WW1MYldDRjJ0NG02WDg4T1lkcnRz?oc=5
   - dars.gov.et: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV1RPaU5YQ2RhOF9ibFhWS3VpbV92bF9nNTl2cGFLa1Z5WXVVN0M1bVh5bGpRU3FGZTVPWjNrR2pONnRVSUljbWMtc2k3REN1MVhDMDlpYnJVZXpnM01GeVI5MVNqbnllOXdvR2xsbFdnV1VzQURDOG5uOWMxblllb0Y2YVZwbl91RlI5SEtpeGpCRFhTdFNsYjlLUmpYTDRIM2Z0ZWotWm1NdktxdGs2YklTR25xaW9PdWZXWmF5eFNTbS1kTjVRbHotakwtVDUzc2JxamZSRG9xQm85VjZDUldvMlpWMWJ0?oc=5
+  - dars.gov.et: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZmF2Q3VwVW83OE9QcmtHVjY2Ny1JV3BuLU0xcWVhbU9nT1pUZHh2YndIbHI1dk4tcVNHZWNyWjloYnQ5amUzcUxQd2RpRDQta3Y3N0xjZmN1d2wxN1lJdkE0QUltMGxVcmdHZ3pWYy1yYk1wN08wYnR0eTZVQ2l5TGVjck1xTDlIRnVUNjRmb0FrSE5VX3I2WFE5VFhncU9pV3JjS2wzUUU2TVJZZHdWODM2bnk4enBkcTZjaGVxdnBzMkJHWXJHTkhnQ1hZem5ZVWxzX25fWFIyUi1hc0tERVhYVzFwZw?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - Estimate Dispersion CarePlus VietNam
 
@@ -134,13 +135,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxJZUZUQ1l2OFc3aU9DZzVrMWlCazNmbzdRUWN0bHVYLWhibDFNdFhsZGFxLVFocmNFX1dpckF4ZGJ3ZWd3bUZiMTRzRWtVYXBDY2prc21yUW5CYXB4bk0wRTlMSDVoX1ZSV1BWc2p4ZDh2ZFd0eXc3YzBGM0JPWXZuX3BlcG1wVVJDQmxERDhqZGI2dGc?oc=5
 
-**Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics Morningstar
+**Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics Yahoo Finance
 
 ## 12. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
 
@@ -581,19 +583,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
 
-## 47. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Clinical Lab Products: https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5
-
-**Feed description:** Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products
-
-## 48. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
+## 47. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -605,7 +595,7 @@
 
 **Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
-## 49. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
+## 48. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
 
 - **Company:** Labcorp
 - **Publication date:** 09 Sep 2026
@@ -618,7 +608,7 @@
 
 **Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services indianpharmapost.com
 
-## 50. Great Point Partners III Sells MLM Medical Labs to Labcorp
+## 49. Great Point Partners III Sells MLM Medical Labs to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 09 Sep 2026
@@ -633,7 +623,7 @@
 
 **Feed description:** Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional
 
-## 51. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 50. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -649,7 +639,7 @@
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
 
-## 52. Quest Diagnostics stock gains on Apple Health lab testing partnership
+## 51. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -662,7 +652,7 @@
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
 
-## 53. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+## 52. Quest Diagnostics stock edges lower after insider sale and UBS target hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -674,7 +664,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
 
-## 54. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
+## 53. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -685,6 +675,18 @@
   - macobserver.com: https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5
 
 **Feed description:** Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer
+
+## 54. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5
+
+**Feed description:** Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products
 
 ## 55. Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer
 
@@ -847,19 +849,7 @@
 
 **Feed description:** Labcorp stock holds steady as investors eye recent earnings and diagnostics demand AD HOC NEWS
 
-## 67. Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction
-
-- **Company:** Labcorp
-- **Publication date:** 03 Sep 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Kalkine Media: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5
-
-**Feed description:** Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media
-
-## 68. Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown
+## 67. Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown
 
 - **Company:** Labcorp
 - **Publication date:** 03 Sep 2026
@@ -870,6 +860,18 @@
   - vinanet.vn: https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5
 
 **Feed description:** LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn
+
+## 68. Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction
+
+- **Company:** Labcorp
+- **Publication date:** 03 Sep 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine Media: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5
+
+**Feed description:** Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media
 
 ## 69. Labcorp stock holds near its yearly high
 

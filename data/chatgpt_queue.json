@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T03:17:18.282486+05:30",
-  "generated_at_display": "21 Sep 2026, 3:17 AM IST",
+  "generated_at": "2026-09-21T11:01:54.490246+05:30",
+  "generated_at_display": "21 Sep 2026, 11:01 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -276,7 +276,7 @@
       "title": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction",
       "source": "Kalkine Media",
       "description": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media",
-      "published_at": "2026-09-03T18:41:45+00:00",
+      "published_at": "2026-09-03T07:00:00+00:00",
       "published_display": "03 Sep 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -423,25 +423,6 @@
       ]
     },
     {
-      "id": "f3441bb91bbd8285652a",
-      "company": "Quest Diagnostics",
-      "category": "Clinical, R&D",
-      "title": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App",
-      "source": "Clinical Lab Products",
-      "description": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products",
-      "published_at": "2026-09-09T21:08:37+00:00",
-      "published_display": "09 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "06ca4720388ccab588e3",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -488,6 +469,25 @@
         {
           "name": "macobserver.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3441bb91bbd8285652a",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App",
+      "source": "Clinical Lab Products",
+      "description": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products",
+      "published_at": "2026-09-09T07:00:00+00:00",
+      "published_display": "09 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5",
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5"
         }
       ]
     },
