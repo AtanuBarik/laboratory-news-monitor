@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-09-21T18:52:41.545854+05:30",
-  "generated_at_display": "21 Sep 2026, 6:52 PM IST",
-  "item_count": 296,
-  "raw_relevant_item_count": 483,
-  "duplicates_merged": 100,
+  "generated_at": "2026-09-22T03:46:26.035218+05:30",
+  "generated_at_display": "22 Sep 2026, 3:46 AM IST",
+  "item_count": 300,
+  "raw_relevant_item_count": 486,
+  "duplicates_merged": 98,
   "failures": [],
   "items": [
+    {
+      "id": "10e080cf33d21403ba00",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Is Dropping Despite Target Hike",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5",
+      "description": "Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-09-21T21:38:20+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-09-21T21:38:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "despite dropping hike target why"
+    },
+    {
+      "id": "5ce025e75dac0ab4f0ef",
+      "company": "Labcorp",
+      "title": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
+      "description": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-09-21T21:13:01+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-21T21:13:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2027 cms cuts fall rates services"
+    },
+    {
+      "id": "a13e8a38a49c4a2753b8",
+      "company": "Quest Diagnostics",
+      "title": "Car crashes into Quest Diagnostics in Lincoln shoppping plaza",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5",
+      "description": "Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media",
+      "source": "Gold Mountain California News Media",
+      "source_url": "https://goldmountaincanews.com",
+      "source_domain": "goldmountaincanews.com",
+      "published_at": "2026-09-21T16:30:00+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Gold Mountain California News Media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5",
+          "domain": "goldmountaincanews.com",
+          "published_at": "2026-09-21T16:30:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "car crashes lincoln plaza shoppping"
+    },
+    {
+      "id": "201c0a1bcc2bdc6c3aaa",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5",
+      "description": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-21T14:02:10+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-21T14:02:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "consumer growth outpace sees surges targets testing"
+    },
     {
       "id": "d7e8d55bbebbf5ba6614",
       "company": "Quest Diagnostics",
@@ -25,9 +121,15 @@
           "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNbi1xbXVQNllnaEZJTTRkdWNOeXZvYU1aR29Ua1E0Zjg4X1FKM09reHAzek5zek9ocm9Fc1RzS3RQSFVIV3FtRE9Fc1hfbDViRFNfWUVybmxET2NicGNUb0RIT09sMEd5V2M5SXhncnFzNno0VDBwYW8tNTcwV0dHVkxUMURpa1Q4YjUxajllYUQ3VFIwNVpQa1pjaUxsZ0VSWGxfendsUDFKdFhlRXhyaXVrRW90MjlVYzRfelNNNV9FX1lacWZzZjFmQWlTUzJBQVMxTXN5RUtJQVJhaW5Ydl9fNjFDbEJpVmZoZUdLV0lxcDFvMk5GSlR2LU04eTZCYzJDT1BjUl82S1BrZVgtZXFCeC1IOUxoN1BF?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-09-21T12:03:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMUtBQXktYUV4ME1VbkFIajVlNWpSUFNLQlp5RHpiWnR4eC0xd29ITUxza1lUMlUydVdpUzNiaXB4NUFqTlNGMmF4cnJ3TEFWTHlfZy1MSTFCWGhGSWMxYkdBTFpNZFVVLUd3dnF1amJTejFVS2F1SGp0NEl4Tlg1amZDN0hfY09fTXRLYnE4Q0JTTTNOSHRrNjJMRjlWeTJVa3FrUVZJQ1ZMcjRWZzd4am91X015V21VQVMzUUdaOTJlREJORFRkQlROMlc2UmlrV0ZkNmxCc3NFdnVncVpqMkM3LW9nb0RyblpNTTNfSU9rWThDN2xkZUdXcDZGYkZuMEloUUIyQlVrVnJWM1kycVBJYVQ?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-21T12:03:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "are borne disease finds lyme nearly other pathogens patients positive study suspected tick"
     },
     {
@@ -263,7 +365,7 @@
       "company": "Labcorp",
       "title": "Labcorp Website Tracking Class Action Settlement",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
-      "description": "Labcorp Website Tracking Class Action Settlement Claim Depot",
+      "description": "Labcorp Website Tracking Class Action Settlement claimdepot.com",
       "source": "Claim Depot",
       "source_url": "https://www.claimdepot.com",
       "source_domain": "claimdepot.com",
@@ -409,9 +511,15 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dUQmlkc1lid08zZVpISEJOVUp4SWczdTFxRWJmLVQ3bGRZVEMxdDdDYjNzWmktbzZtMms2RnVIX1dDWDBITmtub0FHSDVPTEd1TU16c1VzcGZ0VWIzVkVabFplSno1bUo4MUdiYV8xcXFGaENJbmo5UnpnZTNQYlZnakFEMng0U2I0UmRuQkxNd3BNMnVfaEJBOA?oc=5",
           "domain": "quiverquant.com",
           "published_at": "2026-09-15T18:36:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhDUXJEeWJ1LS1tWi1rMm0zUEJEMFZvYWVZWlE4Q19rVk1VZUJpNDVEaVZJelRJUjNyY01vY3hiN2FNYnk1eUtCVmhnaV8yX0Q5NFJPU0dObDVUTjV5R0pOaFNSV1Z6S2l2bEwzZ3ZxX0VYRm9HRU0tWGowZEVqUEpqaDI5V1FoZTJkWGhrcU1Dbk5XSmkwWnppSlN3bnZEaTRCNHNEbUxEUQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-09-21T22:01:47+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "stock today why"
     },
     {
@@ -559,19 +667,25 @@
       "event_signature": "attractive carved cost has moat narrow out structure"
     },
     {
-      "id": "581eea4f4a74debf1d9d",
+      "id": "bc26a82af5f8276e5ed5",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2xTZnpBX3RiR3Nnenp5WVMzdmpISjRvc1VTci1jMHlBRm5FR2VPaEpETnVyN0NRYVhXU3dmVmkxSlZ5V0RUd3Nvd2FzeG5Tei1YOEwwZEs0c2t2N0ItX3p1b1NoZ1dLb19hdjZJS3U0SFFaQUNGTXRXRG9ObC03Y2ZHZlk2M1NCTGxQYWtrYk1sUVBWaUdRVjlKaDFyNnJ5My1QRG9feXhqM2lvbzV2eXFUVHI0cFdFcnc?oc=5",
+      "title": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmE2a1RKSThKX1UxemhMOXRYNWp1aWpLN2taQkhhRmxrN1JkT1VVN0YybjdwQ09ta0xFQ0tldWNWZlMwLUhYRWhHd0hHS1BhM0huaHZqd0pSYVc5dGNkNlJ5UTZkUzFyckp1d0ROZjBBUkI5MnFDTURXMkM1QktQaURvM2FKcTdBaVBIOFQ2UHI3OHpZNzRqaGtsVk9SaTIwRG1DWkV3MGpqc2FWLWVKSzJDSGhobVhVNnhLRGJ6bWQ?oc=5",
       "description": "Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com South Africa",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-09-14T14:51:25+00:00",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-09-14T14:48:00+00:00",
       "published_display": "14 Sep 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmE2a1RKSThKX1UxemhMOXRYNWp1aWpLN2taQkhhRmxrN1JkT1VVN0YybjdwQ09ta0xFQ0tldWNWZlMwLUhYRWhHd0hHS1BhM0huaHZqd0pSYVc5dGNkNlJ5UTZkUzFyckp1d0ROZjBBUkI5MnFDTURXMkM1QktQaURvM2FKcTdBaVBIOFQ2UHI3OHpZNzRqaGtsVk9SaTIwRG1DWkV3MGpqc2FWLWVKSzJDSGhobVhVNnhLRGJ6bWQ?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-09-14T14:48:00+00:00"
+        },
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ2xTZnpBX3RiR3Nnenp5WVMzdmpISjRvc1VTci1jMHlBRm5FR2VPaEpETnVyN0NRYVhXU3dmVmkxSlZ5V0RUd3Nvd2FzeG5Tei1YOEwwZEs0c2t2N0ItX3p1b1NoZ1dLb19hdjZJS3U0SFFaQUNGTXRXRG9ObC03Y2ZHZlk2M1NCTGxQYWtrYk1sUVBWaUdRVjlKaDFyNnJ5My1QRG9feXhqM2lvbzV2eXFUVHI0cFdFcnc?oc=5",
@@ -597,8 +711,8 @@
           "published_at": "2026-09-15T06:33:25+00:00"
         }
       ],
-      "coverage_count": 4,
-      "event_signature": "broadens conference growth morgan stanley"
+      "coverage_count": 5,
+      "event_signature": "broadens com conference growth investing morgan stanley"
     },
     {
       "id": "66abb5aef21ff0cf2627",
@@ -10132,10 +10246,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 88,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-22T00:17:00+05:30",
-  "next_update_display": "22 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-22T06:17:00+05:30",
+  "next_update_display": "22 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
