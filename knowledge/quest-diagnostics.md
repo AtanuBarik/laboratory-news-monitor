@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 22 Sep 2026, 10:55 AM IST
+- **Repository generated:** 22 Sep 2026, 5:33 PM IST
 - **Distinct events in this file:** 143
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -34,10 +34,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpfaThnNEIyOTZXRjZJdWFnbWRLQTYyamZVcFhWYnlOZVBqU1RsS1hialY4WWk2YWdoV3h4eHFHRU00bTdRN3E0OGxYSk1RVE1nVVNLMlpqQlRlMTZwSi1TYjBDRzMyMk1pLUtCSm9BcFBUVm9kZWp2S3lKOUJ3Mm96dDF3S3U1U3FHX1hYQmVnSFVRT2pidkZGTWFxUFkwUklmUGx6NHFNMVFEMlhEY0h2clBzbU0wYUdPemdQbTNiWk5Celp3ajFCZkdzdw?oc=5
 
 **Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges Yahoo Finance
 
@@ -185,14 +186,15 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Investing.com UK: https://news.google.com/rss/articles/CBMirwFBVV95cUxQTklIZnZta1F3eklfWmYtRWx4dk1HdW5VaFJXRUVpVnQ1dzlMZHE4VVRIR1pwbnA0cnl1bGJLZFR3WUpqR0otUXY0UnhCSGM4OXdFOGJLRndZMFQ4blNyTnljclBKLU13ZGRZQllSZTNfQ0hSMTJ4dm5SUzdwMnN2NGhfUGtJMlp3VXEyZXl0MUk4Y1VvM2E5UVhzRlFrbDI5MlRrbzVvRHFSZ0RSRmxJ?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXdmQkFoenYxWHVTVHpkcTh0bzRTZ1h6Wk9Oa1BEZEpmRWh0Vi15bTV2RWpZd04xeTNQQ1ZNbHRLODIxR201WGtBdmVRWUtueHVtdmNrWllSVmJVMjUzZjN1ZE1SQmhpaExFWXpSZHpHcktLSl9IWTRFcGUxRldaZlI0YUZpNHFiR2N6SHpmV3E4dHNLTDc4RUxQTi1JakdmQXRnWWd4bEk4UQ?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMirwFBVV95cUxPZXFuMEFJR1gydzEwYW0zRWtZVUJNUzlWU1o5UDdWTWZoQUtBYy1iS3d5TTEtdmcwb1J2WFVHT3dydmsyTHNqZ1dsYzRXV01VVzh4QThIV2plN3dtZzlTWWpDQjlPSXp2UWw1eEVQejU0UGdZcDdvOHB2aTVUQlZYUHdvOXVKbVl2ZVEwQ1RxVUExajFoT3EwbHpnaXFkYVdaSXEzclFxMGo1SEt4U0w4?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxOem4zaUM4cVFLRkJuNmRuODdUX2NoanVlbHNVY3dvU05jLVV2REkwTjV4U2pSQUxYbkJ6cVVWTlhDUVdOQV9XVFh4enZVcVk4c25fNEVkdkdPR0VpSXhSYl9fN1c5SDRwQzI4eHh5cmk1al91N2tVVF9NVjZCazZFb1FCdGxtYUVpV1BOb25vaWdxV3l1Z1d1N3p1ZW5vdG1uY1lZZXZsT0ZPSnExbktR?oc=5
 
-**Feed description:** Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com India
+**Feed description:** Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com Australia
 
 ## 16. Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure
 
