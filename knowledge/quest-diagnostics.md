@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 22 Sep 2026, 3:46 AM IST
+- **Repository generated:** 22 Sep 2026, 10:55 AM IST
 - **Distinct events in this file:** 143
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -286,19 +286,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
 
-## 23. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk1mNVR4Nm1oUXcyM3JnQ0Y3RUk1Umd3cnVmNVMwNEJzSklKLTl5LW9aa2VyOE85S0dmUVFtVGRENUFCbEhZbEkzN0JTRXpCU2ZERS1JSkdUMndHUzl6UkV3SFFGTzhNeEFqM2JndmpBUF9leG1vSkVzekN4ZUtmWm5JOTR6MWE0?oc=5
-
-**Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
-
-## 24. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
+## 23. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -314,7 +302,7 @@
 
 **Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
 
-## 25. Quest Diagnostics stock gains on Apple Health lab testing partnership
+## 24. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -327,7 +315,7 @@
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
 
-## 26. Quest Diagnostics stock edges lower after insider sale and UBS target hike
+## 25. Quest Diagnostics stock edges lower after insider sale and UBS target hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -339,7 +327,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower after insider sale and UBS target hike ad-hoc-news.de
 
-## 27. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
+## 26. Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -351,7 +339,7 @@
 
 **Feed description:** Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer
 
-## 28. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
+## 27. Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Sep 2026
@@ -362,6 +350,18 @@
   - Clinical Lab Products: https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5
 
 **Feed description:** Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products
+
+## 28. Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026.
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 09 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVk1mNVR4Nm1oUXcyM3JnQ0Y3RUk1Umd3cnVmNVMwNEJzSklKLTl5LW9aa2VyOE85S0dmUVFtVGRENUFCbEhZbEkzN0JTRXpCU2ZERS1JSkdUMndHUzl6UkV3SFFGTzhNeEFqM2JndmpBUF9leG1vSkVzekN4ZUtmWm5JOTR6MWE0?oc=5
+
+**Feed description:** Apple Health app users can buy Quest Diagnostics lab tests directly in the app starting late 2026. pluang.com
 
 ## 29. Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth
 
