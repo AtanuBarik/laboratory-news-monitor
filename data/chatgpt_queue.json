@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T18:18:32.658101+05:30",
-  "generated_at_display": "22 Sep 2026, 6:18 PM IST",
+  "generated_at": "2026-09-22T22:49:06.322151+05:30",
+  "generated_at_display": "22 Sep 2026, 10:49 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 190,
+  "remaining_unsummarized_count": 192,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -404,6 +404,25 @@
       ]
     },
     {
+      "id": "ca808f8ea35768f06614",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
+      "source": "Zacks Investment Research",
+      "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
+      "published_at": "2026-09-22T14:19:18+00:00",
+      "published_display": "22 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5ce025e75dac0ab4f0ef",
       "company": "Labcorp",
       "category": "Product & Services",
@@ -660,25 +679,6 @@
         {
           "name": "BioTecNika",
           "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20a67ab17183ba0b54fe",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
-      "source": "Yahoo Finance",
-      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "published_display": "27 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5"
         }
       ]
     }

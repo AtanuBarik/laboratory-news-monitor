@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 22 Sep 2026, 5:33 PM IST
+- **Repository generated:** 22 Sep 2026, 10:49 PM IST
 - **Distinct events in this file:** 128
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -115,7 +115,7 @@
   - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
   - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune
+**Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
 
 ## 10. Labcorp unveils blood test identify potential for Alzheimer's disease in patients
 

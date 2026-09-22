@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-22T17:33:59.783527+05:30",
-  "generated_at_display": "22 Sep 2026, 5:33 PM IST",
-  "item_count": 302,
-  "raw_relevant_item_count": 491,
-  "duplicates_merged": 96,
+  "generated_at": "2026-09-22T22:49:02.039320+05:30",
+  "generated_at_display": "22 Sep 2026, 10:49 PM IST",
+  "item_count": 304,
+  "raw_relevant_item_count": 497,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "ca808f8ea35768f06614",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
+      "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-09-22T14:19:18+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-22T14:19:18+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "borne disease exposure finds high study tick"
+    },
+    {
+      "id": "4ff6081157bcc4de7a20",
+      "company": "Quest Diagnostics",
+      "title": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXNpVjNnd1BUM0hEZXE3VVlQQnFCQUhRUlltUGtTT2ZUSnNOdU1KNVJrMUtCY0ZqUnhBd0hzUVZySmdHcVlrcmxfNi00OEduUHEyMWgzUEVVTFozRG81UVpPT1BaYk5XZ3BrTm1TR1BVVmtfWjdxbjFRSGEyblBiZko5b18zTktMZTB4bnI0V3h1LWRoaEVqdVlqOWc?oc=5",
+      "description": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "source_domain": "cnbc.com",
+      "published_at": "2026-09-22T11:49:33+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXNpVjNnd1BUM0hEZXE3VVlQQnFCQUhRUlltUGtTT2ZUSnNOdU1KNVJrMUtCY0ZqUnhBd0hzUVZySmdHcVlrcmxfNi00OEduUHEyMWgzUEVVTFozRG81UVpPT1BaYk5XZ3BrTm1TR1BVVmtfWjdxbjFRSGEyblBiZko5b18zTktMZTB4bnI0V3h1LWRoaEVqdVlqOWc?oc=5",
+          "domain": "cnbc.com",
+          "published_at": "2026-09-22T11:49:33+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alibaba biggest gamestop holding making more moves premarket stocks"
+    },
     {
       "id": "10e080cf33d21403ba00",
       "company": "Quest Diagnostics",
@@ -227,7 +275,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Q1 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5",
-      "description": "Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune",
+      "description": "Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
@@ -547,9 +595,21 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhDUXJEeWJ1LS1tWi1rMm0zUEJEMFZvYWVZWlE4Q19rVk1VZUJpNDVEaVZJelRJUjNyY01vY3hiN2FNYnk1eUtCVmhnaV8yX0Q5NFJPU0dObDVUTjV5R0pOaFNSV1Z6S2l2bEwzZ3ZxX0VYRm9HRU0tWGowZEVqUEpqaDI5V1FoZTJkWGhrcU1Dbk5XSmkwWnppSlN3bnZEaTRCNHNEbUxEUQ?oc=5",
           "domain": "investing.com",
           "published_at": "2026-09-21T22:01:47+00:00"
+        },
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejFvenZwSmlnanRZNENzSHhvbko0WTBSSHdWQTFNNUQzYWtDbGhuS0VGOU1Vam1jNWNqUzludkt4OE9ZazZJU3l0Q0JFUzhVVmtpMTh6VWFrcDdBeDBHWWxyWUZxdDdwd25BdXUzUnBlUG10aDVEbW1Ybkt2Z2ZyQWFDb0dFSWlvcUdQeS1CVGpDYXJRZkRVMw?oc=5",
+          "domain": "fool.com",
+          "published_at": "2026-09-22T15:43:42+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzhQMFNMSkNGX3Q2Wk9nRU9BVmpWd3kxM09fODQzTDRlNkFaYlVjUUpNc3JxZy1MUUdjN0hHc0JDemt5YTZ2ajJLWDVaaDdXcGZCQnlsNG9TQmR2c1g2ZHhnZ3FVVndQSDRNdkdZOFd2T2hXeThobzFDaDR5VVp5UVhCQW8zcll1YzNMSjJ2OEJkZEc5bE1tSTN6V2hNWk9YdFNr?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T15:57:47+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "stock today why"
     },
     {
@@ -839,7 +899,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q2 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
@@ -10312,10 +10372,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 94,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-22T18:17:00+05:30",
-  "next_update_display": "22 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-23T00:17:00+05:30",
+  "next_update_display": "23 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
