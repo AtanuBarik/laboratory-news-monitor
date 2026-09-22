@@ -1,33 +1,123 @@
 {
-  "generated_at": "2026-09-22T22:49:02.039320+05:30",
-  "generated_at_display": "22 Sep 2026, 10:49 PM IST",
-  "item_count": 304,
-  "raw_relevant_item_count": 497,
-  "duplicates_merged": 99,
+  "generated_at": "2026-09-23T03:10:19.521966+05:30",
+  "generated_at_display": "23 Sep 2026, 3:10 AM IST",
+  "item_count": 307,
+  "raw_relevant_item_count": 500,
+  "duplicates_merged": 106,
   "failures": [],
   "items": [
     {
-      "id": "ca808f8ea35768f06614",
+      "id": "0807c85a76b15a295cc0",
+      "company": "Labcorp",
+      "title": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
+      "description": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-22T21:14:20+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-22T21:14:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 2029 annual compound growth including outlook reaffirms revenue"
+    },
+    {
+      "id": "e6a78c89b4b19162fe06",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
+      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-22T20:28:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVCcmd3Y0E4T0JVNnJYMVo0RzFGMGZMc2Qwc3F0SVBGYjdqYkNxV2Fac2tsMUZiRVZZdmxLV0o4ejRiZnpwLWdFdlVodllzTjkybFVwQjgtXy1rVG9ORHd3UTRFdE5RVnl1S055dnk1NXJGeFd4dVY5TDlGWGJzODY1cnVzcXBETWRDaktGQ2ltWEk?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-09-22T21:01:34+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 financial october quarter release results third"
+    },
+    {
+      "id": "3194b7f01df264d62497",
+      "company": "Labcorp",
+      "title": "Labcorp $6.1 Million Data Breach Class Action Settlement",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRVFqYU00OW1NV1poRjBXb1ZiWEhmR2x4OWxZSklIenZkRnhZMXE4N3dSZzJfRVRJMnBMOXQ4Vll4dEswd2lTZzFXT2tnMTZ1bXEtX3RRZUl3OVBHX21ZOEFlSUZwX2JKOXc?oc=5",
+      "description": "Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot",
+      "source": "Claim Depot",
+      "source_url": "https://www.claimdepot.com",
+      "source_domain": "claimdepot.com",
+      "published_at": "2026-09-22T17:25:40+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Claim Depot",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRVFqYU00OW1NV1poRjBXb1ZiWEhmR2x4OWxZSklIenZkRnhZMXE4N3dSZzJfRVRJMnBMOXQ4Vll4dEswd2lTZzFXT2tnMTZ1bXEtX3RRZUl3OVBHX21ZOEFlSUZwX2JKOXc?oc=5",
+          "domain": "claimdepot.com",
+          "published_at": "2026-09-22T17:25:40+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action breach class data million settlement"
+    },
+    {
+      "id": "8f3b45a407ab004dc28d",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
       "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-09-22T14:19:18+00:00",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-22T14:00:00+00:00",
       "published_display": "22 Sep 2026",
       "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
         {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T14:00:00+00:00"
+        },
+        {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
           "domain": "zacks.com",
           "published_at": "2026-09-22T14:19:18+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHU5Y2VEZU5HSUQ3WW15bk9rT0xDWVg1VEVlX29KcGpSR2hWaVBMZEdlS0w3dGpSR2ZKd1UyY3BiLXVkY3Rla1ZZNnl3Q3dCT0ltZHZlSjBOR1ZVU1FwNTdBaTNDSDFGak0xQ1p3Nl9QUjBPTklxWUJEZFZWUVpGczB5YUtXNkUtVTVfQXR5N25HYXMwSTRZOHdyQW5jcjNNeWJ4c3g3amFFdw?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-22T16:41:15+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 3,
       "event_signature": "borne disease exposure finds high study tick"
     },
     {
@@ -97,9 +187,15 @@
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
           "domain": "seekingalpha.com",
           "published_at": "2026-09-21T21:13:01+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-21T21:13:01+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2027 cms cuts fall rates services"
     },
     {
@@ -1403,7 +1499,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Thursday when compared to competitors",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors despite daily gains MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Monday when compared to competitors despite daily gains marketwatch.com",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -10372,10 +10468,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 86,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-23T00:17:00+05:30",
-  "next_update_display": "23 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-23T06:17:00+05:30",
+  "next_update_display": "23 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

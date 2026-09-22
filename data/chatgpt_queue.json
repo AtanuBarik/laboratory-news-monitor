@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T23:14:30.826283+05:30",
-  "generated_at_display": "22 Sep 2026, 11:14 PM IST",
+  "generated_at": "2026-09-23T03:10:22.826524+05:30",
+  "generated_at_display": "23 Sep 2026, 3:10 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 192,
+  "remaining_unsummarized_count": 195,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -404,21 +404,29 @@
       ]
     },
     {
-      "id": "ca808f8ea35768f06614",
+      "id": "8f3b45a407ab004dc28d",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
       "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
-      "source": "Zacks Investment Research",
+      "source": "finance.yahoo.com",
       "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
-      "published_at": "2026-09-22T14:19:18+00:00",
+      "published_at": "2026-09-22T14:00:00+00:00",
       "published_display": "22 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
+      "coverage_count": 3,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
       "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHU5Y2VEZU5HSUQ3WW15bk9rT0xDWVg1VEVlX29KcGpSR2hWaVBMZEdlS0w3dGpSR2ZKd1UyY3BiLXVkY3Rla1ZZNnl3Q3dCT0ltZHZlSjBOR1ZVU1FwNTdBaTNDSDFGak0xQ1p3Nl9QUjBPTklxWUJEZFZWUVpGczB5YUtXNkUtVTVfQXR5N25HYXMwSTRZOHdyQW5jcjNNeWJ4c3g3amFFdw?oc=5"
         }
       ]
     },
@@ -432,12 +440,16 @@
       "published_at": "2026-09-21T21:13:01+00:00",
       "published_display": "21 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
       "sources": [
         {
           "name": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5"
         }
       ]
     },
