@@ -1,33 +1,93 @@
 {
-  "generated_at": "2026-09-23T10:43:46.709978+05:30",
-  "generated_at_display": "23 Sep 2026, 10:43 AM IST",
-  "item_count": 311,
-  "raw_relevant_item_count": 503,
-  "duplicates_merged": 103,
+  "generated_at": "2026-09-23T17:45:31.746527+05:30",
+  "generated_at_display": "23 Sep 2026, 5:45 PM IST",
+  "item_count": 314,
+  "raw_relevant_item_count": 504,
+  "duplicates_merged": 105,
   "failures": [],
   "items": [
     {
-      "id": "647cc5ed2dbb974cd1f7",
-      "company": "Mayo Clinic Laboratories",
-      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
-      "source": "Macau Business",
-      "source_url": "https://macaubusiness.com",
-      "source_domain": "macaubusiness.com",
-      "published_at": "2026-09-23T04:28:39+00:00",
+      "id": "812912acf9a32780ee20",
+      "company": "Labcorp",
+      "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
+      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-23T11:13:52+00:00",
       "published_display": "23 Sep 2026",
       "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-23T11:13:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisitions after day eyes investment investor lab tech"
+    },
+    {
+      "id": "271c15b69f8c875d1da5",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
+      "description": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC Digital Health News",
+      "source": "Digital Health News",
+      "source_url": "https://www.digitalhealthnews.com",
+      "source_domain": "digitalhealthnews.com",
+      "published_at": "2026-09-23T09:45:00+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Digital Health News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
+          "domain": "digitalhealthnews.com",
+          "published_at": "2026-09-23T09:45:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "across apac asia expand partner pathology precision"
+    },
+    {
+      "id": "8fd1c8a473789e7407ee",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-09-23T01:30:00+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-23T01:30:00+00:00"
+        },
+        {
           "name": "Macau Business",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5",
           "domain": "macaubusiness.com",
           "published_at": "2026-09-23T04:28:39+00:00"
+        },
+        {
+          "name": "TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW9IQzJhT3RJck9Mb0hMVzNzUmp5NEdzYVJvblNQSWxaNmE4TEh3Qmc1eUZGaWNHSW51d0JlS2Z0TWtZeElNMUcwQXlvNmtpYTh3Y1BST29oQXBOZXBqUWZqbWIxSm5mOFc3ZV9BTXFraXcwSTQ4eXY3ZnhzdlVIckZiSk5UWmQ1ZGR6bHgwWkpkQ0Y1QmhqWmZ3?oc=5",
+          "domain": "technode.global",
+          "published_at": "2026-09-23T08:12:01+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 3,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -107,7 +167,7 @@
       "company": "Labcorp",
       "title": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
-      "description": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth TradingView",
+      "description": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -127,11 +187,35 @@
       "event_signature": "2026 2029 annual compound growth including outlook reaffirms revenue"
     },
     {
+      "id": "dd66ce0940f383248ed3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZlBtTG93VXdla0oyaE1HZkhLdFBJc3JSMlBxYjFGWDdCbjlHUFY3ZXdhTV9GX2lReHFNY2RPWDE5Y2p5ek5YaE93VjBUZnJrYkZiUWVYejFHc0RDTExhdFVLeTdLd0I1NGtiYlpPVTRPa2lYdXc4bUM0VUY0TTFDMmdMTUNVU3plWHBpWWZyM1lKZDNZSDcwQ2thNGRNeklxYTdWZFdZM0ZoZE1KLWlWcTBHc3BKRC14cVREWjhFMjVoMW5YbU90Y1kxT3BVMTFESUlaYlhzWnItZ1pFazUwNHhDbFdzcVlKNmQtYw?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-09-22T20:58:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZlBtTG93VXdla0oyaE1HZkhLdFBJc3JSMlBxYjFGWDdCbjlHUFY3ZXdhTV9GX2lReHFNY2RPWDE5Y2p5ek5YaE93VjBUZnJrYkZiUWVYejFHc0RDTExhdFVLeTdLd0I1NGtiYlpPVTRPa2lYdXc4bUM0VUY0TTFDMmdMTUNVU3plWHBpWWZyM1lKZDNZSDcwQ2thNGRNeklxYTdWZFdZM0ZoZE1KLWlWcTBHc3BKRC14cVREWjhFMjVoMW5YbU90Y1kxT3BVMTFESUlaYlhzWnItZ1pFazUwNHhDbFdzcVlKNmQtYw?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-22T20:58:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors stock tuesday underperforms when"
+    },
+    {
       "id": "e6a78c89b4b19162fe06",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
-      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 TradingView",
+      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 Burlington Times-News",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -157,9 +241,21 @@
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEMtNTlUSWkySDhmVnRrejdiUGxISmg5QnQzTzFHUVlza1FFR2dVSm1jYW5FTUFabTY2WUFJaW5lbUlXNTZtZlpiYXRoeVBpaEp1NldIVXk2Nks3QXU1Q01DZnJ4TFQwX3dsdHg1WVlGNU43Y24zMUZiMEhvaGNKTTNjejlUY1VqdzdHeGhWYlhqMktiYWVfbTNfeklUZWVYcDhDaGF2X004VXpoUVJmcV85dFMyTnk3US12cDNQbTZxTmZZQzJTUUpVcWRsMmhqdFpBZGdSRQ?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "News-Herald.net",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3M3UElYWlRMd2Jla0ZleHpHMnFza05SbXVRT0FqaWIwQXZIcWtubm9wZkt4dzJLUWRvVkgtNTBmUGFDaEJLSFktNVdGNjV1WDJ4bzZUOWp5aC1nYkU3NTRiRDJuUDdiclF4NTNFZlU4TTlUQzE1eW1GYWZ1RUlCQWZYcUttZkZFbXBaNkdUajd3OTBVSXpnMF9Vbjh0Qzk3T2FlREVGNHdaOW93cFhydzFUb0NoZnV6Ni1EVlZYeWI1V0NHQnNaVnRrM0FvZVRRY0RRYUFTWjJZVFQ1eHVTVjA5andGQU0zTHZxS0hIVW92VnQ0TVh2NmJBUm93V3FNQVBLTktXTXBsdnNWZUJNTnB1bmtublE?oc=5",
+          "domain": "news-herald.net",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Burlington Times-News",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSlBGY3ZxN3RnUjdTb3VTNlZKVFFRLU5SR0NpaldOUGVzVTBfa1hYQUQ3NlhLeThGNjBDN2pTUl82VlRYV19zYXpobHdlU0sxUXllSXR0NlVhMEtHeG1pOTBlYlVwVTRFSVJsdmp1c0RJNGhqSGNwcFRhbjdHcWpzSGJnaGhWM01Iam9DbFE5Njk4MDRwSzNUcTBVUS1hY2l3SVNHVmNzekg2b2NZSFV6ckhvaGRtaTZBUUUyX3hpVVlmNGctdGRCY0FhdFV5eW5YdWlqY3NRVFpHNUtoUE9xcU82Z1NCVzVJSTNwRXVBcnI2UksyZDRFTEFoTnZsNVdDMmZPVUtLam1GQ2J2NFdPTVoycF9sNlg3?oc=5",
+          "domain": "thetimesnews.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "event_signature": "2026 financial october quarter release results third"
     },
     {
@@ -329,7 +425,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5",
-      "description": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges Yahoo Finance",
+      "description": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges tradingview.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -595,9 +691,15 @@
           "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qY0pFdGxRQTZEUGFuNUNGZTlHR0JfeFVvVGVZdU5xUWstempIbFR4XzZQMUJkTm94cmNfX2I4UU5qN3l1eTBZWFlKcGMwZkhJQ1BiQzVWd0h1eWpDZ0RGeFFqR2gtOWxoVlpyVW5R?oc=5",
           "domain": "njbiz.com",
           "published_at": "2026-09-16T17:10:55+00:00"
+        },
+        {
+          "name": "Telehealth.org",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
+          "domain": "telehealth.org",
+          "published_at": "2026-09-23T08:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "app apple health lab team testing via"
     },
     {
@@ -805,9 +907,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzhQMFNMSkNGX3Q2Wk9nRU9BVmpWd3kxM09fODQzTDRlNkFaYlVjUUpNc3JxZy1MUUdjN0hHc0JDemt5YTZ2ajJLWDVaaDdXcGZCQnlsNG9TQmR2c1g2ZHhnZ3FVVndQSDRNdkdZOFd2T2hXeThobzFDaDR5VVp5UVhCQW8zcll1YzNMSjJ2OEJkZEc5bE1tSTN6V2hNWk9YdFNr?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-09-22T15:57:47+00:00"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzQzRERXYWFTWFpiVmQ1dDlyNkFjcWJyOEVwTURMVEZxeGhCVkdCdWhCOXJCUklzeFB6bERKSWMzTmtOdGJXQnpfX21RSlpWbFRyLTlKaXhtVEhWLVIyMWVVMjkyVzlRaDVwTFRkWFh4R0VnYkR5Y0hTN1pMaGlYcWlwNnZwQQ?oc=5",
+          "domain": "aol.ca",
+          "published_at": "2026-09-22T15:57:47+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "stock today why"
     },
     {
@@ -10570,10 +10678,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-23T12:17:00+05:30",
-  "next_update_display": "23 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-23T18:17:00+05:30",
+  "next_update_display": "23 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

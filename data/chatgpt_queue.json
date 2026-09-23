@@ -1,29 +1,56 @@
 {
-  "generated_at": "2026-09-23T12:06:45.859108+05:30",
-  "generated_at_display": "23 Sep 2026, 12:06 PM IST",
+  "generated_at": "2026-09-23T17:45:35.749881+05:30",
+  "generated_at_display": "23 Sep 2026, 5:45 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 199,
+  "remaining_unsummarized_count": 202,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
-      "id": "647cc5ed2dbb974cd1f7",
-      "company": "Mayo Clinic Laboratories",
+      "id": "812912acf9a32780ee20",
+      "company": "Labcorp",
       "category": "Partnership, M&A",
-      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
-      "source": "Macau Business",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
-      "published_at": "2026-09-23T04:28:39+00:00",
+      "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
+      "source": "Yahoo Finance",
+      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day Yahoo Finance",
+      "published_at": "2026-09-23T11:13:52+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
       "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8fd1c8a473789e7407ee",
+      "company": "Mayo Clinic Laboratories",
+      "category": "Partnership, M&A",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
+      "source": "PR Newswire",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
+      "published_at": "2026-09-23T01:30:00+00:00",
+      "published_display": "23 Sep 2026",
+      "official_source": false,
+      "coverage_count": 3,
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5"
+        },
         {
           "name": "Macau Business",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5"
+        },
+        {
+          "name": "TNGlobal",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW9IQzJhT3RJck9Mb0hMVzNzUmp5NEdzYVJvblNQSWxaNmE4TEh3Qmc1eUZGaWNHSW51d0JlS2Z0TWtZeElNMUcwQXlvNmtpYTh3Y1BST29oQXBOZXBqUWZqbWIxSm5mOFc3ZV9BTXFraXcwSTQ4eXY3ZnhzdlVIckZiSk5UWmQ1ZGR6bHgwWkpkQ0Y1QmhqWmZ3?oc=5"
         }
       ]
     },
@@ -672,25 +699,6 @@
         {
           "name": "Value Research",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55942355d081eb6ece71",
-      "company": "Quest Diagnostics",
-      "category": "Product & Services",
-      "title": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US",
-      "source": "Clinical Lab Products",
-      "description": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US Clinical Lab Products",
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "published_display": "28 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk0xU0NnX0haVUliSjJvd0pBWmVwQ3ZZVllkdFNwX2ZTcmtpZl9YQUt6blZVRnY3Ri14bkFmUFo5dzhjSmlNUmhkWTQzSGtxNk1NWkw0RUJVblIxNG5ZRnpXZjMyY2l5eVFtSnUyMnBpRlRTeDNoaHNXd0lRcU94bjJWZzQ4NERJU0RvVkNpc2VpdWN1aVVJTmEtRGROUkNfbFY4YjI4T25ZMm1V?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk0xU0NnX0haVUliSjJvd0pBWmVwQ3ZZVllkdFNwX2ZTcmtpZl9YQUt6blZVRnY3Ri14bkFmUFo5dzhjSmlNUmhkWTQzSGtxNk1NWkw0RUJVblIxNG5ZRnpXZjMyY2l5eVFtSnUyMnBpRlRTeDNoaHNXd0lRcU94bjJWZzQ4NERJU0RvVkNpc2VpdWN1aVVJTmEtRGROUkNfbFY4YjI4T25ZMm1V?oc=5"
         }
       ]
     }
