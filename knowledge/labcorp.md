@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 23 Sep 2026, 5:45 PM IST
+- **Repository generated:** 23 Sep 2026, 10:59 PM IST
 - **Distinct events in this file:** 133
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -34,9 +34,10 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
@@ -101,7 +102,7 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEotZW9vUTFjb0NmSmRoNXdnVHVKaXNzeUdueWxTZGo2V0RUUU5qWlJxV3JtbXhialJCSEk5cW1uVGVOd2VEODEzX1JQaUVDS3Z1am55N0t5SG1VNTFiSjBnVXpRcTBfdkpfZ2pCS2otTjhxLVFxampzeDNralZpODJYTjFRNWJRZTNRb1NoenF2Y0FSOGU0VFdHWmszU0d2QllxS2RJSG1hb2QyaUxKLTB3ejJYNjhDUXR3LUpDVWhfWXM3dm1F?oc=5
 
-**Feed description:** Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat AD HOC NEWS
+**Feed description:** Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat ad-hoc-news.de
 
 ## 9. Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat
 
@@ -127,7 +128,7 @@
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXpTZkJQcXVkRDNDVFlGcWlBVHNtWUZTcnAtcDhzVXJuRWlaZzR5V0pIaDNCTUNMYS0yV2lXR1pGbG1VZjBVcThNeVhmcUdRZE1zLTZFOGxHMWk0UHo2enY3SERsMVRXVkhHWDg0dnI4dFVxOHFNTUxkeUc5aEQ4dkRFSllYdGpIbE5Idlc1UWxhR3dBS3RqekJtMjdmZXZYVkw2YzBHRkQzd09rYmRWY1dGbkNNSkI4Y2JXWUhGWGtmMTN6WWlmY3BNOA?oc=5
 
-**Feed description:** Labcorp stock gains after Q2 2026 earnings and investor day guidance AD HOC NEWS
+**Feed description:** Labcorp stock gains after Q2 2026 earnings and investor day guidance ad-hoc-news.de
 
 ## 11. Labcorp Website Tracking Class Action Settlement
 
@@ -282,12 +283,13 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWTNvaVhVamI4dVZYMmJBZ2x6YWJyVzluNTVDbG9oeVBUcE5oazlTV0MxZUdQWkRWNWgycTg1Um1ycXUybHJoVHJTWnpZZk5ySGE0SzZjT0k2aG5mZTA1andGb1Jod29iNjlDX2JxRDdsX2lmb1VabjRWcUQ5dkdkMk92YWRMdFZfOEVzeDVjQzItbXZ0ZmpNQTJ0V1dhcmtOYU9tQ1dzZGVTWDV0?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQUWFFQm04Y0NDYWJrUjdkR0ZPTUFJZ09pYlhwblNBRUdWZjQzUlMwVVNyTVhMZ2lVMXFCZmdzTUpCMmJwQmhDc2xrWWFQbG1tUWh4SWg4elZqWTZZQmY2MU5ORkFjMHlubTdJV0xWVWVZUy1qNTRMTm1jdkt0dGVXV3NaUVRCSTJ4eW1wSFRjWDBnbGZ6c0xVS3hQTHhhS3VmT05iOU5DOUd3TUxyaFY3UmYyd3FWN2tfX1BlbzhJNTJ3Q2ZBNXMzWWl2SXlOeE93SFYwb19kd2FXSl85MFRpVEVNc0lsdFhDWVppd2o0RjFpQzQ?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5
+  - The Globe and Mail: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3V4NVhKTUpsS1RKTjB2eWdMek91NERfN0JhNzFacXdUUXB5dHp2SnJpM2F6V0VDZnM2Q3VHTHEyWkVRNW5XWjFqM0stUXpVNTI3MmxvWjBPdjRaQVRaWU5jdEpjYTJxN0R1aDJJWnBhYWg2UVZ3TjB3Skw1bjRxd0pMd3VXb2FKT3RIdUhRVHVXR0p4MTkyb2E0aVhTNnljZkV6WFBzcXpjdERoNmJKOE9rbF9YZ0VkaTB0Z3NMeHpjd2RtMUFkZG53V1g2U1hJSWM5eA?oc=5
 
 **Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com
 

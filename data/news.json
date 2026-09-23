@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-23T17:45:31.746527+05:30",
-  "generated_at_display": "23 Sep 2026, 5:45 PM IST",
-  "item_count": 314,
-  "raw_relevant_item_count": 504,
-  "duplicates_merged": 105,
+  "generated_at": "2026-09-23T22:59:00.010682+05:30",
+  "generated_at_display": "23 Sep 2026, 10:59 PM IST",
+  "item_count": 315,
+  "raw_relevant_item_count": 509,
+  "duplicates_merged": 110,
   "failures": [],
   "items": [
+    {
+      "id": "db16752d0c91226c2c06",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3lYQ2VLc0w2QTExZVFRbnA5djJ4S3lPQkZmZlFfcVhkRnVKVkZyNVhueDRVRVFCRUJyOERKbm4tMm0xUUdQcjY3Ny1oZlFnZnhEQjRUY0lSaVlZbmNBQ0pIMHhRVE1NUWRrZWFHeVNKQl9IaWROc0cyUER2YjdZTHFyRDRQcFUtQVUyQjhlTy1DVUJXM28yRWdQdlI1ZDlmODBmN3g0bzdjX3lsYW5IUEwyUXkyeGVQSXU4TEQ4Mk0?oc=5",
+      "description": "Quest Diagnostics Incorporated: Testing Growth Keeps Me Bullish Despite Medicare Headwinds Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-09-23T12:50:51+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3lYQ2VLc0w2QTExZVFRbnA5djJ4S3lPQkZmZlFfcVhkRnVKVkZyNVhueDRVRVFCRUJyOERKbm4tMm0xUUdQcjY3Ny1oZlFnZnhEQjRUY0lSaVlZbmNBQ0pIMHhRVE1NUWRrZWFHeVNKQl9IaWROc0cyUER2YjdZTHFyRDRQcFUtQVUyQjhlTy1DVUJXM28yRWdQdlI1ZDlmODBmN3g0bzdjX3lsYW5IUEwyUXkyeGVQSXU4TEQ4Mk0?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-23T12:50:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bullish despite growth headwinds keeps medicare testing"
+    },
     {
       "id": "812912acf9a32780ee20",
       "company": "Labcorp",
@@ -139,19 +163,25 @@
       "event_signature": "clinical cuts demand despite driven future impact medicare testing"
     },
     {
-      "id": "4e89165311dd5c020260",
+      "id": "bcfa317b222afa4c8330",
       "company": "Labcorp",
       "title": "Labcorp Reaffirms Long-Term Earnings Outlook",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5",
       "description": "Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-09-22T21:38:19+00:00",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-22T21:37:26+00:00",
       "published_display": "22 Sep 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T21:37:26+00:00"
+        },
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
@@ -159,7 +189,7 @@
           "published_at": "2026-09-22T21:38:19+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "earnings long outlook reaffirms term"
     },
     {
@@ -253,9 +283,21 @@
           "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSlBGY3ZxN3RnUjdTb3VTNlZKVFFRLU5SR0NpaldOUGVzVTBfa1hYQUQ3NlhLeThGNjBDN2pTUl82VlRYV19zYXpobHdlU0sxUXllSXR0NlVhMEtHeG1pOTBlYlVwVTRFSVJsdmp1c0RJNGhqSGNwcFRhbjdHcWpzSGJnaGhWM01Iam9DbFE5Njk4MDRwSzNUcTBVUS1hY2l3SVNHVmNzekg2b2NZSFV6ckhvaGRtaTZBUUUyX3hpVVlmNGctdGRCY0FhdFV5eW5YdWlqY3NRVFpHNUtoUE9xcU82Z1NCVzVJSTNwRXVBcnI2UksyZDRFTEFoTnZsNVdDMmZPVUtLam1GQ2J2NFdPTVoycF9sNlg3?oc=5",
           "domain": "thetimesnews.com",
           "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Smith Mountain Eagle",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWTMyUlJuWW1MNUlZTUQtWjVBWDMxUExuU3g0NzBwY1V6ekxSeno4RzR6Y0VsdVNROEFPMUFqRE40eE9WSWJXYU5LYlF4ME8tT0VZQjJka293bjBzRU5QVmVlZDdWeDV5c3ZzVWhvX2dBYVNJc1NINWJLb2xZWGtkWDVaRjNIejNmTGVDcDNmZnNpaS1CX1NsUlBvNWJMaHVXWlNjc2RRR0tvWjRVSHRIQTYxeEc3RVJyQXdDa241R3NsaG1LRFB1R3lsT2hwSDVaMlZfcERwTVRDQ1d4NE81N0NVZUZNTG5jVWJXWW5VeF9XcndGQUxMSGlodVdYN0JzWVRTRF9IUzhCcm05RjRsNW1fWldrekluTlFxVktERHU?oc=5",
+          "domain": "smithmountaineagle.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Kinston.com",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5",
+          "domain": "kinston.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 7,
       "event_signature": "2026 financial october quarter release results third"
     },
     {
@@ -509,7 +551,7 @@
       "company": "Labcorp",
       "title": "Labcorp stock holds near recent highs after Q2 2026 earnings beat",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
-      "description": "Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat AD HOC NEWS",
+      "description": "Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -539,7 +581,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcUZ4V3hPd0UxUUFZWDRBd1hmTnRnQ2NULU81ZktrWnBZQW51dmJ0c0paYmNOQ0loeFBjMzVGc0hKdUdHcktnRVRGcFNaNzJCRzdROFZjdWo4SGxhWGFWT2FYUzhEbERnRHdXd1NXeFZycGJBZ1NRYWwzWGROSWRodEZGSnJYWXNqeGRUalRPZzdDcWplSUxkNlBKNGhJTi1ZQjJUaGp5eXotRzN1WEJUUzhjc3N1dlp0NGdPcERKWmZ3Vl9oU2lNQUZBLVpjMXZK?oc=5",
-      "description": "Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally AD HOC NEWS",
+      "description": "Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -707,7 +749,7 @@
       "company": "Labcorp",
       "title": "Labcorp stock gains after Q2 2026 earnings and investor day guidance",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2tnaHB2ZEFObTBSMGttSEk2a0JtdlJuU0VaSHQyUlBFV05oRGxBUnBSV2JyWXo4UGxKNy1HZDR2NWNva3U2RlJJUTgxNjc1b2sydEF4ZXpvZGRwcC1mUlR0Z3d2Y1JMV3dTUHNWbVZ5N0RiNGZ4a1g1MkZwNjQ0bk9oZFhMaVdXN1RvZHpUMDJIUU1yYmVKOEpPS2pkeXFRbHJxTVFBdEVsa1A5YkZJeDlHYVJkVDA4NmdsUk1wQllZT1JhS2hUd1BDMA?oc=5",
-      "description": "Labcorp stock gains after Q2 2026 earnings and investor day guidance AD HOC NEWS",
+      "description": "Labcorp stock gains after Q2 2026 earnings and investor day guidance ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -1285,30 +1327,6 @@
       "event_signature": "2026 analyst day investor slideshow"
     },
     {
-      "id": "96206d3d4500b037e6eb",
-      "company": "Mayo Clinic Laboratories",
-      "title": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
-      "description": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com",
-      "source": "Post Bulletin",
-      "source_url": "https://www.postbulletin.com",
-      "source_domain": "postbulletin.com",
-      "published_at": "2026-09-11T15:21:51+00:00",
-      "published_display": "11 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Post Bulletin",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
-          "domain": "postbulletin.com",
-          "published_at": "2026-09-11T15:21:51+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "build facility million mississippi testing"
-    },
-    {
       "id": "821716659df30f3d5ffd",
       "company": "Labcorp",
       "title": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners",
@@ -1331,6 +1349,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "acquires germany great labs medical mlm partners point"
+    },
+    {
+      "id": "96206d3d4500b037e6eb",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
+      "description": "Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com",
+      "source": "Post Bulletin",
+      "source_url": "https://www.postbulletin.com",
+      "source_domain": "postbulletin.com",
+      "published_at": "2026-09-11T07:00:00+00:00",
+      "published_display": "11 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Post Bulletin",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjI1YWFxc3gwSUo5OTd3WUNSU1pwcTI4ZlhiRjZPcWFtUkV1Nm1QWEQxN3drNllPbVJlRDhzNGF1SElYLTVPZ2hheDBCYng2MnZkQ2JGVDlqbElJM3BJTEVkV1RqSzN0a25BNDBGQWdXQk9qWERIMjlDdUlNWk1MREgzVnJuWkNNVXJaT3R2amw2SDBuWG1MMmc4SHZlMDFhTHdqSkRJZEh6RjFoVFNYV0JB?oc=5",
+          "domain": "postbulletin.com",
+          "published_at": "2026-09-11T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "build facility million mississippi testing"
     },
     {
       "id": "bdd85fb23903455d2d62",
@@ -1567,9 +1609,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX0hlclQ3d3huVzBsUl80b1dTZzFrc3RldTIzR3lZOGZVczkybVp3NWR5eWRlU0htS1JrMGhjLVN5ei01QnJFcTBwcFM3X1V3Wm14a0p4T2JJUFZXV1paTDF2MGFOVHNZZEZPU0NxMGZlNUs4R2Flc1JLNVBWTC1VZ2dCeDFjQVdwVGw2MjI3aXhvbHpDMVhCMFlMalJYeHJuaF9KN3J2RUVwRFdZMmczRGtaRVlGeklNTDlhaTJCV1QwNy1XLW41RFdlcTlIcTlnN0E?oc=5",
           "domain": "theglobeandmail.com",
           "published_at": "2026-09-11T21:26:00+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb3V4NVhKTUpsS1RKTjB2eWdMek91NERfN0JhNzFacXdUUXB5dHp2SnJpM2F6V0VDZnM2Q3VHTHEyWkVRNW5XWjFqM0stUXpVNTI3MmxvWjBPdjRaQVRaWU5jdEpjYTJxN0R1aDJJWnBhYWg2UVZ3TjB3Skw1bjRxd0pMd3VXb2FKT3RIdUhRVHVXR0p4MTkyb2E0aVhTNnljZkV6WFBzcXpjdERoNmJKOE9rbF9YZ0VkaTB0Z3NMeHpjd2RtMUFkZG53V1g2U1hJSWM5eA?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-09-11T07:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "2026 day driving durable growth highlights investor priorities shareholder strategic value"
     },
     {
@@ -10678,10 +10726,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 83,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-23T18:17:00+05:30",
-  "next_update_display": "23 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-24T00:17:00+05:30",
+  "next_update_display": "24 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
