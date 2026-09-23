@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-09-23T03:10:19.521966+05:30",
-  "generated_at_display": "23 Sep 2026, 3:10 AM IST",
-  "item_count": 307,
-  "raw_relevant_item_count": 500,
-  "duplicates_merged": 106,
+  "generated_at": "2026-09-23T10:43:46.709978+05:30",
+  "generated_at_display": "23 Sep 2026, 10:43 AM IST",
+  "item_count": 311,
+  "raw_relevant_item_count": 503,
+  "duplicates_merged": 103,
   "failures": [],
   "items": [
+    {
+      "id": "647cc5ed2dbb974cd1f7",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
+      "source": "Macau Business",
+      "source_url": "https://macaubusiness.com",
+      "source_domain": "macaubusiness.com",
+      "published_at": "2026-09-23T04:28:39+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Macau Business",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5",
+          "domain": "macaubusiness.com",
+          "published_at": "2026-09-23T04:28:39+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
+    },
+    {
+      "id": "e91c042434a636de7902",
+      "company": "Quest Diagnostics",
+      "title": "Apple, Quest Diagnostics partner on in-app lab orders",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
+      "description": "Apple, Quest Diagnostics partner on in-app lab orders Healthcare Brew",
+      "source": "Healthcare Brew",
+      "source_url": "https://www.healthcare-brew.com",
+      "source_domain": "healthcare-brew.com",
+      "published_at": "2026-09-22T21:58:42+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Healthcare Brew",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
+          "domain": "healthcare-brew.com",
+          "published_at": "2026-09-22T21:58:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "app apple lab orders partner"
+    },
+    {
+      "id": "3f23faf7f64b6bcee085",
+      "company": "Labcorp",
+      "title": "Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5",
+      "description": "Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-09-22T21:53:49+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-22T21:53:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clinical cuts demand despite driven future impact medicare testing"
+    },
+    {
+      "id": "4e89165311dd5c020260",
+      "company": "Labcorp",
+      "title": "Labcorp Reaffirms Long-Term Earnings Outlook",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
+      "description": "Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-09-22T21:38:19+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-22T21:38:19+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings long outlook reaffirms term"
+    },
     {
       "id": "0807c85a76b15a295cc0",
       "company": "Labcorp",
@@ -55,9 +151,15 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVCcmd3Y0E4T0JVNnJYMVo0RzFGMGZMc2Qwc3F0SVBGYjdqYkNxV2Fac2tsMUZiRVZZdmxLV0o4ejRiZnpwLWdFdlVodllzTjkybFVwQjgtXy1rVG9ORHd3UTRFdE5RVnl1S055dnk1NXJGeFd4dVY5TDlGWGJzODY1cnVzcXBETWRDaktGQ2ltWEk?oc=5",
           "domain": "pluang.com",
           "published_at": "2026-09-22T21:01:34+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEMtNTlUSWkySDhmVnRrejdiUGxISmg5QnQzTzFHUVlza1FFR2dVSm1jYW5FTUFabTY2WUFJaW5lbUlXNTZtZlpiYXRoeVBpaEp1NldIVXk2Nks3QXU1Q01DZnJ4TFQwX3dsdHg1WVlGNU43Y24zMUZiMEhvaGNKTTNjejlUY1VqdzdHeGhWYlhqMktiYWVfbTNfeklUZWVYcDhDaGF2X004VXpoUVJmcV85dFMyTnk3US12cDNQbTZxTmZZQzJTUUpVcWRsMmhqdFpBZGdSRQ?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 financial october quarter release results third"
     },
     {
@@ -10468,10 +10570,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 88,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-23T06:17:00+05:30",
-  "next_update_display": "23 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-23T12:17:00+05:30",
+  "next_update_display": "23 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

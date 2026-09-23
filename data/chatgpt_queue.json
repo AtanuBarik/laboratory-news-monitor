@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-23T03:53:35.696408+05:30",
-  "generated_at_display": "23 Sep 2026, 3:53 AM IST",
+  "generated_at": "2026-09-23T10:43:50.099247+05:30",
+  "generated_at_display": "23 Sep 2026, 10:43 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 195,
+  "remaining_unsummarized_count": 199,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "647cc5ed2dbb974cd1f7",
+      "company": "Mayo Clinic Laboratories",
+      "category": "Partnership, M&A",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
+      "source": "Macau Business",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
+      "published_at": "2026-09-23T04:28:39+00:00",
+      "published_display": "23 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5",
+      "sources": [
+        {
+          "name": "Macau Business",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5"
+        }
+      ]
+    },
     {
       "id": "8a70eacbbe5ce420b7a8",
       "company": "Labcorp",
@@ -672,25 +691,6 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk0xU0NnX0haVUliSjJvd0pBWmVwQ3ZZVllkdFNwX2ZTcmtpZl9YQUt6blZVRnY3Ri14bkFmUFo5dzhjSmlNUmhkWTQzSGtxNk1NWkw0RUJVblIxNG5ZRnpXZjMyY2l5eVFtSnUyMnBpRlRTeDNoaHNXd0lRcU94bjJWZzQ4NERJU0RvVkNpc2VpdWN1aVVJTmEtRGROUkNfbFY4YjI4T25ZMm1V?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5a7b9d5ee29df8231edb",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Labcorp Careers: Clinical Research Job Opportunity",
-      "source": "BioTecNika",
-      "description": "Labcorp Careers: Clinical Research Job Opportunity BioTecNika",
-      "published_at": "2026-08-27T12:34:26+00:00",
-      "published_display": "27 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5",
-      "sources": [
-        {
-          "name": "BioTecNika",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5"
         }
       ]
     }
