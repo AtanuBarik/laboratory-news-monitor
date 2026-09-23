@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 23 Sep 2026, 10:59 PM IST
+- **Repository generated:** 24 Sep 2026, 3:18 AM IST
 - **Distinct events in this file:** 133
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -397,13 +397,14 @@
 - **Company:** Labcorp
 - **Publication date:** 09 Sep 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - BioSpace: https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5
   - citybiz: https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5
   - Private Equity Professional: https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5
   - Pulse 2.0: https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmhBUmRSTmJLOHp1MXJIVzNMZnRqUHM5RHpvb0YzWmxKcUVoQkIwaS0wbk1RbXVBVjNVaHprdVh3eGxOdERRR1RKcUd5aTFWUnVya1o4a2FPeXYyVHNURmI3UXJMMnd4bkJhMlZidHR1SU1yMmNjMXRpMGVMTE8xNHJJdTVTSEgwR1M4dkJZZ3J3UE5wTkE?oc=5
 
 **Feed description:** Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional
 

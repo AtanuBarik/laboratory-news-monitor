@@ -1,6 +1,6 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 23 Sep 2026, 10:59 PM IST
+- **Repository generated:** 24 Sep 2026, 3:18 AM IST
 - **Distinct events in this file:** 5
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Digital Health News: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5
 
-**Feed description:** Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC Digital Health News
+**Feed description:** Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com
 
 ## 2. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
 

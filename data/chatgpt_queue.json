@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T23:26:57.139176+05:30",
-  "generated_at_display": "23 Sep 2026, 11:26 PM IST",
+  "generated_at": "2026-09-24T03:18:21.583084+05:30",
+  "generated_at_display": "24 Sep 2026, 3:18 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 203,
+  "remaining_unsummarized_count": 204,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -450,6 +450,25 @@
       ]
     },
     {
+      "id": "2d09aef4d9ea5d23e24c",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App",
+      "source": "telehealth.org",
+      "description": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App telehealth.org",
+      "published_at": "2026-09-23T08:00:00+00:00",
+      "published_display": "23 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
+      "sources": [
+        {
+          "name": "telehealth.org",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8f3b45a407ab004dc28d",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
@@ -528,7 +547,7 @@
       "published_at": "2026-09-09T07:00:00+00:00",
       "published_display": "09 Sep 2026",
       "official_source": false,
-      "coverage_count": 4,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5",
       "sources": [
         {
@@ -546,6 +565,10 @@
         {
           "name": "Pulse 2.0",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmhBUmRSTmJLOHp1MXJIVzNMZnRqUHM5RHpvb0YzWmxKcUVoQkIwaS0wbk1RbXVBVjNVaHprdVh3eGxOdERRR1RKcUd5aTFWUnVya1o4a2FPeXYyVHNURmI3UXJMMnd4bkJhMlZidHR1SU1yMmNjMXRpMGVMTE8xNHJJdTVTSEgwR1M4dkJZZ3J3UE5wTkE?oc=5"
         }
       ]
     },
@@ -680,25 +703,6 @@
         {
           "name": "scanx.trade",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ebd836250a0dd1fee999",
-      "company": "Quest Diagnostics",
-      "category": "Clinical, R&D",
-      "title": "Quest Diagnostics Shareholding Pattern – Promoters, FIIs & DIIs",
-      "source": "Value Research",
-      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs valueresearchonline.com",
-      "published_at": "2026-08-28T14:43:00+00:00",
-      "published_display": "28 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
-      "sources": [
-        {
-          "name": "Value Research",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5"
         }
       ]
     }

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-23T22:59:00.010682+05:30",
-  "generated_at_display": "23 Sep 2026, 10:59 PM IST",
-  "item_count": 315,
-  "raw_relevant_item_count": 509,
-  "duplicates_merged": 110,
+  "generated_at": "2026-09-24T03:18:18.061573+05:30",
+  "generated_at_display": "24 Sep 2026, 3:18 AM IST",
+  "item_count": 316,
+  "raw_relevant_item_count": 510,
+  "duplicates_merged": 111,
   "failures": [],
   "items": [
     {
@@ -59,7 +59,7 @@
       "company": "Mayo Clinic Laboratories",
       "title": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
-      "description": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC Digital Health News",
+      "description": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com",
       "source": "Digital Health News",
       "source_url": "https://www.digitalhealthnews.com",
       "source_domain": "digitalhealthnews.com",
@@ -77,6 +77,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "across apac asia expand partner pathology precision"
+    },
+    {
+      "id": "2d09aef4d9ea5d23e24c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
+      "description": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App telehealth.org",
+      "source": "telehealth.org",
+      "source_url": "https://telehealth.org",
+      "source_domain": "telehealth.org",
+      "published_at": "2026-09-23T08:00:00+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "telehealth.org",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
+          "domain": "telehealth.org",
+          "published_at": "2026-09-23T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "119 app apple biomarker health inside lab panel sell will"
     },
     {
       "id": "8fd1c8a473789e7407ee",
@@ -1153,9 +1177,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY193VHRKQlJOeEdUTm1Id0traEVIU2FWZEIwZWpGN3p0eHJpSnNtOHdMaTNacWh5YkFzY25NV2kyejdOU0VuYllPWTdiZWl6MGJFZzBjNlBtYlp1ODZHMmRTM3hYbzRIa2lKQUN4bUMwa0ZHZlp2TVBLakFyN0M1dXFqWGtTY21tMU1IUHg5aGNBTWVKWEVuZUtwTWw0Y1BJMVk2dGYxQ0xFaVU0d2YxVVNBNGV4RGRuSnJZQ3BYMkE?oc=5",
           "domain": "za.investing.com",
           "published_at": "2026-09-15T06:33:25+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQamVva2tRWFVrX0thMnVfT1ZJUklxdkhKTU1xT1ZfODVkdXY3M3UxRlY2cFFHcFlBTWpNejdQbWUtY0hfY0x0aVRPQnNoXy0tdzZpUmUxRWJ5eXhpNkd4QXFuVkFGR2dZU2plTUNxcWdCbk9OY3NCWlJXZmlBTE4tcG9zRHFTaEtQUW5jcnhVMjFyMVFibjM3cG9jemtfeUliQzJ5bl8yTG9VYmdCNXRhX0p0SlhOVW5vejhVZTdhWTk?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-09-14T14:54:14+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "broadens com conference growth investing morgan stanley"
     },
     {
@@ -1951,9 +1981,15 @@
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5",
           "domain": "pulse2.com",
           "published_at": "2026-09-15T04:06:13+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmhBUmRSTmJLOHp1MXJIVzNMZnRqUHM5RHpvb0YzWmxKcUVoQkIwaS0wbk1RbXVBVjNVaHprdVh3eGxOdERRR1RKcUd5aTFWUnVya1o4a2FPeXYyVHNURmI3UXJMMnd4bkJhMlZidHR1SU1yMmNjMXRpMGVMTE8xNHJJdTVTSEgwR1M4dkJZZ3J3UE5wTkE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-09T07:00:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "great iii labs medical mlm partners point sells"
     },
     {
@@ -10726,10 +10762,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-24T00:17:00+05:30",
-  "next_update_display": "24 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-24T06:17:00+05:30",
+  "next_update_display": "24 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
