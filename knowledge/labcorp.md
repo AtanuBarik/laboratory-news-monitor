@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 24 Sep 2026, 3:18 AM IST
+- **Repository generated:** 24 Sep 2026, 10:58 AM IST
 - **Distinct events in this file:** 133
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day Yahoo Finance
+**Feed description:** Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com
 
 ## 2. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
 
@@ -34,11 +34,12 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5
+  - Moomoo: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTBxWTBILW1nM0FnOUZRSmhZMXJtX1pualNmSTNvdkxLUjUxdlhsRGQ5ZFlDSUtxQWdTRnFZWDFqUlVmZ0dFZnpUTUhYS0VFVkVNNUhDSVV0RHdQNkFtVVljX2dQUDI2UGlTZ3l2ZEN3VFZ4cW1WQl9GS1V6S2Zudms4ZHhVaEsxX1BhZm5kVHRQZw?oc=5
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
 
@@ -150,7 +151,7 @@
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5
 
 **Feed description:** Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de
 

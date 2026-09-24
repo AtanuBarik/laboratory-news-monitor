@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-24T03:18:18.061573+05:30",
-  "generated_at_display": "24 Sep 2026, 3:18 AM IST",
-  "item_count": 316,
-  "raw_relevant_item_count": 510,
+  "generated_at": "2026-09-24T10:58:38.342348+05:30",
+  "generated_at_display": "24 Sep 2026, 10:58 AM IST",
+  "item_count": 317,
+  "raw_relevant_item_count": 517,
   "duplicates_merged": 111,
   "failures": [],
   "items": [
+    {
+      "id": "7654be9154468d7bb086",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock heads into the open after closing at USD 234.76",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0dkUFhfRXQ4b2xiVzQxMXE5NGFDTUI0bnMxcGFEdTVuWnc3NXM3RFVFZVZMMnBXYV8zemwxdENQbnRlU1VGREU3ckpPbkN1eXk4WWljZC0za3hOdmN2dU01N3ZoOXVkNmZqb3pPTktDS05sTGtNTXdNNE5OUkx0TUd5eFBBQlBsTEtvaUY4a1RRNDhOMUJodGE5NWdQNnJfaDFRcTQzNmZySUo1V0w3VXJBYVYzUE5UYWt0WWgtQjVhREFOVWpKc01tWF9UMDA?oc=5",
+      "description": "Quest Diagnostics stock heads into the open after closing at USD 234.76 AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-24T01:57:20+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0dkUFhfRXQ4b2xiVzQxMXE5NGFDTUI0bnMxcGFEdTVuWnc3NXM3RFVFZVZMMnBXYV8zemwxdENQbnRlU1VGREU3ckpPbkN1eXk4WWljZC0za3hOdmN2dU01N3ZoOXVkNmZqb3pPTktDS05sTGtNTXdNNE5OUkx0TUd5eFBBQlBsTEtvaUY4a1RRNDhOMUJodGE5NWdQNnJfaDFRcTQzNmZySUo1V0w3VXJBYVYzUE5UYWt0WWgtQjVhREFOVWpKc01tWF9UMDA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-24T01:57:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "234 after closing heads open stock usd"
+    },
     {
       "id": "db16752d0c91226c2c06",
       "company": "Quest Diagnostics",
@@ -35,7 +59,7 @@
       "company": "Labcorp",
       "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
-      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day Yahoo Finance",
+      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -211,9 +235,15 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-09-22T21:38:19+00:00"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTBxWTBILW1nM0FnOUZRSmhZMXJtX1pualNmSTNvdkxLUjUxdlhsRGQ5ZFlDSUtxQWdTRnFZWDFqUlVmZ0dFZnpUTUhYS0VFVkVNNUhDSVV0RHdQNkFtVVljX2dQUDI2UGlTZ3l2ZEN3VFZ4cW1WQl9GS1V6S2Zudms4ZHhVaEsxX1BhZm5kVHRQZw?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-09-23T20:51:37+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "earnings long outlook reaffirms term"
     },
     {
@@ -1027,30 +1057,6 @@
       "event_signature": "247 all com high hits investing stock time"
     },
     {
-      "id": "8a70eacbbe5ce420b7a8",
-      "company": "Labcorp",
-      "title": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5",
-      "description": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-15T11:26:04+00:00",
-      "published_display": "15 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-15T11:26:04+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acquisition after edges growth higher highlights labs medical mlm push stock"
-    },
-    {
       "id": "1837e9e1ce3225f216c2",
       "company": "Mayo Clinic Laboratories",
       "title": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis",
@@ -1085,6 +1091,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
+    },
+    {
+      "id": "022e6875a3bb4b9d480e",
+      "company": "Labcorp",
+      "title": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5",
+      "description": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-15T07:00:00+00:00",
+      "published_display": "15 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-15T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition after edges growth higher highlights labs medical mlm push stock"
     },
     {
       "id": "ebdc2f40140288c33e41",
@@ -10762,10 +10792,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 88,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-24T06:17:00+05:30",
-  "next_update_display": "24 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-24T12:17:00+05:30",
+  "next_update_display": "24 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

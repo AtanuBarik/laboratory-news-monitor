@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T03:56:13.326763+05:30",
-  "generated_at_display": "24 Sep 2026, 3:56 AM IST",
+  "generated_at": "2026-09-24T10:58:41.878354+05:30",
+  "generated_at_display": "24 Sep 2026, 10:58 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 204,
+  "remaining_unsummarized_count": 205,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -14,7 +14,7 @@
       "category": "Partnership, M&A",
       "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
       "source": "Yahoo Finance",
-      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day Yahoo Finance",
+      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com",
       "published_at": "2026-09-23T11:13:52+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
@@ -55,20 +55,20 @@
       ]
     },
     {
-      "id": "8a70eacbbe5ce420b7a8",
+      "id": "022e6875a3bb4b9d480e",
       "company": "Labcorp",
       "category": "Partnership, M&A",
       "title": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push",
-      "source": "ad-hoc-news.de",
+      "source": "AD HOC NEWS",
       "description": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de",
-      "published_at": "2026-09-15T11:26:04+00:00",
+      "published_at": "2026-09-15T07:00:00+00:00",
       "published_display": "15 Sep 2026",
       "official_source": false,
       "coverage_count": 1,
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5",
       "sources": [
         {
-          "name": "ad-hoc-news.de",
+          "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5"
         }
       ]
