@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 24 Sep 2026, 5:46 PM IST
+- **Repository generated:** 24 Sep 2026, 11:04 PM IST
 - **Distinct events in this file:** 152
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -75,7 +75,7 @@
 - **Sources:**
   - MarketWatch: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZlBtTG93VXdla0oyaE1HZkhLdFBJc3JSMlBxYjFGWDdCbjlHUFY3ZXdhTV9GX2lReHFNY2RPWDE5Y2p5ek5YaE93VjBUZnJrYkZiUWVYejFHc0RDTExhdFVLeTdLd0I1NGtiYlpPVTRPa2lYdXc4bUM0VUY0TTFDMmdMTUNVU3plWHBpWWZyM1lKZDNZSDcwQ2thNGRNeklxYTdWZFdZM0ZoZE1KLWlWcTBHc3BKRC14cVREWjhFMjVoMW5YbU90Y1kxT3BVMTFESUlaYlhzWnItZ1pFazUwNHhDbFdzcVlKNmQtYw?oc=5
 
-**Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch
+**Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
 ## 7. Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026
 

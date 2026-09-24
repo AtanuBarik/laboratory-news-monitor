@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-24T17:46:34.727312+05:30",
-  "generated_at_display": "24 Sep 2026, 5:46 PM IST",
-  "item_count": 318,
-  "raw_relevant_item_count": 521,
-  "duplicates_merged": 108,
+  "generated_at": "2026-09-24T23:04:05.171571+05:30",
+  "generated_at_display": "24 Sep 2026, 11:04 PM IST",
+  "item_count": 319,
+  "raw_relevant_item_count": 522,
+  "duplicates_merged": 112,
   "failures": [],
   "items": [
+    {
+      "id": "db4396773d70df4637ff",
+      "company": "Labcorp",
+      "title": "Attorney General Announces Multistate Settlement with Labcorp over American Medical Collection Agency Data Breach",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5",
+      "description": "Attorney General Announces Multistate Settlement with Labcorp over American Medical Collection Agency Data Breach pennwatch.org",
+      "source": "pennwatch.org",
+      "source_url": "https://pennwatch.org",
+      "source_domain": "pennwatch.org",
+      "published_at": "2026-09-24T16:24:35+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "pennwatch.org",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5",
+          "domain": "pennwatch.org",
+          "published_at": "2026-09-24T16:24:35+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
+    },
     {
       "id": "fa16d8fbc7aaf2016700",
       "company": "Quest Diagnostics",
@@ -299,7 +323,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZlBtTG93VXdla0oyaE1HZkhLdFBJc3JSMlBxYjFGWDdCbjlHUFY3ZXdhTV9GX2lReHFNY2RPWDE5Y2p5ek5YaE93VjBUZnJrYkZiUWVYejFHc0RDTExhdFVLeTdLd0I1NGtiYlpPVTRPa2lYdXc4bUM0VUY0TTFDMmdMTUNVU3plWHBpWWZyM1lKZDNZSDcwQ2thNGRNeklxYTdWZFdZM0ZoZE1KLWlWcTBHc3BKRC14cVREWjhFMjVoMW5YbU90Y1kxT3BVMTFESUlaYlhzWnItZ1pFazUwNHhDbFdzcVlKNmQtYw?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -397,9 +421,15 @@
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRVFqYU00OW1NV1poRjBXb1ZiWEhmR2x4OWxZSklIenZkRnhZMXE4N3dSZzJfRVRJMnBMOXQ4Vll4dEswd2lTZzFXT2tnMTZ1bXEtX3RRZUl3OVBHX21ZOEFlSUZwX2JKOXc?oc=5",
           "domain": "claimdepot.com",
           "published_at": "2026-09-22T17:25:40+00:00"
+        },
+        {
+          "name": "WKTV",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXAtbEU2dGhZZFBJZDRqSVRnZFlQVF8tU2NTaFg3TmlnVEF3NUxWTVVpTkZnZzVRNDltTnd6N3hmVEZhMG05ZVVZT0RWRUx0NlJlR1h2NlhORGxHaGNIc3JINUQ5emgwNGdid0V3clR6enczckl4Y0l6VVYta0xMdmZXU2NCdHRzRHBrUUtEQzdYZDZMZHItdnRVWWdfUHljWlJMbWRHaDRjaE5xQmZoQzV3?oc=5",
+          "domain": "wktv.com",
+          "published_at": "2026-09-24T17:03:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "action breach class data million settlement"
     },
     {
@@ -10822,10 +10852,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 90,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-24T18:17:00+05:30",
-  "next_update_display": "24 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-25T00:17:00+05:30",
+  "next_update_display": "25 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
