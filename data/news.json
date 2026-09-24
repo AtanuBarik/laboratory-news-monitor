@@ -1,17 +1,209 @@
 {
-  "generated_at": "2026-09-24T23:04:05.171571+05:30",
-  "generated_at_display": "24 Sep 2026, 11:04 PM IST",
-  "item_count": 319,
+  "generated_at": "2026-09-25T03:20:07.945397+05:30",
+  "generated_at_display": "25 Sep 2026, 3:20 AM IST",
+  "item_count": 329,
   "raw_relevant_item_count": 522,
-  "duplicates_merged": 112,
+  "duplicates_merged": 108,
   "failures": [],
   "items": [
+    {
+      "id": "b4e4c5153576b8c526fe",
+      "company": "Labcorp",
+      "title": "West Virginia joins $2.3 million Labcorp data breach settlement",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
+      "description": "West Virginia joins $2.3 million Labcorp data breach settlement WV News",
+      "source": "WV News",
+      "source_url": "https://www.wvnews.com",
+      "source_domain": "wvnews.com",
+      "published_at": "2026-09-24T21:15:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
+          "domain": "wvnews.com",
+          "published_at": "2026-09-24T21:15:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data joins million settlement virginia west"
+    },
+    {
+      "id": "a84143883ede8a279ce2",
+      "company": "Labcorp",
+      "title": "AG Sunday announces $2.28M settlement with Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+      "description": "AG Sunday announces $2.28M settlement with Labcorp WTAJ",
+      "source": "WTAJ",
+      "source_url": "https://www.wtaj.com",
+      "source_domain": "wtaj.com",
+      "published_at": "2026-09-24T21:04:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WTAJ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+          "domain": "wtaj.com",
+          "published_at": "2026-09-24T21:04:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "28m settlement sunday"
+    },
+    {
+      "id": "c91b40200bef25554252",
+      "company": "Labcorp",
+      "title": "Labcorp data breach settlement secures $90G for NYS, AG James says",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JY2tlRG5PT3JZdEM4bXBGbzBjVzhLQVFtZWpzbEVhNVo4akJXM3laeDdTckc3X1VibGN2aERsaU1KUjN0R2RFQUktWnhfTEpIN25fSEZXNVUtSUpMX2Y1MG92NUxFbDZfWVVfZHlnMWs2b3JvXzJLN0Eya3A?oc=5",
+      "description": "Labcorp data breach settlement secures $90G for NYS, AG James says Newsday",
+      "source": "Newsday",
+      "source_url": "https://www.newsday.com",
+      "source_domain": "newsday.com",
+      "published_at": "2026-09-24T21:00:17+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Newsday",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JY2tlRG5PT3JZdEM4bXBGbzBjVzhLQVFtZWpzbEVhNVo4akJXM3laeDdTckc3X1VibGN2aERsaU1KUjN0R2RFQUktWnhfTEpIN25fSEZXNVUtSUpMX2Y1MG92NUxFbDZfWVVfZHlnMWs2b3JvXzJLN0Eya3A?oc=5",
+          "domain": "newsday.com",
+          "published_at": "2026-09-24T21:00:17+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "90g breach data james nys secures settlement"
+    },
+    {
+      "id": "aec464f73c5ee979f91c",
+      "company": "Labcorp",
+      "title": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
+      "description": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident WCTI",
+      "source": "WCTI",
+      "source_url": "https://wcti12.com",
+      "source_domain": "wcti12.com",
+      "published_at": "2026-09-24T19:20:42+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WCTI",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
+          "domain": "wcti12.com",
+          "published_at": "2026-09-24T19:20:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "100 2019 427 after breach data incident receive settlement vendor"
+    },
+    {
+      "id": "cb22e1d96f8845797418",
+      "company": "Labcorp",
+      "title": "Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG9YVUtYemtmbmJGLUtMXzd3UkFzQUJhQXpMemI5TlgxVFNjUjlXU2Y5SUQzWVgtYWNUTUlyVGlxWUJOV2RzeWZaYTZjU0tEUDJVeHpYWHRDeHoxTkZiZklybTFWbnFsTjU1ZG9PcmR3Y2FZVjZycVA2WTYzSWN2anlMTQ?oc=5",
+      "description": "Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach Audacy",
+      "source": "Audacy",
+      "source_url": "https://www.audacy.com",
+      "source_domain": "audacy.com",
+      "published_at": "2026-09-24T18:28:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Audacy",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG9YVUtYemtmbmJGLUtMXzd3UkFzQUJhQXpMemI5TlgxVFNjUjlXU2Y5SUQzWVgtYWNUTUlyVGlxWUJOV2RzeWZaYTZjU0tEUDJVeHpYWHRDeHoxTkZiZklybTFWbnFsTjU1ZG9PcmR3Y2FZVjZycVA2WTYzSWN2anlMTQ?oc=5",
+          "domain": "audacy.com",
+          "published_at": "2026-09-24T18:28:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2019 breach data million over pay settlement states"
+    },
+    {
+      "id": "5942e5a2fd88f5cba1a2",
+      "company": "Labcorp",
+      "title": "Labcorp data breach settlement reached at $2M",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
+      "description": "Labcorp data breach settlement reached at $2M WXII",
+      "source": "WXII",
+      "source_url": "https://www.wxii12.com",
+      "source_domain": "wxii12.com",
+      "published_at": "2026-09-24T18:16:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WXII",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
+          "domain": "wxii12.com",
+          "published_at": "2026-09-24T18:16:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data reached settlement"
+    },
+    {
+      "id": "d4b73cc2a7db82d21d0f",
+      "company": "Labcorp",
+      "title": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
+      "description": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach Colorado Attorney General (.gov)",
+      "source": "Colorado Attorney General (.gov)",
+      "source_url": "https://coag.gov",
+      "source_domain": "coag.gov",
+      "published_at": "2026-09-24T17:40:37+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Colorado Attorney General (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
+          "domain": "coag.gov",
+          "published_at": "2026-09-24T17:40:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "attorney breach data general national over phil settlement weiser"
+    },
+    {
+      "id": "cd71897ece3bb74a0511",
+      "company": "Labcorp",
+      "title": "New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2RwelUxc0NBMjBGY3Zoc3piZjhhS1VDLTIyQ1hGd3NBc3VUTFZ4WTd5RE5uWl9jblJOQ08yeGdPMWlkaEcta05GbHpvVk5TaVFuWGlta28yb29BdFR4eHVLdGl2UmhaZ25lY0p2ak02T1dmNFlaWTAzLUZXWVlKZVNQOVY0aXY3MzBiRnBETUdSZF9DZTRIaTBSNVRFN3YySExseGhn?oc=5",
+      "description": "New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com",
+      "source": "wrnjradio.com",
+      "source_url": "https://wrnjradio.com",
+      "source_domain": "wrnjradio.com",
+      "published_at": "2026-09-24T17:39:08+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "wrnjradio.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2RwelUxc0NBMjBGY3Zoc3piZjhhS1VDLTIyQ1hGd3NBc3VUTFZ4WTd5RE5uWl9jblJOQ08yeGdPMWlkaEcta05GbHpvVk5TaVFuWGlta28yb29BdFR4eHVLdGl2UmhaZ25lY0p2ak02T1dmNFlaWTAzLUZXWVlKZVNQOVY0aXY3MzBiRnBETUdSZF9DZTRIaTBSNVRFN3YySExseGhn?oc=5",
+          "domain": "wrnjradio.com",
+          "published_at": "2026-09-24T17:39:08+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2019 breach data jersey joins million multistate over settlement"
+    },
     {
       "id": "db4396773d70df4637ff",
       "company": "Labcorp",
       "title": "Attorney General Announces Multistate Settlement with Labcorp over American Medical Collection Agency Data Breach",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5",
-      "description": "Attorney General Announces Multistate Settlement with Labcorp over American Medical Collection Agency Data Breach pennwatch.org",
+      "description": "Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach chadronradio.com",
       "source": "pennwatch.org",
       "source_url": "https://pennwatch.org",
       "source_domain": "pennwatch.org",
@@ -25,9 +217,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5",
           "domain": "pennwatch.org",
           "published_at": "2026-09-24T16:24:35+00:00"
+        },
+        {
+          "name": "chadronradio.com",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEZ5ZjhodzRxVHh0MTRqb0hKM1NvaklZLXZkcjdaN1huMzg4cVZDN3hId0FZTG91eC1qbmo4UTdJdHE0YXNmcm9kb25tUUdRMlhfa1VpUFZ4S0JFeFV5ckdUeE9RZGRvMDJNYnB5R0s0cWtFaHpvMHNhMUV1bGZPWUNDd2NtSXhweVZVY3BBTU5JNkZPdTlzb2F3djJDSVVUdDV5d0tKX3ZzTk1nVTlTQkJ5c3FPTDF4c1lqcTlJM0FpVThZYV9PcXF0bk9abHgyQzI3Zzlwc3BXWHk1NmstRFhXNGQ2QWxEdzBEYg?oc=5",
+          "domain": "chadronradio.com",
+          "published_at": "2026-09-24T19:13:37+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -77,6 +275,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "234 after closing heads open stock usd"
+    },
+    {
+      "id": "5437036cf7acc46fe7d6",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-09-23T23:18:05+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-23T23:18:05+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings transcript"
     },
     {
       "id": "db16752d0c91226c2c06",
@@ -347,7 +569,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
-      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 Burlington Times-News",
+      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -2501,6 +2723,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
+    },
+    {
+      "id": "78db1b5ae7c018a6a385",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0t3bmU2ejFKbjNucUFYY2NELTZKOUhSbkN6d3RCa0RBUEhCQ3d3QzNaYnBWdmlDUmpRc3J3b2UyU295amgtT05IU1ItN0MzZ2pwOXlwOU5SUGE4OXdLN0pYYU5kUnZkOWY4bWlFVzZXcm00eW9faTllS3QxeFdxdzJsT0lLZDhieHF3MXZ1U01XY3hJRmhJWFgxWQ?oc=5",
+      "description": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0t3bmU2ejFKbjNucUFYY2NELTZKOUhSbkN6d3RCa0RBUEhCQ3d3QzNaYnBWdmlDUmpRc3J3b2UyU295amgtT05IU1ItN0MzZ2pwOXlwOU5SUGE4OXdLN0pYYU5kUnZkOWY4bWlFVzZXcm00eW9faTllS3QxeFdxdzJsT0lLZDhieHF3MXZ1U01XY3hJRmhJWFgxWQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "000 ceo million sells shares"
     },
     {
       "id": "ebe750529cb72224cbd0",
@@ -10852,10 +11098,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-25T00:17:00+05:30",
-  "next_update_display": "25 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-25T06:17:00+05:30",
+  "next_update_display": "25 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
