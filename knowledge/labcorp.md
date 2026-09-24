@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 24 Sep 2026, 10:58 AM IST
+- **Repository generated:** 24 Sep 2026, 5:46 PM IST
 - **Distinct events in this file:** 133
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -188,8 +188,8 @@
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - Greensboro News and Record: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUndyTWN2cW9aS3BtZlZheWFXOHIzWHpPSFltc3U3ZTNEWWt5UGxfR19nWWd6ZklmY1A2QjZ1OXo5ZjdfUmp2ZmRXV1k2QnNCSTVKblRTNVE5eFY1N19PRXozd0VqNFdqalJlNlZGdU9GWHhoVVMxbHVHLU9sdE1adjB6YXp4NEY0M2hz?oc=5
   - Winston-Salem Journal: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQT3hGWEtUNm83SjlVQVdJdXRJNThQcUlJMTFQS2JSVUh1MDZpMDRLZ3IzSnMxNTdhb195dkxrWG1TUXNYaGpISXg4ZkxNWklHQjRxWFViOWlNczlaWmI3VmJDRkZSdUFYMnVSOTFkbHdSM3JQS0NRaGktTU5NU0NVSUpTXzFXTkp3dFZv?oc=5
+  - Greensboro News and Record: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUndyTWN2cW9aS3BtZlZheWFXOHIzWHpPSFltc3U3ZTNEWWt5UGxfR19nWWd6ZklmY1A2QjZ1OXo5ZjdfUmp2ZmRXV1k2QnNCSTVKblRTNVE5eFY1N19PRXozd0VqNFdqalJlNlZGdU9GWHhoVVMxbHVHLU9sdE1adjB6YXp4NEY0M2hz?oc=5
 
 **Feed description:** Labcorp unveils blood test identify potential for Alzheimer's disease in patients Greensboro News and Record
 
