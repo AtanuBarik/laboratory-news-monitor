@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 25 Sep 2026, 11:03 PM IST
+- **Repository generated:** 26 Sep 2026, 3:20 AM IST
 - **Distinct events in this file:** 155
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -146,7 +146,7 @@
 - **Sources:**
   - CNBC: https://news.google.com/rss/articles/CBMinAFBVV95cUxORXNpVjNnd1BUM0hEZXE3VVlQQnFCQUhRUlltUGtTT2ZUSnNOdU1KNVJrMUtCY0ZqUnhBd0hzUVZySmdHcVlrcmxfNi00OEduUHEyMWgzUEVVTFozRG81UVpPT1BaYk5XZ3BrTm1TR1BVVmtfWjdxbjFRSGEyblBiZko5b18zTktMZTB4bnI0V3h1LWRoaEVqdVlqOWc?oc=5
 
-**Feed description:** Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more CNBC
+**Feed description:** Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more cnbc.com
 
 ## 12. Why Quest Diagnostics Is Dropping Despite Target Hike
 
@@ -177,13 +177,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpfaThnNEIyOTZXRjZJdWFnbWRLQTYyamZVcFhWYnlOZVBqU1RsS1hialY4WWk2YWdoV3h4eHFHRU00bTdRN3E0OGxYSk1RVE1nVVNLMlpqQlRlMTZwSi1TYjBDRzMyMk1pLUtCSm9BcFBUVm9kZWp2S3lKOUJ3Mm96dDF3S3U1U3FHX1hYQmVnSFVRT2pidkZGTWFxUFkwUklmUGx6NHFNMVFEMlhEY0h2clBzbU0wYUdPemdQbTNiWk5Celp3ajFCZkdzdw?oc=5
+  - es.tradingview.com: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHVGelBBOEtvTXNYNUZfRmpITWRoVGZOUGE1ZE1kSEZKblhrMmJGNkFUZkZzNE9lajJlNVpvLVpCZlJ0VXRpTC1DSXJaQWt4VkM0dS05VUpjRzJxTTJtV252ZVZiR1FTTVZBX3RVcGxkOVR2OGtKOEZqRW05SEtQcEZ4MUpoRENnUXlsaU8wRktjMTZEY24zdElRQlJKV01lajloR1Nib1pOaGxPeVRFQlc5ZlpGb3l5czRsZ1lDakRlcnpPMHoydnBkVmc?oc=5
 
-**Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges tradingview.com
+**Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com
 
 ## 15. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
 
@@ -523,7 +524,7 @@
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0t3bmU2ejFKbjNucUFYY2NELTZKOUhSbkN6d3RCa0RBUEhCQ3d3QzNaYnBWdmlDUmpRc3J3b2UyU295amgtT05IU1ItN0MzZ2pwOXlwOU5SUGE4OXdLN0pYYU5kUnZkOWY4bWlFVzZXcm00eW9faTllS3QxeFdxdzJsT0lLZDhieHF3MXZ1U01XY3hJRmhJWFgxWQ?oc=5
 
-**Feed description:** Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million Yahoo Finance
+**Feed description:** Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million finance.yahoo.com
 
 ## 41. Quest Diagnostics stock edges lower near 52-week highs after solid Q2 growth
 

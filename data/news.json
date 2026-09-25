@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-25T23:03:20.817727+05:30",
-  "generated_at_display": "25 Sep 2026, 11:03 PM IST",
-  "item_count": 335,
-  "raw_relevant_item_count": 542,
-  "duplicates_merged": 124,
+  "generated_at": "2026-09-26T03:20:20.131177+05:30",
+  "generated_at_display": "26 Sep 2026, 3:20 AM IST",
+  "item_count": 337,
+  "raw_relevant_item_count": 540,
+  "duplicates_merged": 120,
   "failures": [],
   "items": [
+    {
+      "id": "f1d47c34343d3d4efdb0",
+      "company": "Labcorp",
+      "title": "LabCorp Pays States $2.2M in Settlement Over AMCA Hack",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1A4ajZsTUlZdXYzVU1YNms2RUhsTnE4enRud1NJMUx5bGQ4aDc1ZFlPRkY2RWFMLS03dTlGenRQaHBySFg2TDl4TDZGbDBaTjRYdHhGaTAxR3lzdnFESzlzQ2ctVmNuYlFlOUVXWVlOYVJVTVF3aDJKMS1QNERQOWJxeUM4TzZuVFlCNmFZdU5kYWNTdEwxdA?oc=5",
+      "description": "LabCorp Pays States $2.2M in Settlement Over AMCA Hack BankInfoSecurity",
+      "source": "BankInfoSecurity",
+      "source_url": "https://www.bankinfosecurity.com",
+      "source_domain": "bankinfosecurity.com",
+      "published_at": "2026-09-25T20:12:32+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BankInfoSecurity",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1A4ajZsTUlZdXYzVU1YNms2RUhsTnE4enRud1NJMUx5bGQ4aDc1ZFlPRkY2RWFMLS03dTlGenRQaHBySFg2TDl4TDZGbDBaTjRYdHhGaTAxR3lzdnFESzlzQ2ctVmNuYlFlOUVXWVlOYVJVTVF3aDJKMS1QNERQOWJxeUM4TzZuVFlCNmFZdU5kYWNTdEwxdA?oc=5",
+          "domain": "bankinfosecurity.com",
+          "published_at": "2026-09-25T20:12:32+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "amca hack over pays settlement states"
+    },
     {
       "id": "fbc362fc6898c9f7c97a",
       "company": "Labcorp",
@@ -133,14 +157,14 @@
       "event_signature": "breach data multistate over patient reaches settlement"
     },
     {
-      "id": "8f44fa24e07f30c7f18c",
+      "id": "19ae2e77d8e5cce4a8bf",
       "company": "Labcorp",
-      "title": "Nevada reaches settlement with Labcorp over 2019 data breach",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkxlbTdwTTNzT05kdVo3eGRHYmVVbld4UkRmZ2NyajhyRjJlOFZya05uNGxYTWJ2M1p2dVU4d19KLWhPQ21fekVqa09pU01WaWEzemlnMW9ocm5Hd1h0Z3VPajIxVVpibFZpREVIOEhBYmljWkI1M1RsMVhSVk5JbExkczlaTWlJNEpKRVVqdTJCV1BwTFJ4VmZKZ01qcVVjMnRTZ3BmWi14Y0padGRKMF8wenVjMDN3a2NzSGVNQ2JYV3RxVTFDSVFHY0hmNjN1S0NxZU1tNXZJdmM?oc=5",
+      "title": "Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObklud1E1RkNOLXZaTW9iQmRPdk02clZFMGNFOUQxZlo0bGRnbzlGeUJqS2FNbUpPQS1qM2VIbmRyNnFwZlY1SjlieTJFRWZvd1ZqSi0zbGZISFg5LWt6UjE2dEVqbnZqdEFubUY4OTR1WmxaT3N4WnpQaW9FQzcyWF9tVlVZZlZMbEI1UTZDc2lEbkZXZmMwS2o3akVSSU55OEhrRHd5a1pfTTJ0VVJRUEluN0JzeUd5MnJTM25kRzhuWFB4LTk1QVhIWV9QbFBZRzhpUlhSU2o?oc=5",
       "description": "Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com KTVN",
       "source": "KTVN",
-      "source_url": "https://www.2news.com",
-      "source_domain": "2news.com",
+      "source_url": "http://www.ktvn.com",
+      "source_domain": "ktvn.com",
       "published_at": "2026-09-24T22:04:00+00:00",
       "published_display": "24 Sep 2026",
       "category": "Other",
@@ -148,19 +172,13 @@
       "sources": [
         {
           "name": "KTVN",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkxlbTdwTTNzT05kdVo3eGRHYmVVbld4UkRmZ2NyajhyRjJlOFZya05uNGxYTWJ2M1p2dVU4d19KLWhPQ21fekVqa09pU01WaWEzemlnMW9ocm5Hd1h0Z3VPajIxVVpibFZpREVIOEhBYmljWkI1M1RsMVhSVk5JbExkczlaTWlJNEpKRVVqdTJCV1BwTFJ4VmZKZ01qcVVjMnRTZ3BmWi14Y0padGRKMF8wenVjMDN3a2NzSGVNQ2JYV3RxVTFDSVFHY0hmNjN1S0NxZU1tNXZJdmM?oc=5",
-          "domain": "2news.com",
-          "published_at": "2026-09-24T22:04:00+00:00"
-        },
-        {
-          "name": "KTVN",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObklud1E1RkNOLXZaTW9iQmRPdk02clZFMGNFOUQxZlo0bGRnbzlGeUJqS2FNbUpPQS1qM2VIbmRyNnFwZlY1SjlieTJFRWZvd1ZqSi0zbGZISFg5LWt6UjE2dEVqbnZqdEFubUY4OTR1WmxaT3N4WnpQaW9FQzcyWF9tVlVZZlZMbEI1UTZDc2lEbkZXZmMwS2o3akVSSU55OEhrRHd5a1pfTTJ0VVJRUEluN0JzeUd5MnJTM25kRzhuWFB4LTk1QVhIWV9QbFBZRzhpUlhSU2o?oc=5",
           "domain": "ktvn.com",
           "published_at": "2026-09-24T22:04:00+00:00"
         }
       ],
-      "coverage_count": 2,
-      "event_signature": "2019 breach data nevada over reaches settlement"
+      "coverage_count": 1,
+      "event_signature": "2019 2news breach com data local nevada over reaches settlement"
     },
     {
       "id": "b4e4c5153576b8c526fe",
@@ -191,7 +209,7 @@
       "company": "Labcorp",
       "title": "Labcorp data breach settlement secures $90G for NYS, AG James says",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9JY2tlRG5PT3JZdEM4bXBGbzBjVzhLQVFtZWpzbEVhNVo4akJXM3laeDdTckc3X1VibGN2aERsaU1KUjN0R2RFQUktWnhfTEpIN25fSEZXNVUtSUpMX2Y1MG92NUxFbDZfWVVfZHlnMWs2b3JvXzJLN0Eya3A?oc=5",
-      "description": "Labcorp data breach settlement secures $90G for NYS, AG James says Newsday",
+      "description": "Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com",
       "source": "Newsday",
       "source_url": "https://www.newsday.com",
       "source_domain": "newsday.com",
@@ -473,6 +491,60 @@
       ],
       "coverage_count": 1,
       "event_signature": "growth reimbursement rises risk stock"
+    },
+    {
+      "id": "1a8bc8f533bff0cec6b6",
+      "company": "Labcorp",
+      "title": "Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNW5zRjhCbUNwLVR4X25aTXc4bkxQOHlZdjlESmtUX0dvM21EeFZWeGtERHVqMnVJRkF2bnRjM2JhTnN1M1Z1TFN3ZXRIb18zb19pRVlqbHRRVkVBUTRMRDJDREF5OWtNWDVKYzBiSEhoZjA4UHQ1OUdHWkR5aThGN3RQSXRXMGFRTnNIaFd2dDdGX0lia1d3V19DeFR1Q2dDYTJLcWY2dzQxYTc1ZkUtR2ZLSUE?oc=5",
+      "description": "Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com",
+      "source": "NCDOJ (.gov)",
+      "source_url": "https://ncdoj.gov",
+      "source_domain": "ncdoj.gov",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "NCDOJ (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNW5zRjhCbUNwLVR4X25aTXc4bkxQOHlZdjlESmtUX0dvM21EeFZWeGtERHVqMnVJRkF2bnRjM2JhTnN1M1Z1TFN3ZXRIb18zb19pRVlqbHRRVkVBUTRMRDJDREF5OWtNWDVKYzBiSEhoZjA4UHQ1OUdHWkR5aThGN3RQSXRXMGFRTnNIaFd2dDdGX0lia1d3V19DeFR1Q2dDYTJLcWY2dzQxYTc1ZkUtR2ZLSUE?oc=5",
+          "domain": "ncdoj.gov",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        },
+        {
+          "name": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkxlbTdwTTNzT05kdVo3eGRHYmVVbld4UkRmZ2NyajhyRjJlOFZya05uNGxYTWJ2M1p2dVU4d19KLWhPQ21fekVqa09pU01WaWEzemlnMW9ocm5Hd1h0Z3VPajIxVVpibFZpREVIOEhBYmljWkI1M1RsMVhSVk5JbExkczlaTWlJNEpKRVVqdTJCV1BwTFJ4VmZKZ01qcVVjMnRTZ3BmWi14Y0padGRKMF8wenVjMDN3a2NzSGVNQ2JYV3RxVTFDSVFHY0hmNjN1S0NxZU1tNXZJdmM?oc=5",
+          "domain": "2news.com",
+          "published_at": "2026-09-24T22:04:00+00:00"
+        },
+        {
+          "name": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObklud1E1RkNOLXZaTW9iQmRPdk02clZFMGNFOUQxZlo0bGRnbzlGeUJqS2FNbUpPQS1qM2VIbmRyNnFwZlY1SjlieTJFRWZvd1ZqSi0zbGZISFg5LWt6UjE2dEVqbnZqdEFubUY4OTR1WmxaT3N4WnpQaW9FQzcyWF9tVlVZZlZMbEI1UTZDc2lEbkZXZmMwS2o3akVSSU55OEhrRHd5a1pfTTJ0VVJRUEluN0JzeUd5MnJTM25kRzhuWFB4LTk1QVhIWV9QbFBZRzhpUlhSU2o?oc=5",
+          "domain": "ktvn.com",
+          "published_at": "2026-09-24T22:04:00+00:00"
+        },
+        {
+          "name": "WDEL",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEtRSUx0VHlqRW9MNTMxQkp2UkgyY0FSZzNYcF91OWhGWkpNWVRRYjBJNXptVFo3OS16SmU2MC00Ui01Y2c3cFlWdG9xaUJESU5JaThyWXJiTjVDTERFbXdscUZlVmxkTUdTYnFtdHhISzN2MmZiNlI0YUdyVElmdWpGY2l3UVBmUnV0eEFsbDdzMWhvTzdUTmpIMzBOUFpLUTZNbGsyVFl1NWhNVGtVa1Q3SXFPaGRURWpzRTJ0czkyT0VRWnZNUXExZEhsa1hXeWtldjJ4OA?oc=5",
+          "domain": "wdel.com",
+          "published_at": "2026-09-25T03:24:00+00:00"
+        },
+        {
+          "name": "NottinghamMD.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT2JZY2Z6Zk8yU2UzTk5BN2cwSHRiNlluU0tDOUNOYkdiWklOWC1URVIzc3NOMENhdHhLWmkyOVZCNkJ3Wjl1d3BaaGFIdzBkbU5XNi13bl85LWlya0htWUg0SVJOS2hQLS1PZWdUc3JLZTZHQk9TbUMwWDRHSFVCNU1HQ3hzMmNmZkFYY3lmdDBWc2FicG9qZm9qcGI4eU9KU0p4WTg5Yzd2amgtYXlKVW44WFV4bW0yY1U2N1Q5c2xWOVA3Tk9EaUJQREU1cmpydnNYS3hCSk5veUg0QW5LTA?oc=5",
+          "domain": "nottinghammd.com",
+          "published_at": "2026-09-25T16:00:12+00:00"
+        },
+        {
+          "name": "Jacksonville Journal-Courier",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5",
+          "domain": "myjournalcourier.com",
+          "published_at": "2026-09-25T17:15:42+00:00"
+        }
+      ],
+      "coverage_count": 6,
+      "event_signature": "2019 attorney breach data general jackson jeff million over reaches settlement"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -935,7 +1007,7 @@
       "company": "Quest Diagnostics",
       "title": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXNpVjNnd1BUM0hEZXE3VVlQQnFCQUhRUlltUGtTT2ZUSnNOdU1KNVJrMUtCY0ZqUnhBd0hzUVZySmdHcVlrcmxfNi00OEduUHEyMWgzUEVVTFozRG81UVpPT1BaYk5XZ3BrTm1TR1BVVmtfWjdxbjFRSGEyblBiZko5b18zTktMZTB4bnI0V3h1LWRoaEVqdVlqOWc?oc=5",
-      "description": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more CNBC",
+      "description": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more cnbc.com",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "source_domain": "cnbc.com",
@@ -1037,7 +1109,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5",
-      "description": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges tradingview.com",
+      "description": "Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -1057,9 +1129,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpfaThnNEIyOTZXRjZJdWFnbWRLQTYyamZVcFhWYnlOZVBqU1RsS1hialY4WWk2YWdoV3h4eHFHRU00bTdRN3E0OGxYSk1RVE1nVVNLMlpqQlRlMTZwSi1TYjBDRzMyMk1pLUtCSm9BcFBUVm9kZWp2S3lKOUJ3Mm96dDF3S3U1U3FHX1hYQmVnSFVRT2pidkZGTWFxUFkwUklmUGx6NHFNMVFEMlhEY0h2clBzbU0wYUdPemdQbTNiWk5Celp3ajFCZkdzdw?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-09-21T14:02:10+00:00"
+        },
+        {
+          "name": "es.tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHVGelBBOEtvTXNYNUZfRmpITWRoVGZOUGE1ZE1kSEZKblhrMmJGNkFUZkZzNE9lajJlNVpvLVpCZlJ0VXRpTC1DSXJaQWt4VkM0dS05VUpjRzJxTTJtV252ZVZiR1FTTVZBX3RVcGxkOVR2OGtKOEZqRW05SEtQcEZ4MUpoRENnUXlsaU8wRktjMTZEY24zdElRQlJKV01lajloR1Nib1pOaGxPeVRFQlc5ZlpGb3l5czRsZ1lDakRlcnpPMHoydnBkVmc?oc=5",
+          "domain": "es.tradingview.com",
+          "published_at": "2026-09-21T14:02:10+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "consumer growth outpace sees surges targets testing"
     },
     {
@@ -2975,7 +3053,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0t3bmU2ejFKbjNucUFYY2NELTZKOUhSbkN6d3RCa0RBUEhCQ3d3QzNaYnBWdmlDUmpRc3J3b2UyU295amgtT05IU1ItN0MzZ2pwOXlwOU5SUGE4OXdLN0pYYU5kUnZkOWY4bWlFVzZXcm00eW9faTllS3QxeFdxdzJsT0lLZDhieHF3MXZ1U01XY3hJRmhJWFgxWQ?oc=5",
-      "description": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million Yahoo Finance",
+      "description": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million finance.yahoo.com",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -11344,10 +11422,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-26T00:17:00+05:30",
-  "next_update_display": "26 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-26T06:17:00+05:30",
+  "next_update_display": "26 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
