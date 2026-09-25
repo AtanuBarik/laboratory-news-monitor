@@ -1,6 +1,6 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 25 Sep 2026, 10:56 AM IST
+- **Repository generated:** 25 Sep 2026, 5:48 PM IST
 - **Distinct events in this file:** 5
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,12 +22,13 @@
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5
   - Macau Business: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTnk4UU1xaG9TWEpQaHVKRW1nbmhOVkUyWVdrbDZDd2w1eWpjbTgyOVhyVFFwQ2xwVEpCek96Sk9BaXF6aWNnTEczbHVyV3ZkNVgxa0tOeUdIN2QzZWZTY1JsSHV1ZndTdDR1VUdJdkh4bHhkZm5jeHhKVThCOXJWc2pLQlhOLVlCckx5SzhpelZtZzNPTUE2MXZrUk5ucmxTdW1qY3h4Rnp3WGNfeVlZVDhtSVlicWs1YlJwVEZwWjA0Qm1NbUJEeVd6LXhvZVY0aHkyaHRwX0lfOFBTdmRuNVlUQXhLSW1sUExqeUVRMmg?oc=5
   - TNGlobal: https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW9IQzJhT3RJck9Mb0hMVzNzUmp5NEdzYVJvblNQSWxaNmE4TEh3Qmc1eUZGaWNHSW51d0JlS2Z0TWtZeElNMUcwQXlvNmtpYTh3Y1BST29oQXBOZXBqUWZqbWIxSm5mOFc3ZV9BTXFraXcwSTQ4eXY3ZnhzdlVIckZiSk5UWmQ1ZGR6bHgwWkpkQ0Y1QmhqWmZ3?oc=5
+  - biospectrumasia.com: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkdKTER0SXMxTmdIc2Q4Wno0V0VGWHNhWl93UFpqX2NDa3hiNkVvNE1pcGRraTEydnJFdDJOYmMxSmF2cnBCUXlCS3J1eks2NHkxcThNWExQc0pmeHE2RXFMLU9iZ19wZmN1akhDemwyOHdZQ01hZmFkRzI0Sm1LNlJ1MXBiX2NfQm5NWl9yTjZuQnpqX1Z1MlpLSWx6UjhZQm53MlF0WjJ5dVZFYUZOTGluMm5tN3V3Z0trMTBlYXZ5TFdaWFNHT3RfMzU1eXpyclhPTUJ5RnlibTQyeHNTcVJn?oc=5
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business
 

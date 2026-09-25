@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T12:03:34.343107+05:30",
-  "generated_at_display": "25 Sep 2026, 12:03 PM IST",
+  "generated_at": "2026-09-25T17:48:18.285329+05:30",
+  "generated_at_display": "25 Sep 2026, 5:48 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 220,
+  "remaining_unsummarized_count": 222,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -37,7 +37,7 @@
       "published_at": "2026-09-23T01:30:00+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
-      "coverage_count": 3,
+      "coverage_count": 4,
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
       "sources": [
         {
@@ -51,6 +51,10 @@
         {
           "name": "TNGlobal",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW9IQzJhT3RJck9Mb0hMVzNzUmp5NEdzYVJvblNQSWxaNmE4TEh3Qmc1eUZGaWNHSW51d0JlS2Z0TWtZeElNMUcwQXlvNmtpYTh3Y1BST29oQXBOZXBqUWZqbWIxSm5mOFc3ZV9BTXFraXcwSTQ4eXY3ZnhzdlVIckZiSk5UWmQ1ZGR6bHgwWkpkQ0Y1QmhqWmZ3?oc=5"
+        },
+        {
+          "name": "biospectrumasia.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkdKTER0SXMxTmdIc2Q4Wno0V0VGWHNhWl93UFpqX2NDa3hiNkVvNE1pcGRraTEydnJFdDJOYmMxSmF2cnBCUXlCS3J1eks2NHkxcThNWExQc0pmeHE2RXFMLU9iZ19wZmN1akhDemwyOHdZQ01hZmFkRzI0Sm1LNlJ1MXBiX2NfQm5NWl9yTjZuQnpqX1Z1MlpLSWx6UjhZQm53MlF0WjJ5dVZFYUZOTGluMm5tN3V3Z0trMTBlYXZ5TFdaWFNHT3RfMzU1eXpyclhPTUJ5RnlibTQyeHNTcVJn?oc=5"
         }
       ]
     },
@@ -450,6 +454,25 @@
       ]
     },
     {
+      "id": "e7e6939b6623911d5fcc",
+      "company": "Quest Diagnostics",
+      "category": "Clinical, R&D",
+      "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
+      "source": "Zacks Investment Research",
+      "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
+      "published_at": "2026-09-25T11:32:10+00:00",
+      "published_display": "25 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5"
+        }
+      ]
+    },
+    {
       "id": "2d09aef4d9ea5d23e24c",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
@@ -684,25 +707,6 @@
         {
           "name": "Pluang",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e7242e0b5012cf6b5a57",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials",
-      "source": "scanx.trade",
-      "description": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials scanx.trade",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5",
-      "sources": [
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5"
         }
       ]
     }

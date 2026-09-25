@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-09-25T10:56:19.608111+05:30",
-  "generated_at_display": "25 Sep 2026, 10:56 AM IST",
-  "item_count": 332,
-  "raw_relevant_item_count": 533,
-  "duplicates_merged": 119,
+  "generated_at": "2026-09-25T17:48:15.194731+05:30",
+  "generated_at_display": "25 Sep 2026, 5:48 PM IST",
+  "item_count": 334,
+  "raw_relevant_item_count": 538,
+  "duplicates_merged": 122,
   "failures": [],
   "items": [
+    {
+      "id": "e7e6939b6623911d5fcc",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
+      "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-09-25T11:32:10+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-25T11:32:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "behind gains rally stock what ytd"
+    },
+    {
+      "id": "7d1f5e90b73ad70b74ab",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock gains 1.48 percent after Truist raises target",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
+      "description": "Quest Diagnostics stock gains 1.48 percent after Truist raises target AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-25T09:25:49+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-25T09:25:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after gains percent raises stock target truist"
+    },
     {
       "id": "c9ce3418f298e07ead43",
       "company": "Labcorp",
@@ -107,36 +155,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach data joins million settlement virginia west"
-    },
-    {
-      "id": "a84143883ede8a279ce2",
-      "company": "Labcorp",
-      "title": "AG Sunday announces $2.28M settlement with Labcorp",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-      "description": "AG Sunday announces $2.28M settlement with Labcorp Yahoo",
-      "source": "WTAJ",
-      "source_url": "https://www.wtaj.com",
-      "source_domain": "wtaj.com",
-      "published_at": "2026-09-24T21:04:00+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WTAJ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-          "domain": "wtaj.com",
-          "published_at": "2026-09-24T21:04:00+00:00"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-09-24T21:15:45+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "28m settlement sunday"
     },
     {
       "id": "c91b40200bef25554252",
@@ -283,10 +301,64 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGN1VndXdHEzNnFlNTZPTUx4Qjc3YzBmTmxVVmRWUVNFOHU0OVg5YTZrWnFTNWtpS0RuOGxsQVlIeEF6TzVhT1ZXa1NmQlpoODJtZTZ1Vk5oY3RsNjlMNU5JNjFPMl9sVm9idUlWMVh2QjdBVlFnRjNOX1ZqcEF0SlpNcDA5NWxoc1c4a0lEZlo3S0NCTkRZRjFvdUFQWlFmMlI1MHBndG5vMXJsUk5nR1BNNUx1M1FteTh6MzNSNWZHUU03Q1BxcHo4a1pkamNf?oc=5",
           "domain": "wrde.com",
           "published_at": "2026-09-25T03:24:00+00:00"
+        },
+        {
+          "name": "CoastTV",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQkctSUNPcGRnTnlGUGFhUlg5aEw3MVk2S294dU51QThOaVV5aldoQ053V1RLUjhUelgwYmxKRkt2VFZPWmxuNWFVY1hnUlU2NHoxOG1vSGlRMkZ2N285SDVDOXRwR2JMY3U0YkFWZFhPM3FuZFl6dGRiWERzY1lvX3Q5dHBGcmpCT2pqbi1hSjNaZVRkNWpPM2wzQlAzRzFRUkRKYUtnNVZSU0NtV0hVeGF5NWtYVWktQmtySnBZTGZvMnk4cmtBdmMtRktxdUtVeW94akRDNGs5ZTQ?oc=5",
+          "domain": "coasttv.com",
+          "published_at": "2026-09-25T03:24:00+00:00"
+        },
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlZfSGxnQVZkZzNGbnlNTmJLTklrVm4yYWluVENSMGxRR0hGaWg2V3FuSHJPZHFMR2xpbzRIVHRiZENHeDllSlZ5aDhfRFB6Qk1mX3hwd044MlpVR1NQTnV3TFlzUGcyakl4UWYzZTZTLTB6dkVyczh5Wm1EZ081OHF2aXk2LU15cVdFaGNjZk1kQy1OUEJ5WDFrYnh3MUFMUkJwQzE1dw?oc=5",
+          "domain": "journalnow.com",
+          "published_at": "2026-09-25T09:30:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "2019 breach data jersey joins million multistate over settlement"
+    },
+    {
+      "id": "05b7a6d7f51909032d6f",
+      "company": "Labcorp",
+      "title": "AG Sunday announces $2.28M settlement with Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+      "description": "AG Sunday announces $2.28M settlement with Labcorp Yahoo",
+      "source": "WTAJ",
+      "source_url": "https://www.wtaj.com",
+      "source_domain": "wtaj.com",
+      "published_at": "2026-09-24T17:04:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WTAJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+          "domain": "wtaj.com",
+          "published_at": "2026-09-24T17:04:00+00:00"
+        },
+        {
+          "name": "WTAJ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+          "domain": "wtaj.com",
+          "published_at": "2026-09-24T21:04:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-09-24T21:15:45+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-09-24T21:04:00+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "28m settlement sunday"
     },
     {
       "id": "db4396773d70df4637ff",
@@ -373,9 +445,15 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ0dkUFhfRXQ4b2xiVzQxMXE5NGFDTUI0bnMxcGFEdTVuWnc3NXM3RFVFZVZMMnBXYV8zemwxdENQbnRlU1VGREU3ckpPbkN1eXk4WWljZC0za3hOdmN2dU01N3ZoOXVkNmZqb3pPTktDS05sTGtNTXdNNE5OUkx0TUd5eFBBQlBsTEtvaUY4a1RRNDhOMUJodGE5NWdQNnJfaDFRcTQzNmZySUo1V0w3VXJBYVYzUE5UYWt0WWgtQjVhREFOVWpKc01tWF9UMDA?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-24T01:57:20+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSDNfX1dTYWkwb29XeldXY1NQQm9SQzB1RWJUbE1yWVVBMHA5Y21nc3JkZDNOTzkydkNSRFlpdE8yUl9Cb01tM29GWHFRSWQyTzNIMDhLWVJLTHNkN21TeDB5TWJOb2VJQmZoVm9CdDlGa0xsU2xWdlZseC1mcDFVYlJTLS12ZjNGU0dUdTlFbU8zSF9ncWxYQUx2dDlxZEtSX1JrTl84M3RrMDdoZjZmNWdILUlzVWEwTEpVSzRFRGlKdUZP?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-25T05:50:14+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "234 after closing heads open stock usd"
     },
     {
@@ -529,9 +607,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTW9IQzJhT3RJck9Mb0hMVzNzUmp5NEdzYVJvblNQSWxaNmE4TEh3Qmc1eUZGaWNHSW51d0JlS2Z0TWtZeElNMUcwQXlvNmtpYTh3Y1BST29oQXBOZXBqUWZqbWIxSm5mOFc3ZV9BTXFraXcwSTQ4eXY3ZnhzdlVIckZiSk5UWmQ1ZGR6bHgwWkpkQ0Y1QmhqWmZ3?oc=5",
           "domain": "technode.global",
           "published_at": "2026-09-23T08:12:01+00:00"
+        },
+        {
+          "name": "biospectrumasia.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkdKTER0SXMxTmdIc2Q4Wno0V0VGWHNhWl93UFpqX2NDa3hiNkVvNE1pcGRraTEydnJFdDJOYmMxSmF2cnBCUXlCS3J1eks2NHkxcThNWExQc0pmeHE2RXFMLU9iZ19wZmN1akhDemwyOHdZQ01hZmFkRzI0Sm1LNlJ1MXBiX2NfQm5NWl9yTjZuQnpqX1Z1MlpLSWx6UjhZQm53MlF0WjJ5dVZFYUZOTGluMm5tN3V3Z0trMTBlYXZ5TFdaWFNHT3RfMzU1eXpyclhPTUJ5RnlibTQyeHNTcVJn?oc=5",
+          "domain": "biospectrumasia.com",
+          "published_at": "2026-09-25T07:39:47+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -721,9 +805,15 @@
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5",
           "domain": "kinston.com",
           "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbko1aXNyRjZjbEJIT3NUQ04xU0JRbkYycGxqUGtRWkN5Ym10LXRTS05VM2NodHdYbkxtdWM3bE9iMTg3bXB5SU9oZFZ5Qk9nMUUzazZ4eFhsZ0xCUXpITW1hUXd3eEgzR1VqSk8zSG14QU5KTWIwQTFhOEZuYnc5R3JaQmpCUkp2SmJTY1JBNVVGNW14ZkJrYy1ndTBzYjBiUFE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "2026 financial october quarter release results third"
     },
     {
@@ -1237,30 +1327,6 @@
       "event_signature": "action class settlement tracking website"
     },
     {
-      "id": "2bf56e2b19db0f4b0c20",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Hits Fresh High: Is There Still Room to Run?",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-16T13:15:02+00:00",
-      "published_display": "16 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-16T13:15:02+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "fresh high hits room run still there"
-    },
-    {
       "id": "88c8705af4b0bb18e565",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime",
@@ -1321,11 +1387,35 @@
       "event_signature": "access concern cuts diagnostic express finds harm lab medicare national nine patient payment survey testing that voters will"
     },
     {
+      "id": "2bf56e2b19db0f4b0c20",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Hits Fresh High: Is There Still Room to Run?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-16T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "fresh high hits room run still there"
+    },
+    {
       "id": "923aa4fee8f0ee5803e8",
       "company": "Quest Diagnostics",
       "title": "A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMDBBWjZibjd0REJRY1FnT3BPOXJ5cEk2X2RFNXRfZlZDSlR1OE4tOHhMWExUZUtIZndGcm4tc2NNUGhBVGtsckhQZ3NlTWJfMk1vMHFmbFIyLUVHX2h1Vm1TWXdSQTJiYktyZ2lvZUZDZTJGN2NabWUwVmV1M2VfWmlvZ1l0eUx2UGZFWG1tVUhXUHppemZoRlQ5bkl1RWUzOC1jYVVvbGZoNGlDVDlTQkVDemsteTZ5SFE?oc=5",
-      "description": "A Look at Quest Diagnostics Inc (DGX) After 3.9% Gain -- GF Value $196.33 vs Price $247.08 GuruFocus",
+      "description": "A Look at Quest Diagnostics Inc (DGX) After 3.9% Gain -- GF Value $196.33 vs Price $247.08 gurufocus.com",
       "source": "GuruFocus",
       "source_url": "https://www.gurufocus.com",
       "source_domain": "gurufocus.com",
@@ -1949,7 +2039,7 @@
       "company": "Labcorp",
       "title": "Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZWJDbWVIalBuTFNXTlpSaUNjVnYxbEdqenNYRjdIR2V0UVExUS1DMWlsUjZQamlRYi1MTndTdm5VVGdyWXNodzRhelk5SWxYLUNnT0J6YW5sU1RKOWRNemwtRTNrcjBOa2w2WERacFpFUDl6UWNhSmR5VXZtSVNqWUJpdTZ6eHNjNG1CTXptMG5Ramk5RGRqMF9hdzBNVFctVWZ3TVFhNmltTXhMRVJWVjFfQkFzeUxBOHNVaEdjNE1fYmRoLUxlYTlXZnZHWDFLeWY2b19uZGM?oc=5",
-      "description": "Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan GuruFocus",
+      "description": "Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan gurufocus.com",
       "source": "GuruFocus",
       "source_url": "https://www.gurufocus.com",
       "source_domain": "gurufocus.com",
@@ -11200,10 +11290,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 81,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-25T12:17:00+05:30",
-  "next_update_display": "25 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-09-25T18:17:00+05:30",
+  "next_update_display": "25 Sep 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
