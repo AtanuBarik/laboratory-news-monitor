@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-09-25T03:20:07.945397+05:30",
-  "generated_at_display": "25 Sep 2026, 3:20 AM IST",
-  "item_count": 329,
-  "raw_relevant_item_count": 522,
-  "duplicates_merged": 108,
+  "generated_at": "2026-09-25T10:56:19.608111+05:30",
+  "generated_at_display": "25 Sep 2026, 10:56 AM IST",
+  "item_count": 332,
+  "raw_relevant_item_count": 533,
+  "duplicates_merged": 119,
   "failures": [],
   "items": [
+    {
+      "id": "c9ce3418f298e07ead43",
+      "company": "Labcorp",
+      "title": "Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5",
+      "description": "Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents WKOW",
+      "source": "WKOW",
+      "source_url": "https://www.wkow.com",
+      "source_domain": "wkow.com",
+      "published_at": "2026-09-24T23:53:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WKOW",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5",
+          "domain": "wkow.com",
+          "published_at": "2026-09-24T23:53:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "000 2019 affecting breach data joins more over residents settlement state than wisconsin"
+    },
+    {
+      "id": "8fb688ce223d389cd56a",
+      "company": "Labcorp",
+      "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
+      "description": "LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com",
+      "source": "fox5vegas.com",
+      "source_url": "https://www.fox5vegas.com",
+      "source_domain": "fox5vegas.com",
+      "published_at": "2026-09-24T23:44:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "fox5vegas.com",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
+          "domain": "fox5vegas.com",
+          "published_at": "2026-09-24T23:44:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data multistate over patient reaches settlement"
+    },
+    {
+      "id": "8f44fa24e07f30c7f18c",
+      "company": "Labcorp",
+      "title": "Nevada reaches settlement with Labcorp over 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkxlbTdwTTNzT05kdVo3eGRHYmVVbld4UkRmZ2NyajhyRjJlOFZya05uNGxYTWJ2M1p2dVU4d19KLWhPQ21fekVqa09pU01WaWEzemlnMW9ocm5Hd1h0Z3VPajIxVVpibFZpREVIOEhBYmljWkI1M1RsMVhSVk5JbExkczlaTWlJNEpKRVVqdTJCV1BwTFJ4VmZKZ01qcVVjMnRTZ3BmWi14Y0padGRKMF8wenVjMDN3a2NzSGVNQ2JYV3RxVTFDSVFHY0hmNjN1S0NxZU1tNXZJdmM?oc=5",
+      "description": "Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com KTVN",
+      "source": "KTVN",
+      "source_url": "https://www.2news.com",
+      "source_domain": "2news.com",
+      "published_at": "2026-09-24T22:04:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbkxlbTdwTTNzT05kdVo3eGRHYmVVbld4UkRmZ2NyajhyRjJlOFZya05uNGxYTWJ2M1p2dVU4d19KLWhPQ21fekVqa09pU01WaWEzemlnMW9ocm5Hd1h0Z3VPajIxVVpibFZpREVIOEhBYmljWkI1M1RsMVhSVk5JbExkczlaTWlJNEpKRVVqdTJCV1BwTFJ4VmZKZ01qcVVjMnRTZ3BmWi14Y0padGRKMF8wenVjMDN3a2NzSGVNQ2JYV3RxVTFDSVFHY0hmNjN1S0NxZU1tNXZJdmM?oc=5",
+          "domain": "2news.com",
+          "published_at": "2026-09-24T22:04:00+00:00"
+        },
+        {
+          "name": "KTVN",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObklud1E1RkNOLXZaTW9iQmRPdk02clZFMGNFOUQxZlo0bGRnbzlGeUJqS2FNbUpPQS1qM2VIbmRyNnFwZlY1SjlieTJFRWZvd1ZqSi0zbGZISFg5LWt6UjE2dEVqbnZqdEFubUY4OTR1WmxaT3N4WnpQaW9FQzcyWF9tVlVZZlZMbEI1UTZDc2lEbkZXZmMwS2o3akVSSU55OEhrRHd5a1pfTTJ0VVJRUEluN0JzeUd5MnJTM25kRzhuWFB4LTk1QVhIWV9QbFBZRzhpUlhSU2o?oc=5",
+          "domain": "ktvn.com",
+          "published_at": "2026-09-24T22:04:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2019 breach data nevada over reaches settlement"
+    },
     {
       "id": "b4e4c5153576b8c526fe",
       "company": "Labcorp",
@@ -35,7 +113,7 @@
       "company": "Labcorp",
       "title": "AG Sunday announces $2.28M settlement with Labcorp",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-      "description": "AG Sunday announces $2.28M settlement with Labcorp WTAJ",
+      "description": "AG Sunday announces $2.28M settlement with Labcorp Yahoo",
       "source": "WTAJ",
       "source_url": "https://www.wtaj.com",
       "source_domain": "wtaj.com",
@@ -49,9 +127,15 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
           "domain": "wtaj.com",
           "published_at": "2026-09-24T21:04:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-09-24T21:15:45+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "28m settlement sunday"
     },
     {
@@ -83,7 +167,7 @@
       "company": "Labcorp",
       "title": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
-      "description": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident WCTI",
+      "description": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com",
       "source": "WCTI",
       "source_url": "https://wcti12.com",
       "source_domain": "wcti12.com",
@@ -131,7 +215,7 @@
       "company": "Labcorp",
       "title": "Labcorp data breach settlement reached at $2M",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
-      "description": "Labcorp data breach settlement reached at $2M WXII",
+      "description": "Labcorp data breach settlement reached at $2M wxii12.com",
       "source": "WXII",
       "source_url": "https://www.wxii12.com",
       "source_domain": "wxii12.com",
@@ -193,9 +277,15 @@
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2RwelUxc0NBMjBGY3Zoc3piZjhhS1VDLTIyQ1hGd3NBc3VUTFZ4WTd5RE5uWl9jblJOQ08yeGdPMWlkaEcta05GbHpvVk5TaVFuWGlta28yb29BdFR4eHVLdGl2UmhaZ25lY0p2ak02T1dmNFlaWTAzLUZXWVlKZVNQOVY0aXY3MzBiRnBETUdSZF9DZTRIaTBSNVRFN3YySExseGhn?oc=5",
           "domain": "wrnjradio.com",
           "published_at": "2026-09-24T17:39:08+00:00"
+        },
+        {
+          "name": "CoastTV",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZGN1VndXdHEzNnFlNTZPTUx4Qjc3YzBmTmxVVmRWUVNFOHU0OVg5YTZrWnFTNWtpS0RuOGxsQVlIeEF6TzVhT1ZXa1NmQlpoODJtZTZ1Vk5oY3RsNjlMNU5JNjFPMl9sVm9idUlWMVh2QjdBVlFnRjNOX1ZqcEF0SlpNcDA5NWxoc1c4a0lEZlo3S0NCTkRZRjFvdUFQWlFmMlI1MHBndG5vMXJsUk5nR1BNNUx1M1FteTh6MzNSNWZHUU03Q1BxcHo4a1pkamNf?oc=5",
+          "domain": "wrde.com",
+          "published_at": "2026-09-25T03:24:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2019 breach data jersey joins million multistate over settlement"
     },
     {
@@ -223,9 +313,21 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEZ5ZjhodzRxVHh0MTRqb0hKM1NvaklZLXZkcjdaN1huMzg4cVZDN3hId0FZTG91eC1qbmo4UTdJdHE0YXNmcm9kb25tUUdRMlhfa1VpUFZ4S0JFeFV5ckdUeE9RZGRvMDJNYnB5R0s0cWtFaHpvMHNhMUV1bGZPWUNDd2NtSXhweVZVY3BBTU5JNkZPdTlzb2F3djJDSVVUdDV5d0tKX3ZzTk1nVTlTQkJ5c3FPTDF4c1lqcTlJM0FpVThZYV9PcXF0bk9abHgyQzI3Zzlwc3BXWHk1NmstRFhXNGQ2QWxEdzBEYg?oc=5",
           "domain": "chadronradio.com",
           "published_at": "2026-09-24T19:13:37+00:00"
+        },
+        {
+          "name": "715Newsroom.com",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTXpyOWJBQldTWVVEQ3d0NVc4SHBsMnN2TU1keFpNZnlwLTNjaTVma2FndHUyV0pQeERSckk2S1dmMlpRLUFiYTBtMDhBS2dSUm5aT3hwc09JUzNQTFZycnloaEQ4NnpnUFJRbGJCQ1dOWGR2aEtGNkJ6YlBuYUdqQ3psRGstME1yMlZfeXprNkdLX2RJU2VfSHlobHhmb2ludjVXekZzU2VkSm91b2xEbHdDall0eHd4ekgwTWtvSXBEeEhYWTJtZ3hiaG1ZblhvNXFNOU02UlJxa0FZUERUcW8zd2xjMkRnSk9JaTZHQ3ZoOU5jUmpR?oc=5",
+          "domain": "715newsroom.com",
+          "published_at": "2026-09-24T22:19:37+00:00"
+        },
+        {
+          "name": "Beaver County Radio",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUVJoRDVKZDVOYWdvdFhNcmJNTXg4VUhrd1VKTk15WDNIYWpBdHBMS0ZTZjR6TG91bUhVRmhvSGlaVWhFbWQybDQtRmNCcUZaLTl1MXdJanl6b2RzWWJ3b0RkTG1CcGJWeU1oZ2JaelFjdkdiSHRBbmZtMk5UVUh5R3Qzbkt1aXd5VndRTF9jMXJaeVVoTHFoY1pOYUI0TnlNdHI1dThTRXRueHZROHhDWFNlR0tFcG52OGxnSmstOTlWWGw2YVRHa3RVMlhGOTJWcHdhTm5IN1RsVi15YUpVTG1iM3ZvNHB6WmRPNg?oc=5",
+          "domain": "beavercountyradio.com",
+          "published_at": "2026-09-24T22:34:42+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -1159,42 +1261,6 @@
       "event_signature": "fresh high hits room run still there"
     },
     {
-      "id": "9c4833464b625e04a508",
-      "company": "Quest Diagnostics",
-      "title": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
-      "description": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "source_domain": "morningstar.com",
-      "published_at": "2026-09-16T12:03:00+00:00",
-      "published_display": "16 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-09-16T12:03:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-09-16T12:03:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxJZUZUQ1l2OFc3aU9DZzVrMWlCazNmbzdRUWN0bHVYLWhibDFNdFhsZGFxLVFocmNFX1dpckF4ZGJ3ZWd3bUZiMTRzRWtVYXBDY2prc21yUW5CYXB4bk0wRTlMSDVoX1ZSV1BWc2p4ZDh2ZFd0eXc3YzBGM0JPWXZuX3BlcG1wVVJDQmxERDhqZGI2dGc?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-16T12:03:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "access concern cuts diagnostic express finds harm lab medicare national nine patient payment survey testing that voters will"
-    },
-    {
       "id": "88c8705af4b0bb18e565",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime",
@@ -1217,6 +1283,42 @@
       ],
       "coverage_count": 1,
       "event_signature": "analyst apple deal health highs lab lift reaches sentime stock upgrades"
+    },
+    {
+      "id": "ebf1b07d4f380153b071",
+      "company": "Quest Diagnostics",
+      "title": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5",
+      "description": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-09-16T07:00:00+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-16T12:03:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxJZUZUQ1l2OFc3aU9DZzVrMWlCazNmbzdRUWN0bHVYLWhibDFNdFhsZGFxLVFocmNFX1dpckF4ZGJ3ZWd3bUZiMTRzRWtVYXBDY2prc21yUW5CYXB4bk0wRTlMSDVoX1ZSV1BWc2p4ZDh2ZFd0eXc3YzBGM0JPWXZuX3BlcG1wVVJDQmxERDhqZGI2dGc?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-16T12:03:00+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "access concern cuts diagnostic express finds harm lab medicare national nine patient payment survey testing that voters will"
     },
     {
       "id": "923aa4fee8f0ee5803e8",
@@ -11098,10 +11200,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 81,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-25T06:17:00+05:30",
-  "next_update_display": "25 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-25T12:17:00+05:30",
+  "next_update_display": "25 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 25 Sep 2026, 3:20 AM IST
+- **Repository generated:** 25 Sep 2026, 10:56 AM IST
 - **Distinct events in this file:** 153
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -247,21 +247,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com
 
-## 20. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 16 Sep 2026
-- **Category:** Other
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Morningstar: https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5
-  - PR Newswire: https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxJZUZUQ1l2OFc3aU9DZzVrMWlCazNmbzdRUWN0bHVYLWhibDFNdFhsZGFxLVFocmNFX1dpckF4ZGJ3ZWd3bUZiMTRzRWtVYXBDY2prc21yUW5CYXB4bk0wRTlMSDVoX1ZSV1BWc2p4ZDh2ZFd0eXc3YzBGM0JPWXZuX3BlcG1wVVJDQmxERDhqZGI2dGc?oc=5
-
-**Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com
-
-## 21. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
+## 20. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -272,6 +258,20 @@
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWs0c2M1clI2N0E0YTFpWVJMdWhqSDRqQS1ZLWRzWDBqNV81YXdILXNYdEtqTnBqWkZTR0pqcXFiNFlDZFJHZU1vOFNCd0R3S1J5eTR5Y19yd3JyZlI5anl4cHJZS21VZXNjZXIxVTdJa2tfbjdDOGFGaDVNSUFnSVd1N3I5MWp0ZUhZQXhIazFxOW9nZi1IcnJjWW5aUEp2WElTNUF4QW84Tks5VGxPSXBYcTdhYVlGdFJLeXMtNklkWXhhWHNGYndiTFV0UQ?oc=5
 
 **Feed description:** Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime ad-hoc-news.de
+
+## 21. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 16 Sep 2026
+- **Category:** Other
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - PR Newswire: https://news.google.com/rss/articles/CBMivAJBVV95cUxNREZ2V0lZelplQVZkNmxmdmwyeFBDSUdrN0I1cm5NOWdUQXNvRENvYzBKclVMLWJaZ2txOTNjWGpTVk5pZmNHZEZEN1VFZnU2NGk3bC1ka1NNQ3JZWW52VTF5TE5OX2owaTdpUl8tRDRLbEZlU2RUUTh1Ni1hZzQwTldKaTB1emRNNjA4ekNnYklRZ0p5bVZkNVRRdmJoUm9YZ1hsOF9fVmpDdmdVTk01eWt5SHJ5TU9VXzRNalpuVUtpS3RRS2ItZ0JpUW1sdzNwZDFQRXdnNHdEanFSRXhUZEhwRG5GamljajN6MnY4dEVPN0NadFJzNkgtU0F2b3VvN2U2d19uLXpSRDRSaTNUYWtOWXUwU3ptd1RBZWo3UFRwN3VRbWNkVE9rZS14ZnhqZjV5WUJRWE5oUUF2?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMiwwJBVV95cUxQeDhnOE03b3h5eFNJSmNlQjNSNmZnQl9tTkRTVmNCRWt4TzVPckFFTEFRaWdUWjduU1oxbjh4TFVKa0lWaHFUd2lmTmZBXzJwUW5XcnZmSFRwS0dJNmpyTjBSMGxkU1lZaFdOLWVoZlpkcGJtVkpJSHF4NGhoVFNud1lSUmZNTFVjSWZsTGNfTVF1YzZpaEZuV2NqY2xSMWlDbXlXUktrNlRDMU90UHFFZnFHUFR2dVAtcXZrRkxPR0xiMzVrd1hEUnZ0a2lnTzhlMmxLdDd6TllSanN6aE9DN2l4OGs0Q3dLcUlwc3Z3U3p3UWtBSGEwa3k5SEl4aXljQTZSeDNjajlIT2p4OWduMXpNT3R3YVFjMk1TeUZrSkNNMlJZZWl3Nm1MXzRDRHRVWllqenozTGMzNDlyWTlIR2tBOA?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxJZUZUQ1l2OFc3aU9DZzVrMWlCazNmbzdRUWN0bHVYLWhibDFNdFhsZGFxLVFocmNFX1dpckF4ZGJ3ZWd3bUZiMTRzRWtVYXBDY2prc21yUW5CYXB4bk0wRTlMSDVoX1ZSV1BWc2p4ZDh2ZFd0eXc3YzBGM0JPWXZuX3BlcG1wVVJDQmxERDhqZGI2dGc?oc=5
+
+**Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com
 
 ## 22. A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08
 
