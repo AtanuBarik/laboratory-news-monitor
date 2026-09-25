@@ -1,25 +1,55 @@
 {
-  "generated_at": "2026-09-25T17:48:15.194731+05:30",
-  "generated_at_display": "25 Sep 2026, 5:48 PM IST",
-  "item_count": 334,
-  "raw_relevant_item_count": 538,
-  "duplicates_merged": 122,
+  "generated_at": "2026-09-25T23:03:20.817727+05:30",
+  "generated_at_display": "25 Sep 2026, 11:03 PM IST",
+  "item_count": 335,
+  "raw_relevant_item_count": 542,
+  "duplicates_merged": 124,
   "failures": [],
   "items": [
     {
-      "id": "e7e6939b6623911d5fcc",
+      "id": "fbc362fc6898c9f7c97a",
+      "company": "Labcorp",
+      "title": "Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEFoSzcwUmhQTUd1OFZWVF80M0lXYy1Ja2RzUFFPYkV1d2lCVHROTUpRU18xVzBncm9Zaml4SWx0SENGLWdJNGFzV0cwNzhVd3Z3MVhGUXNpbk8wZDZxSHFGRzl4WGMyZU1tYk80SFlMTmtlblhnQklic253VkMwVk5tbmJQVTk1WkkzNlEwMHQ1d2J5RURqN0dqWktWX3AyVVE?oc=5",
+      "description": "Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach Daily Dodge",
+      "source": "Daily Dodge",
+      "source_url": "https://dailydodge.com",
+      "source_domain": "dailydodge.com",
+      "published_at": "2026-09-25T11:52:49+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Daily Dodge",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEFoSzcwUmhQTUd1OFZWVF80M0lXYy1Ja2RzUFFPYkV1d2lCVHROTUpRU18xVzBncm9Zaml4SWx0SENGLWdJNGFzV0cwNzhVd3Z3MVhGUXNpbk8wZDZxSHFGRzl4WGMyZU1tYk80SFlMTmtlblhnQklic253VkMwVk5tbmJQVTk1WkkzNlEwMHQ1d2J5RURqN0dqWktWX3AyVVE?oc=5",
+          "domain": "dailydodge.com",
+          "published_at": "2026-09-25T11:52:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2019 breach data doj million over settlement wisconsin"
+    },
+    {
+      "id": "0c434106aba31744f9c1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
       "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-09-25T11:32:10+00:00",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-25T11:14:00+00:00",
       "published_display": "25 Sep 2026",
       "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-25T11:14:00+00:00"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
@@ -27,7 +57,7 @@
           "published_at": "2026-09-25T11:32:10+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "behind gains rally stock what ytd"
     },
     {
@@ -257,7 +287,7 @@
       "company": "Labcorp",
       "title": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
-      "description": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach Colorado Attorney General (.gov)",
+      "description": "Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com",
       "source": "Colorado Attorney General (.gov)",
       "source_url": "https://coag.gov",
       "source_domain": "coag.gov",
@@ -271,9 +301,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
           "domain": "coag.gov",
           "published_at": "2026-09-24T17:40:37+00:00"
+        },
+        {
+          "name": "NottinghamMD.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT2JZY2Z6Zk8yU2UzTk5BN2cwSHRiNlluU0tDOUNOYkdiWklOWC1URVIzc3NOMENhdHhLWmkyOVZCNkJ3Wjl1d3BaaGFIdzBkbU5XNi13bl85LWlya0htWUg0SVJOS2hQLS1PZWdUc3JLZTZHQk9TbUMwWDRHSFVCNU1HQ3hzMmNmZkFYY3lmdDBWc2FicG9qZm9qcGI4eU9KU0p4WTg5Yzd2amgtYXlKVW44WFV4bW0yY1U2N1Q5c2xWOVA3Tk9EaUJQREU1cmpydnNYS3hCSk5veUg0QW5LTA?oc=5",
+          "domain": "nottinghammd.com",
+          "published_at": "2026-09-25T16:00:12+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "attorney breach data general national over phil settlement weiser"
     },
     {
@@ -313,9 +349,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlZfSGxnQVZkZzNGbnlNTmJLTklrVm4yYWluVENSMGxRR0hGaWg2V3FuSHJPZHFMR2xpbzRIVHRiZENHeDllSlZ5aDhfRFB6Qk1mX3hwd044MlpVR1NQTnV3TFlzUGcyakl4UWYzZTZTLTB6dkVyczh5Wm1EZ081OHF2aXk2LU15cVdFaGNjZk1kQy1OUEJ5WDFrYnh3MUFMUkJwQzE1dw?oc=5",
           "domain": "journalnow.com",
           "published_at": "2026-09-25T09:30:00+00:00"
+        },
+        {
+          "name": "WDEL",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEtRSUx0VHlqRW9MNTMxQkp2UkgyY0FSZzNYcF91OWhGWkpNWVRRYjBJNXptVFo3OS16SmU2MC00Ui01Y2c3cFlWdG9xaUJESU5JaThyWXJiTjVDTERFbXdscUZlVmxkTUdTYnFtdHhISzN2MmZiNlI0YUdyVElmdWpGY2l3UVBmUnV0eEFsbDdzMWhvTzdUTmpIMzBOUFpLUTZNbGsyVFl1NWhNVGtVa1Q3SXFPaGRURWpzRTJ0czkyT0VRWnZNUXExZEhsa1hXeWtldjJ4OA?oc=5",
+          "domain": "wdel.com",
+          "published_at": "2026-09-25T03:24:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "2019 breach data jersey joins million multistate over settlement"
     },
     {
@@ -397,9 +439,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUVJoRDVKZDVOYWdvdFhNcmJNTXg4VUhrd1VKTk15WDNIYWpBdHBMS0ZTZjR6TG91bUhVRmhvSGlaVWhFbWQybDQtRmNCcUZaLTl1MXdJanl6b2RzWWJ3b0RkTG1CcGJWeU1oZ2JaelFjdkdiSHRBbmZtMk5UVUh5R3Qzbkt1aXd5VndRTF9jMXJaeVVoTHFoY1pOYUI0TnlNdHI1dThTRXRueHZROHhDWFNlR0tFcG52OGxnSmstOTlWWGw2YVRHa3RVMlhGOTJWcHdhTm5IN1RsVi15YUpVTG1iM3ZvNHB6WmRPNg?oc=5",
           "domain": "beavercountyradio.com",
           "published_at": "2026-09-24T22:34:42+00:00"
+        },
+        {
+          "name": "Jacksonville Journal-Courier",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5",
+          "domain": "myjournalcourier.com",
+          "published_at": "2026-09-25T17:15:42+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -2869,9 +2917,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNUs0MHBvalBab0dZWXNKbnpDUVRMV2VLY2xGZkZKWGFUSVdrRnppOUtEWjhMUEJUaTI0Y0FDR1lDM3lGVGF0bWd5ZVFnbFhsZnVZQlhzNTZJa2tJaDhHSlNjWUJQNW4wOS11YXN4OUZGd3RxcW5faTdKR3FubklIdmRXQ0VGakVVeGN4NUp5bU5kRlFUZ24tRmp3?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-09-08T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWWdOM1M1X2FoSUdSZ2l2M3BaRjJQVHZMWS1BeTFrQVJ6dEdQN0ZrR0xJd3MtS0JDMFBIYWVabXhqYVAxQjhTOVFqbnpzMXFDYkhHZURIZjJzTnFMWk5nSEhXd2wtcWZ1SGx6ZmRWTkxzUWhJT2xWUlhhVGR1OHV2bnctM1YzUzl0WUxMRmJKeDlsX01tMGRNT0RaeEdFM00?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
         }
       ],
-      "coverage_count": 11,
+      "coverage_count": 12,
       "event_signature": "acquires expand global labs medical mlm network"
     },
     {
@@ -11290,10 +11344,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-25T18:17:00+05:30",
-  "next_update_display": "25 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-26T00:17:00+05:30",
+  "next_update_display": "26 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

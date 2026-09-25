@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T18:26:50.496757+05:30",
-  "generated_at_display": "25 Sep 2026, 6:26 PM IST",
+  "generated_at": "2026-09-25T23:03:24.740025+05:30",
+  "generated_at_display": "25 Sep 2026, 11:03 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 222,
+  "remaining_unsummarized_count": 223,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -251,7 +251,7 @@
       "published_at": "2026-09-08T07:00:00+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
-      "coverage_count": 11,
+      "coverage_count": 12,
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
       "sources": [
         {
@@ -454,18 +454,22 @@
       ]
     },
     {
-      "id": "e7e6939b6623911d5fcc",
+      "id": "0c434106aba31744f9c1",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
       "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
-      "source": "Zacks Investment Research",
+      "source": "Yahoo Finance",
       "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
-      "published_at": "2026-09-25T11:32:10+00:00",
+      "published_at": "2026-09-25T11:14:00+00:00",
       "published_display": "25 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5"

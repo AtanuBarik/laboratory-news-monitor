@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 25 Sep 2026, 5:48 PM IST
+- **Repository generated:** 25 Sep 2026, 11:03 PM IST
 - **Distinct events in this file:** 155
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,9 +10,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Sep 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5
 
 **Feed description:** Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research
