@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-26T17:19:30.861631+05:30",
-  "generated_at_display": "26 Sep 2026, 5:19 PM IST",
-  "item_count": 340,
-  "raw_relevant_item_count": 543,
-  "duplicates_merged": 123,
+  "generated_at": "2026-09-26T22:16:28.305569+05:30",
+  "generated_at_display": "26 Sep 2026, 10:16 PM IST",
+  "item_count": 341,
+  "raw_relevant_item_count": 539,
+  "duplicates_merged": 121,
   "failures": [],
   "items": [
+    {
+      "id": "350d2a9f996659ef6430",
+      "company": "Labcorp",
+      "title": "Tech Expert: Questions Abound Regarding LabCorp Settlement",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFWdkhUZUxSOWE5RHdvQ1J6NzhFQzdmSUk5WEU1a2dGUURxQndFUmRlMF92RkVrQko0YUt3eGFRNXVnR29aTGFGb1pFdFN6TW5yVlI0S1d2SU9IZnllMm1iX0dsSVNWa21WeENhYm52YWstRHJkZVVXcGx6MDJ5TkdUaWVVTkllZ3Q5d1kwcEdLYlpCd3FZeUNQV0E2SWpMVXZB?oc=5",
+      "description": "Tech Expert: Questions Abound Regarding LabCorp Settlement Long Island Life & Politics",
+      "source": "Long Island Life & Politics",
+      "source_url": "https://lilifepolitics.com",
+      "source_domain": "lilifepolitics.com",
+      "published_at": "2026-09-26T12:36:55+00:00",
+      "published_display": "26 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Long Island Life & Politics",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFWdkhUZUxSOWE5RHdvQ1J6NzhFQzdmSUk5WEU1a2dGUURxQndFUmRlMF92RkVrQko0YUt3eGFRNXVnR29aTGFGb1pFdFN6TW5yVlI0S1d2SU9IZnllMm1iX0dsSVNWa21WeENhYm52YWstRHJkZVVXcGx6MDJ5TkdUaWVVTkllZ3Q5d1kwcEdLYlpCd3FZeUNQV0E2SWpMVXZB?oc=5",
+          "domain": "lilifepolitics.com",
+          "published_at": "2026-09-26T12:36:55+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "abound expert questions regarding settlement tech"
+    },
     {
       "id": "43a80ac3fc541b86ff2b",
       "company": "Labcorp",
@@ -535,9 +559,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5",
           "domain": "myjournalcourier.com",
           "published_at": "2026-09-25T17:15:42+00:00"
+        },
+        {
+          "name": "riverbender.com",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSTB1ZjVsNmJZMmw0VHctdXAzT2FUVGl5RjVnTlg4QmlsdDVnRl9KYXliVW91dE5rZGFKZ0pEdFNtUFpEYlNkbmJmcDVZeDRydm1ETXZjMVRTSnRVQ0Z1X0daZXFaWG9XVE5NbmM0NWpUaWduT1Q5NE1jdDlBZkVGaUlqcHBvd216NDA4QkcwSTg3RHJXemlMTkdBRWJSQVlhR0hMS0xKR0xNNHhJT2NNNm5qSnNuUHU0NU5LeTRQWTYzSnBrc0lDRWZSUDlwRFJWdlp0TXRpSG9MdHQ0d1NXdGxERHVlazdwd3BvMDh6UDlDQThPNE1pbTMwdUowUGs?oc=5",
+          "domain": "riverbender.com",
+          "published_at": "2026-09-25T14:47:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -673,9 +703,15 @@
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOTdKTU8yY21LbDJ5ZjBaOHk4WHJkdEhQX012MTF0dzJRMF91dlg4bFlhZGN6MGQydmNQOFFJaElteDQ5a3hPcEQwazhnWnd2dmxBOWJkbXFQSm5RYXBpckhaa1hrV0RNQWpXeWNFYjJSTFZzaThwTXFRMkFfQVdTM0RvV3lCWVFUY1ZaTExZQU43dw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-09-25T21:20:05+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-26T08:30:44+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 call earnings transcript"
     },
     {
@@ -11530,10 +11566,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-26T18:17:00+05:30",
-  "next_update_display": "26 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-27T00:17:00+05:30",
+  "next_update_display": "27 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
