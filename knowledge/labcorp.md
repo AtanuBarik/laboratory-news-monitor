@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 26 Sep 2026, 11:02 AM IST
+- **Repository generated:** 26 Sep 2026, 5:19 PM IST
 - **Distinct events in this file:** 150
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -46,10 +46,11 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - WKOW: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5
+  - shattered.io: https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5
 
 **Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents WKOW
 
@@ -155,7 +156,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - wrnjradio.com: https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2RwelUxc0NBMjBGY3Zoc3piZjhhS1VDLTIyQ1hGd3NBc3VUTFZ4WTd5RE5uWl9jblJOQ08yeGdPMWlkaEcta05GbHpvVk5TaVFuWGlta28yb29BdFR4eHVLdGl2UmhaZ25lY0p2ak02T1dmNFlaWTAzLUZXWVlKZVNQOVY0aXY3MzBiRnBETUdSZF9DZTRIaTBSNVRFN3YySExseGhn?oc=5
@@ -163,6 +164,7 @@
   - CoastTV: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQkctSUNPcGRnTnlGUGFhUlg5aEw3MVk2S294dU51QThOaVV5aldoQ053V1RLUjhUelgwYmxKRkt2VFZPWmxuNWFVY1hnUlU2NHoxOG1vSGlRMkZ2N285SDVDOXRwR2JMY3U0YkFWZFhPM3FuZFl6dGRiWERzY1lvX3Q5dHBGcmpCT2pqbi1hSjNaZVRkNWpPM2wzQlAzRzFRUkRKYUtnNVZSU0NtV0hVeGF5NWtYVWktQmtySnBZTGZvMnk4cmtBdmMtRktxdUtVeW94akRDNGs5ZTQ?oc=5
   - Winston-Salem Journal: https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlZfSGxnQVZkZzNGbnlNTmJLTklrVm4yYWluVENSMGxRR0hGaWg2V3FuSHJPZHFMR2xpbzRIVHRiZENHeDllSlZ5aDhfRFB6Qk1mX3hwd044MlpVR1NQTnV3TFlzUGcyakl4UWYzZTZTLTB6dkVyczh5Wm1EZ081OHF2aXk2LU15cVdFaGNjZk1kQy1OUEJ5WDFrYnh3MUFMUkJwQzE1dw?oc=5
   - WDEL: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaEtRSUx0VHlqRW9MNTMxQkp2UkgyY0FSZzNYcF91OWhGWkpNWVRRYjBJNXptVFo3OS16SmU2MC00Ui01Y2c3cFlWdG9xaUJESU5JaThyWXJiTjVDTERFbXdscUZlVmxkTUdTYnFtdHhISzN2MmZiNlI0YUdyVElmdWpGY2l3UVBmUnV0eEFsbDdzMWhvTzdUTmpIMzBOUFpLUTZNbGsyVFl1NWhNVGtVa1Q3SXFPaGRURWpzRTJ0czkyT0VRWnZNUXExZEhsa1hXeWtldjJ4OA?oc=5
+  - tech-insider.org: https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5
 
 **Feed description:** New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com
 
@@ -219,12 +221,13 @@
 - **Company:** Labcorp
 - **Publication date:** 23 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
+  - finance.yahoo.com: https://news.google.com/rss/articles/CBMikgFBVV95cUxPOTdKTU8yY21LbDJ5ZjBaOHk4WHJkdEhQX012MTF0dzJRMF91dlg4bFlhZGN6MGQydmNQOFFJaElteDQ5a3hPcEQwazhnWnd2dmxBOWJkbXFQSm5RYXBpckhaa1hrV0RNQWpXeWNFYjJSTFZzaThwTXFRMkFfQVdTM0RvV3lCWVFUY1ZaTExZQU43dw?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
+**Feed description:** Labcorp Holdings Inc. R (N6B.DE) Q1 FY2026 earnings call transcript finance.yahoo.com
 
 ## 18. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
 
