@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-26T04:16:32.684772+05:30",
-  "generated_at_display": "26 Sep 2026, 4:16 AM IST",
+  "generated_at": "2026-09-26T11:02:29.525615+05:30",
+  "generated_at_display": "26 Sep 2026, 11:02 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 225,
+  "remaining_unsummarized_count": 228,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -55,6 +55,25 @@
         {
           "name": "biospectrumasia.com",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkdKTER0SXMxTmdIc2Q4Wno0V0VGWHNhWl93UFpqX2NDa3hiNkVvNE1pcGRraTEydnJFdDJOYmMxSmF2cnBCUXlCS3J1eks2NHkxcThNWExQc0pmeHE2RXFMLU9iZ19wZmN1akhDemwyOHdZQ01hZmFkRzI0Sm1LNlJ1MXBiX2NfQm5NWl9yTjZuQnpqX1Z1MlpLSWx6UjhZQm53MlF0WjJ5dVZFYUZOTGluMm5tN3V3Z0trMTBlYXZ5TFdaWFNHT3RfMzU1eXpyclhPTUJ5RnlibTQyeHNTcVJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "70dfc138316151a4fa5f",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "Quest Diagnostics acquires LifeLabs for $1B (closed August 2024)",
+      "source": "Dealroom",
+      "description": "Quest Diagnostics acquires LifeLabs for $1B (closed August 2024) Dealroom",
+      "published_at": "2026-09-19T08:59:41+00:00",
+      "published_display": "19 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWpVRk9YWTV3NVIzZzRxbmp1b0JoWi1zOGR2a2RBY1ljSUNaYnZ2eExLVjZoTTlCT3pYUVh5c0M5TEV3TXh1Q3BhRG9FZFZVVzA4Ui1wbnhlOHBJY0Q2Zy1ZQTFORGJPNUQ1czM4eXAyY01HWlBPWlVaakZxVGt3SEdjeVlheDA5ZG9mal91N0w5Zw?oc=5",
+      "sources": [
+        {
+          "name": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWpVRk9YWTV3NVIzZzRxbmp1b0JoWi1zOGR2a2RBY1ljSUNaYnZ2eExLVjZoTTlCT3pYUVh5c0M5TEV3TXh1Q3BhRG9FZFZVVzA4Ui1wbnhlOHBJY0Q2Zy1ZQTFORGJPNUQ1czM4eXAyY01HWlBPWlVaakZxVGt3SEdjeVlheDA5ZG9mal91N0w5Zw?oc=5"
         }
       ]
     },
@@ -692,25 +711,6 @@
         {
           "name": "Barchart.com",
           "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNS1FnWXBXQUd6MFhRTlZadjlnVWFfZEJTeFdvVTNZV0ZaYXRIdHB4TnNRS1RPS2RhSTdVRk83MXQwOUhxY29xbGM2azdNNWt5c2lOZkpLa1VzTXpEc2s2eVF5Z0w1NGYtVEdxOUJYTHNwQzVvWnJjbmRnU0Q4YndSQ0dvT0dTQ1QtZ0x5RnpweGNHR2J4TEVzTDcwbnp2RWd4Y1djVkdNUnplUkp4YjZhY1E5d2lhVmI5aFlTMzg0T2I4aTl1NWc2b1NfVlFfX0owUy0wSlk3LTdOb3EwdnkydGtLNzlDZDBaMEVyc1c4OFYxbEpTVDdiT1lZQVRRUW1lQi1DVGxNMWw3Q1Bfd1RRSm9zWWxLQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "620b0ba2841e5b3b2c6b",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making",
-      "source": "Pluang",
-      "description": "Labcorp upgrades Global Trial Connect platform to streamline clinical trial management and speed decision-making pluang.com",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5",
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSGRJbmotMUk1WFdNSkZjaVJMVkF0cVZPNG56VjlaV0JucHNIelkwbGtYZk5obVlRNHhhQ3BuOWg0VjZyM2JzTENQRHNEa2FNY1BHNkxOWGRLeGpPNzduZWlzOWFla1hxZmtSOFp3RnVRWG5yX1hmLXZGVkQ1LURVZjk2TVVCQ24tLUhhYw?oc=5"
         }
       ]
     }

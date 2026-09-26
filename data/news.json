@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-26T03:20:20.131177+05:30",
-  "generated_at_display": "26 Sep 2026, 3:20 AM IST",
-  "item_count": 337,
-  "raw_relevant_item_count": 540,
-  "duplicates_merged": 120,
+  "generated_at": "2026-09-26T11:02:25.875880+05:30",
+  "generated_at_display": "26 Sep 2026, 11:02 AM IST",
+  "item_count": 340,
+  "raw_relevant_item_count": 543,
+  "duplicates_merged": 121,
   "failures": [],
   "items": [
+    {
+      "id": "43a80ac3fc541b86ff2b",
+      "company": "Labcorp",
+      "title": "Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
+      "description": "Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026] tech-insider.org",
+      "source": "tech-insider.org",
+      "source_url": "https://tech-insider.org",
+      "source_domain": "tech-insider.org",
+      "published_at": "2026-09-25T22:58:33+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "tech-insider.org",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
+          "domain": "tech-insider.org",
+          "published_at": "2026-09-25T22:58:33+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 615 hit joins settlement wisconsin"
+    },
     {
       "id": "f1d47c34343d3d4efdb0",
       "company": "Labcorp",
@@ -29,6 +53,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "amca hack over pays settlement states"
+    },
+    {
+      "id": "131a04cd4b17846e8707",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Price, News, Quote & History",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Singapore",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-09-25T12:07:36+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-09-25T12:07:36+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-09-25T12:28:40+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "history price quote stock"
     },
     {
       "id": "fbc362fc6898c9f7c97a",
@@ -185,7 +239,7 @@
       "company": "Labcorp",
       "title": "West Virginia joins $2.3 million Labcorp data breach settlement",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
-      "description": "West Virginia joins $2.3 million Labcorp data breach settlement WV News",
+      "description": "West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com",
       "source": "WV News",
       "source_url": "https://www.wvnews.com",
       "source_domain": "wvnews.com",
@@ -383,7 +437,7 @@
       "company": "Labcorp",
       "title": "AG Sunday announces $2.28M settlement with Labcorp",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-      "description": "AG Sunday announces $2.28M settlement with Labcorp Yahoo",
+      "description": "AG Sunday announces $2.28M settlement with Labcorp yahoo.com",
       "source": "WTAJ",
       "source_url": "https://www.wtaj.com",
       "source_domain": "wtaj.com",
@@ -581,7 +635,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q2 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
@@ -1253,6 +1307,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "earnings high near outlook rally stock support trades week"
+    },
+    {
+      "id": "70dfc138316151a4fa5f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics acquires LifeLabs for $1B (closed August 2024)",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWpVRk9YWTV3NVIzZzRxbmp1b0JoWi1zOGR2a2RBY1ljSUNaYnZ2eExLVjZoTTlCT3pYUVh5c0M5TEV3TXh1Q3BhRG9FZFZVVzA4Ui1wbnhlOHBJY0Q2Zy1ZQTFORGJPNUQ1czM4eXAyY01HWlBPWlVaakZxVGt3SEdjeVlheDA5ZG9mal91N0w5Zw?oc=5",
+      "description": "Quest Diagnostics acquires LifeLabs for $1B (closed August 2024) Dealroom",
+      "source": "Dealroom",
+      "source_url": "https://app.dealroom.co",
+      "source_domain": "app.dealroom.co",
+      "published_at": "2026-09-19T08:59:41+00:00",
+      "published_display": "19 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWpVRk9YWTV3NVIzZzRxbmp1b0JoWi1zOGR2a2RBY1ljSUNaYnZ2eExLVjZoTTlCT3pYUVh5c0M5TEV3TXh1Q3BhRG9FZFZVVzA4Ui1wbnhlOHBJY0Q2Zy1ZQTFORGJPNUQ1czM4eXAyY01HWlBPWlVaakZxVGt3SEdjeVlheDA5ZG9mal91N0w5Zw?oc=5",
+          "domain": "app.dealroom.co",
+          "published_at": "2026-09-19T08:59:41+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2024 acquires august closed lifelabs"
     },
     {
       "id": "57ded22a7b767d8330ec",
@@ -3067,9 +3145,15 @@
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0t3bmU2ejFKbjNucUFYY2NELTZKOUhSbkN6d3RCa0RBUEhCQ3d3QzNaYnBWdmlDUmpRc3J3b2UyU295amgtT05IU1ItN0MzZ2pwOXlwOU5SUGE4OXdLN0pYYU5kUnZkOWY4bWlFVzZXcm00eW9faTllS3QxeFdxdzJsT0lLZDhieHF3MXZ1U01XY3hJRmhJWFgxWQ?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-09-08T07:00:00+00:00"
+        },
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVFCVlA0MnR6S2FGb3laNEZ2Z0VIcW1vN3hINHVuTEU3VlJJYTl4TW1hVEM5U0EwTVJ4c3ZHQ2dMRWt6dDRPVWF1THVtd0ZUYkZjSVFHWFpSZ0xVV05hV3pYYUpoWEV1VjB5OFkwSFVyQTBaU0FVRVNpbVdPbUdhVUpiZ3M4SXRUSHBrSFAzREtkOC12bFFFQVVmSm5LZ3d3LW5LdThtRVE?oc=5",
+          "domain": "fool.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "000 ceo million sells shares"
     },
     {
@@ -11422,10 +11506,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 81,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-26T06:17:00+05:30",
-  "next_update_display": "26 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-26T12:17:00+05:30",
+  "next_update_display": "26 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
