@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-09-27T03:40:31.727695+05:30",
-  "checked_at_display": "27 Sep 2026, 3:40 AM IST",
+  "checked_at": "2026-09-27T12:33:34.418606+05:30",
+  "checked_at_display": "27 Sep 2026, 12:33 PM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 191,
+  "ranked_candidate_count": 192,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 80,
   "verified_summary_count": 0,
@@ -17,6 +17,7 @@
     "fe25212c7539ce16b122",
     "f3441bb91bbd8285652a",
     "13f4149c2ac60a9139f1",
+    "8fd1c8a473789e7407ee",
     "1ba2a749f89c055a8e66",
     "8f3b45a407ab004dc28d",
     "9a1370ffdef6e6e28518",
@@ -27,7 +28,6 @@
     "581bcd30666c4880a445",
     "0c434106aba31744f9c1",
     "2d09aef4d9ea5d23e24c",
-    "8fd1c8a473789e7407ee",
     "e6a78c89b4b19162fe06",
     "c0dd83030e2a3cae140a",
     "620b0ba2841e5b3b2c6b",
@@ -55,6 +55,7 @@
     "08db6cdb9f2af816df45",
     "624c470e6f4210921500",
     "a57b4a7bb5fce7f31d04",
+    "90f6d0d020eab9539a66",
     "812912acf9a32780ee20",
     "bcfa317b222afa4c8330",
     "5ce025e75dac0ab4f0ef",
@@ -85,8 +86,7 @@
     "515f3d6082c36f347e9e",
     "6013518f949db492536d",
     "1d963d9c6a75d6395034",
-    "0807c85a76b15a295cc0",
-    "586b6e6e954d0002e3de"
+    "0807c85a76b15a295cc0"
   ],
   "gemini_quota_exhausted": false,
   "gemini_error": "",
@@ -107,6 +107,7 @@
     "fe25212c7539ce16b122",
     "f3441bb91bbd8285652a",
     "13f4149c2ac60a9139f1",
+    "8fd1c8a473789e7407ee",
     "1ba2a749f89c055a8e66",
     "8f3b45a407ab004dc28d",
     "9a1370ffdef6e6e28518",
@@ -117,7 +118,6 @@
     "581bcd30666c4880a445",
     "0c434106aba31744f9c1",
     "2d09aef4d9ea5d23e24c",
-    "8fd1c8a473789e7407ee",
     "e6a78c89b4b19162fe06",
     "c0dd83030e2a3cae140a",
     "620b0ba2841e5b3b2c6b",
@@ -145,6 +145,7 @@
     "08db6cdb9f2af816df45",
     "624c470e6f4210921500",
     "a57b4a7bb5fce7f31d04",
+    "90f6d0d020eab9539a66",
     "812912acf9a32780ee20",
     "bcfa317b222afa4c8330",
     "5ce025e75dac0ab4f0ef",
@@ -175,8 +176,7 @@
     "515f3d6082c36f347e9e",
     "6013518f949db492536d",
     "1d963d9c6a75d6395034",
-    "0807c85a76b15a295cc0",
-    "586b6e6e954d0002e3de"
+    "0807c85a76b15a295cc0"
   ],
   "primary_summary_provider": "Awaiting ChatGPT Scheduled Task"
 }
