@@ -1,11 +1,23 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 27 Sep 2026, 5:59 PM IST
+- **Repository generated:** 27 Sep 2026, 10:48 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
+## 1. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
+
+- **Company:** Labcorp
+- **Publication date:** 27 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - WHKY: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5
+
+**Feed description:** Labcorp Data Breach Settlement Includes $100,000 For North Carolina WHKY
+
+## 2. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -17,7 +29,7 @@
 
 **Feed description:** 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement The BayNet
 
-## 2. Tech Expert: Questions Abound Regarding LabCorp Settlement
+## 3. Tech Expert: Questions Abound Regarding LabCorp Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 26 Sep 2026
@@ -29,7 +41,7 @@
 
 **Feed description:** Tech Expert: Questions Abound Regarding LabCorp Settlement Long Island Life & Politics
 
-## 3. Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]
+## 4. Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -41,7 +53,7 @@
 
 **Feed description:** Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026] tech-insider.org
 
-## 4. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
+## 5. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -53,7 +65,7 @@
 
 **Feed description:** LabCorp Pays States $2.2M in Settlement Over AMCA Hack BankInfoSecurity
 
-## 5. USA: Labcorp reaches multistate settlement over 2019 data breach
+## 6. USA: Labcorp reaches multistate settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -65,19 +77,6 @@
 
 **Feed description:** USA: Labcorp reaches multistate settlement over 2019 data breach DataGuidance
 
-## 6. Quest Diagnostics Stock Price, News, Quote & History
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 25 Sep 2026
-- **Category:** Other
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5
-  - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5
-
-**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Singapore
-
 ## 7. Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach
 
 - **Company:** Labcorp
@@ -88,7 +87,7 @@
 - **Sources:**
   - Daily Dodge: https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEFoSzcwUmhQTUd1OFZWVF80M0lXYy1Ja2RzUFFPYkV1d2lCVHROTUpRU18xVzBncm9Zaml4SWx0SENGLWdJNGFzV0cwNzhVd3Z3MVhGUXNpbk8wZDZxSHFGRzl4WGMyZU1tYk80SFlMTmtlblhnQklic253VkMwVk5tbmJQVTk1WkkzNlEwMHQ1d2J5RURqN0dqWktWX3AyVVE?oc=5
 
-**Feed description:** Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach Daily Dodge
+**Feed description:** Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach dailydodge.com
 
 ## 8. Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?
 
@@ -127,7 +126,7 @@
   - WKOW: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5
   - shattered.io: https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5
 
-**Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents WKOW
+**Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
 
 ## 11. LabCorp reaches $2.3M multistate settlement over patient data breach
 
@@ -264,7 +263,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - pennwatch.org: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5
@@ -273,6 +272,7 @@
   - Beaver County Radio: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUVJoRDVKZDVOYWdvdFhNcmJNTXg4VUhrd1VKTk15WDNIYWpBdHBMS0ZTZjR6TG91bUhVRmhvSGlaVWhFbWQybDQtRmNCcUZaLTl1MXdJanl6b2RzWWJ3b0RkTG1CcGJWeU1oZ2JaelFjdkdiSHRBbmZtMk5UVUh5R3Qzbkt1aXd5VndRTF9jMXJaeVVoTHFoY1pOYUI0TnlNdHI1dThTRXRueHZROHhDWFNlR0tFcG52OGxnSmstOTlWWGw2YVRHa3RVMlhGOTJWcHdhTm5IN1RsVi15YUpVTG1iM3ZvNHB6WmRPNg?oc=5
   - Jacksonville Journal-Courier: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5
   - riverbender.com: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSTB1ZjVsNmJZMmw0VHctdXAzT2FUVGl5RjVnTlg4QmlsdDVnRl9KYXliVW91dE5rZGFKZ0pEdFNtUFpEYlNkbmJmcDVZeDRydm1ETXZjMVRTSnRVQ0Z1X0daZXFaWG9XVE5NbmM0NWpUaWduT1Q5NE1jdDlBZkVGaUlqcHBvd216NDA4QkcwSTg3RHJXemlMTkdBRWJSQVlhR0hMS0xKR0xNNHhJT2NNNm5qSnNuUHU0NU5LeTRQWTYzSnBrc0lDRWZSUDlwRFJWdlp0TXRpSG9MdHQ0d1NXdGxERHVlazdwd3BvMDh6UDlDQThPNE1pbTMwdUowUGs?oc=5
+  - RiverBender.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejFqbzdUODdSWGV5QUdGWV9pUThFZGxLY2QxdkNfaGVtck8yYng2WjdwZy1XVldsME1qbmV6MEZrYVZ1VVlId2FaaW9PZ3RyT0M4cDVnNXhzTEkySDlLc1lhLVVFT0NlTTRuTVZhQXRvQ0R5S1huYkVZaGRkVEt4Mk1aZXhHM3N6ck1mWkdVOGJ2SWxyRWRXSlBMa2ZzT1d6VEpCQ3Y5ZlJIZw?oc=5
 
 **Feed description:** Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach chadronradio.com
 

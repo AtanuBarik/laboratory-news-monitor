@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-27T17:59:32.524530+05:30",
-  "generated_at_display": "27 Sep 2026, 5:59 PM IST",
+  "generated_at": "2026-09-27T22:48:26.932074+05:30",
+  "generated_at_display": "27 Sep 2026, 10:48 PM IST",
   "item_count": 342,
-  "raw_relevant_item_count": 539,
-  "duplicates_merged": 120,
+  "raw_relevant_item_count": 538,
+  "duplicates_merged": 119,
   "failures": [],
   "items": [
+    {
+      "id": "2663cdccf5f83619f412",
+      "company": "Labcorp",
+      "title": "Labcorp Data Breach Settlement Includes $100,000 For North Carolina",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5",
+      "description": "Labcorp Data Breach Settlement Includes $100,000 For North Carolina WHKY",
+      "source": "WHKY",
+      "source_url": "https://whky.com",
+      "source_domain": "whky.com",
+      "published_at": "2026-09-27T16:02:44+00:00",
+      "published_display": "27 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WHKY",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5",
+          "domain": "whky.com",
+          "published_at": "2026-09-27T16:02:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "000 100 breach carolina data includes north settlement"
+    },
     {
       "id": "0b339bcd8ce431c75bc7",
       "company": "Labcorp",
@@ -127,41 +151,11 @@
       "event_signature": "2019 breach data multistate over reaches settlement usa"
     },
     {
-      "id": "131a04cd4b17846e8707",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock Price, News, Quote & History",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Singapore",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "source_domain": "ca.finance.yahoo.com",
-      "published_at": "2026-09-25T12:07:36+00:00",
-      "published_display": "25 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-          "domain": "ca.finance.yahoo.com",
-          "published_at": "2026-09-25T12:07:36+00:00"
-        },
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
-          "domain": "sg.finance.yahoo.com",
-          "published_at": "2026-09-25T12:28:40+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "history price quote stock"
-    },
-    {
       "id": "fbc362fc6898c9f7c97a",
       "company": "Labcorp",
       "title": "Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEFoSzcwUmhQTUd1OFZWVF80M0lXYy1Ja2RzUFFPYkV1d2lCVHROTUpRU18xVzBncm9Zaml4SWx0SENGLWdJNGFzV0cwNzhVd3Z3MVhGUXNpbk8wZDZxSHFGRzl4WGMyZU1tYk80SFlMTmtlblhnQklic253VkMwVk5tbmJQVTk1WkkzNlEwMHQ1d2J5RURqN0dqWktWX3AyVVE?oc=5",
-      "description": "Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach Daily Dodge",
+      "description": "Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach dailydodge.com",
       "source": "Daily Dodge",
       "source_url": "https://dailydodge.com",
       "source_domain": "dailydodge.com",
@@ -245,7 +239,7 @@
       "company": "Labcorp",
       "title": "Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5",
-      "description": "Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents WKOW",
+      "description": "Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com",
       "source": "WKOW",
       "source_url": "https://www.wkow.com",
       "source_domain": "wkow.com",
@@ -619,9 +613,15 @@
           "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSTB1ZjVsNmJZMmw0VHctdXAzT2FUVGl5RjVnTlg4QmlsdDVnRl9KYXliVW91dE5rZGFKZ0pEdFNtUFpEYlNkbmJmcDVZeDRydm1ETXZjMVRTSnRVQ0Z1X0daZXFaWG9XVE5NbmM0NWpUaWduT1Q5NE1jdDlBZkVGaUlqcHBvd216NDA4QkcwSTg3RHJXemlMTkdBRWJSQVlhR0hMS0xKR0xNNHhJT2NNNm5qSnNuUHU0NU5LeTRQWTYzSnBrc0lDRWZSUDlwRFJWdlp0TXRpSG9MdHQ0d1NXdGxERHVlazdwd3BvMDh6UDlDQThPNE1pbTMwdUowUGs?oc=5",
           "domain": "riverbender.com",
           "published_at": "2026-09-25T14:47:00+00:00"
+        },
+        {
+          "name": "RiverBender.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejFqbzdUODdSWGV5QUdGWV9pUThFZGxLY2QxdkNfaGVtck8yYng2WjdwZy1XVldsME1qbmV6MEZrYVZ1VVlId2FaaW9PZ3RyT0M4cDVnNXhzTEkySDlLc1lhLVVFT0NlTTRuTVZhQXRvQ0R5S1huYkVZaGRkVEt4Mk1aZXhHM3N6ck1mWkdVOGJ2SWxyRWRXSlBMa2ZzT1d6VEpCQ3Y5ZlJIZw?oc=5",
+          "domain": "m.riverbender.com",
+          "published_at": "2026-09-27T13:30:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -11608,10 +11608,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-27T18:17:00+05:30",
-  "next_update_display": "27 Sep 2026, 6:17 PM IST",
+  "next_update_at": "2026-09-28T00:17:00+05:30",
+  "next_update_display": "28 Sep 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
