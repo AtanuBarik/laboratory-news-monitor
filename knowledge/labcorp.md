@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 27 Sep 2026, 10:48 PM IST
+- **Repository generated:** 28 Sep 2026, 3:08 AM IST
 - **Distinct events in this file:** 154
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
