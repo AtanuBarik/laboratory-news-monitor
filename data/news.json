@@ -1,16 +1,10 @@
 {
-  "generated_at": "2026-09-27T03:05:48.456106+05:30",
-  "generated_at_display": "27 Sep 2026, 3:05 AM IST",
-  "item_count": 341,
-  "raw_relevant_item_count": 341,
-  "duplicates_merged": 0,
-  "failures": [
-    "Labcorp: HTTP Error 503: Service Unavailable",
-    "Quest Diagnostics: HTTP Error 503: Service Unavailable",
-    "ARUP Laboratories: HTTP Error 503: Service Unavailable",
-    "Mayo Clinic Laboratories: HTTP Error 503: Service Unavailable",
-    "Sonic Healthcare: HTTP Error 503: Service Unavailable"
-  ],
+  "generated_at": "2026-09-27T11:20:22.000032+05:30",
+  "generated_at_display": "27 Sep 2026, 11:20 AM IST",
+  "item_count": 342,
+  "raw_relevant_item_count": 540,
+  "duplicates_merged": 121,
+  "failures": [],
   "items": [
     {
       "id": "350d2a9f996659ef6430",
@@ -21,7 +15,7 @@
       "source": "Long Island Life & Politics",
       "source_url": "https://lilifepolitics.com",
       "source_domain": "lilifepolitics.com",
-      "published_at": "2026-09-26T12:36:55+00:00",
+      "published_at": "2026-09-26T12:36:34+00:00",
       "published_display": "26 Sep 2026",
       "category": "Other",
       "official_source": false,
@@ -30,7 +24,7 @@
           "name": "Long Island Life & Politics",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOVFWdkhUZUxSOWE5RHdvQ1J6NzhFQzdmSUk5WEU1a2dGUURxQndFUmRlMF92RkVrQko0YUt3eGFRNXVnR29aTGFGb1pFdFN6TW5yVlI0S1d2SU9IZnllMm1iX0dsSVNWa21WeENhYm52YWstRHJkZVVXcGx6MDJ5TkdUaWVVTkllZ3Q5d1kwcEdLYlpCd3FZeUNQV0E2SWpMVXZB?oc=5",
           "domain": "lilifepolitics.com",
-          "published_at": "2026-09-26T12:36:55+00:00"
+          "published_at": "2026-09-26T12:36:34+00:00"
         }
       ],
       "coverage_count": 1,
@@ -83,6 +77,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "amca hack over pays settlement states"
+    },
+    {
+      "id": "90f6d0d020eab9539a66",
+      "company": "Labcorp",
+      "title": "USA: Labcorp reaches multistate settlement over 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcExfZmJyVjZPU2pTcUFXVTBjb0hwSnI4ejkyMVg1OTJfTi0wVUkzOGtRNzc5VGdjaEZTc3Z5endRRS1pdDhKcURrVGVGY1dfOXBBRFR3WFpsQ1REX3o4NWg5RmZvZVd1enhURk1rb1B6N1RnNlJvVl8wcG9KRWhKVWMxc01ZNEdyYUtiaWRB?oc=5",
+      "description": "USA: Labcorp reaches multistate settlement over 2019 data breach DataGuidance",
+      "source": "DataGuidance",
+      "source_url": "https://www.dataguidance.com",
+      "source_domain": "dataguidance.com",
+      "published_at": "2026-09-25T13:50:12+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "DataGuidance",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcExfZmJyVjZPU2pTcUFXVTBjb0hwSnI4ejkyMVg1OTJfTi0wVUkzOGtRNzc5VGdjaEZTc3Z5endRRS1pdDhKcURrVGVGY1dfOXBBRFR3WFpsQ1REX3o4NWg5RmZvZVd1enhURk1rb1B6N1RnNlJvVl8wcG9KRWhKVWMxc01ZNEdyYUtiaWRB?oc=5",
+          "domain": "dataguidance.com",
+          "published_at": "2026-09-25T13:50:12+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2019 breach data multistate over reaches settlement usa"
     },
     {
       "id": "131a04cd4b17846e8707",
@@ -517,9 +535,15 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5",
           "domain": "yahoo.com",
           "published_at": "2026-09-24T21:04:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWdGNlVuV0pCSzVOdTVadk1oVjRra1VHZFBqUUVwM2RyS2FSWGN2QldaN19xSThSeEhyTEw3dXp4Vkp2VkU3b0ZZWkhqQjUwUUtiRU5TX2dBR2hyOG5mODdPRllFM3ZucFB0b1E2Z2RoSXdYeHB1Uw?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-09-24T21:04:01+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "28m settlement sunday"
     },
     {
@@ -649,9 +673,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5",
           "domain": "myjournalcourier.com",
           "published_at": "2026-09-25T17:15:42+00:00"
+        },
+        {
+          "name": "CoastTV",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQkctSUNPcGRnTnlGUGFhUlg5aEw3MVk2S294dU51QThOaVV5aldoQ053V1RLUjhUelgwYmxKRkt2VFZPWmxuNWFVY1hnUlU2NHoxOG1vSGlRMkZ2N285SDVDOXRwR2JMY3U0YkFWZFhPM3FuZFl6dGRiWERzY1lvX3Q5dHBGcmpCT2pqbi1hSjNaZVRkNWpPM2wzQlAzRzFRUkRKYUtnNVZSU0NtV0hVeGF5NWtYVWktQmtySnBZTGZvMnk4cmtBdmMtRktxdUtVeW94akRDNGs5ZTQ?oc=5",
+          "domain": "coasttv.com",
+          "published_at": "2026-09-25T03:24:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "2019 attorney breach data general jackson jeff million over reaches settlement"
     },
     {
@@ -821,7 +851,7 @@
       "company": "Mayo Clinic Laboratories",
       "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine Macau Business",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine #MayoClinicLaboratories #PathologyAsia #LifeStrands #LifeStrandsGenomics #LifeStrandsGenomicsAustralia #DNALAB Media OutReach Newswire",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -853,9 +883,21 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTkdKTER0SXMxTmdIc2Q4Wno0V0VGWHNhWl93UFpqX2NDa3hiNkVvNE1pcGRraTEydnJFdDJOYmMxSmF2cnBCUXlCS3J1eks2NHkxcThNWExQc0pmeHE2RXFMLU9iZ19wZmN1akhDemwyOHdZQ01hZmFkRzI0Sm1LNlJ1MXBiX2NfQm5NWl9yTjZuQnpqX1Z1MlpLSWx6UjhZQm53MlF0WjJ5dVZFYUZOTGluMm5tN3V3Z0trMTBlYXZ5TFdaWFNHT3RfMzU1eXpyclhPTUJ5RnlibTQyeHNTcVJn?oc=5",
           "domain": "biospectrumasia.com",
           "published_at": "2026-09-25T07:39:47+00:00"
+        },
+        {
+          "name": "Media OutReach Newswire",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOZzdGdXgzYk9faTktSEFySk5mLTBhY2l4cU9ELVd0N0gwa1pRREVBVU4wcGVzdE80SkFQRzdWTDA2cHRwSi1lTFhtbmgzWTVZb25CNHpTT2oxV1ZLWUFDMTFkb1F0a2NvU21qeUg1ZFowb21DSTEyZklPRjlmYWw3bUNRS19veGd5Q0l5U0FIenQxaHVMSUlZZ3RSQUJ0SHo4bkV2cDM1OGI1RllYa3B1eVNiUXhaelZhc1FiVy1ZWk9QRlpYd05GOWhiZHUwWkVlOVhpYzVLUTlPOFl1VG5PRzhEaWJGUzJpeXZlOURUTDdzQXVPX1NyeFdkTkRGdFQyVkRJYTVTcHVraUVRbjF2bUN3MUJ4NW52anBISDVleC0?oc=5",
+          "domain": "media-outreach.com",
+          "published_at": "2026-09-23T03:40:00+00:00"
+        },
+        {
+          "name": "biospectrumasia.com",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcmhuMVdQZFRLNDYteFg0d1I0a2tUSnBRdmNUVXhxOXBHY1NEeTZnTmhnMVV3LTVkUGU2Mkh4c2NsWG5QUE5uTm1LbTU5TlNZMkpFNjdkSGlJT09CZWJJTFNsS1FydUtPcE1mYXJLNGF3RThzWDJjUW1EeHN4cl95dXBmMkd5LUUyeGxBNXlkLVJTTWh4RE51Ym10UVRTZEVsQ1NhUkRxeXhIWE13cHhYcG5XNFhubGdtUkowWTJGS1RSUEVPLUJRZzlRc1lpa2Q5WU90V3VIcldVNXBUNmNLSE85bE5VQkNQWUVvQmVBU01Ed081Y2t1eTk1M0xUUXVHcXhF?oc=5",
+          "domain": "biospectrumasia.com",
+          "published_at": "2026-09-24T14:04:15+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -11572,10 +11614,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-27T06:17:00+05:30",
-  "next_update_display": "27 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-27T12:17:00+05:30",
+  "next_update_display": "27 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
