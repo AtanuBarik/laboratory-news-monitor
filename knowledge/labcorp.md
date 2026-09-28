@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 28 Sep 2026, 8:01 PM IST
+- **Repository generated:** 29 Sep 2026, 5:01 AM IST
 - **Distinct events in this file:** 156
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -87,7 +87,7 @@
 - **Sources:**
   - BankInfoSecurity: https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1A4ajZsTUlZdXYzVU1YNms2RUhsTnE4enRud1NJMUx5bGQ4aDc1ZFlPRkY2RWFMLS03dTlGenRQaHBySFg2TDl4TDZGbDBaTjRYdHhGaTAxR3lzdnFESzlzQ2ctVmNuYlFlOUVXWVlOYVJVTVF3aDJKMS1QNERQOWJxeUM4TzZuVFlCNmFZdU5kYWNTdEwxdA?oc=5
 
-**Feed description:** LabCorp Pays States $2.2M in Settlement Over AMCA Hack BankInfoSecurity
+**Feed description:** LabCorp Pays States $2.2M in Settlement Over AMCA Hack bankinfosecurity.com
 
 ## 8. USA: Labcorp reaches multistate settlement over 2019 data breach
 
@@ -261,7 +261,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 7
+- **Coverage count:** 9
 - **Official source involved:** No
 - **Sources:**
   - pennwatch.org: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5
@@ -271,6 +271,8 @@
   - Jacksonville Journal-Courier: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5
   - riverbender.com: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSTB1ZjVsNmJZMmw0VHctdXAzT2FUVGl5RjVnTlg4QmlsdDVnRl9KYXliVW91dE5rZGFKZ0pEdFNtUFpEYlNkbmJmcDVZeDRydm1ETXZjMVRTSnRVQ0Z1X0daZXFaWG9XVE5NbmM0NWpUaWduT1Q5NE1jdDlBZkVGaUlqcHBvd216NDA4QkcwSTg3RHJXemlMTkdBRWJSQVlhR0hMS0xKR0xNNHhJT2NNNm5qSnNuUHU0NU5LeTRQWTYzSnBrc0lDRWZSUDlwRFJWdlp0TXRpSG9MdHQ0d1NXdGxERHVlazdwd3BvMDh6UDlDQThPNE1pbTMwdUowUGs?oc=5
   - RiverBender.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejFqbzdUODdSWGV5QUdGWV9pUThFZGxLY2QxdkNfaGVtck8yYng2WjdwZy1XVldsME1qbmV6MEZrYVZ1VVlId2FaaW9PZ3RyT0M4cDVnNXhzTEkySDlLc1lhLVVFT0NlTTRuTVZhQXRvQ0R5S1huYkVZaGRkVEt4Mk1aZXhHM3N6ck1mWkdVOGJ2SWxyRWRXSlBMa2ZzT1d6VEpCQ3Y5ZlJIZw?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVpIOWtITzBwdFdDVVFwdkNsOHdWVkF0RFNQMC1PaVdHUEhEdXhXaF9KTlh5NXlWUm5Bdkp5SC1hWjBzZmVBMEhiWGVoSm5JUFFjSGVoRExPR1RLZER1S3RRY1JrcG14MlJ3OHNVSmRLaHNZT3ljN2MxWFloNm1LS1JPZnpuOEpNSk9PNnhORXlmTVZBS2t3SjNfUGNIQkt5S0lzSDMwdEhDR2ZpSFpMWENLUllCOVlCUmU1aU0tcWNDUGQtNmdveTVpelB0a3drdDBj?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTdzd2Y0aHNmeTVscDVoZFBVb1FWT3BoSEJkUkZ1cENpMzBMSUhBd3Z4SFQwMVNSUDA4NGd6UDQ4Z1VqVGxkWXV6Q2tLaExBOXVjU2hYU0dGaDZJQ0wteU1KQWhXZk80XzEzeXF3aUJENGE4cVZmUlMyXzdlOTFBaU9ESTZaS2hJUEh0YXBxRXRLNFh4WjRURUhoRWFDdGxield6bF92dEpDczB3a05CT0RHQ0hCTFNxSl83RkRLd0FXVEs2YWxuSGhPTkdlUHZn?oc=5
 
 **Feed description:** Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach chadronradio.com
 

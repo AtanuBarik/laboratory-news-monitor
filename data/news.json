@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T20:01:43.983530+05:30",
-  "generated_at_display": "28 Sep 2026, 8:01 PM IST",
+  "generated_at": "2026-09-29T05:01:53.143908+05:30",
+  "generated_at_display": "29 Sep 2026, 5:01 AM IST",
   "item_count": 345,
-  "raw_relevant_item_count": 543,
-  "duplicates_merged": 120,
+  "raw_relevant_item_count": 545,
+  "duplicates_merged": 121,
   "failures": [],
   "items": [
     {
@@ -179,7 +179,7 @@
       "company": "Labcorp",
       "title": "LabCorp Pays States $2.2M in Settlement Over AMCA Hack",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ1A4ajZsTUlZdXYzVU1YNms2RUhsTnE4enRud1NJMUx5bGQ4aDc1ZFlPRkY2RWFMLS03dTlGenRQaHBySFg2TDl4TDZGbDBaTjRYdHhGaTAxR3lzdnFESzlzQ2ctVmNuYlFlOUVXWVlOYVJVTVF3aDJKMS1QNERQOWJxeUM4TzZuVFlCNmFZdU5kYWNTdEwxdA?oc=5",
-      "description": "LabCorp Pays States $2.2M in Settlement Over AMCA Hack BankInfoSecurity",
+      "description": "LabCorp Pays States $2.2M in Settlement Over AMCA Hack bankinfosecurity.com",
       "source": "BankInfoSecurity",
       "source_url": "https://www.bankinfosecurity.com",
       "source_domain": "bankinfosecurity.com",
@@ -697,9 +697,21 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejFqbzdUODdSWGV5QUdGWV9pUThFZGxLY2QxdkNfaGVtck8yYng2WjdwZy1XVldsME1qbmV6MEZrYVZ1VVlId2FaaW9PZ3RyT0M4cDVnNXhzTEkySDlLc1lhLVVFT0NlTTRuTVZhQXRvQ0R5S1huYkVZaGRkVEt4Mk1aZXhHM3N6ck1mWkdVOGJ2SWxyRWRXSlBMa2ZzT1d6VEpCQ3Y5ZlJIZw?oc=5",
           "domain": "m.riverbender.com",
           "published_at": "2026-09-27T13:30:00+00:00"
+        },
+        {
+          "name": "Rural Radio Network",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVpIOWtITzBwdFdDVVFwdkNsOHdWVkF0RFNQMC1PaVdHUEhEdXhXaF9KTlh5NXlWUm5Bdkp5SC1hWjBzZmVBMEhiWGVoSm5JUFFjSGVoRExPR1RLZER1S3RRY1JrcG14MlJ3OHNVSmRLaHNZT3ljN2MxWFloNm1LS1JPZnpuOEpNSk9PNnhORXlmTVZBS2t3SjNfUGNIQkt5S0lzSDMwdEhDR2ZpSFpMWENLUllCOVlCUmU1aU0tcWNDUGQtNmdveTVpelB0a3drdDBj?oc=5",
+          "domain": "ruralradio.com",
+          "published_at": "2026-09-28T19:36:04+00:00"
+        },
+        {
+          "name": "Rural Radio Network",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTdzd2Y0aHNmeTVscDVoZFBVb1FWT3BoSEJkUkZ1cENpMzBMSUhBd3Z4SFQwMVNSUDA4NGd6UDQ4Z1VqVGxkWXV6Q2tLaExBOXVjU2hYU0dGaDZJQ0wteU1KQWhXZk80XzEzeXF3aUJENGE4cVZmUlMyXzdlOTFBaU9ESTZaS2hJUEh0YXBxRXRLNFh4WjRURUhoRWFDdGxield6bF92dEpDczB3a05CT0RHQ0hCTFNxSl83RkRLd0FXVEs2YWxuSGhPTkdlUHZn?oc=5",
+          "domain": "ruralradio.com",
+          "published_at": "2026-09-28T22:44:49+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 9,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -11692,10 +11704,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 78,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-29T00:17:00+05:30",
-  "next_update_display": "29 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-29T06:17:00+05:30",
+  "next_update_display": "29 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
