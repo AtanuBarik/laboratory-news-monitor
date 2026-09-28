@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-28T03:08:30.443289+05:30",
-  "generated_at_display": "28 Sep 2026, 3:08 AM IST",
-  "item_count": 342,
-  "raw_relevant_item_count": 538,
-  "duplicates_merged": 120,
+  "generated_at": "2026-09-28T11:24:59.259156+05:30",
+  "generated_at_display": "28 Sep 2026, 11:24 AM IST",
+  "item_count": 343,
+  "raw_relevant_item_count": 539,
+  "duplicates_merged": 121,
   "failures": [],
   "items": [
+    {
+      "id": "205b71dea2e8996218cc",
+      "company": "Labcorp",
+      "title": "Pennsylvania part of multistate settlement with Labcorp following 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5",
+      "description": "Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com",
+      "source": "wpxi.com",
+      "source_url": "https://www.wpxi.com",
+      "source_domain": "wpxi.com",
+      "published_at": "2026-09-28T01:01:00+00:00",
+      "published_display": "28 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "wpxi.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5",
+          "domain": "wpxi.com",
+          "published_at": "2026-09-28T01:01:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2019 breach data following multistate part pennsylvania settlement"
+    },
     {
       "id": "2663cdccf5f83619f412",
       "company": "Labcorp",
@@ -205,9 +229,15 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlgyckZwaGdlYjhTeDg0eGFHajZzTGwtZC0yY1haRWlOS01HckhNTThYcU4tTlRWd0NESFpVY0tZN2p0ay0xVmJ1Y1JsTTRLbVhtZ1lpWmZzRUFIUjhKLXROR1V6OW9qWlJET1FlYUtkSy0wNmt5emRGcU0tVFltbVRaT3FJOGRYS2JPVTlLQU9lY29pY0ZDVlNiQWNTM3VUdENaNWlnWW9JTl9jaHA2QUFveEZUODBZ?oc=5",
           "domain": "es.tradingview.com",
           "published_at": "2026-09-25T11:14:00+00:00"
+        },
+        {
+          "name": "Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalpnbTZCMHdoNHVYRTh6SUJBb0wzd1Rtc2ZvbUNyeURES3hoeWliT2hXMlNZMU5aQkRIQzZwV0t1RU1lMVpsemRBSVY4NWNQb2NyZEV3UmdLWnBmTm5KVjgwZWMycWdyUW5LSGIxSGt5MjBtdC14TnRfaFFQbmYtZXA0QkFHSWM4MXVrMFpVSzN3azhaU1hXNDdZdEtDemw5R1Q0ZHRvMmRmdHltUEE3aTRSUXExM2VKZDkwNjJzN1J6djFCX1RWaUw4a21KMTJ0NU13cUpaRGhmWFE?oc=5",
+          "domain": "easternprogress.com",
+          "published_at": "2026-09-25T11:14:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "behind gains rally stock what ytd"
     },
     {
@@ -1051,9 +1081,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZlBtTG93VXdla0oyaE1HZkhLdFBJc3JSMlBxYjFGWDdCbjlHUFY3ZXdhTV9GX2lReHFNY2RPWDE5Y2p5ek5YaE93VjBUZnJrYkZiUWVYejFHc0RDTExhdFVLeTdLd0I1NGtiYlpPVTRPa2lYdXc4bUM0VUY0TTFDMmdMTUNVU3plWHBpWWZyM1lKZDNZSDcwQ2thNGRNeklxYTdWZFdZM0ZoZE1KLWlWcTBHc3BKRC14cVREWjhFMjVoMW5YbU90Y1kxT3BVMTFESUlaYlhzWnItZ1pFazUwNHhDbFdzcVlKNmQtYw?oc=5",
           "domain": "marketwatch.com",
           "published_at": "2026-09-22T20:58:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY043RE5qVmZCQXZ4TVpRWm9OYXY3enhmaXpwVk4zNTMyRDMySi0zRXpqalNfa1MzTkVzN2ZySnJGbXVaby1WaUwzeU1SaTFzTFZQUHFjUTF2N3N5OHJjcEJQcDM4QklZNFNHRmdtQmtIV2dtYUVaTS1NV0pjSjJFYVJnV3F4TzdrUTBBV1dvUlhWVm1OWEdQNnFzdjIxRFpDYlJxQVVkdG1DZW1SZ05LTDBiQmk4WFVFNDRkUDBGVm5ReDUwQ3VIalBLWTB2MjE0ajdlWg?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-22T20:58:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "compared competitors stock tuesday underperforms when"
     },
     {
@@ -11608,10 +11644,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-28T06:17:00+05:30",
-  "next_update_display": "28 Sep 2026, 6:17 AM IST",
+  "next_update_at": "2026-09-28T12:17:00+05:30",
+  "next_update_display": "28 Sep 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

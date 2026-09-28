@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T04:02:05.473285+05:30",
-  "generated_at_display": "28 Sep 2026, 4:02 AM IST",
+  "generated_at": "2026-09-28T11:25:02.846204+05:30",
+  "generated_at_display": "28 Sep 2026, 11:25 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 230,
+  "remaining_unsummarized_count": 231,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -490,7 +490,7 @@
       "published_at": "2026-09-25T11:14:00+00:00",
       "published_display": "25 Sep 2026",
       "official_source": false,
-      "coverage_count": 3,
+      "coverage_count": 4,
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
       "sources": [
         {
@@ -504,6 +504,10 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlgyckZwaGdlYjhTeDg0eGFHajZzTGwtZC0yY1haRWlOS01HckhNTThYcU4tTlRWd0NESFpVY0tZN2p0ay0xVmJ1Y1JsTTRLbVhtZ1lpWmZzRUFIUjhKLXROR1V6OW9qWlJET1FlYUtkSy0wNmt5emRGcU0tVFltbVRaT3FJOGRYS2JPVTlLQU9lY29pY0ZDVlNiQWNTM3VUdENaNWlnWW9JTl9jaHA2QUFveEZUODBZ?oc=5"
+        },
+        {
+          "name": "Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalpnbTZCMHdoNHVYRTh6SUJBb0wzd1Rtc2ZvbUNyeURES3hoeWliT2hXMlNZMU5aQkRIQzZwV0t1RU1lMVpsemRBSVY4NWNQb2NyZEV3UmdLWnBmTm5KVjgwZWMycWdyUW5LSGIxSGt5MjBtdC14TnRfaFFQbmYtZXA0QkFHSWM4MXVrMFpVSzN3azhaU1hXNDdZdEtDemw5R1Q0ZHRvMmRmdHltUEE3aTRSUXExM2VKZDkwNjJzN1J6djFCX1RWaUw4a21KMTJ0NU13cUpaRGhmWFE?oc=5"
         }
       ]
     },
