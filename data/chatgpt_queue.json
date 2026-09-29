@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-29T19:48:42.168644+05:30",
-  "generated_at_display": "29 Sep 2026, 7:48 PM IST",
+  "generated_at": "2026-09-30T04:09:24.277188+05:30",
+  "generated_at_display": "30 Sep 2026, 4:09 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 236,
+  "remaining_unsummarized_count": 238,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "b7a70c830d22d6981dbf",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd",
+      "source": "TradingView",
+      "description": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView",
+      "published_at": "2026-09-29T16:51:09+00:00",
+      "published_display": "29 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "812912acf9a32780ee20",
       "company": "Labcorp",
@@ -481,18 +500,22 @@
       ]
     },
     {
-      "id": "a08730d9ddda2bd4c270",
+      "id": "e342c6a5d91090b34bd1",
       "company": "Labcorp",
       "category": "Clinical, R&D",
       "title": "Is This the Right Time to Add Labcorp Stock to Your Portfolio?",
-      "source": "Zacks Investment Research",
+      "source": "finance.yahoo.com",
       "description": "Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research",
-      "published_at": "2026-09-29T13:04:14+00:00",
+      "published_at": "2026-09-29T11:44:00+00:00",
       "published_display": "29 Sep 2026",
       "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
       "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5"
@@ -688,25 +711,6 @@
         {
           "name": "Clinical Lab Products",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fdbcfbe8cc5bac321180",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp Announces Enhanced Global Trial Connect Platform for Sponsors, Investigator Sites",
-      "source": "marketscreener.com",
-      "description": "Labcorp Announces Enhanced Global Trial Connect Platform for Sponsors, Investigator Sites marketscreener.com",
-      "published_at": "2026-08-31T11:59:45+00:00",
-      "published_display": "31 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtmQmlsN3pYLVRkU1pBcnFYMVYzN0RTbDRDWmM0NDVSS08tdE9PeHh3QjFkVm9nTVg0Mzh6Y2h0QzdKeWRsaDI1VXc2blZXNC1yUUtrclhnM1JDZGhuQVdyQWtFdS1BWThMQjhSMWp3Tm9SSS1DMlRpR2JSNm9yRnd1dzlldWxYcXBBMjU1di15d2RxUUFWN3BsSkNnZDdOMks4MDBvSHMwc0FNNVY0UDVHTmVvMUF3Q29LWUZweHVnOTNoSU1mUnNWQWh3WnJBVmRia1JmQTU?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVEtmQmlsN3pYLVRkU1pBcnFYMVYzN0RTbDRDWmM0NDVSS08tdE9PeHh3QjFkVm9nTVg0Mzh6Y2h0QzdKeWRsaDI1VXc2blZXNC1yUUtrclhnM1JDZGhuQVdyQWtFdS1BWThMQjhSMWp3Tm9SSS1DMlRpR2JSNm9yRnd1dzlldWxYcXBBMjU1di15d2RxUUFWN3BsSkNnZDdOMks4MDBvSHMwc0FNNVY0UDVHTmVvMUF3Q29LWUZweHVnOTNoSU1mUnNWQWh3WnJBVmRia1JmQTU?oc=5"
         }
       ]
     }

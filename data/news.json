@@ -1,41 +1,65 @@
 {
-  "generated_at": "2026-09-29T18:51:08.293717+05:30",
-  "generated_at_display": "29 Sep 2026, 6:51 PM IST",
-  "item_count": 348,
-  "raw_relevant_item_count": 542,
-  "duplicates_merged": 113,
+  "generated_at": "2026-09-30T04:09:20.618412+05:30",
+  "generated_at_display": "30 Sep 2026, 4:09 AM IST",
+  "item_count": 350,
+  "raw_relevant_item_count": 546,
+  "duplicates_merged": 112,
   "failures": [],
   "items": [
     {
-      "id": "a08730d9ddda2bd4c270",
-      "company": "Labcorp",
-      "title": "Is This the Right Time to Add Labcorp Stock to Your Portfolio?",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5",
-      "description": "Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-09-29T13:04:14+00:00",
+      "id": "b7a70c830d22d6981dbf",
+      "company": "Quest Diagnostics",
+      "title": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
+      "description": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-29T16:51:09+00:00",
       "published_display": "29 Sep 2026",
-      "category": "Clinical, R&D",
+      "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
         {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-09-29T13:04:14+00:00"
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-29T16:51:09+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "add portfolio right stock this time your"
+      "event_signature": "dkd enables gains kidneyintelx margin national partnership reach renx"
+    },
+    {
+      "id": "3849294c79045aab93dd",
+      "company": "Labcorp",
+      "title": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
+      "description": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans Alaska Native News",
+      "source": "Alaska Native News",
+      "source_url": "https://alaska-native-news.com",
+      "source_domain": "alaska-native-news.com",
+      "published_at": "2026-09-29T14:03:04+00:00",
+      "published_display": "29 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Alaska Native News",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
+          "domain": "alaska-native-news.com",
+          "published_at": "2026-09-29T14:03:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acting affected alaskans attorney breach cori data general mills over personal settlement that"
     },
     {
       "id": "49fcc7ae7a7315ce462a",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock heads toward October 22 results",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3BsRW54Y3VWUHdtRzFpeHpnU0RBNTJRM3RCYW5MODN5eTkyTThERGtteDNDX1lKajhZTGx4S0xwMkR0SGFEcHNReC1DMGU0R01MMzdsd2NPREE2bkFkNEs2eWRrWjFSTE1qdGRES2s4RTdzcDA3dWpYN0pHd2hUUWlHOWc1X1hKUGdlcXVSX3ZuSnZPc3ZzVWVMdDBuS2dUSGYtNWQzc0Y5Y04zUlhnVG5lVWs1ckotSWc?oc=5",
-      "description": "Quest Diagnostics stock heads toward October 22 results AD HOC NEWS",
+      "description": "Quest Diagnostics stock heads toward October 22 results ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -53,6 +77,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "heads october results stock toward"
+    },
+    {
+      "id": "e342c6a5d91090b34bd1",
+      "company": "Labcorp",
+      "title": "Is This the Right Time to Add Labcorp Stock to Your Portfolio?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
+      "description": "Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research",
+      "source": "finance.yahoo.com",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-29T11:44:00+00:00",
+      "published_display": "29 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-29T11:44:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-29T13:04:14+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "add portfolio right stock this time your"
     },
     {
       "id": "b154d1018209a32143b0",
@@ -83,7 +137,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock draws a USD 260.00 target after earnings",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ193Q3puWkxFdlZDNzVGVElaYkxsYmNsa1paZkZJYjd3ZkpNN3BiX1RYalZUd204ZnMyVDJEOTVnQVgyQjJCN0Ffdnp3N0s5N09zazR4Wk0zRFpLbFk5S05CQ3NzbFVpNHVMd0JjT0RBZzEwZ1c2eDJVSDFBbkRyWFhyQXJ4RjV2aEhyN0MxNEVqdUZtQzRFaUxmcklkM0NlVlB4aHUtWjR2ZFRtYVl5MncwMUtGTU14SDRKRzBJejNpTV9sTkE?oc=5",
-      "description": "Quest Diagnostics stock draws a USD 260.00 target after earnings AD HOC NEWS",
+      "description": "Quest Diagnostics stock draws a USD 260.00 target after earnings ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -371,7 +425,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock gains 1.48 percent after Truist raises target",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
-      "description": "Quest Diagnostics stock gains 1.48 percent after Truist raises target AD HOC NEWS",
+      "description": "Quest Diagnostics stock gains 1.48 percent after Truist raises target ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -799,9 +853,15 @@
           "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2JrcDRzVWdIMHI1aG5Wa242WTN2RnMtSkl5aG1ZSkNYaHZQbjY2MDFBellpNTRicFdqYkxsaUV3ZHBJUTYzT0d3Z0IyRG9LTjlOUDhyUDEzWW1Rci14RDdjeC1sbHRPeUp1MXJDTkhXbGFfc0ZpVW1lLUt4YXNwMlpvME4zOVFTWVRVTmlrZ0RXUHBXbU9jckd0bnEtYjEza0pqZmJyaXFMRnlFVUVodXZISGpBTHhSYVVtQ3ZWZUZheTFaWmdfNThHT0o5NktHMTBIaQ?oc=5",
           "domain": "ruralradio.com",
           "published_at": "2026-09-28T22:48:49+00:00"
+        },
+        {
+          "name": "Coastal Point",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJtblFiS0JiR3duNGZyLTFWbi1pVEF3cG9OWFEyRVZwRkNVcW9SYzVoRmhSM0lmbzhJeFRkdHR3MElfcURrbWl4bDdlUjJVTE8tSXpMX2pGbDVBQWFtSW96d3dMYTdVdHpXOUVMeHI2SXdrZkd0WmZTTWdlU09VdHNxNndCajJ5MXlqUHJnSUNNS3ZrUF9rY0VCWWMtTVBYRURLTllxc3ZSWFJNVEs5R3Jhc05jTUtmTERJaVhvZFVidUdIYjRvSEh3eXE1ZDBqbTZlWXAybnZELURnZHdFc0ZOTQ?oc=5",
+          "domain": "coastalpoint.com",
+          "published_at": "2026-09-29T20:54:00+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
@@ -809,7 +869,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock reports growth as reimbursement risk rises",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTG1kejdxQU1LaWJVTU9fbEswOVJBdFUzWWhJVHVicUIyUXZkVDNBX05rU3ROc09FamdkZmljV1hpSFduUHFvWFdfSFk1N3RfQUpUMEVDeC1ZWmZyVzJCc2t6Wm9GR2FoQUlfc1dyYk9vSkFxZDVQMUNOZGllYTdBdEk0UUU4SjZ4MmpCR05fUmU1eWNYbEd2UVBYU2RHVEh5WmpSVC1laHlETTM0bm5KME4xTGdqUGc5aVRoMjRuRzRvRU9RNXJFWA?oc=5",
-      "description": "Quest Diagnostics stock reports growth as reimbursement risk rises AD HOC NEWS",
+      "description": "Quest Diagnostics stock reports growth as reimbursement risk rises ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -3067,9 +3127,15 @@
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVZ4dzMzZGYtN0ZtTTlCMV8xendlNkxXaEpsNWJwT090TjZTTUZzRV9UbktQU19kNUExZmhDNHhpbHJYS1IwMVhvdmxvUWs2bXVNeE1MSDhPeVZJTXVEUFkzX1lJa21EcVI0UEFzS0p5RUZaX05IYnpZbnF6WmE1blZINDZ4ZURnYXlKMjY4SlZvVEhXTFdsMFc2RUFqSWpQekV6UHctdDRfUHpvXzcwdUhaR1BhWHpFbklacUlMR3Nmbm9rY0hJS1ZpSQ?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-09-09T20:01:00+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWgzeDNZTDNNQ0M0TF9fc2lpTk1jTXRSOTlyaW5jcm1hdUhJc1FzVGw0UEZVTS1Nc2dpaEZfcFJJbFMtNjJMUlJZTGY4NFhaTU5vTW9tc0N2aktHa3pkM3JCaExSTThWbUNsZDVuTjVXUW5GVm96VTYyM0FIRFA1Y21qbmYtSDBNb3U0NWo2dEcxdw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-09T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "able app apple health labs order users"
     },
     {
@@ -11806,10 +11872,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 83,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-30T00:17:00+05:30",
-  "next_update_display": "30 Sep 2026, 12:17 AM IST",
+  "next_update_at": "2026-09-30T06:17:00+05:30",
+  "next_update_display": "30 Sep 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
