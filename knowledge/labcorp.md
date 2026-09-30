@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 30 Sep 2026, 6:31 PM IST
+- **Repository generated:** 01 Oct 2026, 4:08 AM IST
 - **Distinct events in this file:** 159
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -60,10 +60,12 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - wpxi.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5
+  - Yahoo: https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUgtRk1LQ0pLVzdKbFlVT1ZtTmIxWl9SS0dncDFlU2k0bFU3eXNKNlVFc2d1NG5XdmFLTkVaN0pQSFFiWFNXQVFoUGJrYW5ZamludXZ6WDVrQkZINWJsUVlsVTUxMzRvcEtLRXdqd3hXa1haa3ZSNmZUU0p4VDg5ODRPTnNRZ3NOYTZ0aml4WE1VR3h2SEQ0NWV1TE54R05STDNB?oc=5
+  - WPXI: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNODVDNm5PM1ZfU1lITFBYTXNrMENWVF9peG9ETW1DWnpmRkp2TUtoSnZfb0lVU3FLdFhNZVltd0lSa2h0WmRwZWhoWjZCcVVJbGxmUUw2M1BKT3FaUkZGT1E4NG1HcTdoV21rYXF1bWJSeE05RTdWa2ZzaEVhc25nbVJnWWk5anc0a2t2S2tDQXRhSzlFQ1J4WHBWc2ItaFVkaFktNVBKOUxIYUNhay1OZXA2X25waTFySndsUmJxcEhPWmw0UVg0X05tYkxiS2o4cUt5T2N5QkQ5Z2VYbGFPd2sxMkFHekZlUlHSAeoBQVVfeXFMTTg1QzZuTzNWX1NZSExQWE1zazBDVlRfaXhvRE1tQ1p6ZkZKdk1LaEp2X29JVVNxS3RYTWVZbXdJUmtodFpkcGVoaFo2QnFVSWxsZlFMNjNQSk9xWlJGRk9RODRtR3E3aFdta2FxdW1iUnhNOUU3Vmtmc2hFYXNuZ21SZ1lpOWp3NGtrdktrQ0F0YUs5RUNSeFhwVnNiLWhVZGhZLTVQSjlMSGFDYWstTmVwNl9ucGkxckp3bFJicXBIT1psNFFYNF9ObWJMYktqOHFLeU9jeUJEOWdlWGxhT3drMTJBR3pGZVJR?oc=5
 
 **Feed description:** Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com
 
@@ -376,7 +378,32 @@
 
 **Feed description:** Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha
 
-## 29. Labcorp Reaffirms Long-Term Earnings Outlook
+## 29. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
+
+- **Company:** Labcorp
+- **Publication date:** 22 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5
+
+**Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
+
+## 30. Labcorp $6.1 Million Data Breach Class Action Settlement
+
+- **Company:** Labcorp
+- **Publication date:** 22 Sep 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Claim Depot: https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRVFqYU00OW1NV1poRjBXb1ZiWEhmR2x4OWxZSklIenZkRnhZMXE4N3dSZzJfRVRJMnBMOXQ4Vll4dEswd2lTZzFXT2tnMTZ1bXEtX3RRZUl3OVBHX21ZOEFlSUZwX2JKOXc?oc=5
+  - WKTV: https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXAtbEU2dGhZZFBJZDRqSVRnZFlQVF8tU2NTaFg3TmlnVEF3NUxWTVVpTkZnZzVRNDltTnd6N3hmVEZhMG05ZVVZT0RWRUx0NlJlR1h2NlhORGxHaGNIc3JINUQ5emgwNGdid0V3clR6enczckl4Y0l6VVYta0xMdmZXU2NCdHRzRHBrUUtEQzdYZDZMZHItdnRVWWdfUHljWlJMbWRHaDRjaE5xQmZoQzV3?oc=5
+
+**Feed description:** Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot
+
+## 31. Labcorp Reaffirms Long-Term Earnings Outlook
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -389,31 +416,6 @@
   - Moomoo: https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTBxWTBILW1nM0FnOUZRSmhZMXJtX1pualNmSTNvdkxLUjUxdlhsRGQ5ZFlDSUtxQWdTRnFZWDFqUlVmZ0dFZnpUTUhYS0VFVkVNNUhDSVV0RHdQNkFtVVljX2dQUDI2UGlTZ3l2ZEN3VFZ4cW1WQl9GS1V6S2Zudms4ZHhVaEsxX1BhZm5kVHRQZw?oc=5
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
-
-## 30. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
-
-- **Company:** Labcorp
-- **Publication date:** 22 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5
-
-**Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
-
-## 31. Labcorp $6.1 Million Data Breach Class Action Settlement
-
-- **Company:** Labcorp
-- **Publication date:** 22 Sep 2026
-- **Category:** Other
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Claim Depot: https://news.google.com/rss/articles/CBMiakFVX3lxTE5hRVFqYU00OW1NV1poRjBXb1ZiWEhmR2x4OWxZSklIenZkRnhZMXE4N3dSZzJfRVRJMnBMOXQ4Vll4dEswd2lTZzFXT2tnMTZ1bXEtX3RRZUl3OVBHX21ZOEFlSUZwX2JKOXc?oc=5
-  - WKTV: https://news.google.com/rss/articles/CBMisgFBVV95cUxOeXAtbEU2dGhZZFBJZDRqSVRnZFlQVF8tU2NTaFg3TmlnVEF3NUxWTVVpTkZnZzVRNDltTnd6N3hmVEZhMG05ZVVZT0RWRUx0NlJlR1h2NlhORGxHaGNIc3JINUQ5emgwNGdid0V3clR6enczckl4Y0l6VVYta0xMdmZXU2NCdHRzRHBrUUtEQzdYZDZMZHItdnRVWWdfUHljWlJMbWRHaDRjaE5xQmZoQzV3?oc=5
-
-**Feed description:** Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot
 
 ## 32. Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)
 

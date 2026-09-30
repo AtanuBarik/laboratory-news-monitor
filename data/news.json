@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-09-30T18:31:47.105084+05:30",
-  "generated_at_display": "30 Sep 2026, 6:31 PM IST",
-  "item_count": 352,
-  "raw_relevant_item_count": 550,
-  "duplicates_merged": 112,
+  "generated_at": "2026-10-01T04:08:37.587388+05:30",
+  "generated_at_display": "01 Oct 2026, 4:08 AM IST",
+  "item_count": 354,
+  "raw_relevant_item_count": 552,
+  "duplicates_merged": 114,
   "failures": [],
   "items": [
+    {
+      "id": "d01b7ce2b879aa1bda5e",
+      "company": "Quest Diagnostics",
+      "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
+      "description": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-30T13:00:00+00:00",
+      "published_display": "30 Sep 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-30T13:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "athletes becomes ecgs first florida heart high launch myelai play program require school screening state tampa who"
+    },
     {
       "id": "be158d51ad2b16db6dd1",
       "company": "Labcorp",
@@ -35,6 +59,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "2026 announce financial october quarter results third"
+    },
+    {
+      "id": "8f2b8619985e71692714",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFVSS3ROeVFLbHR5MUJjWmhxaXJDWGJ4c2lQUG5mbzZrU0toaDVkaGZ0VHNiTmx2ZVlYX2hCbXFnWXdSUkgybEZvMFRqX1k4aURJNGVfY3NhRFRCaTlIWFJXQVhCSUVOeHk5aGYxVUhyWUVRRnpPcUw1NUVfSEt0TjVLMFFISGEzQ1NFaDd6bTcwWFlSRGR3SmVNV0FGUTU2Qzd1aGtJRjg3dHl4bXhMWWZNek9WMEZ5eVp2cEhFa0xGbXpDYTh3M0F4Z2JvYWRXV0RXTTdLVjV3dVJZQzFoVW90OFdNOVBFNGhySw?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-09-29T21:00:00+00:00",
+      "published_display": "29 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFVSS3ROeVFLbHR5MUJjWmhxaXJDWGJ4c2lQUG5mbzZrU0toaDVkaGZ0VHNiTmx2ZVlYX2hCbXFnWXdSUkgybEZvMFRqX1k4aURJNGVfY3NhRFRCaTlIWFJXQVhCSUVOeHk5aGYxVUhyWUVRRnpPcUw1NUVfSEt0TjVLMFFISGEzQ1NFaDd6bTcwWFlSRGR3SmVNV0FGUTU2Qzd1aGtJRjg3dHl4bXhMWWZNek9WMEZ5eVp2cEhFa0xGbXpDYTh3M0F4Z2JvYWRXV0RXTTdLVjV3dVJZQzFoVW90OFdNOVBFNGhySw?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-09-29T21:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors stock tuesday underperforms when"
     },
     {
       "id": "3896f4f36281f8127f6a",
@@ -229,9 +277,21 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5",
           "domain": "wpxi.com",
           "published_at": "2026-09-28T01:01:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUgtRk1LQ0pLVzdKbFlVT1ZtTmIxWl9SS0dncDFlU2k0bFU3eXNKNlVFc2d1NG5XdmFLTkVaN0pQSFFiWFNXQVFoUGJrYW5ZamludXZ6WDVrQkZINWJsUVlsVTUxMzRvcEtLRXdqd3hXa1haa3ZSNmZUU0p4VDg5ODRPTnNRZ3NOYTZ0aml4WE1VR3h2SEQ0NWV1TE54R05STDNB?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-09-28T01:01:00+00:00"
+        },
+        {
+          "name": "WPXI",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNODVDNm5PM1ZfU1lITFBYTXNrMENWVF9peG9ETW1DWnpmRkp2TUtoSnZfb0lVU3FLdFhNZVltd0lSa2h0WmRwZWhoWjZCcVVJbGxmUUw2M1BKT3FaUkZGT1E4NG1HcTdoV21rYXF1bWJSeE05RTdWa2ZzaEVhc25nbVJnWWk5anc0a2t2S2tDQXRhSzlFQ1J4WHBWc2ItaFVkaFktNVBKOUxIYUNhay1OZXA2X25waTFySndsUmJxcEhPWmw0UVg0X05tYkxiS2o4cUt5T2N5QkQ5Z2VYbGFPd2sxMkFHekZlUlHSAeoBQVVfeXFMTTg1QzZuTzNWX1NZSExQWE1zazBDVlRfaXhvRE1tQ1p6ZkZKdk1LaEp2X29JVVNxS3RYTWVZbXdJUmtodFpkcGVoaFo2QnFVSWxsZlFMNjNQSk9xWlJGRk9RODRtR3E3aFdta2FxdW1iUnhNOUU3Vmtmc2hFYXNuZ21SZ1lpOWp3NGtrdktrQ0F0YUs5RUNSeFhwVnNiLWhVZGhZLTVQSjlMSGFDYWstTmVwNl9ucGkxckp3bFJicXBIT1psNFFYNF9ObWJMYktqOHFLeU9jeUJEOWdlWGxhT3drMTJBR3pGZVJR?oc=5",
+          "domain": "wpxi.com",
+          "published_at": "2026-09-28T01:01:25+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 3,
       "event_signature": "2019 breach data following multistate part pennsylvania settlement"
     },
     {
@@ -1231,9 +1291,15 @@
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcmhuMVdQZFRLNDYteFg0d1I0a2tUSnBRdmNUVXhxOXBHY1NEeTZnTmhnMVV3LTVkUGU2Mkh4c2NsWG5QUE5uTm1LbTU5TlNZMkpFNjdkSGlJT09CZWJJTFNsS1FydUtPcE1mYXJLNGF3RThzWDJjUW1EeHN4cl95dXBmMkd5LUUyeGxBNXlkLVJTTWh4RE51Ym10UVRTZEVsQ1NhUkRxeXhIWE13cHhYcG5XNFhubGdtUkowWTJGS1RSUEVPLUJRZzlRc1lpa2Q5WU90V3VIcldVNXBUNmNLSE85bE5VQkNQWUVvQmVBU01Ed081Y2t1eTk1M0xUUXVHcXhF?oc=5",
           "domain": "biospectrumasia.com",
           "published_at": "2026-09-24T14:04:15+00:00"
+        },
+        {
+          "name": "BioSpectrum Asia",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRpQmJzNXNXMnU0bmFzeW95UzQ4WHM2Vi15UDFtVU5xRE5LRHRmNFhYcUVZRzZoOFE4T3AxajVBZVF1ZFhJVEJDeG5YelRCZW0wWnQxekJBcFl6enlLd2FXdVIwbXNvc1IzRG9oVm9rd3otZ2UwdVVxQmZETDZfTUVpS3JEb2Z2Y0FTVU9WZ3BYQjBsZnRxeS0xQldwU3ZoLWs3dkFweW5sc0RWdy0wSXMtS09TQkVLaEJxUTJRYzlTSXFEU3ZKMXJjLWFPOUcyZlExTE4tU2dReFdCVDJfRmxn?oc=5",
+          "domain": "biospectrumasia.com",
+          "published_at": "2026-09-25T07:39:47+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -1283,42 +1349,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "clinical cuts demand despite driven future impact medicare testing"
-    },
-    {
-      "id": "bcfa317b222afa4c8330",
-      "company": "Labcorp",
-      "title": "Labcorp Reaffirms Long-Term Earnings Outlook",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5",
-      "description": "Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-22T21:37:26+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-22T21:37:26+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-09-22T21:38:19+00:00"
-        },
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTBxWTBILW1nM0FnOUZRSmhZMXJtX1pualNmSTNvdkxLUjUxdlhsRGQ5ZFlDSUtxQWdTRnFZWDFqUlVmZ0dFZnpUTUhYS0VFVkVNNUhDSVV0RHdQNkFtVVljX2dQUDI2UGlTZ3l2ZEN3VFZ4cW1WQl9GS1V6S2Zudms4ZHhVaEsxX1BhZm5kVHRQZw?oc=5",
-          "domain": "moomoo.com",
-          "published_at": "2026-09-23T20:51:37+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "earnings long outlook reaffirms term"
     },
     {
       "id": "0807c85a76b15a295cc0",
@@ -1463,6 +1493,42 @@
       ],
       "coverage_count": 1,
       "event_signature": "alibaba biggest gamestop holding making more moves premarket stocks"
+    },
+    {
+      "id": "bcfa317b222afa4c8330",
+      "company": "Labcorp",
+      "title": "Labcorp Reaffirms Long-Term Earnings Outlook",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5",
+      "description": "Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ0pubkc3ZDQydVNhb0RUbGxIOWRzeEZXNlR0NXJhdHRISjgzOFM1ZjhLUGpvRUphY3RtMEEtRmYxWE1NWUU4RzJ5RGxqMXh4S1U2VEphbFAtM045SFVveGt4NUw1Znh2bHV6U3l0VXNoYk0zLUJiU29qLTZuZjFjLU9remN4elZDUWNJOGFwXzMtb0ZOZ3luZXFGdkJHZw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcjFyUUxHN29tQldKOGdqSHlIZjlnenhIbWpLdWVHV0djMklHd2xfeC1hN05aRlNzcFpRNFp5amQ3dVAxb0EycjFCMWtFdkw1dTN4dUFGWXVKSnJHTTJDNkVyZVhXejNwakJ1YVFRUV9PSGZqSkE5aWdUS2tSWWpDSXVGbGN6WDlHY0xhcXlpTkRlNWhGdk9aUWVKRHluZw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-22T21:38:19+00:00"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdTBxWTBILW1nM0FnOUZRSmhZMXJtX1pualNmSTNvdkxLUjUxdlhsRGQ5ZFlDSUtxQWdTRnFZWDFqUlVmZ0dFZnpUTUhYS0VFVkVNNUhDSVV0RHdQNkFtVVljX2dQUDI2UGlTZ3l2ZEN3VFZ4cW1WQl9GS1V6S2Zudms4ZHhVaEsxX1BhZm5kVHRQZw?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-09-23T20:51:37+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "earnings long outlook reaffirms term"
     },
     {
       "id": "7b39da611e35474f17ea",
@@ -2143,42 +2209,6 @@
       "event_signature": "stock today why"
     },
     {
-      "id": "1837e9e1ce3225f216c2",
-      "company": "Mayo Clinic Laboratories",
-      "title": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5",
-      "description": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis The Joplin Globe",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "source_domain": "businesswire.com",
-      "published_at": "2026-09-15T11:00:00+00:00",
-      "published_display": "15 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5",
-          "domain": "businesswire.com",
-          "published_at": "2026-09-15T11:00:00+00:00"
-        },
-        {
-          "name": "The Joplin Globe",
-          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORmpJMFdEQ3kyR01FXzVPNG93dDZVWGxSVTB5OFBxTXhPcThONi0wQm1CQ1NfYVBvekVqTG1Bemd4U3B1RlRyLTM1aEdPLU82dGxzbjgtUnFRWXZuTnBmUXVzdDRodE1CNGhhcTdxLW1IYktjUEVyLUh4X18weTBKa01Iei1pNldYd2pBUmx2LUtCQk82eloxbmt6QU1iazNfRmg0b0ltY1AxMjRkX2hDd0VnYVY3Y0d1LWFlbFd5ZHNwY0ZLdVRtSXBaU0hwcjYwUkJNMEs1LWRUYnUxZmRrN0Z4ZThxQ0tUVEROZEQzckdNSFVsdlM2dXBWQVNpQmNuRHJMRW5ZWk9PMXdBV1dIQ1gycXR5OVdqWng4RUVoeFc2WWs0TE1aRg?oc=5",
-          "domain": "joplinglobe.com",
-          "published_at": "2026-09-15T11:02:39+00:00"
-        },
-        {
-          "name": "BioSpace",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblJnUFlKTUFUWEh5LUg5aGprc0lMcVBITFU4dDR3eUI5bWh2d3lMUlU3RXBuY1Nvbm5yZFJ2YlN0UzVILW5lQnhtSndMVnA4UER1Q1dpVTVsSWFQVTQzT0NobnVaX1Q5MDlmU1VteF9TQ0JRREMwbjh6NUZJLThXTVVpVTVIcVJkem1NZ0tEOEtVMDdmSmJkWkZXNnpDOWlkRDJRMHBKNDlnTVhyNkZaUEJBaGMyV2JNMUtvb2pMMk9HRmMzMi0yM1FXNUwweWVURHJ3MA?oc=5",
-          "domain": "biospace.com",
-          "published_at": "2026-09-16T01:32:53+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
-    },
-    {
       "id": "022e6875a3bb4b9d480e",
       "company": "Labcorp",
       "title": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push",
@@ -2243,6 +2273,42 @@
       ],
       "coverage_count": 4,
       "event_signature": "247 all high hits stock time"
+    },
+    {
+      "id": "1837e9e1ce3225f216c2",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5",
+      "description": "Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis The Joplin Globe",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "source_domain": "businesswire.com",
+      "published_at": "2026-09-15T07:00:00+00:00",
+      "published_display": "15 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZEgxRWJvRk1udFBXN01XcFhlcFJjTUlwZ1B0STlSeWVpT2xuVHBzVmZVcWE1STZ1ZHgyd0JBeUtfQU5fUHcyNXoyQnFEaDdGY1lHWEFZdndGMjdiZHBRZlNpX09GM1RLU21xQzFDWmlFZEFOZndGNjhfWE1WZENBRXF1TmV6VDlBaDJIMGVtcEhOME5jcTNFeGFaR0cxcnJoUTVtR0pzNFJGQ2VXSWNtTHgxWkV5TFhkYVl3ZGVEbjg1NE5XUXpQb0RPUnNJSE4wUWNsSEtnNTVNTFFpUnN6ak5Od2RNZ1h1c1c0?oc=5",
+          "domain": "businesswire.com",
+          "published_at": "2026-09-15T07:00:00+00:00"
+        },
+        {
+          "name": "The Joplin Globe",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxORmpJMFdEQ3kyR01FXzVPNG93dDZVWGxSVTB5OFBxTXhPcThONi0wQm1CQ1NfYVBvekVqTG1Bemd4U3B1RlRyLTM1aEdPLU82dGxzbjgtUnFRWXZuTnBmUXVzdDRodE1CNGhhcTdxLW1IYktjUEVyLUh4X18weTBKa01Iei1pNldYd2pBUmx2LUtCQk82eloxbmt6QU1iazNfRmg0b0ltY1AxMjRkX2hDd0VnYVY3Y0d1LWFlbFd5ZHNwY0ZLdVRtSXBaU0hwcjYwUkJNMEs1LWRUYnUxZmRrN0Z4ZThxQ0tUVEROZEQzckdNSFVsdlM2dXBWQVNpQmNuRHJMRW5ZWk9PMXdBV1dIQ1gycXR5OVdqWng4RUVoeFc2WWs0TE1aRg?oc=5",
+          "domain": "joplinglobe.com",
+          "published_at": "2026-09-15T11:02:39+00:00"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNblJnUFlKTUFUWEh5LUg5aGprc0lMcVBITFU4dDR3eUI5bWh2d3lMUlU3RXBuY1Nvbm5yZFJ2YlN0UzVILW5lQnhtSndMVnA4UER1Q1dpVTVsSWFQVTQzT0NobnVaX1Q5MDlmU1VteF9TQ0JRREMwbjh6NUZJLThXTVVpVTVIcVJkem1NZ0tEOEtVMDdmSmJkWkZXNnpDOWlkRDJRMHBKNDlnTVhyNkZaUEJBaGMyV2JNMUtvb2pMMk9HRmMzMi0yM1FXNUwweWVURHJ3MA?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-09-16T01:32:53+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
     },
     {
       "id": "ebdc2f40140288c33e41",
@@ -11938,10 +12004,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-01T00:17:00+05:30",
-  "next_update_display": "01 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-01T06:17:00+05:30",
+  "next_update_display": "01 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

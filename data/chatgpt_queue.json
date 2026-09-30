@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T19:42:09.195228+05:30",
-  "generated_at_display": "30 Sep 2026, 7:42 PM IST",
+  "generated_at": "2026-10-01T04:08:41.353383+05:30",
+  "generated_at_display": "01 Oct 2026, 4:08 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 240,
+  "remaining_unsummarized_count": 242,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -56,7 +56,7 @@
       "published_at": "2026-09-23T01:30:00+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
-      "coverage_count": 6,
+      "coverage_count": 7,
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
       "sources": [
         {
@@ -82,6 +82,10 @@
         {
           "name": "biospectrumasia.com",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcmhuMVdQZFRLNDYteFg0d1I0a2tUSnBRdmNUVXhxOXBHY1NEeTZnTmhnMVV3LTVkUGU2Mkh4c2NsWG5QUE5uTm1LbTU5TlNZMkpFNjdkSGlJT09CZWJJTFNsS1FydUtPcE1mYXJLNGF3RThzWDJjUW1EeHN4cl95dXBmMkd5LUUyeGxBNXlkLVJTTWh4RE51Ym10UVRTZEVsQ1NhUkRxeXhIWE13cHhYcG5XNFhubGdtUkowWTJGS1RSUEVPLUJRZzlRc1lpa2Q5WU90V3VIcldVNXBUNmNLSE85bE5VQkNQWUVvQmVBU01Ed081Y2t1eTk1M0xUUXVHcXhF?oc=5"
+        },
+        {
+          "name": "BioSpectrum Asia",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRpQmJzNXNXMnU0bmFzeW95UzQ4WHM2Vi15UDFtVU5xRE5LRHRmNFhYcUVZRzZoOFE4T3AxajVBZVF1ZFhJVEJDeG5YelRCZW0wWnQxekJBcFl6enlLd2FXdVIwbXNvc1IzRG9oVm9rd3otZ2UwdVVxQmZETDZfTUVpS3JEb2Z2Y0FTVU9WZ3BYQjBsZnRxeS0xQldwU3ZoLWs3dkFweW5sc0RWdy0wSXMtS09TQkVLaEJxUTJRYzlTSXFEU3ZKMXJjLWFPOUcyZlExTE4tU2dReFdCVDJfRmxn?oc=5"
         }
       ]
     },
@@ -500,6 +504,25 @@
       ]
     },
     {
+      "id": "d01b7ce2b879aa1bda5e",
+      "company": "Quest Diagnostics",
+      "category": "Product & Services",
+      "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
+      "source": "Yahoo Finance",
+      "description": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes Yahoo Finance",
+      "published_at": "2026-09-30T13:00:00+00:00",
+      "published_display": "30 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e342c6a5d91090b34bd1",
       "company": "Labcorp",
       "category": "Clinical, R&D",
@@ -692,25 +715,6 @@
         {
           "name": "macobserver.com",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f3441bb91bbd8285652a",
-      "company": "Quest Diagnostics",
-      "category": "Clinical, R&D",
-      "title": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App",
-      "source": "Clinical Lab Products",
-      "description": "Quest Diagnostics to Integrate 50-Biomarker Test Panel into Apple Health App Clinical Lab Products",
-      "published_at": "2026-09-09T07:00:00+00:00",
-      "published_display": "09 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdmpOSnFUeWtVNWxGX1dqRnVBZDUxU1RXbEVQOEt0Y2N6eU9FWXdSQVN3MlR1ak1UZFpvcHlreG40S3JzTHg2cWFUbE16bVlBMlpDdlB6cWMySVljQmRVRnpwWjhJSXdZbGNmaVNGMjBKNFFQWkRJcUVtTG1aVEtNcDlyaUY2UTM1R2tld1psX3JPWkFWcU9rckswWklGZl9aM293dW92MFRnX0U1T1V4c3ZUNG80bDg?oc=5"
         }
       ]
     }
