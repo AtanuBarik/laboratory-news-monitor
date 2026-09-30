@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 30 Sep 2026, 4:09 AM IST
+- **Repository generated:** 30 Sep 2026, 11:30 AM IST
 - **Distinct events in this file:** 159
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -52,7 +52,7 @@
   - Yahoo Finance UK: https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) Stock Price, News, Quote & History Yahoo! Finance Canada
+**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com
 
 ## 5. Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?
 
@@ -246,10 +246,10 @@
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - Morningstar: https://news.google.com/rss/articles/CBMimwJBVV95cUxNbi1xbXVQNllnaEZJTTRkdWNOeXZvYU1aR29Ua1E0Zjg4X1FKM09reHAzek5zek9ocm9Fc1RzS3RQSFVIV3FtRE9Fc1hfbDViRFNfWUVybmxET2NicGNUb0RIT09sMEd5V2M5SXhncnFzNno0VDBwYW8tNTcwV0dHVkxUMURpa1Q4YjUxajllYUQ3VFIwNVpQa1pjaUxsZ0VSWGxfendsUDFKdFhlRXhyaXVrRW90MjlVYzRfelNNNV9FX1lacWZzZjFmQWlTUzJBQVMxTXN5RUtJQVJhaW5Ydl9fNjFDbEJpVmZoZUdLV0lxcDFvMk5GSlR2LU04eTZCYzJDT1BjUl82S1BrZVgtZXFCeC1IOUxoN1BF?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMilAJBVV95cUxQMUtBQXktYUV4ME1VbkFIajVlNWpSUFNLQlp5RHpiWnR4eC0xd29ITUxza1lUMlUydVdpUzNiaXB4NUFqTlNGMmF4cnJ3TEFWTHlfZy1MSTFCWGhGSWMxYkdBTFpNZFVVLUd3dnF1amJTejFVS2F1SGp0NEl4Tlg1amZDN0hfY09fTXRLYnE4Q0JTTTNOSHRrNjJMRjlWeTJVa3FrUVZJQ1ZMcjRWZzd4am91X015V21VQVMzUUdaOTJlREJORFRkQlROMlc2UmlrV0ZkNmxCc3NFdnVncVpqMkM3LW9nb0RyblpNTTNfSU9rWThDN2xkZUdXcDZGYkZuMEloUUIyQlVrVnJWM1kycVBJYVQ?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMimwJBVV95cUxNbi1xbXVQNllnaEZJTTRkdWNOeXZvYU1aR29Ua1E0Zjg4X1FKM09reHAzek5zek9ocm9Fc1RzS3RQSFVIV3FtRE9Fc1hfbDViRFNfWUVybmxET2NicGNUb0RIT09sMEd5V2M5SXhncnFzNno0VDBwYW8tNTcwV0dHVkxUMURpa1Q4YjUxajllYUQ3VFIwNVpQa1pjaUxsZ0VSWGxfendsUDFKdFhlRXhyaXVrRW90MjlVYzRfelNNNV9FX1lacWZzZjFmQWlTUzJBQVMxTXN5RUtJQVJhaW5Ydl9fNjFDbEJpVmZoZUdLV0lxcDFvMk5GSlR2LU04eTZCYzJDT1BjUl82S1BrZVgtZXFCeC1IOUxoN1BF?oc=5
 
-**Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics Morningstar
+**Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics PR Newswire
 
 ## 20. Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally
 
