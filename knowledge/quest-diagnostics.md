@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 30 Sep 2026, 11:30 AM IST
+- **Repository generated:** 30 Sep 2026, 6:31 PM IST
 - **Distinct events in this file:** 159
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -155,26 +155,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
-## 13. Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 8
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5
-  - Pluang: https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVCcmd3Y0E4T0JVNnJYMVo0RzFGMGZMc2Qwc3F0SVBGYjdqYkNxV2Fac2tsMUZiRVZZdmxLV0o4ejRiZnpwLWdFdlVodllzTjkybFVwQjgtXy1rVG9ORHd3UTRFdE5RVnl1S055dnk1NXJGeFd4dVY5TDlGWGJzODY1cnVzcXBETWRDaktGQ2ltWEk?oc=5
-  - Morningstar: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEMtNTlUSWkySDhmVnRrejdiUGxISmg5QnQzTzFHUVlza1FFR2dVSm1jYW5FTUFabTY2WUFJaW5lbUlXNTZtZlpiYXRoeVBpaEp1NldIVXk2Nks3QXU1Q01DZnJ4TFQwX3dsdHg1WVlGNU43Y24zMUZiMEhvaGNKTTNjejlUY1VqdzdHeGhWYlhqMktiYWVfbTNfeklUZWVYcDhDaGF2X004VXpoUVJmcV85dFMyTnk3US12cDNQbTZxTmZZQzJTUUpVcWRsMmhqdFpBZGdSRQ?oc=5
-  - News-Herald.net: https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3M3UElYWlRMd2Jla0ZleHpHMnFza05SbXVRT0FqaWIwQXZIcWtubm9wZkt4dzJLUWRvVkgtNTBmUGFDaEJLSFktNVdGNjV1WDJ4bzZUOWp5aC1nYkU3NTRiRDJuUDdiclF4NTNFZlU4TTlUQzE1eW1GYWZ1RUlCQWZYcUttZkZFbXBaNkdUajd3OTBVSXpnMF9Vbjh0Qzk3T2FlREVGNHdaOW93cFhydzFUb0NoZnV6Ni1EVlZYeWI1V0NHQnNaVnRrM0FvZVRRY0RRYUFTWjJZVFQ1eHVTVjA5andGQU0zTHZxS0hIVW92VnQ0TVh2NmJBUm93V3FNQVBLTktXTXBsdnNWZUJNTnB1bmtublE?oc=5
-  - Burlington Times-News: https://news.google.com/rss/articles/CBMimAJBVV95cUxPSlBGY3ZxN3RnUjdTb3VTNlZKVFFRLU5SR0NpaldOUGVzVTBfa1hYQUQ3NlhLeThGNjBDN2pTUl82VlRYV19zYXpobHdlU0sxUXllSXR0NlVhMEtHeG1pOTBlYlVwVTRFSVJsdmp1c0RJNGhqSGNwcFRhbjdHcWpzSGJnaGhWM01Iam9DbFE5Njk4MDRwSzNUcTBVUS1hY2l3SVNHVmNzekg2b2NZSFV6ckhvaGRtaTZBUUUyX3hpVVlmNGctdGRCY0FhdFV5eW5YdWlqY3NRVFpHNUtoUE9xcU82Z1NCVzVJSTNwRXVBcnI2UksyZDRFTEFoTnZsNVdDMmZPVUtLam1GQ2J2NFdPTVoycF9sNlg3?oc=5
-  - Smith Mountain Eagle: https://news.google.com/rss/articles/CBMioAJBVV95cUxNWTMyUlJuWW1MNUlZTUQtWjVBWDMxUExuU3g0NzBwY1V6ekxSeno4RzR6Y0VsdVNROEFPMUFqRE40eE9WSWJXYU5LYlF4ME8tT0VZQjJka293bjBzRU5QVmVlZDdWeDV5c3ZzVWhvX2dBYVNJc1NINWJLb2xZWGtkWDVaRjNIejNmTGVDcDNmZnNpaS1CX1NsUlBvNWJMaHVXWlNjc2RRR0tvWjRVSHRIQTYxeEc3RVJyQXdDa241R3NsaG1LRFB1R3lsT2hwSDVaMlZfcERwTVRDQ1d4NE81N0NVZUZNTG5jVWJXWW5VeF9XcndGQUxMSGlodVdYN0JzWVRTRF9IUzhCcm05RjRsNW1fWldrekluTlFxVktERHU?oc=5
-  - Kinston.com: https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxQbko1aXNyRjZjbEJIT3NUQ04xU0JRbkYycGxqUGtRWkN5Ym10LXRTS05VM2NodHdYbkxtdWM3bE9iMTg3bXB5SU9oZFZ5Qk9nMUUzazZ4eFhsZ0xCUXpITW1hUXd3eEgzR1VqSk8zSG14QU5KTWIwQTFhOEZuYnc5R3JaQmpCUkp2SmJTY1JBNVVGNW14ZkJrYy1ndTBzYjBiUFE?oc=5
-
-**Feed description:** Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com
-
-## 14. Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure
+## 13. Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -188,7 +169,7 @@
 
 **Feed description:** Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research
 
-## 15. Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more
+## 14. Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -200,19 +181,26 @@
 
 **Feed description:** Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more cnbc.com
 
-## 16. Why Quest Diagnostics Is Dropping Despite Target Hike
+## 15. Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026
 
 - **Company:** Quest Diagnostics
-- **Publication date:** 21 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
+- **Publication date:** 22 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 8
 - **Official source involved:** No
 - **Sources:**
-  - TipRanks: https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxQbko1aXNyRjZjbEJIT3NUQ04xU0JRbkYycGxqUGtRWkN5Ym10LXRTS05VM2NodHdYbkxtdWM3bE9iMTg3bXB5SU9oZFZ5Qk9nMUUzazZ4eFhsZ0xCUXpITW1hUXd3eEgzR1VqSk8zSG14QU5KTWIwQTFhOEZuYnc5R3JaQmpCUkp2SmJTY1JBNVVGNW14ZkJrYy1ndTBzYjBiUFE?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5
+  - Pluang: https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVCcmd3Y0E4T0JVNnJYMVo0RzFGMGZMc2Qwc3F0SVBGYjdqYkNxV2Fac2tsMUZiRVZZdmxLV0o4ejRiZnpwLWdFdlVodllzTjkybFVwQjgtXy1rVG9ORHd3UTRFdE5RVnl1S055dnk1NXJGeFd4dVY5TDlGWGJzODY1cnVzcXBETWRDaktGQ2ltWEk?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEMtNTlUSWkySDhmVnRrejdiUGxISmg5QnQzTzFHUVlza1FFR2dVSm1jYW5FTUFabTY2WUFJaW5lbUlXNTZtZlpiYXRoeVBpaEp1NldIVXk2Nks3QXU1Q01DZnJ4TFQwX3dsdHg1WVlGNU43Y24zMUZiMEhvaGNKTTNjejlUY1VqdzdHeGhWYlhqMktiYWVfbTNfeklUZWVYcDhDaGF2X004VXpoUVJmcV85dFMyTnk3US12cDNQbTZxTmZZQzJTUUpVcWRsMmhqdFpBZGdSRQ?oc=5
+  - News-Herald.net: https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3M3UElYWlRMd2Jla0ZleHpHMnFza05SbXVRT0FqaWIwQXZIcWtubm9wZkt4dzJLUWRvVkgtNTBmUGFDaEJLSFktNVdGNjV1WDJ4bzZUOWp5aC1nYkU3NTRiRDJuUDdiclF4NTNFZlU4TTlUQzE1eW1GYWZ1RUlCQWZYcUttZkZFbXBaNkdUajd3OTBVSXpnMF9Vbjh0Qzk3T2FlREVGNHdaOW93cFhydzFUb0NoZnV6Ni1EVlZYeWI1V0NHQnNaVnRrM0FvZVRRY0RRYUFTWjJZVFQ1eHVTVjA5andGQU0zTHZxS0hIVW92VnQ0TVh2NmJBUm93V3FNQVBLTktXTXBsdnNWZUJNTnB1bmtublE?oc=5
+  - Burlington Times-News: https://news.google.com/rss/articles/CBMimAJBVV95cUxPSlBGY3ZxN3RnUjdTb3VTNlZKVFFRLU5SR0NpaldOUGVzVTBfa1hYQUQ3NlhLeThGNjBDN2pTUl82VlRYV19zYXpobHdlU0sxUXllSXR0NlVhMEtHeG1pOTBlYlVwVTRFSVJsdmp1c0RJNGhqSGNwcFRhbjdHcWpzSGJnaGhWM01Iam9DbFE5Njk4MDRwSzNUcTBVUS1hY2l3SVNHVmNzekg2b2NZSFV6ckhvaGRtaTZBUUUyX3hpVVlmNGctdGRCY0FhdFV5eW5YdWlqY3NRVFpHNUtoUE9xcU82Z1NCVzVJSTNwRXVBcnI2UksyZDRFTEFoTnZsNVdDMmZPVUtLam1GQ2J2NFdPTVoycF9sNlg3?oc=5
+  - Smith Mountain Eagle: https://news.google.com/rss/articles/CBMioAJBVV95cUxNWTMyUlJuWW1MNUlZTUQtWjVBWDMxUExuU3g0NzBwY1V6ekxSeno4RzR6Y0VsdVNROEFPMUFqRE40eE9WSWJXYU5LYlF4ME8tT0VZQjJka293bjBzRU5QVmVlZDdWeDV5c3ZzVWhvX2dBYVNJc1NINWJLb2xZWGtkWDVaRjNIejNmTGVDcDNmZnNpaS1CX1NsUlBvNWJMaHVXWlNjc2RRR0tvWjRVSHRIQTYxeEc3RVJyQXdDa241R3NsaG1LRFB1R3lsT2hwSDVaMlZfcERwTVRDQ1d4NE81N0NVZUZNTG5jVWJXWW5VeF9XcndGQUxMSGlodVdYN0JzWVRTRF9IUzhCcm05RjRsNW1fWldrekluTlFxVktERHU?oc=5
+  - Kinston.com: https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5
 
-**Feed description:** Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks
+**Feed description:** Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com
 
-## 17. Car crashes into Quest Diagnostics in Lincoln shoppping plaza
+## 16. Car crashes into Quest Diagnostics in Lincoln shoppping plaza
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -224,7 +212,7 @@
 
 **Feed description:** Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media
 
-## 18. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
+## 17. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -238,7 +226,7 @@
 
 **Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com
 
-## 19. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
+## 18. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -249,7 +237,19 @@
   - PR Newswire: https://news.google.com/rss/articles/CBMilAJBVV95cUxQMUtBQXktYUV4ME1VbkFIajVlNWpSUFNLQlp5RHpiWnR4eC0xd29ITUxza1lUMlUydVdpUzNiaXB4NUFqTlNGMmF4cnJ3TEFWTHlfZy1MSTFCWGhGSWMxYkdBTFpNZFVVLUd3dnF1amJTejFVS2F1SGp0NEl4Tlg1amZDN0hfY09fTXRLYnE4Q0JTTTNOSHRrNjJMRjlWeTJVa3FrUVZJQ1ZMcjRWZzd4am91X015V21VQVMzUUdaOTJlREJORFRkQlROMlc2UmlrV0ZkNmxCc3NFdnVncVpqMkM3LW9nb0RyblpNTTNfSU9rWThDN2xkZUdXcDZGYkZuMEloUUIyQlVrVnJWM1kycVBJYVQ?oc=5
   - Morningstar: https://news.google.com/rss/articles/CBMimwJBVV95cUxNbi1xbXVQNllnaEZJTTRkdWNOeXZvYU1aR29Ua1E0Zjg4X1FKM09reHAzek5zek9ocm9Fc1RzS3RQSFVIV3FtRE9Fc1hfbDViRFNfWUVybmxET2NicGNUb0RIT09sMEd5V2M5SXhncnFzNno0VDBwYW8tNTcwV0dHVkxUMURpa1Q4YjUxajllYUQ3VFIwNVpQa1pjaUxsZ0VSWGxfendsUDFKdFhlRXhyaXVrRW90MjlVYzRfelNNNV9FX1lacWZzZjFmQWlTUzJBQVMxTXN5RUtJQVJhaW5Ydl9fNjFDbEJpVmZoZUdLV0lxcDFvMk5GSlR2LU04eTZCYzJDT1BjUl82S1BrZVgtZXFCeC1IOUxoN1BF?oc=5
 
-**Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics PR Newswire
+**Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics prnewswire.com
+
+## 19. Why Quest Diagnostics Is Dropping Despite Target Hike
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 21 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TipRanks: https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5
+
+**Feed description:** Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks
 
 ## 20. Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally
 

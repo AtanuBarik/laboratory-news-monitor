@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-09-30T11:30:16.750213+05:30",
-  "generated_at_display": "30 Sep 2026, 11:30 AM IST",
-  "item_count": 351,
-  "raw_relevant_item_count": 549,
-  "duplicates_merged": 111,
+  "generated_at": "2026-09-30T18:31:47.105084+05:30",
+  "generated_at_display": "30 Sep 2026, 6:31 PM IST",
+  "item_count": 352,
+  "raw_relevant_item_count": 550,
+  "duplicates_merged": 112,
   "failures": [],
   "items": [
+    {
+      "id": "be158d51ad2b16db6dd1",
+      "company": "Labcorp",
+      "title": "Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtYLTAxbC1zSG9RVnFIV3FEZVV0RURLV091LUN2STlBT2xZM1c1cXZnd2t5OU9xcDloZG56TElfeGFoRUtScVlDdlNKRTZDblBHR1NMaDZ1VEJZTXVpN2NhMzdOMUZMVHpfNURrbDBmaFM1a2ZqeFVRdVNuVXZNc1pXcDMxQQ?oc=5",
+      "description": "Labcorp to report Q3 2026 results Oct. 28, will webcast earnings at 9:00 a.m. ET TradingView",
+      "source": "AOL.com",
+      "source_url": "https://www.aol.com",
+      "source_domain": "aol.com",
+      "published_at": "2026-09-30T12:30:23+00:00",
+      "published_display": "30 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtYLTAxbC1zSG9RVnFIV3FEZVV0RURLV091LUN2STlBT2xZM1c1cXZnd2t5OU9xcDloZG56TElfeGFoRUtScVlDdlNKRTZDblBHR1NMaDZ1VEJZTXVpN2NhMzdOMUZMVHpfNURrbDBmaFM1a2ZqeFVRdVNuVXZNc1pXcDMxQQ?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-09-30T12:30:23+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUENnU0Z1cjR0RWlGY0JGZGcyZndmSnV1OXBrN1pobzB5cjRHNDg2dHFWM1VENGhQUFBpdHdYMjE4QWxQbkg5QW1hU096SGlsSlByUnhGcUZKaFJYSV9BYnVHMVhwM1pwWmgwWGhMdVRCTlA3NE9KOVJQa1B3LVkyaXZrbTh4ZzN6Y3ZKNlVzN3B5bUpaekp6LS13UDdrWmszaGg4QjlfNU42X044NFpMaFhoMXRpOUJrRGJWcE9jd1VvT3pEVTlFc0Y4NkMtazgtdlg0endB?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-30T12:43:01+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 announce financial october quarter results third"
+    },
     {
       "id": "3896f4f36281f8127f6a",
       "company": "Sonic Healthcare",
@@ -667,9 +697,15 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2MyRVhmSDF1MkdpUTZiTm9RZDZvR05CenpaZHhJa3labFg0RV9RSWZtYzZ3VzBpTHJBbnoxMFFveUdhRngzdS1lTENSTksyZHRxbnBvZnplSFhhTzZ1ME9hMHh6V1VlbmdPSnZGNFZtVjI0R3B3R0dkUU10Q091cEVwZjJDWk9UWGQ4dDQyY1llMmY3NHNod003b0xHNGpZNm0yWUFmOVIwOENOSl9MN1dwTThoQWhXY3VKVzVlMU5YVnYzclE?oc=5",
           "domain": "mocoshow.com",
           "published_at": "2026-09-29T08:00:35+00:00"
+        },
+        {
+          "name": "WHMI",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3Y4WWNzUXUxTDNwOF92MUhtczJfNXEtWnFVNGhTcUxBV0FjQUFiWXBGX2xYMTZiUTdUZGdmTThVeDFiT2xvUE4ySEhLNDZrczRHeWlhSlg3NWNPSXQ0RGM5Qm9Lb3RkNm90VXB1SWZYNFZqR1Q4cHc5bkw4MERwY2dn?oc=5",
+          "domain": "whmi.com",
+          "published_at": "2026-09-30T08:33:21+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "breach data reached settlement"
     },
     {
@@ -751,9 +787,15 @@
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
           "domain": "tech-insider.org",
           "published_at": "2026-09-25T22:58:33+00:00"
+        },
+        {
+          "name": "Hawaii News Now",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLTlrUEhYRjJJQ2VrUl96cGtJOGZWZEo1NzJFa1Z5eUZWOXhWUTBnNklQVi1NeDBsX00xcG95cnFpTThlS0UtY3hmdFFWcEdhN0dJbUNIYkNzMl9RVmJmYlBvSFBlQUhDTFE2ZUkxRmd3VWF1aERrMk9EMllmWVBfVDBMVmJ3R3VYSUtmbFlFTXVaMlRtdnpKTTBpeXE2OFFZRW9V0gG3AUFVX3lxTE90NW5Da0k2djVraXlDTFBFMHZzOVo4YzREcjJWMU5sME80WG1jYW5la1VNeUVRUGpkUWRGaXhWU2tpUkVjZWVVWUZCZDF1ZU1IeUVCb0RKTkF1MXZndjUzbU1fYTdBTDhUa0pfWFpIUWo1TjVQZjZ1T1pWTkxMVVNtYmlZcnEyZlU0MXQ3WnRFcXkwaWVkV18tUlNwUTVFa2RYS01YdURXNmE3Z0pLMmxha3NScndFUQ?oc=5",
+          "domain": "hawaiinewsnow.com",
+          "published_at": "2026-09-30T07:48:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "2019 breach data jersey joins million multistate over settlement"
     },
     {
@@ -1333,72 +1375,6 @@
       "event_signature": "compared competitors stock tuesday underperforms when"
     },
     {
-      "id": "e6a78c89b4b19162fe06",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
-      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-09-22T20:28:00+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVCcmd3Y0E4T0JVNnJYMVo0RzFGMGZMc2Qwc3F0SVBGYjdqYkNxV2Fac2tsMUZiRVZZdmxLV0o4ejRiZnpwLWdFdlVodllzTjkybFVwQjgtXy1rVG9ORHd3UTRFdE5RVnl1S055dnk1NXJGeFd4dVY5TDlGWGJzODY1cnVzcXBETWRDaktGQ2ltWEk?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-09-22T21:01:34+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEMtNTlUSWkySDhmVnRrejdiUGxISmg5QnQzTzFHUVlza1FFR2dVSm1jYW5FTUFabTY2WUFJaW5lbUlXNTZtZlpiYXRoeVBpaEp1NldIVXk2Nks3QXU1Q01DZnJ4TFQwX3dsdHg1WVlGNU43Y24zMUZiMEhvaGNKTTNjejlUY1VqdzdHeGhWYlhqMktiYWVfbTNfeklUZWVYcDhDaGF2X004VXpoUVJmcV85dFMyTnk3US12cDNQbTZxTmZZQzJTUUpVcWRsMmhqdFpBZGdSRQ?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        },
-        {
-          "name": "News-Herald.net",
-          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3M3UElYWlRMd2Jla0ZleHpHMnFza05SbXVRT0FqaWIwQXZIcWtubm9wZkt4dzJLUWRvVkgtNTBmUGFDaEJLSFktNVdGNjV1WDJ4bzZUOWp5aC1nYkU3NTRiRDJuUDdiclF4NTNFZlU4TTlUQzE1eW1GYWZ1RUlCQWZYcUttZkZFbXBaNkdUajd3OTBVSXpnMF9Vbjh0Qzk3T2FlREVGNHdaOW93cFhydzFUb0NoZnV6Ni1EVlZYeWI1V0NHQnNaVnRrM0FvZVRRY0RRYUFTWjJZVFQ1eHVTVjA5andGQU0zTHZxS0hIVW92VnQ0TVh2NmJBUm93V3FNQVBLTktXTXBsdnNWZUJNTnB1bmtublE?oc=5",
-          "domain": "news-herald.net",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        },
-        {
-          "name": "Burlington Times-News",
-          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSlBGY3ZxN3RnUjdTb3VTNlZKVFFRLU5SR0NpaldOUGVzVTBfa1hYQUQ3NlhLeThGNjBDN2pTUl82VlRYV19zYXpobHdlU0sxUXllSXR0NlVhMEtHeG1pOTBlYlVwVTRFSVJsdmp1c0RJNGhqSGNwcFRhbjdHcWpzSGJnaGhWM01Iam9DbFE5Njk4MDRwSzNUcTBVUS1hY2l3SVNHVmNzekg2b2NZSFV6ckhvaGRtaTZBUUUyX3hpVVlmNGctdGRCY0FhdFV5eW5YdWlqY3NRVFpHNUtoUE9xcU82Z1NCVzVJSTNwRXVBcnI2UksyZDRFTEFoTnZsNVdDMmZPVUtLam1GQ2J2NFdPTVoycF9sNlg3?oc=5",
-          "domain": "thetimesnews.com",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        },
-        {
-          "name": "Smith Mountain Eagle",
-          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWTMyUlJuWW1MNUlZTUQtWjVBWDMxUExuU3g0NzBwY1V6ekxSeno4RzR6Y0VsdVNROEFPMUFqRE40eE9WSWJXYU5LYlF4ME8tT0VZQjJka293bjBzRU5QVmVlZDdWeDV5c3ZzVWhvX2dBYVNJc1NINWJLb2xZWGtkWDVaRjNIejNmTGVDcDNmZnNpaS1CX1NsUlBvNWJMaHVXWlNjc2RRR0tvWjRVSHRIQTYxeEc3RVJyQXdDa241R3NsaG1LRFB1R3lsT2hwSDVaMlZfcERwTVRDQ1d4NE81N0NVZUZNTG5jVWJXWW5VeF9XcndGQUxMSGlodVdYN0JzWVRTRF9IUzhCcm05RjRsNW1fWldrekluTlFxVktERHU?oc=5",
-          "domain": "smithmountaineagle.com",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        },
-        {
-          "name": "Kinston.com",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5",
-          "domain": "kinston.com",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbko1aXNyRjZjbEJIT3NUQ04xU0JRbkYycGxqUGtRWkN5Ym10LXRTS05VM2NodHdYbkxtdWM3bE9iMTg3bXB5SU9oZFZ5Qk9nMUUzazZ4eFhsZ0xCUXpITW1hUXd3eEgzR1VqSk8zSG14QU5KTWIwQTFhOEZuYnc5R3JaQmpCUkp2SmJTY1JBNVVGNW14ZkJrYy1ndTBzYjBiUFE?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-22T20:28:00+00:00"
-        }
-      ],
-      "coverage_count": 8,
-      "event_signature": "2026 financial october quarter release results third"
-    },
-    {
       "id": "3194b7f01df264d62497",
       "company": "Labcorp",
       "title": "Labcorp $6.1 Million Data Breach Class Action Settlement",
@@ -1489,58 +1465,70 @@
       "event_signature": "alibaba biggest gamestop holding making more moves premarket stocks"
     },
     {
-      "id": "10e080cf33d21403ba00",
+      "id": "7b39da611e35474f17ea",
       "company": "Quest Diagnostics",
-      "title": "Why Quest Diagnostics Is Dropping Despite Target Hike",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5",
-      "description": "Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "source_domain": "tipranks.com",
-      "published_at": "2026-09-21T21:38:20+00:00",
-      "published_display": "21 Sep 2026",
-      "category": "Other",
+      "title": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbko1aXNyRjZjbEJIT3NUQ04xU0JRbkYycGxqUGtRWkN5Ym10LXRTS05VM2NodHdYbkxtdWM3bE9iMTg3bXB5SU9oZFZ5Qk9nMUUzazZ4eFhsZ0xCUXpITW1hUXd3eEgzR1VqSk8zSG14QU5KTWIwQTFhOEZuYnc5R3JaQmpCUkp2SmJTY1JBNVVGNW14ZkJrYy1ndTBzYjBiUFE?oc=5",
+      "description": "Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
       "official_source": false,
       "sources": [
         {
-          "name": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5",
-          "domain": "tipranks.com",
-          "published_at": "2026-09-21T21:38:20+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "despite dropping hike target why"
-    },
-    {
-      "id": "5ce025e75dac0ab4f0ef",
-      "company": "Labcorp",
-      "title": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
-      "description": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "source_domain": "seekingalpha.com",
-      "published_at": "2026-09-21T21:13:01+00:00",
-      "published_display": "21 Sep 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-09-21T21:13:01+00:00"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbko1aXNyRjZjbEJIT3NUQ04xU0JRbkYycGxqUGtRWkN5Ym10LXRTS05VM2NodHdYbkxtdWM3bE9iMTg3bXB5SU9oZFZ5Qk9nMUUzazZ4eFhsZ0xCUXpITW1hUXd3eEgzR1VqSk8zSG14QU5KTWIwQTFhOEZuYnc5R3JaQmpCUkp2SmJTY1JBNVVGNW14ZkJrYy1ndTBzYjBiUFE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
         },
         {
           "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVDRFMnBCOG9iMkxmMHQ2QTRuVjdCSTVmb3dhRklLOGVjMlJxUzlHcUZjeFBTWFNaVWdEU1lvc01lbkptTWtxZ0JIdnhvWUh0YUR2QV8wUE5GRTExVDBkOGhLUWF1LUpNRVdjamdLM1VsdUZmT2ZWMThvVG9HeDhNQ3ljcTlLU2ZSYXZsdEYxdEFyendKLU8zWXlsZENYRmRjVFA5cGo0OWV2dEkzX0lDbzd3UEl2clRfZWVESjhQdm1HMGdOSDR4cFM5UGxuRG9ocVNCaU52RQ?oc=5",
           "domain": "tradingview.com",
-          "published_at": "2026-09-21T21:13:01+00:00"
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMlVCcmd3Y0E4T0JVNnJYMVo0RzFGMGZMc2Qwc3F0SVBGYjdqYkNxV2Fac2tsMUZiRVZZdmxLV0o4ejRiZnpwLWdFdlVodllzTjkybFVwQjgtXy1rVG9ORHd3UTRFdE5RVnl1S055dnk1NXJGeFd4dVY5TDlGWGJzODY1cnVzcXBETWRDaktGQ2ltWEk?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-09-22T21:01:34+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSEMtNTlUSWkySDhmVnRrejdiUGxISmg5QnQzTzFHUVlza1FFR2dVSm1jYW5FTUFabTY2WUFJaW5lbUlXNTZtZlpiYXRoeVBpaEp1NldIVXk2Nks3QXU1Q01DZnJ4TFQwX3dsdHg1WVlGNU43Y24zMUZiMEhvaGNKTTNjejlUY1VqdzdHeGhWYlhqMktiYWVfbTNfeklUZWVYcDhDaGF2X004VXpoUVJmcV85dFMyTnk3US12cDNQbTZxTmZZQzJTUUpVcWRsMmhqdFpBZGdSRQ?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "News-Herald.net",
+          "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNb3M3UElYWlRMd2Jla0ZleHpHMnFza05SbXVRT0FqaWIwQXZIcWtubm9wZkt4dzJLUWRvVkgtNTBmUGFDaEJLSFktNVdGNjV1WDJ4bzZUOWp5aC1nYkU3NTRiRDJuUDdiclF4NTNFZlU4TTlUQzE1eW1GYWZ1RUlCQWZYcUttZkZFbXBaNkdUajd3OTBVSXpnMF9Vbjh0Qzk3T2FlREVGNHdaOW93cFhydzFUb0NoZnV6Ni1EVlZYeWI1V0NHQnNaVnRrM0FvZVRRY0RRYUFTWjJZVFQ1eHVTVjA5andGQU0zTHZxS0hIVW92VnQ0TVh2NmJBUm93V3FNQVBLTktXTXBsdnNWZUJNTnB1bmtublE?oc=5",
+          "domain": "news-herald.net",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Burlington Times-News",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSlBGY3ZxN3RnUjdTb3VTNlZKVFFRLU5SR0NpaldOUGVzVTBfa1hYQUQ3NlhLeThGNjBDN2pTUl82VlRYV19zYXpobHdlU0sxUXllSXR0NlVhMEtHeG1pOTBlYlVwVTRFSVJsdmp1c0RJNGhqSGNwcFRhbjdHcWpzSGJnaGhWM01Iam9DbFE5Njk4MDRwSzNUcTBVUS1hY2l3SVNHVmNzekg2b2NZSFV6ckhvaGRtaTZBUUUyX3hpVVlmNGctdGRCY0FhdFV5eW5YdWlqY3NRVFpHNUtoUE9xcU82Z1NCVzVJSTNwRXVBcnI2UksyZDRFTEFoTnZsNVdDMmZPVUtLam1GQ2J2NFdPTVoycF9sNlg3?oc=5",
+          "domain": "thetimesnews.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Smith Mountain Eagle",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNWTMyUlJuWW1MNUlZTUQtWjVBWDMxUExuU3g0NzBwY1V6ekxSeno4RzR6Y0VsdVNROEFPMUFqRE40eE9WSWJXYU5LYlF4ME8tT0VZQjJka293bjBzRU5QVmVlZDdWeDV5c3ZzVWhvX2dBYVNJc1NINWJLb2xZWGtkWDVaRjNIejNmTGVDcDNmZnNpaS1CX1NsUlBvNWJMaHVXWlNjc2RRR0tvWjRVSHRIQTYxeEc3RVJyQXdDa241R3NsaG1LRFB1R3lsT2hwSDVaMlZfcERwTVRDQ1d4NE81N0NVZUZNTG5jVWJXWW5VeF9XcndGQUxMSGlodVdYN0JzWVRTRF9IUzhCcm05RjRsNW1fWldrekluTlFxVktERHU?oc=5",
+          "domain": "smithmountaineagle.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Kinston.com",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5",
+          "domain": "kinston.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
         }
       ],
-      "coverage_count": 2,
-      "event_signature": "2027 cms cuts fall rates services"
+      "coverage_count": 8,
+      "event_signature": "2026 financial october quarter release results third"
     },
     {
       "id": "a13e8a38a49c4a2753b8",
@@ -1607,7 +1595,7 @@
       "company": "Quest Diagnostics",
       "title": "Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics",
       "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQMUtBQXktYUV4ME1VbkFIajVlNWpSUFNLQlp5RHpiWnR4eC0xd29ITUxza1lUMlUydVdpUzNiaXB4NUFqTlNGMmF4cnJ3TEFWTHlfZy1MSTFCWGhGSWMxYkdBTFpNZFVVLUd3dnF1amJTejFVS2F1SGp0NEl4Tlg1amZDN0hfY09fTXRLYnE4Q0JTTTNOSHRrNjJMRjlWeTJVa3FrUVZJQ1ZMcjRWZzd4am91X015V21VQVMzUUdaOTJlREJORFRkQlROMlc2UmlrV0ZkNmxCc3NFdnVncVpqMkM3LW9nb0RyblpNTTNfSU9rWThDN2xkZUdXcDZGYkZuMEloUUIyQlVrVnJWM1kycVBJYVQ?oc=5",
-      "description": "Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics PR Newswire",
+      "description": "Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics prnewswire.com",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -1631,6 +1619,60 @@
       ],
       "coverage_count": 2,
       "event_signature": "are borne disease finds lyme nearly other pathogens patients positive study suspected tick"
+    },
+    {
+      "id": "5ce025e75dac0ab4f0ef",
+      "company": "Labcorp",
+      "title": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
+      "description": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-21T07:00:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-21T21:13:01+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2027 cms cuts fall rates services"
+    },
+    {
+      "id": "10e080cf33d21403ba00",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Is Dropping Despite Target Hike",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5",
+      "description": "Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-09-21T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "despite dropping hike target why"
     },
     {
       "id": "586b6e6e954d0002e3de",
@@ -2457,7 +2499,7 @@
       "source": "Seeking Alpha",
       "source_url": "https://seekingalpha.com",
       "source_domain": "seekingalpha.com",
-      "published_at": "2026-09-12T23:13:46+00:00",
+      "published_at": "2026-09-12T07:00:00+00:00",
       "published_display": "12 Sep 2026",
       "category": "Financials",
       "official_source": false,
@@ -2466,7 +2508,7 @@
           "name": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFBqYzJubHJ4a3RZaHRaSk1DNHVPcEdBTDJGbFg5TW5CRXVJMUxudF9zajF0SXNybmtIb19uN3ZHOGxmbnc5U3lyVzRTVUExTGFSWDdoTGtmU0lodFcyQ0xMNHpERlFEYjFyR0lmYk1KTElwZ0Nmc2NxcGEzVGNyWWp5alhQbU1yOThGZVRlektjTnU0QkYyTGFfSQ?oc=5",
           "domain": "seekingalpha.com",
-          "published_at": "2026-09-12T23:13:46+00:00"
+          "published_at": "2026-09-12T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -3509,7 +3551,7 @@
       "company": "Labcorp",
       "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
-      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
+      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials prnewswire.com",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -11896,10 +11938,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-09-30T12:17:00+05:30",
-  "next_update_display": "30 Sep 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-01T00:17:00+05:30",
+  "next_update_display": "01 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

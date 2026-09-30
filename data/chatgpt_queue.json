@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T12:51:27.618639+05:30",
-  "generated_at_display": "30 Sep 2026, 12:51 PM IST",
+  "generated_at": "2026-09-30T18:31:51.004252+05:30",
+  "generated_at_display": "30 Sep 2026, 6:31 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 239,
+  "remaining_unsummarized_count": 240,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -340,7 +340,7 @@
       "category": "Partnership, M&A",
       "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
       "source": "PR Newswire",
-      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials PR Newswire",
+      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials prnewswire.com",
       "published_at": "2026-09-08T07:00:00+00:00",
       "published_display": "08 Sep 2026",
       "official_source": false,
@@ -606,7 +606,7 @@
       "title": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)",
       "source": "Seeking Alpha",
       "description": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha",
-      "published_at": "2026-09-21T21:13:01+00:00",
+      "published_at": "2026-09-21T07:00:00+00:00",
       "published_display": "21 Sep 2026",
       "official_source": false,
       "coverage_count": 2,
