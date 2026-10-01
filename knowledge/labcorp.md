@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 01 Oct 2026, 12:04 PM IST
+- **Repository generated:** 01 Oct 2026, 7:26 PM IST
 - **Distinct events in this file:** 159
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,12 +10,13 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5
   - AOL.com: https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtYLTAxbC1zSG9RVnFIV3FEZVV0RURLV091LUN2STlBT2xZM1c1cXZnd2t5OU9xcDloZG56TElfeGFoRUtScVlDdlNKRTZDblBHR1NMaDZ1VEJZTXVpN2NhMzdOMUZMVHpfNURrbDBmaFM1a2ZqeFVRdVNuVXZNc1pXcDMxQQ?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUENnU0Z1cjR0RWlGY0JGZGcyZndmSnV1OXBrN1pobzB5cjRHNDg2dHFWM1VENGhQUFBpdHdYMjE4QWxQbkg5QW1hU096SGlsSlByUnhGcUZKaFJYSV9BYnVHMVhwM1pwWmgwWGhMdVRCTlA3NE9KOVJQa1B3LVkyaXZrbTh4ZzN6Y3ZKNlVzN3B5bUpaekp6LS13UDdrWmszaGg4QjlfNU42X044NFpMaFhoMXRpOUJrRGJWcE9jd1VvT3pEVTlFc0Y4NkMtazgtdlg0endB?oc=5
+  - Moomoo: https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFJpV19adDM3cGFCT2ZORDhuNVl5azk0LVJ2Z09rdkdnS0xSZW5ZT21NSGYxM296UllwUzZHX29IVG5jTGp4RFhJUjA0bnR0dXlMN0czWDcwZ3FzYnZqWmVab3FjcXRPYW5mWUFPVEM3emZtei1ibG5YVnByM3BtTVRMWDRDM2ZDR0ZpeUg1V3lkNFczall4bEM4Q2NCbklwbDJramZ0SzFGcGk3WktuUA?oc=5
 
 **Feed description:** Labcorp to report Q3 2026 results Oct. 28, will webcast earnings at 9:00 a.m. ET TradingView
 
@@ -159,11 +160,12 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - WKOW: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5
   - shattered.io: https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5
+  - WXOW: https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ2FZbjJKd2V4UkV1UmFPNGZ1OWxWajVsYWpXTHVCcUo5aDhUN2hHN2dYMl9peDViaHpWSVNJVDgtVnVwNjk0alBrWGhjNE1vNUxPb25iZU5BYVkxc2JUbTFnZE1qclZISkZTalBCT3hXOHE1eFU2UFdMbXU4M096SXFxaDNfTkR2d3pFelB5cWtxWVNOX0lvREpLcTgydERBR2R0S0huRUtMbFBYXzJYMmppdGc4VXNaQ2VEWXBxT0RhOG9BbURRRUVCRGttVU5TT1NFUHU3ME0ydlhSd2ZkMGhBbU9LUEVzU1lNaWpYZnRUOEtpWlp0R2pUZzFGWW9vZU1ySFh5YUFZNF9r?oc=5
 
 **Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
 
@@ -305,7 +307,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 11
+- **Coverage count:** 13
 - **Official source involved:** No
 - **Sources:**
   - pennwatch.org: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5
@@ -319,8 +321,10 @@
   - Rural Radio Network: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTdzd2Y0aHNmeTVscDVoZFBVb1FWT3BoSEJkUkZ1cENpMzBMSUhBd3Z4SFQwMVNSUDA4NGd6UDQ4Z1VqVGxkWXV6Q2tLaExBOXVjU2hYU0dGaDZJQ0wteU1KQWhXZk80XzEzeXF3aUJENGE4cVZmUlMyXzdlOTFBaU9ESTZaS2hJUEh0YXBxRXRLNFh4WjRURUhoRWFDdGxield6bF92dEpDczB3a05CT0RHQ0hCTFNxSl83RkRLd0FXVEs2YWxuSGhPTkdlUHZn?oc=5
   - Rural Radio Network: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2JrcDRzVWdIMHI1aG5Wa242WTN2RnMtSkl5aG1ZSkNYaHZQbjY2MDFBellpNTRicFdqYkxsaUV3ZHBJUTYzT0d3Z0IyRG9LTjlOUDhyUDEzWW1Rci14RDdjeC1sbHRPeUp1MXJDTkhXbGFfc0ZpVW1lLUt4YXNwMlpvME4zOVFTWVRVTmlrZ0RXUHBXbU9jckd0bnEtYjEza0pqZmJyaXFMRnlFVUVodXZISGpBTHhSYVVtQ3ZWZUZheTFaWmdfNThHT0o5NktHMTBIaQ?oc=5
   - Coastal Point: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJtblFiS0JiR3duNGZyLTFWbi1pVEF3cG9OWFEyRVZwRkNVcW9SYzVoRmhSM0lmbzhJeFRkdHR3MElfcURrbWl4bDdlUjJVTE8tSXpMX2pGbDVBQWFtSW96d3dMYTdVdHpXOUVMeHI2SXdrZkd0WmZTTWdlU09VdHNxNndCajJ5MXlqUHJnSUNNS3ZrUF9rY0VCWWMtTVBYRURLTllxc3ZSWFJNVEs5R3Jhc05jTUtmTERJaVhvZFVidUdIYjRvSEh3eXE1ZDBqbTZlWXAybnZELURnZHdFc0ZOTQ?oc=5
+  - Urban Milwaukee: https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFsQ2dVQnVrRDkyMXNveW93LWc1bjdiLWJOc21ObjFGVTZYZXR0ZGxyX0FLM1VEZXFQck5IVk1EekRuRHlEZWs0T1VZemlCRHhQNTZvRFFkUGt4NGZxa0pBdU1wa3lUYmlCQUcweFVPMmVLMGVwY0FjOG5acWNkZGdlZkY2U0ZaVjdJR2dRNTluOHR5SHNVampuTElwTFhtU05xdE4zbDZwNWZPajlpUGFXUWotUTBQb1N3dUVKQ0FCdjRqX1Z4MVREOW1jbHJpRFZOLUxsS05odFpYeG5Lam9ZOTBzdlhZbTR2b2lvc0RIY1piYjNPbkZBMDZrWGNVVFVRZldOTlE5RXlaSXc?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmVVSUdBQXdYYUNpV3J0VUY2VWZ5ZjI3TU1acGJHYWlMVGxGeWJfc0N1aUd2NDQ0V3l1b1J1bU9RdVFZc1lzdXBOYkFCczFyMzcxNE9zWHp0OW5vN0gxQkphcWRpTHpJdk5EckZrRWUzVlp2b0NsWTR1TjFCRHJoeFgtNi0tOFQxZ0IzSFNmcFhETmV2SDZkVDZ4dThkR3BZdlNPZUNGUEhzMU9Nb2NyRFZGR2kxNDRLekxISkE1cnloOWN1eGotWmdXcUdMS0E?oc=5
 
-**Feed description:** Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach chadronradio.com
+**Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
 ## 25. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
 
