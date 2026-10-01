@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-01T19:26:32.276911+05:30",
-  "generated_at_display": "01 Oct 2026, 7:26 PM IST",
-  "item_count": 355,
+  "generated_at": "2026-10-02T04:25:35.194321+05:30",
+  "generated_at_display": "02 Oct 2026, 4:25 AM IST",
+  "item_count": 358,
   "raw_relevant_item_count": 554,
-  "duplicates_merged": 115,
+  "duplicates_merged": 113,
   "failures": [],
   "items": [
+    {
+      "id": "1e0ab8ea2953ebdbeed6",
+      "company": "Labcorp",
+      "title": "Labcorp web tracking class action settlement",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
+      "description": "Labcorp web tracking class action settlement Top Class Actions",
+      "source": "Top Class Actions",
+      "source_url": "https://topclassactions.com",
+      "source_domain": "topclassactions.com",
+      "published_at": "2026-10-01T18:03:35+00:00",
+      "published_display": "01 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Top Class Actions",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
+          "domain": "topclassactions.com",
+          "published_at": "2026-10-01T18:03:35+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action class settlement tracking web"
+    },
+    {
+      "id": "67b952286720b5fd0c66",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNE9VcjJxaW5WVnhmZTlIblUyZzJFZmw2RnlHQjZqVDViWmQya0x0bW5BR2NtMVBBVjVDV09uZnQ5SEJqbGFEcVBFVldqRWNxQVd5Mk1WVnBvcmtGZHlMMlpzYV9MT3BzTFZWUXJQWUdaTmZuUnMzcHFwNy0tTTEzUzgwcC1mbUZ3YXdpR3J3VjlqNUwwYVRTYWZ4SkxJNWl1ZGNtekVkeG85dVJQbUllSFhkZDJiRGJMblRiLXBDaTI3MzBI?oc=5",
+      "description": "Quest Diagnostics (DGX) Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-01T14:03:24+00:00",
+      "published_display": "01 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNE9VcjJxaW5WVnhmZTlIblUyZzJFZmw2RnlHQjZqVDViWmQya0x0bW5BR2NtMVBBVjVDV09uZnQ5SEJqbGFEcVBFVldqRWNxQVd5Mk1WVnBvcmtGZHlMMlpzYV9MT3BzTFZWUXJQWUdaTmZuUnMzcHFwNy0tTTEzUzgwcC1mbUZ3YXdpR3J3VjlqNUwwYVRTYWZ4SkxJNWl1ZGNtekVkeG85dVJQbUllSFhkZDJiRGJMblRiLXBDaTI3MzBI?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-01T14:03:24+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accuracy cancer colorectal haystack highlights mrd test trials"
+    },
     {
       "id": "9356beaf26d4d34f2ccf",
       "company": "Quest Diagnostics",
@@ -335,7 +383,7 @@
       "company": "Labcorp",
       "title": "Labcorp Data Breach Settlement Includes $100,000 For North Carolina",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5",
-      "description": "Labcorp Data Breach Settlement Includes $100,000 For North Carolina WHKY",
+      "description": "Labcorp Data Breach Settlement Includes $100,000 For North Carolina whky.com",
       "source": "WHKY",
       "source_url": "https://whky.com",
       "source_domain": "whky.com",
@@ -1045,6 +1093,30 @@
       "event_signature": "agency american attorney breach collection data general medical multistate over settlement"
     },
     {
+      "id": "8d40e88153c49f3c351d",
+      "company": "Quest Diagnostics",
+      "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQlBzRHJPaXAtSzM4QUFsTDJTSDNRbDhmRDdvVmNJalp1dUFaZ3preXNnWDdzUW1ldXhxUXFEbHBIT3dseEJQeHRKeFhOLUR1M2pZSl9WcVVpM3VSa3ZtVXZWYXh4SGdQelpfWXdEdFlhckJKS2JsYzRuLXpvOExrLVMydWNXb2dyOXRWbE1kVHVheGVfWTNvWFdUMnFLX2VNMm9Za3RQZWVoWnpWWGQxcE4xXzFOYVFfWWt6X2pDX1BQNHZaeFJOaEhuM0JsYUFmVzFENDlhVTZNbUVJSGtNTHZSWXdpOWNsLWJrZlJwM3FUbkxUN0NFbHVpaEM5a0VxVktndXp6RDVDd3VmaVdYNUx1bVVwS2prN0NMSjU1WEVjaWIzN19yVFBB?oc=5",
+      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX), AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX) The Globe and Mail",
+      "source": "The Globe and Mail",
+      "source_url": "https://www.theglobeandmail.com",
+      "source_domain": "theglobeandmail.com",
+      "published_at": "2026-09-24T09:12:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQlBzRHJPaXAtSzM4QUFsTDJTSDNRbDhmRDdvVmNJalp1dUFaZ3preXNnWDdzUW1ldXhxUXFEbHBIT3dseEJQeHRKeFhOLUR1M2pZSl9WcVVpM3VSa3ZtVXZWYXh4SGdQelpfWXdEdFlhckJKS2JsYzRuLXpvOExrLVMydWNXb2dyOXRWbE1kVHVheGVfWTNvWFdUMnFLX2VNMm9Za3RQZWVoWnpWWGQxcE4xXzFOYVFfWWt6X2pDX1BQNHZaeFJOaEhuM0JsYUFmVzFENDlhVTZNbUVJSGtNTHZSWXdpOWNsLWJrZlJwM3FUbkxUN0NFbHVpaEM5a0VxVktndXp6RDVDd3VmaVdYNUx1bVVwS2prN0NMSjU1WEVjaWIzN19yVFBB?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-09-24T09:12:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "anab analysts anaptysbio companies insights offer pharmaceuticals vertex vrtx"
+    },
+    {
       "id": "fa16d8fbc7aaf2016700",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock reports growth as reimbursement risk rises",
@@ -1351,9 +1423,15 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRpQmJzNXNXMnU0bmFzeW95UzQ4WHM2Vi15UDFtVU5xRE5LRHRmNFhYcUVZRzZoOFE4T3AxajVBZVF1ZFhJVEJDeG5YelRCZW0wWnQxekJBcFl6enlLd2FXdVIwbXNvc1IzRG9oVm9rd3otZ2UwdVVxQmZETDZfTUVpS3JEb2Z2Y0FTVU9WZ3BYQjBsZnRxeS0xQldwU3ZoLWs3dkFweW5sc0RWdy0wSXMtS09TQkVLaEJxUTJRYzlTSXFEU3ZKMXJjLWFPOUcyZlExTE4tU2dReFdCVDJfRmxn?oc=5",
           "domain": "biospectrumasia.com",
           "published_at": "2026-09-25T07:39:47+00:00"
+        },
+        {
+          "name": "BioSpectrum Asia",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVEpGMkxSQ19xbWxNRnJhc2lheEFKMWprOHpPaWI3aVVuOWNmY1pFNDVuM3RyNi1SNHJJdWVKUEZOblRNc0I2cnNheGh3ZVJxbm51UG1OS1NmcFdYTUpqdS1xRm9DUGZjSXJzVkZKcVV2NXY4UkFkcFBPM2ZxVU9UWGFndkJNOXFyWkF3TUUxWTY3dnM3Z2FBV2ZOZlRxWFBuZGpqUWZyc0NxZWdzODhZVDNzWUVYei10b3h1MmVVVFl0VXZXQXVDenNjbmVfLTI0WVRWc3ZlN1kzOTRNb1RoSWUza0w1QWIteWlXWHpqclpzbFVCUTVUVVRndjRDcGlseHc?oc=5",
+          "domain": "biospectrumasia.com",
+          "published_at": "2026-09-25T07:39:47+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -1379,30 +1457,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "app apple lab orders partner"
-    },
-    {
-      "id": "3f23faf7f64b6bcee085",
-      "company": "Labcorp",
-      "title": "Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5",
-      "description": "Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "source_domain": "seekingalpha.com",
-      "published_at": "2026-09-22T21:53:49+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-09-22T21:53:49+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "clinical cuts demand despite driven future impact medicare testing"
     },
     {
       "id": "0807c85a76b15a295cc0",
@@ -1489,42 +1543,6 @@
       "event_signature": "action breach class data million settlement"
     },
     {
-      "id": "8f3b45a407ab004dc28d",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
-      "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
-      "source": "finance.yahoo.com",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-22T14:00:00+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-22T14:00:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-09-22T14:19:18+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHU5Y2VEZU5HSUQ3WW15bk9rT0xDWVg1VEVlX29KcGpSR2hWaVBMZEdlS0w3dGpSR2ZKd1UyY3BiLXVkY3Rla1ZZNnl3Q3dCT0ltZHZlSjBOR1ZVU1FwNTdBaTNDSDFGak0xQ1p3Nl9QUjBPTklxWUJEZFZWUVpGczB5YUtXNkUtVTVfQXR5N25HYXMwSTRZOHdyQW5jcjNNeWJ4c3g3amFFdw?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-09-22T16:41:15+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "borne disease exposure finds high study tick"
-    },
-    {
       "id": "4ff6081157bcc4de7a20",
       "company": "Quest Diagnostics",
       "title": "Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more",
@@ -1583,6 +1601,66 @@
       ],
       "coverage_count": 3,
       "event_signature": "earnings long outlook reaffirms term"
+    },
+    {
+      "id": "3f23faf7f64b6bcee085",
+      "company": "Labcorp",
+      "title": "Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5",
+      "description": "Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clinical cuts demand despite driven future impact medicare testing"
+    },
+    {
+      "id": "06e5f082989e7c1d2ad3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
+      "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNREd3UzhvT2VHcVUxN1RBLS1uZFNXbHp3Q3VyTDlGdGR3OXBTMmpNb09LM2JfZWpScUVJYUF4ekRBbFktRm5Jck9OWWFsaXRRb21wLVBuay05cF8xcFhNY0N0Y3FYaGtlNHh2VTBVY0IwakZ3eWdQNzlnRHEyQTd3RVBuMHhOZjNCTGVVSVllemJockhiblRNcER5RGo3Z1lqQ1Q0S3g4VHJ0S3h3aFRseC1ZaWc5OUdqTVpYWmNfOTgtVGZtVzdmajFnSFVMc2d4Ti1IV3JETE83VWgwc0g5UXF4R2UtNG1ueWYwZXZGM0tPZUlEVnJFMGlvLXVrS0Z2?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-22T14:19:18+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHU5Y2VEZU5HSUQ3WW15bk9rT0xDWVg1VEVlX29KcGpSR2hWaVBMZEdlS0w3dGpSR2ZKd1UyY3BiLXVkY3Rla1ZZNnl3Q3dCT0ltZHZlSjBOR1ZVU1FwNTdBaTNDSDFGak0xQ1p3Nl9QUjBPTklxWUJEZFZWUVpGczB5YUtXNkUtVTVfQXR5N25HYXMwSTRZOHdyQW5jcjNNeWJ4c3g3amFFdw?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-22T16:41:15+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "borne disease exposure finds high study tick"
     },
     {
       "id": "7b39da611e35474f17ea",
@@ -12058,10 +12136,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 81,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-02T00:17:00+05:30",
-  "next_update_display": "02 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-02T06:17:00+05:30",
+  "next_update_display": "02 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

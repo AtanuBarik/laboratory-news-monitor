@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T00:30:25.925675+05:30",
-  "generated_at_display": "02 Oct 2026, 12:30 AM IST",
+  "generated_at": "2026-10-02T04:25:39.316035+05:30",
+  "generated_at_display": "02 Oct 2026, 4:25 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 243,
+  "remaining_unsummarized_count": 246,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -56,7 +56,7 @@
       "published_at": "2026-09-23T01:30:00+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
-      "coverage_count": 7,
+      "coverage_count": 8,
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
       "sources": [
         {
@@ -86,6 +86,10 @@
         {
           "name": "BioSpectrum Asia",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRpQmJzNXNXMnU0bmFzeW95UzQ4WHM2Vi15UDFtVU5xRE5LRHRmNFhYcUVZRzZoOFE4T3AxajVBZVF1ZFhJVEJDeG5YelRCZW0wWnQxekJBcFl6enlLd2FXdVIwbXNvc1IzRG9oVm9rd3otZ2UwdVVxQmZETDZfTUVpS3JEb2Z2Y0FTVU9WZ3BYQjBsZnRxeS0xQldwU3ZoLWs3dkFweW5sc0RWdy0wSXMtS09TQkVLaEJxUTJRYzlTSXFEU3ZKMXJjLWFPOUcyZlExTE4tU2dReFdCVDJfRmxn?oc=5"
+        },
+        {
+          "name": "BioSpectrum Asia",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVEpGMkxSQ19xbWxNRnJhc2lheEFKMWprOHpPaWI3aVVuOWNmY1pFNDVuM3RyNi1SNHJJdWVKUEZOblRNc0I2cnNheGh3ZVJxbm51UG1OS1NmcFdYTUpqdS1xRm9DUGZjSXJzVkZKcVV2NXY4UkFkcFBPM2ZxVU9UWGFndkJNOXFyWkF3TUUxWTY3dnM3Z2FBV2ZOZlRxWFBuZGpqUWZyc0NxZWdzODhZVDNzWUVYei10b3h1MmVVVFl0VXZXQXVDenNjbmVfLTI0WVRWc3ZlN1kzOTRNb1RoSWUza0w1QWIteWlXWHpqclpzbFVCUTVUVVRndjRDcGlseHc?oc=5"
         }
       ]
     },
@@ -596,20 +600,20 @@
       ]
     },
     {
-      "id": "8f3b45a407ab004dc28d",
+      "id": "06e5f082989e7c1d2ad3",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
       "title": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "description": "Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research",
-      "published_at": "2026-09-22T14:00:00+00:00",
+      "published_at": "2026-09-22T07:00:00+00:00",
       "published_display": "22 Sep 2026",
       "official_source": false,
       "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5",
       "sources": [
         {
-          "name": "finance.yahoo.com",
+          "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSFNOTXhZb1BTS0lzZFJWN0h4NmQwVVJxQ18tUUZuNTVKZ1JBY3dEb1ZFNEp2NUd3dlkyM0hRTWt4TklmLVNFWnE4SjdFd0ZIZzFQdlpwa3g2dEJzNy1SSExzS1ZBY0o4N2J4RGNERHk3ZEpUUG5oV0l1OTJWUmJ6Y0J6dDZYalBmeHNGbU12T0FJVGhOMXRDZlZycw?oc=5"
         },
         {
