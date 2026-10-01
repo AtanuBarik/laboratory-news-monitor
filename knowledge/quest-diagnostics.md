@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 01 Oct 2026, 4:08 AM IST
+- **Repository generated:** 01 Oct 2026, 12:04 PM IST
 - **Distinct events in this file:** 161
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -352,19 +352,7 @@
 
 **Feed description:** Quest Diagnostics, Apple team up on lab testing via Health app njbiz.com
 
-## 28. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 16 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWs0c2M1clI2N0E0YTFpWVJMdWhqSDRqQS1ZLWRzWDBqNV81YXdILXNYdEtqTnBqWkZTR0pqcXFiNFlDZFJHZU1vOFNCd0R3S1J5eTR5Y19yd3JyZlI5anl4cHJZS21VZXNjZXIxVTdJa2tfbjdDOGFGaDVNSUFnSVd1N3I5MWp0ZUhZQXhIazFxOW9nZi1IcnJjWW5aUEp2WElTNUF4QW84Tks5VGxPSXBYcTdhYVlGdFJLeXMtNklkWXhhWHNGYndiTFV0UQ?oc=5
-
-**Feed description:** Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime ad-hoc-news.de
-
-## 29. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
+## 28. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -378,7 +366,7 @@
 
 **Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com
 
-## 30. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
+## 29. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -389,6 +377,18 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com
+
+## 30. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 16 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWs0c2M1clI2N0E0YTFpWVJMdWhqSDRqQS1ZLWRzWDBqNV81YXdILXNYdEtqTnBqWkZTR0pqcXFiNFlDZFJHZU1vOFNCd0R3S1J5eTR5Y19yd3JyZlI5anl4cHJZS21VZXNjZXIxVTdJa2tfbjdDOGFGaDVNSUFnSVd1N3I5MWp0ZUhZQXhIazFxOW9nZi1IcnJjWW5aUEp2WElTNUF4QW84Tks5VGxPSXBYcTdhYVlGdFJLeXMtNklkWXhhWHNGYndiTFV0UQ?oc=5
+
+**Feed description:** Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime ad-hoc-news.de
 
 ## 31. A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08
 

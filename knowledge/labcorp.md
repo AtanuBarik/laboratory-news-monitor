@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 01 Oct 2026, 4:08 AM IST
+- **Repository generated:** 01 Oct 2026, 12:04 PM IST
 - **Distinct events in this file:** 159
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,9 +10,10 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
+  - Morningstar: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5
   - AOL.com: https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtYLTAxbC1zSG9RVnFIV3FEZVV0RURLV091LUN2STlBT2xZM1c1cXZnd2t5OU9xcDloZG56TElfeGFoRUtScVlDdlNKRTZDblBHR1NMaDZ1VEJZTXVpN2NhMzdOMUZMVHpfNURrbDBmaFM1a2ZqeFVRdVNuVXZNc1pXcDMxQQ?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUENnU0Z1cjR0RWlGY0JGZGcyZndmSnV1OXBrN1pobzB5cjRHNDg2dHFWM1VENGhQUFBpdHdYMjE4QWxQbkg5QW1hU096SGlsSlByUnhGcUZKaFJYSV9BYnVHMVhwM1pwWmgwWGhMdVRCTlA3NE9KOVJQa1B3LVkyaXZrbTh4ZzN6Y3ZKNlVzN3B5bUpaekp6LS13UDdrWmszaGg4QjlfNU42X044NFpMaFhoMXRpOUJrRGJWcE9jd1VvT3pEVTlFc0Y4NkMtazgtdlg0endB?oc=5
 

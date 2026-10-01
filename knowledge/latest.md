@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 01 Oct 2026, 4:08 AM IST
+- **Repository generated:** 01 Oct 2026, 12:04 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,9 +22,10 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
+  - Morningstar: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5
   - AOL.com: https://news.google.com/rss/articles/CBMihgFBVV95cUxPMGtYLTAxbC1zSG9RVnFIV3FEZVV0RURLV091LUN2STlBT2xZM1c1cXZnd2t5OU9xcDloZG56TElfeGFoRUtScVlDdlNKRTZDblBHR1NMaDZ1VEJZTXVpN2NhMzdOMUZMVHpfNURrbDBmaFM1a2ZqeFVRdVNuVXZNc1pXcDMxQQ?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUENnU0Z1cjR0RWlGY0JGZGcyZndmSnV1OXBrN1pobzB5cjRHNDg2dHFWM1VENGhQUFBpdHdYMjE4QWxQbkg5QW1hU096SGlsSlByUnhGcUZKaFJYSV9BYnVHMVhwM1pwWmgwWGhMdVRCTlA3NE9KOVJQa1B3LVkyaXZrbTh4ZzN6Y3ZKNlVzN3B5bUpaekp6LS13UDdrWmszaGg4QjlfNU42X044NFpMaFhoMXRpOUJrRGJWcE9jd1VvT3pEVTlFc0Y4NkMtazgtdlg0endB?oc=5
 
@@ -882,19 +883,7 @@
 
 **Feed description:** Labcorp Website Tracking Class Action Settlement claimdepot.com
 
-## 68. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 16 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWs0c2M1clI2N0E0YTFpWVJMdWhqSDRqQS1ZLWRzWDBqNV81YXdILXNYdEtqTnBqWkZTR0pqcXFiNFlDZFJHZU1vOFNCd0R3S1J5eTR5Y19yd3JyZlI5anl4cHJZS21VZXNjZXIxVTdJa2tfbjdDOGFGaDVNSUFnSVd1N3I5MWp0ZUhZQXhIazFxOW9nZi1IcnJjWW5aUEp2WElTNUF4QW84Tks5VGxPSXBYcTdhYVlGdFJLeXMtNklkWXhhWHNGYndiTFV0UQ?oc=5
-
-**Feed description:** Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime ad-hoc-news.de
-
-## 69. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
+## 68. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -908,7 +897,7 @@
 
 **Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com
 
-## 70. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
+## 69. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -919,6 +908,18 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2ljVGFPdFZQdUlFVm13N3Z3Y0lBV0d4bXllQVhyc1VOcWctNVFSM3FFM0w4Y2NhR05vWVkzY2ZtbzBaeXRraHM1N2hUYWs0Wjc2ZTV3M1JuLUNuRzV3a0pjRmJZUUsyQUZjM1BfYmlqN2xvNVRZbnh4M25xd0dqeWZ1eWRkelhnb3ZNS1hBbERoNHRlbE5oN09oQUh0LWZpQllWblViSQ?oc=5
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com
+
+## 70. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 16 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWs0c2M1clI2N0E0YTFpWVJMdWhqSDRqQS1ZLWRzWDBqNV81YXdILXNYdEtqTnBqWkZTR0pqcXFiNFlDZFJHZU1vOFNCd0R3S1J5eTR5Y19yd3JyZlI5anl4cHJZS21VZXNjZXIxVTdJa2tfbjdDOGFGaDVNSUFnSVd1N3I5MWp0ZUhZQXhIazFxOW9nZi1IcnJjWW5aUEp2WElTNUF4QW84Tks5VGxPSXBYcTdhYVlGdFJLeXMtNklkWXhhWHNGYndiTFV0UQ?oc=5
+
+**Feed description:** Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime ad-hoc-news.de
 
 ## 71. A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08
 
