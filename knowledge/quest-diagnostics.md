@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 02 Oct 2026, 4:25 AM IST
+- **Repository generated:** 02 Oct 2026, 11:45 AM IST
 - **Distinct events in this file:** 164
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - GuruFocus: https://news.google.com/rss/articles/CBMixAFBVV95cUxNNE9VcjJxaW5WVnhmZTlIblUyZzJFZmw2RnlHQjZqVDViWmQya0x0bW5BR2NtMVBBVjVDV09uZnQ5SEJqbGFEcVBFVldqRWNxQVd5Mk1WVnBvcmtGZHlMMlpzYV9MT3BzTFZWUXJQWUdaTmZuUnMzcHFwNy0tTTEzUzgwcC1mbUZ3YXdpR3J3VjlqNUwwYVRTYWZ4SkxJNWl1ZGNtekVkeG85dVJQbUllSFhkZDJiRGJMblRiLXBDaTI3MzBI?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials GuruFocus
+**Feed description:** Quest Diagnostics (DGX) Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials gurufocus.com
 
 ## 2. Quest Diagnostics stock pre-market at EUR 206.40: plus 0.22 percent
 
@@ -272,21 +272,7 @@
 
 **Feed description:** Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media
 
-## 22. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 21 Sep 2026
-- **Category:** Other
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpfaThnNEIyOTZXRjZJdWFnbWRLQTYyamZVcFhWYnlOZVBqU1RsS1hialY4WWk2YWdoV3h4eHFHRU00bTdRN3E0OGxYSk1RVE1nVVNLMlpqQlRlMTZwSi1TYjBDRzMyMk1pLUtCSm9BcFBUVm9kZWp2S3lKOUJ3Mm96dDF3S3U1U3FHX1hYQmVnSFVRT2pidkZGTWFxUFkwUklmUGx6NHFNMVFEMlhEY0h2clBzbU0wYUdPemdQbTNiWk5Celp3ajFCZkdzdw?oc=5
-  - es.tradingview.com: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHVGelBBOEtvTXNYNUZfRmpITWRoVGZOUGE1ZE1kSEZKblhrMmJGNkFUZkZzNE9lajJlNVpvLVpCZlJ0VXRpTC1DSXJaQWt4VkM0dS05VUpjRzJxTTJtV252ZVZiR1FTTVZBX3RVcGxkOVR2OGtKOEZqRW05SEtQcEZ4MUpoRENnUXlsaU8wRktjMTZEY24zdElRQlJKV01lajloR1Nib1pOaGxPeVRFQlc5ZlpGb3l5czRsZ1lDakRlcnpPMHoydnBkVmc?oc=5
-
-**Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com
-
-## 23. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
+## 22. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -299,7 +285,7 @@
 
 **Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics prnewswire.com
 
-## 24. Why Quest Diagnostics Is Dropping Despite Target Hike
+## 23. Why Quest Diagnostics Is Dropping Despite Target Hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -310,6 +296,20 @@
   - TipRanks: https://news.google.com/rss/articles/CBMilwFBVV95cUxQQ0ExdFJVdGx6b2MySGN4dmM0U2ZvTlc5eTcxY1AzRzFUeHViMm0yS0NFWEFqclE2OEZNLWdraUhkZjZXUExSUGtXMUlGU05fR2FPTFNVQkdBcDdPZEdwU214QmRvVU14TkxZbHRkWEhDV1RPa0xLQlNoSDZtU1Rwbm5rQ0IzUFo4Ynp5LXp5bnhoSUdWVnYw?oc=5
 
 **Feed description:** Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks
+
+## 24. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 21 Sep 2026
+- **Category:** Other
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGRQWGdzbU92VzA1eHVJcU9qQmJFSzFBbnpKUWhNSkR1M3NMTVpEbDV0OVpEVjlJdS03bGtCRzV0di05d1d4eENWdGhudlZmSVhYNUxlQlZHbGNWMWJ3NzVfaWdId1VVbnZZV1FmcEVxWVNtYktOV0NydF9EM3pQOFVWbWRCOUgyRDh0eS1seUJHUU8ydkY1N2U4RWNwV1E?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMizgFBVV95cUxQTHpfaThnNEIyOTZXRjZJdWFnbWRLQTYyamZVcFhWYnlOZVBqU1RsS1hialY4WWk2YWdoV3h4eHFHRU00bTdRN3E0OGxYSk1RVE1nVVNLMlpqQlRlMTZwSi1TYjBDRzMyMk1pLUtCSm9BcFBUVm9kZWp2S3lKOUJ3Mm96dDF3S3U1U3FHX1hYQmVnSFVRT2pidkZGTWFxUFkwUklmUGx6NHFNMVFEMlhEY0h2clBzbU0wYUdPemdQbTNiWk5Celp3ajFCZkdzdw?oc=5
+  - es.tradingview.com: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHVGelBBOEtvTXNYNUZfRmpITWRoVGZOUGE1ZE1kSEZKblhrMmJGNkFUZkZzNE9lajJlNVpvLVpCZlJ0VXRpTC1DSXJaQWt4VkM0dS05VUpjRzJxTTJtV252ZVZiR1FTTVZBX3RVcGxkOVR2OGtKOEZqRW05SEtQcEZ4MUpoRENnUXlsaU8wRktjMTZEY24zdElRQlJKV01lajloR1Nib1pOaGxPeVRFQlc5ZlpGb3l5czRsZ1lDakRlcnpPMHoydnBkVmc?oc=5
+
+**Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com
 
 ## 25. Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally
 

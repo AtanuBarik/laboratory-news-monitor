@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 02 Oct 2026, 4:25 AM IST
+- **Repository generated:** 02 Oct 2026, 11:45 AM IST
 - **Distinct events in this file:** 160
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -691,11 +691,12 @@
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Bitget: https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kSmdiZGt4SWNoWTRBcDhoajJZUXNIVE00WHZKWUF1ZDdTRXNfSkQtT2NlcklLMXNnR0ZXaWg5bU9uZUxaZDlZTlJ1eUFXeVdObjF3dTdOUC1pVVhjYUhCdEJRRdIBY0FVX3lxTE1kSmdiZGt4SWNoWTRBcDhoajJZUXNIVE00WHZKWUF1ZDdTRXNfSkQtT2NlcklLMXNnR0ZXaWg5bU9uZUxaZDlZTlJ1eUFXeVdObjF3dTdOUC1pVVhjYUhCdEJRRQ?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVFltYlZoVk1ucldzb0ZwWVhXX29OaWJjTDB0bmxBZDZPdEVTQU9Pa1BfQ1phcF9SQ2M4bm0xa2U1UE9KUzQ2dmQ5SnIwVVo5TTBYUnRUSGJnMEJha0tIY3RodkEwOTViUW91ZU01bENKMnR3N1BSNTUwT2w3eFo2Ml85VkJDNlhIQ2hOQ2FTbF9lTHZWeTdMVXhCMG1jZjRGSkNTd1hNRDdwUzB3R3BPb0RvR0FKRVlZZms0?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjlCQzlsdUZKZk9fN0c3UU1Xc1FUUUxFcGNmaUdrdDZGV2J6RmpKNnJwdGxmaHVPRzFzOWNuSmFMZEtPcXpWWkpBUVN2TEVhdVNUWXI2NEY5N1VVS0s4NkNabXRBTVI3ak5oSld1ZGZXVW1lM1dfSXFqbkYwRGZZcTlrYTNQcms3QWNNbWdSYVlST2lIblc4WjFEOVREdFh2NTJr?oc=5
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
