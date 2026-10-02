@@ -1,17 +1,65 @@
 {
-  "generated_at": "2026-10-02T11:45:54.758180+05:30",
-  "generated_at_display": "02 Oct 2026, 11:45 AM IST",
-  "item_count": 358,
-  "raw_relevant_item_count": 558,
-  "duplicates_merged": 118,
+  "generated_at": "2026-10-02T18:42:53.586819+05:30",
+  "generated_at_display": "02 Oct 2026, 6:42 PM IST",
+  "item_count": 362,
+  "raw_relevant_item_count": 561,
+  "duplicates_merged": 115,
   "failures": [],
   "items": [
+    {
+      "id": "47bb942d70df1ff69248",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzZmbUQ1VkJMeWRvem5ENUZDQzVqSFZtbDBGbnZVQzNKTFVsZUQ4aGVvc3V3WXdOQUdGWl93OXhzQUlkOS1fMmhQZmhkdlNacjdQUnJjanlIUWtoZjhxcDI2RFlCSmE3MGVOVW1XN0NvbXZYU2VCbVQ5eVFSZ0o4NFZfOE9faTNCMEZlME9FRjNiTEhmSHhUYkh1T1Zmb0VLb25CYzBYcmxKdllOQXhXcTFaelo1bWtYUjhDUFBwOElvWkRSV2RQQll4M2JseFN1YVNjR0xB?oc=5",
+      "description": "Quest Diagnostics (NYSE:DGX) Breakout Setup Backed by Technical Rating 7 and Setup Rating 8 ChartMill",
+      "source": "ChartMill",
+      "source_url": "https://www.chartmill.com",
+      "source_domain": "chartmill.com",
+      "published_at": "2026-10-02T10:50:38+00:00",
+      "published_display": "02 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzZmbUQ1VkJMeWRvem5ENUZDQzVqSFZtbDBGbnZVQzNKTFVsZUQ4aGVvc3V3WXdOQUdGWl93OXhzQUlkOS1fMmhQZmhkdlNacjdQUnJjanlIUWtoZjhxcDI2RFlCSmE3MGVOVW1XN0NvbXZYU2VCbVQ5eVFSZ0o4NFZfOE9faTNCMEZlME9FRjNiTEhmSHhUYkh1T1Zmb0VLb25CYzBYcmxKdllOQXhXcTFaelo1bWtYUjhDUFBwOElvWkRSV2RQQll4M2JseFN1YVNjR0xB?oc=5",
+          "domain": "chartmill.com",
+          "published_at": "2026-10-02T10:50:38+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "backed breakout rating setup technical"
+    },
+    {
+      "id": "7434e119ed9017f487f0",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDlqbVVmLWgzcTdJUGptdm9iNmVZeHlJSF9OcHFsUGNvR3J3ZHAzR3ZmMGNsbmpJLW1wMHlPUDN5NlRGUWVJSUxGUHJFYlk0ZWZ2Y0dKSGFiQWNJbTd6dnhETmg5Vzhob0RCeUh6TGZEZktsdEtrOEtJME10YXJtQzNwMjFGeXI4OEpzZnUzd1lLdDZjZkxmSE1kS1o?oc=5",
+      "description": "Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven Mississippi Business Journal",
+      "source": "Mississippi Business Journal",
+      "source_url": "https://msbusinessjournal.com",
+      "source_domain": "msbusinessjournal.com",
+      "published_at": "2026-10-02T06:16:22+00:00",
+      "published_display": "02 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Mississippi Business Journal",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDlqbVVmLWgzcTdJUGptdm9iNmVZeHlJSF9OcHFsUGNvR3J3ZHAzR3ZmMGNsbmpJLW1wMHlPUDN5NlRGUWVJSUxGUHJFYlk0ZWZ2Y0dKSGFiQWNJbTd6dnhETmg5Vzhob0RCeUh6TGZEZktsdEtrOEtJME10YXJtQzNwMjFGeXI4OEpzZnUzd1lLdDZjZkxmSE1kS1o?oc=5",
+          "domain": "msbusinessjournal.com",
+          "published_at": "2026-10-02T06:16:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "diagnostic facility open southaven"
+    },
     {
       "id": "1e0ab8ea2953ebdbeed6",
       "company": "Labcorp",
       "title": "Labcorp web tracking class action settlement",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
-      "description": "Labcorp web tracking class action settlement Top Class Actions",
+      "description": "Labcorp web tracking class action settlement topclassactions.com",
       "source": "Top Class Actions",
       "source_url": "https://topclassactions.com",
       "source_domain": "topclassactions.com",
@@ -29,6 +77,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "action class settlement tracking web"
+    },
+    {
+      "id": "640d7786d2461333b199",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdGtBdWFnYXV4OHVEWklHRm9ibnNMSFJka08zWk44RmJfaGt5UHlJY0k2Z0c5MmxOTVBwajdBZUVYajdqNXFpRlZnUlVyc1JzZ1ZjVk5NZWh6NV82aXhiLU1PWTR5cGFaTUx2UnlMWnVneXhUUzNGN0FQWXhJYm5tMlU5QU85TFlDbGEweHJKVlNDeVVVbmV0SldSaG1ZT2ZxVEVqS3VYazJqYmJIN2FrQ3F0MmY3X0VVMDdpN2R5X09zNkctUEhSRi1VLTdHUWN0N0VJTUZWS3JvQWpHVXhmWjBaTVJ5QXE5Q1N4RnZ6NTk3aUlLNXhZWlJETk1SVWtmbGt3?oc=5",
+      "description": "Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-10-01T17:49:50+00:00",
+      "published_display": "01 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdGtBdWFnYXV4OHVEWklHRm9ibnNMSFJka08zWk44RmJfaGt5UHlJY0k2Z0c5MmxOTVBwajdBZUVYajdqNXFpRlZnUlVyc1JzZ1ZjVk5NZWh6NV82aXhiLU1PWTR5cGFaTUx2UnlMWnVneXhUUzNGN0FQWXhJYm5tMlU5QU85TFlDbGEweHJKVlNDeVVVbmV0SldSaG1ZT2ZxVEVqS3VYazJqYmJIN2FrQ3F0MmY3X0VVMDdpN2R5X09zNkctUEhSRi1VLTdHUWN0N0VJTUZWS3JvQWpHVXhmWjBaTVJ5QXE5Q1N4RnZ6NTk3aUlLNXhZWlJETk1SVWtmbGt3?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-10-01T17:49:50+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cancer colorectal detection efficacy haystack mrd shows"
     },
     {
       "id": "67b952286720b5fd0c66",
@@ -77,6 +149,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "206 eur market percent plus pre stock"
+    },
+    {
+      "id": "57ded22a7b767d8330ec",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q1 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5",
+      "description": "Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-09-30T23:46:13+00:00",
+      "published_display": "30 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-30T23:46:13+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings transcript"
     },
     {
       "id": "d01b7ce2b879aa1bda5e",
@@ -2293,54 +2389,6 @@
       "event_signature": "196 247 after gain look price value"
     },
     {
-      "id": "de3f6f174853b93653ec",
-      "company": "Quest Diagnostics",
-      "title": "Why Quest Diagnostics Stock Is Up Today",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dUQmlkc1lid08zZVpISEJOVUp4SWczdTFxRWJmLVQ3bGRZVEMxdDdDYjNzWmktbzZtMms2RnVIX1dDWDBITmtub0FHSDVPTEd1TU16c1VzcGZ0VWIzVkVabFplSno1bUo4MUdiYV8xcXFGaENJbmo5UnpnZTNQYlZnakFEMng0U2I0UmRuQkxNd3BNMnVfaEJBOA?oc=5",
-      "description": "Why Quest Diagnostics Incorporated (DGX) Stock Is Up Today Quiver Quantitative",
-      "source": "Quiver Quantitative",
-      "source_url": "https://www.quiverquant.com",
-      "source_domain": "quiverquant.com",
-      "published_at": "2026-09-15T18:36:00+00:00",
-      "published_display": "15 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dUQmlkc1lid08zZVpISEJOVUp4SWczdTFxRWJmLVQ3bGRZVEMxdDdDYjNzWmktbzZtMms2RnVIX1dDWDBITmtub0FHSDVPTEd1TU16c1VzcGZ0VWIzVkVabFplSno1bUo4MUdiYV8xcXFGaENJbmo5UnpnZTNQYlZnakFEMng0U2I0UmRuQkxNd3BNMnVfaEJBOA?oc=5",
-          "domain": "quiverquant.com",
-          "published_at": "2026-09-15T18:36:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhDUXJEeWJ1LS1tWi1rMm0zUEJEMFZvYWVZWlE4Q19rVk1VZUJpNDVEaVZJelRJUjNyY01vY3hiN2FNYnk1eUtCVmhnaV8yX0Q5NFJPU0dObDVUTjV5R0pOaFNSV1Z6S2l2bEwzZ3ZxX0VYRm9HRU0tWGowZEVqUEpqaDI5V1FoZTJkWGhrcU1Dbk5XSmkwWnppSlN3bnZEaTRCNHNEbUxEUQ?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-09-21T22:01:47+00:00"
-        },
-        {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejFvenZwSmlnanRZNENzSHhvbko0WTBSSHdWQTFNNUQzYWtDbGhuS0VGOU1Vam1jNWNqUzludkt4OE9ZazZJU3l0Q0JFUzhVVmtpMTh6VWFrcDdBeDBHWWxyWUZxdDdwd25BdXUzUnBlUG10aDVEbW1Ybkt2Z2ZyQWFDb0dFSWlvcUdQeS1CVGpDYXJRZkRVMw?oc=5",
-          "domain": "fool.com",
-          "published_at": "2026-09-22T15:43:42+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzhQMFNMSkNGX3Q2Wk9nRU9BVmpWd3kxM09fODQzTDRlNkFaYlVjUUpNc3JxZy1MUUdjN0hHc0JDemt5YTZ2ajJLWDVaaDdXcGZCQnlsNG9TQmR2c1g2ZHhnZ3FVVndQSDRNdkdZOFd2T2hXeThobzFDaDR5VVp5UVhCQW8zcll1YzNMSjJ2OEJkZEc5bE1tSTN6V2hNWk9YdFNr?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-22T15:57:47+00:00"
-        },
-        {
-          "name": "AOL.ca",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzQzRERXYWFTWFpiVmQ1dDlyNkFjcWJyOEVwTURMVEZxeGhCVkdCdWhCOXJCUklzeFB6bERKSWMzTmtOdGJXQnpfX21RSlpWbFRyLTlKaXhtVEhWLVIyMWVVMjkyVzlRaDVwTFRkWFh4R0VnYkR5Y0hTN1pMaGlYcWlwNnZwQQ?oc=5",
-          "domain": "aol.ca",
-          "published_at": "2026-09-22T15:57:47+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "stock today why"
-    },
-    {
       "id": "022e6875a3bb4b9d480e",
       "company": "Labcorp",
       "title": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push",
@@ -2441,6 +2489,54 @@
       ],
       "coverage_count": 3,
       "event_signature": "3eta arthritis augurex now offering rheumatoid testing"
+    },
+    {
+      "id": "de3f6f174853b93653ec",
+      "company": "Quest Diagnostics",
+      "title": "Why Quest Diagnostics Stock Is Up Today",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dUQmlkc1lid08zZVpISEJOVUp4SWczdTFxRWJmLVQ3bGRZVEMxdDdDYjNzWmktbzZtMms2RnVIX1dDWDBITmtub0FHSDVPTEd1TU16c1VzcGZ0VWIzVkVabFplSno1bUo4MUdiYV8xcXFGaENJbmo5UnpnZTNQYlZnakFEMng0U2I0UmRuQkxNd3BNMnVfaEJBOA?oc=5",
+      "description": "Why Quest Diagnostics Incorporated (DGX) Stock Is Up Today Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-09-15T07:00:00+00:00",
+      "published_display": "15 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dUQmlkc1lid08zZVpISEJOVUp4SWczdTFxRWJmLVQ3bGRZVEMxdDdDYjNzWmktbzZtMms2RnVIX1dDWDBITmtub0FHSDVPTEd1TU16c1VzcGZ0VWIzVkVabFplSno1bUo4MUdiYV8xcXFGaENJbmo5UnpnZTNQYlZnakFEMng0U2I0UmRuQkxNd3BNMnVfaEJBOA?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-09-15T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWGhDUXJEeWJ1LS1tWi1rMm0zUEJEMFZvYWVZWlE4Q19rVk1VZUJpNDVEaVZJelRJUjNyY01vY3hiN2FNYnk1eUtCVmhnaV8yX0Q5NFJPU0dObDVUTjV5R0pOaFNSV1Z6S2l2bEwzZ3ZxX0VYRm9HRU0tWGowZEVqUEpqaDI5V1FoZTJkWGhrcU1Dbk5XSmkwWnppSlN3bnZEaTRCNHNEbUxEUQ?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-09-21T22:01:47+00:00"
+        },
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQejFvenZwSmlnanRZNENzSHhvbko0WTBSSHdWQTFNNUQzYWtDbGhuS0VGOU1Vam1jNWNqUzludkt4OE9ZazZJU3l0Q0JFUzhVVmtpMTh6VWFrcDdBeDBHWWxyWUZxdDdwd25BdXUzUnBlUG10aDVEbW1Ybkt2Z2ZyQWFDb0dFSWlvcUdQeS1CVGpDYXJRZkRVMw?oc=5",
+          "domain": "fool.com",
+          "published_at": "2026-09-22T15:43:42+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVzhQMFNMSkNGX3Q2Wk9nRU9BVmpWd3kxM09fODQzTDRlNkFaYlVjUUpNc3JxZy1MUUdjN0hHc0JDemt5YTZ2ajJLWDVaaDdXcGZCQnlsNG9TQmR2c1g2ZHhnZ3FVVndQSDRNdkdZOFd2T2hXeThobzFDaDR5VVp5UVhCQW8zcll1YzNMSjJ2OEJkZEc5bE1tSTN6V2hNWk9YdFNr?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-22T15:57:47+00:00"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzQzRERXYWFTWFpiVmQ1dDlyNkFjcWJyOEVwTURMVEZxeGhCVkdCdWhCOXJCUklzeFB6bERKSWMzTmtOdGJXQnpfX21RSlpWbFRyLTlKaXhtVEhWLVIyMWVVMjkyVzlRaDVwTFRkWFh4R0VnYkR5Y0hTN1pMaGlYcWlwNnZwQQ?oc=5",
+          "domain": "aol.ca",
+          "published_at": "2026-09-22T15:57:47+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "stock today why"
     },
     {
       "id": "ebdc2f40140288c33e41",
@@ -12142,10 +12238,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 82,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-02T12:17:00+05:30",
-  "next_update_display": "02 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-03T00:17:00+05:30",
+  "next_update_display": "03 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 02 Oct 2026, 11:45 AM IST
+- **Repository generated:** 02 Oct 2026, 6:42 PM IST
 - **Distinct events in this file:** 160
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -15,7 +15,7 @@
 - **Sources:**
   - Top Class Actions: https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5
 
-**Feed description:** Labcorp web tracking class action settlement Top Class Actions
+**Feed description:** Labcorp web tracking class action settlement topclassactions.com
 
 ## 2. Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026
 
