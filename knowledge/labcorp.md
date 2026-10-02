@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 02 Oct 2026, 6:42 PM IST
+- **Repository generated:** 03 Oct 2026, 4:05 AM IST
 - **Distinct events in this file:** 160
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -167,21 +167,7 @@
 
 **Feed description:** Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach dailydodge.com
 
-## 14. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
-
-- **Company:** Labcorp
-- **Publication date:** 24 Sep 2026
-- **Category:** Other
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - WKOW: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5
-  - shattered.io: https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5
-  - WXOW: https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ2FZbjJKd2V4UkV1UmFPNGZ1OWxWajVsYWpXTHVCcUo5aDhUN2hHN2dYMl9peDViaHpWSVNJVDgtVnVwNjk0alBrWGhjNE1vNUxPb25iZU5BYVkxc2JUbTFnZE1qclZISkZTalBCT3hXOHE1eFU2UFdMbXU4M096SXFxaDNfTkR2d3pFelB5cWtxWVNOX0lvREpLcTgydERBR2R0S0huRUtMbFBYXzJYMmppdGc4VXNaQ2VEWXBxT0RhOG9BbURRRUVCRGttVU5TT1NFUHU3ME0ydlhSd2ZkMGhBbU9LUEVzU1lNaWpYZnRUOEtpWlp0R2pUZzFGWW9vZU1ySFh5YUFZNF9r?oc=5
-
-**Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
-
-## 15. LabCorp reaches $2.3M multistate settlement over patient data breach
+## 14. LabCorp reaches $2.3M multistate settlement over patient data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -193,7 +179,7 @@
 
 **Feed description:** LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com
 
-## 16. Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com
+## 15. Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -205,7 +191,7 @@
 
 **Feed description:** Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com KTVN
 
-## 17. West Virginia joins $2.3 million Labcorp data breach settlement
+## 16. West Virginia joins $2.3 million Labcorp data breach settlement
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -217,19 +203,7 @@
 
 **Feed description:** West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com
 
-## 18. Labcorp data breach settlement secures $90G for NYS, AG James says
-
-- **Company:** Labcorp
-- **Publication date:** 24 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Newsday: https://news.google.com/rss/articles/CBMifEFVX3lxTE9JY2tlRG5PT3JZdEM4bXBGbzBjVzhLQVFtZWpzbEVhNVo4akJXM3laeDdTckc3X1VibGN2aERsaU1KUjN0R2RFQUktWnhfTEpIN25fSEZXNVUtSUpMX2Y1MG92NUxFbDZfWVVfZHlnMWs2b3JvXzJLN0Eya3A?oc=5
-
-**Feed description:** Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com
-
-## 19. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
+## 17. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -241,7 +215,7 @@
 
 **Feed description:** NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com
 
-## 20. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
+## 18. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -253,7 +227,7 @@
 
 **Feed description:** Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach Audacy
 
-## 21. Labcorp data breach settlement reached at $2M
+## 19. Labcorp data breach settlement reached at $2M
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -267,7 +241,7 @@
 
 **Feed description:** More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -
 
-## 22. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
+## 20. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -280,7 +254,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 23. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
+## 21. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -298,7 +272,7 @@
 
 **Feed description:** New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com
 
-## 24. AG Sunday announces $2.28M settlement with Labcorp
+## 22. AG Sunday announces $2.28M settlement with Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -314,31 +288,7 @@
 
 **Feed description:** AG Sunday announces $2.28M settlement with Labcorp yahoo.com
 
-## 25. Attorney General Announces Multistate Settlement with Labcorp over American Medical Collection Agency Data Breach
-
-- **Company:** Labcorp
-- **Publication date:** 24 Sep 2026
-- **Category:** Other
-- **Coverage count:** 13
-- **Official source involved:** No
-- **Sources:**
-  - pennwatch.org: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5
-  - chadronradio.com: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEZ5ZjhodzRxVHh0MTRqb0hKM1NvaklZLXZkcjdaN1huMzg4cVZDN3hId0FZTG91eC1qbmo4UTdJdHE0YXNmcm9kb25tUUdRMlhfa1VpUFZ4S0JFeFV5ckdUeE9RZGRvMDJNYnB5R0s0cWtFaHpvMHNhMUV1bGZPWUNDd2NtSXhweVZVY3BBTU5JNkZPdTlzb2F3djJDSVVUdDV5d0tKX3ZzTk1nVTlTQkJ5c3FPTDF4c1lqcTlJM0FpVThZYV9PcXF0bk9abHgyQzI3Zzlwc3BXWHk1NmstRFhXNGQ2QWxEdzBEYg?oc=5
-  - 715Newsroom.com: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTXpyOWJBQldTWVVEQ3d0NVc4SHBsMnN2TU1keFpNZnlwLTNjaTVma2FndHUyV0pQeERSckk2S1dmMlpRLUFiYTBtMDhBS2dSUm5aT3hwc09JUzNQTFZycnloaEQ4NnpnUFJRbGJCQ1dOWGR2aEtGNkJ6YlBuYUdqQ3psRGstME1yMlZfeXprNkdLX2RJU2VfSHlobHhmb2ludjVXekZzU2VkSm91b2xEbHdDall0eHd4ekgwTWtvSXBEeEhYWTJtZ3hiaG1ZblhvNXFNOU02UlJxa0FZUERUcW8zd2xjMkRnSk9JaTZHQ3ZoOU5jUmpR?oc=5
-  - Beaver County Radio: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUVJoRDVKZDVOYWdvdFhNcmJNTXg4VUhrd1VKTk15WDNIYWpBdHBMS0ZTZjR6TG91bUhVRmhvSGlaVWhFbWQybDQtRmNCcUZaLTl1MXdJanl6b2RzWWJ3b0RkTG1CcGJWeU1oZ2JaelFjdkdiSHRBbmZtMk5UVUh5R3Qzbkt1aXd5VndRTF9jMXJaeVVoTHFoY1pOYUI0TnlNdHI1dThTRXRueHZROHhDWFNlR0tFcG52OGxnSmstOTlWWGw2YVRHa3RVMlhGOTJWcHdhTm5IN1RsVi15YUpVTG1iM3ZvNHB6WmRPNg?oc=5
-  - Jacksonville Journal-Courier: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5
-  - riverbender.com: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSTB1ZjVsNmJZMmw0VHctdXAzT2FUVGl5RjVnTlg4QmlsdDVnRl9KYXliVW91dE5rZGFKZ0pEdFNtUFpEYlNkbmJmcDVZeDRydm1ETXZjMVRTSnRVQ0Z1X0daZXFaWG9XVE5NbmM0NWpUaWduT1Q5NE1jdDlBZkVGaUlqcHBvd216NDA4QkcwSTg3RHJXemlMTkdBRWJSQVlhR0hMS0xKR0xNNHhJT2NNNm5qSnNuUHU0NU5LeTRQWTYzSnBrc0lDRWZSUDlwRFJWdlp0TXRpSG9MdHQ0d1NXdGxERHVlazdwd3BvMDh6UDlDQThPNE1pbTMwdUowUGs?oc=5
-  - RiverBender.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejFqbzdUODdSWGV5QUdGWV9pUThFZGxLY2QxdkNfaGVtck8yYng2WjdwZy1XVldsME1qbmV6MEZrYVZ1VVlId2FaaW9PZ3RyT0M4cDVnNXhzTEkySDlLc1lhLVVFT0NlTTRuTVZhQXRvQ0R5S1huYkVZaGRkVEt4Mk1aZXhHM3N6ck1mWkdVOGJ2SWxyRWRXSlBMa2ZzT1d6VEpCQ3Y5ZlJIZw?oc=5
-  - Rural Radio Network: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVpIOWtITzBwdFdDVVFwdkNsOHdWVkF0RFNQMC1PaVdHUEhEdXhXaF9KTlh5NXlWUm5Bdkp5SC1hWjBzZmVBMEhiWGVoSm5JUFFjSGVoRExPR1RLZER1S3RRY1JrcG14MlJ3OHNVSmRLaHNZT3ljN2MxWFloNm1LS1JPZnpuOEpNSk9PNnhORXlmTVZBS2t3SjNfUGNIQkt5S0lzSDMwdEhDR2ZpSFpMWENLUllCOVlCUmU1aU0tcWNDUGQtNmdveTVpelB0a3drdDBj?oc=5
-  - Rural Radio Network: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTdzd2Y0aHNmeTVscDVoZFBVb1FWT3BoSEJkUkZ1cENpMzBMSUhBd3Z4SFQwMVNSUDA4NGd6UDQ4Z1VqVGxkWXV6Q2tLaExBOXVjU2hYU0dGaDZJQ0wteU1KQWhXZk80XzEzeXF3aUJENGE4cVZmUlMyXzdlOTFBaU9ESTZaS2hJUEh0YXBxRXRLNFh4WjRURUhoRWFDdGxield6bF92dEpDczB3a05CT0RHQ0hCTFNxSl83RkRLd0FXVEs2YWxuSGhPTkdlUHZn?oc=5
-  - Rural Radio Network: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2JrcDRzVWdIMHI1aG5Wa242WTN2RnMtSkl5aG1ZSkNYaHZQbjY2MDFBellpNTRicFdqYkxsaUV3ZHBJUTYzT0d3Z0IyRG9LTjlOUDhyUDEzWW1Rci14RDdjeC1sbHRPeUp1MXJDTkhXbGFfc0ZpVW1lLUt4YXNwMlpvME4zOVFTWVRVTmlrZ0RXUHBXbU9jckd0bnEtYjEza0pqZmJyaXFMRnlFVUVodXZISGpBTHhSYVVtQ3ZWZUZheTFaWmdfNThHT0o5NktHMTBIaQ?oc=5
-  - Coastal Point: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJtblFiS0JiR3duNGZyLTFWbi1pVEF3cG9OWFEyRVZwRkNVcW9SYzVoRmhSM0lmbzhJeFRkdHR3MElfcURrbWl4bDdlUjJVTE8tSXpMX2pGbDVBQWFtSW96d3dMYTdVdHpXOUVMeHI2SXdrZkd0WmZTTWdlU09VdHNxNndCajJ5MXlqUHJnSUNNS3ZrUF9rY0VCWWMtTVBYRURLTllxc3ZSWFJNVEs5R3Jhc05jTUtmTERJaVhvZFVidUdIYjRvSEh3eXE1ZDBqbTZlWXAybnZELURnZHdFc0ZOTQ?oc=5
-  - Urban Milwaukee: https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFsQ2dVQnVrRDkyMXNveW93LWc1bjdiLWJOc21ObjFGVTZYZXR0ZGxyX0FLM1VEZXFQck5IVk1EekRuRHlEZWs0T1VZemlCRHhQNTZvRFFkUGt4NGZxa0pBdU1wa3lUYmlCQUcweFVPMmVLMGVwY0FjOG5acWNkZGdlZkY2U0ZaVjdJR2dRNTluOHR5SHNVampuTElwTFhtU05xdE4zbDZwNWZPajlpUGFXUWotUTBQb1N3dUVKQ0FCdjRqX1Z4MVREOW1jbHJpRFZOLUxsS05odFpYeG5Lam9ZOTBzdlhZbTR2b2lvc0RIY1piYjNPbkZBMDZrWGNVVFVRZldOTlE5RXlaSXc?oc=5
-  - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmVVSUdBQXdYYUNpV3J0VUY2VWZ5ZjI3TU1acGJHYWlMVGxGeWJfc0N1aUd2NDQ0V3l1b1J1bU9RdVFZc1lzdXBOYkFCczFyMzcxNE9zWHp0OW5vN0gxQkphcWRpTHpJdk5EckZrRWUzVlp2b0NsWTR1TjFCRHJoeFgtNi0tOFQxZ0IzSFNmcFhETmV2SDZkVDZ4dThkR3BZdlNPZUNGUEhzMU9Nb2NyRFZGR2kxNDRLekxISkE1cnloOWN1eGotWmdXcUdMS0E?oc=5
-
-**Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
-
-## 26. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
+## 23. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -356,6 +306,57 @@
   - Winston-Salem Journal: https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlZfSGxnQVZkZzNGbnlNTmJLTklrVm4yYWluVENSMGxRR0hGaWg2V3FuSHJPZHFMR2xpbzRIVHRiZENHeDllSlZ5aDhfRFB6Qk1mX3hwd044MlpVR1NQTnV3TFlzUGcyakl4UWYzZTZTLTB6dkVyczh5Wm1EZ081OHF2aXk2LU15cVdFaGNjZk1kQy1OUEJ5WDFrYnh3MUFMUkJwQzE1dw?oc=5
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
+
+## 24. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
+
+- **Company:** Labcorp
+- **Publication date:** 24 Sep 2026
+- **Category:** Other
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - wkow.com: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPVEpkMV9TUkV0cDdZVmF3YnAxZmdMaWdJMnJYN3Q4d2hVYmZBU2VReURVWWFjTEtBc3IzUy1GazVXM1RXR0R3cTJBSXBjWnZCRWU1VExsZFJ5VGdsc0tMdlVsaWZsbHJZU3otLWk1RWdDVUt4Y1EtTXdydXFtbjJ2VTBTdl9YZklEZENzbjM2YUcyZUFpU2ZnVjJEU3Npb3cwY25fTTZYem9ZbGdKWUo0bTFFR1RFOXdqWDhBdWhzNGJfMW1hZkFRT3RZYW9vQ05pM243SEZHLVo1RUlZNUg5UktYTDRkR3FJOFF0WmNqMEZIYncyVm9qVQ?oc=5
+  - shattered.io: https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5
+  - WXOW: https://news.google.com/rss/articles/CBMijAJBVV95cUxQQ2FZbjJKd2V4UkV1UmFPNGZ1OWxWajVsYWpXTHVCcUo5aDhUN2hHN2dYMl9peDViaHpWSVNJVDgtVnVwNjk0alBrWGhjNE1vNUxPb25iZU5BYVkxc2JUbTFnZE1qclZISkZTalBCT3hXOHE1eFU2UFdMbXU4M096SXFxaDNfTkR2d3pFelB5cWtxWVNOX0lvREpLcTgydERBR2R0S0huRUtMbFBYXzJYMmppdGc4VXNaQ2VEWXBxT0RhOG9BbURRRUVCRGttVU5TT1NFUHU3ME0ydlhSd2ZkMGhBbU9LUEVzU1lNaWpYZnRUOEtpWlp0R2pUZzFGWW9vZU1ySFh5YUFZNF9r?oc=5
+  - tech-insider.org: https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5
+
+**Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
+
+## 25. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
+
+- **Company:** Labcorp
+- **Publication date:** 24 Sep 2026
+- **Category:** Other
+- **Coverage count:** 13
+- **Official source involved:** No
+- **Sources:**
+  - chadronradio.com: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEZ5ZjhodzRxVHh0MTRqb0hKM1NvaklZLXZkcjdaN1huMzg4cVZDN3hId0FZTG91eC1qbmo4UTdJdHE0YXNmcm9kb25tUUdRMlhfa1VpUFZ4S0JFeFV5ckdUeE9RZGRvMDJNYnB5R0s0cWtFaHpvMHNhMUV1bGZPWUNDd2NtSXhweVZVY3BBTU5JNkZPdTlzb2F3djJDSVVUdDV5d0tKX3ZzTk1nVTlTQkJ5c3FPTDF4c1lqcTlJM0FpVThZYV9PcXF0bk9abHgyQzI3Zzlwc3BXWHk1NmstRFhXNGQ2QWxEdzBEYg?oc=5
+  - pennwatch.org: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNWJWbWJ3cUduX2xsdkcxT3VfVmVWT25rUXZOZnU0bVZNYjdyamZoVkhZY05SRlZXb2NQQ29wNGg0dHVlaXc3bVprbDRWQXIwT1FEN2F3WExVVlBpdWRYS3gwOFdiaG9TZFp6QnVGdkNUYkZQQlRwN3hFOFgyUUZXN3FBX05CQ05KMmUtWW5CbHZwWldIZkpQdG1hZEhlZFRUYUo4SVc2b2tHYXItQ1ZsSXNrSTl0b1pUYzZWR0JPVFNyWVVwWEZzNDV5LXVnT1o3T3c?oc=5
+  - 715Newsroom.com: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNTXpyOWJBQldTWVVEQ3d0NVc4SHBsMnN2TU1keFpNZnlwLTNjaTVma2FndHUyV0pQeERSckk2S1dmMlpRLUFiYTBtMDhBS2dSUm5aT3hwc09JUzNQTFZycnloaEQ4NnpnUFJRbGJCQ1dOWGR2aEtGNkJ6YlBuYUdqQ3psRGstME1yMlZfeXprNkdLX2RJU2VfSHlobHhmb2ludjVXekZzU2VkSm91b2xEbHdDall0eHd4ekgwTWtvSXBEeEhYWTJtZ3hiaG1ZblhvNXFNOU02UlJxa0FZUERUcW8zd2xjMkRnSk9JaTZHQ3ZoOU5jUmpR?oc=5
+  - Beaver County Radio: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUVJoRDVKZDVOYWdvdFhNcmJNTXg4VUhrd1VKTk15WDNIYWpBdHBMS0ZTZjR6TG91bUhVRmhvSGlaVWhFbWQybDQtRmNCcUZaLTl1MXdJanl6b2RzWWJ3b0RkTG1CcGJWeU1oZ2JaelFjdkdiSHRBbmZtMk5UVUh5R3Qzbkt1aXd5VndRTF9jMXJaeVVoTHFoY1pOYUI0TnlNdHI1dThTRXRueHZROHhDWFNlR0tFcG52OGxnSmstOTlWWGw2YVRHa3RVMlhGOTJWcHdhTm5IN1RsVi15YUpVTG1iM3ZvNHB6WmRPNg?oc=5
+  - Jacksonville Journal-Courier: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaExMeHRHc192aDk4cko4ZWxGM0pTOFVGeDdqR1QwLXdJLWZ6WW5Tb3FjNjFlYko5aXJKNVFNZWZILUw1aTNnWms5WDNleW1VTzFiOThld05VQzYzV05YSkM0VjVJclh4d1VDQW56akhjMmYySk5tOXl1OEtTYlpEX2hsYVNNd2d6LWZUQVl6cWYxN1U0NWtKYVozRk91NXNTWUsyUQ?oc=5
+  - riverbender.com: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSTB1ZjVsNmJZMmw0VHctdXAzT2FUVGl5RjVnTlg4QmlsdDVnRl9KYXliVW91dE5rZGFKZ0pEdFNtUFpEYlNkbmJmcDVZeDRydm1ETXZjMVRTSnRVQ0Z1X0daZXFaWG9XVE5NbmM0NWpUaWduT1Q5NE1jdDlBZkVGaUlqcHBvd216NDA4QkcwSTg3RHJXemlMTkdBRWJSQVlhR0hMS0xKR0xNNHhJT2NNNm5qSnNuUHU0NU5LeTRQWTYzSnBrc0lDRWZSUDlwRFJWdlp0TXRpSG9MdHQ0d1NXdGxERHVlazdwd3BvMDh6UDlDQThPNE1pbTMwdUowUGs?oc=5
+  - RiverBender.com: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejFqbzdUODdSWGV5QUdGWV9pUThFZGxLY2QxdkNfaGVtck8yYng2WjdwZy1XVldsME1qbmV6MEZrYVZ1VVlId2FaaW9PZ3RyT0M4cDVnNXhzTEkySDlLc1lhLVVFT0NlTTRuTVZhQXRvQ0R5S1huYkVZaGRkVEt4Mk1aZXhHM3N6ck1mWkdVOGJ2SWxyRWRXSlBMa2ZzT1d6VEpCQ3Y5ZlJIZw?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdVpIOWtITzBwdFdDVVFwdkNsOHdWVkF0RFNQMC1PaVdHUEhEdXhXaF9KTlh5NXlWUm5Bdkp5SC1hWjBzZmVBMEhiWGVoSm5JUFFjSGVoRExPR1RLZER1S3RRY1JrcG14MlJ3OHNVSmRLaHNZT3ljN2MxWFloNm1LS1JPZnpuOEpNSk9PNnhORXlmTVZBS2t3SjNfUGNIQkt5S0lzSDMwdEhDR2ZpSFpMWENLUllCOVlCUmU1aU0tcWNDUGQtNmdveTVpelB0a3drdDBj?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaTdzd2Y0aHNmeTVscDVoZFBVb1FWT3BoSEJkUkZ1cENpMzBMSUhBd3Z4SFQwMVNSUDA4NGd6UDQ4Z1VqVGxkWXV6Q2tLaExBOXVjU2hYU0dGaDZJQ0wteU1KQWhXZk80XzEzeXF3aUJENGE4cVZmUlMyXzdlOTFBaU9ESTZaS2hJUEh0YXBxRXRLNFh4WjRURUhoRWFDdGxield6bF92dEpDczB3a05CT0RHQ0hCTFNxSl83RkRLd0FXVEs2YWxuSGhPTkdlUHZn?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPa2JrcDRzVWdIMHI1aG5Wa242WTN2RnMtSkl5aG1ZSkNYaHZQbjY2MDFBellpNTRicFdqYkxsaUV3ZHBJUTYzT0d3Z0IyRG9LTjlOUDhyUDEzWW1Rci14RDdjeC1sbHRPeUp1MXJDTkhXbGFfc0ZpVW1lLUt4YXNwMlpvME4zOVFTWVRVTmlrZ0RXUHBXbU9jckd0bnEtYjEza0pqZmJyaXFMRnlFVUVodXZISGpBTHhSYVVtQ3ZWZUZheTFaWmdfNThHT0o5NktHMTBIaQ?oc=5
+  - Coastal Point: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJtblFiS0JiR3duNGZyLTFWbi1pVEF3cG9OWFEyRVZwRkNVcW9SYzVoRmhSM0lmbzhJeFRkdHR3MElfcURrbWl4bDdlUjJVTE8tSXpMX2pGbDVBQWFtSW96d3dMYTdVdHpXOUVMeHI2SXdrZkd0WmZTTWdlU09VdHNxNndCajJ5MXlqUHJnSUNNS3ZrUF9rY0VCWWMtTVBYRURLTllxc3ZSWFJNVEs5R3Jhc05jTUtmTERJaVhvZFVidUdIYjRvSEh3eXE1ZDBqbTZlWXAybnZELURnZHdFc0ZOTQ?oc=5
+  - Urban Milwaukee: https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFsQ2dVQnVrRDkyMXNveW93LWc1bjdiLWJOc21ObjFGVTZYZXR0ZGxyX0FLM1VEZXFQck5IVk1EekRuRHlEZWs0T1VZemlCRHhQNTZvRFFkUGt4NGZxa0pBdU1wa3lUYmlCQUcweFVPMmVLMGVwY0FjOG5acWNkZGdlZkY2U0ZaVjdJR2dRNTluOHR5SHNVampuTElwTFhtU05xdE4zbDZwNWZPajlpUGFXUWotUTBQb1N3dUVKQ0FCdjRqX1Z4MVREOW1jbHJpRFZOLUxsS05odFpYeG5Lam9ZOTBzdlhZbTR2b2lvc0RIY1piYjNPbkZBMDZrWGNVVFVRZldOTlE5RXlaSXc?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmVVSUdBQXdYYUNpV3J0VUY2VWZ5ZjI3TU1acGJHYWlMVGxGeWJfc0N1aUd2NDQ0V3l1b1J1bU9RdVFZc1lzdXBOYkFCczFyMzcxNE9zWHp0OW5vN0gxQkphcWRpTHpJdk5EckZrRWUzVlp2b0NsWTR1TjFCRHJoeFgtNi0tOFQxZ0IzSFNmcFhETmV2SDZkVDZ4dThkR3BZdlNPZUNGUEhzMU9Nb2NyRFZGR2kxNDRLekxISkE1cnloOWN1eGotWmdXcUdMS0E?oc=5
+
+**Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
+
+## 26. Labcorp data breach settlement secures $90G for NYS, AG James says
+
+- **Company:** Labcorp
+- **Publication date:** 24 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Newsday: https://news.google.com/rss/articles/CBMifEFVX3lxTE9JY2tlRG5PT3JZdEM4bXBGbzBjVzhLQVFtZWpzbEVhNVo4akJXM3laeDdTckc3X1VibGN2aERsaU1KUjN0R2RFQUktWnhfTEpIN25fSEZXNVUtSUpMX2Y1MG92NUxFbDZfWVVfZHlnMWs2b3JvXzJLN0Eya3A?oc=5
+
+**Feed description:** Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com
 
 ## 27. Labcorp Q2 2026 Earnings Call Transcript
 
