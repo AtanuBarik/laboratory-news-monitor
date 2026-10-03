@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 03 Oct 2026, 10:15 PM IST
+- **Repository generated:** 04 Oct 2026, 3:17 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -376,19 +376,7 @@
 
 **Feed description:** Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com KTVN
 
-## 31. West Virginia joins $2.3 million Labcorp data breach settlement
-
-- **Company:** Labcorp
-- **Publication date:** 24 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - WV News: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5
-
-**Feed description:** West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com
-
-## 32. Labcorp data breach settlement reached at $2M
+## 31. Labcorp data breach settlement reached at $2M
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -402,7 +390,7 @@
 
 **Feed description:** More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -
 
-## 33. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
+## 32. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -415,7 +403,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 34. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
+## 33. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -433,7 +421,7 @@
 
 **Feed description:** New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com
 
-## 35. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)
+## 34. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Sep 2026
@@ -445,7 +433,7 @@
 
 **Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX), AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX) theglobeandmail.com
 
-## 36. Quest Diagnostics stock reports growth as reimbursement risk rises
+## 35. Quest Diagnostics stock reports growth as reimbursement risk rises
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Sep 2026
@@ -457,7 +445,7 @@
 
 **Feed description:** Quest Diagnostics stock reports growth as reimbursement risk rises ad-hoc-news.de
 
-## 37. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
+## 36. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -476,7 +464,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 38. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
+## 37. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -491,7 +479,7 @@
 
 **Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
 
-## 39. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
+## 38. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -516,7 +504,7 @@
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
-## 40. Labcorp data breach settlement secures $90G for NYS, AG James says
+## 39. Labcorp data breach settlement secures $90G for NYS, AG James says
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -528,7 +516,7 @@
 
 **Feed description:** Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com
 
-## 41. AG Sunday announces $2.28M settlement with Labcorp
+## 40. AG Sunday announces $2.28M settlement with Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -544,7 +532,7 @@
 
 **Feed description:** AG Sunday announces $2.28M settlement with Labcorp yahoo.com
 
-## 42. LabCorp reaches $2.3M multistate settlement over patient data breach
+## 41. LabCorp reaches $2.3M multistate settlement over patient data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -556,7 +544,7 @@
 
 **Feed description:** LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com
 
-## 43. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
+## 42. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -568,7 +556,7 @@
 
 **Feed description:** Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach audacy.com
 
-## 44. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
+## 43. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -579,6 +567,18 @@
   - WCTI: https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5
 
 **Feed description:** NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com
+
+## 44. West Virginia joins $2.3 million Labcorp data breach settlement
+
+- **Company:** Labcorp
+- **Publication date:** 24 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - WV News: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5
+
+**Feed description:** West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com
 
 ## 45. Quest Diagnostics stock heads into the open after closing at USD 234.76
 

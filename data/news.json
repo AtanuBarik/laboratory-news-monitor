@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T22:15:13.196063+05:30",
-  "generated_at_display": "03 Oct 2026, 10:15 PM IST",
+  "generated_at": "2026-10-04T03:17:57.473596+05:30",
+  "generated_at_display": "04 Oct 2026, 3:17 AM IST",
   "item_count": 364,
-  "raw_relevant_item_count": 557,
-  "duplicates_merged": 113,
+  "raw_relevant_item_count": 556,
+  "duplicates_merged": 112,
   "failures": [],
   "items": [
     {
@@ -793,30 +793,6 @@
       "event_signature": "2019 2news breach com data local nevada over reaches settlement"
     },
     {
-      "id": "b4e4c5153576b8c526fe",
-      "company": "Labcorp",
-      "title": "West Virginia joins $2.3 million Labcorp data breach settlement",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
-      "description": "West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com",
-      "source": "WV News",
-      "source_url": "https://www.wvnews.com",
-      "source_domain": "wvnews.com",
-      "published_at": "2026-09-24T21:15:00+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WV News",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
-          "domain": "wvnews.com",
-          "published_at": "2026-09-24T21:15:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach data joins million settlement virginia west"
-    },
-    {
       "id": "5942e5a2fd88f5cba1a2",
       "company": "Labcorp",
       "title": "Labcorp data breach settlement reached at $2M",
@@ -1343,6 +1319,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "100 2019 427 after breach data incident receive settlement vendor"
+    },
+    {
+      "id": "b4e4c5153576b8c526fe",
+      "company": "Labcorp",
+      "title": "West Virginia joins $2.3 million Labcorp data breach settlement",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
+      "description": "West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com",
+      "source": "WV News",
+      "source_url": "https://www.wvnews.com",
+      "source_domain": "wvnews.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WV News",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYUZtVVhFQll1dGJQQnl4aXY5YUtrZnI1bGRQdlVHd0txQVVNcDltRjczeG1iWmM0SVcxNmF0Y014c2hzeHZvcmxZMl9uQTJFNFlObWNFakdkSXpNY1dPTzNZRnRYNDlVejRaTkVCdzlzcTgwV1R0WTJfVGU1LURNelMwLW5fcU5RcnJDbVpZZjNscDgwUnJrMWtIdU4tNGJial96b3RvWVpMTklqZzUyNjVOSHFSdVlDc2o3UmFiaXVnQ2NwR0FSSDA1NmotYk1CYWZMejFDRjh3MnFpejc0aw?oc=5",
+          "domain": "wvnews.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data joins million settlement virginia west"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -12304,10 +12304,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 78,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-04T00:17:00+05:30",
-  "next_update_display": "04 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-04T06:17:00+05:30",
+  "next_update_display": "04 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
