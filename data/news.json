@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T17:33:45.459222+05:30",
-  "generated_at_display": "03 Oct 2026, 5:33 PM IST",
+  "generated_at": "2026-10-03T22:15:13.196063+05:30",
+  "generated_at_display": "03 Oct 2026, 10:15 PM IST",
   "item_count": 364,
-  "raw_relevant_item_count": 558,
-  "duplicates_merged": 115,
+  "raw_relevant_item_count": 557,
+  "duplicates_merged": 113,
   "failures": [],
   "items": [
     {
@@ -817,54 +817,6 @@
       "event_signature": "breach data joins million settlement virginia west"
     },
     {
-      "id": "aec464f73c5ee979f91c",
-      "company": "Labcorp",
-      "title": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
-      "description": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com",
-      "source": "WCTI",
-      "source_url": "https://wcti12.com",
-      "source_domain": "wcti12.com",
-      "published_at": "2026-09-24T19:20:42+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WCTI",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
-          "domain": "wcti12.com",
-          "published_at": "2026-09-24T19:20:42+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "100 2019 427 after breach data incident receive settlement vendor"
-    },
-    {
-      "id": "cb22e1d96f8845797418",
-      "company": "Labcorp",
-      "title": "Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG9YVUtYemtmbmJGLUtMXzd3UkFzQUJhQXpMemI5TlgxVFNjUjlXU2Y5SUQzWVgtYWNUTUlyVGlxWUJOV2RzeWZaYTZjU0tEUDJVeHpYWHRDeHoxTkZiZklybTFWbnFsTjU1ZG9PcmR3Y2FZVjZycVA2WTYzSWN2anlMTQ?oc=5",
-      "description": "Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach Audacy",
-      "source": "Audacy",
-      "source_url": "https://www.audacy.com",
-      "source_domain": "audacy.com",
-      "published_at": "2026-09-24T18:28:00+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Audacy",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG9YVUtYemtmbmJGLUtMXzd3UkFzQUJhQXpMemI5TlgxVFNjUjlXU2Y5SUQzWVgtYWNUTUlyVGlxWUJOV2RzeWZaYTZjU0tEUDJVeHpYWHRDeHoxTkZiZklybTFWbnFsTjU1ZG9PcmR3Y2FZVjZycVA2WTYzSWN2anlMTQ?oc=5",
-          "domain": "audacy.com",
-          "published_at": "2026-09-24T18:28:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2019 breach data million over pay settlement states"
-    },
-    {
       "id": "5942e5a2fd88f5cba1a2",
       "company": "Labcorp",
       "title": "Labcorp data breach settlement reached at $2M",
@@ -995,7 +947,7 @@
       "company": "Quest Diagnostics",
       "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQlBzRHJPaXAtSzM4QUFsTDJTSDNRbDhmRDdvVmNJalp1dUFaZ3preXNnWDdzUW1ldXhxUXFEbHBIT3dseEJQeHRKeFhOLUR1M2pZSl9WcVVpM3VSa3ZtVXZWYXh4SGdQelpfWXdEdFlhckJKS2JsYzRuLXpvOExrLVMydWNXb2dyOXRWbE1kVHVheGVfWTNvWFdUMnFLX2VNMm9Za3RQZWVoWnpWWGQxcE4xXzFOYVFfWWt6X2pDX1BQNHZaeFJOaEhuM0JsYUFmVzFENDlhVTZNbUVJSGtNTHZSWXdpOWNsLWJrZlJwM3FUbkxUN0NFbHVpaEM5a0VxVktndXp6RDVDd3VmaVdYNUx1bVVwS2prN0NMSjU1WEVjaWIzN19yVFBB?oc=5",
-      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX), AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX) The Globe and Mail",
+      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX), AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX) theglobeandmail.com",
       "source": "The Globe and Mail",
       "source_url": "https://www.theglobeandmail.com",
       "source_domain": "theglobeandmail.com",
@@ -1343,6 +1295,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach data multistate over patient reaches settlement"
+    },
+    {
+      "id": "4184478db54b416432de",
+      "company": "Labcorp",
+      "title": "Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG9YVUtYemtmbmJGLUtMXzd3UkFzQUJhQXpMemI5TlgxVFNjUjlXU2Y5SUQzWVgtYWNUTUlyVGlxWUJOV2RzeWZaYTZjU0tEUDJVeHpYWHRDeHoxTkZiZklybTFWbnFsTjU1ZG9PcmR3Y2FZVjZycVA2WTYzSWN2anlMTQ?oc=5",
+      "description": "Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach audacy.com",
+      "source": "audacy.com",
+      "source_url": "https://www.audacy.com",
+      "source_domain": "audacy.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "audacy.com",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNG9YVUtYemtmbmJGLUtMXzd3UkFzQUJhQXpMemI5TlgxVFNjUjlXU2Y5SUQzWVgtYWNUTUlyVGlxWUJOV2RzeWZaYTZjU0tEUDJVeHpYWHRDeHoxTkZiZklybTFWbnFsTjU1ZG9PcmR3Y2FZVjZycVA2WTYzSWN2anlMTQ?oc=5",
+          "domain": "audacy.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2019 breach data million over pay settlement states"
+    },
+    {
+      "id": "aec464f73c5ee979f91c",
+      "company": "Labcorp",
+      "title": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
+      "description": "NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com",
+      "source": "WCTI",
+      "source_url": "https://wcti12.com",
+      "source_domain": "wcti12.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WCTI",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWVdDdnBEVTBpWFdJZWJBRFZKamZRWVV2YjJzX3Vpcll4Sm1nVGhuTDJaT2pnM1liRkxCamtjMTU3VVkzeHNyMlBTY01vbWpBdnI0NmtJdUwwWWl5QkdFUG1kSUpaUmF1YzJMX2Z6UllEOHNLZk5GWXlfaS0yYWJhcUFYRkpmOWhQT1F6cFF1MEduTS01eGxmTFFlVHRYMkQ2VGxWaU9adGNhc2hKZHd0YQ?oc=5",
+          "domain": "wcti12.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "100 2019 427 after breach data incident receive settlement vendor"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -12304,10 +12304,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 78,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-03T18:17:00+05:30",
-  "next_update_display": "03 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-04T00:17:00+05:30",
+  "next_update_display": "04 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
