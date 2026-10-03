@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 03 Oct 2026, 4:05 AM IST
+- **Repository generated:** 03 Oct 2026, 11:17 AM IST
 - **Distinct events in this file:** 160
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -272,23 +272,7 @@
 
 **Feed description:** New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com
 
-## 22. AG Sunday announces $2.28M settlement with Labcorp
-
-- **Company:** Labcorp
-- **Publication date:** 24 Sep 2026
-- **Category:** Other
-- **Coverage count:** 5
-- **Official source involved:** No
-- **Sources:**
-  - WTAJ: https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5
-  - WTAJ: https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5
-  - Yahoo: https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5
-  - Yahoo: https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5
-  - AOL.com: https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWdGNlVuV0pCSzVOdTVadk1oVjRra1VHZFBqUUVwM2RyS2FSWGN2QldaN19xSThSeEhyTEw3dXp4Vkp2VkU3b0ZZWkhqQjUwUUtiRU5TX2dBR2hyOG5mODdPRllFM3ZucFB0b1E2Z2RoSXdYeHB1Uw?oc=5
-
-**Feed description:** AG Sunday announces $2.28M settlement with Labcorp yahoo.com
-
-## 23. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
+## 22. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -307,7 +291,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 24. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
+## 23. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -322,12 +306,12 @@
 
 **Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
 
-## 25. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
+## 24. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 13
+- **Coverage count:** 14
 - **Official source involved:** No
 - **Sources:**
   - chadronradio.com: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEZ5ZjhodzRxVHh0MTRqb0hKM1NvaklZLXZkcjdaN1huMzg4cVZDN3hId0FZTG91eC1qbmo4UTdJdHE0YXNmcm9kb25tUUdRMlhfa1VpUFZ4S0JFeFV5ckdUeE9RZGRvMDJNYnB5R0s0cWtFaHpvMHNhMUV1bGZPWUNDd2NtSXhweVZVY3BBTU5JNkZPdTlzb2F3djJDSVVUdDV5d0tKX3ZzTk1nVTlTQkJ5c3FPTDF4c1lqcTlJM0FpVThZYV9PcXF0bk9abHgyQzI3Zzlwc3BXWHk1NmstRFhXNGQ2QWxEdzBEYg?oc=5
@@ -343,10 +327,11 @@
   - Coastal Point: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUUJtblFiS0JiR3duNGZyLTFWbi1pVEF3cG9OWFEyRVZwRkNVcW9SYzVoRmhSM0lmbzhJeFRkdHR3MElfcURrbWl4bDdlUjJVTE8tSXpMX2pGbDVBQWFtSW96d3dMYTdVdHpXOUVMeHI2SXdrZkd0WmZTTWdlU09VdHNxNndCajJ5MXlqUHJnSUNNS3ZrUF9rY0VCWWMtTVBYRURLTllxc3ZSWFJNVEs5R3Jhc05jTUtmTERJaVhvZFVidUdIYjRvSEh3eXE1ZDBqbTZlWXAybnZELURnZHdFc0ZOTQ?oc=5
   - Urban Milwaukee: https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFsQ2dVQnVrRDkyMXNveW93LWc1bjdiLWJOc21ObjFGVTZYZXR0ZGxyX0FLM1VEZXFQck5IVk1EekRuRHlEZWs0T1VZemlCRHhQNTZvRFFkUGt4NGZxa0pBdU1wa3lUYmlCQUcweFVPMmVLMGVwY0FjOG5acWNkZGdlZkY2U0ZaVjdJR2dRNTluOHR5SHNVampuTElwTFhtU05xdE4zbDZwNWZPajlpUGFXUWotUTBQb1N3dUVKQ0FCdjRqX1Z4MVREOW1jbHJpRFZOLUxsS05odFpYeG5Lam9ZOTBzdlhZbTR2b2lvc0RIY1piYjNPbkZBMDZrWGNVVFVRZldOTlE5RXlaSXc?oc=5
   - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmVVSUdBQXdYYUNpV3J0VUY2VWZ5ZjI3TU1acGJHYWlMVGxGeWJfc0N1aUd2NDQ0V3l1b1J1bU9RdVFZc1lzdXBOYkFCczFyMzcxNE9zWHp0OW5vN0gxQkphcWRpTHpJdk5EckZrRWUzVlp2b0NsWTR1TjFCRHJoeFgtNi0tOFQxZ0IzSFNmcFhETmV2SDZkVDZ4dThkR3BZdlNPZUNGUEhzMU9Nb2NyRFZGR2kxNDRLekxISkE1cnloOWN1eGotWmdXcUdMS0E?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVdtOHpDSC1DQzlQc3RqaC1rTldYdG9sY3p3UzhRLXM5c3RCY0QyOWY3cWpGUnE2c2d5X0VnN3l5dmlaT2pJQXFWR3ZDRG92XzJ2OEhhVFZaRDdmdjF2OU9BXy1EU1E2Y2cwV01rdmxaR051Qy1Ha1N4VGZIWHpvRTBFMzExc1o2QVpLaldOenh6NnAzVFE2eWVja29TODVxQmt1Nm93MWd3SW9PcW5qZTFrSmgtTWpJemV3SXRhVlhqX3N1d0dYb0EzaDVmMlE?oc=5
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
-## 26. Labcorp data breach settlement secures $90G for NYS, AG James says
+## 25. Labcorp data breach settlement secures $90G for NYS, AG James says
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -357,6 +342,22 @@
   - Newsday: https://news.google.com/rss/articles/CBMifEFVX3lxTE9JY2tlRG5PT3JZdEM4bXBGbzBjVzhLQVFtZWpzbEVhNVo4akJXM3laeDdTckc3X1VibGN2aERsaU1KUjN0R2RFQUktWnhfTEpIN25fSEZXNVUtSUpMX2Y1MG92NUxFbDZfWVVfZHlnMWs2b3JvXzJLN0Eya3A?oc=5
 
 **Feed description:** Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com
+
+## 26. AG Sunday announces $2.28M settlement with Labcorp
+
+- **Company:** Labcorp
+- **Publication date:** 24 Sep 2026
+- **Category:** Other
+- **Coverage count:** 5
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo: https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5
+  - WTAJ: https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5
+  - WTAJ: https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5
+  - Yahoo: https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5
+  - AOL.com: https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWdGNlVuV0pCSzVOdTVadk1oVjRra1VHZFBqUUVwM2RyS2FSWGN2QldaN19xSThSeEhyTEw3dXp4Vkp2VkU3b0ZZWkhqQjUwUUtiRU5TX2dBR2hyOG5mODdPRllFM3ZucFB0b1E2Z2RoSXdYeHB1Uw?oc=5
+
+**Feed description:** AG Sunday announces $2.28M settlement with Labcorp yahoo.com
 
 ## 27. Labcorp Q2 2026 Earnings Call Transcript
 

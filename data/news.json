@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T04:05:09.663670+05:30",
-  "generated_at_display": "03 Oct 2026, 4:05 AM IST",
+  "generated_at": "2026-10-03T11:17:04.758070+05:30",
+  "generated_at_display": "03 Oct 2026, 11:17 AM IST",
   "item_count": 363,
-  "raw_relevant_item_count": 565,
-  "duplicates_merged": 118,
+  "raw_relevant_item_count": 562,
+  "duplicates_merged": 120,
   "failures": [],
   "items": [
     {
@@ -1009,54 +1009,6 @@
       "event_signature": "2019 breach data jersey joins million multistate over settlement"
     },
     {
-      "id": "05b7a6d7f51909032d6f",
-      "company": "Labcorp",
-      "title": "AG Sunday announces $2.28M settlement with Labcorp",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-      "description": "AG Sunday announces $2.28M settlement with Labcorp yahoo.com",
-      "source": "WTAJ",
-      "source_url": "https://www.wtaj.com",
-      "source_domain": "wtaj.com",
-      "published_at": "2026-09-24T17:04:00+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WTAJ",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-          "domain": "wtaj.com",
-          "published_at": "2026-09-24T17:04:00+00:00"
-        },
-        {
-          "name": "WTAJ",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
-          "domain": "wtaj.com",
-          "published_at": "2026-09-24T21:04:00+00:00"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-09-24T21:15:45+00:00"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-09-24T21:04:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWdGNlVuV0pCSzVOdTVadk1oVjRra1VHZFBqUUVwM2RyS2FSWGN2QldaN19xSThSeEhyTEw3dXp4Vkp2VkU3b0ZZWkhqQjUwUUtiRU5TX2dBR2hyOG5mODdPRllFM3ZucFB0b1E2Z2RoSXdYeHB1Uw?oc=5",
-          "domain": "aol.com",
-          "published_at": "2026-09-24T21:04:01+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "28m settlement sunday"
-    },
-    {
       "id": "8d40e88153c49f3c351d",
       "company": "Quest Diagnostics",
       "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)",
@@ -1303,9 +1255,15 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmVVSUdBQXdYYUNpV3J0VUY2VWZ5ZjI3TU1acGJHYWlMVGxGeWJfc0N1aUd2NDQ0V3l1b1J1bU9RdVFZc1lzdXBOYkFCczFyMzcxNE9zWHp0OW5vN0gxQkphcWRpTHpJdk5EckZrRWUzVlp2b0NsWTR1TjFCRHJoeFgtNi0tOFQxZ0IzSFNmcFhETmV2SDZkVDZ4dThkR3BZdlNPZUNGUEhzMU9Nb2NyRFZGR2kxNDRLekxISkE1cnloOWN1eGotWmdXcUdMS0E?oc=5",
           "domain": "ruralradio.com",
           "published_at": "2026-09-28T19:49:53+00:00"
+        },
+        {
+          "name": "Rural Radio Network",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVdtOHpDSC1DQzlQc3RqaC1rTldYdG9sY3p3UzhRLXM5c3RCY0QyOWY3cWpGUnE2c2d5X0VnN3l5dmlaT2pJQXFWR3ZDRG92XzJ2OEhhVFZaRDdmdjF2OU9BXy1EU1E2Y2cwV01rdmxaR051Qy1Ha1N4VGZIWHpvRTBFMzExc1o2QVpLaldOenh6NnAzVFE2eWVja29TODVxQmt1Nm93MWd3SW9PcW5qZTFrSmgtTWpJemV3SXRhVlhqX3N1d0dYb0EzaDVmMlE?oc=5",
+          "domain": "ruralradio.com",
+          "published_at": "2026-09-28T19:39:56+00:00"
         }
       ],
-      "coverage_count": 13,
+      "coverage_count": 14,
       "event_signature": "agency american attorney breach collection data general hilgers medical mike multistate over settlement"
     },
     {
@@ -1331,6 +1289,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "90g breach data james nys secures settlement"
+    },
+    {
+      "id": "3fcb22b79d860cf715ea",
+      "company": "Labcorp",
+      "title": "AG Sunday announces $2.28M settlement with Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5",
+      "description": "AG Sunday announces $2.28M settlement with Labcorp yahoo.com",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "source_domain": "yahoo.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVQzOVZoQXF3MmwxXzh1ODJFYlkzV1NIWnl5MTNuaUllbFNOLUZLOUVLeE5EcDNSd1BPd3NDanQxQURWZ3hkSHgwd1lDMnRjNnY3eFlMOWJsT2lraWs5d0pmMjZMNDlMS1VlLWZabFNCbkg3cmJYaldZSkdETm91ME0xd3d6QQ?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        },
+        {
+          "name": "WTAJ",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSVN0YTgyV0hzT0JRZ1plQVhEM3ZldmlXbUNOSTIzXzB0U0xLeVFFQXZZSlBORmw4S0I3RVRBakRtVlZWbUswcUowV0hQc0lZV2Z3VWdQWUVxLVl4dXR5WFJ1emJkZ09adXdwV1haQWNmWG4tZ1hiQjhNNE1FY0xIbkFkdEVBVlJ0UXBwQUN6RDFHaWNTSW9wOWhR0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+          "domain": "wtaj.com",
+          "published_at": "2026-09-24T17:04:00+00:00"
+        },
+        {
+          "name": "WTAJ",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbi1XdVdsZ2dYLU13bUxSd2RlOXJnNzQ1dG1IbU1pQ0h3SG4zSk0wMzNVYWQ4UkRQMlJ3YUx1Y3Npam1lZFhHSnlwR0lESkpneXBJZkw5cHdTN2JaOG1KRnBEdEtha2M1NzVtaWRqNDlOZ0o1eTN3VmFqODdUVFA4SlJaLXF0dThBTzhzajFWdUhsSzJC0gGaAUFVX3lxTE9JU3RhODJXSHNPQlFnWmVBWEQzdmV2aVdtQ05JMjNfMHRTTEt5UUVBdllKUE5GbDhLQjdFVEFqRG1WVlZtSzBxSjBXSFBzSVlXZndVZ1BZRXEtWXh1dHlYUnV6YmRnT1p1d3BXWFpBY2ZYbi1nWGJCOE00TUVjTEhuQWR0RUFWUnRRcHBBQ3pEMUdpY1NJb3A5aFE?oc=5",
+          "domain": "wtaj.com",
+          "published_at": "2026-09-24T21:04:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94elQ3Rm1Kc0JLaUZ4QzJ3Y1pGelZWYm1aTHhpcW41bVQ2bHhTV0luN2FON2dlUnFGdl9YOEg5RTlCckRPdzF0bzNZTTU1SjFlYkpEQWNma2RSQWc5RnJodFhVcXd3WXRBZlA0ckljc3lTbjhRX1lfZ25CZkRHbjg?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-09-24T21:15:45+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUWdGNlVuV0pCSzVOdTVadk1oVjRra1VHZFBqUUVwM2RyS2FSWGN2QldaN19xSThSeEhyTEw3dXp4Vkp2VkU3b0ZZWkhqQjUwUUtiRU5TX2dBR2hyOG5mODdPRllFM3ZucFB0b1E2Z2RoSXdYeHB1Uw?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-09-24T21:04:01+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "28m settlement sunday"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -12268,10 +12274,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 77,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-03T06:17:00+05:30",
-  "next_update_display": "03 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-03T12:17:00+05:30",
+  "next_update_display": "03 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
