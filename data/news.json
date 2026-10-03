@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-03T11:17:04.758070+05:30",
-  "generated_at_display": "03 Oct 2026, 11:17 AM IST",
-  "item_count": 363,
-  "raw_relevant_item_count": 562,
-  "duplicates_merged": 120,
+  "generated_at": "2026-10-03T17:33:45.459222+05:30",
+  "generated_at_display": "03 Oct 2026, 5:33 PM IST",
+  "item_count": 364,
+  "raw_relevant_item_count": 558,
+  "duplicates_merged": 115,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock after-hours at EUR 206.05",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5",
-      "description": "Quest Diagnostics stock after-hours at EUR 206.05 AD HOC NEWS",
+      "description": "Quest Diagnostics stock after-hours at EUR 206.05 ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -259,9 +259,15 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFJpV19adDM3cGFCT2ZORDhuNVl5azk0LVJ2Z09rdkdnS0xSZW5ZT21NSGYxM296UllwUzZHX29IVG5jTGp4RFhJUjA0bnR0dXlMN0czWDcwZ3FzYnZqWmVab3FjcXRPYW5mWUFPVEM3emZtei1ibG5YVnByM3BtTVRMWDRDM2ZDR0ZpeUg1V3lkNFczall4bEM4Q2NCbklwbDJramZ0SzFGcGk3WktuUA?oc=5",
           "domain": "moomoo.com",
           "published_at": "2026-09-30T12:30:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0RBYVIwNEJSaW4xdTlIcXRJMEc0U09xaFF4aDZwVU14MjBfWmhyUVVFRVZqcEIwRTN1LVQ4VWd4OHFVa01XbkhoemhCaGJvdVdyYUowSDhVajNtaVVVTmtiU3QzVjNDUU8wdUpMLTlweDkwSUNCdTZLeEhyQjFjemVuUTdpazY4YkMwcEVoc3RCc2hxbDlOUXkybW9mY3Z4THdEcXFWN0NyZ01oRENVZmFLOF9jM2tOdEVYVEJLLURhTTk5aDJSZ3ZUV21jbU84b2c?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-30T12:30:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "2026 announce financial october quarter results third"
     },
     {
@@ -761,30 +767,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "after gains percent raises stock target truist"
-    },
-    {
-      "id": "8fb688ce223d389cd56a",
-      "company": "Labcorp",
-      "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
-      "description": "LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com",
-      "source": "fox5vegas.com",
-      "source_url": "https://www.fox5vegas.com",
-      "source_domain": "fox5vegas.com",
-      "published_at": "2026-09-24T23:44:00+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "fox5vegas.com",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
-          "domain": "fox5vegas.com",
-          "published_at": "2026-09-24T23:44:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach data multistate over patient reaches settlement"
     },
     {
       "id": "19ae2e77d8e5cce4a8bf",
@@ -1337,6 +1319,30 @@
       ],
       "coverage_count": 5,
       "event_signature": "28m settlement sunday"
+    },
+    {
+      "id": "b9de68efee88016d60a7",
+      "company": "Labcorp",
+      "title": "LabCorp reaches $2.3M multistate settlement over patient data breach",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
+      "description": "LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com",
+      "source": "FOX5 Vegas",
+      "source_url": "https://www.fox5vegas.com",
+      "source_domain": "fox5vegas.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "FOX5 Vegas",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbER3TXV3OWV3dGc4eVpJUENSdmdjV0hKZGNIS3NxQzZualMzNHhXYzNxbVZrb3loOEpXQS1lQ0tLTkl5ZWJuaE9GZFFfbkJHakVnTXUxTG55b3BYQlJsUEJtVWdqeUJOZW1HcE5GQkhJcFpYUmkwU1FYajdTdGRIazFaZEN4RlpHM2wzZlVRT1pBbWFPc0NISGU4V09RaUZlRjdsVERjZw?oc=5",
+          "domain": "fox5vegas.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data multistate over patient reaches settlement"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -3923,6 +3929,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "acquires biomarker capabilities central clinical expanding global labs medical mlm trials"
+    },
+    {
+      "id": "42a1b6c1d2fccc4744d8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVFCVlA0MnR6S2FGb3laNEZ2Z0VIcW1vN3hINHVuTEU3VlJJYTl4TW1hVEM5U0EwTVJ4c3ZHQ2dMRWt6dDRPVWF1THVtd0ZUYkZjSVFHWFpSZ0xVV05hV3pYYUpoWEV1VjB5OFkwSFVyQTBaU0FVRVNpbVdPbUdhVUpiZ3M4SXRUSHBrSFAzREtkOC12bFFFQVVmSm5LZ3d3LW5LdThtRVE?oc=5",
+      "description": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million The Motley Fool",
+      "source": "The Motley Fool",
+      "source_url": "https://www.fool.com",
+      "source_domain": "fool.com",
+      "published_at": "2026-09-08T07:00:00+00:00",
+      "published_display": "08 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOVFCVlA0MnR6S2FGb3laNEZ2Z0VIcW1vN3hINHVuTEU3VlJJYTl4TW1hVEM5U0EwTVJ4c3ZHQ2dMRWt6dDRPVWF1THVtd0ZUYkZjSVFHWFpSZ0xVV05hV3pYYUpoWEV1VjB5OFkwSFVyQTBaU0FVRVNpbVdPbUdhVUpiZ3M4SXRUSHBrSFAzREtkOC12bFFFQVVmSm5LZ3d3LW5LdThtRVE?oc=5",
+          "domain": "fool.com",
+          "published_at": "2026-09-08T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "000 ceo million sells shares"
     },
     {
       "id": "ebe750529cb72224cbd0",
@@ -12274,10 +12304,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 77,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-03T12:17:00+05:30",
-  "next_update_display": "03 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-03T18:17:00+05:30",
+  "next_update_display": "03 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
