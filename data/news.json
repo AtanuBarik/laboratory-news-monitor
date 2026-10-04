@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-10-04T18:22:14.861374+05:30",
-  "generated_at_display": "04 Oct 2026, 6:22 PM IST",
-  "item_count": 364,
-  "raw_relevant_item_count": 364,
-  "duplicates_merged": 0,
-  "failures": [
-    "Labcorp: HTTP Error 503: Service Unavailable",
-    "Quest Diagnostics: HTTP Error 503: Service Unavailable",
-    "ARUP Laboratories: HTTP Error 503: Service Unavailable",
-    "Mayo Clinic Laboratories: HTTP Error 503: Service Unavailable",
-    "Sonic Healthcare: HTTP Error 503: Service Unavailable"
-  ],
+  "generated_at": "2026-10-05T03:28:03.305229+05:30",
+  "generated_at_display": "05 Oct 2026, 3:28 AM IST",
+  "item_count": 365,
+  "raw_relevant_item_count": 549,
+  "duplicates_merged": 112,
+  "failures": [],
   "items": [
+    {
+      "id": "dd7df8677779c36a63d1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock heads into October 22 results with Q2 growth now in view",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHJDVjV5ZDBPWE9PcXp2Y0JuTFdpa0I1aTRGVS1jQ1pBVDhyYURuMkJLcWNUQld1c3BxYTRBZjlwcVI0bkttN0c5YVBVSnBxV01KR3Vma2Noa0tRNm42QW9CeXFtY3BPSGsxbmhfNUsxMDJqMzcwQ2hVbkVjVTVIMU9VODBxV2dWSFlyeDlySVN3WGl0UFkzdGVsLW1Wc3F2aUxYV0NxSUQzcXB4OFp0TnFyUW95dzdmejVCMkc3T2Y0bGV3MHhkMDI2ajZmbXY1?oc=5",
+      "description": "Quest Diagnostics stock heads into October 22 results with Q2 growth now in view AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-04T19:31:36+00:00",
+      "published_display": "04 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHJDVjV5ZDBPWE9PcXp2Y0JuTFdpa0I1aTRGVS1jQ1pBVDhyYURuMkJLcWNUQld1c3BxYTRBZjlwcVI0bkttN0c5YVBVSnBxV01KR3Vma2Noa0tRNm42QW9CeXFtY3BPSGsxbmhfNUsxMDJqMzcwQ2hVbkVjVTVIMU9VODBxV2dWSFlyeDlySVN3WGl0UFkzdGVsLW1Wc3F2aUxYV0NxSUQzcXB4OFp0TnFyUW95dzdmejVCMkc3T2Y0bGV3MHhkMDI2ajZmbXY1?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-04T19:31:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "growth heads now october results stock view"
+    },
     {
       "id": "82a0bd063418a60cd958",
       "company": "Quest Diagnostics",
@@ -41,7 +59,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzZmbUQ1VkJMeWRvem5ENUZDQzVqSFZtbDBGbnZVQzNKTFVsZUQ4aGVvc3V3WXdOQUdGWl93OXhzQUlkOS1fMmhQZmhkdlNacjdQUnJjanlIUWtoZjhxcDI2RFlCSmE3MGVOVW1XN0NvbXZYU2VCbVQ5eVFSZ0o4NFZfOE9faTNCMEZlME9FRjNiTEhmSHhUYkh1T1Zmb0VLb25CYzBYcmxKdllOQXhXcTFaelo1bWtYUjhDUFBwOElvWkRSV2RQQll4M2JseFN1YVNjR0xB?oc=5",
-      "description": "Quest Diagnostics (NYSE:DGX) Breakout Setup Backed by Technical Rating 7 and Setup Rating 8 ChartMill",
+      "description": "Quest Diagnostics (NYSE:DGX) Breakout Setup Backed by Technical Rating 7 and Setup Rating 8 Chart Mill",
       "source": "ChartMill",
       "source_url": "https://www.chartmill.com",
       "source_domain": "chartmill.com",
@@ -155,6 +173,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "accuracy cancer colorectal haystack highlights mrd test trials"
+    },
+    {
+      "id": "5437036cf7acc46fe7d6",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-10-01T12:00:34+00:00",
+      "published_display": "01 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-10-01T12:00:34+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings transcript"
     },
     {
       "id": "9356beaf26d4d34f2ccf",
@@ -271,9 +313,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0RBYVIwNEJSaW4xdTlIcXRJMEc0U09xaFF4aDZwVU14MjBfWmhyUVVFRVZqcEIwRTN1LVQ4VWd4OHFVa01XbkhoemhCaGJvdVdyYUowSDhVajNtaVVVTmtiU3QzVjNDUU8wdUpMLTlweDkwSUNCdTZLeEhyQjFjemVuUTdpazY4YkMwcEVoc3RCc2hxbDlOUXkybW9mY3Z4THdEcXFWN0NyZ01oRENVZmFLOF9jM2tOdEVYVEJLLURhTTk5aDJSZ3ZUV21jbU84b2c?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-09-30T12:30:00+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2pBcTFnOWNxTFJ1V1ZGSDRFMllLZDY3a3BNelBjeFIyeGJkUjQ0aGdjYU9KUl8wa1J0dVJpZzFBUVd2eVpYR2pJWlpuVFRSSUZmdFRCX3BIS0FnZTBfM1AtSDduX2o1dm45TUlGNVk1dnZEV2dVelF2Ym10U1RVWS11Z2RhS3hNdjlaMUJ2YlhfakZhQlBTdmZqbm8?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-09-30T20:32:45+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "2026 announce financial october quarter results third"
     },
     {
@@ -709,48 +757,6 @@
       "event_signature": "2019 breach data doj million over settlement wisconsin"
     },
     {
-      "id": "0c434106aba31744f9c1",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
-      "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-25T11:14:00+00:00",
-      "published_display": "25 Sep 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-25T11:14:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-09-25T11:32:10+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlgyckZwaGdlYjhTeDg0eGFHajZzTGwtZC0yY1haRWlOS01HckhNTThYcU4tTlRWd0NESFpVY0tZN2p0ay0xVmJ1Y1JsTTRLbVhtZ1lpWmZzRUFIUjhKLXROR1V6OW9qWlJET1FlYUtkSy0wNmt5emRGcU0tVFltbVRaT3FJOGRYS2JPVTlLQU9lY29pY0ZDVlNiQWNTM3VUdENaNWlnWW9JTl9jaHA2QUFveEZUODBZ?oc=5",
-          "domain": "es.tradingview.com",
-          "published_at": "2026-09-25T11:14:00+00:00"
-        },
-        {
-          "name": "Eastern Progress",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalpnbTZCMHdoNHVYRTh6SUJBb0wzd1Rtc2ZvbUNyeURES3hoeWliT2hXMlNZMU5aQkRIQzZwV0t1RU1lMVpsemRBSVY4NWNQb2NyZEV3UmdLWnBmTm5KVjgwZWMycWdyUW5LSGIxSGt5MjBtdC14TnRfaFFQbmYtZXA0QkFHSWM4MXVrMFpVSzN3azhaU1hXNDdZdEtDemw5R1Q0ZHRvMmRmdHltUEE3aTRSUXExM2VKZDkwNjJzN1J6djFCX1RWaUw4a21KMTJ0NU13cUpaRGhmWFE?oc=5",
-          "domain": "easternprogress.com",
-          "published_at": "2026-09-25T11:14:00+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "behind gains rally stock what ytd"
-    },
-    {
       "id": "7d1f5e90b73ad70b74ab",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock gains 1.48 percent after Truist raises target",
@@ -775,6 +781,48 @@
       "event_signature": "after gains percent raises stock target truist"
     },
     {
+      "id": "0c434106aba31744f9c1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
+      "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-25T07:00:00+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-25T07:00:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-09-25T11:32:10+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlgyckZwaGdlYjhTeDg0eGFHajZzTGwtZC0yY1haRWlOS01HckhNTThYcU4tTlRWd0NESFpVY0tZN2p0ay0xVmJ1Y1JsTTRLbVhtZ1lpWmZzRUFIUjhKLXROR1V6OW9qWlJET1FlYUtkSy0wNmt5emRGcU0tVFltbVRaT3FJOGRYS2JPVTlLQU9lY29pY0ZDVlNiQWNTM3VUdENaNWlnWW9JTl9jaHA2QUFveEZUODBZ?oc=5",
+          "domain": "es.tradingview.com",
+          "published_at": "2026-09-25T11:14:00+00:00"
+        },
+        {
+          "name": "Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalpnbTZCMHdoNHVYRTh6SUJBb0wzd1Rtc2ZvbUNyeURES3hoeWliT2hXMlNZMU5aQkRIQzZwV0t1RU1lMVpsemRBSVY4NWNQb2NyZEV3UmdLWnBmTm5KVjgwZWMycWdyUW5LSGIxSGt5MjBtdC14TnRfaFFQbmYtZXA0QkFHSWM4MXVrMFpVSzN3azhaU1hXNDdZdEtDemw5R1Q0ZHRvMmRmdHltUEE3aTRSUXExM2VKZDkwNjJzN1J6djFCX1RWaUw4a21KMTJ0NU13cUpaRGhmWFE?oc=5",
+          "domain": "easternprogress.com",
+          "published_at": "2026-09-25T11:14:00+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "behind gains rally stock what ytd"
+    },
+    {
       "id": "19ae2e77d8e5cce4a8bf",
       "company": "Labcorp",
       "title": "Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com",
@@ -797,42 +845,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "2019 2news breach com data local nevada over reaches settlement"
-    },
-    {
-      "id": "5942e5a2fd88f5cba1a2",
-      "company": "Labcorp",
-      "title": "Labcorp data breach settlement reached at $2M",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
-      "description": "More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -",
-      "source": "WXII",
-      "source_url": "https://www.wxii12.com",
-      "source_domain": "wxii12.com",
-      "published_at": "2026-09-24T18:16:00+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WXII",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
-          "domain": "wxii12.com",
-          "published_at": "2026-09-24T18:16:00+00:00"
-        },
-        {
-          "name": "The MoCo Show -",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2MyRVhmSDF1MkdpUTZiTm9RZDZvR05CenpaZHhJa3labFg0RV9RSWZtYzZ3VzBpTHJBbnoxMFFveUdhRngzdS1lTENSTksyZHRxbnBvZnplSFhhTzZ1ME9hMHh6V1VlbmdPSnZGNFZtVjI0R3B3R0dkUU10Q091cEVwZjJDWk9UWGQ4dDQyY1llMmY3NHNod003b0xHNGpZNm0yWUFmOVIwOENOSl9MN1dwTThoQWhXY3VKVzVlMU5YVnYzclE?oc=5",
-          "domain": "mocoshow.com",
-          "published_at": "2026-09-29T08:00:35+00:00"
-        },
-        {
-          "name": "WHMI",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3Y4WWNzUXUxTDNwOF92MUhtczJfNXEtWnFVNGhTcUxBV0FjQUFiWXBGX2xYMTZiUTdUZGdmTThVeDFiT2xvUE4ySEhLNDZrczRHeWlhSlg3NWNPSXQ0RGM5Qm9Lb3RkNm90VXB1SWZYNFZqR1Q4cHc5bkw4MERwY2dn?oc=5",
-          "domain": "whmi.com",
-          "published_at": "2026-09-30T08:33:21+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "breach data reached settlement"
     },
     {
       "id": "d4b73cc2a7db82d21d0f",
@@ -1033,9 +1045,21 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlZfSGxnQVZkZzNGbnlNTmJLTklrVm4yYWluVENSMGxRR0hGaWg2V3FuSHJPZHFMR2xpbzRIVHRiZENHeDllSlZ5aDhfRFB6Qk1mX3hwd044MlpVR1NQTnV3TFlzUGcyakl4UWYzZTZTLTB6dkVyczh5Wm1EZ081OHF2aXk2LU15cVdFaGNjZk1kQy1OUEJ5WDFrYnh3MUFMUkJwQzE1dw?oc=5",
           "domain": "journalnow.com",
           "published_at": "2026-09-25T09:30:00+00:00"
+        },
+        {
+          "name": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSEtQV0JzY2x5RHkwQlVTUXk1dmoxaGJzTDhnVkd4T2gtUXIyLVFlZUlPek9lTTBXSFdQODVWemNnd0EzVnZXTGgwZEhWaTFKTkxPSnlkdF9KT0tOMGQ5YzM3QzhyZ29XVlJsaExQRG44VFY4QV8wVG1JWDFTTnR1Ri1OQVpYd0YxclBjMUxNaG9MSHg1LUNSRXJqQ3hxeTV6dE82NWlqRWllX20zal9zMV9ET2xmUV9FSHA2TzNURkVtNFYxaWxJVExJLXNuTFRSYk80?oc=5",
+          "domain": "einnews.com",
+          "published_at": "2026-09-26T00:05:00+00:00"
+        },
+        {
+          "name": "MyChesCo",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHJHalgxREtrWTdmTFg2aWU5dEpZZ3pDcjhESW1XZUFwY1BLQURiS3Z0T3VRYzVOS25KSFRDNnJwTWZjT1hJMWs3SUZJcFlITko0NVQ0QWpYSmdFbUFkclpKaG5NYXM5cVZlSHFxVnBvVkdOMTRNd0Y4S3BydnhGMEpsVk9NTjNxbXpjcldLNjBIcTZhNnM1U3lDNk92SXJ0ekVrbXNCNkNzMjN2WFE?oc=5",
+          "domain": "mychesco.com",
+          "published_at": "2026-09-26T12:00:00+00:00"
         }
       ],
-      "coverage_count": 8,
+      "coverage_count": 10,
       "event_signature": "2019 attorney breach data general jackson jeff million over reaches settlement"
     },
     {
@@ -1177,9 +1201,15 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVdtOHpDSC1DQzlQc3RqaC1rTldYdG9sY3p3UzhRLXM5c3RCY0QyOWY3cWpGUnE2c2d5X0VnN3l5dmlaT2pJQXFWR3ZDRG92XzJ2OEhhVFZaRDdmdjF2OU9BXy1EU1E2Y2cwV01rdmxaR051Qy1Ha1N4VGZIWHpvRTBFMzExc1o2QVpLaldOenh6NnAzVFE2eWVja29TODVxQmt1Nm93MWd3SW9PcW5qZTFrSmgtTWpJemV3SXRhVlhqX3N1d0dYb0EzaDVmMlE?oc=5",
           "domain": "ruralradio.com",
           "published_at": "2026-09-28T19:39:56+00:00"
+        },
+        {
+          "name": "EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRHEzWHVWYTlneEVpanc5X2dRSlpmZ2pWbGgwbWVPTTFjLXpibTRjaXREMXB4dTBMNlBMVk1KMUpuV2Z2eTVmdHIzbmMyQmhITUFvOHNIbFRfa2lJc0F0WDRBdVU5ak9tWjM4QkxBUi1KZENJTFlaWmhYWVlLb19RY0JjV3B0dFJ3NnJ6NWNlTnhMS3VMeXpoVjZza21rRXczalhGUzV6NVlwUUlUZ0F4d1RnLVczRFoyZkRTUUhZYUI4Qi1meEctR0h6NmwxXzFWXzZkcTRUcWlEckdPM3dQRjlXNUZ0RS12LUwyTl9WeThUUjg?oc=5",
+          "domain": "einnews.com",
+          "published_at": "2026-09-25T19:00:00+00:00"
         }
       ],
-      "coverage_count": 14,
+      "coverage_count": 15,
       "event_signature": "agency american attorney breach collection data general hilgers medical mike multistate over settlement"
     },
     {
@@ -1349,6 +1379,42 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach data joins million settlement virginia west"
+    },
+    {
+      "id": "5942e5a2fd88f5cba1a2",
+      "company": "Labcorp",
+      "title": "Labcorp data breach settlement reached at $2M",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
+      "description": "More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -",
+      "source": "WXII",
+      "source_url": "https://www.wxii12.com",
+      "source_domain": "wxii12.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WXII",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5",
+          "domain": "wxii12.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        },
+        {
+          "name": "The MoCo Show -",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2MyRVhmSDF1MkdpUTZiTm9RZDZvR05CenpaZHhJa3labFg0RV9RSWZtYzZ3VzBpTHJBbnoxMFFveUdhRngzdS1lTENSTksyZHRxbnBvZnplSFhhTzZ1ME9hMHh6V1VlbmdPSnZGNFZtVjI0R3B3R0dkUU10Q091cEVwZjJDWk9UWGQ4dDQyY1llMmY3NHNod003b0xHNGpZNm0yWUFmOVIwOENOSl9MN1dwTThoQWhXY3VKVzVlMU5YVnYzclE?oc=5",
+          "domain": "mocoshow.com",
+          "published_at": "2026-09-29T08:00:35+00:00"
+        },
+        {
+          "name": "WHMI",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3Y4WWNzUXUxTDNwOF92MUhtczJfNXEtWnFVNGhTcUxBV0FjQUFiWXBGX2xYMTZiUTdUZGdmTThVeDFiT2xvUE4ySEhLNDZrczRHeWlhSlg3NWNPSXQ0RGM5Qm9Lb3RkNm90VXB1SWZYNFZqR1Q4cHc5bkw4MERwY2dn?oc=5",
+          "domain": "whmi.com",
+          "published_at": "2026-09-30T08:33:21+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "breach data reached settlement"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -2305,30 +2371,6 @@
       "event_signature": "2026 after day earnings gains guidance investor stock"
     },
     {
-      "id": "473fd1d44f152e0285f5",
-      "company": "Labcorp",
-      "title": "Labcorp Website Tracking Class Action Settlement",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
-      "description": "Labcorp Website Tracking Class Action Settlement claimdepot.com",
-      "source": "Claim Depot",
-      "source_url": "https://www.claimdepot.com",
-      "source_domain": "claimdepot.com",
-      "published_at": "2026-09-16T17:00:01+00:00",
-      "published_display": "16 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Claim Depot",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
-          "domain": "claimdepot.com",
-          "published_at": "2026-09-16T17:00:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "action class settlement tracking website"
-    },
-    {
       "id": "ebf1b07d4f380153b071",
       "company": "Quest Diagnostics",
       "title": "Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics",
@@ -2411,6 +2453,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "analyst apple deal health highs lab lift reaches sentime stock upgrades"
+    },
+    {
+      "id": "473fd1d44f152e0285f5",
+      "company": "Labcorp",
+      "title": "Labcorp Website Tracking Class Action Settlement",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
+      "description": "Labcorp Website Tracking Class Action Settlement claimdepot.com",
+      "source": "Claim Depot",
+      "source_url": "https://www.claimdepot.com",
+      "source_domain": "claimdepot.com",
+      "published_at": "2026-09-16T07:00:00+00:00",
+      "published_display": "16 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Claim Depot",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY2NOaXNJaVlYNThmSElCUEk0Q3N2SDEyVFhPQUFKSVBHd3Z3aUxhc0kxaWRuUko5TnRjVVhIb21ZS19nTV9SV1RQMy03M0ROUGhKaG0tdGpqekpLQ2F0cF9ueEZST3FtS3hPQzNEN0JmMG1pZVh5dXY3XzZiaFRaRHFxZGp2ZVU?oc=5",
+          "domain": "claimdepot.com",
+          "published_at": "2026-09-16T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action class settlement tracking website"
     },
     {
       "id": "923aa4fee8f0ee5803e8",
@@ -12270,50 +12336,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "cancer int integrates testing"
-    },
-    {
-      "id": "84643ef319526071805f",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFVnUVhlMHlFRHN2MU5lQldHOWx0RFJNWjJXdzJ6VkhoWWRXRVZ6aF9UTmhlbWRPclhUVVZKbkNycHBXd0dIRVhnYkZzODlBeUtzSi1vWW1vLWtUaXpUck1KTXRLZmZWZF9KYXY5UzNCNjZKaDFFS2pYa1Zwb2dqZlhXdU96TkFxNDcyalcyQWVhQldsQXBsSktBTzhZcGFSbk05WVRBVFFQZkRQQTV2YUxjVnlUOUR6VTlUUFJtWUg2ZWZrQTRDVXV3S0FYWVJTdWpycWdR?oc=5",
-      "description": "Quest Diagnostics reported first-quarter 2026 net revenue of $2.895 billion, up 9.2% from a year earlier, with 9.0% organic revenue growth. Diagnostic Information Services revenue increased 9.4% to $2.832 billion. Total requisition volume rose 10.9%, including 10.8% organic growth, while revenue per requisition declined 1.3%. Reported operating income increased 15.5% to $399 million and operating margin improved to 13.8% from 13.0%. Net income attributable to Quest rose 14.4% to $252 million, and reported diluted EPS increased 15.5% to $2.24. Adjusted operating income was $447 million, up 10.1%, with a 15.4% margin, while adjusted diluted EPS rose 13.1% to $2.50. Operating cash flow was $278 million and capital expenditures were $114 million. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.78–$11.90 billion from $11.70–$11.82 billion. Reported diluted EPS guidance increased to $9.58–$9.78 from $9.45–$9.65, and adjusted diluted EPS guidance rose to $10.63–$10.83 from $10.50–$10.70. Expected operating cash flow remained approximately $1.75 billion and capital spending about $550 million. Management highlighted strong physician, hospital and consumer demand, double-digit Advanced Diagnostics growth and expansion of collaborations with Corewell Health and Fresenius Medical Care as important operating drivers.",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-07-06T13:36:15+00:00",
-      "published_display": "06 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWFVnUVhlMHlFRHN2MU5lQldHOWx0RFJNWjJXdzJ6VkhoWWRXRVZ6aF9UTmhlbWRPclhUVVZKbkNycHBXd0dIRVhnYkZzODlBeUtzSi1vWW1vLWtUaXpUck1KTXRLZmZWZF9KYXY5UzNCNjZKaDFFS2pYa1Zwb2dqZlhXdU96TkFxNDcyalcyQWVhQldsQXBsSktBTzhZcGFSbk05WVRBVFFQZkRQQTV2YUxjVnlUOUR6VTlUUFJtWUg2ZWZrQTRDVXV3S0FYWVJTdWpycWdR?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-07-06T13:36:15+00:00"
-        },
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNa1FFUTFnMHA5dDNPTlhnR1lfeFJlQlBNck1pUXRoZm9XY2JkU2tLNUVQOE9KZDA2UXRGbjhVSWFNdWFtem13N1lXMGVjMWVDTjdDakRreEpmVVBVS1JtVUhTS2lJRjNQaU9Kd1R1eEdNX2c0ZjlTOG4wTXdUNFRVcWZWS2VCNDZzdndRMTd2VnlRcU1xYlZDLVdwOFgwYjZ3UU1NTHlHV0Fvakp5Z01uY05vYlUwT1hoQ01PRTQxRlNNd1NIRXNFR3pXR3VNRC1TQm5NMmRB?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-07-14T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 beats drives earnings eps estimates expansion phase profit routine testing volume",
-      "source_description": "Quest Diagnostics Q1 2026 Earnings: EPS Beats Estimates as Routine Testing Volume Drives Profit - Earnings Expansion Phase dars.gov.et",
-      "chatgpt_summary": "Quest Diagnostics reported first-quarter 2026 net revenue of $2.895 billion, up 9.2% from a year earlier, with 9.0% organic revenue growth. Diagnostic Information Services revenue increased 9.4% to $2.832 billion. Total requisition volume rose 10.9%, including 10.8% organic growth, while revenue per requisition declined 1.3%. Reported operating income increased 15.5% to $399 million and operating margin improved to 13.8% from 13.0%. Net income attributable to Quest rose 14.4% to $252 million, and reported diluted EPS increased 15.5% to $2.24. Adjusted operating income was $447 million, up 10.1%, with a 15.4% margin, while adjusted diluted EPS rose 13.1% to $2.50. Operating cash flow was $278 million and capital expenditures were $114 million. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.78–$11.90 billion from $11.70–$11.82 billion. Reported diluted EPS guidance increased to $9.58–$9.78 from $9.45–$9.65, and adjusted diluted EPS guidance rose to $10.63–$10.83 from $10.50–$10.70. Expected operating cash flow remained approximately $1.75 billion and capital spending about $550 million. Management highlighted strong physician, hospital and consumer demand, double-digit Advanced Diagnostics growth and expansion of collaborations with Corewell Health and Fresenius Medical Care as important operating drivers.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-14T00:49:37+05:30",
-      "summary_evidence": [
-        "https://newsroom.questdiagnostics.com/2026-04-21-Quest-Diagnostics-Reports-First-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 70,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-05T00:17:00+05:30",
-  "next_update_display": "05 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-05T06:17:00+05:30",
+  "next_update_display": "05 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
