@@ -1,8 +1,8 @@
 {
-  "last_run_at": "2026-10-04T11:53:59.429011+05:30",
-  "last_run_display": "04 Oct 2026, 11:53 AM IST",
-  "next_update_at": "2026-10-04T12:17:00+05:30",
-  "next_update_display": "04 Oct 2026, 12:17 PM IST",
+  "last_run_at": "2026-10-04T18:22:53.859418+05:30",
+  "last_run_display": "04 Oct 2026, 6:22 PM IST",
+  "next_update_at": "2026-10-05T00:17:00+05:30",
+  "next_update_display": "05 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST",
   "news_item_count": 364,
   "raw_relevant_item_count": 364,
@@ -18,5 +18,5 @@
   "chatgpt_remaining_unsummarized": 252,
   "email_status": "awaiting_chatgpt_summaries",
   "email_summary_provider": "Awaiting ChatGPT Scheduled Task",
-  "last_email_check": "04 Oct 2026, 3:53 AM IST"
+  "last_email_check": "04 Oct 2026, 12:51 PM IST"
 }
