@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 05 Oct 2026, 3:28 AM IST
+- **Repository generated:** 05 Oct 2026, 11:46 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 04 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHJDVjV5ZDBPWE9PcXp2Y0JuTFdpa0I1aTRGVS1jQ1pBVDhyYURuMkJLcWNUQld1c3BxYTRBZjlwcVI0bkttN0c5YVBVSnBxV01KR3Vma2Noa0tRNm42QW9CeXFtY3BPSGsxbmhfNUsxMDJqMzcwQ2hVbkVjVTVIMU9VODBxV2dWSFlyeDlySVN3WGl0UFkzdGVsLW1Wc3F2aUxYV0NxSUQzcXB4OFp0TnFyUW95dzdmejVCMkc3T2Y0bGV3MHhkMDI2ajZmbXY1?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWRHdGZSQUQ3cU1FSGdDbnZDZ0ZqMXAxUnRodlJFUHlwUkR0REk2dS0zaXRsWVJjTEQ1aXpCcFdUYVhad2hHcm15S3ZXdV9GSFg4by12VXptSjUxNVRoSURrZmFYYkNFSjhoTkU4SDJBcEVxalBQelF3dThOcktuSFFqbC1BTUlQTG8xaVZ5enBDc1NNa1hJOWtCNUtaMDIxa1dpY3VOTHRiOTMtWWl2TXpOWlJ6M3pQTWxBeHRua3RWUENuRl95R0piTHk1WlZtcnFYNWJuQVZlOGM?oc=5
 
 **Feed description:** Quest Diagnostics stock heads into October 22 results with Q2 growth now in view AD HOC NEWS
 
@@ -599,12 +600,13 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - WXII: https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5
   - The MoCo Show -: https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2MyRVhmSDF1MkdpUTZiTm9RZDZvR05CenpaZHhJa3labFg0RV9RSWZtYzZ3VzBpTHJBbnoxMFFveUdhRngzdS1lTENSTksyZHRxbnBvZnplSFhhTzZ1ME9hMHh6V1VlbmdPSnZGNFZtVjI0R3B3R0dkUU10Q091cEVwZjJDWk9UWGQ4dDQyY1llMmY3NHNod003b0xHNGpZNm0yWUFmOVIwOENOSl9MN1dwTThoQWhXY3VKVzVlMU5YVnYzclE?oc=5
   - WHMI: https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3Y4WWNzUXUxTDNwOF92MUhtczJfNXEtWnFVNGhTcUxBV0FjQUFiWXBGX2xYMTZiUTdUZGdmTThVeDFiT2xvUE4ySEhLNDZrczRHeWlhSlg3NWNPSXQ0RGM5Qm9Lb3RkNm90VXB1SWZYNFZqR1Q4cHc5bkw4MERwY2dn?oc=5
+  - WHMI: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwa25DMnNxVUd4UnNaXzUzeUljeUI1WWMtS2x6Y1ZJbTdjdnc2djBWTUNEeDF6ZndJQmRUaDA1bDVjTXlHRjVCdjd5N2dTcXlG?oc=5
 
 **Feed description:** More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -
 
@@ -714,19 +716,7 @@
 
 **Feed description:** Apple, Quest Diagnostics partner on in-app lab orders healthcare-brew.com
 
-## 55. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
-
-- **Company:** Labcorp
-- **Publication date:** 22 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5
-
-**Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
-
-## 56. Quest Diagnostics stock underperforms Tuesday when compared to competitors
+## 55. Quest Diagnostics stock underperforms Tuesday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -739,7 +729,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
-## 57. Labcorp $6.1 Million Data Breach Class Action Settlement
+## 56. Labcorp $6.1 Million Data Breach Class Action Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -752,7 +742,7 @@
 
 **Feed description:** Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot
 
-## 58. Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more
+## 57. Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -764,7 +754,7 @@
 
 **Feed description:** Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more cnbc.com
 
-## 59. Labcorp Reaffirms Long-Term Earnings Outlook
+## 58. Labcorp Reaffirms Long-Term Earnings Outlook
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -778,7 +768,7 @@
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
 
-## 60. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
+## 59. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -790,7 +780,7 @@
 
 **Feed description:** Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha
 
-## 61. Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure
+## 60. Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -803,6 +793,18 @@
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHU5Y2VEZU5HSUQ3WW15bk9rT0xDWVg1VEVlX29KcGpSR2hWaVBMZEdlS0w3dGpSR2ZKd1UyY3BiLXVkY3Rla1ZZNnl3Q3dCT0ltZHZlSjBOR1ZVU1FwNTdBaTNDSDFGak0xQ1p3Nl9QUjBPTklxWUJEZFZWUVpGczB5YUtXNkUtVTVfQXR5N25HYXMwSTRZOHdyQW5jcjNNeWJ4c3g3amFFdw?oc=5
 
 **Feed description:** Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research
+
+## 61. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
+
+- **Company:** Labcorp
+- **Publication date:** 22 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5
+
+**Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
 
 ## 62. Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026
 

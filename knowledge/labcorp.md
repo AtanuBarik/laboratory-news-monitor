@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 05 Oct 2026, 3:28 AM IST
+- **Repository generated:** 05 Oct 2026, 11:46 AM IST
 - **Distinct events in this file:** 161
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -367,12 +367,13 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - WXII: https://news.google.com/rss/articles/CBMiekFVX3lxTE9Ibloxd1JScmoxcTVFdjYtSlNLVHlsUEZ0S2Z5ei1YRmw5ejFKRWVCMmtZMW5menZCZl9velc4b3g3V2FkVnZNSjhjMjZ2dmRxa202LVU1Z3AyTUJRUWNlN0VZYnBCUUNXbzNMcmJteVZ4Ti1YS3BSN0lR?oc=5
   - The MoCo Show -: https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2MyRVhmSDF1MkdpUTZiTm9RZDZvR05CenpaZHhJa3labFg0RV9RSWZtYzZ3VzBpTHJBbnoxMFFveUdhRngzdS1lTENSTksyZHRxbnBvZnplSFhhTzZ1ME9hMHh6V1VlbmdPSnZGNFZtVjI0R3B3R0dkUU10Q091cEVwZjJDWk9UWGQ4dDQyY1llMmY3NHNod003b0xHNGpZNm0yWUFmOVIwOENOSl9MN1dwTThoQWhXY3VKVzVlMU5YVnYzclE?oc=5
   - WHMI: https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3Y4WWNzUXUxTDNwOF92MUhtczJfNXEtWnFVNGhTcUxBV0FjQUFiWXBGX2xYMTZiUTdUZGdmTThVeDFiT2xvUE4ySEhLNDZrczRHeWlhSlg3NWNPSXQ0RGM5Qm9Lb3RkNm90VXB1SWZYNFZqR1Q4cHc5bkw4MERwY2dn?oc=5
+  - WHMI: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwa25DMnNxVUd4UnNaXzUzeUljeUI1WWMtS2x6Y1ZJbTdjdnc2djBWTUNEeDF6ZndJQmRUaDA1bDVjTXlHRjVCdjd5N2dTcXlG?oc=5
 
 **Feed description:** More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -
 
@@ -402,19 +403,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com
 
-## 30. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
-
-- **Company:** Labcorp
-- **Publication date:** 22 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5
-
-**Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
-
-## 31. Labcorp $6.1 Million Data Breach Class Action Settlement
+## 30. Labcorp $6.1 Million Data Breach Class Action Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -427,7 +416,7 @@
 
 **Feed description:** Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot
 
-## 32. Labcorp Reaffirms Long-Term Earnings Outlook
+## 31. Labcorp Reaffirms Long-Term Earnings Outlook
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -441,7 +430,7 @@
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
 
-## 33. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
+## 32. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -452,6 +441,18 @@
   - Seeking Alpha: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU2Q3VkVHR2Y4MkZIQzBTVzhFZlhDeVpuWDFZU1M1QjN5Vlo1aUc4Q0dndFU0Y2J1bXE3ZEVOa0c0WThLaUMxUTlfUmFYVVNLcThHWnJrdEZQMVF1dkNZOWVURVZ4MU9QWEswaUgtQTJSd0Rna1NsaGxlSGJkd0NTLTVtbllzVFQwODB3SmF2c0FvQUt1WjZ5eG50Z3FtNnc1OHF5eDU2ejhrN0h2YlZCY25oVzVLN3pEbW5oMDNrNjQ2Zw?oc=5
 
 **Feed description:** Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha
+
+## 33. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
+
+- **Company:** Labcorp
+- **Publication date:** 22 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5
+
+**Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
 
 ## 34. Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)
 

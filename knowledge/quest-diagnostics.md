@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Oct 2026, 3:28 AM IST
+- **Repository generated:** 05 Oct 2026, 11:46 AM IST
 - **Distinct events in this file:** 169
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 04 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHJDVjV5ZDBPWE9PcXp2Y0JuTFdpa0I1aTRGVS1jQ1pBVDhyYURuMkJLcWNUQld1c3BxYTRBZjlwcVI0bkttN0c5YVBVSnBxV01KR3Vma2Noa0tRNm42QW9CeXFtY3BPSGsxbmhfNUsxMDJqMzcwQ2hVbkVjVTVIMU9VODBxV2dWSFlyeDlySVN3WGl0UFkzdGVsLW1Wc3F2aUxYV0NxSUQzcXB4OFp0TnFyUW95dzdmejVCMkc3T2Y0bGV3MHhkMDI2ajZmbXY1?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWRHdGZSQUQ3cU1FSGdDbnZDZ0ZqMXAxUnRodlJFUHlwUkR0REk2dS0zaXRsWVJjTEQ1aXpCcFdUYVhad2hHcm15S3ZXdV9GSFg4by12VXptSjUxNVRoSURrZmFYYkNFSjhoTkU4SDJBcEVxalBQelF3dThOcktuSFFqbC1BTUlQTG8xaVZ5enBDc1NNa1hJOWtCNUtaMDIxa1dpY3VOTHRiOTMtWWl2TXpOWlJ6M3pQTWxBeHRua3RWUENuRl95R0piTHk1WlZtcnFYNWJuQVZlOGM?oc=5
 
 **Feed description:** Quest Diagnostics stock heads into October 22 results with Q2 growth now in view AD HOC NEWS
 

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T03:28:03.305229+05:30",
-  "generated_at_display": "05 Oct 2026, 3:28 AM IST",
+  "generated_at": "2026-10-05T11:46:17.325569+05:30",
+  "generated_at_display": "05 Oct 2026, 11:46 AM IST",
   "item_count": 365,
-  "raw_relevant_item_count": 549,
-  "duplicates_merged": 112,
+  "raw_relevant_item_count": 555,
+  "duplicates_merged": 113,
   "failures": [],
   "items": [
     {
@@ -25,9 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRHJDVjV5ZDBPWE9PcXp2Y0JuTFdpa0I1aTRGVS1jQ1pBVDhyYURuMkJLcWNUQld1c3BxYTRBZjlwcVI0bkttN0c5YVBVSnBxV01KR3Vma2Noa0tRNm42QW9CeXFtY3BPSGsxbmhfNUsxMDJqMzcwQ2hVbkVjVTVIMU9VODBxV2dWSFlyeDlySVN3WGl0UFkzdGVsLW1Wc3F2aUxYV0NxSUQzcXB4OFp0TnFyUW95dzdmejVCMkc3T2Y0bGV3MHhkMDI2ajZmbXY1?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-10-04T19:31:36+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZWRHdGZSQUQ3cU1FSGdDbnZDZ0ZqMXAxUnRodlJFUHlwUkR0REk2dS0zaXRsWVJjTEQ1aXpCcFdUYVhad2hHcm15S3ZXdV9GSFg4by12VXptSjUxNVRoSURrZmFYYkNFSjhoTkU4SDJBcEVxalBQelF3dThOcktuSFFqbC1BTUlQTG8xaVZ5enBDc1NNa1hJOWtCNUtaMDIxa1dpY3VOTHRiOTMtWWl2TXpOWlJ6M3pQTWxBeHRua3RWUENuRl95R0piTHk1WlZtcnFYNWJuQVZlOGM?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-04T19:31:36+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "growth heads now october results stock view"
     },
     {
@@ -1411,9 +1417,15 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ3Y4WWNzUXUxTDNwOF92MUhtczJfNXEtWnFVNGhTcUxBV0FjQUFiWXBGX2xYMTZiUTdUZGdmTThVeDFiT2xvUE4ySEhLNDZrczRHeWlhSlg3NWNPSXQ0RGM5Qm9Lb3RkNm90VXB1SWZYNFZqR1Q4cHc5bkw4MERwY2dn?oc=5",
           "domain": "whmi.com",
           "published_at": "2026-09-30T08:33:21+00:00"
+        },
+        {
+          "name": "WHMI",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwa25DMnNxVUd4UnNaXzUzeUljeUI1WWMtS2x6Y1ZJbTdjdnc2djBWTUNEeDF6ZndJQmRUaDA1bDVjTXlHRjVCdjd5N2dTcXlG?oc=5",
+          "domain": "whmi.com",
+          "published_at": "2026-09-30T08:33:21+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "breach data reached settlement"
     },
     {
@@ -1669,30 +1681,6 @@
       "event_signature": "app apple lab orders partner"
     },
     {
-      "id": "0807c85a76b15a295cc0",
-      "company": "Labcorp",
-      "title": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
-      "description": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-09-22T21:14:20+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-09-22T21:14:20+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 2029 annual compound growth including outlook reaffirms revenue"
-    },
-    {
       "id": "dd66ce0940f383248ed3",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
@@ -1871,6 +1859,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "borne disease exposure finds high study tick"
+    },
+    {
+      "id": "0807c85a76b15a295cc0",
+      "company": "Labcorp",
+      "title": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
+      "description": "Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVk9CMFV0YzltS0RTVE14MWwwdkY1c2dJbVFPaHU0cGNRQjNSbE9VRlpoSnpQRGRsUGVZMDF5QkY2cklNQTQ3dFcxNi0wQ2RxdzkyS2NsdGRIVXNRM2VORWg2SzJKcUIzUGxOYlk4MXY4VWpYcmtMU2wyMFAyajFRcmZsV3JFUGhIRjh4alNabEV6QVE1Q0I2eHl5cVV5UWpvLXBfVlYtUGJseFJuandhdlVSUmNkWFZEUHA3dk8zbFdhVTNRZEVlVkpQOG8yTE90blVWXzdsUWNDOUxoeFdLYk83alA?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 2029 annual compound growth including outlook reaffirms revenue"
     },
     {
       "id": "7b39da611e35474f17ea",
@@ -12338,10 +12350,10 @@
       "event_signature": "cancer int integrates testing"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-05T06:17:00+05:30",
-  "next_update_display": "05 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-05T12:17:00+05:30",
+  "next_update_display": "05 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
