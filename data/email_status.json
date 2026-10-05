@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-05T13:08:50.742844+05:30",
-  "checked_at_display": "05 Oct 2026, 1:08 PM IST",
+  "checked_at": "2026-10-05T21:52:10.644055+05:30",
+  "checked_at_display": "05 Oct 2026, 9:52 PM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 216,
+  "ranked_candidate_count": 217,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 80,
   "verified_summary_count": 0,
@@ -47,6 +47,7 @@
     "6f63e39716b5547c81a3",
     "1b6b8da9658496ef1447",
     "403288b5f818c5e8cd2a",
+    "0e37724b2fb662feece4",
     "dd7df8677779c36a63d1",
     "2a3bed422bbba8d6a84e",
     "46ce4c1388bf82f42e3c",
@@ -85,8 +86,7 @@
     "0060ca4454ac659b4f79",
     "f7ce55520338303eb2fc",
     "36f7803cb44ad23a08f0",
-    "aebd1c26176c4525ccb3",
-    "18afb25ed038975713dc"
+    "aebd1c26176c4525ccb3"
   ],
   "gemini_quota_exhausted": false,
   "gemini_error": "",
@@ -137,6 +137,7 @@
     "6f63e39716b5547c81a3",
     "1b6b8da9658496ef1447",
     "403288b5f818c5e8cd2a",
+    "0e37724b2fb662feece4",
     "dd7df8677779c36a63d1",
     "2a3bed422bbba8d6a84e",
     "46ce4c1388bf82f42e3c",
@@ -175,8 +176,7 @@
     "0060ca4454ac659b4f79",
     "f7ce55520338303eb2fc",
     "36f7803cb44ad23a08f0",
-    "aebd1c26176c4525ccb3",
-    "18afb25ed038975713dc"
+    "aebd1c26176c4525ccb3"
   ],
   "primary_summary_provider": "Awaiting ChatGPT Scheduled Task"
 }
