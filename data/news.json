@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-10-05T11:46:17.325569+05:30",
-  "generated_at_display": "05 Oct 2026, 11:46 AM IST",
-  "item_count": 365,
-  "raw_relevant_item_count": 555,
-  "duplicates_merged": 113,
+  "generated_at": "2026-10-05T20:48:02.449609+05:30",
+  "generated_at_display": "05 Oct 2026, 8:48 PM IST",
+  "item_count": 366,
+  "raw_relevant_item_count": 560,
+  "duplicates_merged": 116,
   "failures": [],
   "items": [
+    {
+      "id": "0e37724b2fb662feece4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5",
+      "description": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Barchart.com",
+      "source": "Barchart.com",
+      "source_url": "https://www.barchart.com",
+      "source_domain": "barchart.com",
+      "published_at": "2026-10-05T11:31:19+00:00",
+      "published_display": "05 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-10-05T11:31:19+00:00"
+        },
+        {
+          "name": "Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRqMTVmdGJTVHVMRzBEbWRoX2c5YV9CcWJ2YWNHOEJCWVRzZElFNjdlUGhXaVdRNV91bkJELUV0S21hMk52WFB6aURYbVNtR3FOM1YtS3piRFBXUUtldThvZ2pYUW1DLUV5VlpPaS0wWDRNV1RwbTBWeTZkdGFjODI1SDEtN3Y3S0ZURjlsTkZKd0pjdEVOdUdTLThjSmlfYUNkOVRlbXVCWkF5Y1hr?oc=5",
+          "domain": "barchart.com",
+          "published_at": "2026-10-05T11:35:40+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "earnings know need preview quarterly what you"
+    },
     {
       "id": "dd7df8677779c36a63d1",
       "company": "Quest Diagnostics",
@@ -335,7 +365,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFVSS3ROeVFLbHR5MUJjWmhxaXJDWGJ4c2lQUG5mbzZrU0toaDVkaGZ0VHNiTmx2ZVlYX2hCbXFnWXdSUkgybEZvMFRqX1k4aURJNGVfY3NhRFRCaTlIWFJXQVhCSUVOeHk5aGYxVUhyWUVRRnpPcUw1NUVfSEt0TjVLMFFISGEzQ1NFaDd6bTcwWFlSRGR3SmVNV0FGUTU2Qzd1aGtJRjg3dHl4bXhMWWZNek9WMEZ5eVp2cEhFa0xGbXpDYTh3M0F4Z2JvYWRXV0RXTTdLVjV3dVJZQzFoVW90OFdNOVBFNGhySw?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com",
       "source": "MarketWatch",
       "source_url": "https://www.marketwatch.com",
       "source_domain": "marketwatch.com",
@@ -685,9 +715,15 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
           "domain": "ca.finance.yahoo.com",
           "published_at": "2026-09-26T06:32:01+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqM2xFRHBtd05CeTdrdWdFT3ZKbXY4RWptMk5BcWdFMzljSjhLZmdmeTE1V2NyWk0tcDl1ZWUtQjNlcTk4T1k1dXB4VVVONkJpVW0yazBn?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-10-02T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "history price quote stock"
     },
     {
@@ -12350,10 +12386,10 @@
       "event_signature": "cancer int integrates testing"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 77,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-05T12:17:00+05:30",
-  "next_update_display": "05 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-06T00:17:00+05:30",
+  "next_update_display": "06 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
