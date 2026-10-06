@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 05 Oct 2026, 8:48 PM IST
+- **Repository generated:** 06 Oct 2026, 5:51 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,13 +10,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 05 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Barchart.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRqMTVmdGJTVHVMRzBEbWRoX2c5YV9CcWJ2YWNHOEJCWVRzZElFNjdlUGhXaVdRNV91bkJELUV0S21hMk52WFB6aURYbVNtR3FOM1YtS3piRFBXUUtldThvZ2pYUW1DLUV5VlpPaS0wWDRNV1RwbTBWeTZkdGFjODI1SDEtN3Y3S0ZURjlsTkZKd0pjdEVOdUdTLThjSmlfYUNkOVRlbXVCWkF5Y1hr?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5
 
-**Feed description:** Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Barchart.com
+**Feed description:** Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Yahoo Finance
 
 ## 2. Quest Diagnostics stock heads into October 22 results with Q2 growth now in view
 
@@ -31,19 +32,7 @@
 
 **Feed description:** Quest Diagnostics stock heads into October 22 results with Q2 growth now in view AD HOC NEWS
 
-## 3. Quest Diagnostics stock after-hours at EUR 206.05
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 02 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5
-
-**Feed description:** Quest Diagnostics stock after-hours at EUR 206.05 ad-hoc-news.de
-
-## 4. Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8
+## 3. Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 02 Oct 2026
@@ -54,6 +43,19 @@
   - ChartMill: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzZmbUQ1VkJMeWRvem5ENUZDQzVqSFZtbDBGbnZVQzNKTFVsZUQ4aGVvc3V3WXdOQUdGWl93OXhzQUlkOS1fMmhQZmhkdlNacjdQUnJjanlIUWtoZjhxcDI2RFlCSmE3MGVOVW1XN0NvbXZYU2VCbVQ5eVFSZ0o4NFZfOE9faTNCMEZlME9FRjNiTEhmSHhUYkh1T1Zmb0VLb25CYzBYcmxKdllOQXhXcTFaelo1bWtYUjhDUFBwOElvWkRSV2RQQll4M2JseFN1YVNjR0xB?oc=5
 
 **Feed description:** Quest Diagnostics (NYSE:DGX) Breakout Setup Backed by Technical Rating 7 and Setup Rating 8 Chart Mill
+
+## 4. Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 02 Oct 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUN5WUVJOTh3MnEweUJGS0luMFYyakF3SG04cFlOTHRkaTI3N3U4UjBfZ2N4QVBlUkhSSDdHLUZ0cmVIclV0NE1NaVpBTFhWWDBIUEFNTHBEX2NmQ2ltejhuaHJDOG9vZzJXdjJaNjJhNHVBNEdxWElsSUFJSVR5VHEwcjNTeFJuOHJZUkpoazE1Ny15U3NnaWRITklnblhTc1pmZ1VDQnh6VmxVUnhPODRmczJyTjZmZXlPTzYyUXVyVnQzWklTOHdKbk1uUE9TRDVvSWd0bHl5bGJNUWFaX0FmVVhtQQ?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5
+
+**Feed description:** Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 AD HOC NEWS
 
 ## 5. Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven
 
@@ -113,7 +115,7 @@
 - **Sources:**
   - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
 
-**Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune
+**Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
 
 ## 10. Quest Diagnostics stock pre-market at EUR 206.40: plus 0.22 percent
 
@@ -137,7 +139,7 @@
 - **Sources:**
   - Fortune: https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune
+**Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com
 
 ## 12. Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes
 
@@ -265,33 +267,7 @@
 
 **Feed description:** Quest Diagnostics stock draws a USD 260.00 target after earnings ad-hoc-news.de
 
-## 22. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
-
-- **Company:** Labcorp
-- **Publication date:** 28 Sep 2026
-- **Category:** Other
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - wpxi.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5
-  - Yahoo: https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUgtRk1LQ0pLVzdKbFlVT1ZtTmIxWl9SS0dncDFlU2k0bFU3eXNKNlVFc2d1NG5XdmFLTkVaN0pQSFFiWFNXQVFoUGJrYW5ZamludXZ6WDVrQkZINWJsUVlsVTUxMzRvcEtLRXdqd3hXa1haa3ZSNmZUU0p4VDg5ODRPTnNRZ3NOYTZ0aml4WE1VR3h2SEQ0NWV1TE54R05STDNB?oc=5
-  - WPXI: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNODVDNm5PM1ZfU1lITFBYTXNrMENWVF9peG9ETW1DWnpmRkp2TUtoSnZfb0lVU3FLdFhNZVltd0lSa2h0WmRwZWhoWjZCcVVJbGxmUUw2M1BKT3FaUkZGT1E4NG1HcTdoV21rYXF1bWJSeE05RTdWa2ZzaEVhc25nbVJnWWk5anc0a2t2S2tDQXRhSzlFQ1J4WHBWc2ItaFVkaFktNVBKOUxIYUNhay1OZXA2X25waTFySndsUmJxcEhPWmw0UVg0X05tYkxiS2o4cUt5T2N5QkQ5Z2VYbGFPd2sxMkFHekZlUlHSAeoBQVVfeXFMTTg1QzZuTzNWX1NZSExQWE1zazBDVlRfaXhvRE1tQ1p6ZkZKdk1LaEp2X29JVVNxS3RYTWVZbXdJUmtodFpkcGVoaFo2QnFVSWxsZlFMNjNQSk9xWlJGRk9RODRtR3E3aFdta2FxdW1iUnhNOUU3Vmtmc2hFYXNuZ21SZ1lpOWp3NGtrdktrQ0F0YUs5RUNSeFhwVnNiLWhVZGhZLTVQSjlMSGFDYWstTmVwNl9ucGkxckp3bFJicXBIT1psNFFYNF9ObWJMYktqOHFLeU9jeUJEOWdlWGxhT3drMTJBR3pGZVJR?oc=5
-
-**Feed description:** Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com
-
-## 23. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
-
-- **Company:** Labcorp
-- **Publication date:** 27 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - WHKY: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5
-
-**Feed description:** Labcorp Data Breach Settlement Includes $100,000 For North Carolina whky.com
-
-## 24. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
+## 22. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -302,6 +278,32 @@
   - The BayNet: https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5
 
 **Feed description:** 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com
+
+## 23. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
+
+- **Company:** Labcorp
+- **Publication date:** 27 Sep 2026
+- **Category:** Other
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - WPXI: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5
+  - Yahoo: https://news.google.com/rss/articles/CBMiowFBVV95cUxQWUgtRk1LQ0pLVzdKbFlVT1ZtTmIxWl9SS0dncDFlU2k0bFU3eXNKNlVFc2d1NG5XdmFLTkVaN0pQSFFiWFNXQVFoUGJrYW5ZamludXZ6WDVrQkZINWJsUVlsVTUxMzRvcEtLRXdqd3hXa1haa3ZSNmZUU0p4VDg5ODRPTnNRZ3NOYTZ0aml4WE1VR3h2SEQ0NWV1TE54R05STDNB?oc=5
+  - WPXI: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNODVDNm5PM1ZfU1lITFBYTXNrMENWVF9peG9ETW1DWnpmRkp2TUtoSnZfb0lVU3FLdFhNZVltd0lSa2h0WmRwZWhoWjZCcVVJbGxmUUw2M1BKT3FaUkZGT1E4NG1HcTdoV21rYXF1bWJSeE05RTdWa2ZzaEVhc25nbVJnWWk5anc0a2t2S2tDQXRhSzlFQ1J4WHBWc2ItaFVkaFktNVBKOUxIYUNhay1OZXA2X25waTFySndsUmJxcEhPWmw0UVg0X05tYkxiS2o4cUt5T2N5QkQ5Z2VYbGFPd2sxMkFHekZlUlHSAeoBQVVfeXFMTTg1QzZuTzNWX1NZSExQWE1zazBDVlRfaXhvRE1tQ1p6ZkZKdk1LaEp2X29JVVNxS3RYTWVZbXdJUmtodFpkcGVoaFo2QnFVSWxsZlFMNjNQSk9xWlJGRk9RODRtR3E3aFdta2FxdW1iUnhNOUU3Vmtmc2hFYXNuZ21SZ1lpOWp3NGtrdktrQ0F0YUs5RUNSeFhwVnNiLWhVZGhZLTVQSjlMSGFDYWstTmVwNl9ucGkxckp3bFJicXBIT1psNFFYNF9ObWJMYktqOHFLeU9jeUJEOWdlWGxhT3drMTJBR3pGZVJR?oc=5
+
+**Feed description:** Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com
+
+## 24. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
+
+- **Company:** Labcorp
+- **Publication date:** 27 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - WHKY: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5
+
+**Feed description:** Labcorp Data Breach Settlement Includes $100,000 For North Carolina whky.com
 
 ## 25. Tech Expert: Questions Abound Regarding LabCorp Settlement
 
@@ -332,14 +334,15 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance UK: https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5
   - MarketBeat: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqM2xFRHBtd05CeTdrdWdFT3ZKbXY4RWptMk5BcWdFMzljSjhLZmdmeTE1V2NyWk0tcDl1ZWUtQjNlcTk4T1k1dXB4VVVONkJpVW0yazBn?oc=5
+  - Yahoo Finance Australia: https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com
+**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
 ## 28. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
 

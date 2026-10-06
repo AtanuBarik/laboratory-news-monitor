@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 05 Oct 2026, 8:48 PM IST
+- **Repository generated:** 06 Oct 2026, 5:51 AM IST
 - **Distinct events in this file:** 170
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,13 +10,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 05 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Barchart.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRqMTVmdGJTVHVMRzBEbWRoX2c5YV9CcWJ2YWNHOEJCWVRzZElFNjdlUGhXaVdRNV91bkJELUV0S21hMk52WFB6aURYbVNtR3FOM1YtS3piRFBXUUtldThvZ2pYUW1DLUV5VlpPaS0wWDRNV1RwbTBWeTZkdGFjODI1SDEtN3Y3S0ZURjlsTkZKd0pjdEVOdUdTLThjSmlfYUNkOVRlbXVCWkF5Y1hr?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5
 
-**Feed description:** Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Barchart.com
+**Feed description:** Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Yahoo Finance
 
 ## 2. Quest Diagnostics stock heads into October 22 results with Q2 growth now in view
 
@@ -31,19 +32,7 @@
 
 **Feed description:** Quest Diagnostics stock heads into October 22 results with Q2 growth now in view AD HOC NEWS
 
-## 3. Quest Diagnostics stock after-hours at EUR 206.05
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 02 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5
-
-**Feed description:** Quest Diagnostics stock after-hours at EUR 206.05 ad-hoc-news.de
-
-## 4. Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8
+## 3. Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 02 Oct 2026
@@ -54,6 +43,19 @@
   - ChartMill: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbzZmbUQ1VkJMeWRvem5ENUZDQzVqSFZtbDBGbnZVQzNKTFVsZUQ4aGVvc3V3WXdOQUdGWl93OXhzQUlkOS1fMmhQZmhkdlNacjdQUnJjanlIUWtoZjhxcDI2RFlCSmE3MGVOVW1XN0NvbXZYU2VCbVQ5eVFSZ0o4NFZfOE9faTNCMEZlME9FRjNiTEhmSHhUYkh1T1Zmb0VLb25CYzBYcmxKdllOQXhXcTFaelo1bWtYUjhDUFBwOElvWkRSV2RQQll4M2JseFN1YVNjR0xB?oc=5
 
 **Feed description:** Quest Diagnostics (NYSE:DGX) Breakout Setup Backed by Technical Rating 7 and Setup Rating 8 Chart Mill
+
+## 4. Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 02 Oct 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUN5WUVJOTh3MnEweUJGS0luMFYyakF3SG04cFlOTHRkaTI3N3U4UjBfZ2N4QVBlUkhSSDdHLUZ0cmVIclV0NE1NaVpBTFhWWDBIUEFNTHBEX2NmQ2ltejhuaHJDOG9vZzJXdjJaNjJhNHVBNEdxWElsSUFJSVR5VHEwcjNTeFJuOHJZUkpoazE1Ny15U3NnaWRITklnblhTc1pmZ1VDQnh6VmxVUnhPODRmczJyTjZmZXlPTzYyUXVyVnQzWklTOHdKbk1uUE9TRDVvSWd0bHl5bGJNUWFaX0FmVVhtQQ?oc=5
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5
+
+**Feed description:** Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 AD HOC NEWS
 
 ## 5. Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection
 
@@ -101,7 +103,7 @@
 - **Sources:**
   - Fortune: https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5
 
-**Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune
+**Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com
 
 ## 9. Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes
 
@@ -168,14 +170,15 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Sep 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance UK: https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5
   - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5
   - MarketBeat: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqM2xFRHBtd05CeTdrdWdFT3ZKbXY4RWptMk5BcWdFMzljSjhLZmdmeTE1V2NyWk0tcDl1ZWUtQjNlcTk4T1k1dXB4VVVONkJpVW0yazBn?oc=5
+  - Yahoo Finance Australia: https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5
 
-**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com
+**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
 ## 15. Quest Diagnostics stock gains 1.48 percent after Truist raises target
 

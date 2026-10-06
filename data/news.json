@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T20:48:02.449609+05:30",
-  "generated_at_display": "05 Oct 2026, 8:48 PM IST",
+  "generated_at": "2026-10-06T05:51:13.774088+05:30",
+  "generated_at_display": "06 Oct 2026, 5:51 AM IST",
   "item_count": 366,
-  "raw_relevant_item_count": 560,
-  "duplicates_merged": 116,
+  "raw_relevant_item_count": 563,
+  "duplicates_merged": 119,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5",
-      "description": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Barchart.com",
+      "description": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Yahoo Finance",
       "source": "Barchart.com",
       "source_url": "https://www.barchart.com",
       "source_domain": "barchart.com",
@@ -31,9 +31,15 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRqMTVmdGJTVHVMRzBEbWRoX2c5YV9CcWJ2YWNHOEJCWVRzZElFNjdlUGhXaVdRNV91bkJELUV0S21hMk52WFB6aURYbVNtR3FOM1YtS3piRFBXUUtldThvZ2pYUW1DLUV5VlpPaS0wWDRNV1RwbTBWeTZkdGFjODI1SDEtN3Y3S0ZURjlsTkZKd0pjdEVOdUdTLThjSmlfYUNkOVRlbXVCWkF5Y1hr?oc=5",
           "domain": "barchart.com",
           "published_at": "2026-10-05T11:35:40+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-05T11:31:19+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "earnings know need preview quarterly what you"
     },
     {
@@ -67,30 +73,6 @@
       "event_signature": "growth heads now october results stock view"
     },
     {
-      "id": "82a0bd063418a60cd958",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock after-hours at EUR 206.05",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5",
-      "description": "Quest Diagnostics stock after-hours at EUR 206.05 ad-hoc-news.de",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-10-02T19:52:49+00:00",
-      "published_display": "02 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-10-02T19:52:49+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "206 after eur hours stock"
-    },
-    {
       "id": "47bb942d70df1ff69248",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8",
@@ -113,6 +95,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "backed breakout rating setup technical"
+    },
+    {
+      "id": "0ed5f8f37d0851e15131",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUN5WUVJOTh3MnEweUJGS0luMFYyakF3SG04cFlOTHRkaTI3N3U4UjBfZ2N4QVBlUkhSSDdHLUZ0cmVIclV0NE1NaVpBTFhWWDBIUEFNTHBEX2NmQ2ltejhuaHJDOG9vZzJXdjJaNjJhNHVBNEdxWElsSUFJSVR5VHEwcjNTeFJuOHJZUkpoazE1Ny15U3NnaWRITklnblhTc1pmZ1VDQnh6VmxVUnhPODRmczJyTjZmZXlPTzYyUXVyVnQzWklTOHdKbk1uUE9TRDVvSWd0bHl5bGJNUWFaX0FmVVhtQQ?oc=5",
+      "description": "Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-02T07:00:00+00:00",
+      "published_display": "02 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUN5WUVJOTh3MnEweUJGS0luMFYyakF3SG04cFlOTHRkaTI3N3U4UjBfZ2N4QVBlUkhSSDdHLUZ0cmVIclV0NE1NaVpBTFhWWDBIUEFNTHBEX2NmQ2ltejhuaHJDOG9vZzJXdjJaNjJhNHVBNEdxWElsSUFJSVR5VHEwcjNTeFJuOHJZUkpoazE1Ny15U3NnaWRITklnblhTc1pmZ1VDQnh6VmxVUnhPODRmczJyTjZmZXlPTzYyUXVyVnQzWklTOHdKbk1uUE9TRDVvSWd0bHl5bGJNUWFaX0FmVVhtQQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-02T07:00:00+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-02T19:52:49+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 207 after eur hours lang last october schwarz stock"
     },
     {
       "id": "7434e119ed9017f487f0",
@@ -215,7 +227,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q2 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
+      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
@@ -263,7 +275,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Q1 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5",
-      "description": "Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune",
+      "description": "Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
@@ -559,24 +571,48 @@
       "event_signature": "260 after draws earnings stock target usd"
     },
     {
-      "id": "205b71dea2e8996218cc",
+      "id": "0b339bcd8ce431c75bc7",
       "company": "Labcorp",
-      "title": "Pennsylvania part of multistate settlement with Labcorp following 2019 data breach",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5",
-      "description": "Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com",
-      "source": "wpxi.com",
-      "source_url": "https://www.wpxi.com",
-      "source_domain": "wpxi.com",
-      "published_at": "2026-09-28T01:01:00+00:00",
-      "published_display": "28 Sep 2026",
+      "title": "451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5",
+      "description": "451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com",
+      "source": "The BayNet",
+      "source_url": "https://thebaynet.com",
+      "source_domain": "thebaynet.com",
+      "published_at": "2026-09-27T10:00:00+00:00",
+      "published_display": "27 Sep 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "wpxi.com",
+          "name": "The BayNet",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5",
+          "domain": "thebaynet.com",
+          "published_at": "2026-09-27T10:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "451 558 breach data impacted marylanders million reaches settlement"
+    },
+    {
+      "id": "bd7d7fa7162b1e624c44",
+      "company": "Labcorp",
+      "title": "Pennsylvania part of multistate settlement with Labcorp following 2019 data breach",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5",
+      "description": "Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com",
+      "source": "WPXI",
+      "source_url": "https://www.wpxi.com",
+      "source_domain": "wpxi.com",
+      "published_at": "2026-09-27T07:00:00+00:00",
+      "published_display": "27 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WPXI",
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNFd5QmJBUWFvcERMODdxSGRBMHVWSkZWb3piS2paYzNnckRFbk9CdWEtYWI5LXR0UGU4dU5ibS1CX2tOLWZWelloRXZSMWlzS3BnX3FYRm55REY4bENtN1RVN21aNC1IVGdQZUFNZUFUQl90clNyRlZUeXVHRVE5MzJDZDVMVElFamlzNnVGWm9uMWJnSmNqMWFqU0V1LUxCVFNmWnV2UFE4RTFTVWpHMlNyNGlpeWtybGxKRFpqSlNyRHdvM2dzYUVqc3J0ZWdEcEpYcDBB0gHqAUFVX3lxTE04NUM2bk8zVl9TWUhMUFhNc2swQ1ZUX2l4b0RNbUNaemZGSnZNS2hKdl9vSVVTcUt0WE1lWW13SVJraHRaZHBlaGhaNkJxVUlsbGZRTDYzUEpPcVpSRkZPUTg0bUdxN2hXbWthcXVtYlJ4TTlFN1ZrZnNoRWFzbmdtUmdZaTlqdzRra3ZLa0NBdGFLOUVDUnhYcFZzYi1oVWRoWS01UEo5TEhhQ2FrLU5lcDZfbnBpMXJKd2xSYnFwSE9abDRRWDRfTm1iTGJLajhxS3lPY3lCRDlnZVhsYU93azEyQUd6RmVSUQ?oc=5",
           "domain": "wpxi.com",
-          "published_at": "2026-09-28T01:01:00+00:00"
+          "published_at": "2026-09-27T07:00:00+00:00"
         },
         {
           "name": "Yahoo",
@@ -603,7 +639,7 @@
       "source": "WHKY",
       "source_url": "https://whky.com",
       "source_domain": "whky.com",
-      "published_at": "2026-09-27T16:02:44+00:00",
+      "published_at": "2026-09-27T07:00:00+00:00",
       "published_display": "27 Sep 2026",
       "category": "Other",
       "official_source": false,
@@ -612,35 +648,11 @@
           "name": "WHKY",
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5",
           "domain": "whky.com",
-          "published_at": "2026-09-27T16:02:44+00:00"
+          "published_at": "2026-09-27T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
       "event_signature": "000 100 breach carolina data includes north settlement"
-    },
-    {
-      "id": "0b339bcd8ce431c75bc7",
-      "company": "Labcorp",
-      "title": "451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5",
-      "description": "451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com",
-      "source": "The BayNet",
-      "source_url": "https://thebaynet.com",
-      "source_domain": "thebaynet.com",
-      "published_at": "2026-09-27T10:00:00+00:00",
-      "published_display": "27 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The BayNet",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5",
-          "domain": "thebaynet.com",
-          "published_at": "2026-09-27T10:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "451 558 breach data impacted marylanders million reaches settlement"
     },
     {
       "id": "350d2a9f996659ef6430",
@@ -695,7 +707,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock price, news, quote and history",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history uk.finance.yahoo.com",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
       "source": "Yahoo Finance UK",
       "source_url": "https://uk.finance.yahoo.com",
       "source_domain": "uk.finance.yahoo.com",
@@ -721,9 +733,15 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqM2xFRHBtd05CeTdrdWdFT3ZKbXY4RWptMk5BcWdFMzljSjhLZmdmeTE1V2NyWk0tcDl1ZWUtQjNlcTk4T1k1dXB4VVVONkJpVW0yazBn?oc=5",
           "domain": "marketbeat.com",
           "published_at": "2026-10-02T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
+          "domain": "au.finance.yahoo.com",
+          "published_at": "2026-10-02T05:24:08+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "history price quote stock"
     },
     {
@@ -12386,10 +12404,10 @@
       "event_signature": "cancer int integrates testing"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-06T00:17:00+05:30",
-  "next_update_display": "06 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-06T06:17:00+05:30",
+  "next_update_display": "06 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
