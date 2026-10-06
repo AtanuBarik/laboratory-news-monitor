@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T05:51:13.774088+05:30",
-  "generated_at_display": "06 Oct 2026, 5:51 AM IST",
+  "generated_at": "2026-10-06T12:22:53.345111+05:30",
+  "generated_at_display": "06 Oct 2026, 12:22 PM IST",
   "item_count": 366,
   "raw_relevant_item_count": 563,
   "duplicates_merged": 119,
@@ -37,9 +37,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-05T11:31:19+00:00"
+        },
+        {
+          "name": "inkl.com",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE5GNi1vamEzTHVoZlhiYTlWUTRaclRWWF9PSUpOQnhmU3E5Y3BhUV9CbU12RjBadkNwbkVxMHpkQ1JQd3hpbWk4NkdubDUzYTY2bnNmWXlwYWMxQkhHNjZRNUtSZU52dS1jeDIwcXQxcXJTemVWZzN4VlZnT01CQndVZXRva3lON3VDN0xMWjhxdUFnUXg2ZFFST2E3V1p5Y1p3?oc=5",
+          "domain": "inkl.com",
+          "published_at": "2026-10-05T11:31:19+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "earnings know need preview quarterly what you"
     },
     {
@@ -449,7 +455,7 @@
       "company": "Labcorp",
       "title": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
-      "description": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans Alaska Native News",
+      "description": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com",
       "source": "Alaska Native News",
       "source_url": "https://alaska-native-news.com",
       "source_domain": "alaska-native-news.com",
@@ -12404,10 +12410,10 @@
       "event_signature": "cancer int integrates testing"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 77,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-06T06:17:00+05:30",
-  "next_update_display": "06 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-06T18:17:00+05:30",
+  "next_update_display": "06 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

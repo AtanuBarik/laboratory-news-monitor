@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 06 Oct 2026, 5:51 AM IST
+- **Repository generated:** 06 Oct 2026, 12:22 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,12 +10,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 05 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Barchart.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRqMTVmdGJTVHVMRzBEbWRoX2c5YV9CcWJ2YWNHOEJCWVRzZElFNjdlUGhXaVdRNV91bkJELUV0S21hMk52WFB6aURYbVNtR3FOM1YtS3piRFBXUUtldThvZ2pYUW1DLUV5VlpPaS0wWDRNV1RwbTBWeTZkdGFjODI1SDEtN3Y3S0ZURjlsTkZKd0pjdEVOdUdTLThjSmlfYUNkOVRlbXVCWkF5Y1hr?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5
+  - inkl.com: https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE5GNi1vamEzTHVoZlhiYTlWUTRaclRWWF9PSUpOQnhmU3E5Y3BhUV9CbU12RjBadkNwbkVxMHpkQ1JQd3hpbWk4NkdubDUzYTY2bnNmWXlwYWMxQkhHNjZRNUtSZU52dS1jeDIwcXQxcXJTemVWZzN4VlZnT01CQndVZXRva3lON3VDN0xMWjhxdUFnUXg2ZFFST2E3V1p5Y1p3?oc=5
 
 **Feed description:** Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Yahoo Finance
 
@@ -216,7 +217,7 @@
 - **Sources:**
   - Alaska Native News: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5
 
-**Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans Alaska Native News
+**Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com
 
 ## 18. Quest Diagnostics stock heads toward October 22 results
 

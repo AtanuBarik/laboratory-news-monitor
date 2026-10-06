@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 06 Oct 2026, 5:51 AM IST
+- **Repository generated:** 06 Oct 2026, 12:22 PM IST
 - **Distinct events in this file:** 161
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -56,7 +56,7 @@
 - **Sources:**
   - Alaska Native News: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5
 
-**Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans Alaska Native News
+**Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com
 
 ## 5. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
 
