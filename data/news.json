@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T12:02:05.224229+05:30",
-  "generated_at_display": "07 Oct 2026, 12:02 PM IST",
-  "item_count": 372,
-  "raw_relevant_item_count": 571,
-  "duplicates_merged": 114,
+  "generated_at": "2026-10-07T19:28:24.598670+05:30",
+  "generated_at_display": "07 Oct 2026, 7:28 PM IST",
+  "item_count": 370,
+  "raw_relevant_item_count": 569,
+  "duplicates_merged": 117,
   "failures": [],
   "items": [
     {
@@ -103,9 +103,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXpHZHJPeXFqSnFnS0FGT0VuZGQyRUpSbnFxSHpVQkpIbUE1dTlMR09JeXRVT0V3TUdseGxNUmZxUzBPdnd6OGtZLWg5eGl6S0hXd1pDMGNsamJQWi1uMnZicDFjdWY1eDBoMEYtWkdPeldBOUQ5MVFuUjBQeDlnYVlCZGpZcE1SSlBWMzl3R3pLWDFlSmJOMF9sQXNPUjVIdTVpOGZfOW8?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-06T11:01:11+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWdmNHNCZXh0R1lDNmJxT0ljc0tXZTFISmtJUU5MUUVEekR2VXpyQ0dPTEw2dWdrb0NGc2dsV19KemNqOTJBaDN3Slo5S3BINnFsVk00czloa2VvbHV6MUtxSW1xX1E1SEdKaXdqdF9QdmdXeU04anhCSE5GYVhEMUFxalVqbkEtT1B2Mm5iNDdIQnZua0I2UXhDOURnM1h6dVRXcDRsTFRianQxR2pXS1NkUEFPTTdLT3VQMjdkOGJmRWZIc1RkUjNWWTZpZUY3Qlg2UTZiRVVGT1c4SXdrcXFaMGxsVXVfa0ZsYVdKZUNRZnhvemZnbVlFaTQzaUREY2FQa2pTMV9BNlhoZ3FKeXdxVQ?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-06T14:33:45+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "analysis dividend"
     },
     {
@@ -709,24 +715,24 @@
       "event_signature": "heads october results stock toward"
     },
     {
-      "id": "e342c6a5d91090b34bd1",
+      "id": "931cd73c238f6ce39390",
       "company": "Labcorp",
       "title": "Is This the Right Time to Add Labcorp Stock to Your Portfolio?",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
       "description": "Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-29T11:44:00+00:00",
+      "published_at": "2026-09-29T07:00:00+00:00",
       "published_display": "29 Sep 2026",
       "category": "Clinical, R&D",
       "official_source": false,
       "sources": [
         {
-          "name": "finance.yahoo.com",
+          "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
           "domain": "finance.yahoo.com",
-          "published_at": "2026-09-29T11:44:00+00:00"
+          "published_at": "2026-09-29T07:00:00+00:00"
         },
         {
           "name": "Zacks Investment Research",
@@ -1771,30 +1777,6 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "812912acf9a32780ee20",
-      "company": "Labcorp",
-      "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
-      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-23T11:13:52+00:00",
-      "published_display": "23 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-23T11:13:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 acquisitions after day eyes investment investor lab tech"
-    },
-    {
       "id": "271c15b69f8c875d1da5",
       "company": "Mayo Clinic Laboratories",
       "title": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC",
@@ -1865,6 +1847,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "bullish despite growth headwinds keeps medicare testing"
+    },
+    {
+      "id": "812912acf9a32780ee20",
+      "company": "Labcorp",
+      "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
+      "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGIyZWNnM3pOUDR6V0gteEpfZ3BZWi00V0hha00wWi1UVUhwR0pLUmNlMVJmbTM5cjdob20xazE3cXpXcmVvNm9sdEhiUUNKdlF2ZUl4TEhiaEh1YUZqOGJUdUtMUmlUWEtuTnVBTmhHdldtZTZKY3hSU29GZDd0bFNqZFNuZzVjbFZjdGpCcTdZUzJRdzVQM1JEV1Q4VWc?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisitions after day eyes investment investor lab tech"
     },
     {
       "id": "8fd1c8a473789e7407ee",
@@ -12487,94 +12493,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 investments jul list"
-    },
-    {
-      "id": "98a2b30f02cc7642f59f",
-      "company": "Labcorp",
-      "title": "Labcorp Declares Quarterly Dividend",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmpmaXJEUGd3cy1lOUhLR0FPdWdwdmR2V1dBa2VVbXMtM2ZrZThCN3ZFcXJxdV80ZzFzVEU4RF8wQkhyai11aHZzbklCWmFRMjl5SHlMQTRFMUhqUWt2Z2NiT1laMXNSZUFyNm8xZnY2R2VXQmtQUUNZM3ZidTF5QmpMUDItcTh1aXgxQ2hVOEQ1Skl6UVd2VnRXSzVnWEhpaFE?oc=5",
-      "description": "Labcorp's board declared a quarterly cash dividend of $0.72 per share of common stock on July 9, 2026. The dividend is scheduled to be paid September 11, 2026 to shareholders of record at the close of business on August 28, 2026. The company did not announce a change in the per-share rate in this release; the update confirms the next payment date and record date for its existing quarterly distribution. In the same release, Labcorp described the scale of its diagnostics and drug-development laboratory network. It said the company has nearly 71,000 employees serving customers in approximately 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025, and performed more than 750 million tests for patients globally. The announcement contains no new earnings guidance, acquisition terms or product launch. Its material financial content is the board-approved $0.72 dividend and the September/August payment timetable. The release therefore reflects continued capital return alongside Labcorp's ongoing laboratory-services operations rather than a change to the company's operating outlook.",
-      "source": "Yahoo Finance",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "published_display": "09 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZmpmaXJEUGd3cy1lOUhLR0FPdWdwdmR2V1dBa2VVbXMtM2ZrZThCN3ZFcXJxdV80ZzFzVEU4RF8wQkhyai11aHZzbklCWmFRMjl5SHlMQTRFMUhqUWt2Z2NiT1laMXNSZUFyNm8xZnY2R2VXQmtQUUNZM3ZidTF5QmpMUDItcTh1aXgxQ2hVOEQ1Skl6UVd2VnRXSzVnWEhpaFE?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-09T07:00:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTEcwcVMtOGxkUUVOR2FFVkRmZWlJVmt1elFmSnc3ZXUyVlJIUTVoclZIT2hPOHBMOXRDaVlpeXJ5VjlEbEkyOENrbTdnTVZBaXhOSXpSUDNrNnlFTXJRUjJsdlVDZW1pVXVBd3Z6LU4zX25NYW1ZcHROZjIxVDhfVDBMY0cxVWJvNE9NR3V1Vi04WFdXblE?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-07-09T07:00:00+00:00"
-        },
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTnE0NDhBODhFNDRxQ1Jlcy1LMVFIX3JzSEk3YmswRXlKS0xLUWtGVEg2US0zSmlyV0pEb004XzdYRFoyZzZhRVpNZlN6QVdzS0JpZ2hrZEpSX2VGSEptYjh3OGN2NnQzc3NZWl82QjlUUmFfZjFIS1huYnFGT1BuZThIY3VvOS00eDRzRWpBYXVWZk5OSGlDZm5FaFE2LV9ESEplZElUa0tPYW42Nk5NUHZxNGp4N3FwU0E?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-10T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHZKM3pUOHMxUEowY3p0bm1QNjkzdjdnVFF1c2NEUExpZkptb3IzZmZKLTJwY2dsQVhsdUdMT0IwNXVfLW1JaldCOXVVZGxnTDMyUHJYRkEzMUVsSWNWaVA2RVQzYXBJSE9BM1hSSkNTNzNqWUkzcHpUbjNzZ1ZzUXpGS202Mm5nTnROWkhzVjZwR0dZeFhzc183OWxkSFkwa2hTUlNISWZNNGVnd2c?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-09T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "declares dividend quarterly",
-      "source_description": "Labcorp Declares $0.72 Quarterly Dividend Payable Sept. 11 tradingview.com",
-      "chatgpt_summary": "Labcorp's board declared a quarterly cash dividend of $0.72 per share of common stock on July 9, 2026. The dividend is scheduled to be paid September 11, 2026 to shareholders of record at the close of business on August 28, 2026. The company did not announce a change in the per-share rate in this release; the update confirms the next payment date and record date for its existing quarterly distribution. In the same release, Labcorp described the scale of its diagnostics and drug-development laboratory network. It said the company has nearly 71,000 employees serving customers in approximately 100 countries, supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025, and performed more than 750 million tests for patients globally. The announcement contains no new earnings guidance, acquisition terms or product launch. Its material financial content is the board-approved $0.72 dividend and the September/August payment timetable. The release therefore reflects continued capital return alongside Labcorp's ongoing laboratory-services operations rather than a change to the company's operating outlook.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T18:38:44+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-declares-quarterly-dividend-15"
-      ]
-    },
-    {
-      "id": "9645d672076a9bc10459",
-      "company": "Sonic Healthcare",
-      "title": "Inside Sonic Healthcare's Dividend Profile and Global Diagnostics Business",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUZlakpyeDZLSnJmWldoODdFNGlfZW1zWUZHVVdGZERjMUF4TzI1S3V3RURmQUJNV2RnWW1ycG5XTkVQSnpDVUhuSHlGWmIyUUo3V1p0dXFVSTJ6YlZJYWZhcFFvSnZ4bmZHUjBtczVBclE3dzlMYnZFM0VCTUhjdXphRFNGeEh6TEtmZFRreHRxQ1k4N2tRbzBhb0pxcllScFlMdmRrd2VOTU4wejA5TlE3aUdyVzhlOERVVFNSU1FTZw?oc=5",
-      "description": "Because the queued Kalkine link did not expose the article body, the dividend and business-profile points were independently checked against Sonic Healthcare's investor materials. Sonic describes itself as one of the world's leading medical-diagnostics groups, providing pathology or clinical-laboratory and radiology services. It is the largest private pathology operator in Australia, Germany, Switzerland and the U.K., the second largest in Belgium and New Zealand and the third largest in the U.S. Sonic reported FY2025 revenue of A$9.645 billion, EBITDA of A$1.725 billion, net profit after tax of A$513.6 million and operating cash flow of A$1.297 billion. Net interest-bearing debt was A$2.818 billion. Diluted EPS was 106.7 Australian cents. The company paid 107 cents per share of dividends for FY2025, compared with 106 cents in FY2024, producing a 101.8% payout ratio on the company's tear sheet. For FY2026, Sonic's dividend history shows an interim dividend of 45 cents per share, 60% franked, up from 44 cents in FY2025; the dividend reinvestment plan was suspended for the FY2026 interim payment. Sonic's FY2026 preliminary final results were scheduled for August 20, so the final FY2026 dividend and full-year financial performance were not yet available when these sources were reviewed.",
-      "source": "Kalkine",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-09T07:00:00+00:00",
-      "published_display": "09 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQUZlakpyeDZLSnJmWldoODdFNGlfZW1zWUZHVVdGZERjMUF4TzI1S3V3RURmQUJNV2RnWW1ycG5XTkVQSnpDVUhuSHlGWmIyUUo3V1p0dXFVSTJ6YlZJYWZhcFFvSnZ4bmZHUjBtczVBclE3dzlMYnZFM0VCTUhjdXphRFNGeEh6TEtmZFRreHRxQ1k4N2tRbzBhb0pxcllScFlMdmRrd2VOTU4wejA5TlE3aUdyVzhlOERVVFNSU1FTZw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-09T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "business dividend global inside profile",
-      "source_description": "Inside Sonic Healthcare's (ASX:SHL) Dividend Profile and Global Diagnostics Business kalkine.com.au",
-      "chatgpt_summary": "Because the queued Kalkine link did not expose the article body, the dividend and business-profile points were independently checked against Sonic Healthcare's investor materials. Sonic describes itself as one of the world's leading medical-diagnostics groups, providing pathology or clinical-laboratory and radiology services. It is the largest private pathology operator in Australia, Germany, Switzerland and the U.K., the second largest in Belgium and New Zealand and the third largest in the U.S. Sonic reported FY2025 revenue of A$9.645 billion, EBITDA of A$1.725 billion, net profit after tax of A$513.6 million and operating cash flow of A$1.297 billion. Net interest-bearing debt was A$2.818 billion. Diluted EPS was 106.7 Australian cents. The company paid 107 cents per share of dividends for FY2025, compared with 106 cents in FY2024, producing a 101.8% payout ratio on the company's tear sheet. For FY2026, Sonic's dividend history shows an interim dividend of 45 cents per share, 60% franked, up from 44 cents in FY2025; the dividend reinvestment plan was suspended for the FY2026 interim payment. Sonic's FY2026 preliminary final results were scheduled for August 20, so the final FY2026 dividend and full-year financial performance were not yet available when these sources were reviewed.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T18:38:44+05:30",
-      "summary_evidence": [
-        "https://investors.sonichealthcare.com/investors/?page=financial-tear-sheet",
-        "https://investors.sonichealthcare.com/investors/?page=dividends",
-        "https://investors.sonichealthcare.com/Investors/?page=annual-reports"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 80,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-07T12:17:00+05:30",
-  "next_update_display": "07 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-08T00:17:00+05:30",
+  "next_update_display": "08 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

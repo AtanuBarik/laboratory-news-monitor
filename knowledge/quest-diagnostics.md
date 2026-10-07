@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 07 Oct 2026, 12:02 PM IST
+- **Repository generated:** 07 Oct 2026, 7:28 PM IST
 - **Distinct events in this file:** 174
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -35,10 +35,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXpHZHJPeXFqSnFnS0FGT0VuZGQyRUpSbnFxSHpVQkpIbUE1dTlMR09JeXRVT0V3TUdseGxNUmZxUzBPdnd6OGtZLWg5eGl6S0hXd1pDMGNsamJQWi1uMnZicDFjdWY1eDBoMEYtWkdPeldBOUQ5MVFuUjBQeDlnYVlCZGpZcE1SSlBWMzl3R3pLWDFlSmJOMF9sQXNPUjVIdTVpOGZfOW8?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWdmNHNCZXh0R1lDNmJxT0ljc0tXZTFISmtJUU5MUUVEekR2VXpyQ0dPTEw2dWdrb0NGc2dsV19KemNqOTJBaDN3Slo5S3BINnFsVk00czloa2VvbHV6MUtxSW1xX1E1SEdKaXdqdF9QdmdXeU04anhCSE5GYVhEMUFxalVqbkEtT1B2Mm5iNDdIQnZua0I2UXhDOURnM1h6dVRXcDRsTFRianQxR2pXS1NkUEFPTTdLT3VQMjdkOGJmRWZIc1RkUjNWWTZpZUY3Qlg2UTZiRVVGT1c4SXdrcXFaMGxsVXVfa0ZsYVdKZUNRZnhvemZnbVlFaTQzaUREY2FQa2pTMV9BNlhoZ3FKeXdxVQ?oc=5
 
 **Feed description:** Quest Diagnostics Inc's Dividend Analysis Yahoo Finance
 

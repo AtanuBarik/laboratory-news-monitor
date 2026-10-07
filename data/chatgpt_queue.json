@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T13:11:34.320225+05:30",
-  "generated_at_display": "07 Oct 2026, 1:11 PM IST",
+  "generated_at": "2026-10-07T19:28:28.376425+05:30",
+  "generated_at_display": "07 Oct 2026, 7:28 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -34,7 +34,7 @@
       "title": "Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day",
       "source": "Yahoo Finance",
       "description": "Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com",
-      "published_at": "2026-09-23T11:13:52+00:00",
+      "published_at": "2026-09-23T07:00:00+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -527,20 +527,20 @@
       ]
     },
     {
-      "id": "e342c6a5d91090b34bd1",
+      "id": "931cd73c238f6ce39390",
       "company": "Labcorp",
       "category": "Clinical, R&D",
       "title": "Is This the Right Time to Add Labcorp Stock to Your Portfolio?",
-      "source": "finance.yahoo.com",
+      "source": "Yahoo Finance",
       "description": "Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research",
-      "published_at": "2026-09-29T11:44:00+00:00",
+      "published_at": "2026-09-29T07:00:00+00:00",
       "published_display": "29 Sep 2026",
       "official_source": false,
       "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
       "sources": [
         {
-          "name": "finance.yahoo.com",
+          "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5"
         },
         {
