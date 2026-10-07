@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-07T04:18:19.565953+05:30",
-  "generated_at_display": "07 Oct 2026, 4:18 AM IST",
-  "item_count": 371,
-  "raw_relevant_item_count": 568,
-  "duplicates_merged": 115,
+  "generated_at": "2026-10-07T12:02:05.224229+05:30",
+  "generated_at_display": "07 Oct 2026, 12:02 PM IST",
+  "item_count": 372,
+  "raw_relevant_item_count": 571,
+  "duplicates_merged": 114,
   "failures": [],
   "items": [
+    {
+      "id": "2ab99df55a3483233024",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3BfbDhHcUlhSXBLT0lzTWxzYVdPYVA5OTlYcjAyLVgteTJPeGR6bEs1SXQ0TFlSN0dlMml2WDd1RmtybWNHb09XWTVvX3ZNTVpZbUlSVXlxYlVCX18xWUl4NFVVME4xMUJzZkk5X19Hb1RSZG14eDBxcDY4ck83V2RpbE5ueHB4Z2hYMU1HZkV4MU9fcm9pLUM2cmVRTlJsbzJEZ2tQZ3hwbTVobWFvYmRMcUVzZkR4SmkzSVNDY2gwU2IwbWNwM2ZKZw?oc=5",
+      "description": "Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-07T00:20:20+00:00",
+      "published_display": "07 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3BfbDhHcUlhSXBLT0lzTWxzYVdPYVA5OTlYcjAyLVgteTJPeGR6bEs1SXQ0TFlSN0dlMml2WDd1RmtybWNHb09XWTVvX3ZNTVpZbUlSVXlxYlVCX18xWUl4NFVVME4xMUJzZkk5X19Hb1RSZG14eDBxcDY4ck83V2RpbE5ueHB4Z2hYMU1HZkV4MU9fcm9pLUM2cmVRTlJsbzJEZ2tQZ3hwbTVobWFvYmRMcUVzZkR4SmkzSVNDY2gwU2IwbWNwM2ZKZw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-07T00:20:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "aud fy2026 growth holds sets stock test"
+    },
     {
       "id": "6aa9de50eed931b30666",
       "company": "Quest Diagnostics",
@@ -25,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzc0bTlBYUJvOXV6YmVKcFpDZHF5MFpFajAtanh0NC1mZV9RMEhIQkFuLUh4N0xPS3FvYWVGQUwweUJERGUybnV1X0FUbm1pZUgzR3FTOWpUSVJGbG1hMlp3RWdBS194TWlCUU91VUU1WFM0aDZoazdseGR5Ym0tUEwyUmVfb040bGlnMWlXYVpYMVRld3JPVTNjRzNMNWZmOUFtSlRlMGNRS2UwYUhYdGQ2ZlBscXRWbm8xR0h4T25KenA0?oc=5",
           "domain": "tipranks.com",
           "published_at": "2026-10-06T21:05:11+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTU1zenFkVmpEOU81T19XZGMwTFk0Rk9tRE9EaGp2czJkMXFqeElZOTBVMEZ4Z2xCUXpwZzJub2hhaXZ5UWdZTkc1SzFxNlNqa0FfN2ppSkRsLUZmYktZcFZnbHZ2WWxNZFNPOHJJZkgyclhtYmlPVmV1OXhmVVZtTWVYMjBzNzR4YVF4TlhyanN1SHJFcVJ4NXgzaVNkdmN2N2dYcF9HeVZheFdVSEpBbXFDVkZicEkyYkxPOVVFZFJRaXVRSmN2MlZ5bHpPQk9XTFNxN01nQQ?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-07T00:02:31+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "continuity executive leadership transition"
     },
     {
@@ -1453,9 +1483,15 @@
           "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRHEzWHVWYTlneEVpanc5X2dRSlpmZ2pWbGgwbWVPTTFjLXpibTRjaXREMXB4dTBMNlBMVk1KMUpuV2Z2eTVmdHIzbmMyQmhITUFvOHNIbFRfa2lJc0F0WDRBdVU5ak9tWjM4QkxBUi1KZENJTFlaWmhYWVlLb19RY0JjV3B0dFJ3NnJ6NWNlTnhMS3VMeXpoVjZza21rRXczalhGUzV6NVlwUUlUZ0F4d1RnLVczRFoyZkRTUUhZYUI4Qi1meEctR0h6NmwxXzFWXzZkcTRUcWlEckdPM3dQRjlXNUZ0RS12LUwyTl9WeThUUjg?oc=5",
           "domain": "einnews.com",
           "published_at": "2026-09-25T19:00:00+00:00"
+        },
+        {
+          "name": "Rural Radio Network",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWNVMGlWOGR0WUViOFVkb0EzX0RGbFdqcHM5UzdRVmFlOVo4TUR1VklBR1d3bUs2M1ZocGlkbTU2TXBKX0I1ZlRzYTRuR1NsM3FTbW1ISldjRm85cFZwVE1JdzRYUFBqM2lPX2tBUnNWLUdqd216dS1RX2RLaWJzaThCa3Z1eVByc0dsQkUtX1dGTmVCZW5vVXBCVklnVnZMb1VHX3lsTWlJbjUyNkw0VWJCSVo4LVgwSHpWZmo1cXBOQ0hJTGQtTE1mUGpJVWM?oc=5",
+          "domain": "ruralradio.com",
+          "published_at": "2026-09-28T19:43:50+00:00"
         }
       ],
-      "coverage_count": 15,
+      "coverage_count": 16,
       "event_signature": "agency american attorney breach collection data general hilgers medical mike multistate over settlement"
     },
     {
@@ -12535,10 +12571,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 83,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-07T06:17:00+05:30",
-  "next_update_display": "07 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-07T12:17:00+05:30",
+  "next_update_display": "07 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

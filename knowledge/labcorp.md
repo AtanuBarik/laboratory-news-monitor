@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 07 Oct 2026, 4:18 AM IST
+- **Repository generated:** 07 Oct 2026, 12:02 PM IST
 - **Distinct events in this file:** 162
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -278,7 +278,7 @@
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
 - **Category:** Other
-- **Coverage count:** 15
+- **Coverage count:** 16
 - **Official source involved:** No
 - **Sources:**
   - chadronradio.com: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZEZ5ZjhodzRxVHh0MTRqb0hKM1NvaklZLXZkcjdaN1huMzg4cVZDN3hId0FZTG91eC1qbmo4UTdJdHE0YXNmcm9kb25tUUdRMlhfa1VpUFZ4S0JFeFV5ckdUeE9RZGRvMDJNYnB5R0s0cWtFaHpvMHNhMUV1bGZPWUNDd2NtSXhweVZVY3BBTU5JNkZPdTlzb2F3djJDSVVUdDV5d0tKX3ZzTk1nVTlTQkJ5c3FPTDF4c1lqcTlJM0FpVThZYV9PcXF0bk9abHgyQzI3Zzlwc3BXWHk1NmstRFhXNGQ2QWxEdzBEYg?oc=5
@@ -296,6 +296,7 @@
   - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxPVmVVSUdBQXdYYUNpV3J0VUY2VWZ5ZjI3TU1acGJHYWlMVGxGeWJfc0N1aUd2NDQ0V3l1b1J1bU9RdVFZc1lzdXBOYkFCczFyMzcxNE9zWHp0OW5vN0gxQkphcWRpTHpJdk5EckZrRWUzVlp2b0NsWTR1TjFCRHJoeFgtNi0tOFQxZ0IzSFNmcFhETmV2SDZkVDZ4dThkR3BZdlNPZUNGUEhzMU9Nb2NyRFZGR2kxNDRLekxISkE1cnloOWN1eGotWmdXcUdMS0E?oc=5
   - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxNRVdtOHpDSC1DQzlQc3RqaC1rTldYdG9sY3p3UzhRLXM5c3RCY0QyOWY3cWpGUnE2c2d5X0VnN3l5dmlaT2pJQXFWR3ZDRG92XzJ2OEhhVFZaRDdmdjF2OU9BXy1EU1E2Y2cwV01rdmxaR051Qy1Ha1N4VGZIWHpvRTBFMzExc1o2QVpLaldOenh6NnAzVFE2eWVja29TODVxQmt1Nm93MWd3SW9PcW5qZTFrSmgtTWpJemV3SXRhVlhqX3N1d0dYb0EzaDVmMlE?oc=5
   - EIN News: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRHEzWHVWYTlneEVpanc5X2dRSlpmZ2pWbGgwbWVPTTFjLXpibTRjaXREMXB4dTBMNlBMVk1KMUpuV2Z2eTVmdHIzbmMyQmhITUFvOHNIbFRfa2lJc0F0WDRBdVU5ak9tWjM4QkxBUi1KZENJTFlaWmhYWVlLb19RY0JjV3B0dFJ3NnJ6NWNlTnhMS3VMeXpoVjZza21rRXczalhGUzV6NVlwUUlUZ0F4d1RnLVczRFoyZkRTUUhZYUI4Qi1meEctR0h6NmwxXzFWXzZkcTRUcWlEckdPM3dQRjlXNUZ0RS12LUwyTl9WeThUUjg?oc=5
+  - Rural Radio Network: https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWNVMGlWOGR0WUViOFVkb0EzX0RGbFdqcHM5UzdRVmFlOVo4TUR1VklBR1d3bUs2M1ZocGlkbTU2TXBKX0I1ZlRzYTRuR1NsM3FTbW1ISldjRm85cFZwVE1JdzRYUFBqM2lPX2tBUnNWLUdqd216dS1RX2RLaWJzaThCa3Z1eVByc0dsQkUtX1dGTmVCZW5vVXBCVklnVnZMb1VHX3lsTWlJbjUyNkw0VWJCSVo4LVgwSHpWZmo1cXBOQ0hJTGQtTE1mUGpJVWM?oc=5
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 

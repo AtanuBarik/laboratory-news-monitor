@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 07 Oct 2026, 4:18 AM IST
+- **Repository generated:** 07 Oct 2026, 12:02 PM IST
 - **Distinct events in this file:** 174
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - TipRanks: https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzc0bTlBYUJvOXV6YmVKcFpDZHF5MFpFajAtanh0NC1mZV9RMEhIQkFuLUh4N0xPS3FvYWVGQUwweUJERGUybnV1X0FUbm1pZUgzR3FTOWpUSVJGbG1hMlp3RWdBS194TWlCUU91VUU1WFM0aDZoazdseGR5Ym0tUEwyUmVfb040bGlnMWlXYVpYMVRld3JPVTNjRzNMNWZmOUFtSlRlMGNRS2UwYUhYdGQ2ZlBscXRWbm8xR0h4T25KenA0?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTU1zenFkVmpEOU81T19XZGMwTFk0Rk9tRE9EaGp2czJkMXFqeElZOTBVMEZ4Z2xCUXpwZzJub2hhaXZ5UWdZTkc1SzFxNlNqa0FfN2ppSkRsLUZmYktZcFZnbHZ2WWxNZFNPOHJJZkgyclhtYmlPVmV1OXhmVVZtTWVYMjBzNzR4YVF4TlhyanN1SHJFcVJ4NXgzaVNkdmN2N2dYcF9HeVZheFdVSEpBbXFDVkZicEkyYkxPOVVFZFJRaXVRSmN2MlZ5bHpPQk9XTFNxN01nQQ?oc=5
 
 **Feed description:** Quest Diagnostics announces executive transition and leadership continuity TipRanks
 
