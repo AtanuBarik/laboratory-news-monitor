@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-08T00:59:45.840348+05:30",
-  "checked_at_display": "08 Oct 2026, 12:59 AM IST",
+  "checked_at": "2026-10-08T05:16:16.891941+05:30",
+  "checked_at_display": "08 Oct 2026, 5:16 AM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 225,
+  "ranked_candidate_count": 226,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 80,
   "verified_summary_count": 0,
