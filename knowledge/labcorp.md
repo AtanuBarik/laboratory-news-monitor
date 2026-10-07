@@ -1,18 +1,19 @@
 # Labcorp News
 
-- **Repository generated:** 07 Oct 2026, 7:28 PM IST
+- **Repository generated:** 08 Oct 2026, 4:49 AM IST
 - **Distinct events in this file:** 161
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Labcorp (N6B.DE) analyst ratings, estimates and forecasts
+## 1. Labcorp (N6B.DE) Analyst Ratings, Estimates & Forecasts
 
 - **Company:** Labcorp
-- **Publication date:** 06 Oct 2026
+- **Publication date:** 05 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZjdyVjlJY19idVlRN0xHMzJsdjNRd2d3NEtqQ2FBQW9CbmpJd3YxcVhzV2VOVndzRDAwNWI2Q1FNalAzT1dleEI0aGZfNy1vQl9sc3BYNHh0M3BBWnVCdw?oc=5
   - Yahoo Finance Australia: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aTjFUME1VOU9ERkdZeFlPVDR3alJBNGsxOFRkMWw5UUw5RzRuUENhaXpzeXk0bklRd2ktMmxXWVd6dW54YTBWLWN0NXBTcFRaVU5KbVR1aUNiblJLTmxldA?oc=5
 
 **Feed description:** Labcorp Holdings Inc. (N6B.DE) analyst ratings, estimates and forecasts Yahoo Finance Australia

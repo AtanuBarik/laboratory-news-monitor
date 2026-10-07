@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-07T19:28:24.598670+05:30",
-  "generated_at_display": "07 Oct 2026, 7:28 PM IST",
-  "item_count": 370,
-  "raw_relevant_item_count": 569,
-  "duplicates_merged": 117,
+  "generated_at": "2026-10-08T04:49:30.900170+05:30",
+  "generated_at_display": "08 Oct 2026, 4:49 AM IST",
+  "item_count": 371,
+  "raw_relevant_item_count": 565,
+  "duplicates_merged": 112,
   "failures": [],
   "items": [
     {
@@ -59,6 +59,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "continuity executive leadership transition"
+    },
+    {
+      "id": "2838961a4f42bff8cfb0",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclFQVThFa2lNbk05Z1ZjSU1fOWRrSm5KUk1nSjNXWGp0WW9vYnhqZkwyVUpuNXNQZHdoeWlWdWhrY2s5ZGZLQ3luX1VobVFwUHAxQjE4c2QybXA3YTZuVk0xQ1Z3NkotUF9JY3UtUWp4WWxwenhoWmdCMFRUckhDa29aOFlQb2lRemxGaWlNcFBSU3NkTnNIbmtvMkQ0czRCaFRiUWwxNkJocTF2bHVfVzU3azROaFAySFNFVHYyTlhqM1BxVWpwU0lXajNWTGxNODhETFpvMXFvWGhaRXVrX2VSdWYtRjNYS2puaA?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-10-06T21:01:00+00:00",
+      "published_display": "06 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclFQVThFa2lNbk05Z1ZjSU1fOWRrSm5KUk1nSjNXWGp0WW9vYnhqZkwyVUpuNXNQZHdoeWlWdWhrY2s5ZGZLQ3luX1VobVFwUHAxQjE4c2QybXA3YTZuVk0xQ1Z3NkotUF9JY3UtUWp4WWxwenhoWmdCMFRUckhDa29aOFlQb2lRemxGaWlNcFBSU3NkTnNIbmtvMkQ0czRCaFRiUWwxNkJocTF2bHVfVzU3azROaFAySFNFVHYyTlhqM1BxVWpwU0lXajNWTGxNODhETFpvMXFvWGhaRXVrX2VSdWYtRjNYS2puaA?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-06T21:01:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors stock tuesday underperforms when"
     },
     {
       "id": "4c2254af3e1b67de4dd1",
@@ -163,30 +187,6 @@
       "event_signature": "206 costs eur haystack results stock"
     },
     {
-      "id": "55ff202f9ff65626f243",
-      "company": "Labcorp",
-      "title": "Labcorp (N6B.DE) analyst ratings, estimates and forecasts",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aTjFUME1VOU9ERkdZeFlPVDR3alJBNGsxOFRkMWw5UUw5RzRuUENhaXpzeXk0bklRd2ktMmxXWVd6dW54YTBWLWN0NXBTcFRaVU5KbVR1aUNiblJLTmxldA?oc=5",
-      "description": "Labcorp Holdings Inc. (N6B.DE) analyst ratings, estimates and forecasts Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "source_url": "https://au.finance.yahoo.com",
-      "source_domain": "au.finance.yahoo.com",
-      "published_at": "2026-10-06T04:54:21+00:00",
-      "published_display": "06 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aTjFUME1VOU9ERkdZeFlPVDR3alJBNGsxOFRkMWw5UUw5RzRuUENhaXpzeXk0bklRd2ktMmxXWVd6dW54YTBWLWN0NXBTcFRaVU5KbVR1aUNiblJLTmxldA?oc=5",
-          "domain": "au.finance.yahoo.com",
-          "published_at": "2026-10-06T04:54:21+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "analyst estimates forecasts n6b ratings"
-    },
-    {
       "id": "2ebca386c94d7bd0bb72",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock price, news, quote and history",
@@ -215,6 +215,36 @@
       ],
       "coverage_count": 2,
       "event_signature": "history price quote stock"
+    },
+    {
+      "id": "f10b58dea6c69e3a3763",
+      "company": "Labcorp",
+      "title": "Labcorp (N6B.DE) Analyst Ratings, Estimates & Forecasts",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZjdyVjlJY19idVlRN0xHMzJsdjNRd2d3NEtqQ2FBQW9CbmpJd3YxcVhzV2VOVndzRDAwNWI2Q1FNalAzT1dleEI0aGZfNy1vQl9sc3BYNHh0M3BBWnVCdw?oc=5",
+      "description": "Labcorp Holdings Inc. (N6B.DE) analyst ratings, estimates and forecasts Yahoo Finance Australia",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-10-05T19:16:14+00:00",
+      "published_display": "05 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBZjdyVjlJY19idVlRN0xHMzJsdjNRd2d3NEtqQ2FBQW9CbmpJd3YxcVhzV2VOVndzRDAwNWI2Q1FNalAzT1dleEI0aGZfNy1vQl9sc3BYNHh0M3BBWnVCdw?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-05T19:16:14+00:00"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aTjFUME1VOU9ERkdZeFlPVDR3alJBNGsxOFRkMWw5UUw5RzRuUENhaXpzeXk0bklRd2ktMmxXWVd6dW54YTBWLWN0NXBTcFRaVU5KbVR1aUNiblJLTmxldA?oc=5",
+          "domain": "au.finance.yahoo.com",
+          "published_at": "2026-10-06T04:54:21+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "analyst estimates forecasts n6b ratings"
     },
     {
       "id": "0e37724b2fb662feece4",
@@ -12495,10 +12525,10 @@
       "event_signature": "2026 investments jul list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 80,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-08T00:17:00+05:30",
-  "next_update_display": "08 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-08T06:17:00+05:30",
+  "next_update_display": "08 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
