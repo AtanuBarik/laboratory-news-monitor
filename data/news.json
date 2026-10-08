@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-08T04:49:30.900170+05:30",
-  "generated_at_display": "08 Oct 2026, 4:49 AM IST",
-  "item_count": 371,
-  "raw_relevant_item_count": 565,
+  "generated_at": "2026-10-08T12:12:10.527425+05:30",
+  "generated_at_display": "08 Oct 2026, 12:12 PM IST",
+  "item_count": 372,
+  "raw_relevant_item_count": 570,
   "duplicates_merged": 112,
   "failures": [],
   "items": [
@@ -83,6 +83,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "compared competitors stock tuesday underperforms when"
+    },
+    {
+      "id": "1c92d21ba20f1c246a5a",
+      "company": "Quest Diagnostics",
+      "title": "Catherine T. Doherty to Transition to EVP at Quest Diagnostics, Retirement Set for July 2027",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSUVtcW5HZFFpaktRQ2hJakI3ZEVVLTlKbk0xSWg4bDNleG5NSHJWVUVWUlNfd2g3TEZBZ01Hem9OR0tZanVpU0h0cmsxOGVaVzJENHpMVnN1QmI2NEF1ZFVjZlViS2lhUG41djFBcUs2Mnp0bi0xMkpXeWR5MGJUYWhXZDhGSFktNHNKRXNUZGR4ZlVteWlhamJFbG91aVJsZFNOdDV2VGNSTk5tNkpqclVBQ21tZE5JLS1IbWZOM2VwMF9aYXN0dFJwclJNMmU2alZsV3YyejZacTBPaDB3eEpqNkEwVXc?oc=5",
+      "description": "Catherine T. Doherty to Transition to EVP at Quest Diagnostics, Retirement Set for July 2027 TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-06T20:33:02+00:00",
+      "published_display": "06 Oct 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSUVtcW5HZFFpaktRQ2hJakI3ZEVVLTlKbk0xSWg4bDNleG5NSHJWVUVWUlNfd2g3TEZBZ01Hem9OR0tZanVpU0h0cmsxOGVaVzJENHpMVnN1QmI2NEF1ZFVjZlViS2lhUG41djFBcUs2Mnp0bi0xMkpXeWR5MGJUYWhXZDhGSFktNHNKRXNUZGR4ZlVteWlhamJFbG91aVJsZFNOdDV2VGNSTk5tNkpqclVBQ21tZE5JLS1IbWZOM2VwMF9aYXN0dFJwclJNMmU2alZsV3YyejZacTBPaDB3eEpqNkEwVXc?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-06T20:33:02+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2027 catherine doherty evp july retirement set transition"
     },
     {
       "id": "4c2254af3e1b67de4dd1",
@@ -12525,10 +12549,10 @@
       "event_signature": "2026 investments jul list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 85,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-08T06:17:00+05:30",
-  "next_update_display": "08 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-08T12:17:00+05:30",
+  "next_update_display": "08 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
