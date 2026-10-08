@@ -1,7 +1,7 @@
 # Labcorp News
 
-- **Repository generated:** 08 Oct 2026, 12:12 PM IST
-- **Distinct events in this file:** 161
+- **Repository generated:** 08 Oct 2026, 7:33 PM IST
+- **Distinct events in this file:** 160
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -47,7 +47,7 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 7
+- **Coverage count:** 8
 - **Official source involved:** No
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5
@@ -57,6 +57,7 @@
   - TradingView: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0RBYVIwNEJSaW4xdTlIcXRJMEc0U09xaFF4aDZwVU14MjBfWmhyUVVFRVZqcEIwRTN1LVQ4VWd4OHFVa01XbkhoemhCaGJvdVdyYUowSDhVajNtaVVVTmtiU3QzVjNDUU8wdUpMLTlweDkwSUNCdTZLeEhyQjFjemVuUTdpazY4YkMwcEVoc3RCc2hxbDlOUXkybW9mY3Z4THdEcXFWN0NyZ01oRENVZmFLOF9jM2tOdEVYVEJLLURhTTk5aDJSZ3ZUV21jbU84b2c?oc=5
   - GuruFocus: https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2pBcTFnOWNxTFJ1V1ZGSDRFMllLZDY3a3BNelBjeFIyeGJkUjQ0aGdjYU9KUl8wa1J0dVJpZzFBUVd2eVpYR2pJWlpuVFRSSUZmdFRCX3BIS0FnZTBfM1AtSDduX2o1dm45TUlGNVk1dnZEV2dVelF2Ym10U1RVWS11Z2RhS3hNdjlaMUJ2YlhfakZhQlBTdmZqbm8?oc=5
   - Pluang: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNZa19aVUxPZGsydnpNSFJXdWhTdDhNb3JKR2c4aUdlQzlPRVkydjhheXRGdnB3b0dFOFpzN0VjRGxDMXI0eTZ2d2ZIS2Q1T00zUktIS09MZ3l2T1ZNdHItVHFhNHhWdnJqSzJPUENUQURVWktBSWpzZ1BlVXU3dEZEZGdadlE0c3l0c1pJMFNrR0g2d01JQ0JKRFVLM3hDRHV6TFFDdw?oc=5
 
 **Feed description:** Labcorp to report Q3 2026 results Oct. 28, will webcast earnings at 9:00 a.m. ET TradingView
 
@@ -2176,15 +2177,3 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUROWTlMTlBlekN6VVI3N2Q4eFdYcXdldFJmQjloVWlMVXZhREhJdDVSdTlxOENmWW5tdG9jcjdqaEJsRUhBUERzc3V6QUFlRWFVc095WFM2STNFR3NHaEpzVFJLWVZMRkNuOUFjdm5aZ0lOenZrcmtpQ1I2R2xDalVjb0VaTFRPcURTdV9MVlFQelhRZFhVVldOaDFRRkE?oc=5
 
 **Feed description:** Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec finance.yahoo.com
-
-## 161. Labcorp Declares Cash Dividend of $0.72 Per S
-
-- **Company:** Labcorp
-- **Publication date:** 10 Jul 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - GuruFocus: https://news.google.com/rss/articles/CBMitAFBVV95cUxNNEdpZDgyQ1A3eWdpaWV1NDVuM3B4MXBwc3pjVzFVaEZDRVhvR0RmVVVBaGxhekF6cWdSdUxaYVhmY0JfT2hlaWh2VFZBTURvdzFyeGpVbEZwOVFTU1F5cDNsdGQ3MnlSTl8wYzlNRFE5UzdKSi1xd0xyQkl6MERCQnlqRjZLTm45Tnp5MHRFRF9COWxVQnlra1R4UjNoa2hJcno1TkJ5a0pCclBVbFdPekwyQmQ?oc=5
-
-**Feed description:** Labcorp announced on July 9, 2026 that its Board of Directors declared a cash dividend of $0.72 per share of common stock. The dividend is payable September 11, 2026 to shareholders of record as of the close of business on August 28, 2026. The announcement is a routine capital-return action and does not introduce a change to Labcorp’s operating guidance, product portfolio or organizational structure. In the same release, Labcorp described itself as a global provider of diagnostics and drug-development laboratory services serving physicians, hospitals, pharmaceutical companies, researchers and patients. The company said it has nearly 71,000 employees and serves clients in approximately 100 countries. It also stated that its laboratory capabilities supported more than 85% of the new drugs and therapeutic products approved by the U.S. Food and Drug Administration in 2025 and that it performed more than 750 million patient tests worldwide. Those company-profile metrics provide scale context for the dividend declaration but are not separate financial results. The material action in the article is the board-approved $0.72-per-share distribution, with the August 28 record date and September 11 payment date determining shareholder eligibility.

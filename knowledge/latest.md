@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 08 Oct 2026, 12:12 PM IST
+- **Repository generated:** 08 Oct 2026, 7:33 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -283,7 +283,7 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 7
+- **Coverage count:** 8
 - **Official source involved:** No
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5
@@ -293,6 +293,7 @@
   - TradingView: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0RBYVIwNEJSaW4xdTlIcXRJMEc0U09xaFF4aDZwVU14MjBfWmhyUVVFRVZqcEIwRTN1LVQ4VWd4OHFVa01XbkhoemhCaGJvdVdyYUowSDhVajNtaVVVTmtiU3QzVjNDUU8wdUpMLTlweDkwSUNCdTZLeEhyQjFjemVuUTdpazY4YkMwcEVoc3RCc2hxbDlOUXkybW9mY3Z4THdEcXFWN0NyZ01oRENVZmFLOF9jM2tOdEVYVEJLLURhTTk5aDJSZ3ZUV21jbU84b2c?oc=5
   - GuruFocus: https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2pBcTFnOWNxTFJ1V1ZGSDRFMllLZDY3a3BNelBjeFIyeGJkUjQ0aGdjYU9KUl8wa1J0dVJpZzFBUVd2eVpYR2pJWlpuVFRSSUZmdFRCX3BIS0FnZTBfM1AtSDduX2o1dm45TUlGNVk1dnZEV2dVelF2Ym10U1RVWS11Z2RhS3hNdjlaMUJ2YlhfakZhQlBTdmZqbm8?oc=5
   - Pluang: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5
+  - Barchart.com: https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNZa19aVUxPZGsydnpNSFJXdWhTdDhNb3JKR2c4aUdlQzlPRVkydjhheXRGdnB3b0dFOFpzN0VjRGxDMXI0eTZ2d2ZIS2Q1T00zUktIS09MZ3l2T1ZNdHItVHFhNHhWdnJqSzJPUENUQURVWktBSWpzZ1BlVXU3dEZEZGdadlE0c3l0c1pJMFNrR0g2d01JQ0JKRFVLM3hDRHV6TFFDdw?oc=5
 
 **Feed description:** Labcorp to report Q3 2026 results Oct. 28, will webcast earnings at 9:00 a.m. ET TradingView
 
@@ -369,19 +370,7 @@
 
 **Feed description:** Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research
 
-## 30. Quest Diagnostics stock draws a USD 260.00 target after earnings
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 28 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ193Q3puWkxFdlZDNzVGVElaYkxsYmNsa1paZkZJYjd3ZkpNN3BiX1RYalZUd204ZnMyVDJEOTVnQVgyQjJCN0Ffdnp3N0s5N09zazR4Wk0zRFpLbFk5S05CQ3NzbFVpNHVMd0JjT0RBZzEwZ1c2eDJVSDFBbkRyWFhyQXJ4RjV2aEhyN0MxNEVqdUZtQzRFaUxmcklkM0NlVlB4aHUtWjR2ZFRtYVl5MncwMUtGTU14SDRKRzBJejNpTV9sTkE?oc=5
-
-**Feed description:** Quest Diagnostics stock draws a USD 260.00 target after earnings ad-hoc-news.de
-
-## 31. Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach
+## 30. Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -392,6 +381,18 @@
   - 930 WFMD Free Talk: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjQ4ZTlPcjZCWHhmcV9fdlpvQzkzdl9ENmhVRldTczJISG55dm5IT01NZ0FlM1BtZjNKZkpvb0pWc0NPYWRHbUNWWmljOGhzUHkzQ2hDWXlQYWtGMGoyMVpSUUFBYzNuYjMtRTE3VDlqZHJUODVvVmEzWkxwQUp5SFJLRmdhQ1hoZW92NmpfSTVaTklVU051YUlIcFlvdVBqckFKTG93?oc=5
 
 **Feed description:** Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach 930 WFMD Free Talk
+
+## 31. Quest Diagnostics stock draws a USD 260.00 target after earnings
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 28 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - AD HOC NEWS: https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ193Q3puWkxFdlZDNzVGVElaYkxsYmNsa1paZkZJYjd3ZkpNN3BiX1RYalZUd204ZnMyVDJEOTVnQVgyQjJCN0Ffdnp3N0s5N09zazR4Wk0zRFpLbFk5S05CQ3NzbFVpNHVMd0JjT0RBZzEwZ1c2eDJVSDFBbkRyWFhyQXJ4RjV2aEhyN0MxNEVqdUZtQzRFaUxmcklkM0NlVlB4aHUtWjR2ZFRtYVl5MncwMUtGTU14SDRKRzBJejNpTV9sTkE?oc=5
+
+**Feed description:** Quest Diagnostics stock draws a USD 260.00 target after earnings ad-hoc-news.de
 
 ## 32. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
 
