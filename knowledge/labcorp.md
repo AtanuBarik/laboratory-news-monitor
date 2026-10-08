@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 08 Oct 2026, 7:33 PM IST
+- **Repository generated:** 09 Oct 2026, 5:03 AM IST
 - **Distinct events in this file:** 160
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -47,7 +47,7 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 8
+- **Coverage count:** 9
 - **Official source involved:** No
 - **Sources:**
   - Morningstar: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5
@@ -58,6 +58,7 @@
   - GuruFocus: https://news.google.com/rss/articles/CBMinAFBVV95cUxQT2pBcTFnOWNxTFJ1V1ZGSDRFMllLZDY3a3BNelBjeFIyeGJkUjQ0aGdjYU9KUl8wa1J0dVJpZzFBUVd2eVpYR2pJWlpuVFRSSUZmdFRCX3BIS0FnZTBfM1AtSDduX2o1dm45TUlGNVk1dnZEV2dVelF2Ym10U1RVWS11Z2RhS3hNdjlaMUJ2YlhfakZhQlBTdmZqbm8?oc=5
   - Pluang: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5
   - Barchart.com: https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNZa19aVUxPZGsydnpNSFJXdWhTdDhNb3JKR2c4aUdlQzlPRVkydjhheXRGdnB3b0dFOFpzN0VjRGxDMXI0eTZ2d2ZIS2Q1T00zUktIS09MZ3l2T1ZNdHItVHFhNHhWdnJqSzJPUENUQURVWktBSWpzZ1BlVXU3dEZEZGdadlE0c3l0c1pJMFNrR0g2d01JQ0JKRFVLM3hDRHV6TFFDdw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVk5c1RneUVhdmtNWnZRRDJURVRydVA4RkVlWW1VX1ZZOFpjOWJicmRWLWRnanNxajNoTTZldTNPLTFtOUcwMmZGWDFmQ0JqQWI1Y3dkRlZ0TngtMzZkSnJMVTg2YmM0cmJBeW92RkYySlVCbkZOb1BOZFozLUp2WVBHaDRzckduY3JwcmJWZ0pKel9ZM2xB?oc=5
 
 **Feed description:** Labcorp to report Q3 2026 results Oct. 28, will webcast earnings at 9:00 a.m. ET TradingView
 

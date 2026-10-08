@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-08T19:33:33.473483+05:30",
-  "generated_at_display": "08 Oct 2026, 7:33 PM IST",
+  "generated_at": "2026-10-09T05:03:58.593951+05:30",
+  "generated_at_display": "09 Oct 2026, 5:03 AM IST",
   "item_count": 370,
   "raw_relevant_item_count": 566,
   "duplicates_merged": 108,
@@ -649,9 +649,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNZa19aVUxPZGsydnpNSFJXdWhTdDhNb3JKR2c4aUdlQzlPRVkydjhheXRGdnB3b0dFOFpzN0VjRGxDMXI0eTZ2d2ZIS2Q1T00zUktIS09MZ3l2T1ZNdHItVHFhNHhWdnJqSzJPUENUQURVWktBSWpzZ1BlVXU3dEZEZGdadlE0c3l0c1pJMFNrR0g2d01JQ0JKRFVLM3hDRHV6TFFDdw?oc=5",
           "domain": "barchart.com",
           "published_at": "2026-10-08T12:00:45+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVk5c1RneUVhdmtNWnZRRDJURVRydVA4RkVlWW1VX1ZZOFpjOWJicmRWLWRnanNxajNoTTZldTNPLTFtOUcwMmZGWDFmQ0JqQWI1Y3dkRlZ0TngtMzZkSnJMVTg2YmM0cmJBeW92RkYySlVCbkZOb1BOZFozLUp2WVBHaDRzckduY3JwcmJWZ0pKel9ZM2xB?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-08T12:00:45+00:00"
         }
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "event_signature": "2026 announce financial october quarter results third"
     },
     {
@@ -12499,10 +12505,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 85,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-09T00:17:00+05:30",
-  "next_update_display": "09 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-09T06:17:00+05:30",
+  "next_update_display": "09 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
