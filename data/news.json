@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-09T12:17:07.122890+05:30",
-  "generated_at_display": "09 Oct 2026, 12:17 PM IST",
-  "item_count": 371,
-  "raw_relevant_item_count": 567,
-  "duplicates_merged": 107,
+  "generated_at": "2026-10-10T00:01:35.516991+05:30",
+  "generated_at_display": "10 Oct 2026, 12:01 AM IST",
+  "item_count": 373,
+  "raw_relevant_item_count": 560,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "d7ca8f54aea01879160b",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: A Dividend Quality Pick for Income Investors",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVW5YV1o3Z3B3NmZpQ19hNHBNSjRSN091a3A0Z0dLOUpBY2Z2U3VldWtHQmROZ0c0c3ZVWTY3czJYanRKVy1naF9BclNvWEEwNnMzSDdXc3phaGczY2VfaWpUemM5TXhRUjJpYTJZUjd3LWlfbFI1WHlSa2NXM3FNbkl5RjQ1LXJOUXRXQ3h2aDluRXhka1ZlWXFLY0JuVEE5UVZ3U0EyeUhFUElHbS11di1Vc05OSDF5ZWRXMjJB?oc=5",
+      "description": "Quest Diagnostics (NYSE:DGX): A Dividend Quality Pick for Income Investors ChartMill",
+      "source": "ChartMill",
+      "source_url": "https://www.chartmill.com",
+      "source_domain": "chartmill.com",
+      "published_at": "2026-10-09T12:50:52+00:00",
+      "published_display": "09 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVW5YV1o3Z3B3NmZpQ19hNHBNSjRSN091a3A0Z0dLOUpBY2Z2U3VldWtHQmROZ0c0c3ZVWTY3czJYanRKVy1naF9BclNvWEEwNnMzSDdXc3phaGczY2VfaWpUemM5TXhRUjJpYTJZUjd3LWlfbFI1WHlSa2NXM3FNbkl5RjQ1LXJOUXRXQ3h2aDluRXhka1ZlWXFLY0JuVEE5UVZ3U0EyeUhFUElHbS11di1Vc05OSDF5ZWRXMjJB?oc=5",
+          "domain": "chartmill.com",
+          "published_at": "2026-10-09T12:50:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "dividend income investors pick quality"
+    },
     {
       "id": "2ab99df55a3483233024",
       "company": "Sonic Healthcare",
@@ -181,9 +205,15 @@
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWdmNHNCZXh0R1lDNmJxT0ljc0tXZTFISmtJUU5MUUVEekR2VXpyQ0dPTEw2dWdrb0NGc2dsV19KemNqOTJBaDN3Slo5S3BINnFsVk00czloa2VvbHV6MUtxSW1xX1E1SEdKaXdqdF9QdmdXeU04anhCSE5GYVhEMUFxalVqbkEtT1B2Mm5iNDdIQnZua0I2UXhDOURnM1h6dVRXcDRsTFRianQxR2pXS1NkUEFPTTdLT3VQMjdkOGJmRWZIc1RkUjNWWTZpZUY3Qlg2UTZiRVVGT1c4SXdrcXFaMGxsVXVfa0ZsYVdKZUNRZnhvemZnbVlFaTQzaUREY2FQa2pTMV9BNlhoZ3FKeXdxVQ?oc=5",
           "domain": "gurufocus.com",
           "published_at": "2026-10-06T14:33:45+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVdKOFhCUTIybWV2OThnY0N5VnhjbUk4dXBNd0VfT3NlNkpQZ0N5Wmp3cGkzdXVJNUhwNm51ZG5pbHNIeDV4dlpDU3RVOXlSeEJDMmJHQ19ZaUVEeWFQYUpvVlpGMlFkS1hDeVI4Sl9GN1lvS3o0NnlOeFA4dlE2UVl4X0hIdw?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-07T08:00:11+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "analysis dividend"
     },
     {
@@ -335,6 +365,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "earnings know need preview quarterly what you"
+    },
+    {
+      "id": "8e1147c3da2e1237848f",
+      "company": "Labcorp",
+      "title": "Labcorp stock gained 1.28 percent before October 28 results",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMm9iZ1pXclBPMUpSNVZWVTZUM3dDWnlVSEEtaTREZEhmdThGMl8zT2g0V0RzdURPcVdUVExHbDRQVGFUWjBJX01fUmxyODNjaWdkWUFtLVpfZ1k2QUhHNWR2VGNlNTBaSmRuVHdXSHkteUo4cmJCZlpMMU1HSDJBZ3oxMGJGXzE4MS1oV09jbXNYNkRvVzNJcVdYOVNRQm5fTlhkWnMyWHFlaU4tSXBiU3hHS1E0OFZadjlVa2Vmcw?oc=5",
+      "description": "Labcorp stock gained 1.28 percent before October 28 results AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-04T20:26:09+00:00",
+      "published_display": "04 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMm9iZ1pXclBPMUpSNVZWVTZUM3dDWnlVSEEtaTREZEhmdThGMl8zT2g0V0RzdURPcVdUVExHbDRQVGFUWjBJX01fUmxyODNjaWdkWUFtLVpfZ1k2QUhHNWR2VGNlNTBaSmRuVHdXSHkteUo4cmJCZlpMMU1HSDJBZ3oxMGJGXzE4MS1oV09jbXNYNkRvVzNJcVdYOVNRQm5fTlhkWnMyWHFlaU4tSXBiU3hHS1E0OFZadjlVa2Vmcw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-04T20:26:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "before gained october percent results stock"
     },
     {
       "id": "dd7df8677779c36a63d1",
@@ -997,30 +1051,6 @@
       "event_signature": "abound expert questions regarding settlement tech"
     },
     {
-      "id": "43a80ac3fc541b86ff2b",
-      "company": "Labcorp",
-      "title": "Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
-      "description": "Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026] tech-insider.org",
-      "source": "tech-insider.org",
-      "source_url": "https://tech-insider.org",
-      "source_domain": "tech-insider.org",
-      "published_at": "2026-09-25T22:58:33+00:00",
-      "published_display": "25 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "tech-insider.org",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
-          "domain": "tech-insider.org",
-          "published_at": "2026-09-25T22:58:33+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 615 hit joins settlement wisconsin"
-    },
-    {
       "id": "988678a9a4e83b83be7c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock price, news, quote and history",
@@ -1199,6 +1229,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "behind gains rally stock what ytd"
+    },
+    {
+      "id": "15ff0dbaf87b1b770510",
+      "company": "Labcorp",
+      "title": "Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
+      "description": "Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026] https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
+      "source_url": "https://tech-insider.org",
+      "source_domain": "tech-insider.org",
+      "published_at": "2026-09-25T07:00:00+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://tech-insider.org/",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92cnpMcGVpOVMyNk5KcDNkczV0UTdXVS1VSWRtN1AzRWRJSEFEQVgtNzFhZWM0TkdwZUxxdFFFcEoyN1h5X1llUUdWUDd6czFxdEN0U0FoM3pHc0lPRk1ZZWRPdm1FWUJmcHVublcwMlRkUXdWWUJoaUpuVQ?oc=5",
+          "domain": "tech-insider.org",
+          "published_at": "2026-09-25T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 615 hit joins settlement wisconsin"
     },
     {
       "id": "19ae2e77d8e5cce4a8bf",
@@ -12535,10 +12589,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 85,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-09T18:17:00+05:30",
-  "next_update_display": "09 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-10T00:17:00+05:30",
+  "next_update_display": "10 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
