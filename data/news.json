@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-10T00:01:35.516991+05:30",
-  "generated_at_display": "10 Oct 2026, 12:01 AM IST",
-  "item_count": 373,
-  "raw_relevant_item_count": 560,
+  "generated_at": "2026-10-10T04:24:47.319989+05:30",
+  "generated_at_display": "10 Oct 2026, 4:24 AM IST",
+  "item_count": 374,
+  "raw_relevant_item_count": 564,
   "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "f40e12bc9ae92e75a5fb",
+      "company": "Quest Diagnostics",
+      "title": "People in the News at CHOP, 3billion, Quest Diagnostics, Alamar Biosciences, NeoGenomics",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBoUFZNb2gxcVZiOENGNThrRnd4RHhRM2lSc3pZTkF5TlNBRTZZaXp6ZnhNZEJrM2pqbHFUenRoOFNRY1RXdkN4WmN5SVdzaDR4Q2VLZkZTRjJ1a09hY3dXaXQ2cnFSMDhqUXFxSTJ0VHBYUms4UklpbkRvSTlSTXRhQV9fM01SS0lVa3VvUnY?oc=5",
+      "description": "People in the News at CHOP, 3billion, Quest Diagnostics, Alamar Biosciences, NeoGenomics Genome Web",
+      "source": "Genome Web",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-10-09T14:37:00+00:00",
+      "published_display": "09 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Genome Web",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjBoUFZNb2gxcVZiOENGNThrRnd4RHhRM2lSc3pZTkF5TlNBRTZZaXp6ZnhNZEJrM2pqbHFUenRoOFNRY1RXdkN4WmN5SVdzaDR4Q2VLZkZTRjJ1a09hY3dXaXQ2cnFSMDhqUXFxSTJ0VHBYUms4UklpbkRvSTlSTXRhQV9fM01SS0lVa3VvUnY?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-09T14:37:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "3billion alamar biosciences chop neogenomics people"
+    },
     {
       "id": "d7ca8f54aea01879160b",
       "company": "Quest Diagnostics",
@@ -289,9 +313,15 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
           "domain": "ca.finance.yahoo.com",
           "published_at": "2026-10-06T02:53:53+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-10-09T11:29:49+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "history price quote stock"
     },
     {
@@ -361,9 +391,15 @@
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZE5GNi1vamEzTHVoZlhiYTlWUTRaclRWWF9PSUpOQnhmU3E5Y3BhUV9CbU12RjBadkNwbkVxMHpkQ1JQd3hpbWk4NkdubDUzYTY2bnNmWXlwYWMxQkhHNjZRNUtSZU52dS1jeDIwcXQxcXJTemVWZzN4VlZnT01CQndVZXRva3lON3VDN0xMWjhxdUFnUXg2ZFFST2E3V1p5Y1p3?oc=5",
           "domain": "inkl.com",
           "published_at": "2026-10-05T11:31:19+00:00"
+        },
+        {
+          "name": "Webull",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41Vk0zNG9XdW9UV1k0Zk1HMXRSeGxydUJ6aFZ5V1V6RWU4UHV2Vm5mSjk0SzhVMndmbXF5bnVxYWFDb1I1MFBZME5EdkZidTJ1NDJlUDV3akI?oc=5",
+          "domain": "webull.com",
+          "published_at": "2026-10-06T13:41:03+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "earnings know need preview quarterly what you"
     },
     {
@@ -12589,10 +12625,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 88,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-10T00:17:00+05:30",
-  "next_update_display": "10 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-10T06:17:00+05:30",
+  "next_update_display": "10 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
