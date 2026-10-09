@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-09T05:03:58.593951+05:30",
-  "generated_at_display": "09 Oct 2026, 5:03 AM IST",
-  "item_count": 370,
-  "raw_relevant_item_count": 566,
-  "duplicates_merged": 108,
+  "generated_at": "2026-10-09T12:17:07.122890+05:30",
+  "generated_at_display": "09 Oct 2026, 12:17 PM IST",
+  "item_count": 371,
+  "raw_relevant_item_count": 567,
+  "duplicates_merged": 107,
   "failures": [],
   "items": [
     {
@@ -131,6 +131,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "form oct"
+    },
+    {
+      "id": "3ac8481334ce5f092586",
+      "company": "Quest Diagnostics",
+      "title": "DGX: Quest Diagnostics, Latest Stock Price, Analysis, News and Trading Ideas",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03WEx0cjVtRS1xVEFUcHY4bkdEbXFmTVFmWEVfNDk4cXhYVkkyMjFZeTY1UlU4dnhsYXVHU0I2aWxIRGxESXNTWg?oc=5",
+      "description": "DGX: Quest Diagnostics, Inc. Latest Stock Price, Analysis, News and Trading Ideas Stocktwits",
+      "source": "Stocktwits",
+      "source_url": "https://stocktwits.com",
+      "source_domain": "stocktwits.com",
+      "published_at": "2026-10-06T15:43:42+00:00",
+      "published_display": "06 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE03WEx0cjVtRS1xVEFUcHY4bkdEbXFmTVFmWEVfNDk4cXhYVkkyMjFZeTY1UlU4dnhsYXVHU0I2aWxIRGxESXNTWg?oc=5",
+          "domain": "stocktwits.com",
+          "published_at": "2026-10-06T15:43:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analysis ideas price stock trading"
     },
     {
       "id": "b46a1b777004ddb42231",
@@ -589,19 +613,25 @@
       "event_signature": "athletes becomes ecgs first florida heart high launch myelai play program require school screening state tampa who"
     },
     {
-      "id": "f5a44d2b4fad83c1d55f",
+      "id": "13708c39e138ffb240fe",
       "company": "Labcorp",
-      "title": "Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5",
-      "description": "Labcorp to report Q3 2026 results Oct. 28, will webcast earnings at 9:00 a.m. ET TradingView",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "source_domain": "morningstar.com",
-      "published_at": "2026-09-30T12:30:00+00:00",
+      "title": "Labcorp to release Q3 2026 earnings on Oct 28 w...",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5",
+      "description": "Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026 www.marketscreener.com",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-09-30T07:00:00+00:00",
       "published_display": "30 Sep 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-09-30T07:00:00+00:00"
+        },
         {
           "name": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWtRcWl6UURrWTh6NkdCZUYzUk5ST19nZVlkc2dfNGxxM19VQ19iYklEdnQwSUlzRjB3RzVxOFU2aWtabno5VGJLYjg3ODdBNzRobnRUcGxTc2JVVldTdWhwU2tpYngxZ2VBMEg5VzYyd20zcFU2UmNiWXdtQlZFQ2QydVN4ODdMZHVoNFRZbmpGWFZrbTduaDYxMElxcEhHc09MRVlrT1l5RXNyT3haV1BXZTdYZU1uWmRPdGdaclY2NXBlMFFpd05fOU80VzN5d0E?oc=5",
@@ -639,12 +669,6 @@
           "published_at": "2026-09-30T20:32:45+00:00"
         },
         {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-09-30T12:45:06+00:00"
-        },
-        {
           "name": "Barchart.com",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMFNZa19aVUxPZGsydnpNSFJXdWhTdDhNb3JKR2c4aUdlQzlPRVkydjhheXRGdnB3b0dFOFpzN0VjRGxDMXI0eTZ2d2ZIS2Q1T00zUktIS09MZ3l2T1ZNdHItVHFhNHhWdnJqSzJPUENUQURVWktBSWpzZ1BlVXU3dEZEZGdadlE0c3l0c1pJMFNrR0g2d01JQ0JKRFVLM3hDRHV6TFFDdw?oc=5",
           "domain": "barchart.com",
@@ -655,10 +679,16 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcVk5c1RneUVhdmtNWnZRRDJURVRydVA4RkVlWW1VX1ZZOFpjOWJicmRWLWRnanNxajNoTTZldTNPLTFtOUcwMmZGWDFmQ0JqQWI1Y3dkRlZ0TngtMzZkSnJMVTg2YmM0cmJBeW92RkYySlVCbkZOb1BOZFozLUp2WVBHaDRzckduY3JwcmJWZ0pKel9ZM2xB?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-08T12:00:45+00:00"
+        },
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzV0bUllYk1NTHVhLVA3bzhxTFdKcDBDVnRaV1lVNHdIbGtlWXBjZHBmWGNUUXhEX2xBX0FDN01YT1kycEtsUE1TdjFyTXVyenQ5eDRfd1J3T0NudmdUeXJHeUI0dXpLNm9uTXZqbDM5U253Vl9pMXFKaDV6VnNVeldFaVRlSHlicWNxWkhzOU11TmFaZ1RaSXhJYnZCOFlzb1hzVzdnMDFZYzdlWjB6elNLM2lPUGhMcExCRXJXdlBZZWU3UE9j?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-09-30T12:31:13+00:00"
         }
       ],
-      "coverage_count": 9,
-      "event_signature": "2026 announce financial october quarter results third"
+      "coverage_count": 10,
+      "event_signature": "2026 earnings oct release"
     },
     {
       "id": "8f2b8619985e71692714",
@@ -12505,10 +12535,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 86,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-09T06:17:00+05:30",
-  "next_update_display": "09 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-09T18:17:00+05:30",
+  "next_update_display": "09 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
