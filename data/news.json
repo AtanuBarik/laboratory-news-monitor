@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T04:24:47.319989+05:30",
-  "generated_at_display": "10 Oct 2026, 4:24 AM IST",
-  "item_count": 374,
+  "generated_at": "2026-10-10T11:54:39.954876+05:30",
+  "generated_at_display": "10 Oct 2026, 11:54 AM IST",
+  "item_count": 375,
   "raw_relevant_item_count": 564,
-  "duplicates_merged": 99,
+  "duplicates_merged": 100,
   "failures": [],
   "items": [
     {
@@ -319,10 +319,40 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
           "domain": "sg.finance.yahoo.com",
           "published_at": "2026-10-09T11:29:49+00:00"
+        },
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-10-09T02:36:03+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "history price quote stock"
+    },
+    {
+      "id": "337212b6472a6d5ef571",
+      "company": "Labcorp",
+      "title": "Labcorp stock gets a clear October 28 earnings date",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2lFb1gxOGh4OS1TMWhzUTd3Q25TbEVyRDZHclp0UTRDckZha2RHZ3kzbWhZNEtlLUlKZUZtTFpYeWxsaE9FQ2hBblAzRk9IS1hmYjI2VXhpbUdVcnhVTVdzSHc4S0FMSmp1a0ZVMHp2eUVKN2hyU3ZkUGFwcmY2MXN6QVM0ZHpoajR0RjY3STM1dDJqWVhrSzd3Y3JPOEtuVVI2ODd1NW1IclNiQmtrT3Y4Qlk?oc=5",
+      "description": "Labcorp stock gets a clear October 28 earnings date AD HOC NEWS",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-05T19:27:46+00:00",
+      "published_display": "05 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2lFb1gxOGh4OS1TMWhzUTd3Q25TbEVyRDZHclp0UTRDckZha2RHZ3kzbWhZNEtlLUlKZUZtTFpYeWxsaE9FQ2hBblAzRk9IS1hmYjI2VXhpbUdVcnhVTVdzSHc4S0FMSmp1a0ZVMHp2eUVKN2hyU3ZkUGFwcmY2MXN6QVM0ZHpoajR0RjY3STM1dDJqWVhrSzd3Y3JPOEtuVVI2ODd1NW1IclNiQmtrT3Y4Qlk?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-05T19:27:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clear date earnings gets october stock"
     },
     {
       "id": "f10b58dea6c69e3a3763",
@@ -12625,10 +12655,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 86,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-10T06:17:00+05:30",
-  "next_update_display": "10 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-10T12:17:00+05:30",
+  "next_update_display": "10 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
