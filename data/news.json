@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-10T11:54:39.954876+05:30",
-  "generated_at_display": "10 Oct 2026, 11:54 AM IST",
-  "item_count": 375,
-  "raw_relevant_item_count": 564,
-  "duplicates_merged": 100,
+  "generated_at": "2026-10-10T18:34:39.085451+05:30",
+  "generated_at_display": "10 Oct 2026, 6:34 PM IST",
+  "item_count": 376,
+  "raw_relevant_item_count": 565,
+  "duplicates_merged": 97,
   "failures": [],
   "items": [
     {
@@ -959,6 +959,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "add portfolio right stock this time your"
+    },
+    {
+      "id": "c2400a7ad09cecb58738",
+      "company": "Labcorp",
+      "title": "Trainee Clinical Research Role at Labcorp | Apply Now",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeWkwdkI2dnRZNFFlYnBSZFNUeC1SQkFVSWpPeG51Z3FYM2Z0Mk9aMTVuNktkLVhtRlp4dVA2c1h4U21iQ3FGc0NBLURCVFhURlNBN0JTZ3hIbTR1Sy1xS3d2NWhfV0tKR2tMcFFlQ1EwVDZmMXl6ZVNFS3E4MGfSAYQBQVVfeXFMT3BabmlPYzNZQWZZYkRhNGhmb1BSZG85NzhQeXF0S1ZoSEk0aVRiYXRiNXlkdnFneDIzbDZ0STJoRkJCRElRakcyeFdnRkE2NlRFc3dGOEM0X3RJTU0xcXloX1ZHRXpVNkpWZ1lLSkcwdXJrQWRTdmYxOU1mSmV2Yy15OTNT?oc=5",
+      "description": "Trainee Clinical Research Role at Labcorp | Apply Now BioTecNika",
+      "source": "BioTecNika",
+      "source_url": "https://www.biotecnika.org",
+      "source_domain": "biotecnika.org",
+      "published_at": "2026-09-28T12:36:20+00:00",
+      "published_display": "28 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioTecNika",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeWkwdkI2dnRZNFFlYnBSZFNUeC1SQkFVSWpPeG51Z3FYM2Z0Mk9aMTVuNktkLVhtRlp4dVA2c1h4U21iQ3FGc0NBLURCVFhURlNBN0JTZ3hIbTR1Sy1xS3d2NWhfV0tKR2tMcFFlQ1EwVDZmMXl6ZVNFS3E4MGfSAYQBQVVfeXFMT3BabmlPYzNZQWZZYkRhNGhmb1BSZG85NzhQeXF0S1ZoSEk0aVRiYXRiNXlkdnFneDIzbDZ0STJoRkJCRElRakcyeFdnRkE2NlRFc3dGOEM0X3RJTU0xcXloX1ZHRXpVNkpWZ1lLSkcwdXJrQWRTdmYxOU1mSmV2Yy15OTNT?oc=5",
+          "domain": "biotecnika.org",
+          "published_at": "2026-09-28T12:36:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apply clinical now research role trainee"
     },
     {
       "id": "b154d1018209a32143b0",
@@ -12655,10 +12679,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 89,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-10T12:17:00+05:30",
-  "next_update_display": "10 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-11T00:17:00+05:30",
+  "next_update_display": "11 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

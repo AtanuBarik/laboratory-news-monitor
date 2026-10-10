@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T13:12:21.203279+05:30",
-  "generated_at_display": "10 Oct 2026, 1:12 PM IST",
+  "generated_at": "2026-10-10T18:34:43.361903+05:30",
+  "generated_at_display": "10 Oct 2026, 6:34 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 268,
+  "remaining_unsummarized_count": 269,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -550,6 +550,25 @@
       ]
     },
     {
+      "id": "c2400a7ad09cecb58738",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Trainee Clinical Research Role at Labcorp | Apply Now",
+      "source": "BioTecNika",
+      "description": "Trainee Clinical Research Role at Labcorp | Apply Now BioTecNika",
+      "published_at": "2026-09-28T12:36:20+00:00",
+      "published_display": "28 Sep 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeWkwdkI2dnRZNFFlYnBSZFNUeC1SQkFVSWpPeG51Z3FYM2Z0Mk9aMTVuNktkLVhtRlp4dVA2c1h4U21iQ3FGc0NBLURCVFhURlNBN0JTZ3hIbTR1Sy1xS3d2NWhfV0tKR2tMcFFlQ1EwVDZmMXl6ZVNFS3E4MGfSAYQBQVVfeXFMT3BabmlPYzNZQWZZYkRhNGhmb1BSZG85NzhQeXF0S1ZoSEk0aVRiYXRiNXlkdnFneDIzbDZ0STJoRkJCRElRakcyeFdnRkE2NlRFc3dGOEM0X3RJTU0xcXloX1ZHRXpVNkpWZ1lLSkcwdXJrQWRTdmYxOU1mSmV2Yy15OTNT?oc=5",
+      "sources": [
+        {
+          "name": "BioTecNika",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeWkwdkI2dnRZNFFlYnBSZFNUeC1SQkFVSWpPeG51Z3FYM2Z0Mk9aMTVuNktkLVhtRlp4dVA2c1h4U21iQ3FGc0NBLURCVFhURlNBN0JTZ3hIbTR1Sy1xS3d2NWhfV0tKR2tMcFFlQ1EwVDZmMXl6ZVNFS3E4MGfSAYQBQVVfeXFMT3BabmlPYzNZQWZZYkRhNGhmb1BSZG85NzhQeXF0S1ZoSEk0aVRiYXRiNXlkdnFneDIzbDZ0STJoRkJCRElRakcyeFdnRkE2NlRFc3dGOEM0X3RJTU0xcXloX1ZHRXpVNkpWZ1lLSkcwdXJrQWRTdmYxOU1mSmV2Yy15OTNT?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0c434106aba31744f9c1",
       "company": "Quest Diagnostics",
       "category": "Clinical, R&D",
@@ -700,25 +719,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmhBUmRSTmJLOHp1MXJIVzNMZnRqUHM5RHpvb0YzWmxKcUVoQkIwaS0wbk1RbXVBVjNVaHprdVh3eGxOdERRR1RKcUd5aTFWUnVya1o4a2FPeXYyVHNURmI3UXJMMnd4bkJhMlZidHR1SU1yMmNjMXRpMGVMTE8xNHJJdTVTSEgwR1M4dkJZZ3J3UE5wTkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46ce4c1388bf82f42e3c",
-      "company": "Quest Diagnostics",
-      "category": "Clinical, R&D",
-      "title": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works",
-      "source": "macobserver.com",
-      "description": "Apple Health Labs: 50+ Biomarkers for $119 at Quest Diagnostics, How It Works The Mac Observer",
-      "published_at": "2026-09-09T07:00:00+00:00",
-      "published_display": "09 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5",
-      "sources": [
-        {
-          "name": "macobserver.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMjJKcUdvU0g2cVZDVE9jQl9hMWRHOFZ6RXhISkpJTXRmY2I2amxZME1JNlk2Q0I2WWZvSDBJVG85WktURXJ6QWVIbk5iRzgyU3hVVk9JeEcxSkdmY1VnWGVUV1ZVQmxSdlpIbUgzQk80VGhjY1pqYk04OEtQQ05tNFhJeTFPZ0M2N1g2TkxtUURya2lES01lY3VQS0NHZw?oc=5"
         }
       ]
     }
