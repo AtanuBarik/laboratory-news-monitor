@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 11 Oct 2026, 3:30 AM IST
+- **Repository generated:** 11 Oct 2026, 11:59 AM IST
 - **Distinct events in this file:** 163
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -40,7 +40,7 @@
 - **Sources:**
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMivwFBVV95cUxOMm9iZ1pXclBPMUpSNVZWVTZUM3dDWnlVSEEtaTREZEhmdThGMl8zT2g0V0RzdURPcVdUVExHbDRQVGFUWjBJX01fUmxyODNjaWdkWUFtLVpfZ1k2QUhHNWR2VGNlNTBaSmRuVHdXSHkteUo4cmJCZlpMMU1HSDJBZ3oxMGJGXzE4MS1oV09jbXNYNkRvVzNJcVdYOVNRQm5fTlhkWnMyWHFlaU4tSXBiU3hHS1E0OFZadjlVa2Vmcw?oc=5
 
-**Feed description:** Labcorp stock gained 1.28 percent before October 28 results AD HOC NEWS
+**Feed description:** Labcorp stock gained 1.28 percent before October 28 results ad-hoc-news.de
 
 ## 4. Labcorp web tracking class action settlement
 

@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-11T03:30:04.881918+05:30",
-  "generated_at_display": "11 Oct 2026, 3:30 AM IST",
-  "item_count": 376,
-  "raw_relevant_item_count": 564,
-  "duplicates_merged": 95,
+  "generated_at": "2026-10-11T11:59:55.176709+05:30",
+  "generated_at_display": "11 Oct 2026, 11:59 AM IST",
+  "item_count": 377,
+  "raw_relevant_item_count": 562,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "448c7f44599469e368f7",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Price Today: $230.97",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SS0ozNTh2NS0tRDlDZThsUk1aQW03Mk9NWHR0YjB1OHRlVWxoSTJBcTRKSDdNbFdRSVROak1fOWhDWDktaDEwOGpocFFWUlB3T1hEdG9BUUI?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Stock Price Today: $230.97 Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-10-10T22:50:29+00:00",
+      "published_display": "10 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SS0ozNTh2NS0tRDlDZThsUk1aQW03Mk9NWHR0YjB1OHRlVWxoSTJBcTRKSDdNbFdRSVROak1fOWhDWDktaDEwOGpocFFWUlB3T1hEdG9BUUI?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-10-10T22:50:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "230 price stock today"
+    },
     {
       "id": "f40e12bc9ae92e75a5fb",
       "company": "Quest Diagnostics",
@@ -437,7 +461,7 @@
       "company": "Labcorp",
       "title": "Labcorp stock gained 1.28 percent before October 28 results",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMm9iZ1pXclBPMUpSNVZWVTZUM3dDWnlVSEEtaTREZEhmdThGMl8zT2g0V0RzdURPcVdUVExHbDRQVGFUWjBJX01fUmxyODNjaWdkWUFtLVpfZ1k2QUhHNWR2VGNlNTBaSmRuVHdXSHkteUo4cmJCZlpMMU1HSDJBZ3oxMGJGXzE4MS1oV09jbXNYNkRvVzNJcVdYOVNRQm5fTlhkWnMyWHFlaU4tSXBiU3hHS1E0OFZadjlVa2Vmcw?oc=5",
-      "description": "Labcorp stock gained 1.28 percent before October 28 results AD HOC NEWS",
+      "description": "Labcorp stock gained 1.28 percent before October 28 results ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -12679,10 +12703,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 87,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-11T06:17:00+05:30",
-  "next_update_display": "11 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-11T12:17:00+05:30",
+  "next_update_display": "11 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
