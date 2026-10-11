@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T11:59:55.176709+05:30",
-  "generated_at_display": "11 Oct 2026, 11:59 AM IST",
-  "item_count": 377,
-  "raw_relevant_item_count": 562,
-  "duplicates_merged": 96,
+  "generated_at": "2026-10-11T19:03:28.307076+05:30",
+  "generated_at_display": "11 Oct 2026, 7:03 PM IST",
+  "item_count": 380,
+  "raw_relevant_item_count": 561,
+  "duplicates_merged": 94,
   "failures": [],
   "items": [
     {
@@ -539,7 +539,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUN5WUVJOTh3MnEweUJGS0luMFYyakF3SG04cFlOTHRkaTI3N3U4UjBfZ2N4QVBlUkhSSDdHLUZ0cmVIclV0NE1NaVpBTFhWWDBIUEFNTHBEX2NmQ2ltejhuaHJDOG9vZzJXdjJaNjJhNHVBNEdxWElsSUFJSVR5VHEwcjNTeFJuOHJZUkpoazE1Ny15U3NnaWRITklnblhTc1pmZ1VDQnh6VmxVUnhPODRmczJyTjZmZXlPTzYyUXVyVnQzWklTOHdKbk1uUE9TRDVvSWd0bHl5bGJNUWFaX0FmVVhtQQ?oc=5",
-      "description": "Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 AD HOC NEWS",
+      "description": "Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -733,6 +733,30 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
+      "id": "69ed1c7f6992f12cfdb3",
+      "company": "Labcorp",
+      "title": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5",
+      "description": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected Hoodline",
+      "source": "Hoodline",
+      "source_url": "https://hoodline.com",
+      "source_domain": "hoodline.com",
+      "published_at": "2026-09-30T16:14:24+00:00",
+      "published_display": "30 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-09-30T16:14:24+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "347 affected breach data hawai residents settlement"
+    },
+    {
       "id": "d01b7ce2b879aa1bda5e",
       "company": "Quest Diagnostics",
       "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
@@ -829,9 +853,21 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzV0bUllYk1NTHVhLVA3bzhxTFdKcDBDVnRaV1lVNHdIbGtlWXBjZHBmWGNUUXhEX2xBX0FDN01YT1kycEtsUE1TdjFyTXVyenQ5eDRfd1J3T0NudmdUeXJHeUI0dXpLNm9uTXZqbDM5U253Vl9pMXFKaDV6VnNVeldFaVRlSHlicWNxWkhzOU11TmFaZ1RaSXhJYnZCOFlzb1hzVzdnMDFZYzdlWjB6elNLM2lPUGhMcExCRXJXdlBZZWU3UE9j?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-09-30T12:31:13+00:00"
+        },
+        {
+          "name": "AOL.ca",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXQ1Y0xQdWF0MzlrZGxMTjNneGZNWjhUZnJWNjUwSF9adW50NHlGOHlaSFlMZXFibk9aR2k5S2otUHRYNFVLSmhhSFpTSEY3X3RhNjFtV1czUC12cjVVbVRMRUd5Nm9vWEEzZmYyT3pZOUtlcGwwaG5oLWItWXNnU194ZlQ?oc=5",
+          "domain": "aol.ca",
+          "published_at": "2026-09-30T12:30:23+00:00"
+        },
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFJvN1JSQm9zaWNTM1E2S3hqQ3JpM0lJeFY3c2pHZTFYQzF5QmM0VmctbUx2U0o3SkRlbkJGaHRkT2NwczR1dkVYcm15U0hFc2xZV1hVdVN2RVRWdnFVR3FxdEdLZ2p0SXdlWFlJY2ljREMzVXVIZ0ZzbDZDUXlCNjFlcmk4ZXpva09VejYxUE1fclIxYVdDT3FQeVZ4QmhiUV9yMEFYTGFKdw?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-09-30T13:04:02+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 12,
       "event_signature": "2026 earnings oct release"
     },
     {
@@ -881,30 +917,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "breakdown han revenue sab"
-    },
-    {
-      "id": "b7a70c830d22d6981dbf",
-      "company": "Quest Diagnostics",
-      "title": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
-      "description": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-09-29T16:51:09+00:00",
-      "published_display": "29 Sep 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-09-29T16:51:09+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "dkd enables gains kidneyintelx margin national partnership reach renx"
     },
     {
       "id": "3849294c79045aab93dd",
@@ -985,6 +997,30 @@
       "event_signature": "add portfolio right stock this time your"
     },
     {
+      "id": "b7a70c830d22d6981dbf",
+      "company": "Quest Diagnostics",
+      "title": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
+      "description": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "published_display": "29 Sep 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-09-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "dkd enables gains kidneyintelx margin national partnership reach renx"
+    },
+    {
       "id": "c2400a7ad09cecb58738",
       "company": "Labcorp",
       "title": "Trainee Clinical Research Role at Labcorp | Apply Now",
@@ -1007,6 +1043,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "apply clinical now research role trainee"
+    },
+    {
+      "id": "76e94a5d917f78324aa2",
+      "company": "Labcorp",
+      "title": "Labcorp stock reports 2026 growth targets amid reimbursement risk",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTcxbEJYYXkxdWxFOEJYS3BNb3FYcFllX3Z3REtfUjVVM3ZYemphVF9zYUJONTNKNkhtRmR3dW14SVExUlYwczVJbVJSTXEtb0tydXM0LVJQZTM1U28wcVZTSWhBUTBIaXZ1VE1neU5aNlFEUkJCc3hPbzBnZDhuSW5sQTJ3OGpSZy1jT2tSX19HSzhpZXlaQVVTWURVRDdRenNYTnl1bkgtT3d3eW5PcFlsc3A4bmwwNDNvV2pKdzlBeGNxRmEw?oc=5",
+      "description": "Labcorp stock reports 2026 growth targets amid reimbursement risk ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-28T11:23:47+00:00",
+      "published_display": "28 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZTcxbEJYYXkxdWxFOEJYS3BNb3FYcFllX3Z3REtfUjVVM3ZYemphVF9zYUJONTNKNkhtRmR3dW14SVExUlYwczVJbVJSTXEtb0tydXM0LVJQZTM1U28wcVZTSWhBUTBIaXZ1VE1neU5aNlFEUkJCc3hPbzBnZDhuSW5sQTJ3OGpSZy1jT2tSX19HSzhpZXlaQVVTWURVRDdRenNYTnl1bkgtT3d3eW5PcFlsc3A4bmwwNDNvV2pKdzlBeGNxRmEw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-28T11:23:47+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 amid growth reimbursement risk stock targets"
     },
     {
       "id": "b154d1018209a32143b0",
@@ -2429,6 +2489,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "alibaba biggest gamestop holding making more moves premarket stocks"
+    },
+    {
+      "id": "b8c337813587e094cd27",
+      "company": "Labcorp",
+      "title": "Labcorp Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0xjemFITkZPOWx4MnBaRzIwdW5QTFBTb3RZUjZJeWZRQ1VZdW9MRWxPUmhjRy1QQTlOanpUS1lNUDRoS21mV2JWZGZDVTVWOFJ3YUU3eEtuQTlrLUVfcFY1NWJzTjhzeHNVLTJqdDgxWmhsd2I5ak83UUdmUFhManJqdlIwNHl3dGx1WmpfaTNTMk53MmFwbWItUXpkdUVoREFsMG1nUQ?oc=5",
+      "description": "LH Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend https://www.dars.gov.et/",
+      "source": "https://www.dars.gov.et/",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://www.dars.gov.et/",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0xjemFITkZPOWx4MnBaRzIwdW5QTFBTb3RZUjZJeWZRQ1VZdW9MRWxPUmhjRy1QQTlOanpUS1lNUDRoS21mV2JWZGZDVTVWOFJ3YUU3eEtuQTlrLUVfcFY1NWJzTjhzeHNVLTJqdDgxWmhsd2I5ak83UUdmUFhManJqdlIwNHl3dGx1WmpfaTNTMk53MmFwbWItUXpkdUVoREFsMG1nUQ?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-09-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beat decline earnings eps estimate overshadowed revenue share trend"
     },
     {
       "id": "7b39da611e35474f17ea",
@@ -12703,10 +12787,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-11T12:17:00+05:30",
-  "next_update_display": "11 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-12T00:17:00+05:30",
+  "next_update_display": "12 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 11 Oct 2026, 11:59 AM IST
+- **Repository generated:** 11 Oct 2026, 7:03 PM IST
 - **Distinct events in this file:** 179
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -207,7 +207,7 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMUN5WUVJOTh3MnEweUJGS0luMFYyakF3SG04cFlOTHRkaTI3N3U4UjBfZ2N4QVBlUkhSSDdHLUZ0cmVIclV0NE1NaVpBTFhWWDBIUEFNTHBEX2NmQ2ltejhuaHJDOG9vZzJXdjJaNjJhNHVBNEdxWElsSUFJSVR5VHEwcjNTeFJuOHJZUkpoazE1Ny15U3NnaWRITklnblhTc1pmZ1VDQnh6VmxVUnhPODRmczJyTjZmZXlPTzYyUXVyVnQzWklTOHdKbk1uUE9TRDVvSWd0bHl5bGJNUWFaX0FmVVhtQQ?oc=5
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMirAFBVV95cUxQUWsycWNmNG5ibGYtNmFJU1lCMWotRW1Xbk4zM0JqeHlNZzB6NXluRENUZk5iY3NDdm5jRDE3aEN4LTRTV1NpbkF0elFUYy1mMmhMR3pXbmQ3LXgzdFZacFR3S1Z2TUFudlpqdi1HZWZFaTJpSDR2NXRTQ183alJuTGl3emJvaUlfUVJVXzhXRDN1OFVhZk1QOE9sUzYtd1VjZnlGbWkwWFZBWGVm?oc=5
 
-**Feed description:** Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 AD HOC NEWS
+**Feed description:** Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 ad-hoc-news.de
 
 ## 17. Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection
 
@@ -281,19 +281,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
-## 23. RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 29 Sep 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5
-
-**Feed description:** RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView
-
-## 24. Quest Diagnostics stock heads toward October 22 results
+## 23. Quest Diagnostics stock heads toward October 22 results
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Sep 2026
@@ -304,6 +292,18 @@
   - AD HOC NEWS: https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3BsRW54Y3VWUHdtRzFpeHpnU0RBNTJRM3RCYW5MODN5eTkyTThERGtteDNDX1lKajhZTGx4S0xwMkR0SGFEcHNReC1DMGU0R01MMzdsd2NPREE2bkFkNEs2eWRrWjFSTE1qdGRES2s4RTdzcDA3dWpYN0pHd2hUUWlHOWc1X1hKUGdlcXVSX3ZuSnZPc3ZzVWVMdDBuS2dUSGYtNWQzc0Y5Y04zUlhnVG5lVWs1ckotSWc?oc=5
 
 **Feed description:** Quest Diagnostics stock heads toward October 22 results ad-hoc-news.de
+
+## 24. RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 29 Sep 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5
+
+**Feed description:** RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView
 
 ## 25. Quest Diagnostics stock draws a USD 260.00 target after earnings
 

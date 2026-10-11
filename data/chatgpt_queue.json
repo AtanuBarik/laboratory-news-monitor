@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T13:17:08.355311+05:30",
-  "generated_at_display": "11 Oct 2026, 1:17 PM IST",
+  "generated_at": "2026-10-11T19:03:32.295051+05:30",
+  "generated_at_display": "11 Oct 2026, 7:03 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 270,
+  "remaining_unsummarized_count": 273,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -15,7 +15,7 @@
       "title": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd",
       "source": "TradingView",
       "description": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView",
-      "published_at": "2026-09-29T16:51:09+00:00",
+      "published_at": "2026-09-29T07:00:00+00:00",
       "published_display": "29 Sep 2026",
       "official_source": false,
       "coverage_count": 1,
