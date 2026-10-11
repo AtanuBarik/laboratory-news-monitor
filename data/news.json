@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-11T19:03:28.307076+05:30",
-  "generated_at_display": "11 Oct 2026, 7:03 PM IST",
+  "generated_at": "2026-10-12T03:59:17.211244+05:30",
+  "generated_at_display": "12 Oct 2026, 3:59 AM IST",
   "item_count": 380,
-  "raw_relevant_item_count": 561,
-  "duplicates_merged": 94,
+  "raw_relevant_item_count": 562,
+  "duplicates_merged": 95,
   "failures": [],
   "items": [
     {
@@ -1819,9 +1819,15 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdWNVMGlWOGR0WUViOFVkb0EzX0RGbFdqcHM5UzdRVmFlOVo4TUR1VklBR1d3bUs2M1ZocGlkbTU2TXBKX0I1ZlRzYTRuR1NsM3FTbW1ISldjRm85cFZwVE1JdzRYUFBqM2lPX2tBUnNWLUdqd216dS1RX2RLaWJzaThCa3Z1eVByc0dsQkUtX1dGTmVCZW5vVXBCVklnVnZMb1VHX3lsTWlJbjUyNkw0VWJCSVo4LVgwSHpWZmo1cXBOQ0hJTGQtTE1mUGpJVWM?oc=5",
           "domain": "ruralradio.com",
           "published_at": "2026-09-28T19:43:50+00:00"
+        },
+        {
+          "name": "Rural Radio Network",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSGhLXzhhZExqQThQMVhVSzBxS3liU3RvQmZ5YkFIcVNFWElaZHhXUmx1S3h6RkhJNU1GLU5nTlgyV1NWMmItTFFvWnN5SWVXV2dBRkVoR3FmQUpaeUFlVjJGWF9ZcXM4ZDFueVNYYUtwTVRjNDBmamRpTDZwTS1TdDhwbVJpM2pyZDhSdkZfbFBQLXlFWVFNaWwwNkk2RDhYR3pEMWdlMHE4RlM4Q2NTS1dSUGRkOUN5eWM3UDROOW12UlpRb2pPQlRyc3NQdzhZV2ZF?oc=5",
+          "domain": "ruralradio.com",
+          "published_at": "2026-09-28T19:39:15+00:00"
         }
       ],
-      "coverage_count": 16,
+      "coverage_count": 17,
       "event_signature": "agency american attorney breach collection data general hilgers medical mike multistate over settlement"
     },
     {
@@ -12787,10 +12793,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 84,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-12T00:17:00+05:30",
-  "next_update_display": "12 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-12T06:17:00+05:30",
+  "next_update_display": "12 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
