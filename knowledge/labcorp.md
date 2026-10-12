@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 12 Oct 2026, 12:05 PM IST
+- **Repository generated:** 12 Oct 2026, 9:39 PM IST
 - **Distinct events in this file:** 166
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -83,7 +83,7 @@
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
 - **Category:** Financials
-- **Coverage count:** 12
+- **Coverage count:** 13
 - **Official source involved:** No
 - **Sources:**
   - Pluang: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUkVvYzF1UEtOc1BmZTQ3NllPRlIzQVp0T1l5bXNNcWFLdkZxNlZHdlBveDBCOS1aQ3VNdU5QeGpnbzlZWm1fV093OVdya0MzcTIyMmNKcnJjLUNUTS1kUjAyQ0ZFWmVFT0U0QkhxaGJpdEtYN3lWZFBlNlZZbGxqY01HZw?oc=5
@@ -98,6 +98,7 @@
   - www.marketscreener.com: https://news.google.com/rss/articles/CBMixwFBVV95cUxOXzV0bUllYk1NTHVhLVA3bzhxTFdKcDBDVnRaV1lVNHdIbGtlWXBjZHBmWGNUUXhEX2xBX0FDN01YT1kycEtsUE1TdjFyTXVyenQ5eDRfd1J3T0NudmdUeXJHeUI0dXpLNm9uTXZqbDM5U253Vl9pMXFKaDV6VnNVeldFaVRlSHlicWNxWkhzOU11TmFaZ1RaSXhJYnZCOFlzb1hzVzdnMDFZYzdlWjB6elNLM2lPUGhMcExCRXJXdlBZZWU3UE9j?oc=5
   - AOL.ca: https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXQ1Y0xQdWF0MzlrZGxMTjNneGZNWjhUZnJWNjUwSF9adW50NHlGOHlaSFlMZXFibk9aR2k5S2otUHRYNFVLSmhhSFpTSEY3X3RhNjFtV1czUC12cjVVbVRMRUd5Nm9vWEEzZmYyT3pZOUtlcGwwaG5oLWItWXNnU194ZlQ?oc=5
   - TipRanks: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMFJvN1JSQm9zaWNTM1E2S3hqQ3JpM0lJeFY3c2pHZTFYQzF5QmM0VmctbUx2U0o3SkRlbkJGaHRkT2NwczR1dkVYcm15U0hFc2xZV1hVdVN2RVRWdnFVR3FxdEdLZ2p0SXdlWFlJY2ljREMzVXVIZ0ZzbDZDUXlCNjFlcmk4ZXpva09VejYxUE1fclIxYVdDT3FQeVZ4QmhiUV9yMEFYTGFKdw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGNEWFJweWFKSTBySUpocVhnWFBCSGU5UXI1Tk1MbG1icjZnVnB2cDBwYm9FeWVWLTNSWjRqSllXREdjOG5kRVpaUGJsY3ZzQmNvaTAtdWx3N3Y0b0Z1S1ZKWmphTURnbW5kYjZ3enlIZDdXblNkYlJPR2dFdXVSTWUxcVYxTzhTcHhSYXpvMGtuemxfWG1ReUVzdFg?oc=5
 
 **Feed description:** Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026 www.marketscreener.com
 
