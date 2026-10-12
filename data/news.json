@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-12T03:59:17.211244+05:30",
-  "generated_at_display": "12 Oct 2026, 3:59 AM IST",
-  "item_count": 380,
-  "raw_relevant_item_count": 562,
-  "duplicates_merged": 95,
+  "generated_at": "2026-10-12T12:05:09.528664+05:30",
+  "generated_at_display": "12 Oct 2026, 12:05 PM IST",
+  "item_count": 381,
+  "raw_relevant_item_count": 560,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "a53b3287e0cebdae2ba5",
+      "company": "Sonic Healthcare",
+      "title": "Are Sonic Healthcare Shares Testing a Yearly Low?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2FuRGlHM0l2Mm0zSGFlV3UyWFZScWpmNy10ZjFDR2pMWlR0VkdzQ1BLZTRjVDNrV0VlRy1jSnUyRFNTbkpTeENnTENxa1V5eUIzd2NmZUk0SklvWWVhbVNYRV9rT0RNam9aRG9KeERVYnRMajZQVUN4d0JEekY2eEl4eXZnaXpiOFZUUGlpWGs3ZWtPRjNpWUV5ZHJDUQ?oc=5",
+      "description": "Are Sonic Healthcare (ASX:SHL) Shares Testing a Yearly Low? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-10-12T05:24:00+00:00",
+      "published_display": "12 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2FuRGlHM0l2Mm0zSGFlV3UyWFZScWpmNy10ZjFDR2pMWlR0VkdzQ1BLZTRjVDNrV0VlRy1jSnUyRFNTbkpTeENnTENxa1V5eUIzd2NmZUk0SklvWWVhbVNYRV9rT0RNam9aRG9KeERVYnRMajZQVUN4d0JEekY2eEl4eXZnaXpiOFZUUGlpWGs3ZWtPRjNpWUV5ZHJDUQ?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-10-12T05:24:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "are low shares testing yearly"
+    },
     {
       "id": "448c7f44599469e368f7",
       "company": "Quest Diagnostics",
@@ -83,7 +107,7 @@
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS3BfbDhHcUlhSXBLT0lzTWxzYVdPYVA5OTlYcjAyLVgteTJPeGR6bEs1SXQ0TFlSN0dlMml2WDd1RmtybWNHb09XWTVvX3ZNTVpZbUlSVXlxYlVCX18xWUl4NFVVME4xMUJzZkk5X19Hb1RSZG14eDBxcDY4ck83V2RpbE5ueHB4Z2hYMU1HZkV4MU9fcm9pLUM2cmVRTlJsbzJEZ2tQZ3hwbTVobWFvYmRMcUVzZkR4SmkzSVNDY2gwU2IwbWNwM2ZKZw?oc=5",
-      "description": "Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test AD HOC NEWS",
+      "description": "Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -733,30 +757,6 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "69ed1c7f6992f12cfdb3",
-      "company": "Labcorp",
-      "title": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5",
-      "description": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected Hoodline",
-      "source": "Hoodline",
-      "source_url": "https://hoodline.com",
-      "source_domain": "hoodline.com",
-      "published_at": "2026-09-30T16:14:24+00:00",
-      "published_display": "30 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5",
-          "domain": "hoodline.com",
-          "published_at": "2026-09-30T16:14:24+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "347 affected breach data hawai residents settlement"
-    },
-    {
       "id": "d01b7ce2b879aa1bda5e",
       "company": "Quest Diagnostics",
       "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
@@ -779,6 +779,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "athletes becomes ecgs first florida heart high launch myelai play program require school screening state tampa who"
+    },
+    {
+      "id": "69ed1c7f6992f12cfdb3",
+      "company": "Labcorp",
+      "title": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5",
+      "description": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected Hoodline",
+      "source": "Hoodline",
+      "source_url": "https://hoodline.com",
+      "source_domain": "hoodline.com",
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "published_display": "30 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-09-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "347 affected breach data hawai residents settlement"
     },
     {
       "id": "13708c39e138ffb240fe",
@@ -12793,10 +12817,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 80,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-12T06:17:00+05:30",
-  "next_update_display": "12 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-12T12:17:00+05:30",
+  "next_update_display": "12 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
