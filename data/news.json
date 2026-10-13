@@ -1,11 +1,95 @@
 {
-  "generated_at": "2026-10-13T06:29:01.389828+05:30",
-  "generated_at_display": "13 Oct 2026, 6:29 AM IST",
-  "item_count": 382,
-  "raw_relevant_item_count": 558,
-  "duplicates_merged": 94,
+  "generated_at": "2026-10-13T20:06:02.335255+05:30",
+  "generated_at_display": "13 Oct 2026, 8:06 PM IST",
+  "item_count": 386,
+  "raw_relevant_item_count": 559,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "8c14966b01d869b95812",
+      "company": "Labcorp",
+      "title": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
+      "description": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-10-13T14:07:53+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-13T14:07:53+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cardiometabolic consumer direct global launch test thrive"
+    },
+    {
+      "id": "707322bb72df12afdbf0",
+      "company": "Labcorp",
+      "title": "Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5",
+      "description": "Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-10-13T12:00:00+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-13T12:00:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMElHcVhTUDh1Z2N2OXNQdENfdmtlVVpBX3N5MDJTajZiZTluaU5uaDNPMWtVMWlLYjNoN3N3MmtTUXNTaFkzYjVleGVlN0xTUDRsbUVSTmdEU3hTLWI1LUpSdUlhTVZSdUdGaGM0a3cxZ1U3aEtQQy1OYXVWdkxJRU0zTXVydkFzQ2p4YWFKemxMVjFRWDFEY2w0bkc5dEdZeUNQNDBkbDAwYWhHOWdldFFzVnR5UnVTYTRxRmhGMWtobFRwdnNjcUxaUGZlQW1iSUszN1B1c1RMWkdFT0JYY2FwVnA?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-13T12:00:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-13T13:00:16+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "arianna collaborate global health huffington launch test thrive"
+    },
+    {
+      "id": "3537ca9b6ef4ef30456b",
+      "company": "Labcorp",
+      "title": "Latest Life Science Job at Labcorp | Apply Online Here",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5",
+      "description": "Latest Life Science Job at Labcorp | Apply Online Here BioTecNika",
+      "source": "BioTecNika",
+      "source_url": "https://www.biotecnika.org",
+      "source_domain": "biotecnika.org",
+      "published_at": "2026-10-13T10:58:21+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioTecNika",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5",
+          "domain": "biotecnika.org",
+          "published_at": "2026-10-13T10:58:21+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apply here job life online science"
+    },
     {
       "id": "d8272f1a12c038823c01",
       "company": "Labcorp",
@@ -25,10 +109,46 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzhMOEFUS0k5RkxyZWZnYU9RUG53ckZOVTZtM01ORzZMQ0xWaDRiNkRPeGtqeWRyS3l4Y0Q5UndmR1plUGNoUEt5Wl9IcC0zVnlnV1lEcTJFZ2N5cVdtbmN4X25GY0xpcFRxQXpuTGt4X1ZIXzFxX29NdGYwYmtfVkJPazVlMW9TRmtuQlJKR25FWk1LTWNGSDlKRHBvZ3NpMGo1dDVYQVkyYS1zelFDNFkyVdIBuwFBVV95cUxQRTJFN2h3T2hRT2duTWUzdWN2emhSdFhiaWF6Nk91c0xMYzFvNl84Z3FOSXo1b0dGY1JDeWstMTJFM1Rwa2E1WnFGUEdDelR2TllQRFJTZk5aRnBUSFh1aXllWVJmcFNFWWZZWGhzODNRRXhMZ3ZTWDZGd3p0WEtMaUJEbXl3SUtadVBVNVU3ejd6ZEV2NUFBN3ZqbVVYN2RFMVljYW1SRldiV19WbmwwakkwYWpubWZQZ0dZ?oc=5",
           "domain": "insidermonkey.com",
           "published_at": "2026-10-12T18:08:18+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS19NWVdqaW94d01wLXRqeFRTcEdQUjQ4a19jZWgwVFVmbVQtaGduSS12NF95cmIyWlpaM2JyQ0xyWk5JaTRaLXFreWwwOGJYdDAxRzFjYXF2cVJYNHZEeDJkS3FsU3RvSVJHQ1pOS3NKRnMwdEU3MjI2cnMyUE0xR2dnNzZSVUp6dUNCRFY1N3dLUnllQlF2eFlEbw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-12T18:08:18+00:00"
+        },
+        {
+          "name": "Insider Monkey",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRTJFN2h3T2hRT2duTWUzdWN2emhSdFhiaWF6Nk91c0xMYzFvNl84Z3FOSXo1b0dGY1JDeWstMTJFM1Rwa2E1WnFGUEdDelR2TllQRFJTZk5aRnBUSFh1aXllWVJmcFNFWWZZWGhzODNRRXhMZ3ZTWDZGd3p0WEtMaUJEbXl3SUtadVBVNVU3ejd6ZEV2NUFBN3ZqbVVYN2RFMVljYW1SRldiV19WbmwwakkwYWpubWZQZ0dZ0gG7AUFVX3lxTFBFMkU3aHdPaFFPZ25NZTN1Y3Z6aFJ0WGJpYXo2T3VzTExjMW82XzhncU5JejVvR0ZjUkN5ay0xMkUzVHBrYTVacUZQR0N6VHZOWVBEUlNmTlpGcFRIWHVpeWVZUmZwU0VZZllYaHM4M1FFeExndlNYNkZ3enRYS0xpQkRteXdJS1p1UFU1VTd6N3pkRXY1QUE3dmptVVg3ZEUxWWNhbVJGV2JXX1ZubDBqSTBham5tZlBnR1k?oc=5",
+          "domain": "insidermonkey.com",
+          "published_at": "2026-10-12T18:08:18+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "bill discount earnings growing investment worth"
+    },
+    {
+      "id": "57ded22a7b767d8330ec",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q1 2026 Earnings Call Transcript",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5",
+      "description": "Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune",
+      "source": "Fortune",
+      "source_url": "https://fortune.com",
+      "source_domain": "fortune.com",
+      "published_at": "2026-10-12T06:36:22+00:00",
+      "published_display": "12 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtY0xONVUzaVlVd3A0aU8wRjRoUVVKNldtT0ZpOGZDVDhWYmlseHBTeE9lM3pBM1pzSGxpYXU2QklPQzZ3T0lzMS1oYjVfNmxtR2I4NmxHdnRBVzFBWTFRcVAzYlByQTVIaFd3VFVKZXg?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-10-12T06:36:22+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "bill discount earnings growing investment worth"
+      "event_signature": "2026 call earnings transcript"
     },
     {
       "id": "a53b3287e0cebdae2ba5",
@@ -125,6 +245,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "dividend income investors pick quality"
+    },
+    {
+      "id": "6fea15ed99938273e7ba",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5",
+      "description": "Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-09T01:35:00+00:00",
+      "published_display": "09 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-09T01:35:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after ahead drop edges lower open percent stock"
     },
     {
       "id": "2ab99df55a3483233024",
@@ -637,30 +781,6 @@
       "event_signature": "diagnostic facility open southaven"
     },
     {
-      "id": "1e0ab8ea2953ebdbeed6",
-      "company": "Labcorp",
-      "title": "Labcorp web tracking class action settlement",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
-      "description": "Labcorp web tracking class action settlement topclassactions.com",
-      "source": "Top Class Actions",
-      "source_url": "https://topclassactions.com",
-      "source_domain": "topclassactions.com",
-      "published_at": "2026-10-01T18:03:35+00:00",
-      "published_display": "01 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Top Class Actions",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
-          "domain": "topclassactions.com",
-          "published_at": "2026-10-01T18:03:35+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "action class settlement tracking web"
-    },
-    {
       "id": "640d7786d2461333b199",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection",
@@ -731,6 +851,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 call earnings transcript"
+    },
+    {
+      "id": "1e0ab8ea2953ebdbeed6",
+      "company": "Labcorp",
+      "title": "Labcorp web tracking class action settlement",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
+      "description": "Labcorp web tracking class action settlement topclassactions.com",
+      "source": "Top Class Actions",
+      "source_url": "https://topclassactions.com",
+      "source_domain": "topclassactions.com",
+      "published_at": "2026-10-01T07:00:00+00:00",
+      "published_display": "01 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Top Class Actions",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQajV1b0VGUU15eURySHJ0SmRKQVUzeDc3aWhKeXNoZGZQZ1NPakczQWE1NkpndURGUF81T0NPemY1eHdxYUdfN1N3V3RZNmpHcmNPM2pRMFctME5JejZVM0N0TDYwWEt3a2hUcHllbFNaWU83OUFtWm01ZmRvNjdVVk5ZaVBmcl9zYWhodXcyTElVTU9EVlhNRU8yWlpsNFEybmpSQXlxMTRnRkFQWHdnbGhNdm83MVZKcXc?oc=5",
+          "domain": "topclassactions.com",
+          "published_at": "2026-10-01T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action class settlement tracking web"
     },
     {
       "id": "9356beaf26d4d34f2ccf",
@@ -12653,35 +12797,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "day down has losing stock streak"
-    },
-    {
-      "id": "4e687fe336b544e8d5f8",
-      "company": "Labcorp",
-      "title": "Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUROWTlMTlBlekN6VVI3N2Q4eFdYcXdldFJmQjloVWlMVXZhREhJdDVSdTlxOENmWW5tdG9jcjdqaEJsRUhBUERzc3V6QUFlRWFVc095WFM2STNFR3NHaEpzVFJLWVZMRkNuOUFjdm5aZ0lOenZrcmtpQ1I2R2xDalVjb0VaTFRPcURTdV9MVlFQelhRZFhVVldOaDFRRkE?oc=5",
-      "description": "Cell-Based Assay Services for Preclinical Use Only Global Market Report 2026 Released — Profiles Charles River, Labcorp, Eurofins and Evotec finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-15T07:00:00+00:00",
-      "published_display": "15 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUROWTlMTlBlekN6VVI3N2Q4eFdYcXdldFJmQjloVWlMVXZhREhJdDVSdTlxOENmWW5tdG9jcjdqaEJsRUhBUERzc3V6QUFlRWFVc095WFM2STNFR3NHaEpzVFJLWVZMRkNuOUFjdm5aZ0lOenZrcmtpQ1I2R2xDalVjb0VaTFRPcURTdV9MVlFQelhRZFhVVldOaDFRRkE?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-15T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 assay based cell charles eurofins evotec global market only preclinical profiles released report river services use"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-13T12:17:00+05:30",
-  "next_update_display": "13 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-14T00:17:00+05:30",
+  "next_update_display": "14 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
