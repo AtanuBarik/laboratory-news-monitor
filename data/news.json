@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-13T20:06:02.335255+05:30",
-  "generated_at_display": "13 Oct 2026, 8:06 PM IST",
-  "item_count": 386,
-  "raw_relevant_item_count": 559,
+  "generated_at": "2026-10-14T04:37:42.932541+05:30",
+  "generated_at_display": "14 Oct 2026, 4:37 AM IST",
+  "item_count": 387,
+  "raw_relevant_item_count": 561,
   "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "558c1f44f46297eecf92",
+      "company": "Labcorp",
+      "title": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
+      "description": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily",
+      "source": "Oncodaily",
+      "source_url": "https://oncodaily.com",
+      "source_domain": "oncodaily.com",
+      "published_at": "2026-10-13T14:41:29+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
+          "domain": "oncodaily.com",
+          "published_at": "2026-10-13T14:41:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cancer endometrial introduces mutation oncology pole previs rebecca standalone testing"
+    },
     {
       "id": "8c14966b01d869b95812",
       "company": "Labcorp",
@@ -12799,10 +12823,10 @@
       "event_signature": "day down has losing stock streak"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 76,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-14T00:17:00+05:30",
-  "next_update_display": "14 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-14T06:17:00+05:30",
+  "next_update_display": "14 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

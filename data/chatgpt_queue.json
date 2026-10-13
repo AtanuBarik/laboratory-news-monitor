@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T01:26:29.583884+05:30",
-  "generated_at_display": "14 Oct 2026, 1:26 AM IST",
+  "generated_at": "2026-10-14T04:37:46.718878+05:30",
+  "generated_at_display": "14 Oct 2026, 4:37 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 280,
+  "remaining_unsummarized_count": 281,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -508,6 +508,25 @@
       ]
     },
     {
+      "id": "558c1f44f46297eecf92",
+      "company": "Labcorp",
+      "category": "Product & Services",
+      "title": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer",
+      "source": "Oncodaily",
+      "description": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily",
+      "published_at": "2026-10-13T14:41:29+00:00",
+      "published_display": "13 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8c14966b01d869b95812",
       "company": "Labcorp",
       "category": "Product & Services",
@@ -688,29 +707,6 @@
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHU5Y2VEZU5HSUQ3WW15bk9rT0xDWVg1VEVlX29KcGpSR2hWaVBMZEdlS0w3dGpSR2ZKd1UyY3BiLXVkY3Rla1ZZNnl3Q3dCT0ltZHZlSjBOR1ZVU1FwNTdBaTNDSDFGak0xQ1p3Nl9QUjBPTklxWUJEZFZWUVpGczB5YUtXNkUtVTVfQXR5N25HYXMwSTRZOHdyQW5jcjNNeWJ4c3g3amFFdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5ce025e75dac0ab4f0ef",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)",
-      "source": "Seeking Alpha",
-      "description": "Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha",
-      "published_at": "2026-09-21T07:00:00+00:00",
-      "published_display": "21 Sep 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5",
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5"
         }
       ]
     }
