@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-14T23:07:17.020743+05:30",
-  "generated_at_display": "14 Oct 2026, 11:07 PM IST",
-  "item_count": 388,
-  "raw_relevant_item_count": 557,
-  "duplicates_merged": 93,
+  "generated_at": "2026-10-15T03:27:02.735562+05:30",
+  "generated_at_display": "15 Oct 2026, 3:27 AM IST",
+  "item_count": 390,
+  "raw_relevant_item_count": 563,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "53e98588309ae640bc94",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblhBS1VESW52cXRkV2x3SUxvNjZHYTBVSm5zY255a1M1TkpPOGk2RGJWOHE3OGhfSTNkNjdpdlZwRzVOclZTcVZpbnpOcGU0a3ZHdmxDZVBTUl9RNXVhNjFsUUxGSFhLVHEwdUFwTEx3NUtFaHhtbzZ0eTc0ME0wQXB4SVNDNlRrQ1hsUk56Wi1PT0R4azZxSmZWMkFrbXktcmZGc2ZrbE9hOWFiMHhPeWluMUNscHVTd0ZOeXBtZmtRa0hVTWQtZlVBUFdrZ0g3eExmR0wtNWl1aDcwZFBWd2NWd3JyenZyWU41TjZTcDlacW9OdVZCdkRGU0JZY1lnc1F2alVtT18xQQ?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-10-14T20:59:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblhBS1VESW52cXRkV2x3SUxvNjZHYTBVSm5zY255a1M1TkpPOGk2RGJWOHE3OGhfSTNkNjdpdlZwRzVOclZTcVZpbnpOcGU0a3ZHdmxDZVBTUl9RNXVhNjFsUUxGSFhLVHEwdUFwTEx3NUtFaHhtbzZ0eTc0ME0wQXB4SVNDNlRrQ1hsUk56Wi1PT0R4azZxSmZWMkFrbXktcmZGc2ZrbE9hOWFiMHhPeWluMUNscHVTd0ZOeXBtZmtRa0hVTWQtZlVBUFdrZ0g3eExmR0wtNWl1aDcwZFBWd2NWd3JyenZyWU41TjZTcDlacW9OdVZCdkRGU0JZY1lnc1F2alVtT18xQQ?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-14T20:59:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared competitors daily despite gains stock underperforms wednesday when"
+    },
     {
       "id": "1960de34e102e81b6005",
       "company": "Mayo Clinic Laboratories",
@@ -79,9 +103,15 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
           "domain": "zacks.com",
           "published_at": "2026-10-14T12:18:53+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5",
+          "domain": "es.tradingview.com",
+          "published_at": "2026-10-14T12:12:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "ahead earnings here how placed"
     },
     {
@@ -523,42 +553,6 @@
       "event_signature": "analysis ideas price stock trading"
     },
     {
-      "id": "b46a1b777004ddb42231",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics 's Dividend Analysis",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXpHZHJPeXFqSnFnS0FGT0VuZGQyRUpSbnFxSHpVQkpIbUE1dTlMR09JeXRVT0V3TUdseGxNUmZxUzBPdnd6OGtZLWg5eGl6S0hXd1pDMGNsamJQWi1uMnZicDFjdWY1eDBoMEYtWkdPeldBOUQ5MVFuUjBQeDlnYVlCZGpZcE1SSlBWMzl3R3pLWDFlSmJOMF9sQXNPUjVIdTVpOGZfOW8?oc=5",
-      "description": "Quest Diagnostics Inc's Dividend Analysis Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-06T11:01:11+00:00",
-      "published_display": "06 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXpHZHJPeXFqSnFnS0FGT0VuZGQyRUpSbnFxSHpVQkpIbUE1dTlMR09JeXRVT0V3TUdseGxNUmZxUzBPdnd6OGtZLWg5eGl6S0hXd1pDMGNsamJQWi1uMnZicDFjdWY1eDBoMEYtWkdPeldBOUQ5MVFuUjBQeDlnYVlCZGpZcE1SSlBWMzl3R3pLWDFlSmJOMF9sQXNPUjVIdTVpOGZfOW8?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-06T11:01:11+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWdmNHNCZXh0R1lDNmJxT0ljc0tXZTFISmtJUU5MUUVEekR2VXpyQ0dPTEw2dWdrb0NGc2dsV19KemNqOTJBaDN3Slo5S3BINnFsVk00czloa2VvbHV6MUtxSW1xX1E1SEdKaXdqdF9QdmdXeU04anhCSE5GYVhEMUFxalVqbkEtT1B2Mm5iNDdIQnZua0I2UXhDOURnM1h6dVRXcDRsTFRianQxR2pXS1NkUEFPTTdLT3VQMjdkOGJmRWZIc1RkUjNWWTZpZUY3Qlg2UTZiRVVGT1c4SXdrcXFaMGxsVXVfa0ZsYVdKZUNRZnhvemZnbVlFaTQzaUREY2FQa2pTMV9BNlhoZ3FKeXdxVQ?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-06T14:33:45+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVdKOFhCUTIybWV2OThnY0N5VnhjbUk4dXBNd0VfT3NlNkpQZ0N5Wmp3cGkzdXVJNUhwNm51ZG5pbHNIeDV4dlpDU3RVOXlSeEJDMmJHQ19ZaUVEeWFQYUpvVlpGMlFkS1hDeVI4Sl9GN1lvS3o0NnlOeFA4dlE2UVl4X0hIdw?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-07T08:00:11+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "analysis dividend"
-    },
-    {
       "id": "02380a37e12851afcb9f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Rides Steady Testing Demand",
@@ -605,6 +599,42 @@
       ],
       "coverage_count": 1,
       "event_signature": "206 costs eur haystack results stock"
+    },
+    {
+      "id": "b46a1b777004ddb42231",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics 's Dividend Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXpHZHJPeXFqSnFnS0FGT0VuZGQyRUpSbnFxSHpVQkpIbUE1dTlMR09JeXRVT0V3TUdseGxNUmZxUzBPdnd6OGtZLWg5eGl6S0hXd1pDMGNsamJQWi1uMnZicDFjdWY1eDBoMEYtWkdPeldBOUQ5MVFuUjBQeDlnYVlCZGpZcE1SSlBWMzl3R3pLWDFlSmJOMF9sQXNPUjVIdTVpOGZfOW8?oc=5",
+      "description": "Quest Diagnostics Inc's Dividend Analysis Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "published_display": "06 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXpHZHJPeXFqSnFnS0FGT0VuZGQyRUpSbnFxSHpVQkpIbUE1dTlMR09JeXRVT0V3TUdseGxNUmZxUzBPdnd6OGtZLWg5eGl6S0hXd1pDMGNsamJQWi1uMnZicDFjdWY1eDBoMEYtWkdPeldBOUQ5MVFuUjBQeDlnYVlCZGpZcE1SSlBWMzl3R3pLWDFlSmJOMF9sQXNPUjVIdTVpOGZfOW8?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-06T07:00:00+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOeWdmNHNCZXh0R1lDNmJxT0ljc0tXZTFISmtJUU5MUUVEekR2VXpyQ0dPTEw2dWdrb0NGc2dsV19KemNqOTJBaDN3Slo5S3BINnFsVk00czloa2VvbHV6MUtxSW1xX1E1SEdKaXdqdF9QdmdXeU04anhCSE5GYVhEMUFxalVqbkEtT1B2Mm5iNDdIQnZua0I2UXhDOURnM1h6dVRXcDRsTFRianQxR2pXS1NkUEFPTTdLT3VQMjdkOGJmRWZIc1RkUjNWWTZpZUY3Qlg2UTZiRVVGT1c4SXdrcXFaMGxsVXVfa0ZsYVdKZUNRZnhvemZnbVlFaTQzaUREY2FQa2pTMV9BNlhoZ3FKeXdxVQ?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-06T14:33:45+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYVdKOFhCUTIybWV2OThnY0N5VnhjbUk4dXBNd0VfT3NlNkpQZ0N5Wmp3cGkzdXVJNUhwNm51ZG5pbHNIeDV4dlpDU3RVOXlSeEJDMmJHQ19ZaUVEeWFQYUpvVlpGMlFkS1hDeVI4Sl9GN1lvS3o0NnlOeFA4dlE2UVl4X0hIdw?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-07T08:00:11+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "analysis dividend"
     },
     {
       "id": "2ebca386c94d7bd0bb72",
@@ -2363,6 +2393,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "breach data reached settlement"
+    },
+    {
+      "id": "ec46cf2e5be0c0cb007a",
+      "company": "Labcorp",
+      "title": "Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFsQ2dVQnVrRDkyMXNveW93LWc1bjdiLWJOc21ObjFGVTZYZXR0ZGxyX0FLM1VEZXFQck5IVk1EekRuRHlEZWs0T1VZemlCRHhQNTZvRFFkUGt4NGZxa0pBdU1wa3lUYmlCQUcweFVPMmVLMGVwY0FjOG5acWNkZGdlZkY2U0ZaVjdJR2dRNTluOHR5SHNVampuTElwTFhtU05xdE4zbDZwNWZPajlpUGFXUWotUTBQb1N3dUVKQ0FCdjRqX1Z4MVREOW1jbHJpRFZOLUxsS05odFpYeG5Lam9ZOTBzdlhZbTR2b2lvc0RIY1piYjNPbkZBMDZrWGNVVFVRZldOTlE5RXlaSXc?oc=5",
+      "description": "Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee",
+      "source": "Urban Milwaukee",
+      "source_url": "https://urbanmilwaukee.com",
+      "source_domain": "urbanmilwaukee.com",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Urban Milwaukee",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQYjFsQ2dVQnVrRDkyMXNveW93LWc1bjdiLWJOc21ObjFGVTZYZXR0ZGxyX0FLM1VEZXFQck5IVk1EekRuRHlEZWs0T1VZemlCRHhQNTZvRFFkUGt4NGZxa0pBdU1wa3lUYmlCQUcweFVPMmVLMGVwY0FjOG5acWNkZGdlZkY2U0ZaVjdJR2dRNTluOHR5SHNVampuTElwTFhtU05xdE4zbDZwNWZPajlpUGFXUWotUTBQb1N3dUVKQ0FCdjRqX1Z4MVREOW1jbHJpRFZOLUxsS05odFpYeG5Lam9ZOTBzdlhZbTR2b2lvc0RIY1piYjNPbkZBMDZrWGNVVFVRZldOTlE5RXlaSXc?oc=5",
+          "domain": "urbanmilwaukee.com",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "agency american breach collection data department justice medical million multistate over settlement wisconsin"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -12871,10 +12925,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-15T00:17:00+05:30",
-  "next_update_display": "15 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-15T06:17:00+05:30",
+  "next_update_display": "15 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
