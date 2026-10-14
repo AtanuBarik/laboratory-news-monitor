@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 14 Oct 2026, 4:37 AM IST
+- **Repository generated:** 14 Oct 2026, 10:56 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -1065,7 +1065,7 @@
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 8
+- **Coverage count:** 9
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5
@@ -1076,6 +1076,7 @@
   - biospectrumasia.com: https://news.google.com/rss/articles/CBMigwJBVV95cUxOcmhuMVdQZFRLNDYteFg0d1I0a2tUSnBRdmNUVXhxOXBHY1NEeTZnTmhnMVV3LTVkUGU2Mkh4c2NsWG5QUE5uTm1LbTU5TlNZMkpFNjdkSGlJT09CZWJJTFNsS1FydUtPcE1mYXJLNGF3RThzWDJjUW1EeHN4cl95dXBmMkd5LUUyeGxBNXlkLVJTTWh4RE51Ym10UVRTZEVsQ1NhUkRxeXhIWE13cHhYcG5XNFhubGdtUkowWTJGS1RSUEVPLUJRZzlRc1lpa2Q5WU90V3VIcldVNXBUNmNLSE85bE5VQkNQWUVvQmVBU01Ed081Y2t1eTk1M0xUUXVHcXhF?oc=5
   - BioSpectrum Asia: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVWRpQmJzNXNXMnU0bmFzeW95UzQ4WHM2Vi15UDFtVU5xRE5LRHRmNFhYcUVZRzZoOFE4T3AxajVBZVF1ZFhJVEJDeG5YelRCZW0wWnQxekJBcFl6enlLd2FXdVIwbXNvc1IzRG9oVm9rd3otZ2UwdVVxQmZETDZfTUVpS3JEb2Z2Y0FTVU9WZ3BYQjBsZnRxeS0xQldwU3ZoLWs3dkFweW5sc0RWdy0wSXMtS09TQkVLaEJxUTJRYzlTSXFEU3ZKMXJjLWFPOUcyZlExTE4tU2dReFdCVDJfRmxn?oc=5
   - BioSpectrum Asia: https://news.google.com/rss/articles/CBMiggJBVV95cUxPVEpGMkxSQ19xbWxNRnJhc2lheEFKMWprOHpPaWI3aVVuOWNmY1pFNDVuM3RyNi1SNHJJdWVKUEZOblRNc0I2cnNheGh3ZVJxbm51UG1OS1NmcFdYTUpqdS1xRm9DUGZjSXJzVkZKcVV2NXY4UkFkcFBPM2ZxVU9UWGFndkJNOXFyWkF3TUUxWTY3dnM3Z2FBV2ZOZlRxWFBuZGpqUWZyc0NxZWdzODhZVDNzWUVYei10b3h1MmVVVFl0VXZXQXVDenNjbmVfLTI0WVRWc3ZlN1kzOTRNb1RoSWUza0w1QWIteWlXWHpqclpzbFVCUTVUVVRndjRDcGlseHc?oc=5
+  - The Manila Times: https://news.google.com/rss/articles/CBMiugJBVV95cUxOa0lHeVp4a1NDY3pZMkpMbGExRVVjRThaSUtoNk1sMjhWYWtnRkxabGJlNGREZGlXbTU4ZHlXcDc3ZWFHM3dlX2lTbjgzd1c3UHFNcWFNSGdGMGhlV3E5anctMzZGTHdvTjcyYVZmcmhla3NkOUYyMEQyOXQ0b1ZjRDJJM1ZSRkVMRGNmak01ei1XZUlIYy1JYnh2RWtHcndMcW1sU3dwOUM5X0t0QUM4Z3FQYVMwRHhnSFYwQUpsc3Znb29HSTJVZlFaTnp2SFFSamtYVEp4Zm0zcU1mRk5OUi1aZ1dvYUxCWkRSRGhoOFd0QXI0V1pWaHpncFdBWTFfUi1ROF9IMkZyeTQ3NDBjR2FsTGlUVENBU3ptSGF1ZlFHWkdwdzZSaUYycjdVYTUzME5xdTFFanlCQdIBvwJBVV95cUxNOTFFWW9TX201VEI3ekNBVkROMW5WWGVWdEtFTktFQngwZEJvaFUzQndIak5WTXJtY2hjdWFTNmtKSnlmTU1rZUlfTGdpamxBUmNWZ1JGV05kZV92cXVVTUFrZUIwenpMbEFCNmhDbVNwa2w0dFRweElyOWxEY2RvbUU1SWlFUTJsUUNVLXlUblpCbG1CZ1pEd0g5cWdodFd2WmN0MUZ2dldxaHNKc21vZ0VEa21ScW1FT2N0aVlDei1VelBNc2dlY3pTV2Y3dTJjNE9HT19BT0Y2U3pSUE9MX0wzWGlIYlZSamRzZnpISjVTeU1qZnUxRXRsaENQZWttdU9zeDJ5NC1wS3dIb1lGYzdqbFdid0d6LUpULUdRVm8zZ1JTOTg3OXhZUUlpU215NUM0Z2dmQ3hCdEVEaTEw?oc=5
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine #MayoClinicLaboratories #PathologyAsia #LifeStrands #LifeStrandsGenomics #LifeStrandsGenomicsAustralia #DNALAB Media OutReach Newswire
 
