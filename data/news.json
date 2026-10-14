@@ -1,25 +1,79 @@
 {
-  "generated_at": "2026-10-14T17:55:25.371005+05:30",
-  "generated_at_display": "14 Oct 2026, 5:55 PM IST",
-  "item_count": 386,
-  "raw_relevant_item_count": 556,
-  "duplicates_merged": 94,
+  "generated_at": "2026-10-14T23:07:17.020743+05:30",
+  "generated_at_display": "14 Oct 2026, 11:07 PM IST",
+  "item_count": 388,
+  "raw_relevant_item_count": 557,
+  "duplicates_merged": 93,
   "failures": [],
   "items": [
     {
-      "id": "be23b2f47e5ea1d4f972",
+      "id": "1960de34e102e81b6005",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-10-14T16:39:13+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-14T16:39:13+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "asia expand genomic invests pathology regional testing"
+    },
+    {
+      "id": "1bd79f0520039f6d5ef4",
+      "company": "Labcorp",
+      "title": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
+      "description": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant",
+      "source": "HIT Consultant",
+      "source_url": "https://hitconsultant.net",
+      "source_domain": "hitconsultant.net",
+      "published_at": "2026-10-14T14:31:47+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HIT Consultant",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
+          "domain": "hitconsultant.net",
+          "published_at": "2026-10-14T14:31:47+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apob behavior change crp global hba1c health launch paired partners test thrive"
+    },
+    {
+      "id": "b00880b59597f0d155b7",
       "company": "Quest Diagnostics",
       "title": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5",
       "description": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-10-14T12:18:53+00:00",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-14T12:12:00+00:00",
       "published_display": "14 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-14T12:12:00+00:00"
+        },
         {
           "name": "Zacks Investment Research",
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
@@ -27,7 +81,7 @@
           "published_at": "2026-10-14T12:18:53+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "ahead earnings here how placed"
     },
     {
@@ -3223,9 +3277,15 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-17T07:00:00+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlFTVmpndmRqNFlJWVI3OHA1SUZCWXBfZjk0b1hJeXVkLWlXNFhkLWMxekVJYUd2V1VaQkJSbHZWdkQ4TEpSRUV5T3lGV1JxMjlKaXgtVkFWQzd0MkNFRlFWNUVqQk1rZlVNaEttdElZN0VxX0N5QWhTZ29hSGZCWFRTZGtiYUFKQnBheWg1WnIxRGhCckU4VXBCQXNMdjlJVVJjTGlzTGc0SFdUcFdyd2dscVV1eWlXX2VhYkhXNTFzV0xNekZKZ0psRGRaNXAybC1VczNFbWd1THVjUW14VVVCZjBPYzg?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-17T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "figures gains impact medicare quarter second stock strong survey"
     },
     {
@@ -12811,10 +12871,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-14T18:17:00+05:30",
-  "next_update_display": "14 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-15T00:17:00+05:30",
+  "next_update_display": "15 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

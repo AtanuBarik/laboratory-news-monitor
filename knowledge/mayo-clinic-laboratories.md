@@ -1,11 +1,23 @@
 # Mayo Clinic Laboratories News
 
-- **Repository generated:** 14 Oct 2026, 5:55 PM IST
-- **Distinct events in this file:** 6
+- **Repository generated:** 14 Oct 2026, 11:07 PM IST
+- **Distinct events in this file:** 7
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven
+## 1. Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing
+
+- **Company:** Mayo Clinic Laboratories
+- **Publication date:** 14 Oct 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5
+
+**Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products
+
+## 2. Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Oct 2026
@@ -17,7 +29,7 @@
 
 **Feed description:** Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven Mississippi Business Journal
 
-## 2. Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC
+## 3. Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
@@ -29,7 +41,7 @@
 
 **Feed description:** Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com
 
-## 3. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
+## 4. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
@@ -49,7 +61,7 @@
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine #MayoClinicLaboratories #PathologyAsia #LifeStrands #LifeStrandsGenomics #LifeStrandsGenomicsAustralia #DNALAB Media OutReach Newswire
 
-## 4. Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis
+## 5. Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Sep 2026
@@ -63,7 +75,7 @@
 
 **Feed description:** Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis The Joplin Globe
 
-## 5. Mayo Clinic Laboratories to build $30 million testing facility in Mississippi
+## 6. Mayo Clinic Laboratories to build $30 million testing facility in Mississippi
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 11 Sep 2026
@@ -75,7 +87,7 @@
 
 **Feed description:** Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com
 
-## 6. Mayo Clinic Laboratories to bring testing operations to Southaven
+## 7. Mayo Clinic Laboratories to bring testing operations to Southaven
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 10 Sep 2026

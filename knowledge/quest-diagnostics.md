@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 14 Oct 2026, 5:55 PM IST
+- **Repository generated:** 14 Oct 2026, 11:07 PM IST
 - **Distinct events in this file:** 179
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,9 +10,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
 
 **Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
@@ -634,10 +635,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMlFTVmpndmRqNFlJWVI3OHA1SUZCWXBfZjk0b1hJeXVkLWlXNFhkLWMxekVJYUd2V1VaQkJSbHZWdkQ4TEpSRUV5T3lGV1JxMjlKaXgtVkFWQzd0MkNFRlFWNUVqQk1rZlVNaEttdElZN0VxX0N5QWhTZ29hSGZCWFRTZGtiYUFKQnBheWg1WnIxRGhCckU4VXBCQXNMdjlJVVJjTGlzTGc0SFdUcFdyd2dscVV1eWlXX2VhYkhXNTFzV0xNekZKZ0psRGRaNXAybC1VczNFbWd1THVjUW14VVVCZjBPYzg?oc=5
 
 **Feed description:** Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact ad-hoc-news.de
 
