@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-14T10:56:55.077271+05:30",
-  "generated_at_display": "14 Oct 2026, 10:56 AM IST",
-  "item_count": 387,
-  "raw_relevant_item_count": 559,
-  "duplicates_merged": 95,
+  "generated_at": "2026-10-14T17:55:25.371005+05:30",
+  "generated_at_display": "14 Oct 2026, 5:55 PM IST",
+  "item_count": 386,
+  "raw_relevant_item_count": 556,
+  "duplicates_merged": 94,
   "failures": [],
   "items": [
+    {
+      "id": "be23b2f47e5ea1d4f972",
+      "company": "Quest Diagnostics",
+      "title": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
+      "description": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-10-14T12:18:53+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-14T12:18:53+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "ahead earnings here how placed"
+    },
     {
       "id": "558c1f44f46297eecf92",
       "company": "Labcorp",
@@ -3139,30 +3163,6 @@
       "event_signature": "2026 beat earnings gains guidance stock updated"
     },
     {
-      "id": "ce7869897003b5c9f2d8",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
-      "description": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-17T11:36:50+00:00",
-      "published_display": "17 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-17T11:36:50+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "figures gains impact medicare quarter second stock strong survey"
-    },
-    {
       "id": "316518acad215b9d29df",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - EPS Miss Report",
@@ -3203,6 +3203,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "2026 beat details earnings eps fails miss move needle remain report revenue unavailable"
+    },
+    {
+      "id": "ce7869897003b5c9f2d8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
+      "description": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-17T07:00:00+00:00",
+      "published_display": "17 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDZhcU42bGoxWHNRc3JlU09ETHJ5amRVOC1lS0JLenRZOFJjTVJCcWFjeWoyMjd1d2NiQlAwM2lQdzRzZ3VsWFJ0SGthV2hCOGxSQm1tajlydkZjNkZNYzd5Um14dlhIYk9BN0FkcVhOZkR2VFZxVG9ncFl4ZzA3VncyTFlBRVZqT2M3VDN2SFdBYWw2N0E4TU1ReHlrU3ZPUWtJenhnN3J0WjZEMFVyOFk0LUdBSDAxenVpUEtLdGxBVUtvaWFYaA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-17T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "figures gains impact medicare quarter second stock strong survey"
     },
     {
       "id": "01f9378ca9a6b18d7730",
@@ -3349,9 +3373,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOWs0c2M1clI2N0E0YTFpWVJMdWhqSDRqQS1ZLWRzWDBqNV81YXdILXNYdEtqTnBqWkZTR0pqcXFiNFlDZFJHZU1vOFNCd0R3S1J5eTR5Y19yd3JyZlI5anl4cHJZS21VZXNjZXIxVTdJa2tfbjdDOGFGaDVNSUFnSVd1N3I5MWp0ZUhZQXhIazFxOW9nZi1IcnJjWW5aUEp2WElTNUF4QW84Tks5VGxPSXBYcTdhYVlGdFJLeXMtNklkWXhhWHNGYndiTFV0UQ?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-16T07:00:00+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbEZVZE9SYkxJT2ZLNWQ0bUF2d1RzME8yRmUtSjMzRS1sZE1KQ0Fwdks4VlVic2h6WUh5bDNLR2NzTWdmTWpUenRTY0M5RTFuTF9xUDdyYW1VMmNxSTRjOXJURTFURzlXRWVab2ZqNlpEN0JiTXpyeTJaY3BfMG16TTlZLVZuMVdsSDMzaFg0STIzSGR3UDdwdHVSLVZma2NDR0JjbVhxVVNkS1Q3S0g2WlpiSkV0RHgwZzdWRTUzUEp3enc2am5SR3RQRTJvbjhja190SDNjMHRBRXpQTC14U1VyaUNEaGRPa1ZJ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-16T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "analyst apple deal health highs lab lift reaches sentime stock upgrades"
     },
     {
@@ -12779,60 +12809,12 @@
       ],
       "coverage_count": 2,
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
-    },
-    {
-      "id": "83bc17b80208f29d54af",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1I4U1ZKdHNpOFdPTVlzU1Qta3JGOWZ1N1RkbW94UUdsNkhFV2V5NVFUWkZoUXAxMHlsU2Q5N2gtbkZCZVVEeDcyaVU4OEFobUNEOGVyclFoVG16RTlzUm9jR3YxU1RvRHVaRjlCZDVicFBMZFlJWHhiRWhmZXEwTHBzYWJzSzZsRDdfRXRvRFVkUUFrSHJab18zX0Vpc0I5d05FUkEzNWp0WlN4V0hnazRteXplQmRVaS1yOXBR?oc=5",
-      "description": "Quest Diagnostics (DGX) Gains 2.15% – Assessing Technical Support and Sector Momentum - New Highs New Lows dars.gov.et",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "published_display": "16 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1I4U1ZKdHNpOFdPTVlzU1Qta3JGOWZ1N1RkbW94UUdsNkhFV2V5NVFUWkZoUXAxMHlsU2Q5N2gtbkZCZVVEeDcyaVU4OEFobUNEOGVyclFoVG16RTlzUm9jR3YxU1RvRHVaRjlCZDVicFBMZFlJWHhiRWhmZXEwTHBzYWJzSzZsRDdfRXRvRFVkUUFrSHJab18zX0Vpc0I5d05FUkEzNWp0WlN4V0hnazRteXplQmRVaS1yOXBR?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-07-16T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "assessing gains highs lows momentum sector support technical"
-    },
-    {
-      "id": "bc0ffc022cb3076e82d8",
-      "company": "Quest Diagnostics",
-      "title": "A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2%",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5",
-      "description": "A 9-Day Losing Streak Has Quest Diagnostics Stock Down 6.2% trefis.com",
-      "source": "Trefis",
-      "source_url": "https://www.trefis.com",
-      "source_domain": "trefis.com",
-      "published_at": "2026-07-16T07:00:00+00:00",
-      "published_display": "16 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Trefis",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTmFqLUxfNHQ4SkNqMmdJdnhYRFR0a1BlUVBJTXVYNy1HVU9OWF9rQVNZQkhXbVVEbEZSNDBhNWphazN6cVBUY1FRa2JhMDA3SUFuWV9acE1BWkNpekVhanlRU1g1eHlueG5BM1Q4NVA2M1RvRGthSWo4MFYycTdMSDlsVjJZRzlzSkhpM0NMWDNmSWZJMktFaWM1STI1ZGR4djRYWXJrRllmVzhOaGpfWGtTdWZLS2FOTmc?oc=5",
-          "domain": "trefis.com",
-          "published_at": "2026-07-16T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "day down has losing stock streak"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-14T12:17:00+05:30",
-  "next_update_display": "14 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-14T18:17:00+05:30",
+  "next_update_display": "14 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
