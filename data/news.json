@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-15T22:52:36.405210+05:30",
-  "generated_at_display": "15 Oct 2026, 10:52 PM IST",
-  "item_count": 398,
-  "raw_relevant_item_count": 569,
-  "duplicates_merged": 98,
+  "generated_at": "2026-10-16T03:18:10.567697+05:30",
+  "generated_at_display": "16 Oct 2026, 3:18 AM IST",
+  "item_count": 399,
+  "raw_relevant_item_count": 574,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "e77232a9d2abdbf398a8",
+      "company": "Labcorp",
+      "title": "OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbTI1Zzdwa1FiQlY2ZHF2ZUM4MThxSjdBa1RXVTh2c3ExUVB2M1VodlMzckdsMUxjVVc2aHRjRzZMLWp6eURycUtqdlpRX3d0bHFwQlAyTzdjM0Q1cFN1QWpkY0ZYeTNBMmxOS1phckFUcUw5dXlnQnpPZmNwVy15SHl3ZS1OaW1LY1NzUG4xQ2JjVGZzVTVYSXpEMVRaVnU1VngtQVlVR0RNSEhoaThEM0Y1Ym8xOS0tM1ctQmlFbEJtUTU0YklOVi1RbWJrM0lMLWpyWmV1akxQZmxMOFBhWERzV0NkUQ?oc=5",
+      "description": "OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-10-15T21:37:21+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbTI1Zzdwa1FiQlY2ZHF2ZUM4MThxSjdBa1RXVTh2c3ExUVB2M1VodlMzckdsMUxjVVc2aHRjRzZMLWp6eURycUtqdlpRX3d0bHFwQlAyTzdjM0Q1cFN1QWpkY0ZYeTNBMmxOS1phckFUcUw5dXlnQnpPZmNwVy15SHl3ZS1OaW1LY1NzUG4xQ2JjVGZzVTVYSXpEMVRaVnU1VngtQVlVR0RNSEhoaThEM0Y1Ym8xOS0tM1ctQmlFbEJtUTU0YklOVi1RbWJrM0lMLWpyWmV1akxQZmxMOFBhWERzV0NkUQ?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-10-15T21:37:21+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "722 bioreference contingent division health million opko payments plus sell"
+    },
     {
       "id": "ccb5e8ef9f1339cfc625",
       "company": "Quest Diagnostics",
@@ -127,9 +151,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5",
           "domain": "medicaldevice-network.com",
           "published_at": "2026-10-15T15:29:22+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T16:11:26+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "872m acquire assets bioreference deal health"
     },
     {
@@ -3223,30 +3253,6 @@
       "event_signature": "2026 financial october quarter release results third"
     },
     {
-      "id": "a13e8a38a49c4a2753b8",
-      "company": "Quest Diagnostics",
-      "title": "Car crashes into Quest Diagnostics in Lincoln shoppping plaza",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5",
-      "description": "Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media",
-      "source": "Gold Mountain California News Media",
-      "source_url": "https://goldmountaincanews.com",
-      "source_domain": "goldmountaincanews.com",
-      "published_at": "2026-09-21T16:30:00+00:00",
-      "published_display": "21 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Gold Mountain California News Media",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5",
-          "domain": "goldmountaincanews.com",
-          "published_at": "2026-09-21T16:30:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "car crashes lincoln plaza shoppping"
-    },
-    {
       "id": "05ffa09dec7462d86bed",
       "company": "Quest Diagnostics",
       "title": "Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics",
@@ -3365,6 +3371,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "consumer growth outpace sees surges targets testing"
+    },
+    {
+      "id": "a13e8a38a49c4a2753b8",
+      "company": "Quest Diagnostics",
+      "title": "Car crashes into Quest Diagnostics in Lincoln shoppping plaza",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5",
+      "description": "Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media",
+      "source": "Gold Mountain California News Media",
+      "source_url": "https://goldmountaincanews.com",
+      "source_domain": "goldmountaincanews.com",
+      "published_at": "2026-09-21T07:00:00+00:00",
+      "published_display": "21 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Gold Mountain California News Media",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5",
+          "domain": "goldmountaincanews.com",
+          "published_at": "2026-09-21T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "car crashes lincoln plaza shoppping"
     },
     {
       "id": "18afb25ed038975713dc",
@@ -13177,10 +13207,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-16T00:17:00+05:30",
-  "next_update_display": "16 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-16T06:17:00+05:30",
+  "next_update_display": "16 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

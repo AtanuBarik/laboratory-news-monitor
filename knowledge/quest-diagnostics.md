@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 15 Oct 2026, 10:52 PM IST
+- **Repository generated:** 16 Oct 2026, 3:18 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -567,19 +567,7 @@
 
 **Feed description:** Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com
 
-## 45. Car crashes into Quest Diagnostics in Lincoln shoppping plaza
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 21 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Gold Mountain California News Media: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5
-
-**Feed description:** Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media
-
-## 46. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
+## 45. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -592,7 +580,7 @@
 
 **Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics prnewswire.com
 
-## 47. Why Quest Diagnostics Is Dropping Despite Target Hike
+## 46. Why Quest Diagnostics Is Dropping Despite Target Hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -604,7 +592,7 @@
 
 **Feed description:** Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks
 
-## 48. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
+## 47. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -617,6 +605,18 @@
   - es.tradingview.com: https://news.google.com/rss/articles/CBMizAFBVV95cUxOUHVGelBBOEtvTXNYNUZfRmpITWRoVGZOUGE1ZE1kSEZKblhrMmJGNkFUZkZzNE9lajJlNVpvLVpCZlJ0VXRpTC1DSXJaQWt4VkM0dS05VUpjRzJxTTJtV252ZVZiR1FTTVZBX3RVcGxkOVR2OGtKOEZqRW05SEtQcEZ4MUpoRENnUXlsaU8wRktjMTZEY24zdElRQlJKV01lajloR1Nib1pOaGxPeVRFQlc5ZlpGb3l5czRsZ1lDakRlcnpPMHoydnBkVmc?oc=5
 
 **Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com
+
+## 48. Car crashes into Quest Diagnostics in Lincoln shoppping plaza
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 21 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Gold Mountain California News Media: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSjg0bXRXb1IwaDZtX0tPelVtMWplMW1uT1c4M1VWVi1mM2pTWFpJUW1EelFYWU9zd0JERkVyU3kxWGw5QVNyMUNkNVpvbHluVFVySjFtVDUwMHlYS0lhZlMwUmVnaV9kR0k5RGxfenVoNkVsWmRrY3Jxb2t0ekFEUFcyUUREdnVuRVdyUVhJSWluV0UyVkxwR091NVpKbHJKNTVPWExUSXM?oc=5
+
+**Feed description:** Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media
 
 ## 49. Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally
 

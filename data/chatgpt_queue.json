@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T23:22:08.461257+05:30",
-  "generated_at_display": "15 Oct 2026, 11:22 PM IST",
+  "generated_at": "2026-10-16T03:18:14.099145+05:30",
+  "generated_at_display": "16 Oct 2026, 3:18 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 292,
+  "remaining_unsummarized_count": 293,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -18,7 +18,7 @@
       "published_at": "2026-10-15T13:22:30+00:00",
       "published_display": "15 Oct 2026",
       "official_source": false,
-      "coverage_count": 3,
+      "coverage_count": 4,
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
       "sources": [
         {
@@ -32,6 +32,10 @@
         {
           "name": "Medical Device Network",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5"
         }
       ]
     },
