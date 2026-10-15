@@ -1,13 +1,40 @@
 {
-  "generated_at": "2026-10-15T18:19:52.832423+05:30",
-  "generated_at_display": "15 Oct 2026, 6:19 PM IST",
+  "generated_at": "2026-10-15T22:52:40.296859+05:30",
+  "generated_at_display": "15 Oct 2026, 10:52 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 288,
+  "remaining_unsummarized_count": 292,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "72d08d31912a6b18f938",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp to Acquire BioReference Health Assets in $872M Deal",
+      "source": "GuruFocus",
+      "description": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets Medical Device Network",
+      "published_at": "2026-10-15T13:22:30+00:00",
+      "published_display": "15 Oct 2026",
+      "official_source": false,
+      "coverage_count": 3,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5"
+        },
+        {
+          "name": "Contract Pharma",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5"
+        },
+        {
+          "name": "Medical Device Network",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5"
+        }
+      ]
+    },
     {
       "id": "0c205256d8453402389f",
       "company": "Labcorp",
@@ -18,7 +45,7 @@
       "published_at": "2026-10-15T11:55:45+00:00",
       "published_display": "15 Oct 2026",
       "official_source": false,
-      "coverage_count": 2,
+      "coverage_count": 3,
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
       "sources": [
         {
@@ -28,6 +55,10 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5"
         }
       ]
     },
@@ -41,12 +72,24 @@
       "published_at": "2026-10-15T11:30:00+00:00",
       "published_display": "15 Oct 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 4,
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
       "sources": [
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5"
         }
       ]
     },
@@ -668,25 +711,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d01b7ce2b879aa1bda5e",
-      "company": "Quest Diagnostics",
-      "category": "Product & Services",
-      "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
-      "source": "Yahoo Finance",
-      "description": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes finance.yahoo.com",
-      "published_at": "2026-09-30T13:00:00+00:00",
-      "published_display": "30 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5"
         }
       ]
     }

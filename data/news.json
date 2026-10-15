@@ -1,11 +1,137 @@
 {
-  "generated_at": "2026-10-15T17:39:26.840435+05:30",
-  "generated_at_display": "15 Oct 2026, 5:39 PM IST",
-  "item_count": 394,
-  "raw_relevant_item_count": 561,
-  "duplicates_merged": 97,
+  "generated_at": "2026-10-15T22:52:36.405210+05:30",
+  "generated_at_display": "15 Oct 2026, 10:52 PM IST",
+  "item_count": 398,
+  "raw_relevant_item_count": 569,
+  "duplicates_merged": 98,
   "failures": [],
   "items": [
+    {
+      "id": "ccb5e8ef9f1339cfc625",
+      "company": "Quest Diagnostics",
+      "title": "Truist lifts target to USD 260.00 for Quest Diagnostics stock",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpoRTBkNGtHMmlEUjJpeURFdkZnYnpla2VBYkNLSHRZNHEtandBS25fYWJqR0NsNHBsSG5XODczbThfSnB0QVltRjlCZzl6aXlyYTFnNWJ2ZXFlQnN5cDYySGkxalQyNjNsalQ1dmxwZFgwNkhBWU94QXNvejRxOHNhNEphSkdwM0dTSDgxRDQ3SzJUVFZJTHRsdi1fSXFOYWl0M00tdm9JcGVBZW5WeXM4T2ozdTVpcHFtbQ?oc=5",
+      "description": "Truist lifts target to USD 260.00 for Quest Diagnostics stock ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-15T16:36:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVUpoRTBkNGtHMmlEUjJpeURFdkZnYnpla2VBYkNLSHRZNHEtandBS25fYWJqR0NsNHBsSG5XODczbThfSnB0QVltRjlCZzl6aXlyYTFnNWJ2ZXFlQnN5cDYySGkxalQyNjNsalQ1dmxwZFgwNkhBWU94QXNvejRxOHNhNEphSkdwM0dTSDgxRDQ3SzJUVFZJTHRsdi1fSXFOYWl0M00tdm9JcGVBZW5WeXM4T2ozdTVpcHFtbQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-15T16:36:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "260 lifts stock target truist usd"
+    },
+    {
+      "id": "95b3d59cc7a710e86f64",
+      "company": "Labcorp",
+      "title": "Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTVLQ0VfQkdMZ0FfV2xZbzd6cU5LMERUQ0pfUWdaeW1NN29vY0xzcnRMd2M2R3Uwb2xBRm9oZW1pQzAxNUo0Z0g5U2VhOHV6YmJSUVlTSElBcmJaTXQxZzQwdmdSZzFpcnVnT05FV3NsVTVRRjVnOEJKV3RCM1AtaWJXTVI1MEF6bDRsVzZjVGZvTTBiNFNURnF6dHgzdGlh?oc=5",
+      "description": "Q2 Earnings Outperformers: Labcorp (NYSE:LH) And The Rest Of The Testing & Diagnostics Services Stocks Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-15T16:08:27+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTVLQ0VfQkdMZ0FfV2xZbzd6cU5LMERUQ0pfUWdaeW1NN29vY0xzcnRMd2M2R3Uwb2xBRm9oZW1pQzAxNUo0Z0g5U2VhOHV6YmJSUVlTSElBcmJaTXQxZzQwdmdSZzFpcnVnT05FV3NsVTVRRjVnOEJKV3RCM1AtaWJXTVI1MEF6bDRsVzZjVGZvTTBiNFNURnF6dHgzdGlh?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T16:08:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings outperformers rest services stocks testing"
+    },
+    {
+      "id": "82997902d1f84814192f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5",
+      "description": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com Investing.com South Africa",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-10-15T15:10:41+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-15T15:10:41+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY00ycjBGUEVKSmhzUWVmWXFQblhSZzFuQV9mdHlWY3VyMXBxSEJOeTlXYUtHQnBmUjl3UVhYUVMxbUR5dlBob2FMQ2NaQkFXMV8xb0xnT3lLV01DUWdvWWRaM1hIY2g4bFBnZ1RnbkJvbHd4c1d3UkdCRUJwOHpfeWwwaFpxYmRHeXJvVWtNU3lIdjVsRDJYUnpSblNWYVpHQmJUUUdRUzBMTzZzMWdkdUhieW1XNm5m?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-15T15:11:30+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNai16bnJNdVlDc3BmamtaSy0ySFVBV19IWXdQblJrN3g3aEgtYUI2LUZuZC1xZUc5UGRQSURVSDRjNExwbUZ2eC1CYVQ3ckdQa19hQ0RXTi1PdThvaVdsMWJxVG9ac2FtUUw1YkhHSEt3b1prZGY5OVZnN04zMkR4MkdXSjBzZFdpaXlkaWtZRGJZTVhLUjN0clFiX25OSGFVWm5wT3hBajd4c2VwRjBYd2p3UVl3d3dMWWc?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-15T15:14:12+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWtpMU5vQ0pzT0lZNUUtTDgyeHctZjZ4d0RXODBBTVZDNFRsWWVUNW94MXliZXpWeG5zTVExX2h0ajR3ZE9RNkVjb0pvTjI0VHJxeEVwdndZZE9jUG9rZU9XQm9vWE9kOWFfQUZIVThxQkZpbDdlNmVGZEF4bjZzYTZQSU1ELUI2OFRWQUY4TVdCVzNOYWVSMGpFbVhkN2ZjaFhIa05PYks1WTZnNUY4RFpPV0tQSFhE?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-10-15T15:16:05+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "com earnings investing may oct shares shift"
+    },
+    {
+      "id": "72d08d31912a6b18f938",
+      "company": "Labcorp",
+      "title": "Labcorp to Acquire BioReference Health Assets in $872M Deal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
+      "description": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets Medical Device Network",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-15T13:22:30+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-15T13:22:30+00:00"
+        },
+        {
+          "name": "Contract Pharma",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5",
+          "domain": "contractpharma.com",
+          "published_at": "2026-10-15T13:23:09+00:00"
+        },
+        {
+          "name": "Medical Device Network",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5",
+          "domain": "medicaldevice-network.com",
+          "published_at": "2026-10-15T15:29:22+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "872m acquire assets bioreference deal health"
+    },
     {
       "id": "0c205256d8453402389f",
       "company": "Labcorp",
@@ -31,9 +157,15 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5",
           "domain": "gurufocus.com",
           "published_at": "2026-10-15T12:08:23+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-15T12:10:58+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "722 acquire assets bioreference com health investing million"
     },
     {
@@ -55,9 +187,27 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-10-15T11:30:00+00:00"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5",
+          "domain": "citybiz.co",
+          "published_at": "2026-10-15T12:43:42+00:00"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-15T14:13:00+00:00"
+        },
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-15T16:53:08+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "acquire agreement assets bioreference enters health opko select"
     },
     {
@@ -13027,10 +13177,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 71,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-15T18:17:00+05:30",
-  "next_update_display": "15 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-16T00:17:00+05:30",
+  "next_update_display": "16 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
