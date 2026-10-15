@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 15 Oct 2026, 3:27 AM IST
+- **Repository generated:** 15 Oct 2026, 10:46 AM IST
 - **Distinct events in this file:** 173
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -661,19 +661,7 @@
 
 **Feed description:** Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha
 
-## 50. Labcorp stock trades near recent highs after revenue growth and Q1 2026 update
-
-- **Company:** Labcorp
-- **Publication date:** 20 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5
-
-**Feed description:** Labcorp stock trades near recent highs after revenue growth and Q1 2026 update AD HOC NEWS
-
-## 51. Labcorp stock holds near recent highs after Q2 2026 earnings beat
+## 50. Labcorp stock holds near recent highs after Q2 2026 earnings beat
 
 - **Company:** Labcorp
 - **Publication date:** 20 Sep 2026
@@ -686,6 +674,18 @@
 
 **Feed description:** Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat ad-hoc-news.de
 
+## 51. Labcorp stock trades near recent highs after revenue growth and Q1 2026 update
+
+- **Company:** Labcorp
+- **Publication date:** 20 Sep 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5
+
+**Feed description:** Labcorp stock trades near recent highs after revenue growth and Q1 2026 update ad-hoc-news.de
+
 ## 52. Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat
 
 - **Company:** Labcorp
@@ -694,9 +694,9 @@
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5
 
-**Feed description:** Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat AD HOC NEWS
+**Feed description:** Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat ad-hoc-news.de
 
 ## 53. Labcorp stock gains after Q2 2026 earnings and investor day guidance
 

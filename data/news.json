@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-15T03:27:02.735562+05:30",
-  "generated_at_display": "15 Oct 2026, 3:27 AM IST",
-  "item_count": 390,
-  "raw_relevant_item_count": 563,
-  "duplicates_merged": 96,
+  "generated_at": "2026-10-15T10:46:47.530872+05:30",
+  "generated_at_display": "15 Oct 2026, 10:46 AM IST",
+  "item_count": 391,
+  "raw_relevant_item_count": 560,
+  "duplicates_merged": 98,
   "failures": [],
   "items": [
+    {
+      "id": "7a20cc588232a5931ab0",
+      "company": "Sonic Healthcare",
+      "title": "How Far Can Sonic Healthcare Rebuild Margins?",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmJPTTVKOFF0NURUUThaRmZOajRMNWdnRHF2M00wbW10RTNrOEF6SUhlS3NGMkNrRjZQYlFIYmJKdjdfV2RVSnVXdmMwSkxaQjJTWmV0Q2gtYjZlR3VSdkdvYktGTTBUTUdOSGZDVHRubVBvTDlybFBtdFZ6SlhKdE1zSWtJY0FwcFg2Yl92d3B0Vkt4c0lua21PYWtnQQ?oc=5",
+      "description": "How Far Can Sonic Healthcare (ASX:SHL) Rebuild Margins? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-10-15T00:40:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWmJPTTVKOFF0NURUUThaRmZOajRMNWdnRHF2M00wbW10RTNrOEF6SUhlS3NGMkNrRjZQYlFIYmJKdjdfV2RVSnVXdmMwSkxaQjJTWmV0Q2gtYjZlR3VSdkdvYktGTTBUTUdOSGZDVHRubVBvTDlybFBtdFZ6SlhKdE1zSWtJY0FwcFg2Yl92d3B0Vkt4c0lua21PYWtnQQ?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-10-15T00:40:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can far how margins rebuild"
+    },
     {
       "id": "53e98588309ae640bc94",
       "company": "Quest Diagnostics",
@@ -3115,30 +3139,6 @@
       "event_signature": "consumer growth outpace sees surges targets testing"
     },
     {
-      "id": "586b6e6e954d0002e3de",
-      "company": "Labcorp",
-      "title": "Labcorp stock trades near recent highs after revenue growth and Q1 2026 update",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5",
-      "description": "Labcorp stock trades near recent highs after revenue growth and Q1 2026 update AD HOC NEWS",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-20T13:48:58+00:00",
-      "published_display": "20 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-20T13:48:58+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 after growth highs near recent revenue stock trades"
-    },
-    {
       "id": "18afb25ed038975713dc",
       "company": "Labcorp",
       "title": "Labcorp stock holds near recent highs after Q2 2026 earnings beat",
@@ -3167,6 +3167,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "2026 after beat earnings highs holds near recent stock"
+    },
+    {
+      "id": "66d804a767d11a73390c",
+      "company": "Labcorp",
+      "title": "Labcorp stock trades near recent highs after revenue growth and Q1 2026 update",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5",
+      "description": "Labcorp stock trades near recent highs after revenue growth and Q1 2026 update ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-20T07:00:00+00:00",
+      "published_display": "20 Sep 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-20T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after growth highs near recent revenue stock trades"
     },
     {
       "id": "2a3bed422bbba8d6a84e",
@@ -3247,24 +3271,24 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "dfa7d32435dc261b581a",
+      "id": "2d37535d0c871bc6264e",
       "company": "Labcorp",
       "title": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
-      "description": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat AD HOC NEWS",
-      "source": "AD HOC NEWS",
+      "description": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-18T11:51:12+00:00",
+      "published_at": "2026-09-18T07:00:00+00:00",
       "published_display": "18 Sep 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
         {
-          "name": "AD HOC NEWS",
+          "name": "ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
           "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-18T11:51:12+00:00"
+          "published_at": "2026-09-18T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -12925,10 +12949,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 69,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-15T06:17:00+05:30",
-  "next_update_display": "15 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-15T12:17:00+05:30",
+  "next_update_display": "15 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
