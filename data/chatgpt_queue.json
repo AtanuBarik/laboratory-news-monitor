@@ -1,13 +1,55 @@
 {
-  "generated_at": "2026-10-15T11:52:44.914611+05:30",
-  "generated_at_display": "15 Oct 2026, 11:52 AM IST",
+  "generated_at": "2026-10-15T17:39:30.173203+05:30",
+  "generated_at_display": "15 Oct 2026, 5:39 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 285,
+  "remaining_unsummarized_count": 288,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "0c205256d8453402389f",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com",
+      "source": "Investing.com India",
+      "description": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com Investing.com India",
+      "published_at": "2026-10-15T11:55:45+00:00",
+      "published_display": "15 Oct 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "03c62af7154b5cf50a31",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
+      "source": "PR Newswire",
+      "description": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
+      "published_at": "2026-10-15T11:30:00+00:00",
+      "published_display": "15 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5"
+        }
+      ]
+    },
     {
       "id": "1960de34e102e81b6005",
       "company": "Mayo Clinic Laboratories",
@@ -546,6 +588,25 @@
       ]
     },
     {
+      "id": "6b3af5c3cded373df429",
+      "company": "Labcorp",
+      "category": "Clinical, R&D",
+      "title": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change",
+      "source": "HLTH",
+      "description": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH",
+      "published_at": "2026-10-15T09:05:01+00:00",
+      "published_display": "15 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+      "sources": [
+        {
+          "name": "HLTH",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "558c1f44f46297eecf92",
       "company": "Labcorp",
       "category": "Product & Services",
@@ -626,79 +687,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "931cd73c238f6ce39390",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Is This the Right Time to Add Labcorp Stock to Your Portfolio?",
-      "source": "Yahoo Finance",
-      "description": "Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "published_display": "29 Sep 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2400a7ad09cecb58738",
-      "company": "Labcorp",
-      "category": "Clinical, R&D",
-      "title": "Trainee Clinical Research Role at Labcorp | Apply Now",
-      "source": "BioTecNika",
-      "description": "Trainee Clinical Research Role at Labcorp | Apply Now BioTecNika",
-      "published_at": "2026-09-28T12:36:20+00:00",
-      "published_display": "28 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeWkwdkI2dnRZNFFlYnBSZFNUeC1SQkFVSWpPeG51Z3FYM2Z0Mk9aMTVuNktkLVhtRlp4dVA2c1h4U21iQ3FGc0NBLURCVFhURlNBN0JTZ3hIbTR1Sy1xS3d2NWhfV0tKR2tMcFFlQ1EwVDZmMXl6ZVNFS3E4MGfSAYQBQVVfeXFMT3BabmlPYzNZQWZZYkRhNGhmb1BSZG85NzhQeXF0S1ZoSEk0aVRiYXRiNXlkdnFneDIzbDZ0STJoRkJCRElRakcyeFdnRkE2NlRFc3dGOEM0X3RJTU0xcXloX1ZHRXpVNkpWZ1lLSkcwdXJrQWRTdmYxOU1mSmV2Yy15OTNT?oc=5",
-      "sources": [
-        {
-          "name": "BioTecNika",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EeWkwdkI2dnRZNFFlYnBSZFNUeC1SQkFVSWpPeG51Z3FYM2Z0Mk9aMTVuNktkLVhtRlp4dVA2c1h4U21iQ3FGc0NBLURCVFhURlNBN0JTZ3hIbTR1Sy1xS3d2NWhfV0tKR2tMcFFlQ1EwVDZmMXl6ZVNFS3E4MGfSAYQBQVVfeXFMT3BabmlPYzNZQWZZYkRhNGhmb1BSZG85NzhQeXF0S1ZoSEk0aVRiYXRiNXlkdnFneDIzbDZ0STJoRkJCRElRakcyeFdnRkE2NlRFc3dGOEM0X3RJTU0xcXloX1ZHRXpVNkpWZ1lLSkcwdXJrQWRTdmYxOU1mSmV2Yy15OTNT?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0c434106aba31744f9c1",
-      "company": "Quest Diagnostics",
-      "category": "Clinical, R&D",
-      "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
-      "source": "Yahoo Finance",
-      "description": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research",
-      "published_at": "2026-09-25T07:00:00+00:00",
-      "published_display": "25 Sep 2026",
-      "official_source": false,
-      "coverage_count": 4,
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQamh1S0NVRVFlZDVzT3RadDdlTDU2dVJQSFdKdFdWZDB6QS1FaTZIVW9ESEd3dEdaNXFKQUY5ZHJxNTJJUlhQaXRvQlVVQlNoRmxIcDF5M2hzeHVWa29qYm42OFJTaVpSZEpBR2t3MnBHUWdKS3JCQU84SGV1MnVIM1ZnMUNXUkhHRXQ0dlQ3eGZDSzlxcktvVA?oc=5"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONU0wSVJ2ZVZ1cHUycnU5czRoRGRYb1dLQkRvTmJySWVVMlJRQ3QtTVdpeVRZdjVGY3VyYVdpbDlmdnNYOXc5U291TGxkdTFRc2pqdlptQXVXWDhOOHhST04tQWlFQjRIbkYxYllSWjlSZEp3ZGJ6bnNwTFBSelBoTEpSMzBfTTNnQkVZSHV3UHZmeFQzckN3MFRlckRuMkNjY0I4?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlgyckZwaGdlYjhTeDg0eGFHajZzTGwtZC0yY1haRWlOS01HckhNTThYcU4tTlRWd0NESFpVY0tZN2p0ay0xVmJ1Y1JsTTRLbVhtZ1lpWmZzRUFIUjhKLXROR1V6OW9qWlJET1FlYUtkSy0wNmt5emRGcU0tVFltbVRaT3FJOGRYS2JPVTlLQU9lY29pY0ZDVlNiQWNTM3VUdENaNWlnWW9JTl9jaHA2QUFveEZUODBZ?oc=5"
-        },
-        {
-          "name": "Eastern Progress",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalpnbTZCMHdoNHVYRTh6SUJBb0wzd1Rtc2ZvbUNyeURES3hoeWliT2hXMlNZMU5aQkRIQzZwV0t1RU1lMVpsemRBSVY4NWNQb2NyZEV3UmdLWnBmTm5KVjgwZWMycWdyUW5LSGIxSGt5MjBtdC14TnRfaFFQbmYtZXA0QkFHSWM4MXVrMFpVSzN3azhaU1hXNDdZdEtDemw5R1Q0ZHRvMmRmdHltUEE3aTRSUXExM2VKZDkwNjJzN1J6djFCX1RWaUw4a21KMTJ0NU13cUpaRGhmWFE?oc=5"
         }
       ]
     }

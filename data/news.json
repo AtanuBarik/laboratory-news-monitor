@@ -1,11 +1,89 @@
 {
-  "generated_at": "2026-10-15T10:46:47.530872+05:30",
-  "generated_at_display": "15 Oct 2026, 10:46 AM IST",
-  "item_count": 391,
-  "raw_relevant_item_count": 560,
-  "duplicates_merged": 98,
+  "generated_at": "2026-10-15T17:39:26.840435+05:30",
+  "generated_at_display": "15 Oct 2026, 5:39 PM IST",
+  "item_count": 394,
+  "raw_relevant_item_count": 561,
+  "duplicates_merged": 97,
   "failures": [],
   "items": [
+    {
+      "id": "0c205256d8453402389f",
+      "company": "Labcorp",
+      "title": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
+      "description": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-10-15T11:55:45+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-15T11:55:45+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-15T12:08:23+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "722 acquire assets bioreference com health investing million"
+    },
+    {
+      "id": "03c62af7154b5cf50a31",
+      "company": "Labcorp",
+      "title": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
+      "description": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-10-15T11:30:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-15T11:30:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquire agreement assets bioreference enters health opko select"
+    },
+    {
+      "id": "6b3af5c3cded373df429",
+      "company": "Labcorp",
+      "title": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+      "description": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH",
+      "source": "HLTH",
+      "source_url": "https://hlth.com",
+      "source_domain": "hlth.com",
+      "published_at": "2026-10-15T09:05:01+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HLTH",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+          "domain": "hlth.com",
+          "published_at": "2026-10-15T09:05:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "behavior biomarkers change combining global health launch test thrive"
+    },
     {
       "id": "7a20cc588232a5931ab0",
       "company": "Sonic Healthcare",
@@ -12949,10 +13027,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 68,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-15T12:17:00+05:30",
-  "next_update_display": "15 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-15T18:17:00+05:30",
+  "next_update_display": "15 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
