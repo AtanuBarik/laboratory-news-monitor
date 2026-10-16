@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-16T03:18:10.567697+05:30",
-  "generated_at_display": "16 Oct 2026, 3:18 AM IST",
-  "item_count": 399,
-  "raw_relevant_item_count": 574,
-  "duplicates_merged": 99,
+  "generated_at": "2026-10-16T10:36:28.543151+05:30",
+  "generated_at_display": "16 Oct 2026, 10:36 AM IST",
+  "item_count": 401,
+  "raw_relevant_item_count": 579,
+  "duplicates_merged": 101,
   "failures": [],
   "items": [
+    {
+      "id": "eab260f911f0f2bb2c99",
+      "company": "Labcorp",
+      "title": "Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5",
+      "description": "Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight",
+      "source": "Medtech Insight",
+      "source_url": "https://insights.citeline.com",
+      "source_domain": "insights.citeline.com",
+      "published_at": "2026-10-15T22:58:22+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medtech Insight",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5",
+          "domain": "insights.citeline.com",
+          "published_at": "2026-10-15T22:58:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "4kscore 872m assets bioreference health including pay prostate test"
+    },
     {
       "id": "e77232a9d2abdbf398a8",
       "company": "Labcorp",
@@ -55,30 +79,6 @@
       "event_signature": "260 lifts stock target truist usd"
     },
     {
-      "id": "95b3d59cc7a710e86f64",
-      "company": "Labcorp",
-      "title": "Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTVLQ0VfQkdMZ0FfV2xZbzd6cU5LMERUQ0pfUWdaeW1NN29vY0xzcnRMd2M2R3Uwb2xBRm9oZW1pQzAxNUo0Z0g5U2VhOHV6YmJSUVlTSElBcmJaTXQxZzQwdmdSZzFpcnVnT05FV3NsVTVRRjVnOEJKV3RCM1AtaWJXTVI1MEF6bDRsVzZjVGZvTTBiNFNURnF6dHgzdGlh?oc=5",
-      "description": "Q2 Earnings Outperformers: Labcorp (NYSE:LH) And The Rest Of The Testing & Diagnostics Services Stocks Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-15T16:08:27+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTVLQ0VfQkdMZ0FfV2xZbzd6cU5LMERUQ0pfUWdaeW1NN29vY0xzcnRMd2M2R3Uwb2xBRm9oZW1pQzAxNUo0Z0g5U2VhOHV6YmJSUVlTSElBcmJaTXQxZzQwdmdSZzFpcnVnT05FV3NsVTVRRjVnOEJKV3RCM1AtaWJXTVI1MEF6bDRsVzZjVGZvTTBiNFNURnF6dHgzdGlh?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-15T16:08:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings outperformers rest services stocks testing"
-    },
-    {
       "id": "82997902d1f84814192f",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com",
@@ -115,9 +115,15 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWtpMU5vQ0pzT0lZNUUtTDgyeHctZjZ4d0RXODBBTVZDNFRsWWVUNW94MXliZXpWeG5zTVExX2h0ajR3ZE9RNkVjb0pvTjI0VHJxeEVwdndZZE9jUG9rZU9XQm9vWE9kOWFfQUZIVThxQkZpbDdlNmVGZEF4bjZzYTZQSU1ELUI2OFRWQUY4TVdCVzNOYWVSMGpFbVhkN2ZjaFhIa05PYks1WTZnNUY4RFpPV0tQSFhE?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-10-15T15:16:05+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUFjcTEyZXJrVjVoNjhuSGFoSlNzUFlLdXVGWnA5NU9mMVFvano1Qk95RExDS3duVU5lenBEdGtVNTdscXUwZlR3X0FXbUF5YmdfM1diejdUTXJkSEtOWmRRajVaTEYyYVpRMDZsV2xPUUVDUDY2V1NuX0RqanF6cWlnNTJEcVR4amJmdi1EUmtQUElYZ2QxMFBkamswTEN0VFVkNGRSYkNteUprMERadnp0dmZqcVZR?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-15T16:18:47+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "com earnings investing may oct shares shift"
     },
     {
@@ -161,6 +167,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "872m acquire assets bioreference deal health"
+    },
+    {
+      "id": "6c5c122547bb82085ead",
+      "company": "Labcorp",
+      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-15T12:16:02+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T12:16:02+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "722 acquire assets bioreference certain health million opko subsidiary"
     },
     {
       "id": "0c205256d8453402389f",
@@ -395,6 +425,36 @@
       ],
       "coverage_count": 3,
       "event_signature": "ahead earnings here how placed"
+    },
+    {
+      "id": "f71acb9fdf247d332889",
+      "company": "Labcorp",
+      "title": "Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOWhCWHBTZzRxRmtLTGhvS014eS0tOUprQUpWU3JMczJVMWtzT0dvR1JIZ2NRVVBZbkR4M2ljYjBxMWJ3azh4dlhISXVPVU5pd1YwM2J6cS1Xamc0Wmp5WVBsN25zOHhnU05DTnc3NF9xS1A5Z2gzMDZxU29MLXhVZnc2cXktV1drUkxwVjRtNDFOY29wcGN5eXpYcjQ1eFRldDgtZUNoZW5kamctclRtZ21keFA4VzNNaF95RmktdDdVWWEzaXZWaUVkNURFcG5KaUw4X0l3ME1wR1RXTk9MTDNBbFgzMXprMmd1UTd3?oc=5",
+      "description": "Q2 Earnings Outperformers: Labcorp (NYSE:LH) And The Rest Of The Testing & Diagnostics Services Stocks Yahoo Finance",
+      "source": "StockStory",
+      "source_url": "https://stockstory.org",
+      "source_domain": "stockstory.org",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOWhCWHBTZzRxRmtLTGhvS014eS0tOUprQUpWU3JMczJVMWtzT0dvR1JIZ2NRVVBZbkR4M2ljYjBxMWJ3azh4dlhISXVPVU5pd1YwM2J6cS1Xamc0Wmp5WVBsN25zOHhnU05DTnc3NF9xS1A5Z2gzMDZxU29MLXhVZnc2cXktV1drUkxwVjRtNDFOY29wcGN5eXpYcjQ1eFRldDgtZUNoZW5kamctclRtZ21keFA4VzNNaF95RmktdDdVWWEzaXZWaUVkNURFcG5KaUw4X0l3ME1wR1RXTk9MTDNBbFgzMXprMmd1UTd3?oc=5",
+          "domain": "stockstory.org",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaTVLQ0VfQkdMZ0FfV2xZbzd6cU5LMERUQ0pfUWdaeW1NN29vY0xzcnRMd2M2R3Uwb2xBRm9oZW1pQzAxNUo0Z0g5U2VhOHV6YmJSUVlTSElBcmJaTXQxZzQwdmdSZzFpcnVnT05FV3NsVTVRRjVnOEJKV3RCM1AtaWJXTVI1MEF6bDRsVzZjVGZvTTBiNFNURnF6dHgzdGlh?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T16:08:27+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "earnings outperformers rest services stocks testing"
     },
     {
       "id": "558c1f44f46297eecf92",
@@ -2767,30 +2827,6 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "271c15b69f8c875d1da5",
-      "company": "Mayo Clinic Laboratories",
-      "title": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
-      "description": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com",
-      "source": "Digital Health News",
-      "source_url": "https://www.digitalhealthnews.com",
-      "source_domain": "digitalhealthnews.com",
-      "published_at": "2026-09-23T09:45:00+00:00",
-      "published_display": "23 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Digital Health News",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
-          "domain": "digitalhealthnews.com",
-          "published_at": "2026-09-23T09:45:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "across apac asia expand partner pathology precision"
-    },
-    {
       "id": "2d09aef4d9ea5d23e24c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App",
@@ -2861,6 +2897,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 acquisitions after day eyes investment investor lab tech"
+    },
+    {
+      "id": "271c15b69f8c875d1da5",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
+      "description": "Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com",
+      "source": "Digital Health News",
+      "source_url": "https://www.digitalhealthnews.com",
+      "source_domain": "digitalhealthnews.com",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Digital Health News",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5",
+          "domain": "digitalhealthnews.com",
+          "published_at": "2026-09-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "across apac asia expand partner pathology precision"
     },
     {
       "id": "8fd1c8a473789e7407ee",
@@ -13207,10 +13267,10 @@
       "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-16T06:17:00+05:30",
-  "next_update_display": "16 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-16T12:17:00+05:30",
+  "next_update_display": "16 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

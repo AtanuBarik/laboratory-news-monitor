@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 16 Oct 2026, 3:18 AM IST
+- **Repository generated:** 16 Oct 2026, 10:36 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,13 +22,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - Investing.com India: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY00ycjBGUEVKSmhzUWVmWXFQblhSZzFuQV9mdHlWY3VyMXBxSEJOeTlXYUtHQnBmUjl3UVhYUVMxbUR5dlBob2FMQ2NaQkFXMV8xb0xnT3lLV01DUWdvWWRaM1hIY2g4bFBnZ1RnbkJvbHd4c1d3UkdCRUJwOHpfeWwwaFpxYmRHeXJvVWtNU3lIdjVsRDJYUnpSblNWYVpHQmJUUUdRUzBMTzZzMWdkdUhieW1XNm5m?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxNai16bnJNdVlDc3BmamtaSy0ySFVBV19IWXdQblJrN3g3aEgtYUI2LUZuZC1xZUc5UGRQSURVSDRjNExwbUZ2eC1CYVQ3ckdQa19hQ0RXTi1PdThvaVdsMWJxVG9ac2FtUUw1YkhHSEt3b1prZGY5OVZnN04zMkR4MkdXSjBzZFdpaXlkaWtZRGJZTVhLUjN0clFiX25OSGFVWm5wT3hBajd4c2VwRjBYd2p3UVl3d3dMWWc?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWtpMU5vQ0pzT0lZNUUtTDgyeHctZjZ4d0RXODBBTVZDNFRsWWVUNW94MXliZXpWeG5zTVExX2h0ajR3ZE9RNkVjb0pvTjI0VHJxeEVwdndZZE9jUG9rZU9XQm9vWE9kOWFfQUZIVThxQkZpbDdlNmVGZEF4bjZzYTZQSU1ELUI2OFRWQUY4TVdCVzNOYWVSMGpFbVhkN2ZjaFhIa05PYks1WTZnNUY4RFpPV0tQSFhE?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUFjcTEyZXJrVjVoNjhuSGFoSlNzUFlLdXVGWnA5NU9mMVFvano1Qk95RExDS3duVU5lenBEdGtVNTdscXUwZlR3X0FXbUF5YmdfM1diejdUTXJkSEtOWmRRajVaTEYyYVpRMDZsV2xPUUVDUDY2V1NuX0RqanF6cWlnNTJEcVR4amJmdi1EUmtQUElYZ2QxMFBkamswTEN0VFVkNGRSYkNteUprMERadnp0dmZqcVZR?oc=5
 
 **Feed description:** Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com Investing.com South Africa
 
