@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-16T18:11:54.375807+05:30",
-  "generated_at_display": "16 Oct 2026, 6:11 PM IST",
+  "generated_at": "2026-10-16T22:28:58.925505+05:30",
+  "generated_at_display": "16 Oct 2026, 10:28 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 296,
+  "remaining_unsummarized_count": 299,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "51733e45eda803926fe1",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More",
+      "source": "BioBuzz",
+      "description": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz",
+      "published_at": "2026-10-16T16:42:36+00:00",
+      "published_display": "16 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeG83QzR4UjBxWm15ZWVzUmNkbXBlVGEtNTZxdEREbDdRSWo3YnNrZDNLaW03TGppMm52Z19Ec294S0JNVFpULUJTZ0Y1X210N3ZyYjl6ejZIUl82eE9qbm1Qa0JxSUs1WDFqVkpodjVwX2lKT092dGktZ3Zna1ZMMVRhNXVBUVhxcnNqNUp4VnlwSE1mTW15cVlyZnpNdVlCMW9rWQ?oc=5",
+      "sources": [
+        {
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeG83QzR4UjBxWm15ZWVzUmNkbXBlVGEtNTZxdEREbDdRSWo3YnNrZDNLaW03TGppMm52Z19Ec294S0JNVFpULUJTZ0Y1X210N3ZyYjl6ejZIUl82eE9qbm1Qa0JxSUs1WDFqVkpodjVwX2lKT092dGktZ3Zna1ZMMVRhNXVBUVhxcnNqNUp4VnlwSE1mTW15cVlyZnpNdVlCMW9rWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "60f34b58542d5152516c",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million",
+      "source": "BioBuzz",
+      "description": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz",
+      "published_at": "2026-10-16T16:19:58+00:00",
+      "published_display": "16 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5",
+      "sources": [
+        {
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5"
+        }
+      ]
+    },
     {
       "id": "72d08d31912a6b18f938",
       "company": "Labcorp",
@@ -669,44 +707,6 @@
         {
           "name": "HLTH",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "558c1f44f46297eecf92",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer",
-      "source": "Oncodaily",
-      "description": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily",
-      "published_at": "2026-10-13T14:41:29+00:00",
-      "published_display": "13 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
-      "sources": [
-        {
-          "name": "Oncodaily",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c14966b01d869b95812",
-      "company": "Labcorp",
-      "category": "Product & Services",
-      "title": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test",
-      "source": "Clinical Lab Products",
-      "description": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products",
-      "published_at": "2026-10-13T14:07:53+00:00",
-      "published_display": "13 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5"
         }
       ]
     }
