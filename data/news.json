@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-16T10:36:28.543151+05:30",
-  "generated_at_display": "16 Oct 2026, 10:36 AM IST",
-  "item_count": 401,
-  "raw_relevant_item_count": 579,
-  "duplicates_merged": 101,
+  "generated_at": "2026-10-16T17:25:42.530613+05:30",
+  "generated_at_display": "16 Oct 2026, 5:25 PM IST",
+  "item_count": 402,
+  "raw_relevant_item_count": 577,
+  "duplicates_merged": 100,
   "failures": [],
   "items": [
+    {
+      "id": "7a2e93ede337205cfb80",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Options Chain - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWl0bGV2MHJuSmtNbmphb2YxSXY3RWZaT0MxRUt2TUlRVWxzRmtBZkwzd1pvN3M5SDllOUdXSl9vcUJKUGxlUVY0aksydVNEcGY3RG5wb1YwTFZPaTVhQl9DVE5SaG1rYmJac0E4eVdLYkxZVmRwZ2xQM29fQS1aQW5FQXVMekJSM3VGSC14NEo?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Options Chain - Yahoo Finance Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-10-15T23:46:16+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTWl0bGV2MHJuSmtNbmphb2YxSXY3RWZaT0MxRUt2TUlRVWxzRmtBZkwzd1pvN3M5SDllOUdXSl9vcUJKUGxlUVY0aksydVNEcGY3RG5wb1YwTFZPaTVhQl9DVE5SaG1rYmJac0E4eVdLYkxZVmRwZ2xQM29fQS1aQW5FQXVMekJSM3VGSC14NEo?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-15T23:46:16+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "chain finance options yahoo"
+    },
     {
       "id": "eab260f911f0f2bb2c99",
       "company": "Labcorp",
@@ -29,6 +53,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "4kscore 872m assets bioreference health including pay prostate test"
+    },
+    {
+      "id": "02c7b289ee694af006da",
+      "company": "Labcorp",
+      "title": "Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjFmalNkczRlN19La2lJMjZicWlHTGxHcWdDbGx6SDVDZDJGa011dTNRZ1c2Q3RYemhpZFBKX0JGbFdGNVlleENRR0NkLWdWcGVjdVlBdGt1YmRuZExZOUY0cjZsX1VWT2JWekpCMXRzYTFKMk5BSnhsN2pFOVBZZlhpS3c1MkRqaEpTelBBQm5IQUNkUHp1dmJGSWtGSDBLOFVBR3BfYzRHeGxReGFJYUFVVUF3aE5yY01mWHd2dWFDYTVFY25pVk40b3RCX2N2T1ZhUUhjbHpDMWVkSk5RM3NSMko4ZGZqV2lHb0E3ZUw?oc=5",
+      "description": "Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec",
+      "source": "HealthExec",
+      "source_url": "https://healthexec.com",
+      "source_domain": "healthexec.com",
+      "published_at": "2026-10-15T22:18:31+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HealthExec",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjFmalNkczRlN19La2lJMjZicWlHTGxHcWdDbGx6SDVDZDJGa011dTNRZ1c2Q3RYemhpZFBKX0JGbFdGNVlleENRR0NkLWdWcGVjdVlBdGt1YmRuZExZOUY0cjZsX1VWT2JWekpCMXRzYTFKMk5BSnhsN2pFOVBZZlhpS3c1MkRqaEpTelBBQm5IQUNkUHp1dmJGSWtGSDBLOFVBR3BfYzRHeGxReGFJYUFVVUF3aE5yY01mWHd2dWFDYTVFY25pVk40b3RCX2N2T1ZhUUhjbHpDMWVkSk5RM3NSMko4ZGZqV2lHb0E3ZUw?oc=5",
+          "domain": "healthexec.com",
+          "published_at": "2026-10-15T22:18:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "872m buy cancer deal medical proprietary prostate test"
     },
     {
       "id": "e77232a9d2abdbf398a8",
@@ -769,36 +817,6 @@
       "event_signature": "aud fy2026 growth holds sets stock test"
     },
     {
-      "id": "6aa9de50eed931b30666",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics announces executive transition and leadership continuity",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzc0bTlBYUJvOXV6YmVKcFpDZHF5MFpFajAtanh0NC1mZV9RMEhIQkFuLUh4N0xPS3FvYWVGQUwweUJERGUybnV1X0FUbm1pZUgzR3FTOWpUSVJGbG1hMlp3RWdBS194TWlCUU91VUU1WFM0aDZoazdseGR5Ym0tUEwyUmVfb040bGlnMWlXYVpYMVRld3JPVTNjRzNMNWZmOUFtSlRlMGNRS2UwYUhYdGQ2ZlBscXRWbm8xR0h4T25KenA0?oc=5",
-      "description": "Quest Diagnostics announces executive transition and leadership continuity TipRanks",
-      "source": "TipRanks",
-      "source_url": "https://www.tipranks.com",
-      "source_domain": "tipranks.com",
-      "published_at": "2026-10-06T21:05:11+00:00",
-      "published_display": "06 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzc0bTlBYUJvOXV6YmVKcFpDZHF5MFpFajAtanh0NC1mZV9RMEhIQkFuLUh4N0xPS3FvYWVGQUwweUJERGUybnV1X0FUbm1pZUgzR3FTOWpUSVJGbG1hMlp3RWdBS194TWlCUU91VUU1WFM0aDZoazdseGR5Ym0tUEwyUmVfb040bGlnMWlXYVpYMVRld3JPVTNjRzNMNWZmOUFtSlRlMGNRS2UwYUhYdGQ2ZlBscXRWbm8xR0h4T25KenA0?oc=5",
-          "domain": "tipranks.com",
-          "published_at": "2026-10-06T21:05:11+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTU1zenFkVmpEOU81T19XZGMwTFk0Rk9tRE9EaGp2czJkMXFqeElZOTBVMEZ4Z2xCUXpwZzJub2hhaXZ5UWdZTkc1SzFxNlNqa0FfN2ppSkRsLUZmYktZcFZnbHZ2WWxNZFNPOHJJZkgyclhtYmlPVmV1OXhmVVZtTWVYMjBzNzR4YVF4TlhyanN1SHJFcVJ4NXgzaVNkdmN2N2dYcF9HeVZheFdVSEpBbXFDVkZicEkyYkxPOVVFZFJRaXVRSmN2MlZ5bHpPQk9XTFNxN01nQQ?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-07T00:02:31+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "continuity executive leadership transition"
-    },
-    {
       "id": "2838961a4f42bff8cfb0",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
@@ -977,6 +995,36 @@
       ],
       "coverage_count": 3,
       "event_signature": "analysis dividend"
+    },
+    {
+      "id": "6aa9de50eed931b30666",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics announces executive transition and leadership continuity",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzc0bTlBYUJvOXV6YmVKcFpDZHF5MFpFajAtanh0NC1mZV9RMEhIQkFuLUh4N0xPS3FvYWVGQUwweUJERGUybnV1X0FUbm1pZUgzR3FTOWpUSVJGbG1hMlp3RWdBS194TWlCUU91VUU1WFM0aDZoazdseGR5Ym0tUEwyUmVfb040bGlnMWlXYVpYMVRld3JPVTNjRzNMNWZmOUFtSlRlMGNRS2UwYUhYdGQ2ZlBscXRWbm8xR0h4T25KenA0?oc=5",
+      "description": "Quest Diagnostics announces executive transition and leadership continuity TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-10-06T07:00:00+00:00",
+      "published_display": "06 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTzc0bTlBYUJvOXV6YmVKcFpDZHF5MFpFajAtanh0NC1mZV9RMEhIQkFuLUh4N0xPS3FvYWVGQUwweUJERGUybnV1X0FUbm1pZUgzR3FTOWpUSVJGbG1hMlp3RWdBS194TWlCUU91VUU1WFM0aDZoazdseGR5Ym0tUEwyUmVfb040bGlnMWlXYVpYMVRld3JPVTNjRzNMNWZmOUFtSlRlMGNRS2UwYUhYdGQ2ZlBscXRWbm8xR0h4T25KenA0?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-10-06T07:00:00+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTU1zenFkVmpEOU81T19XZGMwTFk0Rk9tRE9EaGp2czJkMXFqeElZOTBVMEZ4Z2xCUXpwZzJub2hhaXZ5UWdZTkc1SzFxNlNqa0FfN2ppSkRsLUZmYktZcFZnbHZ2WWxNZFNPOHJJZkgyclhtYmlPVmV1OXhmVVZtTWVYMjBzNzR4YVF4TlhyanN1SHJFcVJ4NXgzaVNkdmN2N2dYcF9HeVZheFdVSEpBbXFDVkZicEkyYkxPOVVFZFJRaXVRSmN2MlZ5bHpPQk9XTFNxN01nQQ?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-07T00:02:31+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "continuity executive leadership transition"
     },
     {
       "id": "2ebca386c94d7bd0bb72",
@@ -2359,9 +2407,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaHJHalgxREtrWTdmTFg2aWU5dEpZZ3pDcjhESW1XZUFwY1BLQURiS3Z0T3VRYzVOS25KSFRDNnJwTWZjT1hJMWs3SUZJcFlITko0NVQ0QWpYSmdFbUFkclpKaG5NYXM5cVZlSHFxVnBvVkdOMTRNd0Y4S3BydnhGMEpsVk9NTjNxbXpjcldLNjBIcTZhNnM1U3lDNk92SXJ0ekVrbXNCNkNzMjN2WFE?oc=5",
           "domain": "mychesco.com",
           "published_at": "2026-09-26T12:00:00+00:00"
+        },
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSUE1NzJOaktKeHpXdXlfSGdQNFBYdkpOamFEWGs3VHcwejdzS0FQazNuUElocTZ1LUtKdmpnS1R4YlVuaFcwcU1TcEMtSVlQUXhwTG9jQkQybmhHc3dlR1V1Q2FEUDhtS2h3SWxxVTBuME1wT3hfTTgwQ0oxby1pRXd1cld6dzRBaWM0TzJtSzE5RWI1RUFqb1EweFJaSGhieXpIeDR5Zw?oc=5",
+          "domain": "greensboro.com",
+          "published_at": "2026-09-25T07:00:00+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "event_signature": "2019 attorney breach data general jackson jeff million over reaches settlement"
     },
     {
@@ -2995,30 +3049,6 @@
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
-      "id": "e91c042434a636de7902",
-      "company": "Quest Diagnostics",
-      "title": "Apple, Quest Diagnostics partner on in-app lab orders",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
-      "description": "Apple, Quest Diagnostics partner on in-app lab orders healthcare-brew.com",
-      "source": "Healthcare Brew",
-      "source_url": "https://www.healthcare-brew.com",
-      "source_domain": "healthcare-brew.com",
-      "published_at": "2026-09-22T21:58:42+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Healthcare Brew",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
-          "domain": "healthcare-brew.com",
-          "published_at": "2026-09-22T21:58:42+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "app apple lab orders partner"
-    },
-    {
       "id": "dd66ce0940f383248ed3",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Tuesday when compared to competitors",
@@ -3245,6 +3275,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 beat decline earnings eps estimate overshadowed revenue share trend"
+    },
+    {
+      "id": "e91c042434a636de7902",
+      "company": "Quest Diagnostics",
+      "title": "Apple, Quest Diagnostics partner on in-app lab orders",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
+      "description": "Apple, Quest Diagnostics partner on in-app lab orders healthcare-brew.com",
+      "source": "Healthcare Brew",
+      "source_url": "https://www.healthcare-brew.com",
+      "source_domain": "healthcare-brew.com",
+      "published_at": "2026-09-22T07:00:00+00:00",
+      "published_display": "22 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Healthcare Brew",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb3lYdGp0RUp4VXE0TFpfSmYwcmVNSDVrbTR3Z1hqdkdSVnBKbnFwU2lTNDNGQUlCZ3NNUFNxcjFmM25TdklWeWU1QWdpcm9fRFJkTERkeV92ZHZpZ0UzVlRhb1IwY0xPaVByaFBGQjdXS3FlM0VoS2JQVENVa0prNGRkaS1kMWpscElvYWtaWEk2SlIyUEtz?oc=5",
+          "domain": "healthcare-brew.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "app apple lab orders partner"
     },
     {
       "id": "7b39da611e35474f17ea",
@@ -3781,9 +3835,15 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORGxJZUZUQ1l2OFc3aU9DZzVrMWlCazNmbzdRUWN0bHVYLWhibDFNdFhsZGFxLVFocmNFX1dpckF4ZGJ3ZWd3bUZiMTRzRWtVYXBDY2prc21yUW5CYXB4bk0wRTlMSDVoX1ZSV1BWc2p4ZDh2ZFd0eXc3YzBGM0JPWXZuX3BlcG1wVVJDQmxERDhqZGI2dGc?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-09-16T12:03:00+00:00"
+        },
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSkpGVTBIc1VLNjVJZ3p1OGE2dGpabGwxNVhHcEVNZ3VrcWJDZS04WTEtREZmMjU2aXIxUGtGMzRDamRHdGpkemJ4YlJYQWctWktfZS1EVlFfS3h3SnZ2eXFHdHFMcExPTDRFM1FmbTFncHd0M3M5QkpmdXJKaHNmNHl5R0FfUFJuYWduV0wwU2l4b2VldE1SNFJXa0QtYWF5RWlmQzMxSXpkSVhMb2ZGWHVFbGVMU0hEVTRzMlY1ZlAxRTZpeXZuNURmRlRlT05lWXdqTUVGYXhXRi1PT1ZDSHdISnQ3eWd1b0VUM1NJaUNGVm91SWFFSXRBZ3dtbWJsRXJ5RURhSERwS3pFQzJXdEk2YmhzNFJRcEVPY0NsT1lOd3J4NWwyN2p0QzRET1d4b2l5MWR2Tk9vSm9kMnlz?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-09-16T12:03:41+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "access concern cuts diagnostic express finds harm lab medicare national nine patient payment survey testing that voters will"
     },
     {
@@ -13235,42 +13295,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "compared competitors monday stock underperforms when"
-    },
-    {
-      "id": "ee3469be3b162ebacbef",
-      "company": "Labcorp",
-      "title": "Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVncTdrQ2plb0VpYTJlMlVSRnBlLTd5cFRQa0QtZ3g3QnBTYkZLT1ZRZ1o2dXFjU1VTSjlPVENfdmpxQ2s4alpaQlA1R1Y4dVVsS0ZJVlBtc3ZFX040d2F4bTdMeUFUNTVOUElYUV9Pbl9nOXQwME0wTnRFY21WQ0pERUVLWGp1RV9MSTQ0WWdNZUVYanA3QTJmNlZSdWMzdXZXWG1tbThqSGxNQVVmMlhQOTFTU2U1ODNDa2hLc1JlUXFraTVEVXBMMA?oc=5",
-      "description": "Labcorp To Pay $14.5M To Settle Medicare Fraud Allegations Over Unnecessary Drug Testing dallasexpress.com",
-      "source": "dallasexpress.com",
-      "source_url": "https://dallasexpress.com",
-      "source_domain": "dallasexpress.com",
-      "published_at": "2026-07-18T07:00:00+00:00",
-      "published_display": "18 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dallasexpress.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNTVncTdrQ2plb0VpYTJlMlVSRnBlLTd5cFRQa0QtZ3g3QnBTYkZLT1ZRZ1o2dXFjU1VTSjlPVENfdmpxQ2s4alpaQlA1R1Y4dVVsS0ZJVlBtc3ZFX040d2F4bTdMeUFUNTVOUElYUV9Pbl9nOXQwME0wTnRFY21WQ0pERUVLWGp1RV9MSTQ0WWdNZUVYanA3QTJmNlZSdWMzdXZXWG1tbThqSGxNQVVmMlhQOTFTU2U1ODNDa2hLc1JlUXFraTVEVXBMMA?oc=5",
-          "domain": "dallasexpress.com",
-          "published_at": "2026-07-18T07:00:00+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkFyWUh4TzVDZm5GenYxSE5oNUdLQ0dzUV9fYVhoWGF0Rk4zMEdJemp4bTZDWC1sRTlsWndNeGgzNHlxQk1jc3Y5VWRVR0RMbTA2VjVHaUxhVjRLdkQzWkhxUUxjSzk1QU9kTzVhSTZNY0tFZlRhREdRWUw5Z3RNNzdvSEhMRlJ6MHZSbEpHRVRid1R4bkdmLThxXzlJWEEtVWo2bWs3WWF0Zw?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-07-20T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "allegations drug fraud medicare over pay settle testing unnecessary"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-16T12:17:00+05:30",
-  "next_update_display": "16 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-16T18:17:00+05:30",
+  "next_update_display": "16 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
