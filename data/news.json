@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-16T22:28:55.048874+05:30",
-  "generated_at_display": "16 Oct 2026, 10:28 PM IST",
+  "generated_at": "2026-10-17T03:13:45.001447+05:30",
+  "generated_at_display": "17 Oct 2026, 3:13 AM IST",
   "item_count": 405,
-  "raw_relevant_item_count": 579,
-  "duplicates_merged": 99,
+  "raw_relevant_item_count": 582,
+  "duplicates_merged": 104,
   "failures": [],
   "items": [
     {
@@ -661,9 +661,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-10-13T13:00:16+00:00"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-10-16T10:56:03+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "arianna collaborate global health huffington launch test thrive"
     },
     {
@@ -1525,30 +1531,6 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "d01b7ce2b879aa1bda5e",
-      "company": "Quest Diagnostics",
-      "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
-      "description": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-09-30T13:00:00+00:00",
-      "published_display": "30 Sep 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-30T13:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "athletes becomes ecgs first florida heart high launch myelai play program require school screening state tampa who"
-    },
-    {
       "id": "69ed1c7f6992f12cfdb3",
       "company": "Labcorp",
       "title": "Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected",
@@ -1571,6 +1553,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "347 affected breach data hawai residents settlement"
+    },
+    {
+      "id": "d01b7ce2b879aa1bda5e",
+      "company": "Quest Diagnostics",
+      "title": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
+      "description": "Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes finance.yahoo.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-09-30T07:00:00+00:00",
+      "published_display": "30 Sep 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "athletes becomes ecgs first florida heart high launch myelai play program require school screening state tampa who"
     },
     {
       "id": "13708c39e138ffb240fe",
@@ -13375,10 +13381,10 @@
       "event_signature": "compared competitors monday stock underperforms when"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 71,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-17T00:17:00+05:30",
-  "next_update_display": "17 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-17T06:17:00+05:30",
+  "next_update_display": "17 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

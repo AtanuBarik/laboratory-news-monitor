@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 16 Oct 2026, 10:28 PM IST
+- **Repository generated:** 17 Oct 2026, 3:13 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -290,12 +290,13 @@
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
 - **Category:** Product & Services
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMElHcVhTUDh1Z2N2OXNQdENfdmtlVVpBX3N5MDJTajZiZTluaU5uaDNPMWtVMWlLYjNoN3N3MmtTUXNTaFkzYjVleGVlN0xTUDRsbUVSTmdEU3hTLWI1LUpSdUlhTVZSdUdGaGM0a3cxZ1U3aEtQQy1OYXVWdkxJRU0zTXVydkFzQ2p4YWFKemxMVjFRWDFEY2w0bkc5dEdZeUNQNDBkbDAwYWhHOWdldFFzVnR5UnVTYTRxRmhGMWtobFRwdnNjcUxaUGZlQW1iSUszN1B1c1RMWkdFT0JYY2FwVnA?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5
+  - Fierce Biotech: https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5
 
 **Feed description:** Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire
 
@@ -698,19 +699,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com
 
-## 56. Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 30 Sep 2026
-- **Category:** Product & Services
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5
-
-**Feed description:** Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes finance.yahoo.com
-
-## 57. Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected
+## 56. Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected
 
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
@@ -721,6 +710,18 @@
   - Hoodline: https://news.google.com/rss/articles/CBMipgFBVV95cUxPRUdPYWxmcWpiT2hDQVdyam9wcW9HZ1lVTVJ1bUpxR2o0MC03cW1QRmRJemliVFllMGc5a0lDRXM0NHZwNGUtSzcwdlVhZ1c4UFpzeC1tTFlZVWE0SFdXLXJ4bTFyY3ZZN1VqSjY3bTlsd0pBbWxpdzd5RUtaQUJ5QTh5WTAtTE4tWUxSdWFXVTFwZmdpWW1SeVdnZkNodFpiMVZOTTJR?oc=5
 
 **Feed description:** Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected Hoodline
+
+## 57. Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 30 Sep 2026
+- **Category:** Product & Services
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxPWTlRclpHUUxlMTd4X0U2Z2Z1WHhxYkFVZE5wUTIxN21sbWd0aEpELWNxWU1IdmtCaWFITk15WXI5bGJhb1ZIcmY2SkxsdzdKRUE2OEp0c2xXWXptWEdvaWpwaHhGOXo5YVBaNGRqMXVJWVlwV3NiNURZWlhQSUtVd2xBNnREeW56Nm1XLVk2MldwNVVycVRFS1BfTQ?oc=5
+
+**Feed description:** Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes finance.yahoo.com
 
 ## 58. Labcorp to release Q3 2026 earnings on Oct 28 w...
 
