@@ -1,23 +1,11 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 17 Oct 2026, 10:31 AM IST
+- **Repository generated:** 17 Oct 2026, 4:41 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Quest Diagnostics stock price, news, quote and history
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 16 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance Australia: https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5
-
-**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
-
-## 2. Quest Diagnostics Options Chain - Yahoo Finance
+## 1. Quest Diagnostics Options Chain - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -30,7 +18,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Options Chain - Yahoo Finance Yahoo! Finance Canada
 
-## 3. Truist lifts target to USD 260.00 for Quest Diagnostics stock
+## 2. Truist lifts target to USD 260.00 for Quest Diagnostics stock
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -42,7 +30,7 @@
 
 **Feed description:** Truist lifts target to USD 260.00 for Quest Diagnostics stock ad-hoc-news.de
 
-## 4. Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com
+## 3. Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -58,6 +46,19 @@
   - Investing.com Australia: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTlHQ1VrVzhuTno0WGYyR2JCQ3FXWlIxeV9jWGpkd2lOVVNOcmpkR1ZhWjFFNkNyd1BXTGdNajVPS2FSdUdleWlyRzkxNm52eEloZU4wQzRfSnQxX3NaTHd3cXpnV2s2eWxDOHJ1N0RONGhYWmJRLXR4RGtvek9yWjVETmt6NkczZFZqVGFQMkJCSHkzRUQ2bjZKOWY2aDNnbnRxTGNKS2FQbHRjT2pvcmdSYVVsc0hU?oc=5
 
 **Feed description:** Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com Investing.com South Africa
+
+## 4. Quest Diagnostics Stock Price, News, Quote & History
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 15 Oct 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo! Finance Canada: https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5
+  - Yahoo Finance Australia: https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5
+
+**Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
 ## 5. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
 

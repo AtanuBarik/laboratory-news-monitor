@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T10:31:25.034651+05:30",
-  "generated_at_display": "17 Oct 2026, 10:31 AM IST",
+  "generated_at": "2026-10-17T16:41:44.620793+05:30",
+  "generated_at_display": "17 Oct 2026, 4:41 PM IST",
   "item_count": 405,
-  "raw_relevant_item_count": 583,
-  "duplicates_merged": 106,
+  "raw_relevant_item_count": 584,
+  "duplicates_merged": 105,
   "failures": [],
   "items": [
     {
@@ -53,30 +53,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "722 acquire assets bioreference burlington health million opko select"
-    },
-    {
-      "id": "2ebca386c94d7bd0bb72",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock price, news, quote and history",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
-      "source": "Yahoo Finance Australia",
-      "source_url": "https://au.finance.yahoo.com",
-      "source_domain": "au.finance.yahoo.com",
-      "published_at": "2026-10-16T09:58:15+00:00",
-      "published_display": "16 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
-          "domain": "au.finance.yahoo.com",
-          "published_at": "2026-10-16T09:58:15+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "history price quote stock"
     },
     {
       "id": "3a4935c0368515d6d906",
@@ -427,6 +403,36 @@
       "event_signature": "behavior biomarkers change combining global health launch test thrive"
     },
     {
+      "id": "131a04cd4b17846e8707",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Price, News, Quote & History",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-10-15T05:54:53+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-15T05:54:53+00:00"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
+          "domain": "au.finance.yahoo.com",
+          "published_at": "2026-10-16T09:58:15+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "history price quote stock"
+    },
+    {
       "id": "7a20cc588232a5931ab0",
       "company": "Sonic Healthcare",
       "title": "How Far Can Sonic Healthcare Rebuild Margins?",
@@ -673,9 +679,15 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5",
           "domain": "fiercebiotech.com",
           "published_at": "2026-10-16T10:56:03+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-13T12:53:50+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "arianna collaborate global health huffington launch test thrive"
     },
     {
@@ -13393,10 +13405,10 @@
       "event_signature": "compared competitors monday stock underperforms when"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 71,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-17T12:17:00+05:30",
-  "next_update_display": "17 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-17T18:17:00+05:30",
+  "next_update_display": "17 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
