@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-17T21:27:38.550205+05:30",
-  "generated_at_display": "17 Oct 2026, 9:27 PM IST",
-  "item_count": 405,
-  "raw_relevant_item_count": 586,
-  "duplicates_merged": 106,
+  "generated_at": "2026-10-18T02:29:46.393964+05:30",
+  "generated_at_display": "18 Oct 2026, 2:29 AM IST",
+  "item_count": 408,
+  "raw_relevant_item_count": 593,
+  "duplicates_merged": 109,
   "failures": [],
   "items": [
+    {
+      "id": "1a2a53b69aba0ef1f4b6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics will report results on October 22 for Quest Diagnostics stock",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVG5ZV0JTUFBrdXNhcmJsSGJvUW5JQy10UDJvR09ieTRwckZuV1c1QmFvd3pqYmktLWtiYWlldk9uajFhZUFibEhITkpnYkowN2xNaXZnT29wbHJCSjc5M1JuYjBOaXk5cE91UVNiMmxyOUliNWI1RW1LU2xYWEppNE9VQjhHbTBPRXBCZWZjcmlSMllFcjBkdHJMSGRRZkNKeXpXQllHMUd3WlRXY0ZUTW9lV3hpOUVIZmFlWHZ6Zk82emtXdWF6dUN2UTE?oc=5",
+      "description": "Quest Diagnostics will report results on October 22 for Quest Diagnostics stock ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-17T19:01:44+00:00",
+      "published_display": "17 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVG5ZV0JTUFBrdXNhcmJsSGJvUW5JQy10UDJvR09ieTRwckZuV1c1QmFvd3pqYmktLWtiYWlldk9uajFhZUFibEhITkpnYkowN2xNaXZnT29wbHJCSjc5M1JuYjBOaXk5cE91UVNiMmxyOUliNWI1RW1LU2xYWEppNE9VQjhHbTBPRXBCZWZjcmlSMllFcjBkdHJMSGRRZkNKeXpXQllHMUd3WlRXY0ZUTW9lV3hpOUVIZmFlWHZ6Zk82emtXdWF6dUN2UTE?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-17T19:01:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "october report results stock will"
+    },
     {
       "id": "51733e45eda803926fe1",
       "company": "Labcorp",
@@ -53,6 +77,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "722 acquire assets bioreference burlington health million opko select"
+    },
+    {
+      "id": "c36ce0120eb5e0f187cc",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Shares May Trade At A Discount On Earnings",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnNNVGxsWllpSUdqNGt1ekk1cE8weGNtOU4wclJjTlc5UlJzU05qUGIzS2ZQTWJ5cGRDYjJiUmhSV3ZsZENyNTgzMXRGX05kcDZwMGlOZFduc3BMQXdoVXZwSVBWNi1oMFl2aXBnbGhMYXhibXRsRHRFUmxsdGRkUWFNVXRzQWFZeXRYdUFJTWI5VWxScF9idk5QNTQ?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL) Shares May Trade At A Discount On Earnings Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-16T10:16:08+00:00",
+      "published_display": "16 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnNNVGxsWllpSUdqNGt1ekk1cE8weGNtOU4wclJjTlc5UlJzU05qUGIzS2ZQTWJ5cGRDYjJiUmhSV3ZsZENyNTgzMXRGX05kcDZwMGlOZFduc3BMQXdoVXZwSVBWNi1oMFl2aXBnbGhMYXhibXRsRHRFUmxsdGRkUWFNVXRzQWFZeXRYdUFJTWI5VWxScF9idk5QNTQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-16T10:16:08+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "discount earnings may shares trade"
     },
     {
       "id": "3a4935c0368515d6d906",
@@ -481,9 +529,15 @@
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblhBS1VESW52cXRkV2x3SUxvNjZHYTBVSm5zY255a1M1TkpPOGk2RGJWOHE3OGhfSTNkNjdpdlZwRzVOclZTcVZpbnpOcGU0a3ZHdmxDZVBTUl9RNXVhNjFsUUxGSFhLVHEwdUFwTEx3NUtFaHhtbzZ0eTc0ME0wQXB4SVNDNlRrQ1hsUk56Wi1PT0R4azZxSmZWMkFrbXktcmZGc2ZrbE9hOWFiMHhPeWluMUNscHVTd0ZOeXBtZmtRa0hVTWQtZlVBUFdrZ0g3eExmR0wtNWl1aDcwZFBWd2NWd3JyenZyWU41TjZTcDlacW9OdVZCdkRGU0JZY1lnc1F2alVtT18xQQ?oc=5",
           "domain": "marketwatch.com",
           "published_at": "2026-10-14T20:59:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkl4X25BTnJhMzQ3OHdLdnJTZFY0ekRKRkVBWXh6ZUVwNi03N2xpMkxpY2VHeDI5VjF1TU9BQUVwYkJidTB1VmlDM0oyNGd3b3RFMlAxeW9ZNlpyVHB4YWpqS1NhTDMxd3lGeFJ5QmJYQkJLTHA5Q0JzSFpnZXFjcUdWZ0lDRWhNRzZjbVhCMlJXZ21YRzR6ZFZFbzNBbFVJWjgyR2JMbUg0QkNBTW5tUUNUNzJ3bVJiQ2tKZXc0Q2pXWmVIQjVqaDdCNEEyOElvTUxv?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-16T20:57:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "compared competitors daily despite gains stock underperforms wednesday when"
     },
     {
@@ -827,6 +881,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "230 price stock today"
+    },
+    {
+      "id": "9a1370ffdef6e6e28518",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock gains on Apple Health lab testing partnership",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
+      "description": "Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-09T17:22:00+00:00",
+      "published_display": "09 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-09T17:22:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apple gains health lab partnership stock testing"
     },
     {
       "id": "f40e12bc9ae92e75a5fb",
@@ -1231,19 +1309,25 @@
       "event_signature": "analyst estimates forecasts n6b ratings"
     },
     {
-      "id": "0e37724b2fb662feece4",
+      "id": "54414b24623be5231cd2",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5",
       "description": "Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Yahoo Finance",
-      "source": "Barchart.com",
-      "source_url": "https://www.barchart.com",
-      "source_domain": "barchart.com",
-      "published_at": "2026-10-05T11:31:19+00:00",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-05T07:00:00+00:00",
       "published_display": "05 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-05T07:00:00+00:00"
+        },
         {
           "name": "Barchart.com",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSWFPNmRNcmtpYkdTeklLNHdIRkZrNkJNNHJRUXc5dWdvNTZNUmJDMVlMVFRVeHdRSkxZZTZnVWRac3NyRFJuakxYSEZtY29WZDg5Q2h1ZzhXSjhXWDBId05DdWtLeHU5bHQ2eGI5dE9haVBIWDE3QWFrUVpTVGRmWi1Od1BtSmY2eVRiRlFCN1pndFZ5RnJWUjluWjZwY0tjVldxeE9vWWNHUElDdXdj?oc=5",
@@ -1255,12 +1339,6 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVFRqMTVmdGJTVHVMRzBEbWRoX2c5YV9CcWJ2YWNHOEJCWVRzZElFNjdlUGhXaVdRNV91bkJELUV0S21hMk52WFB6aURYbVNtR3FOM1YtS3piRFBXUUtldThvZ2pYUW1DLUV5VlpPaS0wWDRNV1RwbTBWeTZkdGFjODI1SDEtN3Y3S0ZURjlsTkZKd0pjdEVOdUdTLThjSmlfYUNkOVRlbXVCWkF5Y1hr?oc=5",
           "domain": "barchart.com",
           "published_at": "2026-10-05T11:35:40+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSFZUOV9wTWw3UTQ4VFJTZVZvU1dGZ2JkRXJDeDFXdzV5YXBKWUU4dGtPVUlkYWRfejlucC00Z08yNk03WktMUk1XNWlRUV8tRmhMT0pGNkIxV1lnNXcyR0pObjVleUFPTGUzelF2UVZ6MG50RlA4a2RVcDJaR2oxYmE3WmR2MXhYa3dZa1FlbTRZcDZBYVk3RU9laWhhWGV2VGpyYVVjbm8?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-05T11:31:19+00:00"
         },
         {
           "name": "inkl.com",
@@ -3151,9 +3229,15 @@
           "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOa0lHeVp4a1NDY3pZMkpMbGExRVVjRThaSUtoNk1sMjhWYWtnRkxabGJlNGREZGlXbTU4ZHlXcDc3ZWFHM3dlX2lTbjgzd1c3UHFNcWFNSGdGMGhlV3E5anctMzZGTHdvTjcyYVZmcmhla3NkOUYyMEQyOXQ0b1ZjRDJJM1ZSRkVMRGNmak01ei1XZUlIYy1JYnh2RWtHcndMcW1sU3dwOUM5X0t0QUM4Z3FQYVMwRHhnSFYwQUpsc3Znb29HSTJVZlFaTnp2SFFSamtYVEp4Zm0zcU1mRk5OUi1aZ1dvYUxCWkRSRGhoOFd0QXI0V1pWaHpncFdBWTFfUi1ROF9IMkZyeTQ3NDBjR2FsTGlUVENBU3ptSGF1ZlFHWkdwdzZSaUYycjdVYTUzME5xdTFFanlCQdIBvwJBVV95cUxNOTFFWW9TX201VEI3ekNBVkROMW5WWGVWdEtFTktFQngwZEJvaFUzQndIak5WTXJtY2hjdWFTNmtKSnlmTU1rZUlfTGdpamxBUmNWZ1JGV05kZV92cXVVTUFrZUIwenpMbEFCNmhDbVNwa2w0dFRweElyOWxEY2RvbUU1SWlFUTJsUUNVLXlUblpCbG1CZ1pEd0g5cWdodFd2WmN0MUZ2dldxaHNKc21vZ0VEa21ScW1FT2N0aVlDei1VelBNc2dlY3pTV2Y3dTJjNE9HT19BT0Y2U3pSUE9MX0wzWGlIYlZSamRzZnpISjVTeU1qZnUxRXRsaENQZWttdU9zeDJ5NC1wS3dIb1lGYzdqbFdid0d6LUpULUdRVm8zZ1JTOTg3OXhZUUlpU215NUM0Z2dmQ3hCdEVEaTEw?oc=5",
           "domain": "manilatimes.net",
           "published_at": "2026-09-23T07:00:00+00:00"
+        },
+        {
+          "name": "DagangNews",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHFaelFKTGw0NDcwYjhXQmtzWXpZaFVLQTJtX2pmMW5CTTczTjV6dFFYZHBWOUl2WXpVWl9fb0ZfREQ3RVEwd2dCUk5tQjhLVnZCMjg1SDJ6WFZERFI5UHM5V1JIcnRSaDlTTHJiVml4NEd0RDNvVXRlMUVLUFBGX1dqOHRsdE0yTUVzMkZpRnVFYlFrRko3OXROSFhLZFBKWXo1R25MeE1HbktMekZ5b1NPcUxkeEh6eDdYOWd4aVFUZUc2bHhEb2IzaFRZcUc4RW93R1pGNnlyUXBKT2dfSGg0T3NhRkRVYlBzMmoyXzZmNDQ4dVpTS0VnaURlRDVEc09N?oc=5",
+          "domain": "dagangnews.com",
+          "published_at": "2026-09-23T07:00:00+00:00"
         }
       ],
-      "coverage_count": 9,
+      "coverage_count": 10,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -13411,10 +13495,10 @@
       "event_signature": "compared competitors monday stock underperforms when"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 72,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-18T00:17:00+05:30",
-  "next_update_display": "18 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-18T06:17:00+05:30",
+  "next_update_display": "18 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
