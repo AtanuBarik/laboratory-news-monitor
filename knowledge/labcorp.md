@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 17 Oct 2026, 3:13 AM IST
+- **Repository generated:** 17 Oct 2026, 10:31 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -796,11 +796,12 @@
 - **Company:** Labcorp
 - **Publication date:** 21 Sep 2026
 - **Category:** Product & Services
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Seeking Alpha: https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5
+  - Seeking Alpha: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0NtNzRyMFk5cDZ0XzFHcUllQWdSQ0RpcHB6dGVwdVAzemIxZXpGOGNhY3dsTTJ3aVNsblFQdnFRY2R3ZGt6WnprRjZCTVNoLXRKcm9MaWFWWVZXZTRrTW1HbzVPZEItRkpvT3d3Y08tQVpKZ2kwcFhXOGdZT1BpTnZWMGR5YzRIMlhXSkNoeTdyU3lBLW9zeEZsZnJoeUNsWEF1UnhJOTVmcDAtM3Q1S2VWZmVoM0ZmUm5NYVktS0JZZzg?oc=5
 
 **Feed description:** Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha
 

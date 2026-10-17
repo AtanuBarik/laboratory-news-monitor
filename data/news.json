@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-17T03:13:45.001447+05:30",
-  "generated_at_display": "17 Oct 2026, 3:13 AM IST",
+  "generated_at": "2026-10-17T10:31:25.034651+05:30",
+  "generated_at_display": "17 Oct 2026, 10:31 AM IST",
   "item_count": 405,
-  "raw_relevant_item_count": 582,
-  "duplicates_merged": 104,
+  "raw_relevant_item_count": 583,
+  "duplicates_merged": 106,
   "failures": [],
   "items": [
     {
@@ -247,9 +247,15 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUFjcTEyZXJrVjVoNjhuSGFoSlNzUFlLdXVGWnA5NU9mMVFvano1Qk95RExDS3duVU5lenBEdGtVNTdscXUwZlR3X0FXbUF5YmdfM1diejdUTXJkSEtOWmRRajVaTEYyYVpRMDZsV2xPUUVDUDY2V1NuX0RqanF6cWlnNTJEcVR4amJmdi1EUmtQUElYZ2QxMFBkamswTEN0VFVkNGRSYkNteUprMERadnp0dmZqcVZR?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-10-15T16:18:47+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTlHQ1VrVzhuTno0WGYyR2JCQ3FXWlIxeV9jWGpkd2lOVVNOcmpkR1ZhWjFFNkNyd1BXTGdNajVPS2FSdUdleWlyRzkxNm52eEloZU4wQzRfSnQxX3NaTHd3cXpnV2s2eWxDOHJ1N0RONGhYWmJRLXR4RGtvek9yWjVETmt6NkczZFZqVGFQMkJCSHkzRUQ2bjZKOWY2aDNnbnRxTGNKS2FQbHRjT2pvcmdSYVVsc0hU?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-10-15T16:28:46+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "com earnings investing may oct shares shift"
     },
     {
@@ -2965,30 +2971,6 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "2d09aef4d9ea5d23e24c",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
-      "description": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App telehealth.org",
-      "source": "telehealth.org",
-      "source_url": "https://telehealth.org",
-      "source_domain": "telehealth.org",
-      "published_at": "2026-09-23T08:00:00+00:00",
-      "published_display": "23 Sep 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "telehealth.org",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
-          "domain": "telehealth.org",
-          "published_at": "2026-09-23T08:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "119 app apple biomarker health inside lab panel sell will"
-    },
-    {
       "id": "db16752d0c91226c2c06",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds",
@@ -3059,6 +3041,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "across apac asia expand partner pathology precision"
+    },
+    {
+      "id": "2d09aef4d9ea5d23e24c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
+      "description": "Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App Telehealth.org",
+      "source": "Telehealth.org",
+      "source_url": "https://telehealth.org",
+      "source_domain": "telehealth.org",
+      "published_at": "2026-09-23T07:00:00+00:00",
+      "published_display": "23 Sep 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Telehealth.org",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5",
+          "domain": "telehealth.org",
+          "published_at": "2026-09-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "119 app apple biomarker health inside lab panel sell will"
     },
     {
       "id": "8fd1c8a473789e7407ee",
@@ -3505,9 +3511,15 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-09-21T21:13:01+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0NtNzRyMFk5cDZ0XzFHcUllQWdSQ0RpcHB6dGVwdVAzemIxZXpGOGNhY3dsTTJ3aVNsblFQdnFRY2R3ZGt6WnprRjZCTVNoLXRKcm9MaWFWWVZXZTRrTW1HbzVPZEItRkpvT3d3Y08tQVpKZ2kwcFhXOGdZT1BpTnZWMGR5YzRIMlhXSkNoeTdyU3lBLW9zeEZsZnJoeUNsWEF1UnhJOTVmcDAtM3Q1S2VWZmVoM0ZmUm5NYVktS0JZZzg?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-09-21T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2027 cms cuts fall rates services"
     },
     {
@@ -13381,10 +13393,10 @@
       "event_signature": "compared competitors monday stock underperforms when"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 69,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-17T06:17:00+05:30",
-  "next_update_display": "17 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-17T12:17:00+05:30",
+  "next_update_display": "17 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

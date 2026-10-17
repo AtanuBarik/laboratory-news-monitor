@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 17 Oct 2026, 3:13 AM IST
+- **Repository generated:** 17 Oct 2026, 10:31 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -107,7 +107,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - Investing.com India: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5
@@ -115,6 +115,7 @@
   - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxNai16bnJNdVlDc3BmamtaSy0ySFVBV19IWXdQblJrN3g3aEgtYUI2LUZuZC1xZUc5UGRQSURVSDRjNExwbUZ2eC1CYVQ3ckdQa19hQ0RXTi1PdThvaVdsMWJxVG9ac2FtUUw1YkhHSEt3b1prZGY5OVZnN04zMkR4MkdXSjBzZFdpaXlkaWtZRGJZTVhLUjN0clFiX25OSGFVWm5wT3hBajd4c2VwRjBYd2p3UVl3d3dMWWc?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWtpMU5vQ0pzT0lZNUUtTDgyeHctZjZ4d0RXODBBTVZDNFRsWWVUNW94MXliZXpWeG5zTVExX2h0ajR3ZE9RNkVjb0pvTjI0VHJxeEVwdndZZE9jUG9rZU9XQm9vWE9kOWFfQUZIVThxQkZpbDdlNmVGZEF4bjZzYTZQSU1ELUI2OFRWQUY4TVdCVzNOYWVSMGpFbVhkN2ZjaFhIa05PYks1WTZnNUY4RFpPV0tQSFhE?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOUFjcTEyZXJrVjVoNjhuSGFoSlNzUFlLdXVGWnA5NU9mMVFvano1Qk95RExDS3duVU5lenBEdGtVNTdscXUwZlR3X0FXbUF5YmdfM1diejdUTXJkSEtOWmRRajVaTEYyYVpRMDZsV2xPUUVDUDY2V1NuX0RqanF6cWlnNTJEcVR4amJmdi1EUmtQUElYZ2QxMFBkamswTEN0VFVkNGRSYkNteUprMERadnp0dmZqcVZR?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYTlHQ1VrVzhuTno0WGYyR2JCQ3FXWlIxeV9jWGpkd2lOVVNOcmpkR1ZhWjFFNkNyd1BXTGdNajVPS2FSdUdleWlyRzkxNm52eEloZU4wQzRfSnQxX3NaTHd3cXpnV2s2eWxDOHJ1N0RONGhYWmJRLXR4RGtvek9yWjVETmt6NkczZFZqVGFQMkJCSHkzRUQ2bjZKOWY2aDNnbnRxTGNKS2FQbHRjT2pvcmdSYVVsc0hU?oc=5
 
 **Feed description:** Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com Investing.com South Africa
 
@@ -1282,19 +1283,7 @@
 
 **Feed description:** Labcorp Holdings Inc. R (N6B.DE) Q1 FY2026 earnings call transcript finance.yahoo.com
 
-## 99. Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 23 Sep 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - telehealth.org: https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5
-
-**Feed description:** Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App telehealth.org
-
-## 100. Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds
+## 99. Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Sep 2026
@@ -1306,7 +1295,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated: Testing Growth Keeps Me Bullish Despite Medicare Headwinds Seeking Alpha
 
-## 101. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
+## 100. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 23 Sep 2026
@@ -1318,7 +1307,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com
 
-## 102. Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC
+## 101. Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
@@ -1329,6 +1318,18 @@
   - Digital Health News: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNelU0UldOYlhhRl9UQmZjVzJMTUFJZkNGdUVpMm13YlJXRnI5RTVZS3ZnT0QyTHFFYlJQX1Q0dUN2OTlNakFMSUsxTWFuQkNjNTExZlVMdnh2X1ZQcFVucE13UmdSOEZfZ0RiZUJ0MGxMdFlYamhQTHFxZ3dRdlBYcnlvSG9oYkhyMnFJSkF1UmNHTkExWkVlenhkQW5FVFlnOWcwSmNUYU5PbWphMjZJODFRdk4zYWhiTnVKbnNoOGJQVTg?oc=5
 
 **Feed description:** Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com
+
+## 102. Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Sep 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Telehealth.org: https://news.google.com/rss/articles/CBMirwFBVV95cUxQR195SFJWTFdpdDgtaS00Y1FGLXhZSFNKWFppVEN2NHBLVDBIbVlYSmZvXzJveUdLU1RyRFBNb1NpbXJRNklEQXdFWFBVV3dmV2RYUXlvSU9GRmpjU1dMSUQ1N29zajVIcjhqclZsWUJxdi1XXzBkOFhtdTl4Q3BDUnNydVlHZFR0aDVLUTJBMHdHNTBCZFpOU25fMFgyd2l3UUJPQUpkYkljdlk0OElR?oc=5
+
+**Feed description:** Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App Telehealth.org
 
 ## 103. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
 
@@ -1501,11 +1502,12 @@
 - **Company:** Labcorp
 - **Publication date:** 21 Sep 2026
 - **Category:** Product & Services
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Seeking Alpha: https://news.google.com/rss/articles/CBMinAFBVV95cUxONG9rOHh5RUwzTm84NEZneHowLTlUeWdPV0Rocld4TGw1S3JXUEN1VEJkZDdQSG40R2lXd1NsTGF4U3Qycy1aOV9ZQVdSQ1g4SjhQLWZIQlZwUVdpV0pVeFpMQmZkdjdHMjI2S0s4Q25OT19MSl9XY3hRZGNVZkdmbUFEUDk1OHJfYUg4SkFBeHY1anZDbEZjVFdIelY?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMixwFBVV95cUxPUUdPY1BqcUZha2RhX3N1QU9ZLXVpOVJJMnVteHJZZ3hVdWdYYVdWcURWX19OOENYQ3FpdWRidVJZcHJYbXNiR0gxcWdOWFkwWmpqY0FCMWNMcTZmZXlJNWlqc3R6UkdlaUV4b3AxeEF4QjE2Y1EwZEhfTVBud1I2Yi1OWldveUtUNGR6dUdsWF9scGtLUVBJN1Bac0lieGZtOU40M0REMTJJbkdzQ0Vnd3hTUXVhWllyQ1BsY2g5TnJNOEtXeXJZ?oc=5
+  - Seeking Alpha: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV0NtNzRyMFk5cDZ0XzFHcUllQWdSQ0RpcHB6dGVwdVAzemIxZXpGOGNhY3dsTTJ3aVNsblFQdnFRY2R3ZGt6WnprRjZCTVNoLXRKcm9MaWFWWVZXZTRrTW1HbzVPZEItRkpvT3d3Y08tQVpKZ2kwcFhXOGdZT1BpTnZWMGR5YzRIMlhXSkNoeTdyU3lBLW9zeEZsZnJoeUNsWEF1UnhJOTVmcDAtM3Q1S2VWZmVoM0ZmUm5NYVktS0JZZzg?oc=5
 
 **Feed description:** Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha
 
