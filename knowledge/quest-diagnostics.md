@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 18 Oct 2026, 2:29 AM IST
+- **Repository generated:** 18 Oct 2026, 10:40 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizAFBVV95cUxNVG5ZV0JTUFBrdXNhcmJsSGJvUW5JQy10UDJvR09ieTRwckZuV1c1QmFvd3pqYmktLWtiYWlldk9uajFhZUFibEhITkpnYkowN2xNaXZnT29wbHJCSjc5M1JuYjBOaXk5cE91UVNiMmxyOUliNWI1RW1LU2xYWEppNE9VQjhHbTBPRXBCZWZjcmlSMllFcjBkdHJMSGRRZkNKeXpXQllHMUd3WlRXY0ZUTW9lV3hpOUVIZmFlWHZ6Zk82emtXdWF6dUN2UTE?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0Z3eV9jSzNXZTByTW5DYTkzdFFHckVOWWx2MmZMTlBOZllfVnhUZTVsdEZOVzhYQUFtWHFXYkQ4VXVXdzlXWGxiTG9JTnJfOTRnQ0hYNGtvQlE1azRsOTJ6YWJTUWZzX2d3bmpheVpLWF9wRWM4VWFZQ1RjMVZjOVZ2SXczRWtPbXdSU3hrZUpzd2J6THZUT3ZkZUxSckYtOW5wTWJrbE9ZLU5yQW45TURVVFdfYnRBZ3RBVUdCaGZFQnFTS2RXV2l3WklMa1JkUWFPSw?oc=5
 
 **Feed description:** Quest Diagnostics will report results on October 22 for Quest Diagnostics stock ad-hoc-news.de
 
@@ -405,10 +406,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Sep 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - MarketWatch: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFVSS3ROeVFLbHR5MUJjWmhxaXJDWGJ4c2lQUG5mbzZrU0toaDVkaGZ0VHNiTmx2ZVlYX2hCbXFnWXdSUkgybEZvMFRqX1k4aURJNGVfY3NhRFRCaTlIWFJXQVhCSUVOeHk5aGYxVUhyWUVRRnpPcUw1NUVfSEt0TjVLMFFISGEzQ1NFaDd6bTcwWFlSRGR3SmVNV0FGUTU2Qzd1aGtJRjg3dHl4bXhMWWZNek9WMEZ5eVp2cEhFa0xGbXpDYTh3M0F4Z2JvYWRXV0RXTTdLVjV3dVJZQzFoVW90OFdNOVBFNGhySw?oc=5
+  - MarketWatch: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclFQVThFa2lNbk05Z1ZjSU1fOWRrSm5KUk1nSjNXWGp0WW9vYnhqZkwyVUpuNXNQZHdoeWlWdWhrY2s5ZGZLQ3luX1VobVFwUHAxQjE4c2QybXA3YTZuVk0xQ1Z3NkotUF9JY3UtUWp4WWxwenhoWmdCMFRUckhDa29aOFlQb2lRemxGaWlNcFBSU3NkTnNIbmtvMkQ0czRCaFRiUWwxNkJocTF2bHVfVzU3azROaFAySFNFVHYyTlhqM1BxVWpwU0lXajNWTGxNODhETFpvMXFvWGhaRXVrX2VSdWYtRjNYS2puaA?oc=5
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 

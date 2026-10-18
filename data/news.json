@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T02:29:46.393964+05:30",
-  "generated_at_display": "18 Oct 2026, 2:29 AM IST",
+  "generated_at": "2026-10-18T10:40:34.822664+05:30",
+  "generated_at_display": "18 Oct 2026, 10:40 AM IST",
   "item_count": 408,
-  "raw_relevant_item_count": 593,
-  "duplicates_merged": 109,
+  "raw_relevant_item_count": 597,
+  "duplicates_merged": 112,
   "failures": [],
   "items": [
     {
@@ -25,9 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVG5ZV0JTUFBrdXNhcmJsSGJvUW5JQy10UDJvR09ieTRwckZuV1c1QmFvd3pqYmktLWtiYWlldk9uajFhZUFibEhITkpnYkowN2xNaXZnT29wbHJCSjc5M1JuYjBOaXk5cE91UVNiMmxyOUliNWI1RW1LU2xYWEppNE9VQjhHbTBPRXBCZWZjcmlSMllFcjBkdHJMSGRRZkNKeXpXQllHMUd3WlRXY0ZUTW9lV3hpOUVIZmFlWHZ6Zk82emtXdWF6dUN2UTE?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-10-17T19:01:44+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd0Z3eV9jSzNXZTByTW5DYTkzdFFHckVOWWx2MmZMTlBOZllfVnhUZTVsdEZOVzhYQUFtWHFXYkQ4VXVXdzlXWGxiTG9JTnJfOTRnQ0hYNGtvQlE1azRsOTJ6YWJTUWZzX2d3bmpheVpLWF9wRWM4VWFZQ1RjMVZjOVZ2SXczRWtPbXdSU3hrZUpzd2J6THZUT3ZkZUxSckYtOW5wTWJrbE9ZLU5yQW45TURVVFdfYnRBZ3RBVUdCaGZFQnFTS2RXV2l3WklMa1JkUWFPSw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-17T19:01:44+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "october report results stock will"
     },
     {
@@ -939,7 +945,7 @@
       "source": "ChartMill",
       "source_url": "https://www.chartmill.com",
       "source_domain": "chartmill.com",
-      "published_at": "2026-10-09T12:50:52+00:00",
+      "published_at": "2026-10-09T07:00:00+00:00",
       "published_display": "09 Oct 2026",
       "category": "Financials",
       "official_source": false,
@@ -948,7 +954,7 @@
           "name": "ChartMill",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVW5YV1o3Z3B3NmZpQ19hNHBNSjRSN091a3A0Z0dLOUpBY2Z2U3VldWtHQmROZ0c0c3ZVWTY3czJYanRKVy1naF9BclNvWEEwNnMzSDdXc3phaGczY2VfaWpUemM5TXhRUjJpYTJZUjd3LWlfbFI1WHlSa2NXM3FNbkl5RjQ1LXJOUXRXQ3h2aDluRXhka1ZlWXFLY0JuVEE5UVZ3U0EyeUhFUElHbS11di1Vc05OSDF5ZWRXMjJB?oc=5",
           "domain": "chartmill.com",
-          "published_at": "2026-10-09T12:50:52+00:00"
+          "published_at": "2026-10-09T07:00:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -1795,9 +1801,15 @@
           "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNFVSS3ROeVFLbHR5MUJjWmhxaXJDWGJ4c2lQUG5mbzZrU0toaDVkaGZ0VHNiTmx2ZVlYX2hCbXFnWXdSUkgybEZvMFRqX1k4aURJNGVfY3NhRFRCaTlIWFJXQVhCSUVOeHk5aGYxVUhyWUVRRnpPcUw1NUVfSEt0TjVLMFFISGEzQ1NFaDd6bTcwWFlSRGR3SmVNV0FGUTU2Qzd1aGtJRjg3dHl4bXhMWWZNek9WMEZ5eVp2cEhFa0xGbXpDYTh3M0F4Z2JvYWRXV0RXTTdLVjV3dVJZQzFoVW90OFdNOVBFNGhySw?oc=5",
           "domain": "marketwatch.com",
           "published_at": "2026-09-29T21:00:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQclFQVThFa2lNbk05Z1ZjSU1fOWRrSm5KUk1nSjNXWGp0WW9vYnhqZkwyVUpuNXNQZHdoeWlWdWhrY2s5ZGZLQ3luX1VobVFwUHAxQjE4c2QybXA3YTZuVk0xQ1Z3NkotUF9JY3UtUWp4WWxwenhoWmdCMFRUckhDa29aOFlQb2lRemxGaWlNcFBSU3NkTnNIbmtvMkQ0czRCaFRiUWwxNkJocTF2bHVfVzU3azROaFAySFNFVHYyTlhqM1BxVWpwU0lXajNWTGxNODhETFpvMXFvWGhaRXVrX2VSdWYtRjNYS2puaA?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-06T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "compared competitors stock tuesday underperforms when"
     },
     {
@@ -13495,10 +13507,10 @@
       "event_signature": "compared competitors monday stock underperforms when"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-18T06:17:00+05:30",
-  "next_update_display": "18 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-18T12:17:00+05:30",
+  "next_update_display": "18 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
