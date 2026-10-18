@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 18 Oct 2026, 9:38 PM IST
+- **Repository generated:** 19 Oct 2026, 2:33 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -120,9 +120,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com UK: https://news.google.com/rss/articles/CBMiuAFBVV95cUxON05kRGJHVUEtbjloZ0lISjUtWWdOaDdfX3AydFhMQXVuYlJxNXFnaDVNOVFBYk1tWGtCYVJGN3RaaHEwb1ZySVowSGc5M25zQkhnZm9nWUR0ZnlyWFhzdzl5bUV4Nk9YamxJVTlYVXZaRjFXVnNJejVqV2tlRXFhTnBqQllpTEdXcDlreThOMnoxbE8yZVlxZ3ZyLXNwNVlvcDhSclhpMnBVM0cwZjJ5NXB3M1V0blo5?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY00ycjBGUEVKSmhzUWVmWXFQblhSZzFuQV9mdHlWY3VyMXBxSEJOeTlXYUtHQnBmUjl3UVhYUVMxbUR5dlBob2FMQ2NaQkFXMV8xb0xnT3lLV01DUWdvWWRaM1hIY2g4bFBnZ1RnbkJvbHd4c1d3UkdCRUJwOHpfeWwwaFpxYmRHeXJvVWtNU3lIdjVsRDJYUnpSblNWYVpHQmJUUUdRUzBMTzZzMWdkdUhieW1XNm5m?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxNai16bnJNdVlDc3BmamtaSy0ySFVBV19IWXdQblJrN3g3aEgtYUI2LUZuZC1xZUc5UGRQSURVSDRjNExwbUZ2eC1CYVQ3ckdQa19hQ0RXTi1PdThvaVdsMWJxVG9ac2FtUUw1YkhHSEt3b1prZGY5OVZnN04zMkR4MkdXSjBzZFdpaXlkaWtZRGJZTVhLUjN0clFiX25OSGFVWm5wT3hBajd4c2VwRjBYd2p3UVl3d3dMWWc?oc=5
@@ -137,15 +138,16 @@
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5
   - Contract Pharma: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5
   - Medical Device Network: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5
+  - Hoodline: https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5
 
-**Feed description:** Labcorp outlays up to $872m to acquire BioReference’s laboratory assets Medical Device Network
+**Feed description:** Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline
 
 ## 12. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
 
@@ -268,12 +270,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5
 
 **Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
 

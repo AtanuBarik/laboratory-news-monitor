@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T22:20:47.035467+05:30",
-  "generated_at_display": "18 Oct 2026, 10:20 PM IST",
+  "generated_at": "2026-10-19T02:33:40.093510+05:30",
+  "generated_at_display": "19 Oct 2026, 2:33 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -52,11 +52,11 @@
       "category": "Partnership, M&A",
       "title": "Labcorp to Acquire BioReference Health Assets in $872M Deal",
       "source": "GuruFocus",
-      "description": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets Medical Device Network",
+      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
       "published_at": "2026-10-15T13:22:30+00:00",
       "published_display": "15 Oct 2026",
       "official_source": false,
-      "coverage_count": 4,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
       "sources": [
         {
@@ -74,6 +74,10 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5"
+        },
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5"
         }
       ]
     },

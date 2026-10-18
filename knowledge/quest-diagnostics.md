@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 18 Oct 2026, 9:38 PM IST
+- **Repository generated:** 19 Oct 2026, 2:33 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -48,9 +48,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com UK: https://news.google.com/rss/articles/CBMiuAFBVV95cUxON05kRGJHVUEtbjloZ0lISjUtWWdOaDdfX3AydFhMQXVuYlJxNXFnaDVNOVFBYk1tWGtCYVJGN3RaaHEwb1ZySVowSGc5M25zQkhnZm9nWUR0ZnlyWFhzdzl5bUV4Nk9YamxJVTlYVXZaRjFXVnNJejVqV2tlRXFhTnBqQllpTEdXcDlreThOMnoxbE8yZVlxZ3ZyLXNwNVlvcDhSclhpMnBVM0cwZjJ5NXB3M1V0blo5?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY00ycjBGUEVKSmhzUWVmWXFQblhSZzFuQV9mdHlWY3VyMXBxSEJOeTlXYUtHQnBmUjl3UVhYUVMxbUR5dlBob2FMQ2NaQkFXMV8xb0xnT3lLV01DUWdvWWRaM1hIY2g4bFBnZ1RnbkJvbHd4c1d3UkdCRUJwOHpfeWwwaFpxYmRHeXJvVWtNU3lIdjVsRDJYUnpSblNWYVpHQmJUUUdRUzBMTzZzMWdkdUhieW1XNm5m?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxNai16bnJNdVlDc3BmamtaSy0ySFVBV19IWXdQblJrN3g3aEgtYUI2LUZuZC1xZUc5UGRQSURVSDRjNExwbUZ2eC1CYVQ3ckdQa19hQ0RXTi1PdThvaVdsMWJxVG9ac2FtUUw1YkhHSEt3b1prZGY5OVZnN04zMkR4MkdXSjBzZFdpaXlkaWtZRGJZTVhLUjN0clFiX25OSGFVWm5wT3hBajd4c2VwRjBYd2p3UVl3d3dMWWc?oc=5
@@ -92,12 +93,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5
 
 **Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
 

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-18T21:38:57.687506+05:30",
-  "generated_at_display": "18 Oct 2026, 9:38 PM IST",
+  "generated_at": "2026-10-19T02:33:35.959669+05:30",
+  "generated_at_display": "19 Oct 2026, 2:33 AM IST",
   "item_count": 406,
-  "raw_relevant_item_count": 596,
-  "duplicates_merged": 110,
+  "raw_relevant_item_count": 594,
+  "duplicates_merged": 111,
   "failures": [],
   "items": [
     {
@@ -235,19 +235,25 @@
       "event_signature": "260 lifts stock target truist usd"
     },
     {
-      "id": "82997902d1f84814192f",
+      "id": "2526c33760f6decb6fa1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON05kRGJHVUEtbjloZ0lISjUtWWdOaDdfX3AydFhMQXVuYlJxNXFnaDVNOVFBYk1tWGtCYVJGN3RaaHEwb1ZySVowSGc5M25zQkhnZm9nWUR0ZnlyWFhzdzl5bUV4Nk9YamxJVTlYVXZaRjFXVnNJejVqV2tlRXFhTnBqQllpTEdXcDlreThOMnoxbE8yZVlxZ3ZyLXNwNVlvcDhSclhpMnBVM0cwZjJ5NXB3M1V0blo5?oc=5",
       "description": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com Investing.com South Africa",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-10-15T15:10:41+00:00",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-10-15T15:08:00+00:00",
       "published_display": "15 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON05kRGJHVUEtbjloZ0lISjUtWWdOaDdfX3AydFhMQXVuYlJxNXFnaDVNOVFBYk1tWGtCYVJGN3RaaHEwb1ZySVowSGc5M25zQkhnZm9nWUR0ZnlyWFhzdzl5bUV4Nk9YamxJVTlYVXZaRjFXVnNJejVqV2tlRXFhTnBqQllpTEdXcDlreThOMnoxbE8yZVlxZ3ZyLXNwNVlvcDhSclhpMnBVM0cwZjJ5NXB3M1V0blo5?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-10-15T15:08:00+00:00"
+        },
         {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcHlkOC12UzhzUUREN3hzUWxSVFFlM3BzbWQ2aFlqWkR3ek1KbEwtRFpYbU90RWRIMnlJSTkxX1c3NW9DZnl5T0pOaXYzZS1iSDJ2VkZ4cGRIOWw3VU9COV95Z2xybUV2cE5QM2RQbE93a0Y5Z190d2ZkemRSX1RNdGpZZE1tR1U3RjFDV1hCc0psUEVPelB2b1I1MWhLcFdrbzdBenBLOWpfS242UlBxMWdZcFY2VnZT?oc=5",
@@ -285,7 +291,7 @@
           "published_at": "2026-10-15T16:28:46+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "com earnings investing may oct shares shift"
     },
     {
@@ -293,7 +299,7 @@
       "company": "Labcorp",
       "title": "Labcorp to Acquire BioReference Health Assets in $872M Deal",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
-      "description": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets Medical Device Network",
+      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
       "source": "GuruFocus",
       "source_url": "https://www.gurufocus.com",
       "source_domain": "gurufocus.com",
@@ -325,9 +331,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-15T16:11:26+00:00"
+        },
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-10-15T20:56:11+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "872m acquire assets bioreference deal health"
     },
     {
@@ -625,9 +637,15 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5",
           "domain": "es.tradingview.com",
           "published_at": "2026-10-14T12:12:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-14T12:12:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "ahead earnings here how placed"
     },
     {
@@ -13451,10 +13469,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-19T00:17:00+05:30",
-  "next_update_display": "19 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-19T06:17:00+05:30",
+  "next_update_display": "19 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
