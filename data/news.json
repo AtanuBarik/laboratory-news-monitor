@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-19T19:29:36.989866+05:30",
-  "generated_at_display": "19 Oct 2026, 7:29 PM IST",
-  "item_count": 405,
-  "raw_relevant_item_count": 597,
-  "duplicates_merged": 115,
+  "generated_at": "2026-10-20T04:08:41.864237+05:30",
+  "generated_at_display": "20 Oct 2026, 4:08 AM IST",
+  "item_count": 408,
+  "raw_relevant_item_count": 600,
+  "duplicates_merged": 114,
   "failures": [],
   "items": [
+    {
+      "id": "f2dc393268b9df61f530",
+      "company": "Labcorp",
+      "title": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
+      "description": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach Holland & Knight",
+      "source": "Holland & Knight",
+      "source_url": "https://www.hklaw.com",
+      "source_domain": "hklaw.com",
+      "published_at": "2026-10-19T22:08:12+00:00",
+      "published_display": "19 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Holland & Knight",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
+          "domain": "hklaw.com",
+          "published_at": "2026-10-19T22:08:12+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "attorneys breach collector data debt general over reaches settlement"
+    },
+    {
+      "id": "d589b2e62c348f95a60e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZG1PWmY4MUs0NGNUS1RCNmd1ZGw2cEZuZGh2YlNCcU0yTU1VdzlWZVlfc1gxUEZwalpjTkpSZGtLMzFjNW5IcmZQWlpNTUJQWWcxUnUwLTFOeHU0cDFGNU5ncXFsalpTamVzalIyMUNtanAwNzZBTHZ6Zk5fakwzRmJ3eDNCR2hKaW1rY0VQbnlrREVWM0tJNkNhRUdxMEFOLTlKTVQyM2FaUQ?oc=5",
+      "description": "Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-10-19T21:21:00+00:00",
+      "published_display": "19 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZG1PWmY4MUs0NGNUS1RCNmd1ZGw2cEZuZGh2YlNCcU0yTU1VdzlWZVlfc1gxUEZwalpjTkpSZGtLMzFjNW5IcmZQWlpNTUJQWWcxUnUwLTFOeHU0cDFGNU5ncXFsalpTamVzalIyMUNtanAwNzZBTHZ6Zk5fakwzRmJ3eDNCR2hKaW1rY0VQbnlrREVWM0tJNkNhRUdxMEFOLTlKTVQyM2FaUQ?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-10-19T21:21:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cut investors lab medicare payment risk slides weigh"
+    },
     {
       "id": "1a2a53b69aba0ef1f4b6",
       "company": "Quest Diagnostics",
@@ -35,6 +83,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "october report results stock will"
+    },
+    {
+      "id": "032b90239cbf05685f7d",
+      "company": "Labcorp",
+      "title": "Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5",
+      "description": "Wisconsin Labcorp Data Breach Settlement: $2.3M [2026] shattered.io",
+      "source": "shattered.io",
+      "source_url": "https://shattered.io",
+      "source_domain": "shattered.io",
+      "published_at": "2026-10-17T07:00:00+00:00",
+      "published_display": "17 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Kd0lfSnFLempLcFRzSWNES1BTM2tfaHlod0otcjhuYTZPZDhMUTNlbG0zNmE4M1otVFloSWxoZjR4NlJKY3RmVmpxUDZVOXFmOWpDcjRlZTRJUnpfeFI3TlN0SWRYSXJHYjJxZEhWZ2toOW9wVXJJ?oc=5",
+          "domain": "shattered.io",
+          "published_at": "2026-10-17T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 breach data settlement wisconsin"
     },
     {
       "id": "51733e45eda803926fe1",
@@ -589,9 +661,15 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
           "domain": "clpmag.com",
           "published_at": "2026-10-14T16:39:13+00:00"
+        },
+        {
+          "name": "Labmate Online",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5",
+          "domain": "labmate-online.com",
+          "published_at": "2026-10-19T14:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "asia expand genomic invests pathology regional testing"
     },
     {
@@ -2779,9 +2857,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSGhLXzhhZExqQThQMVhVSzBxS3liU3RvQmZ5YkFIcVNFWElaZHhXUmx1S3h6RkhJNU1GLU5nTlgyV1NWMmItTFFvWnN5SWVXV2dBRkVoR3FmQUpaeUFlVjJGWF9ZcXM4ZDFueVNYYUtwTVRjNDBmamRpTDZwTS1TdDhwbVJpM2pyZDhSdkZfbFBQLXlFWVFNaWwwNkk2RDhYR3pEMWdlMHE4RlM4Q2NTS1dSUGRkOUN5eWM3UDROOW12UlpRb2pPQlRyc3NQdzhZV2ZF?oc=5",
           "domain": "ruralradio.com",
           "published_at": "2026-09-28T19:39:15+00:00"
+        },
+        {
+          "name": "Rural Radio Network",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNanlEVkNEV0pOVE9vTWN1M050bVE3VDlpdDM5ZFgwUUQ1QmswQU9ZSHNhRWx2X3RxRmhlUlJub3d5a1FUYjg5UjZXeXpUTnpBY0Z3dEw3SlNGSmJHaXFrNnpCcW5ETHpVYXFEQ0ZKRC0zUGl1WlFuZW5qNVIxSnpOaU5uZzRWd3Y5OWxnWEI0X2VJemJaQ3VHU2JPMDcwN1lEQ1R2dGNmSjJzalBYeU5pUjBCUm54Sk1RRVVSc1JrRDJ5cUp3SmV1YlpWWERhdFgx?oc=5",
+          "domain": "ruralradio.com",
+          "published_at": "2026-09-28T22:38:48+00:00"
         }
       ],
-      "coverage_count": 17,
+      "coverage_count": 18,
       "event_signature": "agency american attorney breach collection data general hilgers medical mike multistate over settlement"
     },
     {
@@ -13450,10 +13534,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 74,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-20T00:17:00+05:30",
-  "next_update_display": "20 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-20T06:17:00+05:30",
+  "next_update_display": "20 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
