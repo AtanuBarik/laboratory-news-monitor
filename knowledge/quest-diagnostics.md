@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 19 Oct 2026, 2:33 AM IST
+- **Repository generated:** 19 Oct 2026, 10:52 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -514,7 +514,7 @@
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTG1kejdxQU1LaWJVTU9fbEswOVJBdFUzWWhJVHVicUIyUXZkVDNBX05rU3ROc09FamdkZmljV1hpSFduUHFvWFdfSFk1N3RfQUpUMEVDeC1ZWmZyVzJCc2t6Wm9GR2FoQUlfc1dyYk9vSkFxZDVQMUNOZGllYTdBdEk0UUU4SjZ4MmpCR05fUmU1eWNYbEd2UVBYU2RHVEh5WmpSVC1laHlETTM0bm5KME4xTGdqUGc5aVRoMjRuRzRvRU9RNXJFWA?oc=5
+  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTG1kejdxQU1LaWJVTU9fbEswOVJBdFUzWWhJVHVicUIyUXZkVDNBX05rU3ROc09FamdkZmljV1hpSFduUHFvWFdfSFk1N3RfQUpUMEVDeC1ZWmZyVzJCc2t6Wm9GR2FoQUlfc1dyYk9vSkFxZDVQMUNOZGllYTdBdEk0UUU4SjZ4MmpCR05fUmU1eWNYbEd2UVBYU2RHVEh5WmpSVC1laHlETTM0bm5KME4xTGdqUGc5aVRoMjRuRzRvRU9RNXJFWA?oc=5
 
 **Feed description:** Quest Diagnostics stock reports growth as reimbursement risk rises ad-hoc-news.de
 
