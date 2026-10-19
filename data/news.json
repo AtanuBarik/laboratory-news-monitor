@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T10:52:13.003891+05:30",
-  "generated_at_display": "19 Oct 2026, 10:52 AM IST",
-  "item_count": 406,
-  "raw_relevant_item_count": 599,
+  "generated_at": "2026-10-19T19:29:36.989866+05:30",
+  "generated_at_display": "19 Oct 2026, 7:29 PM IST",
+  "item_count": 405,
+  "raw_relevant_item_count": 597,
   "duplicates_merged": 115,
   "failures": [],
   "items": [
@@ -79,9 +79,15 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5",
           "domain": "biobuzz.io",
           "published_at": "2026-10-16T16:19:58+00:00"
+        },
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5",
+          "domain": "pulse2.com",
+          "published_at": "2026-10-19T13:09:46+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "722 acquire assets bioreference burlington health million opko select"
     },
     {
@@ -499,9 +505,15 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
           "domain": "uk.finance.yahoo.com",
           "published_at": "2026-10-15T09:25:14+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqM2xFRHBtd05CeTdrdWdFT3ZKbXY4RWptMk5BcWdFMzljSjhLZmdmeTE1V2NyWk0tcDl1ZWUtQjNlcTk4T1k1dXB4VVVONkJpVW0yazBn?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-10-16T07:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "history price quote stock"
     },
     {
@@ -13436,43 +13448,12 @@
         "https://www.quiverquant.com/news/Quest%2BDiagnostics%2BRallies%2BAhead%2Bof%2BEarnings%2Bas%2BInvestors%2BWeigh%2BGrowth%2BInitiatives",
         "https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"
       ]
-    },
-    {
-      "id": "03c2890fe00da27f1759",
-      "company": "Labcorp",
-      "title": "Will Labcorp Beat Estimates Again in Its Next Earnings Report?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVh2Q0ZjQjN3RWdlT2ZYd0N1dV9oMVBrX19SUVRwUEUyTTFnNjNIcmVRT3otSy1ZY3F0Umo1Q0xoOG5kNGV3MGU1amNyMWVUTWhWMG80bkM1M2p1TTc5YmpVa21QcThfLWZMV0pwRnlnbEhwZko5ZmEwVVlraEEtVVFrNGhiLTlSS19FRzdZNVV6MS1hMnlaTnJ6SlI?oc=5",
-      "description": "Zacks’ July 21 earnings-preview article said Labcorp entered its July 30 report with a favorable record of beating consensus earnings estimates. Across the previous two quarters, the company had produced an average positive earnings surprise of 3.47%. In the most recent quarter cited, Labcorp delivered $4.25 per share versus a $4.09 consensus estimate, a 3.91% beat; in the preceding quarter, it reported $4.07 versus $3.95 expected, a 3.04% beat. Zacks also noted that analyst estimates had moved favorably ahead of the next report. Its Earnings ESP, which compares its Most Accurate Estimate with the broader consensus, stood at +0.71%, while Labcorp carried a Zacks Rank #2 (Buy). Zacks said the combination of a positive Earnings ESP and a Rank of #3 or better historically improves the probability of an earnings beat, while the framework remains probabilistic rather than a guarantee. The article therefore focused on analyst-estimate momentum and Labcorp’s recent execution record rather than on a new operating announcement or product launch. At publication, Labcorp’s next earnings release was scheduled for July 30, 2026, making the piece a pre-earnings assessment of whether the company could extend its recent earnings-beat streak.",
-      "source": "Yahoo Finance",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-21T07:00:00+00:00",
-      "published_display": "21 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbVh2Q0ZjQjN3RWdlT2ZYd0N1dV9oMVBrX19SUVRwUEUyTTFnNjNIcmVRT3otSy1ZY3F0Umo1Q0xoOG5kNGV3MGU1amNyMWVUTWhWMG80bkM1M2p1TTc5YmpVa21QcThfLWZMV0pwRnlnbEhwZko5ZmEwVVlraEEtVVFrNGhiLTlSS19FRzdZNVV6MS1hMnlaTnJ6SlI?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-21T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "again beat earnings estimates next report will",
-      "source_description": "Will Labcorp (LH) Beat Estimates Again in Its Next Earnings Report? finance.yahoo.com",
-      "chatgpt_summary": "Zacks’ July 21 earnings-preview article said Labcorp entered its July 30 report with a favorable record of beating consensus earnings estimates. Across the previous two quarters, the company had produced an average positive earnings surprise of 3.47%. In the most recent quarter cited, Labcorp delivered $4.25 per share versus a $4.09 consensus estimate, a 3.91% beat; in the preceding quarter, it reported $4.07 versus $3.95 expected, a 3.04% beat. Zacks also noted that analyst estimates had moved favorably ahead of the next report. Its Earnings ESP, which compares its Most Accurate Estimate with the broader consensus, stood at +0.71%, while Labcorp carried a Zacks Rank #2 (Buy). Zacks said the combination of a positive Earnings ESP and a Rank of #3 or better historically improves the probability of an earnings beat, while the framework remains probabilistic rather than a guarantee. The article therefore focused on analyst-estimate momentum and Labcorp’s recent execution record rather than on a new operating announcement or product launch. At publication, Labcorp’s next earnings release was scheduled for July 30, 2026, making the piece a pre-earnings assessment of whether the company could extend its recent earnings-beat streak.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T06:36:07+05:30",
-      "summary_evidence": [
-        "https://www.zacks.com/stock/news/2957518/will-labcorp-lh-beat-estimates-again-in-its-next-earnings-report"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 73,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-19T12:17:00+05:30",
-  "next_update_display": "19 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-20T00:17:00+05:30",
+  "next_update_display": "20 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
