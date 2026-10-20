@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-20T23:03:05.100193+05:30",
-  "generated_at_display": "20 Oct 2026, 11:03 PM IST",
+  "generated_at": "2026-10-21T03:24:54.479711+05:30",
+  "generated_at_display": "21 Oct 2026, 3:24 AM IST",
   "item_count": 413,
-  "raw_relevant_item_count": 612,
-  "duplicates_merged": 115,
+  "raw_relevant_item_count": 622,
+  "duplicates_merged": 126,
   "failures": [],
   "items": [
+    {
+      "id": "b3990b79ece33ba52a25",
+      "company": "Quest Diagnostics",
+      "title": "UBS lifts target for Quest Diagnostics stock to USD 250.00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2EtUThZMmN4Sks2MkFYMVBiUHRxSFZwcXIwNGc1SFhHUDYtZUtwcG1Bc2dUSFZCczBVd0lyaFZhQWxXbkdHRTEwcUtoNHQ4TE1lTFE1NzdvQ0tSTll5VUZNMTJ1Y1pGTm4yYWtXNnNaTjlkTmVRT19abFBpN0pXbGcxRWNCYlNSZUI0RW5DVDExNGxhU0N6MUoxVm5MWFdtNTlVemRkbF9JUGlMMGI3WEh3SmZDRlpw?oc=5",
+      "description": "UBS lifts target for Quest Diagnostics stock to USD 250.00 ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-20T19:38:34+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa2EtUThZMmN4Sks2MkFYMVBiUHRxSFZwcXIwNGc1SFhHUDYtZUtwcG1Bc2dUSFZCczBVd0lyaFZhQWxXbkdHRTEwcUtoNHQ4TE1lTFE1NzdvQ0tSTll5VUZNMTJ1Y1pGTm4yYWtXNnNaTjlkTmVRT19abFBpN0pXbGcxRWNCYlNSZUI0RW5DVDExNGxhU0N6MUoxVm5MWFdtNTlVemRkbF9JUGlMMGI3WEh3SmZDRlpw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-20T19:38:34+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "250 lifts stock target ubs usd"
+    },
     {
       "id": "ccd9ededd7fb576356c1",
       "company": "Labcorp",
@@ -73,9 +97,21 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFlES09fcURmTWM3UlB5VXNwV2pQLWF3OUJPZW5iY0hxU2R0LUhxMkZMRWRZV0gxX3ItMjBmVUQwUGRzMmNRUnFHMEIyLVlnZXVPdUZvV3RHVTYxRGYzVUJVNzhwQnQxcEc4R0laV0F1MTFUcHdaSDBKWGY2MGlTa0pFZFQ4SXhSamczM3VOUUd5NTBFeUNIR0dzSXFHZHpPaW5HbGhnNC1uaUs2bkxJaGtNU0dIOWExUWktMjFGMW1vZXVEWEpkUNIB0AFBVV95cUxPUml0Y2EwSjNRcUFkbVEyRkRIaDhUZWRMejEwaFBJS1hfaWJKVWdRYmtRQ3haLWdnRGZPRkQwTmJ4Qjlxb2c4Q3NYTHZ5eDYzUENEa2hHZlB2dnFCWmFWMFpOaGRnc1J3SDNGNWdVd2JKN2VEVldSU21VY1g4OEtORnl4bDl2ODE3OVBmUXlxSjJvZXlKVEprSl96N0FMVUhQdUJORXJ2NzRFSFptVlFrT1NycWt2OG5RdDVaNlN4eWFLaFB1LUZFcW9URWRaSklF?oc=5",
           "domain": "insidermonkey.com",
           "published_at": "2026-10-20T13:37:32+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUNNZEMzQzlsTWdrX1hwQl8xNWFpdmNEd0F5ZktNTDdSQ2paSkUwTng0Y19KcEdRbFk3THJVOE5HRnVVd19LZ0pzcUg2OGNleHRPRzhCMThlTF83MlVQNS11ZWpFNVNaNXNrckVIby1DcnctSEE5S1E1WmJLYng4bzBXWHFwQ1Itc0VfXzBtLUJadlN5dnp5OA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-20T13:37:32+00:00"
+        },
+        {
+          "name": "Insider Monkey",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUml0Y2EwSjNRcUFkbVEyRkRIaDhUZWRMejEwaFBJS1hfaWJKVWdRYmtRQ3haLWdnRGZPRkQwTmJ4Qjlxb2c4Q3NYTHZ5eDYzUENEa2hHZlB2dnFCWmFWMFpOaGRnc1J3SDNGNWdVd2JKN2VEVldSU21VY1g4OEtORnl4bDl2ODE3OVBmUXlxSjJvZXlKVEprSl96N0FMVUhQdUJORXJ2NzRFSFptVlFrT1NycWt2OG5RdDVaNlN4eWFLaFB1LUZFcW9URWRaSklF0gHQAUFVX3lxTE9SaXRjYTBKM1FxQWRtUTJGREhoOFRlZEx6MTBoUElLWF9pYkpVZ1Fia1FDeFotZ2dEZk9GRDBOYnhCOXFvZzhDc1hMdnl4NjNQQ0RraEdmUHZ2cUJaYVYwWk5oZGdzUndIM0Y1Z1V3Yko3ZURWV1JTbVVjWDg4S05GeXhsOXY4MTc5UGZReXFKMm9leUpUSmtKX3o3QUxVSFB1Qk5FcnY3NEVIWm1WUWtPU3Jxa3Y4blF0NVo2U3h5YUtoUHUtRkVxb1RFZFpKSUU?oc=5",
+          "domain": "insidermonkey.com",
+          "published_at": "2026-10-20T13:37:32+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 3,
       "event_signature": "better customer economics growth rapid test translating"
     },
     {
@@ -151,9 +187,15 @@
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEVJYnFOcHJqeUhvV2ZWR2hmSkhBMER4dnRzODJwcDNXbHljSjFBbElndEZQVXF1RktyR2xTX0swXzJYeXlRUVp2OG9RZXhBeHoweDE1ZXF1YkpDcUl6NVpwaFN0V2pkR0NvNFY4SGJPZk5NeHg2N3dvXzY1VWVoR0J5WV84cHZqTXc?oc=5",
           "domain": "seekingalpha.com",
           "published_at": "2026-10-20T13:27:31+00:00"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3ZRUHF4akN0VXhUMGJETGx2MkJxNTVJNXZZRjdYQmJWanFJTy01NTB1ZUZTQ2swRVR5WUtxYnNvQjUyM0txdlA2YW5jSmY4dWZKRlBmNk9YaGJsWVdQVUdvTk5aUlk4c2lMZHBPWVNlSUNJTFJ1ZlR4V1VjdnR4VDJCNEFTM21DN3M2WmZxV2JxOUZPVk85cWV6dWZQZFNTQmpRU1FMS1hNdGluOXFFTGl4RE1NaHM?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-20T14:13:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
     },
     {
@@ -181,9 +223,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-20T12:00:00+00:00"
+        },
+        {
+          "name": "Mugglehead Investment Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEsxVU9oRUJuRlIzSmFzVzMwV25VOTRsSVZvdXVlOUNvWlBKeHFWdm9OMVJfdzZVamxvNFFxNDlyLW5Wd0RfLUF2aDhBeG9aMHVtQXBCN093TGd2MFlXa0xuTmIwTDdYa3Q0VmpEYTRSYllUTzhpQ09pQnRVZHM1TlROemJ0QQ?oc=5",
+          "domain": "mugglehead.com",
+          "published_at": "2026-10-20T13:32:27+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
     },
     {
@@ -13332,43 +13380,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "364 contract health military secures services"
-    },
-    {
-      "id": "191fd4f0957102134377",
-      "company": "ARUP Laboratories",
-      "title": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm9FT0RzblpoenNrZ1BGbjVONHZvSnM1eE5KY1A3YUpkeDdJcmpVMHh2MURIWUV5aUtsVlhzNjlFek9hQWtZNHpPb0M5RkduNFAyUEpZUGEzOGM1Mnh1QWlydnpOWDBTaG44RnNsUzN2Y1NVQnVrWmpVamdCYVZHWkhhTmtBSExsUEdYS21lVUw0Q0ljOWxEbzhtZERsem9pRjlxenJjVUJzb2M5M3BJdDFnUVNzRlZwUzgyaXU5dThyMVE?oc=5",
-      "description": "ARUP Laboratories launched ARUP CLARISPECT Multiple Myeloma MRD by Spectral Flow Cytometry, a laboratory-developed assay for assessing minimal residual disease in patients with multiple myeloma. ARUP says it is the first large U.S. reference laboratory to offer spectral flow cytometry for clinical use. Unlike conventional flow cytometry, spectral flow captures the full light spectrum and can evaluate many fluorescent markers simultaneously. ARUP's multiple-myeloma assay uses 18 markers in a single-tube design, reducing specimen-volume requirements while enabling deep characterization of very small neoplastic cell populations in bone marrow. According to ARUP, the assay can detect as few as 14 neoplastic cells among 5 million analyzed cells with 95% confidence. MRD assessment is clinically important because the quantity of residual malignant cells after treatment helps physicians evaluate response, prognosis and relapse risk. The company describes spectral flow as providing greater sensitivity and confidence than conventional flow for this application. ARUP plans to broaden CLARISPECT into a larger suite of MRD assays. The launch expands the reference laboratory's hematopathology menu into a newer high-parameter technology at a time when multiple myeloma remains a significant U.S. cancer burden, with roughly 36,000 new cases projected in 2026.",
-      "source": "Clinical Lab Products",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-22T20:23:01+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWm9FT0RzblpoenNrZ1BGbjVONHZvSnM1eE5KY1A3YUpkeDdJcmpVMHh2MURIWUV5aUtsVlhzNjlFek9hQWtZNHpPb0M5RkduNFAyUEpZUGEzOGM1Mnh1QWlydnpOWDBTaG44RnNsUzN2Y1NVQnVrWmpVamdCYVZHWkhhTmtBSExsUEdYS21lVUw0Q0ljOWxEbzhtZERsem9pRjlxenJjVUJzb2M5M3BJdDFnUVNzRlZwUzgyaXU5dThyMVE?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-22T20:23:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "cytometry flow launches monitoring multiple myeloma spectral test",
-      "source_description": "ARUP Laboratories Launches Spectral Flow Cytometry Test for Multiple Myeloma Monitoring Clinical Lab Products",
-      "chatgpt_summary": "ARUP Laboratories launched ARUP CLARISPECT Multiple Myeloma MRD by Spectral Flow Cytometry, a laboratory-developed assay for assessing minimal residual disease in patients with multiple myeloma. ARUP says it is the first large U.S. reference laboratory to offer spectral flow cytometry for clinical use. Unlike conventional flow cytometry, spectral flow captures the full light spectrum and can evaluate many fluorescent markers simultaneously. ARUP's multiple-myeloma assay uses 18 markers in a single-tube design, reducing specimen-volume requirements while enabling deep characterization of very small neoplastic cell populations in bone marrow. According to ARUP, the assay can detect as few as 14 neoplastic cells among 5 million analyzed cells with 95% confidence. MRD assessment is clinically important because the quantity of residual malignant cells after treatment helps physicians evaluate response, prognosis and relapse risk. The company describes spectral flow as providing greater sensitivity and confidence than conventional flow for this application. ARUP plans to broaden CLARISPECT into a larger suite of MRD assays. The launch expands the reference laboratory's hematopathology menu into a newer high-parameter technology at a time when multiple myeloma remains a significant U.S. cancer burden, with roughly 36,000 new cases projected in 2026.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T00:35:10+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/arup-launches-first-clinical-spectral-flow-cytometry-assay-for-mrd-assessment-in-multiple-myeloma-302829698.html"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 80,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-21T00:17:00+05:30",
-  "next_update_display": "21 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-21T06:17:00+05:30",
+  "next_update_display": "21 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
