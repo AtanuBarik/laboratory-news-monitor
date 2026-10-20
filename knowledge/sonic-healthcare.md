@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 20 Oct 2026, 10:51 AM IST
-- **Distinct events in this file:** 31
+- **Repository generated:** 20 Oct 2026, 5:45 PM IST
+- **Distinct events in this file:** 29
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -355,27 +355,3 @@
   - Revelio Labs: https://news.google.com/rss/articles/CBMickFVX3lxTFBNRFBkWUpuSHNUbFd6NVlSc3RIeGVxakVCTnlXM1huYTNfTkxiS2dHUElnX3JJR2EwSVMwTUZ6aW1RVGNwQnBSSVR1OUFnT1M3alZ2MXJicTlXM2JIXzRSU3p6OFY2QWdrcW1hMmZXOGl4dw?oc=5
 
 **Feed description:** Revelio Labs estimates that Sonic Healthcare employed approximately 42,892 people worldwide as of March 2026, down 0.3% year over year from 43,119 in the first quarter of 2025. The workforce-intelligence provider shows Sonic's employee base concentrated in Australia, with 16,871 employees or 39.6% of the total, followed by the United States with 12,033 or 28.2%, Germany with 4,256 or 10.0%, the United Kingdom with 3,034 or 7.1%, Switzerland with 2,296 or 5.4%, and India with 2,204 or 5.2%. Among these major locations, Germany was the only one showing clear year-over-year expansion, up 0.9%; Australia declined 0.4%, the United States 0.2%, the U.K. 0.8%, Switzerland 2.7%, and India 1.1%. Revelio classifies Sonic's largest functional groups as Engineering at 19,429 employees, Finance and Operations at 14,931, and Sales and Marketing at 8,015. Median employee tenure is estimated at 4.5 years. The page also lists 944 active job postings in 2026 and a hiring velocity of about 595 new roles per month. Because Revelio derives these figures from public workforce data rather than Sonic's audited reporting, they should be treated as third-party estimates. Overall, the data indicate a broadly stable global workforce with continued hiring and a strong concentration in Australia, the U.S. and Germany.
-
-## 30. Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 22 Jul 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Morningstar: https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5
-
-**Feed description:** Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.
-
-## 31. Sonic Healthcare's Longer-Term Margin Recovery Still Expected
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 22 Jul 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Morningstar: https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5
-
-**Feed description:** Morningstar's July 2026 review argued that Sonic Healthcare's longer-term earnings case still depended primarily on margin recovery in pathology, which represented about 85% of group revenue at the time. The analyst identified three main supports: indexation introduced from July 1, 2025 on roughly one-third of Australian pathology tests, integration synergies from the LADR acquisition in Germany and expected restructuring benefits in the United States. Morningstar also highlighted execution risks. LADR was only in its first year of integration, the U.S. operating review was expected to be a multistage process, and the new U.K. NHS contract was viewed as margin dilutive in the medium term. As a result, Morningstar reduced its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic's roughly 17% pre-COVID average, and cut its fair-value estimate by 16% to A$27. At publication the analyst said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. Morningstar also flagged German private-fee reform as a key risk because Germany represented roughly 25% of Sonic revenue. These are third-party forecasts made before Sonic's August 20 FY2026 results, not company-issued guidance.

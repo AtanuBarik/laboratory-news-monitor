@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-20T10:51:48.586151+05:30",
-  "generated_at_display": "20 Oct 2026, 10:51 AM IST",
-  "item_count": 409,
-  "raw_relevant_item_count": 605,
-  "duplicates_merged": 116,
+  "generated_at": "2026-10-20T17:45:18.526260+05:30",
+  "generated_at_display": "20 Oct 2026, 5:45 PM IST",
+  "item_count": 407,
+  "raw_relevant_item_count": 564,
+  "duplicates_merged": 86,
   "failures": [],
   "items": [
+    {
+      "id": "eaa7b5417acbf99346bd",
+      "company": "Quest Diagnostics",
+      "title": "Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
+      "description": "Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-10-20T12:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-20T12:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
+    },
+    {
+      "id": "d7e63598516b694b9802",
+      "company": "Quest Diagnostics",
+      "title": "A new at-home HPV test kit is going national through Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWJyYVNjdmo1cUNaM0xNZUl6cWRGVmdhbjNUZk5GdURWOGFvVVR5NUZMX0taZW9VVzVCTUtuWDFld1JhMkhMT2VfSjNWTE5KUEk1dnZVYlhocW5hSzgxWHFXcjB0N3o1N0VKRG5uUGo2UXJaMUw2SmpVZXdLZUZKVUtFeThxMzJISTR1M2JqZ1ZkRnRfMkNEMlpMd1cyWFVjRWtkNlFjSWJyYms?oc=5",
+      "description": "A new at-home HPV test kit is going national through Quest Diagnostics Fast Company",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "source_domain": "fastcompany.com",
+      "published_at": "2026-10-20T11:38:07+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWJyYVNjdmo1cUNaM0xNZUl6cWRGVmdhbjNUZk5GdURWOGFvVVR5NUZMX0taZW9VVzVCTUtuWDFld1JhMkhMT2VfSjNWTE5KUEk1dnZVYlhocW5hSzgxWHFXcjB0N3o1N0VKRG5uUGo2UXJaMUw2SmpVZXdLZUZKVUtFeThxMzJISTR1M2JqZ1ZkRnRfMkNEMlpMd1cyWFVjRWtkNlFjSWJyYms?oc=5",
+          "domain": "fastcompany.com",
+          "published_at": "2026-10-20T11:38:07+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "going home hpv kit national test through"
+    },
     {
       "id": "f2dc393268b9df61f530",
       "company": "Labcorp",
@@ -273,7 +321,7 @@
       "source": "Kalkine Media",
       "source_url": "https://kalkinemedia.com",
       "source_domain": "kalkinemedia.com",
-      "published_at": "2026-10-15T21:37:21+00:00",
+      "published_at": "2026-10-15T20:26:21+00:00",
       "published_display": "15 Oct 2026",
       "category": "Organizational Updates",
       "official_source": false,
@@ -282,7 +330,7 @@
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbTI1Zzdwa1FiQlY2ZHF2ZUM4MThxSjdBa1RXVTh2c3ExUVB2M1VodlMzckdsMUxjVVc2aHRjRzZMLWp6eURycUtqdlpRX3d0bHFwQlAyTzdjM0Q1cFN1QWpkY0ZYeTNBMmxOS1phckFUcUw5dXlnQnpPZmNwVy15SHl3ZS1OaW1LY1NzUG4xQ2JjVGZzVTVYSXpEMVRaVnU1VngtQVlVR0RNSEhoaThEM0Y1Ym8xOS0tM1ctQmlFbEJtUTU0YklOVi1RbWJrM0lMLWpyWmV1akxQZmxMOFBhWERzV0NkUQ?oc=5",
           "domain": "kalkinemedia.com",
-          "published_at": "2026-10-15T21:37:21+00:00"
+          "published_at": "2026-10-15T20:26:21+00:00"
         }
       ],
       "coverage_count": 1,
@@ -415,9 +463,15 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
           "domain": "hoodline.com",
           "published_at": "2026-10-15T20:56:11+00:00"
+        },
+        {
+          "name": "BioXconomy",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5",
+          "domain": "bioxconomy.com",
+          "published_at": "2026-10-20T08:47:53+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "872m acquire assets bioreference deal health"
     },
     {
@@ -737,6 +791,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "ahead earnings here how placed"
+    },
+    {
+      "id": "652133dcf1ac0d97c425",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5",
+      "description": "Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade https://www.siam.in/",
+      "source": "https://www.siam.in/",
+      "source_url": "https://www.siam.in",
+      "source_domain": "siam.in",
+      "published_at": "2026-10-14T09:48:07+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://www.siam.in/",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5",
+          "domain": "siam.in",
+          "published_at": "2026-10-14T09:48:07+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "230 ahead conversion edges holding lower mid range resistance trade"
     },
     {
       "id": "f71acb9fdf247d332889",
@@ -7855,50 +7933,6 @@
       ]
     },
     {
-      "id": "c75f56aa86d2fa75b079",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Hit a 52 Week High, Can the Run Continue?",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
-      "description": "Zacks’ August 21 analysis said Quest Diagnostics shares reached a new 52-week high of $245.68 in the prior session after gaining 5.9% over the preceding month. DGX was up 39.1% year to date, compared with 5.2% for the Zacks Medical sector and 22.7% for its Medical–Outpatient and Home Healthcare industry. Zacks linked the move to earnings execution and upward estimate revisions. Quest’s July 23 quarter delivered adjusted EPS of $3.12 versus the $2.81 consensus used by Zacks, while revenue exceeded consensus by 2.15%. Zacks’ current full-year 2026 consensus was $11.15 of EPS on about $12.01 billion of revenue, implying 13.2% EPS growth and 8.87% revenue growth; for the following year it modeled $11.97 of EPS on $12.56 billion of revenue, representing 7.31% EPS growth and 4.58% revenue growth. The article also noted that DGX traded at 21.6 times current-year EPS estimates versus 21.3 times for the peer industry, while its trailing cash-flow multiple was 15.9 times versus 17.2 times for peers. Quest carried a Zacks Rank #2 (Buy), with Value and Growth scores of B, Momentum D and VGM B. These are third-party market estimates and valuation signals, not new company guidance or an operating announcement.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-21T07:00:00+00:00",
-      "published_display": "21 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-21T07:00:00+00:00"
-        },
-        {
-          "name": "sharewise.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXhCVnZ0dlJrbjlvUG4zekMydENwWl80T0UybHpxTTRhalo5ZEdueUtPaEdBdXIxVV96NktzZWZFaTNleWxsQW9kMWU0dlRPLXhwZk1KZHIzRzdDTE4tbW1ReG5tNWxXeDg5bnlRc3BfM2paWFlJeDI1aFVMWGhKT3p1UFQxVmlQdktuWC1BU291UDgzNE5RMC15a1lrQ2duOWluel9qU0JhM1dpU3UzRzRHSVlCazgzVUlRR0FUel9qNC1XTUtfeDhhQWlaRndreTd3?oc=5",
-          "domain": "sharewise.com",
-          "published_at": "2026-08-21T22:01:35+00:00"
-        },
-        {
-          "name": "Eastern Progress",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTNSeHl4eE53OVZTeENzT282OWFKSW5fek05ekZ1RWVvVGRCcTBGSEdCVHdQVzdkdmJObzZUVi1hQjRjakk5b1N2V0U0T08tOFFOblNLR1hGX2xZSV9nMm1NUGdXaDRkc3NMSzdLMm9XdS1NR016LWg2UTRKclhtLTNpRUdDLVNkV1FDX0F4RVlzaDJUMXVfb1FGOEFzS2NuS1hkaVRxZVh5ZlFickp4d0FGcmJnUkczNjAydUtZUTItTGZtNVFGTTU3bVI5U2tXMF9XMU9RSlJnZUZCRjRTaGZITXMwLWZLQjV0eQ?oc=5",
-          "domain": "easternprogress.com",
-          "published_at": "2026-08-21T13:15:02+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "can continue high hit run week",
-      "source_description": "Zacks’ August 21 analysis said Quest Diagnostics shares reached a new 52-week high of $245.68 in the prior session after gaining 5.9% over the preceding month. DGX was up 39.1% year to date, compared with 5.2% for the Zacks Medical sector and 22.7% for its Medical–Outpatient and Home Healthcare industry. Zacks linked the move to earnings execution and upward estimate revisions. Quest’s July 23 quarter delivered adjusted EPS of $3.12 versus the $2.81 consensus used by Zacks, while revenue exceeded consensus by 2.15%. Zacks’ current full-year 2026 consensus was $11.15 of EPS on about $12.01 billion of revenue, implying 13.2% EPS growth and 8.87% revenue growth; for the following year it modeled $11.97 of EPS on $12.56 billion of revenue, representing 7.31% EPS growth and 4.58% revenue growth. The article also noted that DGX traded at 21.6 times current-year EPS estimates versus 21.3 times for the peer industry, while its trailing cash-flow multiple was 15.9 times versus 17.2 times for peers. Quest carried a Zacks Rank #2 (Buy), with Value and Growth scores of B, Momentum D and VGM B. These are third-party market estimates and valuation signals, not new company guidance or an operating announcement.",
-      "chatgpt_summary": "Zacks’ August 21 analysis said Quest Diagnostics shares reached a new 52-week high of $245.68 in the prior session after gaining 5.9% over the preceding month. DGX was up 39.1% year to date, compared with 5.2% for the Zacks Medical sector and 22.7% for its Medical–Outpatient and Home Healthcare industry. Zacks linked the move to earnings execution and upward estimate revisions. Quest’s July 23 quarter delivered adjusted EPS of $3.12 versus the $2.81 consensus used by Zacks, while revenue exceeded consensus by 2.15%. Zacks’ current full-year 2026 consensus was $11.15 of EPS on about $12.01 billion of revenue, implying 13.2% EPS growth and 8.87% revenue growth; for the following year it modeled $11.97 of EPS on $12.56 billion of revenue, representing 7.31% EPS growth and 4.58% revenue growth. The article also noted that DGX traded at 21.6 times current-year EPS estimates versus 21.3 times for the peer industry, while its trailing cash-flow multiple was 15.9 times versus 17.2 times for peers. Quest carried a Zacks Rank #2 (Buy), with Value and Growth scores of B, Momentum D and VGM B. These are third-party market estimates and valuation signals, not new company guidance or an operating announcement.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-22T06:49:47+05:30",
-      "summary_evidence": [
-        "https://www.zacks.com/stock/news/2978169/quest-diagnostics-incorporated-dgx-hit-a-52-week-high-can-the-run-continue"
-      ]
-    },
-    {
       "id": "0060ca4454ac659b4f79",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power",
@@ -9251,9 +9285,27 @@
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk5MQWE4YmlUaVpGc3lFWnotMnY1aGNMT21xQlAzaWhXTkpJQXJXZ0dVZ3FtTjNoS25UNDlqSDJiMS1GSW9SQVZKYzRYeEFoWGRxTTQydjdvaVNxeVJiUkVQU1ozZ3VMODEyalZkYXE5N19YdmhJY1JueWZvUU9qejdpZkVtb0NpbW5CWHcybEtseUtnam9kdEctZ0NqZWRsUzJfSk0xeEVvY3I4bUtHTnp6b0FJM1owWUxBOUpOZVFwMm83NDBFZjBKOWN4bmdFUW9MVjcxVk9IckZaOFVLUU5aVQ?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-08-12T21:54:20+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-08-21T07:00:00+00:00"
+        },
+        {
+          "name": "sharewise.com",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXhCVnZ0dlJrbjlvUG4zekMydENwWl80T0UybHpxTTRhalo5ZEdueUtPaEdBdXIxVV96NktzZWZFaTNleWxsQW9kMWU0dlRPLXhwZk1KZHIzRzdDTE4tbW1ReG5tNWxXeDg5bnlRc3BfM2paWFlJeDI1aFVMWGhKT3p1UFQxVmlQdktuWC1BU291UDgzNE5RMC15a1lrQ2duOWluel9qU0JhM1dpU3UzRzRHSVlCazgzVUlRR0FUel9qNC1XTUtfeDhhQWlaRndreTd3?oc=5",
+          "domain": "sharewise.com",
+          "published_at": "2026-08-21T22:01:35+00:00"
+        },
+        {
+          "name": "Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTNSeHl4eE53OVZTeENzT282OWFKSW5fek05ekZ1RWVvVGRCcTBGSEdCVHdQVzdkdmJObzZUVi1hQjRjakk5b1N2V0U0T08tOFFOblNLR1hGX2xZSV9nMm1NUGdXaDRkc3NMSzdLMm9XdS1NR016LWg2UTRKclhtLTNpRUdDLVNkV1FDX0F4RVlzaDJUMXVfb1FGOEFzS2NuS1hkaVRxZVh5ZlFickp4d0FGcmJnUkczNjAydUtZUTItTGZtNVFGTTU3bVI5U2tXMF9XMU9RSlJnZUZCRjRTaGZITXMwLWZLQjV0eQ?oc=5",
+          "domain": "easternprogress.com",
+          "published_at": "2026-08-21T13:15:02+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "dividend keeps oct payable per quarterly record share shareholders",
       "source_description": "Quest Diagnostics Keeps Quarterly Dividend at $0.86 per Share, Payable Oct. 21, to Shareholders of Record Oct. 6 marketscreener.com",
       "chatgpt_summary": "Quest Diagnostics' board declared a quarterly cash dividend of $0.86 per common share on August 12, 2026. The dividend is payable October 21, 2026 to shareholders of record at the close of business on October 6, 2026. The action keeps the quarterly rate unchanged from the $0.86 level the board established in February 2026, when Quest raised the dividend 7.5% from $0.80 per share. That February increase set the annualized cash dividend at $3.44 per share and marked the company's fifteenth consecutive year of dividend increases. The August declaration does not announce a new increase, change full-year operating guidance or alter the share-repurchase program; it authorizes the next payment at the previously approved rate. Quest's February capital-allocation announcement also increased share-repurchase authorization by $1.0 billion on top of approximately $0.4 billion available at December 31, 2025. The August release separately describes Quest's current operating scale as serving half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees. The material development in the queued item is therefore the confirmation of the October dividend timetable and continuation of the $0.86 quarterly distribution.",
@@ -13150,418 +13202,12 @@
       "summary_evidence": [
         "https://www.investing.com/news/earnings/quest-diagnostics-earnings-on-deck-as-testing-growth-accelerates-93CH-4806387"
       ]
-    },
-    {
-      "id": "ec192a490b0d32576517",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5",
-      "description": "Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "source_domain": "morningstar.com",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN3lPRTBrVmJCa2x5VVdDaW41M0tpY1JiUFpiNHRpc2k1dnBZa2FkR2o3QkllVjZ6UXJBREdUeWJFd0JpdGVjc2FyRVFWMTRRM0FPWUJoQVlFT3Z6MUV1WUN5TmNTSGoxTXo3bHYxNVpON1Z5RUN5Y2d2NmhWRm5iTHlua3ZvRk1YLVd6Rkd0dENaRDRFQ2xuRUx6UjkxTkxfdHdkbWo2S1pneDF3YmJJOUQtMy1temJ1c3NMaC1HM0JPUmhhLUhF?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-07-22T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "being despite forecast margin margins off safety still",
-      "source_description": "Sonic Healthcare: Still a Margin of Safety Despite Margins Being Off Forecast morningstar.com",
-      "chatgpt_summary": "Morningstar’s July 22 review argued that Sonic Healthcare still offered a margin of safety despite reducing its profitability assumptions ahead of the company’s FY2026 results. The analyst said the long-term earnings case depended mainly on margin recovery in pathology, which represented about 85% of Sonic’s group revenue. Expected supports included Australian pathology indexation introduced July 1, 2025 on roughly one-third of pathology tests, integration synergies from the LADR acquisition in Germany and restructuring benefits from Sonic’s U.S. operating review. Morningstar also identified execution risks: LADR was only in its first year of integration, the U.S. review was expected to be a multistage process, and the new U.K. NHS contract could dilute margins for a period. The firm therefore cut its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic’s roughly 17% pre-COVID average, and reduced its fair-value estimate 16% to A$27. At publication, Morningstar said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. It also flagged reform of Germany’s private-fee schedule as a major regulatory risk because Germany represented about 25% of group revenue. These are Morningstar forecasts made before Sonic’s August 20 FY2026 results, not Sonic-issued guidance.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-22T18:38:16+05:30",
-      "summary_evidence": [
-        "https://www.morningstar.com/company-reports/1489071-sonic-healthcare-still-a-margin-of-safety-despite-margins-being-off-forecast",
-        "https://www.morningstar.com.au/stocks/asx-healthcare-share-remains-undervalued-ahead-earnings"
-      ]
-    },
-    {
-      "id": "f0d865fed43c9014dee5",
-      "company": "Labcorp",
-      "title": "Labcorp Prepares to Report Q2 Earnings: What's in the Cards?",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5",
-      "description": "Ahead of Labcorp’s July 30 second-quarter 2026 results, Zacks expected the company to report revenue of about $3.72 billion, up 5.4% year over year, and adjusted EPS of $4.79, up 10.1%. Labcorp had beaten earnings estimates in each of the prior four quarters, with an average surprise of 3.31%, and entered the report with a Zacks Rank #2 and a positive Earnings ESP of 0.71%. The preview identified Diagnostics Laboratories as the main growth engine, supported by organic demand, health-system partnerships and acquisitions. It cited Labcorp’s nationwide collaboration with Children’s Hospital of Philadelphia, the March acquisition of selected Laboratory Alliance of Central New York assets, and the expanded DPYD genotyping test intended to identify cancer patients at risk of severe chemotherapy toxicity. Zacks also highlighted specialty-testing growth in oncology, neurology and autoimmune disease, including liquid-biopsy and MRD offerings, an FDA-approved ovarian-cancer companion diagnostic for KEYTRUDA eligibility, and a rapid FDA-cleared fentanyl test with a 10-minute result. The article expected Diagnostics revenue to grow 6.1% and Biopharma Laboratory Services revenue to rise 2.7%, with Central Laboratories supporting BLS while Early Development streamlining constrained growth. Labcorp’s broader technology initiatives included expanded Epic Aura integration and collaborations with AWS, Datavant and Optum.ai to improve research, laboratory operations and customer workflows.",
-      "source": "Yahoo Finance",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOajYtNWhualJyWkFMa2tQU1NZMTN0NmFzM3FrU1VEV0s4Ry1VVmhTaFNMdGF3cEJGcm92N0dfUDJOYjhLdUtuQkRNUG15bkdxSElOckw4a1BCSERweS1WeS1tNmt1SzlyTTRTSWg1ZG9aMUs0SWdDWGtsT0QxS2dXbDZYTXFXYXVMSUF5THg0VzlUSm1td01jUHRHcVI?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-22T07:00:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2V4Q3BYMW5ybElNajU1dHE0T3NldTlIckV5QV9mS1VjbEtJME9sUV9RZHdYOFc0WUp4S21qekhuSXJXaFJaR3hLNVl4cmR0U2ctTThNRVJXME9MNU5RYnh5d1RHaUI2UXMxWnY1NUdnT1RHZGxwS3RLYm91SzZEZWtiQ3NfZ3FNMFBqWlFYOHhxSTFFVTZMUTVpUE9ncWs?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-22T12:00:16+00:00"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWp1NGNsWmVRSDM1Z1c3RVNzSk95TWRuWXlKY3FPR1EwS2NIZVhKa1ZUaFFOYTN1XzlMOHRWNGU5NjJMbDZhSTlpTnVwYW41R3ZJWFM1djNKWENvYjN1VjNHYmx4VzVTTk4zdG5LVFpnYzJ4WE54VnpqbEhxdVhFZzRUbFRrOWQwa2M1RXhNeDJ0TTAyYWpIWnQ4dEJnVzRsRjk3NEprbmM3SlV6MVFrMEMzRHlmVm80eTB2eGZIeG9KQmtl?oc=5",
-          "domain": "theglobeandmail.com",
-          "published_at": "2026-07-28T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0NGZG1SeWFBUU01b0ozamZpQVhJLVNyWW1ZNlN0TEFhaHgzbE45eEp2OTduamxGbHV6YURYa201dGdSbWhQVEQtaXNsOVRFRDBPczBiVkJwRXlGUzVEN1NvYm1oTHBkSHV5RVpwWkRFNnlVSzFpZDJrZERxbkROZTVKQ0hDbDA0MlEyX1hrRllVZnhZ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-29T17:41:02+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaHg1RjExRXpkbFh6Mm1jQmFVR0R5cVRjN1ZXYnpRX2tlZVhiRERBN1NMTU0zU0RPXzFZcXpmRDZUdUhzTzg5UzR1VEVaVlNjMXZKdFNSTUU4N1p0czNmY1l4cTNnWnhmMm5Wai01YlNYQkhyTEtqVU5vRUxxMFZMckpBaVQwcFdqY3JDYUkzQmR5QmZjLWw0SENSVQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-29T07:00:00+00:00"
-        },
-        {
-          "name": "StockStory",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVlg5cWZfam5IM3FJZ3ZTS1hUekFLdjB0aXMtWkt1cHRyMHozdEh5ZlZ6cHlWb3I1ai1SeGZLX2FILVptQldhUGttaURQc3VWdHRkSWRTZmZwY3RmS2xuM29YdXRSQ3RRam44X3BfV3p1YVMwZndfSjFNcDVsSnZNYnp4NFNLNzhDVFZicVF3Tm43eERiUXZWSDBURUJuMkFWSHBlX2t0eTlseXhtMHY3VnFxc3hseGUyT0pTZjk5Q3RvWkVhUURXc0VxS0kycWJqd1VZ?oc=5",
-          "domain": "stockstory.org",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYW5NX2lqUVpWeGhvOXd0c05pUU5hODZabEowd1JVa3Y1cEVwVlVqZDZoWVNOOGdaZnIwZkpUUUhuYjZfekxqRkc4eXNOS0JPMXVFLUJHSldxMFZNMW93VmlYVGlnUG5lU2VxY3dpMWhULXljSkJwSW9uN1AzY1MzWEh4YVdJZXhtVGZCQmdrNA?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-07-30T20:00:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiWDlpbG9LNEFsclpJUHNXVkFoaU9qLUFoeko4ZUhQZzNfZmVWNTlIVkRfSXFSLU1oQnJyekwtcGxIZXlfYy1OY056djhJdWtSRG5FY0VpUm9iTlN1YUtHQTJUcm4tN1FnVmk2d3VJSFczX0I0ZjRWLUJDWQ?oc=5",
-          "domain": "aol.com",
-          "published_at": "2026-07-31T02:09:45+00:00"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-08-01T19:54:12+00:00"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRno2QkJZbGpNUDVHTUF5RGd6MHNUR0NsV1IzYVRsWU1ObUlWWFA4bHppel9EWXhuT2F1c2pSS3ZIXzY0LXpjajBiZFc2d2JCTjBBSFZGMWwwRWJMUlVCMHYzT1ExZmFybkl4WDNEU05lbTBhMzJSZ3lQcjRHbGdpRkkzNEtuVWVtdXNWQ0xMMzUyTDFIMVQxNDFHUHBPWFZvcHh0dUhEZ1RsQzl3cjNaS2drLVY1aVY5M0VzQksyVEFBdTFTZF80?oc=5",
-          "domain": "theglobeandmail.com",
-          "published_at": "2026-08-04T00:16:00+00:00"
-        },
-        {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPT2dGSXZuM3JydkZ0LTJRZG1kUXN5V0diT2pJRlZxZjBwd0o4MVU0X0NuUzRPaV9UOGJ0NmdVVGJvdkwtTExNVXRscTZ3SWpuRF9QSjRfR3BGNi1qbnhsVXdta0x6SVg4djlhbDN0ZURiRG1sdXhWeXl2MFlsTmloODZJeDNkM2ROZV9oQmZZLUxiWG5GZFJRRnRlbWxFNVJxVExFYw?oc=5",
-          "domain": "fool.com",
-          "published_at": "2026-08-04T00:56:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObWdPQWZLcHJmTG93cU1naGROeTlna09oOXNNdmF1NlFtTlNuY0swLTJvZU50bG95cmxGTm9udk1nbTZWS3dHZWNJamNFWFFFM3RRMlI4WndnZzhJaGZVMGtBRVFJZF96QUtDRFdmMXFrMEx6VDA3Tk51eGsxa2JZa2VFRUpZMjFLS2hkbjg0RUdnTTI4QWpjRVQwUU9KNEJPQUJRWm1wc2tjUjJQWVUwV2txeDFOSnMyWGhkWUg3eHN6TEI4RURHazFMNzM?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T10:50:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdDh1U0tpenM1QzhYSWRkMVlETmdmamN2RjN4RmFBTmowY0p2T25kUHFPVXo3a1JBR2k0a3NudTlSNEVrUWdpOGlHamNXYlptTUN5dlhzZ3BGUDlWQjBPSDhuSXlwYXZHVG9TQk9nOXlaeHk0bUR0LUhnSjE4emFMQnZmdGw2S2hm?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:12:18+00:00"
-        },
-        {
-          "name": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lrVXF2T2QwTGEyYzBHRGxDZGtDLUtDVWZUQl92c1JnN0tsbWlHT3JwZlRTdklCNy1QUms5REJwMkNPb0x4V21JclBHamoxNDlRT05vVHlYMEt5dHF4ZjllRFB2UE02SzFrMmktVzk3NUdCanZScFc3THhZMVRCbzk1RHFKOGV4MlhMN1JEWHhOUFcyZ3lmelBVT0NkLWpuNVVoMlF0T25BQzNvWGV4bG01THc4dGJHYk13VA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T10:50:00+00:00"
-        },
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUHhXMmw3aENWakozRHRVRGhhTzM0OTluU3pXWl9aTUNEakc2eHZnT1JIMHRIVmwzaGoxWEpPcUJVY1JEQU1pZW1GYkZWaW4xdmluTkhaTnBoem5IQjdQeFAzR1hOYmlSUzFMNXpyaUNldHdOMkY4VTNfNV9yX1ZleUpkRnlRWUNrbFVhRks5X1dGbm1ReGQzODZ1WVZQOHliSU5pTE16M2w2SU02bmhvQ201TXNQNzJFR2lVaXAyX3I0SF93SlJOUG9XVkFkQTVMdy1yRW5TbnotbTl4U1JkcTFKckpZUms0?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T10:51:01+00:00"
-        },
-        {
-          "name": "Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFpUdDdKckp3STFiYnBOdDg4SXlrLXJ2WVczNWx6U3MxRHJ1dGRZQkd5bVhkNVJXczJBamZzMkpLbEJEMjFkV0J6TUx4THRJOW94dFZPcXNCMm5NYVBrYjYyUVJZVVZNUUM4S05MQzlJN0Q4YlBFcHI5Uy15QktWX0pETVhwRmRkZmNUN3NkZEVoZw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T10:57:00+00:00"
-        },
-        {
-          "name": "KING5.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0lUb1dyamhXRXZvM2VMOUxKaG5LcVc3ZGZPRHlPX0M3MWNGMkc0b2VCVTNvOUZRTFpxUEp0dzBlbHBkMGw3UzJTcy16alFCWFpNUm4yVWVqZEpLMV81b1RFX2NEMjgxaEcwM2x6aFVfb3BOQ1RuZVVZV2pTMnZIejJzZm9Ba0F5VldkbHRYV2lLZUxKbllzRDNVcXlvenI1ZHcwSE9laHl4NzUwUFE3N2ZoZHp6NHdSU2FlUlZDakVUT1ZtWVE?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T10:58:00+00:00"
-        },
-        {
-          "name": "KTVB",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLVVrZ0ROWXJwYktvLV9vd2ZXdThNdHJRQ0M3Y0hTYTNrYWlRXzVMTGtMVXNPQWFOMzU2NE1SbU12T1k3bWhpN0lRY3VpcTZHTjJQRmlXcHUzaVBESlRPOGNoZnNhQWM0NEQ1TC1pYU9YWkQ1UGptVEZKOU1kREF0NVdzdkNIdnFtd2Fna3BoMW9sNG5BaXRNMjg4OGo5ZkwyQjYxeExZeFc4bUlMb3NkbklwOUt5VUMxN0pka2t4UG1aeEE1?oc=5",
-          "domain": "ktvb.com",
-          "published_at": "2026-07-30T10:58:00+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOEhiYVVWd0ZnTVpMS1plUC1feVJJOUtWd2ZFRmpvekw1dzBtX0dOamhLemFJX2ItZU53SDA2MG4xeDZLNDk4My1EazdaWjY4SnM0MkcyMngxSUZkWjEtQ0RkYlF5SUkyNklpS1dTNzZBWFdqZS1hckZndGh2c3ltNGdjcHRBSS1m?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:00:19+00:00"
-        },
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOc0QyR3R6WEsxYTNMVDFfbUR5b0RIbUpWZE44MVFTUHZmOG9VbnZWZ3k2NkZqeWVzU3N2akliOHBaVUtzSUpibGp2ODdmVk1vQ29jSXd1dU9HR3g4THNQeWNKS2pQcHNUeVVCazJIeVVLSVl0ZUtMV0hzMnNpLVl3Y3ZKTzN5SzNFNXZhN293REY3R2dCVGZpaXhndmhmQTMtdjViRVYxVk1PR2RpdGt2RGo2a2EyZzhONXM5cmthZTdVMzhUZ3FIemZfcw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:03:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-08-05T20:26:35+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORUNfR2o2cnI4WFV2d3RNSnFzQXFGY25mdXB6dFlHWDVoVlRnS1BLNVdyUzNKdDN5WVFtM0t6UTY1eHhoTjkxY3FiNzdob3FwQjUwMmwwNUdHZ2w0SGVBbU4wWVpRcDVoR0g2WE9TRDZhMlUwTml2YklBTkFkRFZhdGlDMnlIalFjVlRSMlk0RnBDeXNEODc0?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T11:55:51+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaVpRQ1ZwVU1RR1pPT2xUNVJDN1dUWkRycEJ5STNxdUo2S0lMM1poem4xeTNWUzNocFl3OXhYRVdvYjZrd0pGVnJES2FXOXIteWViaUE2WWM3WmVnU3ByNmN4bzVJdlpLSGQ3TDY3cUxSTnFDdUkwS2liRThtWDBWMUprSWNnRklraW5mVEtyUEhhWElkM2hRcA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T12:05:04+00:00"
-        },
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYkt4eTN2Q0llZHJlS21VeUxvUnF0c1BNNzRTYVJLTXFwMFMtbGdYQXBBTUthSUJKeS1nN2NhSnd0TTNWZzNSd0R6eldzQllldUp1NkR4YWtsSEZCRTdZdFBYMURHQ3Z5MWN6ZWN1cGh1OTg0TEE3aUNqSDAzM20xLUtvNmZCLWo2dGFlbF9PbUVRV1g1UHpDcjhwN29lRXlmUGs0bzRtbUR5bW1pR3hSUmVXOTFxc3RpVUZQdGtwSQ?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-07-30T12:18:50+00:00"
-        },
-        {
-          "name": "Finimize",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG5VdW5HNXVhcEJvUFlxeDZHeUZiQVN5WGxIYXpmMkFUSkpGQ1JDMVFRU2hOeldBb3JqSWdsbjBwRndYSlpaOWtDSXEwemNNTXEtLTBrZHQ1b3FXYTJCblhWUmFHU1BVSEdMWnJNdXI5WnQwb2dtR20wU1BnczV3YlRNbmE?oc=5",
-          "domain": "finimize.com",
-          "published_at": "2026-07-30T12:31:52+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQTFJQlJhVEZSeEFHdUFFTmdMT0JpelF1X1NaUDNuNGQwbFVJS3NhbHdQUF95YmFld0xMYXJHbk5QbWFaVlRJWHNSaWFoNHJIYXlHODlST0dyNjlaeXpmY3dGMHgzOFdGYlVlNTZNYXJKSFBNOVlEeE1RcVZRZmFCNGVOQkFlTkRIWjNkYWJ4TFRZZHdTdDhqZ2ZDRmY1ZU9rQ1pXZ1VBOUNpT0dFSlVnUmlLc3hsaG0welE5LTM0WHYxcDdxM0hjTThkclBtRm16eDRMVW9qQ3BjUENneVFlbjFHRHc?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T12:55:48+00:00"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMGZ3VFM1MURKa19NejdQa20zeFN1TmhWTlFmSFpoU0xNQk5fYTVDMzgzYmdyWDdzY2lwVW1SbnpUaDdxZDVGdVAtMGsxOE15OGFwcXY5LUlTcDFIZTZyc2ZFNjVSbjUzX3BXb2ROeVhIRG1iSU0yZUJzTENOY3ZsYkpORzQtQQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T13:30:08+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXZuZktEdnNJcVl2ZmxxQTR5ZlVMWm94bzFDSEZ4MHdhOFVZa29ibnJ6QmkxZGJtWlBrN2xpZVNVMTlSTE02RnI2cnBrQjNpdk9iMk94ckFPQklGWmgxSGZnVURINFZ0MktHS2o5Nkc3alRIUmhYREZFbzdadF9IaDJmS3NHR3pfdlVEZ2NaWmM1UkUwRTMtRXN3d003SXpGTTIwSzkxQV9rYkZMVndmaFJ0cGxQSU45ZTRrdC1oV0lTSW1BTTZSeXZlMmpmMGM?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T14:40:50+00:00"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRlBhQ3ZYRHlhSHh0cktxb01LUDRGTU02b0dsbGdJZzN6MVQwUGc0VDI1X1M1ZUJhemtwU1k4SFhzUkFWWW9jYXVUaWFyNlNfdEZFUDRRaE9ub0dxY1pNNWtYU2J2V0F6WGlJNWRZQkM5SWJDbUJVaFlwUDJUWTJmSmNqcW5FQUVhS2RyX1RsVlBhWGFMR0hZVUZocnZfemMyS2xaeUtfeFZac1NuY0p5aEpaQmppbmozOE81VHJObU5OWWJv?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T01:47:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0xBYVh6a2d6MjdMMHRqTzVMUEhQNHRWQVhKZmtfX3RFUU5UVmVBbXFLVm05TE40aXpsbEQ5bzh5T3lsOHY0alJucUFSV3FmSEQ2SVE3WTdzNFQta3pGZ0hUN3VyT0pGM25KNW00NW4zT203bXNTa2NhbGxOMWplaUdIUlBXTzNtcjc1YWN6ajNSLVdwdG9uWFZ3LXVXdEpUNmhuVmhYamtNY3Q3a2FvSHRieU83QQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T16:07:04+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0E3OE4wYi1fQTNYY0NqXzFGXzRUVF9tQWtWRWtJRGxyMDd1bWxrUEdoMktYaDVSaGNLVUgzRngtWWxJOW5BVEVrY2VaclRyWVJHMmlia0Fyc1RDTmRjQndtUW9Yb3JaYkFLZGJVMklnaU5LYlNYVnQ3dXRsck9GRWkxVGRHdk1TdkJBNHBFSjFLWVItOTFPX0hxcFo1MWZxQ1lrQzB3SEJ1bl9pbFJrLUpB?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T17:50:53+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMW1GRkVXNllQMlJIWUNob3QtaGdkWV9vSzJBd3VzSTYwZGhQWjVQcWxNc0dOVXlGTVd0aDFJTDIzQzE4Yk1OUUpGWWhEVVdRWVgxN0ZvaXlNRkgteGhybG5aVjBjTGx1aFVKTE1fSXdUczJYQVE4ZmVrVHZSS2lpaV91ckhLcGd5SS0zWkctRnZlN1M4R0lTV2FOVWZRTmR2VktnYU1kVkFxS190NWhQZkdLbDJPN3RGQ2RqSG9GSTlpSnJRXzhXZC1VYjBMcjQ1Z0FTTTQzcEtaS0hNek5lNW9JMHhyOGZqeFhEa2IwOFNLdjJX?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T20:33:45+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTkyYmZaUkF3b2tNTGNnS1lRbF8wdzRWejAzUGhXZjJZQ1lDR25GTDFaamMtb1I1LTItejFDWjRzSE9ZR2VwaS0xc182VUtuM0VSQ2JFQkU3enhIZlFkWTlPVWlraVU2a0R1ZmhZSnBtZUMxblg3OU5oU0V3S3h3eFluQVpaWDB6cW5Ga3RzWk1KZTg?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T02:20:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS25EVTFwdUNaMkVld2xheFRwZ1Y1dlF2YnlZS0FJSmlhb202cTlyVjFoTDJkVWJQbUJGcHBSVGVoY1dkOXk4N0g3VUZhNzE3YVVWUzdTSEFVaGVOZEozZlJ2UDRucHhOTjI0RFp6UU9pb2lmcC1tMGh5Wko5NWFsWi1HVFBENXRIbVJTcHFPdjhMN3dVdFhUOHBlSQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T12:03:56+00:00"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQjB3OTdTLTlaN1BLRzB5bEVuMi1CeXRaOFV1dC1DSVN3bXN1UE1KUGN2cHFwZjBqMGlmb3lWeHh3Q0JvWnRqTEZ2MUxaMnFVWVF4VVE5VHFsS0ZnUWthYmRLazlWRndQOEhDS3M0NHhSOWZRS1Z0ODdjR051eHZhazFSd0U3eEhJRU1hNGdrTWp1UXNx?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T20:52:11+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaWVKcmYwLVpudDNtYWo1UzZlVjFyZ21nUktuRHRRZHZTOXJvOGpLUFgzbUlTcmJ2bTIzZWJYczc0Z1I5WHJPQWhYR19CeFJCaE1HeEVwVG4ycTMzUExFTUY4RHBmN2htY0k2c0N2TUJKX1NaT29UOUUxckt4RnFjRmZ4MnA4NDlPbzE4akFjdnpqcERjeXpEeA?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbnFBcklvVFBWVGtRNnEtVTR5aktLcmgzUXdLYUZCekJPUjU5ZmN3TXR4OVdxdVJUaU04M3A2UVd4RWlEZDRNYURQaElkTERfODhEeGlQNFoyVExMX25vTmJkcWRYSkJpX1FJSGFYXzB0VHNWTVAtRzIyMUFRYzB5VA?oc=5",
-          "domain": "sg.finance.yahoo.com",
-          "published_at": "2026-07-30T21:08:48+00:00"
-        },
-        {
-          "name": "Bitget",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRdIBY0FVX3lxTE5haXVRb2stZWRRZ01oV1FWWkh0UzJjWldBZTltcWkwbUpCdXdrVlpjWGxPQi1zNkZXdTFkYTRVYVJCWllkT2labG5rSTI0dzltbG9rUE1OVHZzQmM0WGRhMlRPRQ?oc=5",
-          "domain": "bitget.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdndYR3ZsM2RSTW1KSGVaZS16NG1qcDgtV1FvUkNSV2t5bXpLTUNVZVhwMTRob2hlNFdLTFhVYXNVNktaNE9qNXJoVkw4dy1xVEhNOGdEazBlRUNJSl9xbWVqblJjYnNVQ2RhWHVwRzVEWTdvQTFFMzlhUVJNaFg4UFdqUkYyZ1E5a3poYnBoczQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1BmQWVRaktIVGZOWmhrc3ZVRU1LVG4zaGFqM1JKUVVPRkxIWXhQRG5JQWlIM1RURGlpbEQ5WkJvckFVSlVhN3JYby1HUExEWTNNcEo5Z3lyT1ZFeVdrMlB2TEdxb0JSSk1QNDg5REx4d0ZTemRqNVZOS0cxME5IYTkwSmY1Y0pESXVUT1JqU0dhdUUybkZ2V3I1Mi1aRFdubHBrRDJBZE91MUVScHFwdF9GaDFraEtNdjZ5N2Ric29udGczZEF2MzVLQks?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcFBROXNkVnBVeUtRSXJYMWhRaWNYeGVzcnVjTW9faWFHcmtTcHFMY2RhYnp6NHNCZi1qdHFaX180VWwxZ25odXllU1NBNTVYTXBXUFN1M0VyLTktVWUwRzNFR1FRamRfQXU4OHlVVmNWN2F3UWU4UHdCckJIZ0YzNHVCcXRhcUh3OGc1MWpLa3E?oc=5",
-          "domain": "barchart.com",
-          "published_at": "2026-07-28T07:00:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPR0dPRndUVUxtMWhCUE0yV2NoNHJ4WEhpbnBNWHBsSzVzVkY2UWo2X2Z1ZWRLMk1laDg0X3RIMTNEUm0wNUdzSEhxU212bHUwY09BTmxfX05Vb0tranVUenYtMzBzSk1lR3hVVUJsbkw5cXFkWXJkZHA4LXJ5Nm9qSmtzTnoxOHFxQk1NRGxtUDQ1Rmhja1l3TDZydGE?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-31T12:03:56+00:00"
-        },
-        {
-          "name": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93dzNtbWN2aGwxOThnNmFZOEJfeG1hVUFGa2gtdXp1X3dLbkl1TXlkWU1BeXBJc19kVlk0NFlWUlkxanpVbGliSkVPU2lpOFI2dzJURDAzWUZMM090VVBTWjFGd0hhZDN1NUpXSXdKcThkTG1UUEo4UDhtSk4?oc=5",
-          "domain": "barchart.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkVid1htWEpiWWhxSU5Eb1NSYUp5b2RGRUs4ZlFjOVo3NjBlY0hmc2x3MHdaMEJBd09TTlNwX3RaMVRNd2xzdVhhVWxza3o1dGFMOExPdGZNZWtSQzd1dksxRzhuQXFYZDhNd2QxTEF3SUZNNXBOZm9OSEZtVGR0di04ejRFa2V5VUxGY3dEeTBucVJqdkZuWTRzZDQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-31T07:00:00+00:00"
-        },
-        {
-          "name": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVGhOS09wVmFmR3JpVHVxMWgycFNaNDNNbTFPZWxxdWhVbDhwT3RVMnlrNngyQmJ1MnBabWFIdjM2OXdCWHJTTDFtWWhSSWw2akFLdEVlRE81eDM4SzU4NjhsZVdfakJLdnhidG5TX2xQNlNSNmxjbEtGWlBoT183d0dHczZOZFp5VWgyb2N4a1A3UkU?oc=5",
-          "domain": "marketbeat.com",
-          "published_at": "2026-07-31T07:00:00+00:00"
-        },
-        {
-          "name": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3VaeFFjdHFveHlmOGwwSmdERkJvbWE4VFpuXzVyTXpSbVF2NG5KU2laeGpCZVM3YmxjazcyUmpKclMwSWxEQmhlUzFFOWtfeURodjJZeU40aUJPcDVYNEJ6UTUwRWhSWXVEcTZyNlloOTRPNTJ3eTJPR1ZlYkFEbllxbmFNTDI5MExKeGNVeGQyYUtjVTRwSVpDYTJEaVE0anBzakRCMEdjUE0?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T10:53:41+00:00"
-        }
-      ],
-      "coverage_count": 47,
-      "event_signature": "cards earnings prepares report what",
-      "source_description": "Labcorp raised its 2026 financial outlook and increased its share-repurchase authorization after a stronger second quarter. Full-year enterprise revenue-growth guidance moved to 5.4%–6.3%, up 30 basis points at the midpoint, while adjusted EPS guidance rose to $18.10–$18.55, up $0.30 at the midpoint. The board authorized an additional $1.0 billion of repurchases, bringing remaining authorization to $1.4 billion. The buyback increase follows substantial capital deployment during the quarter. Labcorp repurchased $353.8 million of shares, invested $225.7 million in acquisitions and paid $58.7 million in dividends. It also retired $500 million of senior notes in June. At quarter-end, cash and cash equivalents were $141.8 million and total debt was $5.86 billion. The company separately maintained a quarterly cash dividend of $0.72 per share, payable September 11, 2026 to shareholders of record on August 28. The capital actions were supported by second-quarter revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and improving margins. Reported operating margin rose 90 basis points to 12.1%, while adjusted operating margin increased 70 basis points to 15.8%. The combination of higher guidance, continued acquisition spending and a larger repurchase authorization signals confidence in cash generation while Labcorp continues to invest in growth.",
-      "chatgpt_summary": "Ahead of Labcorp’s July 30 second-quarter 2026 results, Zacks expected the company to report revenue of about $3.72 billion, up 5.4% year over year, and adjusted EPS of $4.79, up 10.1%. Labcorp had beaten earnings estimates in each of the prior four quarters, with an average surprise of 3.31%, and entered the report with a Zacks Rank #2 and a positive Earnings ESP of 0.71%. The preview identified Diagnostics Laboratories as the main growth engine, supported by organic demand, health-system partnerships and acquisitions. It cited Labcorp’s nationwide collaboration with Children’s Hospital of Philadelphia, the March acquisition of selected Laboratory Alliance of Central New York assets, and the expanded DPYD genotyping test intended to identify cancer patients at risk of severe chemotherapy toxicity. Zacks also highlighted specialty-testing growth in oncology, neurology and autoimmune disease, including liquid-biopsy and MRD offerings, an FDA-approved ovarian-cancer companion diagnostic for KEYTRUDA eligibility, and a rapid FDA-cleared fentanyl test with a 10-minute result. The article expected Diagnostics revenue to grow 6.1% and Biopharma Laboratory Services revenue to rise 2.7%, with Central Laboratories supporting BLS while Early Development streamlining constrained growth. Labcorp’s broader technology initiatives included expanded Epic Aura integration and collaborations with AWS, Datavant and Optum.ai to improve research, laboratory operations and customer workflows.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-14T06:37:04+05:30",
-      "summary_evidence": [
-        "https://www.zacks.com/stock/news/2957862/labcorp-prepares-to-report-q2-earnings-whats-in-the-cards"
-      ]
-    },
-    {
-      "id": "866fc2d28d2897b73cf1",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare's Longer-Term Margin Recovery Still Expected",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5",
-      "description": "Morningstar's July 2026 review argued that Sonic Healthcare's longer-term earnings case still depended primarily on margin recovery in pathology, which represented about 85% of group revenue at the time. The analyst identified three main supports: indexation introduced from July 1, 2025 on roughly one-third of Australian pathology tests, integration synergies from the LADR acquisition in Germany and expected restructuring benefits in the United States. Morningstar also highlighted execution risks. LADR was only in its first year of integration, the U.S. operating review was expected to be a multistage process, and the new U.K. NHS contract was viewed as margin dilutive in the medium term. As a result, Morningstar reduced its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic's roughly 17% pre-COVID average, and cut its fair-value estimate by 16% to A$27. At publication the analyst said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. Morningstar also flagged German private-fee reform as a key risk because Germany represented roughly 25% of Sonic revenue. These are third-party forecasts made before Sonic's August 20 FY2026 results, not company-issued guidance.",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "source_domain": "morningstar.com",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXI1bzQ3R1FaUFh1RUJ1MVhmbnEtbFdLaWVkZHB2YW1xenE4YVJFQl9sem1oWUlqd2dsYzl2SDBWeV9QQ2ZrS0d3NEpCdm5oVU1KdXZoUmdQZldoQ2FNYkdzMkpGTld1Vm9RZm56cDRnbURoVFlwQXBNc2wwcHY1bXNvT0NuWFJZVTdOWGVhUGdwX1AtX3AtNW4wc1FhUEJXNW5wY195YzVzb1ZUTWJTcGJ3?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-07-22T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "expected longer margin recovery still term",
-      "source_description": "Sonic Healthcare's Longer-Term Margin Recovery Still Expected Morningstar",
-      "chatgpt_summary": "Morningstar's July 2026 review argued that Sonic Healthcare's longer-term earnings case still depended primarily on margin recovery in pathology, which represented about 85% of group revenue at the time. The analyst identified three main supports: indexation introduced from July 1, 2025 on roughly one-third of Australian pathology tests, integration synergies from the LADR acquisition in Germany and expected restructuring benefits in the United States. Morningstar also highlighted execution risks. LADR was only in its first year of integration, the U.S. operating review was expected to be a multistage process, and the new U.K. NHS contract was viewed as margin dilutive in the medium term. As a result, Morningstar reduced its midcycle group EBITDA-margin forecast to 19.4% from 21.4%, still above Sonic's roughly 17% pre-COVID average, and cut its fair-value estimate by 16% to A$27. At publication the analyst said the shares traded at a 19% discount to that estimate and yielded about 5%, 60% franked. Morningstar also flagged German private-fee reform as a key risk because Germany represented roughly 25% of Sonic revenue. These are third-party forecasts made before Sonic's August 20 FY2026 results, not company-issued guidance.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T18:35:15+05:30",
-      "summary_evidence": [
-        "https://www.morningstar.com.au/stocks/asx-healthcare-share-remains-undervalued-ahead-earnings",
-        "https://www.morningstar.com/company-reports/1489071-sonic-healthcare-still-a-margin-of-safety-despite-margins-being-off-forecast"
-      ]
-    },
-    {
-      "id": "c72d0b6434beac76ee08",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5",
-      "description": "Quiver Quantitative reported that Quest Diagnostics shares rose 5.8% on July 22, one day before its scheduled second-quarter 2026 earnings release. The article framed the move as likely pre-earnings positioning rather than a newly disclosed operating event, pointing to Quest's first-quarter performance and recent oncology expansion as the main backdrop. Quest had reported 9.2% first-quarter revenue growth and raised its full-year 2026 revenue and adjusted EPS guidance in April. Quiver also highlighted two Haystack MRD developments that could support expectations for growth beyond routine laboratory testing. On July 8, Quest announced a pilot using Flatiron Health's OncoEMR Molecular Profiling Integration platform to expand access to select oncology tests, including Haystack MRD, for community oncology practices. In late June, New York State approved Haystack MRD, a circulating-tumor-DNA minimal residual disease test, expanding access for patients with solid tumors in that state. Quiver cited Quest Investor Relations, the Quest newsroom and Kiplinger as sources. The article explicitly described its explanation for the 5.8% stock move as analysis rather than a confirmed causal statement and disclosed that the price-movement analysis was generated with AI and should be checked for errors. The central business takeaway was therefore stronger operating momentum plus broader oncology-test access ahead of earnings, not a new company forecast.",
-      "source": "quiverquant.com",
-      "source_url": "https://www.quiverquant.com",
-      "source_domain": "quiverquant.com",
-      "published_at": "2026-07-22T07:00:00+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "quiverquant.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV1dRUThQSTNCN3hpTWRQcXlEOFNHemJqa0RiTVhMbzRER3M0RkhJcUJ2WU5lVHdJTTFzeHR5NjN0Rk1xTV81dTJuOG1FUFdBMExUbWpuMkxndk1iQ3dPN2pUZVpSemR5akdONzdGVmtRRWZyVXRwS28wZEhNeWF5ZDc4UHRYUU9RblI5T2tTbTVaZi1IZk5iUHZwZVRVdEc2Y0dncmRyLU1pNG9JcklCaEZKT1c?oc=5",
-          "domain": "quiverquant.com",
-          "published_at": "2026-07-22T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "ahead earnings growth initiatives investors rallies stock weigh",
-      "source_description": "Quest Diagnostics Rallies Ahead of Earnings as Investors Weigh Growth Initiatives | DGX Stock News Quiver Quantitative",
-      "chatgpt_summary": "Quiver Quantitative reported that Quest Diagnostics shares rose 5.8% on July 22, one day before its scheduled second-quarter 2026 earnings release. The article framed the move as likely pre-earnings positioning rather than a newly disclosed operating event, pointing to Quest's first-quarter performance and recent oncology expansion as the main backdrop. Quest had reported 9.2% first-quarter revenue growth and raised its full-year 2026 revenue and adjusted EPS guidance in April. Quiver also highlighted two Haystack MRD developments that could support expectations for growth beyond routine laboratory testing. On July 8, Quest announced a pilot using Flatiron Health's OncoEMR Molecular Profiling Integration platform to expand access to select oncology tests, including Haystack MRD, for community oncology practices. In late June, New York State approved Haystack MRD, a circulating-tumor-DNA minimal residual disease test, expanding access for patients with solid tumors in that state. Quiver cited Quest Investor Relations, the Quest newsroom and Kiplinger as sources. The article explicitly described its explanation for the 5.8% stock move as analysis rather than a confirmed causal statement and disclosed that the price-movement analysis was generated with AI and should be checked for errors. The central business takeaway was therefore stronger operating momentum plus broader oncology-test access ahead of earnings, not a new company forecast.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T18:38:44+05:30",
-      "summary_evidence": [
-        "https://www.quiverquant.com/news/Quest%2BDiagnostics%2BRallies%2BAhead%2Bof%2BEarnings%2Bas%2BInvestors%2BWeigh%2BGrowth%2BInitiatives",
-        "https://newsroom.questdiagnostics.com/2026-07-08-Quest-Diagnostics-Now-the-Largest-Clinical-Reference-Lab-to-Extend-Oncology-Test-Access-Through-OncoEMR-MPI"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 68,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-20T12:17:00+05:30",
-  "next_update_display": "20 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-20T18:17:00+05:30",
+  "next_update_display": "20 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
