@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T04:33:09.326350+05:30",
-  "generated_at_display": "20 Oct 2026, 4:33 AM IST",
+  "generated_at": "2026-10-20T10:51:52.544548+05:30",
+  "generated_at_display": "20 Oct 2026, 10:51 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 304,
+  "remaining_unsummarized_count": 305,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -201,6 +201,25 @@
         {
           "name": "HIT Consultant",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4493bbca40bbb733b192",
+      "company": "Mayo Clinic Laboratories",
+      "category": "Partnership, M&A",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
+      "source": "The Sun Malaysia",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine The Sun Malaysia",
+      "published_at": "2026-10-12T19:44:57+00:00",
+      "published_display": "12 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFlLR2QwSTg3TnlYS0JpYnlXTjFwa2VKalRXaGYwcFI4MGJ5Zl9nNU9SV09IckRHNDFKLURNSmNjWmIyd0I3d292SUgzSEZLQlVKalFUZlhVT2FZYXpzSVVSMnpLSDlJSTB4WkZseHRjdmJBTnhnQmRnZldwa3Z1YnlJTGFzV1RHRnJUNk55NnVWbDZSb19WTnQ1TEQ4QmQ0cDVSeXJCMDIxUlFEclpqblktY3dPSjdzTGlSbDFaVTI5N0RuZGdKRlBrbm9lVFdsS0VIX2ZCb3JjRUJJZS05aERjZnRnZXVmZVE?oc=5",
+      "sources": [
+        {
+          "name": "The Sun Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFlLR2QwSTg3TnlYS0JpYnlXTjFwa2VKalRXaGYwcFI4MGJ5Zl9nNU9SV09IckRHNDFKLURNSmNjWmIyd0I3d292SUgzSEZLQlVKalFUZlhVT2FZYXpzSVVSMnpLSDlJSTB4WkZseHRjdmJBTnhnQmRnZldwa3Z1YnlJTGFzV1RHRnJUNk55NnVWbDZSb19WTnQ1TEQ4QmQ0cDVSeXJCMDIxUlFEclpqblktY3dPSjdzTGlSbDFaVTI5N0RuZGdKRlBrbm9lVFdsS0VIX2ZCb3JjRUJJZS05aERjZnRnZXVmZVE?oc=5"
         }
       ]
     },
@@ -700,25 +719,6 @@
         {
           "name": "Investing.com South Africa",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZDdOc1M5NXAyRWFXekRLZU5INnRaMm5aak1TQmdrWlozZ2ZLRUlwZmp5eHRZcWdOeHJsU18tbzBBczE0XzBxV2RHQnFJemhScnhrM0t0WlZjM3hfazNOSHhEMFJvc1BSSnhDUXdreUtUY0JLLTM3OWFoQ2pmN2EyVVpSeEJBeVRqSEtfNGV0WWZIMjloZnY0Y003TVhJVE1KdmRuT0QwVkw5ZnBmSGNQNlRVZVBoQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aebd1c26176c4525ccb3",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "List of 33 Acquisitions by LabCorp (Aug 2026)",
-      "source": "Tracxn",
-      "description": "List of 33 Acquisitions by LabCorp (Aug 2026) Tracxn",
-      "published_at": "2026-08-02T07:00:00+00:00",
-      "published_display": "02 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
-      "sources": [
-        {
-          "name": "Tracxn",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
         }
       ]
     }
