@@ -1,17 +1,167 @@
 {
-  "generated_at": "2026-10-20T17:45:18.526260+05:30",
-  "generated_at_display": "20 Oct 2026, 5:45 PM IST",
-  "item_count": 407,
-  "raw_relevant_item_count": 564,
-  "duplicates_merged": 86,
+  "generated_at": "2026-10-20T23:03:05.100193+05:30",
+  "generated_at_display": "20 Oct 2026, 11:03 PM IST",
+  "item_count": 413,
+  "raw_relevant_item_count": 612,
+  "duplicates_merged": 115,
   "failures": [],
   "items": [
+    {
+      "id": "ccd9ededd7fb576356c1",
+      "company": "Labcorp",
+      "title": "Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0ZFNjBpVEFNcFR0REdLNGJJT1JEX0FVNEI5S21KaUVvbGMwRFpUcHB5ckRaWXlBUC1LcVZNZ1BkWHNXUkJ2bHNHRjdZNWFEQU5WQ2hnZ0VGMDhXUXJVLTNBdmloLUdxNWJrTVkxckp5ZTRQSHp2c3ZoQzhmckxGa0dFdjJvdDlFYzN2OWpwbEEyRVlWcHNGaFN1RG5qX2s?oc=5",
+      "description": "Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets Medical Device and Diagnostic industry",
+      "source": "Medical Device and Diagnostic industry",
+      "source_url": "https://www.mddionline.com",
+      "source_domain": "mddionline.com",
+      "published_at": "2026-10-20T15:21:26+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Device and Diagnostic industry",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa0ZFNjBpVEFNcFR0REdLNGJJT1JEX0FVNEI5S21KaUVvbGMwRFpUcHB5ckRaWXlBUC1LcVZNZ1BkWHNXUkJ2bHNHRjdZNWFEQU5WQ2hnZ0VGMDhXUXJVLTNBdmloLUdxNWJrTVkxckp5ZTRQSHp2c3ZoQzhmckxGa0dFdjJvdDlFYzN2OWpwbEEyRVlWcHNGaFN1RG5qX2s?oc=5",
+          "domain": "mddionline.com",
+          "published_at": "2026-10-20T15:21:26+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "210m assets buying keeps myriad prenatal testing"
+    },
+    {
+      "id": "da628e5a23cf8e8418d8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Offer Waters At-Home Cervical Cancer Screening Kit",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUZFWWZvOHFVNWZZNElRVHM5TVEzaFAtTTZ5TURveTVqOG5NNFNaRkViRTN3aW9ONWx0YXZCaXRWcVFmYkJHVS04ZVdhNXktMWluQmkxOFFvLUxlengwUmhMdXA4a05NNUUwSW5Dczk3ZDBVT2xBZkdJZUcxM1FiOFpMNEQwejlmVGtyWkJSejZvTUFSWjdmRW54OFY?oc=5",
+      "description": "Quest Diagnostics to Offer Waters At-Home Cervical Cancer Screening Kit GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.360dx.com",
+      "source_domain": "360dx.com",
+      "published_at": "2026-10-20T14:24:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSUZFWWZvOHFVNWZZNElRVHM5TVEzaFAtTTZ5TURveTVqOG5NNFNaRkViRTN3aW9ONWx0YXZCaXRWcVFmYkJHVS04ZVdhNXktMWluQmkxOFFvLUxlengwUmhMdXA4a05NNUUwSW5Dczk3ZDBVT2xBZkdJZUcxM1FiOFpMNEQwejlmVGtyWkJSejZvTUFSWjdmRW54OFY?oc=5",
+          "domain": "360dx.com",
+          "published_at": "2026-10-20T14:24:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cancer cervical home kit offer screening waters"
+    },
+    {
+      "id": "d1cad39796ccdf5021dd",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: Is Rapid Test Growth Translating Into Better Customer Economics?",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFlES09fcURmTWM3UlB5VXNwV2pQLWF3OUJPZW5iY0hxU2R0LUhxMkZMRWRZV0gxX3ItMjBmVUQwUGRzMmNRUnFHMEIyLVlnZXVPdUZvV3RHVTYxRGYzVUJVNzhwQnQxcEc4R0laV0F1MTFUcHdaSDBKWGY2MGlTa0pFZFQ4SXhSamczM3VOUUd5NTBFeUNIR0dzSXFHZHpPaW5HbGhnNC1uaUs2bkxJaGtNU0dIOWExUWktMjFGMW1vZXVEWEpkUNIB0AFBVV95cUxPUml0Y2EwSjNRcUFkbVEyRkRIaDhUZWRMejEwaFBJS1hfaWJKVWdRYmtRQ3haLWdnRGZPRkQwTmJ4Qjlxb2c4Q3NYTHZ5eDYzUENEa2hHZlB2dnFCWmFWMFpOaGRnc1J3SDNGNWdVd2JKN2VEVldSU21VY1g4OEtORnl4bDl2ODE3OVBmUXlxSjJvZXlKVEprSl96N0FMVUhQdUJORXJ2NzRFSFptVlFrT1NycWt2OG5RdDVaNlN4eWFLaFB1LUZFcW9URWRaSklF?oc=5",
+      "description": "Quest Diagnostics (DGX): Is Rapid Test Growth Translating Into Better Customer Economics? Insider Monkey",
+      "source": "Insider Monkey",
+      "source_url": "https://www.insidermonkey.com",
+      "source_domain": "insidermonkey.com",
+      "published_at": "2026-10-20T13:37:32+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Insider Monkey",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdFlES09fcURmTWM3UlB5VXNwV2pQLWF3OUJPZW5iY0hxU2R0LUhxMkZMRWRZV0gxX3ItMjBmVUQwUGRzMmNRUnFHMEIyLVlnZXVPdUZvV3RHVTYxRGYzVUJVNzhwQnQxcEc4R0laV0F1MTFUcHdaSDBKWGY2MGlTa0pFZFQ4SXhSamczM3VOUUd5NTBFeUNIR0dzSXFHZHpPaW5HbGhnNC1uaUs2bkxJaGtNU0dIOWExUWktMjFGMW1vZXVEWEpkUNIB0AFBVV95cUxPUml0Y2EwSjNRcUFkbVEyRkRIaDhUZWRMejEwaFBJS1hfaWJKVWdRYmtRQ3haLWdnRGZPRkQwTmJ4Qjlxb2c4Q3NYTHZ5eDYzUENEa2hHZlB2dnFCWmFWMFpOaGRnc1J3SDNGNWdVd2JKN2VEVldSU21VY1g4OEtORnl4bDl2ODE3OVBmUXlxSjJvZXlKVEprSl96N0FMVUhQdUJORXJ2NzRFSFptVlFrT1NycWt2OG5RdDVaNlN4eWFLaFB1LUZFcW9URWRaSklF?oc=5",
+          "domain": "insidermonkey.com",
+          "published_at": "2026-10-20T13:37:32+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "better customer economics growth rapid test translating"
+    },
+    {
+      "id": "49e4766daefa1011d869",
+      "company": "Quest Diagnostics",
+      "title": "Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
+      "description": "Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-20T13:19:07+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-20T13:19:07+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
+    },
+    {
+      "id": "69c8ccffe13ea7df523d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics expected to post earnings of $2.86 a share - Earnings Preview",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdzhIRHFjaHZmZzloby1jWlB6cFB2VmhKalR4Z2JqdV8xenFVZ1U0UEVZbFM2V0RzUmdrWmFZdzZsbUtqX3VHODR2S2ZVSW13SGdiYmVCQ1VOVWREdzVNWER4cVNhczBjN0EyVUg1a3Q3a3VQdjJuNUpFYm5wTlU0UTJhZG95ZkdacXlVZmxPWWlydGNobVJpWnFSMWwxb05KeXl6MUt3YWRZU3d5Rm1UYi02VllXU01JRWd4Rnk5UmVxbVFmS0o1YnpETXpzNnp0UU56THk1bUp4cjRFekRCZUF0SlQ?oc=5",
+      "description": "Quest Diagnostics Inc expected to post earnings of $2.86 a share - Earnings Preview TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-20T12:38:06+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQdzhIRHFjaHZmZzloby1jWlB6cFB2VmhKalR4Z2JqdV8xenFVZ1U0UEVZbFM2V0RzUmdrWmFZdzZsbUtqX3VHODR2S2ZVSW13SGdiYmVCQ1VOVWREdzVNWER4cVNhczBjN0EyVUg1a3Q3a3VQdjJuNUpFYm5wTlU0UTJhZG95ZkdacXlVZmxPWWlydGNobVJpWnFSMWwxb05KeXl6MUt3YWRZU3d5Rm1UYi02VllXU01JRWd4Rnk5UmVxbVFmS0o1YnpETXpzNnp0UU56THk1bUp4cjRFekRCZUF0SlQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-20T12:38:06+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings expected post preview share"
+    },
+    {
+      "id": "a6520192962a30d4cf78",
+      "company": "Labcorp",
+      "title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5",
+      "description": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-20T12:30:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-20T12:30:00+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEVJYnFOcHJqeUhvV2ZWR2hmSkhBMER4dnRzODJwcDNXbHljSjFBbElndEZQVXF1RktyR2xTX0swXzJYeXlRUVp2OG9RZXhBeHoweDE1ZXF1YkpDcUl6NVpwaFN0V2pkR0NvNFY4SGJPZk5NeHg2N3dvXzY1VWVoR0J5WV84cHZqTXc?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-10-20T13:27:31+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
+    },
     {
       "id": "eaa7b5417acbf99346bd",
       "company": "Quest Diagnostics",
       "title": "Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option",
       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
-      "description": "Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option PR Newswire",
+      "description": "Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option Yahoo Finance",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -25,9 +175,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-10-20T12:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-20T12:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
     },
     {
@@ -209,6 +365,42 @@
       ],
       "coverage_count": 2,
       "event_signature": "722 acquire assets bioreference burlington health million opko select"
+    },
+    {
+      "id": "e4359605fca9e3c7fd95",
+      "company": "Labcorp",
+      "title": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
+      "description": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-16T14:20:00+00:00",
+      "published_display": "16 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-16T14:20:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWZZaDU4dGtHdjM0T2M1MDRLeml5ZFpfdWtDYXMxbm0zQVNaNFdZUlNheG1SX1NvTGFaZFlpLW5ncTVod1ZQLXlpSS1nUm9HNmFFOVN3emNxZW5vSFRrOXkxZV9hQk5LekdMQWM0c0ZET0ZhU3NRRXhuVnptejFDdHRteFNpNVBVSDFLTDNfekRCT0lmU2UyY3NMS25JelZMdWtDZ0lnLThITHRnMjhvR3JQSGwxSzBpT2o4TG9B?oc=5",
+          "domain": "fr.tradingview.com",
+          "published_at": "2026-10-16T14:20:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObE9rNDFDQUlVRHRZdkE4bjJFWGZoMlhqOXBhSVVaaWstOGtSSzY3SnVxRkRkVkI0eHNaa2htWVdKcVdHSlRWR2k5dlFUc25LblJkVEdfbWtpWEtDbXd3ZE5CVGp4TVM0dV9Ic1IzczVjakVobTBGVENQYnRqa0QxZ3I5N0RlNk1BR3hiYmc3MUR5MHZBNzhxVVRFMmVTc1ZWMEFnbmpURFc3dVE?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-17T04:42:32+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "722m assets bioreference health opko select sell"
     },
     {
       "id": "c36ce0120eb5e0f187cc",
@@ -13171,43 +13363,12 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/arup-launches-first-clinical-spectral-flow-cytometry-assay-for-mrd-assessment-in-multiple-myeloma-302829698.html"
       ]
-    },
-    {
-      "id": "b7749ec3ea4122652c1b",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXd5R2piZDdtcTRHVjRHQVdrbFM0c0pUWW1rX1R5bGdIR19UWjZZOVdhTXVRek9GWFV1a3R6ZXhkQy1rTUZCWkVONE5NOU92M0hfcTMyQVZCMzI5QW5vRW0wSXZJRkthSkhmcHkyWTVvLU5ieXNoU1lGUkNuekUzQXVqOGt2ZUJSX1lSOUtTbGhyMUpfTHZrbmNkOGFzbWgtSFctZUtNXzg4NE85czdLOVQ0ZTN1dkE?oc=5",
-      "description": "Ahead of Quest Diagnostics’ second-quarter 2026 release, Investing.com said analysts expected the company to extend its growth streak after a strong first quarter and an earlier guidance increase. Wall Street’s consensus called for adjusted EPS of $2.82 and revenue of $2.97 billion for the quarter ended June 30, each about 7.6% above the prior-year period. Quest had reported first-quarter adjusted EPS of $2.50 on $2.90 billion of revenue, with revenue growth above 9% and adjusted EPS growth of about 13%. The article identified advanced diagnostics as a key test of the strategy, highlighting integration of Haystack MRD circulating-tumor-DNA testing and comprehensive genomic profiling into Flatiron Health’s OncoEMR platform. That integration was designed to extend access to approximately 4,700 clinicians across 1,600 cancer-care locations. Investing.com also pointed to routine testing demand and the company’s use of automation and artificial intelligence to improve margins as central issues for the earnings call. At the time, Quest had a market capitalization of about $22.9 billion and traded at $206.84. The subsequent results exceeded the preview’s consensus, with adjusted EPS of $3.12 and revenue of $3.043 billion, but the article itself was a pre-earnings assessment of whether innovation and partnerships could sustain growth.",
-      "source": "Investing.com UK",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-22T14:34:00+00:00",
-      "published_display": "22 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXd5R2piZDdtcTRHVjRHQVdrbFM0c0pUWW1rX1R5bGdIR19UWjZZOVdhTXVRek9GWFV1a3R6ZXhkQy1rTUZCWkVONE5NOU92M0hfcTMyQVZCMzI5QW5vRW0wSXZJRkthSkhmcHkyWTVvLU5ieXNoU1lGUkNuekUzQXVqOGt2ZUJSX1lSOUtTbGhyMUpfTHZrbmNkOGFzbWgtSFctZUtNXzg4NE85czdLOVQ0ZTN1dkE?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-22T14:34:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "accelerates com deck earnings growth investing testing",
-      "source_description": "Quest Diagnostics earnings on deck as testing growth accelerates By Investing.com Investing.com UK",
-      "chatgpt_summary": "Ahead of Quest Diagnostics’ second-quarter 2026 release, Investing.com said analysts expected the company to extend its growth streak after a strong first quarter and an earlier guidance increase. Wall Street’s consensus called for adjusted EPS of $2.82 and revenue of $2.97 billion for the quarter ended June 30, each about 7.6% above the prior-year period. Quest had reported first-quarter adjusted EPS of $2.50 on $2.90 billion of revenue, with revenue growth above 9% and adjusted EPS growth of about 13%. The article identified advanced diagnostics as a key test of the strategy, highlighting integration of Haystack MRD circulating-tumor-DNA testing and comprehensive genomic profiling into Flatiron Health’s OncoEMR platform. That integration was designed to extend access to approximately 4,700 clinicians across 1,600 cancer-care locations. Investing.com also pointed to routine testing demand and the company’s use of automation and artificial intelligence to improve margins as central issues for the earnings call. At the time, Quest had a market capitalization of about $22.9 billion and traded at $206.84. The subsequent results exceeded the preview’s consensus, with adjusted EPS of $3.12 and revenue of $3.043 billion, but the article itself was a pre-earnings assessment of whether innovation and partnerships could sustain growth.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T00:34:32+05:30",
-      "summary_evidence": [
-        "https://www.investing.com/news/earnings/quest-diagnostics-earnings-on-deck-as-testing-growth-accelerates-93CH-4806387"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 80,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-20T18:17:00+05:30",
-  "next_update_display": "20 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-21T00:17:00+05:30",
+  "next_update_display": "21 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
