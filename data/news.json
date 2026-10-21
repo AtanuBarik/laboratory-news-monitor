@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-21T10:51:00.273346+05:30",
-  "generated_at_display": "21 Oct 2026, 10:51 AM IST",
-  "item_count": 413,
-  "raw_relevant_item_count": 620,
-  "duplicates_merged": 125,
+  "generated_at": "2026-10-21T17:57:15.503021+05:30",
+  "generated_at_display": "21 Oct 2026, 5:57 PM IST",
+  "item_count": 402,
+  "raw_relevant_item_count": 605,
+  "duplicates_merged": 121,
   "failures": [],
   "items": [
+    {
+      "id": "d92783af1a45a53e9f08",
+      "company": "Labcorp",
+      "title": "Labcorp Declares Quarterly Dividend",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
+      "description": "Labcorp Declares Quarterly Dividend Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-21T10:50:00+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-21T10:50:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "declares dividend quarterly"
+    },
     {
       "id": "5fcc5a2f037d10b1924d",
       "company": "Quest Diagnostics",
@@ -901,9 +925,15 @@
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqM2xFRHBtd05CeTdrdWdFT3ZKbXY4RWptMk5BcWdFMzljSjhLZmdmeTE1V2NyWk0tcDl1ZWUtQjNlcTk4T1k1dXB4VVVONkJpVW0yazBn?oc=5",
           "domain": "marketbeat.com",
           "published_at": "2026-10-16T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-10-20T20:41:31+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "history price quote stock"
     },
     {
@@ -1255,29 +1285,29 @@
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
-      "id": "d8272f1a12c038823c01",
+      "id": "21323ffc6ae6bf81463e",
       "company": "Labcorp",
       "title": "Labcorp: Is Its Earnings Discount Worth the Growing Investment Bill?",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzhMOEFUS0k5RkxyZWZnYU9RUG53ckZOVTZtM01ORzZMQ0xWaDRiNkRPeGtqeWRyS3l4Y0Q5UndmR1plUGNoUEt5Wl9IcC0zVnlnV1lEcTJFZ2N5cVdtbmN4X25GY0xpcFRxQXpuTGt4X1ZIXzFxX29NdGYwYmtfVkJPazVlMW9TRmtuQlJKR25FWk1LTWNGSDlKRHBvZ3NpMGo1dDVYQVkyYS1zelFDNFkyVdIBuwFBVV95cUxQRTJFN2h3T2hRT2duTWUzdWN2emhSdFhiaWF6Nk91c0xMYzFvNl84Z3FOSXo1b0dGY1JDeWstMTJFM1Rwa2E1WnFGUEdDelR2TllQRFJTZk5aRnBUSFh1aXllWVJmcFNFWWZZWGhzODNRRXhMZ3ZTWDZGd3p0WEtMaUJEbXl3SUtadVBVNVU3ejd6ZEV2NUFBN3ZqbVVYN2RFMVljYW1SRldiV19WbmwwakkwYWpubWZQZ0dZ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS19NWVdqaW94d01wLXRqeFRTcEdQUjQ4a19jZWgwVFVmbVQtaGduSS12NF95cmIyWlpaM2JyQ0xyWk5JaTRaLXFreWwwOGJYdDAxRzFjYXF2cVJYNHZEeDJkS3FsU3RvSVJHQ1pOS3NKRnMwdEU3MjI2cnMyUE0xR2dnNzZSVUp6dUNCRFY1N3dLUnllQlF2eFlEbw?oc=5",
       "description": "Labcorp (LH): Is Its Earnings Discount Worth the Growing Investment Bill? Insider Monkey",
-      "source": "Insider Monkey",
-      "source_url": "https://www.insidermonkey.com",
-      "source_domain": "insidermonkey.com",
-      "published_at": "2026-10-12T18:08:18+00:00",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-12T07:00:00+00:00",
       "published_display": "12 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
         {
-          "name": "Insider Monkey",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzhMOEFUS0k5RkxyZWZnYU9RUG53ckZOVTZtM01ORzZMQ0xWaDRiNkRPeGtqeWRyS3l4Y0Q5UndmR1plUGNoUEt5Wl9IcC0zVnlnV1lEcTJFZ2N5cVdtbmN4X25GY0xpcFRxQXpuTGt4X1ZIXzFxX29NdGYwYmtfVkJPazVlMW9TRmtuQlJKR25FWk1LTWNGSDlKRHBvZ3NpMGo1dDVYQVkyYS1zelFDNFkyVdIBuwFBVV95cUxQRTJFN2h3T2hRT2duTWUzdWN2emhSdFhiaWF6Nk91c0xMYzFvNl84Z3FOSXo1b0dGY1JDeWstMTJFM1Rwa2E1WnFGUEdDelR2TllQRFJTZk5aRnBUSFh1aXllWVJmcFNFWWZZWGhzODNRRXhMZ3ZTWDZGd3p0WEtMaUJEbXl3SUtadVBVNVU3ejd6ZEV2NUFBN3ZqbVVYN2RFMVljYW1SRldiV19WbmwwakkwYWpubWZQZ0dZ?oc=5",
-          "domain": "insidermonkey.com",
-          "published_at": "2026-10-12T18:08:18+00:00"
-        },
-        {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS19NWVdqaW94d01wLXRqeFRTcEdQUjQ4a19jZWgwVFVmbVQtaGduSS12NF95cmIyWlpaM2JyQ0xyWk5JaTRaLXFreWwwOGJYdDAxRzFjYXF2cVJYNHZEeDJkS3FsU3RvSVJHQ1pOS3NKRnMwdEU3MjI2cnMyUE0xR2dnNzZSVUp6dUNCRFY1N3dLUnllQlF2eFlEbw?oc=5",
           "domain": "finance.yahoo.com",
+          "published_at": "2026-10-12T07:00:00+00:00"
+        },
+        {
+          "name": "Insider Monkey",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzhMOEFUS0k5RkxyZWZnYU9RUG53ckZOVTZtM01ORzZMQ0xWaDRiNkRPeGtqeWRyS3l4Y0Q5UndmR1plUGNoUEt5Wl9IcC0zVnlnV1lEcTJFZ2N5cVdtbmN4X25GY0xpcFRxQXpuTGt4X1ZIXzFxX29NdGYwYmtfVkJPazVlMW9TRmtuQlJKR25FWk1LTWNGSDlKRHBvZ3NpMGo1dDVYQVkyYS1zelFDNFkyVdIBuwFBVV95cUxQRTJFN2h3T2hRT2duTWUzdWN2emhSdFhiaWF6Nk91c0xMYzFvNl84Z3FOSXo1b0dGY1JDeWstMTJFM1Rwa2E1WnFGUEdDelR2TllQRFJTZk5aRnBUSFh1aXllWVJmcFNFWWZZWGhzODNRRXhMZ3ZTWDZGd3p0WEtMaUJEbXl3SUtadVBVNVU3ejd6ZEV2NUFBN3ZqbVVYN2RFMVljYW1SRldiV19WbmwwakkwYWpubWZQZ0dZ?oc=5",
+          "domain": "insidermonkey.com",
           "published_at": "2026-10-12T18:08:18+00:00"
         },
         {
@@ -4751,7 +4781,7 @@
       "company": "Quest Diagnostics",
       "title": "Why Quest Diagnostics Stock Is Up Today",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ2dUQmlkc1lid08zZVpISEJOVUp4SWczdTFxRWJmLVQ3bGRZVEMxdDdDYjNzWmktbzZtMms2RnVIX1dDWDBITmtub0FHSDVPTEd1TU16c1VzcGZ0VWIzVkVabFplSno1bUo4MUdiYV8xcXFGaENJbmo5UnpnZTNQYlZnakFEMng0U2I0UmRuQkxNd3BNMnVfaEJBOA?oc=5",
-      "description": "Why Quest Diagnostics Incorporated (DGX) Stock Is Up Today Quiver Quantitative",
+      "description": "Why is Quest Diagnostics stock sliding today? By Investing.com Investing.com India",
       "source": "Quiver Quantitative",
       "source_url": "https://www.quiverquant.com",
       "source_domain": "quiverquant.com",
@@ -4789,9 +4819,15 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSzQzRERXYWFTWFpiVmQ1dDlyNkFjcWJyOEVwTURMVEZxeGhCVkdCdWhCOXJCUklzeFB6bERKSWMzTmtOdGJXQnpfX21RSlpWbFRyLTlKaXhtVEhWLVIyMWVVMjkyVzlRaDVwTFRkWFh4R0VnYkR5Y0hTN1pMaGlYcWlwNnZwQQ?oc=5",
           "domain": "aol.ca",
           "published_at": "2026-09-22T15:57:47+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbVFFRFA1YUhIczlFdXJ1cnJ2ZGVZcWtuZjFILTMtVnlOcTNSeUFDUUJCUmVBRk9IcE84dkI5cVVhcHpxWTZQLVFYNTVRVEI0blpxUnBJZ3V1aXB3dmtjZFVjemRKZDlKTVp4LUlSSUZ2M2NvdTh2dnZPQm1wYjYzY2czbzFBVkpyOHRHcDZqUGNnRjA0UDQzcTJ5RkJtcWcwSjNfLWJtOWE?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-09-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "stock today why"
     },
     {
@@ -7552,40 +7588,6 @@
       "event_signature": "cleared edges elecsys fda lower ptau217 stock test"
     },
     {
-      "id": "8e74f5a277e435ccb3e6",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTd2R3ROaHJaM3VZdmV4TU5rT0ZlUDZZWTVraGlWcUQ2SEJoOGVZS3hsSnlxakptWDBaVWNZWW1faFhRaFRoT2gwWHdlVHNKR1JrTWZBWTlWRFZQUkxXWG91NTJNV0hVOGExU0t6RGluQXpNT0tIanZ2Wm5NME0xdFRxLUdLdnRzb3Rfdkp2VlBWT21ldmJlZ0FoU3RtY0hqLXU5TTQwaW5weE9zQ25TT0w5Yk1FcC1DdHZTR2ljRHpldVVLOXVCcw?oc=5",
-      "description": "Ad Hoc News reported that Quest Diagnostics shares were holding in the mid-$240 range on August 24 as investors weighed a new Alzheimer’s blood-testing expansion alongside recent earnings momentum. The article cited an opening price of $244.34 for the latest session. It linked the valuation discussion to Quest’s second-quarter results, when adjusted EPS was $3.12 versus a $2.82 consensus estimate cited by the publication, and to full-year 2026 adjusted EPS guidance of $11.05-$11.25. Quest’s official results also showed quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth, and a 13.1% increase in requisition volume. The article said the analyst consensus rating was “Moderate Buy” and cited an average price target of $235.31, below the prevailing share price, illustrating the tension between strong operating momentum and valuation. The fresh product catalyst was Quest’s August 24 plan to add Roche’s newly FDA-cleared Elecsys pTau217 blood test to its AD-Detect portfolio and separately launch a multi-biomarker Alzheimer’s panel. The article is principally market and valuation commentary; its substantive corporate inputs are the strong Q2 earnings, raised guidance and expansion of Quest’s Alzheimer’s testing portfolio.",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-24T12:38:55+00:00",
-      "published_display": "24 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTd2R3ROaHJaM3VZdmV4TU5rT0ZlUDZZWTVraGlWcUQ2SEJoOGVZS3hsSnlxakptWDBaVWNZWW1faFhRaFRoT2gwWHdlVHNKR1JrTWZBWTlWRFZQUkxXWG91NTJNV0hVOGExU0t6RGluQXpNT0tIanZ2Wm5NME0xdFRxLUdLdnRzb3Rfdkp2VlBWT21ldmJlZ0FoU3RtY0hqLXU5TTQwaW5weE9zQ25TT0w5Yk1FcC1DdHZTR2ljRHpldVVLOXVCcw?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-24T12:38:55+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer assess earnings expansion firm holds investors stock testing",
-      "source_description": "Quest Diagnostics stock holds firm as investors assess Alzheimer’s testing expansion and earnings Ad-hoc-news.de",
-      "chatgpt_summary": "Ad Hoc News reported that Quest Diagnostics shares were holding in the mid-$240 range on August 24 as investors weighed a new Alzheimer’s blood-testing expansion alongside recent earnings momentum. The article cited an opening price of $244.34 for the latest session. It linked the valuation discussion to Quest’s second-quarter results, when adjusted EPS was $3.12 versus a $2.82 consensus estimate cited by the publication, and to full-year 2026 adjusted EPS guidance of $11.05-$11.25. Quest’s official results also showed quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth, and a 13.1% increase in requisition volume. The article said the analyst consensus rating was “Moderate Buy” and cited an average price target of $235.31, below the prevailing share price, illustrating the tension between strong operating momentum and valuation. The fresh product catalyst was Quest’s August 24 plan to add Roche’s newly FDA-cleared Elecsys pTau217 blood test to its AD-Detect portfolio and separately launch a multi-biomarker Alzheimer’s panel. The article is principally market and valuation commentary; its substantive corporate inputs are the strong Q2 earnings, raised guidance and expansion of Quest’s Alzheimer’s testing portfolio.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-holds-firm-as-investors-assess-alzheimer-s/69993516",
-        "https://www.prnewswire.com/news-releases/quest-diagnostics-to-offer-fda-cleared-roche-ptau217-blood-test-to-assess-alzheimers-disease-pathology-302858247.html",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
       "id": "1b6b8da9658496ef1447",
       "company": "Labcorp",
       "title": "Labcorp to offer FDA-cleared Alzheimer’s blood test nationwide By Investing.com",
@@ -8072,39 +8074,6 @@
       ]
     },
     {
-      "id": "28bf33721b637a27bf98",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock holds above $244 as earnings and guidance support outlook",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5",
-      "description": "Ad Hoc News reported Quest Diagnostics at $244.43 on August 22, 2026, up 1.30% in the latest session after opening at $240.33, trading between $239.43 and $244.70 and recording volume of 701,437 shares. The article linked the share price to Quest’s stronger second-quarter results and higher 2026 outlook. Quest officially reported quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth. Reported diluted EPS was $2.84, up 15.0%, while adjusted diluted EPS reached $3.12, up 19.1%; the article compared adjusted EPS with a $2.82 consensus and revenue with a $2.97 billion consensus. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. The article cited an analyst consensus centered at $11.15 of 2026 EPS and roughly $12.01 billion of revenue, plus a $235.31 consensus price target. It also noted Quest’s $0.86 quarterly dividend, equal to $3.44 annualized and about a 1.4% yield at the cited share price. The piece is investment-market commentary; the substantive operating support is the double-digit Q2 revenue growth, earnings beat and raised company guidance.",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-22T10:03:11+00:00",
-      "published_display": "22 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-22T10:03:11+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "244 above earnings guidance holds outlook stock support",
-      "source_description": "Quest Diagnostics stock holds above $244 as earnings and guidance support outlook Ad-hoc-news.de",
-      "chatgpt_summary": "Ad Hoc News reported Quest Diagnostics at $244.43 on August 22, 2026, up 1.30% in the latest session after opening at $240.33, trading between $239.43 and $244.70 and recording volume of 701,437 shares. The article linked the share price to Quest’s stronger second-quarter results and higher 2026 outlook. Quest officially reported quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth. Reported diluted EPS was $2.84, up 15.0%, while adjusted diluted EPS reached $3.12, up 19.1%; the article compared adjusted EPS with a $2.82 consensus and revenue with a $2.97 billion consensus. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. The article cited an analyst consensus centered at $11.15 of 2026 EPS and roughly $12.01 billion of revenue, plus a $235.31 consensus price target. It also noted Quest’s $0.86 quarterly dividend, equal to $3.44 annualized and about a 1.4% yield at the cited share price. The piece is investment-market commentary; the substantive operating support is the double-digit Q2 revenue growth, earnings beat and raised company guidance.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-holds-above-244-as-earnings-and-guidance-support/69985554",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
       "id": "52dc6102cca23b69bba1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock underperforms Friday when compared to competitors despite daily gains",
@@ -8258,39 +8227,6 @@
         "https://financereviewdaily.com/en/article/sonic-healthcare-fy-2026-earnings-miss-forecasts-shares-slide-9-9",
         "https://au.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-4608523",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf"
-      ]
-    },
-    {
-      "id": "08f1694ed2323d86758b",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5",
-      "description": "Ad Hoc News’ August 20 market analysis said Quest Diagnostics remained close to its 2026 highs after its second-quarter earnings beat. The article used an August 18 close of $236.71, corresponding to a market capitalization of about $26.13 billion, a 36.5% year-to-date gain and a 29.7% one-year increase. It cited a 52-week high of $240.13 and a trailing P/E of 25.13. The operating catalyst was Quest’s June-quarter performance. Quest officially reported $3.043 billion of revenue, up 10.2% year over year with 10.0% organic growth, and adjusted diluted EPS of $3.12, up 19.1%. The article said revenue exceeded consensus by about 2.3% and described the post-results share level near $236 as roughly 12.6% above the pre-earnings price. Quest raised its 2026 revenue outlook to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25, reflecting stronger testing demand across physician, hospital and consumer channels. Ad Hoc also cited a consensus price target of $235.31, close to the market level used in the article. The piece is market-performance commentary; the underlying business development is the Q2 revenue and earnings beat plus the upward revision to full-year guidance.",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-20T17:40:25+00:00",
-      "published_display": "20 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-20T17:40:25+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 after beat earnings extends rally revenue stock",
-      "source_description": "Quest Diagnostics stock extends 2026 rally after Q2 revenue and earnings beat Ad-hoc-news.de",
-      "chatgpt_summary": "Ad Hoc News’ August 20 market analysis said Quest Diagnostics remained close to its 2026 highs after its second-quarter earnings beat. The article used an August 18 close of $236.71, corresponding to a market capitalization of about $26.13 billion, a 36.5% year-to-date gain and a 29.7% one-year increase. It cited a 52-week high of $240.13 and a trailing P/E of 25.13. The operating catalyst was Quest’s June-quarter performance. Quest officially reported $3.043 billion of revenue, up 10.2% year over year with 10.0% organic growth, and adjusted diluted EPS of $3.12, up 19.1%. The article said revenue exceeded consensus by about 2.3% and described the post-results share level near $236 as roughly 12.6% above the pre-earnings price. Quest raised its 2026 revenue outlook to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25, reflecting stronger testing demand across physician, hospital and consumer channels. Ad Hoc also cited a consensus price target of $235.31, close to the market level used in the article. The piece is market-performance commentary; the underlying business development is the Q2 revenue and earnings beat plus the upward revision to full-year guidance.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-extends-2026-rally-after-q2-revenue-and-earnings/69977515",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
     },
     {
@@ -8562,7 +8498,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5",
-      "description": "Quest Diagnostics shares reached a new high on August 19, 2026, extending a three-session advance after the company’s strong second-quarter report and raised full-year outlook. MarketWatch reported that the shares rose 2.33% that day to close at $241.76, above the prior 52-week peak of $240.13 set on July 28. Trading volume was 923,732 shares, slightly below the 50-day average of 957,070. The operating backdrop was Quest’s second quarter: revenue was $3.043 billion, up 10.2% year over year, with 10.0% organic revenue growth. Reported diluted EPS rose 15.0% to $2.84 and adjusted diluted EPS increased 19.1% to $3.12. MarketBeat’s earnings data show adjusted EPS beat its $2.82 consensus by $0.30, while revenue exceeded the roughly $2.97 billion expectation. Quest raised 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The share-price milestone is a market reaction rather than a new operating announcement, but it followed stronger-than-expected earnings, double-digit organic growth and improved company guidance in the public market.",
+      "description": "Ad Hoc News reported that Quest Diagnostics shares were holding in the mid-$240 range on August 24 as investors weighed a new Alzheimer’s blood-testing expansion alongside recent earnings momentum. The article cited an opening price of $244.34 for the latest session. It linked the valuation discussion to Quest’s second-quarter results, when adjusted EPS was $3.12 versus a $2.82 consensus estimate cited by the publication, and to full-year 2026 adjusted EPS guidance of $11.05-$11.25. Quest’s official results also showed quarterly revenue of $3.043 billion, up 10.2% year over year with 10.0% organic growth, and a 13.1% increase in requisition volume. The article said the analyst consensus rating was “Moderate Buy” and cited an average price target of $235.31, below the prevailing share price, illustrating the tension between strong operating momentum and valuation. The fresh product catalyst was Quest’s August 24 plan to add Roche’s newly FDA-cleared Elecsys pTau217 blood test to its AD-Detect portfolio and separately launch a multi-biomarker Alzheimer’s panel. The article is principally market and valuation commentary; its substantive corporate inputs are the strong Q2 earnings, raised guidance and expansion of Quest’s Alzheimer’s testing portfolio.",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -8576,9 +8512,27 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLUpmQm5jMGM4dHAya1hibUVmU3F6amJMY2R4UElNOUFGeXdTLUFSMy1XMjdTTGcxWkhkQklMZG01Q1o2SlpLNG9Cd09iNEdGRHludXE5RHRiUk44N1ZUWDFJYm9neG94NEh5b2N6UF95M1J2YjZ6YXZSaXoydnBiZlcxQnoxUmQyQWdILXVSU2ZxNlVMc1N4MTZ2Nk5VVkJlWmx6bXY2aTlMb1J5aWV1cjZPMGw4aDc3cjdISGloaUVTVDVPVm9HRC1jajRFSm5iNkc4?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-08-19T18:11:19+00:00"
+        },
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV0hON29BQUc0eFM3R2xWTGpiZ3Ntd2F1OW82dXFHSjVyZ1QzME5yYXo2TDNkTUIzVHNNQ2ZnOWozQUhRTWhqRFpSclNSN2ZVd2puTG8xMjdnbFRuMVRTeVVHV2Vrazl3bDc2SGprRDN4Nm41c2psVXNHMUlZbS0zOWFYNnpON2dMdGxCYlpzY2RieVB3NjM1WHdGdWEyU0Jva2ZHaHVybHAzNzVXOHFsU0plSVNZd29VTnBzRDhqQ0owT2p5ZzlNOEppLWp1dV9D?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-20T17:40:25+00:00"
+        },
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZHAyanpSNVBZSGRPaHIzQjlLbkhyeGZtNTd2cC02aTFKekY5WVVfQ3FpLWU1X3dxNEp0UmJDb19UcUQ0cE03UDI4eXo3OGhHSXQxT3FPOXFhemZ1WHBHdzRHVjJXbFdlaVhpZnBnVnZnZ0R1ZV96V1Vkdk8wcnZDSDZyNmpWX3hjc1RiZjRicG4xdEw0dS1RejV3SVBUSjBySzZKbjhpc3VfVTNmdVAwNllnUFVXREljbWhscWxwWE80al9pOTJDcktkNlpOMklo?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-22T10:03:11+00:00"
+        },
+        {
+          "name": "Ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRTd2R3ROaHJaM3VZdmV4TU5rT0ZlUDZZWTVraGlWcUQ2SEJoOGVZS3hsSnlxakptWDBaVWNZWW1faFhRaFRoT2gwWHdlVHNKR1JrTWZBWTlWRFZQUkxXWG91NTJNV0hVOGExU0t6RGluQXpNT0tIanZ2Wm5NME0xdFRxLUdLdnRzb3Rfdkp2VlBWT21ldmJlZ0FoU3RtY0hqLXU5TTQwaW5weE9zQ25TT0w5Yk1FcC1DdHZTR2ljRHpldVVLOXVCcw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-08-24T12:38:55+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "beat earnings expectations fresh high hits stock",
       "source_description": "Quest Diagnostics stock hits a fresh high as Q2 earnings beat expectations Ad-hoc-news.de",
       "chatgpt_summary": "Quest Diagnostics shares reached a new high on August 19, 2026, extending a three-session advance after the company’s strong second-quarter report and raised full-year outlook. MarketWatch reported that the shares rose 2.33% that day to close at $241.76, above the prior 52-week peak of $240.13 set on July 28. Trading volume was 923,732 shares, slightly below the 50-day average of 957,070. The operating backdrop was Quest’s second quarter: revenue was $3.043 billion, up 10.2% year over year, with 10.0% organic revenue growth. Reported diluted EPS rose 15.0% to $2.84 and adjusted diluted EPS increased 19.1% to $3.12. MarketBeat’s earnings data show adjusted EPS beat its $2.82 consensus by $0.30, while revenue exceeded the roughly $2.97 billion expectation. Quest raised 2026 revenue guidance to $11.95-$12.05 billion and adjusted diluted EPS guidance to $11.05-$11.25. The share-price milestone is a market reaction rather than a new operating announcement, but it followed stronger-than-expected earnings, double-digit organic growth and improved company guidance in the public market.",
@@ -12908,491 +12862,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "227 all com high hits investing stock time usd"
-    },
-    {
-      "id": "d2c9e84e3c811b9a3bda",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZjJTTlZaU2tudmlMcU1RcFgtdkZYUzNrSldPMG5iclRva2dQUDlIdUp1UmVURGNuZ3BPcmc1OThKLU9WSE5SdHNVZzV1ZkxURlBPdzNVLWN5SlFmYmVkbFVzcWlxeWtKRExYUzRiZ19wT21zR2VqNE1rWnhqTk9rblQ4Qkw2UWhiSVE?oc=5",
-      "description": "Quest Diagnostics Stock Gains As Oncology Moves Impress Wall Street stockstotrade.com",
-      "source": "StocksToTrade",
-      "source_url": "https://stockstotrade.com",
-      "source_domain": "stockstotrade.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "StocksToTrade",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZjJTTlZaU2tudmlMcU1RcFgtdkZYUzNrSldPMG5iclRva2dQUDlIdUp1UmVURGNuZ3BPcmc1OThKLU9WSE5SdHNVZzV1ZkxURlBPdzNVLWN5SlFmYmVkbFVzcWlxeWtKRExYUzRiZ19wT21zR2VqNE1rWnhqTk9rblQ4Qkw2UWhiSVE?oc=5",
-          "domain": "stockstotrade.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "gains impress moves oncology stock street wall"
-    },
-    {
-      "id": "9901a8dc52243c2d573d",
-      "company": "Quest Diagnostics",
-      "title": "Tranche Update on Quest Diagnostics's Equity Buyback Plan announced on October 20, 2010.",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5",
-      "description": "Tranche Update on Quest Diagnostics Incorporated's Equity Buyback Plan announced on October 20, 2010. marketscreener.com",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMU1PNHMxLWl5bm5QN0VxQWtUbHk0Rm12cGg4VGEyWWNqcXJDQkpIdUtYVTJEc0ZjTWtGbjVEdXVsdjkwdDAxNS1jZDdUc3FPUzhReXA0WmUxeHo2Qm1HN1RzRHFvSHdqSFFyWFRSM1J2YlZESEZPVEJaWTdzUG1uM2NpeGFHOWt0c0hWSW03TXVITVVJVkVQWXVHMGxSWkxzVV9ZTnc0SHpqcWpWN0RvVm5JbFl1aWpTdEVKSTlKQ19kR05VZkRLMWRKREFfN3M2R1pSYTdDOVJxNkZKaV9Ud3ZuRXpZZTA?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2010 buyback equity october plan tranche"
-    },
-    {
-      "id": "ff8539db3bbd42a595c8",
-      "company": "Quest Diagnostics",
-      "title": "Why is Quest Diagnostics stock surging today?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmQ5MVhEelBUV3hXSWlXQkZFd0lIU0lpLUtjQWpiV09jS1prN1hZNXdzclA1cEJHTmIxY2pDRE5hVDRHLXBaMExFLW1rRC1WZzBhMmRiZi1pVzk3ZmZqVHVadW9FUW5jVkdHczhfSWJvR0xMU3d5VFFIcDB2dThCbmxTRk1SWDB4SVVLOUg2SVdEZTAzbmRSeGVqMUZSZWlJanZFLUtUaGl6dw?oc=5",
-      "description": "Why is Quest Diagnostics stock surging today? Investing.com",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUmQ5MVhEelBUV3hXSWlXQkZFd0lIU0lpLUtjQWpiV09jS1prN1hZNXdzclA1cEJHTmIxY2pDRE5hVDRHLXBaMExFLW1rRC1WZzBhMmRiZi1pVzk3ZmZqVHVadW9FUW5jVkdHczhfSWJvR0xMU3d5VFFIcDB2dThCbmxTRk1SWDB4SVVLOUg2SVdEZTAzbmRSeGVqMUZSZWlJanZFLUtUaGl6dw?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "stock surging today why"
-    },
-    {
-      "id": "ca3821ab91146719d724",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics earnings beat by $0.30, revenue topped estimates",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
-      "description": "Investing.com reported that Quest Diagnostics posted second-quarter 2026 adjusted EPS of $3.12, $0.30 above the analyst consensus of $2.82, and revenue of about $3.04 billion versus $2.97 billion expected. Quest’s official results show revenue increased 10.2% year over year from $2.761 billion, while adjusted EPS grew 19.1% from $2.62. Organic revenue growth was 10.0% and total requisition volume rose 13.1%, with strength across physician, hospital and consumer channels. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion and adjusted diluted EPS guidance to $11.05–$11.25 from $10.63–$10.83. It also increased expected operating cash flow to approximately $1.80 billion while keeping capital spending near $550 million. Recent growth drivers included hospital collaborations, consumer and wellness partnerships, and Advanced Diagnostics, including Alzheimer’s blood testing and cardiometabolic and endocrine testing. Investing.com’s article emphasized the earnings and revenue beats versus Wall Street forecasts, while Quest’s underlying release shows the beat was accompanied by another upward revision to full-year guidance, indicating stronger-than-planned testing demand and operating performance through the first half of 2026.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY1o5UHdCY3dXY1hiMlh0WWd5ZUl3elUwaGNTWWdhZzk0Q29XZmRXUXI4dU5ETGJTa2Q2eFdYU243dzFoZHV1dWV5T0hOakZtQ1BkMkdPSEdiakVLN1FPZW9pLThpQVVjbFZXSzRCMG1ZREZ5Sy15R012elVXZHFGZUJJb1R2MG9yX3NJYjgwYldtRXh6T2hyNlRzN25mM0NiTHFXaTlQdTFzQTNHWEQwWA?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNVVREN0tLODZpS3FEa3diUXd6aDdtNWxITkwySWZKYjRzNXZONjdDMDl6S0VGZlpIQmFINGt1b1JLSFprQ0RwM1pMeUZEV0dCbVJFTmRTRTZxYVBOU3U4MGUwNG4?oc=5",
-          "domain": "tradingkey.com",
-          "published_at": "2026-07-25T03:19:36+00:00"
-        },
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXpoTjluNk1vbHlYSGJVOEt6OWl2NFRieG8wQTcwMnRBTWlVTzZoc09lenltaHJEenVERlIwb0JGVlc5Vlk3NGc5WlpRZ2dmTUdMRk9yRE5kcWxnb3RuaktlRWxOQjdacFNRX2pkenh0WW9xdXFlMU9UVmZpdk1IY0pIY01XVlNWQ0tBSXJoWmJaV1JVYW1fVXZLUkdRZ1VKaUtkZVFhclcxZHlhc0tPVnFPMHJpWDdtTVVDU0VZUnptQ0Nkb3g0?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMzV3ZDY1SVNvZDg3MDVtQ0Rfbko4a1cxTldRcktKd2RxYzdoeHdBSkRTQ2YxX1ZVMzBOTlBFNnZ6LUlKeGt3R3pOcmgtN1d3S1UzM0hGbTNKejZENTJBdWxTdWhyR09LbGtkWmpsRFM1eldDNFFOQ3JDSXdMU05aZUM4cHJneG50OWRQc1k3cWExSTlHRDJuQmo1OEZDNnVucDNvR0Y2R0RzUVNQd0cxdi03X0J4czE3Y2Y3N2hydy1uQmx5eFgtbk9mNEhjTE16YWFIUU1JNGQyVDBfZTZxemtSX0xKdXZ6WVhnT3BB?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPYlBSLS1rOE43dTZ6OWNHMG5icDNJTU9jTm5IVVlRc1ZrSVhSQXoxS1lkOVU5REtaLTZRdXAtR0NMTENQc0tsM1JmRTZQT1hHOENIeFdXRGF6NVZpQ3NOQWtUMHA4a3dMLVk3R252cFNaeXRBcUFSdUJqSERnbWlHRzdmdW9rYTZlMW9tODc4OHV4aS1QZ0phajRWY0tYNGpHNDNfSHFiYmptOVRPOW1IZGtLQV9tajJBaFNGY2YzTHcwVV9EWnBZak12eGY5SGhLdHBHOEFVNUFYMkdyVVJRMzM5RkpXa3o0TTBSejQzemlrQldqN3NJRDRB?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-23T14:20:41+00:00"
-        },
-        {
-          "name": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWFwcUprTnhtSnV5c2xRd1dwemFpM3gyb2JLOVVHXzE1ZVRndGxmaUxNNHotcHB2bkFRdm1DT3FoUE0wdURkZmhzR3dQMUw2YWdUeGEtVkR6ZnB3a0lPcUJpcm1PTUxFTlp2cTNSSjRMcEgtcG1aUnA2RHV0VVNOcGdLWXl1MjFseWlRcWZHWGNtYXpFamRYUkVZb193Mk5HRXNidWZQNA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-26T13:12:09+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-25T07:00:00+00:00"
-        },
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLW5hZ3VDejJhakNZOXN4MV9YdGFPMlhYUnFRNjhLREQtN3BFMFZBNldFdEhGVVNsRU85Qm5IQV81VUpHeURMdlNkOVVDelJOdi1Fb0d6RGIzb1BuQVNyaTdFcGNjVEtmODBrcFRRdlZFWTAteHpwV1RMTUdXcThWUHJrYmxHeVJMaHo4LVpkMjVLbS16TnVENzUzSHVoXzlRVFdSYlFxeURZMm84N1RMMjZhZG1VeksxOVhVNGZWMjJ4UlVOUFIzRndwTmx2dE5CUFh2MW5INGlXMXVGSTd5YlpXRGZWX3E0WmIxSk9hNE0tZTVRNTNHaGJqVjU4Zw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-26T07:00:00+00:00"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV0ZuN0p1YVBSd0JEek5RbExOOVV5ZG5oNTNMVFNqLWRfTXllR0xPX3pRRDBEWE4yUlNoX0VaTkl0aFlla3RmUlZ1NkR4WG5uT2EtY2hCc0VIeXViUGdrTEFJaFBfdmc4Qks1ZzVJZzUzc2dRVGRGS09zYjhMSE1hZDM4UmQwc3F6Ni1vRHIxLWdsdV9SWXhNTDRDRGR4WUNKNk1FVHBrQkRfRUdtZ0h2X1I1eHFfZFJCY3M4SEdsYTFMM3cyMGlWb3NkZEk1WXNL0gHWAUFVX3lxTE5tbERKd1ViRDBQQm1sNkhqZ3hCenZpaUgwV3lfbDVudHhMeHl6WEYyb0Z6dURPT3l5VTlxRTZEQllmWGFfcl9NMkVjZ1JPZ1oxck1yV29PdHd3YnNOX3lRN1ZDbXRrb0d2dXNYRmdHZVN4SjhLa3VZRWtaYUtrTVFwOGxoMkFGODZsMVYtYlhkY1RNejhtZU9teGxteUtic2lOdzdDZ0RGVUlmY0x1UTlCYkdDSHkxYjlwZmIwQzNLeUtKQlRhNGxMX2tsMWI2Y2dLVFhpc3c?oc=5",
-          "domain": "simplywall.st",
-          "published_at": "2026-07-26T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 10,
-      "event_signature": "beat earnings estimates revenue topped",
-      "source_description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
-      "chatgpt_summary": "Investing.com reported that Quest Diagnostics posted second-quarter 2026 adjusted EPS of $3.12, $0.30 above the analyst consensus of $2.82, and revenue of about $3.04 billion versus $2.97 billion expected. Quest’s official results show revenue increased 10.2% year over year from $2.761 billion, while adjusted EPS grew 19.1% from $2.62. Organic revenue growth was 10.0% and total requisition volume rose 13.1%, with strength across physician, hospital and consumer channels. Following the quarter, Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion and adjusted diluted EPS guidance to $11.05–$11.25 from $10.63–$10.83. It also increased expected operating cash flow to approximately $1.80 billion while keeping capital spending near $550 million. Recent growth drivers included hospital collaborations, consumer and wellness partnerships, and Advanced Diagnostics, including Alzheimer’s blood testing and cardiometabolic and endocrine testing. Investing.com’s article emphasized the earnings and revenue beats versus Wall Street forecasts, while Quest’s underlying release shows the beat was accompanied by another upward revision to full-year guidance, indicating stronger-than-planned testing demand and operating performance through the first half of 2026.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T06:36:07+05:30",
-      "summary_evidence": [
-        "https://www.investing.com/news/earnings/quest-diagnostics-earnings-beat-by-030-revenue-topped-estimates-4808206",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
-      "id": "2f0dbf1fbedc8f5d392e",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics raises annual forecast on testing demand",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
-      "description": "Reuters reported that Quest Diagnostics raised its full-year 2026 profit forecast after routine diagnostic-testing demand helped the company beat second-quarter expectations. Revenue was $3.04 billion, above the $2.97 billion average analyst estimate compiled by LSEG, while adjusted profit was $3.12 per share versus $2.83 expected. Diagnostic Information Services revenue, Quest’s largest business, increased 10.3% year over year to $2.98 billion. Requisition volume rose 13.1%, including 13.0% organic volume growth. Quest said testing demand was strong across physician, hospital and consumer channels, and it recorded double-digit growth in Advanced Diagnostics areas including Alzheimer’s blood testing, advanced cardiometabolic testing and liver-fibrosis testing. The company raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion, above the $11.85 billion analyst estimate cited by Reuters. Adjusted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83, compared with the $10.76 analyst estimate. Reuters said Quest shares rose about 5% in premarket trading after the results and quoted Barclays analysts describing the quarter as well above broad expectations. The report ties the guidance increase directly to sustained testing demand and higher volumes rather than a one-time transaction.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "source_domain": "reuters.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMHpmU282a0dXWXpRRXJYbjNxZEIxSUJ1OFZ4ZldHNk9DUGNjdGNXUkNlUVpWVDEtalZGRk1tUndTWTVWLUFTbzIxTVVDczNURDdLNkJGbl9TRW5meFU4clJjRUl1S3pYeVRSZkFGTS1aeVB6dXQyeHJ5bmZwbmFJR24wOXVZTjRhcTl0WUNVY3VoODVsSDgxN0wzZVJsRGRwOWJCQncxdGhDNzNfT08yN2lqUGh0UVRuWGhGc2RPT1R3STMzZnc?oc=5",
-          "domain": "reuters.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXpoTjluNk1vbHlYSGJVOEt6OWl2NFRieG8wQTcwMnRBTWlVTzZoc09lenltaHJEenVERlIwb0JGVlc5Vlk3NGc5WlpRZ2dmTUdMRk9yRE5kcWxnb3RuaktlRWxOQjdacFNRX2pkenh0WW9xdXFlMU9UVmZpdk1IY0pIY01XVlNWQ0tBSXJoWmJaV1JVYW1fVXZLUkdRZ1VKaUtkZVFhclcxZHlhc0tPVnFPMHJpWDdtTVVDU0VZUnptQ0Nkb3g0?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "annual demand forecast raises testing",
-      "source_description": "Quest Diagnostics raises annual forecast on testing demand TradingView",
-      "chatgpt_summary": "Reuters reported that Quest Diagnostics raised its full-year 2026 profit forecast after routine diagnostic-testing demand helped the company beat second-quarter expectations. Revenue was $3.04 billion, above the $2.97 billion average analyst estimate compiled by LSEG, while adjusted profit was $3.12 per share versus $2.83 expected. Diagnostic Information Services revenue, Quest’s largest business, increased 10.3% year over year to $2.98 billion. Requisition volume rose 13.1%, including 13.0% organic volume growth. Quest said testing demand was strong across physician, hospital and consumer channels, and it recorded double-digit growth in Advanced Diagnostics areas including Alzheimer’s blood testing, advanced cardiometabolic testing and liver-fibrosis testing. The company raised its 2026 revenue outlook to $11.95-$12.05 billion from $11.78-$11.90 billion, above the $11.85 billion analyst estimate cited by Reuters. Adjusted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83, compared with the $10.76 analyst estimate. Reuters said Quest shares rose about 5% in premarket trading after the results and quoted Barclays analysts describing the quarter as well above broad expectations. The report ties the guidance increase directly to sustained testing demand and higher volumes rather than a one-time transaction.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T12:40:12+05:30",
-      "summary_evidence": [
-        "https://wkzo.com/2026/07/23/quest-diagnostics-raises-annual-forecast-on-testing-demand/",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
-      "id": "1a3489939ae2ee42c508",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Reports Second Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
-      "description": "Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% year over year, with organic revenue growth of 10.0%. Diagnostic Information Services revenue rose 10.3% to $2.978 billion. Requisition volume increased 13.1%, including 13.0% organic growth, while revenue per requisition fell 2.8%. Reported operating income increased 4.6% to $459 million, but operating margin declined to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and reported diluted EPS increased 15.0% to $2.84. On an adjusted basis, operating income rose 7.8% to $502 million, margin was 16.5%, adjusted net income rose 17.3% to $350 million and adjusted diluted EPS increased 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Quest raised full-year 2026 guidance to revenue of $11.95-$12.05 billion, reported EPS of $9.97-$10.17 and adjusted EPS of $11.05-$11.25; operating cash flow is now expected at about $1.80 billion. The company also highlighted Corewell Health and Fresenius collaborations, double-digit Advanced Diagnostics growth, New York approval for Haystack MRD, Flatiron OncoEMR integration and continued laboratory automation. It repurchased about 0.5 million shares for $100 million in Q2, leaving $1.3 billion authorized.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQYnNXb003aDNGMzNaOTZGY3UybE15d2NZdHBDOW52Q01RY25CaVJYLS1sVzJTQVVjdjZ4ODAxSXFoeFdOcHhuM3NGdkpvLWFUNThrc0R2NzhqbGh4MXdPMGJ6T3RPTkJGZjUxQlB5WTF4QmJEdWY5d0J6Si02YWsxTEViYmVrMkx2NlJsTUU4eXhzM1A0S0dMZTJHdXAwa19TTFZreG4yd0JUV3NIVWJWYVE0X0tJWm5acHBpbWhLa3RBVHlBT3Y3UjhRY29WTUZGaVY1SkViUF83WmltYkV0V3daaWFsNHlsVEN4dGtxeUgxOXVEVkI3Y2paM3I0Z2s?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "quiverquant.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5",
-          "domain": "quiverquant.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5",
-          "domain": "scanx.trade",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 10,
-      "event_signature": "2026 eps financial full guidance quarter raises results revenue second year",
-      "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
-      "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% year over year, with organic revenue growth of 10.0%. Diagnostic Information Services revenue rose 10.3% to $2.978 billion. Requisition volume increased 13.1%, including 13.0% organic growth, while revenue per requisition fell 2.8%. Reported operating income increased 4.6% to $459 million, but operating margin declined to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and reported diluted EPS increased 15.0% to $2.84. On an adjusted basis, operating income rose 7.8% to $502 million, margin was 16.5%, adjusted net income rose 17.3% to $350 million and adjusted diluted EPS increased 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Quest raised full-year 2026 guidance to revenue of $11.95-$12.05 billion, reported EPS of $9.97-$10.17 and adjusted EPS of $11.05-$11.25; operating cash flow is now expected at about $1.80 billion. The company also highlighted Corewell Health and Fresenius collaborations, double-digit Advanced Diagnostics growth, New York approval for Haystack MRD, Flatiron OncoEMR integration and continued laboratory automation. It repurchased about 0.5 million shares for $100 million in Q2, leaving $1.3 billion authorized.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T18:38:44+05:30",
-      "summary_evidence": [
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
-      "id": "fcea5f5a22ec5b44fab6",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Q2 2026 Earnings Call Summary",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
-      "description": "Quest Diagnostics' second-quarter 2026 earnings call described broad volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Total requisition volume increased 13.1%. Management said the Corewell Health and Fresenius Medical Care collaborations contributed about 9% of total volume, while revenue per requisition increased 2.9% excluding business-mix effects. Tests per requisition have risen to more than 4.5 from a pre-COVID range of roughly 3.5–4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. Management nevertheless flagged margin pressure from wages, fuel, Project Nova and newer collaborations, partly offset by automation and the Invigorate program’s roughly 3% annual cost-savings target. The company expects its new Michigan laboratory supporting the Corewell relationship to be operational in early 2027 and plans a nationwide Flatiron Health OncoEMR rollout later in 2026 to simplify oncology-test ordering for about 4,700 clinicians. Management maintained an estimated 30-basis-point revenue headwind from ACA exchange-subsidy expiration and reported no meaningful deterioration in bad debt.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckM2Wmt5ejduc3hPZWNBZFJZdkhpbW54Zmc5Qjg0SW1uOTVoOEZGWldTVXRjOHNMUm85ZWlxQWx4c3cxWU9NRnVvMU1TZ25pZjZSQ1lMSGkxVkl0X3Z2SDEwOVBpR2tkVFBJS3ZhTnVlV2hFVXZBVGI3NWRhZHRCR1RGQ2FOak1UNm5NZjlVVEYwOGZBdnFBc01Pcms0WElW?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "quiverquant.com",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5",
-          "domain": "quiverquant.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5",
-          "domain": "scanx.trade",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0o4QUxlSEJycEhXenVCWVVlaDJYTzZnYkY5dk1ueFZZVFUtMk1rbVlMUGctcWNaczdOS0E0SEVlQWJfUXh0UlJrVDZrZHRHbFIyWUg1Q19rZTJyWjEycE54V1B5a1FWVVVob2ZFYWVQSGE0MWlZUGNnWGhleXcwem9pN1o3V25UT1lQRjMxVEZsRTlFZ0NTSjM1V05UbnV4ckFwWTVIQkhnbU5Fd1ZhdFg4VTlGdFYxbldtOTFHRGlqS3V1MXBWVUtrV0xWalM5QkI2R0VwVS0?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 9,
-      "event_signature": "2026 call earnings summary",
-      "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
-      "chatgpt_summary": "Quest Diagnostics' second-quarter 2026 earnings call described broad volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12. Total requisition volume increased 13.1%. Management said the Corewell Health and Fresenius Medical Care collaborations contributed about 9% of total volume, while revenue per requisition increased 2.9% excluding business-mix effects. Tests per requisition have risen to more than 4.5 from a pre-COVID range of roughly 3.5–4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year 2026 revenue guidance to $11.95–$12.05 billion and adjusted EPS guidance to $11.05–$11.25. Management nevertheless flagged margin pressure from wages, fuel, Project Nova and newer collaborations, partly offset by automation and the Invigorate program’s roughly 3% annual cost-savings target. The company expects its new Michigan laboratory supporting the Corewell relationship to be operational in early 2027 and plans a nationwide Flatiron Health OncoEMR rollout later in 2026 to simplify oncology-test ordering for about 4,700 clinicians. Management maintained an estimated 30-basis-point revenue headwind from ACA exchange-subsidy expiration and reported no meaningful deterioration in bad debt.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-14T00:49:37+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-incorporated-q2-2026-003056844.html",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
-      "id": "6ca9448fe48d21e561e6",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics reports results for the quarter ended June 30 - Earnings Summary",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGJHdlBESlk1OFZKOVhtdGFmWWdmeHdQOFplam9HcTVzSHNNWEt5OTJXcXVqVkpDWHhkbWR6Z21kalFQb1pTR25kR3E1WXRoa2VVYXhOOU13V0JOc29tXzlORjFMeUh0MnZUNEdIak00OEJMY0loLVFvY0lJdFJFQ0hOTzNDWnVlZmpGWjZueVd3cmdiQ01EMFg0M0cxdHVPMjlSVTV3cU9ndld6dEJPUzFGakUtVm5JMWFpZUJkSGRQUnNaaHdSMUhQS0xuXy1pUVE4SGY5YjBvU1lUSXJJdE9EWXZ4aTVsWEE?oc=5",
-      "description": "Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, including 10.0% organic growth. Diagnostic Information Services revenue increased 10.3% to $2.978 billion. Requisition volume rose 13.1%, with organic requisition volume up 13.0%, while revenue per requisition declined 2.8% because of business mix. Reported operating income increased 4.6% to $459 million, although operating margin narrowed to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and diluted EPS increased 15.0% to $2.84. Adjusted operating income was $502 million, up 7.8%, with a 16.5% margin, while adjusted diluted EPS rose 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Following the quarter, Quest raised 2026 revenue guidance to $11.95-$12.05 billion from $11.78-$11.90 billion and adjusted diluted EPS guidance to $11.05-$11.25 from $10.63-$10.83. Expected operating cash flow increased to approximately $1.80 billion, while capital-spending guidance remained about $550 million. Quest attributed the quarter to broad strength across physician, hospital and consumer channels and continued growth in Advanced Diagnostics.",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcGJHdlBESlk1OFZKOVhtdGFmWWdmeHdQOFplam9HcTVzSHNNWEt5OTJXcXVqVkpDWHhkbWR6Z21kalFQb1pTR25kR3E1WXRoa2VVYXhOOU13V0JOc29tXzlORjFMeUh0MnZUNEdIak00OEJMY0loLVFvY0lJdFJFQ0hOTzNDWnVlZmpGWjZueVd3cmdiQ01EMFg0M0cxdHVPMjlSVTV3cU9ndld6dEJPUzFGakUtVm5JMWFpZUJkSGRQUnNaaHdSMUhQS0xuXy1pUVE4SGY5YjBvU1lUSXJJdE9EWXZ4aTVsWEE?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings ended june quarter results summary",
-      "source_description": "Quest Diagnostics Inc reports results for the quarter ended June 30 - Earnings Summary TradingView",
-      "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 net revenue of $3.043 billion, up 10.2% from $2.761 billion a year earlier, including 10.0% organic growth. Diagnostic Information Services revenue increased 10.3% to $2.978 billion. Requisition volume rose 13.1%, with organic requisition volume up 13.0%, while revenue per requisition declined 2.8% because of business mix. Reported operating income increased 4.6% to $459 million, although operating margin narrowed to 15.1% from 15.9%. Net income attributable to Quest rose 13.4% to $320 million and diluted EPS increased 15.0% to $2.84. Adjusted operating income was $502 million, up 7.8%, with a 16.5% margin, while adjusted diluted EPS rose 19.1% to $3.12. Operating cash flow was $597 million and capital expenditures were $138 million. Following the quarter, Quest raised 2026 revenue guidance to $11.95-$12.05 billion from $11.78-$11.90 billion and adjusted diluted EPS guidance to $11.05-$11.25 from $10.63-$10.83. Expected operating cash flow increased to approximately $1.80 billion, while capital-spending guidance remained about $550 million. Quest attributed the quarter to broad strength across physician, hospital and consumer channels and continued growth in Advanced Diagnostics.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-15T01:58:45+05:30",
-      "summary_evidence": [
-        "https://www.tradingview.com/news/reuters.com,2026-07-23:newsml_L4N3V90FZ:0-quest-diagnostics-inc-reports-results-for-the-quarter-ended-june-30-earnings-summary/",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
-      "id": "b19959146ca03b493679",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Surpasses Q2 Earnings and Revenue Estimates",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
-      "description": "Quest Diagnostics reported second-quarter 2026 results above Wall Street expectations, with adjusted earnings of $3.12 per share versus the Zacks consensus estimate of $2.81 and $2.62 a year earlier. That represented an 11.03% earnings surprise and a 19.1% year-over-year increase in adjusted EPS. Revenue was $3.04 billion, up from $2.76 billion a year earlier and 2.15% above the Zacks consensus estimate. Quest’s own earnings release reported revenue growth of 10.2%, including 10.0% organic growth, while reported diluted EPS increased 15.0% to $2.84. The company raised full-year 2026 guidance after the quarter. It now expects revenue of $11.95 billion to $12.05 billion, compared with prior guidance of $11.78 billion to $11.90 billion. Reported diluted EPS guidance increased to $9.97-$10.17 from $9.58-$9.78, and adjusted diluted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83. Quest also increased its operating cash flow outlook to approximately $1.80 billion while maintaining planned capital expenditures of about $550 million. Zacks noted that Quest had exceeded consensus EPS and revenue estimates in each of the previous four quarters, although subsequent share-price performance would depend heavily on management’s outlook and execution.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-23T07:00:00+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0hzdEt4clRqdW5OYVZjWktITWFId3d3aEVjT1dQci1GOGdISHlzQkFvMGZYY0toYjdPdUxOSWFuZFRFVUI0M0JSZ2Z4Q2ZFQmE1Y0NnMzg0MHJPMjg1NkJYOWZudF9uck5kRHJ0eFk1cUlZWDYtc01NbXNVa1JZVkhoNWVtSjlLajM2Wi1OQ1ZDRHdFenVQRDRBRQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3dfcDZKeTlhbmI4R0V6b2ZDV0VQdDBvT1k0Y0dJcjlUbXhjOXpleno1eXptQndBYUVpaWcwMGtYbUZBa0VQREtvVGhHREdMY0IwQ0VCd1VIMUFackdkbHlSUEp3SDV1UElhbnk1Tzc0TjdWVmVGMjlPSm5sZ2R2bUcxVFdUaGs1enp5WWE2M1RxdTBHWjBJSGxlbEZnUUpTY2dQYVM4cXU1aVV0Ry1Qc1B0b01fNzBpdWxoWGpaSmpWdHdKemFJQVFsbnJKTGU4UU9ja0ZjcWgxdDg?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZlhITmZmN0xfTnFyc1F2ZzVFSm9na2IyZWFYODVRdUNLOXdhRmFPTmdPeVZZLVd1bDEwSk1Ec3gyLUw2dzllMWxmY1JOcGVkX2h4eW5ucVRwY3BNRmc2QmFERXRiQ0ZocFR4MWpDdE8xYnV1bFRTRnZnNHNHMGV4NHZzNEZZLXNjWEtLeThRc0FKYjg?oc=5",
-          "domain": "quiverquant.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemwySmNYTXhFMGZaeFRnMDQwUnhVNmIzM3ZTajZnam5EU0ktb2xvZlhDYkQ1ZktCTzNiai1mX2ZybE44RC1JWlZrcXBJVHJNSmU5MWMtMjdaWUhvSjJXd05ERlJiUlRJblpqTzBPcng3c2RiOV9SeFFYVVl5TS1Ra3ZDXzJQR2FqTWktSHJ1NC1MUktXSG1teDV5S05kOFJNcW9idVc1X19SQjQ?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHV1QjNkbWxpRnZxNXhWbDFXTm5mUDVBaHM4MXYtdGQzMXVERTVKaVpROEFEUjVkdUs4SklPNzBjeVJfNUE0dGJKRmJfZndEUl9hcExKbjBzNUh1RllzZnhtOGt6MWEzVWJfRnFieVowXzMwSjI3dGF1czAxTHdDQUxOalFpc25WU1RfVEI1bGZJb0ItX290VnIyckF1LTJoRVNaVWl5N01adUp2VzJKVDlOM3JRMzhHMEVvM1RLSHIzQy05dlFUWUhlR1VYUFNRWEE?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZjllYS1qYWZUNWRHZE1FR0l2MERHbHphUUNtM3BnQjVSbWs1RnhmOUVPXzM4cG1ES2hSZnNSX3RZNEd4THVodjNfbW16bUhOalMtUXlpbHpvOG0xdklZVllvaVhDRGo2MWh6NlhjQ0I3Z0JZOG9GSE9pVkRxNklQTXpJSVB0ZlBnQ2dXZ3hqQW56Y0dnM1BVV0NXSDRFc3NjczBwVGVkNTBlU0pXTlQ0VEFNOXB3RFBxdHRiSWIzWjhfd3dtb2VOTldBaXBpMm5ha1ZpVUJiOVh1dnJwZjZ2MmpB?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc3U5UXhndS1XM0NWWThKQ3ZwZ0lPYXUwem02NGF6b1YwajY2RkhhN3dVcVROdGxkSzNnclFwcG50bng0TnhfLXBYemNDY0dRLXYwWFlRalFMRDBTMFFOUG0zaHh2Q293MENKMWxsbGNSdnMxVU9LSlVEYmtJejdBOG42R0cxUXlMdW1aOWc4S3phMVp5ZHA5RklKNVdJNUxjWnlmaGlQQ2VkbmVwQk9VcGlrWDZDekVlUE9Vd3pNbG4xZzBUNUNv?oc=5",
-          "domain": "scanx.trade",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdkh1ekFPVG9nMXlxZzVEd3dtSkNNZVlwZVVwYW5CblpXUk1tTW5IcFF0MU5qM0tCNE81SkdtSHE2SVpONTVUNWZmYmY0UmdCS1UtRm9GZ2puTmdSRWpOWFo2TlVYWkI1ZzZHcVl3U3NFc3MtdnRMLVlkMlptTFFEd0o5SUs2RVRrNWk0ZUFrZi0xQXMxTEhrM2htVlh6bWpyTEhVaHJ1Sl8zWFppdjljRjJ6REc?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-07-23T07:00:00+00:00"
-        },
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN0hsbE5fYVFTVFUyQnBCcjRHRmtILU0wZzRTUV8yaG05SVNZN0tfWTZScmdabHFkcHJTOTNIMmFjbklSaGhVV1NMZXM1bU00VkVRVG1kdm1xRnNjcGxLX2ZLMFI5U1dBWXZkTkpadjhvRXNnd2lKb1VuYWo5UjhvaUVraDViYXE3em9remZXSDNGT1R6Mjd5YldQT3lWTXQ5VDFkVGtUZ2pnRWkwbmdfYTRwVy1mMFItUDR4YnlFVjlkcC1nNEx0Tg?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-07-25T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 9,
-      "event_signature": "earnings estimates revenue surpasses",
-      "source_description": "Morningstar’s July 23 analyst note characterized Quest Diagnostics’ second quarter as a strong result that improved the outlook for the second half. The note reported revenue growth of about 10% and adjusted EPS growth of 19%, with strength across hospital, physician and consumer segments; Quest shares were up about 7% when the note was published. Quest’s official results provide the underlying figures: revenue was $3.043 billion, up 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS rose 19.1% to $3.12 and reported diluted EPS increased 15.0% to $2.84. Requisition volume increased 13.1%. Management raised full-year revenue guidance to $11.95–$12.05 billion and adjusted diluted EPS guidance to $11.05–$11.25. Morningstar’s broader company report describes Quest’s approximately 2,400 patient service centers and national scale as important competitive advantages as diagnostic testing and personalized therapies expand. The quarter supports that operating thesis: strong demand was broad rather than confined to a single customer type, while higher guidance signaled management’s confidence that recent volume and earnings momentum could persist through the remainder of 2026.",
-      "chatgpt_summary": "Quest Diagnostics reported second-quarter 2026 results above Wall Street expectations, with adjusted earnings of $3.12 per share versus the Zacks consensus estimate of $2.81 and $2.62 a year earlier. That represented an 11.03% earnings surprise and a 19.1% year-over-year increase in adjusted EPS. Revenue was $3.04 billion, up from $2.76 billion a year earlier and 2.15% above the Zacks consensus estimate. Quest’s own earnings release reported revenue growth of 10.2%, including 10.0% organic growth, while reported diluted EPS increased 15.0% to $2.84. The company raised full-year 2026 guidance after the quarter. It now expects revenue of $11.95 billion to $12.05 billion, compared with prior guidance of $11.78 billion to $11.90 billion. Reported diluted EPS guidance increased to $9.97-$10.17 from $9.58-$9.78, and adjusted diluted EPS guidance increased to $11.05-$11.25 from $10.63-$10.83. Quest also increased its operating cash flow outlook to approximately $1.80 billion while maintaining planned capital expenditures of about $550 million. Zacks noted that Quest had exceeded consensus EPS and revenue estimates in each of the previous four quarters, although subsequent share-price performance would depend heavily on management’s outlook and execution.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-14T06:37:04+05:30",
-      "summary_evidence": [
-        "https://www.zacks.com/stock/news/2958866/quest-diagnostics-dgx-surpasses-q2-earnings-and-revenue-estimates",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 7,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-21T12:17:00+05:30",
-  "next_update_display": "21 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-21T18:17:00+05:30",
+  "next_update_display": "21 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
