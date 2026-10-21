@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 21 Oct 2026, 3:24 AM IST
+- **Repository generated:** 21 Oct 2026, 10:51 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -405,11 +405,12 @@
 - **Company:** Labcorp
 - **Publication date:** 29 Sep 2026
 - **Category:** Clinical, R&D
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOXgwYWE5czNSNUd0RThnbDR1NktkWUtxR1FObVFpU0g0dzdoQ0tYUUVsRWJOZVB2NjlOdldmVV94amdqNTFMMWVVcDBNNGpRWTZsemFSeU5qY1V3ejNhekdpWTR4OHhJSFB3ODNiWElXUW1CWEJQeUVTelV5eGNHdUo5UTFwWTdBcGFTczhKWF8tZlVwWmdUX3FqWXBjQQ?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnJ1bHBOVFRWWkJaLUVUeDVscnFTWTRfVTN6S1l5VVF5UGxoWHlIQ05iZUxKZ2NEbU9hRE5aWGROUWtHX1otVlQ1cVc2R0hVR1c4eDFJTkJYbUpkcFJSV3NCbGNvODRhaHJXZzRCbjN0M3BuSVFzeDM4Y3hpN2ctY2wxRDNUMWJEM0d2MnNVc2JrTFRnQnRiQU1kRVNCTWZWSHNSSEp2enNuRGFaVExkaUxIM0pUeE0?oc=5
 
 **Feed description:** Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research
 

@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-21T03:24:54.479711+05:30",
-  "generated_at_display": "21 Oct 2026, 3:24 AM IST",
+  "generated_at": "2026-10-21T10:51:00.273346+05:30",
+  "generated_at_display": "21 Oct 2026, 10:51 AM IST",
   "item_count": 413,
-  "raw_relevant_item_count": 622,
-  "duplicates_merged": 126,
+  "raw_relevant_item_count": 620,
+  "duplicates_merged": 125,
   "failures": [],
   "items": [
+    {
+      "id": "5fcc5a2f037d10b1924d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics collaborates with Waters on at-home cervical cancer screening: Can DGX break above $237.25?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGkxZll6UFFKWExxX0cta3EtdnRPYjVkcGVHbkFseUZ6bEdzVXlGRElQdG9WZXRmcTh6dkVrRTgySTRGZ3JvX0dfczEyQXl3WndVbmVnWUhBN0dQOVBUZkt2d2ctMi1sSk5xV0JoNXNmTGdNY3dFZjRXMVdrN19rZFUtZDEzSk5tY3BnQm5OeHFoRVBD?oc=5",
+      "description": "Quest Diagnostics collaborates with Waters Corp on at-home cervical cancer screening: Can DGX break above $237.25? Traders Union",
+      "source": "Traders Union",
+      "source_url": "https://tradersunion.com",
+      "source_domain": "tradersunion.com",
+      "published_at": "2026-10-20T23:14:29+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGkxZll6UFFKWExxX0cta3EtdnRPYjVkcGVHbkFseUZ6bEdzVXlGRElQdG9WZXRmcTh6dkVrRTgySTRGZ3JvX0dfczEyQXl3WndVbmVnWUhBN0dQOVBUZkt2d2ctMi1sSk5xV0JoNXNmTGdNY3dFZjRXMVdrN19rZFUtZDEzSk5tY3BnQm5OeHFoRVBD?oc=5",
+          "domain": "tradersunion.com",
+          "published_at": "2026-10-20T23:14:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "237 above break can cancer cervical collaborates home screening waters"
+    },
     {
       "id": "b3990b79ece33ba52a25",
       "company": "Quest Diagnostics",
@@ -2359,9 +2383,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNalJBVUJfOTJsMzdkdkZlem82cDFHVU53LWduRE9CRnMwVkpLSDVTa1hNVjVPX2puYU9DQkQ1QjFyd2VHRGw2NWIzLXBvNEtQWlVnUnBaTGFkb3dYTXdSZ0REX2YzQmYtdkZQRU9Ia2lfb3B0MUxFQ2YyUENZNDZCSTJ3Nkpwd1U2bFF3cHNTWGJHdkNJREFoZU9LOFEtOC1OTi1TTlFqa3JlSGFXMzRHT1o0cVFBRi1LRzNCOElwTkNmQTNsY0FlY0lmN09SWDRkQ19yZ3RSVE44bmVmbzF1QThTbjRyQTA?oc=5",
           "domain": "zacks.com",
           "published_at": "2026-09-29T13:04:14+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnJ1bHBOVFRWWkJaLUVUeDVscnFTWTRfVTN6S1l5VVF5UGxoWHlIQ05iZUxKZ2NEbU9hRE5aWGROUWtHX1otVlQ1cVc2R0hVR1c4eDFJTkJYbUpkcFJSV3NCbGNvODRhaHJXZzRCbjN0M3BuSVFzeDM4Y3hpN2ctY2wxRDNUMWJEM0d2MnNVc2JrTFRnQnRiQU1kRVNCTWZWSHNSSEp2enNuRGFaVExkaUxIM0pUeE0?oc=5",
+          "domain": "es.tradingview.com",
+          "published_at": "2026-09-29T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "add portfolio right stock this time your"
     },
     {
@@ -13357,35 +13387,12 @@
         "https://www.zacks.com/stock/news/2958866/quest-diagnostics-dgx-surpasses-q2-earnings-and-revenue-estimates",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
-    },
-    {
-      "id": "1913eec7daaa3590f8a9",
-      "company": "Labcorp",
-      "title": "Labcorp Secures $364.7M Contract for Military Health Services",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlYTkx3MWxmMlVubDYwOGxvNjZlSDh0THR1VDlGSDNLMTFkd0pIVkpGaWowTjhGclNXRER1WnFoLVlzampkbXg5SkNKbDk3Mnh5eWNMeklHaFpoYnJ3OVdCOFNfeDlfQmt3OEZMMzZJbVBkU0ZobERLSE55SU9JMDRLOWtTTjFHQWtLakoyQndkTGo1ZldnbWFKY0JOV1B1Nk84?oc=5",
-      "description": "Labcorp (LH) Secures $364.7M Contract for Military Health Services GuruFocus",
-      "source": "GuruFocus",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-23T00:09:13+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVUlYTkx3MWxmMlVubDYwOGxvNjZlSDh0THR1VDlGSDNLMTFkd0pIVkpGaWowTjhGclNXRER1WnFoLVlzampkbXg5SkNKbDk3Mnh5eWNMeklHaFpoYnJ3OVdCOFNfeDlfQmt3OEZMMzZJbVBkU0ZobERLSE55SU9JMDRLOWtTTjFHQWtLakoyQndkTGo1ZldnbWFKY0JOV1B1Nk84?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-23T00:09:13+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "364 contract health military secures services"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 78,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-21T06:17:00+05:30",
-  "next_update_display": "21 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-21T12:17:00+05:30",
+  "next_update_display": "21 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
