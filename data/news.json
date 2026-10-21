@@ -1,25 +1,31 @@
 {
-  "generated_at": "2026-10-21T23:10:38.633277+05:30",
-  "generated_at_display": "21 Oct 2026, 11:10 PM IST",
-  "item_count": 402,
-  "raw_relevant_item_count": 576,
-  "duplicates_merged": 99,
+  "generated_at": "2026-10-22T03:29:12.685513+05:30",
+  "generated_at_display": "22 Oct 2026, 3:29 AM IST",
+  "item_count": 401,
+  "raw_relevant_item_count": 601,
+  "duplicates_merged": 121,
   "failures": [],
   "items": [
     {
-      "id": "834479744bfe2aede59e",
+      "id": "e6b5055323d51073541a",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5",
+      "title": "Quest Diagnostics earnings on deck as Medicare cut worries loom",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0ttX3dJY2ZZbUJPQUd0YkpPWGRLLV92bFdrcVNwY3NXdHRXMTkwVFdob3Nid3otaU93eVpRdzZuLUxiMk05YlJ2eDJUQVhZajB4ZzZZODFnc0Jaellyc2FjU2szVmxpQ1labUhWR3pPQWgzYi14ZXhqUlpkdzhkWS11cU8tNmFCaDE0bXJPQUhseElKVzJyVW5QcFBoZjNGdExGN3VtR2ltbkZibi1wVHpqVmJuRzg?oc=5",
       "description": "Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com Nigeria",
-      "source": "Investing.com Nigeria",
-      "source_url": "https://ng.investing.com",
-      "source_domain": "ng.investing.com",
-      "published_at": "2026-10-21T14:42:38+00:00",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-21T14:39:19+00:00",
       "published_display": "21 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0ttX3dJY2ZZbUJPQUd0YkpPWGRLLV92bFdrcVNwY3NXdHRXMTkwVFdob3Nid3otaU93eVpRdzZuLUxiMk05YlJ2eDJUQVhZajB4ZzZZODFnc0Jaellyc2FjU2szVmxpQ1labUhWR3pPQWgzYi14ZXhqUlpkdzhkWS11cU8tNmFCaDE0bXJPQUhseElKVzJyVW5QcFBoZjNGdExGN3VtR2ltbkZibi1wVHpqVmJuRzg?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-21T14:39:19+00:00"
+        },
         {
           "name": "Investing.com Nigeria",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5",
@@ -27,8 +33,8 @@
           "published_at": "2026-10-21T14:42:38+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "com cut deck earnings investing loom medicare worries"
+      "coverage_count": 2,
+      "event_signature": "cut deck earnings loom medicare worries"
     },
     {
       "id": "d92783af1a45a53e9f08",
@@ -385,9 +391,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZG1PWmY4MUs0NGNUS1RCNmd1ZGw2cEZuZGh2YlNCcU0yTU1VdzlWZVlfc1gxUEZwalpjTkpSZGtLMzFjNW5IcmZQWlpNTUJQWWcxUnUwLTFOeHU0cDFGNU5ncXFsalpTamVzalIyMUNtanAwNzZBTHZ6Zk5fakwzRmJ3eDNCR2hKaW1rY0VQbnlrREVWM0tJNkNhRUdxMEFOLTlKTVQyM2FaUQ?oc=5",
           "domain": "quiverquant.com",
           "published_at": "2026-10-19T21:21:00+00:00"
+        },
+        {
+          "name": "Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWNYVWQ5TEV5QWlWZWg4R2hkRGRxa3pWRC1GRkxlbEliek9pYndnUTg5djROem1Qc1JIR0hUMmtCRFhnbE9JR21mTzRjbGV5TUhWc05EQ1dRUjlIaVUtWVhYMXB5VmgzLTFFVFBVeUJjMXktTko4WkhMZXlUaUdDVWowTnI2UjMxR1dWcjFvcFZ1UmhrNzJXRzlwMEZGUXh2eHhoVlFBWlA0aWFRMElyQ21n?oc=5",
+          "domain": "moomoo.com",
+          "published_at": "2026-10-19T21:21:26+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "cut investors lab medicare payment risk slides weigh"
     },
     {
@@ -12841,45 +12853,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "score shares surge what"
-    },
-    {
-      "id": "28d2507af43335dab03e",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
-      "description": "TradingView’s summary of Quest Diagnostics’ second-quarter 2026 Form 10-Q reported net revenue of $3.04 billion, up 10.2% from $2.76 billion a year earlier, net income attributable to Quest of $320 million versus $282 million, and diluted EPS of $2.84 versus $2.47, a 15% increase. The filing-based summary said requisition volume grew about 13%, with the Corewell Health and Fresenius dialysis relationships contributing materially to the change in channel mix and organic volume. It also highlighted Quest’s Invigorate productivity program, which targets approximately 3% annual cost savings through automation, artificial intelligence and process improvements across laboratories and services. The Corewell Health laboratory joint venture is consolidated by Quest, which owns 51%, and the company is building a new Michigan laboratory expected to become operational in 2027. TradingView also noted expansion of patient service centers, mobile phlebotomy and consulting medical staff. Quest’s official earnings release corroborates the reported revenue and EPS figures and shows adjusted diluted EPS of $3.12, up 19.1%. The filing therefore adds operational detail to the quarter’s headline growth, particularly around collaboration-driven volume, infrastructure investment and the productivity program intended to support margin conversion.",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-07-23T20:21:01+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-23T20:21:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "04b 2026 eps revenue summary",
-      "source_description": "Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary tradingview.com",
-      "chatgpt_summary": "TradingView’s summary of Quest Diagnostics’ second-quarter 2026 Form 10-Q reported net revenue of $3.04 billion, up 10.2% from $2.76 billion a year earlier, net income attributable to Quest of $320 million versus $282 million, and diluted EPS of $2.84 versus $2.47, a 15% increase. The filing-based summary said requisition volume grew about 13%, with the Corewell Health and Fresenius dialysis relationships contributing materially to the change in channel mix and organic volume. It also highlighted Quest’s Invigorate productivity program, which targets approximately 3% annual cost savings through automation, artificial intelligence and process improvements across laboratories and services. The Corewell Health laboratory joint venture is consolidated by Quest, which owns 51%, and the company is building a new Michigan laboratory expected to become operational in 2027. TradingView also noted expansion of patient service centers, mobile phlebotomy and consulting medical staff. Quest’s official earnings release corroborates the reported revenue and EPS figures and shows adjusted diluted EPS of $3.12, up 19.1%. The filing therefore adds operational detail to the quarter’s headline growth, particularly around collaboration-driven volume, infrastructure investment and the productivity program intended to support margin conversion.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T00:34:32+05:30",
-      "summary_evidence": [
-        "https://es.tradingview.com/news/tradingview%3A9f6aac4c40e33%3A0-quest-diagnostics-2026-revenue-3-04b-eps-2-84-10-q-summary/",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 75,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-22T00:17:00+05:30",
-  "next_update_display": "22 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-22T06:17:00+05:30",
+  "next_update_display": "22 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

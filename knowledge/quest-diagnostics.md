@@ -1,18 +1,19 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 21 Oct 2026, 11:10 PM IST
-- **Distinct events in this file:** 180
+- **Repository generated:** 22 Oct 2026, 3:29 AM IST
+- **Distinct events in this file:** 179
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com
+## 1. Quest Diagnostics earnings on deck as Medicare cut worries loom
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0ttX3dJY2ZZbUJPQUd0YkpPWGRLLV92bFdrcVNwY3NXdHRXMTkwVFdob3Nid3otaU93eVpRdzZuLUxiMk05YlJ2eDJUQVhZajB4ZzZZODFnc0Jaellyc2FjU2szVmxpQ1labUhWR3pPQWgzYi14ZXhqUlpkdzhkWS11cU8tNmFCaDE0bXJPQUhseElKVzJyVW5QcFBoZjNGdExGN3VtR2ltbkZibi1wVHpqVmJuRzg?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5
 
 **Feed description:** Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com Nigeria
@@ -122,10 +123,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Quiver Quantitative: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZG1PWmY4MUs0NGNUS1RCNmd1ZGw2cEZuZGh2YlNCcU0yTU1VdzlWZVlfc1gxUEZwalpjTkpSZGtLMzFjNW5IcmZQWlpNTUJQWWcxUnUwLTFOeHU0cDFGNU5ncXFsalpTamVzalIyMUNtanAwNzZBTHZ6Zk5fakwzRmJ3eDNCR2hKaW1rY0VQbnlrREVWM0tJNkNhRUdxMEFOLTlKTVQyM2FaUQ?oc=5
+  - Moomoo: https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWNYVWQ5TEV5QWlWZWg4R2hkRGRxa3pWRC1GRkxlbEliek9pYndnUTg5djROem1Qc1JIR0hUMmtCRFhnbE9JR21mTzRjbGV5TUhWc05EQ1dRUjlIaVUtWVhYMXB5VmgzLTFFVFBVeUJjMXktTko4WkhMZXlUaUdDVWowTnI2UjMxR1dWcjFvcFZ1UmhrNzJXRzlwMEZGUXh2eHhoVlFBWlA0aWFRMElyQ21n?oc=5
 
 **Feed description:** Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk Quiver Quantitative
 
@@ -2307,15 +2309,3 @@
   - GuruFocus: https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFJQUZ0ZmVmVnkzb0JnVHNSZ2U4LUxrNGF1YUE5YlZjVjJ2dnFlb0NKOHo2RXJXNUhUY1dDb00yTTczdFEwcTNjRE9UNkRMN2xCc0xnUnhHSVpuUWplakdFMHJ5cUs2YWw3X25KeTJya2dqNUhPNDl3bkpqOWNTVlRHU3VHa2lkcTFEYTU4QURySWU2ZzBxUDZpUk93MGFhTE4xS2tDZmVYM0dLY01SRmk3UDhUcU9rbEpnTDFneDlCMWNLcVBN?oc=5
 
 **Feed description:** Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o GuruFocus
-
-## 180. Quest Diagnostics 2026: Revenue $3.04B, EPS $2.84— 10-Q Summary
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 23 Jul 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMivAFBVV95cUxOeEl5WjdsTkNva3JzMjZBOURCRUt0b2l2ZnVuNXk0S0NVcEk4aFVxZzRPYjdfc0Jnby1wbHR1S2g2QWFFazA1S2UzUW1uZi1jV3pNUjNkbmh2YkJpSFlsSkRDOV9QamVCVGVyQXo3THF6ZEhQVjFhaWlweWVCaTQzWHd6UXEwY0M2emNDdlg5QmtTU3JQbGVYV240d005MEEtUFZ6aU94ZkIxb1hxNHFaSlBCVkpiZFlwbzgtbg?oc=5
-
-**Feed description:** TradingView’s summary of Quest Diagnostics’ second-quarter 2026 Form 10-Q reported net revenue of $3.04 billion, up 10.2% from $2.76 billion a year earlier, net income attributable to Quest of $320 million versus $282 million, and diluted EPS of $2.84 versus $2.47, a 15% increase. The filing-based summary said requisition volume grew about 13%, with the Corewell Health and Fresenius dialysis relationships contributing materially to the change in channel mix and organic volume. It also highlighted Quest’s Invigorate productivity program, which targets approximately 3% annual cost savings through automation, artificial intelligence and process improvements across laboratories and services. The Corewell Health laboratory joint venture is consolidated by Quest, which owns 51%, and the company is building a new Michigan laboratory expected to become operational in 2027. TradingView also noted expansion of patient service centers, mobile phlebotomy and consulting medical staff. Quest’s official earnings release corroborates the reported revenue and EPS figures and shows adjusted diluted EPS of $3.12, up 19.1%. The filing therefore adds operational detail to the quarter’s headline growth, particularly around collaboration-driven volume, infrastructure investment and the productivity program intended to support margin conversion.

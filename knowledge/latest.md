@@ -1,18 +1,19 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 21 Oct 2026, 11:10 PM IST
+- **Repository generated:** 22 Oct 2026, 3:29 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com
+## 1. Quest Diagnostics earnings on deck as Medicare cut worries loom
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0ttX3dJY2ZZbUJPQUd0YkpPWGRLLV92bFdrcVNwY3NXdHRXMTkwVFdob3Nid3otaU93eVpRdzZuLUxiMk05YlJ2eDJUQVhZajB4ZzZZODFnc0Jaellyc2FjU2szVmxpQ1labUhWR3pPQWgzYi14ZXhqUlpkdzhkWS11cU8tNmFCaDE0bXJPQUhseElKVzJyVW5QcFBoZjNGdExGN3VtR2ltbkZibi1wVHpqVmJuRzg?oc=5
   - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5
 
 **Feed description:** Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com Nigeria
@@ -174,10 +175,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Quiver Quantitative: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZG1PWmY4MUs0NGNUS1RCNmd1ZGw2cEZuZGh2YlNCcU0yTU1VdzlWZVlfc1gxUEZwalpjTkpSZGtLMzFjNW5IcmZQWlpNTUJQWWcxUnUwLTFOeHU0cDFGNU5ncXFsalpTamVzalIyMUNtanAwNzZBTHZ6Zk5fakwzRmJ3eDNCR2hKaW1rY0VQbnlrREVWM0tJNkNhRUdxMEFOLTlKTVQyM2FaUQ?oc=5
+  - Moomoo: https://news.google.com/rss/articles/CBMisgFBVV95cUxNSWNYVWQ5TEV5QWlWZWg4R2hkRGRxa3pWRC1GRkxlbEliek9pYndnUTg5djROem1Qc1JIR0hUMmtCRFhnbE9JR21mTzRjbGV5TUhWc05EQ1dRUjlIaVUtWVhYMXB5VmgzLTFFVFBVeUJjMXktTko4WkhMZXlUaUdDVWowTnI2UjMxR1dWcjFvcFZ1UmhrNzJXRzlwMEZGUXh2eHhoVlFBWlA0aWFRMElyQ21n?oc=5
 
 **Feed description:** Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk Quiver Quantitative
 
