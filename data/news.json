@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-21T17:57:15.503021+05:30",
-  "generated_at_display": "21 Oct 2026, 5:57 PM IST",
+  "generated_at": "2026-10-21T23:10:38.633277+05:30",
+  "generated_at_display": "21 Oct 2026, 11:10 PM IST",
   "item_count": 402,
-  "raw_relevant_item_count": 605,
-  "duplicates_merged": 121,
+  "raw_relevant_item_count": 576,
+  "duplicates_merged": 99,
   "failures": [],
   "items": [
+    {
+      "id": "834479744bfe2aede59e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5",
+      "description": "Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com Nigeria",
+      "source": "Investing.com Nigeria",
+      "source_url": "https://ng.investing.com",
+      "source_domain": "ng.investing.com",
+      "published_at": "2026-10-21T14:42:38+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-10-21T14:42:38+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "com cut deck earnings investing loom medicare worries"
+    },
     {
       "id": "d92783af1a45a53e9f08",
       "company": "Labcorp",
@@ -25,9 +49,15 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-21T10:50:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-21T10:50:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "declares dividend quarterly"
     },
     {
@@ -241,9 +271,15 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3ZRUHF4akN0VXhUMGJETGx2MkJxNTVJNXZZRjdYQmJWanFJTy01NTB1ZUZTQ2swRVR5WUtxYnNvQjUyM0txdlA2YW5jSmY4dWZKRlBmNk9YaGJsWVdQVUdvTk5aUlk4c2lMZHBPWVNlSUNJTFJ1ZlR4V1VjdnR4VDJCNEFTM21DN3M2WmZxV2JxOUZPVk85cWV6dWZQZFNTQmpRU1FMS1hNdGluOXFFTGl4RE1NaHM?oc=5",
           "domain": "genomeweb.com",
           "published_at": "2026-10-20T14:13:00+00:00"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1BBdy1ZXzA0Zi1nTjYxc0V1ckdzWWw4RE1YakQ1anFfU2NvQzlSZ0d3dGtyNmtzRk9aSkx4MzVZdUVyczFVU0VzWkRUbHA4bUdid0loNnM1alR4V0t3MjlCMjY1QnVnV3doOEN6M19BdFBkajFjNXdGT0N1QkkyeDZ2blRkTTRUWXZUNGJKRHRJYlBfeFNHN2xQakdPU0Nw?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-10-21T06:18:06+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
     },
     {
@@ -12838,36 +12874,12 @@
         "https://es.tradingview.com/news/tradingview%3A9f6aac4c40e33%3A0-quest-diagnostics-2026-revenue-3-04b-eps-2-84-10-q-summary/",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
-    },
-    {
-      "id": "875e7a220e672b4492ec",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOF8xc3J1V0cyTHFHZDFDd2IxM0pKWUlKaTQyRmEydkFsQUxETFgzbmZkUG1YaUxSQUtMZ3dQcGFmUEI3MHpDd2dlbW9heS15R25lNkRoRnM2ckdScV9sQnB3cWkxbFhRWXBOTUF4NmFxRzRNWWh6dVo3OTFzUzU3RFl2S1RTZEhnNVpsLWJGSlg3M3I5U3N4eDR5cy0xbEtkbHZQWnF0VTI2STZuRXFLdm9KNTZIZw?oc=5",
-      "description": "Quest Diagnostics stock hits all-time high at 227.31 USD By Investing.com Investing.com Canada",
-      "source": "Investing.com Canada",
-      "source_url": "https://ca.investing.com",
-      "source_domain": "ca.investing.com",
-      "published_at": "2026-07-23T13:40:10+00:00",
-      "published_display": "23 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOF8xc3J1V0cyTHFHZDFDd2IxM0pKWUlKaTQyRmEydkFsQUxETFgzbmZkUG1YaUxSQUtMZ3dQcGFmUEI3MHpDd2dlbW9heS15R25lNkRoRnM2ckdScV9sQnB3cWkxbFhRWXBOTUF4NmFxRzRNWWh6dVo3OTFzUzU3RFl2S1RTZEhnNVpsLWJGSlg3M3I5U3N4eDR5cy0xbEtkbHZQWnF0VTI2STZuRXFLdm9KNTZIZw?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-07-23T13:40:10+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "227 all com high hits investing stock time usd"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 72,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-21T18:17:00+05:30",
-  "next_update_display": "21 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-22T00:17:00+05:30",
+  "next_update_display": "22 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 21 Oct 2026, 5:57 PM IST
+- **Repository generated:** 21 Oct 2026, 11:10 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5
 
 **Feed description:** Labcorp Declares Quarterly Dividend Yahoo Finance
 
@@ -34,12 +35,13 @@
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5
   - Seeking Alpha: https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEVJYnFOcHJqeUhvV2ZWR2hmSkhBMER4dnRzODJwcDNXbHljSjFBbElndEZQVXF1RktyR2xTX0swXzJYeXlRUVp2OG9RZXhBeHoweDE1ZXF1YkpDcUl6NVpwaFN0V2pkR0NvNFY4SGJPZk5NeHg2N3dvXzY1VWVoR0J5WV84cHZqTXc?oc=5
   - GenomeWeb: https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3ZRUHF4akN0VXhUMGJETGx2MkJxNTVJNXZZRjdYQmJWanFJTy01NTB1ZUZTQ2swRVR5WUtxYnNvQjUyM0txdlA2YW5jSmY4dWZKRlBmNk9YaGJsWVdQVUdvTk5aUlk4c2lMZHBPWVNlSUNJTFJ1ZlR4V1VjdnR4VDJCNEFTM21DN3M2WmZxV2JxOUZPVk85cWV6dWZQZFNTQmpRU1FMS1hNdGluOXFFTGl4RE1NaHM?oc=5
+  - Fierce Biotech: https://news.google.com/rss/articles/CBMioAFBVV95cUxON1BBdy1ZXzA0Zi1nTjYxc0V1ckdzWWw4RE1YakQ1anFfU2NvQzlSZ0d3dGtyNmtzRk9aSkx4MzVZdUVyczFVU0VzWkRUbHA4bUdid0loNnM1alR4V0t3MjlCMjY1QnVnV3doOEN6M19BdFBkajFjNXdGT0N1QkkyeDZ2blRkTTRUWXZUNGJKRHRJYlBfeFNHN2xQakdPU0Nw?oc=5
 
 **Feed description:** Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance
 
