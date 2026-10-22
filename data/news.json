@@ -1,11 +1,371 @@
 {
-  "generated_at": "2026-10-22T17:59:37.146768+05:30",
-  "generated_at_display": "22 Oct 2026, 5:59 PM IST",
-  "item_count": 410,
-  "raw_relevant_item_count": 607,
-  "duplicates_merged": 125,
+  "generated_at": "2026-10-22T23:08:51.761511+05:30",
+  "generated_at_display": "22 Oct 2026, 11:08 PM IST",
+  "item_count": 425,
+  "raw_relevant_item_count": 640,
+  "duplicates_merged": 146,
   "failures": [],
   "items": [
+    {
+      "id": "83379e0916146b89e40f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Raises 2026 Outlook Amid Strong Dividend Fundamentals",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3pBS0NWZVBPb0swamF2NnJfMkFjRG9JT0ZKQlNHOE9STktyY3ZWWmpQN1YwN0NhUGwxdWMtVHpJQ2M3dnVKazFaaHlGcms0d3RBSTVSZFZEd1VSTXktUExUQUp6ZExPcU80SVk4bTJ3TjZmOVEyc3FBbEk1aWNoa0JvNmRZUDFDRE9JQVRmWmVMVy1TTy1XWmhOTng1MjZhNU5aYUs3cmk4OVpWLXBvc1QtTjM?oc=5",
+      "description": "Quest Diagnostics (DGX) Raises 2026 Outlook Amid Strong Dividend Fundamentals GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-22T17:02:57+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3pBS0NWZVBPb0swamF2NnJfMkFjRG9JT0ZKQlNHOE9STktyY3ZWWmpQN1YwN0NhUGwxdWMtVHpJQ2M3dnVKazFaaHlGcms0d3RBSTVSZFZEd1VSTXktUExUQUp6ZExPcU80SVk4bTJ3TjZmOVEyc3FBbEk1aWNoa0JvNmRZUDFDRE9JQVRmWmVMVy1TTy1XWmhOTng1MjZhNU5aYUs3cmk4OVpWLXBvc1QtTjM?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T17:02:57+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 amid dividend fundamentals outlook raises strong"
+    },
+    {
+      "id": "7bea16f053e3e8005045",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics 2026 Q3 - Results - Earnings Call Presentation 2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbF9NOGVfQk5fY19HVXpkcFVMVTV1NkxpcF9CTjRhT0NtT19jczB2Y2RXZGVlQmZuSkt2V1F0S1BkZzFXT2hhVzVxRzF4dDJvZE03UWp4ZE9fSFp6dk91QldSM0hyNXdOTkRMZXVLd2tqSGlrbW45dVdQUFFwNHB6dFg3eE1HM1JTNzhrRGY5TVNWenZIX2xnamNnSjY0cndIUGFfZWtpZ0UxSTJJUVVjRzU5WlU?oc=5",
+      "description": "Quest Diagnostics Incorporated 2026 Q3 - Results - Earnings Call Presentation (NYSE:DGX) 2026-10-22 Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-10-22T17:00:50+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbF9NOGVfQk5fY19HVXpkcFVMVTV1NkxpcF9CTjRhT0NtT19jczB2Y2RXZGVlQmZuSkt2V1F0S1BkZzFXT2hhVzVxRzF4dDJvZE03UWp4ZE9fSFp6dk91QldSM0hyNXdOTkRMZXVLd2tqSGlrbW45dVdQUFFwNHB6dFg3eE1HM1JTNzhrRGY5TVNWenZIX2xnamNnSjY0cndIUGFfZWtpZ0UxSTJJUVVjRzU5WlU?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-10-22T17:00:50+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings presentation results"
+    },
+    {
+      "id": "ab2f368c5c2e99595ba7",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Bumps Guidance While Managing Quanum System Breach",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWp3cHJmVXNlaGdPbG5ZRjJfWWxlVmc3bUlpc3hBb0dmQ1k0Y08xWmR5RXFoeU1NOW9aYUFmQTJzQnE3S2YybmJOTWlRTjlOTDFpQ3dNYmRMZlg3R3lDNmZQNVhaTGVPT2lYb2o2b2ZfQnh3ZGVjWHktbWpDbzIyd1R4dkl0emFhZW1RYmNZT292QUpWS0pBWkFubHpRQThNY0tNalBKbmlkamNFbEttbmlxZXEtMkRMTXlxVGc0ZFQzNTg?oc=5",
+      "description": "Quest Diagnostics Bumps Guidance While Managing Quanum System Breach Benzinga",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "source_domain": "benzinga.com",
+      "published_at": "2026-10-22T16:49:19+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWp3cHJmVXNlaGdPbG5ZRjJfWWxlVmc3bUlpc3hBb0dmQ1k0Y08xWmR5RXFoeU1NOW9aYUFmQTJzQnE3S2YybmJOTWlRTjlOTDFpQ3dNYmRMZlg3R3lDNmZQNVhaTGVPT2lYb2o2b2ZfQnh3ZGVjWHktbWpDbzIyd1R4dkl0emFhZW1RYmNZT292QUpWS0pBWkFubHpRQThNY0tNalBKbmlkamNFbEttbmlxZXEtMkRMTXlxVGc0ZFQzNTg?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-10-22T16:49:19+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach bumps guidance managing quanum system while"
+    },
+    {
+      "id": "e037c28940dc79ec6d26",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Faces Cybersecurity Incident Amid Strong Q3 Results",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE5sbDZTamFxanFBYlB0NmkybG45Tnd0ZUVaYl9WVUpXYUphM2dBX0N0eElqVmFZTlgyN25NQTZkZm95Nk8yN05RUkthbXJfMUVWal9Zd3BsemJGc2pxQ3VQUUhJaW1ZMFVHV2ZRVFBZcHhCTFpYT2t6RWFXYi04Z0Z0X045b1ZYekFfU1p6dnI2ck5QQlJGSm1CeURBSHdtdUxVSVI1QXhaUHRrbFVRdnpB?oc=5",
+      "description": "Quest Diagnostics (DGX) Faces Cybersecurity Incident Amid Strong Q3 Results GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-22T15:40:35+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE5sbDZTamFxanFBYlB0NmkybG45Tnd0ZUVaYl9WVUpXYUphM2dBX0N0eElqVmFZTlgyN25NQTZkZm95Nk8yN05RUkthbXJfMUVWal9Zd3BsemJGc2pxQ3VQUUhJaW1ZMFVHV2ZRVFBZcHhCTFpYT2t6RWFXYi04Z0Z0X045b1ZYekFfU1p6dnI2ck5QQlJGSm1CeURBSHdtdUxVSVI1QXhaUHRrbFVRdnpB?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T15:40:35+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "amid cybersecurity faces incident results strong"
+    },
+    {
+      "id": "1696d066a19d2fe0689c",
+      "company": "Quest Diagnostics",
+      "title": "Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1U3QWNCbWxkdE1zUlFoZnBlUFVSYjRiT1BIeEVGVWNheVVZTzFZVVBYMFhydjBObFIxV041M3F2VHJXNjBDbV91dWJ6SGQ4cmNfN2dGZHBSRkYwa2E2ZXZOTUtWWGs5cENKMkhETVBGR3NFVlRRNVNoYlUtNjhmaEFWWExBaXdoaDJOQmdaRGpoWnptcS12Y1JPV2RfZEtCdkNRQkl4RXJ1V09Fcm9sd2d4Z1hNS0pDbTVEN0dQZ08ycVczdnFiR0pBeUVGbUlqYlE4dzZIRQ?oc=5",
+      "description": "Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook By Investing.com Investing.com South Africa",
+      "source": "Investing.com South Africa",
+      "source_url": "https://za.investing.com",
+      "source_domain": "za.investing.com",
+      "published_at": "2026-10-22T15:05:19+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1U3QWNCbWxkdE1zUlFoZnBlUFVSYjRiT1BIeEVGVWNheVVZTzFZVVBYMFhydjBObFIxV041M3F2VHJXNjBDbV91dWJ6SGQ4cmNfN2dGZHBSRkYwa2E2ZXZOTUtWWGs5cENKMkhETVBGR3NFVlRRNVNoYlUtNjhmaEFWWExBaXdoaDJOQmdaRGpoWnptcS12Y1JPV2RfZEtCdkNRQkl4RXJ1V09Fcm9sd2d4Z1hNS0pDbTVEN0dQZ08ycVczdnFiR0pBeUVGbUlqYlE4dzZIRQ?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-22T15:05:19+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call com earnings estimates investing lifts outlook tops transcript"
+    },
+    {
+      "id": "6d08d3783d32314deaea",
+      "company": "Quest Diagnostics",
+      "title": "[Quest Diagnostics Q3 2026 Earnings Call] Quest Raises Guidance as Revenue Jumps 10% to $3.1B, but PAMA Cuts Loom at ~$120M for 2027",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ka3RoT252cUdQOU1JdXdiYVpTNjNTem9OMnoyMVVwbHdYMFR6TEFSd2cxSldDUTZLMExlZzBrSmpJMUgzOUtSQjViY0NOQzRLbFRCblFOTGR6dk1F?oc=5",
+      "description": "[Quest Diagnostics Q3 2026 Earnings Call] Quest Raises Guidance as Revenue Jumps 10% to $3.1B, but PAMA Cuts Loom at ~$120M for 2027 BigGo Finance",
+      "source": "BigGo Finance",
+      "source_url": "https://finance.biggo.com",
+      "source_domain": "finance.biggo.com",
+      "published_at": "2026-10-22T14:54:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Ka3RoT252cUdQOU1JdXdiYVpTNjNTem9OMnoyMVVwbHdYMFR6TEFSd2cxSldDUTZLMExlZzBrSmpJMUgzOUtSQjViY0NOQzRLbFRCblFOTGR6dk1F?oc=5",
+          "domain": "finance.biggo.com",
+          "published_at": "2026-10-22T14:54:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "120m 2026 2027 but call cuts earnings guidance jumps loom pama raises revenue"
+    },
+    {
+      "id": "ea7a068b242aeabe4bb1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics reports cyber breach affecting 'certain patient records'",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5",
+      "description": "Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos",
+      "source": "WFMZ.com",
+      "source_url": "https://www.wfmz.com",
+      "source_domain": "wfmz.com",
+      "published_at": "2026-10-22T14:31:33+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WFMZ.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5",
+          "domain": "wfmz.com",
+          "published_at": "2026-10-22T14:31:33+00:00"
+        },
+        {
+          "name": "Richmond Register",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSlhYX3hLeE5DUmVobGFpYnBRYW9sck9JR3NuR3o4d1JOcUtDcVc4Z2hHU2x0UFNCbU53Sk90MS1hVGVZUnltdEJmY1A3MGdEdzJxQlJXN0Y2SnplT3ZlSVpZdF9Vb2ZodzlVUVQ5LU9heUVmakk4NHEwM05HLVZnZk10VHdULThQaHUyR015TnJxVW9KTWdfVXNfTGpka05STGFEYlRyOVhFdHp3UnpUWmdmOU5XY3A0S0dWSVVRWkVMd3JDTGJJRVlxcmNFcm9rSUM2TUpEZkhzOTlscmZMS0NOMS0zd0R0UXFvV3U3VnpWTDlQbXpVTkZiNA?oc=5",
+          "domain": "richmondregister.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "The Batesville Daily Guard",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYndxQl9LU0JjVHhIMU5zRmM5VS1lTThabUR1a3JIVTNVeVppOWZWSWF2RVh1SHNKQVRNT1E4WTJDZDFJbzAxbldnWktYY3MyeG4tX2RCUUI5MTJTU2JlaXI4NUlPZ3ZZZ21aWU5EeHZhNmNmLUhFbnhtVzVsTEZRcllBdnpfaExLbVlVdVRTckxCelQ1ZWVZSFhBd0JydEFIV29paFFwU2U1U0JNeENTdE56T1R0bV9MVkgzeEpHMWk4WkJuNlNVLWpuQTdhQlRwUDVqb1ZfODJ0LTRQNC02OTNXTF9SS3JZUXM2NTRPUW45ZWRfb19R?oc=5",
+          "domain": "guardonline.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzJ1dzFBQzlINDFKSkx3ZUwwME9weWRqNlM5bGUtOTlKNnJoREJic2QtZ1A3dWVidWRWRVljNk1lZlROOGt0ZWFWSXFWUTd5MjFuM3h2SDA1WUNrTnUwXzVYaFQzYW5VbUtkcVh6Tml3dzRWckNENmExc1F0b2l5R3A3YnV0bVBldFpQeEg5NFJaNVdUNHlMQ0w2UFZiejhsenVIeTJ4czZuTHM?oc=5",
+          "domain": "trumbulltimes.com",
+          "published_at": "2026-10-22T15:16:57+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2tWMzFpdUlNUEs1S01ualRTbTdab2p0ZjlJaHFUWTE5R244U3JVN2x6OVotTW1vQlJ0dFVjRjRGNlpSMF9iTkVkUjZodGtzQ1Etaks5TDFGaF9zTEp6TmNvbEtuczJZa0IzMkhVb0hEN0xCUzFIZHFJVThFVEQtUkllU0hxUk1MQWoxLU1fOEdlbUdtUjJ5TmVURjBwLWNMckE4dkV4OHJSeDFqZENGclA4UQ?oc=5",
+          "domain": "theridgefieldpress.com",
+          "published_at": "2026-10-22T15:17:42+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0xSRGVGckdzU1BaWEdSZjZqbXdJbVlDRHc5V2pnelo1cHFYdjNYS21qQ2EyaGJMTWEzdnBTMFRaOEVWdVg5VmJKajdkWXFla3NCdUJNclo4dWE4TUFpSVVBMmxUUEh0MlV4UHU0OGx6d2l0ZTAzSFNGempRaUVfdFFOSUFtZGhSSThwVW5EYzd0OTF1RHdPMlVoeU0zemt4dVl0YS04UF9COGQwUUE?oc=5",
+          "domain": "middletownpress.com",
+          "published_at": "2026-10-22T15:18:15+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjlZSl80eXZMTWY1djF3U2dGakRFQkRtby1McDN2VWRCSlZleEQ4ZURydHdSNWE0dDhkak5ZUFc3LTdLdnZqTHdVdXdDQnIwUWFVZ3h2amhlT1FYUnRhVG8zSWsyNkdwZzR2NmlVRi13QjlJa2tFS1NzYWY2QWxmaE9RNzBpZ1NvbEVXdkNpVE9GMGZKQVdnNEozNzlSZ1JtR3I5QTRIWlR3MVky?oc=5",
+          "domain": "wiltonbulletin.com",
+          "published_at": "2026-10-22T15:18:17+00:00"
+        },
+        {
+          "name": "Stamford Advocate",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1ZLOGFEZEJpaTlHV2s5aTd6ZjhBUHVYSmVHbXpqdktCTFRzdk1VOHBBQy1TbEJ0bERWd3VndmJYay1RRkpmWjQ2WVJyLVdhVGdGcDJkaEV1NnVWVnV1bzE5NVdJVWl2ZlRweVFXQk9KLW5naFd1a3dWVjZ5Zk0wMTQteU03ZGxvYWh5cFhuZmhwbXc5dFNDX3Q5VjdWaWNDZ1V6Wno0MUl2Z0FOVGtZOTdzZzg?oc=5",
+          "domain": "norwalkcitizenonline.com",
+          "published_at": "2026-10-22T15:28:16+00:00"
+        },
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDlzZk00TVZFdV85TDNYNS1LYTdmYzdJb2tLV2UzREo4clZ6MnZXbzR4bmhLcTNzTjlXcnRrdUxUWFVNVGxKcFV1RndSQ0ppVXB4dVFaZGl0ZG05VnpwUTBwU1B0ekFUdkdWSGJGT0kyMFNMSHdrZzJsR1czSFllSFpkRGNYbE5lS21LcGtaRktFSlBWbzJfLVZ4WEUtOXoyVkE0b2FwUV9yT3pWYjdkM3RBUE1Dd9IBuwFBVV95cUxORlNleU1WRTNVeDBxa0FvQ3phSnFHWlplTnMzSWxxci1JdUdoR3BCaTlkRi1iTEVyRGZXU1BnSzJ4RGZGbjVYb0tLa3VnbGJxUEFScUFRWW16ZXdpMVBCd1FWamxqeGl1RS1HenB1ZEpXRjlWRVE3YWR4SWo4d05hSXdkTEgybnQtTjBWNzZPOXY0SWxjcUotdkh6LXliWDFIcHBpSXhBdHoxVTUxR2swZm5ZMzBmN29HbmdV?oc=5",
+          "domain": "abcnews.com",
+          "published_at": "2026-10-22T15:50:21+00:00"
+        },
+        {
+          "name": "WPTZ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDd0Y0xfbWd0Z05MR0ZuUExtMTdiX1JnNjVIelh2SmdYQlFic0dUeFFRT1BCSzJXQ3UxVTlIeTJhMkVna0plamU4aG1QUW1QVzk5VXlBS3ZjWlpDNnFXQ0pjWUgyT1E4dDk1REYzUnRwX01lMEU1MUVGSmlMbFBQaWFyMzBPclltYzZN?oc=5",
+          "domain": "wptz.com",
+          "published_at": "2026-10-22T16:08:41+00:00"
+        },
+        {
+          "name": "The Seattle Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZOMWU4bzUzdmRYQklGV01nUFplU3E5RFUybEpXZFNGZUpiYlJMYkNXcmFjRXZzbGdSSGx5UnE0UHlPVnVHM3dXLWpoRE14anA5NTVVYkxOR05YS3RGSnBac2EyTjR2d1p1SEdqTllWWW1IRVZJckVmX0RGS20zMHhwdERyMmlKX21FRkdtcTJrYjluUlNyWUE1OTh6bHctenpCcGJrNXlTSTZqakh0Tg?oc=5",
+          "domain": "seattletimes.com",
+          "published_at": "2026-10-22T17:32:20+00:00"
+        }
+      ],
+      "coverage_count": 11,
+      "event_signature": "affecting breach certain cyber patient records"
+    },
+    {
+      "id": "6bc1ef57e7a0a142c48c",
+      "company": "Labcorp",
+      "title": "Labcorp to buy Myriad’s prenatal health testing unit for $210M",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
+      "description": "Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "source_domain": "medtechdive.com",
+      "published_at": "2026-10-22T14:09:45+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-22T14:09:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "210m buy health myriad prenatal testing unit"
+    },
+    {
+      "id": "dde78fa4f0ebb64efa89",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUNXVVZfc3J1cVZGUUVubFFPN3YtTTBOUHNJa0xYVUtRRkMwQnJ4NmtQZVp0dzQ1S09NZl91WTNSNEE0Rnl5SzNvUE83VXZ5X0dlbHpQMmlQenBGMS14Q0syQklONkVKcXFmYUtlZ1FzdnFsQU4xeGVsUms3S3gwajh3WEdmNUdENlNZZFE3NV9hZFluVWc5MDVOS2lYTUpHcFBhNUFVWXdSU0M3TGprRThUaWl2NjNCQnF3VTRIdHY5NjFx?oc=5",
+      "description": "Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-10-22T14:03:45+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUNXVVZfc3J1cVZGUUVubFFPN3YtTTBOUHNJa0xYVUtRRkMwQnJ4NmtQZVp0dzQ1S09NZl91WTNSNEE0Rnl5SzNvUE83VXZ5X0dlbHpQMmlQenBGMS14Q0syQklONkVKcXFmYUtlZ1FzdnFsQU4xeGVsUms3S3gwajh3WEdmNUdENlNZZFE3NV9hZFluVWc5MDVOS2lYTUpHcFBhNUFVWXdSU0M3TGprRThUaWl2NjNCQnF3VTRIdHY5NjFx?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-22T14:03:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 com growth investing outlook raised revenue slides"
+    },
+    {
+      "id": "0c21b935a5261ed90b3c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcThmdWR2cjZKeFlxaVNDQ3lLNHVwR3VIaFI3dHVoX1RteXFRVm95VGdsRVFIa0YzWlUtU2RFQklSNE1Xa0dhZ3ZpTE9JaVZxQ3V0MnRjbXVBeHFBZkFBQ2lCRE9USElqTUhYeHg3TGFyeGZweTlZeEhrTXdmUTYyX3BVREtyVW1xR2hMaVlkb1B3bWVhbkw4ZkNtQnZHVTVVb3Q2VjhDaFZ5c1dZTEk5dXFhT2JqZkVrUDZiWFhoVDVGRUlhM0VBaW13X1Iyb0p3Z3hUVDFzbTlHX3I5OWdfOUl0RjZvdm8?oc=5",
+      "description": "Quest Diagnostics Incorporated Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-22T13:08:53+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcThmdWR2cjZKeFlxaVNDQ3lLNHVwR3VIaFI3dHVoX1RteXFRVm95VGdsRVFIa0YzWlUtU2RFQklSNE1Xa0dhZ3ZpTE9JaVZxQ3V0MnRjbXVBeHFBZkFBQ2lCRE9USElqTUhYeHg3TGFyeGZweTlZeEhrTXdmUTYyX3BVREtyVW1xR2hMaVlkb1B3bWVhbkw4ZkNtQnZHVTVVb3Q2VjhDaFZ5c1dZTEk5dXFhT2JqZkVrUDZiWFhoVDVGRUlhM0VBaW13X1Iyb0p3Z3hUVDFzbTlHX3I5OWdfOUl0RjZvdm8?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-22T13:08:53+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS1lXNEtZd3pvS08tZkQzb0FTN0VRS0xORTVYaG9FeGpUeXllbHB2eHBNS0xlTi1jbmhBTTNuNnNCSHQ2NFZuOUg4VlhodVFtYlZUSk9MeWUyWWc5LTBGUzNybzAxVTNaYVcyeEVuX2FzWHlscFNOdUt2bTl1MDlpLUtFamZYSGxzN2lyTkpiN1lPdllub1hLX3FYMjNGUk1TYjlKNWp4R0szRGNlQTFoemhqSVVhMDdGQWEtaklOSk9KVmNCemRSN1hybGVqUUFnbGkyYXlZZ1BTcHNkLWtBV0U1b21Qa0xjd1o3b2pUZTY?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T13:31:56+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 earnings ended months nine quarter results september third"
+    },
+    {
+      "id": "98b81e5f3ed4cc1e8389",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 FY2026 earnings call transcript",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2t4WVBvRWJQMkwwQzlSUWh0cWRJdzhYS2FiUnNSb1hjQmdBYUF5Mm40c0NYdW00RlgyeVRwRTRUdTVxanpKS1liX0tfdnJsNUVDa01rMlRjRmJMS3VyWlFSbVJFNU53U0JZQ3FqYTU4R2FuYU1rM0VQdlNHbmwxazhQQmsxbW9zV1E?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Q3 FY2026 earnings call transcript Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T12:30:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2t4WVBvRWJQMkwwQzlSUWh0cWRJdzhYS2FiUnNSb1hjQmdBYUF5Mm40c0NYdW00RlgyeVRwRTRUdTVxanpKS1liX0tfdnJsNUVDa01rMlRjRmJMS3VyWlFSbVJFNU53U0JZQ3FqYTU4R2FuYU1rM0VQdlNHbmwxazhQQmsxbW9zV1E?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T12:30:00+00:00"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3E2a2d3NHVWa1lqSVhYMUZkSFFNMU1oNzFSeGhpZHJXQjRhYzNsX0U3cmtnb2pxTTEzZ0pKX1hOakg4RmwtMnlEbThVVXhhQXdGR2taOEZ3U2Y2Y0stWlRvRVBqclJYSlRKSEhxT2g0TGVYR3M0bVVaanV2Q3FMNnBiT2RaR2xSNk0xLUFvaHloVnhOWVJlLVFVYw?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-10-22T13:39:40+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "call earnings fy2026 transcript"
+    },
+    {
+      "id": "76a8fcc1f531e6be2c14",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics’ test results system breached in yet another medtech cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXJMWl9VUFYxeXRTX1FaOHB2XzhUWi1mSUtpQ1NuNjFLNjhWbXktWGpwUnRyeEdFbllha2RTWTJyM1JzQVZGQmJ6Skxma1BPSkhCbG5nLUp1eFdEdER6OFBTSUtSRE9pSU1RRnhmcDJqSmpuTldCN0tJbWhRelVVYTVQQklFOXFCWTFITzJYd0xYcWJCaE12djN1aEtBTjNsa09QeHlWTzZiX0dpNHNXYjVmZFp1ZU0?oc=5",
+      "description": "Quest Diagnostics’ test results system breached in yet another medtech cyberattack Fierce Biotech",
+      "source": "Fierce Biotech",
+      "source_url": "https://www.fiercebiotech.com",
+      "source_domain": "fiercebiotech.com",
+      "published_at": "2026-10-22T12:28:08+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXJMWl9VUFYxeXRTX1FaOHB2XzhUWi1mSUtpQ1NuNjFLNjhWbXktWGpwUnRyeEdFbllha2RTWTJyM1JzQVZGQmJ6Skxma1BPSkhCbG5nLUp1eFdEdER6OFBTSUtSRE9pSU1RRnhmcDJqSmpuTldCN0tJbWhRelVVYTVQQklFOXFCWTFITzJYd0xYcWJCaE12djN1aEtBTjNsa09QeHlWTzZiX0dpNHNXYjVmZFp1ZU0?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-10-22T12:28:08+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "another breached cyberattack medtech results system test yet"
+    },
     {
       "id": "db33aa4527dbdf0d2008",
       "company": "Quest Diagnostics",
@@ -79,30 +439,6 @@
       "event_signature": "2026 guidance powers raise surge volume"
     },
     {
-      "id": "f0769e096ab17cc6a5b7",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5",
-      "description": "Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-10-22T11:15:28+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "www.marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-10-22T11:15:28+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 adjusted earnings guidance raises revenue rise"
-    },
-    {
       "id": "8daf137aebe513c863f4",
       "company": "Quest Diagnostics",
       "title": "QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings",
@@ -121,10 +457,46 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5",
           "domain": "quiverquant.com",
           "published_at": "2026-10-22T11:10:00+00:00"
+        },
+        {
+          "name": "AlphaStreet",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWxad180Rlc4RnJQaXZFYVMwdllfZ3ZLdTJlenZDUEQ2YWZBUDNybW1ISElRRXk4M0JvWnFFUzNFaUEwNTNib1hpZFgzYXFSdDZFcmJUU3B5ZlZtLXhjbXFZSUhEUVh3N0UwLWsxXzZCeXZhNjJhUEUzRlpiV082cVRodFI4RjVzQmfSAYoBQVVfeXFMTU1sWndfNEZXOEZyUGl2RWFTMHZZX2d2S3UyZXp2Q1BENmFmQVAzcm1tSEhJUUV5ODNCb1pxRVMzRWlBMDUzYm9YaWRYM2FxUnQ2RXJiVFNweWZWbS14Y21xWUlIRFFYdzdFMC1rMV82Qnl2YTYyYVBFM0ZaYldPNnFUaHRSOEY1c0Jn?oc=5",
+          "domain": "news.alphastreet.com",
+          "published_at": "2026-10-22T12:15:47+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 earnings releases"
+    },
+    {
+      "id": "dfe7a1c881ca34d4e92d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlhQdTJNcDNPNlRXcWt0S2dLR0tUc1NSdTNhTy1EaGdSYUJtYjJ5QVV3Nkw5dU52ak02eWxxc0JZcmNUOXpzUk5HdVNrTmJ3cEF0RVJPVXRoR25NcjdhZGdpczJhYmhIck05cUJSODRmZXJJaWxMOF9aWmtYOEFXWjA3eFJmc0RaUmFOMXJuM0EyVWl0QkxkSHhFMXUzSWRL?oc=5",
+      "description": "Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance www.marketscreener.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T11:09:51+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlhQdTJNcDNPNlRXcWt0S2dLR0tUc1NSdTNhTy1EaGdSYUJtYjJ5QVV3Nkw5dU52ak02eWxxc0JZcmNUOXpzUk5HdVNrTmJ3cEF0RVJPVXRoR25NcjdhZGdpczJhYmhIck05cUJSODRmZXJJaWxMOF9aWmtYOEFXWjA3eFJmc0RaUmFOMXJuM0EyVWl0QkxkSHhFMXUzSWRL?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T11:09:51+00:00"
+        },
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-22T11:15:28+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 adjusted earnings guidance raises revenue rise"
     },
     {
       "id": "0ad588d64ce498d320ce",
@@ -179,7 +551,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics reports unauthorized access to patient records system",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
-      "description": "Quest Diagnostics reports unauthorized access to patient records system StreetInsider",
+      "description": "Quest Diagnostics - Reports Unauthorized Access To Quanum Lsm System On Oct 21, 2026 TradingView",
       "source": "StreetInsider",
       "source_url": "https://www.streetinsider.com",
       "source_domain": "streetinsider.com",
@@ -193,9 +565,27 @@
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
           "domain": "streetinsider.com",
           "published_at": "2026-10-22T10:58:25+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORk8yLWdnSzZQUE9kTWxNYnNaYXd1VHNVWGs2LXBMaTByX1FUdFg0QnlkaHRJcHh4bjk0OW5CUGg4bmJKY09JZ2E0V1QzQVhpQXJzdjBvSWduMkprSUVSZFBqX3l5WGQxMlJmcFlDLW9acDk3Y0JCT3BTWjl5YnFoNGUtWlRXaTFlcVdLSmxkYUVVbkdhWlVsckg4ZWdzR1FjQTZnMEVORktMbUtnLVZKSUJIcHZOLXVOVXBhM2F6SmNtRzBhOGpXUVBaNzg4MnNTMXF6bXpDdklka2VfUFVqQkJPWlhIUQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T11:54:54+00:00"
+        },
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWV4VmRVYnN2c2UwWTRmSkF6QXlsSDJHV25HM29PT3VqM2lzMEYydVZwZkREY2c2dEhPMTVVVm1GMkJPZmJ6SkFZMEEtV0lDYzZCN2E3VFNyZEE1VHNJRnRUdjhORS1rYWRIWVpCNlV5VC1ueUl3UXFvU25fOVc4V0lxYnZNSzFqUkpvSUd2d09XMUk?oc=5",
+          "domain": "mezha.net",
+          "published_at": "2026-10-22T12:44:17+00:00"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFlV01UUDZzYzRTNFVqS2V0bm9IRnpLdHdGNVlRVDRWZFktb2ZqSlVBLWx5Qm5EOTZWM1pBOVZZeUhwWks4bmtmMmh3akNLazVqRUNaOVVwNWdRZFVGSE5oTjNHNkNndGxGa1p2TXJhc3dfUmNveVh3OXltWE1rV09PQzRab1lvaXNXbW02OFBsMmVQNXpRT1VEVQ?oc=5",
+          "domain": "gizmodo.com",
+          "published_at": "2026-10-22T17:05:28+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "access patient records system unauthorized"
     },
     {
@@ -223,19 +613,25 @@
       "event_signature": "adjusted earnings eps est factset flash per posts share"
     },
     {
-      "id": "559429880e5656fb0967",
+      "id": "c88714aaa19fbf0eaf06",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics: Q3 Earnings Snapshot",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9JSHgyZVlIYnV2V25uczNZRnd2b2V0cVFfdVk1QkVDd25FUTVMWFl1RGczb1N6Y1NrdUswQ3JKcWxDTy1EYnZoN3dwSWJ0X1NCRXVKdlo3Mm1kUEkwOVR1OHpWZmhqN3pxRTBCUjBYVkJhMUZxSWJXV0JORjhqTGhPd1JmZU95cFNkU3ppVTdxZExxRkx6bGdNYXpaNWtfUXRsekFB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjBzVFlUTVEweVhPWEJQekZLXzJjeVhSVUgxbE1ST2xkRUloSy1jaDQwU05yc1NaQlIwOFpfa29ST2xRMXRkaUlyejR0aDBZSDIwVkJ2MnpZVHBSUE9zSWVZa1FPOVhLTTFEbEMzUmZvUFVVODBubWVHNGhiVGdBUlNpM3RuN0U0SmNUQ3owSzNHcXBuOG8tUHRvSUJRM3NGdm1TZklmTENKUHRUZXJqNDdtRHI5enhXbkRUNXlNV3VDUFpTcXNfMzhES1pGVXRlN2c?oc=5",
       "description": "Quest Diagnostics: Q3 Earnings Snapshot Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-22T10:57:17+00:00",
+      "source": "KTVB",
+      "source_url": "https://www.ktvb.com",
+      "source_domain": "ktvb.com",
+      "published_at": "2026-10-22T10:57:00+00:00",
       "published_display": "22 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "KTVB",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjBzVFlUTVEweVhPWEJQekZLXzJjeVhSVUgxbE1ST2xkRUloSy1jaDQwU05yc1NaQlIwOFpfa29ST2xRMXRkaUlyejR0aDBZSDIwVkJ2MnpZVHBSUE9zSWVZa1FPOVhLTTFEbEMzUmZvUFVVODBubWVHNGhiVGdBUlNpM3RuN0U0SmNUQ3owSzNHcXBuOG8tUHRvSUJRM3NGdm1TZklmTENKUHRUZXJqNDdtRHI5enhXbkRUNXlNV3VDUFpTcXNfMzhES1pGVXRlN2c?oc=5",
+          "domain": "ktvb.com",
+          "published_at": "2026-10-22T10:57:00+00:00"
+        },
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9JSHgyZVlIYnV2V25uczNZRnd2b2V0cVFfdVk1QkVDd25FUTVMWFl1RGczb1N6Y1NrdUswQ3JKcWxDTy1EYnZoN3dwSWJ0X1NCRXVKdlo3Mm1kUEkwOVR1OHpWZmhqN3pxRTBCUjBYVkJhMUZxSWJXV0JORjhqTGhPd1JmZU95cFNkU3ppVTdxZExxRkx6bGdNYXpaNWtfUXRsekFB?oc=5",
@@ -243,8 +639,32 @@
           "published_at": "2026-10-22T10:57:17+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "earnings snapshot"
+    },
+    {
+      "id": "7267e08be39fd583f8fe",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE0xMGx6MHFJUXF6RDFfTml1dExnM0NieFBkVE5FX0xEeTI2Yl81Q1dTWW8xOEp6VmJKb1BJQ3FZWkRGVDZybEtPTFJOZlhkWGpNTlhITUE1N3pxNk5YUU9OU1lQS1J4Z1E3VHljT1dRb1BveWpia2ljeEFuZ0ExWWQ4NWpPWm12OTNuN2NTY2dhd1pwVGpITm5SRDFjemxsbXduYVk3SFcxOWdjbElCcnVIWmFOVmF3ZUpGUlR5RzZDRDl0VjhSTEs5cUloUQ?oc=5",
+      "description": "Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-22T10:55:18+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE0xMGx6MHFJUXF6RDFfTml1dExnM0NieFBkVE5FX0xEeTI2Yl81Q1dTWW8xOEp6VmJKb1BJQ3FZWkRGVDZybEtPTFJOZlhkWGpNTlhITUE1N3pxNk5YUU9OU1lQS1J4Z1E3VHljT1dRb1BveWpia2ljeEFuZ0ExWWQ4NWpPWm12OTNuN2NTY2dhd1pwVGpITm5SRDFjemxsbXduYVk3SFcxOWdjbElCcnVIWmFOVmF3ZUpGUlR5RzZDRDl0VjhSTEs5cUloUQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T10:55:18+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beats forecast raises revenue"
     },
     {
       "id": "4ec587249bf6d1a31e26",
@@ -271,10 +691,46 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lTdmExWm1YbVhVWk4wbGdDSDJ3SnhhOWZOOG1pdHVyOU1PR09HbUdkaWVDeHZ1SkZnVVFObENOYjJRZUszejI3NktXS1V0QnRNLUNidDBPM3BDUkhVN1d3S1IzREJabk9GVXA2NjkwOFNVY24xc21jeDhnbXV0ZzJHMDBtMXd3MTM2cEtwUThmRVBTc3NoRWpUS1N0bDVoWmZtWFEwRk91OC0wLVpF?oc=5",
           "domain": "au.investing.com",
           "published_at": "2026-10-22T10:52:57+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXlIbmJrZjI4SlQ1WlZQVGdIOHZPUW1kenhydGFIZ0VaQzJfcXZvbnNnODVTamphRGM1SWd2WnFpcnJ1S0VlbS01bXNXQUNLSllzd0ZGRkh5WGt1N3dONmF0TnA1MHA4eE5mbXhjMGZiaEplNTFQQ3NCaTZra09Gb2s4ZnpZd2Q1Umk1MVJpTWhkN1lZdkJXbG5HbWVqQmhFZGVvN043bjBrUWppRV9z?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-10-22T10:52:32+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1lCTk5DRGZadUJEb2YwYm1ZTGJ3MjRGcjVPUDlmb2lHWDJqUTc0dmpzY1hYODhOYnNrZDgwdFE4UjJjc1NlaWNxenY4ekJRMHBuMmstNERnQU1UMnNielYyZFhVRk9Ga1lPcWUzTm5iTFFiU3BISEVDOHp1ZVQ3dkhzVFNiWGdVZnZkSGtwSEVQWDZBbHIxcDR3?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T11:00:02+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "beat earnings estimates revenue topped"
+    },
+    {
+      "id": "9aec124932717745c549",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwS21LdFpJdUY0eF9RQkt5QW1tQVY2YXhPY0lvNlQwVEc3Wm0wWG95VWtWelhBbTRFZWhJeU4xSUtId3l5WEJWdUEzSUpmbHRpWENMQXVLb3lPVDU3SHRZTFhkMlZhVGdtVG50UU1B?oc=5",
+      "description": "Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain TradingKey",
+      "source": "TradingKey",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-10-22T10:52:22+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwS21LdFpJdUY0eF9RQkt5QW1tQVY2YXhPY0lvNlQwVEc3Wm0wWG95VWtWelhBbTRFZWhJeU4xSUtId3l5WEJWdUEzSUpmbHRpWENMQXVLb3lPVDU3SHRZTFhkMlZhVGdtVG50UU1B?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-10-22T10:52:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 drives earnings gain growth revenue volume"
     },
     {
       "id": "a6823e3c72fdedcd95b3",
@@ -301,6 +757,30 @@
       "event_signature": "13c eps guidance raises tops"
     },
     {
+      "id": "b58151609ed820328c96",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Latest Press Releases & Corporate News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UazRhVVA3RUx4QXdfb1V2dkpEdTBTaElPMGJLTW9sYXk3elVfcnY4TXVHdEp1WUpiWElyakRvanBGcmdfYUhPcHlpbmxESWZGSnVyVmNDUlVDUG5PUTkzVA?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Latest Press Releases & Corporate News Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T10:46:20+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UazRhVVA3RUx4QXdfb1V2dkpEdTBTaElPMGJLTW9sYXk3elVfcnY4TXVHdEp1WUpiWElyakRvanBGcmdfYUhPcHlpbmxESWZGSnVyVmNDUlVDUG5PUTkzVA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T10:46:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "corporate press releases"
+    },
+    {
       "id": "ef3ca094bb0d0aef0190",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
@@ -319,9 +799,27 @@
           "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOU1pHVnVuaF9lN2VuWlVNQXBQemFINzlHa0U2c2tYTXM2QTRFakJXV1hTamNsclNGV211YUoxV3kzTUpvN21lZmctN0pMbmk4V2VxUDVzZU54SVI2WURoV1F4Rnp4OFNLSUlZTDU2QUFoZHJlZlQ3T2diTUVUZm53ZW5SNHNReVE4OU1PQ084SW1PQXJMVVJoc3JzRXhqZFNpc1pYdTRkM3V5WGV6eEdXcmZOVFlKdGp3dTFncENGVENsd1JXUEFvVHZ4dUNnZ1lJaGRkZG56ZjM4cUUzLTB6RGMybkRUdnAtYTNIMnVjN25YNWRrMjhuZzBQREJNdnNzVXFUaQ?oc=5",
           "domain": "morningstar.com",
           "published_at": "2026-10-22T10:46:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcERGa3ZWRGtVUnJwdmdtNElaaHk5VHdZSVFySTdQRzRBZ19RbHpPa2I2bmo2MWpSQXdzZlhVRzZGLTl4QjZhaWtuVzVwOFZ2TnhaaGdHTEY5V2FZMEg2dDUzUzhubjdTUFZpQjZGT3Z0Zkw1WXdlR0c5UExGU1UtQURXNUN0WXM4d1F0OTJJQjRQb2FPNG82bkJzOUZjWjRMVUl4YXB3MVVNMjJFQ25UY0luRkhRUUVsa2NpQ21iUnpRTk01SmIxOW5BRjNPVFViTjRfdlNOM1dMb0FqNVhZSWI1MjUtUGVQUWZtZ0FaNklodGJBTWNDazJ5OUlTZw?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-22T10:46:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUlkNHI4QzRYSWVZaDB1dXNjeGNXc2pFRFN6amI1VGxFZFhYSnlnaDdHdTF3Um9hemxZWnBqUjdiNldoSzUxeUtqaWdLQUc2d3FVbTg4Mjd3Q2xjMnFrZVM4Ym0yazhpQ3hLMnFiM2xRWTlHUXI0bnhERFdQcEI5aWVSeDRJNnpvQ2dXTFVrWUYxRDVBQThULXNXWmJicGE3T0lnY2RvU2kwX0QwZHoyRThTTlA4UlAzdkNuRg?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T10:53:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk5QeWhjem44T1hYQ1RTWWdtWGk0YmJYdGJRQnlqSWZlbllWOXlVRktWODJNNU9UanpuZE5Obko2aXVJN1d5ZGxTSWtnQVZYWXd1dGlfNFRldElwenVHTk84R3k4Sl9pYnZWb3FZZkI2N0tEQXVjcDBFWG9scGQwaWJtSjlsOGozVTZPV25BM1Z4ajItZHlCa01EZUgtbWJ6ZmNaX1JnRWM3YS0weEI0b3EyRQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T15:46:49+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "2026 eps financial full guidance quarter raises results revenue third year"
     },
     {
@@ -353,7 +851,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics earnings on deck as Medicare cut worries loom",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0ttX3dJY2ZZbUJPQUd0YkpPWGRLLV92bFdrcVNwY3NXdHRXMTkwVFdob3Nid3otaU93eVpRdzZuLUxiMk05YlJ2eDJUQVhZajB4ZzZZODFnc0Jaellyc2FjU2szVmxpQ1labUhWR3pPQWgzYi14ZXhqUlpkdzhkWS11cU8tNmFCaDE0bXJPQUhseElKVzJyVW5QcFBoZjNGdExGN3VtR2ltbkZibi1wVHpqVmJuRzg?oc=5",
-      "description": "Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com Nigeria",
+      "description": "Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com South Africa",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -373,9 +871,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaVhNa0s3TTdXMU5qbVJndmhmY0dETVhQVTNXc1oxUVhpNUdPekFWNTduUzFPMzNzeS1nbjVXb05JLXNFV0d4QjZCV25KdTVFLUZKa3lSVDJnRDA5WF9OZlMwcDFSUE56U1pQRFkzdEtiNkpiQXl1bEtzQ01fZHdmVDVQbExvdDV5UGl3NGhCVndncmZnX1h3SmpKSG1KenZrN1dmaUljd0RvcEVLQnpyUUlvc3o0S1RDT0dGYXVPY3JfZw?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-10-21T14:42:38+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdFVYekVub1Z2ZUdMbHRyUzRTS20zQXlKRFZUUnpJQV9RYzN5bjBnRm1yV3l2VTk3cVRWazU3YXV6TjVvelhCdWE4UFVBSUFhOU9SZUhjNDFDMGpPNURNUlR5SEhIcUwzdUltMzFNdWN3Z0YtUjB3MHcxODFWdTV2cmZXRmR2cXVQeWRJNVBVQ0lRVXlKbGtDQ3BBZEFzQ1hPT3JrbHBzNkwxZGlLckk5enRvY2NJeThWYVlWMGNOeUUtUQ?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-21T21:49:43+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "cut deck earnings loom medicare worries"
     },
     {
@@ -13094,10 +13598,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 66,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-22T18:17:00+05:30",
-  "next_update_display": "22 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-23T00:17:00+05:30",
+  "next_update_display": "23 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
