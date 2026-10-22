@@ -1,11 +1,353 @@
 {
-  "generated_at": "2026-10-22T10:54:43.959907+05:30",
-  "generated_at_display": "22 Oct 2026, 10:54 AM IST",
-  "item_count": 400,
-  "raw_relevant_item_count": 603,
-  "duplicates_merged": 128,
+  "generated_at": "2026-10-22T17:59:37.146768+05:30",
+  "generated_at_display": "22 Oct 2026, 5:59 PM IST",
+  "item_count": 410,
+  "raw_relevant_item_count": 607,
+  "duplicates_merged": 125,
   "failures": [],
   "items": [
+    {
+      "id": "db33aa4527dbdf0d2008",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 Earnings Beat Expectations, Updates 2",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlVhUUhrbzEtc0laZU43RFN6SkJsdkU3dmV1MnhOSllaek9wazh2cWtjSmszZ0ZDLThNaVVNcFpNemRGZnRDcDEwWDNZWE5DSzNfSWRHeE44Zjg4cE1WQ0N2VFVoS1I0SjJURkhZRndacEVRZ1NZOGJfempCWkdaYUVHdjB1RDVSM1JWMFItWW4wM1hpeWc2MjN6azFGaGRrRGh3NVRzZnpJalNYUElDNFZn?oc=5",
+      "description": "Quest Diagnostics (DGX) Q3 Earnings Beat Expectations, Updates 2 GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-22T12:06:44+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONlVhUUhrbzEtc0laZU43RFN6SkJsdkU3dmV1MnhOSllaek9wazh2cWtjSmszZ0ZDLThNaVVNcFpNemRGZnRDcDEwWDNZWE5DSzNfSWRHeE44Zjg4cE1WQ0N2VFVoS1I0SjJURkhZRndacEVRZ1NZOGJfempCWkdaYUVHdjB1RDVSM1JWMFItWW4wM1hpeWc2MjN6azFGaGRrRGh3NVRzZnpJalNYUElDNFZn?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T12:06:44+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beat earnings expectations updates"
+    },
+    {
+      "id": "bb8c8e61fa14b1a888a4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Reports Q3 Revenue Beat, Boosts Full-Yea",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOW5BX2NtMTAzVVF1UlJHM2R2bWw2bEhUeTEyOGNhRTNiNVdCRDhGcC1sS1p5TW52bU9OZXZwVmdxZGRNMTJVbnlWQnljMUhTYWRfY2c1azBTUnRiR3BJekFSUkcxRVM0ajJBRmJ0M2tWNzF0Qy1hd1o0U0ZVOEs1QkcwSUpzT1RaMDdGbjZ2RXdfX1dXSlBRZlR1Y09sV1ljc1BEal9hQ3dNY3hI?oc=5",
+      "description": "Quest Diagnostics (DGX) Reports Q3 Revenue Beat, Boosts Full-Yea GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-22T11:46:47+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOW5BX2NtMTAzVVF1UlJHM2R2bWw2bEhUeTEyOGNhRTNiNVdCRDhGcC1sS1p5TW52bU9OZXZwVmdxZGRNMTJVbnlWQnljMUhTYWRfY2c1azBTUnRiR3BJekFSUkcxRVM0ajJBRmJ0M2tWNzF0Qy1hd1o0U0ZVOEs1QkcwSUpzT1RaMDdGbjZ2RXdfX1dXSlBRZlR1Y09sV1ljc1BEal9hQ3dNY3hI?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T11:46:47+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beat boosts full revenue yea"
+    },
+    {
+      "id": "8f3b12fd05ea3deff67e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 2026: Volume surge powers a guidance raise",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVU2N3VZdGNBYWRocmlCX3hFejR4LUg0WExDMzAyUzROblE1ZFF5LWVzbldVZS1QWWRCWlJKb2JPblotbktqZ3BOSkxzM2dYY2h1b1RpRW0tVWNKbmdVZDhjU1YzckxULWlQX0hnU1kzYVJSUUlWZjhTaFpTQ1k4ZHFnSjMtYVdHRXlpclBBaHhvMVBKbWZvSw?oc=5",
+      "description": "Quest Diagnostics Q3 2026: Volume surge powers a guidance raise 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "source_domain": "247wallst.com",
+      "published_at": "2026-10-22T11:26:15+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVU2N3VZdGNBYWRocmlCX3hFejR4LUg0WExDMzAyUzROblE1ZFF5LWVzbldVZS1QWWRCWlJKb2JPblotbktqZ3BOSkxzM2dYY2h1b1RpRW0tVWNKbmdVZDhjU1YzckxULWlQX0hnU1kzYVJSUUlWZjhTaFpTQ1k4ZHFnSjMtYVdHRXlpclBBaHhvMVBKbWZvSw?oc=5",
+          "domain": "247wallst.com",
+          "published_at": "2026-10-22T11:26:15+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 guidance powers raise surge volume"
+    },
+    {
+      "id": "f0769e096ab17cc6a5b7",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5",
+      "description": "Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-22T11:15:28+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-22T11:15:28+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 adjusted earnings guidance raises revenue rise"
+    },
+    {
+      "id": "8daf137aebe513c863f4",
+      "company": "Quest Diagnostics",
+      "title": "QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5",
+      "description": "QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings Quiver Quantitative",
+      "source": "Quiver Quantitative",
+      "source_url": "https://www.quiverquant.com",
+      "source_domain": "quiverquant.com",
+      "published_at": "2026-10-22T11:10:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5",
+          "domain": "quiverquant.com",
+          "published_at": "2026-10-22T11:10:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 earnings releases"
+    },
+    {
+      "id": "0ad588d64ce498d320ce",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics falls despite beat and raised guidance",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRW1MQ3dIbDRMdnFTMDFlcDBoeG9QNjZ2OFpsbnBtVGxuaEM0WEpaZkd2dkF3aUVNNHNSZXpJS1czcTVZUWxWRDJnNkhwZEQ3T2JWU1ozcldVTFViZE5DbGRjM21zOVo4bW9VaWV0YkdscjF2bk55SVM0WjJneDg3OWh6NVAzdTM4UHlPWW85V1lzbTI4OG8zdTVKbDFfb29PeTJiV3BQaGJOTTVzcFE?oc=5",
+      "description": "Quest Diagnostics falls despite beat and raised guidance Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-22T11:03:45+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRW1MQ3dIbDRMdnFTMDFlcDBoeG9QNjZ2OFpsbnBtVGxuaEM0WEpaZkd2dkF3aUVNNHNSZXpJS1czcTVZUWxWRDJnNkhwZEQ3T2JWU1ozcldVTFViZE5DbGRjM21zOVo4bW9VaWV0YkdscjF2bk55SVM0WjJneDg3OWh6NVAzdTM4UHlPWW85V1lzbTI4OG8zdTVKbDFfb29PeTJiV3BQaGJOTTVzcFE?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-22T11:03:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beat despite falls guidance raised"
+    },
+    {
+      "id": "544fa3abe37a3f493f66",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTlicU1ZOTFqU0M0UHhZN3pmdmF5cWxCWVNpTEd2RWlGdXR1ZUZDTFpCcDNmVVUxbGtyYlBGcGtFanJMdXI1NVdyVWY0N0Z2ZXE1MWdhYUc2LWZOdXZpTGpCRmh1VmszOUw5UTRRNWxjQ1hWQVRHYWQ2SkRwRXRhckRVVEtmRXlKeFVZWEF2eUExeHJpR3VqQVdQTDdQTHdZMlpuU1lLUzZCUDNNM3l1SWlKaFhIZkdUa3duVmxUbzZyM0w0VTRockpLR0xlVFh3d1pmRWJjYw?oc=5",
+      "description": "(DGX) Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-22T10:59:34+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTlicU1ZOTFqU0M0UHhZN3pmdmF5cWxCWVNpTEd2RWlGdXR1ZUZDTFpCcDNmVVUxbGtyYlBGcGtFanJMdXI1NVdyVWY0N0Z2ZXE1MWdhYUc2LWZOdXZpTGpCRmh1VmszOUw5UTRRNWxjQ1hWQVRHYWQ2SkRwRXRhckRVVEtmRXlKeFVZWEF2eUExeHJpR3VqQVdQTDdQTHdZMlpuU1lLUzZCUDNNM3l1SWlKaFhIZkdUa3duVmxUbzZyM0w0VTRockpLR0xlVFh3d1pmRWJjYw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-22T10:59:34+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "02b 07b 11b 2026 est expects factset range revenue"
+    },
+    {
+      "id": "7cc2458d4dbd74f66874",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics reports unauthorized access to patient records system",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
+      "description": "Quest Diagnostics reports unauthorized access to patient records system StreetInsider",
+      "source": "StreetInsider",
+      "source_url": "https://www.streetinsider.com",
+      "source_domain": "streetinsider.com",
+      "published_at": "2026-10-22T10:58:25+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-22T10:58:25+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access patient records system unauthorized"
+    },
+    {
+      "id": "a7353801516950b50e08",
+      "company": "Quest Diagnostics",
+      "title": "Earnings Flash Quest Diagnostics Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaVd2ZVBJRmFscVhraXk0UTlEQXN0SUdzeEg0SXhLSWg2REZYaDNGTktzc2tLcU5JYjlYUWVQNFhGZ1FHejlxQi11cDA3QmFtUkhzeGdQZTNmV2FoV3Rrb2cyb1lteFNzOU9VV1YwR2VtSWpmbXB2bkRrWUx6NEl3SlRZbUMwMFFZVWNwS1BMRDYzWUgwTWdYczRqRW1EcExmX0d3U3BaRElPYnNTa3p1SHU2eFdRbVQxNldJbk5yUFI2djYzUVZFbnlKWWpzY05uZVlTS2MxVWxsZUtPUm5zWHhn?oc=5",
+      "description": "Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87 marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-22T10:57:55+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaVd2ZVBJRmFscVhraXk0UTlEQXN0SUdzeEg0SXhLSWg2REZYaDNGTktzc2tLcU5JYjlYUWVQNFhGZ1FHejlxQi11cDA3QmFtUkhzeGdQZTNmV2FoV3Rrb2cyb1lteFNzOU9VV1YwR2VtSWpmbXB2bkRrWUx6NEl3SlRZbUMwMFFZVWNwS1BMRDYzWUgwTWdYczRqRW1EcExmX0d3U3BaRElPYnNTa3p1SHU2eFdRbVQxNldJbk5yUFI2djYzUVZFbnlKWWpzY05uZVlTS2MxVWxsZUtPUm5zWHhn?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-22T10:57:55+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "adjusted earnings eps est factset flash per posts share"
+    },
+    {
+      "id": "559429880e5656fb0967",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: Q3 Earnings Snapshot",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9JSHgyZVlIYnV2V25uczNZRnd2b2V0cVFfdVk1QkVDd25FUTVMWFl1RGczb1N6Y1NrdUswQ3JKcWxDTy1EYnZoN3dwSWJ0X1NCRXVKdlo3Mm1kUEkwOVR1OHpWZmhqN3pxRTBCUjBYVkJhMUZxSWJXV0JORjhqTGhPd1JmZU95cFNkU3ppVTdxZExxRkx6bGdNYXpaNWtfUXRsekFB?oc=5",
+      "description": "Quest Diagnostics: Q3 Earnings Snapshot Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T10:57:17+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9JSHgyZVlIYnV2V25uczNZRnd2b2V0cVFfdVk1QkVDd25FUTVMWFl1RGczb1N6Y1NrdUswQ3JKcWxDTy1EYnZoN3dwSWJ0X1NCRXVKdlo3Mm1kUEkwOVR1OHpWZmhqN3pxRTBCUjBYVkJhMUZxSWJXV0JORjhqTGhPd1JmZU95cFNkU3ppVTdxZExxRkx6bGdNYXpaNWtfUXRsekFB?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T10:57:17+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings snapshot"
+    },
+    {
+      "id": "4ec587249bf6d1a31e26",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics earnings beat by $0.13, revenue topped estimates",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnhfeWxBWUlleVZZLUE3SkJ5WXgtSDBBSXAxS05CSUFZdkx0OVFISkpYLVdfZ3h4RXBMMzlzS01yR2tGWlBfUWlRcV8wMjVuNk5jdGdqc1dJU3E5Y1hLOGpBdHd0ODNpcW5CUVgzUUt5YS01M2k1WGkzYmNPNGkwMVhtbzVIaU54YUhQVkpaempBZ2hUS3FPc3l4TGttY2JkRXprM0YwZVcyTEFwSDNxNA?oc=5",
+      "description": "Quest Diagnostics earnings beat by $0.13, revenue topped estimates Investing.com Australia",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-22T10:52:30+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnhfeWxBWUlleVZZLUE3SkJ5WXgtSDBBSXAxS05CSUFZdkx0OVFISkpYLVdfZ3h4RXBMMzlzS01yR2tGWlBfUWlRcV8wMjVuNk5jdGdqc1dJU3E5Y1hLOGpBdHd0ODNpcW5CUVgzUUt5YS01M2k1WGkzYmNPNGkwMVhtbzVIaU54YUhQVkpaempBZ2hUS3FPc3l4TGttY2JkRXprM0YwZVcyTEFwSDNxNA?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-22T10:52:30+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lTdmExWm1YbVhVWk4wbGdDSDJ3SnhhOWZOOG1pdHVyOU1PR09HbUdkaWVDeHZ1SkZnVVFObENOYjJRZUszejI3NktXS1V0QnRNLUNidDBPM3BDUkhVN1d3S1IzREJabk9GVXA2NjkwOFNVY24xc21jeDhnbXV0ZzJHMDBtMXd3MTM2cEtwUThmRVBTc3NoRWpUS1N0bDVoWmZtWFEwRk91OC0wLVpF?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-10-22T10:52:57+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "beat earnings estimates revenue topped"
+    },
+    {
+      "id": "a6823e3c72fdedcd95b3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Tops Q3 EPS by 13c; raises guidance",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWNKb1B1LV9qbmZlaTlELXpva05ZODJMSW82TlR4R04zZmk4R3YyMVVGZ0JDZU5ZRUJTbTJaZjRydUpZVEExS2pVQjZkM3JoUnFISTdlM1J2QW11ekppeE85YW03ZmlzRTBDZEx6ZzE2T0RBTjJISXg0c1ZPRGJYQlk5cWVGVWRWNzJIYUVWWE5GT0g1T2ROeHAzU01rMlBHVllKUU9LR2VEMUJYRjFQa1dpcU9COWExOFE?oc=5",
+      "description": "Quest Diagnostics (DGX) Tops Q3 EPS by 13c; raises guidance StreetInsider",
+      "source": "StreetInsider",
+      "source_url": "https://www.streetinsider.com",
+      "source_domain": "streetinsider.com",
+      "published_at": "2026-10-22T10:50:14+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWNKb1B1LV9qbmZlaTlELXpva05ZODJMSW82TlR4R04zZmk4R3YyMVVGZ0JDZU5ZRUJTbTJaZjRydUpZVEExS2pVQjZkM3JoUnFISTdlM1J2QW11ekppeE85YW03ZmlzRTBDZEx6ZzE2T0RBTjJISXg0c1ZPRGJYQlk5cWVGVWRWNzJIYUVWWE5GT0g1T2ROeHAzU01rMlBHVllKUU9LR2VEMUJYRjFQa1dpcU9COWExOFE?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-22T10:50:14+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13c eps guidance raises tops"
+    },
+    {
+      "id": "ef3ca094bb0d0aef0190",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOU1pHVnVuaF9lN2VuWlVNQXBQemFINzlHa0U2c2tYTXM2QTRFakJXV1hTamNsclNGV211YUoxV3kzTUpvN21lZmctN0pMbmk4V2VxUDVzZU54SVI2WURoV1F4Rnp4OFNLSUlZTDU2QUFoZHJlZlQ3T2diTUVUZm53ZW5SNHNReVE4OU1PQ084SW1PQXJMVVJoc3JzRXhqZFNpc1pYdTRkM3V5WGV6eEdXcmZOVFlKdGp3dTFncENGVENsd1JXUEFvVHZ4dUNnZ1lJaGRkZG56ZjM4cUUzLTB6RGMybkRUdnAtYTNIMnVjN25YNWRrMjhuZzBQREJNdnNzVXFUaQ?oc=5",
+      "description": "Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 Morningstar",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "source_domain": "morningstar.com",
+      "published_at": "2026-10-22T10:46:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOU1pHVnVuaF9lN2VuWlVNQXBQemFINzlHa0U2c2tYTXM2QTRFakJXV1hTamNsclNGV211YUoxV3kzTUpvN21lZmctN0pMbmk4V2VxUDVzZU54SVI2WURoV1F4Rnp4OFNLSUlZTDU2QUFoZHJlZlQ3T2diTUVUZm53ZW5SNHNReVE4OU1PQ084SW1PQXJMVVJoc3JzRXhqZFNpc1pYdTRkM3V5WGV6eEdXcmZOVFlKdGp3dTFncENGVENsd1JXUEFvVHZ4dUNnZ1lJaGRkZG56ZjM4cUUzLTB6RGMybkRUdnAtYTNIMnVjN25YNWRrMjhuZzBQREJNdnNzVXFUaQ?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-10-22T10:46:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 eps financial full guidance quarter raises results revenue third year"
+    },
+    {
+      "id": "e27021cea6e4f79ec8df",
+      "company": "Labcorp",
+      "title": "BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUk5NlhtemJacTNncVFELTZ2cktaZTVzeTZkSUIyUEtPTzFOMjVMcHBFR1lic1hhbHkxRExBU3JTb2MyakhkSE00WWp6dnZRUzM2VlcxUEdYSTdTUFFSdE1qQkVGVjJJN1Nqd2YzMmRzMEY2VFlpamJRVEJhZjRvV0h2LTJ3MENjaGdjMmNYOFZqbHR5QjExSy1QZ0wzNDZWZnY2bXpGYVJHM1o3Q1pYUGtyYXVNdkpRU3RfN1BwQmRTVTZESW9wc3pMTmVDb011YTFqVUc3LVItUlVLRjVzbWhqcEJLbnV3SjZMSnEzRmhuWDBQMVlXamJVSHdHNW1D?oc=5",
+      "description": "BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp Utah Money Watch",
+      "source": "Utah Money Watch",
+      "source_url": "https://www.utahmoneywatch.com",
+      "source_domain": "utahmoneywatch.com",
+      "published_at": "2026-10-21T17:05:30+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Utah Money Watch",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRUk5NlhtemJacTNncVFELTZ2cktaZTVzeTZkSUIyUEtPTzFOMjVMcHBFR1lic1hhbHkxRExBU3JTb2MyakhkSE00WWp6dnZRUzM2VlcxUEdYSTdTUFFSdE1qQkVGVjJJN1Nqd2YzMmRzMEY2VFlpamJRVEJhZjRvV0h2LTJ3MENjaGdjMmNYOFZqbHR5QjExSy1QZ0wzNDZWZnY2bXpGYVJHM1o3Q1pYUGtyYXVNdkpRU3RfN1BwQmRTVTZESW9wc3pMTmVDb011YTFqVUc3LVItUlVLRjVzbWhqcEJLbnV3SjZMSnEzRmhuWDBQMVlXamJVSHdHNW1D?oc=5",
+          "domain": "utahmoneywatch.com",
+          "published_at": "2026-10-21T17:05:30+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "210 breaking business cash expansion genetics million myriad prenatal reversing sell testing utah will years"
+    },
     {
       "id": "e6b5055323d51073541a",
       "company": "Quest Diagnostics",
@@ -41,7 +383,7 @@
       "company": "Labcorp",
       "title": "Labcorp Declares Quarterly Dividend",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
-      "description": "Labcorp Declares Quarterly Dividend Yahoo Finance",
+      "description": "Labcorp Holdings Inc. (LH) Declares $0.72 Quarterly Dividend TradingView",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -61,9 +403,27 @@
           "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-10-21T10:50:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVdVTGFRbFVaSFdqU0RUdGw5b0NfOXhuckQ0NmxOVkFwWElzUVFnN2dEdUxybjZudUstQ1Y2NW50cmoxd3FNVjFpQ3dzdzdtajdQZmRKNWdMM0ZJeEZFMXY0dnNoTW5nTWlaOEg3RGxEM3k5bkoydmN1RnpiVGE2V3Y0ZHBoeVFSTnUycWpoR2J4Ui1hUlVGdUdfZ2RNdy1ub3BoMzFKbVZMWVNtbHBYYWcwR3FqeVZ5QXc?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-21T10:50:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjJWdjRxNHRONjZkdkkwcnFaVWpSSk0xQ1dYN2l0VWtVQTdWeHhObTNvbHBCeUc3QjUyLTlYcFJIQnowTktGbEdrYjQtdkh0ckVEQVhhekZ3cFVvU3FPQ242WU1UVnRvdlg5Zm81TklGbExDNldMVXVjdUx4REw1djFONE4xamdHdHZheUlmRVVoWkR6VFpVaXl5ekRaLTNlWmw4eTQzbXlRN0VNSGxjNGJSRW1ZV2JD?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-21T10:53:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-21T10:54:08+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 5,
       "event_signature": "declares dividend quarterly"
     },
     {
@@ -113,6 +473,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "250 lifts stock target ubs usd"
+    },
+    {
+      "id": "ab1b70a1e29eb2d0c1aa",
+      "company": "Labcorp",
+      "title": "Labcorp acquisition spree continues",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5",
+      "description": "Labcorp acquisition spree continues BioWorld News",
+      "source": "BioWorld News",
+      "source_url": "https://www.bioworld.com",
+      "source_domain": "bioworld.com",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioWorld News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5",
+          "domain": "bioworld.com",
+          "published_at": "2026-10-20T16:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition continues spree"
     },
     {
       "id": "ccd9ededd7fb576356c1",
@@ -1015,36 +1399,6 @@
       "event_signature": "can far how margins rebuild"
     },
     {
-      "id": "53e98588309ae640bc94",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblhBS1VESW52cXRkV2x3SUxvNjZHYTBVSm5zY255a1M1TkpPOGk2RGJWOHE3OGhfSTNkNjdpdlZwRzVOclZTcVZpbnpOcGU0a3ZHdmxDZVBTUl9RNXVhNjFsUUxGSFhLVHEwdUFwTEx3NUtFaHhtbzZ0eTc0ME0wQXB4SVNDNlRrQ1hsUk56Wi1PT0R4azZxSmZWMkFrbXktcmZGc2ZrbE9hOWFiMHhPeWluMUNscHVTd0ZOeXBtZmtRa0hVTWQtZlVBUFdrZ0g3eExmR0wtNWl1aDcwZFBWd2NWd3JyenZyWU41TjZTcDlacW9OdVZCdkRGU0JZY1lnc1F2alVtT18xQQ?oc=5",
-      "description": "Quest Diagnostics Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch",
-      "source": "MarketWatch",
-      "source_url": "https://www.marketwatch.com",
-      "source_domain": "marketwatch.com",
-      "published_at": "2026-10-14T20:59:00+00:00",
-      "published_display": "14 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblhBS1VESW52cXRkV2x3SUxvNjZHYTBVSm5zY255a1M1TkpPOGk2RGJWOHE3OGhfSTNkNjdpdlZwRzVOclZTcVZpbnpOcGU0a3ZHdmxDZVBTUl9RNXVhNjFsUUxGSFhLVHEwdUFwTEx3NUtFaHhtbzZ0eTc0ME0wQXB4SVNDNlRrQ1hsUk56Wi1PT0R4azZxSmZWMkFrbXktcmZGc2ZrbE9hOWFiMHhPeWluMUNscHVTd0ZOeXBtZmtRa0hVTWQtZlVBUFdrZ0g3eExmR0wtNWl1aDcwZFBWd2NWd3JyenZyWU41TjZTcDlacW9OdVZCdkRGU0JZY1lnc1F2alVtT18xQQ?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-10-14T20:59:00+00:00"
-        },
-        {
-          "name": "MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkl4X25BTnJhMzQ3OHdLdnJTZFY0ekRKRkVBWXh6ZUVwNi03N2xpMkxpY2VHeDI5VjF1TU9BQUVwYkJidTB1VmlDM0oyNGd3b3RFMlAxeW9ZNlpyVHB4YWpqS1NhTDMxd3lGeFJ5QmJYQkJLTHA5Q0JzSFpnZXFjcUdWZ0lDRWhNRzZjbVhCMlJXZ21YRzR6ZFZFbzNBbFVJWjgyR2JMbUg0QkNBTW5tUUNUNzJ3bVJiQ2tKZXc0Q2pXWmVIQjVqaDdCNEEyOElvTUxv?oc=5",
-          "domain": "marketwatch.com",
-          "published_at": "2026-10-16T20:57:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "compared competitors daily despite gains stock underperforms wednesday when"
-    },
-    {
       "id": "1960de34e102e81b6005",
       "company": "Mayo Clinic Laboratories",
       "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
@@ -1193,6 +1547,42 @@
       ],
       "coverage_count": 2,
       "event_signature": "earnings outperformers rest services stocks testing"
+    },
+    {
+      "id": "c4c6a9b86f4535b76d89",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa0NJMzdZYTd0YkxlaHVqM0VBRW9uR0ZfUmcyR3Z4NzBTWEhvSXU4Y2RHMGtTZ1F2aWhabHVKOVdyLV9qN2NsakZPMHFFRHJSSUFSb0ZoQ2tJcjF0ZnVkd3NfenFDWHZFVWRzSENfLXVFMXZRNF9YSlFYWFZNMEpBc200UU1ZVHU1cW04M1gxQi1vS3dFOGxrbkZ4WkVpZkhiQWs5U3pQR0VXQzhwVmF1N3hiRWl3UUhYdmNZSVNYa2NuaC1JRzRLeXlwYm9wUXdBUTZoY29jdWpMY2J4MngtR3lUSU5qMWdadnBNSUkyUDVXdw?oc=5",
+      "description": "Quest Diagnostics Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch",
+      "source": "MarketWatch",
+      "source_url": "https://www.marketwatch.com",
+      "source_domain": "marketwatch.com",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa0NJMzdZYTd0YkxlaHVqM0VBRW9uR0ZfUmcyR3Z4NzBTWEhvSXU4Y2RHMGtTZ1F2aWhabHVKOVdyLV9qN2NsakZPMHFFRHJSSUFSb0ZoQ2tJcjF0ZnVkd3NfenFDWHZFVWRzSENfLXVFMXZRNF9YSlFYWFZNMEpBc200UU1ZVHU1cW04M1gxQi1vS3dFOGxrbkZ4WkVpZkhiQWs5U3pQR0VXQzhwVmF1N3hiRWl3UUhYdmNZSVNYa2NuaC1JRzRLeXlwYm9wUXdBUTZoY29jdWpMY2J4MngtR3lUSU5qMWdadnBNSUkyUDVXdw?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQblhBS1VESW52cXRkV2x3SUxvNjZHYTBVSm5zY255a1M1TkpPOGk2RGJWOHE3OGhfSTNkNjdpdlZwRzVOclZTcVZpbnpOcGU0a3ZHdmxDZVBTUl9RNXVhNjFsUUxGSFhLVHEwdUFwTEx3NUtFaHhtbzZ0eTc0ME0wQXB4SVNDNlRrQ1hsUk56Wi1PT0R4azZxSmZWMkFrbXktcmZGc2ZrbE9hOWFiMHhPeWluMUNscHVTd0ZOeXBtZmtRa0hVTWQtZlVBUFdrZ0g3eExmR0wtNWl1aDcwZFBWd2NWd3JyenZyWU41TjZTcDlacW9OdVZCdkRGU0JZY1lnc1F2alVtT18xQQ?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-14T20:59:00+00:00"
+        },
+        {
+          "name": "MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTkl4X25BTnJhMzQ3OHdLdnJTZFY0ekRKRkVBWXh6ZUVwNi03N2xpMkxpY2VHeDI5VjF1TU9BQUVwYkJidTB1VmlDM0oyNGd3b3RFMlAxeW9ZNlpyVHB4YWpqS1NhTDMxd3lGeFJ5QmJYQkJLTHA5Q0JzSFpnZXFjcUdWZ0lDRWhNRzZjbVhCMlJXZ21YRzR6ZFZFbzNBbFVJWjgyR2JMbUg0QkNBTW5tUUNUNzJ3bVJiQ2tKZXc0Q2pXWmVIQjVqaDdCNEEyOElvTUxv?oc=5",
+          "domain": "marketwatch.com",
+          "published_at": "2026-10-16T20:57:00+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "compared competitors daily despite gains stock underperforms wednesday when"
     },
     {
       "id": "558c1f44f46297eecf92",
@@ -2851,30 +3241,6 @@
       "event_signature": "2019 breach data doj million over settlement wisconsin"
     },
     {
-      "id": "7d1f5e90b73ad70b74ab",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock gains 1.48 percent after Truist raises target",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
-      "description": "Quest Diagnostics stock gains 1.48 percent after Truist raises target ad-hoc-news.de",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-25T09:25:49+00:00",
-      "published_display": "25 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-25T09:25:49+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after gains percent raises stock target truist"
-    },
-    {
       "id": "0c434106aba31744f9c1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?",
@@ -2939,6 +3305,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 615 hit joins settlement wisconsin"
+    },
+    {
+      "id": "7d1f5e90b73ad70b74ab",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock gains 1.48 percent after Truist raises target",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
+      "description": "Quest Diagnostics stock gains 1.48 percent after Truist raises target ad-hoc-news.de",
+      "source": "AD HOC NEWS",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-09-25T07:00:00+00:00",
+      "published_display": "25 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZUM1ZFNCTEd5NEM0cHJnTXFEV1lVYWU4eFJWczc2Q2FCTS04VE1mbGVHR1huX0l4UExNUl9NLUhxUGRzUGFSUEhHdXdlRGRoSVpROU9Bc2VzT3JJMUk1QURQb0c3UTFUT2RCbExTMUUwUGpHRTRJcm1WVkpFbThBX2tMQ0tfWWswWV9VdnJfNUJWQUh0Z3RFa3RVVFJfSl92RzhXalFwR3AzeGFzVHc1M3FndnBlXzRmQmV4dmE4X1BrWVJUSmNxZmxDMVY?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-25T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after gains percent raises stock target truist"
     },
     {
       "id": "19ae2e77d8e5cce4a8bf",
@@ -4141,9 +4531,15 @@
           "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVGJldTZLSFZXcERLZmUxSzZ3T1M3VWsyYWczdHo1aUk1ejR3dm1uZ2hMWGhSYk4xM2IxRWxMdTFxTnZEUHdzSGpqcUp5WFFiMUQ2d19XemhsWVNLQVFvS1pXVmFmYTBuMEFld3pWOXVNTmFud0MzY2JEYXpmOVZ1WElBMF9Dc1BuV0JxMGkyS0Z1dGhhQ3pGcE83Ylg4Z3hDaE9ITFhUSFMxN2hGUVJHVndDeDZERE5XQlVKdGh4LXBUbmdqZTVTQjJXUkFJcUJSWVh0SHpTSHBPYV9xcmJ2SDRJQTNNZXAyTElZejhFTi1QREMyQkI4R0FwLVVMWEZWX2d5MjVqSDlLQmM4MHhsdmVR?oc=5",
           "domain": "kinston.com",
           "published_at": "2026-09-22T20:28:00+00:00"
+        },
+        {
+          "name": "Block Island Times",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQUWtfYklhTVZXR0lUbDVCVzc4Qm5CUjQxUkdSWmpPMTNVTlZadTFJWkcxemc1M2xHNjRPdVlCOFdocnZscWR4TXoyaWRpS3RxbjNLUEJkZWZXaWdVRWxGdE1nQXVfcEJnZXNJMnBjOEhBV2FxQWZ6OHg3OWJ5NGNxdWx6eVJnWEVWRkI2bjloR091UFVRQlBUWXQ0VXpEeDlYandTM21neHJvX2FHREJTNFh0YTVZNDgyVHFkY1pvT2toaTVHaFkyaDY4R2JHUHYwX2E0UExfWUNCcHdNVHN3Zm00RHl1ZFpfTHZwTXcwS3QzTmhKYTBHWXBrYkRvSW0zelRpQ2ZsWmRyay1lbkRsNHlSZUQ1a0hOc2FxenVB?oc=5",
+          "domain": "blockislandtimes.com",
+          "published_at": "2026-09-22T20:28:00+00:00"
         }
       ],
-      "coverage_count": 8,
+      "coverage_count": 9,
       "event_signature": "2026 financial october quarter release results third"
     },
     {
@@ -12696,157 +13092,12 @@
       "summary_evidence": [
         "https://www.tradingkey.com/markets/stocks/dgx/earnings"
       ]
-    },
-    {
-      "id": "cf76d1979ce6b46d85e5",
-      "company": "Labcorp",
-      "title": "Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp Investors?",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5",
-      "description": "Yahoo Finance/Simply Wall St reported that analysts had made a modest upward revision to Labcorp’s earnings estimates ahead of the company’s June-quarter 2026 results, reflecting somewhat greater confidence in near-term revenue and profit growth. The article treated the estimate changes as an investment-narrative update rather than company-issued guidance. It argued that Labcorp’s core case depends on its broad diagnostics and biopharma laboratory footprint converting steady test demand and newer offerings into earnings growth despite reimbursement and regulatory pressure. The piece highlighted ColoSense, Labcorp’s FDA-approved at-home RNA-based colorectal-cancer screening test, and noted expanded Medicare coverage as a potential volume catalyst. It also referenced Alzheimer’s blood testing and data-platform capabilities as newer offerings that could bring higher-value testing through Labcorp’s network. The principal risk identified was reimbursement policy, including potential PAMA and competitive-bidding changes that could pressure pricing and margins. Simply Wall St’s narrative model projected about $16.3 billion of revenue and $1.3 billion of earnings by 2029, while three community fair-value estimates ranged from roughly $260 to $528 per share. Those projections and valuations are third-party assumptions, not Labcorp forecasts. The article’s main factual conclusion was that analyst estimates had improved slightly, without materially changing the balance between Labcorp’s growth opportunities and reimbursement risk.",
-      "source": "Yahoo Finance",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR2cySHVrenNPcm9ncHN2LVpRZ0I3Z010RmpmdDFKNWZxeEl3bktHd1JCaWl3enVuLTBkM1UzN1B6ZVhBd3FjTml0QldNSDZxbDhTSzh3YlhRam9xTHowajREMC1scXFycW5SWlRaZk00SllGY08yT2xaQjRtM2ItMm9GaFRrQ3F5VHBSODkzRFV6UUhHdHFBdUJyc3RxSFhWSmNNcU1qamwxUQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-24T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "action analyst earnings investors outlook require should upgrades",
-      "source_description": "Should Analyst Upgrades to Earnings Outlook Require Action From Labcorp (LH) Investors? finance.yahoo.com",
-      "chatgpt_summary": "Yahoo Finance/Simply Wall St reported that analysts had made a modest upward revision to Labcorp’s earnings estimates ahead of the company’s June-quarter 2026 results, reflecting somewhat greater confidence in near-term revenue and profit growth. The article treated the estimate changes as an investment-narrative update rather than company-issued guidance. It argued that Labcorp’s core case depends on its broad diagnostics and biopharma laboratory footprint converting steady test demand and newer offerings into earnings growth despite reimbursement and regulatory pressure. The piece highlighted ColoSense, Labcorp’s FDA-approved at-home RNA-based colorectal-cancer screening test, and noted expanded Medicare coverage as a potential volume catalyst. It also referenced Alzheimer’s blood testing and data-platform capabilities as newer offerings that could bring higher-value testing through Labcorp’s network. The principal risk identified was reimbursement policy, including potential PAMA and competitive-bidding changes that could pressure pricing and margins. Simply Wall St’s narrative model projected about $16.3 billion of revenue and $1.3 billion of earnings by 2029, while three community fair-value estimates ranged from roughly $260 to $528 per share. Those projections and valuations are third-party assumptions, not Labcorp forecasts. The article’s main factual conclusion was that analyst estimates had improved slightly, without materially changing the balance between Labcorp’s growth opportunities and reimbursement risk.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/markets/stocks/articles/analyst-upgrades-earnings-outlook-require-121328961.html"
-      ]
-    },
-    {
-      "id": "bb7ce2e5ae90abbc934d",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Soars to 52-Week High, Time to Cash Out?",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Soars to 52-Week High, Time to Cash Out? finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSC1Gb3lHbkJVLUFiNWd3N3RvQkgzVVhBdGRSZWFtMXlKTjZnVHE4NzdoQTRxWXl4dWhSM2twcjRmQXVLbkV0d3Q2ckltLUJBM1lSWGdBSnRhX050d21FV1pLOTQtYUkzS1RLNE9xV2JpNUNDV2wzZDRVREtDRkxWWGpJVzhBQmxBOXRpR2VuX0hEQmVuY1ZhN1RMSEYwdVp4ZFBkVmhvUVM?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-24T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "cash high out soars time week"
-    },
-    {
-      "id": "000944de40fb8759e486",
-      "company": "Quest Diagnostics",
-      "title": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics and MindWalk (HYFT)",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5",
-      "description": "Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX) and MindWalk Holdings (HYFT) theglobeandmail.com",
-      "source": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com",
-      "source_domain": "theglobeandmail.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUnJmZ0ZpTjUzT28xY1o3bWFURHlQejVnNzRCaWFUdnpHdGZpWnFLTUQ0N1NhVjFkQndYSFhtTTNSQldJaXBlWDhBQW1XVi1HYzM4SHVZa3ZoeXV6cXdYbFpDMTZWNGlvQ0Jic0duQ3JBTWhJNE5ybnVzZ1FzX2FXWm9jaDRKQlRNVHJBRUpKd0lVR1R3TFg2eXpzQmctRk9hdFVidjkxRUREV3l1TXA2UmRFdFhqRHUzN1NRcDdGeFdLNzNRdDFhcWduWlBBSkVNTUJ1b2xjaXlOQjdqWkxNdUpjWkJBa2VPeXBDOHB2cGJlRWJvWnJJdEVEbWttelAybFUtRW10MmpnZUpl?oc=5",
-          "domain": "theglobeandmail.com",
-          "published_at": "2026-07-24T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "analysts companies hyft insights mindwalk offer"
-    },
-    {
-      "id": "277f41b8ca07db3a1e07",
-      "company": "Quest Diagnostics",
-      "title": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics is a Great Choice",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5",
-      "description": "Zacks Equity Research’s July 24, 2026 market commentary argued that Quest Diagnostics was showing positive share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. At publication, the shares had risen 1.56% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.41% gain, and were up 10.5% over one month versus 7.08% for the industry. Quest shares had advanced 17.35% over the preceding three months and 32.58% over one year, compared with S&P 500 gains of 4.48% and 17.65%, respectively. Average 20-day trading volume was 1,013,849 shares. The article also pointed to upward earnings-estimate revisions: over the prior two months, one full-year estimate moved higher and none moved lower, lifting the consensus full-year estimate from $10.70 to $10.72 per share. For the next fiscal year, one estimate was revised upward and none downward over the same period. Based on those price trends and estimate revisions, Zacks characterized Quest as a momentum candidate. The article is investment analysis and does not announce a new laboratory product, acquisition, partnership, clinical result or company-issued guidance change.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWZvOXRrSHNXcGc0N3FWRUhqWHhVRTRHdjNRWmstX1JjTE5XWXNqZmNzZHQ2aEM0Z2wydy0zQk1QcW1wRkU3N1cwWnM1bnBVNUpEZGE1NTdpOGJoeU5uZ05HNGZUQmlVRkxGemdmQWZRc2x4SWRPdmNDcDhwMEt3eTJqV2hjbjVVRms3ZWtySlRiTE1MbExxeUN3?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-24T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "are choice great looking momentum pick top why you",
-      "source_description": "Are You Looking for a Top Momentum Pick? Why Quest Diagnostics (DGX) is a Great Choice finance.yahoo.com",
-      "chatgpt_summary": "Zacks Equity Research’s July 24, 2026 market commentary argued that Quest Diagnostics was showing positive share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. At publication, the shares had risen 1.56% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.41% gain, and were up 10.5% over one month versus 7.08% for the industry. Quest shares had advanced 17.35% over the preceding three months and 32.58% over one year, compared with S&P 500 gains of 4.48% and 17.65%, respectively. Average 20-day trading volume was 1,013,849 shares. The article also pointed to upward earnings-estimate revisions: over the prior two months, one full-year estimate moved higher and none moved lower, lifting the consensus full-year estimate from $10.70 to $10.72 per share. For the next fiscal year, one estimate was revised upward and none downward over the same period. Based on those price trends and estimate revisions, Zacks characterized Quest as a momentum candidate. The article is investment analysis and does not announce a new laboratory product, acquisition, partnership, clinical result or company-issued guidance change.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-18T12:35:53+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/markets/stocks/articles/looking-top-momentum-pick-why-160003584.html"
-      ]
-    },
-    {
-      "id": "e41108bab7e6cfc51f45",
-      "company": "Labcorp",
-      "title": "LabCorp revenues 2013-2025",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5",
-      "description": "Statista’s updated Labcorp revenue series extends the company’s historical chart through 2025 and reports that annual revenue reached nearly $14 billion in 2025, while the chart’s historical peak was above $16 billion in 2021. Labcorp’s 2025 Form 10-K confirms current-period revenue of $13.9517 billion, up 7.2% from $13.0089 billion in 2024; 2023 revenue was $12.1616 billion. Management attributed the 2025 increase primarily to 4.4% organic growth, 2.5% from acquisitions net of divestitures and 0.4% from favorable foreign-currency translation. Diagnostics Laboratories generated $10.8765 billion, up 7.2%, while Biopharma Laboratory Services produced $3.0982 billion, up 6.0%. Historical comparisons require care because Labcorp spun off Fortrea in June 2023. Statista’s long-run chart retains the older historical presentation and identifies 2021 as the peak above $16 billion, whereas Labcorp’s current investor-relations financial series presents continuing-operations revenue on a restated basis after the separation. The article is therefore best read as a long-term revenue-history reference rather than a new earnings release. On the current reporting basis, Labcorp entered 2026 after three consecutive annual revenue increases from 2023 through 2025, with recent growth supported by both organic demand and acquisitions.",
-      "source": "Statista",
-      "source_url": "https://www.statista.com",
-      "source_domain": "statista.com",
-      "published_at": "2026-07-24T07:00:00+00:00",
-      "published_display": "24 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Statista",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yTVRRM2oxdUZqeTQyQkxOZFFPLWNMeGNrSjJuS2pEeFdvcGNzS0lKYTVQMF9jdW42cVhqeEd4dVJXMkdsYVVydzJfeHpJdFFMM2ZDSGRqWXBUNk05VjI0RVJ4QnNSNi1TS1VB?oc=5",
-          "domain": "statista.com",
-          "published_at": "2026-07-24T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2013 2025 revenues",
-      "source_description": "LabCorp revenues 2013-2025 Statista",
-      "chatgpt_summary": "Statista’s updated Labcorp revenue series extends the company’s historical chart through 2025 and reports that annual revenue reached nearly $14 billion in 2025, while the chart’s historical peak was above $16 billion in 2021. Labcorp’s 2025 Form 10-K confirms current-period revenue of $13.9517 billion, up 7.2% from $13.0089 billion in 2024; 2023 revenue was $12.1616 billion. Management attributed the 2025 increase primarily to 4.4% organic growth, 2.5% from acquisitions net of divestitures and 0.4% from favorable foreign-currency translation. Diagnostics Laboratories generated $10.8765 billion, up 7.2%, while Biopharma Laboratory Services produced $3.0982 billion, up 6.0%. Historical comparisons require care because Labcorp spun off Fortrea in June 2023. Statista’s long-run chart retains the older historical presentation and identifies 2021 as the peak above $16 billion, whereas Labcorp’s current investor-relations financial series presents continuing-operations revenue on a restated basis after the separation. The article is therefore best read as a long-term revenue-history reference rather than a new earnings release. On the current reporting basis, Labcorp entered 2026 after three consecutive annual revenue increases from 2023 through 2025, with recent growth supported by both organic demand and acquisitions.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-22T06:49:47+05:30",
-      "summary_evidence": [
-        "https://www.statista.com/statistics/859710/labcorp-revenue/",
-        "https://www.statista.com/recent/statistics/p/63/",
-        "https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/lh-20251231.htm"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 69,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-22T12:17:00+05:30",
-  "next_update_display": "22 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-22T18:17:00+05:30",
+  "next_update_display": "22 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

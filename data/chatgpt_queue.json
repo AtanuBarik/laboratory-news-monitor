@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T12:02:40.146109+05:30",
-  "generated_at_display": "22 Oct 2026, 12:02 PM IST",
+  "generated_at": "2026-10-22T17:59:41.964396+05:30",
+  "generated_at_display": "22 Oct 2026, 5:59 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 313,
+  "remaining_unsummarized_count": 326,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,25 @@
         {
           "name": "Traders Union",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaGkxZll6UFFKWExxX0cta3EtdnRPYjVkcGVHbkFseUZ6bEdzVXlGRElQdG9WZXRmcTh6dkVrRTgySTRGZ3JvX0dfczEyQXl3WndVbmVnWUhBN0dQOVBUZkt2d2ctMi1sSk5xV0JoNXNmTGdNY3dFZjRXMVdrN19rZFUtZDEzSk5tY3BnQm5OeHFoRVBD?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ab1b70a1e29eb2d0c1aa",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp acquisition spree continues",
+      "source": "BioWorld News",
+      "description": "Labcorp acquisition spree continues BioWorld News",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5",
+      "sources": [
+        {
+          "name": "BioWorld News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5"
         }
       ]
     },
@@ -688,25 +707,6 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0060ca4454ac659b4f79",
-      "company": "Sonic Healthcare",
-      "category": "Partnership, M&A",
-      "title": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power",
-      "source": "marketscreener.com",
-      "description": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com",
-      "published_at": "2026-08-21T06:53:38+00:00",
-      "published_display": "21 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
         }
       ]
     }
