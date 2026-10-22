@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T03:29:12.685513+05:30",
-  "generated_at_display": "22 Oct 2026, 3:29 AM IST",
-  "item_count": 401,
-  "raw_relevant_item_count": 601,
-  "duplicates_merged": 121,
+  "generated_at": "2026-10-22T10:54:43.959907+05:30",
+  "generated_at_display": "22 Oct 2026, 10:54 AM IST",
+  "item_count": 400,
+  "raw_relevant_item_count": 603,
+  "duplicates_merged": 128,
   "failures": [],
   "items": [
     {
@@ -283,9 +283,15 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1BBdy1ZXzA0Zi1nTjYxc0V1ckdzWWw4RE1YakQ1anFfU2NvQzlSZ0d3dGtyNmtzRk9aSkx4MzVZdUVyczFVU0VzWkRUbHA4bUdid0loNnM1alR4V0t3MjlCMjY1QnVnV3doOEN6M19BdFBkajFjNXdGT0N1QkkyeDZ2blRkTTRUWXZUNGJKRHRJYlBfeFNHN2xQakdPU0Nw?oc=5",
           "domain": "fiercebiotech.com",
           "published_at": "2026-10-21T06:18:06+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVFVOWpnYjMyZW9wRVpGT2NVdEtwdy1aeS1STGFJdFdkd3NyUGhXdzE5R29jVGxGWUo1cTZRWnFvc21wQWphMFNLRUNWZEZLWXZFLWlQamRESGxRenhGa3RnM1FYbVZ2d2RKczVyR1FOa2RvWFJjUXhpaGhTTE9zbXBRejFSb1VCWHBuNktRQ01yYmYwNEFYWlI4Tm9RYmx0SjFha0cwYnFqNWNCQXZld1FsaG42ZFNSdW1vQ0ZMMUhrcTF4WVFWekxBaWJCdHUxRU0w?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-20T12:42:10+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
     },
     {
@@ -1279,9 +1285,15 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-13T12:53:50+00:00"
+        },
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlhfQllEeEFCQWRaaW14UWlGS2Z1cGlxV2dTQkloSXdxS1dQT0NmUHlfMHNCSUlmSHNlR2JQTU1jcGZ1MmMtUUstb1FQY1J0SzZjWFJTdEttZmlSTWhRQWd6WE5tS0d3R0R1b0dON2FWa3ZEczdFRFFFNG5SLTZwUkY0d2w1NzNRUy1qdmh1eFRjbmFWajVhd3RqcnBRR29hSjZld0EtTmI2UW1hQXNYTU5vaFlmWGVWYTFPVXhHTWVoSTE4S2hydUJxSVMzekhPMFR4cDdzS0xfQmJXSGxiYlpXWQ?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-10-13T12:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "arianna collaborate global health huffington launch test thrive"
     },
     {
@@ -12829,36 +12841,12 @@
         "https://www.statista.com/recent/statistics/p/63/",
         "https://www.sec.gov/Archives/edgar/data/920148/000092014826000111/lh-20251231.htm"
       ]
-    },
-    {
-      "id": "b1583b18f1235fb0e64d",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Shares Surge 8.6% -- What GF Score o",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFJQUZ0ZmVmVnkzb0JnVHNSZ2U4LUxrNGF1YUE5YlZjVjJ2dnFlb0NKOHo2RXJXNUhUY1dDb00yTTczdFEwcTNjRE9UNkRMN2xCc0xnUnhHSVpuUWplakdFMHJ5cUs2YWw3X25KeTJya2dqNUhPNDl3bkpqOWNTVlRHU3VHa2lkcTFEYTU4QURySWU2ZzBxUDZpUk93MGFhTE4xS2tDZmVYM0dLY01SRmk3UDhUcU9rbEpnTDFneDlCMWNLcVBN?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) Shares Surge 8.6% -- What GF Score o GuruFocus",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-07-24T00:53:23+00:00",
-      "published_display": "24 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQTFJQUZ0ZmVmVnkzb0JnVHNSZ2U4LUxrNGF1YUE5YlZjVjJ2dnFlb0NKOHo2RXJXNUhUY1dDb00yTTczdFEwcTNjRE9UNkRMN2xCc0xnUnhHSVpuUWplakdFMHJ5cUs2YWw3X25KeTJya2dqNUhPNDl3bkpqOWNTVlRHU3VHa2lkcTFEYTU4QURySWU2ZzBxUDZpUk93MGFhTE4xS2tDZmVYM0dLY01SRmk3UDhUcU9rbEpnTDFneDlCMWNLcVBN?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-07-24T00:53:23+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "score shares surge what"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 71,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-22T06:17:00+05:30",
-  "next_update_display": "22 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-22T12:17:00+05:30",
+  "next_update_display": "22 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
