@@ -1,11 +1,293 @@
 {
-  "generated_at": "2026-10-23T17:40:25.889477+05:30",
-  "generated_at_display": "23 Oct 2026, 5:40 PM IST",
-  "item_count": 449,
-  "raw_relevant_item_count": 630,
-  "duplicates_merged": 123,
+  "generated_at": "2026-10-23T22:58:36.037876+05:30",
+  "generated_at_display": "23 Oct 2026, 10:58 PM IST",
+  "item_count": 459,
+  "raw_relevant_item_count": 657,
+  "duplicates_merged": 138,
   "failures": [],
   "items": [
+    {
+      "id": "4f03302d182cbaa3526e",
+      "company": "Labcorp",
+      "title": "Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnRobm15MS1PRVBKNVFMd0dtS0dCM3pZc1NsUXdWUzJleGFYdjNFS1NRQ0lBZXZvdEsyOUppMnJiVFJTSC1WMXhSRjBBUk1fQU5HWk9PWE1haHhBcmJLOTltQko0UFo5bl9hN1pqcDFTNE5qWXl0cTBIb1ZJdG1LMXEwMmU1clFzWC1IYVUtVWFqdjdXaVREN1VGNlRwVklmVHUySkhjRDV1S1RIcEFF?oc=5",
+      "description": "Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-10-23T15:24:04+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnRobm15MS1PRVBKNVFMd0dtS0dCM3pZc1NsUXdWUzJleGFYdjNFS1NRQ0lBZXZvdEsyOUppMnJiVFJTSC1WMXhSRjBBUk1fQU5HWk9PWE1haHhBcmJLOTltQko0UFo5bl9hN1pqcDFTNE5qWXl0cTBIb1ZJdG1LMXEwMmU1clFzWC1IYVUtVWFqdjdXaVREN1VGNlRwVklmVHUySkhjRDV1S1RIcEFF?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-23T15:24:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "assay extended genotype hpv nationwide offer onclarity partner waters"
+    },
+    {
+      "id": "7fdc41f29a9230320bc1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics investigating data breach involving patient records",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5",
+      "description": "Quest Diagnostics investigating data breach involving patient records Tri-State Alert",
+      "source": "Tri-State Alert",
+      "source_url": "https://www.tristatealert.com",
+      "source_domain": "tristatealert.com",
+      "published_at": "2026-10-23T15:16:51+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Tri-State Alert",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5",
+          "domain": "tristatealert.com",
+          "published_at": "2026-10-23T15:16:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data investigating involving patient records"
+    },
+    {
+      "id": "cd91808e04100afe7033",
+      "company": "Quest Diagnostics",
+      "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
+      "description": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "source_domain": "techcrunch.com",
+      "published_at": "2026-10-23T15:00:09+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
+          "domain": "techcrunch.com",
+          "published_at": "2026-10-23T15:00:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach compromised confirms data during giant health lab patients personal testing was"
+    },
+    {
+      "id": "038403def42ac899868c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc29wWFY3QWJWdnZ3RFBTVUIxdnktMkE4a2g1QXhBQmcySWhRUklUdzM4QzVvUXk1b0t2cTR4UWFzd0xmaDBtMXFsLW1GQ1IyMGx1X2lRY2d2UzhvN2N1bHVoUWdocFM0Wi00SjE4enZPd3NGM292R3dPcFZBY2lCQUxRLUxxd2xKd2F3NVlCbFlBa2Q4d0hud1RGRGI?oc=5",
+      "description": "Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked Gadget Review",
+      "source": "Yahoo",
+      "source_url": "https://www.yahoo.com",
+      "source_domain": "yahoo.com",
+      "published_at": "2026-10-23T14:32:01+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPc29wWFY3QWJWdnZ3RFBTVUIxdnktMkE4a2g1QXhBQmcySWhRUklUdzM4QzVvUXk1b0t2cTR4UWFzd0xmaDBtMXFsLW1GQ1IyMGx1X2lRY2d2UzhvN2N1bHVoUWdocFM0Wi00SjE4enZPd3NGM292R3dPcFZBY2lCQUxRLUxxd2xKd2F3NVlCbFlBa2Q4d0hud1RGRGI?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-23T14:32:01+00:00"
+        },
+        {
+          "name": "Gadget Review",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaF9GQ3JwcFNmekJBN0Q3OGMzajZxanUtdVZHTFhfRFo0WGtSYTlUVEJKM2lQZFJ5V2REQ1V3VHF6dmJmVFVDdWJtZ0pFUUttVDVrUzlkU0diV3ZaYWF1a3hvMm1BZThSRlVBVXRsdjdwaE84ZC1BSUludm1sR3dNT0ZNQjJxQ3hEaXd2RTFLMWlDTE5xb1pYU3lBMUdmVWNjek1Tcmk0Z3pOQ1NQTEx0SXhSU1RKUmZGRGplc2pZdmZCektD?oc=5",
+          "domain": "gadgetreview.com",
+          "published_at": "2026-10-23T14:32:01+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "america been doctors giant hacked half has hospitals serving"
+    },
+    {
+      "id": "8117ac22951b2517353f",
+      "company": "Labcorp",
+      "title": "Labcorp Acquiring Drug Testing Firm Millennium Health",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWlsd1FEa2RCbGhiQWhJenJRaWNvRlp3bEJhdk5rcXpZb0lUMkhIdFNETGs0dTk0bmMxRGFOZmk1TzE5ZXFuRzJuZzF6aHFBUWU3TUhRc0R4Wi1Ibk56S1BycVphT3hSeGx6T0dKSC1iU0F5VDM5NFhyeTVJdVljS1JGREhmX280RUdTWU5CV0hYWWEzdEtidmRCN1pkbnBrVVFsRjU0SmE2TzRu?oc=5",
+      "description": "Labcorp Acquiring Drug Testing Firm Millennium Health GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-10-23T14:13:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWlsd1FEa2RCbGhiQWhJenJRaWNvRlp3bEJhdk5rcXpZb0lUMkhIdFNETGs0dTk0bmMxRGFOZmk1TzE5ZXFuRzJuZzF6aHFBUWU3TUhRc0R4Wi1Ibk56S1BycVphT3hSeGx6T0dKSC1iU0F5VDM5NFhyeTVJdVljS1JGREhmX280RUdTWU5CV0hYWWEzdEtidmRCN1pkbnBrVVFsRjU0SmE2TzRu?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-23T14:13:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquiring drug firm health millennium testing"
+    },
+    {
+      "id": "ed960fd73f00ceea8681",
+      "company": "Quest Diagnostics",
+      "title": "Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5",
+      "description": "Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected Security Magazine",
+      "source": "Security Magazine",
+      "source_url": "https://www.securitymagazine.com",
+      "source_domain": "securitymagazine.com",
+      "published_at": "2026-10-23T14:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Security Magazine",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5",
+          "domain": "securitymagazine.com",
+          "published_at": "2026-10-23T14:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "affected breach cyber hits may patient records"
+    },
+    {
+      "id": "48dc96c1e502122c74a3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5",
+      "description": "Quest Diagnostics warns of potential data theft after attack on lab service system The Record from Recorded Future News",
+      "source": "The Record from Recorded Future News",
+      "source_url": "https://therecord.media",
+      "source_domain": "therecord.media",
+      "published_at": "2026-10-23T13:03:56+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Record from Recorded Future News",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5",
+          "domain": "therecord.media",
+          "published_at": "2026-10-23T13:03:56+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after attack data lab potential service system theft warns"
+    },
+    {
+      "id": "8b1eec0bcfd50b96543d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcy01ejMxWTRYdW4wWFdNWG5oUm5PTDYtbVd4M2hhLVN0cXhLeUV2Zlg0QVVCUEdYb3hZZ2daSFdTY2ZtbEM3T3ZjZldGX2lKcmhLTXBKZUpNUVk3SU8wZ2lMemkyeDlkaF9nZzZUTkJ4dTZCUnpjX0FTY0VheDh3eEt1cDREb1VXRGNqVEpjLVJUN0VXeFEwUzctUVdjR3RjR0x2MnlBU3JRaUpIMi0yUHROQVN2UGhPLVFyZU1SS1BJZEFwaV9OMXRjZWRGTVJCWHJheEE0b0E?oc=5",
+      "description": "Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security Dallas Express",
+      "source": "Dallas Express",
+      "source_url": "https://dallasexpress.com",
+      "source_domain": "dallasexpress.com",
+      "published_at": "2026-10-23T13:01:26+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Dallas Express",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcy01ejMxWTRYdW4wWFdNWG5oUm5PTDYtbVd4M2hhLVN0cXhLeUV2Zlg0QVVCUEdYb3hZZ2daSFdTY2ZtbEM3T3ZjZldGX2lKcmhLTXBKZUpNUVk3SU8wZ2lMemkyeDlkaF9nZzZUTkJ4dTZCUnpjX0FTY0VheDh3eEt1cDREb1VXRGNqVEpjLVJUN0VXeFEwUzctUVdjR3RjR0x2MnlBU3JRaUpIMi0yUHROQVN2UGhPLVFyZU1SS1BJZEFwaV9OMXRjZWRGTVJCWHJheEE0b0E?oc=5",
+          "domain": "dallasexpress.com",
+          "published_at": "2026-10-23T13:01:26+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "data face intrusion labs over patient record scrutiny security"
+    },
+    {
+      "id": "2b06c24518a2ca784552",
+      "company": "Quest Diagnostics",
+      "title": "Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWtOYU45R3JSOVlmclJ1RTNhU2pEcFo4aHlkWUtmbnk4S25LeU1DWGlVTzk0U1hsdDd3ZVlZN0FzZU5vcW5CYmV1cTBuMGxsWWUxZ1B4Y1cyTFdJSG8yT05wR1NrOHdrbUJ3LVdsT1FYVlpHVVN0aW5xU1FzUjE5Q1pIZUh2WHFhTlQ3cTJJYk9jLTV3U2toeGhvaEdVSHBVMG05R09nMnBVdGIzNE9zbmZ0eV9YNG4zUnd0ZHlUcXpiNW5rdWVMU1J3QVE3Zw?oc=5",
+      "description": "Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-23T12:26:31+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWtOYU45R3JSOVlmclJ1RTNhU2pEcFo4aHlkWUtmbnk4S25LeU1DWGlVTzk0U1hsdDd3ZVlZN0FzZU5vcW5CYmV1cTBuMGxsWWUxZ1B4Y1cyTFdJSG8yT05wR1NrOHdrbUJ3LVdsT1FYVlpHVVN0aW5xU1FzUjE5Q1pIZUh2WHFhTlQ3cTJJYk9jLTV3U2toeGhvaEdVSHBVMG05R09nMnBVdGIzNE9zbmZ0eV9YNG4zUnd0ZHlUcXpiNW5rdWVMU1J3QVE3Zw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-23T12:26:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "232 245 adjusts bank deutsche hold maintains rating"
+    },
+    {
+      "id": "5a61c16f54d803d9e53e",
+      "company": "Quest Diagnostics",
+      "title": "Patient Data Likely Accessed in Quest Diagnostics Hack",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5",
+      "description": "Patient Data Likely Accessed in Quest Diagnostics Hack The HIPAA Journal",
+      "source": "The HIPAA Journal",
+      "source_url": "https://www.hipaajournal.com",
+      "source_domain": "hipaajournal.com",
+      "published_at": "2026-10-23T12:26:22+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The HIPAA Journal",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5",
+          "domain": "hipaajournal.com",
+          "published_at": "2026-10-23T12:26:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accessed data hack likely patient"
+    },
+    {
+      "id": "8b4cb4c582580813bc57",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUdIBb0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUQ?oc=5",
+      "description": "Quest Diagnostics confirms cyberattack exposing sensitive patient data from its lab testing system. Pluang",
+      "source": "Cyber Press",
+      "source_url": "https://cyberpress.org",
+      "source_domain": "cyberpress.org",
+      "published_at": "2026-10-23T11:13:06+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Cyber Press",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUdIBb0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUQ?oc=5",
+          "domain": "cyberpress.org",
+          "published_at": "2026-10-23T11:13:06+00:00"
+        },
+        {
+          "name": "GBHackers News",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42eEU3c0xvUlZScmpGWTFVUTBRTzEyeGlfMHM0MkdRUzQ4SXdNeC13ejZGcnJhUXRQR0Z3YVdPaVo2MDR1dE9WUUdBTnJDNGRncF9GZzlqLUR5WC1XSGp2RkhLbkZ0cUJSNzZGX2Zn0gFzQVVfeXFMT2k1Y3dqUTI4anUwWUdGV0QyTVN3d01lZmJlZlR0ZkdjVVBNemdZc0lWck9BQ25hZ0tsbUtQUVVaU3FIU1RiR1ZQRVRKWGdjUDdVT3lJbWF6V1VxcXBhZG5vcWVYMzU4X0ZfN1l1bU9YRXhzbw?oc=5",
+          "domain": "gbhackers.com",
+          "published_at": "2026-10-23T12:05:44+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG5XSmg5WF9feWVmSS1KMFhzdDQ1WUVOMGpOcGxVU0s4QUZWRXRyTndlR1VfYWxieTFQWGVhZVpraG9URjJBeUh4clVvZld6WUdOb0k1NjBkVDZTRU8tNkNXRWhLeld2Q3pYMmJBUENFdHBTZVdBOG1qQTJrbXRKbk1NVzNCalBsRk1RS2FqUUhsMU95VmUwWnRkVUdoUzU3QzBPNU9rZm9UY2c?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-10-23T15:14:22+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "confirms cyberattack exposing patient quanum records system"
+    },
     {
       "id": "1aebd809118ffdb03e35",
       "company": "Quest Diagnostics",
@@ -49,9 +331,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXdMcXVwWUxFWVp2UXAzSk9QUTNtSEpiUTY5aWlTMlFhSjNTdGtZck5sbkVZV3p4d0cwTk4waEw5SW1zVTBlTGNubFRIZjgyN0tmMUxJSU1VV1NpdzFyVmZUQnozNEVBYUFsVmhuVWdJVlcyVVJHSDlmclU0V0hkcG5JWWl0bl9DcjAwbnFnRmE0aFJXRXU4cFItOWJBSk00TEZIQTdIcDhqa01Fdk4tYzdGYnVud2RrUm1Tb0w4VWttcHBWQVJwN1JvSGVram13UjJScWdxMkVRbHBpcmN4WkVRenNXdw?oc=5",
           "domain": "officechai.com",
           "published_at": "2026-10-23T07:19:36+00:00"
+        },
+        {
+          "name": "SC Media",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWxWNTQwZHc0TWcwQU5tb25uRkJYU3cwNE9FTjlnNVgtWXA4em4zRWp0c3VjZEdySktRcWdTMFRvTVZjNGVhSGlDTlRweDVLS3BUUTZuem9TaWJHd2ZjNE9yVW5TMWppbmJXWW9GYTc2Rjh1bGpNTFpyS2VyQmZqb2NwN001Y0tJeDdHS3R3cF9qS0N4VUYw?oc=5",
+          "domain": "scworld.com",
+          "published_at": "2026-10-23T12:32:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "access discloses half hospitals lab manager quantum serves services system unauthorized which"
     },
     {
@@ -301,9 +589,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThpckk5YXVGS3VVSHhPb1pnUDhVVW9fVjMwRDhnLVBpdlRaUklhbmJvRVNWWVJpSGJaREZoOVRfSE52dnBWYlUxcmo5WkxCZmg3TmFxX3o3d1JXaTljM3hpMmJVa2U0UmR4N1JIUkEtTHctbUE5MmpSTGwyYnpzZUxhQ3loZGsyMjIxZUxnell4ZTZUN1Q5OVFlNTBJa0xKLXBIYmJzTTlrdWJuNk54QUhTc09WVGdmeHh1WXUtY2fSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
           "domain": "foxbusiness.com",
           "published_at": "2026-10-22T22:13:00+00:00"
+        },
+        {
+          "name": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUl4MzJraVJzZkVQeUkwSllQcWIwclItdEUzdHVPQjlQSkc5ZTlER3F2amc4SkZZWUNWMXlTZEQ0cGJoZXJTZks2X3k4b1N3YWdTVnpCbUJ1UkRBbE52RThvaUpRZkpadEQyS3ZfUjRRQ0d4V0JrY1BsR2F3VTVtdEROTTUtMEVIelMyTnBtWDF0YV9sNHVtWWhIejFtWE43SENfZVo5QkVJdy0zbGE5dThTY3NnNlAxWkFJSmk2RndaTEpTZFHSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
+          "domain": "foxbusiness.com",
+          "published_at": "2026-10-22T22:13:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "accessed confirms cyberattack down information patient shut systems temporarily"
     },
     {
@@ -403,9 +697,15 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5",
           "domain": "livenowfox.com",
           "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "KTVU",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM21NX3F1cUF0YWt4THc1RjFVem9LTTg4Y2Y2TVNhNEFqTkl5Ykx4WFF6eXVIREZVemctT3ZfSHRhVmZqOHhjUTdYNDYyYjR6QW1wczhYTHpJRW9wM2xHUTQ4bFI2VDgxcV85NHFaNlJGVVZ3Sy1hdFFndi1KRDBpWEdEUjVWQUtYcEtXSUFQNVd4SjNoMmtwV0Q3Y0ZQMFNtdEFwd1oyOGxpSVpt?oc=5",
+          "domain": "ktvu.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
@@ -499,9 +799,15 @@
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUQyNXJhU19uaXBzakRhNWpSNDNmWWtKenMxU2lCZGVXVXpxb3QtM29GdHJZYXJGVVItYlJnWkNyWDd6R0Y4VXFLQkdjWm5Jb21JUHdJU2xKanhHa3hldU8yS0RBTE9mdlRxbFE0ajlKUHZfcmFYdW5SUXJEWWdCbDR6XzJWX3A2RU44S3B2TnNfSXFC?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-22T18:04:40+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzhiMFFCWTdLTnZVbVdMWDFzdXFpZ0J5LWc2aDVINl9GSlhweFRfdjJiaWJWT0NKS3dBWHZYU2NXVUFMSXUwVW9QVG8zbERBTnVsU0RPLTFKY3J6M012UVgwblA1dHpDXzhfalFocXFRQ21DVHI0SnBaSHNwMFJFR3pDSXlBZVJYRUFDMVdDdkk2eVRlNGN2VUwxSUNlR0I5M2E3OEJ0ODYzc3FETHkzYkI3bDdGRDA?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T18:04:40+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "call earnings said what"
     },
     {
@@ -553,9 +859,21 @@
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTUpUdXJfVDBFN2hucHM3N0FYbGZ4OEM5aFNhOXBRZ3pQYXBDMmMtdXYzYW1telVleExURmZjSm5lY1VOWjdYLVloN1UtZ3pMZWNN?oc=5",
           "domain": "twaslnews1.twaslnews.com",
           "published_at": "2026-10-22T17:55:28+00:00"
+        },
+        {
+          "name": "NJBIZ",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1uemctcGRNaGdQSGdGQVBZTjJ6bjNaMWYwSDVVSlo5WlpFMjl3aHBiY3R0aktQVWk4SS1JVnluRVNtYm1hYkVuWWFxdUdPbjdhUm1mYXNTMmFMdmJfX1JIUjZLT1k5YkhnQkV5cTE0TXZreV92cUlBTmQxZU01UQ?oc=5",
+          "domain": "njbiz.com",
+          "published_at": "2026-10-23T16:23:51+00:00"
+        },
+        {
+          "name": "BleepingComputer",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDdtTy15WWNDQzhmQVR0YnVIenFsWmQwMGY5VzNscV9EbG5hQkZBUTZtTlN1LUFDdWVTdFZ5dXlYTFoycEFmcmlpZVdWMUFoeUx4bU1IZ1NLMGdRZ1BhbF9aNGJ5Sy1hOWFmMDR4WHRzeUQydTRqLVVXNDFLdUVka3l3VlNpZEl2SXlxUjNWUzVlMjFxTk1zT051NXpGUkJUNkFOUnVDQ1d3cXZXbGdF?oc=5",
+          "domain": "bleepingcomputer.com",
+          "published_at": "2026-10-23T16:40:07+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "breach data exposes lsm patient quanum records"
     },
     {
@@ -677,6 +995,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 breach exposed patients"
+    },
+    {
+      "id": "b62d7a0c2e5e6a772faa",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics discloses breach after ‘unauthorized access’",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGJJLV9UN0JIMGlhY2pHVjNZQVo4bVd2TTctOEcyVk9hblpOUWhmOU5NalhUTXNxOEo2SzBYY2xJbDFEOGVPaUh6ZGtMTmllNDlha0g1bVJvUlFDUWxydGYwVXlSV3NVTDh1U1Z3U0RrLU9CejJneXM3TzVRc1pnbWZ2TmFQdmJSSEpHNGpzeFdDYVh3a0o1WndFVDJzNGpHVXBoSUpTN0cxaFRORnlJ?oc=5",
+      "description": "Quest Diagnostics discloses breach after ‘unauthorized access’ TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-10-22T15:47:46+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGJJLV9UN0JIMGlhY2pHVjNZQVo4bVd2TTctOEcyVk9hblpOUWhmOU5NalhUTXNxOEo2SzBYY2xJbDFEOGVPaUh6ZGtMTmllNDlha0g1bVJvUlFDUWxydGYwVXlSV3NVTDh1U1Z3U0RrLU9CejJneXM3TzVRc1pnbWZ2TmFQdmJSSEpHNGpzeFdDYVh3a0o1WndFVDJzNGpHVXBoSUpTN0cxaFRORnlJ?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-10-22T15:47:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access after breach discloses unauthorized"
     },
     {
       "id": "e037c28940dc79ec6d26",
@@ -907,9 +1249,27 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXNMLTA2NnU2SnVOS09jR3l4UTNSMjcyT1V5V2xjS0tkVG1BTHN4RlpmNTFzNW5oQVRFcjBnXzFuNWR1UG4zLXBkLTczY1VDUmpieEczVUVvb0lEd1cxUHFCcDFtYlpKZm5ZMGVoWC1VVWhCOTVwcWN4enc0NGc5cTY2RnJ6R1pUWl81SWhyQ1RZVV9jZ0E5ejJKXzhGZmxaVFlqTUw3ZmNZZEp3Z1hGb3VWa01zeU0?oc=5",
           "domain": "fox5vegas.com",
           "published_at": "2026-10-23T01:00:50+00:00"
+        },
+        {
+          "name": "Star Beacon",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHRqODdSQ0V1WWQxUVRBUTU3Z2RkSDVqUG4tT1Jxa1FMVFFmTUtISzVRSDA3dUxPQm5aQmc4d1Y0M3g5b1IzeURabGRjQ3pWb1F0aXlDR25Xa3pzOGdtdXF1QWtpU0xuU1RfbHhKOW8tcDhkWG84RnhRLVBEOVRDVUxiVjNRZDFjLS1waVpGeEdhbDI0R01fSmxBUTktTm5WYUROeFp6V0lqSlg0R0pkVi1sdDBRVUxBbnpCR01rdGl2SlZDSmtfSldxT3RPWHJaeEhIRjFnZWhzQlI1enlfdk1DZ2dPc2ZrWDliYg?oc=5",
+          "domain": "starbeacon.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "thereporteronline",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPSWRjM1FGeXJyZC03VEJWRUNSa2xBamNVbFJSdFB1U1puRk52bEF1VEZIS2x2WWtFNTdhM2d1VlNwSXpaMnpLQ04xM2lJMHVYX0hJV2dneGNEMFdMYnhmVXRMMjdCc1M0OHZxTlVuZFEyZw?oc=5",
+          "domain": "thereporteronline.com",
+          "published_at": "2026-10-22T23:59:29+00:00"
+        },
+        {
+          "name": "SecurityWeek",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbdIBqgFBVV95cUxOZHZtdWN2eWhLUVIxM080ZFh6V2hId1FDSVpHYVRuUFJFS2ZYNzFnOVFlTnA3aUtHM2IxdXNGMEpOWGotODNZd0cwdUtDSDhlb3hkQUkyb2FfZ2xGcDZ3b05FUjZHNVFZOUJmSk9qaVJlT3ZCZmVXdUZuYTEwNFpQVUdPTkNpQ3REZXcwUDlTdkFfY3A5Vm5zSnI4LWhpaGgxS0lSTS1yei03UQ?oc=5",
+          "domain": "securityweek.com",
+          "published_at": "2026-10-23T08:25:06+00:00"
         }
       ],
-      "coverage_count": 28,
+      "coverage_count": 31,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -2197,36 +2557,6 @@
       "event_signature": "722m acquisition iqvia life more partnership sciences veeva"
     },
     {
-      "id": "60f34b58542d5152516c",
-      "company": "Labcorp",
-      "title": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5",
-      "description": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz",
-      "source": "BioBuzz",
-      "source_url": "https://biobuzz.io",
-      "source_domain": "biobuzz.io",
-      "published_at": "2026-10-16T16:19:58+00:00",
-      "published_display": "16 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "BioBuzz",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5",
-          "domain": "biobuzz.io",
-          "published_at": "2026-10-16T16:19:58+00:00"
-        },
-        {
-          "name": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5",
-          "domain": "pulse2.com",
-          "published_at": "2026-10-19T13:09:46+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "722 acquire assets bioreference burlington health million opko select"
-    },
-    {
       "id": "e4359605fca9e3c7fd95",
       "company": "Labcorp",
       "title": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M",
@@ -2413,6 +2743,36 @@
       "event_signature": "260 lifts stock target truist usd"
     },
     {
+      "id": "00a00cc0aeef9ad4a9f6",
+      "company": "Labcorp",
+      "title": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
+      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-15T16:11:26+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T16:11:26+00:00"
+        },
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-10-15T20:56:11+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "872m acquire assets bioreference outlays"
+    },
+    {
       "id": "2526c33760f6decb6fa1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com",
@@ -2473,19 +2833,109 @@
       "event_signature": "com earnings investing may oct shares shift"
     },
     {
-      "id": "72d08d31912a6b18f938",
+      "id": "6c5c122547bb82085ead",
       "company": "Labcorp",
-      "title": "Labcorp to Acquire BioReference Health Assets in $872M Deal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
-      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-10-15T13:22:30+00:00",
+      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-15T12:16:02+00:00",
       "published_display": "15 Oct 2026",
       "category": "Partnership, M&A",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T12:16:02+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "722 acquire assets bioreference certain health million opko subsidiary"
+    },
+    {
+      "id": "6b3af5c3cded373df429",
+      "company": "Labcorp",
+      "title": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+      "description": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH",
+      "source": "HLTH",
+      "source_url": "https://hlth.com",
+      "source_domain": "hlth.com",
+      "published_at": "2026-10-15T09:05:01+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HLTH",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+          "domain": "hlth.com",
+          "published_at": "2026-10-15T09:05:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "behavior biomarkers change combining global health launch test thrive"
+    },
+    {
+      "id": "bbca103390cd5e1f31d3",
+      "company": "Labcorp",
+      "title": "Labcorp to Acquire Select BioReference Health Assets for $722M",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5",
+      "description": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        },
+        {
+          "name": "citybiz",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5",
+          "domain": "citybiz.co",
+          "published_at": "2026-10-15T12:43:42+00:00"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-15T14:13:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-15T11:55:45+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-15T12:08:23+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-15T12:10:58+00:00"
+        },
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
@@ -2521,136 +2971,22 @@
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5",
           "domain": "bioxconomy.com",
           "published_at": "2026-10-20T08:47:53+00:00"
-        }
-      ],
-      "coverage_count": 6,
-      "event_signature": "872m acquire assets bioreference deal health"
-    },
-    {
-      "id": "6c5c122547bb82085ead",
-      "company": "Labcorp",
-      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
-      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-15T12:16:02+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-15T12:16:02+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "722 acquire assets bioreference certain health million opko subsidiary"
-    },
-    {
-      "id": "0c205256d8453402389f",
-      "company": "Labcorp",
-      "title": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
-      "description": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-10-15T11:55:45+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-10-15T11:55:45+00:00"
         },
         {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-15T12:08:23+00:00"
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5",
+          "domain": "biobuzz.io",
+          "published_at": "2026-10-16T16:19:58+00:00"
         },
         {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-15T12:10:58+00:00"
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5",
+          "domain": "pulse2.com",
+          "published_at": "2026-10-19T13:09:46+00:00"
         }
       ],
-      "coverage_count": 3,
-      "event_signature": "722 acquire assets bioreference com health investing million"
-    },
-    {
-      "id": "03c62af7154b5cf50a31",
-      "company": "Labcorp",
-      "title": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
-      "description": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-10-15T11:30:00+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-15T11:30:00+00:00"
-        },
-        {
-          "name": "citybiz",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5",
-          "domain": "citybiz.co",
-          "published_at": "2026-10-15T12:43:42+00:00"
-        },
-        {
-          "name": "GenomeWeb",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5",
-          "domain": "genomeweb.com",
-          "published_at": "2026-10-15T14:13:00+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-10-15T16:53:08+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "acquire agreement assets bioreference enters health opko select"
-    },
-    {
-      "id": "6b3af5c3cded373df429",
-      "company": "Labcorp",
-      "title": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
-      "description": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH",
-      "source": "HLTH",
-      "source_url": "https://hlth.com",
-      "source_domain": "hlth.com",
-      "published_at": "2026-10-15T09:05:01+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "HLTH",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
-          "domain": "hlth.com",
-          "published_at": "2026-10-15T09:05:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "behavior biomarkers change combining global health launch test thrive"
+      "coverage_count": 15,
+      "event_signature": "722m acquire assets bioreference health select"
     },
     {
       "id": "131a04cd4b17846e8707",
@@ -2959,19 +3295,49 @@
       "event_signature": "cardiometabolic consumer direct global launch test thrive"
     },
     {
-      "id": "707322bb72df12afdbf0",
+      "id": "3537ca9b6ef4ef30456b",
       "company": "Labcorp",
-      "title": "Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5",
+      "title": "Latest Life Science Job at Labcorp | Apply Online Here",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5",
+      "description": "Latest Life Science Job at Labcorp | Apply Online Here BioTecNika",
+      "source": "BioTecNika",
+      "source_url": "https://www.biotecnika.org",
+      "source_domain": "biotecnika.org",
+      "published_at": "2026-10-13T10:58:21+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioTecNika",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5",
+          "domain": "biotecnika.org",
+          "published_at": "2026-10-13T10:58:21+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apply here job life online science"
+    },
+    {
+      "id": "190c96836e650e5c52a3",
+      "company": "Labcorp",
+      "title": "Labcorp Launches Thrive 5 Health Test With Thrive Global",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5",
       "description": "Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-10-13T12:00:00+00:00",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-13T07:00:00+00:00",
       "published_display": "13 Oct 2026",
       "category": "Product & Services",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-13T07:00:00+00:00"
+        },
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5",
@@ -2997,12 +3363,6 @@
           "published_at": "2026-10-16T10:56:03+00:00"
         },
         {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-13T12:53:50+00:00"
-        },
-        {
           "name": "Morningstar",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlhfQllEeEFCQWRaaW14UWlGS2Z1cGlxV2dTQkloSXdxS1dQT0NmUHlfMHNCSUlmSHNlR2JQTU1jcGZ1MmMtUUstb1FQY1J0SzZjWFJTdEttZmlSTWhRQWd6WE5tS0d3R0R1b0dON2FWa3ZEczdFRFFFNG5SLTZwUkY0d2w1NzNRUy1qdmh1eFRjbmFWajVhd3RqcnBRR29hSjZld0EtTmI2UW1hQXNYTU5vaFlmWGVWYTFPVXhHTWVoSTE4S2hydUJxSVMzekhPMFR4cDdzS0xfQmJXSGxiYlpXWQ?oc=5",
           "domain": "morningstar.com",
@@ -3010,31 +3370,7 @@
         }
       ],
       "coverage_count": 6,
-      "event_signature": "arianna collaborate global health huffington launch test thrive"
-    },
-    {
-      "id": "3537ca9b6ef4ef30456b",
-      "company": "Labcorp",
-      "title": "Latest Life Science Job at Labcorp | Apply Online Here",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5",
-      "description": "Latest Life Science Job at Labcorp | Apply Online Here BioTecNika",
-      "source": "BioTecNika",
-      "source_url": "https://www.biotecnika.org",
-      "source_domain": "biotecnika.org",
-      "published_at": "2026-10-13T10:58:21+00:00",
-      "published_display": "13 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "BioTecNika",
-          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5",
-          "domain": "biotecnika.org",
-          "published_at": "2026-10-13T10:58:21+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "apply here job life online science"
+      "event_signature": "global health launches test thrive"
     },
     {
       "id": "4493bbca40bbb733b192",
@@ -14324,10 +14660,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 57,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-23T18:17:00+05:30",
-  "next_update_display": "23 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-24T00:17:00+05:30",
+  "next_update_display": "24 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

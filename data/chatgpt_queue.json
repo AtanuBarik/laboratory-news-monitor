@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T18:20:18.342781+05:30",
-  "generated_at_display": "23 Oct 2026, 6:20 PM IST",
+  "generated_at": "2026-10-23T22:58:41.095146+05:30",
+  "generated_at_display": "23 Oct 2026, 10:58 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 368,
+  "remaining_unsummarized_count": 378,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -85,53 +85,18 @@
       ]
     },
     {
-      "id": "60f34b58542d5152516c",
+      "id": "00a00cc0aeef9ad4a9f6",
       "company": "Labcorp",
       "category": "Partnership, M&A",
-      "title": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million",
-      "source": "BioBuzz",
-      "description": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz",
-      "published_at": "2026-10-16T16:19:58+00:00",
-      "published_display": "16 Oct 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5",
-      "sources": [
-        {
-          "name": "BioBuzz",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5"
-        },
-        {
-          "name": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "72d08d31912a6b18f938",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp to Acquire BioReference Health Assets in $872M Deal",
-      "source": "GuruFocus",
+      "title": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets",
+      "source": "Yahoo Finance",
       "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
-      "published_at": "2026-10-15T13:22:30+00:00",
+      "published_at": "2026-10-15T16:11:26+00:00",
       "published_display": "15 Oct 2026",
       "official_source": false,
-      "coverage_count": 6,
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5",
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
       "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5"
-        },
-        {
-          "name": "Contract Pharma",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5"
-        },
-        {
-          "name": "Medical Device Network",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5"
-        },
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5"
@@ -139,10 +104,6 @@
         {
           "name": "Hoodline",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5"
-        },
-        {
-          "name": "BioXconomy",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5"
         }
       ]
     },
@@ -166,45 +127,22 @@
       ]
     },
     {
-      "id": "0c205256d8453402389f",
+      "id": "bbca103390cd5e1f31d3",
       "company": "Labcorp",
       "category": "Partnership, M&A",
-      "title": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com",
-      "source": "Investing.com India",
-      "description": "Labcorp to acquire BioReference Health assets for $722 million By Investing.com Investing.com India",
-      "published_at": "2026-10-15T11:55:45+00:00",
+      "title": "Labcorp to Acquire Select BioReference Health Assets for $722M",
+      "source": "Clinical Lab Products",
+      "description": "Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz",
+      "published_at": "2026-10-15T07:00:00+00:00",
       "published_display": "15 Oct 2026",
       "official_source": false,
-      "coverage_count": 3,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5",
+      "coverage_count": 15,
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5",
       "sources": [
         {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5"
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5"
         },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "03c62af7154b5cf50a31",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health",
-      "source": "PR Newswire",
-      "description": "Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire",
-      "published_at": "2026-10-15T11:30:00+00:00",
-      "published_display": "15 Oct 2026",
-      "official_source": false,
-      "coverage_count": 4,
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5",
-      "sources": [
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5"
@@ -218,8 +156,20 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5"
         },
         {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5"
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5"
         }
       ]
     },
@@ -703,6 +653,48 @@
         {
           "name": "Tracxn",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c0dd83030e2a3cae140a",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "REG - Renalytix - Collaboration with Quest Diagnostics",
+      "source": "TradingView",
+      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics tradingview.com",
+      "published_at": "2026-09-01T06:00:00+00:00",
+      "published_display": "01 Sep 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0060ca4454ac659b4f79",
+      "company": "Sonic Healthcare",
+      "category": "Partnership, M&A",
+      "title": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power",
+      "source": "marketscreener.com",
+      "description": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com",
+      "published_at": "2026-08-21T06:53:38+00:00",
+      "published_display": "21 Aug 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5",
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
         }
       ]
     }

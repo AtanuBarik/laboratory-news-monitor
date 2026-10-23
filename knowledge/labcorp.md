@@ -1,11 +1,35 @@
 # Labcorp News
 
-- **Repository generated:** 23 Oct 2026, 5:40 PM IST
+- **Repository generated:** 23 Oct 2026, 10:58 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
+## 1. Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide
+
+- **Company:** Labcorp
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnRobm15MS1PRVBKNVFMd0dtS0dCM3pZc1NsUXdWUzJleGFYdjNFS1NRQ0lBZXZvdEsyOUppMnJiVFJTSC1WMXhSRjBBUk1fQU5HWk9PWE1haHhBcmJLOTltQko0UFo5bl9hN1pqcDFTNE5qWXl0cTBIb1ZJdG1LMXEwMmU1clFzWC1IYVUtVWFqdjdXaVREN1VGNlRwVklmVHUySkhjRDV1S1RIcEFF?oc=5
+
+**Feed description:** Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide Clinical Lab Products
+
+## 2. Labcorp Acquiring Drug Testing Firm Millennium Health
+
+- **Company:** Labcorp
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GenomeWeb: https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWlsd1FEa2RCbGhiQWhJenJRaWNvRlp3bEJhdk5rcXpZb0lUMkhIdFNETGs0dTk0bmMxRGFOZmk1TzE5ZXFuRzJuZzF6aHFBUWU3TUhRc0R4Wi1Ibk56S1BycVphT3hSeGx6T0dKSC1iU0F5VDM5NFhyeTVJdVljS1JGREhmX280RUdTWU5CV0hYWWEzdEtidmRCN1pkbnBrVVFsRjU0SmE2TzRu?oc=5
+
+**Feed description:** Labcorp Acquiring Drug Testing Firm Millennium Health GenomeWeb
+
+## 3. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -18,7 +42,7 @@
 
 **Feed description:** Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment TradingView
 
-## 2. Charles River partners with FDA, Labcorp on drug abuse research
+## 4. Charles River partners with FDA, Labcorp on drug abuse research
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -30,7 +54,7 @@
 
 **Feed description:** Charles River partners with FDA, Labcorp on drug abuse research Investing.com
 
-## 3. Labcorp to buy Myriad’s prenatal health testing unit for $210M
+## 5. Labcorp to buy Myriad’s prenatal health testing unit for $210M
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -42,7 +66,7 @@
 
 **Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive
 
-## 4. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
+## 6. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -54,7 +78,7 @@
 
 **Feed description:** BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp Utah Money Watch
 
-## 5. Labcorp Declares Quarterly Dividend
+## 7. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -70,7 +94,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares $0.72 Quarterly Dividend TradingView
 
-## 6. Labcorp acquisition spree continues
+## 8. Labcorp acquisition spree continues
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -82,7 +106,7 @@
 
 **Feed description:** Labcorp acquisition spree continues BioWorld News
 
-## 7. Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets
+## 9. Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -94,7 +118,7 @@
 
 **Feed description:** Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets Medical Device and Diagnostic industry
 
-## 8. Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp
+## 10. Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -110,7 +134,7 @@
 
 **Feed description:** Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance
 
-## 9. Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach
+## 11. Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 19 Oct 2026
@@ -122,7 +146,7 @@
 
 **Feed description:** Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach Holland & Knight
 
-## 10. Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]
+## 12. Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]
 
 - **Company:** Labcorp
 - **Publication date:** 17 Oct 2026
@@ -134,7 +158,7 @@
 
 **Feed description:** Wisconsin Labcorp Data Breach Settlement: $2.3M [2026] shattered.io
 
-## 11. NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More
+## 13. NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More
 
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
@@ -146,20 +170,7 @@
 
 **Feed description:** NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz
 
-## 12. Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million
-
-- **Company:** Labcorp
-- **Publication date:** 16 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - BioBuzz: https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5
-  - Pulse 2.0: https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5
-
-**Feed description:** Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz
-
-## 13. OPKO Health to Sell Select BioReference Assets to Labcorp for $722M
+## 14. OPKO Health to Sell Select BioReference Assets to Labcorp for $722M
 
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
@@ -173,7 +184,7 @@
 
 **Feed description:** OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research
 
-## 14. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
+## 15. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -185,7 +196,7 @@
 
 **Feed description:** Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight
 
-## 15. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
+## 16. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -197,7 +208,7 @@
 
 **Feed description:** Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec
 
-## 16. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
+## 17. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -209,24 +220,20 @@
 
 **Feed description:** OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments Kalkine Media
 
-## 17. Labcorp to Acquire BioReference Health Assets in $872M Deal
+## 18. Labcorp outlays up to $872m to acquire BioReference’s laboratory assets
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 6
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5
-  - Contract Pharma: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5
-  - Medical Device Network: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5
   - Hoodline: https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5
-  - BioXconomy: https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5
 
 **Feed description:** Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline
 
-## 18. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
+## 19. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -238,36 +245,7 @@
 
 **Feed description:** Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance
 
-## 19. Labcorp to acquire BioReference Health assets for $722 million By Investing.com
-
-- **Company:** Labcorp
-- **Publication date:** 15 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com India: https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5
-  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5
-  - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5
-
-**Feed description:** Labcorp to acquire BioReference Health assets for $722 million By Investing.com Investing.com India
-
-## 20. Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health
-
-- **Company:** Labcorp
-- **Publication date:** 15 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5
-  - citybiz: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5
-  - GenomeWeb: https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5
-  - Clinical Lab Products: https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5
-
-**Feed description:** Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire
-
-## 21. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
+## 20. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -278,6 +256,32 @@
   - HLTH: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5
 
 **Feed description:** Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH
+
+## 21. Labcorp to Acquire Select BioReference Health Assets for $722M
+
+- **Company:** Labcorp
+- **Publication date:** 15 Oct 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 15
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5
+  - citybiz: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5
+  - GenomeWeb: https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5
+  - Contract Pharma: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5
+  - Medical Device Network: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5
+  - Hoodline: https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5
+  - BioXconomy: https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5
+  - BioBuzz: https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5
+  - Pulse 2.0: https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5
+
+**Feed description:** Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz
 
 ## 22. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
 
@@ -328,24 +332,7 @@
 
 **Feed description:** Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products
 
-## 26. Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test
-
-- **Company:** Labcorp
-- **Publication date:** 13 Oct 2026
-- **Category:** Product & Services
-- **Coverage count:** 6
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMElHcVhTUDh1Z2N2OXNQdENfdmtlVVpBX3N5MDJTajZiZTluaU5uaDNPMWtVMWlLYjNoN3N3MmtTUXNTaFkzYjVleGVlN0xTUDRsbUVSTmdEU3hTLWI1LUpSdUlhTVZSdUdGaGM0a3cxZ1U3aEtQQy1OYXVWdkxJRU0zTXVydkFzQ2p4YWFKemxMVjFRWDFEY2w0bkc5dEdZeUNQNDBkbDAwYWhHOWdldFFzVnR5UnVTYTRxRmhGMWtobFRwdnNjcUxaUGZlQW1iSUszN1B1c1RMWkdFT0JYY2FwVnA?oc=5
-  - marketscreener.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5
-  - Fierce Biotech: https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5
-  - Morningstar: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlhfQllEeEFCQWRaaW14UWlGS2Z1cGlxV2dTQkloSXdxS1dQT0NmUHlfMHNCSUlmSHNlR2JQTU1jcGZ1MmMtUUstb1FQY1J0SzZjWFJTdEttZmlSTWhRQWd6WE5tS0d3R0R1b0dON2FWa3ZEczdFRFFFNG5SLTZwUkY0d2w1NzNRUy1qdmh1eFRjbmFWajVhd3RqcnBRR29hSjZld0EtTmI2UW1hQXNYTU5vaFlmWGVWYTFPVXhHTWVoSTE4S2hydUJxSVMzekhPMFR4cDdzS0xfQmJXSGxiYlpXWQ?oc=5
-
-**Feed description:** Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire
-
-## 27. Latest Life Science Job at Labcorp | Apply Online Here
+## 26. Latest Life Science Job at Labcorp | Apply Online Here
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -356,6 +343,23 @@
   - BioTecNika: https://news.google.com/rss/articles/CBMie0FVX3lxTE5LR1N1RVRoUFZJbGcyVVdxblFjSGtSZ2tfSHh3bnh6MXpmLW5HTjFmWEthbnZxejhEak5yc3NVZUNhZW1LcU1WcjNsdXJIbkJsQW1EZ0s4YWhoUkYtYmt0aHdIZVBpVW9BV3ZBSHBqRXBYcmVNczl3OFFBONIBgAFBVV95cUxQRjhVU1hzTWk4OV90dFJIZnNOUWxubE1NNENfTm12dzJuaUtBWUZseWRtY2Q3LThwTThmU3BobjR1Mzh2SDkzOWctb3RPMjRabkZ6bjNsQ0NvVlhXaFJDTC1RcEt1M2NpTkxHazZrWkVoZ1hBU2RlUFRYU1ZtZF9VOQ?oc=5
 
 **Feed description:** Latest Life Science Job at Labcorp | Apply Online Here BioTecNika
+
+## 27. Labcorp Launches Thrive 5 Health Test With Thrive Global
+
+- **Company:** Labcorp
+- **Publication date:** 13 Oct 2026
+- **Category:** Product & Services
+- **Coverage count:** 6
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMElHcVhTUDh1Z2N2OXNQdENfdmtlVVpBX3N5MDJTajZiZTluaU5uaDNPMWtVMWlLYjNoN3N3MmtTUXNTaFkzYjVleGVlN0xTUDRsbUVSTmdEU3hTLWI1LUpSdUlhTVZSdUdGaGM0a3cxZ1U3aEtQQy1OYXVWdkxJRU0zTXVydkFzQ2p4YWFKemxMVjFRWDFEY2w0bkc5dEdZeUNQNDBkbDAwYWhHOWdldFFzVnR5UnVTYTRxRmhGMWtobFRwdnNjcUxaUGZlQW1iSUszN1B1c1RMWkdFT0JYY2FwVnA?oc=5
+  - marketscreener.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5
+  - Fierce Biotech: https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlhfQllEeEFCQWRaaW14UWlGS2Z1cGlxV2dTQkloSXdxS1dQT0NmUHlfMHNCSUlmSHNlR2JQTU1jcGZ1MmMtUUstb1FQY1J0SzZjWFJTdEttZmlSTWhRQWd6WE5tS0d3R0R1b0dON2FWa3ZEczdFRFFFNG5SLTZwUkY0d2w1NzNRUy1qdmh1eFRjbmFWajVhd3RqcnBRR29hSjZld0EtTmI2UW1hQXNYTU5vaFlmWGVWYTFPVXhHTWVoSTE4S2hydUJxSVMzekhPMFR4cDdzS0xfQmJXSGxiYlpXWQ?oc=5
+
+**Feed description:** Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire
 
 ## 28. Labcorp: Is Its Earnings Discount Worth the Growing Investment Bill?
 

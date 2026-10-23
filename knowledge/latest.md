@@ -1,11 +1,146 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 23 Oct 2026, 5:40 PM IST
+- **Repository generated:** 23 Oct 2026, 10:58 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Quest Diagnostics hit by cyber attack
+## 1. Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide
+
+- **Company:** Labcorp
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMirwFBVV95cUxOYnRobm15MS1PRVBKNVFMd0dtS0dCM3pZc1NsUXdWUzJleGFYdjNFS1NRQ0lBZXZvdEsyOUppMnJiVFJTSC1WMXhSRjBBUk1fQU5HWk9PWE1haHhBcmJLOTltQko0UFo5bl9hN1pqcDFTNE5qWXl0cTBIb1ZJdG1LMXEwMmU1clFzWC1IYVUtVWFqdjdXaVREN1VGNlRwVklmVHUySkhjRDV1S1RIcEFF?oc=5
+
+**Feed description:** Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide Clinical Lab Products
+
+## 2. Quest Diagnostics investigating data breach involving patient records
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Tri-State Alert: https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5
+
+**Feed description:** Quest Diagnostics investigating data breach involving patient records Tri-State Alert
+
+## 3. Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TechCrunch: https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5
+
+**Feed description:** Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch
+
+## 4. Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo: https://news.google.com/rss/articles/CBMinAFBVV95cUxPc29wWFY3QWJWdnZ3RFBTVUIxdnktMkE4a2g1QXhBQmcySWhRUklUdzM4QzVvUXk1b0t2cTR4UWFzd0xmaDBtMXFsLW1GQ1IyMGx1X2lRY2d2UzhvN2N1bHVoUWdocFM0Wi00SjE4enZPd3NGM292R3dPcFZBY2lCQUxRLUxxd2xKd2F3NVlCbFlBa2Q4d0hud1RGRGI?oc=5
+  - Gadget Review: https://news.google.com/rss/articles/CBMixAFBVV95cUxOaF9GQ3JwcFNmekJBN0Q3OGMzajZxanUtdVZHTFhfRFo0WGtSYTlUVEJKM2lQZFJ5V2REQ1V3VHF6dmJmVFVDdWJtZ0pFUUttVDVrUzlkU0diV3ZaYWF1a3hvMm1BZThSRlVBVXRsdjdwaE84ZC1BSUludm1sR3dNT0ZNQjJxQ3hEaXd2RTFLMWlDTE5xb1pYU3lBMUdmVWNjek1Tcmk0Z3pOQ1NQTEx0SXhSU1RKUmZGRGplc2pZdmZCektD?oc=5
+
+**Feed description:** Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked Gadget Review
+
+## 5. Labcorp Acquiring Drug Testing Firm Millennium Health
+
+- **Company:** Labcorp
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GenomeWeb: https://news.google.com/rss/articles/CBMirAFBVV95cUxPcWlsd1FEa2RCbGhiQWhJenJRaWNvRlp3bEJhdk5rcXpZb0lUMkhIdFNETGs0dTk0bmMxRGFOZmk1TzE5ZXFuRzJuZzF6aHFBUWU3TUhRc0R4Wi1Ibk56S1BycVphT3hSeGx6T0dKSC1iU0F5VDM5NFhyeTVJdVljS1JGREhmX280RUdTWU5CV0hYWWEzdEtidmRCN1pkbnBrVVFsRjU0SmE2TzRu?oc=5
+
+**Feed description:** Labcorp Acquiring Drug Testing Firm Millennium Health GenomeWeb
+
+## 6. Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Security Magazine: https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5
+
+**Feed description:** Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected Security Magazine
+
+## 7. Quest Diagnostics warns of potential data theft after attack on lab service system
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The Record from Recorded Future News: https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5
+
+**Feed description:** Quest Diagnostics warns of potential data theft after attack on lab service system The Record from Recorded Future News
+
+## 8. Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Dallas Express: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcy01ejMxWTRYdW4wWFdNWG5oUm5PTDYtbVd4M2hhLVN0cXhLeUV2Zlg0QVVCUEdYb3hZZ2daSFdTY2ZtbEM3T3ZjZldGX2lKcmhLTXBKZUpNUVk3SU8wZ2lMemkyeDlkaF9nZzZUTkJ4dTZCUnpjX0FTY0VheDh3eEt1cDREb1VXRGNqVEpjLVJUN0VXeFEwUzctUVdjR3RjR0x2MnlBU3JRaUpIMi0yUHROQVN2UGhPLVFyZU1SS1BJZEFwaV9OMXRjZWRGTVJCWHJheEE0b0E?oc=5
+
+**Feed description:** Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security Dallas Express
+
+## 9. Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWtOYU45R3JSOVlmclJ1RTNhU2pEcFo4aHlkWUtmbnk4S25LeU1DWGlVTzk0U1hsdDd3ZVlZN0FzZU5vcW5CYmV1cTBuMGxsWWUxZ1B4Y1cyTFdJSG8yT05wR1NrOHdrbUJ3LVdsT1FYVlpHVVN0aW5xU1FzUjE5Q1pIZUh2WHFhTlQ3cTJJYk9jLTV3U2toeGhvaEdVSHBVMG05R09nMnBVdGIzNE9zbmZ0eV9YNG4zUnd0ZHlUcXpiNW5rdWVMU1J3QVE3Zw?oc=5
+
+**Feed description:** Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating marketscreener.com
+
+## 10. Patient Data Likely Accessed in Quest Diagnostics Hack
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The HIPAA Journal: https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5
+
+**Feed description:** Patient Data Likely Accessed in Quest Diagnostics Hack The HIPAA Journal
+
+## 11. Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - Cyber Press: https://news.google.com/rss/articles/CBMib0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUdIBb0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUQ?oc=5
+  - GBHackers News: https://news.google.com/rss/articles/CBMibkFVX3lxTE42eEU3c0xvUlZScmpGWTFVUTBRTzEyeGlfMHM0MkdRUzQ4SXdNeC13ejZGcnJhUXRQR0Z3YVdPaVo2MDR1dE9WUUdBTnJDNGRncF9GZzlqLUR5WC1XSGp2RkhLbkZ0cUJSNzZGX2Zn0gFzQVVfeXFMT2k1Y3dqUTI4anUwWUdGV0QyTVN3d01lZmJlZlR0ZkdjVVBNemdZc0lWck9BQ25hZ0tsbUtQUVVaU3FIU1RiR1ZQRVRKWGdjUDdVT3lJbWF6V1VxcXBhZG5vcWVYMzU4X0ZfN1l1bU9YRXhzbw?oc=5
+  - Pluang: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG5XSmg5WF9feWVmSS1KMFhzdDQ1WUVOMGpOcGxVU0s4QUZWRXRyTndlR1VfYWxieTFQWGVhZVpraG9URjJBeUh4clVvZld6WUdOb0k1NjBkVDZTRU8tNkNXRWhLeld2Q3pYMmJBUENFdHBTZVdBOG1qQTJrbXRKbk1NVzNCalBsRk1RS2FqUUhsMU95VmUwWnRkVUdoUzU3QzBPNU9rZm9UY2c?oc=5
+
+**Feed description:** Quest Diagnostics confirms cyberattack exposing sensitive patient data from its lab testing system. Pluang
+
+## 12. Quest Diagnostics hit by cyber attack
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -17,19 +152,20 @@
 
 **Feed description:** Quest Diagnostics hit by cyber attack FOX 8 News
 
-## 2. Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System
+## 13. Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - OfficeChai: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXdMcXVwWUxFWVp2UXAzSk9QUTNtSEpiUTY5aWlTMlFhSjNTdGtZck5sbkVZV3p4d0cwTk4waEw5SW1zVTBlTGNubFRIZjgyN0tmMUxJSU1VV1NpdzFyVmZUQnozNEVBYUFsVmhuVWdJVlcyVVJHSDlmclU0V0hkcG5JWWl0bl9DcjAwbnFnRmE0aFJXRXU4cFItOWJBSk00TEZIQTdIcDhqa01Fdk4tYzdGYnVud2RrUm1Tb0w4VWttcHBWQVJwN1JvSGVram13UjJScWdxMkVRbHBpcmN4WkVRenNXdw?oc=5
+  - SC Media: https://news.google.com/rss/articles/CBMilwFBVV95cUxNQWxWNTQwZHc0TWcwQU5tb25uRkJYU3cwNE9FTjlnNVgtWXA4em4zRWp0c3VjZEdySktRcWdTMFRvTVZjNGVhSGlDTlRweDVLS3BUUTZuem9TaWJHd2ZjNE9yVW5TMWppbmJXWW9GYTc2Rjh1bGpNTFpyS2VyQmZqb2NwN001Y0tJeDdHS3R3cF9qS0N4VUYw?oc=5
 
 **Feed description:** Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System OfficeChai
 
-## 3. US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed
+## 14. US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -41,7 +177,7 @@
 
 **Feed description:** US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed News9live
 
-## 4. Quest Diagnostics Raises 2026 Reported EPS Forecast to $10.21-$10.31
+## 15. Quest Diagnostics Raises 2026 Reported EPS Forecast to $10.21-$10.31
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -53,7 +189,7 @@
 
 **Feed description:** Quest Diagnostics Raises 2026 Reported EPS Forecast to $10.21-$10.31 TOKENPOST
 
-## 5. Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results
+## 16. Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -65,7 +201,7 @@
 
 **Feed description:** Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results CyberSecurityNews
 
-## 6. Quest Diagnostics confirms breach of lab systems, patient data now at risk
+## 17. Quest Diagnostics confirms breach of lab systems, patient data now at risk
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -77,7 +213,7 @@
 
 **Feed description:** Quest Diagnostics confirms breach of lab systems, patient data now at risk Cybernews
 
-## 7. Another Healthcare Cyberattack? Quest Diagnostics Test Results System Breach Raises Patient Data Security Concerns
+## 18. Another Healthcare Cyberattack? Quest Diagnostics Test Results System Breach Raises Patient Data Security Concerns
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -89,7 +225,7 @@
 
 **Feed description:** Another Healthcare Cyberattack? Quest Diagnostics Test Results System Breach Raises Patient Data Security Concerns NDTV Profit
 
-## 8. Quest Diagnostics stock: Quest raises 2026 guidance. What it means for Quest Diagnostics stock
+## 19. Quest Diagnostics stock: Quest raises 2026 guidance. What it means for Quest Diagnostics stock
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -102,7 +238,7 @@
 
 **Feed description:** Quest Diagnostics stock: Quest raises 2026 guidance. What it means for Quest Diagnostics stock AD HOC NEWS
 
-## 9. Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records
+## 20. Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -114,7 +250,7 @@
 
 **Feed description:** Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records | Hindustan Times Hindustan Times
 
-## 10. As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips
+## 21. As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -126,7 +262,7 @@
 
 **Feed description:** As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips WFMZ.com
 
-## 11. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
+## 22. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -139,19 +275,20 @@
 
 **Feed description:** Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment TradingView
 
-## 12. Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down
+## 23. Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Fox Business: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThpckk5YXVGS3VVSHhPb1pnUDhVVW9fVjMwRDhnLVBpdlRaUklhbmJvRVNWWVJpSGJaREZoOVRfSE52dnBWYlUxcmo5WkxCZmg3TmFxX3o3d1JXaTljM3hpMmJVa2U0UmR4N1JIUkEtTHctbUE5MmpSTGwyYnpzZUxhQ3loZGsyMjIxZUxnell4ZTZUN1Q5OVFlNTBJa0xKLXBIYmJzTTlrdWJuNk54QUhTc09WVGdmeHh1WXUtY2fSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5
+  - Fox Business: https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUl4MzJraVJzZkVQeUkwSllQcWIwclItdEUzdHVPQjlQSkc5ZTlER3F2amc4SkZZWUNWMXlTZEQ0cGJoZXJTZks2X3k4b1N3YWdTVnpCbUJ1UkRBbE52RThvaUpRZkpadEQyS3ZfUjRRQ0d4V0JrY1BsR2F3VTVtdEROTTUtMEVIelMyTnBtWDF0YV9sNHVtWWhIejFtWE43SENfZVo5QkVJdy0zbGE5dThTY3NnNlAxWkFJSmk2RndaTEpTZFHSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5
 
 **Feed description:** Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down Fox Business
 
-## 13. Quest Diagnostics Lifts 2026 Revenue and Earnings Targets After Q3 Beat
+## 24. Quest Diagnostics Lifts 2026 Revenue and Earnings Targets After Q3 Beat
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -163,7 +300,7 @@
 
 **Feed description:** Quest Diagnostics Lifts 2026 Revenue and Earnings Targets After Q3 Beat TOKENPOST
 
-## 14. Quest Diagnostics Reports Hack on IT System Used by Clients
+## 25. Quest Diagnostics Reports Hack on IT System Used by Clients
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -175,7 +312,7 @@
 
 **Feed description:** Quest Diagnostics Reports Hack on IT System Used by Clients BankInfoSecurity
 
-## 15. Quest Diagnostics (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ...
+## 26. Quest Diagnostics (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -188,19 +325,20 @@
 
 **Feed description:** Quest Diagnostics Inc (DGX) (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ... By GuruFocus Investing.com Canada
 
-## 16. If you used Quest Diagnostics, your data may have been compromised: Here’s what happened
+## 27. If you used Quest Diagnostics, your data may have been compromised: Here’s what happened
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - LiveNOW from FOX: https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5
+  - KTVU: https://news.google.com/rss/articles/CBMirAFBVV95cUxPM21NX3F1cUF0YWt4THc1RjFVem9LTTg4Y2Y2TVNhNEFqTkl5Ykx4WFF6eXVIREZVemctT3ZfSHRhVmZqOHhjUTdYNDYyYjR6QW1wczhYTHpJRW9wM2xHUTQ4bFI2VDgxcV85NHFaNlJGVVZ3Sy1hdFFndi1KRDBpWEdEUjVWQUtYcEtXSUFQNVd4SjNoMmtwV0Q3Y0ZQMFNtdEFwd1oyOGxpSVpt?oc=5
 
 **Feed description:** If you used Quest Diagnostics, your data may have been compromised: Here’s what happened LiveNOW from FOX
 
-## 17. Charles River partners with FDA, Labcorp on drug abuse research
+## 28. Charles River partners with FDA, Labcorp on drug abuse research
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -212,7 +350,7 @@
 
 **Feed description:** Charles River partners with FDA, Labcorp on drug abuse research Investing.com
 
-## 18. Quest Diagnostics Alerts Regulators After Hackers Breach Quanum LSM System Holding Sensitive Patient Test Results
+## 29. Quest Diagnostics Alerts Regulators After Hackers Breach Quanum LSM System Holding Sensitive Patient Test Results
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -224,7 +362,7 @@
 
 **Feed description:** Quest Diagnostics Alerts Regulators After Hackers Breach Quanum LSM System Holding Sensitive Patient Test Results cristinaiglesias.com
 
-## 19. Quest Diagnostics: 3 Key Takeaways for Long-Term Investors
+## 30. Quest Diagnostics: 3 Key Takeaways for Long-Term Investors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -236,19 +374,20 @@
 
 **Feed description:** Quest Diagnostics: 3 Key Takeaways for Long-Term Investors The Motley Fool
 
-## 20. What Quest Diagnostics Said on Its Q3 Earnings Call
+## 31. What Quest Diagnostics Said on Its Q3 Earnings Call
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUQyNXJhU19uaXBzakRhNWpSNDNmWWtKenMxU2lCZGVXVXpxb3QtM29GdHJZYXJGVVItYlJnWkNyWDd6R0Y4VXFLQkdjWm5Jb21JUHdJU2xKanhHa3hldU8yS0RBTE9mdlRxbFE0ajlKUHZfcmFYdW5SUXJEWWdCbDR6XzJWX3A2RU44S3B2TnNfSXFC?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzhiMFFCWTdLTnZVbVdMWDFzdXFpZ0J5LWc2aDVINl9GSlhweFRfdjJiaWJWT0NKS3dBWHZYU2NXVUFMSXUwVW9QVG8zbERBTnVsU0RPLTFKY3J6M012UVgwblA1dHpDXzhfalFocXFRQ21DVHI0SnBaSHNwMFJFR3pDSXlBZVJYRUFDMVdDdkk2eVRlNGN2VUwxSUNlR0I5M2E3OEJ0ODYzc3FETHkzYkI3bDdGRDA?oc=5
 
 **Feed description:** What Quest Diagnostics (DGX) Said on Its Q3 Earnings Call Yahoo Finance
 
-## 21. Quest Diagnostics Reports Strong Q3 Revenue Growth and Rai
+## 32. Quest Diagnostics Reports Strong Q3 Revenue Growth and Rai
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -260,20 +399,22 @@
 
 **Feed description:** Quest Diagnostics (DGX) Reports Strong Q3 Revenue Growth and Rai GuruFocus
 
-## 22. Quest Diagnostics Data Breach Quanum Lsm Exposes Patient Records
+## 33. Quest Diagnostics Data Breach Quanum Lsm Exposes Patient Records
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - El-Balad.com: https://news.google.com/rss/articles/CBMiSEFVX3lxTE5USWNJby1acGg4OWo4VWgtODcwMDk5QV9SQ3RNQ0RYVElMMTFhOTFhZTFDT2hRVmlNbnBCekptaV92RFUzZ0JzTw?oc=5
   - شبكة تواصل الإخبارية: https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTUpUdXJfVDBFN2hucHM3N0FYbGZ4OEM5aFNhOXBRZ3pQYXBDMmMtdXYzYW1telVleExURmZjSm5lY1VOWjdYLVloN1UtZ3pMZWNN?oc=5
+  - NJBIZ: https://news.google.com/rss/articles/CBMifkFVX3lxTE1uemctcGRNaGdQSGdGQVBZTjJ6bjNaMWYwSDVVSlo5WlpFMjl3aHBiY3R0aktQVWk4SS1JVnluRVNtYm1hYkVuWWFxdUdPbjdhUm1mYXNTMmFMdmJfX1JIUjZLT1k5YkhnQkV5cTE0TXZreV92cUlBTmQxZU01UQ?oc=5
+  - BleepingComputer: https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDdtTy15WWNDQzhmQVR0YnVIenFsWmQwMGY5VzNscV9EbG5hQkZBUTZtTlN1LUFDdWVTdFZ5dXlYTFoycEFmcmlpZVdWMUFoeUx4bU1IZ1NLMGdRZ1BhbF9aNGJ5Sy1hOWFmMDR4WHRzeUQydTRqLVVXNDFLdUVka3l3VlNpZEl2SXlxUjNWUzVlMjFxTk1zT051NXpGUkJUNkFOUnVDQ1d3cXZXbGdF?oc=5
 
 **Feed description:** Quest Diagnostics Data Breach Quanum Lsm Exposes Patient Records شبكة تواصل الإخبارية
 
-## 23. Quest Diagnostics Raises 2026 Outlook Amid Strong Dividend Fundamentals
+## 34. Quest Diagnostics Raises 2026 Outlook Amid Strong Dividend Fundamentals
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -285,7 +426,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Raises 2026 Outlook Amid Strong Dividend Fundamentals GuruFocus
 
-## 24. Quest Diagnostics 2026 Q3 - Results - Earnings Call Presentation 2026-10-22
+## 35. Quest Diagnostics 2026 Q3 - Results - Earnings Call Presentation 2026-10-22
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -297,7 +438,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated 2026 Q3 - Results - Earnings Call Presentation (NYSE:DGX) 2026-10-22 Seeking Alpha
 
-## 25. Quest Diagnostics Bumps Guidance While Managing Quanum System Breach
+## 36. Quest Diagnostics Bumps Guidance While Managing Quanum System Breach
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -309,7 +450,7 @@
 
 **Feed description:** Quest Diagnostics Bumps Guidance While Managing Quanum System Breach Benzinga
 
-## 26. Quest Diagnostics Posts 10% Revenue Jump in Q3 2026, Beats on EPS
+## 37. Quest Diagnostics Posts 10% Revenue Jump in Q3 2026, Beats on EPS
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -321,7 +462,7 @@
 
 **Feed description:** Quest Diagnostics Posts 10% Revenue Jump in Q3 2026, Beats on EPS AlphaStreet
 
-## 27. Quest Diagnostics Breach: 11.9M Patients Exposed [2026]
+## 38. Quest Diagnostics Breach: 11.9M Patients Exposed [2026]
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -333,7 +474,19 @@
 
 **Feed description:** Quest Diagnostics Breach: 11.9M Patients Exposed [2026] shattered.io
 
-## 28. Quest Diagnostics Faces Cybersecurity Incident Amid Strong Q3 Results
+## 39. Quest Diagnostics discloses breach after ‘unauthorized access’
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TipRanks: https://news.google.com/rss/articles/CBMirwFBVV95cUxOWGJJLV9UN0JIMGlhY2pHVjNZQVo4bVd2TTctOEcyVk9hblpOUWhmOU5NalhUTXNxOEo2SzBYY2xJbDFEOGVPaUh6ZGtMTmllNDlha0g1bVJvUlFDUWxydGYwVXlSV3NVTDh1U1Z3U0RrLU9CejJneXM3TzVRc1pnbWZ2TmFQdmJSSEpHNGpzeFdDYVh3a0o1WndFVDJzNGpHVXBoSUpTN0cxaFRORnlJ?oc=5
+
+**Feed description:** Quest Diagnostics discloses breach after ‘unauthorized access’ TipRanks
+
+## 40. Quest Diagnostics Faces Cybersecurity Incident Amid Strong Q3 Results
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -345,7 +498,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Faces Cybersecurity Incident Amid Strong Q3 Results GuruFocus
 
-## 29. [Quest Diagnostics Q3 2026 Earnings Call] Quest Raises Guidance as Revenue Jumps 10% to $3.1B, but PAMA Cuts Loom at ~$120M for 2027
+## 41. [Quest Diagnostics Q3 2026 Earnings Call] Quest Raises Guidance as Revenue Jumps 10% to $3.1B, but PAMA Cuts Loom at ~$120M for 2027
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -357,12 +510,12 @@
 
 **Feed description:** [Quest Diagnostics Q3 2026 Earnings Call] Quest Raises Guidance as Revenue Jumps 10% to $3.1B, but PAMA Cuts Loom at ~$120M for 2027 BigGo Finance
 
-## 30. Quest Diagnostics reports cyber breach affecting 'certain patient records'
+## 42. Quest Diagnostics reports cyber breach affecting 'certain patient records'
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 28
+- **Coverage count:** 31
 - **Official source involved:** No
 - **Sources:**
   - WFMZ.com: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5
@@ -393,10 +546,13 @@
   - McAlester News-Capital: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdDNkY0NLeVAxZXF3Z19TY2VHODQtVDFzck56VENZX2JoZjZwTElZX3ZmWkpKNThMaDdsb3FXS2UwUG84WTAwVTNGdTdmYnkwc1c5TXlvWTg5WWNaR1ZzWXFTZ0ZSWEViNjRCQXlhbjU5V0VGeVN2X0RzZGcxLXRld2ZRZ01CNHlLYjFnVEV6VlF3Z3I2aG9jR0VURVh1YUxDeGlxNnpETGYxQ2RRWkY3ckpiN3A3TDdoSnI4NGYtSnM3bXVnQWp5cW1HQktfV3FObjk5ZkhBZmpmYWwzajhxTFRxc1BiaEpRbUJpd1RKVGo?oc=5
   - inkl: https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnR3eGhYZ1pjclJsRXQ2VjVuUVlRQXgzS0taaW45WnF2Y0ZMWHd2RFBqVWF4ZVpnWjlyTVJfSE11TUpPOWw4M1ptbVJTM3RkSTJSakRyLWN4ZGpyM0EtdEhWMmpLbkNXRUVPYzd0Wml4bkI0WjUyT3FXVVFUa2VJa1hjSHN5YTlsdnZ0M3pNREdPZ3ZwaUE5ZlFMOUloOVk?oc=5
   - FOX5 Vegas: https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXNMLTA2NnU2SnVOS09jR3l4UTNSMjcyT1V5V2xjS0tkVG1BTHN4RlpmNTFzNW5oQVRFcjBnXzFuNWR1UG4zLXBkLTczY1VDUmpieEczVUVvb0lEd1cxUHFCcDFtYlpKZm5ZMGVoWC1VVWhCOTVwcWN4enc0NGc5cTY2RnJ6R1pUWl81SWhyQ1RZVV9jZ0E5ejJKXzhGZmxaVFlqTUw3ZmNZZEp3Z1hGb3VWa01zeU0?oc=5
+  - Star Beacon: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHRqODdSQ0V1WWQxUVRBUTU3Z2RkSDVqUG4tT1Jxa1FMVFFmTUtISzVRSDA3dUxPQm5aQmc4d1Y0M3g5b1IzeURabGRjQ3pWb1F0aXlDR25Xa3pzOGdtdXF1QWtpU0xuU1RfbHhKOW8tcDhkWG84RnhRLVBEOVRDVUxiVjNRZDFjLS1waVpGeEdhbDI0R01fSmxBUTktTm5WYUROeFp6V0lqSlg0R0pkVi1sdDBRVUxBbnpCR01rdGl2SlZDSmtfSldxT3RPWHJaeEhIRjFnZWhzQlI1enlfdk1DZ2dPc2ZrWDliYg?oc=5
+  - thereporteronline: https://news.google.com/rss/articles/CBMickFVX3lxTFBPSWRjM1FGeXJyZC03VEJWRUNSa2xBamNVbFJSdFB1U1puRk52bEF1VEZIS2x2WWtFNTdhM2d1VlNwSXpaMnpLQ04xM2lJMHVYX0hJV2dneGNEMFdMYnhmVXRMMjdCc1M0OHZxTlVuZFEyZw?oc=5
+  - SecurityWeek: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbdIBqgFBVV95cUxOZHZtdWN2eWhLUVIxM080ZFh6V2hId1FDSVpHYVRuUFJFS2ZYNzFnOVFlTnA3aUtHM2IxdXNGMEpOWGotODNZd0cwdUtDSDhlb3hkQUkyb2FfZ2xGcDZ3b05FUjZHNVFZOUJmSk9qaVJlT3ZCZmVXdUZuYTEwNFpQVUdPTkNpQ3REZXcwUDlTdkFfY3A5Vm5zSnI4LWhpaGgxS0lSTS1yei03UQ?oc=5
 
 **Feed description:** Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos
 
-## 31. Labcorp to buy Myriad’s prenatal health testing unit for $210M
+## 43. Labcorp to buy Myriad’s prenatal health testing unit for $210M
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -408,7 +564,7 @@
 
 **Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive
 
-## 32. Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook
+## 44. Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -421,7 +577,7 @@
 
 **Feed description:** Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook By Investing.com Investing.com South Africa
 
-## 33. Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87
+## 45. Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -433,7 +589,7 @@
 
 **Feed description:** Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87 TipRanks
 
-## 34. Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com
+## 46. Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -446,7 +602,7 @@
 
 **Feed description:** Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com Investing.com Canada
 
-## 35. Quest Diagnostics Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026
+## 47. Quest Diagnostics Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -459,7 +615,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 marketscreener.com
 
-## 36. Quest Diagnostics Q3 FY2026 earnings call transcript
+## 48. Quest Diagnostics Q3 FY2026 earnings call transcript
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -474,7 +630,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Q3 FY2026 earnings call transcript Yahoo Finance
 
-## 37. Quest Diagnostics’ test results system breached in yet another medtech cyberattack
+## 49. Quest Diagnostics’ test results system breached in yet another medtech cyberattack
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -486,7 +642,7 @@
 
 **Feed description:** Quest Diagnostics’ test results system breached in yet another medtech cyberattack Fierce Biotech
 
-## 38. Quest Diagnostics Q3 Earnings Beat Expectations, Updates 2
+## 50. Quest Diagnostics Q3 Earnings Beat Expectations, Updates 2
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -498,7 +654,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Q3 Earnings Beat Expectations, Updates 2 GuruFocus
 
-## 39. Quest Diagnostics Reports Q3 Revenue Beat, Boosts Full-Yea
+## 51. Quest Diagnostics Reports Q3 Revenue Beat, Boosts Full-Yea
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -510,7 +666,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Reports Q3 Revenue Beat, Boosts Full-Yea GuruFocus
 
-## 40. Quest Diagnostics Q3 2026: Volume surge powers a guidance raise
+## 52. Quest Diagnostics Q3 2026: Volume surge powers a guidance raise
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -522,7 +678,7 @@
 
 **Feed description:** Quest Diagnostics Q3 2026: Volume surge powers a guidance raise 24/7 Wall St.
 
-## 41. Quest Diagnostics Q3 revenue rises 10%, raises ...
+## 53. Quest Diagnostics Q3 revenue rises 10%, raises ...
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -534,7 +690,7 @@
 
 **Feed description:** Quest Diagnostics Q3 revenue rises 10%, raises ... Pluang
 
-## 42. QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings
+## 54. QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -547,7 +703,7 @@
 
 **Feed description:** QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings Quiver Quantitative
 
-## 43. Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance
+## 55. Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -560,7 +716,7 @@
 
 **Feed description:** Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance www.marketscreener.com
 
-## 44. Quest Diagnostics falls despite beat and raised guidance
+## 56. Quest Diagnostics falls despite beat and raised guidance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -572,7 +728,7 @@
 
 **Feed description:** Quest Diagnostics falls despite beat and raised guidance Investing.com
 
-## 45. Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B
+## 57. Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -584,7 +740,7 @@
 
 **Feed description:** (DGX) Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B marketscreener.com
 
-## 46. Quest Diagnostics reports unauthorized access to patient records system
+## 58. Quest Diagnostics reports unauthorized access to patient records system
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -601,7 +757,7 @@
 
 **Feed description:** Quest Diagnostics reports unauthorized access to lab system, says patient information may have been compromised WRNJ Radio
 
-## 47. Earnings Flash Quest Diagnostics Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87
+## 59. Earnings Flash Quest Diagnostics Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -613,7 +769,7 @@
 
 **Feed description:** Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87 marketscreener.com
 
-## 48. Quest Diagnostics: Q3 Earnings Snapshot
+## 60. Quest Diagnostics: Q3 Earnings Snapshot
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -627,7 +783,7 @@
 
 **Feed description:** Quest Diagnostics: Q3 Earnings Snapshot Yahoo Finance
 
-## 49. Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast
+## 61. Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -639,7 +795,7 @@
 
 **Feed description:** Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast TradingView
 
-## 50. Quest Diagnostics earnings beat by $0.13, revenue topped estimates
+## 62. Quest Diagnostics earnings beat by $0.13, revenue topped estimates
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -655,7 +811,7 @@
 
 **Feed description:** Quest Diagnostics earnings beat by $0.13, revenue topped estimates Investing.com South Africa
 
-## 51. Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain
+## 63. Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -667,7 +823,7 @@
 
 **Feed description:** Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain TradingKey
 
-## 52. Quest Diagnostics Tops Q3 EPS by 13c; raises guidance
+## 64. Quest Diagnostics Tops Q3 EPS by 13c; raises guidance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -679,7 +835,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Tops Q3 EPS by 13c; raises guidance StreetInsider
 
-## 53. Quest Diagnostics Latest Press Releases & Corporate News
+## 65. Quest Diagnostics Latest Press Releases & Corporate News
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -691,7 +847,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Latest Press Releases & Corporate News Yahoo Finance
 
-## 54. Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
+## 66. Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
@@ -706,7 +862,7 @@
 
 **Feed description:** Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 Morningstar
 
-## 55. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
+## 67. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -718,7 +874,7 @@
 
 **Feed description:** BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp Utah Money Watch
 
-## 56. Quest Diagnostics earnings on deck as Medicare cut worries loom
+## 68. Quest Diagnostics earnings on deck as Medicare cut worries loom
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Oct 2026
@@ -732,7 +888,7 @@
 
 **Feed description:** Quest Diagnostics earnings on deck as Medicare cut worries loom By Investing.com Investing.com South Africa
 
-## 57. Labcorp Declares Quarterly Dividend
+## 69. Labcorp Declares Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -748,7 +904,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Declares $0.72 Quarterly Dividend TradingView
 
-## 58. Quest Diagnostics earnings beat, stock sinks ~5% anyway
+## 70. Quest Diagnostics earnings beat, stock sinks ~5% anyway
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Oct 2026
@@ -760,7 +916,7 @@
 
 **Feed description:** Quest Diagnostics earnings beat, stock sinks ~5% anyway ABC Money
 
-## 59. Quest Diagnostics collaborates with Waters on at-home cervical cancer screening: Can DGX break above $237.25?
+## 71. Quest Diagnostics collaborates with Waters on at-home cervical cancer screening: Can DGX break above $237.25?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -772,7 +928,7 @@
 
 **Feed description:** Quest Diagnostics collaborates with Waters Corp on at-home cervical cancer screening: Can DGX break above $237.25? Traders Union
 
-## 60. UBS lifts target for Quest Diagnostics stock to USD 250.00
+## 72. UBS lifts target for Quest Diagnostics stock to USD 250.00
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -784,7 +940,7 @@
 
 **Feed description:** UBS lifts target for Quest Diagnostics stock to USD 250.00 ad-hoc-news.de
 
-## 61. Labcorp acquisition spree continues
+## 73. Labcorp acquisition spree continues
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -796,7 +952,7 @@
 
 **Feed description:** Labcorp acquisition spree continues BioWorld News
 
-## 62. Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets
+## 74. Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -808,7 +964,7 @@
 
 **Feed description:** Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets Medical Device and Diagnostic industry
 
-## 63. Quest Diagnostics to Offer Waters At-Home Cervical Cancer Screening Kit
+## 75. Quest Diagnostics to Offer Waters At-Home Cervical Cancer Screening Kit
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -820,7 +976,7 @@
 
 **Feed description:** Quest Diagnostics to Offer Waters At-Home Cervical Cancer Screening Kit GenomeWeb
 
-## 64. Quest Diagnostics: Is Rapid Test Growth Translating Into Better Customer Economics?
+## 76. Quest Diagnostics: Is Rapid Test Growth Translating Into Better Customer Economics?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -834,7 +990,7 @@
 
 **Feed description:** Quest Diagnostics (DGX): Is Rapid Test Growth Translating Into Better Customer Economics? Insider Monkey
 
-## 65. Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer
+## 77. Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -846,7 +1002,7 @@
 
 **Feed description:** Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer www.marketscreener.com
 
-## 66. Quest Diagnostics expected to post earnings of $2.86 a share - Earnings Preview
+## 78. Quest Diagnostics expected to post earnings of $2.86 a share - Earnings Preview
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -858,7 +1014,7 @@
 
 **Feed description:** Quest Diagnostics Inc expected to post earnings of $2.86 a share - Earnings Preview TradingView
 
-## 67. Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp
+## 79. Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -874,7 +1030,7 @@
 
 **Feed description:** Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance
 
-## 68. Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option
+## 80. Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -888,7 +1044,7 @@
 
 **Feed description:** Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option Yahoo Finance
 
-## 69. A new at-home HPV test kit is going national through Quest Diagnostics
+## 81. A new at-home HPV test kit is going national through Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -900,7 +1056,7 @@
 
 **Feed description:** A new at-home HPV test kit is going national through Quest Diagnostics Fast Company
 
-## 70. Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach
+## 82. Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 19 Oct 2026
@@ -912,7 +1068,7 @@
 
 **Feed description:** Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach Holland & Knight
 
-## 71. Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk
+## 83. Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Oct 2026
@@ -925,7 +1081,7 @@
 
 **Feed description:** Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk Quiver Quantitative
 
-## 72. Quest Diagnostics will report results on October 22 for Quest Diagnostics stock
+## 84. Quest Diagnostics will report results on October 22 for Quest Diagnostics stock
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Oct 2026
@@ -938,7 +1094,7 @@
 
 **Feed description:** Quest Diagnostics will report results on October 22 for Quest Diagnostics stock ad-hoc-news.de
 
-## 73. Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]
+## 85. Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]
 
 - **Company:** Labcorp
 - **Publication date:** 17 Oct 2026
@@ -950,7 +1106,7 @@
 
 **Feed description:** Wisconsin Labcorp Data Breach Settlement: $2.3M [2026] shattered.io
 
-## 74. NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More
+## 86. NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More
 
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
@@ -962,20 +1118,7 @@
 
 **Feed description:** NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz
 
-## 75. Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million
-
-- **Company:** Labcorp
-- **Publication date:** 16 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - BioBuzz: https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5
-  - Pulse 2.0: https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5
-
-**Feed description:** Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz
-
-## 76. OPKO Health to Sell Select BioReference Assets to Labcorp for $722M
+## 87. OPKO Health to Sell Select BioReference Assets to Labcorp for $722M
 
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
@@ -989,7 +1132,7 @@
 
 **Feed description:** OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research
 
-## 77. Sonic Healthcare Shares May Trade At A Discount On Earnings
+## 88. Sonic Healthcare Shares May Trade At A Discount On Earnings
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 16 Oct 2026
@@ -1001,7 +1144,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Shares May Trade At A Discount On Earnings Yahoo Finance
 
-## 78. Quest Diagnostics Options Chain - Yahoo Finance
+## 89. Quest Diagnostics Options Chain - Yahoo Finance
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -1014,7 +1157,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Options Chain - Yahoo Finance Yahoo! Finance Canada
 
-## 79. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
+## 90. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1026,7 +1169,7 @@
 
 **Feed description:** Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight
 
-## 80. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
+## 91. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1038,7 +1181,7 @@
 
 **Feed description:** Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec
 
-## 81. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
+## 92. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1050,7 +1193,7 @@
 
 **Feed description:** OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments Kalkine Media
 
-## 82. Truist lifts target to USD 260.00 for Quest Diagnostics stock
+## 93. Truist lifts target to USD 260.00 for Quest Diagnostics stock
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -1062,7 +1205,20 @@
 
 **Feed description:** Truist lifts target to USD 260.00 for Quest Diagnostics stock ad-hoc-news.de
 
-## 83. Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com
+## 94. Labcorp outlays up to $872m to acquire BioReference’s laboratory assets
+
+- **Company:** Labcorp
+- **Publication date:** 15 Oct 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5
+  - Hoodline: https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5
+
+**Feed description:** Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline
+
+## 95. Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -1080,24 +1236,7 @@
 
 **Feed description:** Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com Investing.com South Africa
 
-## 84. Labcorp to Acquire BioReference Health Assets in $872M Deal
-
-- **Company:** Labcorp
-- **Publication date:** 15 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 6
-- **Official source involved:** No
-- **Sources:**
-  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5
-  - Contract Pharma: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5
-  - Medical Device Network: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5
-  - Hoodline: https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5
-  - BioXconomy: https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5
-
-**Feed description:** Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline
-
-## 85. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
+## 96. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1109,36 +1248,7 @@
 
 **Feed description:** Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance
 
-## 86. Labcorp to acquire BioReference Health assets for $722 million By Investing.com
-
-- **Company:** Labcorp
-- **Publication date:** 15 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com India: https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5
-  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5
-  - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5
-
-**Feed description:** Labcorp to acquire BioReference Health assets for $722 million By Investing.com Investing.com India
-
-## 87. Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health
-
-- **Company:** Labcorp
-- **Publication date:** 15 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5
-  - citybiz: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5
-  - GenomeWeb: https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5
-  - Clinical Lab Products: https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5
-
-**Feed description:** Labcorp Enters into Agreement with OPKO Health to Acquire Select Assets of BioReference Health PR Newswire
-
-## 88. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
+## 97. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1150,7 +1260,33 @@
 
 **Feed description:** Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH
 
-## 89. Quest Diagnostics Stock Price, News, Quote & History
+## 98. Labcorp to Acquire Select BioReference Health Assets for $722M
+
+- **Company:** Labcorp
+- **Publication date:** 15 Oct 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 15
+- **Official source involved:** No
+- **Sources:**
+  - Clinical Lab Products: https://news.google.com/rss/articles/CBMipwFBVV95cUxQaGgtdkVTY3puWV9NaGZ4SjNXM1B6S05WVERZeDNiMzI1NGJPQzA0TXdSME14MkVLSGMzYTBpVUVYdy1LTmM1ZE1ZcmtfcVRXYUs1UWpfdGRKSWFxLWxHb0xXdUZaRkUxa21Ca0hBSUJMc19HWXNqeDNuMEhhX0VGQUd3ZzRYSkRtWDFBRGtkMmJwWnMyZ295ZG55WTRvLS1NVDg1X0NmZw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ0JpY1hwWFBuUzRvSDU5QVNSN3AtZUhNYXIxZTJxZFRBMTg5MmN2eUJvUDBqYzFKZncwUkJaeGd6QkRnV2NzMkpKajcxZjg0TDFBa3dzU1duY1p3RF9vbDViZjRNamUxWmFZRG5RekljOVdxREFHMzNKMGlqSzZCMDN6eXp6WXdsT3pMRThRdXFvb3RndXByVmRhY0llNGx2cmJWYlk4Wjh2WmFra3FpcVl4U0lFN01aMDZZOTBacTMyblRGZHAxbUt5VlNkcGxyT051Y2p4MDE5cjVyNzVwQ0JaSFA?oc=5
+  - citybiz: https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmxrbGdaVDdFZkM2XzZsVkp0VnozWW5UUmlQa3YxTHhoT2J3VDJIZkYyUGI1U2dUVHppSXFTYV9ZR2dxZFBCMXJtMXdGWWtPd0k1X2VIbThjQzUtYjh5R09lbWg5R0VoSF9MT3F4VUpveUhuRlJmTXFOcnMwZkdkd1lBeGR5c3NjTUdUbnRaMmRGeGlzZHc2OTBzZVpMazh3TmpJY1FBb1dGN1VmNUxhMVNidTl6bGs?oc=5
+  - GenomeWeb: https://news.google.com/rss/articles/CBMisgFBVV95cUxObjJ4X3pvNXVLZHlfS3k3YjJ0QkJoQXJYa0paUDVGQ2R3NnUtSlRFb28zd0VzY2hfZ2lhbjNVVjBMLUFOME5zcFp5TG0ydzAwOEdLMmJQNkg3QktaVkxkUXJyZFVvVzV3SEc4TVp5LVRFSm5yb2lidnBBU1RzZno0aENIaXRxOUUtWnBhSDhZMk1pVTItWEl3VXdMNC10R1IxUlQzdHYtcWJ2QURERk1nX1VR?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkExS1ZFeUwxMFAyUGFMYlA3cmhtVnF4UlJCUzBsRzRlaV9MUTJPQ3lMa2JJMHFJbXZqbGQwQW5wT01Nc3F4Tm1waDdrWVVLZThBZVRERTBhd1pLN1lINUx5RGQ5X3BwaVZGdjdPWUR4cmZVc25Oc0UwLWgxaWVzOXZEOUgybDdFTEtUNzh3WkQ1TDlPaFg0VG1VQTM5MnF3dEtUOFVCaXBTVnN0a0luOTh2OUJTbW5uQnd4S0J3dw?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxNRlpoY2xDSVlCQ2pCc19yTzhGb3FkMWwwOWJwa2FBNk9yeFVLb2tKUW9nMWgwSm9uUjlOZUZCTVBZRm1qV2hUVlczMmpGS3R1ci0zMHMyVW1wc2ZrSGRuU1E5bTI2dWdlMDJfUktVU2Rnc2xiTVgzR2pxMTNkNDdvQnppYzA5VTMtWWpqNUdXUEhsc1lxd1kxN3dqQk1fQTVTanc?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTBIZ2VnbENoQVdKRHg1ZnM0dkhpTXpBSnpBcE96aEVMcFpSUjlUTmtob1daMnRTQ3B2dVpPWFBad2gxTlRaOHNpUTJOMlFadEpUX2k4VGZNMHF4NjdBeHlMeWtNSEpQRFM2ZDVlSXhvRlpjN0FqcWdoNlZaaGlnM0RudzY2clM1NjBmLTBTNlh5eDRheDN2blRDanZ4NXRiaWJtaTZxMGthdHNNOXpBYTZOZkVTQVdiSEE?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5
+  - Contract Pharma: https://news.google.com/rss/articles/CBMirAFBVV95cUxPWE5KZFJ3c0NOdHR3YVU5STBwZUFQQkhfNXlBV2o0N1pUMTNUY1I3VHBBU29XdkFzdVUzemMwckdPSWM4REZrMVRWdEMxWWR2OF9vdXVteU9yOHZuazAyUElDekc2Qkk4eUR3SjZpMVFHTUhrSmhYNGRVellla3dsM01SRDZHMURWYWhHb256TnBKLW9MbFpnVVJWekVveHpNczdqVVota3BpaDNH?oc=5
+  - Medical Device Network: https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXdfSVd4dDVYZGFvYTFTUnJGcmtCZGtyQ01ZTGxCVENZdXlKeDZhWnZRcm8xZmZUSGNIZGxRdmdsbjBmalJLZHZ0MzZjT29FVUxPNXF0TWZCelNxU256VlZXS2lPWnhwcTd2T3hzSGZmRTVKNFdPSklGbDJGNU82N3ptZzF4NnFGVlBtWE1HQVh5UmZmTnVRRWZ0RktDaG9ESjNzeUtLMnUtMXZ3UFE?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5
+  - Hoodline: https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5
+  - BioXconomy: https://news.google.com/rss/articles/CBMimgFBVV95cUxPTktkNHVuVnZJdnkyU2xMM1A4QkluOXcydzEyQWFUUy1iVkxWOTJBXzZEek8wRWR1YkNMcW5LbDIwaF9TSm5tX3g2RVNPRzlTUE0yZ1pVclNmRDR2UXUzNHJtbDhrNXk1bUpwczlSblZvQ2hqemU2NERpckVHS0JoNXFuVWVLTmp6VU5aOVpCSTFaYWlZN2MtUVB3?oc=5
+  - BioBuzz: https://news.google.com/rss/articles/CBMivwFBVV95cUxNdy1sNGtkUjdvN0s2TDdXUlZSN3RiMnJmYUFpNnpLQ2dnLVhEUE9SNUVwQ1MzeFlxREMzblo2ZE9LelFqT0dYS18zRndkaWNhQWI0SFdCc0VFMTZVT3QxWHpJRm9rNWdUcmdMajFJZjFMYVJ2czNZRG1HZnpoUVdITzFxSG9DSlNITnBaUC1xcUNkWjEwQklEWngwN0prWk1VMHFmSnNYQWVsdHhOMG9NRDJvYWduWDBxeGdseGpSOA?oc=5
+  - Pulse 2.0: https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5
+
+**Feed description:** Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz
+
+## 99. Quest Diagnostics Stock Price, News, Quote & History
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Oct 2026
@@ -1166,7 +1302,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
-## 90. How Far Can Sonic Healthcare Rebuild Margins?
+## 100. How Far Can Sonic Healthcare Rebuild Margins?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 15 Oct 2026
@@ -1178,7 +1314,7 @@
 
 **Feed description:** How Far Can Sonic Healthcare (ASX:SHL) Rebuild Margins? Kalkine Media
 
-## 91. Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing
+## 101. Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 14 Oct 2026
@@ -1191,7 +1327,7 @@
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products
 
-## 92. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
+## 102. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 14 Oct 2026
@@ -1203,7 +1339,7 @@
 
 **Feed description:** Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant
 
-## 93. Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings
+## 103. Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -1218,7 +1354,7 @@
 
 **Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
 
-## 94. Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade
+## 104. Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -1230,7 +1366,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade https://www.siam.in/
 
-## 95. Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks
+## 105. Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks
 
 - **Company:** Labcorp
 - **Publication date:** 14 Oct 2026
@@ -1243,7 +1379,7 @@
 
 **Feed description:** Q2 Earnings Outperformers: Labcorp (NYSE:LH) And The Rest Of The Testing & Diagnostics Services Stocks Yahoo Finance
 
-## 96. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
+## 106. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -1257,7 +1393,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch
 
-## 97. Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer
+## 107. Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1269,7 +1405,7 @@
 
 **Feed description:** Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily
 
-## 98. Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test
+## 108. Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1281,24 +1417,7 @@
 
 **Feed description:** Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products
 
-## 99. Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test
-
-- **Company:** Labcorp
-- **Publication date:** 13 Oct 2026
-- **Category:** Product & Services
-- **Coverage count:** 6
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMElHcVhTUDh1Z2N2OXNQdENfdmtlVVpBX3N5MDJTajZiZTluaU5uaDNPMWtVMWlLYjNoN3N3MmtTUXNTaFkzYjVleGVlN0xTUDRsbUVSTmdEU3hTLWI1LUpSdUlhTVZSdUdGaGM0a3cxZ1U3aEtQQy1OYXVWdkxJRU0zTXVydkFzQ2p4YWFKemxMVjFRWDFEY2w0bkc5dEdZeUNQNDBkbDAwYWhHOWdldFFzVnR5UnVTYTRxRmhGMWtobFRwdnNjcUxaUGZlQW1iSUszN1B1c1RMWkdFT0JYY2FwVnA?oc=5
-  - marketscreener.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5
-  - Fierce Biotech: https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5
-  - Morningstar: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlhfQllEeEFCQWRaaW14UWlGS2Z1cGlxV2dTQkloSXdxS1dQT0NmUHlfMHNCSUlmSHNlR2JQTU1jcGZ1MmMtUUstb1FQY1J0SzZjWFJTdEttZmlSTWhRQWd6WE5tS0d3R0R1b0dON2FWa3ZEczdFRFFFNG5SLTZwUkY0d2w1NzNRUy1qdmh1eFRjbmFWajVhd3RqcnBRR29hSjZld0EtTmI2UW1hQXNYTU5vaFlmWGVWYTFPVXhHTWVoSTE4S2hydUJxSVMzekhPMFR4cDdzS0xfQmJXSGxiYlpXWQ?oc=5
-
-**Feed description:** Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire
-
-## 100. Latest Life Science Job at Labcorp | Apply Online Here
+## 109. Latest Life Science Job at Labcorp | Apply Online Here
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1310,7 +1429,24 @@
 
 **Feed description:** Latest Life Science Job at Labcorp | Apply Online Here BioTecNika
 
-## 101. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
+## 110. Labcorp Launches Thrive 5 Health Test With Thrive Global
+
+- **Company:** Labcorp
+- **Publication date:** 13 Oct 2026
+- **Category:** Product & Services
+- **Coverage count:** 6
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGlhc3NOQTU2bm9SNm5oVEdETDNzNnEzUWZNNEotRktOVmg2RWtUQXZQYmI1S3ZaVWctVURyQXA3MXpYdDQxeENCOExxbFVpeFhDZXdSX2lNNXlFQVpyTmhBQVVXdVFxWUlhel9vUmV4VnN5eFh3NHNKTW8wUTJpVkV2RXhlOWlEakhTdER2M3JsRjA3bk01Nw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcVlCdjB4QWFJUURkSkpVU1BXMmtUNm9OUUtuU0RFbXQwS2k1c0NON1RzdmpkMjZ1QjQyN3Fqdzk5RmJrdVM1eGFXblZSR0hwOW1KVFFmNXpoTTloeERwQXpkNDI0N1d1Mk1PUlIzU0lLMDFFMUNGeER1OUJPdUNpQ0JLbXRPeDltVzBjQ05GTkZkaHEwWEREWkUtTlk4ZC1tdnd4Zlktd1ExcC1RM0h6OFI2RkxtWENwVWhhM3VXWUwwdmNJb3d5djJ5YjFNdGdya1hxd0VNRGFsWFIx?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMElHcVhTUDh1Z2N2OXNQdENfdmtlVVpBX3N5MDJTajZiZTluaU5uaDNPMWtVMWlLYjNoN3N3MmtTUXNTaFkzYjVleGVlN0xTUDRsbUVSTmdEU3hTLWI1LUpSdUlhTVZSdUdGaGM0a3cxZ1U3aEtQQy1OYXVWdkxJRU0zTXVydkFzQ2p4YWFKemxMVjFRWDFEY2w0bkc5dEdZeUNQNDBkbDAwYWhHOWdldFFzVnR5UnVTYTRxRmhGMWtobFRwdnNjcUxaUGZlQW1iSUszN1B1c1RMWkdFT0JYY2FwVnA?oc=5
+  - marketscreener.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWZBU29zd0NzQ0VvbnJacFZCc3ZmdXJxRTAySDhYdmc1d3djam9LbWtsTXA3M19XQTZXQkxwSDVIN3JHdVBaZ0lXek5vZk95Q0pOTzZPX09vcENOWHF6bUlPN3paLWFoOTR5aHE5WDJFREtKcHdzMVNGMVAtMGtOYnBjd1JTMHlFTWl2UHhkenJfTzNLdU1OR0twbU15NmNpeGZ0TmlOLUhyWUxrVkE?oc=5
+  - Fierce Biotech: https://news.google.com/rss/articles/CBMimgFBVV95cUxNb2w1NURWNU9GV3ZFeHpaZEZibDMteUEzSy1vRFZGZWxjQTFTOExVWUtfaEo1VnAzbXM4c09wUGhpM0d0dURYQnFKaG8wdURUNjZTcWEwWHVUVEgtcFRfT2tfR3NLN0doYnhpRFdTWUx2MjAtMThNcFhQVWZIeTZVeWxNcWlMUFNkWjRJOVFTeXh3SXhzcW82bmV3?oc=5
+  - Morningstar: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWlhfQllEeEFCQWRaaW14UWlGS2Z1cGlxV2dTQkloSXdxS1dQT0NmUHlfMHNCSUlmSHNlR2JQTU1jcGZ1MmMtUUstb1FQY1J0SzZjWFJTdEttZmlSTWhRQWd6WE5tS0d3R0R1b0dON2FWa3ZEczdFRFFFNG5SLTZwUkY0d2w1NzNRUy1qdmh1eFRjbmFWajVhd3RqcnBRR29hSjZld0EtTmI2UW1hQXNYTU5vaFlmWGVWYTFPVXhHTWVoSTE4S2hydUJxSVMzekhPMFR4cDdzS0xfQmJXSGxiYlpXWQ?oc=5
+
+**Feed description:** Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire
+
+## 111. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 12 Oct 2026
@@ -1322,7 +1458,7 @@
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine The Sun Malaysia
 
-## 102. Labcorp: Is Its Earnings Discount Worth the Growing Investment Bill?
+## 112. Labcorp: Is Its Earnings Discount Worth the Growing Investment Bill?
 
 - **Company:** Labcorp
 - **Publication date:** 12 Oct 2026
@@ -1336,7 +1472,7 @@
 
 **Feed description:** Labcorp (LH): Is Its Earnings Discount Worth the Growing Investment Bill? Insider Monkey
 
-## 103. Quest Diagnostics Q1 2026 Earnings Call Transcript
+## 113. Quest Diagnostics Q1 2026 Earnings Call Transcript
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 12 Oct 2026
@@ -1348,7 +1484,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript Fortune
 
-## 104. Are Sonic Healthcare Shares Testing a Yearly Low?
+## 114. Are Sonic Healthcare Shares Testing a Yearly Low?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 12 Oct 2026
@@ -1360,7 +1496,7 @@
 
 **Feed description:** Are Sonic Healthcare (ASX:SHL) Shares Testing a Yearly Low? Kalkine Media
 
-## 105. Quest Diagnostics Stock Price Today: $230.97
+## 115. Quest Diagnostics Stock Price Today: $230.97
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Oct 2026
@@ -1372,7 +1508,7 @@
 
 **Feed description:** Quest Diagnostics Inc (DGX) Stock Price Today: $230.97 Pluang
 
-## 106. Quest Diagnostics stock gains on Apple Health lab testing partnership
+## 116. Quest Diagnostics stock gains on Apple Health lab testing partnership
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Oct 2026
@@ -1384,7 +1520,7 @@
 
 **Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
 
-## 107. People in the News at CHOP, 3billion, Quest Diagnostics, Alamar Biosciences, NeoGenomics
+## 117. People in the News at CHOP, 3billion, Quest Diagnostics, Alamar Biosciences, NeoGenomics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Oct 2026
@@ -1396,7 +1532,7 @@
 
 **Feed description:** People in the News at CHOP, 3billion, Quest Diagnostics, Alamar Biosciences, NeoGenomics Genome Web
 
-## 108. Quest Diagnostics: A Dividend Quality Pick for Income Investors
+## 118. Quest Diagnostics: A Dividend Quality Pick for Income Investors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Oct 2026
@@ -1408,7 +1544,7 @@
 
 **Feed description:** Quest Diagnostics (NYSE:DGX): A Dividend Quality Pick for Income Investors ChartMill
 
-## 109. Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop
+## 119. Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 09 Oct 2026
@@ -1420,7 +1556,7 @@
 
 **Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
 
-## 110. $6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000
+## 120. $6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 08 Oct 2026
@@ -1432,7 +1568,7 @@
 
 **Feed description:** $6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000 openclassactions.com
 
-## 111. Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test
+## 121. Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 07 Oct 2026
@@ -1444,7 +1580,7 @@
 
 **Feed description:** Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test ad-hoc-news.de
 
-## 112. Quest Diagnostics stock underperforms Tuesday when compared to competitors
+## 122. Quest Diagnostics stock underperforms Tuesday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1456,7 +1592,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors MarketWatch
 
-## 113. Catherine T. Doherty to Transition to EVP at Quest Diagnostics, Retirement Set for July 2027
+## 123. Catherine T. Doherty to Transition to EVP at Quest Diagnostics, Retirement Set for July 2027
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1468,7 +1604,7 @@
 
 **Feed description:** Catherine T. Doherty to Transition to EVP at Quest Diagnostics, Retirement Set for July 2027 TradingView
 
-## 114. Form 8-K QUEST DIAGNOSTICS For: Oct 06
+## 124. Form 8-K QUEST DIAGNOSTICS For: Oct 06
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1480,7 +1616,7 @@
 
 **Feed description:** Form 8-K QUEST DIAGNOSTICS INC For: Oct 06 StreetInsider
 
-## 115. DGX: Quest Diagnostics, Latest Stock Price, Analysis, News and Trading Ideas
+## 125. DGX: Quest Diagnostics, Latest Stock Price, Analysis, News and Trading Ideas
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1492,7 +1628,7 @@
 
 **Feed description:** DGX: Quest Diagnostics, Inc. Latest Stock Price, Analysis, News and Trading Ideas Stocktwits
 
-## 116. Quest Diagnostics Rides Steady Testing Demand
+## 126. Quest Diagnostics Rides Steady Testing Demand
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1504,7 +1640,7 @@
 
 **Feed description:** Quest Diagnostics (NYSE:DGX) Rides Steady Testing Demand Kalkine Media
 
-## 117. Quest Diagnostics reports Haystack results and Quest Diagnostics stock costs EUR 206.40
+## 127. Quest Diagnostics reports Haystack results and Quest Diagnostics stock costs EUR 206.40
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1516,7 +1652,7 @@
 
 **Feed description:** Quest Diagnostics reports Haystack results and Quest Diagnostics stock costs EUR 206.40 AD HOC NEWS
 
-## 118. Quest Diagnostics 's Dividend Analysis
+## 128. Quest Diagnostics 's Dividend Analysis
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1530,7 +1666,7 @@
 
 **Feed description:** Quest Diagnostics Inc's Dividend Analysis Yahoo Finance
 
-## 119. Quest Diagnostics announces executive transition and leadership continuity
+## 129. Quest Diagnostics announces executive transition and leadership continuity
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Oct 2026
@@ -1543,7 +1679,7 @@
 
 **Feed description:** Quest Diagnostics announces executive transition and leadership continuity TipRanks
 
-## 120. Quest Diagnostics stock price, news, quote and history
+## 130. Quest Diagnostics stock price, news, quote and history
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 05 Oct 2026
@@ -1558,7 +1694,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
-## 121. Labcorp stock gets a clear October 28 earnings date
+## 131. Labcorp stock gets a clear October 28 earnings date
 
 - **Company:** Labcorp
 - **Publication date:** 05 Oct 2026
@@ -1570,7 +1706,7 @@
 
 **Feed description:** Labcorp stock gets a clear October 28 earnings date AD HOC NEWS
 
-## 122. Labcorp (N6B.DE) Analyst Ratings, Estimates & Forecasts
+## 132. Labcorp (N6B.DE) Analyst Ratings, Estimates & Forecasts
 
 - **Company:** Labcorp
 - **Publication date:** 05 Oct 2026
@@ -1583,7 +1719,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (N6B.DE) analyst ratings, estimates and forecasts Yahoo Finance Australia
 
-## 123. Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know
+## 133. Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 05 Oct 2026
@@ -1599,7 +1735,7 @@
 
 **Feed description:** Quest Diagnostics’ Quarterly Earnings Preview: What You Need to Know Yahoo Finance
 
-## 124. Labcorp stock gained 1.28 percent before October 28 results
+## 134. Labcorp stock gained 1.28 percent before October 28 results
 
 - **Company:** Labcorp
 - **Publication date:** 04 Oct 2026
@@ -1611,7 +1747,7 @@
 
 **Feed description:** Labcorp stock gained 1.28 percent before October 28 results ad-hoc-news.de
 
-## 125. Quest Diagnostics stock heads into October 22 results with Q2 growth now in view
+## 135. Quest Diagnostics stock heads into October 22 results with Q2 growth now in view
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 04 Oct 2026
@@ -1624,7 +1760,7 @@
 
 **Feed description:** Quest Diagnostics stock heads into October 22 results with Q2 growth now in view AD HOC NEWS
 
-## 126. Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8
+## 136. Quest Diagnostics Breakout Setup Backed by Technical Rating 7 and Setup Rating 8
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 02 Oct 2026
@@ -1636,7 +1772,7 @@
 
 **Feed description:** Quest Diagnostics (NYSE:DGX) Breakout Setup Backed by Technical Rating 7 and Setup Rating 8 Chart Mill
 
-## 127. Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026
+## 137. Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 02 Oct 2026
@@ -1649,7 +1785,7 @@
 
 **Feed description:** Quest Diagnostics stock after-hours at EUR 207.45, last at Lang & Schwarz on October 2, 2026 ad-hoc-news.de
 
-## 128. Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven
+## 138. Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 02 Oct 2026
@@ -1661,7 +1797,7 @@
 
 **Feed description:** Mayo Clinic Laboratories to Open Diagnostic Facility in Southaven Mississippi Business Journal
 
-## 129. Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection
+## 139. Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 01 Oct 2026
@@ -1673,7 +1809,7 @@
 
 **Feed description:** Quest Diagnostics’ Haystack MRD shows efficacy in colorectal cancer detection TipRanks
 
-## 130. Quest Diagnostics Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials
+## 140. Quest Diagnostics Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 01 Oct 2026
@@ -1685,7 +1821,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Highlights Haystack MRD Test Accuracy in Colorectal Cancer Trials gurufocus.com
 
-## 131. Labcorp Q2 2026 Earnings Call Transcript
+## 141. Labcorp Q2 2026 Earnings Call Transcript
 
 - **Company:** Labcorp
 - **Publication date:** 01 Oct 2026
@@ -1697,7 +1833,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
 
-## 132. Labcorp web tracking class action settlement
+## 142. Labcorp web tracking class action settlement
 
 - **Company:** Labcorp
 - **Publication date:** 01 Oct 2026
@@ -1709,7 +1845,7 @@
 
 **Feed description:** Labcorp web tracking class action settlement topclassactions.com
 
-## 133. Quest Diagnostics stock pre-market at EUR 206.40: plus 0.22 percent
+## 143. Quest Diagnostics stock pre-market at EUR 206.40: plus 0.22 percent
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 01 Oct 2026
@@ -1721,7 +1857,7 @@
 
 **Feed description:** Quest Diagnostics stock pre-market at EUR 206.40: plus 0.22 percent ad-hoc-news.de
 
-## 134. Quest Diagnostics Q1 2026 Earnings Call Transcript
+## 144. Quest Diagnostics Q1 2026 Earnings Call Transcript
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Sep 2026
@@ -1733,7 +1869,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com
 
-## 135. Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected
+## 145. Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected
 
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
@@ -1745,7 +1881,7 @@
 
 **Feed description:** Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected Hoodline
 
-## 136. Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes
+## 146. Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 30 Sep 2026
@@ -1757,7 +1893,7 @@
 
 **Feed description:** Who We Play For and Myelai Launch Heart Screening Program at Quest Diagnostics in Tampa as Florida Becomes First State to Require ECGs for High School Athletes finance.yahoo.com
 
-## 137. Labcorp to release Q3 2026 earnings on Oct 28 w...
+## 147. Labcorp to release Q3 2026 earnings on Oct 28 w...
 
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
@@ -1781,7 +1917,7 @@
 
 **Feed description:** Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026 www.marketscreener.com
 
-## 138. Quest Diagnostics stock underperforms Tuesday when compared to competitors
+## 148. Quest Diagnostics stock underperforms Tuesday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Sep 2026
@@ -1794,7 +1930,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
-## 139. Sonic Healthcare Revenue Breakdown – HAN:SAB
+## 149. Sonic Healthcare Revenue Breakdown – HAN:SAB
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 29 Sep 2026
@@ -1806,7 +1942,7 @@
 
 **Feed description:** Sonic Healthcare Limited Revenue Breakdown – HAN:SAB TradingView
 
-## 140. Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans
+## 150. Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans
 
 - **Company:** Labcorp
 - **Publication date:** 29 Sep 2026
@@ -1818,7 +1954,7 @@
 
 **Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com
 
-## 141. Quest Diagnostics stock heads toward October 22 results
+## 151. Quest Diagnostics stock heads toward October 22 results
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Sep 2026
@@ -1830,7 +1966,7 @@
 
 **Feed description:** Quest Diagnostics stock heads toward October 22 results ad-hoc-news.de
 
-## 142. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
+## 152. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Sep 2026
@@ -1844,7 +1980,7 @@
 
 **Feed description:** Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research
 
-## 143. RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd
+## 153. RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 29 Sep 2026
@@ -1856,7 +1992,7 @@
 
 **Feed description:** RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView
 
-## 144. Trainee Clinical Research Role at Labcorp | Apply Now
+## 154. Trainee Clinical Research Role at Labcorp | Apply Now
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1868,7 +2004,7 @@
 
 **Feed description:** Trainee Clinical Research Role at Labcorp | Apply Now BioTecNika
 
-## 145. Labcorp stock reports 2026 growth targets amid reimbursement risk
+## 155. Labcorp stock reports 2026 growth targets amid reimbursement risk
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1880,7 +2016,7 @@
 
 **Feed description:** Labcorp stock reports 2026 growth targets amid reimbursement risk ad-hoc-news.de
 
-## 146. Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach
+## 156. Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1892,7 +2028,7 @@
 
 **Feed description:** Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach 930 WFMD Free Talk
 
-## 147. Quest Diagnostics stock draws a USD 260.00 target after earnings
+## 157. Quest Diagnostics stock draws a USD 260.00 target after earnings
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Sep 2026
@@ -1904,7 +2040,7 @@
 
 **Feed description:** Quest Diagnostics stock draws a USD 260.00 target after earnings ad-hoc-news.de
 
-## 148. Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M
+## 158. Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1916,7 +2052,7 @@
 
 **Feed description:** Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M Wansom AI
 
-## 149. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
+## 159. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -1928,7 +2064,7 @@
 
 **Feed description:** 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com
 
-## 150. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
+## 160. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -1942,7 +2078,7 @@
 
 **Feed description:** Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com
 
-## 151. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
+## 161. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -1954,7 +2090,7 @@
 
 **Feed description:** Labcorp Data Breach Settlement Includes $100,000 For North Carolina whky.com
 
-## 152. Tech Expert: Questions Abound Regarding LabCorp Settlement
+## 162. Tech Expert: Questions Abound Regarding LabCorp Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 26 Sep 2026
@@ -1966,7 +2102,7 @@
 
 **Feed description:** Tech Expert: Questions Abound Regarding LabCorp Settlement Long Island Life & Politics
 
-## 153. Quest Diagnostics stock price, news, quote and history
+## 163. Quest Diagnostics stock price, news, quote and history
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Sep 2026
@@ -1981,7 +2117,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
-## 154. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
+## 164. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -1993,7 +2129,7 @@
 
 **Feed description:** LabCorp Pays States $2.2M in Settlement Over AMCA Hack bankinfosecurity.com
 
-## 155. USA: Labcorp reaches multistate settlement over 2019 data breach
+## 165. USA: Labcorp reaches multistate settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -2005,7 +2141,7 @@
 
 **Feed description:** USA: Labcorp reaches multistate settlement over 2019 data breach DataGuidance
 
-## 156. Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach
+## 166. Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -2017,7 +2153,7 @@
 
 **Feed description:** Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach dailydodge.com
 
-## 157. Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?
+## 167. Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Sep 2026
@@ -2032,7 +2168,7 @@
 
 **Feed description:** Quest Diagnostics Stock Gains 36.3% YTD: What's Behind the Rally? Zacks Investment Research
 
-## 158. Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]
+## 168. Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -2044,7 +2180,7 @@
 
 **Feed description:** Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026] https://tech-insider.org/
 
-## 159. Quest Diagnostics stock gains 1.48 percent after Truist raises target
+## 169. Quest Diagnostics stock gains 1.48 percent after Truist raises target
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 25 Sep 2026
@@ -2056,7 +2192,7 @@
 
 **Feed description:** Quest Diagnostics stock gains 1.48 percent after Truist raises target ad-hoc-news.de
 
-## 160. Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com
+## 170. Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2068,7 +2204,7 @@
 
 **Feed description:** Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com KTVN
 
-## 161. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
+## 171. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2081,7 +2217,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 162. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
+## 172. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2099,7 +2235,7 @@
 
 **Feed description:** New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com
 
-## 163. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)
+## 173. Analysts Offer Insights on Healthcare Companies: Quest Diagnostics, AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Sep 2026
@@ -2111,7 +2247,7 @@
 
 **Feed description:** Analysts Offer Insights on Healthcare Companies: Quest Diagnostics (DGX), AnaptysBio (ANAB) and Vertex Pharmaceuticals (VRTX) theglobeandmail.com
 
-## 164. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
+## 174. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2133,7 +2269,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 165. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
+## 175. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2148,7 +2284,7 @@
 
 **Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
 
-## 166. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
+## 176. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2177,7 +2313,7 @@
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
-## 167. Labcorp data breach settlement secures $90G for NYS, AG James says
+## 177. Labcorp data breach settlement secures $90G for NYS, AG James says
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2189,7 +2325,7 @@
 
 **Feed description:** Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com
 
-## 168. AG Sunday announces $2.28M settlement with Labcorp
+## 178. AG Sunday announces $2.28M settlement with Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2205,7 +2341,7 @@
 
 **Feed description:** AG Sunday announces $2.28M settlement with Labcorp yahoo.com
 
-## 169. LabCorp reaches $2.3M multistate settlement over patient data breach
+## 179. LabCorp reaches $2.3M multistate settlement over patient data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2217,7 +2353,7 @@
 
 **Feed description:** LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com
 
-## 170. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
+## 180. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2229,7 +2365,7 @@
 
 **Feed description:** Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach audacy.com
 
-## 171. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
+## 181. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2241,7 +2377,7 @@
 
 **Feed description:** NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com
 
-## 172. West Virginia joins $2.3 million Labcorp data breach settlement
+## 182. West Virginia joins $2.3 million Labcorp data breach settlement
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2253,7 +2389,7 @@
 
 **Feed description:** West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com
 
-## 173. Labcorp data breach settlement reached at $2M
+## 183. Labcorp data breach settlement reached at $2M
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2268,7 +2404,7 @@
 
 **Feed description:** More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -
 
-## 174. Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach
+## 184. Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -2280,7 +2416,7 @@
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
-## 175. Quest Diagnostics stock reports growth as reimbursement risk rises
+## 185. Quest Diagnostics stock reports growth as reimbursement risk rises
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Sep 2026
@@ -2292,7 +2428,7 @@
 
 **Feed description:** Quest Diagnostics stock reports growth as reimbursement risk rises ad-hoc-news.de
 
-## 176. Quest Diagnostics stock heads into the open after closing at USD 234.76
+## 186. Quest Diagnostics stock heads into the open after closing at USD 234.76
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Sep 2026
@@ -2305,7 +2441,7 @@
 
 **Feed description:** Quest Diagnostics stock heads into the open after closing at USD 234.76 ad-hoc-news.de
 
-## 177. Labcorp Q2 2026 Earnings Call Transcript
+## 187. Labcorp Q2 2026 Earnings Call Transcript
 
 - **Company:** Labcorp
 - **Publication date:** 23 Sep 2026
@@ -2319,7 +2455,7 @@
 
 **Feed description:** Labcorp Holdings Inc. R (N6B.DE) Q1 FY2026 earnings call transcript finance.yahoo.com
 
-## 178. Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds
+## 188. Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Sep 2026
@@ -2331,7 +2467,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated: Testing Growth Keeps Me Bullish Despite Medicare Headwinds Seeking Alpha
 
-## 179. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
+## 189. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 23 Sep 2026
@@ -2343,7 +2479,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com
 
-## 180. Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC
+## 190. Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
@@ -2355,7 +2491,7 @@
 
 **Feed description:** Mayo Clinic Laboratories, Pathology Asia Partner to Expand Precision Diagnostics Across APAC digitalhealthnews.com
 
-## 181. Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App
+## 191. Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Sep 2026
@@ -2367,7 +2503,7 @@
 
 **Feed description:** Quest Diagnostics Will Sell a $119, 50+ Biomarker Lab Panel Inside Apple’s Health App Telehealth.org
 
-## 182. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
+## 192. Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 23 Sep 2026
@@ -2388,7 +2524,7 @@
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine #MayoClinicLaboratories #PathologyAsia #LifeStrands #LifeStrandsGenomics #LifeStrandsGenomicsAustralia #DNALAB Media OutReach Newswire
 
-## 183. Quest Diagnostics stock underperforms Tuesday when compared to competitors
+## 193. Quest Diagnostics stock underperforms Tuesday when compared to competitors
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -2401,7 +2537,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Tuesday when compared to competitors marketwatch.com
 
-## 184. Labcorp $6.1 Million Data Breach Class Action Settlement
+## 194. Labcorp $6.1 Million Data Breach Class Action Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2414,7 +2550,7 @@
 
 **Feed description:** Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot
 
-## 185. Labcorp Reaffirms Long-Term Earnings Outlook
+## 195. Labcorp Reaffirms Long-Term Earnings Outlook
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2428,7 +2564,7 @@
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
 
-## 186. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
+## 196. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2440,7 +2576,7 @@
 
 **Feed description:** Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha
 
-## 187. Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure
+## 197. Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -2454,7 +2590,7 @@
 
 **Feed description:** Quest Diagnostics Study Finds High Tick-Borne Disease Co-Exposure Zacks Investment Research
 
-## 188. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
+## 198. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2466,7 +2602,7 @@
 
 **Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
 
-## 189. Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more
+## 199. Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -2478,7 +2614,7 @@
 
 **Feed description:** Stocks making the biggest moves premarket: Alibaba, Quest Diagnostics, On Holding, GameStop & more cnbc.com
 
-## 190. Labcorp Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend
+## 200. Labcorp Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2490,7 +2626,7 @@
 
 **Feed description:** LH Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend https://www.dars.gov.et/
 
-## 191. Apple, Quest Diagnostics partner on in-app lab orders
+## 201. Apple, Quest Diagnostics partner on in-app lab orders
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -2502,7 +2638,7 @@
 
 **Feed description:** Apple, Quest Diagnostics partner on in-app lab orders healthcare-brew.com
 
-## 192. Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026
+## 202. Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Sep 2026
@@ -2522,7 +2658,7 @@
 
 **Feed description:** Quest Diagnostics to Release Third Quarter Financial Results on October 22, 2026 smithmountaineagle.com
 
-## 193. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
+## 203. Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -2535,7 +2671,7 @@
 
 **Feed description:** Nearly 1 in 3 Patients with Suspected Lyme Disease are Co-Positive for Other Tick-Borne Pathogens, Finds Study by Quest Diagnostics prnewswire.com
 
-## 194. Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)
+## 204. Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)
 
 - **Company:** Labcorp
 - **Publication date:** 21 Sep 2026
@@ -2549,7 +2685,7 @@
 
 **Feed description:** Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha
 
-## 195. Why Quest Diagnostics Is Dropping Despite Target Hike
+## 205. Why Quest Diagnostics Is Dropping Despite Target Hike
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -2561,7 +2697,7 @@
 
 **Feed description:** Why Quest Diagnostics Is Dropping Despite Target Hike TipRanks
 
-## 196. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
+## 206. Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -2575,7 +2711,7 @@
 
 **Feed description:** Quest Diagnostics Sees Growth Outpace Targets as Consumer Testing Surges es.tradingview.com
 
-## 197. Car crashes into Quest Diagnostics in Lincoln shoppping plaza
+## 207. Car crashes into Quest Diagnostics in Lincoln shoppping plaza
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Sep 2026
@@ -2587,7 +2723,7 @@
 
 **Feed description:** Car crashes into Quest Diagnostics in Lincoln shoppping plaza Gold Mountain California News Media
 
-## 198. Labcorp stock holds near recent highs after Q2 2026 earnings beat
+## 208. Labcorp stock holds near recent highs after Q2 2026 earnings beat
 
 - **Company:** Labcorp
 - **Publication date:** 20 Sep 2026
@@ -2600,7 +2736,7 @@
 
 **Feed description:** Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat ad-hoc-news.de
 
-## 199. Labcorp stock trades near recent highs after revenue growth and Q1 2026 update
+## 209. Labcorp stock trades near recent highs after revenue growth and Q1 2026 update
 
 - **Company:** Labcorp
 - **Publication date:** 20 Sep 2026
@@ -2612,7 +2748,7 @@
 
 **Feed description:** Labcorp stock trades near recent highs after revenue growth and Q1 2026 update ad-hoc-news.de
 
-## 200. Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally
+## 210. Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Sep 2026
@@ -2625,7 +2761,7 @@
 
 **Feed description:** Quest Diagnostics stock trades near 52-week high as earnings and outlook support rally ad-hoc-news.de
 
-## 201. Quest Diagnostics acquires LifeLabs for $1B (closed August 2024)
+## 211. Quest Diagnostics acquires LifeLabs for $1B (closed August 2024)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Sep 2026
@@ -2637,7 +2773,7 @@
 
 **Feed description:** Quest Diagnostics acquires LifeLabs for $1B (closed August 2024) Dealroom.co
 
-## 202. Quest Diagnostics Q1 2026 Earnings Call Transcript
+## 212. Quest Diagnostics Q1 2026 Earnings Call Transcript
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 19 Sep 2026
@@ -2649,7 +2785,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Q1 2026 Earnings Call Transcript fortune.com
 
-## 203. Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat
+## 213. Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat
 
 - **Company:** Labcorp
 - **Publication date:** 18 Sep 2026
@@ -2661,7 +2797,7 @@
 
 **Feed description:** Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat ad-hoc-news.de
 
-## 204. Quest Diagnostics Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - EPS Miss Report
+## 214. Quest Diagnostics Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - EPS Miss Report
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Sep 2026
@@ -2676,7 +2812,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Q2 2026 Earnings: EPS Beat Fails to Move the Needle as Revenue Details Remain Unavailable - Estimate Dispersion CarePlus VietNam
 
-## 205. Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact
+## 215. Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Sep 2026
@@ -2689,7 +2825,7 @@
 
 **Feed description:** Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact ad-hoc-news.de
 
-## 206. Quest Diagnostics, Apple team up on lab testing via Health app
+## 216. Quest Diagnostics, Apple team up on lab testing via Health app
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -2702,7 +2838,7 @@
 
 **Feed description:** Quest Diagnostics, Apple team up on lab testing via Health app njbiz.com
 
-## 207. Labcorp stock gains after Q2 2026 earnings and investor day guidance
+## 217. Labcorp stock gains after Q2 2026 earnings and investor day guidance
 
 - **Company:** Labcorp
 - **Publication date:** 16 Sep 2026
@@ -2716,7 +2852,7 @@
 
 **Feed description:** Labcorp stock gains after Q2 2026 earnings and investor day guidance ad-hoc-news.de
 
-## 208. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
+## 218. Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -2731,7 +2867,7 @@
 
 **Feed description:** Nine in 10 Voters Express Concern That Medicare Lab Payment Cuts Will Harm Patient Access to Diagnostic Lab Testing, Finds National Survey from Quest Diagnostics finance.yahoo.com
 
-## 209. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
+## 219. Quest Diagnostics Hits Fresh High: Is There Still Room to Run?
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -2743,7 +2879,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) Hits Fresh High: Is There Still Room to Run? finance.yahoo.com
 
-## 210. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
+## 220. Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 16 Sep 2026
@@ -2756,7 +2892,7 @@
 
 **Feed description:** Quest Diagnostics stock reaches new highs as Apple Health lab deal and analyst upgrades lift sentime ad-hoc-news.de
 
-## 211. Labcorp Website Tracking Class Action Settlement
+## 221. Labcorp Website Tracking Class Action Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 16 Sep 2026
@@ -2768,7 +2904,7 @@
 
 **Feed description:** Labcorp Website Tracking Class Action Settlement claimdepot.com
 
-## 212. A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08
+## 222. A Look at Quest Diagnostics After 3.9% Gain -- GF Value $196.33 vs Price $247.08
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Sep 2026
@@ -2780,7 +2916,7 @@
 
 **Feed description:** A Look at Quest Diagnostics Inc (DGX) After 3.9% Gain -- GF Value $196.33 vs Price $247.08 gurufocus.com
 
-## 213. Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push
+## 223. Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push
 
 - **Company:** Labcorp
 - **Publication date:** 15 Sep 2026
@@ -2792,7 +2928,7 @@
 
 **Feed description:** Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de
 
-## 214. Quest Diagnostics stock hits all-time high at $247.3
+## 224. Quest Diagnostics stock hits all-time high at $247.3
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Sep 2026
@@ -2807,7 +2943,7 @@
 
 **Feed description:** Quest Diagnostics stock hits all-time high at $247.3 By Investing.com Investing.com Australia
 
-## 215. Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis
+## 225. Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 15 Sep 2026
@@ -2821,7 +2957,7 @@
 
 **Feed description:** Augurex Announces Mayo Clinic Laboratories Now Offering 14-3-3eta Testing for Rheumatoid Arthritis The Joplin Globe
 
-## 216. Why Quest Diagnostics Stock Is Up Today
+## 226. Why Quest Diagnostics Stock Is Up Today
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 15 Sep 2026
@@ -2838,7 +2974,7 @@
 
 **Feed description:** Why is Quest Diagnostics stock sliding today? By Investing.com Investing.com India
 
-## 217. Labcorp stock steadies after earnings beat and guidance reaffirmation
+## 227. Labcorp stock steadies after earnings beat and guidance reaffirmation
 
 - **Company:** Labcorp
 - **Publication date:** 14 Sep 2026
@@ -2850,7 +2986,7 @@
 
 **Feed description:** Labcorp stock steadies after earnings beat and guidance reaffirmation ad-hoc-news.de
 
-## 218. Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure
+## 228. Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
@@ -2862,7 +2998,7 @@
 
 **Feed description:** Quest Diagnostics Has Carved Out a Narrow Moat on Its Attractive Cost Structure Morningstar
 
-## 219. Quest Diagnostics: Investor Outlook Highlights 4.98% Potential Upside
+## 229. Quest Diagnostics: Investor Outlook Highlights 4.98% Potential Upside
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
@@ -2874,7 +3010,7 @@
 
 **Feed description:** Quest Diagnostics (DGX): Investor Outlook Highlights 4.98% Potential Upside directorstalkinterviews.com
 
-## 220. Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com
+## 230. Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
@@ -2891,7 +3027,7 @@
 
 **Feed description:** Quest Diagnostics at Morgan Stanley conference: growth broadens By Investing.com Investing.com South Africa
 
-## 221. Quest Diagnostics stock heads into the open after a 1.6% gain
+## 231. Quest Diagnostics stock heads into the open after a 1.6% gain
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Sep 2026
@@ -2905,7 +3041,7 @@
 
 **Feed description:** Quest Diagnostics stock heads into the open after a strong recent gain ad-hoc-news.de
 
-## 222. Which Markets Are Lifting Sonic Healthcare Revenue?
+## 232. Which Markets Are Lifting Sonic Healthcare Revenue?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 14 Sep 2026
@@ -2917,7 +3053,7 @@
 
 **Feed description:** Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? kalkinemedia.com
 
-## 223. Labcorp Q2 2026 Earnings Call Transcript
+## 233. Labcorp Q2 2026 Earnings Call Transcript
 
 - **Company:** Labcorp
 - **Publication date:** 13 Sep 2026
@@ -2930,7 +3066,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
 
-## 224. Labcorp unveils blood test identify potential for Alzheimer's disease in patients
+## 234. Labcorp unveils blood test identify potential for Alzheimer's disease in patients
 
 - **Company:** Labcorp
 - **Publication date:** 13 Sep 2026
@@ -2943,7 +3079,7 @@
 
 **Feed description:** Labcorp unveils blood test identify potential for Alzheimer's disease in patients Greensboro News and Record
 
-## 225. Labcorp Analyst/Investor Day - Slideshow 2026-09-12
+## 235. Labcorp Analyst/Investor Day - Slideshow 2026-09-12
 
 - **Company:** Labcorp
 - **Publication date:** 12 Sep 2026
@@ -2955,7 +3091,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Analyst/Investor Day - Slideshow (NYSE:LH) 2026-09-12 Seeking Alpha
 
-## 226. Germany: Labcorp acquires MLM Medical Labs from Great Point Partners
+## 236. Germany: Labcorp acquires MLM Medical Labs from Great Point Partners
 
 - **Company:** Labcorp
 - **Publication date:** 11 Sep 2026
@@ -2967,7 +3103,7 @@
 
 **Feed description:** Germany: Labcorp acquires MLM Medical Labs from Great Point Partners investorsinhealthcare.com
 
-## 227. Mayo Clinic Laboratories to build $30 million testing facility in Mississippi
+## 237. Mayo Clinic Laboratories to build $30 million testing facility in Mississippi
 
 - **Company:** Mayo Clinic Laboratories
 - **Publication date:** 11 Sep 2026
@@ -2979,7 +3115,7 @@
 
 **Feed description:** Mayo Clinic Laboratories to build $30 million testing facility in Mississippi postbulletin.com
 
-## 228. Are Margins Turning for Sonic Healthcare?
+## 238. Are Margins Turning for Sonic Healthcare?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Sep 2026
@@ -2991,7 +3127,7 @@
 
 **Feed description:** Are Margins Turning for Sonic Healthcare (ASX:SHL)? kalkinemedia.com
 
-## 229. List of Investments by Quest Diagnostics (Sep, 2026)
+## 239. List of Investments by Quest Diagnostics (Sep, 2026)
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 11 Sep 2026
@@ -3003,7 +3139,7 @@
 
 **Feed description:** List of Investments by Quest Diagnostics (Sep, 2026) tracxn.com
 
-## 230. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
+## 240. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3015,7 +3151,7 @@
 
 **Feed description:** Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests genomeweb.com
 
-## 231. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
+## 241. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3029,7 +3165,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 finance.yahoo.com
 
-## 232. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
+## 242. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Sep 2026
@@ -3041,7 +3177,7 @@
 
 **Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com
 
-## 233. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 243. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3053,7 +3189,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan gurufocus.com
 
-## 234. Labcorp to Host Investor Day on September 10, 2026
+## 244. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3065,7 +3201,7 @@
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
 
-## 235. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+## 245. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3077,7 +3213,7 @@
 
 **Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
-## 236. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+## 246. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3092,7 +3228,7 @@
 
 **Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com
 
-## 237. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+## 247. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3105,7 +3241,7 @@
 
 **Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
-## 238. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
+## 248. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3117,7 +3253,7 @@
 
 **Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com
 
-## 239. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 249. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3131,7 +3267,7 @@
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
 
-## 240. Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029
+## 250. Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -3142,136 +3278,3 @@
   - Pluang: https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGxXUU4tZEwtR0JWUXBGUlkxS2RYOTRfd3p3YlFiWTAwRlg1MDExc0k0a0dOQzU1OUxZRmUzRk83SEdFSWF4cXVyQms4R09uT1FESUNEUEE2VlV6TnJlWTN5c3hQSjV4OGtUeGxjNzdwMW9iUDZtOUJWbVVZT3ZiRWJ4RFpwZ21mYWxadVRPMjdlSFg3NEJtTlpkM0d6eG9SOXNjTDJhcXY2eFlqWEVV?oc=5
 
 **Feed description:** Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029 Pluang
-
-## 241. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Bloomberg.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5
-
-**Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
-
-## 242. Quest Diagnostics stock underperforms Thursday when compared to competitors
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 10 Sep 2026
-- **Category:** Other
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - MarketWatch: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX3M0a1pfUHZLSnUxaWoyd1dRUWNjWDZTdkN6eEtjaXNZY2dodC10MFd0bzNwU3IxOWwzU3dhSWRxM3J0dWNKdmNuelkzZHFSZ1c3RHdDRVJFMDVmSkdiWEhuN3JrODlsd2ViMDFzN1ZxZzRBMzROSGplUWZVMlQ5aGF5OHpVU3ZYb2tXZWJMYVEyc3diNkZVMnNXaUhyLU1hbWx6VGlRSmRIeEh0b0xNbnFlT0FyZFplbzlUUHVvczdSSF9neXFoX0g1SDNaZGxpWm5sNTln?oc=5
-  - MarketWatch: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX1h2aVVCQnIwdy0za05pdVF5QWxhc2Q0bjNURm1zSFB6QUVXekFJWXYtTWp3VEdPZURqLS14Qkt2NG8yb3JXdzFlNWFsVl8zOHJYYnc5b2p3X09yQ2phdkhqMlczMEltNHpiYkdzSWFYT21rQXZwRGdQdlVReW1nMGNsSFlwaVZ2dWRtT2hYc3FMSGp3ckxuc2xSSWhvdjktN1ZfWUJEZU1wSWdPa1FPSlotQTJOUmczN2Y2YTdvRGZ4cng2XzA1NjJ5N0NtOUNjY0ZtdHFJZWZncUVPX0xhZXFxVUV4QkdyS21JeFRn?oc=5
-
-**Feed description:** Quest Diagnostics Inc. stock underperforms Monday when compared to competitors despite daily gains marketwatch.com
-
-## 243. Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - scanx.trade: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY0dVWTRhR0JjcW1vR3hhWlBKRFpESmxWZ0xuckNkbDlMcWZKWk9lQ1JSdTcxX0ZrTTlmTVJxRDJ3RGtDZzgtRk1HbTVRam9MRVNBWkFLaVVZR0g0VW1Cb2tmSnZqbnhfdDdTc2FjMXU0Qmx1OTQzMFMxeGpzamdiVXA3QUNLMDI4TEYxSmFsX1B6VjRyMnk1d2ZyNUlIc0ZRLXRaeTU5aHhFVUdTcVFYN1ZBNkx1VlpjanhXa0MtMlE?oc=5
-
-**Feed description:** Labcorp sets 5-8% revenue CAGR through 2029, reaffirms FY26 guidance scanx.trade
-
-## 244. Labcorp stock dips as 2026 guidance and 2029 growth outlook take center stage
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkxIa3pBdXo1VmgwU1JrUWhkNGs5WDFZRmJwenQ1aXRLZE9lTl9ORXlTZFQ0OHR2YTJLX3RwQ191Ui1RdmxGUWhwMWtTbUZrRGtIeEFENnVpXzZKckxqY1JlNFBET2F3Mmp3eVY1ZnR4RXkzRmFUbWdpeGdJWXN5cFlHdDZEeEJhS1NDSFg5VTZLOUpoQUtDVnUwNUdKd0FLV2VHZGs0clNsYlBrM1Uxd2dweVJiWkliaXIxem9kMWNKZXliYldadkFwQm9zMlE?oc=5
-
-**Feed description:** Labcorp stock dips as 2026 guidance and 2029 growth outlook take center stage AD HOC NEWS
-
-## 245. Mayo Clinic Laboratories to bring testing operations to Southaven
-
-- **Company:** Mayo Clinic Laboratories
-- **Publication date:** 10 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Mississippi Development Authority: https://news.google.com/rss/articles/CBMimwFBVV95cUxPeXE4aWNmMWNjV1hkRlVaSnJzYlVkeHdfTlhEaWtSZ1VCWTF0dUwwcVB1UzcwVjlXT29HMWJ4cnFSOXhaT09GMXF0ZFU2N3BqR3g5Yk85Z1NaVmM3SjlIYlFkTzhJVzZRa3hERnRnTkw0QjNiUXc0ejVkc0xocHV3Z2VkeU9HVzkwUmRjUlUxcnFRQ09oSF83VWxaMA?oc=5
-
-**Feed description:** Mayo Clinic Laboratories to bring testing operations to Southaven Mississippi Development Authority
-
-## 246. Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 10 Sep 2026
-- **Category:** Other
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - AD HOC NEWS: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5
-  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUDkzU20zbHVHRmI4UHpXcGRjZ2p3WERhWlp4RnJGcFBFaFZPSnYyS2lxdTlwdUVabklONHBzTk1GNVhOa0M1eDBIaGNjYVJXUjFYMk9wVVBNZ0t1NENTOGZVRlVMc2wzdGNHMENXMzBfa0hzb0s1bjNjTll5Q2NHWk52cDJhenRtNURkNWNaRGVocldOY2k0MzVGT21ncnl3NDk1dWxwdE5MZHROMnBPYUhMYmUtOXJiaGNPSmNJM19rNDhILS1JOFVOSQ?oc=5
-
-**Feed description:** Quest Diagnostics stock edges lower ahead of the open after a 0.7 percent drop ad-hoc-news.de
-
-## 247. Labcorp acquires MLM Medical Labs to strengthen global clinical trial services
-
-- **Company:** Labcorp
-- **Publication date:** 09 Sep 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Indian Pharma Post: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUNIB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
-  - Indian Pharma Post: https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVcwaTBUM0dEcnhDVkFDUjh2QWZOZk11TmlrR18tUnlhendodGlvSHVTWktuQ3paVXVjVUNLVEJTSG5SV2NET05WWDBWWlBSSHVaS3ZoOEUwaFgzQnFwRkVZVmQ0TEJ0dlJYQ2Z4OEhjN21xVHpPd2hyZEN2UVJJaVN0OWdJZ1dEaS1sWDB4UWpxQ3Jza1pYQ2pQNHBYZzNESC1yYUFHcFJ6UVlfWTFSUzJEUDY3SXB0RkFmaF9TcGFJNHo2ZVAwZWNBaG9rd9IB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5
-
-**Feed description:** Labcorp acquires MLM Medical Labs to strengthen global clinical trial services indianpharmapost.com
-
-## 248. Great Point Partners III Sells MLM Medical Labs to Labcorp
-
-- **Company:** Labcorp
-- **Publication date:** 09 Sep 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 5
-- **Official source involved:** No
-- **Sources:**
-  - BioSpace: https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc4R1dIUkNqZWFfY3VPZzM5NFdBMF95cmlaX09FQmJtWFlkeDBwMU9DRnhjcFQzZlB0eEZpeW9PQjA4TmFMT1lXQlZmQlZJa0JUNkRNdzY1UjB6Y2R2dDBuS2RMZHVoQlYzNlcwSWRaODhaRDcwbTRsNnlldTZ0ZWxjckJJdEF2UnlRd0ZVbUltLXdLNkpWRVlXd25YMWc?oc=5
-  - citybiz: https://news.google.com/rss/articles/CBMimAFBVV95cUxNVmF2RWQzb2xMbjJpMnlsZlc3THNkVVY5OGhDOVZ0end1eVhTck9GY3dMTjNXako3eUhXcHpLM1ZOR3g3Y2xEQ2dreVBWS08xM3hyREp5YllOVnJhVjBKVV9XRXEzVV9GUi0wS3VJck5PRXJqQkRxM0JGd1JyWDBEZ2xtRzFySmw4c1FQY2Q3czlpU0VRal95Vg?oc=5
-  - Private Equity Professional: https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0pBZjhzZnQ5N3B3YS10UjBhN2hkdWw0R1E1TWlTdWdPNVo0bmtiaHRoS2dEVzFVRTRGMVdMMHY4V2diUkdndTNIZ2lEUXBsZWc5d3l0MzhnS0EzYTRNMlRwY3djVGZRYWJub1ByOVFRV2Z4Z0dkMXJzUE1jbmNISWNwa1NxX01reWJoeHZNNTZUR2hpMFdyclVZSXJYRU1Zd0U3VXQzaUNvX0J3djZiSHNmTQ?oc=5
-  - Pulse 2.0: https://news.google.com/rss/articles/CBMif0FVX3lxTFA4T1pOeUZrX2U2QmVuMG5URjRfZ2VCZ2NYdjNlT3JQVlIxNmlmN3VkV2FMZVMtWTZ6OEhYMHVVXzl1OTNySnkxSFptOWVaTzZuWklaZzV3M0doVkp0Z0pMUkNsZVZBWmR4WHZmNXMtaGFEd1dmakNzZ2tRZ2F5NzDSAYQBQVVfeXFMUGUxVzZtb0wzdjEwNUJCRnpKMUs0Q0NrTlpMbWtabFNuUzZpRU9JTzJRck1GbDZiMUpUdmtOdXlRYzdZZmU4T18zNC1WUERSa3Q0MExIWHFZT3BwLXctSzBkQldMQ3Y3ZFVpNDRHVXZuZk9uNXpoNXZrWkMxUGY3cG5GZWVV?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMilgFBVV95cUxNZmhBUmRSTmJLOHp1MXJIVzNMZnRqUHM5RHpvb0YzWmxKcUVoQkIwaS0wbk1RbXVBVjNVaHprdVh3eGxOdERRR1RKcUd5aTFWUnVya1o4a2FPeXYyVHNURmI3UXJMMnd4bkJhMlZidHR1SU1yMmNjMXRpMGVMTE8xNHJJdTVTSEgwR1M4dkJZZ3J3UE5wTkE?oc=5
-
-**Feed description:** Great Point Partners III Sells Clinical Trial Lab MLM Medical Labs to Labcorp Private Equity Professional
-
-## 249. Apple Health app Users to be Able to Order Labs from Quest Diagnostics
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Other
-- **Coverage count:** 6
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMixAFBVV95cUxOT0JJcE00MGlhSjMxVEZZc0Y4MFQzSFVHbEFKT0FDdVBLM3lMRUxzdnB1WE1mcThDTTlmOHU1X2ZjWU5fTEJ1VkRpWGowWndyYnhaemZXUFg0dVBLVGRjcDVzRUNqQ2lpQnBQM3AyTUFzU3VoLTloSEhwVUJHbmpGeGwtdXcwaDVfZlZiQVlIa1ZZdDJHdmZ3ZHczUllWWWpHTU5qTTUzcDVaOEJYS09TSFZ1eUtpaHRwR2g1c0h6MjgtZXg0?oc=5
-  - marketscreener.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVC1zd0FxRHZ2ODd0ZW1Ed0dJRzY1S09Sb3dPRVNJNTJyWkN2TnhoeE1OYUc2b3NHcXlQNWwzLUIzUlgxaVZ2eXo0Q3NoZURJeEdDNUpiajFVUnRYME1KdW9DMFhXVkxwWDNlalpPbGhjSktkOU9TS0pTdWxyY2YtcTV0RUt0cUV2ODJFdXZVYWJfVzRPaG4zQTNhMUJqOVBtRHZBZE9KcEMzdVRZWnNjM2plaFUweW1DSnc1NUZZREFVcTVaY3R3RDJVNzR0eW00OUlTUUlSYXNnS1I5YlZHMzJNbmhWQQ?oc=5
-  - TipRanks: https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0E4V2R2VlJoSW5Xbl9EMmlsdVFBV2lpR01VUjJQWkJWS2hJeTVTTm5YTFRRZVFISHRHZG16Z2c1SWt2UXB1Q2dweURqRF9EYzNtYVlTZnBoZ2JyU2VwZzc1dmFiTXJXY045UExWX1JHa3lCSGMwdDlJLVhfVUFUYWlOVVltdndKaXFjNDQwUHZUeVRGMHZRZW9hZ2xOcWJFZFBxaVMzSmNRd1JPSXZn?oc=5
-  - Moomoo: https://news.google.com/rss/articles/CBMikwFBVV95cUxNRUdlcEk3OUVHUXUyQlNhbEpuaXhENFYwRndFZnZZekZvcDFWOVRxbEg3d3JwMllYejJzQkxPS3hMUWVhal8wNVFTMEs5LVFjdThXS3JocGhobnB6dDBtSm1qSGVmcXBMYk1zRnY0N216SEdvTVlOU0kzNU5EQUR0aVJzVjk3ZFl3VHNka0Qydk1pX1U?oc=5
-  - Morningstar: https://news.google.com/rss/articles/CBMiywFBVV95cUxOTVZ4dzMzZGYtN0ZtTTlCMV8xendlNkxXaEpsNWJwT090TjZTTUZzRV9UbktQU19kNUExZmhDNHhpbHJYS1IwMVhvdmxvUWs2bXVNeE1MSDhPeVZJTXVEUFkzX1lJa21EcVI0UEFzS0p5RUZaX05IYnpZbnF6WmE1blZINDZ4ZURnYXlKMjY4SlZvVEhXTFdsMFc2RUFqSWpQekV6UHctdDRfUHpvXzcwdUhaR1BhWHpFbklacUlMR3Nmbm9rY0hJS1ZpSQ?oc=5
-  - finance.yahoo.com: https://news.google.com/rss/articles/CBMikgFBVV95cUxOMWgzeDNZTDNNQ0M0TF9fc2lpTk1jTXRSOTlyaW5jcm1hdUhJc1FzVGw0UEZVTS1Nc2dpaEZfcFJJbFMtNjJMUlJZTGY4NFhaTU5vTW9tc0N2aktHa3pkM3JCaExSTThWbUNsZDVuTjVXUW5GVm96VTYyM0FIRFA1Y21qbmYtSDBNb3U0NWo2dEcxdw?oc=5
-
-**Feed description:** Quest Diagnostics Announces Apple Health App Users to Be Able to Order Labs from Quest Diagnostics marketscreener.com
-
-## 250. Quest Diagnostics stock gains on Apple Health lab testing partnership
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 09 Sep 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5
-  - ad-hoc-news.de: https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5
-
-**Feed description:** Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de
