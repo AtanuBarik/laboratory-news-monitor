@@ -1,11 +1,131 @@
 {
-  "generated_at": "2026-10-23T10:55:06.291271+05:30",
-  "generated_at_display": "23 Oct 2026, 10:55 AM IST",
-  "item_count": 445,
-  "raw_relevant_item_count": 618,
-  "duplicates_merged": 114,
+  "generated_at": "2026-10-23T17:40:25.889477+05:30",
+  "generated_at_display": "23 Oct 2026, 5:40 PM IST",
+  "item_count": 449,
+  "raw_relevant_item_count": 630,
+  "duplicates_merged": 123,
   "failures": [],
   "items": [
+    {
+      "id": "1aebd809118ffdb03e35",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics hit by cyber attack",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
+      "description": "Quest Diagnostics hit by cyber attack FOX 8 News",
+      "source": "FOX 8 News",
+      "source_url": "https://fox8.com",
+      "source_domain": "fox8.com",
+      "published_at": "2026-10-23T10:11:24+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "FOX 8 News",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
+          "domain": "fox8.com",
+          "published_at": "2026-10-23T10:11:24+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "attack cyber hit"
+    },
+    {
+      "id": "9f9190af9b7412991183",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXdMcXVwWUxFWVp2UXAzSk9QUTNtSEpiUTY5aWlTMlFhSjNTdGtZck5sbkVZV3p4d0cwTk4waEw5SW1zVTBlTGNubFRIZjgyN0tmMUxJSU1VV1NpdzFyVmZUQnozNEVBYUFsVmhuVWdJVlcyVVJHSDlmclU0V0hkcG5JWWl0bl9DcjAwbnFnRmE0aFJXRXU4cFItOWJBSk00TEZIQTdIcDhqa01Fdk4tYzdGYnVud2RrUm1Tb0w4VWttcHBWQVJwN1JvSGVram13UjJScWdxMkVRbHBpcmN4WkVRenNXdw?oc=5",
+      "description": "Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System OfficeChai",
+      "source": "OfficeChai",
+      "source_url": "https://officechai.com",
+      "source_domain": "officechai.com",
+      "published_at": "2026-10-23T07:19:36+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "OfficeChai",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQXdMcXVwWUxFWVp2UXAzSk9QUTNtSEpiUTY5aWlTMlFhSjNTdGtZck5sbkVZV3p4d0cwTk4waEw5SW1zVTBlTGNubFRIZjgyN0tmMUxJSU1VV1NpdzFyVmZUQnozNEVBYUFsVmhuVWdJVlcyVVJHSDlmclU0V0hkcG5JWWl0bl9DcjAwbnFnRmE0aFJXRXU4cFItOWJBSk00TEZIQTdIcDhqa01Fdk4tYzdGYnVud2RrUm1Tb0w4VWttcHBWQVJwN1JvSGVram13UjJScWdxMkVRbHBpcmN4WkVRenNXdw?oc=5",
+          "domain": "officechai.com",
+          "published_at": "2026-10-23T07:19:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access discloses half hospitals lab manager quantum serves services system unauthorized which"
+    },
+    {
+      "id": "8e32a8b4f1f82cd31536",
+      "company": "Quest Diagnostics",
+      "title": "US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWxfOFJJc1VQeDlTcVpVXy02QVhScF9wSFRlSEtnRkpJeGQyZDZ2bXR0R29QQXl5eDlzRXZGWWMyVVBKNExaeDFudFBHeUlaLTZVNlloY2kxNkgxa1gzT1hpQWVTSG1zMHRBdFFKb2tnYVE5TkpGNDJQYTFlMGEyT1JaNGhPeFcwZnhIZzRDOVlCZVk3aUg4QlcwX2h2dElzTVZvNlZ2alTSAa4BQVVfeXFMTkRDTFIzQk5lZnVFdjBZeGRRakJ1S3A0aTJNblpwUVFQOFRQMi1ZNzFiLUFpUjFoNFlURnl4WlIwYmZKWjhxckhZZ2Q5czktSzlTZUREdC00OVRRNkVIajJtNVRVRG5DSFA5N3h5ZVpRcFM2Qk05T3ZkMFYwZTkyLWNKNHliU2dnSnNIU1hjdzg4WE5lR29XbmFoNG1pSEdsdHdCR1VGSU1zYjFsYURB?oc=5",
+      "description": "US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed News9live",
+      "source": "News9live",
+      "source_url": "https://www.news9live.com",
+      "source_domain": "news9live.com",
+      "published_at": "2026-10-23T06:17:54+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "News9live",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTWxfOFJJc1VQeDlTcVpVXy02QVhScF9wSFRlSEtnRkpJeGQyZDZ2bXR0R29QQXl5eDlzRXZGWWMyVVBKNExaeDFudFBHeUlaLTZVNlloY2kxNkgxa1gzT1hpQWVTSG1zMHRBdFFKb2tnYVE5TkpGNDJQYTFlMGEyT1JaNGhPeFcwZnhIZzRDOVlCZVk3aUg4QlcwX2h2dElzTVZvNlZ2alTSAa4BQVVfeXFMTkRDTFIzQk5lZnVFdjBZeGRRakJ1S3A0aTJNblpwUVFQOFRQMi1ZNzFiLUFpUjFoNFlURnl4WlIwYmZKWjhxckhZZ2Q5czktSzlTZUREdC00OVRRNkVIajJtNVRVRG5DSFA5N3h5ZVpRcFM2Qk05T3ZkMFYwZTkyLWNKNHliU2dnSnNIU1hjdzg4WE5lR29XbmFoNG1pSEdsdHdCR1VGSU1zYjFsYURB?oc=5",
+          "domain": "news9live.com",
+          "published_at": "2026-10-23T06:17:54+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "confirms cyberattack data exposed giant medical patient testing"
+    },
+    {
+      "id": "265792e239eaca780067",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Raises 2026 Reported EPS Forecast to $10.21-$10.31",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93ZzdJSFJZUldaR1lTWTdvOFJzZ0lVSjZOT01JUGs2RjBtN01tUEt4TlVtWTltUjNlQTNkbUxUR3VzdW5MY203ajRhQTlCUFRocDdBTm5QNEM?oc=5",
+      "description": "Quest Diagnostics Raises 2026 Reported EPS Forecast to $10.21-$10.31 TOKENPOST",
+      "source": "TOKENPOST",
+      "source_url": "https://www.tokenpost.com",
+      "source_domain": "tokenpost.com",
+      "published_at": "2026-10-23T06:15:37+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TOKENPOST",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93ZzdJSFJZUldaR1lTWTdvOFJzZ0lVSjZOT01JUGs2RjBtN01tUEt4TlVtWTltUjNlQTNkbUxUR3VzdW5MY203ajRhQTlCUFRocDdBTm5QNEM?oc=5",
+          "domain": "tokenpost.com",
+          "published_at": "2026-10-23T06:15:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 eps forecast raises"
+    },
+    {
+      "id": "12e172ba975562e36be4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oeV9ZckxrdEtxSElpeWFfZG5ENF9ZazhyVzI4al9sMGQwMjJHUTI2RDFpYkJZNUVIbmNNeGFQd3lyc0VmYXU5TFpKejhCRlhlNEdKTFF4aVlXVDdxVktkTGNuYk9vZ9IBa0FVX3lxTE03QWxZR2FmMlcwdlJ5enp4RndqVUoyc0RIS2k1cmh2YU4wajdWeVpZVklOTVJUNWticTNpNlBNQ3ZpZGNpaE1NUmNVeEFzZTEzeV9lNmNBaEZadWxWbnZXaUQ2UHBJa1pMeHlR?oc=5",
+      "description": "Quest Diagnostics Hacked - Attackers Accessed the System to Order Tests and View Results CyberSecurityNews",
+      "source": "CyberSecurityNews",
+      "source_url": "https://cybersecuritynews.com",
+      "source_domain": "cybersecuritynews.com",
+      "published_at": "2026-10-23T05:45:34+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CyberSecurityNews",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oeV9ZckxrdEtxSElpeWFfZG5ENF9ZazhyVzI4al9sMGQwMjJHUTI2RDFpYkJZNUVIbmNNeGFQd3lyc0VmYXU5TFpKejhCRlhlNEdKTFF4aVlXVDdxVktkTGNuYk9vZ9IBa0FVX3lxTE03QWxZR2FmMlcwdlJ5enp4RndqVUoyc0RIS2k1cmh2YU4wajdWeVpZVklOTVJUNWticTNpNlBNQ3ZpZGNpaE1NUmNVeEFzZTEzeV9lNmNBaEZadWxWbnZXaUQ2UHBJa1pMeHlR?oc=5",
+          "domain": "cybersecuritynews.com",
+          "published_at": "2026-10-23T05:45:34+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accessed attackers hacked order results system tests view"
+    },
     {
       "id": "ef05d1330f76cea4b240",
       "company": "Quest Diagnostics",
@@ -73,15 +193,21 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVVjUEZ4bThpejBoRnRLNG9meHRUSHhMNjAtY3ZLTkxlVjAxd2R2V3h6SDFXX0l3WWJuNk9SX3g4SjBtZU53S3IyN0FVU1BkU1I3N1RxTzE3dUFSMVdYTHlfVWtkYzlMRFI3OWZuMWJCdER3UzhubmpBRTRqNHdrTDNJTW5kNUEzSWJlZXJGOW9jLWR0V2lERnNBOVhoNlZrcVdzWGZYWU16MFktbHQ2UXB2WEZmbFNtcnBPYi1OOGNsdEt3Qmc?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-10-23T03:29:46+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQkwtOWtWeHN0elRJSTN1VFVXN0FUdTYyS0V0b3ZfSGdXYkREZ2RPMW03WUxHNWVhbnV1dGtoNjJfOUk2NjAwc25uSWlrQ1JlaS03dzNhS1RMWmNIY2pBTF9wVkJpTjgxN19UOWlPVDBrVFVwMU1HRmFoUzR5NGVsZlpsMU5nRWF4MUpPSXVNYjFqVUN0V1dtQmkxZTJhM0xKQ0F2MWtONUtELWZONE16aGJYdkVmUXNzdi1MVHR1cTU5dXZLOFZRVXc5ejZNOVFPbFg4aU85M3NOTldlREk2N3UzSkctZw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-23T03:29:46+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 guidance means raises stock what"
     },
     {
       "id": "645d3ec1e20041218b5a",
       "company": "Quest Diagnostics",
-      "title": "Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records | Hindustan Times",
+      "title": "Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYkFNNl9BR1N3MXJuRXVfSE9nQkJoOGlQaFFkUkdvYlA4U1ozQjdpLWx6NmI3Y1pzSHdhbmVXY3ZncGxsUy16N2tYVm5vUVpmMHhHSDZhWE0zYzJNYmRNelhYNXFycWlvRnUzaERLeXN0blJ3WTdScllJM3R2TzdjMlRaQy1UQUZoR3lJMV92UzVXYXdHaU5QMGl5N0d1cDI4SWVDRTNEb3o4V1otUlFpMnFScVlzSDM4a2Q4NVBnZ3lIV2twUHFqdVRPTFB2VmNaSEhQY29yOXY1MTBXTEctOWhzb2lLcWlVOGtJRGtJbU94NU55amfSAfsBQVVfeXFMUGhrY2hkU3R5cEFvcGt5YTdNSkxVSnlZdDU3RXY0ZkVWaFpYYWx4aUM4VEZrQTlYdVltS2xSWktfNXh1ZDB1OWVPbVl0NGRRVnBJcUo2NEsyWXU2RExPd1NKeENWZkp1Z0ZYMV94dEVQZUFza2xCY0JLOXBKQS12cS1zajI0dl90amlvYVdUVk5PazdPb2Y1ckt6WVNxX1BpdFFqUlFUWlVDWlE2SEdvTU0wOXhUS2N4U0tLYmY0cE81SmFvT2lmbFl1ZllJVS1qV2hkSDZFNXNJamRORG1JclFUTS1iTzNmVmhhWWUyTmo1ZFpBd1dESUFnVkE?oc=5",
       "description": "Major US medical lab operator, Quest Diagnostics, reports cyber breach exposed patient records | Hindustan Times Hindustan Times",
       "source": "Hindustan Times",
@@ -100,7 +226,7 @@
         }
       ],
       "coverage_count": 1,
-      "event_signature": "breach cyber exposed hindustan lab major medical operator patient records times"
+      "event_signature": "breach cyber exposed lab major medical operator patient records"
     },
     {
       "id": "fae4118b0f61ed796744",
@@ -145,9 +271,15 @@
           "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-22T22:19:29+00:00"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-10-23T06:35:45+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "abuse assessment charles collaborate fda methods potential preclinical river validate"
     },
     {
@@ -173,6 +305,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "accessed confirms cyberattack down information patient shut systems temporarily"
+    },
+    {
+      "id": "3b888081ef7c6fd5c3be",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Lifts 2026 Revenue and Earnings Targets After Q3 Beat",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNFlRV0REXzRucHdpTjVOMndpeVN3MXpRRmZjY2pYeEVtbkN6MHg0X1Ita2hlY21lY0RPWmpIdE1CSjVDUTFPd3phWDAxMnF5am1MdGVfTEE?oc=5",
+      "description": "Quest Diagnostics Lifts 2026 Revenue and Earnings Targets After Q3 Beat TOKENPOST",
+      "source": "TOKENPOST",
+      "source_url": "https://www.tokenpost.com",
+      "source_domain": "tokenpost.com",
+      "published_at": "2026-10-22T21:42:26+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TOKENPOST",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wNFlRV0REXzRucHdpTjVOMndpeVN3MXpRRmZjY2pYeEVtbkN6MHg0X1Ita2hlY21lY0RPWmpIdE1CSjVDUTFPd3phWDAxMnF5am1MdGVfTEE?oc=5",
+          "domain": "tokenpost.com",
+          "published_at": "2026-10-22T21:42:26+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after beat earnings lifts revenue targets"
     },
     {
       "id": "d1ab546e84e4b3a2327e",
@@ -203,7 +359,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ...",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUC11SFAtLVFKU1hWMXJ2QXU4Nm1zSWdPcUc1akF1TU1BbkxCZU5pd2hULTVkem4zcF9rZWpvNVpOTmdWVVpBb2tmcDYzUVhyRVhoSWYwVkl4ZjM1WFh3Ymx6ODl0R1VCQk5lM2ZERjNJYWtKb2dwQVgyVXY2ZV9Xclg5cEM0aDg1azEtTGdDM05TM3M?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ... Yahoo Finance",
+      "description": "Quest Diagnostics Inc (DGX) (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ... By GuruFocus Investing.com Canada",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -217,9 +373,15 @@
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUC11SFAtLVFKU1hWMXJ2QXU4Nm1zSWdPcUc1akF1TU1BbkxCZU5pd2hULTVkem4zcF9rZWpvNVpOTmdWVVpBb2tmcDYzUVhyRVhoSWYwVkl4ZjM1WFh3Ymx6ODl0R1VCQk5lM2ZERjNJYWtKb2dwQVgyVXY2ZV9Xclg5cEM0aDg1azEtTGdDM05TM3M?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-22T21:06:03+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNm9mN2Ftd0xobGx0cjl1YU1qal9COFZSd1lOT2NWRlFKN1F4OFQ5NXFOTW91U09yWjdCOERhUUZqeVRSUmx2QVBKUzE4X1lOWms2ZTR1eHJqR1luZjA4dlhaYzRoSUtTdXdPMy1PWU5MWWx5cE44aHFxRVJVUkpIV29ScmppY1RDTHRsQkZVR0FHSzRRTXZhZ1ZXMDIxYnB6eFg3SV9QZDZSQWdRa0l0RGYtdkpVUHNqYWpwbzVEb1ZPNS1iN2xjdW94ald1VnktZFp3?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-22T23:22:35+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 call digit double earnings growth highlights revenue"
     },
     {
@@ -245,6 +407,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "been compromised data happened have here may used what you your"
+    },
+    {
+      "id": "434d5b19779f377cb088",
+      "company": "Labcorp",
+      "title": "Charles River partners with FDA, Labcorp on drug abuse research",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
+      "description": "Charles River partners with FDA, Labcorp on drug abuse research Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-22T20:41:03+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-22T20:41:03+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "abuse charles drug fda partners research river"
     },
     {
       "id": "3f6a662d7dc0f4a95163",
@@ -703,9 +889,27 @@
           "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjI3NjdtVFphU1RoTzJ4TTJuMzJ5clNGLVVyUVBfTk92c3Fla01OUXNJNVJPM1lNSHRLMmNWRUktR3Fyb0xXLTZJRjVPMnU1ZGdfMFAtRUVlZmE3SnJ5SEZqUUxEQ3JpWUJPalNBY0VDQUM1TF9VYTFaTWNlQkdsa19qN3FrUWI4dTlVeUVyS2xkMndIMXp2YTA3QW9jVXBFbmRjWmYzU2xCQXZQRTcwNnNSalo5X3hzSm5tdno2T1cycjdkOW1v?oc=5",
           "domain": "newsbreak.com",
           "published_at": "2026-10-23T02:23:27+00:00"
+        },
+        {
+          "name": "McAlester News-Capital",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdDNkY0NLeVAxZXF3Z19TY2VHODQtVDFzck56VENZX2JoZjZwTElZX3ZmWkpKNThMaDdsb3FXS2UwUG84WTAwVTNGdTdmYnkwc1c5TXlvWTg5WWNaR1ZzWXFTZ0ZSWEViNjRCQXlhbjU5V0VGeVN2X0RzZGcxLXRld2ZRZ01CNHlLYjFnVEV6VlF3Z3I2aG9jR0VURVh1YUxDeGlxNnpETGYxQ2RRWkY3ckpiN3A3TDdoSnI4NGYtSnM3bXVnQWp5cW1HQktfV3FObjk5ZkhBZmpmYWwzajhxTFRxc1BiaEpRbUJpd1RKVGo?oc=5",
+          "domain": "mcalesternews.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnR3eGhYZ1pjclJsRXQ2VjVuUVlRQXgzS0taaW45WnF2Y0ZMWHd2RFBqVWF4ZVpnWjlyTVJfSE11TUpPOWw4M1ptbVJTM3RkSTJSakRyLWN4ZGpyM0EtdEhWMmpLbkNXRUVPYzd0Wml4bkI0WjUyT3FXVVFUa2VJa1hjSHN5YTlsdnZ0M3pNREdPZ3ZwaUE5ZlFMOUloOVk?oc=5",
+          "domain": "inkl.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "FOX5 Vegas",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXNMLTA2NnU2SnVOS09jR3l4UTNSMjcyT1V5V2xjS0tkVG1BTHN4RlpmNTFzNW5oQVRFcjBnXzFuNWR1UG4zLXBkLTczY1VDUmpieEczVUVvb0lEd1cxUHFCcDFtYlpKZm5ZMGVoWC1VVWhCOTVwcWN4enc0NGc5cTY2RnJ6R1pUWl81SWhyQ1RZVV9jZ0E5ejJKXzhGZmxaVFlqTUw3ZmNZZEp3Z1hGb3VWa01zeU0?oc=5",
+          "domain": "fox5vegas.com",
+          "published_at": "2026-10-23T01:00:50+00:00"
         }
       ],
-      "coverage_count": 25,
+      "coverage_count": 28,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -1121,7 +1325,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics reports unauthorized access to patient records system",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
-      "description": "Quest Diagnostics - Reports Unauthorized Access To Quanum Lsm System On Oct 21, 2026 TradingView",
+      "description": "Quest Diagnostics reports unauthorized access to lab system, says patient information may have been compromised WRNJ Radio",
       "source": "StreetInsider",
       "source_url": "https://www.streetinsider.com",
       "source_domain": "streetinsider.com",
@@ -1159,9 +1363,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXBKdjE4QWxEVnB3M1lxZjJ1RkxRbFJ5TnlHelhfdkZ4eWQ5Z3ktN2ZHTFZuSjRJQ3UwOGFubjFBRXBFb0tRZVVUdHBYaVhNdnBpMEJyQzZvcksxUVFJb0s0SnZGcVFGQ0ptRzgtZTEyc3Z5X2hFOHFGNGpPVy1RZ3NBUzdNZzRBdkVISnlYNkhiVmVJT3gzRXdsMi1ibFBWcE83TEswbjVQc2F2Nnc?oc=5",
           "domain": "minichart.com.sg",
           "published_at": "2026-10-22T15:14:00+00:00"
+        },
+        {
+          "name": "WRNJ Radio",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHUtbnNZMHVKYWV1N0diWC0zMlBGc01Fc3pVNDRpQXktZEg3cWp4RGRyZ1J6bU1PLWdtQ2dDMmFYazdwRDgtNU9Qb0hMWG1IeHVjY0dBYW43M1RIVndQMUJuclJnMG9MSHNFdnplNUtlMS1wb09Wd0dfMVFiaXdHSTVmVi1YZl9KZGdtU3NZOHozMkRJa1VZekJFU1hXNDRtallZdHJteU11MkRGcWhibUNXdzRCbzM5YXJqMWk4Y2tuUUxTVWpjU1lCMW9BQQ?oc=5",
+          "domain": "wrnjradio.com",
+          "published_at": "2026-10-23T10:43:26+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "access patient records system unauthorized"
     },
     {
@@ -14112,100 +14322,12 @@
       "summary_evidence": [
         "https://www.tradingkey.com/markets/stocks/nasdaq-dgx/company"
       ]
-    },
-    {
-      "id": "68ec9092452923f92fdd",
-      "company": "Quest Diagnostics",
-      "title": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5",
-      "description": "Truist Financial Reaffirms Their Hold Rating on Quest Diagnostics (DGX) The Globe and Mail",
-      "source": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com",
-      "source_domain": "theglobeandmail.com",
-      "published_at": "2026-07-25T12:02:00+00:00",
-      "published_display": "25 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSENfakZtcEFLZlRrNDZvdGhDRXJHWTVmQTZhNm14SFB4Zk9VUFctXzUzbE5rMkZBVkZqNm9GaE9vMkx2ODJNWG9RRWlQZmZYcHd2amFVWlNVYWlhYlhESXFpYXJOdmw3aHgxR1BzMTBJaWtFYkVJekg1enhrZ0VoUmkzR1MwTXUxTmJyNTdySHQzdW1ERWxnSGs5WS1yeEp3R1VCYjdXRmNoZnN0S0hhdmVfQjN4Q0VnSEI1VC1LU2Z2dkYzNGJobGFJU1p6NnlVMG5YVm0tbldkUm12bVNaSWxPZHNXWW1P?oc=5",
-          "domain": "theglobeandmail.com",
-          "published_at": "2026-07-25T12:02:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "financial hold rating reaffirms their truist"
-    },
-    {
-      "id": "805744c0006b778ebf36",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock Earnings Beat Supports Defensive Profitability Narrative",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZExVMEhGUWs0al9OcWtJTU5nQUVPdE10bnVtTDRJc3FPYlNLZ1VHWkdsUmFhUlUxRnZSV2RDaElId1NtQ3RFYXJlQVJQXy1PMVJBUjRDYTEzd0V6cVlQZkU4eDFud3JqR0NWdGFWUG5hUnE2RmhrQ3ZBSV9YWm1sRXJ4Z2EyY3pCN2t2X2hnNS03cHZad3RzWGlvMHRoRXhuLW9jUGFCOHJVdlluVWFLS3R3QUVkeHh4SjJROXcxRjd3WUtuRUF4U3p0a0VlRUc1a3c?oc=5",
-      "description": "Simply Wall St’s July 25 analysis framed Quest Diagnostics’ second-quarter 2026 results as supporting a defensive profitability case while also flagging leverage and slower long-term growth. The article reported quarterly revenue of about $3.0 billion, basic EPS of $2.88 and net income of $320 million, compared with $2.76 billion of revenue and $2.51 EPS in the year-earlier quarter. On a trailing-12-month basis, it cited $11.56 billion of revenue, $1.06 billion of net income, basic EPS of $9.62 and a 9.2% net margin versus 9.0% previously. The analysis contrasted the recent 12% earnings growth with a five-year average earnings decline of 18.6% per year and a forecast revenue-growth rate of 4.3% annually. Its valuation snapshot showed a 23.8 times P/E multiple versus 25.5 times for the U.S. healthcare industry and 40.2 times for peers, with a $227.86 share price, $328.86 DCF fair value and $239.38 analyst target. Simply Wall St also flagged high debt and a 1.51% dividend yield. These are third-party valuation and historical-data observations, not Quest guidance, but the article’s underlying operating point is that recent earnings and margin improvement strengthened the near-term profitability narrative.",
-      "source": "Sahm",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-25T07:00:00+00:00",
-      "published_display": "25 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZExVMEhGUWs0al9OcWtJTU5nQUVPdE10bnVtTDRJc3FPYlNLZ1VHWkdsUmFhUlUxRnZSV2RDaElId1NtQ3RFYXJlQVJQXy1PMVJBUjRDYTEzd0V6cVlQZkU4eDFud3JqR0NWdGFWUG5hUnE2RmhrQ3ZBSV9YWm1sRXJ4Z2EyY3pCN2t2X2hnNS03cHZad3RzWGlvMHRoRXhuLW9jUGFCOHJVdlluVWFLS3R3QUVkeHh4SjJROXcxRjd3WUtuRUF4U3p0a0VlRUc1a3c?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-25T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "beat defensive earnings narrative profitability stock supports",
-      "source_description": "Quest Diagnostics (DGX) Stock Earnings Beat Supports Defensive Profitability Narrative sahmcapital.com",
-      "chatgpt_summary": "Simply Wall St’s July 25 analysis framed Quest Diagnostics’ second-quarter 2026 results as supporting a defensive profitability case while also flagging leverage and slower long-term growth. The article reported quarterly revenue of about $3.0 billion, basic EPS of $2.88 and net income of $320 million, compared with $2.76 billion of revenue and $2.51 EPS in the year-earlier quarter. On a trailing-12-month basis, it cited $11.56 billion of revenue, $1.06 billion of net income, basic EPS of $9.62 and a 9.2% net margin versus 9.0% previously. The analysis contrasted the recent 12% earnings growth with a five-year average earnings decline of 18.6% per year and a forecast revenue-growth rate of 4.3% annually. Its valuation snapshot showed a 23.8 times P/E multiple versus 25.5 times for the U.S. healthcare industry and 40.2 times for peers, with a $227.86 share price, $328.86 DCF fair value and $239.38 analyst target. Simply Wall St also flagged high debt and a 1.51% dividend yield. These are third-party valuation and historical-data observations, not Quest guidance, but the article’s underlying operating point is that recent earnings and margin improvement strengthened the near-term profitability narrative.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://simplywall.st/stocks/us/healthcare/nyse-dgx/quest-diagnostics/news/quest-diagnostics-dgx-stock-earnings-beat-supports-defensive"
-      ]
-    },
-    {
-      "id": "5a7a85ae353a3a1d7291",
-      "company": "Quest Diagnostics",
-      "title": "Why Quest Diagnostics Is Up 8.2% After Raising 2026 Guidance And Boosting Buybacks",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
-      "description": "Yahoo Finance/Simply Wall St linked Quest Diagnostics’ 8.2% share-price gain to a second-quarter beat, higher full-year guidance and continued capital returns. Quest reported quarterly revenue of $3.043 billion and diluted EPS of $2.84. The company’s official results show revenue rose 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion, reported EPS guidance to $9.97–$10.17 and adjusted EPS guidance to $11.05–$11.25. Quest also repurchased 522,436 shares for $100 million during the quarter. The article framed higher-value advanced diagnostics and growing testing volumes as important supports for the stronger earnings story, while noting that wage inflation and spending on Project NOVA and other modernization programs could pressure profitability if productivity gains do not keep pace. Quest separately raised expected operating cash flow to approximately $1.80 billion from $1.75 billion and maintained capital-spending guidance near $550 million. The market reaction therefore reflected a combination of double-digit revenue growth, stronger earnings, increased guidance and buybacks rather than a single product or transaction catalyst.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-25T07:00:00+00:00",
-      "published_display": "25 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2QwbGVPV3pJd2lIWU5oYlc2Q3gxWFVmZml6UVBrblk3SHNrSGNvZHdiU0VqUlRqMzZmeS16NWV4MFZ6ODBBaC10ZFo1UU8xU0JLaklCdlU4YlViUFFpUXZRLXlla3RVc3JsRnNMUGFXeExyTFFsa29HOU9uQ1pkbTFseEZPNjJXal9yLW10bEhSSTQwdUpj?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-25T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 after boosting buybacks guidance raising why",
-      "source_description": "Yahoo Finance/Simply Wall St linked Quest Diagnostics’ 8.2% share-price gain to a second-quarter beat, higher full-year guidance and continued capital returns. Quest reported quarterly revenue of $3.043 billion and diluted EPS of $2.84. The company’s official results show revenue rose 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion, reported EPS guidance to $9.97–$10.17 and adjusted EPS guidance to $11.05–$11.25. Quest also repurchased 522,436 shares for $100 million during the quarter. The article framed higher-value advanced diagnostics and growing testing volumes as important supports for the stronger earnings story, while noting that wage inflation and spending on Project NOVA and other modernization programs could pressure profitability if productivity gains do not keep pace. Quest separately raised expected operating cash flow to approximately $1.80 billion from $1.75 billion and maintained capital-spending guidance near $550 million. The market reaction therefore reflected a combination of double-digit revenue growth, stronger earnings, increased guidance and buybacks rather than a single product or transaction catalyst.",
-      "chatgpt_summary": "Yahoo Finance/Simply Wall St linked Quest Diagnostics’ 8.2% share-price gain to a second-quarter beat, higher full-year guidance and continued capital returns. Quest reported quarterly revenue of $3.043 billion and diluted EPS of $2.84. The company’s official results show revenue rose 10.2% year over year, including 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Management raised 2026 revenue guidance to $11.95–$12.05 billion from $11.78–$11.90 billion, reported EPS guidance to $9.97–$10.17 and adjusted EPS guidance to $11.05–$11.25. Quest also repurchased 522,436 shares for $100 million during the quarter. The article framed higher-value advanced diagnostics and growing testing volumes as important supports for the stronger earnings story, while noting that wage inflation and spending on Project NOVA and other modernization programs could pressure profitability if productivity gains do not keep pace. Quest separately raised expected operating cash flow to approximately $1.80 billion from $1.75 billion and maintained capital-spending guidance near $550 million. The market reaction therefore reflected a combination of double-digit revenue growth, stronger earnings, increased guidance and buybacks rather than a single product or transaction catalyst.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T00:34:32+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/markets/stocks/articles/why-quest-diagnostics-dgx-8-041726532.html",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 55,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-23T12:17:00+05:30",
-  "next_update_display": "23 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-23T18:17:00+05:30",
+  "next_update_display": "23 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
