@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-10-23T22:58:36.037876+05:30",
-  "generated_at_display": "23 Oct 2026, 10:58 PM IST",
-  "item_count": 459,
-  "raw_relevant_item_count": 657,
-  "duplicates_merged": 138,
+  "generated_at": "2026-10-24T03:11:58.657052+05:30",
+  "generated_at_display": "24 Oct 2026, 3:11 AM IST",
+  "item_count": 463,
+  "raw_relevant_item_count": 643,
+  "duplicates_merged": 120,
   "failures": [],
   "items": [
+    {
+      "id": "362155a0c547d6d21993",
+      "company": "Quest Diagnostics",
+      "title": "PRIVACY ALERT: AWKO Law LLP Investigates Quest Diagnostics for Data Breach of Patient Records",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWm9zU3d6aGJxS19IUGpPT1ktVkJWQmV3cnI1dnhJZEkxQTU5V1VqWWdPZ2JwTVowZnJJdU5KRE91T214TTIxSW94M0xKY0MtdEpWUmVOaWZlSlJjLWg0UmFVZjVRZFlkYVA0d3VfekplRFFDVEEyYlhOWTdaSXRUejBaX21uUXotbDA0MDBtQWZZSkxVTC1UbWh6OG5DWlFiMVgtSDR5ZkZmUUJBeDlURnFmQkg5cVRNOWhSY3dUUFN2TFlVSjltYkQ1QkZqMDkzUkRkSVJ3ZF9jWkpXY20zUkRzU0dXY24y?oc=5",
+      "description": "PRIVACY ALERT: AWKO Law LLP Investigates Quest Diagnostics for Data Breach of Patient Records StreetInsider",
+      "source": "StreetInsider",
+      "source_url": "https://www.streetinsider.com",
+      "source_domain": "streetinsider.com",
+      "published_at": "2026-10-23T20:34:17+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWm9zU3d6aGJxS19IUGpPT1ktVkJWQmV3cnI1dnhJZEkxQTU5V1VqWWdPZ2JwTVowZnJJdU5KRE91T214TTIxSW94M0xKY0MtdEpWUmVOaWZlSlJjLWg0UmFVZjVRZFlkYVA0d3VfekplRFFDVEEyYlhOWTdaSXRUejBaX21uUXotbDA0MDBtQWZZSkxVTC1UbWh6OG5DWlFiMVgtSDR5ZkZmUUJBeDlURnFmQkg5cVRNOWhSY3dUUFN2TFlVSjltYkQ1QkZqMDkzUkRkSVJ3ZF9jWkpXY20zUkRzU0dXY24y?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-23T20:34:17+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alert awko breach data investigates law llp patient privacy records"
+    },
+    {
+      "id": "16bc995360e50b8a1ed3",
+      "company": "Quest Diagnostics",
+      "title": "Medical lab Quest Diagnostics cyber breach may impact patient records",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXZZby16ZTQ1cXVNQXprZWtCWEJiUWVfelJENTBmbEw1c2cxdFRValZuV3BlbGJDbGtsSU5Bay0xeUEyYlRzdERwWUNWallzemZuT1RKQlhMMDZ1ZW5BdWVkQVR2OGxHeDJoa1B3TnFlaXZ3dHk4QUdlRmtLb2JtVVZ1RDRZTjFUTEVVX19CZkhpa2xxV0tmblFuMEctYjhkV3RDUVRVN094UQ?oc=5",
+      "description": "Medical lab Quest Diagnostics cyber breach may impact patient records Houston Chronicle",
+      "source": "Houston Chronicle",
+      "source_url": "https://www.houstonchronicle.com",
+      "source_domain": "houstonchronicle.com",
+      "published_at": "2026-10-23T19:03:23+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Houston Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLXZZby16ZTQ1cXVNQXprZWtCWEJiUWVfelJENTBmbEw1c2cxdFRValZuV3BlbGJDbGtsSU5Bay0xeUEyYlRzdERwWUNWallzemZuT1RKQlhMMDZ1ZW5BdWVkQVR2OGxHeDJoa1B3TnFlaXZ3dHk4QUdlRmtLb2JtVVZ1RDRZTjFUTEVVX19CZkhpa2xxV0tmblFuMEctYjhkV3RDUVRVN094UQ?oc=5",
+          "domain": "houstonchronicle.com",
+          "published_at": "2026-10-23T19:03:23+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach cyber impact lab may medical patient records"
+    },
+    {
+      "id": "01c635383b7b8df445c1",
+      "company": "Quest Diagnostics",
+      "title": "Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXd1cjNMYTV1d3BPelNHTHJCM0VSdEF6OTFzOW91UjZKdC1Dbk9KSjZiRXl6T24xOFg1b1hKRlNqbW5mMlpHcXNpYlY3VmJQZmlBTzIyYVEwQmNCbWFYWFlQMHZrV3hoWElBeTEyeHRzaV9tM2U2MWVmSDl4ZGJpZFBjUmU4enlhQzhVR1lzZ0JSalJxWDZCcVhqamVycmg0WUswWC14SERWQnpLdERqMWV1eXE5WnBXX3pwOVVKT1U?oc=5",
+      "description": "Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach Medical Economics",
+      "source": "Medical Economics",
+      "source_url": "https://www.medicaleconomics.com",
+      "source_domain": "medicaleconomics.com",
+      "published_at": "2026-10-23T18:56:15+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Economics",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXd1cjNMYTV1d3BPelNHTHJCM0VSdEF6OTFzOW91UjZKdC1Dbk9KSjZiRXl6T24xOFg1b1hKRlNqbW5mMlpHcXNpYlY3VmJQZmlBTzIyYVEwQmNCbWFYWFlQMHZrV3hoWElBeTEyeHRzaV9tM2U2MWVmSDl4ZGJpZFBjUmU4enlhQzhVR1lzZ0JSalJxWDZCcVhqamVycmg0WUswWC14SERWQnpLdERqMWV1eXE5WnBXX3pwOVVKT1U?oc=5",
+          "domain": "medicaleconomics.com",
+          "published_at": "2026-10-23T18:56:15+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "about alerts breach cyber need one php2shell physicians two week what"
+    },
+    {
+      "id": "13046c6f3c676ba57166",
+      "company": "Quest Diagnostics",
+      "title": "Hack on Quest Diagnostics used by 85m Americans exposes patient data",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajQwTEVjdUlleUZxcGdSTXA4WlpRNlZCeEFIQTNYbUdZd3pCMDNXVzY3LWJlTk5iNmEzYWk5M1hBSUh2bFJ0eVVRUy1feDY4and2Yy1mUWZzbmVfbldDM3Z1enlRMHpFeXhJN1BVaGZVUDJ4Umw4N1dFeXdlRnd6TlRYWUcxVk1pRWlkamQybEJkcVdZZm5fSWNsZXUtODg?oc=5",
+      "description": "Hack on Quest Diagnostics used by 85m Americans exposes patient data Daily Mail",
+      "source": "Daily Mail",
+      "source_url": "https://www.dailymail.com",
+      "source_domain": "dailymail.com",
+      "published_at": "2026-10-23T17:33:43+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Daily Mail",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOajQwTEVjdUlleUZxcGdSTXA4WlpRNlZCeEFIQTNYbUdZd3pCMDNXVzY3LWJlTk5iNmEzYWk5M1hBSUh2bFJ0eVVRUy1feDY4and2Yy1mUWZzbmVfbldDM3Z1enlRMHpFeXhJN1BVaGZVUDJ4Umw4N1dFeXdlRnd6TlRYWUcxVk1pRWlkamQybEJkcVdZZm5fSWNsZXUtODg?oc=5",
+          "domain": "dailymail.com",
+          "published_at": "2026-10-23T17:33:43+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "85m americans data exposes hack patient used"
+    },
     {
       "id": "4f03302d182cbaa3526e",
       "company": "Labcorp",
@@ -1267,9 +1363,21 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbdIBqgFBVV95cUxOZHZtdWN2eWhLUVIxM080ZFh6V2hId1FDSVpHYVRuUFJFS2ZYNzFnOVFlTnA3aUtHM2IxdXNGMEpOWGotODNZd0cwdUtDSDhlb3hkQUkyb2FfZ2xGcDZ3b05FUjZHNVFZOUJmSk9qaVJlT3ZCZmVXdUZuYTEwNFpQVUdPTkNpQ3REZXcwUDlTdkFfY3A5Vm5zSnI4LWhpaGgxS0lSTS1yei03UQ?oc=5",
           "domain": "securityweek.com",
           "published_at": "2026-10-23T08:25:06+00:00"
+        },
+        {
+          "name": "The Killeen Daily Herald",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVE0UDBqQUZPaEZITUtWMy00LVh2YWpXRHNSWjdGeHpzZVMzME94aVR6S3c3UEdkRmxZZGFhS1lFUXFiVi1pdHljLVRWSGpfQVdGV3F2ektTRzYxRUkxRDJjUnp4djJES1hqVnBDcFgtR0R3aVhLRkg4eEV3Sk5LbnZOODliX1RUNVpoMEN6aDlBN1lxOTNORVc2UGFfTGtVdk4tb1o4a3ZhY1d0eS1OdFc5UDBwTkppYmZ0WVMzaWN3Q2owcUxUa01rdWZ4N3RzZjEwVkFwdGRIOEZGNnh0OTQ4ZE9ZSGowSmc?oc=5",
+          "domain": "kdhnews.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "KTTC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzhjd05zamZpZjllUzhYeEdKWTExSXEyWnB2YWR1WkZCQlQ5WjExeUZPZnE4QmZpX2tfbjloS2Q1YlZhQkE3NW5ZQjlqM0NxakFZb2JtLVVmU1huQVUtV3JPcXFYVG5ubERCREdDWDdVZFlzeXgtQmR1czVZRkxiOGxjX2lDUTJULWl4ZVRUTXdSeXpyQ3N0ZlprbEhCNlpvYnZiVUQ0V2k?oc=5",
+          "domain": "kttc.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
         }
       ],
-      "coverage_count": 31,
+      "coverage_count": 33,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -1685,7 +1793,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics reports unauthorized access to patient records system",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
-      "description": "Quest Diagnostics reports unauthorized access to lab system, says patient information may have been compromised WRNJ Radio",
+      "description": "Quest Diagnostics Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Unauthorized Access to Patient Records PR Newswire",
       "source": "StreetInsider",
       "source_url": "https://www.streetinsider.com",
       "source_domain": "streetinsider.com",
@@ -1729,9 +1837,15 @@
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHUtbnNZMHVKYWV1N0diWC0zMlBGc01Fc3pVNDRpQXktZEg3cWp4RGRyZ1J6bU1PLWdtQ2dDMmFYazdwRDgtNU9Qb0hMWG1IeHVjY0dBYW43M1RIVndQMUJuclJnMG9MSHNFdnplNUtlMS1wb09Wd0dfMVFiaXdHSTVmVi1YZl9KZGdtU3NZOHozMkRJa1VZekJFU1hXNDRtallZdHJteU11MkRGcWhibUNXdzRCbzM5YXJqMWk4Y2tuUUxTVWpjU1lCMW9BQQ?oc=5",
           "domain": "wrnjradio.com",
           "published_at": "2026-10-23T10:43:26+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkpFNlpxY1dYS1gxdXRyMjZXT1Z2QlhndWlqY1g5VmlSUmdzbzBhRGpwdDlmeUJDVEpnWkJ3VzJKUWcxbUFjdXBwY0VNUnVPcm5jRldfQi1JMWEyMmdMb0dkS3pTOTJkVDh1T0d2SEpWd01QbWE3amRCbXBGSmhTQllLcWV4dU5OTFdqZl9oSWZsSzZ4SXRXZlVqY3dMZERveGl4dVlhR0FfV1VkYnQxZHlQajJNbWxCNXgwZDVxZHhGcTFGUHBaYjF6SzdYWFZGT2w0WWEzRWZOZWxBb1V5SUhtN3dFRUhvMDhQWlJUWmNiTjJLaS05VmhXOWF0WXpzVjJSZ25mM25vQ1YtWTV4YVJSVV9tYWd2dTM4bA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-23T21:12:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "access patient records system unauthorized"
     },
     {
@@ -5041,36 +5155,6 @@
       "event_signature": "2019 2news breach com data local nevada over reaches settlement"
     },
     {
-      "id": "d4b73cc2a7db82d21d0f",
-      "company": "Labcorp",
-      "title": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
-      "description": "Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com",
-      "source": "Colorado Attorney General (.gov)",
-      "source_url": "https://coag.gov",
-      "source_domain": "coag.gov",
-      "published_at": "2026-09-24T17:40:37+00:00",
-      "published_display": "24 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Colorado Attorney General (.gov)",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
-          "domain": "coag.gov",
-          "published_at": "2026-09-24T17:40:37+00:00"
-        },
-        {
-          "name": "NottinghamMD.com",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT2JZY2Z6Zk8yU2UzTk5BN2cwSHRiNlluU0tDOUNOYkdiWklOWC1URVIzc3NOMENhdHhLWmkyOVZCNkJ3Wjl1d3BaaGFIdzBkbU5XNi13bl85LWlya0htWUg0SVJOS2hQLS1PZWdUc3JLZTZHQk9TbUMwWDRHSFVCNU1HQ3hzMmNmZkFYY3lmdDBWc2FicG9qZm9qcGI4eU9KU0p4WTg5Yzd2amgtYXlKVW44WFV4bW0yY1U2N1Q5c2xWOVA3Tk9EaUJQREU1cmpydnNYS3hCSk5veUg0QW5LTA?oc=5",
-          "domain": "nottinghammd.com",
-          "published_at": "2026-09-25T16:00:12+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "attorney breach data general national over phil settlement weiser"
-    },
-    {
       "id": "cd71897ece3bb74a0511",
       "company": "Labcorp",
       "title": "New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach",
@@ -5663,6 +5747,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "growth reimbursement rises risk stock"
+    },
+    {
+      "id": "d4b73cc2a7db82d21d0f",
+      "company": "Labcorp",
+      "title": "Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
+      "description": "Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com",
+      "source": "Colorado Attorney General (.gov)",
+      "source_url": "https://coag.gov",
+      "source_domain": "coag.gov",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "published_display": "24 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Colorado Attorney General (.gov)",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX1RIUWNkOVdLNlB0dkl3VHFNdnNkdWM4MUhiNjNqS2xVajhPeGRNNV9jakZRREd2V1hCYUZHWDRVRHRGa2N1bnRsZDM5OTBNcVlNb3h5TFN3d25Hcmw2LUNtR3FCWmsyZXo1UzFBamUxYXdOdnF6c1JDVFpkb1VjS2RyLXcyMTBkUHRTdS1VbmFXZ3BaRWlfRE9iZWcwYTkzdmJoSHFRWTA4SlVBam5paVduX3ZvdHJsc0Y1SUVtaDlDTGpx?oc=5",
+          "domain": "coag.gov",
+          "published_at": "2026-09-24T07:00:00+00:00"
+        },
+        {
+          "name": "NottinghamMD.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOT2JZY2Z6Zk8yU2UzTk5BN2cwSHRiNlluU0tDOUNOYkdiWklOWC1URVIzc3NOMENhdHhLWmkyOVZCNkJ3Wjl1d3BaaGFIdzBkbU5XNi13bl85LWlya0htWUg0SVJOS2hQLS1PZWdUc3JLZTZHQk9TbUMwWDRHSFVCNU1HQ3hzMmNmZkFYY3lmdDBWc2FicG9qZm9qcGI4eU9KU0p4WTg5Yzd2amgtYXlKVW44WFV4bW0yY1U2N1Q5c2xWOVA3Tk9EaUJQREU1cmpydnNYS3hCSk5veUg0QW5LTA?oc=5",
+          "domain": "nottinghammd.com",
+          "published_at": "2026-09-25T16:00:12+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "attorney breach data general national over phil settlement weiser"
     },
     {
       "id": "7654be9154468d7bb086",
@@ -14660,10 +14774,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 57,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-24T00:17:00+05:30",
-  "next_update_display": "24 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-24T06:17:00+05:30",
+  "next_update_display": "24 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
