@@ -1,11 +1,179 @@
 {
-  "generated_at": "2026-10-24T03:11:58.657052+05:30",
-  "generated_at_display": "24 Oct 2026, 3:11 AM IST",
-  "item_count": 463,
-  "raw_relevant_item_count": 643,
-  "duplicates_merged": 120,
+  "generated_at": "2026-10-24T10:34:11.612354+05:30",
+  "generated_at_display": "24 Oct 2026, 10:34 AM IST",
+  "item_count": 472,
+  "raw_relevant_item_count": 684,
+  "duplicates_merged": 150,
   "failures": [],
   "items": [
+    {
+      "id": "cf7c772767d7ae4683a7",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics raises 2026 outlook after Q3 growth",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdE5NbFBHaVVZWkJEQTA0cVhIbTFQdV83TFIzUi1nbEkxWHdKWXhwVHE4UmkzeTFuYmdrMzJtdmNKOUFsQ21xMlRvQ3JQbXBrNTYtVllPWl9pQ0hQY05BMlZhR292d056NVk1dTRHTEtuZ0N1MDV3TC12anF2RmNyN2d3cHlNSlR4QUJhdW1NTDdLV1VCTlpuUG82QXpCNTdoYkFxSnlNeHB4UWNNeHZiOWxvQ1NHMlN4OG03YzNPclNmazYtUXpLMjZXWQ?oc=5",
+      "description": "Quest Diagnostics raises 2026 outlook after Q3 growth finchannel",
+      "source": "finchannel",
+      "source_url": "https://finchannel.com",
+      "source_domain": "finchannel.com",
+      "published_at": "2026-10-24T04:44:57+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "finchannel",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdE5NbFBHaVVZWkJEQTA0cVhIbTFQdV83TFIzUi1nbEkxWHdKWXhwVHE4UmkzeTFuYmdrMzJtdmNKOUFsQ21xMlRvQ3JQbXBrNTYtVllPWl9pQ0hQY05BMlZhR292d056NVk1dTRHTEtuZ0N1MDV3TC12anF2RmNyN2d3cHlNSlR4QUJhdW1NTDdLV1VCTlpuUG82QXpCNTdoYkFxSnlNeHB4UWNNeHZiOWxvQ1NHMlN4OG03YzNPclNmazYtUXpLMjZXWQ?oc=5",
+          "domain": "finchannel.com",
+          "published_at": "2026-10-24T04:44:57+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 after growth outlook raises"
+    },
+    {
+      "id": "629d8d9beec2ed4d09d8",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Breach: Quanum LSM Hit - 5 Steps [2026]",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FeWZiYmZaM2s0NVdoa2cyLVYyaFlEY1R1MTVuWUZ2MzZyQUxyOXl6SDZTSUxDTFI3MmtZQTZDRTlmSXdMYTFzUW0wby1vdE1MbTM0bnd0bEhHOVEzMzNnc28yOGRUb0M3WG1Lbk9xTWF5OG0t?oc=5",
+      "description": "Quest Diagnostics Breach: Quanum LSM Hit - 5 Steps [2026] https://tech-insider.org/",
+      "source": "https://tech-insider.org/",
+      "source_url": "https://tech-insider.org",
+      "source_domain": "tech-insider.org",
+      "published_at": "2026-10-24T03:48:54+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://tech-insider.org/",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FeWZiYmZaM2s0NVdoa2cyLVYyaFlEY1R1MTVuWUZ2MzZyQUxyOXl6SDZTSUxDTFI3MmtZQTZDRTlmSXdMYTFzUW0wby1vdE1MbTM0bnd0bEhHOVEzMzNnc28yOGRUb0M3WG1Lbk9xTWF5OG0t?oc=5",
+          "domain": "tech-insider.org",
+          "published_at": "2026-10-24T03:48:54+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 breach hit lsm quanum steps"
+    },
+    {
+      "id": "1bf1275e81bc188b0af9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Breach: What Patients Need to Know",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OX09HSFg0ank2MGFoQkJfM0hBdVd0T3dENE84dG9iRzBfNDVhSTMzdDFLVlBRdnRMb2FyQVVON1hNTDNES1dHLVp0cWp6WGRuemdKQ241NFlHWmw3aWFKMnBmdjRtQlBzczVMdmNFa3V4QVFwTWkwSFFR?oc=5",
+      "description": "Quest Diagnostics Breach: What Patients Need to Know Baller Alert",
+      "source": "Baller Alert",
+      "source_url": "https://balleralert.com",
+      "source_domain": "balleralert.com",
+      "published_at": "2026-10-24T03:05:39+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Baller Alert",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OX09HSFg0ank2MGFoQkJfM0hBdVd0T3dENE84dG9iRzBfNDVhSTMzdDFLVlBRdnRMb2FyQVVON1hNTDNES1dHLVp0cWp6WGRuemdKQ241NFlHWmw3aWFKMnBmdjRtQlBzczVMdmNFa3V4QVFwTWkwSFFR?oc=5",
+          "domain": "balleralert.com",
+          "published_at": "2026-10-24T03:05:39+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach know need patients what"
+    },
+    {
+      "id": "6064c601a8f5c5d02dde",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Q3 2026 Revenue Rises to $3.1B, Diluted EPS Up to $2.78",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGFEX3JqR1Atc1cxeU5qcnlPdkhBbnk3azNaNUM5YVJmWHJmUllsQlFNb3llYjZBUFZsTnh4aG1jX3JZZ3lITUNuTW9nZ0hwRmxlZnBnLWdEcWxEYnBUN2FKUFhxRnVlUjhndmxFX2MzSmthZGc3OFRwVGJ0WDdfc1VYb3o0S1VuRGZvN01RTlVOdnpWdWhxVlZHb3VyT1hCWHhmbExWNjd4blBTb0xSbQ?oc=5",
+      "description": "Quest Diagnostics Q3 2026 Revenue Rises to $3.1B, Diluted EPS Up to $2.78 Minichart",
+      "source": "Minichart",
+      "source_url": "https://www.minichart.com.sg",
+      "source_domain": "minichart.com.sg",
+      "published_at": "2026-10-24T02:35:00+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Minichart",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUGFEX3JqR1Atc1cxeU5qcnlPdkhBbnk3azNaNUM5YVJmWHJmUllsQlFNb3llYjZBUFZsTnh4aG1jX3JZZ3lITUNuTW9nZ0hwRmxlZnBnLWdEcWxEYnBUN2FKUFhxRnVlUjhndmxFX2MzSmthZGc3OFRwVGJ0WDdfc1VYb3o0S1VuRGZvN01RTlVOdnpWdWhxVlZHb3VyT1hCWHhmbExWNjd4blBTb0xSbQ?oc=5",
+          "domain": "minichart.com.sg",
+          "published_at": "2026-10-24T02:35:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 diluted eps revenue rises"
+    },
+    {
+      "id": "5d402884a337c37a5749",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-10-24T02:22:11+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-24T02:22:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "carter com director form investing october orporated robert"
+    },
+    {
+      "id": "8b9d05592e4e3c40d438",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Karthik Kuppusamy (SVP, Clinical Solutions) For: 21 October",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHVUY19fQ3JhaVhuRTU5M2xuV2NBcVA2ZGowN2JLLVRTckRqOF9mb1doMGlwRkJuSmUwbTFPdWhvZ2VzQzdNWmJWUjlMd3RoMHc2NHpoTDZaeUpTaUFCdzI4TUItbXdRbFZSMGhJbjEwNTZiUUFUQlR3bkFvc19IVXVCTUhIRFdaS3JSQWVWcFlhRmtoMHkzbjJ1Ykx4eFQxWE9EdGxMenFlNExZVjdNa21PSHFGaDd1MkpqVDZBS2Z0RW1ETnRxM2k3bEVIRDR0d0RvblNDdWFXcUlJeGZWOEhUQldodw?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Karthik Kuppusamy (SVP, Clinical Solutions) For: 21 October Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-10-24T01:35:22+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHVUY19fQ3JhaVhuRTU5M2xuV2NBcVA2ZGowN2JLLVRTckRqOF9mb1doMGlwRkJuSmUwbTFPdWhvZ2VzQzdNWmJWUjlMd3RoMHc2NHpoTDZaeUpTaUFCdzI4TUItbXdRbFZSMGhJbjEwNTZiUUFUQlR3bkFvc19IVXVCTUhIRFdaS3JSQWVWcFlhRmtoMHkzbjJ1Ykx4eFQxWE9EdGxMenFlNExZVjdNa21PSHFGaDd1MkpqVDZBS2Z0RW1ETnRxM2k3bEVIRDR0d0RvblNDdWFXcUlJeGZWOEhUQldodw?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-24T01:35:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "clinical form karthik kuppusamy october orporated solutions svp"
+    },
+    {
+      "id": "e271ccaac8a78515c6af",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 QUEST DIAGNOSTICS For: Oct 21 Filed by: Plewman Patrick",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVRib3liSFJYbGNwSjd1UEd1ek4yU0I4SlF1cmVTZF94Q1kwUmVkYk4wQzJRNFpDUzFFUWR3VDFEeVdOcXcxYTVPcE5Xc3NoeWp5dVRzQWlYTHUzbzNtZFl2M1YzTUxMSS1QajNpOVRPbXhkal80NzBFblFUSzI4Q2dCNUo0dnhua0JERC01LVJhM1RqVVFTX0hzZXNkMUxzWnpWLUVTVkJBS3RCenk3S0dLNWR0QTZ2SVl3LWk1X3dnM2ts?oc=5",
+      "description": "Form 4 QUEST DIAGNOSTICS INC For: Oct 21 Filed by: Plewman Patrick StreetInsider",
+      "source": "StreetInsider",
+      "source_url": "https://www.streetinsider.com",
+      "source_domain": "streetinsider.com",
+      "published_at": "2026-10-23T23:32:10+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZVRib3liSFJYbGNwSjd1UEd1ek4yU0I4SlF1cmVTZF94Q1kwUmVkYk4wQzJRNFpDUzFFUWR3VDFEeVdOcXcxYTVPcE5Xc3NoeWp5dVRzQWlYTHUzbzNtZFl2M1YzTUxMSS1QajNpOVRPbXhkal80NzBFblFUSzI4Q2dCNUo0dnhua0JERC01LVJhM1RqVVFTX0hzZXNkMUxzWnpWLUVTVkJBS3RCenk3S0dLNWR0QTZ2SVl3LWk1X3dnM2ts?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-23T23:32:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "filed form oct patrick plewman"
+    },
     {
       "id": "362155a0c547d6d21993",
       "company": "Quest Diagnostics",
@@ -29,6 +197,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "alert awko breach data investigates law llp patient privacy records"
+    },
+    {
+      "id": "db37eb3cf7ac4a987a27",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics 3Q 2026: Revenue $3.1B, Net income $312M, EPS $2.78— 10-Q Summary",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0M1Vm16UXBuLXR1WERTeG5xWHozN3lHQ3JOS2VuamhiY0c2OUxYQlNnNzRRWXY1N2FFbTZLVVNJam5RcWItZGQ0VjRHZXNia1hpRHZNTEV5dGszVGdEYndoUy12RVJxWVYxeW9jdkd3VVFWRTNRWjV0X29JaUNETzEwRjFmMmtuU3RGdnNTRWt2UzYtU2FHSHp4d1FvMlU5UGxNY09TaXVHZ1Vya1cwdWNHZDEzWXFpdUVKZUhjMFFZeW5pTGtQazU0WjlWTzFCS0I2Rw?oc=5",
+      "description": "Quest Diagnostics 3Q 2026: Revenue $3.1B, Net income $312M, EPS $2.78— 10-Q Summary TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-23T20:21:01+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNR0M1Vm16UXBuLXR1WERTeG5xWHozN3lHQ3JOS2VuamhiY0c2OUxYQlNnNzRRWXY1N2FFbTZLVVNJam5RcWItZGQ0VjRHZXNia1hpRHZNTEV5dGszVGdEYndoUy12RVJxWVYxeW9jdkd3VVFWRTNRWjV0X29JaUNETzEwRjFmMmtuU3RGdnNTRWt2UzYtU2FHSHp4d1FvMlU5UGxNY09TaXVHZ1Vya1cwdWNHZDEzWXFpdUVKZUhjMFFZeW5pTGtQazU0WjlWTzFCS0I2Rw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-23T20:21:01+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 312m eps income net revenue summary"
+    },
+    {
+      "id": "c42fb48153c2242fe57f",
+      "company": "Quest Diagnostics",
+      "title": "What health system leaders should know about PHP2Shell and Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5",
+      "description": "What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive",
+      "source": "Chief Healthcare Executive",
+      "source_url": "https://www.chiefhealthcareexecutive.com",
+      "source_domain": "chiefhealthcareexecutive.com",
+      "published_at": "2026-10-23T19:52:37+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Chief Healthcare Executive",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5",
+          "domain": "chiefhealthcareexecutive.com",
+          "published_at": "2026-10-23T19:52:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "about health know leaders php2shell should system what"
     },
     {
       "id": "16bc995360e50b8a1ed3",
@@ -149,6 +365,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach data investigating involving patient records"
+    },
+    {
+      "id": "c09787182618ea97f877",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Discloses Cybersecurity Breach",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFkxdlpYRUFKVXBoZHBhSDYwVWw2NEV4aXhfczF2U04weXFPbS1KcnlyMGJYbWM4WjVjUVAxSFFiYVcyS2RlR0hUWElMMkRlcURCYVZWaGFJMWptR2sxdC00dHRKZlVUa2MtOVlycUFBYmx1d1hxSVI4UEN5MEpwUm9QZnltQQ?oc=5",
+      "description": "Quest Diagnostics Discloses Cybersecurity Breach Medical Device and Diagnostic industry",
+      "source": "Medical Device and Diagnostic industry",
+      "source_url": "https://www.mddionline.com",
+      "source_domain": "mddionline.com",
+      "published_at": "2026-10-23T15:13:52+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Device and Diagnostic industry",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFkxdlpYRUFKVXBoZHBhSDYwVWw2NEV4aXhfczF2U04weXFPbS1KcnlyMGJYbWM4WjVjUVAxSFFiYVcyS2RlR0hUWElMMkRlcURCYVZWaGFJMWptR2sxdC00dHRKZlVUa2MtOVlycUFBYmx1d1hxSVI4UEN5MEpwUm9QZnltQQ?oc=5",
+          "domain": "mddionline.com",
+          "published_at": "2026-10-23T15:13:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach cybersecurity discloses"
     },
     {
       "id": "cd91808e04100afe7033",
@@ -529,9 +769,15 @@
           "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aSENTamZSdmtibjZvbTVZbDBQVkwzZ2Q1b2R4eUNKQTNKOVNZV0NTNHF1eDdpVDg1SDhkWWd4SmJCZW9IaUlCZWZMUGpCeHVZVGVyUnQ4bk9JaGs2R1lFbmpmMVJiWGwwY1R0NDU0eDFRNkU?oc=5",
           "domain": "cybernews.com",
           "published_at": "2026-10-23T05:07:30+00:00"
+        },
+        {
+          "name": "UA.NEWS",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUh1b2VwTzQ2bHJPcnYtOGF3dXJ1SGVXVmNXZ3hZOW9zMVdWZm5OR1c2aU5wR2hCS3ZPOXZnREpJRlRaTVdZeFl4WVpYZXRxLVdDelRPanE5UjBwUDVGNkd0Z3hDMnZkbGVaUFk3X3RLel9DUUdGZ3NLX2JnaTZUR0FEMV9GN1R6cE00c3l1NnZUQ195WHNmX1EzLVdxQ3NLSDFQVFZfVQ?oc=5",
+          "domain": "ua.news",
+          "published_at": "2026-10-23T15:24:16+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "breach confirms data lab now patient risk systems"
     },
     {
@@ -563,7 +809,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock: Quest raises 2026 guidance. What it means for Quest Diagnostics stock",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONVVjUEZ4bThpejBoRnRLNG9meHRUSHhMNjAtY3ZLTkxlVjAxd2R2V3h6SDFXX0l3WWJuNk9SX3g4SjBtZU53S3IyN0FVU1BkU1I3N1RxTzE3dUFSMVdYTHlfVWtkYzlMRFI3OWZuMWJCdER3UzhubmpBRTRqNHdrTDNJTW5kNUEzSWJlZXJGOW9jLWR0V2lERnNBOVhoNlZrcVdzWGZYWU16MFktbHQ2UXB2WEZmbFNtcnBPYi1OOGNsdEt3Qmc?oc=5",
-      "description": "Quest Diagnostics stock: Quest raises 2026 guidance. What it means for Quest Diagnostics stock AD HOC NEWS",
+      "description": "Quest Diagnostics stock: Quest raises 2026 guidance. What it means for Quest Diagnostics stock ad-hoc-news.de",
       "source": "AD HOC NEWS",
       "source_url": "https://www.ad-hoc-news.de",
       "source_domain": "ad-hoc-news.de",
@@ -691,9 +937,15 @@
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUl4MzJraVJzZkVQeUkwSllQcWIwclItdEUzdHVPQjlQSkc5ZTlER3F2amc4SkZZWUNWMXlTZEQ0cGJoZXJTZks2X3k4b1N3YWdTVnpCbUJ1UkRBbE52RThvaUpRZkpadEQyS3ZfUjRRQ0d4V0JrY1BsR2F3VTVtdEROTTUtMEVIelMyTnBtWDF0YV9sNHVtWWhIejFtWE43SENfZVo5QkVJdy0zbGE5dThTY3NnNlAxWkFJSmk2RndaTEpTZFHSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
           "domain": "foxbusiness.com",
           "published_at": "2026-10-22T22:13:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXRZR1BhUXJkSW5DWTlQR0g4RU1LZ2RhWWxwLXVaNEJaaFVVaDNRM0dURmtJVnBNRzI3bTY1TVhvMkFiM0VBeC1DU01ZYlNoWW4waHhmRGl0MG4wQmtvWHA5RzAzMzdfa1FoWjNwdDBnV0tHLU1DaVN1UHdDSlBRU3ZaZ3R4RlAyeF8xYnVaVlhOcTJZ?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-10-22T22:13:48+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "accessed confirms cyberattack down information patient shut systems temporarily"
     },
     {
@@ -799,9 +1051,15 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM21NX3F1cUF0YWt4THc1RjFVem9LTTg4Y2Y2TVNhNEFqTkl5Ykx4WFF6eXVIREZVemctT3ZfSHRhVmZqOHhjUTdYNDYyYjR6QW1wczhYTHpJRW9wM2xHUTQ4bFI2VDgxcV85NHFaNlJGVVZ3Sy1hdFFndi1KRDBpWEdEUjVWQUtYcEtXSUFQNVd4SjNoMmtwV0Q3Y0ZQMFNtdEFwd1oyOGxpSVpt?oc=5",
           "domain": "ktvu.com",
           "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
@@ -901,9 +1159,15 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRzhiMFFCWTdLTnZVbVdMWDFzdXFpZ0J5LWc2aDVINl9GSlhweFRfdjJiaWJWT0NKS3dBWHZYU2NXVUFMSXUwVW9QVG8zbERBTnVsU0RPLTFKY3J6M012UVgwblA1dHpDXzhfalFocXFRQ21DVHI0SnBaSHNwMFJFR3pDSXlBZVJYRUFDMVdDdkk2eVRlNGN2VUwxSUNlR0I5M2E3OEJ0ODYzc3FETHkzYkI3bDdGRDA?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-22T18:04:40+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX3Z0b3lsMlp0OExJOUVuVjVIRVZzTGdreXJJNUFGcEcyVHcydXNFVExST0E0dUxtME9Yd2VZbjZtdWg2VGpqbWNKQkUyTzVzZnNHbUZldXAtT2huYUVILUtBbTBrOGFlUVRheHBYQjBrdDZVN082U3FRT0NqcjE0N2RnTDZKMGJRLTN3ZGp5WWE3SDhjbF90NmlaeGlORnVUS085b1FXQjY1Rks1NW81NFo4djNZUQ?oc=5",
+          "domain": "fr.tradingview.com",
+          "published_at": "2026-10-22T18:04:40+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "call earnings said what"
     },
     {
@@ -1375,9 +1639,27 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzhjd05zamZpZjllUzhYeEdKWTExSXEyWnB2YWR1WkZCQlQ5WjExeUZPZnE4QmZpX2tfbjloS2Q1YlZhQkE3NW5ZQjlqM0NxakFZb2JtLVVmU1huQVUtV3JPcXFYVG5ubERCREdDWDdVZFlzeXgtQmR1czVZRkxiOGxjX2lDUTJULWl4ZVRUTXdSeXpyQ3N0ZlprbEhCNlpvYnZiVUQ0V2k?oc=5",
           "domain": "kttc.com",
           "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "WTAP",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmQ4VUNCU3dhaktZLXJfTkZlY0prclEwUFRCOVJja1o4VVVzV0Y3cl9XNW4wZFU5R2l1eE9Ca1FxaXYwOThLZlhnVnZvblZOT2xpMzRpakx6Z3FXTmk2R1ZkWDE3cUhpWnEwbkM2bXJSU3Y0LVdQZXdnckJjZHF4MlJ1MHZNSzdfNDV3UTdrY1dtTGJFcDlUZENEcS1jMnBQcnpKOElZaUw?oc=5",
+          "domain": "wtap.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVVyNWxpV0g0aHFNODJnRm51OVV0ZG1VUVpHdFpzc3NHVHZNLW1BRTdTX0xVSzAxNW82SzlMTlVZc2FoSGljbVVjUW9fVjVnY3FkVENCM0VXT3l3bnVPdy1PSWRiNGcxM3E4ZktLWHI0eG42QUNlMENQclhERnUzbUFlRGZNcjB2Y3hFMU81bjFwZkZsRzJDV2h0QmE5ekJjSnJhMFM0NFJpR01tUkJ0NFdnRE1YZw?oc=5",
+          "domain": "nbcnews.com",
+          "published_at": "2026-10-24T02:01:01+00:00"
+        },
+        {
+          "name": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UVTFqSTF4Wm1BMUIwaVRHbXhJdHpnSFNYeTNYSUE2bUthdW9OX1Bkc2h6Q0h6NjZfQUdXOXF4Q0FxVGZKa0NGd2xSMk1wZktaZTJCcjlJZEhVQzgtb3dj0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5",
+          "domain": "modernghana.com",
+          "published_at": "2026-10-24T02:36:01+00:00"
         }
       ],
-      "coverage_count": 33,
+      "coverage_count": 36,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -2509,9 +2791,15 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEsxVU9oRUJuRlIzSmFzVzMwV25VOTRsSVZvdXVlOUNvWlBKeHFWdm9OMVJfdzZVamxvNFFxNDlyLW5Wd0RfLUF2aDhBeG9aMHVtQXBCN093TGd2MFlXa0xuTmIwTDdYa3Q0VmpEYTRSYllUTzhpQ09pQnRVZHM1TlROemJ0QQ?oc=5",
           "domain": "mugglehead.com",
           "published_at": "2026-10-20T13:32:27+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-23T23:12:02+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
     },
     {
@@ -2759,30 +3047,6 @@
       ],
       "coverage_count": 2,
       "event_signature": "chain finance options yahoo"
-    },
-    {
-      "id": "eab260f911f0f2bb2c99",
-      "company": "Labcorp",
-      "title": "Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5",
-      "description": "Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight",
-      "source": "Medtech Insight",
-      "source_url": "https://insights.citeline.com",
-      "source_domain": "insights.citeline.com",
-      "published_at": "2026-10-15T22:58:22+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Medtech Insight",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5",
-          "domain": "insights.citeline.com",
-          "published_at": "2026-10-15T22:58:22+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "4kscore 872m assets bioreference health including pay prostate test"
     },
     {
       "id": "02c7b289ee694af006da",
@@ -3101,6 +3365,30 @@
       ],
       "coverage_count": 15,
       "event_signature": "722m acquire assets bioreference health select"
+    },
+    {
+      "id": "eab260f911f0f2bb2c99",
+      "company": "Labcorp",
+      "title": "Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5",
+      "description": "Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight",
+      "source": "Medtech Insight",
+      "source_url": "https://insights.citeline.com",
+      "source_domain": "insights.citeline.com",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medtech Insight",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5",
+          "domain": "insights.citeline.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "4kscore 872m assets bioreference health including pay prostate test"
     },
     {
       "id": "131a04cd4b17846e8707",
@@ -14741,43 +15029,12 @@
       ],
       "coverage_count": 2,
       "event_signature": "climbed past stock this week why"
-    },
-    {
-      "id": "9c02e51cab07fadeb04f",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5",
-      "description": "TradingKey’s Quest Diagnostics company profile breaks FY2025 revenue into operating categories rather than reporting a new quarterly event. The page lists total U.S. revenue of approximately $11.04 billion for FY2025. Routine clinical testing services accounted for about $5.96 billion, or 54% of revenue, making them the largest business category. Gene-based and esoteric testing services contributed approximately $4.19 billion, or 38%. Anatomic pathology testing services generated about $662.1 million, representing 6%, while all other activities contributed approximately $220.7 million, or 2%. TradingKey lists COVID-19 testing revenue at zero in the FY2025 breakdown. Regionally, the page attributes the full $11.04 billion, or 100% of reported revenue, to the United States. The profile is useful for understanding the mix behind Quest’s reported scale: routine testing remains the largest revenue pool, but gene-based and esoteric testing represents a substantial share of the business, consistent with Quest’s emphasis on advanced diagnostics and specialty testing. These figures are a third-party classification of FY2025 financial data and should not be treated as a new company forecast or a separate segment disclosure beyond Quest’s formal financial reporting.",
-      "source": "TradingKey",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-25T22:23:04+00:00",
-      "published_display": "25 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zMXFzc0ppMnpSd1U4MEtKVUhWN2FDUHJubUR5SEpqWnYxd3NQLVJaRVFlenNZVFlRRWRUWjdVbXM0UlAweno1VnpUUmx5LXVCUHJIRUNDelZmeUpCUWU0Q3ktNA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-25T22:23:04+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breakdown business contribution profit regional revenue segments",
-      "source_description": "Quest Diagnostics Inc (DGX) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution tradingkey.com",
-      "chatgpt_summary": "TradingKey’s Quest Diagnostics company profile breaks FY2025 revenue into operating categories rather than reporting a new quarterly event. The page lists total U.S. revenue of approximately $11.04 billion for FY2025. Routine clinical testing services accounted for about $5.96 billion, or 54% of revenue, making them the largest business category. Gene-based and esoteric testing services contributed approximately $4.19 billion, or 38%. Anatomic pathology testing services generated about $662.1 million, representing 6%, while all other activities contributed approximately $220.7 million, or 2%. TradingKey lists COVID-19 testing revenue at zero in the FY2025 breakdown. Regionally, the page attributes the full $11.04 billion, or 100% of reported revenue, to the United States. The profile is useful for understanding the mix behind Quest’s reported scale: routine testing remains the largest revenue pool, but gene-based and esoteric testing represents a substantial share of the business, consistent with Quest’s emphasis on advanced diagnostics and specialty testing. These figures are a third-party classification of FY2025 financial data and should not be treated as a new company forecast or a separate segment disclosure beyond Quest’s formal financial reporting.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T12:38:21+05:30",
-      "summary_evidence": [
-        "https://www.tradingkey.com/markets/stocks/nasdaq-dgx/company"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 59,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-24T06:17:00+05:30",
-  "next_update_display": "24 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-24T12:17:00+05:30",
+  "next_update_display": "24 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

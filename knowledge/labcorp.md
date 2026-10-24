@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 24 Oct 2026, 3:11 AM IST
+- **Repository generated:** 24 Oct 2026, 10:34 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -184,19 +184,7 @@
 
 **Feed description:** OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research
 
-## 15. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
-
-- **Company:** Labcorp
-- **Publication date:** 15 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Medtech Insight: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5
-
-**Feed description:** Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight
-
-## 16. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
+## 15. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -208,7 +196,7 @@
 
 **Feed description:** Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec
 
-## 17. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
+## 16. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -220,7 +208,7 @@
 
 **Feed description:** OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments Kalkine Media
 
-## 18. Labcorp outlays up to $872m to acquire BioReference’s laboratory assets
+## 17. Labcorp outlays up to $872m to acquire BioReference’s laboratory assets
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -233,7 +221,7 @@
 
 **Feed description:** Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline
 
-## 19. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
+## 18. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -245,7 +233,7 @@
 
 **Feed description:** Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance
 
-## 20. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
+## 19. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -257,7 +245,7 @@
 
 **Feed description:** Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH
 
-## 21. Labcorp to Acquire Select BioReference Health Assets for $722M
+## 20. Labcorp to Acquire Select BioReference Health Assets for $722M
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -282,6 +270,18 @@
   - Pulse 2.0: https://news.google.com/rss/articles/CBMisAFBVV95cUxOMWJfWkVlQkNWSURyYndVcXRrRmNSNl9vSGFwcHlYZm01ODRwVmFzVDdSM3lsejEyTGRhbVN1dUdiTlJnOXFObXR3aEtuSUJ4NlJQVzZiUmUxSVYwVGx3czVaLUpNWWt3c0dQRjVtbkVydXA0NzFINl93b0JVR3JQRnFPeENjNmpad0NrRlg2bFlaVFJERTVRUzg3VEZqbDI5TUxqZUdhR0tsaGJ1bXJwUA?oc=5
 
 **Feed description:** Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz
+
+## 21. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
+
+- **Company:** Labcorp
+- **Publication date:** 15 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Medtech Insight: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMDRWRk10Sk5DZGpGOU8teTlVaTkzSU1BaTR6bDFjVGpFZXBVRGhMb2ZNeFlDMWNMWUE4R0k3cVo5eHJWdWxwSVMtVWN2MURKeVRvX2VJcnE2Tl9KN09mUTlXQ1BzdF9FZndNVkxjRm5JMzhQT2puQXREa1loa0d6Y09FUGVWWWZVMEFwa1dVNmxPdGdtMWZhRUV2TzlMOFhhazRPVzFIS3JVaFN4dERNQVc2WmlsMzhodjVpUTRZN0QzckdzQ25jM21ScFc4aUExMjNRazlSMTNkaFJiVnVzM08zS3BQMEpGMFYxZkZxdTVtNWRvZXZLYkdWRjVuOUFRX0hIWFk4LUo?oc=5
+
+**Feed description:** Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight
 
 ## 22. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
 
