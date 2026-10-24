@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-24T17:42:09.534214+05:30",
-  "generated_at_display": "24 Oct 2026, 5:42 PM IST",
+  "generated_at": "2026-10-24T21:45:55.160459+05:30",
+  "generated_at_display": "24 Oct 2026, 9:45 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 396,
+  "remaining_unsummarized_count": 397,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "9af4729695d2c7a5b196",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "Quest Diagnostics Director Timothy L. Main Acquires 18 Shares Through Dividend Reinvestment Plan",
+      "source": "Kalkine Media",
+      "description": "Quest Diagnostics Director Timothy L. Main Acquires 18 Shares Through Dividend Reinvestment Plan Kalkine Media",
+      "published_at": "2026-10-23T23:36:26+00:00",
+      "published_display": "23 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObm1QQjJJUXBySTZaS2hXQjZSajB5d2E4Tmx0SFlIaXhDdGxtdkFIUmQ2Q3BMNnprMThuM2tzR0RvZ2V5dEpXSURoSFJrdGZXU0lEaDh5SWJoZTdmVjM1eFVqVU82UWw0UWRSOU9qQ2dvOWxHdkMtNEhIOG4yUEg2bDIwRDFzZjktUFlrRjItMWR5NU51ZVpnMHdvbm5NQ1RBeGZ4NXZCOENaVlA1NFdwY3RWdUNMZXRlZnE3ZGcyLWUxZUhFak05aGFIMUQyZFZGUWVabmJpUWhQZw?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObm1QQjJJUXBySTZaS2hXQjZSajB5d2E4Tmx0SFlIaXhDdGxtdkFIUmQ2Q3BMNnprMThuM2tzR0RvZ2V5dEpXSURoSFJrdGZXU0lEaDh5SWJoZTdmVjM1eFVqVU82UWw0UWRSOU9qQ2dvOWxHdkMtNEhIOG4yUEg2bDIwRDFzZjktUFlrRjItMWR5NU51ZVpnMHdvbm5NQ1RBeGZ4NXZCOENaVlA1NFdwY3RWdUNMZXRlZnE3ZGcyLWUxZUhFak05aGFIMUQyZFZGUWVabmJpUWhQZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "434d5b19779f377cb088",
       "company": "Labcorp",
@@ -676,25 +695,6 @@
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0060ca4454ac659b4f79",
-      "company": "Sonic Healthcare",
-      "category": "Partnership, M&A",
-      "title": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power",
-      "source": "marketscreener.com",
-      "description": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com",
-      "published_at": "2026-08-21T06:53:38+00:00",
-      "published_display": "21 Aug 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5"
         }
       ]
     }
