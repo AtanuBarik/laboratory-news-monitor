@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T22:25:03.098237+05:30",
-  "generated_at_display": "24 Oct 2026, 10:25 PM IST",
+  "generated_at": "2026-10-25T02:43:11.138283+05:30",
+  "generated_at_display": "25 Oct 2026, 2:43 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 397,
+  "remaining_unsummarized_count": 398,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -28,21 +28,44 @@
       ]
     },
     {
+      "id": "a6f3e0ca5a56b03f492d",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "Patrick Plewman Acquires 41 Quest Diagnostics Shares via Dividend Reinvestment Plan",
+      "source": "Kalkine Media",
+      "description": "Patrick Plewman Acquires 41 Quest Diagnostics Shares via Dividend Reinvestment Plan Kalkine Media",
+      "published_at": "2026-10-23T23:36:26+00:00",
+      "published_display": "23 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGlZX2hYQWVBRXpUTWlwX2ZmcmpkTkdCNFJwUWFiRWxaelJlc3AwX3hNdlBuSHBFSDYwRzg2c09MRW1FQTVoZ256NUtzS2NZMnpZUmxlN3QyODc5c1BrVW9Xa3pmNEl6Y2R1RmxIaFRMRVhWNzhYTWZIc0pIaEVxS080VlNxMU9ZS0c4eEVjVlVzd3ZldU9JLWpsX2QwUTFwekNldVZabEdQcjhFOEo3alU1TkxmZE1oOHJjOExXUlNmNE1ZX3R0RkF3?oc=5",
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGlZX2hYQWVBRXpUTWlwX2ZmcmpkTkdCNFJwUWFiRWxaelJlc3AwX3hNdlBuSHBFSDYwRzg2c09MRW1FQTVoZ256NUtzS2NZMnpZUmxlN3QyODc5c1BrVW9Xa3pmNEl6Y2R1RmxIaFRMRVhWNzhYTWZIc0pIaEVxS080VlNxMU9ZS0c4eEVjVlVzd3ZldU9JLWpsX2QwUTFwekNldVZabEdQcjhFOEo3alU1TkxmZE1oOHJjOExXUlNmNE1ZX3R0RkF3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "434d5b19779f377cb088",
       "company": "Labcorp",
       "category": "Partnership, M&A",
       "title": "Charles River partners with FDA, Labcorp on drug abuse research",
       "source": "Investing.com",
-      "description": "Charles River partners with FDA, Labcorp on drug abuse research Investing.com",
+      "description": "Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus",
       "published_at": "2026-10-22T20:41:03+00:00",
       "published_display": "22 Oct 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
       "sources": [
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5"
         }
       ]
     },
@@ -672,29 +695,6 @@
         {
           "name": "Tracxn",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c0dd83030e2a3cae140a",
-      "company": "Quest Diagnostics",
-      "category": "Partnership, M&A",
-      "title": "REG - Renalytix - Collaboration with Quest Diagnostics",
-      "source": "TradingView",
-      "description": "REG - Renalytix PLC - Collaboration with Quest Diagnostics tradingview.com",
-      "published_at": "2026-09-01T06:00:00+00:00",
-      "published_display": "01 Sep 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLTY0Ry16T3hINHFnREVQb1BHbC12cVhqWXJHcWlNclg3eDNLVEV1bVBGUXdCTXZ4RmVrd1RsTGhRT3RVbnFrNkRGRTNGS0MxUEd5UmhnRVQ3MUs1LV92Y3kxVUlfLWFqV3VaMk91bFNMRTI4ZGVxMUs2ZkhaUklka1J5YThwMGs5VlM0QktzRDBwOXFETWl1djFSTkI0NVdkQ2NpaEtGTjhWZ1JheFc1OFJKdDhqMWxwVjEzRzk1YWtENnZLNlRMUWVn?oc=5"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JZExSWUI5by1IN2dKYlQzU0tnZzRLOGhTQTJLLUdOaFZPNXhucnpmTzZJOTBLMUtXNnA5TVRGeVM4b2N4THVvblJRa0NpTTlxLWlOMnJXc3pqRWlqcE5jLVY0UWRIOEJQVTI2VC1wMi1faXFUSDNzS25LcEo0N28?oc=5"
         }
       ]
     }

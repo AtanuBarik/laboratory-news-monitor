@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 24 Oct 2026, 9:45 PM IST
+- **Repository generated:** 25 Oct 2026, 2:43 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -71,12 +71,13 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Investing.com: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5
 
-**Feed description:** Charles River partners with FDA, Labcorp on drug abuse research Investing.com
+**Feed description:** Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus
 
 ## 7. Charles River, Labcorp, and FDA sign drug abuse potential research pact
 
@@ -585,19 +586,7 @@
 
 **Feed description:** Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M Wansom AI
 
-## 45. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
-
-- **Company:** Labcorp
-- **Publication date:** 27 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - The BayNet: https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5
-
-**Feed description:** 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com
-
-## 46. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
+## 45. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -611,7 +600,7 @@
 
 **Feed description:** Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com
 
-## 47. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
+## 46. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -622,6 +611,18 @@
   - WHKY: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExMYUtibzdRWjV0MHNLTDVUUmI4ZExxYjQ4dXRCbmVfU1NhcVZOZG53YzRRQ3FpdjVOQXh1V25KYWxoZFZneHB1VHpYVGpzZ0N2M0ZnLV9VTkMzS0tOTUMzZmRzQ0p0cEloclN6TDBRSmZpUzd1OTV6TE4yUTYyT016dUw2YlBkWktV?oc=5
 
 **Feed description:** Labcorp Data Breach Settlement Includes $100,000 For North Carolina whky.com
+
+## 47. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
+
+- **Company:** Labcorp
+- **Publication date:** 27 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - The BayNet: https://news.google.com/rss/articles/CBMisgFBVV95cUxQSDFGRnBDdl8yZ0ZDcWI0NTZla05sMTI4V0NJRVZBRUZyRFBRZjRQeWhwellYZk9nS2VHaTN0d04xXzJqcTNQMks2dlh0d1M0V1BTV2hhU0I1a3VOeHBUNjhsUXFlTzJ3WnJsVDVROFF6YTRiNVV1YXZyanZWUzduMnBsLXBGYVZYd0hKSFBuN0J1RWFxajZ2R0lRbTVieWV6QUlNc0tsR05JTTBud1Rkazd3?oc=5
+
+**Feed description:** 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com
 
 ## 48. Tech Expert: Questions Abound Regarding LabCorp Settlement
 
