@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-24T10:34:11.612354+05:30",
-  "generated_at_display": "24 Oct 2026, 10:34 AM IST",
-  "item_count": 472,
-  "raw_relevant_item_count": 684,
-  "duplicates_merged": 150,
+  "generated_at": "2026-10-24T17:09:28.541053+05:30",
+  "generated_at_display": "24 Oct 2026, 5:09 PM IST",
+  "item_count": 476,
+  "raw_relevant_item_count": 690,
+  "duplicates_merged": 154,
   "failures": [],
   "items": [
     {
@@ -29,6 +29,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 after growth outlook raises"
+    },
+    {
+      "id": "e1632412e2c432805781",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Data Breach Lawsuit: Quanum Lab System",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnpXNU9MSGpPTERESDJjQTVsZHg0ckZ2Y19NY0szWWhHUFNRZnR1Mmk0S2ZWRXFuZHJFa1dORl9Bem5CSHUta29nQ1d6WlJOa2s0X1F0R3RRZzVXY2RxNlVCZzVMd2E3ZnFJcXFFaFNUcXFvVU9JTHBhQTdZVWFGdUZrMHlVMTJWWXBHNkJ6N1JJLVV5M3JnT0NJQ29uR1k0LTAwUjNaMEFZOE0yNURxZnhoNA?oc=5",
+      "description": "Quest Diagnostics Data Breach Lawsuit: Quanum Lab System openclassactions.com",
+      "source": "openclassactions.com",
+      "source_url": "https://openclassactions.com",
+      "source_domain": "openclassactions.com",
+      "published_at": "2026-10-24T04:30:00+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "openclassactions.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnpXNU9MSGpPTERESDJjQTVsZHg0ckZ2Y19NY0szWWhHUFNRZnR1Mmk0S2ZWRXFuZHJFa1dORl9Bem5CSHUta29nQ1d6WlJOa2s0X1F0R3RRZzVXY2RxNlVCZzVMd2E3ZnFJcXFFaFNUcXFvVU9JTHBhQTdZVWFGdUZrMHlVMTJWWXBHNkJ6N1JJLVV5M3JnT0NJQ29uR1k0LTAwUjNaMEFZOE0yNURxZnhoNA?oc=5",
+          "domain": "openclassactions.com",
+          "published_at": "2026-10-24T04:30:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data lab lawsuit quanum system"
     },
     {
       "id": "629d8d9beec2ed4d09d8",
@@ -103,19 +127,25 @@
       "event_signature": "2026 diluted eps revenue rises"
     },
     {
-      "id": "5d402884a337c37a5749",
+      "id": "703325e42b36b9e8a4c3",
       "company": "Quest Diagnostics",
       "title": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-10-24T02:22:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUJfVXFKME1MQk5mSF95OGhWXzcya1BuLWwyN2ppMEdsNUs0eEFxRUFpV3Y0QU9DS05qUXFvMUI3NDRibDZwNlFZclJQUkNDSDJfdWRad05ianM4cENUTmlVb0xHa2VfZFdncEp4WXRkRWdmX1dzQ0ZkU3oyRTdMemZkb3F0OHk1WjE3a1p1am5sNTBWS29QMWp1THdjNGx4RnVBYjN0aDZfRlJ4M083OHR6aHZ1RW5yNkExTG9ZQVNBRUJ6RDNGekVSc3BYbEo3?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com Investing.com South Africa",
+      "source": "Investing.com South Africa",
+      "source_url": "https://za.investing.com",
+      "source_domain": "za.investing.com",
+      "published_at": "2026-10-24T02:17:39+00:00",
       "published_display": "24 Oct 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUJfVXFKME1MQk5mSF95OGhWXzcya1BuLWwyN2ppMEdsNUs0eEFxRUFpV3Y0QU9DS05qUXFvMUI3NDRibDZwNlFZclJQUkNDSDJfdWRad05ianM4cENUTmlVb0xHa2VfZFdncEp4WXRkRWdmX1dzQ0ZkU3oyRTdMemZkb3F0OHk1WjE3a1p1am5sNTBWS29QMWp1THdjNGx4RnVBYjN0aDZfRlJ4M083OHR6aHZ1RW5yNkExTG9ZQVNBRUJ6RDNGekVSc3BYbEo3?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-24T02:17:39+00:00"
+        },
         {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
@@ -123,7 +153,7 @@
           "published_at": "2026-10-24T02:22:11+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "carter com director form investing october orporated robert"
     },
     {
@@ -131,7 +161,7 @@
       "company": "Quest Diagnostics",
       "title": "Form 4 Quest Diagnostics orporated: Karthik Kuppusamy (SVP, Clinical Solutions) For: 21 October",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHVUY19fQ3JhaVhuRTU5M2xuV2NBcVA2ZGowN2JLLVRTckRqOF9mb1doMGlwRkJuSmUwbTFPdWhvZ2VzQzdNWmJWUjlMd3RoMHc2NHpoTDZaeUpTaUFCdzI4TUItbXdRbFZSMGhJbjEwNTZiUUFUQlR3bkFvc19IVXVCTUhIRFdaS3JSQWVWcFlhRmtoMHkzbjJ1Ykx4eFQxWE9EdGxMenFlNExZVjdNa21PSHFGaDd1MkpqVDZBS2Z0RW1ETnRxM2k3bEVIRDR0d0RvblNDdWFXcUlJeGZWOEhUQldodw?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated: Karthik Kuppusamy (SVP, Clinical Solutions) For: 21 October Investing.com Canada",
+      "description": "Form 4 Quest Diagnostics orporated: Karthik Kuppusamy (SVP, Clinical Solutions) For: 21 October By Investing.com Investing.com South Africa",
       "source": "Investing.com Canada",
       "source_url": "https://ca.investing.com",
       "source_domain": "ca.investing.com",
@@ -145,9 +175,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOaHVUY19fQ3JhaVhuRTU5M2xuV2NBcVA2ZGowN2JLLVRTckRqOF9mb1doMGlwRkJuSmUwbTFPdWhvZ2VzQzdNWmJWUjlMd3RoMHc2NHpoTDZaeUpTaUFCdzI4TUItbXdRbFZSMGhJbjEwNTZiUUFUQlR3bkFvc19IVXVCTUhIRFdaS3JSQWVWcFlhRmtoMHkzbjJ1Ykx4eFQxWE9EdGxMenFlNExZVjdNa21PSHFGaDd1MkpqVDZBS2Z0RW1ETnRxM2k3bEVIRDR0d0RvblNDdWFXcUlJeGZWOEhUQldodw?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-10-24T01:35:22+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX3l5bVFXVlhGXzhLYXo4NkNFMHJiR2poLUJWUlVHRWdoeDh1c1I2UHpFNmpsMDZRT0RRUHFZelEtaURqd2lvT2dpU3pvLVJLUmZwWTZ6aHpGU19oQkZVZWJjNzM1VUo5SGp5TFJVVUI5QkoxVEg5NE5OX1VxVXpXUkxGRDc1R3B5RnJBSzhqLXZLMTdBNFU5MkJlamFDRnVQREctWHgyQUtsb21TTzhFNWxOekctT2Nydm9kREVqaUdsQWZUX215TU8wX1o2ZHliYVZQNFBWV2NWM003WTBVREpzeFNpQQ?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-24T02:01:58+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "clinical form karthik kuppusamy october orporated solutions svp"
     },
     {
@@ -173,6 +209,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "filed form oct patrick plewman"
+    },
+    {
+      "id": "0fb0cbe05c417ae260ce",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics pauses lab portal after breach",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YaFNEWklwT2xIOVRFeVZtQ2dJTy1iM2FFZGZiWGlfRlp1MTBCZnpWZURsOWpoeFBtVHJFRVNZY1RuVHFKOEdqcEJKNEF3VnY5RkZDQlhmakI3OTNIYnNGMDBsQ0xNZkh0dWZwUXlqSzY0Uy15dFhKZQ?oc=5",
+      "description": "Quest Diagnostics pauses lab portal after breach DysruptionHub",
+      "source": "DysruptionHub",
+      "source_url": "https://dysruptionhub.com",
+      "source_domain": "dysruptionhub.com",
+      "published_at": "2026-10-23T21:32:51+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "DysruptionHub",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YaFNEWklwT2xIOVRFeVZtQ2dJTy1iM2FFZGZiWGlfRlp1MTBCZnpWZURsOWpoeFBtVHJFRVNZY1RuVHFKOEdqcEJKNEF3VnY5RkZDQlhmakI3OTNIYnNGMDBsQ0xNZkh0dWZwUXlqSzY0Uy15dFhKZQ?oc=5",
+          "domain": "dysruptionhub.com",
+          "published_at": "2026-10-23T21:32:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after breach lab pauses portal"
     },
     {
       "id": "362155a0c547d6d21993",
@@ -587,6 +647,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "accessed data hack likely patient"
+    },
+    {
+      "id": "59c60f4c1e76e31fb3a9",
+      "company": "Labcorp",
+      "title": "Waters, Labcorp To Expand Access To Cervical Cancer Screening With BD Onclarity HPV Assay",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSFVUSlRMYndBdGtnQjIzSEJIbmZDMzI0MWVkM3RYVGRNMXVwTFg1RmZuaFlxOXRLR1otY0RQNTEyMG1DanVPVWpsZm5iSTNQaEY1QTQxU3V3R21OZzlVLTZHaTZUdmg3SHQzNThBMWpXQ1QxQVdTeUlCbGNNRWV2dzQ4WkFFcUI5RnhZSVczRk1TMWNMZC15WW9Vd1NqajVaSTBDaXYxaFlNcGRBQ2xQNjRGSFlSU1JYRDdDNVNvb1ozRW9XdTctRDZZWERZbW5keXhRN2QyT3NXc1NjOEVSaF9idmhBSHNpQ3FncDFNbw?oc=5",
+      "description": "Waters, Labcorp To Expand Access To Cervical Cancer Screening With BD Onclarity HPV Assay TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-23T12:21:04+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSFVUSlRMYndBdGtnQjIzSEJIbmZDMzI0MWVkM3RYVGRNMXVwTFg1RmZuaFlxOXRLR1otY0RQNTEyMG1DanVPVWpsZm5iSTNQaEY1QTQxU3V3R21OZzlVLTZHaTZUdmg3SHQzNThBMWpXQ1QxQVdTeUlCbGNNRWV2dzQ4WkFFcUI5RnhZSVczRk1TMWNMZC15WW9Vd1NqajVaSTBDaXYxaFlNcGRBQ2xQNjRGSFlSU1JYRDdDNVNvb1ozRW9XdTctRDZZWERZbW5keXhRN2QyT3NXc1NjOEVSaF9idmhBSHNpQ3FncDFNbw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-23T12:21:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access assay cancer cervical expand hpv onclarity screening waters"
+    },
+    {
+      "id": "f01986222e934fa19e1f",
+      "company": "Labcorp",
+      "title": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
+      "description": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 AOL.com",
+      "source": "AOL.com",
+      "source_url": "https://www.aol.com",
+      "source_domain": "aol.com",
+      "published_at": "2026-10-23T12:01:22+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-10-23T12:01:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
       "id": "8b4cb4c582580813bc57",
@@ -1031,7 +1139,7 @@
       "company": "Quest Diagnostics",
       "title": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5",
-      "description": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened LiveNOW from FOX",
+      "description": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened FOX6 News Milwaukee",
       "source": "LiveNOW from FOX",
       "source_url": "https://www.livenowfox.com",
       "source_domain": "livenowfox.com",
@@ -1057,9 +1165,15 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5",
           "domain": "yahoo.com",
           "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "FOX6 News Milwaukee",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5",
+          "domain": "fox6now.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
@@ -1085,6 +1199,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "abuse charles drug fda partners research river"
+    },
+    {
+      "id": "961ad4bbea94d0876965",
+      "company": "Labcorp",
+      "title": "Charles River, Labcorp, and FDA sign drug abuse potential research pact",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5",
+      "description": "Charles River, Labcorp, and FDA sign drug abuse potential research pact StreetInsider",
+      "source": "StreetInsider",
+      "source_url": "https://www.streetinsider.com",
+      "source_domain": "streetinsider.com",
+      "published_at": "2026-10-22T20:33:43+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-22T20:33:43+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1A5ODhqR196SzgyU2VuS3pXN0JJVEx5TUhfTmtxVE45cjk2cDhKSUlSWjA5QWpIT1BKNTlzWWU5aS1BN2JhcGtHMERzLWlVWnpJS0xtR0FyTm0zSTd3M2UteVpLNWRoMjR0ZkhaVXZOeEFMUVY2dmtrSVpfZW5qVlpHSHpDbVVaN3lGS0tsMllkUHQySmxWVEpR?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T21:55:10+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "abuse charles drug fda pact potential research river sign"
     },
     {
       "id": "3f6a662d7dc0f4a95163",
@@ -2125,9 +2269,15 @@
           "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkpFNlpxY1dYS1gxdXRyMjZXT1Z2QlhndWlqY1g5VmlSUmdzbzBhRGpwdDlmeUJDVEpnWkJ3VzJKUWcxbUFjdXBwY0VNUnVPcm5jRldfQi1JMWEyMmdMb0dkS3pTOTJkVDh1T0d2SEpWd01QbWE3amRCbXBGSmhTQllLcWV4dU5OTFdqZl9oSWZsSzZ4SXRXZlVqY3dMZERveGl4dVlhR0FfV1VkYnQxZHlQajJNbWxCNXgwZDVxZHhGcTFGUHBaYjF6SzdYWFZGT2w0WWEzRWZOZWxBb1V5SUhtN3dFRUhvMDhQWlJUWmNiTjJLaS05VmhXOWF0WXpzVjJSZ25mM25vQ1YtWTV4YVJSVV9tYWd2dTM4bA?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-10-23T21:12:00+00:00"
+        },
+        {
+          "name": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUpDZDB5b3NRcVFzRWtFdHRfWG5YbmVUTkVXNGtzZ2Z5bkplc3Zid182QTNpeWVadzFZRG4tTDBESTY1ckE2ZnFXcm53cld0S3VHcUpiTlJjaEF5TElVelVBcGUyS3cwVS13a0hiS1hhSUoyZ25MQlhDclplVnpvTUpOdE9LYXFhZGwzZ2JxZ01CNHdpNEMwbE5CYVhjeG5aYjZFNGlYTEx4Q3dJUnZNTDU1eFQxeGV0bVM0WElYRTNJWWxzbUxLY3hNb1NYbGNia0hSUXB5eW1TeHhicnhlRV81VkJXTVFEUVE?oc=5",
+          "domain": "newscord.org",
+          "published_at": "2026-10-23T17:29:38+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "access patient records system unauthorized"
     },
     {
@@ -2479,9 +2629,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-21T10:54:08+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-21T11:34:13+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "declares dividend quarterly"
     },
     {
@@ -2755,9 +2911,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVFVOWpnYjMyZW9wRVpGT2NVdEtwdy1aeS1STGFJdFdkd3NyUGhXdzE5R29jVGxGWUo1cTZRWnFvc21wQWphMFNLRUNWZEZLWXZFLWlQamRESGxRenhGa3RnM1FYbVZ2d2RKczVyR1FOa2RvWFJjUXhpaGhTTE9zbXBRejFSb1VCWHBuNktRQ01yYmYwNEFYWlI4Tm9RYmx0SjFha0cwYnFqNWNCQXZld1FsaG42ZFNSdW1vQ0ZMMUhrcTF4WVFWekxBaWJCdHUxRU0w?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-20T12:42:10+00:00"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemtGeXphTkNTRm1RRTMzcFZOQ1MtUmd4cW5yWGxiN05WZU1hczhXYlhYVlZSdjlsME5RWWxIelc4LTM4RE5sODZObkd6NlJqd2hEWXJqNjZyTEh1aEx6NFh1RFF5bmFzeUlMSDlVazRzZHdOck1zVUlaTGpCRXdBdXdhTmFTNk5pMWRUdkMxMDZPNzJWdmxBVVlic0U1dS1JMmRVODM5V1VpRlRudkhveDNB?oc=5",
+          "domain": "360dx.com",
+          "published_at": "2026-10-20T14:13:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
     },
     {
@@ -14999,42 +15161,12 @@
         "https://www.fiercebiotech.com/medtech/labcorp-launches-dtc-genetic-health-panel-seek-out-multiple-diseases",
         "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
       ]
-    },
-    {
-      "id": "da70bf985fd9e363c79d",
-      "company": "Quest Diagnostics",
-      "title": "Why Quest Diagnostics Stock Climbed This Past Week",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
-      "description": "Why Quest Diagnostics Stock Climbed This Past Week The Globe and Mail",
-      "source": "The Motley Fool",
-      "source_url": "https://www.fool.com",
-      "source_domain": "fool.com",
-      "published_at": "2026-07-26T07:00:00+00:00",
-      "published_display": "26 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjN5VGlWSV9iV2JUTGFDYjBDY1NtdEFpeWpNeXZ4YldPMktxU3A1ZmtlM01VQWtZM2xVbms0N0xTZGw1dU1ockhXeERVQnl5NzkwbjRLMHlrd01vTVJycFJmSjI0Ul9lOHFfd01KcmN4aXB3UlFUZFJ5SUN5WVY1V2ZOMERxakdlSFI1Unk2cU9qUDZ1czdBaQ?oc=5",
-          "domain": "fool.com",
-          "published_at": "2026-07-26T07:00:00+00:00"
-        },
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFLMlBmS3dDOEdSRDFCVXd2ZW5NSExMUlZYdFFERm1YanBYM1dRSy1idFB2RV9QNVZpNGNKbm1MTFowODl6N3pseDVqbTFqanBtYldMV0c3WDJsZWMxRU9IVGVZeHo4d090aFdCZVd5bFJpNGRNUHdQTkZVQlNENkNBUExMMmN0QnRSck5mamJ6VkVMZWZVdERRQWdwM1JKNldtYmxTVVBtWS1iZ2RQaFAyOEdhaVE0SGtLX3pRZXRVWEhNejJCY1VGTDNZbUdJUWc?oc=5",
-          "domain": "theglobeandmail.com",
-          "published_at": "2026-07-27T02:22:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "climbed past stock this week why"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 57,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-24T12:17:00+05:30",
-  "next_update_display": "24 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-24T18:17:00+05:30",
+  "next_update_display": "24 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
