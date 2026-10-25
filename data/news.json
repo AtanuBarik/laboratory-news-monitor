@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T17:32:43.103946+05:30",
-  "generated_at_display": "25 Oct 2026, 5:32 PM IST",
-  "item_count": 478,
-  "raw_relevant_item_count": 691,
-  "duplicates_merged": 154,
+  "generated_at": "2026-10-25T22:20:25.506954+05:30",
+  "generated_at_display": "25 Oct 2026, 10:20 PM IST",
+  "item_count": 477,
+  "raw_relevant_item_count": 693,
+  "duplicates_merged": 158,
   "failures": [],
   "items": [
     {
@@ -175,36 +175,6 @@
       "event_signature": "2026 diluted eps revenue rises"
     },
     {
-      "id": "703325e42b36b9e8a4c3",
-      "company": "Quest Diagnostics",
-      "title": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUJfVXFKME1MQk5mSF95OGhWXzcya1BuLWwyN2ppMEdsNUs0eEFxRUFpV3Y0QU9DS05qUXFvMUI3NDRibDZwNlFZclJQUkNDSDJfdWRad05ianM4cENUTmlVb0xHa2VfZFdncEp4WXRkRWdmX1dzQ0ZkU3oyRTdMemZkb3F0OHk1WjE3a1p1am5sNTBWS29QMWp1THdjNGx4RnVBYjN0aDZfRlJ4M083OHR6aHZ1RW5yNkExTG9ZQVNBRUJ6RDNGekVSc3BYbEo3?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com Investing.com South Africa",
-      "source": "Investing.com South Africa",
-      "source_url": "https://za.investing.com",
-      "source_domain": "za.investing.com",
-      "published_at": "2026-10-24T02:17:39+00:00",
-      "published_display": "24 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUJfVXFKME1MQk5mSF95OGhWXzcya1BuLWwyN2ppMEdsNUs0eEFxRUFpV3Y0QU9DS05qUXFvMUI3NDRibDZwNlFZclJQUkNDSDJfdWRad05ianM4cENUTmlVb0xHa2VfZFdncEp4WXRkRWdmX1dzQ0ZkU3oyRTdMemZkb3F0OHk1WjE3a1p1am5sNTBWS29QMWp1THdjNGx4RnVBYjN0aDZfRlJ4M083OHR6aHZ1RW5yNkExTG9ZQVNBRUJ6RDNGekVSc3BYbEo3?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-10-24T02:17:39+00:00"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-10-24T02:22:11+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "carter com director form investing october orporated robert"
-    },
-    {
       "id": "dbc9eb95fffd6aa6786e",
       "company": "Quest Diagnostics",
       "title": "Form 4 Quest Diagnostics orporated: Sam Samad (Executive Vice President & CFO) For: 21 October",
@@ -233,6 +203,42 @@
       ],
       "coverage_count": 2,
       "event_signature": "cfo executive form october orporated president sam samad vice"
+    },
+    {
+      "id": "0397f7bb3a6c411d065a",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjNrR2pMV1ZJLTZ0c0FHNEtFLTVlbmpjMVhXZThWaHdsQzRnaXA2YzdlVVQ3SVVsdlpBUTN2aTJWY0xqMXQyVDRubkxPd1VjZUdVMW5seGVZZkF4TVh2c3Mwcm9sVVNhemNtQ3BsU2xKenFLYXlCbXhKMXZGcm9QT3gxZEV4dC1sNVlfMVBsMnJERm4ybjRwNlcyU0tkX2R4X21SQkRiV3F4VmhqN0trRHpKajg2UGRwQlZPWkpvM3NFVWtRVDhzVld5d0JkRWxW?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com Investing.com South Africa",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-10-24T02:16:00+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjNrR2pMV1ZJLTZ0c0FHNEtFLTVlbmpjMVhXZThWaHdsQzRnaXA2YzdlVVQ3SVVsdlpBUTN2aTJWY0xqMXQyVDRubkxPd1VjZUdVMW5seGVZZkF4TVh2c3Mwcm9sVVNhemNtQ3BsU2xKenFLYXlCbXhKMXZGcm9QT3gxZEV4dC1sNVlfMVBsMnJERm4ybjRwNlcyU0tkX2R4X21SQkRiV3F4VmhqN0trRHpKajg2UGRwQlZPWkpvM3NFVWtRVDhzVld5d0JkRWxW?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-10-24T02:16:00+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUJfVXFKME1MQk5mSF95OGhWXzcya1BuLWwyN2ppMEdsNUs0eEFxRUFpV3Y0QU9DS05qUXFvMUI3NDRibDZwNlFZclJQUkNDSDJfdWRad05ianM4cENUTmlVb0xHa2VfZFdncEp4WXRkRWdmX1dzQ0ZkU3oyRTdMemZkb3F0OHk1WjE3a1p1am5sNTBWS29QMWp1THdjNGx4RnVBYjN0aDZfRlJ4M083OHR6aHZ1RW5yNkExTG9ZQVNBRUJ6RDNGekVSc3BYbEo3?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-24T02:17:39+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-24T02:22:11+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "carter director form october orporated robert"
     },
     {
       "id": "8b9d05592e4e3c40d438",
@@ -1133,6 +1139,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach cyber exposed lab major medical operator patient records"
+    },
+    {
+      "id": "d095842c7ad063260cea",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Data Breach: 716 Attacks [2026]",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlhJMmREOHM5VkRIalpuOFZaUURPZUZlUXAyRmpQZjliNlZKQ21FdkswUXpnUUxVY1RwYXJLd2h3ZWduWk4yOGJGUmk3M1VWeEpKdXhRbW1CV1JGU3kzNVZmUnFnUHl3dHBxYS1OWlc0SThJTGpDYTBEMjBBLWtwSjZOSmt4UQ?oc=5",
+      "description": "Quest Diagnostics Data Breach: 716 Attacks [2026] shattered.io",
+      "source": "shattered.io",
+      "source_url": "https://shattered.io",
+      "source_domain": "shattered.io",
+      "published_at": "2026-10-23T01:03:57+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlhJMmREOHM5VkRIalpuOFZaUURPZUZlUXAyRmpQZjliNlZKQ21FdkswUXpnUUxVY1RwYXJLd2h3ZWduWk4yOGJGUmk3M1VWeEpKdXhRbW1CV1JGU3kzNVZmUnFnUHl3dHBxYS1OWlc0SThJTGpDYTBEMjBBLWtwSjZOSmt4UQ?oc=5",
+          "domain": "shattered.io",
+          "published_at": "2026-10-23T01:03:57+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 716 attacks breach data"
     },
     {
       "id": "fae4118b0f61ed796744",
@@ -5233,30 +5263,6 @@
       "event_signature": "breakdown han revenue sab"
     },
     {
-      "id": "3849294c79045aab93dd",
-      "company": "Labcorp",
-      "title": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
-      "description": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com",
-      "source": "Alaska Native News",
-      "source_url": "https://alaska-native-news.com",
-      "source_domain": "alaska-native-news.com",
-      "published_at": "2026-09-29T14:03:04+00:00",
-      "published_display": "29 Sep 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Alaska Native News",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
-          "domain": "alaska-native-news.com",
-          "published_at": "2026-09-29T14:03:04+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acting affected alaskans attorney breach cori data general mills over personal settlement that"
-    },
-    {
       "id": "49fcc7ae7a7315ce462a",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock heads toward October 22 results",
@@ -5339,6 +5345,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "dkd enables gains kidneyintelx margin national partnership reach renx"
+    },
+    {
+      "id": "3849294c79045aab93dd",
+      "company": "Labcorp",
+      "title": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
+      "description": "Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com",
+      "source": "Alaska Native News",
+      "source_url": "https://alaska-native-news.com",
+      "source_domain": "alaska-native-news.com",
+      "published_at": "2026-09-29T07:00:00+00:00",
+      "published_display": "29 Sep 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Alaska Native News",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5",
+          "domain": "alaska-native-news.com",
+          "published_at": "2026-09-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acting affected alaskans attorney breach cori data general mills over personal settlement that"
     },
     {
       "id": "c2400a7ad09cecb58738",
@@ -15073,81 +15103,12 @@
       "summary_evidence": [
         "https://www.advfn.com/stock-market/NYSE/DGX/stock-news/98989527/form-4-statement-of-changes-in-beneficial-owners"
       ]
-    },
-    {
-      "id": "d55db7809f5d2e7a1669",
-      "company": "Labcorp",
-      "title": "Labcorp launches genetic health panel for consumers By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNFV1hOczBxZEs1OVR2RHF2NnNBZ2d5cXlDa3lsUkNwZlByUFcwWDNZU3FRSHI2STdTdUg0SGpkRW5SZGNYOFBhendwUEdKRkF0VnFQMWROdjIxZnZUWWRWMDF4MkJabklWYUdTY2xvYUZJaF9XakFKekg2dnU4cElOTFY3OUJ5aFJTeGtEa1QzdF9NSTFVTDdoY0hOTEhqLVdMUmFpMXhmcTJSNWNrdjV3?oc=5",
-      "description": "Labcorp announced the Marker by Labcorp Genetic Health Panel, a consumer genetic-testing service that evaluates 163 genes linked to more than 100 health conditions. The panel is scheduled to become available through Labcorp OnDemand on August 3, 2026 and covers inherited risks associated with hereditary cancer, cardiovascular disease and metabolic conditions. Consumers can order the test directly, then schedule specimen collection at one of more than 2,200 Labcorp patient service centers, where a trained phlebotomist performs a blood draw. Labcorp laboratories analyze the sample, and results are returned through the company's secure patient portal and MyLabcorp mobile platform. The report includes detected findings, educational material and access to licensed genetic counselors who can help consumers interpret the information and consider follow-up with healthcare providers. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cited research suggesting nearly one in six adults who undergo genetic testing find a variant associated with a medically actionable condition. The company cautions that the panel is not itself diagnostic; results should be considered together with medical history, family history and other clinical risk factors.",
-      "source": "Investing.com South Africa",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-27T12:58:33+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUNFV1hOczBxZEs1OVR2RHF2NnNBZ2d5cXlDa3lsUkNwZlByUFcwWDNZU3FRSHI2STdTdUg0SGpkRW5SZGNYOFBhendwUEdKRkF0VnFQMWROdjIxZnZUWWRWMDF4MkJabklWYUdTY2xvYUZJaF9XakFKekg2dnU4cElOTFY3OUJ5aFJTeGtEa1QzdF9NSTFVTDdoY0hOTEhqLVdMUmFpMXhmcTJSNWNrdjV3?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T12:58:33+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlZDcUl0cTBrMmtRNlFvVFdoOUczUUppY05COU5oSnNNTlhscEpCeDRKU3VrTlo2YXJFTDhwaWgzeVZCUXZ4YW9mMXJBODFpampzQXExdjVRTHVpOW1QWlExMENzeGkyOHFpSDYteWdfenJtcnpxWnJDTEhBU3BEVzFOV1dVS0E1aTlBX1I0dFpwN2ZZQnQ4b0YxelM5UktQOGZ6S3VpM3RlU2RkWFloU0VR?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-07-27T13:03:47+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "com consumers genetic health investing launches panel",
-      "source_description": "Labcorp launches genetic health panel for consumers By Investing.com Investing.com South Africa",
-      "chatgpt_summary": "Labcorp announced the Marker by Labcorp Genetic Health Panel, a consumer genetic-testing service that evaluates 163 genes linked to more than 100 health conditions. The panel is scheduled to become available through Labcorp OnDemand on August 3, 2026 and covers inherited risks associated with hereditary cancer, cardiovascular disease and metabolic conditions. Consumers can order the test directly, then schedule specimen collection at one of more than 2,200 Labcorp patient service centers, where a trained phlebotomist performs a blood draw. Labcorp laboratories analyze the sample, and results are returned through the company's secure patient portal and MyLabcorp mobile platform. The report includes detected findings, educational material and access to licensed genetic counselors who can help consumers interpret the information and consider follow-up with healthcare providers. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cited research suggesting nearly one in six adults who undergo genetic testing find a variant associated with a medically actionable condition. The company cautions that the panel is not itself diagnostic; results should be considered together with medical history, family history and other clinical risk factors.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T00:35:10+05:30",
-      "summary_evidence": [
-        "https://www.investing.com/news/company-news/labcorp-launches-genetic-health-panel-for-consumers-93CH-4814055",
-        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-l-labcorptm-genetic-health-panel-expanding"
-      ]
-    },
-    {
-      "id": "750c009b3cae9edeff42",
-      "company": "Labcorp",
-      "title": "Labcorp Launches Marker Genetic Health Panel to Enhance Ris",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkk0LWNuVTBrZkQybzZhVnlMWTBzYzZEWXJUV0pBUmtLUkxpM254TENHT19KWnRkRHdEakFQaWxyWFRjWWc3YUpYSjRVWmJweUZwQ1RqaXZQd0JaV0NhOVpqbUxwRU1ERGRkM3BwVEQ4eldQZVpRcTduYWd6ckFLaVhtdGhTbG5yaVV2ZjFMcFNDbUNpYjZYSXpSYUtLellkbkxxS1Jka2gzWkNnNUNNbldrTQ?oc=5",
-      "description": "Labcorp's Marker by Labcorp Genetic Health Panel expands the company's direct-to-consumer testing portfolio into hereditary disease risk. The new panel analyzes 163 genes associated with more than 100 medically actionable conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. It will be sold through Labcorp OnDemand starting August 3, 2026. Consumers can purchase the panel directly and schedule a blood draw at one of Labcorp's more than 2,200 patient service centers. Samples are then analyzed by Labcorp, with results delivered through its secure patient portal and MyLabcorp mobile platform. Each report includes identified findings, tailored educational information and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp positions the panel as a way to combine its biomarker testing and hereditary genetics capabilities in one consumer channel. The company says the offering is supported by Labcorp Genetics and Invitae expertise. Labcorp also cites evidence that nearly one in six adults who undergo genetic testing identify a variant linked to a serious but medically actionable condition, while many carriers remain unaware of their inherited risk. The company states that Marker results are not diagnostic and should be interpreted in the context of medical and family history and other risk factors.",
-      "source": "GuruFocus",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-27T12:55:12+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTkk0LWNuVTBrZkQybzZhVnlMWTBzYzZEWXJUV0pBUmtLUkxpM254TENHT19KWnRkRHdEakFQaWxyWFRjWWc3YUpYSjRVWmJweUZwQ1RqaXZQd0JaV0NhOVpqbUxwRU1ERGRkM3BwVEQ4eldQZVpRcTduYWd6ckFLaVhtdGhTbG5yaVV2ZjFMcFNDbUNpYjZYSXpSYUtLellkbkxxS1Jka2gzWkNnNUNNbldrTQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T12:55:12+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "enhance genetic health launches marker panel ris",
-      "source_description": "Labcorp Launches Marker Genetic Health Panel (LH) to Enhance Ris GuruFocus",
-      "chatgpt_summary": "Labcorp's Marker by Labcorp Genetic Health Panel expands the company's direct-to-consumer testing portfolio into hereditary disease risk. The new panel analyzes 163 genes associated with more than 100 medically actionable conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. It will be sold through Labcorp OnDemand starting August 3, 2026. Consumers can purchase the panel directly and schedule a blood draw at one of Labcorp's more than 2,200 patient service centers. Samples are then analyzed by Labcorp, with results delivered through its secure patient portal and MyLabcorp mobile platform. Each report includes identified findings, tailored educational information and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp positions the panel as a way to combine its biomarker testing and hereditary genetics capabilities in one consumer channel. The company says the offering is supported by Labcorp Genetics and Invitae expertise. Labcorp also cites evidence that nearly one in six adults who undergo genetic testing identify a variant linked to a serious but medically actionable condition, while many carriers remain unaware of their inherited risk. The company states that Marker results are not diagnostic and should be interpreted in the context of medical and family history and other risk factors.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T00:35:10+05:30",
-      "summary_evidence": [
-        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 55,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-25T18:17:00+05:30",
-  "next_update_display": "25 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-26T00:17:00+05:30",
+  "next_update_display": "26 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

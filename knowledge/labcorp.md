@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 25 Oct 2026, 5:32 PM IST
+- **Repository generated:** 25 Oct 2026, 10:20 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -525,19 +525,7 @@
 
 **Feed description:** Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026 www.marketscreener.com
 
-## 40. Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans
-
-- **Company:** Labcorp
-- **Publication date:** 29 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Alaska Native News: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5
-
-**Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com
-
-## 41. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
+## 40. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Sep 2026
@@ -550,6 +538,18 @@
   - TradingView: https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnJ1bHBOVFRWWkJaLUVUeDVscnFTWTRfVTN6S1l5VVF5UGxoWHlIQ05iZUxKZ2NEbU9hRE5aWGROUWtHX1otVlQ1cVc2R0hVR1c4eDFJTkJYbUpkcFJSV3NCbGNvODRhaHJXZzRCbjN0M3BuSVFzeDM4Y3hpN2ctY2wxRDNUMWJEM0d2MnNVc2JrTFRnQnRiQU1kRVNCTWZWSHNSSEp2enNuRGFaVExkaUxIM0pUeE0?oc=5
 
 **Feed description:** Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research
+
+## 41. Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans
+
+- **Company:** Labcorp
+- **Publication date:** 29 Sep 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Alaska Native News: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYVFvMVZUZE80RXRCRGJKckRrbEhpdjJxTDNIWDFXc0M5SEFvaWtvN3lSZ1VTejZSakNOdTJhS0ljYXpxVHZaR0MyY0k0SEZ4NFpYX2I2Vk9UM0lKeUhjOS0wc2tYd1VBY1l1SENHaVFieDZJUmsyaDZEbHlESjkxOHM2YzBzdll3cGxHc1k0NzZyLW5pTGhuYlowckVwMXQxTnlEZ1p3NUdEbDdKX2hsNWFvQnotSFBHNXROYWhDbWpHaU9CS1FQSGtGMmUyODRCdXVxTkQ0MDMtZzB6bWdfd1VJdVlsejJLODZyRGJubG9rLTRzNXVQVDJUTQ?oc=5
+
+**Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com
 
 ## 42. Trainee Clinical Research Role at Labcorp | Apply Now
 
