@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T02:43:05.461741+05:30",
-  "generated_at_display": "25 Oct 2026, 2:43 AM IST",
-  "item_count": 478,
-  "raw_relevant_item_count": 695,
-  "duplicates_merged": 157,
+  "generated_at": "2026-10-25T10:51:38.023329+05:30",
+  "generated_at_display": "25 Oct 2026, 10:51 AM IST",
+  "item_count": 479,
+  "raw_relevant_item_count": 663,
+  "duplicates_merged": 128,
   "failures": [],
   "items": [
     {
@@ -155,6 +155,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "carter com director form investing october orporated robert"
+    },
+    {
+      "id": "dbc9eb95fffd6aa6786e",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Sam Samad (Executive Vice President & CFO) For: 21 October",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXlRWVVjaHE4R0RyaGdzOE9SN0Q3cjJ4VHdsZklYVE1TTFQ5dktzUlhVY2I1LTdYelo2aDhDNmpiYllzek1EOTNMWW04OGNjMm9tcTRoeWE4WURVQjlRM1dlbEVXTTdZQkV4RWhTcGotNmNBZWlRWm9VTWYtZ2ZUWC04ZEN1T29RemltMnBXS3BNSmk2R0dXZ3RtYm9MQWczeFFKYUxVYldsalROd1gyOEt4UVJITlJPRFBGaHVwaDJhWVdrZ3dPRHhTNkczVldrZXVTM0gzUDRaaU5LWExqT1JjZTc?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Sam Samad (Executive Vice President & CFO) For: 21 October Investing.com UK",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-10-24T02:16:00+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXlRWVVjaHE4R0RyaGdzOE9SN0Q3cjJ4VHdsZklYVE1TTFQ5dktzUlhVY2I1LTdYelo2aDhDNmpiYllzek1EOTNMWW04OGNjMm9tcTRoeWE4WURVQjlRM1dlbEVXTTdZQkV4RWhTcGotNmNBZWlRWm9VTWYtZ2ZUWC04ZEN1T29RemltMnBXS3BNSmk2R0dXZ3RtYm9MQWczeFFKYUxVYldsalROd1gyOEt4UVJITlJPRFBGaHVwaDJhWVdrZ3dPRHhTNkczVldrZXVTM0gzUDRaaU5LWExqT1JjZTc?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-10-24T02:16:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cfo executive form october orporated president sam samad vice"
     },
     {
       "id": "8b9d05592e4e3c40d438",
@@ -3187,42 +3211,6 @@
       "event_signature": "722m acquisition iqvia life more partnership sciences veeva"
     },
     {
-      "id": "e4359605fca9e3c7fd95",
-      "company": "Labcorp",
-      "title": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
-      "description": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-16T14:20:00+00:00",
-      "published_display": "16 Oct 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-16T14:20:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWZZaDU4dGtHdjM0T2M1MDRLeml5ZFpfdWtDYXMxbm0zQVNaNFdZUlNheG1SX1NvTGFaZFlpLW5ncTVod1ZQLXlpSS1nUm9HNmFFOVN3emNxZW5vSFRrOXkxZV9hQk5LekdMQWM0c0ZET0ZhU3NRRXhuVnptejFDdHRteFNpNVBVSDFLTDNfekRCT0lmU2UyY3NMS25JelZMdWtDZ0lnLThITHRnMjhvR3JQSGwxSzBpT2o4TG9B?oc=5",
-          "domain": "fr.tradingview.com",
-          "published_at": "2026-10-16T14:20:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObE9rNDFDQUlVRHRZdkE4bjJFWGZoMlhqOXBhSVVaaWstOGtSSzY3SnVxRkRkVkI0eHNaa2htWVdKcVdHSlRWR2k5dlFUc25LblJkVEdfbWtpWEtDbXd3ZE5CVGp4TVM0dV9Ic1IzczVjakVobTBGVENQYnRqa0QxZ3I5N0RlNk1BR3hiYmc3MUR5MHZBNzhxVVRFMmVTc1ZWMEFnbmpURFc3dVE?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-10-17T04:42:32+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "722m assets bioreference health opko select sell"
-    },
-    {
       "id": "c36ce0120eb5e0f187cc",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Shares May Trade At A Discount On Earnings",
@@ -3245,6 +3233,42 @@
       ],
       "coverage_count": 1,
       "event_signature": "discount earnings may shares trade"
+    },
+    {
+      "id": "e4359605fca9e3c7fd95",
+      "company": "Labcorp",
+      "title": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
+      "description": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "published_display": "16 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-16T07:00:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWZZaDU4dGtHdjM0T2M1MDRLeml5ZFpfdWtDYXMxbm0zQVNaNFdZUlNheG1SX1NvTGFaZFlpLW5ncTVod1ZQLXlpSS1nUm9HNmFFOVN3emNxZW5vSFRrOXkxZV9hQk5LekdMQWM0c0ZET0ZhU3NRRXhuVnptejFDdHRteFNpNVBVSDFLTDNfekRCT0lmU2UyY3NMS25JelZMdWtDZ0lnLThITHRnMjhvR3JQSGwxSzBpT2o4TG9B?oc=5",
+          "domain": "fr.tradingview.com",
+          "published_at": "2026-10-16T14:20:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObE9rNDFDQUlVRHRZdkE4bjJFWGZoMlhqOXBhSVVaaWstOGtSSzY3SnVxRkRkVkI0eHNaa2htWVdKcVdHSlRWR2k5dlFUc25LblJkVEdfbWtpWEtDbXd3ZE5CVGp4TVM0dV9Ic1IzczVjakVobTBGVENQYnRqa0QxZ3I5N0RlNk1BR3hiYmc3MUR5MHZBNzhxVVRFMmVTc1ZWMEFnbmpURFc3dVE?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-17T04:42:32+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "722m assets bioreference health opko select sell"
     },
     {
       "id": "3a4935c0368515d6d906",
@@ -15229,10 +15253,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 53,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-25T06:17:00+05:30",
-  "next_update_display": "25 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-25T12:17:00+05:30",
+  "next_update_display": "25 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
