@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-25T22:20:25.506954+05:30",
-  "generated_at_display": "25 Oct 2026, 10:20 PM IST",
-  "item_count": 477,
-  "raw_relevant_item_count": 693,
-  "duplicates_merged": 158,
+  "generated_at": "2026-10-26T02:45:32.048449+05:30",
+  "generated_at_display": "26 Oct 2026, 2:45 AM IST",
+  "item_count": 476,
+  "raw_relevant_item_count": 692,
+  "duplicates_merged": 159,
   "failures": [],
   "items": [
     {
@@ -235,9 +235,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-10-24T02:22:11+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEZWYzloc25mUGZsdWI5TUZjYWtnSXEtREZ6M1Q3Y0ZaWVZ3SEVZYW9KT2dOVXBRaGNfY0p2UFc3dTEtbnppc1dmOWQ0X1pvMzE5WDVDSVdHcnVIWWt6ZUlEXzBBRVpDZ2NxSlBFYnNlckg3eXkxbnkzM2RyampTMnBqUzB6VEJ0YVlhLWVFQ2ZmUmVKMDZGakNvYTVkbTBzZjRwd3dNNlhXTW8yWEhNWlllb3oxcWRUbFg4ZE12SWtETFk3c2hMTnBuemF5VnVf?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-24T02:28:10+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "carter director form october orporated robert"
     },
     {
@@ -1777,252 +1783,6 @@
       "event_signature": "120m 2026 2027 but call cuts earnings guidance jumps loom pama raises revenue"
     },
     {
-      "id": "ea7a068b242aeabe4bb1",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics reports cyber breach affecting 'certain patient records'",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5",
-      "description": "Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos",
-      "source": "WFMZ.com",
-      "source_url": "https://www.wfmz.com",
-      "source_domain": "wfmz.com",
-      "published_at": "2026-10-22T14:31:33+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WFMZ.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5",
-          "domain": "wfmz.com",
-          "published_at": "2026-10-22T14:31:33+00:00"
-        },
-        {
-          "name": "Richmond Register",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSlhYX3hLeE5DUmVobGFpYnBRYW9sck9JR3NuR3o4d1JOcUtDcVc4Z2hHU2x0UFNCbU53Sk90MS1hVGVZUnltdEJmY1A3MGdEdzJxQlJXN0Y2SnplT3ZlSVpZdF9Vb2ZodzlVUVQ5LU9heUVmakk4NHEwM05HLVZnZk10VHdULThQaHUyR015TnJxVW9KTWdfVXNfTGpka05STGFEYlRyOVhFdHp3UnpUWmdmOU5XY3A0S0dWSVVRWkVMd3JDTGJJRVlxcmNFcm9rSUM2TUpEZkhzOTlscmZMS0NOMS0zd0R0UXFvV3U3VnpWTDlQbXpVTkZiNA?oc=5",
-          "domain": "richmondregister.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "The Batesville Daily Guard",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYndxQl9LU0JjVHhIMU5zRmM5VS1lTThabUR1a3JIVTNVeVppOWZWSWF2RVh1SHNKQVRNT1E4WTJDZDFJbzAxbldnWktYY3MyeG4tX2RCUUI5MTJTU2JlaXI4NUlPZ3ZZZ21aWU5EeHZhNmNmLUhFbnhtVzVsTEZRcllBdnpfaExLbVlVdVRTckxCelQ1ZWVZSFhBd0JydEFIV29paFFwU2U1U0JNeENTdE56T1R0bV9MVkgzeEpHMWk4WkJuNlNVLWpuQTdhQlRwUDVqb1ZfODJ0LTRQNC02OTNXTF9SS3JZUXM2NTRPUW45ZWRfb19R?oc=5",
-          "domain": "guardonline.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzJ1dzFBQzlINDFKSkx3ZUwwME9weWRqNlM5bGUtOTlKNnJoREJic2QtZ1A3dWVidWRWRVljNk1lZlROOGt0ZWFWSXFWUTd5MjFuM3h2SDA1WUNrTnUwXzVYaFQzYW5VbUtkcVh6Tml3dzRWckNENmExc1F0b2l5R3A3YnV0bVBldFpQeEg5NFJaNVdUNHlMQ0w2UFZiejhsenVIeTJ4czZuTHM?oc=5",
-          "domain": "trumbulltimes.com",
-          "published_at": "2026-10-22T15:16:57+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2tWMzFpdUlNUEs1S01ualRTbTdab2p0ZjlJaHFUWTE5R244U3JVN2x6OVotTW1vQlJ0dFVjRjRGNlpSMF9iTkVkUjZodGtzQ1Etaks5TDFGaF9zTEp6TmNvbEtuczJZa0IzMkhVb0hEN0xCUzFIZHFJVThFVEQtUkllU0hxUk1MQWoxLU1fOEdlbUdtUjJ5TmVURjBwLWNMckE4dkV4OHJSeDFqZENGclA4UQ?oc=5",
-          "domain": "theridgefieldpress.com",
-          "published_at": "2026-10-22T15:17:42+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0xSRGVGckdzU1BaWEdSZjZqbXdJbVlDRHc5V2pnelo1cHFYdjNYS21qQ2EyaGJMTWEzdnBTMFRaOEVWdVg5VmJKajdkWXFla3NCdUJNclo4dWE4TUFpSVVBMmxUUEh0MlV4UHU0OGx6d2l0ZTAzSFNGempRaUVfdFFOSUFtZGhSSThwVW5EYzd0OTF1RHdPMlVoeU0zemt4dVl0YS04UF9COGQwUUE?oc=5",
-          "domain": "middletownpress.com",
-          "published_at": "2026-10-22T15:18:15+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjlZSl80eXZMTWY1djF3U2dGakRFQkRtby1McDN2VWRCSlZleEQ4ZURydHdSNWE0dDhkak5ZUFc3LTdLdnZqTHdVdXdDQnIwUWFVZ3h2amhlT1FYUnRhVG8zSWsyNkdwZzR2NmlVRi13QjlJa2tFS1NzYWY2QWxmaE9RNzBpZ1NvbEVXdkNpVE9GMGZKQVdnNEozNzlSZ1JtR3I5QTRIWlR3MVky?oc=5",
-          "domain": "wiltonbulletin.com",
-          "published_at": "2026-10-22T15:18:17+00:00"
-        },
-        {
-          "name": "Stamford Advocate",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1ZLOGFEZEJpaTlHV2s5aTd6ZjhBUHVYSmVHbXpqdktCTFRzdk1VOHBBQy1TbEJ0bERWd3VndmJYay1RRkpmWjQ2WVJyLVdhVGdGcDJkaEV1NnVWVnV1bzE5NVdJVWl2ZlRweVFXQk9KLW5naFd1a3dWVjZ5Zk0wMTQteU03ZGxvYWh5cFhuZmhwbXc5dFNDX3Q5VjdWaWNDZ1V6Wno0MUl2Z0FOVGtZOTdzZzg?oc=5",
-          "domain": "norwalkcitizenonline.com",
-          "published_at": "2026-10-22T15:28:16+00:00"
-        },
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDlzZk00TVZFdV85TDNYNS1LYTdmYzdJb2tLV2UzREo4clZ6MnZXbzR4bmhLcTNzTjlXcnRrdUxUWFVNVGxKcFV1RndSQ0ppVXB4dVFaZGl0ZG05VnpwUTBwU1B0ekFUdkdWSGJGT0kyMFNMSHdrZzJsR1czSFllSFpkRGNYbE5lS21LcGtaRktFSlBWbzJfLVZ4WEUtOXoyVkE0b2FwUV9yT3pWYjdkM3RBUE1Dd9IBuwFBVV95cUxORlNleU1WRTNVeDBxa0FvQ3phSnFHWlplTnMzSWxxci1JdUdoR3BCaTlkRi1iTEVyRGZXU1BnSzJ4RGZGbjVYb0tLa3VnbGJxUEFScUFRWW16ZXdpMVBCd1FWamxqeGl1RS1HenB1ZEpXRjlWRVE3YWR4SWo4d05hSXdkTEgybnQtTjBWNzZPOXY0SWxjcUotdkh6LXliWDFIcHBpSXhBdHoxVTUxR2swZm5ZMzBmN29HbmdV?oc=5",
-          "domain": "abcnews.com",
-          "published_at": "2026-10-22T15:50:21+00:00"
-        },
-        {
-          "name": "WPTZ",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDd0Y0xfbWd0Z05MR0ZuUExtMTdiX1JnNjVIelh2SmdYQlFic0dUeFFRT1BCSzJXQ3UxVTlIeTJhMkVna0plamU4aG1QUW1QVzk5VXlBS3ZjWlpDNnFXQ0pjWUgyT1E4dDk1REYzUnRwX01lMEU1MUVGSmlMbFBQaWFyMzBPclltYzZN?oc=5",
-          "domain": "wptz.com",
-          "published_at": "2026-10-22T16:08:41+00:00"
-        },
-        {
-          "name": "The Seattle Times",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZOMWU4bzUzdmRYQklGV01nUFplU3E5RFUybEpXZFNGZUpiYlJMYkNXcmFjRXZzbGdSSGx5UnE0UHlPVnVHM3dXLWpoRE14anA5NTVVYkxOR05YS3RGSnBac2EyTjR2d1p1SEdqTllWWW1IRVZJckVmX0RGS20zMHhwdERyMmlKX21FRkdtcTJrYjluUlNyWUE1OTh6bHctenpCcGJrNXlTSTZqakh0Tg?oc=5",
-          "domain": "seattletimes.com",
-          "published_at": "2026-10-22T17:32:20+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3pueWFDeEtqZnZXTWx1LTBJMlJSWGhrRkVpMnlVWk40b0FhaERKdkdudGxmTFp3bFUxa2lZMVdrN294YXdyRDY2S0FKcnkzU3BNZHJUSmVXVzBHcmdEYlFqRHNWV2FYYXFEOEJGV0Q0cnlCdEZKMGxBT19yQlhyb0pOTGxGbHJfazAtbnJ3cUFYQXZuT0dMbS03TGZXekp6U0twS0FxTWRBRTVp?oc=5",
-          "domain": "trumbulltimes.com",
-          "published_at": "2026-10-22T15:16:57+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFV6QlYtRlA0X040WU5jTzd4YUx5b3pIOWhabXdfb3N6YlBEdVFXZldxbVhiQmNBX3JoOGxYdFlLY3dqVTU5YnJVU19oMWlMQTdVSXhBZnhHWGdwcUY3eTdwWFY3aHlMeXlVRlUzcjBTd2daNi1QVU05bFZGNi1DWDlzc3RIdG94NXJubVV2aTFLSmJXLVItUFdHMlh6QWthWGhnZTUwc2NuaFJld01r?oc=5",
-          "domain": "middletownpress.com",
-          "published_at": "2026-10-22T15:18:14+00:00"
-        },
-        {
-          "name": "CT Insider",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlVrcU43Nk1aOHYzeDlxRk9aS2p3UjJzdnZDRkFvSGZFTlZjNHlsSzktdEhsaUFnU2tmdHJlbkRTU2duZzVmbUpqUEVva1NLeDVYaTVlVHoxbGttYzdBR0c5YWt6N2d6cG80bjBrZHpObXVJYWpLeFdRTWtwd2VhNFMyUjZQQkhPUzdmTnNOYzNOeE5rRDh2Mk9HaEdHUm93TzhzM21rdjJ1eWdYMGc?oc=5",
-          "domain": "wiltonbulletin.com",
-          "published_at": "2026-10-22T15:18:17+00:00"
-        },
-        {
-          "name": "Breitbart News",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakU0X0ROamp0MkFRZm9qY1pQUWFWQzlFa0VhR1FhQ0hNd1hwVmhMWDlsNUg0SXhZX0EtNGJ5NnEyTjg1ZTM5dzBNNWFXX2ltX2NGNFpuQ0V4R2JjZmNBNzhGa0ZnZmw1LWRzNDNuaXZzcTJUU0dPZm1IZkw0ZHVIQXhmbWFOSGU4QjE3TkxWZlNaSEJpTmlHZVRDZEpTclY2QW9pOUQ0TzRiQVFL0gGsAUFVX3lxTFBqRTRfRE5qanQyQVFmb2pjWlBRYVZDOUVrRWFHUWFDSE13WHBWaExYOWw1SDRJeFlfQS00Ynk2cTJOODVlMzl3ME01YVdfaW1fY0Y0Wm5DRXhHYmNmY0E3OEZrRmdmbDUtZHM0M25pdnNxMlRTR09mbUhmTDRkdUhBeGZtYU5IZThCMTdOTFZmU1pIQmlOaUdlVENkSlNyVjZBb2k5RDRPNGJBUUs?oc=5",
-          "domain": "breitbart.com",
-          "published_at": "2026-10-22T16:09:03+00:00"
-        },
-        {
-          "name": "WTOK",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHFtbzVuN0o1b1JTSDFMNFpzTFdkRThmZlYwY3VLNThmMVVSM1FBcFNpMHFFRU9SdlVrX19XdzNCSFVjbEh1V3NvZGdTR1lTc0dwbjBFVUpGVEdBTzZTQ1Z1SGxGYnBsUEt1ZnhqcVpsUkQ5Uy00R0wtYm9EeXlmN1BicmlRcjNzOVBKWEN0eHk0VzVqa3p4RHpLTDdqSDNmOHBON3BJQWM?oc=5",
-          "domain": "wtok.com",
-          "published_at": "2026-10-22T17:04:00+00:00"
-        },
-        {
-          "name": "SSBCrack",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDA5VF9hMTlVc2VvZU8wWXVHMG5yMi1fS0JkXzFOd0JGX3hKNjQ3NkdjYXFBSDhWZVJwaUJiLWRHN0lieTJTMENnZnRNOHpzX2pQQm02MlZNNDJPMllHTUlQQWlxTGNOYm1WdkpJSWl2UVprSzZwcVhLbG0wY3E1LVVQOHJBUlJ4RWRSaURrcTk4T1ZheFk4Q2VR?oc=5",
-          "domain": "news.ssbcrack.com",
-          "published_at": "2026-10-22T18:03:15+00:00"
-        },
-        {
-          "name": "Livingston Enterprise",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT094T24wMF9mRXVRMHlhZTBNN0h5RWlJelpTUUZGekRnNS1xNExSRTg1ZXJPWmwwWGNlRVBXSGdKVElINDdQWk4zU3ZXaXdhSnlnUFhNbF96UjZKOFJsTFZ3N0VMN25ncVc4ZEstUENmQ2E4UDFtbVBSMnJ1VjdjNVlVd1kzOExXX29lSDc3V3V3cjQ1Yl83MV9mV21ZT2lETlRDU1lGcEdXTDd3YmZKOW4tRkxfTERFNk5HTS1FN1U?oc=5",
-          "domain": "livingstonenterprise.net",
-          "published_at": "2026-10-22T20:45:12+00:00"
-        },
-        {
-          "name": "Cherokee Tribune",
-          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd3JNa0d2amczZXkzbTFaU25vTW1UOXY5a21sZ3BSZTM0Y25YMGtwWWFfWjhpUjhxWllKNUQ2SHJLUHc0Sl9oczRTSVcyd25tLXVhcXFWSXAzWWExcHl5N1Yyd0xqSTd1MUhGVktobjZ3b1UzazIzWEFqQ1R0M2dydHpXZVN0YzdLeS1rU1BKOGpIaFU3RkFieTJLQ2hDYlpJcDJOZnkxbUYzT0w0Z0ZpSWczSDFId3g5c19Ib3B6OFBLZVM3YUsxQk9OdkZfTE1xeER6LUlKR2dUaUtZaFNlMWV3N1V4eDVadUtwMmRDUmVsUFNYbDhTcVZfV1FHT2dadFY4MlJUX2laWWxzUDJ0d3EwRlA?oc=5",
-          "domain": "tribuneledgernews.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "Weatherford Democrat",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRThKNEdubTIzeXpBOG00WERNa1JnU3N4YXAtOFFISGh2YXRydTQwaUlKSjBZcm9ObG5PQ2M2aWxPSEEyeGZnWmRpSTFRRGM1SjQ0bno1ZkZzM0UxWGd5aFE0QnZQaHpqV0k2a3NoTTA3eEY0Wms0d2E1OVViWGpOUHpDajl6cXc4cVNyQlhKdXJ3bUZhTS1TcTMyMG9VcjBNRUUwbG5GYU02SjdTdjdaUW80ZEZtd044N2x2X0ZRdGpRZFZ5aGFpZmlvWkJ6TUlPZENqWll6Q3RUaHRCSHlLUUlKdzRzT051Yms1WUxXQzI4MURER2FTRks4MkltRkZr?oc=5",
-          "domain": "weatherforddemocrat.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "Tahlequah Daily Press",
-          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSWhDNGtWNzVROC16cnc0ZENsUU5YOGFXeWxyVTF5TUI1T1N2ZW96S0JyX2ZlMDVUYk9pU0NaNmZvSTlwMzItaldpZmlHMUR2Y25DMkVfRHVJS3A5SGxPWFpRZnl4VmltaWNrVGtmM2t6eHBlSE1Zd0JBYTBfVVJvcldlUDdLbTFXTTZPaG5uSEt4c1pNcU5PdXZJOFVnSFNjbGdQdWs5b3Z3NzZwZ2NGQmVGOWwtbENmTEludjNkQnd3VXB4NjQ4OWtzeHBSVHdndXF6MERSdFNqNEg1WXVOTWZKc1dMUVFQSXkxMnA4dWJvcTFqcTVDUTBGcmhKZw?oc=5",
-          "domain": "tahlequahdailypress.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "Journal-Advocate",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZC1pN1l4UHJjX2xHa1E1cEhSbVlNeDFQZW9BSDY4c0EzS09feEJTdUpRbzBWbzUxaUNzdlplb0d6eExFUHhEWFp2dzU0Y1BxSE5JMDFQRDZadmxHRHpLSUtXQWJzS2tGa1Y1TW13dFQ?oc=5",
-          "domain": "journal-advocate.com",
-          "published_at": "2026-10-22T23:59:17+00:00"
-        },
-        {
-          "name": "Press Telegram",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWnN1ZUhoSW95S1lwQTF0Zm03VzF2dFJDcUVNb0ZseU9NLV9MWk5CaDFubWJYbV8wVkV2WVdDM1FiM1NQQ2VJdFJYTk5IQVBma1E1Zk9lbTlxdzJvNVFMSVBucS11V0hXNXpXbw?oc=5",
-          "domain": "presstelegram.com",
-          "published_at": "2026-10-22T23:59:18+00:00"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWZDT0Nkbl81M3Vxdm5DbDBHVHRvSXFSU24xYlhrUWNlcndaY0VCdXFBOFRCV2JaaUM2dk90YjhieXYtTEtEZWdkRFdTY2tpaF94T0hIOERQSms3bC1aZFFKZHpxN1JuOUdLSU52dVNEUHBwa1htSmJxUTJHQzV4ZlVqNWhzTS1PSVFFTkxMVUVjM1N1TjhaNzJFUlliMG15Vi0zZThkVUpUU0R4UktHSE81c0Y1MXdzcGhxdk5abWRrQQ?oc=5",
-          "domain": "nbcnews.com",
-          "published_at": "2026-10-23T02:10:00+00:00"
-        },
-        {
-          "name": "NewsBreak: Local News & Alerts",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjI3NjdtVFphU1RoTzJ4TTJuMzJ5clNGLVVyUVBfTk92c3Fla01OUXNJNVJPM1lNSHRLMmNWRUktR3Fyb0xXLTZJRjVPMnU1ZGdfMFAtRUVlZmE3SnJ5SEZqUUxEQ3JpWUJPalNBY0VDQUM1TF9VYTFaTWNlQkdsa19qN3FrUWI4dTlVeUVyS2xkMndIMXp2YTA3QW9jVXBFbmRjWmYzU2xCQXZQRTcwNnNSalo5X3hzSm5tdno2T1cycjdkOW1v?oc=5",
-          "domain": "newsbreak.com",
-          "published_at": "2026-10-23T02:23:27+00:00"
-        },
-        {
-          "name": "McAlester News-Capital",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdDNkY0NLeVAxZXF3Z19TY2VHODQtVDFzck56VENZX2JoZjZwTElZX3ZmWkpKNThMaDdsb3FXS2UwUG84WTAwVTNGdTdmYnkwc1c5TXlvWTg5WWNaR1ZzWXFTZ0ZSWEViNjRCQXlhbjU5V0VGeVN2X0RzZGcxLXRld2ZRZ01CNHlLYjFnVEV6VlF3Z3I2aG9jR0VURVh1YUxDeGlxNnpETGYxQ2RRWkY3ckpiN3A3TDdoSnI4NGYtSnM3bXVnQWp5cW1HQktfV3FObjk5ZkhBZmpmYWwzajhxTFRxc1BiaEpRbUJpd1RKVGo?oc=5",
-          "domain": "mcalesternews.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnR3eGhYZ1pjclJsRXQ2VjVuUVlRQXgzS0taaW45WnF2Y0ZMWHd2RFBqVWF4ZVpnWjlyTVJfSE11TUpPOWw4M1ptbVJTM3RkSTJSakRyLWN4ZGpyM0EtdEhWMmpLbkNXRUVPYzd0Wml4bkI0WjUyT3FXVVFUa2VJa1hjSHN5YTlsdnZ0M3pNREdPZ3ZwaUE5ZlFMOUloOVk?oc=5",
-          "domain": "inkl.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "FOX5 Vegas",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXNMLTA2NnU2SnVOS09jR3l4UTNSMjcyT1V5V2xjS0tkVG1BTHN4RlpmNTFzNW5oQVRFcjBnXzFuNWR1UG4zLXBkLTczY1VDUmpieEczVUVvb0lEd1cxUHFCcDFtYlpKZm5ZMGVoWC1VVWhCOTVwcWN4enc0NGc5cTY2RnJ6R1pUWl81SWhyQ1RZVV9jZ0E5ejJKXzhGZmxaVFlqTUw3ZmNZZEp3Z1hGb3VWa01zeU0?oc=5",
-          "domain": "fox5vegas.com",
-          "published_at": "2026-10-23T01:00:50+00:00"
-        },
-        {
-          "name": "Star Beacon",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHRqODdSQ0V1WWQxUVRBUTU3Z2RkSDVqUG4tT1Jxa1FMVFFmTUtISzVRSDA3dUxPQm5aQmc4d1Y0M3g5b1IzeURabGRjQ3pWb1F0aXlDR25Xa3pzOGdtdXF1QWtpU0xuU1RfbHhKOW8tcDhkWG84RnhRLVBEOVRDVUxiVjNRZDFjLS1waVpGeEdhbDI0R01fSmxBUTktTm5WYUROeFp6V0lqSlg0R0pkVi1sdDBRVUxBbnpCR01rdGl2SlZDSmtfSldxT3RPWHJaeEhIRjFnZWhzQlI1enlfdk1DZ2dPc2ZrWDliYg?oc=5",
-          "domain": "starbeacon.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "thereporteronline",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPSWRjM1FGeXJyZC03VEJWRUNSa2xBamNVbFJSdFB1U1puRk52bEF1VEZIS2x2WWtFNTdhM2d1VlNwSXpaMnpLQ04xM2lJMHVYX0hJV2dneGNEMFdMYnhmVXRMMjdCc1M0OHZxTlVuZFEyZw?oc=5",
-          "domain": "thereporteronline.com",
-          "published_at": "2026-10-22T23:59:29+00:00"
-        },
-        {
-          "name": "SecurityWeek",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbdIBqgFBVV95cUxOZHZtdWN2eWhLUVIxM080ZFh6V2hId1FDSVpHYVRuUFJFS2ZYNzFnOVFlTnA3aUtHM2IxdXNGMEpOWGotODNZd0cwdUtDSDhlb3hkQUkyb2FfZ2xGcDZ3b05FUjZHNVFZOUJmSk9qaVJlT3ZCZmVXdUZuYTEwNFpQVUdPTkNpQ3REZXcwUDlTdkFfY3A5Vm5zSnI4LWhpaGgxS0lSTS1yei03UQ?oc=5",
-          "domain": "securityweek.com",
-          "published_at": "2026-10-23T08:25:06+00:00"
-        },
-        {
-          "name": "The Killeen Daily Herald",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVE0UDBqQUZPaEZITUtWMy00LVh2YWpXRHNSWjdGeHpzZVMzME94aVR6S3c3UEdkRmxZZGFhS1lFUXFiVi1pdHljLVRWSGpfQVdGV3F2ektTRzYxRUkxRDJjUnp4djJES1hqVnBDcFgtR0R3aVhLRkg4eEV3Sk5LbnZOODliX1RUNVpoMEN6aDlBN1lxOTNORVc2UGFfTGtVdk4tb1o4a3ZhY1d0eS1OdFc5UDBwTkppYmZ0WVMzaWN3Q2owcUxUa01rdWZ4N3RzZjEwVkFwdGRIOEZGNnh0OTQ4ZE9ZSGowSmc?oc=5",
-          "domain": "kdhnews.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "KTTC",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzhjd05zamZpZjllUzhYeEdKWTExSXEyWnB2YWR1WkZCQlQ5WjExeUZPZnE4QmZpX2tfbjloS2Q1YlZhQkE3NW5ZQjlqM0NxakFZb2JtLVVmU1huQVUtV3JPcXFYVG5ubERCREdDWDdVZFlzeXgtQmR1czVZRkxiOGxjX2lDUTJULWl4ZVRUTXdSeXpyQ3N0ZlprbEhCNlpvYnZiVUQ0V2k?oc=5",
-          "domain": "kttc.com",
-          "published_at": "2026-10-22T17:04:00+00:00"
-        },
-        {
-          "name": "WTAP",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmQ4VUNCU3dhaktZLXJfTkZlY0prclEwUFRCOVJja1o4VVVzV0Y3cl9XNW4wZFU5R2l1eE9Ca1FxaXYwOThLZlhnVnZvblZOT2xpMzRpakx6Z3FXTmk2R1ZkWDE3cUhpWnEwbkM2bXJSU3Y0LVdQZXdnckJjZHF4MlJ1MHZNSzdfNDV3UTdrY1dtTGJFcDlUZENEcS1jMnBQcnpKOElZaUw?oc=5",
-          "domain": "wtap.com",
-          "published_at": "2026-10-22T17:04:00+00:00"
-        },
-        {
-          "name": "NBC News",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVVyNWxpV0g0aHFNODJnRm51OVV0ZG1VUVpHdFpzc3NHVHZNLW1BRTdTX0xVSzAxNW82SzlMTlVZc2FoSGljbVVjUW9fVjVnY3FkVENCM0VXT3l3bnVPdy1PSWRiNGcxM3E4ZktLWHI0eG42QUNlMENQclhERnUzbUFlRGZNcjB2Y3hFMU81bjFwZkZsRzJDV2h0QmE5ekJjSnJhMFM0NFJpR01tUkJ0NFdnRE1YZw?oc=5",
-          "domain": "nbcnews.com",
-          "published_at": "2026-10-24T02:01:01+00:00"
-        },
-        {
-          "name": "Modern Ghana",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UVTFqSTF4Wm1BMUIwaVRHbXhJdHpnSFNYeTNYSUE2bUthdW9OX1Bkc2h6Q0h6NjZfQUdXOXF4Q0FxVGZKa0NGd2xSMk1wZktaZTJCcjlJZEhVQzgtb3dj0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5",
-          "domain": "modernghana.com",
-          "published_at": "2026-10-24T02:36:01+00:00"
-        },
-        {
-          "name": "104.5 WOKV",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE5fdU9VdzNiMUpvdkdKcjlqYWtSUnJGWHVlZlpmRnR6UUdtS2lTVWYwVW5YUmVRNm5XZlpKSDAxZXR5TWFPMkI3c2xnX2dMOTdGeUotN2MwNGxDWmx3S0JzUjc0bWJmSzcyRHhZTDFWUVdiRENURjFRSnFreFBFUjdnV0pmZFHSAZsBQVVfeXFMTUkyUWRCQXdJMGFKN1JkOUF5aU9laV9DNDk5Tnp1UmotNDlMMnB4aXVjMDlEYi1rYlMzWV9hQlptNEJQRzFHM0Exd0Nnb2pJVjNZU3htVkdJalJUdFBKTGNLSUc0ZUNVSHZnX01FMGdYRV83ZlkwNng1NFF2V2pna3B6YllyWXlEem4xUm93cmxKamlrOVZDeXBVb0E?oc=5",
-          "domain": "wokv.com",
-          "published_at": "2026-10-22T15:09:57+00:00"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd29wVjhhQTRkcTB6cFQxX05SNnQ1Nm1lcGs5TU1YQ3VENVdFVFFxYWFiamJKREZrY05LMHFSblUxOG94Zm5Bek8tcm9pUGtKZDRfcVAxU2EtLU4xcVBUUVd4ZTB6QVowTU0zdHU4U2xPOEpzU2twNE53cXljTmpuODRtOExzdm40V1N0ZEFBdVg?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-10-22T21:24:32+00:00"
-        }
-      ],
-      "coverage_count": 38,
-      "event_signature": "affecting breach certain cyber patient records"
-    },
-    {
       "id": "6bc1ef57e7a0a142c48c",
       "company": "Labcorp",
       "title": "Labcorp to buy Myriad’s prenatal health testing unit for $210M",
@@ -2747,6 +2507,264 @@
       ],
       "coverage_count": 4,
       "event_signature": "2026 eps financial full guidance quarter raises results revenue third year"
+    },
+    {
+      "id": "5e37479f862b4871f0dc",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics reports cyber breach affecting 'certain patient records'",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnNUcmlKR29DZFJxeHR6cWpQNlgwdnVzRTBlQWtYWmlqbjEwMmg1bExWNndRUnBPQXExUnkzMDB1cF9sZEhxOXJ6WDhienB3aXRXVWh1ZXRaTjB5R3d0MzNiLW5OczViRHRsUHF1SnkxMmVFSTlLRzZkV2R1SDNoRnJ5THRieGlqQy1Kb1BkeFd3Z0xuekQ0eHpPTWJvLVVEc0JMS2Z3TmpkZkx2Vno1WHo1SVFFdFd1?oc=5",
+      "description": "Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos",
+      "source": "WPLG Local 10",
+      "source_url": "https://www.local10.com",
+      "source_domain": "local10.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WPLG Local 10",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnNUcmlKR29DZFJxeHR6cWpQNlgwdnVzRTBlQWtYWmlqbjEwMmg1bExWNndRUnBPQXExUnkzMDB1cF9sZEhxOXJ6WDhienB3aXRXVWh1ZXRaTjB5R3d0MzNiLW5OczViRHRsUHF1SnkxMmVFSTlLRzZkV2R1SDNoRnJ5THRieGlqQy1Kb1BkeFd3Z0xuekQ0eHpPTWJvLVVEc0JMS2Z3TmpkZkx2Vno1WHo1SVFFdFd1?oc=5",
+          "domain": "local10.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "WFMZ.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5",
+          "domain": "wfmz.com",
+          "published_at": "2026-10-22T14:31:33+00:00"
+        },
+        {
+          "name": "Richmond Register",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSlhYX3hLeE5DUmVobGFpYnBRYW9sck9JR3NuR3o4d1JOcUtDcVc4Z2hHU2x0UFNCbU53Sk90MS1hVGVZUnltdEJmY1A3MGdEdzJxQlJXN0Y2SnplT3ZlSVpZdF9Vb2ZodzlVUVQ5LU9heUVmakk4NHEwM05HLVZnZk10VHdULThQaHUyR015TnJxVW9KTWdfVXNfTGpka05STGFEYlRyOVhFdHp3UnpUWmdmOU5XY3A0S0dWSVVRWkVMd3JDTGJJRVlxcmNFcm9rSUM2TUpEZkhzOTlscmZMS0NOMS0zd0R0UXFvV3U3VnpWTDlQbXpVTkZiNA?oc=5",
+          "domain": "richmondregister.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "The Batesville Daily Guard",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYndxQl9LU0JjVHhIMU5zRmM5VS1lTThabUR1a3JIVTNVeVppOWZWSWF2RVh1SHNKQVRNT1E4WTJDZDFJbzAxbldnWktYY3MyeG4tX2RCUUI5MTJTU2JlaXI4NUlPZ3ZZZ21aWU5EeHZhNmNmLUhFbnhtVzVsTEZRcllBdnpfaExLbVlVdVRTckxCelQ1ZWVZSFhBd0JydEFIV29paFFwU2U1U0JNeENTdE56T1R0bV9MVkgzeEpHMWk4WkJuNlNVLWpuQTdhQlRwUDVqb1ZfODJ0LTRQNC02OTNXTF9SS3JZUXM2NTRPUW45ZWRfb19R?oc=5",
+          "domain": "guardonline.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRzJ1dzFBQzlINDFKSkx3ZUwwME9weWRqNlM5bGUtOTlKNnJoREJic2QtZ1A3dWVidWRWRVljNk1lZlROOGt0ZWFWSXFWUTd5MjFuM3h2SDA1WUNrTnUwXzVYaFQzYW5VbUtkcVh6Tml3dzRWckNENmExc1F0b2l5R3A3YnV0bVBldFpQeEg5NFJaNVdUNHlMQ0w2UFZiejhsenVIeTJ4czZuTHM?oc=5",
+          "domain": "trumbulltimes.com",
+          "published_at": "2026-10-22T15:16:57+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOa2tWMzFpdUlNUEs1S01ualRTbTdab2p0ZjlJaHFUWTE5R244U3JVN2x6OVotTW1vQlJ0dFVjRjRGNlpSMF9iTkVkUjZodGtzQ1Etaks5TDFGaF9zTEp6TmNvbEtuczJZa0IzMkhVb0hEN0xCUzFIZHFJVThFVEQtUkllU0hxUk1MQWoxLU1fOEdlbUdtUjJ5TmVURjBwLWNMckE4dkV4OHJSeDFqZENGclA4UQ?oc=5",
+          "domain": "theridgefieldpress.com",
+          "published_at": "2026-10-22T15:17:42+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0xSRGVGckdzU1BaWEdSZjZqbXdJbVlDRHc5V2pnelo1cHFYdjNYS21qQ2EyaGJMTWEzdnBTMFRaOEVWdVg5VmJKajdkWXFla3NCdUJNclo4dWE4TUFpSVVBMmxUUEh0MlV4UHU0OGx6d2l0ZTAzSFNGempRaUVfdFFOSUFtZGhSSThwVW5EYzd0OTF1RHdPMlVoeU0zemt4dVl0YS04UF9COGQwUUE?oc=5",
+          "domain": "middletownpress.com",
+          "published_at": "2026-10-22T15:18:15+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjlZSl80eXZMTWY1djF3U2dGakRFQkRtby1McDN2VWRCSlZleEQ4ZURydHdSNWE0dDhkak5ZUFc3LTdLdnZqTHdVdXdDQnIwUWFVZ3h2amhlT1FYUnRhVG8zSWsyNkdwZzR2NmlVRi13QjlJa2tFS1NzYWY2QWxmaE9RNzBpZ1NvbEVXdkNpVE9GMGZKQVdnNEozNzlSZ1JtR3I5QTRIWlR3MVky?oc=5",
+          "domain": "wiltonbulletin.com",
+          "published_at": "2026-10-22T15:18:17+00:00"
+        },
+        {
+          "name": "Stamford Advocate",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY1ZLOGFEZEJpaTlHV2s5aTd6ZjhBUHVYSmVHbXpqdktCTFRzdk1VOHBBQy1TbEJ0bERWd3VndmJYay1RRkpmWjQ2WVJyLVdhVGdGcDJkaEV1NnVWVnV1bzE5NVdJVWl2ZlRweVFXQk9KLW5naFd1a3dWVjZ5Zk0wMTQteU03ZGxvYWh5cFhuZmhwbXc5dFNDX3Q5VjdWaWNDZ1V6Wno0MUl2Z0FOVGtZOTdzZzg?oc=5",
+          "domain": "norwalkcitizenonline.com",
+          "published_at": "2026-10-22T15:28:16+00:00"
+        },
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDlzZk00TVZFdV85TDNYNS1LYTdmYzdJb2tLV2UzREo4clZ6MnZXbzR4bmhLcTNzTjlXcnRrdUxUWFVNVGxKcFV1RndSQ0ppVXB4dVFaZGl0ZG05VnpwUTBwU1B0ekFUdkdWSGJGT0kyMFNMSHdrZzJsR1czSFllSFpkRGNYbE5lS21LcGtaRktFSlBWbzJfLVZ4WEUtOXoyVkE0b2FwUV9yT3pWYjdkM3RBUE1Dd9IBuwFBVV95cUxORlNleU1WRTNVeDBxa0FvQ3phSnFHWlplTnMzSWxxci1JdUdoR3BCaTlkRi1iTEVyRGZXU1BnSzJ4RGZGbjVYb0tLa3VnbGJxUEFScUFRWW16ZXdpMVBCd1FWamxqeGl1RS1HenB1ZEpXRjlWRVE3YWR4SWo4d05hSXdkTEgybnQtTjBWNzZPOXY0SWxjcUotdkh6LXliWDFIcHBpSXhBdHoxVTUxR2swZm5ZMzBmN29HbmdV?oc=5",
+          "domain": "abcnews.com",
+          "published_at": "2026-10-22T15:50:21+00:00"
+        },
+        {
+          "name": "WPTZ",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZDd0Y0xfbWd0Z05MR0ZuUExtMTdiX1JnNjVIelh2SmdYQlFic0dUeFFRT1BCSzJXQ3UxVTlIeTJhMkVna0plamU4aG1QUW1QVzk5VXlBS3ZjWlpDNnFXQ0pjWUgyT1E4dDk1REYzUnRwX01lMEU1MUVGSmlMbFBQaWFyMzBPclltYzZN?oc=5",
+          "domain": "wptz.com",
+          "published_at": "2026-10-22T16:08:41+00:00"
+        },
+        {
+          "name": "The Seattle Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSkZOMWU4bzUzdmRYQklGV01nUFplU3E5RFUybEpXZFNGZUpiYlJMYkNXcmFjRXZzbGdSSGx5UnE0UHlPVnVHM3dXLWpoRE14anA5NTVVYkxOR05YS3RGSnBac2EyTjR2d1p1SEdqTllWWW1IRVZJckVmX0RGS20zMHhwdERyMmlKX21FRkdtcTJrYjluUlNyWUE1OTh6bHctenpCcGJrNXlTSTZqakh0Tg?oc=5",
+          "domain": "seattletimes.com",
+          "published_at": "2026-10-22T17:32:20+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU3pueWFDeEtqZnZXTWx1LTBJMlJSWGhrRkVpMnlVWk40b0FhaERKdkdudGxmTFp3bFUxa2lZMVdrN294YXdyRDY2S0FKcnkzU3BNZHJUSmVXVzBHcmdEYlFqRHNWV2FYYXFEOEJGV0Q0cnlCdEZKMGxBT19yQlhyb0pOTGxGbHJfazAtbnJ3cUFYQXZuT0dMbS03TGZXekp6U0twS0FxTWRBRTVp?oc=5",
+          "domain": "trumbulltimes.com",
+          "published_at": "2026-10-22T15:16:57+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaFV6QlYtRlA0X040WU5jTzd4YUx5b3pIOWhabXdfb3N6YlBEdVFXZldxbVhiQmNBX3JoOGxYdFlLY3dqVTU5YnJVU19oMWlMQTdVSXhBZnhHWGdwcUY3eTdwWFY3aHlMeXlVRlUzcjBTd2daNi1QVU05bFZGNi1DWDlzc3RIdG94NXJubVV2aTFLSmJXLVItUFdHMlh6QWthWGhnZTUwc2NuaFJld01r?oc=5",
+          "domain": "middletownpress.com",
+          "published_at": "2026-10-22T15:18:14+00:00"
+        },
+        {
+          "name": "CT Insider",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlVrcU43Nk1aOHYzeDlxRk9aS2p3UjJzdnZDRkFvSGZFTlZjNHlsSzktdEhsaUFnU2tmdHJlbkRTU2duZzVmbUpqUEVva1NLeDVYaTVlVHoxbGttYzdBR0c5YWt6N2d6cG80bjBrZHpObXVJYWpLeFdRTWtwd2VhNFMyUjZQQkhPUzdmTnNOYzNOeE5rRDh2Mk9HaEdHUm93TzhzM21rdjJ1eWdYMGc?oc=5",
+          "domain": "wiltonbulletin.com",
+          "published_at": "2026-10-22T15:18:17+00:00"
+        },
+        {
+          "name": "Breitbart News",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQakU0X0ROamp0MkFRZm9qY1pQUWFWQzlFa0VhR1FhQ0hNd1hwVmhMWDlsNUg0SXhZX0EtNGJ5NnEyTjg1ZTM5dzBNNWFXX2ltX2NGNFpuQ0V4R2JjZmNBNzhGa0ZnZmw1LWRzNDNuaXZzcTJUU0dPZm1IZkw0ZHVIQXhmbWFOSGU4QjE3TkxWZlNaSEJpTmlHZVRDZEpTclY2QW9pOUQ0TzRiQVFL0gGsAUFVX3lxTFBqRTRfRE5qanQyQVFmb2pjWlBRYVZDOUVrRWFHUWFDSE13WHBWaExYOWw1SDRJeFlfQS00Ynk2cTJOODVlMzl3ME01YVdfaW1fY0Y0Wm5DRXhHYmNmY0E3OEZrRmdmbDUtZHM0M25pdnNxMlRTR09mbUhmTDRkdUhBeGZtYU5IZThCMTdOTFZmU1pIQmlOaUdlVENkSlNyVjZBb2k5RDRPNGJBUUs?oc=5",
+          "domain": "breitbart.com",
+          "published_at": "2026-10-22T16:09:03+00:00"
+        },
+        {
+          "name": "WTOK",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHFtbzVuN0o1b1JTSDFMNFpzTFdkRThmZlYwY3VLNThmMVVSM1FBcFNpMHFFRU9SdlVrX19XdzNCSFVjbEh1V3NvZGdTR1lTc0dwbjBFVUpGVEdBTzZTQ1Z1SGxGYnBsUEt1ZnhqcVpsUkQ5Uy00R0wtYm9EeXlmN1BicmlRcjNzOVBKWEN0eHk0VzVqa3p4RHpLTDdqSDNmOHBON3BJQWM?oc=5",
+          "domain": "wtok.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "SSBCrack",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaDA5VF9hMTlVc2VvZU8wWXVHMG5yMi1fS0JkXzFOd0JGX3hKNjQ3NkdjYXFBSDhWZVJwaUJiLWRHN0lieTJTMENnZnRNOHpzX2pQQm02MlZNNDJPMllHTUlQQWlxTGNOYm1WdkpJSWl2UVprSzZwcVhLbG0wY3E1LVVQOHJBUlJ4RWRSaURrcTk4T1ZheFk4Q2VR?oc=5",
+          "domain": "news.ssbcrack.com",
+          "published_at": "2026-10-22T18:03:15+00:00"
+        },
+        {
+          "name": "Livingston Enterprise",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT094T24wMF9mRXVRMHlhZTBNN0h5RWlJelpTUUZGekRnNS1xNExSRTg1ZXJPWmwwWGNlRVBXSGdKVElINDdQWk4zU3ZXaXdhSnlnUFhNbF96UjZKOFJsTFZ3N0VMN25ncVc4ZEstUENmQ2E4UDFtbVBSMnJ1VjdjNVlVd1kzOExXX29lSDc3V3V3cjQ1Yl83MV9mV21ZT2lETlRDU1lGcEdXTDd3YmZKOW4tRkxfTERFNk5HTS1FN1U?oc=5",
+          "domain": "livingstonenterprise.net",
+          "published_at": "2026-10-22T20:45:12+00:00"
+        },
+        {
+          "name": "Cherokee Tribune",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPd3JNa0d2amczZXkzbTFaU25vTW1UOXY5a21sZ3BSZTM0Y25YMGtwWWFfWjhpUjhxWllKNUQ2SHJLUHc0Sl9oczRTSVcyd25tLXVhcXFWSXAzWWExcHl5N1Yyd0xqSTd1MUhGVktobjZ3b1UzazIzWEFqQ1R0M2dydHpXZVN0YzdLeS1rU1BKOGpIaFU3RkFieTJLQ2hDYlpJcDJOZnkxbUYzT0w0Z0ZpSWczSDFId3g5c19Ib3B6OFBLZVM3YUsxQk9OdkZfTE1xeER6LUlKR2dUaUtZaFNlMWV3N1V4eDVadUtwMmRDUmVsUFNYbDhTcVZfV1FHT2dadFY4MlJUX2laWWxzUDJ0d3EwRlA?oc=5",
+          "domain": "tribuneledgernews.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "Weatherford Democrat",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPRThKNEdubTIzeXpBOG00WERNa1JnU3N4YXAtOFFISGh2YXRydTQwaUlKSjBZcm9ObG5PQ2M2aWxPSEEyeGZnWmRpSTFRRGM1SjQ0bno1ZkZzM0UxWGd5aFE0QnZQaHpqV0k2a3NoTTA3eEY0Wms0d2E1OVViWGpOUHpDajl6cXc4cVNyQlhKdXJ3bUZhTS1TcTMyMG9VcjBNRUUwbG5GYU02SjdTdjdaUW80ZEZtd044N2x2X0ZRdGpRZFZ5aGFpZmlvWkJ6TUlPZENqWll6Q3RUaHRCSHlLUUlKdzRzT051Yms1WUxXQzI4MURER2FTRks4MkltRkZr?oc=5",
+          "domain": "weatherforddemocrat.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "Tahlequah Daily Press",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSWhDNGtWNzVROC16cnc0ZENsUU5YOGFXeWxyVTF5TUI1T1N2ZW96S0JyX2ZlMDVUYk9pU0NaNmZvSTlwMzItaldpZmlHMUR2Y25DMkVfRHVJS3A5SGxPWFpRZnl4VmltaWNrVGtmM2t6eHBlSE1Zd0JBYTBfVVJvcldlUDdLbTFXTTZPaG5uSEt4c1pNcU5PdXZJOFVnSFNjbGdQdWs5b3Z3NzZwZ2NGQmVGOWwtbENmTEludjNkQnd3VXB4NjQ4OWtzeHBSVHdndXF6MERSdFNqNEg1WXVOTWZKc1dMUVFQSXkxMnA4dWJvcTFqcTVDUTBGcmhKZw?oc=5",
+          "domain": "tahlequahdailypress.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "Journal-Advocate",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KZC1pN1l4UHJjX2xHa1E1cEhSbVlNeDFQZW9BSDY4c0EzS09feEJTdUpRbzBWbzUxaUNzdlplb0d6eExFUHhEWFp2dzU0Y1BxSE5JMDFQRDZadmxHRHpLSUtXQWJzS2tGa1Y1TW13dFQ?oc=5",
+          "domain": "journal-advocate.com",
+          "published_at": "2026-10-22T23:59:17+00:00"
+        },
+        {
+          "name": "Press Telegram",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pWnN1ZUhoSW95S1lwQTF0Zm03VzF2dFJDcUVNb0ZseU9NLV9MWk5CaDFubWJYbV8wVkV2WVdDM1FiM1NQQ2VJdFJYTk5IQVBma1E1Zk9lbTlxdzJvNVFMSVBucS11V0hXNXpXbw?oc=5",
+          "domain": "presstelegram.com",
+          "published_at": "2026-10-22T23:59:18+00:00"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWZDT0Nkbl81M3Vxdm5DbDBHVHRvSXFSU24xYlhrUWNlcndaY0VCdXFBOFRCV2JaaUM2dk90YjhieXYtTEtEZWdkRFdTY2tpaF94T0hIOERQSms3bC1aZFFKZHpxN1JuOUdLSU52dVNEUHBwa1htSmJxUTJHQzV4ZlVqNWhzTS1PSVFFTkxMVUVjM1N1TjhaNzJFUlliMG15Vi0zZThkVUpUU0R4UktHSE81c0Y1MXdzcGhxdk5abWRrQQ?oc=5",
+          "domain": "nbcnews.com",
+          "published_at": "2026-10-23T02:10:00+00:00"
+        },
+        {
+          "name": "NewsBreak: Local News & Alerts",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMjI3NjdtVFphU1RoTzJ4TTJuMzJ5clNGLVVyUVBfTk92c3Fla01OUXNJNVJPM1lNSHRLMmNWRUktR3Fyb0xXLTZJRjVPMnU1ZGdfMFAtRUVlZmE3SnJ5SEZqUUxEQ3JpWUJPalNBY0VDQUM1TF9VYTFaTWNlQkdsa19qN3FrUWI4dTlVeUVyS2xkMndIMXp2YTA3QW9jVXBFbmRjWmYzU2xCQXZQRTcwNnNSalo5X3hzSm5tdno2T1cycjdkOW1v?oc=5",
+          "domain": "newsbreak.com",
+          "published_at": "2026-10-23T02:23:27+00:00"
+        },
+        {
+          "name": "McAlester News-Capital",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdDNkY0NLeVAxZXF3Z19TY2VHODQtVDFzck56VENZX2JoZjZwTElZX3ZmWkpKNThMaDdsb3FXS2UwUG84WTAwVTNGdTdmYnkwc1c5TXlvWTg5WWNaR1ZzWXFTZ0ZSWEViNjRCQXlhbjU5V0VGeVN2X0RzZGcxLXRld2ZRZ01CNHlLYjFnVEV6VlF3Z3I2aG9jR0VURVh1YUxDeGlxNnpETGYxQ2RRWkY3ckpiN3A3TDdoSnI4NGYtSnM3bXVnQWp5cW1HQktfV3FObjk5ZkhBZmpmYWwzajhxTFRxc1BiaEpRbUJpd1RKVGo?oc=5",
+          "domain": "mcalesternews.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNnR3eGhYZ1pjclJsRXQ2VjVuUVlRQXgzS0taaW45WnF2Y0ZMWHd2RFBqVWF4ZVpnWjlyTVJfSE11TUpPOWw4M1ptbVJTM3RkSTJSakRyLWN4ZGpyM0EtdEhWMmpLbkNXRUVPYzd0Wml4bkI0WjUyT3FXVVFUa2VJa1hjSHN5YTlsdnZ0M3pNREdPZ3ZwaUE5ZlFMOUloOVk?oc=5",
+          "domain": "inkl.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "FOX5 Vegas",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXNMLTA2NnU2SnVOS09jR3l4UTNSMjcyT1V5V2xjS0tkVG1BTHN4RlpmNTFzNW5oQVRFcjBnXzFuNWR1UG4zLXBkLTczY1VDUmpieEczVUVvb0lEd1cxUHFCcDFtYlpKZm5ZMGVoWC1VVWhCOTVwcWN4enc0NGc5cTY2RnJ6R1pUWl81SWhyQ1RZVV9jZ0E5ejJKXzhGZmxaVFlqTUw3ZmNZZEp3Z1hGb3VWa01zeU0?oc=5",
+          "domain": "fox5vegas.com",
+          "published_at": "2026-10-23T01:00:50+00:00"
+        },
+        {
+          "name": "Star Beacon",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMHRqODdSQ0V1WWQxUVRBUTU3Z2RkSDVqUG4tT1Jxa1FMVFFmTUtISzVRSDA3dUxPQm5aQmc4d1Y0M3g5b1IzeURabGRjQ3pWb1F0aXlDR25Xa3pzOGdtdXF1QWtpU0xuU1RfbHhKOW8tcDhkWG84RnhRLVBEOVRDVUxiVjNRZDFjLS1waVpGeEdhbDI0R01fSmxBUTktTm5WYUROeFp6V0lqSlg0R0pkVi1sdDBRVUxBbnpCR01rdGl2SlZDSmtfSldxT3RPWHJaeEhIRjFnZWhzQlI1enlfdk1DZ2dPc2ZrWDliYg?oc=5",
+          "domain": "starbeacon.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "thereporteronline",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBPSWRjM1FGeXJyZC03VEJWRUNSa2xBamNVbFJSdFB1U1puRk52bEF1VEZIS2x2WWtFNTdhM2d1VlNwSXpaMnpLQ04xM2lJMHVYX0hJV2dneGNEMFdMYnhmVXRMMjdCc1M0OHZxTlVuZFEyZw?oc=5",
+          "domain": "thereporteronline.com",
+          "published_at": "2026-10-22T23:59:29+00:00"
+        },
+        {
+          "name": "SecurityWeek",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbdIBqgFBVV95cUxOZHZtdWN2eWhLUVIxM080ZFh6V2hId1FDSVpHYVRuUFJFS2ZYNzFnOVFlTnA3aUtHM2IxdXNGMEpOWGotODNZd0cwdUtDSDhlb3hkQUkyb2FfZ2xGcDZ3b05FUjZHNVFZOUJmSk9qaVJlT3ZCZmVXdUZuYTEwNFpQVUdPTkNpQ3REZXcwUDlTdkFfY3A5Vm5zSnI4LWhpaGgxS0lSTS1yei03UQ?oc=5",
+          "domain": "securityweek.com",
+          "published_at": "2026-10-23T08:25:06+00:00"
+        },
+        {
+          "name": "The Killeen Daily Herald",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNYVE0UDBqQUZPaEZITUtWMy00LVh2YWpXRHNSWjdGeHpzZVMzME94aVR6S3c3UEdkRmxZZGFhS1lFUXFiVi1pdHljLVRWSGpfQVdGV3F2ektTRzYxRUkxRDJjUnp4djJES1hqVnBDcFgtR0R3aVhLRkg4eEV3Sk5LbnZOODliX1RUNVpoMEN6aDlBN1lxOTNORVc2UGFfTGtVdk4tb1o4a3ZhY1d0eS1OdFc5UDBwTkppYmZ0WVMzaWN3Q2owcUxUa01rdWZ4N3RzZjEwVkFwdGRIOEZGNnh0OTQ4ZE9ZSGowSmc?oc=5",
+          "domain": "kdhnews.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "KTTC",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQzhjd05zamZpZjllUzhYeEdKWTExSXEyWnB2YWR1WkZCQlQ5WjExeUZPZnE4QmZpX2tfbjloS2Q1YlZhQkE3NW5ZQjlqM0NxakFZb2JtLVVmU1huQVUtV3JPcXFYVG5ubERCREdDWDdVZFlzeXgtQmR1czVZRkxiOGxjX2lDUTJULWl4ZVRUTXdSeXpyQ3N0ZlprbEhCNlpvYnZiVUQ0V2k?oc=5",
+          "domain": "kttc.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "WTAP",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmQ4VUNCU3dhaktZLXJfTkZlY0prclEwUFRCOVJja1o4VVVzV0Y3cl9XNW4wZFU5R2l1eE9Ca1FxaXYwOThLZlhnVnZvblZOT2xpMzRpakx6Z3FXTmk2R1ZkWDE3cUhpWnEwbkM2bXJSU3Y0LVdQZXdnckJjZHF4MlJ1MHZNSzdfNDV3UTdrY1dtTGJFcDlUZENEcS1jMnBQcnpKOElZaUw?oc=5",
+          "domain": "wtap.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "NBC News",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbVVyNWxpV0g0aHFNODJnRm51OVV0ZG1VUVpHdFpzc3NHVHZNLW1BRTdTX0xVSzAxNW82SzlMTlVZc2FoSGljbVVjUW9fVjVnY3FkVENCM0VXT3l3bnVPdy1PSWRiNGcxM3E4ZktLWHI0eG42QUNlMENQclhERnUzbUFlRGZNcjB2Y3hFMU81bjFwZkZsRzJDV2h0QmE5ekJjSnJhMFM0NFJpR01tUkJ0NFdnRE1YZw?oc=5",
+          "domain": "nbcnews.com",
+          "published_at": "2026-10-24T02:01:01+00:00"
+        },
+        {
+          "name": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UVTFqSTF4Wm1BMUIwaVRHbXhJdHpnSFNYeTNYSUE2bUthdW9OX1Bkc2h6Q0h6NjZfQUdXOXF4Q0FxVGZKa0NGd2xSMk1wZktaZTJCcjlJZEhVQzgtb3dj0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5",
+          "domain": "modernghana.com",
+          "published_at": "2026-10-24T02:36:01+00:00"
+        },
+        {
+          "name": "104.5 WOKV",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE5fdU9VdzNiMUpvdkdKcjlqYWtSUnJGWHVlZlpmRnR6UUdtS2lTVWYwVW5YUmVRNm5XZlpKSDAxZXR5TWFPMkI3c2xnX2dMOTdGeUotN2MwNGxDWmx3S0JzUjc0bWJmSzcyRHhZTDFWUVdiRENURjFRSnFreFBFUjdnV0pmZFHSAZsBQVVfeXFMTUkyUWRCQXdJMGFKN1JkOUF5aU9laV9DNDk5Tnp1UmotNDlMMnB4aXVjMDlEYi1rYlMzWV9hQlptNEJQRzFHM0Exd0Nnb2pJVjNZU3htVkdJalJUdFBKTGNLSUc0ZUNVSHZnX01FMGdYRV83ZlkwNng1NFF2V2pna3B6YllyWXlEem4xUm93cmxKamlrOVZDeXBVb0E?oc=5",
+          "domain": "wokv.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd29wVjhhQTRkcTB6cFQxX05SNnQ1Nm1lcGs5TU1YQ3VENVdFVFFxYWFiamJKREZrY05LMHFSblUxOG94Zm5Bek8tcm9pUGtKZDRfcVAxU2EtLU4xcVBUUVd4ZTB6QVowTU0zdHU4U2xPOEpzU2twNE53cXljTmpuODRtOExzdm40V1N0ZEFBdVg?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-22T21:24:32+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUVtZUxqYXJwYUJLcVdGMlA2aVJya3FPbE5USGZOa1hlNFdKbVNEcE94Zm04QlF0YTRnVmVYVnBFRHR2a2s3THRoX3M2TkEtaW9HQkNfY3d2czY2MG9tOXp4blY4ZWs1Y2tNanYzRkpURVExZEFzNF9TOXB2c0YyaXVBZEZ2Ui1hWUFjdklZc08?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-22T23:14:28+00:00"
+        }
+      ],
+      "coverage_count": 40,
+      "event_signature": "affecting breach certain cyber patient records"
     },
     {
       "id": "e27021cea6e4f79ec8df",
@@ -15072,43 +15090,12 @@
       "summary_evidence": [
         "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
       ]
-    },
-    {
-      "id": "1aa7d3cafd0225bf0748",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVWZpdzRsdnhlZlluV21OdHpWVWctTFRUQktCa1RjeXBwMXM1ZWFUMVZKTkI3NDhZeWZzS1Y3ZTFtSnhldDFqaElsalgzbXpVM1Z1aE9ENUNWY19VeTBNZnNqcjJiVUpyR3dxd0IySkdHSHlPRmwzYlQ2MGFUMXM0UjBZVUJ2ME9rM3Y1V2NjNG9CWXJKbWkySzVkU2ZaZXRFU0tqdDRkeExWS3BEMnQ0by1qaEk1dlFoWExlTjg1cFoweExjMUhnYnM5ZWYyZXlOMUFCemNVb3dMdi02andXWEpCTXgxdGtKNFp3Skl3?oc=5",
-      "description": "Quest Diagnostics Senior Vice President for Clinical Solutions Karthik Kuppusamy reported acquiring 37 Quest common shares on July 22, 2026 at $206.807 per share through a dividend-reinvestment transaction. The Form 4 lists transaction code “L” and shows direct beneficial ownership of 13,557 shares after the acquisition. The filing’s first footnote says the shares were acquired under a dividend reinvestment plan administered by Kuppusamy’s broker and were eligible for deferred reporting on Form 5 under Rule 16a-6, but he elected to report the transaction early on Form 4. The filing also updates other holdings rather than describing additional open-market purchases. It reports 358 shares held indirectly through a trust and 1,691 shares held indirectly through Quest’s tax-qualified Profit Sharing (401(k)) Plan. A footnote says the direct ownership amount includes exempt purchases made under the company’s employee stock purchase plan since Kuppusamy’s previous Form 4, while the 401(k) balance reflects periodic trustee acquisitions and is calculated from the company-stock-fund account balance using the current stock price. Attorney-in-fact Sean D. Mersten signed the filing on July 27, 2026. The disclosed 37-share acquisition is therefore a plan-driven reinvestment, not a discretionary market purchase signaling a separately announced strategic action.",
-      "source": "Kalkine Media",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-27T21:10:12+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVWZpdzRsdnhlZlluV21OdHpWVWctTFRUQktCa1RjeXBwMXM1ZWFUMVZKTkI3NDhZeWZzS1Y3ZTFtSnhldDFqaElsalgzbXpVM1Z1aE9ENUNWY19VeTBNZnNqcjJiVUpyR3dxd0IySkdHSHlPRmwzYlQ2MGFUMXM0UjBZVUJ2ME9rM3Y1V2NjNG9CWXJKbWkySzVkU2ZaZXRFU0tqdDRkeExWS3BEMnQ0by1qaEk1dlFoWExlTjg1cFoweExjMUhnYnM5ZWYyZXlOMUFCemNVb3dMdi02andXWEpCTXgxdGtKNFp3Skl3?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T21:10:12+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "boosts dividend employee equity karthik kuppusamy plans reinvestment stake stock svp via",
-      "source_description": "Quest Diagnostics SVP Karthik Kuppusamy Boosts Equity Stake via Dividend Reinvestment and Employee Stock Plans kalkinemedia.com",
-      "chatgpt_summary": "Quest Diagnostics Senior Vice President for Clinical Solutions Karthik Kuppusamy reported acquiring 37 Quest common shares on July 22, 2026 at $206.807 per share through a dividend-reinvestment transaction. The Form 4 lists transaction code “L” and shows direct beneficial ownership of 13,557 shares after the acquisition. The filing’s first footnote says the shares were acquired under a dividend reinvestment plan administered by Kuppusamy’s broker and were eligible for deferred reporting on Form 5 under Rule 16a-6, but he elected to report the transaction early on Form 4. The filing also updates other holdings rather than describing additional open-market purchases. It reports 358 shares held indirectly through a trust and 1,691 shares held indirectly through Quest’s tax-qualified Profit Sharing (401(k)) Plan. A footnote says the direct ownership amount includes exempt purchases made under the company’s employee stock purchase plan since Kuppusamy’s previous Form 4, while the 401(k) balance reflects periodic trustee acquisitions and is calculated from the company-stock-fund account balance using the current stock price. Attorney-in-fact Sean D. Mersten signed the filing on July 27, 2026. The disclosed 37-share acquisition is therefore a plan-driven reinvestment, not a discretionary market purchase signaling a separately announced strategic action.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://www.advfn.com/stock-market/NYSE/DGX/stock-news/98989527/form-4-statement-of-changes-in-beneficial-owners"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 54,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-26T00:17:00+05:30",
-  "next_update_display": "26 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-26T06:17:00+05:30",
+  "next_update_display": "26 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

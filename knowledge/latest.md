@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 25 Oct 2026, 10:20 PM IST
+- **Repository generated:** 26 Oct 2026, 2:45 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -107,12 +107,13 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 24 Oct 2026
 - **Category:** Other
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - Investing.com UK: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjNrR2pMV1ZJLTZ0c0FHNEtFLTVlbmpjMVhXZThWaHdsQzRnaXA2YzdlVVQ3SVVsdlpBUTN2aTJWY0xqMXQyVDRubkxPd1VjZUdVMW5seGVZZkF4TVh2c3Mwcm9sVVNhemNtQ3BsU2xKenFLYXlCbXhKMXZGcm9QT3gxZEV4dC1sNVlfMVBsMnJERm4ybjRwNlcyU0tkX2R4X21SQkRiV3F4VmhqN0trRHpKajg2UGRwQlZPWkpvM3NFVWtRVDhzVld5d0JkRWxW?oc=5
   - Investing.com South Africa: https://news.google.com/rss/articles/CBMi0AFBVV95cUxObUJfVXFKME1MQk5mSF95OGhWXzcya1BuLWwyN2ppMEdsNUs0eEFxRUFpV3Y0QU9DS05qUXFvMUI3NDRibDZwNlFZclJQUkNDSDJfdWRad05ianM4cENUTmlVb0xHa2VfZFdncEp4WXRkRWdmX1dzQ0ZkU3oyRTdMemZkb3F0OHk1WjE3a1p1am5sNTBWS29QMWp1THdjNGx4RnVBYjN0aDZfRlJ4M083OHR6aHZ1RW5yNkExTG9ZQVNBRUJ6RDNGekVSc3BYbEo3?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNS0g5OVNaU3dVSzZ3cVpadkl1eWNZWGNEWTJOOTR4dXB2VzctUG5BX3hoQ3FmUk1RSDd3ZkRHZmZRRjVrVXZxZHphXzdMa0hWMEkyVFFPSVFUb01tRUlyMzJZRHhhYkxmdVRPT3RDUHhFRDM2NlBJVE0zc0Z6d3BBUHN5NVB0OF8ydkZOTU5rU2Y3SzlYWVhPdGd3YTc1NUJBWFlOc1VBM0UtMHNGT2o2UWNGT0F5azN4eEQ5emZFS1lhdTFLTnFOQzA5dWZnMU9a?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEZWYzloc25mUGZsdWI5TUZjYWtnSXEtREZ6M1Q3Y0ZaWVZ3SEVZYW9KT2dOVXBRaGNfY0p2UFc3dTEtbnppc1dmOWQ0X1pvMzE5WDVDSVdHcnVIWWt6ZUlEXzBBRVpDZ2NxSlBFYnNlckg3eXkxbnkzM2RyampTMnBqUzB6VEJ0YVlhLWVFQ2ZmUmVKMDZGakNvYTVkbTBzZjRwd3dNNlhXTW8yWEhNWlllb3oxcWRUbFg4ZE12SWtETFk3c2hMTnBuemF5VnVf?oc=5
 
 **Feed description:** Form 4 Quest Diagnostics orporated: Robert B. Carter (Director) For: 21 October By Investing.com Investing.com South Africa
 
@@ -836,14 +837,328 @@
 
 **Feed description:** [Quest Diagnostics Q3 2026 Earnings Call] Quest Raises Guidance as Revenue Jumps 10% to $3.1B, but PAMA Cuts Loom at ~$120M for 2027 BigGo Finance
 
-## 68. Quest Diagnostics reports cyber breach affecting 'certain patient records'
+## 68. Labcorp to buy Myriad’s prenatal health testing unit for $210M
+
+- **Company:** Labcorp
+- **Publication date:** 22 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - MedTech Dive: https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5
+
+**Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive
+
+## 69. Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGY0RE5NTHZmMVFzQmxaeTNFT3Z4ajZkZkJPRHVHWU55cUVaQnJSYlNMeXRWTEtiTElJNXJXVjV3MWEtMjhzcTZMNlRqNzlXZ2ZmSDBlbDVxZUFYbUM0RFlIcDNaUDlHMjR4Q3R5d0VCdXdsblROMVI2cHdCR19fVGxZcy03enJzbUpIY2QyRUsxc1k4b1ZlOGdveENIUEpMY0wxSmJEOXlRQ0FFZTFXYmFDZ1FSeVZCZnpXUHdpX0JSb1MxUzZHUGV4ZUdSdWMx?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1U3QWNCbWxkdE1zUlFoZnBlUFVSYjRiT1BIeEVGVWNheVVZTzFZVVBYMFhydjBObFIxV041M3F2VHJXNjBDbV91dWJ6SGQ4cmNfN2dGZHBSRkYwa2E2ZXZOTUtWWGs5cENKMkhETVBGR3NFVlRRNVNoYlUtNjhmaEFWWExBaXdoaDJOQmdaRGpoWnptcS12Y1JPV2RfZEtCdkNRQkl4RXJ1V09Fcm9sd2d4Z1hNS0pDbTVEN0dQZ08ycVczdnFiR0pBeUVGbUlqYlE4dzZIRQ?oc=5
+
+**Feed description:** Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook By Investing.com Investing.com South Africa
+
+## 70. Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TipRanks: https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldHQWQ2d1lkVDVoWFg5SXgwc0lpS0Qxd2piZmliM0JhYmVad1lVNHFRZmtzTWZRdmNhazZEc2oxLTg3NEw1b1Q3cTVaSTBTMW9aSmp1X0c1STQ5RUwxa2VZUWlSaTFodEFHZVlib21yU3BLMWVMVllqd1RvYUIySXByWXVUYkY1Ty1nQ3ItX0N4a2N0Tm14NVVqb1FWYm56cDdnTlJiWkF6YWNCd1plLQ?oc=5
+
+**Feed description:** Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87 TipRanks
+
+## 71. Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com UK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1VNelZ6Vlo3TVV4SUR1NENGbnY2bXdKQVg0TWdNU1lFU0J5cHpMdkRwR1pNd092LTduNGROQUowNVh0bG1pQmgyTkN6bXk5S0luMkpiajNhRXRQSkItT3VFN0RNMXgwWGVJM3ZmQU5iaTBvb2hZcTVxLXFFaG02Ty1fWTU4STZ1em1aV3RtRVFhczVzd2t2MWFOQVFlXzk0YWdYVFNfdHJmUzNBN21hYkh6MXhibnR4Q2RoOHNKYzRMQkJo?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUNXVVZfc3J1cVZGUUVubFFPN3YtTTBOUHNJa0xYVUtRRkMwQnJ4NmtQZVp0dzQ1S09NZl91WTNSNEE0Rnl5SzNvUE83VXZ5X0dlbHpQMmlQenBGMS14Q0syQklONkVKcXFmYUtlZ1FzdnFsQU4xeGVsUms3S3gwajh3WEdmNUdENlNZZFE3NV9hZFluVWc5MDVOS2lYTUpHcFBhNUFVWXdSU0M3TGprRThUaWl2NjNCQnF3VTRIdHY5NjFx?oc=5
+
+**Feed description:** Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com Investing.com Canada
+
+## 72. Quest Diagnostics Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcThmdWR2cjZKeFlxaVNDQ3lLNHVwR3VIaFI3dHVoX1RteXFRVm95VGdsRVFIa0YzWlUtU2RFQklSNE1Xa0dhZ3ZpTE9JaVZxQ3V0MnRjbXVBeHFBZkFBQ2lCRE9USElqTUhYeHg3TGFyeGZweTlZeEhrTXdmUTYyX3BVREtyVW1xR2hMaVlkb1B3bWVhbkw4ZkNtQnZHVTVVb3Q2VjhDaFZ5c1dZTEk5dXFhT2JqZkVrUDZiWFhoVDVGRUlhM0VBaW13X1Iyb0p3Z3hUVDFzbTlHX3I5OWdfOUl0RjZvdm8?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS1lXNEtZd3pvS08tZkQzb0FTN0VRS0xORTVYaG9FeGpUeXllbHB2eHBNS0xlTi1jbmhBTTNuNnNCSHQ2NFZuOUg4VlhodVFtYlZUSk9MeWUyWWc5LTBGUzNybzAxVTNaYVcyeEVuX2FzWHlscFNOdUt2bTl1MDlpLUtFamZYSGxzN2lyTkpiN1lPdllub1hLX3FYMjNGUk1TYjlKNWp4R0szRGNlQTFoemhqSVVhMDdGQWEtaklOSk9KVmNCemRSN1hybGVqUUFnbGkyYXlZZ1BTcHNkLWtBV0U1b21Qa0xjd1o3b2pUZTY?oc=5
+
+**Feed description:** Quest Diagnostics Incorporated Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 marketscreener.com
+
+## 73. Quest Diagnostics Q3 FY2026 earnings call transcript
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2t4WVBvRWJQMkwwQzlSUWh0cWRJdzhYS2FiUnNSb1hjQmdBYUF5Mm40c0NYdW00RlgyeVRwRTRUdTVxanpKS1liX0tfdnJsNUVDa01rMlRjRmJMS3VyWlFSbVJFNU53U0JZQ3FqYTU4R2FuYU1rM0VQdlNHbmwxazhQQmsxbW9zV1E?oc=5
+  - Benzinga: https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3E2a2d3NHVWa1lqSVhYMUZkSFFNMU1oNzFSeGhpZHJXQjRhYzNsX0U3cmtnb2pxTTEzZ0pKX1hOakg4RmwtMnlEbThVVXhhQXdGR2taOEZ3U2Y2Y0stWlRvRVBqclJYSlRKSEhxT2g0TGVYR3M0bVVaanV2Q3FMNnBiT2RaR2xSNk0xLUFvaHloVnhOWVJlLVFVYw?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1d5T3pjbi12cWF3OHEtVWF3Qy1oelEyNnJHV2dMcnBWNjRNdmpCMndlWWViTmpDWkV6LTN6UzFoeWZvalN1ck40QzQ4ekczcG5tUHNUdHZDMlFJcWlVT1paZnJ1Y0t3YWw0cDEwb1JTbndjVXpZY0hiZUpTYmFVV3pOVERfc1kyRzVUV3lqQjltZkkzcUtEQ2pKMGFWRGgt?oc=5
+  - GuruFocus: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUE0wZkw1VWVHeVpEWUxvUDVvN1l4U0ZZUF90dkNrMTBFR0xacHdzeHhFUjdwTjJSbzVxc0FmSXZiaFZCM0p5QzRfU1ZQaDVNb0JmZVJrS1JpTFBHcFVmUzFvaTh3ZDRxNmJUbmxrcEdublM4SF90UkZETGxvaXFlZkVQZTBGdkN2VnR5SlFYWnZRdFlPMzJWM1FjSEVWZW9yaVVsTm9vZzhDRnVMMFpBckNCazJOUEJKVTVjSUtsN3otLUZDNlZVRDhoZUtuRTlxaGFBLTlYWktZa1hoMFFLc3lWdU1QM2N6bjFGRVZxNlMwRkRBM0ZIUHF6RlA?oc=5
+
+**Feed description:** Quest Diagnostics Incorporated (DGX) Q3 FY2026 earnings call transcript Yahoo Finance
+
+## 74. Quest Diagnostics’ test results system breached in yet another medtech cyberattack
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 38
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Fierce Biotech: https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXJMWl9VUFYxeXRTX1FaOHB2XzhUWi1mSUtpQ1NuNjFLNjhWbXktWGpwUnRyeEdFbllha2RTWTJyM1JzQVZGQmJ6Skxma1BPSkhCbG5nLUp1eFdEdER6OFBTSUtSRE9pSU1RRnhmcDJqSmpuTldCN0tJbWhRelVVYTVQQklFOXFCWTFITzJYd0xYcWJCaE12djN1aEtBTjNsa09QeHlWTzZiX0dpNHNXYjVmZFp1ZU0?oc=5
+  - RamaOnHealthcare: https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM5VVFicmJIVVg2bWlCTlZKWGs5UThUd0R3RlNVRmJoVzAtZll1VlhDOWtmYmhYMkRzdUxJNGE1anJrVXRDS19obW5ZYlhUdHpDSWp1bElMQTlQWUNRRmVoS0laS29pdnlYd3FtVlFlOTR3dFdsQmxnVWdTWXdra0dXYnVMUms0ejRVY3FkZTVaeDRYYXBaSlg0TXFnRmJoM3A5c0c3MUNXNXF4VTlmXw?oc=5
+
+**Feed description:** Quest Diagnostics’ test results system breached in yet another medtech cyberattack RamaOnHealthcare
+
+## 75. Quest Diagnostics Q3 Earnings Beat Expectations, Updates 2
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GuruFocus: https://news.google.com/rss/articles/CBMisgFBVV95cUxONlVhUUhrbzEtc0laZU43RFN6SkJsdkU3dmV1MnhOSllaek9wazh2cWtjSmszZ0ZDLThNaVVNcFpNemRGZnRDcDEwWDNZWE5DSzNfSWRHeE44Zjg4cE1WQ0N2VFVoS1I0SjJURkhZRndacEVRZ1NZOGJfempCWkdaYUVHdjB1RDVSM1JWMFItWW4wM1hpeWc2MjN6azFGaGRrRGh3NVRzZnpJalNYUElDNFZn?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Q3 Earnings Beat Expectations, Updates 2 GuruFocus
+
+## 76. Quest Diagnostics Reports Q3 Revenue Beat, Boosts Full-Yea
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GuruFocus: https://news.google.com/rss/articles/CBMirAFBVV95cUxQOW5BX2NtMTAzVVF1UlJHM2R2bWw2bEhUeTEyOGNhRTNiNVdCRDhGcC1sS1p5TW52bU9OZXZwVmdxZGRNMTJVbnlWQnljMUhTYWRfY2c1azBTUnRiR3BJekFSUkcxRVM0ajJBRmJ0M2tWNzF0Qy1hd1o0U0ZVOEs1QkcwSUpzT1RaMDdGbjZ2RXdfX1dXSlBRZlR1Y09sV1ljc1BEal9hQ3dNY3hI?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Reports Q3 Revenue Beat, Boosts Full-Yea GuruFocus
+
+## 77. Quest Diagnostics Q3 2026: Volume surge powers a guidance raise
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - 24/7 Wall St.: https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVU2N3VZdGNBYWRocmlCX3hFejR4LUg0WExDMzAyUzROblE1ZFF5LWVzbldVZS1QWWRCWlJKb2JPblotbktqZ3BOSkxzM2dYY2h1b1RpRW0tVWNKbmdVZDhjU1YzckxULWlQX0hnU1kzYVJSUUlWZjhTaFpTQ1k4ZHFnSjMtYVdHRXlpclBBaHhvMVBKbWZvSw?oc=5
+
+**Feed description:** Quest Diagnostics Q3 2026: Volume surge powers a guidance raise 24/7 Wall St.
+
+## 78. Quest Diagnostics Q3 revenue rises 10%, raises ...
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Pluang: https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2FaRWRNdUF3dGU5c3FOTXNmM0dtQVZDeDV3QmdhZnM0MDhDWmxNTG12aWY0cE92Vl9YVVlVRUhEdy1ZdVNGNXBTbmZQdGNnVHkxSlZVWVc3WFlDWTVIYXNRLWw3U0ZZR0ttZkQwd0FEeFRUWXg5SWgwaDJFRkl5cWN0bGMtS2FjeGJDODludElBMm8wZ0FFYzduZ0hsM29QbHZoYzFMYTNRenpHbjlDaQ?oc=5
+
+**Feed description:** Quest Diagnostics Q3 revenue rises 10%, raises ... Pluang
+
+## 79. QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Quiver Quantitative: https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5
+  - AlphaStreet: https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWxad180Rlc4RnJQaXZFYVMwdllfZ3ZLdTJlenZDUEQ2YWZBUDNybW1ISElRRXk4M0JvWnFFUzNFaUEwNTNib1hpZFgzYXFSdDZFcmJUU3B5ZlZtLXhjbXFZSUhEUVh3N0UwLWsxXzZCeXZhNjJhUEUzRlpiV082cVRodFI4RjVzQmfSAYoBQVVfeXFMTU1sWndfNEZXOEZyUGl2RWFTMHZZX2d2S3UyZXp2Q1BENmFmQVAzcm1tSEhJUUV5ODNCb1pxRVMzRWlBMDUzYm9YaWRYM2FxUnQ2RXJiVFNweWZWbS14Y21xWUlIRFFYdzdFMC1rMV82Qnl2YTYyYVBFM0ZaYldPNnFUaHRSOEY1c0Jn?oc=5
+
+**Feed description:** QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings Quiver Quantitative
+
+## 80. Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlhQdTJNcDNPNlRXcWt0S2dLR0tUc1NSdTNhTy1EaGdSYUJtYjJ5QVV3Nkw5dU52ak02eWxxc0JZcmNUOXpzUk5HdVNrTmJ3cEF0RVJPVXRoR25NcjdhZGdpczJhYmhIck05cUJSODRmZXJJaWxMOF9aWmtYOEFXWjA3eFJmc0RaUmFOMXJuM0EyVWl0QkxkSHhFMXUzSWRL?oc=5
+  - www.marketscreener.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5
+
+**Feed description:** Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance www.marketscreener.com
+
+## 81. Quest Diagnostics falls despite beat and raised guidance
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxNRW1MQ3dIbDRMdnFTMDFlcDBoeG9QNjZ2OFpsbnBtVGxuaEM0WEpaZkd2dkF3aUVNNHNSZXpJS1czcTVZUWxWRDJnNkhwZEQ3T2JWU1ozcldVTFViZE5DbGRjM21zOVo4bW9VaWV0YkdscjF2bk55SVM0WjJneDg3OWh6NVAzdTM4UHlPWW85V1lzbTI4OG8zdTVKbDFfb29PeTJiV3BQaGJOTTVzcFE?oc=5
+
+**Feed description:** Quest Diagnostics falls despite beat and raised guidance Investing.com
+
+## 82. Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTlicU1ZOTFqU0M0UHhZN3pmdmF5cWxCWVNpTEd2RWlGdXR1ZUZDTFpCcDNmVVUxbGtyYlBGcGtFanJMdXI1NVdyVWY0N0Z2ZXE1MWdhYUc2LWZOdXZpTGpCRmh1VmszOUw5UTRRNWxjQ1hWQVRHYWQ2SkRwRXRhckRVVEtmRXlKeFVZWEF2eUExeHJpR3VqQVdQTDdQTHdZMlpuU1lLUzZCUDNNM3l1SWlKaFhIZkdUa3duVmxUbzZyM0w0VTRockpLR0xlVFh3d1pmRWJjYw?oc=5
+
+**Feed description:** (DGX) Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B marketscreener.com
+
+## 83. Quest Diagnostics reports unauthorized access to patient records system
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Other
+- **Coverage count:** 8
+- **Official source involved:** No
+- **Sources:**
+  - StreetInsider: https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi5gFBVV95cUxORk8yLWdnSzZQUE9kTWxNYnNaYXd1VHNVWGs2LXBMaTByX1FUdFg0QnlkaHRJcHh4bjk0OW5CUGg4bmJKY09JZ2E0V1QzQVhpQXJzdjBvSWduMkprSUVSZFBqX3l5WGQxMlJmcFlDLW9acDk3Y0JCT3BTWjl5YnFoNGUtWlRXaTFlcVdLSmxkYUVVbkdhWlVsckg4ZWdzR1FjQTZnMEVORktMbUtnLVZKSUJIcHZOLXVOVXBhM2F6SmNtRzBhOGpXUVBaNzg4MnNTMXF6bXpDdklka2VfUFVqQkJPWlhIUQ?oc=5
+  - Mezha.net: https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWV4VmRVYnN2c2UwWTRmSkF6QXlsSDJHV25HM29PT3VqM2lzMEYydVZwZkREY2c2dEhPMTVVVm1GMkJPZmJ6SkFZMEEtV0lDYzZCN2E3VFNyZEE1VHNJRnRUdjhORS1rYWRIWVpCNlV5VC1ueUl3UXFvU25fOVc4V0lxYnZNSzFqUkpvSUd2d09XMUk?oc=5
+  - Gizmodo: https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFlV01UUDZzYzRTNFVqS2V0bm9IRnpLdHdGNVlRVDRWZFktb2ZqSlVBLWx5Qm5EOTZWM1pBOVZZeUhwWks4bmtmMmh3akNLazVqRUNaOVVwNWdRZFVGSE5oTjNHNkNndGxGa1p2TXJhc3dfUmNveVh3OXltWE1rV09PQzRab1lvaXNXbW02OFBsMmVQNXpRT1VEVQ?oc=5
+  - Minichart: https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXBKdjE4QWxEVnB3M1lxZjJ1RkxRbFJ5TnlHelhfdkZ4eWQ5Z3ktN2ZHTFZuSjRJQ3UwOGFubjFBRXBFb0tRZVVUdHBYaVhNdnBpMEJyQzZvcksxUVFJb0s0SnZGcVFGQ0ptRzgtZTEyc3Z5X2hFOHFGNGpPVy1RZ3NBUzdNZzRBdkVISnlYNkhiVmVJT3gzRXdsMi1ibFBWcE83TEswbjVQc2F2Nnc?oc=5
+  - WRNJ Radio: https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHUtbnNZMHVKYWV1N0diWC0zMlBGc01Fc3pVNDRpQXktZEg3cWp4RGRyZ1J6bU1PLWdtQ2dDMmFYazdwRDgtNU9Qb0hMWG1IeHVjY0dBYW43M1RIVndQMUJuclJnMG9MSHNFdnplNUtlMS1wb09Wd0dfMVFiaXdHSTVmVi1YZl9KZGdtU3NZOHozMkRJa1VZekJFU1hXNDRtallZdHJteU11MkRGcWhibUNXdzRCbzM5YXJqMWk4Y2tuUUxTVWpjU1lCMW9BQQ?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkpFNlpxY1dYS1gxdXRyMjZXT1Z2QlhndWlqY1g5VmlSUmdzbzBhRGpwdDlmeUJDVEpnWkJ3VzJKUWcxbUFjdXBwY0VNUnVPcm5jRldfQi1JMWEyMmdMb0dkS3pTOTJkVDh1T0d2SEpWd01QbWE3amRCbXBGSmhTQllLcWV4dU5OTFdqZl9oSWZsSzZ4SXRXZlVqY3dMZERveGl4dVlhR0FfV1VkYnQxZHlQajJNbWxCNXgwZDVxZHhGcTFGUHBaYjF6SzdYWFZGT2w0WWEzRWZOZWxBb1V5SUhtN3dFRUhvMDhQWlJUWmNiTjJLaS05VmhXOWF0WXpzVjJSZ25mM25vQ1YtWTV4YVJSVV9tYWd2dTM4bA?oc=5
+  - NewsCord: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUpDZDB5b3NRcVFzRWtFdHRfWG5YbmVUTkVXNGtzZ2Z5bkplc3Zid182QTNpeWVadzFZRG4tTDBESTY1ckE2ZnFXcm53cld0S3VHcUpiTlJjaEF5TElVelVBcGUyS3cwVS13a0hiS1hhSUoyZ25MQlhDclplVnpvTUpOdE9LYXFhZGwzZ2JxZ01CNHdpNEMwbE5CYVhjeG5aYjZFNGlYTEx4Q3dJUnZNTDU1eFQxeGV0bVM0WElYRTNJWWxzbUxLY3hNb1NYbGNia0hSUXB5eW1TeHhicnhlRV81VkJXTVFEUVE?oc=5
+
+**Feed description:** Quest Diagnostics Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Unauthorized Access to Patient Records PR Newswire
+
+## 84. Earnings Flash Quest Diagnostics Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - marketscreener.com: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaVd2ZVBJRmFscVhraXk0UTlEQXN0SUdzeEg0SXhLSWg2REZYaDNGTktzc2tLcU5JYjlYUWVQNFhGZ1FHejlxQi11cDA3QmFtUkhzeGdQZTNmV2FoV3Rrb2cyb1lteFNzOU9VV1YwR2VtSWpmbXB2bkRrWUx6NEl3SlRZbUMwMFFZVWNwS1BMRDYzWUgwTWdYczRqRW1EcExmX0d3U3BaRElPYnNTa3p1SHU2eFdRbVQxNldJbk5yUFI2djYzUVZFbnlKWWpzY05uZVlTS2MxVWxsZUtPUm5zWHhn?oc=5
+
+**Feed description:** Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87 marketscreener.com
+
+## 85. Quest Diagnostics: Q3 Earnings Snapshot
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - KTVB: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjBzVFlUTVEweVhPWEJQekZLXzJjeVhSVUgxbE1ST2xkRUloSy1jaDQwU05yc1NaQlIwOFpfa29ST2xRMXRkaUlyejR0aDBZSDIwVkJ2MnpZVHBSUE9zSWVZa1FPOVhLTTFEbEMzUmZvUFVVODBubWVHNGhiVGdBUlNpM3RuN0U0SmNUQ3owSzNHcXBuOG8tUHRvSUJRM3NGdm1TZklmTENKUHRUZXJqNDdtRHI5enhXbkRUNXlNV3VDUFpTcXNfMzhES1pGVXRlN2c?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9JSHgyZVlIYnV2V25uczNZRnd2b2V0cVFfdVk1QkVDd25FUTVMWFl1RGczb1N6Y1NrdUswQ3JKcWxDTy1EYnZoN3dwSWJ0X1NCRXVKdlo3Mm1kUEkwOVR1OHpWZmhqN3pxRTBCUjBYVkJhMUZxSWJXV0JORjhqTGhPd1JmZU95cFNkU3ppVTdxZExxRkx6bGdNYXpaNWtfUXRsekFB?oc=5
+  - WUSA9: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1ZmcUhJX1B3OG1SeUdBTW1EZ1ZPd3prbl8yaVBvN0pOSER4eDhlekNrVTFnQ3JsQmRVWW5jaldNOG9TNGxwNkEwWUFuMlgwT2hGSFR6NU1JRFZyX2loX2w5SVMxZ2JYcEV5ZUtpbUdlT3dIbU1uMVlGa3dSVnNnRGM1SG1VU2dBVk1uVFFHZVFQWmt0WTR0ckVBQjV1YTU1MFNkZ0VNY1NkeUFOMlQ1VGdPQk1aaFp2WWxuamNTUjQzRWwtRmh5R1hmNEhjSmdJTkZr?oc=5
+
+**Feed description:** Quest Diagnostics: Q3 Earnings Snapshot Yahoo Finance
+
+## 86. Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE0xMGx6MHFJUXF6RDFfTml1dExnM0NieFBkVE5FX0xEeTI2Yl81Q1dTWW8xOEp6VmJKb1BJQ3FZWkRGVDZybEtPTFJOZlhkWGpNTlhITUE1N3pxNk5YUU9OU1lQS1J4Z1E3VHljT1dRb1BveWpia2ljeEFuZ0ExWWQ4NWpPWm12OTNuN2NTY2dhd1pwVGpITm5SRDFjemxsbXduYVk3SFcxOWdjbElCcnVIWmFOVmF3ZUpGUlR5RzZDRDl0VjhSTEs5cUloUQ?oc=5
+
+**Feed description:** Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast TradingView
+
+## 87. Quest Diagnostics earnings beat by $0.13, revenue topped estimates
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 5
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnhfeWxBWUlleVZZLUE3SkJ5WXgtSDBBSXAxS05CSUFZdkx0OVFISkpYLVdfZ3h4RXBMMzlzS01yR2tGWlBfUWlRcV8wMjVuNk5jdGdqc1dJU3E5Y1hLOGpBdHd0ODNpcW5CUVgzUUt5YS01M2k1WGkzYmNPNGkwMVhtbzVIaU54YUhQVkpaempBZ2hUS3FPc3l4TGttY2JkRXprM0YwZVcyTEFwSDNxNA?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lTdmExWm1YbVhVWk4wbGdDSDJ3SnhhOWZOOG1pdHVyOU1PR09HbUdkaWVDeHZ1SkZnVVFObENOYjJRZUszejI3NktXS1V0QnRNLUNidDBPM3BDUkhVN1d3S1IzREJabk9GVXA2NjkwOFNVY24xc21jeDhnbXV0ZzJHMDBtMXd3MTM2cEtwUThmRVBTc3NoRWpUS1N0bDVoWmZtWFEwRk91OC0wLVpF?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXlIbmJrZjI4SlQ1WlZQVGdIOHZPUW1kenhydGFIZ0VaQzJfcXZvbnNnODVTamphRGM1SWd2WnFpcnJ1S0VlbS01bXNXQUNLSllzd0ZGRkh5WGt1N3dONmF0TnA1MHA4eE5mbXhjMGZiaEplNTFQQ3NCaTZra09Gb2s4ZnpZd2Q1Umk1MVJpTWhkN1lZdkJXbG5HbWVqQmhFZGVvN043bjBrUWppRV9z?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1lCTk5DRGZadUJEb2YwYm1ZTGJ3MjRGcjVPUDlmb2lHWDJqUTc0dmpzY1hYODhOYnNrZDgwdFE4UjJjc1NlaWNxenY4ekJRMHBuMmstNERnQU1UMnNielYyZFhVRk9Ga1lPcWUzTm5iTFFiU3BISEVDOHp1ZVQ3dkhzVFNiWGdVZnZkSGtwSEVQWDZBbHIxcDR3?oc=5
+  - Investing.com South Africa: https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFJtVE5WMnppYjJWbWJTNlJXVjFIMGxJTGppczI5Zk1laVN3X3BQZDI3cDczem5ja3RHbEtwbV9HYWxEQmlyUk85bkZfdVhxVTdzNGVoSWt4bFY1bFNGM01sQmhCbHFBcjVXZFVWVHR0eHRkeFd0aVRWYmpOb21VdXd2U2NTQkV2d3hNaXRSdjZWQzZCWEpBcVRDTWtvRVVUSGZUS1poX1lwZ1VQZ08w?oc=5
+
+**Feed description:** Quest Diagnostics earnings beat by $0.13, revenue topped estimates Investing.com South Africa
+
+## 88. Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - TradingKey: https://news.google.com/rss/articles/CBMibkFVX3lxTFBwS21LdFpJdUY0eF9RQkt5QW1tQVY2YXhPY0lvNlQwVEc3Wm0wWG95VWtWelhBbTRFZWhJeU4xSUtId3l5WEJWdUEzSUpmbHRpWENMQXVLb3lPVDU3SHRZTFhkMlZhVGdtVG50UU1B?oc=5
+
+**Feed description:** Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain TradingKey
+
+## 89. Quest Diagnostics Tops Q3 EPS by 13c; raises guidance
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - StreetInsider: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWNKb1B1LV9qbmZlaTlELXpva05ZODJMSW82TlR4R04zZmk4R3YyMVVGZ0JDZU5ZRUJTbTJaZjRydUpZVEExS2pVQjZkM3JoUnFISTdlM1J2QW11ekppeE85YW03ZmlzRTBDZEx6ZzE2T0RBTjJISXg0c1ZPRGJYQlk5cWVGVWRWNzJIYUVWWE5GT0g1T2ROeHAzU01rMlBHVllKUU9LR2VEMUJYRjFQa1dpcU9COWExOFE?oc=5
+
+**Feed description:** Quest Diagnostics (DGX) Tops Q3 EPS by 13c; raises guidance StreetInsider
+
+## 90. Quest Diagnostics Latest Press Releases & Corporate News
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UazRhVVA3RUx4QXdfb1V2dkpEdTBTaElPMGJLTW9sYXk3elVfcnY4TXVHdEp1WUpiWElyakRvanBGcmdfYUhPcHlpbmxESWZGSnVyVmNDUlVDUG5PUTkzVA?oc=5
+
+**Feed description:** Quest Diagnostics Incorporated (DGX) Latest Press Releases & Corporate News Yahoo Finance
+
+## 91. Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - Morningstar: https://news.google.com/rss/articles/CBMihAJBVV95cUxOU1pHVnVuaF9lN2VuWlVNQXBQemFINzlHa0U2c2tYTXM2QTRFakJXV1hTamNsclNGV211YUoxV3kzTUpvN21lZmctN0pMbmk4V2VxUDVzZU54SVI2WURoV1F4Rnp4OFNLSUlZTDU2QUFoZHJlZlQ3T2diTUVUZm53ZW5SNHNReVE4OU1PQ084SW1PQXJMVVJoc3JzRXhqZFNpc1pYdTRkM3V5WGV6eEdXcmZOVFlKdGp3dTFncENGVENsd1JXUEFvVHZ4dUNnZ1lJaGRkZG56ZjM4cUUzLTB6RGMybkRUdnAtYTNIMnVjN25YNWRrMjhuZzBQREJNdnNzVXFUaQ?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcERGa3ZWRGtVUnJwdmdtNElaaHk5VHdZSVFySTdQRzRBZ19RbHpPa2I2bmo2MWpSQXdzZlhVRzZGLTl4QjZhaWtuVzVwOFZ2TnhaaGdHTEY5V2FZMEg2dDUzUzhubjdTUFZpQjZGT3Z0Zkw1WXdlR0c5UExGU1UtQURXNUN0WXM4d1F0OTJJQjRQb2FPNG82bkJzOUZjWjRMVUl4YXB3MVVNMjJFQ25UY0luRkhRUUVsa2NpQ21iUnpRTk01SmIxOW5BRjNPVFViTjRfdlNOM1dMb0FqNVhZSWI1MjUtUGVQUWZtZ0FaNklodGJBTWNDazJ5OUlTZw?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUlkNHI4QzRYSWVZaDB1dXNjeGNXc2pFRFN6amI1VGxFZFhYSnlnaDdHdTF3Um9hemxZWnBqUjdiNldoSzUxeUtqaWdLQUc2d3FVbTg4Mjd3Q2xjMnFrZVM4Ym0yazhpQ3hLMnFiM2xRWTlHUXI0bnhERFdQcEI5aWVSeDRJNnpvQ2dXTFVrWUYxRDVBQThULXNXWmJicGE3T0lnY2RvU2kwX0QwZHoyRThTTlA4UlAzdkNuRg?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk5QeWhjem44T1hYQ1RTWWdtWGk0YmJYdGJRQnlqSWZlbllWOXlVRktWODJNNU9UanpuZE5Obko2aXVJN1d5ZGxTSWtnQVZYWXd1dGlfNFRldElwenVHTk84R3k4Sl9pYnZWb3FZZkI2N0tEQXVjcDBFWG9scGQwaWJtSjlsOGozVTZPV25BM1Z4ajItZHlCa01EZUgtbWJ6ZmNaX1JnRWM3YS0weEI0b3EyRQ?oc=5
+
+**Feed description:** Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 Morningstar
+
+## 92. Quest Diagnostics reports cyber breach affecting 'certain patient records'
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 22 Oct 2026
+- **Category:** Other
+- **Coverage count:** 40
+- **Official source involved:** No
+- **Sources:**
+  - WPLG Local 10: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnNUcmlKR29DZFJxeHR6cWpQNlgwdnVzRTBlQWtYWmlqbjEwMmg1bExWNndRUnBPQXExUnkzMDB1cF9sZEhxOXJ6WDhienB3aXRXVWh1ZXRaTjB5R3d0MzNiLW5OczViRHRsUHF1SnkxMmVFSTlLRzZkV2R1SDNoRnJ5THRieGlqQy1Kb1BkeFd3Z0xuekQ0eHpPTWJvLVVEc0JMS2Z3TmpkZkx2Vno1WHo1SVFFdFd1?oc=5
   - WFMZ.com: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUW43YlZPZUkwX0RmRUJXNEUyZW5Wa0lpa0xvMV9Zb3NUSmFZV2kzMHVRM2F5UFk3T2pDMU9IRkZsMURnMDhmNzZmUk9Cb1dYMFJxRmExUE1rUUJGSkp5OURGSHZCYjFlZUVfQkVTNlNlUEo5WVZBWHNZckFmamxKbmlSZHhzRnFFd04wOEFacWtuYnZOX2gxbG5hWFptdXVpaGVQMU5WNlBRdkNLX0xDUGVqYVE2VG5WajBEcGdIbE0tU0R5c2RzU0FqbUVvMm5TN2xBTnY1YmVBdVRZbXo4UXFMQ0hvQ3pZZ0ZJZFZOcjVVa3U0OXc?oc=5
   - Richmond Register: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSlhYX3hLeE5DUmVobGFpYnBRYW9sck9JR3NuR3o4d1JOcUtDcVc4Z2hHU2x0UFNCbU53Sk90MS1hVGVZUnltdEJmY1A3MGdEdzJxQlJXN0Y2SnplT3ZlSVpZdF9Vb2ZodzlVUVQ5LU9heUVmakk4NHEwM05HLVZnZk10VHdULThQaHUyR015TnJxVW9KTWdfVXNfTGpka05STGFEYlRyOVhFdHp3UnpUWmdmOU5XY3A0S0dWSVVRWkVMd3JDTGJJRVlxcmNFcm9rSUM2TUpEZkhzOTlscmZMS0NOMS0zd0R0UXFvV3U3VnpWTDlQbXpVTkZiNA?oc=5
   - The Batesville Daily Guard: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYndxQl9LU0JjVHhIMU5zRmM5VS1lTThabUR1a3JIVTNVeVppOWZWSWF2RVh1SHNKQVRNT1E4WTJDZDFJbzAxbldnWktYY3MyeG4tX2RCUUI5MTJTU2JlaXI4NUlPZ3ZZZ21aWU5EeHZhNmNmLUhFbnhtVzVsTEZRcllBdnpfaExLbVlVdVRTckxCelQ1ZWVZSFhBd0JydEFIV29paFFwU2U1U0JNeENTdE56T1R0bV9MVkgzeEpHMWk4WkJuNlNVLWpuQTdhQlRwUDVqb1ZfODJ0LTRQNC02OTNXTF9SS3JZUXM2NTRPUW45ZWRfb19R?oc=5
@@ -882,321 +1197,9 @@
   - Modern Ghana: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UVTFqSTF4Wm1BMUIwaVRHbXhJdHpnSFNYeTNYSUE2bUthdW9OX1Bkc2h6Q0h6NjZfQUdXOXF4Q0FxVGZKa0NGd2xSMk1wZktaZTJCcjlJZEhVQzgtb3dj0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5
   - 104.5 WOKV: https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE5fdU9VdzNiMUpvdkdKcjlqYWtSUnJGWHVlZlpmRnR6UUdtS2lTVWYwVW5YUmVRNm5XZlpKSDAxZXR5TWFPMkI3c2xnX2dMOTdGeUotN2MwNGxDWmx3S0JzUjc0bWJmSzcyRHhZTDFWUVdiRENURjFRSnFreFBFUjdnV0pmZFHSAZsBQVVfeXFMTUkyUWRCQXdJMGFKN1JkOUF5aU9laV9DNDk5Tnp1UmotNDlMMnB4aXVjMDlEYi1rYlMzWV9hQlptNEJQRzFHM0Exd0Nnb2pJVjNZU3htVkdJalJUdFBKTGNLSUc0ZUNVSHZnX01FMGdYRV83ZlkwNng1NFF2V2pna3B6YllyWXlEem4xUm93cmxKamlrOVZDeXBVb0E?oc=5
   - Yahoo: https://news.google.com/rss/articles/CBMikAFBVV95cUxPd29wVjhhQTRkcTB6cFQxX05SNnQ1Nm1lcGs5TU1YQ3VENVdFVFFxYWFiamJKREZrY05LMHFSblUxOG94Zm5Bek8tcm9pUGtKZDRfcVAxU2EtLU4xcVBUUVd4ZTB6QVowTU0zdHU4U2xPOEpzU2twNE53cXljTmpuODRtOExzdm40V1N0ZEFBdVg?oc=5
+  - Yahoo: https://news.google.com/rss/articles/CBMikAFBVV95cUxQLUVtZUxqYXJwYUJLcVdGMlA2aVJya3FPbE5USGZOa1hlNFdKbVNEcE94Zm04QlF0YTRnVmVYVnBFRHR2a2s3THRoX3M2TkEtaW9HQkNfY3d2czY2MG9tOXp4blY4ZWs1Y2tNanYzRkpURVExZEFzNF9TOXB2c0YyaXVBZEZ2Ui1hWUFjdklZc08?oc=5
 
 **Feed description:** Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos
-
-## 69. Labcorp to buy Myriad’s prenatal health testing unit for $210M
-
-- **Company:** Labcorp
-- **Publication date:** 22 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - MedTech Dive: https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5
-
-**Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive
-
-## 70. Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGY0RE5NTHZmMVFzQmxaeTNFT3Z4ajZkZkJPRHVHWU55cUVaQnJSYlNMeXRWTEtiTElJNXJXVjV3MWEtMjhzcTZMNlRqNzlXZ2ZmSDBlbDVxZUFYbUM0RFlIcDNaUDlHMjR4Q3R5d0VCdXdsblROMVI2cHdCR19fVGxZcy03enJzbUpIY2QyRUsxc1k4b1ZlOGdveENIUEpMY0wxSmJEOXlRQ0FFZTFXYmFDZ1FSeVZCZnpXUHdpX0JSb1MxUzZHUGV4ZUdSdWMx?oc=5
-  - Investing.com South Africa: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPT1U3QWNCbWxkdE1zUlFoZnBlUFVSYjRiT1BIeEVGVWNheVVZTzFZVVBYMFhydjBObFIxV041M3F2VHJXNjBDbV91dWJ6SGQ4cmNfN2dGZHBSRkYwa2E2ZXZOTUtWWGs5cENKMkhETVBGR3NFVlRRNVNoYlUtNjhmaEFWWExBaXdoaDJOQmdaRGpoWnptcS12Y1JPV2RfZEtCdkNRQkl4RXJ1V09Fcm9sd2d4Z1hNS0pDbTVEN0dQZ08ycVczdnFiR0pBeUVGbUlqYlE4dzZIRQ?oc=5
-
-**Feed description:** Earnings call transcript: Quest Diagnostics tops Q3 2026 estimates, lifts outlook By Investing.com Investing.com South Africa
-
-## 71. Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TipRanks: https://news.google.com/rss/articles/CBMisAFBVV95cUxNMldHQWQ2d1lkVDVoWFg5SXgwc0lpS0Qxd2piZmliM0JhYmVad1lVNHFRZmtzTWZRdmNhazZEc2oxLTg3NEw1b1Q3cTVaSTBTMW9aSmp1X0c1STQ5RUwxa2VZUWlSaTFodEFHZVlib21yU3BLMWVMVllqd1RvYUIySXByWXVUYkY1Ty1nQ3ItX0N4a2N0Tm14NVVqb1FWYm56cDdnTlJiWkF6YWNCd1plLQ?oc=5
-
-**Feed description:** Quest Diagnostics reports Q3 adjusted EPS $3.00, consensus $2.87 TipRanks
-
-## 72. Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com UK: https://news.google.com/rss/articles/CBMixAFBVV95cUxPU1VNelZ6Vlo3TVV4SUR1NENGbnY2bXdKQVg0TWdNU1lFU0J5cHpMdkRwR1pNd092LTduNGROQUowNVh0bG1pQmgyTkN6bXk5S0luMkpiajNhRXRQSkItT3VFN0RNMXgwWGVJM3ZmQU5iaTBvb2hZcTVxLXFFaG02Ty1fWTU4STZ1em1aV3RtRVFhczVzd2t2MWFOQVFlXzk0YWdYVFNfdHJmUzNBN21hYkh6MXhibnR4Q2RoOHNKYzRMQkJo?oc=5
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUNXVVZfc3J1cVZGUUVubFFPN3YtTTBOUHNJa0xYVUtRRkMwQnJ4NmtQZVp0dzQ1S09NZl91WTNSNEE0Rnl5SzNvUE83VXZ5X0dlbHpQMmlQenBGMS14Q0syQklONkVKcXFmYUtlZ1FzdnFsQU4xeGVsUms3S3gwajh3WEdmNUdENlNZZFE3NV9hZFluVWc5MDVOS2lYTUpHcFBhNUFVWXdSU0M3TGprRThUaWl2NjNCQnF3VTRIdHY5NjFx?oc=5
-
-**Feed description:** Quest Diagnostics Q3 2026 slides: 10% revenue growth, raised outlook By Investing.com Investing.com Canada
-
-## 73. Quest Diagnostics Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcThmdWR2cjZKeFlxaVNDQ3lLNHVwR3VIaFI3dHVoX1RteXFRVm95VGdsRVFIa0YzWlUtU2RFQklSNE1Xa0dhZ3ZpTE9JaVZxQ3V0MnRjbXVBeHFBZkFBQ2lCRE9USElqTUhYeHg3TGFyeGZweTlZeEhrTXdmUTYyX3BVREtyVW1xR2hMaVlkb1B3bWVhbkw4ZkNtQnZHVTVVb3Q2VjhDaFZ5c1dZTEk5dXFhT2JqZkVrUDZiWFhoVDVGRUlhM0VBaW13X1Iyb0p3Z3hUVDFzbTlHX3I5OWdfOUl0RjZvdm8?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS1lXNEtZd3pvS08tZkQzb0FTN0VRS0xORTVYaG9FeGpUeXllbHB2eHBNS0xlTi1jbmhBTTNuNnNCSHQ2NFZuOUg4VlhodVFtYlZUSk9MeWUyWWc5LTBGUzNybzAxVTNaYVcyeEVuX2FzWHlscFNOdUt2bTl1MDlpLUtFamZYSGxzN2lyTkpiN1lPdllub1hLX3FYMjNGUk1TYjlKNWp4R0szRGNlQTFoemhqSVVhMDdGQWEtaklOSk9KVmNCemRSN1hybGVqUUFnbGkyYXlZZ1BTcHNkLWtBV0U1b21Qa0xjd1o3b2pUZTY?oc=5
-
-**Feed description:** Quest Diagnostics Incorporated Reports Earnings Results for the Third Quarter and Nine Months Ended September 30, 2026 marketscreener.com
-
-## 74. Quest Diagnostics Q3 FY2026 earnings call transcript
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMiigFBVV95cUxQc2t4WVBvRWJQMkwwQzlSUWh0cWRJdzhYS2FiUnNSb1hjQmdBYUF5Mm40c0NYdW00RlgyeVRwRTRUdTVxanpKS1liX0tfdnJsNUVDa01rMlRjRmJMS3VyWlFSbVJFNU53U0JZQ3FqYTU4R2FuYU1rM0VQdlNHbmwxazhQQmsxbW9zV1E?oc=5
-  - Benzinga: https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ3E2a2d3NHVWa1lqSVhYMUZkSFFNMU1oNzFSeGhpZHJXQjRhYzNsX0U3cmtnb2pxTTEzZ0pKX1hOakg4RmwtMnlEbThVVXhhQXdGR2taOEZ3U2Y2Y0stWlRvRVBqclJYSlRKSEhxT2g0TGVYR3M0bVVaanV2Q3FMNnBiT2RaR2xSNk0xLUFvaHloVnhOWVJlLVFVYw?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMioAFBVV95cUxNU1d5T3pjbi12cWF3OHEtVWF3Qy1oelEyNnJHV2dMcnBWNjRNdmpCMndlWWViTmpDWkV6LTN6UzFoeWZvalN1ck40QzQ4ekczcG5tUHNUdHZDMlFJcWlVT1paZnJ1Y0t3YWw0cDEwb1JTbndjVXpZY0hiZUpTYmFVV3pOVERfc1kyRzVUV3lqQjltZkkzcUtEQ2pKMGFWRGgt?oc=5
-  - GuruFocus: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUE0wZkw1VWVHeVpEWUxvUDVvN1l4U0ZZUF90dkNrMTBFR0xacHdzeHhFUjdwTjJSbzVxc0FmSXZiaFZCM0p5QzRfU1ZQaDVNb0JmZVJrS1JpTFBHcFVmUzFvaTh3ZDRxNmJUbmxrcEdublM4SF90UkZETGxvaXFlZkVQZTBGdkN2VnR5SlFYWnZRdFlPMzJWM1FjSEVWZW9yaVVsTm9vZzhDRnVMMFpBckNCazJOUEJKVTVjSUtsN3otLUZDNlZVRDhoZUtuRTlxaGFBLTlYWktZa1hoMFFLc3lWdU1QM2N6bjFGRVZxNlMwRkRBM0ZIUHF6RlA?oc=5
-
-**Feed description:** Quest Diagnostics Incorporated (DGX) Q3 FY2026 earnings call transcript Yahoo Finance
-
-## 75. Quest Diagnostics’ test results system breached in yet another medtech cyberattack
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Other
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Fierce Biotech: https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXJMWl9VUFYxeXRTX1FaOHB2XzhUWi1mSUtpQ1NuNjFLNjhWbXktWGpwUnRyeEdFbllha2RTWTJyM1JzQVZGQmJ6Skxma1BPSkhCbG5nLUp1eFdEdER6OFBTSUtSRE9pSU1RRnhmcDJqSmpuTldCN0tJbWhRelVVYTVQQklFOXFCWTFITzJYd0xYcWJCaE12djN1aEtBTjNsa09QeHlWTzZiX0dpNHNXYjVmZFp1ZU0?oc=5
-  - RamaOnHealthcare: https://news.google.com/rss/articles/CBMisAFBVV95cUxOWVM5VVFicmJIVVg2bWlCTlZKWGs5UThUd0R3RlNVRmJoVzAtZll1VlhDOWtmYmhYMkRzdUxJNGE1anJrVXRDS19obW5ZYlhUdHpDSWp1bElMQTlQWUNRRmVoS0laS29pdnlYd3FtVlFlOTR3dFdsQmxnVWdTWXdra0dXYnVMUms0ejRVY3FkZTVaeDRYYXBaSlg0TXFnRmJoM3A5c0c3MUNXNXF4VTlmXw?oc=5
-
-**Feed description:** Quest Diagnostics’ test results system breached in yet another medtech cyberattack RamaOnHealthcare
-
-## 76. Quest Diagnostics Q3 Earnings Beat Expectations, Updates 2
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - GuruFocus: https://news.google.com/rss/articles/CBMisgFBVV95cUxONlVhUUhrbzEtc0laZU43RFN6SkJsdkU3dmV1MnhOSllaek9wazh2cWtjSmszZ0ZDLThNaVVNcFpNemRGZnRDcDEwWDNZWE5DSzNfSWRHeE44Zjg4cE1WQ0N2VFVoS1I0SjJURkhZRndacEVRZ1NZOGJfempCWkdaYUVHdjB1RDVSM1JWMFItWW4wM1hpeWc2MjN6azFGaGRrRGh3NVRzZnpJalNYUElDNFZn?oc=5
-
-**Feed description:** Quest Diagnostics (DGX) Q3 Earnings Beat Expectations, Updates 2 GuruFocus
-
-## 77. Quest Diagnostics Reports Q3 Revenue Beat, Boosts Full-Yea
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - GuruFocus: https://news.google.com/rss/articles/CBMirAFBVV95cUxQOW5BX2NtMTAzVVF1UlJHM2R2bWw2bEhUeTEyOGNhRTNiNVdCRDhGcC1sS1p5TW52bU9OZXZwVmdxZGRNMTJVbnlWQnljMUhTYWRfY2c1azBTUnRiR3BJekFSUkcxRVM0ajJBRmJ0M2tWNzF0Qy1hd1o0U0ZVOEs1QkcwSUpzT1RaMDdGbjZ2RXdfX1dXSlBRZlR1Y09sV1ljc1BEal9hQ3dNY3hI?oc=5
-
-**Feed description:** Quest Diagnostics (DGX) Reports Q3 Revenue Beat, Boosts Full-Yea GuruFocus
-
-## 78. Quest Diagnostics Q3 2026: Volume surge powers a guidance raise
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - 24/7 Wall St.: https://news.google.com/rss/articles/CBMimAFBVV95cUxNLVU2N3VZdGNBYWRocmlCX3hFejR4LUg0WExDMzAyUzROblE1ZFF5LWVzbldVZS1QWWRCWlJKb2JPblotbktqZ3BOSkxzM2dYY2h1b1RpRW0tVWNKbmdVZDhjU1YzckxULWlQX0hnU1kzYVJSUUlWZjhTaFpTQ1k4ZHFnSjMtYVdHRXlpclBBaHhvMVBKbWZvSw?oc=5
-
-**Feed description:** Quest Diagnostics Q3 2026: Volume surge powers a guidance raise 24/7 Wall St.
-
-## 79. Quest Diagnostics Q3 revenue rises 10%, raises ...
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMisAFBVV95cUxNd2FaRWRNdUF3dGU5c3FOTXNmM0dtQVZDeDV3QmdhZnM0MDhDWmxNTG12aWY0cE92Vl9YVVlVRUhEdy1ZdVNGNXBTbmZQdGNnVHkxSlZVWVc3WFlDWTVIYXNRLWw3U0ZZR0ttZkQwd0FEeFRUWXg5SWgwaDJFRkl5cWN0bGMtS2FjeGJDODludElBMm8wZ0FFYzduZ0hsM29QbHZoYzFMYTNRenpHbjlDaQ?oc=5
-
-**Feed description:** Quest Diagnostics Q3 revenue rises 10%, raises ... Pluang
-
-## 80. QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Quiver Quantitative: https://news.google.com/rss/articles/CBMikwFBVV95cUxQbUtjcWdWX0hLMmQ0UTRPUEpoa1YyVkoza0s2T1gxc1BZYi1oOUZZLUU3cEM3X1pFV1hONXNXMEx2aWVhcHBBN3BWdWVWRksxand1TUoxUTRuNXhXM2F4TVJHV0VoRW5BOUJJbGR6U29qRGkzYjk3NTFhY2VVc2pEU0d2WFJ4RmpCdzNNdDQ1SFpVVzQ?oc=5
-  - AlphaStreet: https://news.google.com/rss/articles/CBMiigFBVV95cUxNTWxad180Rlc4RnJQaXZFYVMwdllfZ3ZLdTJlenZDUEQ2YWZBUDNybW1ISElRRXk4M0JvWnFFUzNFaUEwNTNib1hpZFgzYXFSdDZFcmJUU3B5ZlZtLXhjbXFZSUhEUVh3N0UwLWsxXzZCeXZhNjJhUEUzRlpiV082cVRodFI4RjVzQmfSAYoBQVVfeXFMTU1sWndfNEZXOEZyUGl2RWFTMHZZX2d2S3UyZXp2Q1BENmFmQVAzcm1tSEhJUUV5ODNCb1pxRVMzRWlBMDUzYm9YaWRYM2FxUnQ2RXJiVFNweWZWbS14Y21xWUlIRFFYdzdFMC1rMV82Qnl2YTYyYVBFM0ZaYldPNnFUaHRSOEY1c0Jn?oc=5
-
-**Feed description:** QUEST DIAGNOSTICS ($DGX) Releases Q3 2026 Earnings Quiver Quantitative
-
-## 81. Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlhQdTJNcDNPNlRXcWt0S2dLR0tUc1NSdTNhTy1EaGdSYUJtYjJ5QVV3Nkw5dU52ak02eWxxc0JZcmNUOXpzUk5HdVNrTmJ3cEF0RVJPVXRoR25NcjdhZGdpczJhYmhIck05cUJSODRmZXJJaWxMOF9aWmtYOEFXWjA3eFJmc0RaUmFOMXJuM0EyVWl0QkxkSHhFMXUzSWRL?oc=5
-  - www.marketscreener.com: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMkNwbkpaaU9pOGg5RktkWW1xNjh4ZTFrdnJmUDFpcU1EdGlmOVUwMUttcXU3dmxYWDl2NEhoVTFoQkkyTjlnZzhicTBtbGs0RUg5MXJKSlM3dXVrZEtnRTVpX3ViSGVxNDdYbjZEeGw5enQ1dDVrQnFmTEpCTGdoMldnakRuVldPWWtSNWhrdWtrWjNTYkRWMXRscEVKZUc4bjZvcDRZVEFVWURkOFZHYWNmZ01EZXh5ejlCTm4xQnBIREE?oc=5
-
-**Feed description:** Quest Diagnostics Q3 Adjusted Earnings, Revenue Rise; Raises 2026 Guidance www.marketscreener.com
-
-## 82. Quest Diagnostics falls despite beat and raised guidance
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxNRW1MQ3dIbDRMdnFTMDFlcDBoeG9QNjZ2OFpsbnBtVGxuaEM0WEpaZkd2dkF3aUVNNHNSZXpJS1czcTVZUWxWRDJnNkhwZEQ3T2JWU1ozcldVTFViZE5DbGRjM21zOVo4bW9VaWV0YkdscjF2bk55SVM0WjJneDg3OWh6NVAzdTM4UHlPWW85V1lzbTI4OG8zdTVKbDFfb29PeTJiV3BQaGJOTTVzcFE?oc=5
-
-**Feed description:** Quest Diagnostics falls despite beat and raised guidance Investing.com
-
-## 83. Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNTlicU1ZOTFqU0M0UHhZN3pmdmF5cWxCWVNpTEd2RWlGdXR1ZUZDTFpCcDNmVVUxbGtyYlBGcGtFanJMdXI1NVdyVWY0N0Z2ZXE1MWdhYUc2LWZOdXZpTGpCRmh1VmszOUw5UTRRNWxjQ1hWQVRHYWQ2SkRwRXRhckRVVEtmRXlKeFVZWEF2eUExeHJpR3VqQVdQTDdQTHdZMlpuU1lLUzZCUDNNM3l1SWlKaFhIZkdUa3duVmxUbzZyM0w0VTRockpLR0xlVFh3d1pmRWJjYw?oc=5
-
-**Feed description:** (DGX) Quest Diagnostics Expects 2026 Revenue Range $12.07B - $12.11B, vs. FactSet Est of $12.02B marketscreener.com
-
-## 84. Quest Diagnostics reports unauthorized access to patient records system
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Other
-- **Coverage count:** 8
-- **Official source involved:** No
-- **Sources:**
-  - StreetInsider: https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMi5gFBVV95cUxORk8yLWdnSzZQUE9kTWxNYnNaYXd1VHNVWGs2LXBMaTByX1FUdFg0QnlkaHRJcHh4bjk0OW5CUGg4bmJKY09JZ2E0V1QzQVhpQXJzdjBvSWduMkprSUVSZFBqX3l5WGQxMlJmcFlDLW9acDk3Y0JCT3BTWjl5YnFoNGUtWlRXaTFlcVdLSmxkYUVVbkdhWlVsckg4ZWdzR1FjQTZnMEVORktMbUtnLVZKSUJIcHZOLXVOVXBhM2F6SmNtRzBhOGpXUVBaNzg4MnNTMXF6bXpDdklka2VfUFVqQkJPWlhIUQ?oc=5
-  - Mezha.net: https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWV4VmRVYnN2c2UwWTRmSkF6QXlsSDJHV25HM29PT3VqM2lzMEYydVZwZkREY2c2dEhPMTVVVm1GMkJPZmJ6SkFZMEEtV0lDYzZCN2E3VFNyZEE1VHNJRnRUdjhORS1rYWRIWVpCNlV5VC1ueUl3UXFvU25fOVc4V0lxYnZNSzFqUkpvSUd2d09XMUk?oc=5
-  - Gizmodo: https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFlV01UUDZzYzRTNFVqS2V0bm9IRnpLdHdGNVlRVDRWZFktb2ZqSlVBLWx5Qm5EOTZWM1pBOVZZeUhwWks4bmtmMmh3akNLazVqRUNaOVVwNWdRZFVGSE5oTjNHNkNndGxGa1p2TXJhc3dfUmNveVh3OXltWE1rV09PQzRab1lvaXNXbW02OFBsMmVQNXpRT1VEVQ?oc=5
-  - Minichart: https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXBKdjE4QWxEVnB3M1lxZjJ1RkxRbFJ5TnlHelhfdkZ4eWQ5Z3ktN2ZHTFZuSjRJQ3UwOGFubjFBRXBFb0tRZVVUdHBYaVhNdnBpMEJyQzZvcksxUVFJb0s0SnZGcVFGQ0ptRzgtZTEyc3Z5X2hFOHFGNGpPVy1RZ3NBUzdNZzRBdkVISnlYNkhiVmVJT3gzRXdsMi1ibFBWcE83TEswbjVQc2F2Nnc?oc=5
-  - WRNJ Radio: https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHUtbnNZMHVKYWV1N0diWC0zMlBGc01Fc3pVNDRpQXktZEg3cWp4RGRyZ1J6bU1PLWdtQ2dDMmFYazdwRDgtNU9Qb0hMWG1IeHVjY0dBYW43M1RIVndQMUJuclJnMG9MSHNFdnplNUtlMS1wb09Wd0dfMVFiaXdHSTVmVi1YZl9KZGdtU3NZOHozMkRJa1VZekJFU1hXNDRtallZdHJteU11MkRGcWhibUNXdzRCbzM5YXJqMWk4Y2tuUUxTVWpjU1lCMW9BQQ?oc=5
-  - PR Newswire: https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkpFNlpxY1dYS1gxdXRyMjZXT1Z2QlhndWlqY1g5VmlSUmdzbzBhRGpwdDlmeUJDVEpnWkJ3VzJKUWcxbUFjdXBwY0VNUnVPcm5jRldfQi1JMWEyMmdMb0dkS3pTOTJkVDh1T0d2SEpWd01QbWE3amRCbXBGSmhTQllLcWV4dU5OTFdqZl9oSWZsSzZ4SXRXZlVqY3dMZERveGl4dVlhR0FfV1VkYnQxZHlQajJNbWxCNXgwZDVxZHhGcTFGUHBaYjF6SzdYWFZGT2w0WWEzRWZOZWxBb1V5SUhtN3dFRUhvMDhQWlJUWmNiTjJLaS05VmhXOWF0WXpzVjJSZ25mM25vQ1YtWTV4YVJSVV9tYWd2dTM4bA?oc=5
-  - NewsCord: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUpDZDB5b3NRcVFzRWtFdHRfWG5YbmVUTkVXNGtzZ2Z5bkplc3Zid182QTNpeWVadzFZRG4tTDBESTY1ckE2ZnFXcm53cld0S3VHcUpiTlJjaEF5TElVelVBcGUyS3cwVS13a0hiS1hhSUoyZ25MQlhDclplVnpvTUpOdE9LYXFhZGwzZ2JxZ01CNHdpNEMwbE5CYVhjeG5aYjZFNGlYTEx4Q3dJUnZNTDU1eFQxeGV0bVM0WElYRTNJWWxzbUxLY3hNb1NYbGNia0hSUXB5eW1TeHhicnhlRV81VkJXTVFEUVE?oc=5
-
-**Feed description:** Quest Diagnostics Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Unauthorized Access to Patient Records PR Newswire
-
-## 85. Earnings Flash Quest Diagnostics Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOaVd2ZVBJRmFscVhraXk0UTlEQXN0SUdzeEg0SXhLSWg2REZYaDNGTktzc2tLcU5JYjlYUWVQNFhGZ1FHejlxQi11cDA3QmFtUkhzeGdQZTNmV2FoV3Rrb2cyb1lteFNzOU9VV1YwR2VtSWpmbXB2bkRrWUx6NEl3SlRZbUMwMFFZVWNwS1BMRDYzWUgwTWdYczRqRW1EcExmX0d3U3BaRElPYnNTa3p1SHU2eFdRbVQxNldJbk5yUFI2djYzUVZFbnlKWWpzY05uZVlTS2MxVWxsZUtPUm5zWHhn?oc=5
-
-**Feed description:** Earnings Flash (DGX) Quest Diagnostics Incorporated Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87 marketscreener.com
-
-## 86. Quest Diagnostics: Q3 Earnings Snapshot
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - KTVB: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjBzVFlUTVEweVhPWEJQekZLXzJjeVhSVUgxbE1ST2xkRUloSy1jaDQwU05yc1NaQlIwOFpfa29ST2xRMXRkaUlyejR0aDBZSDIwVkJ2MnpZVHBSUE9zSWVZa1FPOVhLTTFEbEMzUmZvUFVVODBubWVHNGhiVGdBUlNpM3RuN0U0SmNUQ3owSzNHcXBuOG8tUHRvSUJRM3NGdm1TZklmTENKUHRUZXJqNDdtRHI5enhXbkRUNXlNV3VDUFpTcXNfMzhES1pGVXRlN2c?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxPTm9JSHgyZVlIYnV2V25uczNZRnd2b2V0cVFfdVk1QkVDd25FUTVMWFl1RGczb1N6Y1NrdUswQ3JKcWxDTy1EYnZoN3dwSWJ0X1NCRXVKdlo3Mm1kUEkwOVR1OHpWZmhqN3pxRTBCUjBYVkJhMUZxSWJXV0JORjhqTGhPd1JmZU95cFNkU3ppVTdxZExxRkx6bGdNYXpaNWtfUXRsekFB?oc=5
-  - WUSA9: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1ZmcUhJX1B3OG1SeUdBTW1EZ1ZPd3prbl8yaVBvN0pOSER4eDhlekNrVTFnQ3JsQmRVWW5jaldNOG9TNGxwNkEwWUFuMlgwT2hGSFR6NU1JRFZyX2loX2w5SVMxZ2JYcEV5ZUtpbUdlT3dIbU1uMVlGa3dSVnNnRGM1SG1VU2dBVk1uVFFHZVFQWmt0WTR0ckVBQjV1YTU1MFNkZ0VNY1NkeUFOMlQ1VGdPQk1aaFp2WWxuamNTUjQzRWwtRmh5R1hmNEhjSmdJTkZr?oc=5
-
-**Feed description:** Quest Diagnostics: Q3 Earnings Snapshot Yahoo Finance
-
-## 87. Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE0xMGx6MHFJUXF6RDFfTml1dExnM0NieFBkVE5FX0xEeTI2Yl81Q1dTWW8xOEp6VmJKb1BJQ3FZWkRGVDZybEtPTFJOZlhkWGpNTlhITUE1N3pxNk5YUU9OU1lQS1J4Z1E3VHljT1dRb1BveWpia2ljeEFuZ0ExWWQ4NWpPWm12OTNuN2NTY2dhd1pwVGpITm5SRDFjemxsbXduYVk3SFcxOWdjbElCcnVIWmFOVmF3ZUpGUlR5RzZDRDl0VjhSTEs5cUloUQ?oc=5
-
-**Feed description:** Quest Diagnostics Q3 revenue beats; raises 2026 revenue forecast TradingView
-
-## 88. Quest Diagnostics earnings beat by $0.13, revenue topped estimates
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 5
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnhfeWxBWUlleVZZLUE3SkJ5WXgtSDBBSXAxS05CSUFZdkx0OVFISkpYLVdfZ3h4RXBMMzlzS01yR2tGWlBfUWlRcV8wMjVuNk5jdGdqc1dJU3E5Y1hLOGpBdHd0ODNpcW5CUVgzUUt5YS01M2k1WGkzYmNPNGkwMVhtbzVIaU54YUhQVkpaempBZ2hUS3FPc3l4TGttY2JkRXprM0YwZVcyTEFwSDNxNA?oc=5
-  - Investing.com Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lTdmExWm1YbVhVWk4wbGdDSDJ3SnhhOWZOOG1pdHVyOU1PR09HbUdkaWVDeHZ1SkZnVVFObENOYjJRZUszejI3NktXS1V0QnRNLUNidDBPM3BDUkhVN1d3S1IzREJabk9GVXA2NjkwOFNVY24xc21jeDhnbXV0ZzJHMDBtMXd3MTM2cEtwUThmRVBTc3NoRWpUS1N0bDVoWmZtWFEwRk91OC0wLVpF?oc=5
-  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMirwFBVV95cUxQMXlIbmJrZjI4SlQ1WlZQVGdIOHZPUW1kenhydGFIZ0VaQzJfcXZvbnNnODVTamphRGM1SWd2WnFpcnJ1S0VlbS01bXNXQUNLSllzd0ZGRkh5WGt1N3dONmF0TnA1MHA4eE5mbXhjMGZiaEplNTFQQ3NCaTZra09Gb2s4ZnpZd2Q1Umk1MVJpTWhkN1lZdkJXbG5HbWVqQmhFZGVvN043bjBrUWppRV9z?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1lCTk5DRGZadUJEb2YwYm1ZTGJ3MjRGcjVPUDlmb2lHWDJqUTc0dmpzY1hYODhOYnNrZDgwdFE4UjJjc1NlaWNxenY4ekJRMHBuMmstNERnQU1UMnNielYyZFhVRk9Ga1lPcWUzTm5iTFFiU3BISEVDOHp1ZVQ3dkhzVFNiWGdVZnZkSGtwSEVQWDZBbHIxcDR3?oc=5
-  - Investing.com South Africa: https://news.google.com/rss/articles/CBMirwFBVV95cUxNeFJtVE5WMnppYjJWbWJTNlJXVjFIMGxJTGppczI5Zk1laVN3X3BQZDI3cDczem5ja3RHbEtwbV9HYWxEQmlyUk85bkZfdVhxVTdzNGVoSWt4bFY1bFNGM01sQmhCbHFBcjVXZFVWVHR0eHRkeFd0aVRWYmpOb21VdXd2U2NTQkV2d3hNaXRSdjZWQzZCWEpBcVRDTWtvRVVUSGZUS1poX1lwZ1VQZ08w?oc=5
-
-**Feed description:** Quest Diagnostics earnings beat by $0.13, revenue topped estimates Investing.com South Africa
-
-## 89. Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - TradingKey: https://news.google.com/rss/articles/CBMibkFVX3lxTFBwS21LdFpJdUY0eF9RQkt5QW1tQVY2YXhPY0lvNlQwVEc3Wm0wWG95VWtWelhBbTRFZWhJeU4xSUtId3l5WEJWdUEzSUpmbHRpWENMQXVLb3lPVDU3SHRZTFhkMlZhVGdtVG50UU1B?oc=5
-
-**Feed description:** Quest Diagnostics Q3 2026 Earnings: Volume Growth Drives 10% Revenue Gain TradingKey
-
-## 90. Quest Diagnostics Tops Q3 EPS by 13c; raises guidance
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - StreetInsider: https://news.google.com/rss/articles/CBMiugFBVV95cUxQZWNKb1B1LV9qbmZlaTlELXpva05ZODJMSW82TlR4R04zZmk4R3YyMVVGZ0JDZU5ZRUJTbTJaZjRydUpZVEExS2pVQjZkM3JoUnFISTdlM1J2QW11ekppeE85YW03ZmlzRTBDZEx6ZzE2T0RBTjJISXg0c1ZPRGJYQlk5cWVGVWRWNzJIYUVWWE5GT0g1T2ROeHAzU01rMlBHVllKUU9LR2VEMUJYRjFQa1dpcU9COWExOFE?oc=5
-
-**Feed description:** Quest Diagnostics (DGX) Tops Q3 EPS by 13c; raises guidance StreetInsider
-
-## 91. Quest Diagnostics Latest Press Releases & Corporate News
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UazRhVVA3RUx4QXdfb1V2dkpEdTBTaElPMGJLTW9sYXk3elVfcnY4TXVHdEp1WUpiWElyakRvanBGcmdfYUhPcHlpbmxESWZGSnVyVmNDUlVDUG5PUTkzVA?oc=5
-
-**Feed description:** Quest Diagnostics Incorporated (DGX) Latest Press Releases & Corporate News Yahoo Finance
-
-## 92. Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 22 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - Morningstar: https://news.google.com/rss/articles/CBMihAJBVV95cUxOU1pHVnVuaF9lN2VuWlVNQXBQemFINzlHa0U2c2tYTXM2QTRFakJXV1hTamNsclNGV211YUoxV3kzTUpvN21lZmctN0pMbmk4V2VxUDVzZU54SVI2WURoV1F4Rnp4OFNLSUlZTDU2QUFoZHJlZlQ3T2diTUVUZm53ZW5SNHNReVE4OU1PQ084SW1PQXJMVVJoc3JzRXhqZFNpc1pYdTRkM3V5WGV6eEdXcmZOVFlKdGp3dTFncENGVENsd1JXUEFvVHZ4dUNnZ1lJaGRkZG56ZjM4cUUzLTB6RGMybkRUdnAtYTNIMnVjN25YNWRrMjhuZzBQREJNdnNzVXFUaQ?oc=5
-  - PR Newswire: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcERGa3ZWRGtVUnJwdmdtNElaaHk5VHdZSVFySTdQRzRBZ19RbHpPa2I2bmo2MWpSQXdzZlhVRzZGLTl4QjZhaWtuVzVwOFZ2TnhaaGdHTEY5V2FZMEg2dDUzUzhubjdTUFZpQjZGT3Z0Zkw1WXdlR0c5UExGU1UtQURXNUN0WXM4d1F0OTJJQjRQb2FPNG82bkJzOUZjWjRMVUl4YXB3MVVNMjJFQ25UY0luRkhRUUVsa2NpQ21iUnpRTk01SmIxOW5BRjNPVFViTjRfdlNOM1dMb0FqNVhZSWI1MjUtUGVQUWZtZ0FaNklodGJBTWNDazJ5OUlTZw?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUlkNHI4QzRYSWVZaDB1dXNjeGNXc2pFRFN6amI1VGxFZFhYSnlnaDdHdTF3Um9hemxZWnBqUjdiNldoSzUxeUtqaWdLQUc2d3FVbTg4Mjd3Q2xjMnFrZVM4Ym0yazhpQ3hLMnFiM2xRWTlHUXI0bnhERFdQcEI5aWVSeDRJNnpvQ2dXTFVrWUYxRDVBQThULXNXWmJicGE3T0lnY2RvU2kwX0QwZHoyRThTTlA4UlAzdkNuRg?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk5QeWhjem44T1hYQ1RTWWdtWGk0YmJYdGJRQnlqSWZlbllWOXlVRktWODJNNU9UanpuZE5Obko2aXVJN1d5ZGxTSWtnQVZYWXd1dGlfNFRldElwenVHTk84R3k4Sl9pYnZWb3FZZkI2N0tEQXVjcDBFWG9scGQwaWJtSjlsOGozVTZPV25BM1Z4ajItZHlCa01EZUgtbWJ6ZmNaX1JnRWM3YS0weEI0b3EyRQ?oc=5
-
-**Feed description:** Quest Diagnostics Reports Third Quarter 2026 Financial Results; Raises Revenue and EPS Guidance for Full Year 2026 Morningstar
 
 ## 93. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
 
