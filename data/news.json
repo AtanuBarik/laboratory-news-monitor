@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-25T10:51:38.023329+05:30",
-  "generated_at_display": "25 Oct 2026, 10:51 AM IST",
-  "item_count": 479,
-  "raw_relevant_item_count": 663,
-  "duplicates_merged": 128,
+  "generated_at": "2026-10-25T17:32:43.103946+05:30",
+  "generated_at_display": "25 Oct 2026, 5:32 PM IST",
+  "item_count": 478,
+  "raw_relevant_item_count": 691,
+  "duplicates_merged": 154,
   "failures": [],
   "items": [
+    {
+      "id": "40ded412be50285114cc",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Quanum LSM Incident: System Restored, Patient Data Scope Still Under Investigation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlBGNGxUb3dnNVUyemVscDdXcXpNa3Z1clhtZFdHSWZSMnFjSm40algyeUtwQlRkUnZ4dTltSm5ERHhoRFBhQzBTUFJKMFVDWHVFSVJQTmhpalBpV3NFTnpBbXhpWUYxckxjTjFIa2tHMklWTGZ3QVNELW14cG9LamJDeEpYdw?oc=5",
+      "description": "Quest Diagnostics Quanum LSM Incident: System Restored, Patient Data Scope Still Under Investigation Rescana",
+      "source": "Rescana",
+      "source_url": "https://www.rescana.com",
+      "source_domain": "rescana.com",
+      "published_at": "2026-10-25T06:30:00+00:00",
+      "published_display": "25 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Rescana",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlBGNGxUb3dnNVUyemVscDdXcXpNa3Z1clhtZFdHSWZSMnFjSm40algyeUtwQlRkUnZ4dTltSm5ERHhoRFBhQzBTUFJKMFVDWHVFSVJQTmhpalBpV3NFTnpBbXhpWUYxckxjTjFIa2tHMklWTGZ3QVNELW14cG9LamJDeEpYdw?oc=5",
+          "domain": "rescana.com",
+          "published_at": "2026-10-25T06:30:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "data incident investigation lsm patient quanum restored scope still system under"
+    },
     {
       "id": "cf7c772767d7ae4683a7",
       "company": "Quest Diagnostics",
@@ -77,6 +101,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 breach hit lsm quanum steps"
+    },
+    {
+      "id": "4c4671b5ae11bcc6bf67",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Price Stalls After Strong Q3 Earnings",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTllyNDFPbjlmekk4QS1FdFNObl9jeFdtUTJxYTh1T2dJLXplQ2FzV3B0T2xXdUFuSkNnSmRkMUdidGJiUVY0dXByVXJyVU5XZExyMnhNMnJFU1E0c25rUE9POWxXcXNXMUJjZ1hQOXhkbHZ6bTF4aEZtbUJUdC13ajZqQVd5bU1Gdm5YcUV6c21vYmo0a1lCS0lKYWM4QVk?oc=5",
+      "description": "Quest Diagnostics (DGX) Stock Price Stalls After Strong Q3 Earnings Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-24T03:14:00+00:00",
+      "published_display": "24 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTllyNDFPbjlmekk4QS1FdFNObl9jeFdtUTJxYTh1T2dJLXplQ2FzV3B0T2xXdUFuSkNnSmRkMUdidGJiUVY0dXByVXJyVU5XZExyMnhNMnJFU1E0c25rUE9POWxXcXNXMUJjZ1hQOXhkbHZ6bTF4aEZtbUJUdC13ajZqQVd5bU1Gdm5YcUV6c21vYmo0a1lCS0lKYWM4QVk?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-24T03:14:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after earnings price stalls stock strong"
     },
     {
       "id": "1bf1275e81bc188b0af9",
@@ -161,7 +209,7 @@
       "company": "Quest Diagnostics",
       "title": "Form 4 Quest Diagnostics orporated: Sam Samad (Executive Vice President & CFO) For: 21 October",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXlRWVVjaHE4R0RyaGdzOE9SN0Q3cjJ4VHdsZklYVE1TTFQ5dktzUlhVY2I1LTdYelo2aDhDNmpiYllzek1EOTNMWW04OGNjMm9tcTRoeWE4WURVQjlRM1dlbEVXTTdZQkV4RWhTcGotNmNBZWlRWm9VTWYtZ2ZUWC04ZEN1T29RemltMnBXS3BNSmk2R0dXZ3RtYm9MQWczeFFKYUxVYldsalROd1gyOEt4UVJITlJPRFBGaHVwaDJhWVdrZ3dPRHhTNkczVldrZXVTM0gzUDRaaU5LWExqT1JjZTc?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated: Sam Samad (Executive Vice President & CFO) For: 21 October Investing.com UK",
+      "description": "Form 4 Quest Diagnostics orporated: Sam Samad (Executive Vice President & CFO) For: 21 October By Investing.com Investing.com India",
       "source": "Investing.com UK",
       "source_url": "https://uk.investing.com",
       "source_domain": "uk.investing.com",
@@ -175,9 +223,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXlRWVVjaHE4R0RyaGdzOE9SN0Q3cjJ4VHdsZklYVE1TTFQ5dktzUlhVY2I1LTdYelo2aDhDNmpiYllzek1EOTNMWW04OGNjMm9tcTRoeWE4WURVQjlRM1dlbEVXTTdZQkV4RWhTcGotNmNBZWlRWm9VTWYtZ2ZUWC04ZEN1T29RemltMnBXS3BNSmk2R0dXZ3RtYm9MQWczeFFKYUxVYldsalROd1gyOEt4UVJITlJPRFBGaHVwaDJhWVdrZ3dPRHhTNkczVldrZXVTM0gzUDRaaU5LWExqT1JjZTc?oc=5",
           "domain": "uk.investing.com",
           "published_at": "2026-10-24T02:16:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTHl0bDVCQXYwdm41NU8tVXQteFluS01nNExNWmw2cUUxMWVmN2FBOXhWMS1RbDlkbDFxeEE0bVAzMG9NLXo0aUxmYXBYc2lha0VhN1hRczg2OUl0elBnWlI5OWdZX002ci1Ddm5LSGtuVnFCT3JYLVJrR0J3ZUhzajZWOFBMOEhrd0dXT09HVEppY21Md3UtWW80SmZQT1NaUHVHaDJDVjBMUHY1OS11VnNqaDhBRGxiNzVYbVNyaEpEUi1rLVM5eW5QRVFUQ2szaUdjcFNfQ3gySFVGUTktb3NxNGM?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-24T02:30:21+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "cfo executive form october orporated president sam samad vice"
     },
     {
@@ -751,19 +805,49 @@
       "event_signature": "access assay cancer cervical expand hpv onclarity screening waters"
     },
     {
-      "id": "f01986222e934fa19e1f",
+      "id": "c87f5a44fa33e1dbc7e4",
+      "company": "Labcorp",
+      "title": "Labcorp: Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHFfZGx3ZW90SWNtcDkwaG1BSVBsVHdhODl0U1dtdUE2WHA1WnE0My1OOTNOQXZseVU5VkNVX0c2bzY2LUQtMTlyN29VSFBYdk5kVnQyLUlrdzFscFhqTzJ1Q1k2b1JQMFhTVloyUFl1WHNEbm5qS1EwS3NTc0k5d1QxTXNKc0NRdjB5TEZwOVkwQ1dHd3BhSFE5ZExoRi1mRzJkNEYtYUJmUkdCS1VvUC0zN2xLakdjQThROTVyMzh2dEVmMWVIMF84bUowamJ4S1poMlZZSQ?oc=5",
+      "description": "Labcorp : Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-23T12:07:09+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHFfZGx3ZW90SWNtcDkwaG1BSVBsVHdhODl0U1dtdUE2WHA1WnE0My1OOTNOQXZseVU5VkNVX0c2bzY2LUQtMTlyN29VSFBYdk5kVnQyLUlrdzFscFhqTzJ1Q1k2b1JQMFhTVloyUFl1WHNEbm5qS1EwS3NTc0k5d1QxTXNKc0NRdjB5TEZwOVkwQ1dHd3BhSFE5ZExoRi1mRzJkNEYtYUJmUkdCS1VvUC0zN2xLakdjQThROTVyMzh2dEVmMWVIMF84bUowamJ4S1poMlZZSQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-23T12:07:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquire agreement definitive health millennium oct"
+    },
+    {
+      "id": "79cbee2d4c81e730dec7",
       "company": "Labcorp",
       "title": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
-      "description": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 AOL.com",
-      "source": "AOL.com",
-      "source_url": "https://www.aol.com",
-      "source_domain": "aol.com",
-      "published_at": "2026-10-23T12:01:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5",
+      "description": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-23T12:00:00+00:00",
       "published_display": "23 Oct 2026",
       "category": "Product & Services",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-23T12:00:00+00:00"
+        },
         {
           "name": "AOL.com",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
@@ -771,7 +855,7 @@
           "published_at": "2026-10-23T12:01:22+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
@@ -829,9 +913,15 @@
           "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
           "domain": "fox8.com",
           "published_at": "2026-10-23T10:11:24+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb083U0hocUNnQmlnMW01QS1rTG5rb1l6UE83TUFENkxiM1Z3bWR0TzlDZjNoZ09ZUC1tRDBZcGhoSms4cTZ5eHE0Z29fUjF5QzlRRWhZV0NRSjc4TE9RVU1qWXlFT1UxSTV1WlVYZkFlRXM4T3BVaFN2UlduZm9feFhtVFNjUzBSS1dF?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-23T10:11:24+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "attack cyber hit"
     },
     {
@@ -1885,9 +1975,21 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UVTFqSTF4Wm1BMUIwaVRHbXhJdHpnSFNYeTNYSUE2bUthdW9OX1Bkc2h6Q0h6NjZfQUdXOXF4Q0FxVGZKa0NGd2xSMk1wZktaZTJCcjlJZEhVQzgtb3dj0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5",
           "domain": "modernghana.com",
           "published_at": "2026-10-24T02:36:01+00:00"
+        },
+        {
+          "name": "104.5 WOKV",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdE5fdU9VdzNiMUpvdkdKcjlqYWtSUnJGWHVlZlpmRnR6UUdtS2lTVWYwVW5YUmVRNm5XZlpKSDAxZXR5TWFPMkI3c2xnX2dMOTdGeUotN2MwNGxDWmx3S0JzUjc0bWJmSzcyRHhZTDFWUVdiRENURjFRSnFreFBFUjdnV0pmZFHSAZsBQVVfeXFMTUkyUWRCQXdJMGFKN1JkOUF5aU9laV9DNDk5Tnp1UmotNDlMMnB4aXVjMDlEYi1rYlMzWV9hQlptNEJQRzFHM0Exd0Nnb2pJVjNZU3htVkdJalJUdFBKTGNLSUc0ZUNVSHZnX01FMGdYRV83ZlkwNng1NFF2V2pna3B6YllyWXlEem4xUm93cmxKamlrOVZDeXBVb0E?oc=5",
+          "domain": "wokv.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd29wVjhhQTRkcTB6cFQxX05SNnQ1Nm1lcGs5TU1YQ3VENVdFVFFxYWFiamJKREZrY05LMHFSblUxOG94Zm5Bek8tcm9pUGtKZDRfcVAxU2EtLU4xcVBUUVd4ZTB6QVowTU0zdHU4U2xPOEpzU2twNE53cXljTmpuODRtOExzdm40V1N0ZEFBdVg?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-22T21:24:32+00:00"
         }
       ],
-      "coverage_count": 36,
+      "coverage_count": 38,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -3373,36 +3475,6 @@
       "event_signature": "260 lifts stock target truist usd"
     },
     {
-      "id": "00a00cc0aeef9ad4a9f6",
-      "company": "Labcorp",
-      "title": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
-      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-15T16:11:26+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-15T16:11:26+00:00"
-        },
-        {
-          "name": "Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
-          "domain": "hoodline.com",
-          "published_at": "2026-10-15T20:56:11+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "872m acquire assets bioreference outlays"
-    },
-    {
       "id": "2526c33760f6decb6fa1",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics shares may shift 4.4% on Oct. 22 earnings By Investing.com",
@@ -3461,30 +3533,6 @@
       ],
       "coverage_count": 7,
       "event_signature": "com earnings investing may oct shares shift"
-    },
-    {
-      "id": "6c5c122547bb82085ead",
-      "company": "Labcorp",
-      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
-      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-15T12:16:02+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-15T12:16:02+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "722 acquire assets bioreference certain health million opko subsidiary"
     },
     {
       "id": "6b3af5c3cded373df429",
@@ -3641,6 +3689,60 @@
       ],
       "coverage_count": 1,
       "event_signature": "4kscore 872m assets bioreference health including pay prostate test"
+    },
+    {
+      "id": "6c5c122547bb82085ead",
+      "company": "Labcorp",
+      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "722 acquire assets bioreference certain health million opko subsidiary"
+    },
+    {
+      "id": "4fdff9a3f0cf6b06d6c3",
+      "company": "Labcorp",
+      "title": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
+      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
+      "source": "Hoodline",
+      "source_url": "https://hoodline.com",
+      "source_domain": "hoodline.com",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-15T16:11:26+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "872m acquire agrees assets biopharma bioreference deal opko refocuses"
     },
     {
       "id": "131a04cd4b17846e8707",
@@ -15040,223 +15142,12 @@
       "summary_evidence": [
         "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
       ]
-    },
-    {
-      "id": "36e61bb422a4c9656fef",
-      "company": "Labcorp",
-      "title": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5",
-      "description": "Labcorp launched Marker by Labcorp, a Genetic Health Panel intended to give consumers direct access to hereditary-risk information for more than 100 medically actionable conditions. The panel analyzes 163 genes associated with hereditary cancers, cardiovascular conditions and metabolic disorders and is scheduled to become available through Labcorp OnDemand on August 3, 2026. Consumers can buy the test directly and schedule a blood draw at any of more than 2,200 Labcorp patient service centers. Samples are processed by Labcorp laboratories, while results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a comprehensive report, educational resources tied to individual findings and access to licensed genetic counselors who can help consumers understand results and discuss potential follow-up. Labcorp says the product combines the genetics capabilities of Labcorp Genetics and Invitae with its nationwide collection network and existing consumer testing channel. The company cites research suggesting that nearly one in six adults who receive genetic testing learn that they carry a variant linked to a serious, medically actionable condition. Labcorp emphasizes that findings from Marker are not diagnostic on their own and should be evaluated alongside medical history, family history and other clinical risk factors.",
-      "source": "Sahm",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNSnhkODB3X2poWmUyX2l2UnVwc2o1T0RyTVRic01nTFVqcC1oUW94TVBWemFicVpHX29FeDEyQ1JlQkJ0ZmhiaFdSWV9oOTNPd3lJVk0wNlh3djJCSzJvVS1QcDQwU2RXMUFHdFkyeDJoa0ltbE9tMEdoQ1pxU2xqVERPVEJTb2M5UTdDeE1oRTJiY29oWEtqTmhWZWM1MTBDM1JlYkctNVFnOGgzYUpiZ2hpM3NwV3FUcVdPOWtiWDh0czdNSkNWNkQwLVE5b1ZqSHkyel9aOTd1V25FT0dTQkNoSVg4V2NMX2htbG8xS3NKa1BoaG9hVHNieG4?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T07:00:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNYUZ6Y2NSMzZ5NExpM3R3cmZ4NG83WUFmWDB4UVdkWkM3UEJNQnFDNk85WGJyVk9oMUJucFMtTmo1OFVZcGhPZ0J4ai1iRnk5UnRUMEl5Q3RDekE1clZYWGd0Zk1MUU5UWS1FRTlIU2tBalAybzIwQ2xfV2xGUGg1eGdKQlR4UVFROXdlbVZqcFpvOEZzQS1lTnFBQnJ0Y0ZNYjRELVBQUmt1eGUzN185WEZSZGc1em5ZM2hZeG1WSm80RUk1eGo0aHcxV0ZpWkZLQnpsTFpiRjBVT3BWLUtBcGJGRW9JUkw0eGJpbGZzSWVsRFJCX3A2TGdFOTZ4UTFkWFE?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-07-27T07:00:00+00:00"
-        },
-        {
-          "name": "Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQV0R4V1Yya1BPdXR5RllmYlplUVByY0tyMERDWnY4Zm5uNFJzLUc2ajhTdG54M0FVcjRrWFBwMVBrN01jQ3Uzbk05WU9Ua2RqM0NVSHFvQ1VuU2xTbWFBZmhuR3lOOTdYV0xKWF9GcGRxdm9EMW9qWmxFTko2ZUpib2x5dDhWTlpXSGtqaC1MZDRGY2dZNzZBc3NweThRQkJCbGdoajdEX1pEQ1RCb2JpS1d0akFWaXZRcUlSSW5YTzlCd1FqamJfdGlwUXpoYlg1LV9yNURHdFQ4S0tnaDMtRlEtSWp6ZGtfVk1mQmlxdDhHZw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T12:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMENRUmhWYTBrNDg2NHZacFhxM1NKRlRLVExhNEUxcTJWdXhwcFZoWUYzSVdQRXNfZmNxOGJQUktkdEg3Q3B2T21sY1ZSdlVLd3hrdkFvSXMza1NIWFFaNHNFaGFLb056Tmp0MkVLcDRkTDdfNXV6TTVDVWR0cDJOYW1Na1JBMXB3V3R3bFJFS0JDd0xhTURMMVVmZDlucW90Q1lMbUVGNkJaT2V5?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T12:27:55+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa0JoWHVFenZVdUcwSlB4RTJ0U2hZVU8xX3BIYjFwM3hvcjh4Z1U1YXp5VzV6V25YRW5MaFNoS0J6UVRlVENrTmhtWjk1Mi1zS1JFYzZVbnZPeFRscDFCTm5Hekd5S2Jrb010Rk05X3J5ZkNaMXRod2xMMGNaZVdKOG1LeWNQQVdvcGs1VEZtRGltSzdxd25abkZKc2VyMFVFbXlGQ3lUeUotZw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T13:49:55+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNUNENzJmaWhFNmJ2WjlyWGRzUHNBb3ZmUjh1NnIyam9PTDd5cFRkbl9DaGpMZ3Z1dUtyUlJ1TVFfeW03UjlFd3k5YmhMZURNckNoc1dXY0FCR1A4RGdKQVZGUnRkMUE3QmZNTklYWGhLTWRicElxOVFjT3lacE02a0h2U2FjdUJYMGhYbjJacGN5RV85S243SVhaUjdqVlgtbXI2WE50TGJySkh6LUEtdllHNzVqcmNYc0VHUEdOY0NVQm9qNmZqdjNDX2VhX2pyRTBHbjl3M196NmJDLUNTUVNaY0E1am11VnlsZUdackNsRmFRRWN4cXZRUQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T15:56:15+00:00"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZzg1OG5hTTctRjlISHpaUnhrRkxmWGc0MTZ5ZFpMOVlURV9SZmVxd2xiV0h2YTg1RERCQVpUaWFHU1E1NmhkMG1sVE9EaXdDbndxM1cwbjk1M2NUQjhMeDZKTF9TcWZqQ3RSejBXS3M1clJsOVB1UDdnNWthSkdVNnRNekpmSm1qSFR3?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T23:08:21+00:00"
-        },
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRkJ0enYxUHRwUHRuRmJzdEJCSlNvVDJFX1hCWE5veWwwcGxNbVZESzItUDhqb1RkeC1MeDRMWmNRbTZBaEUwWlEwQVJKRFZlYllyZkFPSHkzZm85eGxqd1hNWkktbVVIell1SURJVXJveHQ3UUpVem0ydGcyQTA2U1lYU2JaZ1VkYnZN?oc=5",
-          "domain": "sg.finance.yahoo.com",
-          "published_at": "2026-07-31T23:08:21+00:00"
-        },
-        {
-          "name": "Lelezard",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NMkxvQlFNWGNaTm9kbkNJd0lMVFlWOF92VXcwQWNmczJhMVRMTWRFNDJNa05pbG9NZURDZUhsS1dwYUM0Yk9jWEpYY1kzdmt1SXNmdnlBUkxqdw?oc=5",
-          "domain": "lelezard.com",
-          "published_at": "2026-07-27T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQXU4eXRkaW5ZN0k4a0dSblhMUG1nTVB6UmJxRG9nMGMzUnUwVDFQel9oQXEwcF9ndTVHalJPd21KZTlDQjZqWEpRSXJITFhHNkVSSUN2UGR6V3JObmw4blVBVDRzaEtUQlBvX0t4QmRqcEdrdk00YW95eEVYQU0wWHVEZUpadHhzLW9FYTBXcEM5WDlqY2MxSnZFZw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-31T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 10,
-      "event_signature": "access consumer expanding genetic health hereditary launches marker panel risk testing",
-      "source_description": "Labcorp Launches Marker by Labcorp™ Genetic Health Panel, Expanding Consumer Access to Hereditary Genetic Risk Testing sahmcapital.com",
-      "chatgpt_summary": "Labcorp launched Marker by Labcorp, a Genetic Health Panel intended to give consumers direct access to hereditary-risk information for more than 100 medically actionable conditions. The panel analyzes 163 genes associated with hereditary cancers, cardiovascular conditions and metabolic disorders and is scheduled to become available through Labcorp OnDemand on August 3, 2026. Consumers can buy the test directly and schedule a blood draw at any of more than 2,200 Labcorp patient service centers. Samples are processed by Labcorp laboratories, while results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a comprehensive report, educational resources tied to individual findings and access to licensed genetic counselors who can help consumers understand results and discuss potential follow-up. Labcorp says the product combines the genetics capabilities of Labcorp Genetics and Invitae with its nationwide collection network and existing consumer testing channel. The company cites research suggesting that nearly one in six adults who receive genetic testing learn that they carry a variant linked to a serious, medically actionable condition. Labcorp emphasizes that findings from Marker are not diagnostic on their own and should be evaluated alongside medical history, family history and other clinical risk factors.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T00:35:10+05:30",
-      "summary_evidence": [
-        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding",
-        "https://www.prnewswire.com/news-releases/labcorp-launches-marker-by-labcorp-genetic-health-panel-expanding-consumer-access-to-hereditary-genetic-risk-testing-302834777.html"
-      ]
-    },
-    {
-      "id": "d3b21ff914d313457038",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5",
-      "description": "Quest Diagnostics director Vicky B. Gregg reported acquiring 72 Quest common shares on July 22, 2026 at $206.808 per share through a dividend reinvestment plan. The Form 4 shows that her direct beneficial ownership increased to 18,386 shares after the transaction. The filing uses transaction code “A” for the acquisition and identifies July 22 as the earliest transaction date. Its explanatory footnote states that the shares were acquired through a dividend reinvestment plan administered by Gregg’s broker. Such acquisitions are eligible for deferred reporting on Form 5 under Rule 16a-6, but Gregg elected to report the transaction early on Form 4. Sean D. Mersten, acting as attorney-in-fact for Gregg, signed the filing on July 27, 2026. The filing does not describe an open-market purchase, option exercise, sale or change in Gregg’s board role; it records an automatic reinvestment-related increase in her existing direct equity position. At the reported acquisition price, the 72 shares represent about $14,890 of stock value. The transaction is best understood as a routine ownership update tied to Quest’s dividend-reinvestment mechanism rather than a separately negotiated investment or a material corporate capital-allocation action.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVEQ5bWllZnprM3JTajBFQXRvVkY2dC1EbjU5TWl2RUdZcXhlT2VQNHR2TllONGszNkpxRmdKZTNQaERNNC1yckR0VWd6MWs0ZDVHeG1iZVJGUGhBYVhpMGJIRDNMalZwWGFFZlpLc1BnNGJWQm9nRzBPWXpRQ3BqQzBBd1pwdnNqVUItdjVrYV8tdk5WWXBNSnhUSm02NXNUVTRlbFZtbG1NUDNjQ3Jkb3pfQTJqQXduTXBTSWx6RE9TRmgtaHJaT1RkX1ptaVNmTnU3VmU3VHFlM3hvZ3Q4?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-07-27T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "boosts director dividend gregg plan reinvestment shares stake via vicky",
-      "source_description": "Quest Diagnostics Director Vicky B. Gregg Boosts Stake with 72 Shares via Dividend Reinvestment Plan kalkinemedia.com",
-      "chatgpt_summary": "Quest Diagnostics director Vicky B. Gregg reported acquiring 72 Quest common shares on July 22, 2026 at $206.808 per share through a dividend reinvestment plan. The Form 4 shows that her direct beneficial ownership increased to 18,386 shares after the transaction. The filing uses transaction code “A” for the acquisition and identifies July 22 as the earliest transaction date. Its explanatory footnote states that the shares were acquired through a dividend reinvestment plan administered by Gregg’s broker. Such acquisitions are eligible for deferred reporting on Form 5 under Rule 16a-6, but Gregg elected to report the transaction early on Form 4. Sean D. Mersten, acting as attorney-in-fact for Gregg, signed the filing on July 27, 2026. The filing does not describe an open-market purchase, option exercise, sale or change in Gregg’s board role; it records an automatic reinvestment-related increase in her existing direct equity position. At the reported acquisition price, the 72 shares represent about $14,890 of stock value. The transaction is best understood as a routine ownership update tied to Quest’s dividend-reinvestment mechanism rather than a separately negotiated investment or a material corporate capital-allocation action.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://www.advfn.com/stock-market/NYSE/DGX/stock-news/98989515/form-4-statement-of-changes-in-beneficial-owners"
-      ]
-    },
-    {
-      "id": "10f33466a047be2ac02f",
-      "company": "Quest Diagnostics",
-      "title": "Form 4 Quest Diagnostics orporated For: 27 July By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated For: 29 July By Investing.com Investing.com South Africa",
-      "source": "Investing.com Nigeria",
-      "source_url": "https://ng.investing.com",
-      "source_domain": "ng.investing.com",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWGZuMTRZWjBBYTJOWEpTLTVzdE1VbXd2dDFDR3dUWXg2UWF1QnZWYmRMdUhqZGphQms1ZHgydUt5anRBc3FZOHp0TUl6VlQycEFzTGZfYWsxWEx4bnQ0OFN5Y1N5REptZktFeGxCZEkzUThQRUFaMF9OOC1jTmx3SFJqUjQtV1lGMFYtU2VkQ1QtMGVkRXpTamdJeXJuLWZmQ3M4NkNtZ1R3UzQ?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-07-27T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVC13bTlZQm9rMzRMTm16RzZodXZHUlVET2ZyWmN4Vkp1am4tN3dLRG5lemhGNXBPRFhqdlAtRTFOM1Z0eFVrbHMyQl81Wm5xM1pucXllckVfZjN0VkxpX3NwWjlaT0RpRGdLbUhIVXBCUERhZmdJSlc4YnBTUEh1dGFDb05FVTRVT2tIY2NFSGhOZUlmajE2aW1QWklkQU9LZ1pQVUhsdC0tb2M?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-07-27T21:18:08+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmpNZWtCdVZXMjVBOGlpUmpmOUk2VG45QlVhel9aNklacmNpSHhTdnBsWXYzQjFoNnJiYldVbkYyeXU2MGktNFRoaWFsQ2Jzb0ZJOWsyUGI2YmExajBmMC1Ob1ZxY1hyMVlmUWtidlBnY2x6NTZ0elZFb0JZSHZVUUtOWUZjV3JuRmlDaTZKajJTQlJKb3J5SHZ1dEZER2FwOXdudXRlSVVocFk?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-07-27T22:05:01+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWDVSZXVmUF9aMEc2UWNOek43MHVKUHAtT00ta3RTZmY3NWV4UUVic3FSSFQ0Tzd0QUpTTGczYVhfSzdodnhaRm5pekhEaGpBWWpyN01nWGRqWnBDZ05KTjNncTJJbkFHdjZXSV81enJ2cDVzWF9uWUs2SzVIcHpOM19QNVQ3YkZJZm9teUl6XzNfMFBDNzVleUhIR3BnZHJ4dDRycDdubEJqM1E?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-07-29T21:48:41+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDg0YUtfQVFjeUVIa2NMS1Zha0FCQzloQnJJWEpwUlJwN1BnTDZjOElueklaemM3VEF1bktBN1BmT1NnVzJxbEhObi1oMTVaeXh6VUp3NWlwN1VUZ2NLdWg2QWFoMVNDc0NvRWcxN0lTeG1XRjdTZ1RvelhMVm0xZ0xNM0VfcTJmVXNjb2ZJWDJpOENROTBsZXo2QWRidlBPQkxtYVRYSFc3YkE?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-07-29T22:22:02+00:00"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzRPUjV0MGowVUZLYTAtNVFjUXZidlViU3BEWUpSTDhGdFI0RkY5QWtEcWV5NHZicnN2Vlo2QVppWHFHbzZoV2lLa3lNNnRpQl9USTBFdFZJV1NPY0lIbkJuT1lOckxlODFvR0NyU2ZUYkdCY0VCNnoxbmVPUXlqb2JjaU9VRkhQclVveHk5RTkyRlAxcklYNEFDdnBXZ0VWWnBMcmx4T2E1RlE?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-07-29T22:23:21+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdHAwM3I5M3pNaDdZbjNCRjlaMEFFRXBzb0JSZF9xSTFzUW5FLUZoVXotMTRuZ2szOFRwRVdEMFU1V2M1QzdSTEMxUXpyazF5NEJlRFBCUTVKeVczQmFfalFHMEhCbnFtMzJNYnlReGRodi1wRDdNdThFMFJaaXhRNGdRWk42NGxMeFN6WU96dk5CaE50R0ZfbUY4R05HRW1ibTVrWWpHNDc4czA?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-07-27T21:18:08+00:00"
-        }
-      ],
-      "coverage_count": 7,
-      "event_signature": "com form investing july orporated"
-    },
-    {
-      "id": "aaf0a98848118699447b",
-      "company": "Labcorp",
-      "title": "Labcorp launches DTC ‘Genetic Health Panel’ to seek out multiple diseases",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5",
-      "description": "Fierce Biotech's report on Marker by Labcorp describes a significant expansion of Labcorp's direct-to-consumer genetics offering, with Labcorp's own launch release confirming the core product specifications. The Marker Genetic Health Panel analyzes 163 genes associated with more than 100 medically actionable hereditary conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. Labcorp says nearly one in six adults who undergo genetic testing discover a variant linked to a serious but medically actionable condition. The panel became available through Labcorp OnDemand on August 3, 2026. Consumers can order it directly, then schedule a blood draw at one of more than 2,200 Labcorp patient service centers. Labcorp laboratories analyze the specimen and deliver results through the secure patient portal and MyLabcorp platform. The service includes a comprehensive report, educational resources tailored to detected findings and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp says the product combines capabilities from Labcorp Genetics and Invitae and brings hereditary-risk assessment into the same consumer channel as its biomarker tests. The company cautions that Marker results are not diagnostic and should be considered with personal and family medical history and other risk factors. Fierce framed the launch as an important consumer-genetics expansion following Labcorp's acquisition of Invitae assets rather than an ancestry-focused test.",
-      "source": "Fierce Biotech",
-      "source_url": "https://www.fiercebiotech.com",
-      "source_domain": "fiercebiotech.com",
-      "published_at": "2026-07-27T07:00:00+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Organizational Updates",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM1Jub3BvX1dLQUtwT2ZuaWZDTUloTlJFYzUxTGVQYVp2UnBWRnlSRmtkYmtGYll1UktaNUdIWWhLeENSNkZmdDJxU3RIRzF5aXFDc01zWHdQaTNHa0RNVWgxNC1BeS1TWE10NXJHc0M5Wlk4QzJ4RHVKSXg2RjRsRTRHUE5veFpHWHRJY2VvYUp5cVh6alhqaC1HU25XQmlxWGhTb2h6MFQtUQ?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-07-27T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "diseases dtc genetic health launches multiple out panel seek",
-      "source_description": "Labcorp is launching the Marker by Labcorp Genetic Health Panel as a direct-to-consumer screen for inherited disease risk. The test analyzes 163 genes and is designed to assess risk across more than 100 hereditary conditions, including cancers and cardiovascular, neurological, muscular and metabolic diseases. Fierce Biotech reported that the product also provides information on how genetics may affect responses to certain medications and selected traits related to athletic performance. Labcorp says almost one in six adults carry an inherited risk for a serious but medically actionable condition and that many carriers are unaware of it. The company is positioning the panel toward preventive action rather than curiosity-driven ancestry-style testing. Licensed genetic counseling is built into the service so consumers can discuss findings and potential next steps. The panel becomes available through Labcorp OnDemand on August 3, 2026. Consumers will have blood drawn at Labcorp patient service centers, samples will be analyzed in Labcorp laboratories, and results will be delivered through the company's patient portal and MyLabcorp mobile platform. Fierce noted that Marker is Labcorp's first major consumer genetics product since the company acquired Invitae's assets in 2024, linking the launch to Labcorp's broader expansion in clinical genetics and consumer-access testing.",
-      "chatgpt_summary": "Fierce Biotech's report on Marker by Labcorp describes a significant expansion of Labcorp's direct-to-consumer genetics offering, with Labcorp's own launch release confirming the core product specifications. The Marker Genetic Health Panel analyzes 163 genes associated with more than 100 medically actionable hereditary conditions, including inherited cancer syndromes, cardiovascular conditions and metabolic disorders. Labcorp says nearly one in six adults who undergo genetic testing discover a variant linked to a serious but medically actionable condition. The panel became available through Labcorp OnDemand on August 3, 2026. Consumers can order it directly, then schedule a blood draw at one of more than 2,200 Labcorp patient service centers. Labcorp laboratories analyze the specimen and deliver results through the secure patient portal and MyLabcorp platform. The service includes a comprehensive report, educational resources tailored to detected findings and access to a licensed genetic counselor for interpretation and next-step discussions. Labcorp says the product combines capabilities from Labcorp Genetics and Invitae and brings hereditary-risk assessment into the same consumer channel as its biomarker tests. The company cautions that Marker results are not diagnostic and should be considered with personal and family medical history and other risk factors. Fierce framed the launch as an important consumer-genetics expansion following Labcorp's acquisition of Invitae assets rather than an ancestry-focused test.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://www.fiercebiotech.com/medtech/labcorp-launches-dtc-genetic-health-panel-seek-out-multiple-diseases",
-        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 56,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-25T12:17:00+05:30",
-  "next_update_display": "25 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-25T18:17:00+05:30",
+  "next_update_display": "25 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

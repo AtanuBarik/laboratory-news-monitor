@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T12:16:31.685653+05:30",
-  "generated_at_display": "25 Oct 2026, 12:16 PM IST",
+  "generated_at": "2026-10-25T17:32:48.666617+05:30",
+  "generated_at_display": "25 Oct 2026, 5:32 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 399,
+  "remaining_unsummarized_count": 401,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -43,6 +43,25 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGlZX2hYQWVBRXpUTWlwX2ZmcmpkTkdCNFJwUWFiRWxaelJlc3AwX3hNdlBuSHBFSDYwRzg2c09MRW1FQTVoZ256NUtzS2NZMnpZUmxlN3QyODc5c1BrVW9Xa3pmNEl6Y2R1RmxIaFRMRVhWNzhYTWZIc0pIaEVxS080VlNxMU9ZS0c4eEVjVlVzd3ZldU9JLWpsX2QwUTFwekNldVZabEdQcjhFOEo3alU1TkxmZE1oOHJjOExXUlNmNE1ZX3R0RkF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c87f5a44fa33e1dbc7e4",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp: Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health",
+      "source": "www.marketscreener.com",
+      "description": "Labcorp : Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health www.marketscreener.com",
+      "published_at": "2026-10-23T12:07:09+00:00",
+      "published_display": "23 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHFfZGx3ZW90SWNtcDkwaG1BSVBsVHdhODl0U1dtdUE2WHA1WnE0My1OOTNOQXZseVU5VkNVX0c2bzY2LUQtMTlyN29VSFBYdk5kVnQyLUlrdzFscFhqTzJ1Q1k2b1JQMFhTVloyUFl1WHNEbm5qS1EwS3NTc0k5d1QxTXNKc0NRdjB5TEZwOVkwQ1dHd3BhSFE5ZExoRi1mRzJkNEYtYUJmUkdCS1VvUC0zN2xLakdjQThROTVyMzh2dEVmMWVIMF84bUowamJ4S1poMlZZSQ?oc=5",
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcHFfZGx3ZW90SWNtcDkwaG1BSVBsVHdhODl0U1dtdUE2WHA1WnE0My1OOTNOQXZseVU5VkNVX0c2bzY2LUQtMTlyN29VSFBYdk5kVnQyLUlrdzFscFhqTzJ1Q1k2b1JQMFhTVloyUFl1WHNEbm5qS1EwS3NTc0k5d1QxTXNKc0NRdjB5TEZwOVkwQ1dHd3BhSFE5ZExoRi1mRzJkNEYtYUJmUkdCS1VvUC0zN2xLakdjQThROTVyMzh2dEVmMWVIMF84bUowamJ4S1poMlZZSQ?oc=5"
         }
       ]
     },
@@ -127,48 +146,6 @@
       ]
     },
     {
-      "id": "00a00cc0aeef9ad4a9f6",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp outlays up to $872m to acquire BioReference’s laboratory assets",
-      "source": "Yahoo Finance",
-      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
-      "published_at": "2026-10-15T16:11:26+00:00",
-      "published_display": "15 Oct 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5"
-        },
-        {
-          "name": "Hoodline",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c5c122547bb82085ead",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
-      "source": "Yahoo Finance",
-      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
-      "published_at": "2026-10-15T12:16:02+00:00",
-      "published_display": "15 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5"
-        }
-      ]
-    },
-    {
       "id": "bbca103390cd5e1f31d3",
       "company": "Labcorp",
       "category": "Partnership, M&A",
@@ -212,6 +189,48 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6c5c122547bb82085ead",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
+      "source": "Yahoo Finance",
+      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fdff9a3f0cf6b06d6c3",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma",
+      "source": "Hoodline",
+      "description": "Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5",
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTEwWld0UVdzSENGRTUyLXBsaFVma1NhdFFQcXdRRFdRRlk0ZlN1c2pHaTJUbGJNWmhZUnJRX2JjTURZMTdvM0dQbnREZVJsYzJRV2dndC1QX3c4d3l2YllmUWFSQnp6c1NFdElYVnF0cTRhVUdUVXlzbUhqYWwxZjFnQm1EU2VjMXU0SFpzb0xhRS16Wm85Z0VxTVY4dk54NXlTSGFIQ3JscW55ZEJnN0lkZ2dRdXRta0phd1J0UQ?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5"
         }
       ]
     },
@@ -676,25 +695,6 @@
         {
           "name": "Kalkine Media",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aebd1c26176c4525ccb3",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "List of 33 Acquisitions by LabCorp (Sep 2026)",
-      "source": "Tracxn",
-      "description": "List of 33 Acquisitions by LabCorp (Sep 2026) Tracxn",
-      "published_at": "2026-09-01T07:00:00+00:00",
-      "published_display": "01 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
-      "sources": [
-        {
-          "name": "Tracxn",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5"
         }
       ]
     }
