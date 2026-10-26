@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-10-26T20:01:51.068991+05:30",
-  "checked_at_display": "26 Oct 2026, 8:01 PM IST",
+  "checked_at": "2026-10-27T04:48:14.776172+05:30",
+  "checked_at_display": "27 Oct 2026, 4:48 AM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 387,
+  "ranked_candidate_count": 392,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 80,
   "verified_summary_count": 0,
@@ -22,6 +22,7 @@
     "13f4149c2ac60a9139f1",
     "8fd1c8a473789e7407ee",
     "1ba2a749f89c055a8e66",
+    "79cbee2d4c81e730dec7",
     "dfe7a1c881ca34d4e92d",
     "4ec587249bf6d1a31e26",
     "bbca103390cd5e1f31d3",
@@ -31,7 +32,6 @@
     "316518acad215b9d29df",
     "9a1370ffdef6e6e28518",
     "8938126e440d849c4a13",
-    "79cbee2d4c81e730dec7",
     "cd43cf39c77e1330d67a",
     "6d08d3783d32314deaea",
     "1bd79f0520039f6d5ef4",
@@ -75,6 +75,7 @@
     "c88714aaa19fbf0eaf06",
     "9aec124932717745c549",
     "e6b5055323d51073541a",
+    "c64e662f2d0aff88c259",
     "5fcc5a2f037d10b1924d",
     "51733e45eda803926fe1",
     "70dfc138316151a4fa5f",
@@ -84,9 +85,8 @@
     "6f63e39716b5547c81a3",
     "1b6b8da9658496ef1447",
     "403288b5f818c5e8cd2a",
-    "638bfe0fc23bccfa0b17",
-    "9e2ef6b6e7f17db88963",
-    "59c60f4c1e76e31fb3a9"
+    "263f284fb8a6acfe857f",
+    "75b2c7e2b775695d2b62"
   ],
   "gemini_quota_exhausted": false,
   "gemini_error": "",
@@ -112,6 +112,7 @@
     "13f4149c2ac60a9139f1",
     "8fd1c8a473789e7407ee",
     "1ba2a749f89c055a8e66",
+    "79cbee2d4c81e730dec7",
     "dfe7a1c881ca34d4e92d",
     "4ec587249bf6d1a31e26",
     "bbca103390cd5e1f31d3",
@@ -121,7 +122,6 @@
     "316518acad215b9d29df",
     "9a1370ffdef6e6e28518",
     "8938126e440d849c4a13",
-    "79cbee2d4c81e730dec7",
     "cd43cf39c77e1330d67a",
     "6d08d3783d32314deaea",
     "1bd79f0520039f6d5ef4",
@@ -165,6 +165,7 @@
     "c88714aaa19fbf0eaf06",
     "9aec124932717745c549",
     "e6b5055323d51073541a",
+    "c64e662f2d0aff88c259",
     "5fcc5a2f037d10b1924d",
     "51733e45eda803926fe1",
     "70dfc138316151a4fa5f",
@@ -174,9 +175,8 @@
     "6f63e39716b5547c81a3",
     "1b6b8da9658496ef1447",
     "403288b5f818c5e8cd2a",
-    "638bfe0fc23bccfa0b17",
-    "9e2ef6b6e7f17db88963",
-    "59c60f4c1e76e31fb3a9"
+    "263f284fb8a6acfe857f",
+    "75b2c7e2b775695d2b62"
   ],
   "primary_summary_provider": "Awaiting ChatGPT Scheduled Task"
 }
