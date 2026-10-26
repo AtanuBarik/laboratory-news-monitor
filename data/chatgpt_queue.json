@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T03:31:03.559335+05:30",
-  "generated_at_display": "26 Oct 2026, 3:31 AM IST",
+  "generated_at": "2026-10-26T10:52:47.257379+05:30",
+  "generated_at_display": "26 Oct 2026, 10:52 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 402,
+  "remaining_unsummarized_count": 405,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -66,18 +66,41 @@
       ]
     },
     {
-      "id": "434d5b19779f377cb088",
+      "id": "833e5b4225ef1997200a",
       "company": "Labcorp",
       "category": "Partnership, M&A",
-      "title": "Charles River partners with FDA, Labcorp on drug abuse research",
-      "source": "Investing.com",
+      "title": "Labcorp Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods",
+      "source": "GuruFocus",
       "description": "Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus",
-      "published_at": "2026-10-22T20:41:03+00:00",
+      "published_at": "2026-10-22T22:38:33+00:00",
       "published_display": "22 Oct 2026",
       "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
       "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f52626762775495cde83",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
+      "source": "PR Newswire",
+      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential PR Newswire",
+      "published_at": "2026-10-22T20:30:00+00:00",
+      "published_display": "22 Oct 2026",
+      "official_source": false,
+      "coverage_count": 3,
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5"
+        },
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5"
@@ -362,7 +385,7 @@
       "published_at": "2026-09-23T01:30:00+00:00",
       "published_display": "23 Sep 2026",
       "official_source": false,
-      "coverage_count": 10,
+      "coverage_count": 11,
       "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQZGs5NlBld1g3QnZtOVI2NGU2N0EwMXlNdVY2TXh4OE1ZSEY5RXNZcjRsNlN2c29aZC01Q1ZjVk9VWVFxV1BmRzFMQ0FZQzhiUk9kNnV3UnZVYkZYQll3NkZxem11UFlJbktoUUZ2YnZVd2F6MktqUVVtUnBsOG5MLXhTRkhFMkpKX25ibUhLS3VCN1Q2RVBRUEZ2eDFFQVdvenBJbzh2VjZXRFFHbGZHWnFDSFJWOThqdllSazUtZ0h3NTRfUFJHSHZ2UzZIZDhrMEZ1V0hDUlVfUE9TTjNBcDMwQ0g1VGhmVjV1dWFhV2tjWVdVYlB0dVJ3VjlUR3NTb2hQV2NWbldiRXNRcElFZWRLdG4wMHhveHpz?oc=5",
       "sources": [
         {
@@ -676,25 +699,6 @@
         {
           "name": "MedTech Dive",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f2d3303ec258ff623e8d",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction",
-      "source": "Kalkine Media",
-      "description": "Labcorp CIO Oyegunwa Akinbolade Acquires 2,940 Derivative Securities in September 2026 Transaction Kalkine Media",
-      "published_at": "2026-09-03T07:00:00+00:00",
-      "published_display": "03 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5",
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPRTdLWmJDRkRpT0Z6UE9tUmhUeVNoSTRpNlhWajFnNGtaV3dHWnZQRUFxZGRlVW1VWTlsc0hSV3JHRmhqUFZ3SG9QZXBYcncyS0dWS0RmZGFpblVyVG5qc2xiZFBGN2xrSThEZEhCUzZIOXBhWkFmLWJtVEhfQzNtRG41dUIzMVlpdWJmNERpUm40VzVWYmdUZkdkRTRLdGlrTVFnakxqeWhiczQ0NFpfUzN3ZDlJemRkM2NnQTJZM2tWRFNlWUNWVVAzdG9MaXNiaUNKMjVvSHNyb01D?oc=5"
         }
       ]
     }

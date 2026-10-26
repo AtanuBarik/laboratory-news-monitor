@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-26T02:45:32.048449+05:30",
-  "generated_at_display": "26 Oct 2026, 2:45 AM IST",
-  "item_count": 476,
-  "raw_relevant_item_count": 692,
-  "duplicates_merged": 159,
+  "generated_at": "2026-10-26T10:52:42.974640+05:30",
+  "generated_at_display": "26 Oct 2026, 10:52 AM IST",
+  "item_count": 478,
+  "raw_relevant_item_count": 656,
+  "duplicates_merged": 120,
   "failures": [],
   "items": [
+    {
+      "id": "96414d86bf34173fa0a0",
+      "company": "Quest Diagnostics",
+      "title": "Medical Testing Giant Quest Diagnostics Confirms Massive Security Breach Exposing Sensitive Patient Records Amid a Coordinated Global Hacking Surge",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOd2lvdGpHX3dLd2IxLUMtbU43a3FRdGktQXNoeERwR1pBSDE4SjJIVG1EOEdEZ2l2cXhGTHFmMHIzVzlwZ3pERFhpRlpMUG90MlE5Y01GQlRRaTd4ZXBjdWxEcVE2R3VqYUtjYUhNb3F1T3VaVnJ4Mk9iN2UxS1Z2VlkzTXlQRzNfVU0zT2xuVWE0X05na2JDenpMU19YX0xUeDc1UURVbXBYMUpsY2NRWXloU1d4SXhJV0pHaG1NaXpjSGl6NXotUzgxazN5OUQyb3JvSmF3OXgzc3dtbnphajFLcVFiR1ljNlJZTmQwZG9SSkc2TEhZWEUxYnFmd0JTVE01Mk9pUzR0eXhGM2c?oc=5",
+      "description": "Medical Testing Giant Quest Diagnostics Confirms Massive Security Breach Exposing Sensitive Patient Records Amid a Coordinated Global Hacking Surge Istituto Impariamo",
+      "source": "Istituto Impariamo",
+      "source_url": "https://www.istitutoimpariamo.it",
+      "source_domain": "istitutoimpariamo.it",
+      "published_at": "2026-10-25T16:20:18+00:00",
+      "published_display": "25 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Istituto Impariamo",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOd2lvdGpHX3dLd2IxLUMtbU43a3FRdGktQXNoeERwR1pBSDE4SjJIVG1EOEdEZ2l2cXhGTHFmMHIzVzlwZ3pERFhpRlpMUG90MlE5Y01GQlRRaTd4ZXBjdWxEcVE2R3VqYUtjYUhNb3F1T3VaVnJ4Mk9iN2UxS1Z2VlkzTXlQRzNfVU0zT2xuVWE0X05na2JDenpMU19YX0xUeDc1UURVbXBYMUpsY2NRWXloU1d4SXhJV0pHaG1NaXpjSGl6NXotUzgxazN5OUQyb3JvSmF3OXgzc3dtbnphajFLcVFiR1ljNlJZTmQwZG9SSkc2TEhZWEUxYnFmd0JTVE01Mk9pUzR0eXhGM2c?oc=5",
+          "domain": "istitutoimpariamo.it",
+          "published_at": "2026-10-25T16:20:18+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "amid breach confirms coordinated exposing giant global hacking massive medical patient records security sensitive surge testing"
+    },
     {
       "id": "40ded412be50285114cc",
       "company": "Quest Diagnostics",
@@ -491,6 +515,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "about alerts breach cyber need one php2shell physicians two week what"
+    },
+    {
+      "id": "9e2ef6b6e7f17db88963",
+      "company": "Quest Diagnostics",
+      "title": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5",
+      "description": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic Fierce Healthcare",
+      "source": "Fierce Healthcare",
+      "source_url": "https://www.fiercehealthcare.com",
+      "source_domain": "fiercehealthcare.com",
+      "published_at": "2026-10-23T18:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fierce Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5",
+          "domain": "fiercehealthcare.com",
+          "published_at": "2026-10-23T18:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach cybersecurity health launches men novant rundown virtual weekly"
     },
     {
       "id": "13046c6f3c676ba57166",
@@ -1171,6 +1219,30 @@
       "event_signature": "2026 716 attacks breach data"
     },
     {
+      "id": "833e5b4225ef1997200a",
+      "company": "Labcorp",
+      "title": "Labcorp Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
+      "description": "Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-22T22:38:33+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T22:38:33+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "abuse advance assessment charles drug fda methods partners river"
+    },
+    {
       "id": "fae4118b0f61ed796744",
       "company": "Quest Diagnostics",
       "title": "As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips",
@@ -1381,36 +1453,6 @@
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
-      "id": "434d5b19779f377cb088",
-      "company": "Labcorp",
-      "title": "Charles River partners with FDA, Labcorp on drug abuse research",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
-      "description": "Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-10-22T20:41:03+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-22T20:41:03+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-22T22:38:33+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "abuse charles drug fda partners research river"
-    },
-    {
       "id": "961ad4bbea94d0876965",
       "company": "Labcorp",
       "title": "Charles River, Labcorp, and FDA sign drug abuse potential research pact",
@@ -1439,6 +1481,42 @@
       ],
       "coverage_count": 2,
       "event_signature": "abuse charles drug fda pact potential research river sign"
+    },
+    {
+      "id": "f52626762775495cde83",
+      "company": "Labcorp",
+      "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
+      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-10-22T20:30:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-22T20:30:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-22T20:41:03+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T22:38:33+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "abuse advance announce charles collaboration drug evaluating fda methods potential preclinical research river"
     },
     {
       "id": "3f6a662d7dc0f4a95163",
@@ -3451,30 +3529,6 @@
       "event_signature": "chain finance options yahoo"
     },
     {
-      "id": "02c7b289ee694af006da",
-      "company": "Labcorp",
-      "title": "Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjFmalNkczRlN19La2lJMjZicWlHTGxHcWdDbGx6SDVDZDJGa011dTNRZ1c2Q3RYemhpZFBKX0JGbFdGNVlleENRR0NkLWdWcGVjdVlBdGt1YmRuZExZOUY0cjZsX1VWT2JWekpCMXRzYTFKMk5BSnhsN2pFOVBZZlhpS3c1MkRqaEpTelBBQm5IQUNkUHp1dmJGSWtGSDBLOFVBR3BfYzRHeGxReGFJYUFVVUF3aE5yY01mWHd2dWFDYTVFY25pVk40b3RCX2N2T1ZhUUhjbHpDMWVkSk5RM3NSMko4ZGZqV2lHb0E3ZUw?oc=5",
-      "description": "Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec",
-      "source": "HealthExec",
-      "source_url": "https://healthexec.com",
-      "source_domain": "healthexec.com",
-      "published_at": "2026-10-15T22:18:31+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "HealthExec",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjFmalNkczRlN19La2lJMjZicWlHTGxHcWdDbGx6SDVDZDJGa011dTNRZ1c2Q3RYemhpZFBKX0JGbFdGNVlleENRR0NkLWdWcGVjdVlBdGt1YmRuZExZOUY0cjZsX1VWT2JWekpCMXRzYTFKMk5BSnhsN2pFOVBZZlhpS3c1MkRqaEpTelBBQm5IQUNkUHp1dmJGSWtGSDBLOFVBR3BfYzRHeGxReGFJYUFVVUF3aE5yY01mWHd2dWFDYTVFY25pVk40b3RCX2N2T1ZhUUhjbHpDMWVkSk5RM3NSMko4ZGZqV2lHb0E3ZUw?oc=5",
-          "domain": "healthexec.com",
-          "published_at": "2026-10-15T22:18:31+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "872m buy cancer deal medical proprietary prostate test"
-    },
-    {
       "id": "e77232a9d2abdbf398a8",
       "company": "Labcorp",
       "title": "OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments",
@@ -3791,6 +3845,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "872m acquire agrees assets biopharma bioreference deal opko refocuses"
+    },
+    {
+      "id": "02c7b289ee694af006da",
+      "company": "Labcorp",
+      "title": "Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjFmalNkczRlN19La2lJMjZicWlHTGxHcWdDbGx6SDVDZDJGa011dTNRZ1c2Q3RYemhpZFBKX0JGbFdGNVlleENRR0NkLWdWcGVjdVlBdGt1YmRuZExZOUY0cjZsX1VWT2JWekpCMXRzYTFKMk5BSnhsN2pFOVBZZlhpS3c1MkRqaEpTelBBQm5IQUNkUHp1dmJGSWtGSDBLOFVBR3BfYzRHeGxReGFJYUFVVUF3aE5yY01mWHd2dWFDYTVFY25pVk40b3RCX2N2T1ZhUUhjbHpDMWVkSk5RM3NSMko4ZGZqV2lHb0E3ZUw?oc=5",
+      "description": "Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec",
+      "source": "HealthExec",
+      "source_url": "https://healthexec.com",
+      "source_domain": "healthexec.com",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HealthExec",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQbjFmalNkczRlN19La2lJMjZicWlHTGxHcWdDbGx6SDVDZDJGa011dTNRZ1c2Q3RYemhpZFBKX0JGbFdGNVlleENRR0NkLWdWcGVjdVlBdGt1YmRuZExZOUY0cjZsX1VWT2JWekpCMXRzYTFKMk5BSnhsN2pFOVBZZlhpS3c1MkRqaEpTelBBQm5IQUNkUHp1dmJGSWtGSDBLOFVBR3BfYzRHeGxReGFJYUFVVUF3aE5yY01mWHd2dWFDYTVFY25pVk40b3RCX2N2T1ZhUUhjbHpDMWVkSk5RM3NSMko4ZGZqV2lHb0E3ZUw?oc=5",
+          "domain": "healthexec.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "872m buy cancer deal medical proprietary prostate test"
     },
     {
       "id": "131a04cd4b17846e8707",
@@ -6703,9 +6781,15 @@
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMHFaelFKTGw0NDcwYjhXQmtzWXpZaFVLQTJtX2pmMW5CTTczTjV6dFFYZHBWOUl2WXpVWl9fb0ZfREQ3RVEwd2dCUk5tQjhLVnZCMjg1SDJ6WFZERFI5UHM5V1JIcnRSaDlTTHJiVml4NEd0RDNvVXRlMUVLUFBGX1dqOHRsdE0yTUVzMkZpRnVFYlFrRko3OXROSFhLZFBKWXo1R25MeE1HbktMekZ5b1NPcUxkeEh6eDdYOWd4aVFUZUc2bHhEb2IzaFRZcUc4RW93R1pGNnlyUXBKT2dfSGg0T3NhRkRVYlBzMmoyXzZmNDQ4dVpTS0VnaURlRDVEc09N?oc=5",
           "domain": "dagangnews.com",
           "published_at": "2026-09-23T07:00:00+00:00"
+        },
+        {
+          "name": "The Sun Malaysia",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPSmZyLVRacXNrVzJ3SDREUGd4dHpTeTFIdm1FSTRVWmxQdWgyTDFvYXVGajVxa1FhZGQ0RHE0X010dE1uNGN2Wk5tNVhvTnFiTEp0X21DSFd3YWZUdDZWSy13V3lON1BmamN1dl9xeHNzUklCajU5YnlQWjI0MHBmcjA1eXlrTGtyaUNiVEQtYm5HWHNoOW9FbHZEbFc3d1l3aTNrNU8tbkprZjd4NkhFSHBtQ1JPeG9iQ05GY3ZOTGtRR18tWUdDZWRsdE5JQ2YtUEtKR0tqYVZqc2tMTmhMeXBNeEpOcUJ0QVI3dDdwSUVvZGw5dVM3UXppYkdYdUZCSHlV?oc=5",
+          "domain": "thesun.my",
+          "published_at": "2026-09-27T23:48:54+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "event_signature": "advance asia genomics invests lifestrands medicine pathology precision"
     },
     {
@@ -15059,43 +15143,12 @@
       "summary_evidence": [
         "https://stockstory.org/us/stocks/nyse/lh/news/earnings/what-to-expect-from-labcorps-lh-q2-earnings"
       ]
-    },
-    {
-      "id": "23a546158dd1b0f3f328",
-      "company": "Labcorp",
-      "title": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5",
-      "description": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
-      "source": "HIT Consultant",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-27T21:44:21+00:00",
-      "published_display": "27 Jul 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "HIT Consultant",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUG9xVURfX2E1UVRLNVVzek9PYmt4NldFcjVzTG1lZ3JXOVBtN2w3b2huZndFblZ0SnljWHlhb2hxbE12d3FQS2d6QlFvOF85UDNBcnh4d3hjNEYydFhpbVdNdTlPcnJOaHRRVF80TDdIVGhZYXg2ZDZUNGtxZS01ZEVkY0hrN3RXMlFya1lPNVcwUFJoQmc?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-27T21:44:21+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "100 actionable conditions genetic health launches marker ondemand panel",
-      "source_description": "Labcorp Launches Marker Genetic Health Panel on Labcorp OnDemand for 100+ Actionable Conditions hitconsultant.net",
-      "chatgpt_summary": "Labcorp launched the Marker by Labcorp Genetic Health Panel, a direct-to-consumer hereditary-risk test available through Labcorp OnDemand beginning August 3, 2026. The panel analyzes 163 genes associated with more than 100 medically actionable conditions, including hereditary cancers, cardiovascular disorders and metabolic conditions. Consumers can purchase the test without first visiting a physician and then schedule a blood draw at one of Labcorp's more than 2,200 patient service centers nationwide. Specimens are processed in Labcorp laboratories, and results are delivered through the company's secure patient portal and MyLabcorp mobile platform. The service includes a detailed genetic report, educational resources tailored to detected findings and access to a licensed genetic counselor who can explain the results and discuss appropriate next steps. The product extends Labcorp's clinical genetics capabilities, including expertise from Labcorp Genetics and Invitae, into a direct-access channel. Labcorp cites research indicating that nearly one in six adults who undergo genetic testing discover a variant linked to a medically actionable condition. Labcorp also stresses that the results are not diagnostic and should be interpreted alongside personal and family medical history and other risk factors.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T00:35:10+05:30",
-      "summary_evidence": [
-        "https://www.labcorp.com/education-events/press-releases/labcorp-launches-marker-labcorptm-genetic-health-panel-expanding"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 55,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-26T06:17:00+05:30",
-  "next_update_display": "26 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-26T12:17:00+05:30",
+  "next_update_display": "26 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
