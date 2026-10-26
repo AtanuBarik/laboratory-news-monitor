@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T12:23:48.028672+05:30",
-  "generated_at_display": "26 Oct 2026, 12:23 PM IST",
+  "generated_at": "2026-10-26T19:06:02.266351+05:30",
+  "generated_at_display": "26 Oct 2026, 7:06 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
@@ -8,6 +8,25 @@
   "remaining_unsummarized_count": 405,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "2fc8705ea04f95c54c95",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp adds San Diego toxicology lab in seventh acquisition this year",
+      "source": "The Business Journals",
+      "description": "Labcorp adds San Diego toxicology lab in seventh acquisition this year The Business Journals",
+      "published_at": "2026-10-26T10:30:00+00:00",
+      "published_display": "26 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5",
+      "sources": [
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5"
+        }
+      ]
+    },
     {
       "id": "9af4729695d2c7a5b196",
       "company": "Quest Diagnostics",
@@ -668,37 +687,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "692205b0b1bc2bc14349",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials",
-      "source": "PR Newswire",
-      "description": "Labcorp Acquires MLM Medical Labs, Expanding Global Central Laboratory and Biomarker Capabilities for Clinical Trials prnewswire.com",
-      "published_at": "2026-09-08T07:00:00+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 4,
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5",
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQU2V2TW9EWlJ0T05DMzJQeTZhTDBkLUlCdGp4ZHEzR0ItdjdoQ01uX3NxYVUxSk5wN2VpRFRKWnlJVVR5ZFl4UXhodk5RU3M3c04yMkY0ZGJNUm9SdTBsbkZwbGgtZmh1Yk41cTVyOTV1c0FOdGVjVDRHT01SS0NQWU5TYXQyRUtIUjViQVgzS3JWcVc2YTNwRDU1ZXk4djZxaXhzZ0MzemlQTm9FNFcybkVMSkRVckNubW96VmFTYXlYQUxXcFdOMHBRV1R4ek5JWmNqaXlsdmt6UzNINms5anF5SHg0UUVRX2ZHaXhCTmwtZUpYMTZpT1I1ZGxQajYwamc?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5"
-        },
-        {
-          "name": "Medical Buyer",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5yQlNZVTNfc2d0Z3pNVmlMYnVJNndRVEpIWVpoeEprUHNsYjRiU1FNekxoZGNZSEJ0T2NFeXpXZXJSdDVhZ0J5YXNUSFo2c0ROZEZZT3pQWk5IV242VDJwbFBLQkp3RWxQZWxzV3NB?oc=5"
-        },
-        {
-          "name": "MedTech Dive",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2lyd2FkZHJQQktXSkJsLXRQNy1MZGZWVVppZVR6MkUxc01sbDBBVklhTzhuRjZrbFJRYU1wZTRiMDdlT0xfUkE3VWtVVmZacnhMalNxTjNsLVFBNzdqMjZTMnROSVBaS0pnOUlFY1pyZE5rMF9Oa3FLREZiaUhTX29Mekg2VFVNNm5WX1VKSWR3TmNzQVpFeklB?oc=5"
         }
       ]
     }
