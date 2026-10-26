@@ -1,13 +1,36 @@
 {
-  "generated_at": "2026-10-26T20:01:50.968691+05:30",
-  "generated_at_display": "26 Oct 2026, 8:01 PM IST",
+  "generated_at": "2026-10-27T04:23:25.328598+05:30",
+  "generated_at_display": "27 Oct 2026, 4:23 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 405,
+  "remaining_unsummarized_count": 410,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "75b2c7e2b775695d2b62",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp to spend $932 million on lab assets, acquire Millennium Health",
+      "source": "Winston-Salem Journal",
+      "description": "Labcorp to spend $932 million on lab assets, acquire Millennium Health Greensboro News and Record",
+      "published_at": "2026-10-26T15:30:00+00:00",
+      "published_display": "26 Oct 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHFFR1NvR0M3b2JPQ29uSXZLLXprQkZPakQ3TjZkYkRMNm9IZ0NScmktb2FySWVzdWNEMVFvUWNVaUxaSlp2bm8tY2RPam9HM3llWW5oYXlYcFI2X2hfSjBtUEctbGMwUV9heGlodDZPWXdSRUJXdVQ2MHVSUEhlY09xcHA1RGNiQ2dhVUdhdlZtNWVsRWln?oc=5",
+      "sources": [
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHFFR1NvR0M3b2JPQ29uSXZLLXprQkZPakQ3TjZkYkRMNm9IZ0NScmktb2FySWVzdWNEMVFvUWNVaUxaSlp2bm8tY2RPam9HM3llWW5oYXlYcFI2X2hfSjBtUEctbGMwUV9heGlodDZPWXdSRUJXdVQ2MHVSUEhlY09xcHA1RGNiQ2dhVUdhdlZtNWVsRWln?oc=5"
+        },
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkJaOHFVZWR0a2dXV21QY2VBRVVLRXV1UlVTM0RoZXduN0RiMEU4YTlJT01nblplQnpLc0tpdDlld0JjZm55NzNHLXkyQjluQjRGSlNLaDVPemxSSVJwYWNPekg3ZXZZb211Q2ZWQlRxV0lVU0VnckJuOVBPN0FEanFyN3BKS0xaMWdZQVJsX3BFNDhWc0tr?oc=5"
+        }
+      ]
+    },
     {
       "id": "2fc8705ea04f95c54c95",
       "company": "Labcorp",
@@ -127,6 +150,25 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c64e662f2d0aff88c259",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M",
+      "source": "Femtech Insider",
+      "description": "Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M Femtech Insider",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_display": "21 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FHa3lCM3psNE1HcnIxN3JhTWtaYUVZNDR5MXU1Mmd1VTZxbjl6V0lmcWpOWGtGV01teGU3UEZVZHotdDFNcmhWT0dRUXROdWFlNzhpSVBYcWx6WFUwT0R2eE5VSU1ENzBtSkoydzJNQjJuQlNDb1NMRllTWFlFd0c5NHVEOGtzU1EzaXBvLVF1OVl4N284bUlVRQ?oc=5",
+      "sources": [
+        {
+          "name": "Femtech Insider",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FHa3lCM3psNE1HcnIxN3JhTWtaYUVZNDR5MXU1Mmd1VTZxbjl6V0lmcWpOWGtGV01teGU3UEZVZHotdDFNcmhWT0dRUXROdWFlNzhpSVBYcWx6WFUwT0R2eE5VSU1ENzBtSkoydzJNQjJuQlNDb1NMRllTWFlFd0c5NHVEOGtzU1EzaXBvLVF1OVl4N284bUlVRQ?oc=5"
         }
       ]
     },
@@ -306,7 +348,7 @@
       "title": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change",
       "source": "HIT Consultant",
       "description": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant",
-      "published_at": "2026-10-14T14:31:47+00:00",
+      "published_at": "2026-10-14T07:00:00+00:00",
       "published_display": "14 Oct 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -621,72 +663,6 @@
         {
           "name": "GenomeWeb",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1f2f7b914163bde49e9c",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp builds on acquisition spree, gaining first operations in Africa",
-      "source": "The Business Journals",
-      "description": "Labcorp builds on acquisition spree, gaining first operations in Africa The Business Journals",
-      "published_at": "2026-09-08T07:00:00+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5",
-      "sources": [
-        {
-          "name": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ2c3Y3dVYVdDNkY2ZmkxZ1JzVkstRUI4TzdOc1hkWEt3YV91bHhmaUZObXFQZnFCSEJhbW91bnlZX055NmlDeUZtTWFKRTdhSVFNaXdSSXBrY1h0Z1FMTXptZVhUbk4tdWVJNVVUWGpjU1hxRzh6UkJYeE1OTnlfazh3SnI3S0RWaXkyak9YcjZYQ1FLQ1RDcGZmNld3eTNZSElOQjBn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "13f4149c2ac60a9139f1",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp acquires MLM Medical Labs to expand global network",
-      "source": "Investing.com",
-      "description": "Labcorp Acquires MLM Medical Labs to Expand Global Clinical Trial Laboratory Capabilities digitalhealthnews.com",
-      "published_at": "2026-09-08T07:00:00+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 12,
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5",
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1l6YVRsLTQxQWRfOUc1UEJFVFBSbURFeFJUQ1h0eGhjQUdKY2M0RnYtQTRlbl9HVTgtNTNablo5OVU2WE4tTVVrVUxhTmpmMjdsVUVzejI0VVBkSlBfbVZxZndrUWJGbUd0eUlSZUZ1UkxFQ25kNy04R0NnQzRBcFNMRDRpRFp0Q2FOLU9RS05wSXB1V1JtSWhlQUV3a3U3Tnp0M0xaSXYtSV90QWJNUGVsN0RmZw?oc=5"
-        },
-        {
-          "name": "citybiz",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTdrTXRQYXlYb01QMWFMNXl5YlJFVzBkaU1UdnlndC14clBSVFZwaThiZGJqLXl1TnJmbW1tQ05hOFVvVUtsejZrTGx0SHhzaFE5aFhDY19IMWtkVzJ5b3EtT0M3WExIWFdkdjVleDd6eUFvdDYzV2tOWktZNHVoQjhZbmJMYTJWUmpKcDRKVTVSVHVCQVJkNGxYcVU1N3dkYXFxb3hfUmx0WWhYSHpWQ2pfdw?oc=5"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVRnMzJ3R25lenc4UzliMkxmMHNhVnhuU25lX08zMDFLLTNPR3k3Y3RlSnF6eV9aRmlWUUllSHZVclBHVElHWm04Tkd0elp5d3hCaFVkT3hKQlljU0VnQy1SQUdSVTMzbXYwNWlZcS1IdzMwUXlNb2U0TFM5TEhwaDZrS2xjSDVPMmNRWWhJNE80NU9TMnVienFzY2dCMlM0UVQ4bFkydjdWRk9VZExDSXJoZVRpREk5RlBn?oc=5"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmQ1UFJ5Q2lFYWFDek93eEZiUFF1d1Ezai1kNXY4TzhycjA5MFdVNGk1YWQwb1R1NGVHMFFTRXNNbmlpc1QwaXlnUFdkYWExZm1jN1duNUt0S2Y4bjRKb2lVTE4zcDZ6R3I5bU9CTEFzSndCNzRIYXNiZV9KdTFBMGw3YV9ISjU5UXNabFh0LWpjTEtyRFdXZTBfZ2w1aUlFQWdkeDdFNmE3WGNiWEE?oc=5"
-        },
-        {
-          "name": "Medical Device Network",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9QYWhYTHRLNzNxOC1mYmlIMVhNUlFrb1MtNFhJZldWWkxMa1V0QUJmU1ZhcjhWV2hZRVdBdngtcGdSbkxmU0NNTmFNcHoyVnRFdHNFVzJCUEtVVkVaN3h4UGI0eGFDM1puaTFRa2RYdmlVdVZ2NVVmVVZCUEVnQQ?oc=5"
-        },
-        {
-          "name": "Digital Health News",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZjY1blFSNk5YMTVqbnY0OG9wLTMzdjBxR1p3MkF5YWtfMnF4MjBGRmc0dkxheE5DUW1aSnhTRXdYalg5eEVVc3lyWHFQSk5PMUh6Y1dzV0JORXlMd1FGRVFzNkthTkFlVGhDZE9sQkplRjkzNi1uSE9nTThFUlE2c081eG85dUNUUklIYzRvX243dXlWQmZySFdNeE9udnF1MDhZUncwMDk2aHhudU5senhkeW1LWnZaclEteUdEX1g?oc=5"
-        },
-        {
-          "name": "Pulse 2.0",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcjA1VzhtdV9WNEJ6VjhhRXJ0ejUxenRXcHJ0VDMyWmczdnFTQnJodzIweDBpT1oxNlpGVGdMRDcyTW1ET2l1QXViSlZ3bUdKS3paVEZrUTh0V01PZWhLeVFpOTFpa1ppRWNHZ3dtOVdELWF2aFZMWlBXLWVIVkgzR3luRDNDT0hZRllfMTVDU0gzUHdfNlQweE02RXlDbl9vN0ZqU19JRdIBrAFBVV95cUxObUxxZTFmODM5Z3BVMVZnN0lBRWgtMElCal82RFFyMjUyaVZ1S0twVlJ1RW1NZXQ4Nzg2cVkzYnVHV0N4WExRVjhYVkF4VTZ1by1WVGVHQ2hnRzdob0xnZU1zZ3NGT09YRTJMUExxZkFhSHkySWZrZVFmRjYzV2JDTUlBR0JCdHVycTNrd3BEQVY0Tzd0OVpiUEFHOElWME12YThXWDFTcUprZmVT?oc=5"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaF9UUlgxT1JUZTVPM2l3MGlXMXMtZ1EtbXF6VUlBTE5tOGxsVW5ZaEVDYXpqSXhDWlJtVmRVRXVSWkMwN1BJNFVmR3ppYTM4NFN1QzFFRG9FOXo3cWVZM0ZKd1pZOHFiWjdHOG8xRTJTX1ZBTndDTzJybEZmOHRPazc0YzZRNTY3R2g1NWsxUHFPM1BheTQxd1ppdw?oc=5"
         }
       ]
     }

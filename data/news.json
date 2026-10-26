@@ -1,11 +1,113 @@
 {
-  "generated_at": "2026-10-26T19:05:57.284739+05:30",
-  "generated_at_display": "26 Oct 2026, 7:05 PM IST",
-  "item_count": 476,
-  "raw_relevant_item_count": 690,
-  "duplicates_merged": 153,
+  "generated_at": "2026-10-27T04:23:19.374293+05:30",
+  "generated_at_display": "27 Oct 2026, 4:23 AM IST",
+  "item_count": 481,
+  "raw_relevant_item_count": 696,
+  "duplicates_merged": 155,
   "failures": [],
   "items": [
+    {
+      "id": "263f284fb8a6acfe857f",
+      "company": "Labcorp",
+      "title": "Labcorp inks Millennium Health buyout to add drug testing services",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5",
+      "description": "Labcorp inks Millennium Health buyout to add drug testing services MedTech Dive",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "source_domain": "medtechdive.com",
+      "published_at": "2026-10-26T19:20:07+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-26T19:20:07+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "add buyout drug health inks millennium services testing"
+    },
+    {
+      "id": "75b2c7e2b775695d2b62",
+      "company": "Labcorp",
+      "title": "Labcorp to spend $932 million on lab assets, acquire Millennium Health",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHFFR1NvR0M3b2JPQ29uSXZLLXprQkZPakQ3TjZkYkRMNm9IZ0NScmktb2FySWVzdWNEMVFvUWNVaUxaSlp2bm8tY2RPam9HM3llWW5oYXlYcFI2X2hfSjBtUEctbGMwUV9heGlodDZPWXdSRUJXdVQ2MHVSUEhlY09xcHA1RGNiQ2dhVUdhdlZtNWVsRWln?oc=5",
+      "description": "Labcorp to spend $932 million on lab assets, acquire Millennium Health Greensboro News and Record",
+      "source": "Winston-Salem Journal",
+      "source_url": "https://journalnow.com",
+      "source_domain": "journalnow.com",
+      "published_at": "2026-10-26T15:30:00+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeHFFR1NvR0M3b2JPQ29uSXZLLXprQkZPakQ3TjZkYkRMNm9IZ0NScmktb2FySWVzdWNEMVFvUWNVaUxaSlp2bm8tY2RPam9HM3llWW5oYXlYcFI2X2hfSjBtUEctbGMwUV9heGlodDZPWXdSRUJXdVQ2MHVSUEhlY09xcHA1RGNiQ2dhVUdhdlZtNWVsRWln?oc=5",
+          "domain": "journalnow.com",
+          "published_at": "2026-10-26T15:30:00+00:00"
+        },
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdkJaOHFVZWR0a2dXV21QY2VBRVVLRXV1UlVTM0RoZXduN0RiMEU4YTlJT01nblplQnpLc0tpdDlld0JjZm55NzNHLXkyQjluQjRGSlNLaDVPemxSSVJwYWNPekg3ZXZZb211Q2ZWQlRxV0lVU0VnckJuOVBPN0FEanFyN3BKS0xaMWdZQVJsX3BFNDhWc0tr?oc=5",
+          "domain": "greensboro.com",
+          "published_at": "2026-10-26T15:30:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "932 acquire assets health lab millennium million spend"
+    },
+    {
+      "id": "0f4de0332854b04b4de8",
+      "company": "Quest Diagnostics",
+      "title": "Form 144 QUEST DIAGNOSTICS For: 26 October By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
+      "description": "Form 144 QUEST DIAGNOSTICS INC For: 26 October By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-10-26T14:22:39+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-26T14:22:39+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "144 com form investing october"
+    },
+    {
+      "id": "20d70dcaf999775ad400",
+      "company": "Quest Diagnostics",
+      "title": "Massive Data Breach Affecting Quest Diagnostic Patient Records Nationwide",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xck54RmpEM2hDRU5BWktvR1Y2MlRMRVhtZXdJbm5XM0NWeUVxSVdYNVRRcTI4SmltU3Y3N1poNi1ldG1abTZKNGMwZUJENkRBVFhtNXc0Q3RGeGZFVklPVzR5SEFLaXlSTTc5Z1hVZw?oc=5",
+      "description": "Massive Data Breach Affecting Quest Diagnostic Patient Records Nationwide CNY News",
+      "source": "CNY News",
+      "source_url": "https://cnynews.com",
+      "source_domain": "cnynews.com",
+      "published_at": "2026-10-26T14:14:56+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CNY News",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xck54RmpEM2hDRU5BWktvR1Y2MlRMRVhtZXdJbm5XM0NWeUVxSVdYNVRRcTI4SmltU3Y3N1poNi1ldG1abTZKNGMwZUJENkRBVFhtNXc0Q3RGeGZFVklPVzR5SEFLaXlSTTc5Z1hVZw?oc=5",
+          "domain": "cnynews.com",
+          "published_at": "2026-10-26T14:14:56+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "affecting breach data diagnostic massive nationwide patient records"
+    },
     {
       "id": "2fc8705ea04f95c54c95",
       "company": "Labcorp",
@@ -991,9 +1093,15 @@
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
           "domain": "aol.com",
           "published_at": "2026-10-23T12:01:22+00:00"
+        },
+        {
+          "name": "BioSpectrum Asia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhCOUR5SGVPZkVGNEtjWEdneEN0dzZzcERXWFRUZkxaUmFaLTJvWTE5QjFUVGFZQ1B1RHhMQzhJZl9pTGF2bGZUdkN3dXA1LXp6MVpGVTZJRTNvc0xCSE40Q2Z1Y0hRaWxhbklVX0pCVHNTZ1NSVzhZcVZ0N1lUTVA4M1p3TkpVWGVlS1RoSEVNcjBSVkdpZ3lyaTEzZjRCTVpKc0R4UFdpanNaS1JSbWF1U0syQQ?oc=5",
+          "domain": "biospectrumasia.com",
+          "published_at": "2026-10-26T13:32:08+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
@@ -1027,9 +1135,21 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG5XSmg5WF9feWVmSS1KMFhzdDQ1WUVOMGpOcGxVU0s4QUZWRXRyTndlR1VfYWxieTFQWGVhZVpraG9URjJBeUh4clVvZld6WUdOb0k1NjBkVDZTRU8tNkNXRWhLeld2Q3pYMmJBUENFdHBTZVdBOG1qQTJrbXRKbk1NVzNCalBsRk1RS2FqUUhsMU95VmUwWnRkVUdoUzU3QzBPNU9rZm9UY2c?oc=5",
           "domain": "pluang.com",
           "published_at": "2026-10-23T15:14:22+00:00"
+        },
+        {
+          "name": "Cyber Press",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEeXAyWHVoV0dzZlNmUGxBcF9GOGVMZWt0aUgzcTkzeUFyYm03SGFYWG13MElBdU9wV0xKR25xWHh4Vm1senVzZm5DUTJObmx3OC1DdlFKY0dNRV94d3JUbEtvV2NSUnhNMGF2Mnc0akkxTDR1dGVZ0gF3QVVfeXFMUER5cDJYdWhXR3NmU2ZQbEFwX0Y4ZUxla3RpSDNxOTN5QXJibTdIYVhYbXcwSUF1T3BXTEpHbnFYeHhWbWx6dXNmbkNRMk5ubHc4LUN2UUpjR01FX3h3clRsS29XY1JSeE0wYXYydzRqSTFMNHV0ZVk?oc=5",
+          "domain": "cyberpress.org",
+          "published_at": "2026-10-23T11:13:06+00:00"
+        },
+        {
+          "name": "Beinsure",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazVESVNqeXA1S2ZNbkZlTDJ3QXE0M1RqM1JRTjRkU3JIRHNHdUFiT1h4bzhyU1JlU1ozMUJKa2Q2Q2hqS0MweDVTTHN3YjhPbmo5QlczTHZ5QXVhalNhVUVSNVhuajdzZXljdkx0OE9nN1JWZG1XSTgwZzlOMy1meU16dFVPdjdBZjRkVzJ5bmtYS1ZHSHFzWkRRME43eEU?oc=5",
+          "domain": "beinsure.com",
+          "published_at": "2026-10-26T19:51:55+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "event_signature": "confirms cyberattack exposing patient quanum records system"
     },
     {
@@ -1715,7 +1835,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Data Breach Quanum Lsm Exposes Patient Records",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5USWNJby1acGg4OWo4VWgtODcwMDk5QV9SQ3RNQ0RYVElMMTFhOTFhZTFDT2hRVmlNbnBCekptaV92RFUzZ0JzTw?oc=5",
-      "description": "Quest Diagnostics Data Breach Quanum Lsm Exposes Patient Records شبكة تواصل الإخبارية",
+      "description": "U.S. Patient Records Exposed in Latest Quest Diagnostics Data Breach All About Cookies",
       "source": "El-Balad.com",
       "source_url": "https://www.el-balad.com",
       "source_domain": "el-balad.com",
@@ -1747,9 +1867,21 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcDdtTy15WWNDQzhmQVR0YnVIenFsWmQwMGY5VzNscV9EbG5hQkZBUTZtTlN1LUFDdWVTdFZ5dXlYTFoycEFmcmlpZVdWMUFoeUx4bU1IZ1NLMGdRZ1BhbF9aNGJ5Sy1hOWFmMDR4WHRzeUQydTRqLVVXNDFLdUVka3l3VlNpZEl2SXlxUjNWUzVlMjFxTk1zT051NXpGUkJUNkFOUnVDQ1d3cXZXbGdF?oc=5",
           "domain": "bleepingcomputer.com",
           "published_at": "2026-10-23T16:40:07+00:00"
+        },
+        {
+          "name": "All About Cookies",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yd2lCUGJMYW9IVXlwck5qV0tua3QtRmVrYUE2OE1DcG1xYy1LU3VwcnY0d2l1UHlaQm13ajh6NlVoeWlGM2d6VVk4cHM4SElQTHg5YlRTN0hybTNscklmaVVCdTBYRUxl?oc=5",
+          "domain": "allaboutcookies.org",
+          "published_at": "2026-10-26T13:50:00+00:00"
+        },
+        {
+          "name": "Safestate",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1dHaHVTLXBMYy1XQ1JsQ25jS3Y0YUNxSm5mQVNpQlBHM1AzNzZJbWFMMjN2WkpueFp0VVRpUXhtbWxFRUxPdldHYnVhZVNENEJNeGkzU2RNZDVZZVVoZEViTzAxMVlGMW84TUFuUkNaanJlUWhOR2J0S2pUR2pHR3FqWW92N21HVW54LTFrMm1aR3k4WWdqNEE0dnFYQQ?oc=5",
+          "domain": "safestate.com",
+          "published_at": "2026-10-26T16:46:35+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 6,
       "event_signature": "breach data exposes lsm patient quanum records"
     },
     {
@@ -2941,9 +3073,15 @@
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUERqTFZheDFjRWV4cGQ2N1FjUDNMMWZ1TUgzSlJMa2xPejAxLU9KckNkUjF6WXJlaWliUkdPR3NidFRJbzB1YlhMdHk0U0x3YWdTTE12S2JNLS1LLWg1NGdzemVpRzZVc0lwTnRINUIzbWFiQTFVSW9ha2ZacEhCWEZkS00?oc=5",
           "domain": "apnews.com",
           "published_at": "2026-10-22T15:09:00+00:00"
+        },
+        {
+          "name": "KEYC News Now",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS054dXQ4S2Y3MmRTd3hoVE1tZ3ZRUTBZWERYeXlYcnVmVDZKVnkzNWdvemtPaEk1QmZjaExlOGtna2lGd08ycGd0ZVNldkgtZWNTU2xjU3UwS3JnVXcyQ3J2V0s3dEZrd2hhOE40bUw2d0JIaGhSOUhUNFlVQXVRR0hKa0RZdmZsaG9PRlFNbFpGLV9wUWx2RXFPTXE0azM4b1hfYWU2VnA?oc=5",
+          "domain": "keyc.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
         }
       ],
-      "coverage_count": 41,
+      "coverage_count": 42,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -3083,6 +3221,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "anyway beat earnings sinks stock"
+    },
+    {
+      "id": "c64e662f2d0aff88c259",
+      "company": "Labcorp",
+      "title": "Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FHa3lCM3psNE1HcnIxN3JhTWtaYUVZNDR5MXU1Mmd1VTZxbjl6V0lmcWpOWGtGV01teGU3UEZVZHotdDFNcmhWT0dRUXROdWFlNzhpSVBYcWx6WFUwT0R2eE5VSU1ENzBtSkoydzJNQjJuQlNDb1NMRllTWFlFd0c5NHVEOGtzU1EzaXBvLVF1OVl4N284bUlVRQ?oc=5",
+      "description": "Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M Femtech Insider",
+      "source": "Femtech Insider",
+      "source_url": "https://femtechinsider.com",
+      "source_domain": "femtechinsider.com",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Femtech Insider",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FHa3lCM3psNE1HcnIxN3JhTWtaYUVZNDR5MXU1Mmd1VTZxbjl6V0lmcWpOWGtGV01teGU3UEZVZHotdDFNcmhWT0dRUXROdWFlNzhpSVBYcWx6WFUwT0R2eE5VSU1ENzBtSkoydzJNQjJuQlNDb1NMRllTWFlFd0c5NHVEOGtzU1EzaXBvLVF1OVl4N284bUlVRQ?oc=5",
+          "domain": "femtechinsider.com",
+          "published_at": "2026-10-21T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "210m acquires business genetics myriad prenatal testing"
     },
     {
       "id": "5fcc5a2f037d10b1924d",
@@ -4075,30 +4237,6 @@
       "event_signature": "asia expand genomic invests pathology regional testing"
     },
     {
-      "id": "1bd79f0520039f6d5ef4",
-      "company": "Labcorp",
-      "title": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
-      "description": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant",
-      "source": "HIT Consultant",
-      "source_url": "https://hitconsultant.net",
-      "source_domain": "hitconsultant.net",
-      "published_at": "2026-10-14T14:31:47+00:00",
-      "published_display": "14 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "HIT Consultant",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
-          "domain": "hitconsultant.net",
-          "published_at": "2026-10-14T14:31:47+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "apob behavior change crp global hba1c health launch paired partners test thrive"
-    },
-    {
       "id": "b00880b59597f0d155b7",
       "company": "Quest Diagnostics",
       "title": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings",
@@ -4231,6 +4369,30 @@
       "event_signature": "compared competitors daily despite gains stock underperforms wednesday when"
     },
     {
+      "id": "1bd79f0520039f6d5ef4",
+      "company": "Labcorp",
+      "title": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
+      "description": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant",
+      "source": "HIT Consultant",
+      "source_url": "https://hitconsultant.net",
+      "source_domain": "hitconsultant.net",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HIT Consultant",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
+          "domain": "hitconsultant.net",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "apob behavior change crp global hba1c health launch paired partners test thrive"
+    },
+    {
       "id": "558c1f44f46297eecf92",
       "company": "Labcorp",
       "title": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer",
@@ -4253,30 +4415,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "cancer endometrial introduces mutation oncology pole previs rebecca standalone testing"
-    },
-    {
-      "id": "8c14966b01d869b95812",
-      "company": "Labcorp",
-      "title": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
-      "description": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-10-13T14:07:53+00:00",
-      "published_display": "13 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-10-13T14:07:53+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "cardiometabolic consumer direct global launch test thrive"
     },
     {
       "id": "3537ca9b6ef4ef30456b",
@@ -4355,6 +4493,30 @@
       ],
       "coverage_count": 6,
       "event_signature": "global health launches test thrive"
+    },
+    {
+      "id": "8c14966b01d869b95812",
+      "company": "Labcorp",
+      "title": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
+      "description": "Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWl2YWQzWlRfdUJHbmVuNXRGNXZibi1jcUQxbDBsVVo1cFRudVF3X1ZlQUdhanhta2dXcmZya3FQOXBmbTlneGRJaDdxMDA1WmVLdGRfVTB5UFhXZUI1X0xmVFFyTUhDS1MyNjBIMnMtSVloa0VqYXpHbnpQNTFYcEpGUkE3VXZ2N3lXN0NWZ1RNelBPSXNCWUxqelYyV01STHhvSEJR?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-13T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cardiometabolic consumer direct global launch test thrive"
     },
     {
       "id": "4493bbca40bbb733b192",
@@ -14876,10 +15038,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 57,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-27T00:17:00+05:30",
-  "next_update_display": "27 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-27T06:17:00+05:30",
+  "next_update_display": "27 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
