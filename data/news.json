@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-27T11:08:39.943354+05:30",
-  "generated_at_display": "27 Oct 2026, 11:08 AM IST",
-  "item_count": 486,
-  "raw_relevant_item_count": 625,
-  "duplicates_merged": 88,
+  "generated_at": "2026-10-27T18:11:32.388568+05:30",
+  "generated_at_display": "27 Oct 2026, 6:11 PM IST",
+  "item_count": 484,
+  "raw_relevant_item_count": 667,
+  "duplicates_merged": 128,
   "failures": [],
   "items": [
     {
@@ -11,7 +11,7 @@
       "company": "Labcorp",
       "title": "Labcorp earnings: what to look for from LH",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWhCMzVoaDFDOUkyRnpWTVZSOGJLLS15MjlwYURsa0x2c01qdHB1R2Z5WmtBRlhBN1oxTm9oMGJRUzRTWS04WkwwcG1zZ3RSTFJiRThnbk0xUmhtVi11bWF1WVZvNUtmVTdEdWlaRlJwRW9LSEw2TzZlbzVKREotZi1LSEV2dllhcVNxRkRmVExsZ19lNlVrOTBqWFlVZWc5NlI1ZA?oc=5",
-      "description": "Labcorp earnings: what to look for from LH TradingView",
+      "description": "Labcorp earnings: what to look for from LH FinancialContent",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -25,9 +25,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWhCMzVoaDFDOUkyRnpWTVZSOGJLLS15MjlwYURsa0x2c01qdHB1R2Z5WmtBRlhBN1oxTm9oMGJRUzRTWS04WkwwcG1zZ3RSTFJiRThnbk0xUmhtVi11bWF1WVZvNUtmVTdEdWlaRlJwRW9LSEw2TzZlbzVKREotZi1LSEV2dllhcVNxRkRmVExsZ19lNlVrOTBqWFlVZWc5NlI1ZA?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-27T03:24:00+00:00"
+        },
+        {
+          "name": "FinancialContent",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamFkR29IcFh0ay0tTVBfQXBDQkU4cWNMNzF5OHg0anFuQ2hzUkF3cEtoakhacDY3ajdwbnpDZ3NtUlNWRm15UERhUXV5dVlHdGIxblcyVm5xQnVMcG43ZVpWUzhXZTEycGg3c2ZlcG5nZmV1Q1ZPRkdaaFBVVmt3MmE3TWFBU0RVTmFwRlAxOHBmNDNqLUpZNnRBM0VsWl9hRVBhQ0N5TQ?oc=5",
+          "domain": "financialcontent.com",
+          "published_at": "2026-10-27T03:24:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "earnings look what"
     },
     {
@@ -151,9 +157,15 @@
           "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xck54RmpEM2hDRU5BWktvR1Y2MlRMRVhtZXdJbm5XM0NWeUVxSVdYNVRRcTI4SmltU3Y3N1poNi1ldG1abTZKNGMwZUJENkRBVFhtNXc0Q3RGeGZFVklPVzR5SEFLaXlSTTc5Z1hVZw?oc=5",
           "domain": "cnynews.com",
           "published_at": "2026-10-26T14:14:56+00:00"
+        },
+        {
+          "name": "WIBX 950",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxbXVUOWR0aFFPTjJiRy1jcGJOdWdUQXotUlIxekhrTWZxUnBLRUdCcXlISDlyLTJlZWQyS252blBnZ29VY3Fhbkw2cmdCc3owaE1lb3VGMDV4NmtYYTJRY25CNFlyTzIyTHIzS2VBbw?oc=5",
+          "domain": "wibx950.com",
+          "published_at": "2026-10-26T14:23:49+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "affecting breach data diagnostic massive nationwide patient records"
     },
     {
@@ -1519,30 +1531,6 @@
       "event_signature": "breach cyber exposed lab major medical operator patient records"
     },
     {
-      "id": "d095842c7ad063260cea",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Data Breach: 716 Attacks [2026]",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlhJMmREOHM5VkRIalpuOFZaUURPZUZlUXAyRmpQZjliNlZKQ21FdkswUXpnUUxVY1RwYXJLd2h3ZWduWk4yOGJGUmk3M1VWeEpKdXhRbW1CV1JGU3kzNVZmUnFnUHl3dHBxYS1OWlc0SThJTGpDYTBEMjBBLWtwSjZOSmt4UQ?oc=5",
-      "description": "Quest Diagnostics Data Breach: 716 Attacks [2026] shattered.io",
-      "source": "shattered.io",
-      "source_url": "https://shattered.io",
-      "source_domain": "shattered.io",
-      "published_at": "2026-10-23T01:03:57+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "shattered.io",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlhJMmREOHM5VkRIalpuOFZaUURPZUZlUXAyRmpQZjliNlZKQ21FdkswUXpnUUxVY1RwYXJLd2h3ZWduWk4yOGJGUmk3M1VWeEpKdXhRbW1CV1JGU3kzNVZmUnFnUHl3dHBxYS1OWlc0SThJTGpDYTBEMjBBLWtwSjZOSmt4UQ?oc=5",
-          "domain": "shattered.io",
-          "published_at": "2026-10-23T01:03:57+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 716 attacks breach data"
-    },
-    {
       "id": "833e5b4225ef1997200a",
       "company": "Labcorp",
       "title": "Labcorp Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods",
@@ -2347,6 +2335,30 @@
       "event_signature": "2026 earnings ended months nine quarter results september third"
     },
     {
+      "id": "d095842c7ad063260cea",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Data Breach: 716 Attacks [2026]",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlhJMmREOHM5VkRIalpuOFZaUURPZUZlUXAyRmpQZjliNlZKQ21FdkswUXpnUUxVY1RwYXJLd2h3ZWduWk4yOGJGUmk3M1VWeEpKdXhRbW1CV1JGU3kzNVZmUnFnUHl3dHBxYS1OWlc0SThJTGpDYTBEMjBBLWtwSjZOSmt4UQ?oc=5",
+      "description": "Quest Diagnostics Data Breach: 716 Attacks [2026] shattered.io",
+      "source": "shattered.io",
+      "source_url": "https://shattered.io",
+      "source_domain": "shattered.io",
+      "published_at": "2026-10-22T13:08:22+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "shattered.io",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlhJMmREOHM5VkRIalpuOFZaUURPZUZlUXAyRmpQZjliNlZKQ21FdkswUXpnUUxVY1RwYXJLd2h3ZWduWk4yOGJGUmk3M1VWeEpKdXhRbW1CV1JGU3kzNVZmUnFnUHl3dHBxYS1OWlc0SThJTGpDYTBEMjBBLWtwSjZOSmt4UQ?oc=5",
+          "domain": "shattered.io",
+          "published_at": "2026-10-22T13:08:22+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 716 attacks breach data"
+    },
+    {
       "id": "98b81e5f3ed4cc1e8389",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Q3 FY2026 earnings call transcript",
@@ -2695,9 +2707,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnV1dHFnb2lldGlXSmRLRzloOWVXSmFzRHFLMWFkVExRWGNma2VGRm5zYU1CLW13d2VuNlNwcFZTX3JXQjNDLVVpRWRkUlQ1RjZ3NlJfajhyZHVoNlhoc09YVHN4NVc1dzAwTGtETHk4WjJpZ0FoZVdpYWc0ZDZXUXBwQ05jcGR6RUljclZTd21sUlppOHFJTDJNSlcyWW1hc3RtWEpSTk13VXdVOW9TT2NzdVVubzJ3WGpDRDhqcF94dw?oc=5",
           "domain": "teiss.co.uk",
           "published_at": "2026-10-26T12:06:24+00:00"
+        },
+        {
+          "name": "HealthExec",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjVCODFUQzAzbjJVWVRwSl91WjNfLXNmZ0E4c09ScEU2MUs5M0RzTGk5WWZta2RSQkpGMERmMkkzYkVWejEtVXNUc0NHNGROTV9YX3ZZYVZNOXpTUGFnZXdCaFNjcFhvbk9SWTJhZldMb3o3dWNLc2hkWDFVN2Rjald3dmNVeHp3OEhRLUZBVmNtNTBpaW5YYzNzdXZ1N0xZamlBUjYyU0dabUZQbl83VGFQdFBULW1SZ1BDMTVGWG5aRVRvZzBRM2p6SGlyMHk1d09DYWZ1SXlYTjYtLXJF?oc=5",
+          "domain": "healthexec.com",
+          "published_at": "2026-10-26T21:49:36+00:00"
         }
       ],
-      "coverage_count": 9,
+      "coverage_count": 10,
       "event_signature": "access patient records system unauthorized"
     },
     {
@@ -15055,122 +15073,12 @@
       "summary_evidence": [
         "https://www.reveliolabs.com/companies/labcorp-holdings/employees/"
       ]
-    },
-    {
-      "id": "4182f5e29fb587888231",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5",
-      "description": "Quest Diagnostics SVP Mark Delaney sells $376k in shares By Investing.com Investing.com South Africa",
-      "source": "Investing.com Canada",
-      "source_url": "https://ca.investing.com",
-      "source_domain": "ca.investing.com",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "published_display": "29 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN2NISWhkNi1hb2xtY0FhWURyNkV2Z2dsNkp2N1AwNnlUVzYycndSU0lFNWxfN1gtSGJocjJ2Z0Rvd3JYczJ6ZFlocnlZOFdVOHdyRk5lSDNSb0FTWUZLWTJpZzNmS3lJUkFmZXFKc0xsSDJucDdNZnVhQjhqOURmUmcwbU44ZVhMam40OElhcVF5UU1DTGtwMGE3eTJUOGx4QWxiWkptN2p6b2RvNjktenBUQ0V4U28?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-07-29T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQek5vMXVwVm9uLW1XTm9qQmg0aVRNMmpKSEVnSFhOc0Y2aG1VcW0wRWNERDNEUXV2ZGFEY19hYVIwZU8yQ3FVa3VJSmxwOWt2amV5d3ZUQXFhN3RvNGtzZTFkZWstLXhOQk9sbzl4QWg5T3o2MTN3eF8yVXFGNTI0YjNFT1NjZ29EVFloVllkRGpVcmN3YVkxLXczQnV1WVQ2NlZWaVBtS0hCcjhLVGhyNHRCWG1nV2c?oc=5",
-          "domain": "uk.investing.com",
-          "published_at": "2026-07-29T21:32:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZzFsUkFuMVhJWUNfR2FQZ0xuTzdJYWxrLTlDemtPQzM2bWJfT1BLLVhrUEJnZkxoYVFIWkd6ZGpwbG1TS3E0emkxaENVODYwRTlhMHhYSXE2VEVNU2dNd1JPLTBwNHQ5TWhrQ0xvQTdCWHNwOENIVzhETUNGbWZtMUpfRkVDSmU1al9JejFFaE1CODREeWU5NnZidnJoU04ySFI3RnhFSTFxSFFaS0o5azNEb3FqXzRRbDdmSg?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-29T21:46:52+00:00"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV2ktNHBjb3ZzaE8zS285WW5iRkNIUUM3NThNUjBGRlJGYzRyOVZkQlROeS1PYVFLMGhrTUZGNjQ1ZHl1a3ZRTnp3TmhUQ0FDaVRteVRqUUd5TXBnZ1lSc2p3OGQ4RDUzZjVWY2RHRmlObVYxVDlBdWtvemV0Rkh3M2h2MERXc1ltdjRDLVJXLVF4V3ZtX3ExTG5RUUtxX1BPNHhwNTdOMzN3cGxJUEh5b1ZNTVhuR28?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-07-30T00:53:05+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbU5xOHlyTVhJOXpwZFRTRU55ckJPZXB3cXdjRGVBSEdkSWJzbV9pYmFvNXBzdndMZ090Tzczbms1WFpHYTI1MjdjaXdjeW85YnRjNHI5QlNkVjREWDdfdUxid085emtfYlZCd0h0VDczQkhpQ3pJNGlwNlpSV3gxM3FRNjgwMFg1c1pSaDhZZTI5WEF6cFFCQlpiLWdScThEVW9tbGp4N3lQWmZlYTBqdTE1VTZiak0?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-07-30T01:31:55+00:00"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHpwTUVHSkpxVmItbmtkdXpDNDRVekliendzOTFEX1BZaWFEenRoMkpCMXhiNFRFT3RVSmVqV2plTm9BY3V1ZkNBQ0VnWnpURWp1ZEJNbGZMQkVoYVVvajVnamIzVm1yMDd5YmZwVGtkTmdkQVdTQnpBVXU5emFLVXk1clUxdWd1N09lUndLbDQxODJvNGRxU0FndkR3YnNMNzRHNnVwdXlVcWRmRnZWb3ZwcUdRNUMxUFRMcTRxMUdOcmZVZXdr?oc=5",
-          "domain": "m.in.investing.com",
-          "published_at": "2026-07-30T01:56:03+00:00"
-        },
-        {
-          "name": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLS1ZMENUQzBvVHhLb3ZXYk1XOTMyZEQzV2lmVF9GcDRXMjM3WkM2NFJ1SHJ5YnlaSXBSRDF6SUVmUmtuRGlDbWJadU9ienBoYzRKVGs4U09VbkZyMXVtRE9ScWR4dTJYZkFWTy1lZHRXMm5RU0kxLTFiVUhxZ0tJVXp3a0lmdU5xMjZzN013RHNFZzhnNVFlWEV6NkRtSVlfdnFZMEdDSE5IcEVyN3p3OENTWUg?oc=5",
-          "domain": "marketbeat.com",
-          "published_at": "2026-07-29T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 7,
-      "event_signature": "376k com delaney investing mark sells shares svp"
-    },
-    {
-      "id": "1be2ec1321dc39f0df29",
-      "company": "Labcorp",
-      "title": "Labcorp earnings ahead: Can specialty tests sustain momentum?",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5",
-      "description": "Investing.com’s July 29 preview framed Labcorp’s second-quarter 2026 report around whether specialty testing could sustain the company’s first-quarter momentum. Analysts expected adjusted earnings of $4.78 per share and revenue of $3.71 billion for the quarter ended June 30, implying year-over-year growth of 9.9% and 5.1%, respectively. Labcorp had reported first-quarter adjusted EPS of $4.25 on revenue of $3.54 billion, both above analyst expectations, and had raised its full-year outlook after that quarter. The article highlighted specialty diagnostics as a key growth lever, including oncology, women’s health, neurology and autoimmune testing, with particular attention to liquid biopsy and minimal-residual-disease applications. It also pointed to the company’s planned Marker by Labcorp consumer genetics launch, a 163-gene panel covering hereditary cancer, cardiovascular and metabolic risks, as part of a broader direct-access testing strategy. Investing.com cited expectations that direct-to-consumer testing could grow faster than the overall diagnostics market, while noting that the investment case depended on converting specialty-test demand into sustained earnings growth. Wall Street sentiment remained positive immediately before the report: 14 of 19 analysts rated Labcorp a buy and five rated it a hold, with a consensus price target of $312.35 versus a share price of $314.23, near its 52-week high of $315.77. The piece was a pre-earnings assessment, not a report of the subsequent quarter’s actual results.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-07-29T07:00:00+00:00",
-      "published_display": "29 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQM1VRb0N1d2JHcWxraHVka1N3QjE1X2I1MFJDZ012c3J5c25lZUFkWDRLc0VmNWV5V0dMQWJBd3lMNkwwQVNLUWtBWnRtM0RJd2dieHE1UkFhX2FWWk9uZ196RmtWanZHUWg4bGxSYXI2Ni1yT1FuM1JsdUFaX0lETEg5aWc4WDY2RC13X3VsWktVUTB0WlpTdlpJX2I4WHpmdW1PLWlVeEg4U3BpckpYWjR3?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-07-29T07:00:00+00:00"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-          "domain": "bloomberg.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmZMWHhhV1ZDOThTM1R0QzhUZm9Md3FISk4wQUU1SjE4cDVfSXBEWmZ3bVlPd3Z1MGlFWmhIYjg1YmREbXJVZ2pUWlducGl3MHJWVmFBbVpKZ09aREFLWUxERk5UOTJMSzZmQ2Faa0lhRkQ0U0padDJETnFJaTFUUEJiT0E4VVJOWS12SW4yaWd2MGhEbXNCTWZIZGl4Z01oQVpXSnpPZUViMV9xRXc?oc=5",
-          "domain": "sahmcapital.com",
-          "published_at": "2026-07-31T07:00:00+00:00"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcXQ2eFlzeUJfTGotekMzbzR0UF82VVFJaDgxeG8xY0FsbWZnMFhSQVg3RHJfS3RFT0pMblo1SlpMZlhIdjZ6bkg3NlRnQmphX3ZXUmtEOTNLc01IZGNLbFc3NENSUFIzZkVTNnM2TEFxY05OVUdpeWczSW9yOW1SREpSZkpqNVkwQlFfaVVNUVJ3aVNGU29ib1BwS21pZEVodzFHaGRITjFUMmdweV9sSnhaOFhJd0x2alc5ZEltQWxuOHZjVkJNam1B0gHPAUFVX3lxTE5JenlNQlZSVDhxenR2UVVibmx2WnduU3h5c3A4MHB3anY2UExULVZPSU1IOGFWMHhXanpyNXB4V25IWTdCaHhFbmNFVFFCVHUxZC1pXzhPbWw1QzJMOTNwclFjSXdQdzJkMWZxZ2ltRzJaX2RpRW9WSHlDUEN0RTlKQlhaWlFQZUlyU0laNXpsQUd6eHJkbGZ1ei1zcUpYanNtWDVXbUxOQUV6MElVb2oyUTBoUXZ5Y1YwVDlrOUtkUm05Y2VUSzRjUXFTWlo5UQ?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T22:53:58+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "ahead can earnings momentum specialty sustain tests",
-      "source_description": "Labcorp earnings ahead: Can specialty tests sustain momentum? Investing.com",
-      "chatgpt_summary": "Investing.com’s July 29 preview framed Labcorp’s second-quarter 2026 report around whether specialty testing could sustain the company’s first-quarter momentum. Analysts expected adjusted earnings of $4.78 per share and revenue of $3.71 billion for the quarter ended June 30, implying year-over-year growth of 9.9% and 5.1%, respectively. Labcorp had reported first-quarter adjusted EPS of $4.25 on revenue of $3.54 billion, both above analyst expectations, and had raised its full-year outlook after that quarter. The article highlighted specialty diagnostics as a key growth lever, including oncology, women’s health, neurology and autoimmune testing, with particular attention to liquid biopsy and minimal-residual-disease applications. It also pointed to the company’s planned Marker by Labcorp consumer genetics launch, a 163-gene panel covering hereditary cancer, cardiovascular and metabolic risks, as part of a broader direct-access testing strategy. Investing.com cited expectations that direct-to-consumer testing could grow faster than the overall diagnostics market, while noting that the investment case depended on converting specialty-test demand into sustained earnings growth. Wall Street sentiment remained positive immediately before the report: 14 of 19 analysts rated Labcorp a buy and five rated it a hold, with a consensus price target of $312.35 versus a share price of $314.23, near its 52-week high of $315.77. The piece was a pre-earnings assessment, not a report of the subsequent quarter’s actual results.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-14T00:49:37+05:30",
-      "summary_evidence": [
-        "https://m.za.investing.com/news/earnings/labcorp-earnings-ahead-can-specialty-tests-sustain-momentum-93CH-4393975?ampMode=1"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 54,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-27T12:17:00+05:30",
-  "next_update_display": "27 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-27T18:17:00+05:30",
+  "next_update_display": "27 Oct 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
