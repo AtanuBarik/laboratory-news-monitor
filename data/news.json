@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-27T23:49:54.721616+05:30",
-  "generated_at_display": "27 Oct 2026, 11:49 PM IST",
-  "item_count": 487,
-  "raw_relevant_item_count": 705,
-  "duplicates_merged": 159,
+  "generated_at": "2026-10-28T04:08:01.427043+05:30",
+  "generated_at_display": "28 Oct 2026, 4:08 AM IST",
+  "item_count": 489,
+  "raw_relevant_item_count": 642,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "3407c3bb31c308f935a7",
+      "company": "Labcorp",
+      "title": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5",
+      "description": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-10-27T17:02:36+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-27T17:02:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access approved expand fda hpv screening tests waters"
+    },
+    {
+      "id": "b464584d4cb790fd15e7",
+      "company": "Labcorp",
+      "title": "Labcorp earnings in focus as profit expectations moderate By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5",
+      "description": "Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia",
+      "source": "Investing.com Australia",
+      "source_url": "https://au.investing.com",
+      "source_domain": "au.investing.com",
+      "published_at": "2026-10-27T15:12:36+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-10-27T15:12:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "com earnings expectations focus investing moderate profit"
+    },
     {
       "id": "13ef3bcdeb9c5cf70599",
       "company": "Quest Diagnostics",
@@ -1121,7 +1169,7 @@
       "company": "Labcorp",
       "title": "Labcorp to offer BD Onclarity HPV test across U.S. network",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FqVnIwQ2lYZkNDSnZQQjlRTGJ5UkxIN051Z19VeGNEUnV3VEc0UnV2dDgxQ3gwQTJCZWtteE9iNHJqVDJ6N0h0X0VhbmxaTkJCcXBkcjNhTEc1YXN2YzhOUENnWUt1TFBaMFpXeHhnQ3lBVVNFRXBZNURKVUFSWjdxR2hUcWNKNzVsNms4cEZSQmxXbmxaSm9senlYMDZlZUJVMHZZQ1RjV0hCLXMwT2hoMA?oc=5",
-      "description": "Labcorp to offer BD Onclarity HPV test across U.S. network By Investing.com Investing.com India",
+      "description": "Labcorp to offer BD Onclarity HPV test across U.S. network By Investing.com Investing.com Canada",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -1141,9 +1189,15 @@
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXpPSGxod1QzWWZlWXRBRC14OEQwZm9xU1JSUzBrck1kVHlleUVDZGlPTGFDS19INFdvblVaT0c1OGZQTnVFN1poeTgtdVA3bzV4YlB1VkJ3QlljdWdmNmlpZFl0c2pxeTR2bnBQbkxiNHhIVVd6cGdHZVZ4c3UyWVczdDZhQm1WdnYwOEZXdnZ3SHZrRExrUnlwZzZBakhPT0M5aGtJdkw3S0VNSWlMbW8wWDl1ZGlo?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-10-23T12:41:19+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcWNBUjlKam1kNzNJVzlfaWdKNzM5TDZaOEE4ci1xWWdLVGo5NG41RGloZXNCSHFYQXJtNlNPUktXcThwOGRZU1Y4Q1ZUbmlRMU9zemRmaXBPSmkxWlhwbXZnNDFobHNCOVpISDFJb2JiaXRob3V6RV94V0JZUmZzMmtCd2hXTzlxakMyQ3dEY25ULWREMDlNejlKOXYtSGVISHBjWnpSOXpaT0ljZmZiTTlIVDBnYUUw?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-23T12:34:46+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "across hpv network offer onclarity test"
     },
     {
@@ -3823,9 +3877,15 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-23T23:12:02+00:00"
+        },
+        {
+          "name": "Voice of Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjd5U3VZVkRPYU95N2lfQUlRNTAxZlFjMmxnaUxWRXVQM1pOY093Mko5bUFqOGFRSWdjeGZyRVJNREZRaWJCNHBvbUtYU3JseTJ4RHpPS0ROWE4zSVQ1X0phQl9QNTd5YmxNRlIwTlpvTm1McjdfeW5teno1NzJFczFoVzlGZUotQzJWR1JEekY1R25JWmJWajFIN01DblUtY3l4OGJGMUsybVk?oc=5",
+          "domain": "vohnetwork.com",
+          "published_at": "2026-10-27T05:12:12+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
     },
     {
@@ -4679,6 +4739,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "apob behavior change crp global hba1c health launch paired partners test thrive"
+    },
+    {
+      "id": "36a457e2bfa9005733b2",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5",
+      "description": "Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations Quest Diagnostics Newsroom",
+      "source": "Quest Diagnostics Newsroom",
+      "source_url": "https://newsroom.questdiagnostics.com",
+      "source_domain": "newsroom.questdiagnostics.com",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Other",
+      "official_source": true,
+      "sources": [
+        {
+          "name": "Quest Diagnostics Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5",
+          "domain": "newsroom.questdiagnostics.com",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accepting awards champion communities foundation healthy nominations now"
     },
     {
       "id": "558c1f44f46297eecf92",
@@ -15149,44 +15233,12 @@
       ],
       "coverage_count": 2,
       "event_signature": "cy2026 expectations line"
-    },
-    {
-      "id": "698c3248416c71aed00d",
-      "company": "Labcorp",
-      "title": "Labcorp Number of Employees 2026 | Employee Count & Headcount Data",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
-      "description": "Revelio Labs estimates that Labcorp Holdings employed approximately 71,180 people worldwide as of March 2026. The figure is based on Revelio’s workforce-intelligence data derived from public professional information and should be treated as a third-party estimate rather than an audited company headcount. Revelio reports that Labcorp’s estimated workforce was down about 0.2% year over year and roughly 4.0% below a 2023 peak of 74,148 employees. The geographic distribution remains concentrated in the United States, which accounts for about 39,246 employees, or 55.8% of the estimated total. India represents approximately 10,971 employees, or 15.6%, and Canada about 5,490, or 7.8%. Revelio also estimates that Labcorp’s largest functional groups are Finance and Operations at 29,273 employees, or 41.6% of the workforce; Engineering at 27,266, or 38.7%; and Sales and Marketing at 13,836, or 19.7%. The page reports 3,211 active job postings in 2026 and a hiring velocity of about 2,447 new roles per month. Some of Revelio’s job-posting comparisons are internally inconsistent, so those figures are best read as directional indicators rather than exact company disclosures. The overall profile points to a broadly stable workforce entering 2026, with most employees concentrated in North America and a substantial operating and technical presence in India.",
-      "source": "Revelio Labs",
-      "source_url": "https://www.reveliolabs.com",
-      "source_domain": "reveliolabs.com",
-      "published_at": "2026-07-29T21:29:01+00:00",
-      "published_display": "29 Jul 2026",
-      "category": "Organizational Updates",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wMUdCOUk4amM4V1VfU3dnNkFnX0lMNGJKaDNGQkppYXZTZHFTOEhvSHk5Qk9NYTN2TmtUeDZVSlBvSG5wckFYUVdYeWxJWkNUM3NMQTlpeTZZUjc5QTZLQjdlUkNJNlh2TVU5c1RLWXk0dw?oc=5",
-          "domain": "reveliolabs.com",
-          "published_at": "2026-07-29T21:29:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 count data employee employees headcount number",
-      "source_description": "Labcorp Holdings Number of Employees 2026 | Employee Count & Headcount Data reveliolabs.com",
-      "chatgpt_summary": "Revelio Labs estimates that Labcorp Holdings employed approximately 71,180 people worldwide as of March 2026. The figure is based on Revelio’s workforce-intelligence data derived from public professional information and should be treated as a third-party estimate rather than an audited company headcount. Revelio reports that Labcorp’s estimated workforce was down about 0.2% year over year and roughly 4.0% below a 2023 peak of 74,148 employees. The geographic distribution remains concentrated in the United States, which accounts for about 39,246 employees, or 55.8% of the estimated total. India represents approximately 10,971 employees, or 15.6%, and Canada about 5,490, or 7.8%. Revelio also estimates that Labcorp’s largest functional groups are Finance and Operations at 29,273 employees, or 41.6% of the workforce; Engineering at 27,266, or 38.7%; and Sales and Marketing at 13,836, or 19.7%. The page reports 3,211 active job postings in 2026 and a hiring velocity of about 2,447 new roles per month. Some of Revelio’s job-posting comparisons are internally inconsistent, so those figures are best read as directional indicators rather than exact company disclosures. The overall profile points to a broadly stable workforce entering 2026, with most employees concentrated in North America and a substantial operating and technical presence in India.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-14T00:49:37+05:30",
-      "summary_evidence": [
-        "https://www.reveliolabs.com/companies/labcorp-holdings/employees/"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 55,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-28T00:17:00+05:30",
-  "next_update_display": "28 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-28T06:17:00+05:30",
+  "next_update_display": "28 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

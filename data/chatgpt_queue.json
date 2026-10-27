@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-28T00:25:22.359115+05:30",
-  "generated_at_display": "28 Oct 2026, 12:25 AM IST",
+  "generated_at": "2026-10-28T04:08:05.477533+05:30",
+  "generated_at_display": "28 Oct 2026, 4:08 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 418,
+  "remaining_unsummarized_count": 421,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
+    {
+      "id": "36a457e2bfa9005733b2",
+      "company": "Quest Diagnostics",
+      "category": "Other",
+      "title": "Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations",
+      "source": "Quest Diagnostics Newsroom",
+      "description": "Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations Quest Diagnostics Newsroom",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "official_source": true,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5",
+      "sources": [
+        {
+          "name": "Quest Diagnostics Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
     {
       "id": "75b2c7e2b775695d2b62",
       "company": "Labcorp",
@@ -644,29 +663,6 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "858ed41f64214b58dda7",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp acquires German specialty laboratory provider",
-      "source": "Greensboro News and Record",
-      "description": "Labcorp acquires German specialty laboratory provider Greensboro News and Record",
-      "published_at": "2026-09-08T17:15:00+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5",
-      "sources": [
-        {
-          "name": "Greensboro News and Record",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWnpON053V2tRcWs5NnZZak9McU4tbXkwMk10djFBRkdZSlJFNzFXWHkzSHowMkVFNVZodXZoU1lrUVV0ZV9fOUxsUG9nQ3pjYTNBd2kwVmdHUFhFZXRjbEFrN3lMTUFqV1VoSHZvd1ptcGh5ZVFPS2o0ZGl6aGhyWnF2dTBxdXRzY1ZpZVM1el9aZmJlbUdQOEVSY0VwMGY3NnNLaGRoMA?oc=5"
-        },
-        {
-          "name": "Winston-Salem Journal",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1c3ZDRrU3o2djUzV1B4QWNQdzk0STI2NzYwZHZhSDhGUHVHZlNITnFMeWdSMzgtZnpSbEtJNjB6S0QwYnRNUXNYYTIteU9BS2RfTVl2Wk54b1pNNmpUMmZ2SFZhZjdKcjl4RlREYXF4aGxXVHpYcDBWelVWaXFUZko5TEFkYmk4eXBOaTR1a1A0VkZZVmRmaGRha1NqRUp4cGxVdW1TSQ?oc=5"
         }
       ]
     }
