@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-27T18:11:32.388568+05:30",
-  "generated_at_display": "27 Oct 2026, 6:11 PM IST",
-  "item_count": 484,
-  "raw_relevant_item_count": 667,
-  "duplicates_merged": 128,
+  "generated_at": "2026-10-27T23:49:54.721616+05:30",
+  "generated_at_display": "27 Oct 2026, 11:49 PM IST",
+  "item_count": 487,
+  "raw_relevant_item_count": 705,
+  "duplicates_merged": 159,
   "failures": [],
   "items": [
+    {
+      "id": "13ef3bcdeb9c5cf70599",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics says patient records were accessed through its Quanum lab-ordering portal; the number of affected people and exposed data remain unknown",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDFZX1V4M3hpUVFFZzVkOEJ2elFFa25Ld0Qzem16WWJqT2daMExmaElNQ21fV3hZT01OUjc2ZHdGZTRPSW05VUkwRE5teTdmUUs0TFRGdjZQb1gxNXFRNXNkeGQxaTNzM1llQXNyVlpiTm1mVGwtclBPdDR0UlZEakhYQU4xM3h2WFNSVU9HZGxualJk?oc=5",
+      "description": "Quest Diagnostics says patient records were accessed through its Quanum lab-ordering portal; the number of affected people and exposed data remain unknown Medical Daily",
+      "source": "Medical Daily",
+      "source_url": "https://www.medicaldaily.com",
+      "source_domain": "medicaldaily.com",
+      "published_at": "2026-10-27T13:39:14+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Daily",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDFZX1V4M3hpUVFFZzVkOEJ2elFFa25Ld0Qzem16WWJqT2daMExmaElNQ21fV3hZT01OUjc2ZHdGZTRPSW05VUkwRE5teTdmUUs0TFRGdjZQb1gxNXFRNXNkeGQxaTNzM1llQXNyVlpiTm1mVGwtclBPdDR0UlZEakhYQU4xM3h2WFNSVU9HZGxualJk?oc=5",
+          "domain": "medicaldaily.com",
+          "published_at": "2026-10-27T13:39:14+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accessed affected data exposed lab number ordering patient people portal quanum records remain through unknown were"
+    },
+    {
+      "id": "ca1af700d084339ad0ce",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQW44akpNOEtBbWdGY1kwVG1qRDQ4eHMySXk3SjY4NTBTWmJ6NHFvblJBQWlHeC1VaWw5YndSeDNoY3ZyX19ld29FeXJRRlFJMk5Uak5YVmdmSjFKZVZjM0I4QUV2aVZCbzFQN25JaG1aV3M?oc=5",
+      "description": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed The420.in",
+      "source": "The420.in",
+      "source_url": "https://the420.in",
+      "source_domain": "the420.in",
+      "published_at": "2026-10-27T13:35:03+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The420.in",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQW44akpNOEtBbWdGY1kwVG1qRDQ4eHMySXk3SjY4NTBTWmJ6NHFvblJBQWlHeC1VaWw5YndSeDNoY3ZyX19ld29FeXJRRlFJMk5Uak5YVmdmSjFKZVZjM0I4QUV2aVZCbzFQN25JaG1aV3M?oc=5",
+          "domain": "the420.in",
+          "published_at": "2026-10-27T13:35:03+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach confirms cyber exposed may patient records"
+    },
     {
       "id": "c130f0238a84bfb828eb",
       "company": "Labcorp",
@@ -31,9 +79,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamFkR29IcFh0ay0tTVBfQXBDQkU4cWNMNzF5OHg0anFuQ2hzUkF3cEtoakhacDY3ajdwbnpDZ3NtUlNWRm15UERhUXV5dVlHdGIxblcyVm5xQnVMcG43ZVpWUzhXZTEycGg3c2ZlcG5nZmV1Q1ZPRkdaaFBVVmt3MmE3TWFBU0RVTmFwRlAxOHBmNDNqLUpZNnRBM0VsWl9hRVBhQ0N5TQ?oc=5",
           "domain": "financialcontent.com",
           "published_at": "2026-10-27T03:24:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2JhZlJxUHpvaVNwU3piSlo0ZmQxU1NFRllhRFpQWnd6WlI1dWhBb3l0TVZHaHVPdmxPWFhFRzFfQzJIVGtudGJ5ekpyU2RPZFBpdTJlZTgwRVhONEpIbVlocUUtVEFLV3VGSTNkbVhVMksxbWcwOVNWaUNwYkJWZ0JIUWROUDYzTUVsU293?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-27T13:10:47+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "earnings look what"
     },
     {
@@ -341,7 +395,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Data Breach Lawsuit: Quanum Lab System",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnpXNU9MSGpPTERESDJjQTVsZHg0ckZ2Y19NY0szWWhHUFNRZnR1Mmk0S2ZWRXFuZHJFa1dORl9Bem5CSHUta29nQ1d6WlJOa2s0X1F0R3RRZzVXY2RxNlVCZzVMd2E3ZnFJcXFFaFNUcXFvVU9JTHBhQTdZVWFGdUZrMHlVMTJWWXBHNkJ6N1JJLVV5M3JnT0NJQ29uR1k0LTAwUjNaMEFZOE0yNURxZnhoNA?oc=5",
-      "description": "Quest Diagnostics Data Breach Lawsuit: Quanum Lab System openclassactions.com",
+      "description": "Quest Diagnostics data breach hits patient records in lab system Top Class Actions",
       "source": "openclassactions.com",
       "source_url": "https://openclassactions.com",
       "source_domain": "openclassactions.com",
@@ -355,9 +409,15 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnpXNU9MSGpPTERESDJjQTVsZHg0ckZ2Y19NY0szWWhHUFNRZnR1Mmk0S2ZWRXFuZHJFa1dORl9Bem5CSHUta29nQ1d6WlJOa2s0X1F0R3RRZzVXY2RxNlVCZzVMd2E3ZnFJcXFFaFNUcXFvVU9JTHBhQTdZVWFGdUZrMHlVMTJWWXBHNkJ6N1JJLVV5M3JnT0NJQ29uR1k0LTAwUjNaMEFZOE0yNURxZnhoNA?oc=5",
           "domain": "openclassactions.com",
           "published_at": "2026-10-24T04:30:00+00:00"
+        },
+        {
+          "name": "Top Class Actions",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZENVdjRDX2ViSDdCa2t3MElhODVHMEJVT2F1NXhRVzhzaVNYcUhkRmhnSk93eElWRGI1akpaOHlmLUNQb29ndGRHcVFLTC15VmhfN3IwclVsZW9WdldlOW1UeWNiX0U3MmR5elBRV19WWDFTSE5VOGx2TkN5c3hLakplOFR0UG9CWnpOcWFHUW9BcWJfMmhGUS00dHkxN2E5R054OVlnazNneEVkS3UxbHE5Q3pkZDVwdExIT2VzTWQ3UnNR?oc=5",
+          "domain": "topclassactions.com",
+          "published_at": "2026-10-27T14:11:30+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "breach data lab lawsuit quanum system"
     },
     {
@@ -1237,9 +1297,15 @@
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhCOUR5SGVPZkVGNEtjWEdneEN0dzZzcERXWFRUZkxaUmFaLTJvWTE5QjFUVGFZQ1B1RHhMQzhJZl9pTGF2bGZUdkN3dXA1LXp6MVpGVTZJRTNvc0xCSE40Q2Z1Y0hRaWxhbklVX0pCVHNTZ1NSVzhZcVZ0N1lUTVA4M1p3TkpVWGVlS1RoSEVNcjBSVkdpZ3lyaTEzZjRCTVpKc0R4UFdpanNaS1JSbWF1U0syQQ?oc=5",
           "domain": "biospectrumasia.com",
           "published_at": "2026-10-26T13:32:08+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGUwdjNHaElYS1dtQUpGcGZocUd2SDVJOUhrSDZDdlVwc3hsVFJQYTZZSDVON3g2T2xrZGNWM3BPTXNQSUw3RkZFU0F4OUNVQ0tHS3JtUHpvRnNIcllKeUdSNzB3cDN0ZTRybWNlOGpxZGJzMzZmR0xvMmVIQndKMElZQTFJZzd3LXVmQ25hcVZrQmlUa2lTUw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-27T15:31:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
@@ -1553,30 +1619,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "abuse advance assessment charles drug fda methods partners river"
-    },
-    {
-      "id": "fae4118b0f61ed796744",
-      "company": "Quest Diagnostics",
-      "title": "As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNUo4dEw5RXcwY2VZdnpuQjNZaHlNVmJkOGpGeE5maXFXS19pOGNSUDR0QTF2SWswUWdCVjlWWEZJOVZna1NsYTdZSUVhU0xtM3RIdkdaSVFMWlNyNk1uX2ZXbVM0ZktyZEhRYWFfZHJHcHNTdjNRRGd5VEgtRkFGakFIS3hnSTJ2WEFDSTA5Q1J4UHhjbXc2dm5HaVNNWUlrbF9wVm4yRGVNM1hwSVBoeUpOUm0tbjJCY1dVamVNVVZMMzFJeHctYXEyeUNlV2RhX3NUTWU3R2o2RWxZb0luN1B0Z3FZemYydXJzc2ZVVk1pUmJSZHdMNUV5M0d0UDJsLXhKTTRNSWNGUnc3aFE?oc=5",
-      "description": "As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips WFMZ.com",
-      "source": "WFMZ.com",
-      "source_url": "https://www.wfmz.com",
-      "source_domain": "wfmz.com",
-      "published_at": "2026-10-22T22:38:00+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "WFMZ.com",
-          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNUo4dEw5RXcwY2VZdnpuQjNZaHlNVmJkOGpGeE5maXFXS19pOGNSUDR0QTF2SWswUWdCVjlWWEZJOVZna1NsYTdZSUVhU0xtM3RIdkdaSVFMWlNyNk1uX2ZXbVM0ZktyZEhRYWFfZHJHcHNTdjNRRGd5VEgtRkFGakFIS3hnSTJ2WEFDSTA5Q1J4UHhjbXc2dm5HaVNNWUlrbF9wVm4yRGVNM1hwSVBoeUpOUm0tbjJCY1dVamVNVVZMMzFJeHctYXEyeUNlV2RhX3NUTWU3R2o2RWxZb0luN1B0Z3FZemYydXJzc2ZVVk1pUmJSZHdMNUV5M0d0UDJsLXhKTTRNSWNGUnc3aFE?oc=5",
-          "domain": "wfmz.com",
-          "published_at": "2026-10-22T22:38:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alvernia breach cyber data experiences major offers professor safety tips"
     },
     {
       "id": "c690e6c0384a4744ce84",
@@ -3229,9 +3271,21 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS054dXQ4S2Y3MmRTd3hoVE1tZ3ZRUTBZWERYeXlYcnVmVDZKVnkzNWdvemtPaEk1QmZjaExlOGtna2lGd08ycGd0ZVNldkgtZWNTU2xjU3UwS3JnVXcyQ3J2V0s3dEZrd2hhOE40bUw2d0JIaGhSOUhUNFlVQXVRR0hKa0RZdmZsaG9PRlFNbFpGLV9wUWx2RXFPTXE0azM4b1hfYWU2VnA?oc=5",
           "domain": "keyc.com",
           "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakZ5aEtWZ2M5cWdUaUdaNnIwd0FFZXRzcGxPWUlDNFVlcmRsZ1RrNDFxbm5YWG5yVFRRU19ONVlPTkVack5GTVV6UllVNlQxVEZlcDNQZEtCMmZHWGpBUlk4aHViZjVZUVE5OTJsRUJ6R0JrRUktbTN5NWZjSlZzNm9lanlCZDlDMEdfS1pYRHg?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-24T01:57:00+00:00"
+        },
+        {
+          "name": "Modern Ghana",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wMTAweUhkcTZPVTBlakpERjFNenZ6X1BHcVM2UWdkUXM1eW9rRGJ2QXdfLUNKUkx4LXgxa0tVNnNLRHhzOERGbzhkdUFDSllwX3NGbWUwb2Z5Q0JKUkhV0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5",
+          "domain": "modernghana.com",
+          "published_at": "2026-10-24T03:30:00+00:00"
         }
       ],
-      "coverage_count": 42,
+      "coverage_count": 44,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -3293,6 +3347,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "cut deck earnings loom medicare worries"
+    },
+    {
+      "id": "247351aa8b2f9886c523",
+      "company": "Labcorp",
+      "title": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards?",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
+      "description": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-10-21T12:28:00+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-21T12:28:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cards earnings prepares report what"
     },
     {
       "id": "d92783af1a45a53e9f08",
@@ -3397,6 +3475,30 @@
       "event_signature": "210m acquires business genetics myriad prenatal testing"
     },
     {
+      "id": "fae4118b0f61ed796744",
+      "company": "Quest Diagnostics",
+      "title": "As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNUo4dEw5RXcwY2VZdnpuQjNZaHlNVmJkOGpGeE5maXFXS19pOGNSUDR0QTF2SWswUWdCVjlWWEZJOVZna1NsYTdZSUVhU0xtM3RIdkdaSVFMWlNyNk1uX2ZXbVM0ZktyZEhRYWFfZHJHcHNTdjNRRGd5VEgtRkFGakFIS3hnSTJ2WEFDSTA5Q1J4UHhjbXc2dm5HaVNNWUlrbF9wVm4yRGVNM1hwSVBoeUpOUm0tbjJCY1dVamVNVVZMMzFJeHctYXEyeUNlV2RhX3NUTWU3R2o2RWxZb0luN1B0Z3FZemYydXJzc2ZVVk1pUmJSZHdMNUV5M0d0UDJsLXhKTTRNSWNGUnc3aFE?oc=5",
+      "description": "As Quest Diagnostics experiences major data breach, Alvernia professor offers cyber safety tips WFMZ.com",
+      "source": "WFMZ.com",
+      "source_url": "https://www.wfmz.com",
+      "source_domain": "wfmz.com",
+      "published_at": "2026-10-20T23:41:47+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WFMZ.com",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPNUo4dEw5RXcwY2VZdnpuQjNZaHlNVmJkOGpGeE5maXFXS19pOGNSUDR0QTF2SWswUWdCVjlWWEZJOVZna1NsYTdZSUVhU0xtM3RIdkdaSVFMWlNyNk1uX2ZXbVM0ZktyZEhRYWFfZHJHcHNTdjNRRGd5VEgtRkFGakFIS3hnSTJ2WEFDSTA5Q1J4UHhjbXc2dm5HaVNNWUlrbF9wVm4yRGVNM1hwSVBoeUpOUm0tbjJCY1dVamVNVVZMMzFJeHctYXEyeUNlV2RhX3NUTWU3R2o2RWxZb0luN1B0Z3FZemYydXJzc2ZVVk1pUmJSZHdMNUV5M0d0UDJsLXhKTTRNSWNGUnc3aFE?oc=5",
+          "domain": "wfmz.com",
+          "published_at": "2026-10-20T23:41:47+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alvernia breach cyber data experiences major offers professor safety tips"
+    },
+    {
       "id": "5fcc5a2f037d10b1924d",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics collaborates with Waters on at-home cervical cancer screening: Can DGX break above $237.25?",
@@ -3449,7 +3551,7 @@
       "company": "Labcorp",
       "title": "Labcorp acquisition spree continues",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5",
-      "description": "Labcorp acquisition spree continues BioWorld News",
+      "description": "Labcorp continues acquisition spree as it buys up Millennium Health Fierce Biotech",
       "source": "BioWorld News",
       "source_url": "https://www.bioworld.com",
       "source_domain": "bioworld.com",
@@ -3463,9 +3565,15 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5",
           "domain": "bioworld.com",
           "published_at": "2026-10-20T16:00:00+00:00"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWVpNGlhNFdiWnlGTVE3bzM4YTA5dldhcmdmRUZWWWpUZDdWb2MzTVdJNG00VW9VWHdaeE1wVlNZSnFZSDl3bDZ2cXg0OTVBYzk2ekZmYVkzNEtxYnZ1RHpYcF9YWkpUTDdiUFVnYXFRM1RvMWJMZVNKWHpnSk44dnhlS1JIZ3MwVVVMNXRyOG1yb2lHT2hEQ2dCWXZwR2R1?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-10-27T09:36:48+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "acquisition continues spree"
     },
     {
@@ -3853,30 +3961,6 @@
       "event_signature": "2026 breach data settlement wisconsin"
     },
     {
-      "id": "51733e45eda803926fe1",
-      "company": "Labcorp",
-      "title": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeG83QzR4UjBxWm15ZWVzUmNkbXBlVGEtNTZxdEREbDdRSWo3YnNrZDNLaW03TGppMm52Z19Ec294S0JNVFpULUJTZ0Y1X210N3ZyYjl6ejZIUl82eE9qbm1Qa0JxSUs1WDFqVkpodjVwX2lKT092dGktZ3Zna1ZMMVRhNXVBUVhxcnNqNUp4VnlwSE1mTW15cVlyZnpNdVlCMW9rWQ?oc=5",
-      "description": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz",
-      "source": "BioBuzz",
-      "source_url": "https://biobuzz.io",
-      "source_domain": "biobuzz.io",
-      "published_at": "2026-10-16T16:42:36+00:00",
-      "published_display": "16 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "BioBuzz",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeG83QzR4UjBxWm15ZWVzUmNkbXBlVGEtNTZxdEREbDdRSWo3YnNrZDNLaW03TGppMm52Z19Ec294S0JNVFpULUJTZ0Y1X210N3ZyYjl6ejZIUl82eE9qbm1Qa0JxSUs1WDFqVkpodjVwX2lKT092dGktZ3Zna1ZMMVRhNXVBUVhxcnNqNUp4VnlwSE1mTW15cVlyZnpNdVlCMW9rWQ?oc=5",
-          "domain": "biobuzz.io",
-          "published_at": "2026-10-16T16:42:36+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "722m acquisition iqvia life more partnership sciences veeva"
-    },
-    {
       "id": "c36ce0120eb5e0f187cc",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare Shares May Trade At A Discount On Earnings",
@@ -3941,6 +4025,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "722m assets bioreference health opko select sell"
+    },
+    {
+      "id": "51733e45eda803926fe1",
+      "company": "Labcorp",
+      "title": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeG83QzR4UjBxWm15ZWVzUmNkbXBlVGEtNTZxdEREbDdRSWo3YnNrZDNLaW03TGppMm52Z19Ec294S0JNVFpULUJTZ0Y1X210N3ZyYjl6ejZIUl82eE9qbm1Qa0JxSUs1WDFqVkpodjVwX2lKT092dGktZ3Zna1ZMMVRhNXVBUVhxcnNqNUp4VnlwSE1mTW15cVlyZnpNdVlCMW9rWQ?oc=5",
+      "description": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz",
+      "source": "BioBuzz",
+      "source_url": "https://biobuzz.io",
+      "source_domain": "biobuzz.io",
+      "published_at": "2026-10-16T07:00:00+00:00",
+      "published_display": "16 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeG83QzR4UjBxWm15ZWVzUmNkbXBlVGEtNTZxdEREbDdRSWo3YnNrZDNLaW03TGppMm52Z19Ec294S0JNVFpULUJTZ0Y1X210N3ZyYjl6ejZIUl82eE9qbm1Qa0JxSUs1WDFqVkpodjVwX2lKT092dGktZ3Zna1ZMMVRhNXVBUVhxcnNqNUp4VnlwSE1mTW15cVlyZnpNdVlCMW9rWQ?oc=5",
+          "domain": "biobuzz.io",
+          "published_at": "2026-10-16T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "722m acquisition iqvia life more partnership sciences veeva"
     },
     {
       "id": "3a4935c0368515d6d906",
@@ -4079,30 +4187,6 @@
       ],
       "coverage_count": 7,
       "event_signature": "com earnings investing may oct shares shift"
-    },
-    {
-      "id": "6b3af5c3cded373df429",
-      "company": "Labcorp",
-      "title": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
-      "description": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH",
-      "source": "HLTH",
-      "source_url": "https://hlth.com",
-      "source_domain": "hlth.com",
-      "published_at": "2026-10-15T09:05:01+00:00",
-      "published_display": "15 Oct 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "HLTH",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
-          "domain": "hlth.com",
-          "published_at": "2026-10-15T09:05:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "behavior biomarkers change combining global health launch test thrive"
     },
     {
       "id": "bbca103390cd5e1f31d3",
@@ -4313,6 +4397,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "872m buy cancer deal medical proprietary prostate test"
+    },
+    {
+      "id": "6b3af5c3cded373df429",
+      "company": "Labcorp",
+      "title": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+      "description": "Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH",
+      "source": "HLTH",
+      "source_url": "https://hlth.com",
+      "source_domain": "hlth.com",
+      "published_at": "2026-10-15T07:00:00+00:00",
+      "published_display": "15 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HLTH",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOajhpU2tjVTdZbDhRcGNiTFhXeXlZWEplRDRxYVdWQmhTa1E2WElSZEd4SWRiQWc0MzBTSE1nTE9LUHhzM1NXOV9tRVVCcEV2bjNhQlJLMnBnckJiLWZzR24xTVBocUJRZTQ3RWlMTlY1LXNXbHp3Qkl0NHUtQ2lXMVJMdmNGV3ZvVG5zMEhxMldFYk5MWXhtWVBFaDZvd0hXR0VPZkdzRElFeHJmdG5LQ1JoMTNfSFpsRDBtWkw1WlJwVkU?oc=5",
+          "domain": "hlth.com",
+          "published_at": "2026-10-15T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "behavior biomarkers change combining global health launch test thrive"
     },
     {
       "id": "131a04cd4b17846e8707",
@@ -15075,10 +15183,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 56,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-27T18:17:00+05:30",
-  "next_update_display": "27 Oct 2026, 6:17 PM IST",
+  "next_update_at": "2026-10-28T00:17:00+05:30",
+  "next_update_display": "28 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

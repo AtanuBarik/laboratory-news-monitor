@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T19:01:54.305491+05:30",
-  "generated_at_display": "27 Oct 2026, 7:01 PM IST",
+  "generated_at": "2026-10-27T23:49:59.868347+05:30",
+  "generated_at_display": "27 Oct 2026, 11:49 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 415,
+  "remaining_unsummarized_count": 418,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -216,16 +216,20 @@
       "category": "Partnership, M&A",
       "title": "Labcorp acquisition spree continues",
       "source": "BioWorld News",
-      "description": "Labcorp acquisition spree continues BioWorld News",
+      "description": "Labcorp continues acquisition spree as it buys up Millennium Health Fierce Biotech",
       "published_at": "2026-10-20T16:00:00+00:00",
       "published_display": "20 Oct 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5",
       "sources": [
         {
           "name": "BioWorld News",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUHFlVE1HSXNSc0hDdkNna0lBSENfWi1XcFhtLTF2REs0eTk5VHM2THdQQnItNEo4dWQ1b0V2a1g2S3ROTWFKYmlDeFJ0RERZeUlXdFV6NTdEcXhEdjF6MXAyYXM2MTRUQmRzRUExcDN1VGhXSEFsaFBsemdSMHRmaGZR?oc=5"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbWVpNGlhNFdiWnlGTVE3bzM4YTA5dldhcmdmRUZWWWpUZDdWb2MzTVdJNG00VW9VWHdaeE1wVlNZSnFZSDl3bDZ2cXg0OTVBYzk2ekZmYVkzNEtxYnZ1RHpYcF9YWkpUTDdiUFVnYXFRM1RvMWJMZVNKWHpnSk44dnhlS1JIZ3MwVVVMNXRyOG1yb2lHT2hEQ2dCWXZwR2R1?oc=5"
         }
       ]
     },
@@ -236,7 +240,7 @@
       "title": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More",
       "source": "BioBuzz",
       "description": "NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz",
-      "published_at": "2026-10-16T16:42:36+00:00",
+      "published_at": "2026-10-16T07:00:00+00:00",
       "published_display": "16 Oct 2026",
       "official_source": false,
       "coverage_count": 1,
