@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-27T04:23:19.374293+05:30",
-  "generated_at_display": "27 Oct 2026, 4:23 AM IST",
-  "item_count": 481,
-  "raw_relevant_item_count": 696,
-  "duplicates_merged": 155,
+  "generated_at": "2026-10-27T11:08:39.943354+05:30",
+  "generated_at_display": "27 Oct 2026, 11:08 AM IST",
+  "item_count": 486,
+  "raw_relevant_item_count": 625,
+  "duplicates_merged": 88,
   "failures": [],
   "items": [
+    {
+      "id": "c130f0238a84bfb828eb",
+      "company": "Labcorp",
+      "title": "Labcorp earnings: what to look for from LH",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWhCMzVoaDFDOUkyRnpWTVZSOGJLLS15MjlwYURsa0x2c01qdHB1R2Z5WmtBRlhBN1oxTm9oMGJRUzRTWS04WkwwcG1zZ3RSTFJiRThnbk0xUmhtVi11bWF1WVZvNUtmVTdEdWlaRlJwRW9LSEw2TzZlbzVKREotZi1LSEV2dllhcVNxRkRmVExsZ19lNlVrOTBqWFlVZWc5NlI1ZA?oc=5",
+      "description": "Labcorp earnings: what to look for from LH TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-27T03:24:00+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWhCMzVoaDFDOUkyRnpWTVZSOGJLLS15MjlwYURsa0x2c01qdHB1R2Z5WmtBRlhBN1oxTm9oMGJRUzRTWS04WkwwcG1zZ3RSTFJiRThnbk0xUmhtVi11bWF1WVZvNUtmVTdEdWlaRlJwRW9LSEw2TzZlbzVKREotZi1LSEV2dllhcVNxRkRmVExsZ19lNlVrOTBqWFlVZWc5NlI1ZA?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-27T03:24:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings look what"
+    },
+    {
+      "id": "204e008c52140e95586a",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNyNHkzUUkyMEtZVWJuZGxyRHVhbC1JWjNUdlR3Wm1pUk84enlnSDVXbWxDY09Ual96RUExMThLdGZfOUIyYktxcm9IUnl5alJ1WEphcDNYcFJ6Qnk3U25tcks3dFlLcEtRalFaNWYwbGtPS3hqRXdUdHpZU1o4YUhNeklkYkRxek9UNnFqY284YTV3eTdLaE5OcXYzTFJBbjdrd2lXTG0wY2tfalZEb3lxYm53YkgtdTNKUFlKZlJ4dGFTMkg0dw?oc=5",
+      "description": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-10-27T02:53:13+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNyNHkzUUkyMEtZVWJuZGxyRHVhbC1JWjNUdlR3Wm1pUk84enlnSDVXbWxDY09Ual96RUExMThLdGZfOUIyYktxcm9IUnl5alJ1WEphcDNYcFJ6Qnk3U25tcks3dFlLcEtRalFaNWYwbGtPS3hqRXdUdHpZU1o4YUhNeklkYkRxek9UNnFqY284YTV3eTdLaE5OcXYzTFJBbjdrd2lXTG0wY2tfalZEb3lxYm53YkgtdTNKUFlKZlJ4dGFTMkg0dw?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-10-27T02:53:13+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after also alzheimer announcing strong test upgraded while"
+    },
     {
       "id": "263f284fb8a6acfe857f",
       "company": "Labcorp",
@@ -157,6 +205,30 @@
       "event_signature": "accessed hackers lab order patient platform records through"
     },
     {
+      "id": "6fe0d848577e6d5d1626",
+      "company": "Labcorp",
+      "title": "Flexible HPV Screening Options: Labcorp and Waters Expand Access to Cervical Cancer…",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uNGtISUV0cGVJZ3BfX3ByQTZLT19QcWI0MEdDbmhublpGanBIQWNUcUoxNVFlUEphT0JKWDhBLThWNG1mWXUzYkJTVVhNMWhOZk1rbkxWSWpsd2FjR1VwQTMydEFOOVJUQ0pyeV9wakE2RXM?oc=5",
+      "description": "Flexible HPV Screening Options: Labcorp and Waters Expand Access to Cervical Cancer… Trend Hunter",
+      "source": "Trend Hunter",
+      "source_url": "https://www.trendhunter.com",
+      "source_domain": "trendhunter.com",
+      "published_at": "2026-10-25T18:27:17+00:00",
+      "published_display": "25 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Trend Hunter",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uNGtISUV0cGVJZ3BfX3ByQTZLT19QcWI0MEdDbmhublpGanBIQWNUcUoxNVFlUEphT0JKWDhBLThWNG1mWXUzYkJTVVhNMWhOZk1rbkxWSWpsd2FjR1VwQTMydEFOOVJUQ0pyeV9wakE2RXM?oc=5",
+          "domain": "trendhunter.com",
+          "published_at": "2026-10-25T18:27:17+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access cancer cervical expand flexible hpv options screening waters"
+    },
+    {
       "id": "96414d86bf34173fa0a0",
       "company": "Quest Diagnostics",
       "title": "Medical Testing Giant Quest Diagnostics Confirms Massive Security Breach Exposing Sensitive Patient Records Amid a Coordinated Global Hacking Surge",
@@ -203,6 +275,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "data incident investigation lsm patient quanum restored scope still system under"
+    },
+    {
+      "id": "f0241f6067828cd976a4",
+      "company": "Labcorp",
+      "title": "Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMExyRUNndG9hRzE2SVQxYVU0ZmI4ZGxZLUcyMTBKeVI5Mkw0N1ZVdTAtdlR5UkJPWUQwUnYybkRLQkxVSGdDWXozM2ZhcW9NREpPYVNHWDRVMV9EZk5mcHZyZ2diVFVZRjNPcGlyNExRbmI4WFo0YnpvNEE0a2RUemRualRoTEs5a3FWeExVV1lwVmJJaTVPQklLZW9VTFk?oc=5",
+      "description": "Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities Pulse 2.0",
+      "source": "Pulse 2.0",
+      "source_url": "https://pulse2.com",
+      "source_domain": "pulse2.com",
+      "published_at": "2026-10-25T03:36:48+00:00",
+      "published_display": "25 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMExyRUNndG9hRzE2SVQxYVU0ZmI4ZGxZLUcyMTBKeVI5Mkw0N1ZVdTAtdlR5UkJPWUQwUnYybkRLQkxVSGdDWXozM2ZhcW9NREpPYVNHWDRVMV9EZk5mcHZyZ2diVFVZRjNPcGlyNExRbmI4WFo0YnpvNEE0a2RUemRualRoTEs5a3FWeExVV1lwVmJJaTVPQklLZW9VTFk?oc=5",
+          "domain": "pulse2.com",
+          "published_at": "2026-10-25T03:36:48+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquire capabilities expand health millennium testing toxicology"
     },
     {
       "id": "cf7c772767d7ae4683a7",
@@ -953,7 +1049,7 @@
       "company": "Labcorp",
       "title": "Labcorp to offer BD Onclarity HPV test across U.S. network",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FqVnIwQ2lYZkNDSnZQQjlRTGJ5UkxIN051Z19VeGNEUnV3VEc0UnV2dDgxQ3gwQTJCZWtteE9iNHJqVDJ6N0h0X0VhbmxaTkJCcXBkcjNhTEc1YXN2YzhOUENnWUt1TFBaMFpXeHhnQ3lBVVNFRXBZNURKVUFSWjdxR2hUcWNKNzVsNms4cEZSQmxXbmxaSm9senlYMDZlZUJVMHZZQ1RjV0hCLXMwT2hoMA?oc=5",
-      "description": "Labcorp to offer BD Onclarity HPV test across U.S. network Investing.com",
+      "description": "Labcorp to offer BD Onclarity HPV test across U.S. network By Investing.com Investing.com India",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -967,9 +1063,15 @@
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FqVnIwQ2lYZkNDSnZQQjlRTGJ5UkxIN051Z19VeGNEUnV3VEc0UnV2dDgxQ3gwQTJCZWtteE9iNHJqVDJ6N0h0X0VhbmxaTkJCcXBkcjNhTEc1YXN2YzhOUENnWUt1TFBaMFpXeHhnQ3lBVVNFRXBZNURKVUFSWjdxR2hUcWNKNzVsNms4cEZSQmxXbmxaSm9senlYMDZlZUJVMHZZQ1RjV0hCLXMwT2hoMA?oc=5",
           "domain": "investing.com",
           "published_at": "2026-10-23T12:32:41+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONXpPSGxod1QzWWZlWXRBRC14OEQwZm9xU1JSUzBrck1kVHlleUVDZGlPTGFDS19INFdvblVaT0c1OGZQTnVFN1poeTgtdVA3bzV4YlB1VkJ3QlljdWdmNmlpZFl0c2pxeTR2bnBQbkxiNHhIVVd6cGdHZVZ4c3UyWVczdDZhQm1WdnYwOEZXdnZ3SHZrRExrUnlwZzZBakhPT0M5aGtJdkw3S0VNSWlMbW8wWDl1ZGlo?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-23T12:41:19+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "across hpv network offer onclarity test"
     },
     {
@@ -1043,6 +1145,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "access assay cancer cervical expand hpv onclarity screening waters"
+    },
+    {
+      "id": "20f390a4d4586fe94ab5",
+      "company": "Labcorp",
+      "title": "Waters and Labcorp partner to offer FDA-approved HPV test by end of 2026",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORE8xYVUwbWdLUFpMUWxYaVpualVuT2VjSlJsQndzVXRtMHJZQVNWbl9YZXN4YzI0NnVfcDZqOUcwZllmUGhWdlFTMXJDQXRKMGtZMTR4VnVLanBQc2FOSlJfalV1UnJaTF9pUFdXYUw3Q256cWJvWnhYeWtBZW1BeVljdTRqQjlOd0RkWmduMHhQczJoUUhlRWdYX0gxd0F6UFlzcjdFME14Z1ViWGZJSEt5N1dQRmdKTzBJZ0lFcWxwWG9COHlTdGUzQQ?oc=5",
+      "description": "Waters and Labcorp partner to offer FDA-approved HPV test by end of 2026 StreetInsider",
+      "source": "StreetInsider",
+      "source_url": "https://www.streetinsider.com",
+      "source_domain": "streetinsider.com",
+      "published_at": "2026-10-23T12:07:46+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORE8xYVUwbWdLUFpMUWxYaVpualVuT2VjSlJsQndzVXRtMHJZQVNWbl9YZXN4YzI0NnVfcDZqOUcwZllmUGhWdlFTMXJDQXRKMGtZMTR4VnVLanBQc2FOSlJfalV1UnJaTF9pUFdXYUw3Q256cWJvWnhYeWtBZW1BeVljdTRqQjlOd0RkWmduMHhQczJoUUhlRWdYX0gxd0F6UFlzcjdFME14Z1ViWGZJSEt5N1dQRmdKTzBJZ0lFcWxwWG9COHlTdGUzQQ?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-23T12:07:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 approved end fda hpv offer partner test waters"
     },
     {
       "id": "c87f5a44fa33e1dbc7e4",
@@ -1465,36 +1591,6 @@
       "event_signature": "alvernia breach cyber data experiences major offers professor safety tips"
     },
     {
-      "id": "73de6c5c92dbb2400caf",
-      "company": "Labcorp",
-      "title": "Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
-      "description": "Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment TradingView",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-10-22T22:19:29+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-22T22:19:29+00:00"
-        },
-        {
-          "name": "BioSpace",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5",
-          "domain": "biospace.com",
-          "published_at": "2026-10-23T06:35:45+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "abuse assessment charles collaborate fda methods potential preclinical river validate"
-    },
-    {
       "id": "c690e6c0384a4744ce84",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down",
@@ -1715,6 +1811,42 @@
       ],
       "coverage_count": 3,
       "event_signature": "abuse advance announce charles collaboration drug evaluating fda methods potential preclinical research river"
+    },
+    {
+      "id": "81da7d0541bfcad3415e",
+      "company": "Labcorp",
+      "title": "Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5",
+      "description": "Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment Business Wire",
+      "source": "Business Wire",
+      "source_url": "https://www.businesswire.com",
+      "source_domain": "businesswire.com",
+      "published_at": "2026-10-22T20:30:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5",
+          "domain": "businesswire.com",
+          "published_at": "2026-10-22T20:30:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T22:19:29+00:00"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-10-23T06:35:45+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "abuse assessment charles collaborate fda methods potential preclinical river validate"
     },
     {
       "id": "3f6a662d7dc0f4a95163",
@@ -3427,6 +3559,30 @@
       "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
     },
     {
+      "id": "1ee49065c0805f24be6f",
+      "company": "Labcorp",
+      "title": "Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjFaTXdSU19hSTNobGcxVVpQR2NtaGlIaThLU0daLVIzT294QmtOYUZqUTBIZ19pTVFRTXU5blllZlVTYWdKOGE1M0lueGdpVW9rdGJzZXNUaFlOOEdDTVBpWUZyYTdPMk91LVRFZEl3czUxcXM0UEkzZ3VsdGVPNFFZd1dyaXNhUlkyUXR0X2pKMWtvaGZ1N3ZZZnltVWdMdzlHSmxrUUMxOWxEbnUwMUJWcGlzb2dLOVI0S0IxakU5WHZWS1E?oc=5",
+      "description": "Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-10-20T12:45:34+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjFaTXdSU19hSTNobGcxVVpQR2NtaGlIaThLU0daLVIzT294QmtOYUZqUTBIZ19pTVFRTXU5blllZlVTYWdKOGE1M0lueGdpVW9rdGJzZXNUaFlOOEdDTVBpWUZyYTdPMk91LVRFZEl3czUxcXM0UEkzZ3VsdGVPNFFZd1dyaXNhUlkyUXR0X2pKMWtvaGZ1N3ZZZnltVWdMdzlHSmxrUUMxOWxEbnUwMUJWcGlzb2dLOVI0S0IxakU5WHZWS1E?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-10-20T12:45:34+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "210 cash division genetics health million myriad prenatal sell"
+    },
+    {
       "id": "69c8ccffe13ea7df523d",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics expected to post earnings of $2.86 a share - Earnings Preview",
@@ -3731,13 +3887,13 @@
       "company": "Labcorp",
       "title": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5",
-      "description": "OPKO Health to Sell Select BioReference Assets to Labcorp for $722M Zacks Investment Research",
+      "description": "Greenberg Traurig Advises OPKO Health on $722M+ Agreement to Sell Select BioReference Health Assets to Labcorp PR Newswire",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
       "published_at": "2026-10-16T07:00:00+00:00",
       "published_display": "16 Oct 2026",
-      "category": "Clinical, R&D",
+      "category": "Other",
       "official_source": false,
       "sources": [
         {
@@ -3757,9 +3913,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObE9rNDFDQUlVRHRZdkE4bjJFWGZoMlhqOXBhSVVaaWstOGtSSzY3SnVxRkRkVkI0eHNaa2htWVdKcVdHSlRWR2k5dlFUc25LblJkVEdfbWtpWEtDbXd3ZE5CVGp4TVM0dV9Ic1IzczVjakVobTBGVENQYnRqa0QxZ3I5N0RlNk1BR3hiYmc3MUR5MHZBNzhxVVRFMmVTc1ZWMEFnbmpURFc3dVE?oc=5",
           "domain": "zacks.com",
           "published_at": "2026-10-17T04:42:32+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOHpZLXFtOXV5X19XRmxmYjI1bkVYZEF4ZE00bXhDRVZMa3NtRU9oNGdDZTJqREJHeW8tM3N0eEhRSmFFNENscGJCVUdNR21iOEJMd2VfVXo2QUozVndVanZPRnM5QVFoSmJ6dHFXTDFYdWllSS1OMTVGWGJwUlp3N0tWd0x6N05aLXBuSHJ1akh4MkVwT0oyV1puOFdXUHZ1dDJvVHNqTkNVZGVHek5xaF92ck5QTVBfWEhzN2xFbFdRRjNoX25PeUdTMXMtZksyQ050VWp0WjhDRC1ZcUtLZURyRnJxdTFCdHN1MlBoZ0lSbER3SWE4?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-21T18:35:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "722m assets bioreference health opko select sell"
     },
     {
@@ -15003,45 +15165,12 @@
       "summary_evidence": [
         "https://m.za.investing.com/news/earnings/labcorp-earnings-ahead-can-specialty-tests-sustain-momentum-93CH-4393975?ampMode=1"
       ]
-    },
-    {
-      "id": "01ce5f16f98032427679",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWTdESXEtaTlqMGRaY0NybVZnV1RKb0w2SVhIWV9jMEd4a1lYQ0M0NVJDTFFYVHdTMUlLUi1tN2RBaWhwRnVEQTgwYzlydDNSQmpMRUExcWp5SnRvYnh6cjRCTmU2SWdFbWpXOGhmcHhRQ1E?oc=5",
-      "description": "Revelio Labs estimates that Quest Diagnostics employed approximately 57,207 people worldwide as of March 2026. The workforce-intelligence provider describes Quest’s headcount as broadly stable from 2023 through 2026 and reports that 89.6% of employees are in North America, followed by 3.7% in South Asia and 2.2% in South America. Revelio’s functional classification places about 27,290 employees, or 48.3%, in Engineering; 20,417, or 36.1%, in Finance and Operations; and 8,827, or 15.6%, in Sales and Marketing. The page also shows 3,685 active job postings in 2026, up 24.9% from 2025, while monthly new postings have cooled to about 1,630 from 2,128 in 2025 and 3,882 in 2023. Revelio reports an average salary of approximately $63,504 and characterizes employee sentiment as negative and declining. These figures are derived from Revelio Labs workforce data and should be treated as third-party estimates rather than audited Quest disclosures. The page contains some internally inconsistent year-over-year labels, so the most reliable interpretation is the directly displayed absolute counts and geographic/function shares. Overall, the data point to a large, North America-concentrated workforce with stable total headcount, a sizable current vacancy pool and slower new-posting velocity than earlier years.",
-      "source": "Revelio Labs",
-      "source_url": "https://www.reveliolabs.com",
-      "source_domain": "reveliolabs.com",
-      "published_at": "2026-07-29T05:12:42+00:00",
-      "published_display": "29 Jul 2026",
-      "category": "Organizational Updates",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SWTdESXEtaTlqMGRaY0NybVZnV1RKb0w2SVhIWV9jMEd4a1lYQ0M0NVJDTFFYVHdTMUlLUi1tN2RBaWhwRnVEQTgwYzlydDNSQmpMRUExcWp5SnRvYnh6cjRCTmU2SWdFbWpXOGhmcHhRQ1E?oc=5",
-          "domain": "reveliolabs.com",
-          "published_at": "2026-07-29T05:12:42+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 count data employee employees headcount number",
-      "source_description": "Quest Diagnostics Number of Employees 2026 | Employee Count & Headcount Data Revelio Labs",
-      "chatgpt_summary": "Revelio Labs estimates that Quest Diagnostics employed approximately 57,207 people worldwide as of March 2026. The workforce-intelligence provider describes Quest’s headcount as broadly stable from 2023 through 2026 and reports that 89.6% of employees are in North America, followed by 3.7% in South Asia and 2.2% in South America. Revelio’s functional classification places about 27,290 employees, or 48.3%, in Engineering; 20,417, or 36.1%, in Finance and Operations; and 8,827, or 15.6%, in Sales and Marketing. The page also shows 3,685 active job postings in 2026, up 24.9% from 2025, while monthly new postings have cooled to about 1,630 from 2,128 in 2025 and 3,882 in 2023. Revelio reports an average salary of approximately $63,504 and characterizes employee sentiment as negative and declining. These figures are derived from Revelio Labs workforce data and should be treated as third-party estimates rather than audited Quest disclosures. The page contains some internally inconsistent year-over-year labels, so the most reliable interpretation is the directly displayed absolute counts and geographic/function shares. Overall, the data point to a large, North America-concentrated workforce with stable total headcount, a sizable current vacancy pool and slower new-posting velocity than earlier years.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-24T06:35:48+05:30",
-      "summary_evidence": [
-        "https://www.reveliolabs.com/companies/quest-diagnostics/employees",
-        "https://newsroom.questdiagnostics.com/2026-05-19-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 50,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-27T06:17:00+05:30",
-  "next_update_display": "27 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-27T12:17:00+05:30",
+  "next_update_display": "27 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

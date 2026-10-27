@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T04:48:14.690476+05:30",
-  "generated_at_display": "27 Oct 2026, 4:48 AM IST",
+  "generated_at": "2026-10-27T11:08:44.977128+05:30",
+  "generated_at_display": "27 Oct 2026, 11:08 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 410,
+  "remaining_unsummarized_count": 416,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -47,6 +47,25 @@
         {
           "name": "The Business Journals",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0241f6067828cd976a4",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities",
+      "source": "Pulse 2.0",
+      "description": "Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities Pulse 2.0",
+      "published_at": "2026-10-25T03:36:48+00:00",
+      "published_display": "25 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMExyRUNndG9hRzE2SVQxYVU0ZmI4ZGxZLUcyMTBKeVI5Mkw0N1ZVdTAtdlR5UkJPWUQwUnYybkRLQkxVSGdDWXozM2ZhcW9NREpPYVNHWDRVMV9EZk5mcHZyZ2diVFVZRjNPcGlyNExRbmI4WFo0YnpvNEE0a2RUemRualRoTEs5a3FWeExVV1lwVmJJaTVPQklLZW9VTFk?oc=5",
+      "sources": [
+        {
+          "name": "Pulse 2.0",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMExyRUNndG9hRzE2SVQxYVU0ZmI4ZGxZLUcyMTBKeVI5Mkw0N1ZVdTAtdlR5UkJPWUQwUnYybkRLQkxVSGdDWXozM2ZhcW9NREpPYVNHWDRVMV9EZk5mcHZyZ2diVFVZRjNPcGlyNExRbmI4WFo0YnpvNEE0a2RUemRualRoTEs5a3FWeExVV1lwVmJJaTVPQklLZW9VTFk?oc=5"
         }
       ]
     },
@@ -644,25 +663,6 @@
         {
           "name": "Winston-Salem Journal",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc1c3ZDRrU3o2djUzV1B4QWNQdzk0STI2NzYwZHZhSDhGUHVHZlNITnFMeWdSMzgtZnpSbEtJNjB6S0QwYnRNUXNYYTIteU9BS2RfTVl2Wk54b1pNNmpUMmZ2SFZhZjdKcjl4RlREYXF4aGxXVHpYcDBWelVWaXFUZko5TEFkYmk4eXBOaTR1a1A0VkZZVmRmaGRha1NqRUp4cGxVdW1TSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ddae27c4a8214dea68c4",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs",
-      "source": "GenomeWeb",
-      "description": "Labcorp Acquires Central Lab Services Provider MLM Medical Labs genomeweb.com",
-      "published_at": "2026-09-08T14:23:53+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5",
-      "sources": [
-        {
-          "name": "GenomeWeb",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9SdUt0alRtTGZBYVA3NFFaUlhGTVcySlQ2NUd4MWtzc2VQelg4Y1gxSE9PeVZTcmhfWjV5NGpiMWZNZDg1TTJrZWEtbUlPTThnbGlRNDY0OHVzdUM2VjA5SjR5UU43dTl4VmJzSXU2dlBaT0tqa2M5N09wZ2w?oc=5"
         }
       ]
     }
