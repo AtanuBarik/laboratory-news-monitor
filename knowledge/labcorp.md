@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 28 Oct 2026, 4:08 AM IST
+- **Repository generated:** 28 Oct 2026, 11:49 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -183,13 +183,14 @@
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
 - **Category:** Product & Services
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5
   - AOL.com: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5
   - BioSpectrum Asia: https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhCOUR5SGVPZkVGNEtjWEdneEN0dzZzcERXWFRUZkxaUmFaLTJvWTE5QjFUVGFZQ1B1RHhMQzhJZl9pTGF2bGZUdkN3dXA1LXp6MVpGVTZJRTNvc0xCSE40Q2Z1Y0hRaWxhbklVX0pCVHNTZ1NSVzhZcVZ0N1lUTVA4M1p3TkpVWGVlS1RoSEVNcjBSVkdpZ3lyaTEzZjRCTVpKc0R4UFdpanNaS1JSbWF1U0syQQ?oc=5
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGUwdjNHaElYS1dtQUpGcGZocUd2SDVJOUhrSDZDdlVwc3hsVFJQYTZZSDVON3g2T2xrZGNWM3BPTXNQSUw3RkZFU0F4OUNVQ0tHS3JtUHpvRnNIcllKeUdSNzB3cDN0ZTRybWNlOGpxZGJzMzZmR0xvMmVIQndKMElZQTFJZzd3LXVmQ25hcVZrQmlUa2lTUw?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQWQtcFFrWE5GZVp6NzluS2Y4UGpwbGhxMDJfbDc5eERYYXMxbEMzVmFsdEZfd01KNDdoblRaMTZneDJYbk16ZVFuUlViYV9idVRHc3FuYUJSal9HQUVIMkdIOTdIQi1XMmdXNXA1ZXFrbDZ0WDA1azhSZmw4M25hSU1xeEw4T2ZZUjJNYXBmRUJRRFpUOGlDMWxBak0yTnVJVzhmeFZDZndjdzNpUmE5eHdfNWRxQkNxeEdIM0hiRDB6WTljUjM0MW94NUlqeUdYU1RsZXZWcW11Y3F6Yjl5RU5xa3JwazgyT09WejNzTXNfek44WnlFTXhBZEJCR3dUdFgtNXl0cnZucGFCbnlHYXA5cU45SWwtQTVybUhRYlk0R0RoY0xiVmJsMA?oc=5
 
 **Feed description:** Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 Yahoo Finance
 
@@ -251,12 +252,13 @@
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5
   - MedTech Dive: https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5
 
-**Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive
+**Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M Yahoo Finance
 
 ## 21. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
 
@@ -287,7 +289,7 @@
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5
@@ -296,8 +298,9 @@
   - TradingView: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjJWdjRxNHRONjZkdkkwcnFaVWpSSk0xQ1dYN2l0VWtVQTdWeHhObTNvbHBCeUc3QjUyLTlYcFJIQnowTktGbEdrYjQtdkh0ckVEQVhhekZ3cFVvU3FPQ242WU1UVnRvdlg5Zm81TklGbExDNldMVXVjdUx4REw1djFONE4xamdHdHZheUlmRVVoWkR6VFpVaXl5ekRaLTNlWmw4eTQzbXlRN0VNSGxjNGJSRW1ZV2JD?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5
+  - MarketBeat: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempZbG1ENGpZcklmODNub1cxQmhSak5UbjVYVDJOWnNicnJMMjZfRzNsVG01VUwyU2hvZEpiU0dOckxKY21hZHA2cUlGNGZndFRPV3dNNjU0cXpSOFBlMElTWlIzMjF6SVppUGIyVF8wVUhLY0VlQkxINmp1dHhaSXpFR0xjX1lkd0xIa1VzWl9MNmROYXhRS0tfYzZJMDdSQnUwTTBWbWw0M0psWHRHV1V4VHk0ZWNWSDJCWE0yaGc?oc=5
 
-**Feed description:** Labcorp Holdings Inc. (LH) Declares $0.72 Quarterly Dividend TradingView
+**Feed description:** Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat
 
 ## 24. Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M
 

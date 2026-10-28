@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 28 Oct 2026, 4:08 AM IST
+- **Repository generated:** 28 Oct 2026, 11:49 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -643,13 +643,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - LiveNOW from FOX: https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5
   - KTVU: https://news.google.com/rss/articles/CBMirAFBVV95cUxPM21NX3F1cUF0YWt4THc1RjFVem9LTTg4Y2Y2TVNhNEFqTkl5Ykx4WFF6eXVIREZVemctT3ZfSHRhVmZqOHhjUTdYNDYyYjR6QW1wczhYTHpJRW9wM2xHUTQ4bFI2VDgxcV85NHFaNlJGVVZ3Sy1hdFFndi1KRDBpWEdEUjVWQUtYcEtXSUFQNVd4SjNoMmtwV0Q3Y0ZQMFNtdEFwd1oyOGxpSVpt?oc=5
   - Yahoo: https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5
   - FOX6 News Milwaukee: https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5
+  - FOX 29 Philadelphia: https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5
 
 **Feed description:** If you used Quest Diagnostics, your data may have been compromised: Here’s what happened FOX6 News Milwaukee
 

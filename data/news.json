@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-28T04:08:01.427043+05:30",
-  "generated_at_display": "28 Oct 2026, 4:08 AM IST",
+  "generated_at": "2026-10-28T11:49:47.305422+05:30",
+  "generated_at_display": "28 Oct 2026, 11:49 AM IST",
   "item_count": 489,
-  "raw_relevant_item_count": 642,
-  "duplicates_merged": 96,
+  "raw_relevant_item_count": 681,
+  "duplicates_merged": 136,
   "failures": [],
   "items": [
     {
@@ -1357,9 +1357,15 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGUwdjNHaElYS1dtQUpGcGZocUd2SDVJOUhrSDZDdlVwc3hsVFJQYTZZSDVON3g2T2xrZGNWM3BPTXNQSUw3RkZFU0F4OUNVQ0tHS3JtUHpvRnNIcllKeUdSNzB3cDN0ZTRybWNlOGpxZGJzMzZmR0xvMmVIQndKMElZQTFJZzd3LXVmQ25hcVZrQmlUa2lTUw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-27T15:31:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQWQtcFFrWE5GZVp6NzluS2Y4UGpwbGhxMDJfbDc5eERYYXMxbEMzVmFsdEZfd01KNDdoblRaMTZneDJYbk16ZVFuUlViYV9idVRHc3FuYUJSal9HQUVIMkdIOTdIQi1XMmdXNXA1ZXFrbDZ0WDA1azhSZmw4M25hSU1xeEw4T2ZZUjJNYXBmRUJRRFpUOGlDMWxBak0yTnVJVzhmeFZDZndjdzNpUmE5eHdfNWRxQkNxeEdIM0hiRDB6WTljUjM0MW94NUlqeUdYU1RsZXZWcW11Y3F6Yjl5RU5xa3JwazgyT09WejNzTXNfek44WnlFTXhBZEJCR3dUdFgtNXl0cnZucGFCbnlHYXA5cU45SWwtQTVybUhRYlk0R0RoY0xiVmJsMA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-23T12:00:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
@@ -1825,9 +1831,15 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5",
           "domain": "fox6now.com",
           "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "FOX 29 Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5",
+          "domain": "fox29.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
@@ -2291,30 +2303,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "120m 2026 2027 but call cuts earnings guidance jumps loom pama raises revenue"
-    },
-    {
-      "id": "6bc1ef57e7a0a142c48c",
-      "company": "Labcorp",
-      "title": "Labcorp to buy Myriad’s prenatal health testing unit for $210M",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
-      "description": "Labcorp to buy Myriad’s prenatal health testing unit for $210M MedTech Dive",
-      "source": "MedTech Dive",
-      "source_url": "https://www.medtechdive.com",
-      "source_domain": "medtechdive.com",
-      "published_at": "2026-10-22T14:09:45+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MedTech Dive",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
-          "domain": "medtechdive.com",
-          "published_at": "2026-10-22T14:09:45+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "210m buy health myriad prenatal testing unit"
     },
     {
       "id": "bf9354b19646be49adeb",
@@ -2995,6 +2983,36 @@
       "event_signature": "13c eps guidance raises tops"
     },
     {
+      "id": "eb90ad44aff56c3ae63e",
+      "company": "Labcorp",
+      "title": "Labcorp to buy Myriad’s prenatal health testing unit for $210M",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5",
+      "description": "Labcorp to buy Myriad’s prenatal health testing unit for $210M Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T10:50:03+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T10:50:03+00:00"
+        },
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-22T14:09:45+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "210m buy health myriad prenatal testing unit"
+    },
+    {
       "id": "b58151609ed820328c96",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Latest Press Releases & Corporate News",
@@ -3431,7 +3449,7 @@
       "company": "Labcorp",
       "title": "Labcorp Declares Quarterly Dividend",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
-      "description": "Labcorp Holdings Inc. (LH) Declares $0.72 Quarterly Dividend TradingView",
+      "description": "Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -3475,9 +3493,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5",
           "domain": "investing.com",
           "published_at": "2026-10-21T11:34:13+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempZbG1ENGpZcklmODNub1cxQmhSak5UbjVYVDJOWnNicnJMMjZfRzNsVG01VUwyU2hvZEpiU0dOckxKY21hZHA2cUlGNGZndFRPV3dNNjU0cXpSOFBlMElTWlIzMjF6SVppUGIyVF8wVUhLY0VlQkxINmp1dHhaSXpFR0xjX1lkd0xIa1VzWl9MNmROYXhRS0tfYzZJMDdSQnUwTTBWbWw0M0psWHRHV1V4VHk0ZWNWSDJCWE0yaGc?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-10-21T22:24:22+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "declares dividend quarterly"
     },
     {
@@ -15235,10 +15259,10 @@
       "event_signature": "cy2026 expectations line"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 54,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-28T06:17:00+05:30",
-  "next_update_display": "28 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-28T12:17:00+05:30",
+  "next_update_display": "28 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
