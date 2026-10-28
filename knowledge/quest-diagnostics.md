@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 28 Oct 2026, 11:49 AM IST
+- **Repository generated:** 28 Oct 2026, 7:04 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -1139,7 +1139,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 44
+- **Coverage count:** 45
 - **Official source involved:** No
 - **Sources:**
   - WPLG Local 10: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnNUcmlKR29DZFJxeHR6cWpQNlgwdnVzRTBlQWtYWmlqbjEwMmg1bExWNndRUnBPQXExUnkzMDB1cF9sZEhxOXJ6WDhienB3aXRXVWh1ZXRaTjB5R3d0MzNiLW5OczViRHRsUHF1SnkxMmVFSTlLRzZkV2R1SDNoRnJ5THRieGlqQy1Kb1BkeFd3Z0xuekQ0eHpPTWJvLVVEc0JMS2Z3TmpkZkx2Vno1WHo1SVFFdFd1?oc=5
@@ -1186,6 +1186,7 @@
   - KEYC News Now: https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS054dXQ4S2Y3MmRTd3hoVE1tZ3ZRUTBZWERYeXlYcnVmVDZKVnkzNWdvemtPaEk1QmZjaExlOGtna2lGd08ycGd0ZVNldkgtZWNTU2xjU3UwS3JnVXcyQ3J2V0s3dEZrd2hhOE40bUw2d0JIaGhSOUhUNFlVQXVRR0hKa0RZdmZsaG9PRlFNbFpGLV9wUWx2RXFPTXE0azM4b1hfYWU2VnA?oc=5
   - Yahoo: https://news.google.com/rss/articles/CBMikAFBVV95cUxQakZ5aEtWZ2M5cWdUaUdaNnIwd0FFZXRzcGxPWUlDNFVlcmRsZ1RrNDFxbm5YWG5yVFRRU19ONVlPTkVack5GTVV6UllVNlQxVEZlcDNQZEtCMmZHWGpBUlk4aHViZjVZUVE5OTJsRUJ6R0JrRUktbTN5NWZjSlZzNm9lanlCZDlDMEdfS1pYRHg?oc=5
   - Modern Ghana: https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wMTAweUhkcTZPVTBlakpERjFNenZ6X1BHcVM2UWdkUXM1eW9rRGJ2QXdfLUNKUkx4LXgxa0tVNnNLRHhzOERGbzhkdUFDSllwX3NGbWUwb2Z5Q0JKUkhV0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5
+  - Goshen News: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbkZ5UXNDT0hIT190YTJhdnVPbDRPWHM3SklaalZIWVVJTkxnUExiY3J2c0RjLWIzQk9TQzlkajJGMUEwUTgxUDJXb1MyNkl4N0p2Und4THRRdFV0ZFVBaHI1Tm90c05uRHFuXzhkTzh3NnpRWngxMTBjNDN4Yk9HXzFGaTJQMThZNWJzRGJCdXM4eThMNklwckYyYzhVS1lHNzRhMzJ3U1RENXlpTzdROHRUWUhQNm5JQzRjWXAtMjBrRjlhNmVublBPNWw5ZVlKOVM2VUlCR2g1RTJzVzFlQ0tuckNreHMzbl9QWnpzaTYtcHpVcDkxZm1NbGg?oc=5
 
 **Feed description:** Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos
 

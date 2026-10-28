@@ -1,11 +1,155 @@
 {
-  "generated_at": "2026-10-28T11:49:47.305422+05:30",
-  "generated_at_display": "28 Oct 2026, 11:49 AM IST",
-  "item_count": 489,
-  "raw_relevant_item_count": 681,
-  "duplicates_merged": 136,
+  "generated_at": "2026-10-28T19:04:02.524757+05:30",
+  "generated_at_display": "28 Oct 2026, 7:04 PM IST",
+  "item_count": 487,
+  "raw_relevant_item_count": 701,
+  "duplicates_merged": 161,
   "failures": [],
   "items": [
+    {
+      "id": "ddc4af5b048cb4aa8c83",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 2026 Earnings Call Is Live",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekpOZ2lId2VSTkppaExibFVNbUNlc04xY3NKczhhSTZHQU1yTmMwTnp6VTlpZnhwZ2JOdnQ1dkdrT2tGOWRQMW0zX0VSLUhxTEJpUU1rTEtFeHNWUEFLNTI2b3VWQzRJd2U5YURHMWl5Zm5xT09JWUF2anRCcEdickRUSjdUUmxGNWNBTzlMX1JEcWplQmhZMlZuM3ZwMXJyakxrd2NyYTJ4Zw?oc=5",
+      "description": "Labcorp Q3 2026 Earnings Call Is Live TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-28T12:57:04+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekpOZ2lId2VSTkppaExibFVNbUNlc04xY3NKczhhSTZHQU1yTmMwTnp6VTlpZnhwZ2JOdnQ1dkdrT2tGOWRQMW0zX0VSLUhxTEJpUU1rTEtFeHNWUEFLNTI2b3VWQzRJd2U5YURHMWl5Zm5xT09JWUF2anRCcEdickRUSjdUUmxGNWNBTzlMX1JEcWplQmhZMlZuM3ZwMXJyakxrd2NyYTJ4Zw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T12:57:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings live"
+    },
+    {
+      "id": "c21a9694762caad2bc01",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 Earnings and Revenues Surpass Estimates",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXRHZWROM0toSmMtc3JaM2VES2hDcDhaRDk5ZkdvSnNmOTNuUXdWYXJTVEtBTUhaTGs3eDhjWktBSmxwVW9xZDh6QXJiQjVlTDNaNWpMSnRvRHBzRUtjaWdhel9vUmgtV05vZ3VnSG9xX0YtbTBfYjk0a2dOZFR4ZFdTaVVXdWdDSjgzT0l2M2p6UHZlR3FHRHpnRFk?oc=5",
+      "description": "Labcorp Holdings (LH) Q3 Earnings and Revenues Surpass Estimates Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T11:35:05+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXRHZWROM0toSmMtc3JaM2VES2hDcDhaRDk5ZkdvSnNmOTNuUXdWYXJTVEtBTUhaTGs3eDhjWktBSmxwVW9xZDh6QXJiQjVlTDNaNWpMSnRvRHBzRUtjaWdhel9vUmgtV05vZ3VnSG9xX0YtbTBfYjk0a2dOZFR4ZFdTaVVXdWdDSjgzT0l2M2p6UHZlR3FHRHpnRFk?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T11:35:05+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings estimates revenues surpass"
+    },
+    {
+      "id": "0b278b583f08edd713f4",
+      "company": "Labcorp",
+      "title": "Labcorp’s Q3 2026 sales beat estimates",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTd5STFOazNRVjBBQUNLZDB3OXgtYUpISnJEVjhma3E3eUdvUm1aRUdpZXZ5TWtDREkyZnFPXzloWDNmandUakJ2Y2pUMVpwV1pFWDRCdl9iM1Z6YThXX29kYXgzVTNuWjdiMVFBVFZSOFRVM2lWV0xQemI3VEFTUVk1MmlibVRadTNyay1SUTA0bV9hQTVlel9kLVFYSC1ONXFRWV9EemVPM28?oc=5",
+      "description": "Labcorp’s (NYSE:LH) Q3 2026 sales beat estimates TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-28T11:21:26+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTd5STFOazNRVjBBQUNLZDB3OXgtYUpISnJEVjhma3E3eUdvUm1aRUdpZXZ5TWtDREkyZnFPXzloWDNmandUakJ2Y2pUMVpwV1pFWDRCdl9iM1Z6YThXX29kYXgzVTNuWjdiMVFBVFZSOFRVM2lWV0xQemI3VEFTUVk1MmlibVRadTNyay1SUTA0bV9hQTVlel9kLVFYSC1ONXFRWV9EemVPM28?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T11:21:26+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beat estimates sales"
+    },
+    {
+      "id": "e367ea96b717c0ee036b",
+      "company": "Labcorp",
+      "title": "Labcorp shares edge up on beating estimates, raising guidance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5",
+      "description": "Labcorp shares edge up on beating estimates, raising guidance Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-28T11:15:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T11:15:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beating edge estimates guidance raising shares"
+    },
+    {
+      "id": "3c855de82620f4fe0d16",
+      "company": "Labcorp",
+      "title": "Labcorp earnings beat by $0.13, revenue topped estimates",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0ZxU01sbThZMjEtek5ZOXd6WHlwLVhrMWl0NURldFJDQmtMaDlMNXNXWm4zMVA5aW51cVZrQ1FtTTB3aWFlSzBQY3VvanR2QWhrMFhEcEdEU0JueHZ4c1B6YnRQUkR2WndMeGhqRldCX0VyTWhkUkFmUUJ1SVpLLVpiQjZuOUdOd1ZlNTNVWmY5WWlxSmhOd25TVEpiYThtMm12ZzZDMTF1eFQ0cTlr?oc=5",
+      "description": "Labcorp Holdings earnings beat by $0.13, revenue topped estimates Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-28T11:02:38+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0ZxU01sbThZMjEtek5ZOXd6WHlwLVhrMWl0NURldFJDQmtMaDlMNXNXWm4zMVA5aW51cVZrQ1FtTTB3aWFlSzBQY3VvanR2QWhrMFhEcEdEU0JueHZ4c1B6YnRQUkR2WndMeGhqRldCX0VyTWhkUkFmUUJ1SVpLLVpiQjZuOUdOd1ZlNTNVWmY5WWlxSmhOd25TVEpiYThtMm12ZzZDMTF1eFQ0cTlr?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T11:02:38+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beat earnings estimates revenue topped"
+    },
+    {
+      "id": "e54832d274efb8db1b79",
+      "company": "Labcorp",
+      "title": "Labcorp Posts Q3 Growth, Raises 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE04S2FqRlN3cHhabU9uSVJlUW9XSkV0ZDVQX3ZjNXFsR1FxeU5sUkc3NUpkVFIwOV8zdnNLT1VTbDU0QkJXdFBXRGZCYUJ5R1RwTE55Y1JCMTl6OVl5Mm80SENJZEg1RFJyX21keUowTzBtdmhnU2NwZTBOdmY3QmhiQTIzeEt2S2F1bXNMLWNJMFgzUDVQaFlndEE3M2d5cEpQeGpRUlFOUEFIR0tPYTZWb3N5eXN4TkdLYlVlNA?oc=5",
+      "description": "Labcorp Holdings Inc. (LH) Posts Q3 Growth, Raises 2026 Guidance TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-28T10:50:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNE04S2FqRlN3cHhabU9uSVJlUW9XSkV0ZDVQX3ZjNXFsR1FxeU5sUkc3NUpkVFIwOV8zdnNLT1VTbDU0QkJXdFBXRGZCYUJ5R1RwTE55Y1JCMTl6OVl5Mm80SENJZEg1RFJyX21keUowTzBtdmhnU2NwZTBOdmY3QmhiQTIzeEt2S2F1bXNMLWNJMFgzUDVQaFlndEE3M2d5cEpQeGpRUlFOUEFIR0tPYTZWb3N5eXN4TkdLYlVlNA?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T10:50:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 growth guidance posts raises"
+    },
     {
       "id": "3407c3bb31c308f935a7",
       "company": "Labcorp",
@@ -31,19 +175,25 @@
       "event_signature": "access approved expand fda hpv screening tests waters"
     },
     {
-      "id": "b464584d4cb790fd15e7",
+      "id": "091ed75cb65c6305ead1",
       "company": "Labcorp",
-      "title": "Labcorp earnings in focus as profit expectations moderate By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5",
+      "title": "Labcorp earnings in focus as profit expectations moderate",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5",
       "description": "Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia",
-      "source": "Investing.com Australia",
-      "source_url": "https://au.investing.com",
-      "source_domain": "au.investing.com",
-      "published_at": "2026-10-27T15:12:36+00:00",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-27T15:03:06+00:00",
       "published_display": "27 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-27T15:03:06+00:00"
+        },
         {
           "name": "Investing.com Australia",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5",
@@ -51,8 +201,8 @@
           "published_at": "2026-10-27T15:12:36+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "com earnings expectations focus investing moderate profit"
+      "coverage_count": 2,
+      "event_signature": "earnings expectations focus moderate profit"
     },
     {
       "id": "13ef3bcdeb9c5cf70599",
@@ -107,7 +257,7 @@
       "company": "Labcorp",
       "title": "Labcorp earnings: what to look for from LH",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcWhCMzVoaDFDOUkyRnpWTVZSOGJLLS15MjlwYURsa0x2c01qdHB1R2Z5WmtBRlhBN1oxTm9oMGJRUzRTWS04WkwwcG1zZ3RSTFJiRThnbk0xUmhtVi11bWF1WVZvNUtmVTdEdWlaRlJwRW9LSEw2TzZlbzVKREotZi1LSEV2dllhcVNxRkRmVExsZ19lNlVrOTBqWFlVZWc5NlI1ZA?oc=5",
-      "description": "Labcorp earnings: what to look for from LH FinancialContent",
+      "description": "Labcorp earnings: what to look for from LH The Globe and Mail",
       "source": "TradingView",
       "source_url": "https://www.tradingview.com",
       "source_domain": "tradingview.com",
@@ -133,9 +283,15 @@
           "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2JhZlJxUHpvaVNwU3piSlo0ZmQxU1NFRllhRFpQWnd6WlI1dWhBb3l0TVZHaHVPdmxPWFhFRzFfQzJIVGtudGJ5ekpyU2RPZFBpdTJlZTgwRVhONEpIbVlocUUtVEFLV3VGSTNkbVhVMksxbWcwOVNWaUNwYkJWZ0JIUWROUDYzTUVsU293?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-27T13:10:47+00:00"
+        },
+        {
+          "name": "The Globe and Mail",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWEhJYVJIc3VXdDN5c1pFSUxaeHhja3ZPaUMxRXcyWnhGSmdjQkVYTGtvS0F5cmxtb2xsOGNfQXN4QmJsZXdJaEQwUXAydXhDbjBfRzN2Ynk1SXpBUDVwN1FuMnpNaGdmOVpUcHpXVk5LTml4c2pRQ2lLcHhtSG96RThqVkJPVE51UXo2TkRJUU9ZeXdQVnBwQWJRLXlMX1QxdG50cTVvRHFyM0NiYmZpZFNXSVJkUjBCaHJ3OWZiUkZYaDhG?oc=5",
+          "domain": "theglobeandmail.com",
+          "published_at": "2026-10-27T03:24:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "earnings look what"
     },
     {
@@ -3355,9 +3511,15 @@
           "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wMTAweUhkcTZPVTBlakpERjFNenZ6X1BHcVM2UWdkUXM1eW9rRGJ2QXdfLUNKUkx4LXgxa0tVNnNLRHhzOERGbzhkdUFDSllwX3NGbWUwb2Z5Q0JKUkhV0gFcQVVfeXFMTnlKbmVyeXBRdlhMOUF4YWd5NEhKaUNoRVQ4QnRHYXJsQWZ5Zzl6aml3Q2tKMGNyVV81QTI4MEN0SDl2dFVpWW0yUC10UVhvMkdTX3FLT0ZLb2l1TUs?oc=5",
           "domain": "modernghana.com",
           "published_at": "2026-10-24T03:30:00+00:00"
+        },
+        {
+          "name": "Goshen News",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbkZ5UXNDT0hIT190YTJhdnVPbDRPWHM3SklaalZIWVVJTkxnUExiY3J2c0RjLWIzQk9TQzlkajJGMUEwUTgxUDJXb1MyNkl4N0p2Und4THRRdFV0ZFVBaHI1Tm90c05uRHFuXzhkTzh3NnpRWngxMTBjNDN4Yk9HXzFGaTJQMThZNWJzRGJCdXM4eThMNklwckYyYzhVS1lHNzRhMzJ3U1RENXlpTzdROHRUWUhQNm5JQzRjWXAtMjBrRjlhNmVublBPNWw5ZVlKOVM2VUlCR2g1RTJzVzFlQ0tuckNreHMzbl9QWnpzaTYtcHpVcDkxZm1NbGg?oc=5",
+          "domain": "goshennews.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
         }
       ],
-      "coverage_count": 44,
+      "coverage_count": 45,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -3425,7 +3587,7 @@
       "company": "Labcorp",
       "title": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards?",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
-      "description": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Yahoo! Finance Canada",
+      "description": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Zacks Investment Research",
       "source": "Yahoo! Finance Canada",
       "source_url": "https://ca.finance.yahoo.com",
       "source_domain": "ca.finance.yahoo.com",
@@ -3439,9 +3601,15 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
           "domain": "ca.finance.yahoo.com",
           "published_at": "2026-10-21T12:28:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0JDTDFaeG9KMDZtYjFnaEpTNTBzNnVNLUQyN2libjFoNTQ2U2FSMWNaNGdtUjdxb2JwOGpDSU9GWi0yR0pJTm9nQVRkNkNkQTRmMHh6emVSa2pPS0pnZnVENWtMRTF3N1FEbnBQTmpxRVBtOWlZbGJOdkZCczVCMmk3ZnJDRlFMTTBsZWxsYjE3VEVKNE84cWdLMHBkaEE?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-21T16:25:36+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "cards earnings prepares report what"
     },
     {
@@ -3811,60 +3979,6 @@
       "event_signature": "earnings expected post preview share"
     },
     {
-      "id": "a6520192962a30d4cf78",
-      "company": "Labcorp",
-      "title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5",
-      "description": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-20T12:30:00+00:00",
-      "published_display": "20 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-20T12:30:00+00:00"
-        },
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEVJYnFOcHJqeUhvV2ZWR2hmSkhBMER4dnRzODJwcDNXbHljSjFBbElndEZQVXF1RktyR2xTX0swXzJYeXlRUVp2OG9RZXhBeHoweDE1ZXF1YkpDcUl6NVpwaFN0V2pkR0NvNFY4SGJPZk5NeHg2N3dvXzY1VWVoR0J5WV84cHZqTXc?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-10-20T13:27:31+00:00"
-        },
-        {
-          "name": "GenomeWeb",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3ZRUHF4akN0VXhUMGJETGx2MkJxNTVJNXZZRjdYQmJWanFJTy01NTB1ZUZTQ2swRVR5WUtxYnNvQjUyM0txdlA2YW5jSmY4dWZKRlBmNk9YaGJsWVdQVUdvTk5aUlk4c2lMZHBPWVNlSUNJTFJ1ZlR4V1VjdnR4VDJCNEFTM21DN3M2WmZxV2JxOUZPVk85cWV6dWZQZFNTQmpRU1FMS1hNdGluOXFFTGl4RE1NaHM?oc=5",
-          "domain": "genomeweb.com",
-          "published_at": "2026-10-20T14:13:00+00:00"
-        },
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1BBdy1ZXzA0Zi1nTjYxc0V1ckdzWWw4RE1YakQ1anFfU2NvQzlSZ0d3dGtyNmtzRk9aSkx4MzVZdUVyczFVU0VzWkRUbHA4bUdid0loNnM1alR4V0t3MjlCMjY1QnVnV3doOEN6M19BdFBkajFjNXdGT0N1QkkyeDZ2blRkTTRUWXZUNGJKRHRJYlBfeFNHN2xQakdPU0Nw?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-10-21T06:18:06+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVFVOWpnYjMyZW9wRVpGT2NVdEtwdy1aeS1STGFJdFdkd3NyUGhXdzE5R29jVGxGWUo1cTZRWnFvc21wQWphMFNLRUNWZEZLWXZFLWlQamRESGxRenhGa3RnM1FYbVZ2d2RKczVyR1FOa2RvWFJjUXhpaGhTTE9zbXBRejFSb1VCWHBuNktRQ01yYmYwNEFYWlI4Tm9RYmx0SjFha0cwYnFqNWNCQXZld1FsaG42ZFNSdW1vQ0ZMMUhrcTF4WVFWekxBaWJCdHUxRU0w?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-20T12:42:10+00:00"
-        },
-        {
-          "name": "GenomeWeb",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemtGeXphTkNTRm1RRTMzcFZOQ1MtUmd4cW5yWGxiN05WZU1hczhXYlhYVlZSdjlsME5RWWxIelc4LTM4RE5sODZObkd6NlJqd2hEWXJqNjZyTEh1aEx6NFh1RFF5bmFzeUlMSDlVazRzZHdOck1zVUlaTGpCRXdBdXdhTmFTNk5pMWRUdkMxMDZPNzJWdmxBVVlic0U1dS1JMmRVODM5V1VpRlRudkhveDNB?oc=5",
-          "domain": "360dx.com",
-          "published_at": "2026-10-20T14:13:00+00:00"
-        }
-      ],
-      "coverage_count": 6,
-      "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
-    },
-    {
       "id": "eaa7b5417acbf99346bd",
       "company": "Quest Diagnostics",
       "title": "Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option",
@@ -3935,6 +4049,60 @@
       ],
       "coverage_count": 1,
       "event_signature": "going home hpv kit national test through"
+    },
+    {
+      "id": "a6520192962a30d4cf78",
+      "company": "Labcorp",
+      "title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5",
+      "description": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTUFqX1RBdzJLa2Z0c2d2YUZyZF91eWQ5clB5c01zSWpKVVR2Q3gwNUJhNlJqbzVxaFdfVVpQMnM0aTEtVWdkQUQ3ZmRkLU9ua01zZXA1OF9oOVc5STFJbXh1Q1VZb2xIMW5JRGNocWVQQ05HdWxqZW1oWFRfeVlhOHVOb2ZrWjVvSng0Yk40azdYU1o1cGs2RXA3bXlENmp5WUItUWZwRQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-20T07:00:00+00:00"
+        },
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZEVJYnFOcHJqeUhvV2ZWR2hmSkhBMER4dnRzODJwcDNXbHljSjFBbElndEZQVXF1RktyR2xTX0swXzJYeXlRUVp2OG9RZXhBeHoweDE1ZXF1YkpDcUl6NVpwaFN0V2pkR0NvNFY4SGJPZk5NeHg2N3dvXzY1VWVoR0J5WV84cHZqTXc?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-10-20T07:00:00+00:00"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3ZRUHF4akN0VXhUMGJETGx2MkJxNTVJNXZZRjdYQmJWanFJTy01NTB1ZUZTQ2swRVR5WUtxYnNvQjUyM0txdlA2YW5jSmY4dWZKRlBmNk9YaGJsWVdQVUdvTk5aUlk4c2lMZHBPWVNlSUNJTFJ1ZlR4V1VjdnR4VDJCNEFTM21DN3M2WmZxV2JxOUZPVk85cWV6dWZQZFNTQmpRU1FMS1hNdGluOXFFTGl4RE1NaHM?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-20T14:13:00+00:00"
+        },
+        {
+          "name": "Fierce Biotech",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1BBdy1ZXzA0Zi1nTjYxc0V1ckdzWWw4RE1YakQ1anFfU2NvQzlSZ0d3dGtyNmtzRk9aSkx4MzVZdUVyczFVU0VzWkRUbHA4bUdid0loNnM1alR4V0t3MjlCMjY1QnVnV3doOEN6M19BdFBkajFjNXdGT0N1QkkyeDZ2blRkTTRUWXZUNGJKRHRJYlBfeFNHN2xQakdPU0Nw?oc=5",
+          "domain": "fiercebiotech.com",
+          "published_at": "2026-10-21T06:18:06+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZVFVOWpnYjMyZW9wRVpGT2NVdEtwdy1aeS1STGFJdFdkd3NyUGhXdzE5R29jVGxGWUo1cTZRWnFvc21wQWphMFNLRUNWZEZLWXZFLWlQamRESGxRenhGa3RnM1FYbVZ2d2RKczVyR1FOa2RvWFJjUXhpaGhTTE9zbXBRejFSb1VCWHBuNktRQ01yYmYwNEFYWlI4Tm9RYmx0SjFha0cwYnFqNWNCQXZld1FsaG42ZFNSdW1vQ0ZMMUhrcTF4WVFWekxBaWJCdHUxRU0w?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-20T12:42:10+00:00"
+        },
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNemtGeXphTkNTRm1RRTMzcFZOQ1MtUmd4cW5yWGxiN05WZU1hczhXYlhYVlZSdjlsME5RWWxIelc4LTM4RE5sODZObkd6NlJqd2hEWXJqNjZyTEh1aEx6NFh1RFF5bmFzeUlMSDlVazRzZHdOck1zVUlaTGpCRXdBdXdhTmFTNk5pMWRUdkMxMDZPNzJWdmxBVVlic0U1dS1JMmRVODM5V1VpRlRudkhveDNB?oc=5",
+          "domain": "360dx.com",
+          "published_at": "2026-10-20T14:13:00+00:00"
+        }
+      ],
+      "coverage_count": 6,
+      "event_signature": "agreement announce business definitive genetics health myriad prenatal sell testing"
     },
     {
       "id": "f2dc393268b9df61f530",
@@ -4789,30 +4957,6 @@
       "event_signature": "accepting awards champion communities foundation healthy nominations now"
     },
     {
-      "id": "558c1f44f46297eecf92",
-      "company": "Labcorp",
-      "title": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
-      "description": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily",
-      "source": "Oncodaily",
-      "source_url": "https://oncodaily.com",
-      "source_domain": "oncodaily.com",
-      "published_at": "2026-10-13T14:41:29+00:00",
-      "published_display": "13 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Oncodaily",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
-          "domain": "oncodaily.com",
-          "published_at": "2026-10-13T14:41:29+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "cancer endometrial introduces mutation oncology pole previs rebecca standalone testing"
-    },
-    {
       "id": "3537ca9b6ef4ef30456b",
       "company": "Labcorp",
       "title": "Latest Life Science Job at Labcorp | Apply Online Here",
@@ -4913,6 +5057,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "cardiometabolic consumer direct global launch test thrive"
+    },
+    {
+      "id": "558c1f44f46297eecf92",
+      "company": "Labcorp",
+      "title": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
+      "description": "Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily",
+      "source": "Oncodaily",
+      "source_url": "https://oncodaily.com",
+      "source_domain": "oncodaily.com",
+      "published_at": "2026-10-13T07:00:00+00:00",
+      "published_display": "13 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Oncodaily",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQTXVHY3BNaURFOWR1aEVTMGFneFkyLVlMaWl6RWdVMGVmc0tnZjF1R2JWMEhDbWtsZGpjdHl5dzJmamMyRDc0eGRwMWtOQzJYUFdvaTRKYXVBejQ4WVVfQkVFSVZ2V05fOVROY05WenY3eERPVlhoTA?oc=5",
+          "domain": "oncodaily.com",
+          "published_at": "2026-10-13T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cancer endometrial introduces mutation oncology pole previs rebecca standalone testing"
     },
     {
       "id": "4493bbca40bbb733b192",
@@ -14961,308 +15129,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "chief commercial dela mark officer svp"
-    },
-    {
-      "id": "7ae7da1f27bd119f8422",
-      "company": "Quest Diagnostics",
-      "title": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-      "description": "People moves: Quest Diagnostics tests positive for Damini Chokshi as its new head of IR ir-impact.com",
-      "source": "IR Impact",
-      "source_url": "https://www.ir-impact.com",
-      "source_domain": "ir-impact.com",
-      "published_at": "2026-07-30T12:08:02+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "IR Impact",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWdSdzBKSEdQdmxTVnNfRmJGaTI5ZmFqaGpPY3h4X3JzcXFUVkprMXhXWHNpQUM2YkQ5T2xXMTU4X2lnTHY4bEdOc1BMZ0drYi0xR2dubUtSd2Z2WmNhSTNfakEtb0F0OXctOW1lZS1uRENGaTVHNVA3ekVidWlZQm1wNVV1TG5iOHdFNXV6VXljZHVZV1M2dmx1c21LNjVNZEVpeVBmQ0g2amw4NW4wZWROV1hDdllpVWdxYWZn?oc=5",
-          "domain": "ir-impact.com",
-          "published_at": "2026-07-30T12:08:02+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "chokshi damini head moves people positive tests"
-    },
-    {
-      "id": "bef82adae503aa06a4a2",
-      "company": "Labcorp",
-      "title": "Labcorp earnings beat by $0.20, revenue topped estimates",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5",
-      "description": "Labcorp’s second-quarter 2026 earnings and revenue both came in above the market expectations cited in contemporaneous reporting. Adjusted EPS was $4.99, up 14.9% from $4.35 a year earlier, compared with an LSEG analyst consensus of $4.78 reported by Reuters. The queued Investing.com headline described the earnings beat as roughly $0.20 per share. Reported diluted EPS was $3.64, up 28.5% from $2.84. Revenue increased 5.8% to $3.731 billion, above the roughly $3.71 billion analyst expectation cited by Reuters. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%; organic growth was 3.6%, and acquisitions net of divestitures contributed 1.9 percentage points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million, with Central Labs up 9.8%. Reported operating margin improved to 12.1% from 11.2%, while adjusted operating margin rose to 15.8% from 15.1%. Despite the headline beat, Reuters reported Labcorp shares down about 6% in premarket trading, with investors focused on softer-than-expected organic growth in Diagnostics after stronger results from Quest Diagnostics. Labcorp nevertheless raised full-year adjusted EPS and revenue-growth guidance following the quarter.",
-      "source": "Investing.com",
-      "source_domain": "news.google.com",
-      "published_at": "2026-07-30T11:10:42+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWkJBb2xGRFJ3Y00xMlBPbFE3RG5jX3FfZkVzcVpWUWlBTEFDdHhHLXZlZmxCMFoxLTdIcTRWVlRJaWN2MVZMbS1uUVlIazFSRXBFMzZpRFZIbDAtWEc2VTE5TVJyaHBQckZ3cngxaWtNOF8zcEQ2TzlxRkdNVUJrS3lCVWh2d24yOVYzRWVIUy1BREpmN1NoWFFLV05GUF82cU9KYS16N2x5dERsMDZR?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:10:42+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbnRUVkp5clZhV0IxVnc1TGJ3ek1WQTdlV1dlcVk4aUdkN0g1d1A1SWl3ZjByTEVzcWNxUWpsMG1GSWxEYUNna0dqdFpNYUMyT04yM1BYa3B0cFNmLVl4UmlRMXU3QWlvVlZTSkRnM3p4dG9XWFJGdkljemhGX1JuS21ldmhqUUIydXdfSUNwZV9IODJ5c2kxTE82TUpObVVkd2hyRzZWbnhUamEwdFNONTd3RDAyOXBEblBnNkh5Yw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:50:38+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-08-05T20:26:35+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "beat earnings estimates revenue topped",
-      "source_description": "Labcorp Holdings earnings beat by $0.20, revenue topped estimates Investing.com",
-      "chatgpt_summary": "Labcorp’s second-quarter 2026 earnings and revenue both came in above the market expectations cited in contemporaneous reporting. Adjusted EPS was $4.99, up 14.9% from $4.35 a year earlier, compared with an LSEG analyst consensus of $4.78 reported by Reuters. The queued Investing.com headline described the earnings beat as roughly $0.20 per share. Reported diluted EPS was $3.64, up 28.5% from $2.84. Revenue increased 5.8% to $3.731 billion, above the roughly $3.71 billion analyst expectation cited by Reuters. Diagnostics Laboratories generated $2.901 billion of revenue, up 5.5%; organic growth was 3.6%, and acquisitions net of divestitures contributed 1.9 percentage points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million, with Central Labs up 9.8%. Reported operating margin improved to 12.1% from 11.2%, while adjusted operating margin rose to 15.8% from 15.1%. Despite the headline beat, Reuters reported Labcorp shares down about 6% in premarket trading, with investors focused on softer-than-expected organic growth in Diagnostics after stronger results from Quest Diagnostics. Labcorp nevertheless raised full-year adjusted EPS and revenue-growth guidance following the quarter.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-11T19:07:59+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html",
-        "https://in.marketscreener.com/news/labcorp-raises-annual-profit-forecast-on-strong-testing-demand-ce7f50dadd88f423"
-      ]
-    },
-    {
-      "id": "d33ad65750cc3e48824a",
-      "company": "Labcorp",
-      "title": "Labcorp raises annual profit forecast on strong testing demand",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
-      "description": "Labcorp raised its annual profit forecast after second-quarter results beat Wall Street expectations, supported by diagnostic-testing demand and growth in drug-development laboratory services. Revenue rose 5.8% to $3.73 billion versus an LSEG consensus of about $3.71 billion, and adjusted EPS of $4.99 exceeded the $4.78 consensus. The company increased 2026 adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35 and raised its annual revenue outlook to approximately $14.71–$14.83 billion from $14.65–$14.80 billion. Diagnostics Laboratories revenue grew 5.5% to $2.90 billion, slightly below analysts’ $2.91 billion expectation. Labcorp said specialty testing and laboratory-management agreements supported the diagnostics business. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, above the roughly $797.3 million analyst estimate, as pharmaceutical and biotechnology spending improved. Central Labs revenue within Biopharma grew 9.8%. Reuters reported the shares down about 6% in premarket trading despite the beat. Leerink Partners analyst Michael Cherny said investors appeared to be focusing on softer-than-expected organic growth in Diagnostics, particularly after Quest Diagnostics had posted stronger results the previous week. The quarter therefore combined improved earnings and guidance with a more mixed investor reaction to the underlying diagnostics growth rate.",
-      "source": "Reuters",
-      "source_url": "https://www.reuters.com",
-      "source_domain": "reuters.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdUg2eUk4aUpsdWtyZ3VpZm91MVRnbnYyZ1gzLVRldWN1TTltR01QZFNybWowclFKMmN4TEFkQnVyS3VpY0ZkcVRxZEdFQTFWN2xxajdSN1ctSEJlWUdIY3JrdXE4Ql8wSlgwOTgtUS1TTFBBak5HaEVEV0N1c3c4UnYyRXE2MGxDa0J6UmhlVjl4TWdZUXllb3E1VG92R0pfN3F5YmpBYnZ5YzZWSzQwMWk1dVlpWElQU0FNb05JR0R6aGNOcmJWNXNvaw?oc=5",
-          "domain": "reuters.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUVaWHd3UlRSR1B0YnNoOE4yZmR3Nmhmb1ctYkFBLTVNZGNjemZ1dDF1bEZBZHdvV3Z5dWVEVnRON1ktcTdOc3NwTXFUbDZ6VmdUbTZLZGcwaHczb0VzYm4wbXp6ZkFrdWtvbTJ6WTZkNE1GdElKQVUwOWpNcDY1ZDc1QTdCdU13ckNvcWZEelF6OUwzeTVXUURKWDhaWE16eGc1Q0FZRzI4LVU0ZGpuc1ZFaGktelotLWt1c2NBUUk0QlVjZWNwQnc2SmM?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T11:20:53+00:00"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMk9PUWQ3MjRNaWJWdmpmU2RIdERYcE1WMmZlTVJlZEZHcTFBR1RMd2JnazZjanE0TWRJRTVneGY1blpvRFh3dnNKU0ZkeEowZno5cUo0ZGlfckc1MG1qVl9VUGZjNmJXSk03ZF9uSmRLb1lmY2puYXNxYWp0Wmp4TVh6QnNMdmFNR203TnI0bw?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-30T12:26:59+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmtlcnJlNS1pNTZkVWtwUjFKY2JrOE1WdGdJajE5aldiZXJwZm55cFEtLVNNYW4wZlBvTS0xdzVTZmcxSk1sd0tqWWMtNlZhTmRnczdZT3ZkUE1ET3o3ZGpGRG5ITVNhM0xsZ0ZpdzFpTjl1cHpXb1lOeV9EenBUYVhhVGtCOWh4M0RNN0hMOU1BYS1BaVN3cW1lbDYzRFNCeWhkOWt2TEJFcnVnc2FRZ2ZhZkNndw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-30T12:28:57+00:00"
-        },
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNWdTWlk4Nm1ObGhBZlBudDFVWW1fNlY4WHBscDNmandnZVVKQ1BQWnRmanNMajlXQnM5Rml6Q01VdWJFc2dPNXlQM0ZITlppbWZ3LTVqUkJIX09uTnRkTUFkY2lTSTV0TkZiODkwa3Z2YnU4NjExNW03WTBpaXFFOU9mUWJqbFBWTlc5TzNWSkVIbTZubVlMcTl4R1NSTGo4VzRISGF3WmNMdmZ3X2JpNmt0RE5GUQ?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-07-30T15:34:40+00:00"
-        },
-        {
-          "name": "93.3 The Drive",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaEVFSGxYWm10VzhyUHpLZGxFZnZmbVNTWTEtNWdtd3JLY3ZGRFFPOUw1M252N3I1cW9remtmWGV2bXlHMFdnZG1zSHhjbndVVnhlM2FvMkluN2FUd0o1SFBIUGlwRnVkcGV5bzRBalA0TUdQdWQwVWJfS1BLN3Y2Smc1MHhmaTdiSFh1Z0JEckJub1Z1TGZ5Rjlvd04xMnBxc0VNQg?oc=5",
-          "domain": "933thedrive.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWklJUnRQVWxZOWhHM0xacFlVT0FscGx6SWdrUDNic0k4VVVmamd4WDA3dU9Ob2RsaDFIYWwwcmltUXJpbHJzRC0taEpVTE1Cczk1WXBGM3I1OHVvbmRzU2Nydk5OdlVpazkyZzhIVXdHUTdLLTZOY1FxTzRELU9hZE56QlJwcm8yaHAtLW5jRFhpX0Q0NjZZMnBEMzdqTEhVYW52X050OVdaNllYTHBEcjNjTUFFYWFrSy1EemtUcDBnS09FZUJIc090RDM?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "927thevan.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONjlwTHNnLU9tblhJelFqeDJzN0F3TnJEUzJFVWg0TTNhcUxBWlBfTnQ4c3VoUU5MTHIzb01vazRCYkNXZjhNUm85SVNSQTJ3Xy0wYTRnelBlZjJqOUJvMUd6QVdVcEtEaFZTREhsaXdQV3cxZF96YWhtR2twMkVPSzJkOFJQdlZDSm1KQTJ0S2VoS3h3cWJncjFwM3E?oc=5",
-          "domain": "927thevan.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 8,
-      "event_signature": "annual demand forecast profit raises strong testing",
-      "source_description": "Labcorp raises annual profit forecast on strong testing demand Yahoo! Finance Canada",
-      "chatgpt_summary": "Labcorp raised its annual profit forecast after second-quarter results beat Wall Street expectations, supported by diagnostic-testing demand and growth in drug-development laboratory services. Revenue rose 5.8% to $3.73 billion versus an LSEG consensus of about $3.71 billion, and adjusted EPS of $4.99 exceeded the $4.78 consensus. The company increased 2026 adjusted EPS guidance to $18.10–$18.55 from $17.70–$18.35 and raised its annual revenue outlook to approximately $14.71–$14.83 billion from $14.65–$14.80 billion. Diagnostics Laboratories revenue grew 5.5% to $2.90 billion, slightly below analysts’ $2.91 billion expectation. Labcorp said specialty testing and laboratory-management agreements supported the diagnostics business. Biopharma Laboratory Services revenue increased 6.5% to $836.2 million, above the roughly $797.3 million analyst estimate, as pharmaceutical and biotechnology spending improved. Central Labs revenue within Biopharma grew 9.8%. Reuters reported the shares down about 6% in premarket trading despite the beat. Leerink Partners analyst Michael Cherny said investors appeared to be focusing on softer-than-expected organic growth in Diagnostics, particularly after Quest Diagnostics had posted stronger results the previous week. The quarter therefore combined improved earnings and guidance with a more mixed investor reaction to the underlying diagnostics growth rate.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-11T19:07:59+05:30",
-      "summary_evidence": [
-        "https://finance.yahoo.com/news/labcorp-raises-annual-profit-forecast-122659256.html",
-        "https://in.marketscreener.com/news/labcorp-raises-annual-profit-forecast-on-strong-testing-demand-ce7f50dadd88f423",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
-    },
-    {
-      "id": "ce295d63ded2d45b412f",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5",
-      "description": "Quest Diagnostics Growth Drivers Investors Should Watch Now in 2026 finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkVUUUFMdUZyMnZVLXljblUxdXpBWHNOQWJBNGhHdk1hSnhnUGQxYTFIa3lLeTJ0NTNDRlRjM3daS1VBU1VSbjJHdl84OTY5dEE3aFk5Q3NCaURzU1BjeXIwVHhNaGdsWmNQYnlsZ1BJMGdIMzdVV2hiczZzcHFyMTNEcmRvRHFMejlUNnFDVEdyLVVBbTNoQkx3alFER0x3Yk9KMmhB?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 drivers growth investors now should watch"
-    },
-    {
-      "id": "810aa6c73706d03720d7",
-      "company": "Quest Diagnostics",
-      "title": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-      "description": "Bacterial Vaginosis Linked to Increased STI Co-Infection, Finds National Study of 1.5 Million Women from Quest Diagnostics Yahoo Finance",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcGJ1dm9YcGNJbHJxQ2xfVmtLS0NXV09NR1ZGYmM3VllfaHNjTUY3ZzVvM2o5ejM1UnRsc0FGNHJWNld5T3ZFa0p6STVoUkVmZklWVS1TU0otLV9qOVozNkEyaFBEQm9PNGQxMnpTemdGbW5wQjVUSHZWSE5ueG9UN0Z0RTZoR01FM0w1REVUdkJWVWhQSUxNWlg4QkN1RkJNa21iMW9DMEhEejFjR0gxRll3SXR2UEppcXNiMVgzSHJTRENsVGFWdzluOF9ZT2NEWlU4RUdpVmVRWDFPaVROVVZhRmREWC1qNjhtcEUtX3FSR0pqVE9CdXo2ZEZteXBtVWZyMkZaTl8?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZVVvZ0NfaGNiS3lqN0tnNHVvblJORjBIQUlndG91S0x0M3pBSWJvV2ZnQTNiNEpnRE1HcjFpNjM0TDlQbkJmWlJKd1JxWm1Fc1B1TlZBdEczVFFvSk04QnRJWmJGYzQzVkUyRkdiQXh3VlpLdHJRbURIYlVLN3lSNVU3V3BJcmxFT2pUNC1PTksxeWZDYmp5Tm40RmVLcTVDQlQ0?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "bacterial finds increased infection linked million national sti study vaginosis women"
-    },
-    {
-      "id": "94b0bb8fd0cc2c893f57",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-      "description": "Quest Diagnostics names Merck vet Chokshi as vice president, investor relations roi-nj.com",
-      "source": "roi-nj.com",
-      "source_url": "https://www.roi-nj.com",
-      "source_domain": "roi-nj.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "roi-nj.com",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWTR2WXphQ05mdkFFQmNURDZlSjRWNDM1QjQtYkxhUzJZcWs2VHNUeE1LTVF4VWQzNkc1UlI3Vy1GUVlHVDVlN3lzYXFDSGUxcVN5Nm9vSEpUZUMzYTFPTU1jRVNRa2N5cERPOTROTHliMFZMVmVPSFZaNURheEM2am43RkJHbFVEZkZCZGJwZ3FMc000UHp6OFpfenBNRUNMdUxiQ1dHZExtLThaX2djMm5MRmNXX19pblVFTlk2RTRCQQ?oc=5",
-          "domain": "roi-nj.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "chokshi investor merck names president relations vet vice"
-    },
-    {
-      "id": "4a777d06a90c5c515cd5",
-      "company": "Labcorp",
-      "title": "Labcorp reports results for the quarter ended June 30 - Earnings Summary",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
-      "description": "Labcorp reported second-quarter 2026 revenue of $3.73 billion, up 5.8% from $3.53 billion a year earlier, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Adjusted operating income reached $588.7 million and adjusted operating margin improved to 15.8%, reflecting organic growth and operating efficiencies. The company raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. It also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Labcorp highlighted several specialty-testing initiatives alongside the results: an advanced DPYD genotyping test for chemotherapy-toxicity risk, nationwide distribution of the FDA-approved ColoSense RNA-based at-home colorectal cancer screening test, a Fox Chase Cancer Center collaboration evaluating Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and nationwide access to Roche’s FDA-approved VENTANA PTEN (SP218) companion diagnostic for prostate cancer patients who may qualify for AstraZeneca’s TRUQAP-based therapy. Labcorp also announced Marker by Labcorp, a consumer genetic-health panel. The quarter therefore combined mid-single-digit revenue growth with stronger earnings, margin expansion, increased capital returns and continued investment in oncology and consumer diagnostics.",
-      "source": "tradingview.com",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "tradingview.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPSExMTlZVM0hvNllMZ0E5VWNvYkRTQnJuZlFEdTBGWmR4LUxWUk50X0RJRmVldXhRQ3U3aWVlLVdVamprVE1qMDNkSXpvcGpPa2l6aFJKaFNMUUpUdXk4MjhPT3IzUzRoeTZiMW1aVzFKTlpoV0NCTEZXdEVxc1ZtYUJrcXBoUHFiUDRIY2ZpN2dJcDN4T3FuVnZBT19kcDFMNkctS0E4UDhMa08zUGJLQ2VuZHhEVHJDZW1WOHV5NnNQaTQzaDFqZUlTV0RqdmZwdHAtNktjVDljMW8zZkFYRjhXcTNWdEc3?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVk5JdG5SbDlsNGUxU0hYYzhIckVZcjFDVjY0N0FBenpMNzBxSHc1djlxOUtpMXlEM3YyelQ4X0h4MEdyQ0NFaXB4cGQwakNxV0U0eEwwYkVXXzIzc0gxUkJuX29EcTRmNVhfdDhfRjd4aU5aMEQtcDBjUXVUNklPT1ZuVjU3TUh1WnU5a2JfMEMxRmdKa3N4VFV2TE93Qm1WS1luNUtRTXdyQVcxTEV6YzNxc3hfdw?oc=5",
-          "domain": "bloomberg.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Modern Healthcare",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbXFrWnJVZ1BmaXRWWjJJZVl4SGM0XzZoLUlqdF93YjJ1c3RHNFAyNHFVOHFnTF9OTmFFVGxqcWlUNDZWZmdHUEpXX3o1NTdrT0ZEMXVheWhoeUFYOXNwWmpXMEN1NndjTm53UkliOFppRjV1ZjBIVHV6dWxtTVpqSG5pRTI0cVZPeXpVWjZTMA?oc=5",
-          "domain": "news.google.com",
-          "published_at": "2026-07-31T15:54:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "earnings ended june quarter results summary",
-      "source_description": "Labcorp Holdings Inc reports results for the quarter ended June 30 - Earnings Summary tradingview.com",
-      "chatgpt_summary": "Labcorp reported second-quarter 2026 revenue of $3.73 billion, up 5.8% from $3.53 billion a year earlier, while diluted EPS rose 28.5% to $3.64 and adjusted EPS increased 14.9% to $4.99. Adjusted operating income reached $588.7 million and adjusted operating margin improved to 15.8%, reflecting organic growth and operating efficiencies. The company raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. It also increased its share-repurchase authorization by $1.0 billion, leaving $1.4 billion available. Labcorp highlighted several specialty-testing initiatives alongside the results: an advanced DPYD genotyping test for chemotherapy-toxicity risk, nationwide distribution of the FDA-approved ColoSense RNA-based at-home colorectal cancer screening test, a Fox Chase Cancer Center collaboration evaluating Plasma Detect Genome MRD in early-stage non-small cell lung cancer recurrence, and nationwide access to Roche’s FDA-approved VENTANA PTEN (SP218) companion diagnostic for prostate cancer patients who may qualify for AstraZeneca’s TRUQAP-based therapy. Labcorp also announced Marker by Labcorp, a consumer genetic-health panel. The quarter therefore combined mid-single-digit revenue growth with stronger earnings, margin expansion, increased capital returns and continued investment in oncology and consumer diagnostics.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T06:36:07+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
-    },
-    {
-      "id": "67cef19d23d6490fc7a1",
-      "company": "Labcorp",
-      "title": "Labcorp Reports Q2 CY2026 In Line With Expectations",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
-      "description": "Labcorp (NYSE:LH) Reports Q2 CY2026 In Line With Expectations The Globe and Mail",
-      "source": "The Globe and Mail",
-      "source_url": "https://www.theglobeandmail.com",
-      "source_domain": "theglobeandmail.com",
-      "published_at": "2026-07-30T07:00:00+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQem9zeVBwSXNRbXBxNm9QZGNobnpZeHN5UmI1eTBOa2xHR3A3YlhIN19SQUIyQ0tlUV9SZ3pwdjYzRnJJY1l0d1I2dXRjeUxOQVYxc0tvLVl0MHZtdi1sNHphb0pMOTdOMDZFZFltQVBwdVdjLWFPYldzb05XTFIySTJuQ1Zwdk5sVTV6WHpmc0J2YnhvMnJiUHFKazRYVzNsUnFzMjVac2d0dE9iOGFyQ1ZSbmt3dW1YTUVUNDNBMTNPcGxWY1BYZDBHeGU5SGhxdWZJRy1lM04?oc=5",
-          "domain": "theglobeandmail.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmFYWU0wMHJIZnJSbnNCOU5odGdpS0pUemp6S0l1YlVYallBS1RSc0F5QmFpYldHclVDbXhJTmhaelFSSTFpdFpURUd5eGlQTEpPOC1FUjhReGM3cFpJMTZyOE9CTnVNU1FQMWRlLXlVb0ZjWUhmN0pqZmtYV1dUVEozUlBmbTlPTUt6cWlpSDQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-07-30T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "cy2026 expectations line"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 50,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-28T12:17:00+05:30",
-  "next_update_display": "28 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-29T00:17:00+05:30",
+  "next_update_display": "29 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
