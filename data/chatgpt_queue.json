@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T19:56:57.005280+05:30",
-  "generated_at_display": "28 Oct 2026, 7:56 PM IST",
+  "generated_at": "2026-10-29T04:22:58.812343+05:30",
+  "generated_at_display": "29 Oct 2026, 4:22 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 422,
+  "remaining_unsummarized_count": 447,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,63 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa6087ddc402896cc298",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp stock rallies as upward price move follows strong quarterly results and acquisition spree",
+      "source": "Traders Union",
+      "description": "Labcorp stock rallies as upward price move follows strong quarterly results and acquisition spree Traders Union",
+      "published_at": "2026-10-28T18:19:29+00:00",
+      "published_display": "28 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVkS3c4alpicVNhNmtVekd5LWtIZGliOUVvcUxTRk5EX1lLdGpFVm81SWZGRHlmVktnZEMyUnF6Ymd3dTlvRzEtVWE3TGgzVWxpUS00elJVMkZ2bzA5RU41SUg5ZGc5a1Q5bDFfdERabVlqUTBoU3BNNnJ6eU12X21OcE5ia1NL?oc=5",
+      "sources": [
+        {
+          "name": "Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcmVkS3c4alpicVNhNmtVekd5LWtIZGliOUVvcUxTRk5EX1lLdGpFVm81SWZGRHlmVktnZEMyUnF6Ymd3dTlvRzEtVWE3TGgzVWxpUS00elJVMkZ2bzA5RU41SUg5ZGc5a1Q5bDFfdERabVlqUTBoU3BNNnJ6eU12X21OcE5ia1NL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a85b8b22e777b4fa7ee",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent",
+      "source": "GenomeWeb",
+      "description": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb",
+      "published_at": "2026-10-28T14:37:00+00:00",
+      "published_display": "28 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5",
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa1d568389a8fe11ea7b",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
+      "source": "Winston-Salem Journal",
+      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Winston-Salem Journal",
+      "published_at": "2026-10-28T14:15:00+00:00",
+      "published_display": "28 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
+      "sources": [
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5"
         }
       ]
     },
@@ -602,67 +659,6 @@
         {
           "name": "Indian Pharma Post",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVcwaTBUM0dEcnhDVkFDUjh2QWZOZk11TmlrR18tUnlhendodGlvSHVTWktuQ3paVXVjVUNLVEJTSG5SV2NET05WWDBWWlBSSHVaS3ZoOEUwaFgzQnFwRkVZVmQ0TEJ0dlJYQ2Z4OEhjN21xVHpPd2hyZEN2UVJJaVN0OWdJZ1dEaS1sWDB4UWpxQ3Jza1pYQ2pQNHBYZzNESC1yYUFHcFJ6UVlfWTFSUzJEUDY3SXB0RkFmaF9TcGFJNHo2ZVAwZWNBaG9rd9IB1AFBVV95cUxOajBLQmdyQWI0c0Raakh5N3Rua2hnTkRORi1ZUmdOS1dSdjQ2SHBwQjA1bF8tbFRCYkxST0VmZTdJMzJHRHhYS2trR2xOVE5IQXlQTjZZTWlZemhQTjFjdm9BTmYtclVvUzQwcmZIRGRJaEg0NXhNZnYtZ3FJaTRvSDViVjBwcmNiekFxOEtOanBjbjJyNTlLRVJyNm1aRmZQM0NUR2ZxaUtWVmFIZTM5VWs1WWZkNGdxNXFBQzIxVXR1bU9aQzUyMTJpMjNYZGlGR01aUA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a1370ffdef6e6e28518",
-      "company": "Quest Diagnostics",
-      "category": "Partnership, M&A",
-      "title": "Quest Diagnostics stock gains on Apple Health lab testing partnership",
-      "source": "ad-hoc-news.de",
-      "description": "Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de",
-      "published_at": "2026-09-09T07:00:00+00:00",
-      "published_display": "09 Sep 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5"
-        },
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGNld0tpLWdDdWRMV19lMjIwWUEzT2RsSGJUSmU0SFVmb050S0xkUFlUOXgxQ0NmMVo1Wkdxd200bmIxdnlnWldFU1JQcnpJTlZSRlBEaTlrVjR6ZGJicmdVX1VDWXBMM3Ruby1SSjF4SlZZMG9ndWtGc3l6ODQzdjJOTTRGNEYyUTcwSkcydE51R0NBcS1wRWZxT0JoSExNQ3RhM091Q05ZUHBZek5Sei1yTjFNT1pEeHBnOXJlVy1XV3JCWlJZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "aca11e78dc910ff7be06",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer",
-      "source": "marketscreener.com",
-      "description": "Labcorp Collaborates with Oregon Health & Science University on Clinical Study Evaluating MRD Testing in Muscle-Invasive Bladder Cancer marketscreener.com",
-      "published_at": "2026-09-08T22:00:00+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJhd2d3U2V1b3k0RG1RWXloNGxqdTE3akNlbnFqREJVWk82S2VLTURwdk5IXzB3aEgyaXgtLW9oQUZGT2NyZkVmVEQwVVBJczk2U2pxV1U4ektpeUxUcmtqQkRmeTVCbFFCSkg3azNvdGhseTl0OXJ2LTYxcEUtQnp4LUY3TTJkN3ZLMkZrZC0taUZqNkwxRHBBdVBXQVhxNWNFY1M5SVhPT3ZnVnplRW5sVGNaT2hVTXN0d0V3eE9FS3Bnem5DcnVKdXRxaHAzZVlMdF9RWTVVNzJQTGhTU3RRZUsydw?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOVJhd2d3U2V1b3k0RG1RWXloNGxqdTE3akNlbnFqREJVWk82S2VLTURwdk5IXzB3aEgyaXgtLW9oQUZGT2NyZkVmVEQwVVBJczk2U2pxV1U4ektpeUxUcmtqQkRmeTVCbFFCSkg3azNvdGhseTl0OXJ2LTYxcEUtQnp4LUY3TTJkN3ZLMkZrZC0taUZqNkwxRHBBdVBXQVhxNWNFY1M5SVhPT3ZnVnplRW5sVGNaT2hVTXN0d0V3eE9FS3Bnem5DcnVKdXRxaHAzZVlMdF9RWTVVNzJQTGhTU3RRZUsydw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "800063064414154e0e65",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp acquired MLM Medical Labs GmbH.",
-      "source": "marketscreener.com",
-      "description": "Labcorp Holdings Inc. (NYSE: LH) acquired MLM Medical Labs GmbH. marketscreener.com",
-      "published_at": "2026-09-08T17:51:49+00:00",
-      "published_display": "08 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5",
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2pkUVVUaExnWU14N3hTd09wNFdjWV9YVWtKTlptcjFJYm1pUFd3V3BpTE5aemJfdjI1dnJVZlZPeE1lSUhodHFrWTlzRVkzRHNJOGJEWHFrSTctTFNTbE00cEhRcnJVLWd4QjFBOHpwd3Vxd3ItZUtIWlRQZTgxUl9MVVA0ZkdvNXNSNm1wR0lCVVVscG9kVVBvdGtuc0NGU1poeTFOM0EyQ2pBVlVkSlVB?oc=5"
         }
       ]
     }
