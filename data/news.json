@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-29T04:22:53.354890+05:30",
-  "generated_at_display": "29 Oct 2026, 4:22 AM IST",
-  "item_count": 511,
-  "raw_relevant_item_count": 696,
-  "duplicates_merged": 131,
+  "generated_at": "2026-10-29T12:00:26.375867+05:30",
+  "generated_at_display": "29 Oct 2026, 12:00 PM IST",
+  "item_count": 514,
+  "raw_relevant_item_count": 731,
+  "duplicates_merged": 158,
   "failures": [],
   "items": [
+    {
+      "id": "97b9a2d07806f8da9b12",
+      "company": "Quest Diagnostics",
+      "title": "Director Gary Pfeiffer Sells 1,203 Shares of Quest Diagnostics I",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
+      "description": "Director Gary Pfeiffer Sells 1,203 Shares of Quest Diagnostics I GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-29T01:29:52+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-29T01:29:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "203 director gary pfeiffer sells shares"
+    },
     {
       "id": "34338d1a5aefa1bf98f1",
       "company": "Labcorp",
@@ -107,7 +131,7 @@
       "company": "Labcorp",
       "title": "Labcorp Targets Margin Growth, Absorbs Policy Headwinds",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0FNSWNNUjdhY2otb0Z0SUJyNWR2MXgzczkzYm9fZlVYLS1sczc5YVhoVERnSWhSVVo5am1lTFZZdGhtaklpUW5xY1VDTUxxNFg3QXJsbDRsdWh4RFhVd3lDWmN1RDEwSmt6SGNRWFZ1WnNqbGpxdkplX1NIaENKVVlhRzNGSENsaDEzX2hEZ1VNNHp3V1E3RnlTX2NEcDVwMHJ4R0FoZ0FoZkdsU3Fvcw?oc=5",
-      "description": "Labcorp Targets Margin Growth, Absorbs Policy Headwinds Benzinga",
+      "description": "Labcorp Targets Margin Growth, Absorbs Policy Headwinds TradingView",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "source_domain": "benzinga.com",
@@ -121,9 +145,15 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV0FNSWNNUjdhY2otb0Z0SUJyNWR2MXgzczkzYm9fZlVYLS1sczc5YVhoVERnSWhSVVo5am1lTFZZdGhtaklpUW5xY1VDTUxxNFg3QXJsbDRsdWh4RFhVd3lDWmN1RDEwSmt6SGNRWFZ1WnNqbGpxdkplX1NIaENKVVlhRzNGSENsaDEzX2hEZ1VNNHp3V1E3RnlTX2NEcDVwMHJ4R0FoZ0FoZkdsU3Fvcw?oc=5",
           "domain": "benzinga.com",
           "published_at": "2026-10-28T17:54:43+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYklBekxjZm1zM1otdkE4RDU1ZEpUWENsWjNwX3FiQXVZbElOLU8zUjhSRWpLLV9YS1ZqQU0wUG85TUxfbmxYbFVqcnQ4WUhJcThFcVd6cU9ZMGNxTFJZbUMtNTM1V1N4MElicTVlSjlxcHBLRTF4aS1EY3Q1VjdIRXVHUXRueFptSEthZWJBNUdXbnRDdHEtQml0UjM5ZzhqVlV6UUJhS09zdzQ4bzV1bjA1cw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T17:54:43+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "absorbs growth headwinds margin policy targets"
     },
     {
@@ -275,30 +305,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "acquisition costs gains offset profit quarter revenue slightly third"
-    },
-    {
-      "id": "96320232e0737480a05f",
-      "company": "Labcorp",
-      "title": "Labcorp Q3 Revenue Rises 6.9% to $3.81B, Adjusted EPS Up 14.5%, Guidance Raised",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVItS1JITDRWRE1mOGwwd3dYTEZSOVE5UWRYaG15Y2RjZkVRaE1nODJfNlhYbVpGNUx6ck1ERi1PSFViUjJJbzk0TGFBd2VBbFEzaklpUGdQelpzcXhZeW1uVGdfSjRSUEpYZUZMeDBSQ2wxczdhWnlLbTRKOG56OVpTRWJhV2JTSWJlLXE3ZU42eDlOaXlKVmZOQjkyVXFxUjJ4U2c4cnY0MVB0allsZVZwbjk4Zw?oc=5",
-      "description": "Labcorp Q3 Revenue Rises 6.9% to $3.81B, Adjusted EPS Up 14.5%, Guidance Raised Minichart",
-      "source": "Minichart",
-      "source_url": "https://www.minichart.com.sg",
-      "source_domain": "minichart.com.sg",
-      "published_at": "2026-10-28T14:15:00+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Minichart",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVItS1JITDRWRE1mOGwwd3dYTEZSOVE5UWRYaG15Y2RjZkVRaE1nODJfNlhYbVpGNUx6ck1ERi1PSFViUjJJbzk0TGFBd2VBbFEzaklpUGdQelpzcXhZeW1uVGdfSjRSUEpYZUZMeDBSQ2wxczdhWnlLbTRKOG56OVpTRWJhV2JTSWJlLXE3ZU42eDlOaXlKVmZOQjkyVXFxUjJ4U2c4cnY0MVB0allsZVZwbjk4Zw?oc=5",
-          "domain": "minichart.com.sg",
-          "published_at": "2026-10-28T14:15:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "81b adjusted eps guidance raised revenue rises"
     },
     {
       "id": "d754630c79bab07831f2",
@@ -517,28 +523,28 @@
       "event_signature": "2026 beats billion earnings eps estimates hits revenue"
     },
     {
-      "id": "2fc96526c97a6d9a8018",
+      "id": "e0da9c102db35073b68d",
       "company": "Labcorp",
-      "title": "Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjl3NG5kRm12R1BXbi13SW9ydEZhTEppUzB6NmNNOE5hVG5QSXVFT0ppY3pKU2c0aWV1WGM4NGx1NExkY2VGZlc2M2p5SlJaa0lPZ2kxOHlRenAxWDFMWW9fdk5BZHN3YzJGeGI1aTUtWDdtOHhQRGNEZnlrOF9Fb0R3V1BwMDhMU21GTU9LRlVERElZbnZiRnVLWkh0cndONHg5WUcwemE1NUY5ZF9icE1meXZKdw?oc=5",
-      "description": "Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-10-28T12:22:10+00:00",
+      "title": "Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2N5V3ktYnFQaEF3b2JsbFFFbUl0N3Z5TTFYQmZ3YkQ5NFJ6WW1PcVZwRVQzb3QwaGdqbHVodWN4TDdKYXlCLUJSWDBEZ3owSUNiU1Nqa196LVNZQjFyVGZmMXVRUlFWWlZxcS1aVEJ6X24wWWZTLUVKQU5hTms5eEMxRC11dUNFTGJVeVRQNmZNamNtNV9NemxwU0Fodw?oc=5",
+      "description": "Compared to Estimates, Labcorp (LH) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T12:30:05+00:00",
       "published_display": "28 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
         {
-          "name": "www.marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjl3NG5kRm12R1BXbi13SW9ydEZhTEppUzB6NmNNOE5hVG5QSXVFT0ppY3pKU2c0aWV1WGM4NGx1NExkY2VGZlc2M2p5SlJaa0lPZ2kxOHlRenAxWDFMWW9fdk5BZHN3YzJGeGI1aTUtWDdtOHhQRGNEZnlrOF9Fb0R3V1BwMDhMU21GTU9LRlVERElZbnZiRnVLWkh0cndONHg5WUcwemE1NUY5ZF9icE1meXZKdw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-10-28T12:22:10+00:00"
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2N5V3ktYnFQaEF3b2JsbFFFbUl0N3Z5TTFYQmZ3YkQ5NFJ6WW1PcVZwRVQzb3QwaGdqbHVodWN4TDdKYXlCLUJSWDBEZ3owSUNiU1Nqa196LVNZQjFyVGZmMXVRUlFWWlZxcS1aVEJ6X24wWWZTLUVKQU5hTms5eEMxRC11dUNFTGJVeVRQNmZNamNtNV9NemxwU0Fodw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T12:30:05+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 adjusted earnings guidance raised revenue rise"
+      "event_signature": "compared earnings estimates key look metrics"
     },
     {
       "id": "c21a9694762caad2bc01",
@@ -637,19 +643,25 @@
       "event_signature": "adjusted earnings eps est factset flash per posts share"
     },
     {
-      "id": "0b278b583f08edd713f4",
+      "id": "9cda8847e67e4f57c40e",
       "company": "Labcorp",
       "title": "Labcorp’s Q3 2026 sales beat estimates",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTd5STFOazNRVjBBQUNLZDB3OXgtYUpISnJEVjhma3E3eUdvUm1aRUdpZXZ5TWtDREkyZnFPXzloWDNmandUakJ2Y2pUMVpwV1pFWDRCdl9iM1Z6YThXX29kYXgzVTNuWjdiMVFBVFZSOFRVM2lWV0xQemI3VEFTUVk1MmlibVRadTNyay1SUTA0bV9hQTVlel9kLVFYSC1ONXFRWV9EemVPM28?oc=5",
-      "description": "Labcorp’s (NYSE:LH) Q3 2026 sales beat estimates TradingView",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-10-28T11:21:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMElYNk16T0YyV0drQjVoYXJ1TldZSUdIR1dKWFVHeXFWb2VGc05hU2R4MnE2c01WODA4TTRTamI5MTVkaVFjaWhiTVdob0I2WDRnVlZ5MjFodmJ4RThkNllKZzdLcXQ0QVdDTS1rVERGVUl1UzdqQklZdWZHaWJwUFNhd0VNcUtmNm5HNW5aZC02aHJ2dE9tTmhLMGI1SUlrTEZCZk9qRTRGYVVvWXp3SjJtZVdXeFVBaXc?oc=5",
+      "description": "Labcorp’s (NYSE:LH) Q3 2026 sales beat estimates FinancialContent",
+      "source": "FinancialContent",
+      "source_url": "https://markets.financialcontent.com",
+      "source_domain": "markets.financialcontent.com",
+      "published_at": "2026-10-28T11:21:00+00:00",
       "published_display": "28 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "FinancialContent",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMElYNk16T0YyV0drQjVoYXJ1TldZSUdIR1dKWFVHeXFWb2VGc05hU2R4MnE2c01WODA4TTRTamI5MTVkaVFjaWhiTVdob0I2WDRnVlZ5MjFodmJ4RThkNllKZzdLcXQ0QVdDTS1rVERGVUl1UzdqQklZdWZHaWJwUFNhd0VNcUtmNm5HNW5aZC02aHJ2dE9tTmhLMGI1SUlrTEZCZk9qRTRGYVVvWXp3SjJtZVdXeFVBaXc?oc=5",
+          "domain": "markets.financialcontent.com",
+          "published_at": "2026-10-28T11:21:00+00:00"
+        },
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTd5STFOazNRVjBBQUNLZDB3OXgtYUpISnJEVjhma3E3eUdvUm1aRUdpZXZ5TWtDREkyZnFPXzloWDNmandUakJ2Y2pUMVpwV1pFWDRCdl9iM1Z6YThXX29kYXgzVTNuWjdiMVFBVFZSOFRVM2lWV0xQemI3VEFTUVk1MmlibVRadTNyay1SUTA0bV9hQTVlel9kLVFYSC1ONXFRWV9EemVPM28?oc=5",
@@ -657,8 +669,62 @@
           "published_at": "2026-10-28T11:21:26+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 beat estimates sales"
+    },
+    {
+      "id": "455d4e00db0e76758f95",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFpMZldHS1NiV0RSakYzQW5zQzl4akxLRy16T0NjREdYd09XVTVwdHByaFlHSnp4TTRsZ2kyeXg0YnMtWWRyRUZXbEg1U29uNWNSNWpEaE1qSzRRVTVIVmtmRHloOTFESl83aS03NzFfOGpHNFBydVZaTGxNQU1FZ2YzcFA4QlpYYm0wajhRdmItN1ZVcTFkWTdlQ3NQQQ?oc=5",
+      "description": "Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised www.marketscreener.com",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T11:20:25+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVFpMZldHS1NiV0RSakYzQW5zQzl4akxLRy16T0NjREdYd09XVTVwdHByaFlHSnp4TTRsZ2kyeXg0YnMtWWRyRUZXbEg1U29uNWNSNWpEaE1qSzRRVTVIVmtmRHloOTFESl83aS03NzFfOGpHNFBydVZaTGxNQU1FZ2YzcFA4QlpYYm0wajhRdmItN1ZVcTFkWTdlQ3NQQQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T11:20:25+00:00"
+        },
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZjl3NG5kRm12R1BXbi13SW9ydEZhTEppUzB6NmNNOE5hVG5QSXVFT0ppY3pKU2c0aWV1WGM4NGx1NExkY2VGZlc2M2p5SlJaa0lPZ2kxOHlRenAxWDFMWW9fdk5BZHN3YzJGeGI1aTUtWDdtOHhQRGNEZnlrOF9Fb0R3V1BwMDhMU21GTU9LRlVERElZbnZiRnVLWkh0cndONHg5WUcwemE1NUY5ZF9icE1meXZKdw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-28T12:22:10+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 adjusted earnings guidance raised revenue rise"
+    },
+    {
+      "id": "534f431bb826c7baff38",
+      "company": "Labcorp",
+      "title": "Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkd1elFsTXpfbnR1SU1KNXdKUUFmNy1EWGdtcmlIaUVYU2VwLV9VVW9GNmZmMmZzdTRrVEhhSE5ZdTR3VDRvTWNGc01HdjZSc2NXajM2VExkUFVjbm9WYTVCRm4xMTZYWXE4X3F2TDBkNGI4RXFiSTdjdmJXUGlvRXJZTQ?oc=5",
+      "description": "Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B Mugglehead Investment Magazine",
+      "source": "Mugglehead Investment Magazine",
+      "source_url": "https://mugglehead.com",
+      "source_domain": "mugglehead.com",
+      "published_at": "2026-10-28T11:18:45+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Mugglehead Investment Magazine",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONkd1elFsTXpfbnR1SU1KNXdKUUFmNy1EWGdtcmlIaUVYU2VwLV9VVW9GNmZmMmZzdTRrVEhhSE5ZdTR3VDRvTWNGc01HdjZSc2NXajM2VExkUFVjbm9WYTVCRm4xMTZYWXE4X3F2TDBkNGI4RXFiSTdjdmJXUGlvRXJZTQ?oc=5",
+          "domain": "mugglehead.com",
+          "published_at": "2026-10-28T11:18:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 81b earnings outlook quarterly raises reaches revenue"
     },
     {
       "id": "8a414b1ed2cc45e0bc30",
@@ -713,6 +779,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "beating edge estimates guidance raising shares"
+    },
+    {
+      "id": "8e827af6e396dc0b0417",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUk16U0N3UzZvMFBERUIwMDU4WTNtVEFPd1ZBTXdUM2NJdDl1aERrdmZKNkpOR3hKZHJVTHlMSVRGcmZONXZ0ckw1dW9aVWVhanllbm15WExaeEM1Z0V2RTRVYVJkRDA4aGFqSWJjUW9NeDJsMDRJM1MzYWVzOHpJZHNKaEV2MUZnYjFyX1pleFdsSGNjbGNMNUNiZjl6dlZUODcxbkV6ekZxY0V1Um0zc2wyMjM1WXpXOGJJaVNVd29RZnpfSG1HeWx5Y1NJbGRialo5SQ?oc=5",
+      "description": "Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-28T11:03:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUk16U0N3UzZvMFBERUIwMDU4WTNtVEFPd1ZBTXdUM2NJdDl1aERrdmZKNkpOR3hKZHJVTHlMSVRGcmZONXZ0ckw1dW9aVWVhanllbm15WExaeEM1Z0V2RTRVYVJkRDA4aGFqSWJjUW9NeDJsMDRJM1MzYWVzOHpJZHNKaEV2MUZnYjFyX1pleFdsSGNjbGNMNUNiZjl6dlZUODcxbkV6ekZxY0V1Um0zc2wyMjM1WXpXOGJJaVNVd29RZnpfSG1HeWx5Y1NJbGRialo5SQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T11:03:00+00:00"
+        },
+        {
+          "name": "Minichart",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVItS1JITDRWRE1mOGwwd3dYTEZSOVE5UWRYaG15Y2RjZkVRaE1nODJfNlhYbVpGNUx6ck1ERi1PSFViUjJJbzk0TGFBd2VBbFEzaklpUGdQelpzcXhZeW1uVGdfSjRSUEpYZUZMeDBSQ2wxczdhWnlLbTRKOG56OVpTRWJhV2JTSWJlLXE3ZU42eDlOaXlKVmZOQjkyVXFxUjJ4U2c4cnY0MVB0allsZVZwbjk4Zw?oc=5",
+          "domain": "minichart.com.sg",
+          "published_at": "2026-10-28T14:15:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "adjusted climbs eps guidance increases revenue rises"
     },
     {
       "id": "3c855de82620f4fe0d16",
@@ -821,6 +917,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 growth guidance posts raises"
+    },
+    {
+      "id": "21b49f8795f4095e7062",
+      "company": "Labcorp",
+      "title": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NXFMZTlCdWlkYlIyWXctTHFMXy0tRGZ0SGlqTFVLTXpXVC1JZzRScVA5T0FoVlM3MTh1T1k1d0pOUkpGdllIWklzWlU0UjJnOW5kN1QyN1gtaENnMWc0M2ZIekxBdld0MlB3?oc=5",
+      "description": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-28T10:50:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NXFMZTlCdWlkYlIyWXctTHFMXy0tRGZ0SGlqTFVLTXpXVC1JZzRScVA5T0FoVlM3MTh1T1k1d0pOUkpGdllIWklzWlU0UjJnOW5kN1QyN1gtaENnMWc0M2ZIekxBdld0MlB3?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T10:50:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 full guidance quarter raises results strong third year"
     },
     {
       "id": "3407c3bb31c308f935a7",
@@ -2711,7 +2831,7 @@
       "company": "Labcorp",
       "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
-      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential PR Newswire",
+      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -2737,9 +2857,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
           "domain": "gurufocus.com",
           "published_at": "2026-10-22T22:38:33+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczBCUThKWFhId1BvZWhjYm5lVUdYT0FvQmprUGtCYzBUWmFNUVdDV3JjdExUbTExaGp3Xzk4Z1VkNTk3MlpHOWx5SGlielZRSEwwdV8weFVtMS1icjJKZGQtSjZEdDZmeDZjYlhfc0xzYldLN2Z2c1hkZDBkVENmVzhmYllrNUNhYWt6VXgxbF83R0l0cFZDcWx0Zw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T20:30:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "abuse advance announce charles collaboration drug evaluating fda methods potential preclinical research river"
     },
     {
@@ -4681,30 +4807,6 @@
       "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
     },
     {
-      "id": "d7e63598516b694b9802",
-      "company": "Quest Diagnostics",
-      "title": "A new at-home HPV test kit is going national through Quest Diagnostics",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWJyYVNjdmo1cUNaM0xNZUl6cWRGVmdhbjNUZk5GdURWOGFvVVR5NUZMX0taZW9VVzVCTUtuWDFld1JhMkhMT2VfSjNWTE5KUEk1dnZVYlhocW5hSzgxWHFXcjB0N3o1N0VKRG5uUGo2UXJaMUw2SmpVZXdLZUZKVUtFeThxMzJISTR1M2JqZ1ZkRnRfMkNEMlpMd1cyWFVjRWtkNlFjSWJyYms?oc=5",
-      "description": "A new at-home HPV test kit is going national through Quest Diagnostics Fast Company",
-      "source": "Fast Company",
-      "source_url": "https://www.fastcompany.com",
-      "source_domain": "fastcompany.com",
-      "published_at": "2026-10-20T11:38:07+00:00",
-      "published_display": "20 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fast Company",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWJyYVNjdmo1cUNaM0xNZUl6cWRGVmdhbjNUZk5GdURWOGFvVVR5NUZMX0taZW9VVzVCTUtuWDFld1JhMkhMT2VfSjNWTE5KUEk1dnZVYlhocW5hSzgxWHFXcjB0N3o1N0VKRG5uUGo2UXJaMUw2SmpVZXdLZUZKVUtFeThxMzJISTR1M2JqZ1ZkRnRfMkNEMlpMd1cyWFVjRWtkNlFjSWJyYms?oc=5",
-          "domain": "fastcompany.com",
-          "published_at": "2026-10-20T11:38:07+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "going home hpv kit national test through"
-    },
-    {
       "id": "a6520192962a30d4cf78",
       "company": "Labcorp",
       "title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
@@ -4781,6 +4883,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "210m assets buying keeps myriad prenatal testing"
+    },
+    {
+      "id": "d7e63598516b694b9802",
+      "company": "Quest Diagnostics",
+      "title": "A new at-home HPV test kit is going national through Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWJyYVNjdmo1cUNaM0xNZUl6cWRGVmdhbjNUZk5GdURWOGFvVVR5NUZMX0taZW9VVzVCTUtuWDFld1JhMkhMT2VfSjNWTE5KUEk1dnZVYlhocW5hSzgxWHFXcjB0N3o1N0VKRG5uUGo2UXJaMUw2SmpVZXdLZUZKVUtFeThxMzJISTR1M2JqZ1ZkRnRfMkNEMlpMd1cyWFVjRWtkNlFjSWJyYms?oc=5",
+      "description": "A new at-home HPV test kit is going national through Quest Diagnostics Fast Company",
+      "source": "Fast Company",
+      "source_url": "https://www.fastcompany.com",
+      "source_domain": "fastcompany.com",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbWJyYVNjdmo1cUNaM0xNZUl6cWRGVmdhbjNUZk5GdURWOGFvVVR5NUZMX0taZW9VVzVCTUtuWDFld1JhMkhMT2VfSjNWTE5KUEk1dnZVYlhocW5hSzgxWHFXcjB0N3o1N0VKRG5uUGo2UXJaMUw2SmpVZXdLZUZKVUtFeThxMzJISTR1M2JqZ1ZkRnRfMkNEMlpMd1cyWFVjRWtkNlFjSWJyYms?oc=5",
+          "domain": "fastcompany.com",
+          "published_at": "2026-10-20T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "going home hpv kit national test through"
     },
     {
       "id": "f2dc393268b9df61f530",
@@ -15717,46 +15843,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "234 celebrates down interns stock summer trades"
-    },
-    {
-      "id": "74a549d307ec5080bf5a",
-      "company": "Quest Diagnostics",
-      "title": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5",
-      "description": "Quest Diagnostics appointed Dominique Chokshi as its new Head of Investor Relations in July 2026. The change was confirmed on Quest’s second-quarter earnings call, where the company introduced Chokshi as having joined the organization the prior week. The role places Chokshi in charge of the company’s investor-relations function and positions him as a key interface between Quest’s executive team and the investment community. The appointment comes as Quest is communicating a period of strong operating momentum. In the same second-quarter reporting cycle, the company disclosed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth, and adjusted diluted EPS of $3.12, up 19.1%. Quest also raised its full-year 2026 revenue and adjusted EPS guidance. Chokshi therefore assumes the investor-relations role while management is emphasizing volume growth, consumer and wellness partnerships, advanced diagnostics, hospital collaborations and acquisition-driven expansion. Public reporting on the personnel move did not disclose compensation, a predecessor transition date, or additional changes to Quest’s finance leadership structure. The available evidence supports a focused organizational change within investor relations rather than a broader executive-management reshuffle. Chokshi’s arrival adds dedicated leadership to shareholder communications during a period when Quest is increasing guidance and broadening its growth narrative across core testing and newer diagnostic channels.",
-      "source": "O'Dwyer's PR",
-      "source_url": "https://www.odwyerpr.com",
-      "source_domain": "odwyerpr.com",
-      "published_at": "2026-07-30T23:03:39+00:00",
-      "published_display": "30 Jul 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "O'Dwyer's PR",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3Nqd2t0bEFWdFBfTm13ODZpUlUycnp5OTVnNHRUZE9yRk9qN20ySXVIQ0NxekpBdkkxTll1UHdWUnZHbkhzM3NXWHdtLWRobmUybV9sYlRVaWZnUWFXN2JFRGt4Sm9XMnl4Vm1Na2IxaWlyd3JjZHRHQ3Qxd3VldFBZNGFnV0lESEE4ejJNaWRmSEI5bjZNalVlc3JaSkJZa24tN3ItUFU?oc=5",
-          "domain": "odwyerpr.com",
-          "published_at": "2026-07-30T23:03:39+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 chief chokshi jul move names thu",
-      "source_description": "PR News | On the Move: Quest Diagnostics Names Chokshi IR Chief - Thu., Jul. 30, 2026 O'Dwyer's PR",
-      "chatgpt_summary": "Quest Diagnostics appointed Dominique Chokshi as its new Head of Investor Relations in July 2026. The change was confirmed on Quest’s second-quarter earnings call, where the company introduced Chokshi as having joined the organization the prior week. The role places Chokshi in charge of the company’s investor-relations function and positions him as a key interface between Quest’s executive team and the investment community. The appointment comes as Quest is communicating a period of strong operating momentum. In the same second-quarter reporting cycle, the company disclosed revenue of $3.043 billion, up 10.2% year over year, 10.0% organic revenue growth, and adjusted diluted EPS of $3.12, up 19.1%. Quest also raised its full-year 2026 revenue and adjusted EPS guidance. Chokshi therefore assumes the investor-relations role while management is emphasizing volume growth, consumer and wellness partnerships, advanced diagnostics, hospital collaborations and acquisition-driven expansion. Public reporting on the personnel move did not disclose compensation, a predecessor transition date, or additional changes to Quest’s finance leadership structure. The available evidence supports a focused organizational change within investor relations rather than a broader executive-management reshuffle. Chokshi’s arrival adds dedicated leadership to shareholder communications during a period when Quest is increasing guidance and broadening its growth narrative across core testing and newer diagnostic channels.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_updated_at": "2026-08-08T12:35:00+05:30",
-      "summary_evidence": [
-        "https://www.marketbeat.com/earnings/reports/2026-7-23-quest-diagnostics-incorporated-stock/",
-        "https://www.benzinga.com/news/26/07/60637386/transcript-quest-diagnostics-q2-2026-earnings-conference-call",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ],
-      "summary_verification": "verified"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 56,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-29T06:17:00+05:30",
-  "next_update_display": "29 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-29T12:17:00+05:30",
+  "next_update_display": "29 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T04:59:12.814436+05:30",
-  "generated_at_display": "29 Oct 2026, 4:59 AM IST",
+  "generated_at": "2026-10-29T12:00:32.705284+05:30",
+  "generated_at_display": "29 Oct 2026, 12:00 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 447,
+  "remaining_unsummarized_count": 451,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -227,11 +227,11 @@
       "category": "Partnership, M&A",
       "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
       "source": "PR Newswire",
-      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential PR Newswire",
+      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance",
       "published_at": "2026-10-22T20:30:00+00:00",
       "published_display": "22 Oct 2026",
       "official_source": false,
-      "coverage_count": 3,
+      "coverage_count": 4,
       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
       "sources": [
         {
@@ -245,6 +245,10 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczBCUThKWFhId1BvZWhjYm5lVUdYT0FvQmprUGtCYzBUWmFNUVdDV3JjdExUbTExaGp3Xzk4Z1VkNTk3MlpHOWx5SGlielZRSEwwdV8weFVtMS1icjJKZGQtSjZEdDZmeDZjYlhfc0xzYldLN2Z2c1hkZDBkVENmVzhmYllrNUNhYWt6VXgxbF83R0l0cFZDcWx0Zw?oc=5"
         }
       ]
     },
