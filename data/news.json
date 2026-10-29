@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-29T12:00:26.375867+05:30",
-  "generated_at_display": "29 Oct 2026, 12:00 PM IST",
+  "generated_at": "2026-10-29T19:14:44.377237+05:30",
+  "generated_at_display": "29 Oct 2026, 7:14 PM IST",
   "item_count": 514,
-  "raw_relevant_item_count": 731,
-  "duplicates_merged": 158,
+  "raw_relevant_item_count": 735,
+  "duplicates_merged": 160,
   "failures": [],
   "items": [
+    {
+      "id": "e0812e94d4a7e0b10611",
+      "company": "Labcorp",
+      "title": "Labcorp 2026 Q3 - Results - Earnings Call Presentation 2026-10-29",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXBuM1lEWG5XUzhHeHRpcTU1MnprZnVBRTJweHlZclRDY0JRMVg1QVNBUEx5V052OGZqVThDZ3ZaSXN3YmRWLW1ZaUw5bjVzeDktV2o3M2swVWRSeXlEZDJUNkFhcFZVRU83d05tSzM5VlJ6WTZzM09ncFlhX1ZPRFBWb0ZEZWUyNFAyR3N5RXhqczEySUw0ZXRFOElJUlRjYmt1VVYwQQ?oc=5",
+      "description": "Labcorp Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:LH) 2026-10-29 Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-10-29T04:45:27+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXBuM1lEWG5XUzhHeHRpcTU1MnprZnVBRTJweHlZclRDY0JRMVg1QVNBUEx5V052OGZqVThDZ3ZaSXN3YmRWLW1ZaUw5bjVzeDktV2o3M2swVWRSeXlEZDJUNkFhcFZVRU83d05tSzM5VlJ6WTZzM09ncFlhX1ZPRFBWb0ZEZWUyNFAyR3N5RXhqczEySUw0ZXRFOElJUlRjYmt1VVYwQQ?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-10-29T04:45:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call earnings presentation results"
+    },
     {
       "id": "97b9a2d07806f8da9b12",
       "company": "Quest Diagnostics",
@@ -15819,36 +15843,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 acquisitions aug list"
-    },
-    {
-      "id": "85ff17beba593f679d02",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5",
-      "description": "Quest Diagnostics stock trades down to $234.30 as Quest Diagnostics celebrates 68 summer interns tradersunion.com",
-      "source": "Traders Union",
-      "source_url": "https://tradersunion.com",
-      "source_domain": "tradersunion.com",
-      "published_at": "2026-07-31T07:00:00+00:00",
-      "published_display": "31 Jul 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONmx3OVAzUFBjN1VBdkxqRjFQek9IaC00aHlXTDdDVkJwV00xZHNidUF1UUtnUU1OWFFWbkRta3IwN3lCd0xyMGFhQVc2WnpJczMtSk12TGZaQUUza3hWbEJMWmlxTkpTbVFWR3Z0SURESEtHaGE1ZDMtUDBrOFd1bGRsQUlJRk81UExvRGlJX3NHNXpDeE5vbEFB?oc=5",
-          "domain": "tradersunion.com",
-          "published_at": "2026-07-31T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "234 celebrates down interns stock summer trades"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 58,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-29T12:17:00+05:30",
-  "next_update_display": "29 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-30T00:17:00+05:30",
+  "next_update_display": "30 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
