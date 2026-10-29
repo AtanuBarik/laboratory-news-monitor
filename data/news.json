@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-10-29T19:14:44.377237+05:30",
-  "generated_at_display": "29 Oct 2026, 7:14 PM IST",
-  "item_count": 514,
-  "raw_relevant_item_count": 735,
-  "duplicates_merged": 160,
+  "generated_at": "2026-10-30T04:29:23.643703+05:30",
+  "generated_at_display": "30 Oct 2026, 4:29 AM IST",
+  "item_count": 519,
+  "raw_relevant_item_count": 714,
+  "duplicates_merged": 135,
   "failures": [],
   "items": [
+    {
+      "id": "b43c80d91b5b83ede281",
+      "company": "Labcorp",
+      "title": "Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5",
+      "description": "Labcorp Holdings (LH) Expands HPV Testing While Teaming With Regulators On Drug Safety Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-29T20:09:28+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-29T20:09:28+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "drug expands hpv regulators safety teaming testing while"
+    },
+    {
+      "id": "584d355b8e90860562b9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics class action alleges data breach exposed patient medical records",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTRBUEw2SVVBbi1WVktzUUVta202OWhVU2c2QzY0UG10SmdKMFpib094ZzdzRHhnQ2dkN1ZNZXA1clpnV1pMbjRSOUI5N2pTNS1PRC1JRTlTdTBwenN1cl9hN04xVWtpVlgtYWNNS0dmZVcxbHJKZ1l4WFdaZGhFSVJHakhEMU9keTl1c3dJRFhwMUpFN09OQ3ZWWmdabkM3c1I0SHd6UDNhQWgxdkQwbndoOTU1dw?oc=5",
+      "description": "Quest Diagnostics class action alleges data breach exposed patient medical records Claim Depot",
+      "source": "Claim Depot",
+      "source_url": "https://www.claimdepot.com",
+      "source_domain": "claimdepot.com",
+      "published_at": "2026-10-29T15:53:46+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Claim Depot",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTRBUEw2SVVBbi1WVktzUUVta202OWhVU2c2QzY0UG10SmdKMFpib094ZzdzRHhnQ2dkN1ZNZXA1clpnV1pMbjRSOUI5N2pTNS1PRC1JRTlTdTBwenN1cl9hN04xVWtpVlgtYWNNS0dmZVcxbHJKZ1l4WFdaZGhFSVJHakhEMU9keTl1c3dJRFhwMUpFN09OQ3ZWWmdabkM3c1I0SHd6UDNhQWgxdkQwbndoOTU1dw?oc=5",
+          "domain": "claimdepot.com",
+          "published_at": "2026-10-29T15:53:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action alleges breach class data exposed medical patient records"
+    },
     {
       "id": "e0812e94d4a7e0b10611",
       "company": "Labcorp",
@@ -31,19 +79,25 @@
       "event_signature": "2026 call earnings presentation results"
     },
     {
-      "id": "97b9a2d07806f8da9b12",
+      "id": "491cc95101739702cb26",
       "company": "Quest Diagnostics",
-      "title": "Director Gary Pfeiffer Sells 1,203 Shares of Quest Diagnostics I",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
-      "description": "Director Gary Pfeiffer Sells 1,203 Shares of Quest Diagnostics I GuruFocus",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-10-29T01:29:52+00:00",
-      "published_display": "29 Oct 2026",
+      "title": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUZONFNzaEUxbDNIdEtRN0xPTUtSbHljZHJMRUtjd0RHLVQ1VGRNV3Rxdnl4Y0xBOUdwYUhBWHlCZ2dfcEZleS01R1d2SmRFY3ZTa3QxQXJ2cUU5MER4TFZYMzVZTWlHenJNdTd0a3V0MXdBUlhvaUYyNFVkTjd4MWhGU0U0bnBrX000Wk1fZzJvYXpLSXFHSi1uSWl3Rkp2Um1TZjVJekxFaWRWaWM2a29WRnFFbGRPV3ROcHVueGxoZw?oc=5",
+      "description": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com Investing.com UK",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-10-28T22:32:00+00:00",
+      "published_display": "28 Oct 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUZONFNzaEUxbDNIdEtRN0xPTUtSbHljZHJMRUtjd0RHLVQ1VGRNV3Rxdnl4Y0xBOUdwYUhBWHlCZ2dfcEZleS01R1d2SmRFY3ZTa3QxQXJ2cUU5MER4TFZYMzVZTWlHenJNdTd0a3V0MXdBUlhvaUYyNFVkTjd4MWhGU0U0bnBrX000Wk1fZzJvYXpLSXFHSi1uSWl3Rkp2Um1TZjVJekxFaWRWaWM2a29WRnFFbGRPV3ROcHVueGxoZw?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-10-28T22:32:00+00:00"
+        },
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
@@ -51,8 +105,8 @@
           "published_at": "2026-10-29T01:29:52+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "203 director gary pfeiffer sells shares"
+      "coverage_count": 2,
+      "event_signature": "292 329 com director gary investing pfeiffer sells shares"
     },
     {
       "id": "34338d1a5aefa1bf98f1",
@@ -77,6 +131,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 call earnings growth highlights raised revenue strong"
+    },
+    {
+      "id": "8cd4b1473f4028a6c6ff",
+      "company": "Labcorp",
+      "title": "Teleconferência de Resultados do 3º Trimestre de 2026 da Labcorp: Guidance Elevado com Expansão das Margens",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjbHFBNHkyYmViUXFqOXdDQWFqNWRSdTFVWmUyZ0NNc3pSU01ZXzRFRXhLTERwcFVoVGpxMVBSWksxVmUzQndVUzl4enl6YUJPdjlWMnRwdnA1ZEhOR3lfN2J3U2c0QXRjOE44WkJzUUxNMG1mWGc?oc=5",
+      "description": "Teleconferência de Resultados do 3º Trimestre de 2026 da Labcorp (LH): Guidance Elevado com Expansão das Margens TradingKey",
+      "source": "TradingKey",
+      "source_url": "https://www.tradingkey.com",
+      "source_domain": "tradingkey.com",
+      "published_at": "2026-10-28T20:07:21+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjbHFBNHkyYmViUXFqOXdDQWFqNWRSdTFVWmUyZ0NNc3pSU01ZXzRFRXhLTERwcFVoVGpxMVBSWksxVmUzQndVUzl4enl6YUJPdjlWMnRwdnA1ZEhOR3lfN2J3U2c0QXRjOE44WkJzUUxNMG1mWGc?oc=5",
+          "domain": "tradingkey.com",
+          "published_at": "2026-10-28T20:07:21+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 com das elevado expans guidance margens ncia resultados teleconfer trimestre"
     },
     {
       "id": "3dd2b4bc6436f86ace77",
@@ -223,9 +301,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDkzUGIwRlYzQWhqcGNOTmJfczNYdmR5RUhnWFo5dllUU3hSRmFWZEx1MmxlS29FQ1hNYmViaXFEM09URDFWZHYtcC1jWHVGelRoX3VmOGZqMTJ3aHI0OEVjckVaWVNaRWt2YlFpQ0pyeFJpREU2WXNBMWZnOHI5aFAwUEdfU2g1TTlHc0s3d3hwSFdZOUdCcjhQUXZxUTk4dFVKdVpGVUNnbEFuMHgxeUhBaE42cU9FbjQxLVJzVHJRQkU?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-10-28T14:37:54+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWF5WXJBcHFYYXZvRUFqdWNOY1hlV05kZUVWSmRZNFZNVjJmd1VBRm90TUNJd09XZV90bGpvcEpjQTR1YXBJLW96YjBMNzBjOThrTHhxQUtkNjZza1lpZzNGeHl4NkwxemNvTERoU0RfTU00NDhXdDdCUUY2c1BCdFczb3dkTGtabThXUVkwN2RHN2hpWTMyQTc4T21RQmtwSURtMUhjYVhKYjlBS0pYSWNKdkxKaFVNNVdxc1hn?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T14:38:45+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2026 com expand investing margins quarter sixth slides straight"
     },
     {
@@ -281,7 +365,7 @@
       "company": "Labcorp",
       "title": "Labcorp Hldgs Q3 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5",
-      "description": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com India",
+      "description": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada",
       "source": "Benzinga",
       "source_url": "https://www.benzinga.com",
       "source_domain": "benzinga.com",
@@ -301,9 +385,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-10-28T14:24:22+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-28T14:27:54+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 call earnings hldgs transcript"
     },
     {
@@ -311,7 +401,7 @@
       "company": "Labcorp",
       "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
-      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Winston-Salem Journal",
+      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record",
       "source": "Winston-Salem Journal",
       "source_url": "https://journalnow.com",
       "source_domain": "journalnow.com",
@@ -325,9 +415,15 @@
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
           "domain": "journalnow.com",
           "published_at": "2026-10-28T14:15:00+00:00"
+        },
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5",
+          "domain": "greensboro.com",
+          "published_at": "2026-10-28T14:15:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "acquisition costs gains offset profit quarter revenue slightly third"
     },
     {
@@ -445,9 +541,15 @@
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTl4ZzlTUmdxdGh4R0lyNEliYmhWUG5qT0VIT0FlVjExLUhJS3l5c05tcklUX0pTQXVOSlZ0Q2JkbnlfZzZwSmRtbEFySTVrUlhMb01YcE9SUy1na1dmR0NDdk5KT1BXSFR1OTBrcHJ5V0JHOHBhcU1LekF5UGxsZ05vRUtHUGFoeHZOZlJLb1lSS1RvUTNJYWZiOG9VbUEyZ0tjamVjdDNNenplb3p5YkVoU1pnNkpVS2FueGlzU3lnSkxIMzU2eQ?oc=5",
           "domain": "theglobeandmail.com",
           "published_at": "2026-10-28T18:23:47+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9nRk9Rd2t6V3QySGJxdzhnUE5wdzdXVDFLTHBmOXJNanQ5M3N0aU5BT1ZMbndrS2oxMnB6UDFsQ3ZObFRGUEQ4RFY2Qlp4bTU3YjVOTzdPWHh5REY5SXV1bHpGLVdsa2RLRlNjRHVGcmpFcWg4WlNNUUFYbW5GRFZnRUpnN2s3WnZKQVYzYnMybTNONkhUWE5rMGFsVnUtRFE?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-10-28T19:30:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "2026 call earnings live"
     },
     {
@@ -839,7 +941,7 @@
       "company": "Labcorp",
       "title": "Labcorp earnings beat by $0.13, revenue topped estimates",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0ZxU01sbThZMjEtek5ZOXd6WHlwLVhrMWl0NURldFJDQmtMaDlMNXNXWm4zMVA5aW51cVZrQ1FtTTB3aWFlSzBQY3VvanR2QWhrMFhEcEdEU0JueHZ4c1B6YnRQUkR2WndMeGhqRldCX0VyTWhkUkFmUUJ1SVpLLVpiQjZuOUdOd1ZlNTNVWmY5WWlxSmhOd25TVEpiYThtMm12ZzZDMTF1eFQ0cTlr?oc=5",
-      "description": "Labcorp Holdings earnings beat by $0.13, revenue topped estimates Investing.com Nigeria",
+      "description": "Labcorp Holdings earnings beat by $0.13, revenue topped estimates Investing.com South Africa",
       "source": "Investing.com",
       "source_url": "https://www.investing.com",
       "source_domain": "investing.com",
@@ -865,9 +967,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWl3NHVhamNmOWtFekNuQUJyZ1ZEVlJ5d1R4UkRPNlNacm9hOUdQTzVfcmFKYUdoamc4WGNJNTd2c0dBRENuYWphbHRhVHF6TFlpUEpNZlEya0F2Vk9CVGdULVdtbDhaRDJkS3czdjAtUUstUXB0TDZmMUFDYWhSdXlRc2JrR2REUC1NMlFUb2lqcGlXMzJxcVFTOTRPdnA4NW02aVRTWGFkTEFXVGc?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-10-28T11:03:54+00:00"
+        },
+        {
+          "name": "Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkhHMzlBc0tHZENhNUVMWDZzakQ2cUJMR3NPWHlFYTVxNE9vd00wU1E0UEtuSjlWT2J2M2FrUDRkdjVqTzZKeEs2QVM0YVhiLUJXSTQ0eFEwZDl3QmN5LXhRcWRPSmJmWFI3dmZtMnZhd1p0YWZSNzl3ZWJHcnBJYXpQQ0F3ZklubHdicEg2bUVyblExcFNKRUFELUhveE9LbTZuNXplaU9yVlF2TVE?oc=5",
+          "domain": "za.investing.com",
+          "published_at": "2026-10-28T11:11:12+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "beat earnings estimates revenue topped"
     },
     {
@@ -961,10 +1069,76 @@
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NXFMZTlCdWlkYlIyWXctTHFMXy0tRGZ0SGlqTFVLTXpXVC1JZzRScVA5T0FoVlM3MTh1T1k1d0pOUkpGdllIWklzWlU0UjJnOW5kN1QyN1gtaENnMWc0M2ZIekxBdld0MlB3?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-28T10:50:00+00:00"
+        },
+        {
+          "name": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN01tT3lpd3h4T0NsWkwxbzNDWXRkb1dmcHBraEhfelJ3TjNDdkNPU3Y0S3NtX1pnUWZqSnA3dXlUQzVfT1NvZFJaQ251VHVGdUVUREZvS3pxTkZvSU14NEFCZWJINjRKa3pKMENBVVFXTlpvbjUxd1VuQ0diMHo2TV9GY25aS3VKeVFfZVBrbHlrVFBNeW1MNklJeWw4TXUwU3o5OEZGaFU2U1V5S2JrRk9RWnZSOVBmcEZJ?oc=5",
+          "domain": "stocktitan.net",
+          "published_at": "2026-10-28T10:50:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-28T11:50:00+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVNOZDZxUGFuZFhaQnlxbG95MXY3UFZ3Tm5PX3BKNVJMV0JSVWJtQUxkNVNCM2Jndzk0NDdkenEzMkdGbm1jbkpGWU4tUHoyRF9ub2RXZUg5TWZZQ0RDZU90TTZzenR1bXp2UDJuZHNuRWFIUVRhU1JIRWFwV0tyZmJnUGZ5QXJrQTlleXFFekNUUC1fR0RGYjVaQV90WGRiQXlMTENVRXFuSWhhZnkwTVZIYnJSb0FIdzZHZERn?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-28T11:51:13+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "2026 full guidance quarter raises results strong third year"
+    },
+    {
+      "id": "0f7726bb5f367ad8fb68",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics $6M Courier Wage Settlement",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3EtbDZndVBweXBEem1QcDZOQnVuV3pFQ1F1bEVDdlAyakhsNmlrdWVjb2t3Si0zSnhaOVpYM3F0N3AxOTV0YmJyaTYyeUlXZVRZZmt5alg3Z25UQzFqRk9iRTV4Q0ltZXVXVGVZd3g0dzdXTWtNV0lpRldkNF8yUmxaRWRQMHJBenNzWjR5M1RBUnhlbUpiXzZmbWMyeHZWOUpLODlEc0JjRDJhN0lwcmJDUDFwaXBaQnNsNFFuUQ?oc=5",
+      "description": "Quest Diagnostics $6M Courier Wage Settlement openclassactions.com",
+      "source": "openclassactions.com",
+      "source_url": "https://openclassactions.com",
+      "source_domain": "openclassactions.com",
+      "published_at": "2026-10-28T04:31:46+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "openclassactions.com",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX3EtbDZndVBweXBEem1QcDZOQnVuV3pFQ1F1bEVDdlAyakhsNmlrdWVjb2t3Si0zSnhaOVpYM3F0N3AxOTV0YmJyaTYyeUlXZVRZZmt5alg3Z25UQzFqRk9iRTV4Q0ltZXVXVGVZd3g0dzdXTWtNV0lpRldkNF8yUmxaRWRQMHJBenNzWjR5M1RBUnhlbUpiXzZmbWMyeHZWOUpLODlEc0JjRDJhN0lwcmJDUDFwaXBaQnNsNFFuUQ?oc=5",
+          "domain": "openclassactions.com",
+          "published_at": "2026-10-28T04:31:46+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "2026 full guidance quarter raises results strong third year"
+      "event_signature": "courier settlement wage"
+    },
+    {
+      "id": "988678a9a4e83b83be7c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock price, news, quote and history",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "source_domain": "uk.finance.yahoo.com",
+      "published_at": "2026-10-27T18:31:52+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-10-27T18:31:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "history price quote stock"
     },
     {
       "id": "3407c3bb31c308f935a7",
@@ -1603,9 +1777,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTEZWYzloc25mUGZsdWI5TUZjYWtnSXEtREZ6M1Q3Y0ZaWVZ3SEVZYW9KT2dOVXBRaGNfY0p2UFc3dTEtbnppc1dmOWQ0X1pvMzE5WDVDSVdHcnVIWWt6ZUlEXzBBRVpDZ2NxSlBFYnNlckg3eXkxbnkzM2RyampTMnBqUzB6VEJ0YVlhLWVFQ2ZmUmVKMDZGakNvYTVkbTBzZjRwd3dNNlhXTW8yWEhNWlllb3oxcWRUbFg4ZE12SWtETFk3c2hMTnBuemF5VnVf?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-10-24T02:28:10+00:00"
+        },
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcFFfTHpxdmJCMHBVZFBCdjZXWUhUX3dhaWU0TUlxcFVTZkhrQm1qWnRLQl9TMDNKeUM0amhseVVEWWppMEVwU2RRTml6bkVPSkRwdU4zdjEwSTVHdUhNclNGZTZOSTNXTnhZN3kzWHBHRUJQd05LTVJseTdia0g1U2tZOThhelkxSkdZN1VVMGFrSnMybmJwM25GbTVweTdTVk5BSFdQbVczcmdpbFh4Z3dnaDlaRnA2S2tYZHNhNXY1NGViTmpuaHE0NENEUXI3?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-10-28T22:36:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "carter director form october orporated robert"
     },
     {
@@ -4345,9 +4525,15 @@
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbkZ5UXNDT0hIT190YTJhdnVPbDRPWHM3SklaalZIWVVJTkxnUExiY3J2c0RjLWIzQk9TQzlkajJGMUEwUTgxUDJXb1MyNkl4N0p2Und4THRRdFV0ZFVBaHI1Tm90c05uRHFuXzhkTzh3NnpRWngxMTBjNDN4Yk9HXzFGaTJQMThZNWJzRGJCdXM4eThMNklwckYyYzhVS1lHNzRhMzJ3U1RENXlpTzdROHRUWUhQNm5JQzRjWXAtMjBrRjlhNmVublBPNWw5ZVlKOVM2VUlCR2g1RTJzVzFlQ0tuckNreHMzbl9QWnpzaTYtcHpVcDkxZm1NbGg?oc=5",
           "domain": "goshennews.com",
           "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "KALB | News Channel 5",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzBDLVE5ZjJiZl9WT0doNlBkRVNVNTdJMHZBRk5kV1Y1WEZ0TTJoRlJtVWZtU1FBRDByNDdyR3BfazJWalNJV2hjN2xxYmphR2I1Ui1mdXRaLWlwTWdtdU5UUGNvN1dIdkZoNnUyckE4UkxOcUlQOEQ4NjZuVHBKaHBDNVEySEF5OFpZLVl0dVQ1cF9seEd5M0JnTlZIS0lGTWhXQXFPWTg?oc=5",
+          "domain": "kalb.com",
+          "published_at": "2026-10-22T17:04:00+00:00"
         }
       ],
-      "coverage_count": 45,
+      "coverage_count": 46,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -4435,9 +4621,15 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0JDTDFaeG9KMDZtYjFnaEpTNTBzNnVNLUQyN2libjFoNTQ2U2FSMWNaNGdtUjdxb2JwOGpDSU9GWi0yR0pJTm9nQVRkNkNkQTRmMHh6emVSa2pPS0pnZnVENWtMRTF3N1FEbnBQTmpxRVBtOWlZbGJOdkZCczVCMmk3ZnJDRlFMTTBsZWxsYjE3VEVKNE84cWdLMHBkaEE?oc=5",
           "domain": "zacks.com",
           "published_at": "2026-10-21T16:25:36+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHduMWt2SkdOOXlfMklrZmhGcGltR0Fsam43VlhtYklJLXBjdTJndjRJSzFtODEtMkRDTDJnRFlMUTR5NmpVZjltLUdKMmlkVzBpOXZrTFk2MDU4R09vSEJ0UE1RUVo0YWlweEc4Z1dFZlRxQzljVVNobTBGLVNuTlgtRXluYWxNbE1POU1uSGZHMnV5NUhOd0pXSHo?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-21T12:28:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "cards earnings prepares report what"
     },
     {
@@ -15845,10 +16037,10 @@
       "event_signature": "2026 acquisitions aug list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 58,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-30T00:17:00+05:30",
-  "next_update_display": "30 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-30T06:17:00+05:30",
+  "next_update_display": "30 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

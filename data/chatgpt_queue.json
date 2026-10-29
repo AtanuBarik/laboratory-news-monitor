@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-29T20:08:23.159785+05:30",
-  "generated_at_display": "29 Oct 2026, 8:08 PM IST",
+  "generated_at": "2026-10-30T04:29:29.629760+05:30",
+  "generated_at_display": "30 Oct 2026, 4:29 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 451,
+  "remaining_unsummarized_count": 456,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -71,16 +71,20 @@
       "category": "Partnership, M&A",
       "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
       "source": "Winston-Salem Journal",
-      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Winston-Salem Journal",
+      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record",
       "published_at": "2026-10-28T14:15:00+00:00",
       "published_display": "28 Oct 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
       "sources": [
         {
           "name": "Winston-Salem Journal",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5"
+        },
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5"
         }
       ]
     },
