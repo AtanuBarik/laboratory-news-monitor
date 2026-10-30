@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-30T11:59:40.844566+05:30",
-  "generated_at_display": "30 Oct 2026, 11:59 AM IST",
-  "item_count": 521,
-  "raw_relevant_item_count": 723,
-  "duplicates_merged": 143,
+  "generated_at": "2026-10-30T19:07:41.865579+05:30",
+  "generated_at_display": "30 Oct 2026, 7:07 PM IST",
+  "item_count": 524,
+  "raw_relevant_item_count": 742,
+  "duplicates_merged": 158,
   "failures": [],
   "items": [
+    {
+      "id": "4166adbd36cfd0a2ff0c",
+      "company": "Quest Diagnostics",
+      "title": "Data Breach Hits Lab Giant Quest Diagnostics, Exposing Personal Information and Patient Records",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dkaFZ2U21ZUlZwM04xZlhnUGNmdld1NlRFZjQzSTQ2eHROTXFrZFppSHpTSngyRTBOd2ZCZkFUclA0UTVtd3dVM0tDVkFmMk9YV0YyMVZNQlhtS0RIZzVoYmM2M25FQnZPUENpamM5VWdLeUZPa1hTaF83bjNBTTMwZ1lCMzNOdThEazlQeDBvV2lmZThoYjRya2lJcmVmZWxJYVZMRFFpRGU2UlRhYkd3STVRYzNvRzg4RjhPWG1pWnVjTERqNWdpTkZVdjJjUld6dQ?oc=5",
+      "description": "Data Breach Hits Lab Giant Quest Diagnostics, Exposing Personal Information and Patient Records CPO Magazine",
+      "source": "CPO Magazine",
+      "source_url": "https://www.cpomagazine.com",
+      "source_domain": "cpomagazine.com",
+      "published_at": "2026-10-30T11:00:00+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CPO Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dkaFZ2U21ZUlZwM04xZlhnUGNmdld1NlRFZjQzSTQ2eHROTXFrZFppSHpTSngyRTBOd2ZCZkFUclA0UTVtd3dVM0tDVkFmMk9YV0YyMVZNQlhtS0RIZzVoYmM2M25FQnZPUENpamM5VWdLeUZPa1hTaF83bjNBTTMwZ1lCMzNOdThEazlQeDBvV2lmZThoYjRya2lJcmVmZWxJYVZMRFFpRGU2UlRhYkd3STVRYzNvRzg4RjhPWG1pWnVjTERqNWdpTkZVdjJjUld6dQ?oc=5",
+          "domain": "cpomagazine.com",
+          "published_at": "2026-10-30T11:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data exposing giant hits information lab patient personal records"
+    },
     {
       "id": "aa779c48170cc6bdc65c",
       "company": "Quest Diagnostics",
@@ -31,6 +55,30 @@
       "event_signature": "227 eur late october quote stock"
     },
     {
+      "id": "9c0ddacd1ffe626861d4",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Breach Exposes Patient Data",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IaHRYWFhHaXJEQTg4Qjg2UHM1M1U3OWowek1kREs1OHJuUW5vcnQxaDZZOGlpQm9ZdFN6cmQ5eG5CUkRBZ0lmWmxwd3hxNWh3ZWhKQ3pMQ0hwcldPV2JXTmFSeXRaYkNiUm1GcHB6M1Bqa3dnWTdwTk5jMGVkUQ?oc=5",
+      "description": "Quest Diagnostics Breach Exposes Patient Data McAfee",
+      "source": "McAfee",
+      "source_url": "https://www.mcafee.com",
+      "source_domain": "mcafee.com",
+      "published_at": "2026-10-29T21:31:45+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "McAfee",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IaHRYWFhHaXJEQTg4Qjg2UHM1M1U3OWowek1kREs1OHJuUW5vcnQxaDZZOGlpQm9ZdFN6cmQ5eG5CUkRBZ0lmWmxwd3hxNWh3ZWhKQ3pMQ0hwcldPV2JXTmFSeXRaYkNiUm1GcHB6M1Bqa3dnWTdwTk5jMGVkUQ?oc=5",
+          "domain": "mcafee.com",
+          "published_at": "2026-10-29T21:31:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data exposes patient"
+    },
+    {
       "id": "b43c80d91b5b83ede281",
       "company": "Labcorp",
       "title": "Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety",
@@ -53,6 +101,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "drug expands hpv regulators safety teaming testing while"
+    },
+    {
+      "id": "8362db92e01d3dc1fc4e",
+      "company": "Labcorp",
+      "title": "Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5",
+      "description": "Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-29T18:12:48+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-29T18:12:48+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings looms off pama risk shrugs stock"
     },
     {
       "id": "ddbd390e6066e93922db",
@@ -131,7 +203,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUZONFNzaEUxbDNIdEtRN0xPTUtSbHljZHJMRUtjd0RHLVQ1VGRNV3Rxdnl4Y0xBOUdwYUhBWHlCZ2dfcEZleS01R1d2SmRFY3ZTa3QxQXJ2cUU5MER4TFZYMzVZTWlHenJNdTd0a3V0MXdBUlhvaUYyNFVkTjd4MWhGU0U0bnBrX000Wk1fZzJvYXpLSXFHSi1uSWl3Rkp2Um1TZjVJekxFaWRWaWM2a29WRnFFbGRPV3ROcHVueGxoZw?oc=5",
-      "description": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com Investing.com UK",
+      "description": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com Investing.com Nigeria",
       "source": "Investing.com UK",
       "source_url": "https://uk.investing.com",
       "source_domain": "uk.investing.com",
@@ -151,9 +223,21 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
           "domain": "gurufocus.com",
           "published_at": "2026-10-29T01:29:52+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHZ5RWJ2YmMwaUwya2JIdWZPM0RYQnVoeG9BZG9TWWZ6YVB1TjlQLXpIVmJ3Sm5QM1FaeHVvN0JqeDFsRU9TdnhzM1JOTTV3UzNTV3lmWk4td1p2d09ONG4zNzJDRnpCTjc2UGJoQlh2U1psYzFBblBVeklJMUpvNGhKQlE3SXJ3WHRqaTJRZ25MczJZOUF1dncxMUFzT3lvekFDeWRBTnd2SGlXNUNTV05QdjM2Q09iXzlRcnJVcXdWLWkwS3d3?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T22:59:09+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnp3aVZtUE0zVFhiclg1UE5fbXF4c3llQl84cllWYVU3Q1IyUTZCZjF0TS00Rmp2MmFwM2tCZEM5QjBiSzdqc1lZeGI0RmVVRFZNcDB4bm5Va3duTHhfYmJDQUFqTDhuTUE0QTVDWGJWVThub3JueE1ONVpjcV9GU0l3cDY5azBhMFFLczl1UHdzbnNuVFlOZUFDVG9MZWx1ZVM4Z3RlQ0JFakptd3A0S1dvb0laWTF0azZNV0tualU3QQ?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-10-29T01:35:49+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 4,
       "event_signature": "292 329 com director gary investing pfeiffer sells shares"
     },
     {
@@ -2983,36 +3067,6 @@
       "event_signature": "clients hack system used"
     },
     {
-      "id": "c63c494a0236575b9e7d",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ...",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUC11SFAtLVFKU1hWMXJ2QXU4Nm1zSWdPcUc1akF1TU1BbkxCZU5pd2hULTVkem4zcF9rZWpvNVpOTmdWVVpBb2tmcDYzUVhyRVhoSWYwVkl4ZjM1WFh3Ymx6ODl0R1VCQk5lM2ZERjNJYWtKb2dwQVgyVXY2ZV9Xclg5cEM0aDg1azEtTGdDM05TM3M?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ... By GuruFocus Investing.com Canada",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-22T21:06:03+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUC11SFAtLVFKU1hWMXJ2QXU4Nm1zSWdPcUc1akF1TU1BbkxCZU5pd2hULTVkem4zcF9rZWpvNVpOTmdWVVpBb2tmcDYzUVhyRVhoSWYwVkl4ZjM1WFh3Ymx6ODl0R1VCQk5lM2ZERjNJYWtKb2dwQVgyVXY2ZV9Xclg5cEM0aDg1azEtTGdDM05TM3M?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-22T21:06:03+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNm9mN2Ftd0xobGx0cjl1YU1qal9COFZSd1lOT2NWRlFKN1F4OFQ5NXFOTW91U09yWjdCOERhUUZqeVRSUmx2QVBKUzE4X1lOWms2ZTR1eHJqR1luZjA4dlhaYzRoSUtTdXdPMy1PWU5MWWx5cE44aHFxRVJVUkpIV29ScmppY1RDTHRsQkZVR0FHSzRRTXZhZ1ZXMDIxYnB6eFg3SV9QZDZSQWdRa0l0RGYtdkpVUHNqYWpwbzVEb1ZPNS1iN2xjdW94ald1VnktZFp3?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-10-22T23:22:35+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 call digit double earnings growth highlights revenue"
-    },
-    {
       "id": "a547d30582e674cc50f1",
       "company": "Quest Diagnostics",
       "title": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened",
@@ -4207,36 +4261,6 @@
       "event_signature": "13c eps guidance raises tops"
     },
     {
-      "id": "eb90ad44aff56c3ae63e",
-      "company": "Labcorp",
-      "title": "Labcorp to buy Myriad’s prenatal health testing unit for $210M",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5",
-      "description": "Labcorp to buy Myriad’s prenatal health testing unit for $210M Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-22T10:50:03+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-22T10:50:03+00:00"
-        },
-        {
-          "name": "MedTech Dive",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
-          "domain": "medtechdive.com",
-          "published_at": "2026-10-22T14:09:45+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "210m buy health myriad prenatal testing unit"
-    },
-    {
       "id": "b58151609ed820328c96",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Latest Press Releases & Corporate News",
@@ -4595,6 +4619,66 @@
       ],
       "coverage_count": 46,
       "event_signature": "affecting breach certain cyber patient records"
+    },
+    {
+      "id": "eb90ad44aff56c3ae63e",
+      "company": "Labcorp",
+      "title": "Labcorp to buy Myriad’s prenatal health testing unit for $210M",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5",
+      "description": "Labcorp to buy Myriad’s prenatal health testing unit for $210M Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWJiTXdqeUNFdU9ULWhFS3B4YnhIbUU0Qk9yT1RsWjQ5eGVtNEhsZnExTkpQY05hMGdGdjZ4MVRJTEZPMy1HTkZIN3owUDdSeHVaU1laNkF1TzJSdEtFOTVaVlNOdTFManNFRVBodnVVb2IyWkhfQjhCWmJpRFNQNjBYNGpqRFRFR1lFOG5OSTI2U1VlVkFMa1FwTQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-22T14:09:45+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "210m buy health myriad prenatal testing unit"
+    },
+    {
+      "id": "c63c494a0236575b9e7d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ...",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUC11SFAtLVFKU1hWMXJ2QXU4Nm1zSWdPcUc1akF1TU1BbkxCZU5pd2hULTVkem4zcF9rZWpvNVpOTmdWVVpBb2tmcDYzUVhyRVhoSWYwVkl4ZjM1WFh3Ymx6ODl0R1VCQk5lM2ZERjNJYWtKb2dwQVgyVXY2ZV9Xclg5cEM0aDg1azEtTGdDM05TM3M?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) (Q3 2026) Earnings Call Highlights: Double-Digit Revenue Growth, ... By GuruFocus Investing.com Canada",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUC11SFAtLVFKU1hWMXJ2QXU4Nm1zSWdPcUc1akF1TU1BbkxCZU5pd2hULTVkem4zcF9rZWpvNVpOTmdWVVpBb2tmcDYzUVhyRVhoSWYwVkl4ZjM1WFh3Ymx6ODl0R1VCQk5lM2ZERjNJYWtKb2dwQVgyVXY2ZV9Xclg5cEM0aDg1azEtTGdDM05TM3M?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNm9mN2Ftd0xobGx0cjl1YU1qal9COFZSd1lOT2NWRlFKN1F4OFQ5NXFOTW91U09yWjdCOERhUUZqeVRSUmx2QVBKUzE4X1lOWms2ZTR1eHJqR1luZjA4dlhaYzRoSUtTdXdPMy1PWU5MWWx5cE44aHFxRVJVUkpIV29ScmppY1RDTHRsQkZVR0FHSzRRTXZhZ1ZXMDIxYnB6eFg3SV9QZDZSQWdRa0l0RGYtdkpVUHNqYWpwbzVEb1ZPNS1iN2xjdW94ald1VnktZFp3?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-22T23:22:35+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 call digit double earnings growth highlights revenue"
     },
     {
       "id": "e27021cea6e4f79ec8df",
@@ -16097,10 +16181,10 @@
       "event_signature": "2026 acquisitions aug list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 59,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-30T12:17:00+05:30",
-  "next_update_display": "30 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-10-31T00:17:00+05:30",
+  "next_update_display": "31 Oct 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
