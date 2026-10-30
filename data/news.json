@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-30T04:29:23.643703+05:30",
-  "generated_at_display": "30 Oct 2026, 4:29 AM IST",
-  "item_count": 519,
-  "raw_relevant_item_count": 714,
-  "duplicates_merged": 135,
+  "generated_at": "2026-10-30T11:59:40.844566+05:30",
+  "generated_at_display": "30 Oct 2026, 11:59 AM IST",
+  "item_count": 521,
+  "raw_relevant_item_count": 723,
+  "duplicates_merged": 143,
   "failures": [],
   "items": [
+    {
+      "id": "aa779c48170cc6bdc65c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0IxaTgxUTBMU2FqQWl3MTRYa01jQjNIWHBtWWpzRVBUZThUME1LZ21OTWFYNDB6aVJoeXNZcnhSOWpxRUliZDktRDBHSEFmRWFwQ2c2dmJkbWtmelBwSVprUVBveUJ6VWNxNTF4bmFkMmN1U25td0cyMUR3U21uWUZIZFQzMHZxVWZHS1FoemVfOHAyZE5QcFlGNG1TTkFqYVZ6ZXpfbFM1SzExS0Rib0RhRXY3R08xYl9JWjln?oc=5",
+      "description": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-10-30T02:04:35+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0IxaTgxUTBMU2FqQWl3MTRYa01jQjNIWHBtWWpzRVBUZThUME1LZ21OTWFYNDB6aVJoeXNZcnhSOWpxRUliZDktRDBHSEFmRWFwQ2c2dmJkbWtmelBwSVprUVBveUJ6VWNxNTF4bmFkMmN1U25td0cyMUR3U21uWUZIZFQzMHZxVWZHS1FoemVfOHAyZE5QcFlGNG1TTkFqYVZ6ZXpfbFM1SzExS0Rib0RhRXY3R08xYl9JWjln?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-30T02:04:35+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "227 eur late october quote stock"
+    },
     {
       "id": "b43c80d91b5b83ede281",
       "company": "Labcorp",
@@ -29,6 +53,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "drug expands hpv regulators safety teaming testing while"
+    },
+    {
+      "id": "ddbd390e6066e93922db",
+      "company": "Labcorp",
+      "title": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDNsRzlibmZUTXF2U2tqT0dmdXpMdXZoYTI3UGtLX2s2WGE2S3NWdEdFM0d5dUlid1RNRzRDUzFiNUV4NksxaUtvRUpKN1VQcWdkZVFvVktmQm5rQ3FYcURqTXVvUkl0UmgwX01wSkYzMldtSnBvX3k0UmVDRUxGNTNmWnNoWEMxVHBCbHY1R2JfVGpPU3RBdEJlcGZwc2V6U2lwVE9HeFR0N00?oc=5",
+      "description": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting! UFCW 3000",
+      "source": "UFCW 3000",
+      "source_url": "https://ufcw3000.org",
+      "source_domain": "ufcw3000.org",
+      "published_at": "2026-10-29T17:47:51+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "UFCW 3000",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDNsRzlibmZUTXF2U2tqT0dmdXpMdXZoYTI3UGtLX2s2WGE2S3NWdEdFM0d5dUlid1RNRzRDUzFiNUV4NksxaUtvRUpKN1VQcWdkZVFvVktmQm5rQ3FYcURqTXVvUkl0UmgwX01wSkYzMldtSnBvX3k0UmVDRUxGNTNmWnNoWEMxVHBCbHY1R2JfVGpPU3RBdEJlcGZwc2V6U2lwVE9HeFR0N00?oc=5",
+          "domain": "ufcw3000.org",
+          "published_at": "2026-10-29T17:47:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action contract join meeting stonewalling team"
     },
     {
       "id": "584d355b8e90860562b9",
@@ -1381,9 +1429,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-10-26T14:22:39+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTRydVBIZ01OZDZpMVBCRkNiMEZCT0tudkFKVEJ2OTM3SEVMQzBRNm5hMmtnQTliVW5DWWJCRGQ1dUE2dXpKMmlLVEhUQVd2di0zMGRmY1RBV2lNZ3ZGWm9PRlk5clBWZmRZbWs2cnZPcUo3VGZCWHE4cTM3UnQ5NTJuUVVwLXJRcVEtZXFyNnhyS09nVE9rSnplY05ORnFTN3NJOUduVkpqZw?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-26T14:26:31+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "144 com form investing october"
     },
     {
@@ -2521,9 +2575,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQWQtcFFrWE5GZVp6NzluS2Y4UGpwbGhxMDJfbDc5eERYYXMxbEMzVmFsdEZfd01KNDdoblRaMTZneDJYbk16ZVFuUlViYV9idVRHc3FuYUJSal9HQUVIMkdIOTdIQi1XMmdXNXA1ZXFrbDZ0WDA1azhSZmw4M25hSU1xeEw4T2ZZUjJNYXBmRUJRRFpUOGlDMWxBak0yTnVJVzhmeFZDZndjdzNpUmE5eHdfNWRxQkNxeEdIM0hiRDB6WTljUjM0MW94NUlqeUdYU1RsZXZWcW11Y3F6Yjl5RU5xa3JwazgyT09WejNzTXNfek44WnlFTXhBZEJCR3dUdFgtNXl0cnZucGFCbnlHYXA5cU45SWwtQTVybUhRYlk0R0RoY0xiVmJsMA?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-10-23T12:00:00+00:00"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRy1DcjNIRUF1b0Z3SE9HcUQtNFhBQ1FFMnY3WE1jMUZpeXFVVjNJR0gzMHhPSE53djZpTHdfT0xoNXJGQ09lRUotbGEwSGZ0SnB4dl9EQnl1a3lEQVhKU01QbjhEdmJLcEQ4ZUVGSFhpQW5TblpJU0VVTm5hWkVVSHExV2hMbUpr?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-27T15:31:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
@@ -16037,10 +16097,10 @@
       "event_signature": "2026 acquisitions aug list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 56,
+  "post_prune_financial_duplicates_merged": 3,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-30T06:17:00+05:30",
-  "next_update_display": "30 Oct 2026, 6:17 AM IST",
+  "next_update_at": "2026-10-30T12:17:00+05:30",
+  "next_update_display": "30 Oct 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
