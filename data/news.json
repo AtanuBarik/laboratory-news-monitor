@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-10-30T19:07:41.865579+05:30",
-  "generated_at_display": "30 Oct 2026, 7:07 PM IST",
-  "item_count": 524,
-  "raw_relevant_item_count": 742,
-  "duplicates_merged": 158,
+  "generated_at": "2026-10-31T04:09:34.810143+05:30",
+  "generated_at_display": "31 Oct 2026, 4:09 AM IST",
+  "item_count": 528,
+  "raw_relevant_item_count": 715,
+  "duplicates_merged": 127,
   "failures": [],
   "items": [
+    {
+      "id": "151570963751764ca91b",
+      "company": "Labcorp",
+      "title": "Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5",
+      "description": "Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests Bloomberg Law News",
+      "source": "Bloomberg Law News",
+      "source_url": "https://news.bloomberglaw.com",
+      "source_domain": "news.bloomberglaw.com",
+      "published_at": "2026-10-30T21:42:00+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5",
+          "domain": "news.bloomberglaw.com",
+          "published_at": "2026-10-30T21:42:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "gene hopkins johns over patented prenatal sues tests"
+    },
+    {
+      "id": "aff3094b5182b51a7cfe",
+      "company": "Labcorp",
+      "title": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5",
+      "description": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "source_domain": "medtechdive.com",
+      "published_at": "2026-10-30T15:37:42+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-30T15:37:42+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "act cuts lab loom passage payment results urge"
+    },
+    {
+      "id": "297e15528e8415a67b70",
+      "company": "Labcorp",
+      "title": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmJhS1JYQzRLSll4SVVrRnFkbm1XM291VXNIaURfNHJRS1J6elVzNXZLal9xNWJ4TEppV1VGTDhwQXptdFh0X19vaU5QZDM0NGZrVUpPd01XTk1DUW9OYkpLZktCYllLZW02NFcyNHhpZ3hyUEFDbnczT2RfZHpSUFAybEdhbzVFd3lVZFNmOEllVndWMk5Va1I3TUNYSzg?oc=5",
+      "description": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 BioBuzz",
+      "source": "BioBuzz",
+      "source_url": "https://biobuzz.io",
+      "source_domain": "biobuzz.io",
+      "published_at": "2026-10-30T12:32:19+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "BioBuzz",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmJhS1JYQzRLSll4SVVrRnFkbm1XM291VXNIaURfNHJRS1J6elVzNXZLal9xNWJ4TEppV1VGTDhwQXptdFh0X19vaU5QZDM0NGZrVUpPd01XTk1DUW9OYkpLZktCYllLZW02NFcyNHhpZ3hyUEFDbnczT2RfZHpSUFAybEdhbzVFd3lVZFNmOEllVndWMk5Va1I3TUNYSzg?oc=5",
+          "domain": "biobuzz.io",
+          "published_at": "2026-10-30T12:32:19+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
+    },
     {
       "id": "4166adbd36cfd0a2ff0c",
       "company": "Quest Diagnostics",
@@ -1439,6 +1511,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "after also alzheimer announcing strong test upgraded while"
+    },
+    {
+      "id": "99735819f3e4f219b3d6",
+      "company": "Quest Diagnostics",
+      "title": "Cybercriminals breach Quest Diagnostics’ lab management system, gaining access to patient records",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjVCODFUQzAzbjJVWVRwSl91WjNfLXNmZ0E4c09ScEU2MUs5M0RzTGk5WWZta2RSQkpGMERmMkkzYkVWejEtVXNUc0NHNGROTV9YX3ZZYVZNOXpTUGFnZXdCaFNjcFhvbk9SWTJhZldMb3o3dWNLc2hkWDFVN2Rjald3dmNVeHp3OEhRLUZBVmNtNTBpaW5YYzNzdXZ1N0xZamlBUjYyU0dabUZQbl83VGFQdFBULW1SZ1BDMTVGWG5aRVRvZzBRM2p6SGlyMHk1d09DYWZ1SXlYTjYtLXJF?oc=5",
+      "description": "Cybercriminals breach Quest Diagnostics’ lab management system, gaining access to patient records HealthExec",
+      "source": "HealthExec",
+      "source_url": "https://healthexec.com",
+      "source_domain": "healthexec.com",
+      "published_at": "2026-10-26T21:49:36+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "HealthExec",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjVCODFUQzAzbjJVWVRwSl91WjNfLXNmZ0E4c09ScEU2MUs5M0RzTGk5WWZta2RSQkpGMERmMkkzYkVWejEtVXNUc0NHNGROTV9YX3ZZYVZNOXpTUGFnZXdCaFNjcFhvbk9SWTJhZldMb3o3dWNLc2hkWDFVN2Rjald3dmNVeHp3OEhRLUZBVmNtNTBpaW5YYzNzdXZ1N0xZamlBUjYyU0dabUZQbl83VGFQdFBULW1SZ1BDMTVGWG5aRVRvZzBRM2p6SGlyMHk1d09DYWZ1SXlYTjYtLXJF?oc=5",
+          "domain": "healthexec.com",
+          "published_at": "2026-10-26T21:49:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access breach cybercriminals gaining lab management patient records system"
     },
     {
       "id": "263f284fb8a6acfe857f",
@@ -3067,54 +3163,6 @@
       "event_signature": "clients hack system used"
     },
     {
-      "id": "a547d30582e674cc50f1",
-      "company": "Quest Diagnostics",
-      "title": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5",
-      "description": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened FOX6 News Milwaukee",
-      "source": "LiveNOW from FOX",
-      "source_url": "https://www.livenowfox.com",
-      "source_domain": "livenowfox.com",
-      "published_at": "2026-10-22T20:56:38+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "LiveNOW from FOX",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5",
-          "domain": "livenowfox.com",
-          "published_at": "2026-10-22T20:56:38+00:00"
-        },
-        {
-          "name": "KTVU",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM21NX3F1cUF0YWt4THc1RjFVem9LTTg4Y2Y2TVNhNEFqTkl5Ykx4WFF6eXVIREZVemctT3ZfSHRhVmZqOHhjUTdYNDYyYjR6QW1wczhYTHpJRW9wM2xHUTQ4bFI2VDgxcV85NHFaNlJGVVZ3Sy1hdFFndi1KRDBpWEdEUjVWQUtYcEtXSUFQNVd4SjNoMmtwV0Q3Y0ZQMFNtdEFwd1oyOGxpSVpt?oc=5",
-          "domain": "ktvu.com",
-          "published_at": "2026-10-22T20:56:38+00:00"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-10-22T20:56:38+00:00"
-        },
-        {
-          "name": "FOX6 News Milwaukee",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5",
-          "domain": "fox6now.com",
-          "published_at": "2026-10-22T20:56:38+00:00"
-        },
-        {
-          "name": "FOX 29 Philadelphia",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5",
-          "domain": "fox29.com",
-          "published_at": "2026-10-22T20:56:38+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "been compromised data happened have here may used what you your"
-    },
-    {
       "id": "961ad4bbea94d0876965",
       "company": "Labcorp",
       "title": "Charles River, Labcorp, and FDA sign drug abuse potential research pact",
@@ -4003,84 +4051,6 @@
       "event_signature": "02b 07b 11b 2026 est expects factset range revenue"
     },
     {
-      "id": "7cc2458d4dbd74f66874",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics reports unauthorized access to patient records system",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
-      "description": "Quest Diagnostics Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Unauthorized Access to Patient Records PR Newswire",
-      "source": "StreetInsider",
-      "source_url": "https://www.streetinsider.com",
-      "source_domain": "streetinsider.com",
-      "published_at": "2026-10-22T10:58:25+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "StreetInsider",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
-          "domain": "streetinsider.com",
-          "published_at": "2026-10-22T10:58:25+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORk8yLWdnSzZQUE9kTWxNYnNaYXd1VHNVWGs2LXBMaTByX1FUdFg0QnlkaHRJcHh4bjk0OW5CUGg4bmJKY09JZ2E0V1QzQVhpQXJzdjBvSWduMkprSUVSZFBqX3l5WGQxMlJmcFlDLW9acDk3Y0JCT3BTWjl5YnFoNGUtWlRXaTFlcVdLSmxkYUVVbkdhWlVsckg4ZWdzR1FjQTZnMEVORktMbUtnLVZKSUJIcHZOLXVOVXBhM2F6SmNtRzBhOGpXUVBaNzg4MnNTMXF6bXpDdklka2VfUFVqQkJPWlhIUQ?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-22T11:54:54+00:00"
-        },
-        {
-          "name": "Mezha.net",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWV4VmRVYnN2c2UwWTRmSkF6QXlsSDJHV25HM29PT3VqM2lzMEYydVZwZkREY2c2dEhPMTVVVm1GMkJPZmJ6SkFZMEEtV0lDYzZCN2E3VFNyZEE1VHNJRnRUdjhORS1rYWRIWVpCNlV5VC1ueUl3UXFvU25fOVc4V0lxYnZNSzFqUkpvSUd2d09XMUk?oc=5",
-          "domain": "mezha.net",
-          "published_at": "2026-10-22T12:44:17+00:00"
-        },
-        {
-          "name": "Gizmodo",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFlV01UUDZzYzRTNFVqS2V0bm9IRnpLdHdGNVlRVDRWZFktb2ZqSlVBLWx5Qm5EOTZWM1pBOVZZeUhwWks4bmtmMmh3akNLazVqRUNaOVVwNWdRZFVGSE5oTjNHNkNndGxGa1p2TXJhc3dfUmNveVh3OXltWE1rV09PQzRab1lvaXNXbW02OFBsMmVQNXpRT1VEVQ?oc=5",
-          "domain": "gizmodo.com",
-          "published_at": "2026-10-22T17:05:28+00:00"
-        },
-        {
-          "name": "Minichart",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXBKdjE4QWxEVnB3M1lxZjJ1RkxRbFJ5TnlHelhfdkZ4eWQ5Z3ktN2ZHTFZuSjRJQ3UwOGFubjFBRXBFb0tRZVVUdHBYaVhNdnBpMEJyQzZvcksxUVFJb0s0SnZGcVFGQ0ptRzgtZTEyc3Z5X2hFOHFGNGpPVy1RZ3NBUzdNZzRBdkVISnlYNkhiVmVJT3gzRXdsMi1ibFBWcE83TEswbjVQc2F2Nnc?oc=5",
-          "domain": "minichart.com.sg",
-          "published_at": "2026-10-22T15:14:00+00:00"
-        },
-        {
-          "name": "WRNJ Radio",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHUtbnNZMHVKYWV1N0diWC0zMlBGc01Fc3pVNDRpQXktZEg3cWp4RGRyZ1J6bU1PLWdtQ2dDMmFYazdwRDgtNU9Qb0hMWG1IeHVjY0dBYW43M1RIVndQMUJuclJnMG9MSHNFdnplNUtlMS1wb09Wd0dfMVFiaXdHSTVmVi1YZl9KZGdtU3NZOHozMkRJa1VZekJFU1hXNDRtallZdHJteU11MkRGcWhibUNXdzRCbzM5YXJqMWk4Y2tuUUxTVWpjU1lCMW9BQQ?oc=5",
-          "domain": "wrnjradio.com",
-          "published_at": "2026-10-23T10:43:26+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkpFNlpxY1dYS1gxdXRyMjZXT1Z2QlhndWlqY1g5VmlSUmdzbzBhRGpwdDlmeUJDVEpnWkJ3VzJKUWcxbUFjdXBwY0VNUnVPcm5jRldfQi1JMWEyMmdMb0dkS3pTOTJkVDh1T0d2SEpWd01QbWE3amRCbXBGSmhTQllLcWV4dU5OTFdqZl9oSWZsSzZ4SXRXZlVqY3dMZERveGl4dVlhR0FfV1VkYnQxZHlQajJNbWxCNXgwZDVxZHhGcTFGUHBaYjF6SzdYWFZGT2w0WWEzRWZOZWxBb1V5SUhtN3dFRUhvMDhQWlJUWmNiTjJLaS05VmhXOWF0WXpzVjJSZ25mM25vQ1YtWTV4YVJSVV9tYWd2dTM4bA?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-23T21:12:00+00:00"
-        },
-        {
-          "name": "NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUpDZDB5b3NRcVFzRWtFdHRfWG5YbmVUTkVXNGtzZ2Z5bkplc3Zid182QTNpeWVadzFZRG4tTDBESTY1ckE2ZnFXcm53cld0S3VHcUpiTlJjaEF5TElVelVBcGUyS3cwVS13a0hiS1hhSUoyZ25MQlhDclplVnpvTUpOdE9LYXFhZGwzZ2JxZ01CNHdpNEMwbE5CYVhjeG5aYjZFNGlYTEx4Q3dJUnZNTDU1eFQxeGV0bVM0WElYRTNJWWxzbUxLY3hNb1NYbGNia0hSUXB5eW1TeHhicnhlRV81VkJXTVFEUVE?oc=5",
-          "domain": "newscord.org",
-          "published_at": "2026-10-23T17:29:38+00:00"
-        },
-        {
-          "name": "teiss",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnV1dHFnb2lldGlXSmRLRzloOWVXSmFzRHFLMWFkVExRWGNma2VGRm5zYU1CLW13d2VuNlNwcFZTX3JXQjNDLVVpRWRkUlQ1RjZ3NlJfajhyZHVoNlhoc09YVHN4NVc1dzAwTGtETHk4WjJpZ0FoZVdpYWc0ZDZXUXBwQ05jcGR6RUljclZTd21sUlppOHFJTDJNSlcyWW1hc3RtWEpSTk13VXdVOW9TT2NzdVVubzJ3WGpDRDhqcF94dw?oc=5",
-          "domain": "teiss.co.uk",
-          "published_at": "2026-10-26T12:06:24+00:00"
-        },
-        {
-          "name": "HealthExec",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjVCODFUQzAzbjJVWVRwSl91WjNfLXNmZ0E4c09ScEU2MUs5M0RzTGk5WWZta2RSQkpGMERmMkkzYkVWejEtVXNUc0NHNGROTV9YX3ZZYVZNOXpTUGFnZXdCaFNjcFhvbk9SWTJhZldMb3o3dWNLc2hkWDFVN2Rjald3dmNVeHp3OEhRLUZBVmNtNTBpaW5YYzNzdXZ1N0xZamlBUjYyU0dabUZQbl83VGFQdFBULW1SZ1BDMTVGWG5aRVRvZzBRM2p6SGlyMHk1d09DYWZ1SXlYTjYtLXJF?oc=5",
-          "domain": "healthexec.com",
-          "published_at": "2026-10-26T21:49:36+00:00"
-        }
-      ],
-      "coverage_count": 10,
-      "event_signature": "access patient records system unauthorized"
-    },
-    {
       "id": "a7353801516950b50e08",
       "company": "Quest Diagnostics",
       "title": "Earnings Flash Quest Diagnostics Posts Q3 Adjusted EPS $3.00 per Share, vs. FactSet Est of $2.87",
@@ -4615,9 +4585,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzBDLVE5ZjJiZl9WT0doNlBkRVNVNTdJMHZBRk5kV1Y1WEZ0TTJoRlJtVWZtU1FBRDByNDdyR3BfazJWalNJV2hjN2xxYmphR2I1Ui1mdXRaLWlwTWdtdU5UUGNvN1dIdkZoNnUyckE4UkxOcUlQOEQ4NjZuVHBKaHBDNVEySEF5OFpZLVl0dVQ1cF9seEd5M0JnTlZIS0lGTWhXQXFPWTg?oc=5",
           "domain": "kalb.com",
           "published_at": "2026-10-22T17:04:00+00:00"
+        },
+        {
+          "name": "Traverse City Record-Eagle",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYlh3MTZFckdIOFdTOUFzZW5CckpYTlVHeFdlOS1GT1Rkck9xU0pTSEdZdWlkdmQtNkM0RXdsdmJ4aHdRaDFsNWFFRkhNbVlPN3lIb053VGljcXRIS3UwLXFwWEdhWUVWaFlFWm8xdER3M1Q5SDNrM1ZLNUZjLU0wZ0hlNUU2R2RGMU5iTi0tTlJTTmtDVS11Z2hZVlJBeTFaOUZmM3Rpd2ZsOUg3WHhNOThBMDA3MGhSVmgxM0ZUbVFnSGRSeVEwMjVrQkxPMzFJYXRpRmE5R0M5ZndDZzNGcDlKeExTZE1UblF4NHZkX3hHLVR3cWc?oc=5",
+          "domain": "record-eagle.com",
+          "published_at": "2026-10-22T15:09:57+00:00"
         }
       ],
-      "coverage_count": 46,
+      "coverage_count": 47,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -4679,6 +4655,132 @@
       ],
       "coverage_count": 2,
       "event_signature": "2026 call digit double earnings growth highlights revenue"
+    },
+    {
+      "id": "a547d30582e674cc50f1",
+      "company": "Quest Diagnostics",
+      "title": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5",
+      "description": "If you used Quest Diagnostics, your data may have been compromised: Here’s what happened FOX6 News Milwaukee",
+      "source": "LiveNOW from FOX",
+      "source_url": "https://www.livenowfox.com",
+      "source_domain": "livenowfox.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "LiveNOW from FOX",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5",
+          "domain": "livenowfox.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "KTVU",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM21NX3F1cUF0YWt4THc1RjFVem9LTTg4Y2Y2TVNhNEFqTkl5Ykx4WFF6eXVIREZVemctT3ZfSHRhVmZqOHhjUTdYNDYyYjR6QW1wczhYTHpJRW9wM2xHUTQ4bFI2VDgxcV85NHFaNlJGVVZ3Sy1hdFFndi1KRDBpWEdEUjVWQUtYcEtXSUFQNVd4SjNoMmtwV0Q3Y0ZQMFNtdEFwd1oyOGxpSVpt?oc=5",
+          "domain": "ktvu.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "FOX6 News Milwaukee",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5",
+          "domain": "fox6now.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "FOX 29 Philadelphia",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5",
+          "domain": "fox29.com",
+          "published_at": "2026-10-22T20:56:38+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "been compromised data happened have here may used what you your"
+    },
+    {
+      "id": "e2561b927bbac0453e42",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Reports Unauthorized Access of Patient Records",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFlV01UUDZzYzRTNFVqS2V0bm9IRnpLdHdGNVlRVDRWZFktb2ZqSlVBLWx5Qm5EOTZWM1pBOVZZeUhwWks4bmtmMmh3akNLazVqRUNaOVVwNWdRZFVGSE5oTjNHNkNndGxGa1p2TXJhc3dfUmNveVh3OXltWE1rV09PQzRab1lvaXNXbW02OFBsMmVQNXpRT1VEVQ?oc=5",
+      "description": "Quest Diagnostics Data Breach Investigation: Edelson Lechtzin LLP Probes Class Action Claims After Unauthorized Access to Patient Records PR Newswire",
+      "source": "Gizmodo",
+      "source_url": "https://gizmodo.com",
+      "source_domain": "gizmodo.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQlFlV01UUDZzYzRTNFVqS2V0bm9IRnpLdHdGNVlRVDRWZFktb2ZqSlVBLWx5Qm5EOTZWM1pBOVZZeUhwWks4bmtmMmh3akNLazVqRUNaOVVwNWdRZFVGSE5oTjNHNkNndGxGa1p2TXJhc3dfUmNveVh3OXltWE1rV09PQzRab1lvaXNXbW02OFBsMmVQNXpRT1VEVQ?oc=5",
+          "domain": "gizmodo.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNemNIeG5ROXJfLXUwVHo5d1NUOFR5MW5XWjhzSkVDM0hJU0NtbUpERC1sNmZYRklITGZYdnVINmptMmtWZ0xyY2syN2N0bXJSZGJ4R05GOVhrcGczNGxrcGZHOENLelh4cUVQa1ZmV1Z2a1BsOEFmSUZRaVBIS2JkS2VZREhoTnVvdk1mOFFDa0Y4QWxPNVgyWTVvdTNKLWRnWjNNb2xQbU8ybGVVR2ZBNHpab1ZQMERHR0V0QmtHNENreFU1ZmxwRDZn?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-22T10:58:25+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORk8yLWdnSzZQUE9kTWxNYnNaYXd1VHNVWGs2LXBMaTByX1FUdFg0QnlkaHRJcHh4bjk0OW5CUGg4bmJKY09JZ2E0V1QzQVhpQXJzdjBvSWduMkprSUVSZFBqX3l5WGQxMlJmcFlDLW9acDk3Y0JCT3BTWjl5YnFoNGUtWlRXaTFlcVdLSmxkYUVVbkdhWlVsckg4ZWdzR1FjQTZnMEVORktMbUtnLVZKSUJIcHZOLXVOVXBhM2F6SmNtRzBhOGpXUVBaNzg4MnNTMXF6bXpDdklka2VfUFVqQkJPWlhIUQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T11:54:54+00:00"
+        },
+        {
+          "name": "Mezha.net",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZWV4VmRVYnN2c2UwWTRmSkF6QXlsSDJHV25HM29PT3VqM2lzMEYydVZwZkREY2c2dEhPMTVVVm1GMkJPZmJ6SkFZMEEtV0lDYzZCN2E3VFNyZEE1VHNJRnRUdjhORS1rYWRIWVpCNlV5VC1ueUl3UXFvU25fOVc4V0lxYnZNSzFqUkpvSUd2d09XMUk?oc=5",
+          "domain": "mezha.net",
+          "published_at": "2026-10-22T12:44:17+00:00"
+        },
+        {
+          "name": "Minichart",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXBKdjE4QWxEVnB3M1lxZjJ1RkxRbFJ5TnlHelhfdkZ4eWQ5Z3ktN2ZHTFZuSjRJQ3UwOGFubjFBRXBFb0tRZVVUdHBYaVhNdnBpMEJyQzZvcksxUVFJb0s0SnZGcVFGQ0ptRzgtZTEyc3Z5X2hFOHFGNGpPVy1RZ3NBUzdNZzRBdkVISnlYNkhiVmVJT3gzRXdsMi1ibFBWcE83TEswbjVQc2F2Nnc?oc=5",
+          "domain": "minichart.com.sg",
+          "published_at": "2026-10-22T15:14:00+00:00"
+        },
+        {
+          "name": "WRNJ Radio",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHUtbnNZMHVKYWV1N0diWC0zMlBGc01Fc3pVNDRpQXktZEg3cWp4RGRyZ1J6bU1PLWdtQ2dDMmFYazdwRDgtNU9Qb0hMWG1IeHVjY0dBYW43M1RIVndQMUJuclJnMG9MSHNFdnplNUtlMS1wb09Wd0dfMVFiaXdHSTVmVi1YZl9KZGdtU3NZOHozMkRJa1VZekJFU1hXNDRtallZdHJteU11MkRGcWhibUNXdzRCbzM5YXJqMWk4Y2tuUUxTVWpjU1lCMW9BQQ?oc=5",
+          "domain": "wrnjradio.com",
+          "published_at": "2026-10-23T10:43:26+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNbkpFNlpxY1dYS1gxdXRyMjZXT1Z2QlhndWlqY1g5VmlSUmdzbzBhRGpwdDlmeUJDVEpnWkJ3VzJKUWcxbUFjdXBwY0VNUnVPcm5jRldfQi1JMWEyMmdMb0dkS3pTOTJkVDh1T0d2SEpWd01QbWE3amRCbXBGSmhTQllLcWV4dU5OTFdqZl9oSWZsSzZ4SXRXZlVqY3dMZERveGl4dVlhR0FfV1VkYnQxZHlQajJNbWxCNXgwZDVxZHhGcTFGUHBaYjF6SzdYWFZGT2w0WWEzRWZOZWxBb1V5SUhtN3dFRUhvMDhQWlJUWmNiTjJLaS05VmhXOWF0WXpzVjJSZ25mM25vQ1YtWTV4YVJSVV9tYWd2dTM4bA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-23T21:12:00+00:00"
+        },
+        {
+          "name": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaUpDZDB5b3NRcVFzRWtFdHRfWG5YbmVUTkVXNGtzZ2Z5bkplc3Zid182QTNpeWVadzFZRG4tTDBESTY1ckE2ZnFXcm53cld0S3VHcUpiTlJjaEF5TElVelVBcGUyS3cwVS13a0hiS1hhSUoyZ25MQlhDclplVnpvTUpOdE9LYXFhZGwzZ2JxZ01CNHdpNEMwbE5CYVhjeG5aYjZFNGlYTEx4Q3dJUnZNTDU1eFQxeGV0bVM0WElYRTNJWWxzbUxLY3hNb1NYbGNia0hSUXB5eW1TeHhicnhlRV81VkJXTVFEUVE?oc=5",
+          "domain": "newscord.org",
+          "published_at": "2026-10-23T17:29:38+00:00"
+        },
+        {
+          "name": "teiss",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRnV1dHFnb2lldGlXSmRLRzloOWVXSmFzRHFLMWFkVExRWGNma2VGRm5zYU1CLW13d2VuNlNwcFZTX3JXQjNDLVVpRWRkUlQ1RjZ3NlJfajhyZHVoNlhoc09YVHN4NVc1dzAwTGtETHk4WjJpZ0FoZVdpYWc0ZDZXUXBwQ05jcGR6RUljclZTd21sUlppOHFJTDJNSlcyWW1hc3RtWEpSTk13VXdVOW9TT2NzdVVubzJ3WGpDRDhqcF94dw?oc=5",
+          "domain": "teiss.co.uk",
+          "published_at": "2026-10-26T12:06:24+00:00"
+        },
+        {
+          "name": "HealthExec",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjVCODFUQzAzbjJVWVRwSl91WjNfLXNmZ0E4c09ScEU2MUs5M0RzTGk5WWZta2RSQkpGMERmMkkzYkVWejEtVXNUc0NHNGROTV9YX3ZZYVZNOXpTUGFnZXdCaFNjcFhvbk9SWTJhZldMb3o3dWNLc2hkWDFVN2Rjald3dmNVeHp3OEhRLUZBVmNtNTBpaW5YYzNzdXZ1N0xZamlBUjYyU0dabUZQbl83VGFQdFBULW1SZ1BDMTVGWG5aRVRvZzBRM2p6SGlyMHk1d09DYWZ1SXlYTjYtLXJF?oc=5",
+          "domain": "healthexec.com",
+          "published_at": "2026-10-26T21:49:36+00:00"
+        }
+      ],
+      "coverage_count": 10,
+      "event_signature": "access patient records unauthorized"
     },
     {
       "id": "e27021cea6e4f79ec8df",
@@ -16181,10 +16283,10 @@
       "event_signature": "2026 acquisitions aug list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 59,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-31T00:17:00+05:30",
-  "next_update_display": "31 Oct 2026, 12:17 AM IST",
+  "next_update_at": "2026-10-31T06:17:00+05:30",
+  "next_update_display": "31 Oct 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
