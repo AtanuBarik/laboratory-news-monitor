@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T11:50:01.466487+05:30",
-  "generated_at_display": "31 Oct 2026, 11:50 AM IST",
-  "item_count": 529,
-  "raw_relevant_item_count": 718,
-  "duplicates_merged": 129,
+  "generated_at": "2026-10-31T18:36:36.972264+05:30",
+  "generated_at_display": "31 Oct 2026, 6:36 PM IST",
+  "item_count": 527,
+  "raw_relevant_item_count": 688,
+  "duplicates_merged": 105,
   "failures": [],
   "items": [
     {
@@ -1021,9 +1021,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTd5STFOazNRVjBBQUNLZDB3OXgtYUpISnJEVjhma3E3eUdvUm1aRUdpZXZ5TWtDREkyZnFPXzloWDNmandUakJ2Y2pUMVpwV1pFWDRCdl9iM1Z6YThXX29kYXgzVTNuWjdiMVFBVFZSOFRVM2lWV0xQemI3VEFTUVk1MmlibVRadTNyay1SUTA0bV9hQTVlel9kLVFYSC1ONXFRWV9EemVPM28?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-28T11:21:26+00:00"
+        },
+        {
+          "name": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVVHNjAxTk1mb2JPMHpTQ2hOa2hCT3l2Ti1zQ2hJOEhzYm9jNE1kUC1pQndKaHpEZi1RNmJXb28zakdiWVZzVHhYeEo5Z21CcDNoTWVKTU84eHpEWERIY3NWYmY2MFRfcGtKeEpjX1paSllwby1GSU1ud1hUUkZRTHRiVTN0WTNocmFQcFBuTllTN3dLb0pXX2FLME1iamRf?oc=5",
+          "domain": "stockstory.org",
+          "published_at": "2026-10-28T11:25:38+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 beat estimates sales"
     },
     {
@@ -1211,7 +1217,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUhmcU9VSGJuZld5UjU3bFNPSm51akhCc3R4bjIxaEc3V0Z4WFVic0xIcUdrOG94dGNlckVjOEVqbFJENjJrclp6S0I2enpoaW1LTTRiODlWemRYWW9zUVktWDR1VXM0S211TURFRVB5Tm9KVjlwY19hQmhlWDVPVGVsemtZRmNvelFZ?oc=5",
-      "description": "Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion Quiver Quantitative",
+      "description": "Labcorp Q3 2026 Revenue Rises to $3.81 Billion, Diluted EPS $3.22 Minichart",
       "source": "Quiver Quantitative",
       "source_url": "https://www.quiverquant.com",
       "source_domain": "quiverquant.com",
@@ -1225,9 +1231,15 @@
           "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUhmcU9VSGJuZld5UjU3bFNPSm51akhCc3R4bjIxaEc3V0Z4WFVic0xIcUdrOG94dGNlckVjOEVqbFJENjJrclp6S0I2enpoaW1LTTRiODlWemRYWW9zUVktWDR1VXM0S211TURFRVB5Tm9KVjlwY19hQmhlWDVPVGVsemtZRmNvelFZ?oc=5",
           "domain": "quiverquant.com",
           "published_at": "2026-10-28T11:01:00+00:00"
+        },
+        {
+          "name": "Minichart",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDZlbUw1czhma0d1dzBWN1BzUTNOa1N2X2ptYlNQc01zYk9GNmtMalNCZlpuQk1OcWgySFIyczlBME1jb3lhdVdrT0prcldIV2pqT0xRdXItSklWa19JWWlpVTM0T19VMk84OUtqS0RDYTlTVjVzQnVqMENjMy1pcmlLTVZNRGhiYTNzeUpCWTBXMHE2UHUxZFRNaWE0ZnIwQVZ5bjdn?oc=5",
+          "domain": "minichart.com.sg",
+          "published_at": "2026-10-31T07:51:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "billion revenue rises"
     },
     {
@@ -2431,30 +2443,6 @@
       "event_signature": "breach cybersecurity discloses"
     },
     {
-      "id": "cd91808e04100afe7033",
-      "company": "Quest Diagnostics",
-      "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
-      "description": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch",
-      "source": "TechCrunch",
-      "source_url": "https://techcrunch.com",
-      "source_domain": "techcrunch.com",
-      "published_at": "2026-10-23T15:00:09+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
-          "domain": "techcrunch.com",
-          "published_at": "2026-10-23T15:00:09+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach compromised confirms data during giant health lab patients personal testing was"
-    },
-    {
       "id": "038403def42ac899868c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked",
@@ -2531,30 +2519,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "affected breach cyber hits may patient records"
-    },
-    {
-      "id": "48dc96c1e502122c74a3",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5",
-      "description": "Quest Diagnostics warns of potential data theft after attack on lab service system The Record from Recorded Future News",
-      "source": "The Record from Recorded Future News",
-      "source_url": "https://therecord.media",
-      "source_domain": "therecord.media",
-      "published_at": "2026-10-23T13:03:56+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Record from Recorded Future News",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5",
-          "domain": "therecord.media",
-          "published_at": "2026-10-23T13:03:56+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after attack data lab potential service system theft warns"
     },
     {
       "id": "8b1eec0bcfd50b96543d",
@@ -2899,6 +2863,54 @@
       "event_signature": "access discloses half hospitals lab manager quantum serves services system unauthorized which"
     },
     {
+      "id": "48dc96c1e502122c74a3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics warns of potential data theft after attack on lab service system",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5",
+      "description": "Quest Diagnostics warns of potential data theft after attack on lab service system The Record from Recorded Future News",
+      "source": "The Record from Recorded Future News",
+      "source_url": "https://therecord.media",
+      "source_domain": "therecord.media",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Record from Recorded Future News",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fdzU2eldqRVFtQXNKS3dPZ3czVWV4UVZCVjZvWlR5dEZnYi1iWjNFNUg1WEZyNUlicjY2Qm82ckR2UUU0RG81dFlwd29uRnV3SGxEVFh6dTJ5TzVkbmU5c2p4c19WLVZHV0xN?oc=5",
+          "domain": "therecord.media",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after attack data lab potential service system theft warns"
+    },
+    {
+      "id": "cd91808e04100afe7033",
+      "company": "Quest Diagnostics",
+      "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
+      "description": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com",
+      "source_domain": "techcrunch.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
+          "domain": "techcrunch.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach compromised confirms data during giant health lab patients personal testing was"
+    },
+    {
       "id": "8e32a8b4f1f82cd31536",
       "company": "Quest Diagnostics",
       "title": "US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed",
@@ -3101,42 +3113,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "abuse advance assessment charles drug fda methods partners river"
-    },
-    {
-      "id": "c690e6c0384a4744ce84",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThpckk5YXVGS3VVSHhPb1pnUDhVVW9fVjMwRDhnLVBpdlRaUklhbmJvRVNWWVJpSGJaREZoOVRfSE52dnBWYlUxcmo5WkxCZmg3TmFxX3o3d1JXaTljM3hpMmJVa2U0UmR4N1JIUkEtTHctbUE5MmpSTGwyYnpzZUxhQ3loZGsyMjIxZUxnell4ZTZUN1Q5OVFlNTBJa0xKLXBIYmJzTTlrdWJuNk54QUhTc09WVGdmeHh1WXUtY2fSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
-      "description": "Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down Fox Business",
-      "source": "Fox Business",
-      "source_url": "https://www.foxbusiness.com",
-      "source_domain": "foxbusiness.com",
-      "published_at": "2026-10-22T22:13:00+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThpckk5YXVGS3VVSHhPb1pnUDhVVW9fVjMwRDhnLVBpdlRaUklhbmJvRVNWWVJpSGJaREZoOVRfSE52dnBWYlUxcmo5WkxCZmg3TmFxX3o3d1JXaTljM3hpMmJVa2U0UmR4N1JIUkEtTHctbUE5MmpSTGwyYnpzZUxhQ3loZGsyMjIxZUxnell4ZTZUN1Q5OVFlNTBJa0xKLXBIYmJzTTlrdWJuNk54QUhTc09WVGdmeHh1WXUtY2fSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
-          "domain": "foxbusiness.com",
-          "published_at": "2026-10-22T22:13:00+00:00"
-        },
-        {
-          "name": "Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUl4MzJraVJzZkVQeUkwSllQcWIwclItdEUzdHVPQjlQSkc5ZTlER3F2amc4SkZZWUNWMXlTZEQ0cGJoZXJTZks2X3k4b1N3YWdTVnpCbUJ1UkRBbE52RThvaUpRZkpadEQyS3ZfUjRRQ0d4V0JrY1BsR2F3VTVtdEROTTUtMEVIelMyTnBtWDF0YV9sNHVtWWhIejFtWE43SENfZVo5QkVJdy0zbGE5dThTY3NnNlAxWkFJSmk2RndaTEpTZFHSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
-          "domain": "foxbusiness.com",
-          "published_at": "2026-10-22T22:13:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXRZR1BhUXJkSW5DWTlQR0g4RU1LZ2RhWWxwLXVaNEJaaFVVaDNRM0dURmtJVnBNRzI3bTY1TVhvMkFiM0VBeC1DU01ZYlNoWW4waHhmRGl0MG4wQmtvWHA5RzAzMzdfa1FoWjNwdDBnV0tHLU1DaVN1UHdDSlBRU3ZaZ3R4RlAyeF8xYnVaVlhOcTJZ?oc=5",
-          "domain": "aol.com",
-          "published_at": "2026-10-22T22:13:48+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "accessed confirms cyberattack down information patient shut systems temporarily"
     },
     {
       "id": "3b888081ef7c6fd5c3be",
@@ -4807,6 +4783,42 @@
       "event_signature": "access patient records unauthorized"
     },
     {
+      "id": "c690e6c0384a4744ce84",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThpckk5YXVGS3VVSHhPb1pnUDhVVW9fVjMwRDhnLVBpdlRaUklhbmJvRVNWWVJpSGJaREZoOVRfSE52dnBWYlUxcmo5WkxCZmg3TmFxX3o3d1JXaTljM3hpMmJVa2U0UmR4N1JIUkEtTHctbUE5MmpSTGwyYnpzZUxhQ3loZGsyMjIxZUxnell4ZTZUN1Q5OVFlNTBJa0xKLXBIYmJzTTlrdWJuNk54QUhTc09WVGdmeHh1WXUtY2fSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
+      "description": "Quest Diagnostics confirms patient information accessed in cyberattack, systems temporarily shut down Fox Business",
+      "source": "Fox Business",
+      "source_url": "https://www.foxbusiness.com",
+      "source_domain": "foxbusiness.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZThpckk5YXVGS3VVSHhPb1pnUDhVVW9fVjMwRDhnLVBpdlRaUklhbmJvRVNWWVJpSGJaREZoOVRfSE52dnBWYlUxcmo5WkxCZmg3TmFxX3o3d1JXaTljM3hpMmJVa2U0UmR4N1JIUkEtTHctbUE5MmpSTGwyYnpzZUxhQ3loZGsyMjIxZUxnell4ZTZUN1Q5OVFlNTBJa0xKLXBIYmJzTTlrdWJuNk54QUhTc09WVGdmeHh1WXUtY2fSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
+          "domain": "foxbusiness.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "Fox Business",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUl4MzJraVJzZkVQeUkwSllQcWIwclItdEUzdHVPQjlQSkc5ZTlER3F2amc4SkZZWUNWMXlTZEQ0cGJoZXJTZks2X3k4b1N3YWdTVnpCbUJ1UkRBbE52RThvaUpRZkpadEQyS3ZfUjRRQ0d4V0JrY1BsR2F3VTVtdEROTTUtMEVIelMyTnBtWDF0YV9sNHVtWWhIejFtWE43SENfZVo5QkVJdy0zbGE5dThTY3NnNlAxWkFJSmk2RndaTEpTZFHSAcYBQVVfeXFMT3FJeDMya2lSc2ZFUHlJMEpZUHFiMHJSLXRFM3R1T0I5UEpHOWU5REdxdmpnOEpGWVlDVjF5U2RENHBiaGVyU2ZLNl95OG9Td2FnU1Z6Qm1CdVJEQWxOdkU4b2lKUWZKWnREMkt2X1I0UUNHeFdCa2NQbEdhd1U1bXRETk01LTBFSHpTMk5wbVgxdGFfbDR1bVloSHoxbVhON0hDX2VaOUJFSXctM2xhOXU4U2NzZzZQMVpBSUppNkZ3WkxKU2RR?oc=5",
+          "domain": "foxbusiness.com",
+          "published_at": "2026-10-22T22:13:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdXRZR1BhUXJkSW5DWTlQR0g4RU1LZ2RhWWxwLXVaNEJaaFVVaDNRM0dURmtJVnBNRzI3bTY1TVhvMkFiM0VBeC1DU01ZYlNoWW4waHhmRGl0MG4wQmtvWHA5RzAzMzdfa1FoWjNwdDBnV0tHLU1DaVN1UHdDSlBRU3ZaZ3R4RlAyeF8xYnVaVlhOcTJZ?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-10-22T22:13:48+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "accessed confirms cyberattack down information patient shut systems temporarily"
+    },
+    {
       "id": "e27021cea6e4f79ec8df",
       "company": "Labcorp",
       "title": "BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp",
@@ -6109,30 +6121,6 @@
       "event_signature": "ahead earnings here how placed"
     },
     {
-      "id": "652133dcf1ac0d97c425",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5",
-      "description": "Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Conversion Trade https://www.siam.in/",
-      "source": "https://www.siam.in/",
-      "source_url": "https://www.siam.in",
-      "source_domain": "siam.in",
-      "published_at": "2026-10-14T09:48:07+00:00",
-      "published_display": "14 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "https://www.siam.in/",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5",
-          "domain": "siam.in",
-          "published_at": "2026-10-14T09:48:07+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "230 ahead conversion edges holding lower mid range resistance trade"
-    },
-    {
       "id": "f71acb9fdf247d332889",
       "company": "Labcorp",
       "title": "Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks",
@@ -6245,6 +6233,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "accepting awards champion communities foundation healthy nominations now"
+    },
+    {
+      "id": "297f5ca2346f38b35795",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VpMG9NRTZXZ3lhX09SUndmbVl1M3l6QzE3NDVKYk1sRXh4Q3pZMUF2SV9zdW5lSG5PZVRuYkFSaWdISTZUUkNKVm1aMDBQQU9jeTZBY2lZemhTM1g5ZURhOEZ4OS02ZTNyc05MTmhOWTlTVWRVQ2xzcmNvU21XX0RheUpxaFpqNUhFamY0ekZzVzZkaW0yczVjTENLWTZ5N2d1eVRWdWhESnNWWkZ3SDF1azF1aHJ5ei1NWGhoSS0?oc=5",
+      "description": "Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum https://www.dars.gov.et/",
+      "source": "https://www.dars.gov.et/",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://www.dars.gov.et/",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0VpMG9NRTZXZ3lhX09SUndmbVl1M3l6QzE3NDVKYk1sRXh4Q3pZMUF2SV9zdW5lSG5PZVRuYkFSaWdISTZUUkNKVm1aMDBQQU9jeTZBY2lZemhTM1g5ZURhOEZ4OS02ZTNyc05MTmhOWTlTVWRVQ2xzcmNvU21XX0RheUpxaFpqNUhFamY0ekZzVzZkaW0yczVjTENLWTZ5N2d1eVRWdWhESnNWWkZ3SDF1azF1aHJ5ei1NWGhoSS0?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "name": "https://www.siam.in/",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5",
+          "domain": "siam.in",
+          "published_at": "2026-10-14T09:48:07+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "230 ahead cap edges holding lower mid momentum range resistance"
     },
     {
       "id": "3537ca9b6ef4ef30456b",
@@ -6595,9 +6613,15 @@
           "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZFlXdVI0d1ZCUHlPc2FwZTdTMkdYdzBvMEFJclowNEo3dk9Pb1ZaajYyZFlaOXB5cUMzdTNWTEVsczZ6Rjg2b05UX2pnMHJSSzFfSEhWOWdzcHJKVi1fRGF2ZXZkUk1UNXhMd3BkbS1iUHdtQnJ3R1JETVc4RDJDaFFqM2FKaHBpY3ZuVUxqMGhBbEVhSmUtTVVmWDE3TlFGZHJYYm5GZHdmX25QT2lBajV4TXUxRzVJOHZkTzRGQW9pUU40a0pKS3IzUGdqRWFDNWc?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-10-09T01:35:00+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcEh5c09FVTNaUENWWU0yS1d2ZThRVDcwNW1PTlFiTFlyR3IzcXR4TWczS2R4YVRDZko1X0Fqc3paVWlJM1FTSlFUTGphUkRLXzFsLTE2S2VHb0NLZFF0VzNFRzU5TEdQSDA2U2tLOXYxN2RRdTliNWtyT3pSRHZnU1VVSEV5ZVRrT09jblpNR29yd2tPYk5xQkNfdEVhaG13MUVCWnBRWEJMdFZmcEhLQzR0czV1WEVCSDlSaVRtSV9lMVRfYWpjTklkVTNDR3dGdEk4aXZqX1k?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-10-09T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "after ahead drop edges lower open percent stock"
     },
     {
@@ -16248,69 +16272,12 @@
       "summary_evidence": [
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-2026-second-quarter-results-raises-full-year"
       ]
-    },
-    {
-      "id": "ceb779dc820a6490b2a9",
-      "company": "Quest Diagnostics",
-      "title": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
-      "description": "The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.",
-      "source": "Tracxn",
-      "source_url": "https://tracxn.com",
-      "source_domain": "tracxn.com",
-      "published_at": "2026-08-02T07:00:00+00:00",
-      "published_display": "02 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Tracxn",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb0hEUFAzM25FZndBSGhEa00xS29MLXpxaEZQVExlVkNHeS0wWnFKMUV3RFM3ZW9GSFVXelppdDZTUFN4enFnakRDZkpNdE1GM3R6S3dLZl9QREJEam5pOGVTNmh4RlpMUzRaMUNQNmhPLTVmTUxqOFlLMGYtWVVUNVoxN1M0MzlFYk5jMGhIeTR3S2NJZmhDM0FBdkJjMUhkUkV6NDVPc1pwNllrRFVMbnFtZw?oc=5",
-          "domain": "tracxn.com",
-          "published_at": "2026-08-02T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 acquisitions aug list",
-      "source_description": "List of 22 Acquisitions by Quest Diagnostics (Aug 2026) tracxn.com",
-      "chatgpt_summary": "The queued Tracxn item concerns Quest Diagnostics' acquisition history. Because the Google News redirect did not expose the Tracxn body, the acquisition count and recent deal terms were independently verified against an accessible M&A database and Quest's filings. Multiples.vc counts 22 Quest acquisitions as of July 2026, with Spectra Laboratories, OhioHealth, LifeLabs and PathAI among recent entries; its database lists LifeLabs at $1 billion and PathAI at $100 million. Quest's 2025 Form 10-K provides transaction-level support for the recent acquisition program. It says Quest paid $84 million in aggregate for select clinical-testing and dialysis water-testing assets of Fresenius Medical Care's Spectra Laboratories, closing the clinical assets in August 2025 and water-testing assets in November 2025. The filing also records 2024 purchases of Lenco assets for $111 million, PathAI Diagnostics assets for $100 million, LifeLabs for about C$1.35 billion, or approximately US$1 billion, Allina Health outreach assets for $230 million, laboratories of three New York physician groups for $300 million, OhioHealth outreach assets for $200 million and University Hospitals' outreach business for $183 million. Quest states that acquisitions are intended to contribute roughly 1%-2% annual revenue growth and are screened for strategic fit, value creation, return on invested capital and earnings impact.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T18:38:44+05:30",
-      "summary_evidence": [
-        "https://docs.multiples.vc/public-comps/quest-diagnostics-valuation-multiples",
-        "https://www.sec.gov/Archives/edgar/data/1022079/000102207926000015/dgx-20251231.htm"
-      ]
-    },
-    {
-      "id": "aebd1c26176c4525ccb3",
-      "company": "Labcorp",
-      "title": "List of 33 Acquisitions by LabCorp (Aug 2026)",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
-      "description": "List of 33 Acquisitions by LabCorp (Aug 2026) Tracxn",
-      "source": "Tracxn",
-      "source_url": "https://tracxn.com",
-      "source_domain": "tracxn.com",
-      "published_at": "2026-08-02T07:00:00+00:00",
-      "published_display": "02 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Tracxn",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEU1QzEtVjRHTFc5U2VwTDFYQjJuenZQblJranFkYThnblZKOWJBa1I4R2U5NEtuYTRKMF8xaWRYczY0dmVzczBJTkVha1gtUjkwUGEybjFESDhUM21JSUotLTVyZkowcmdpc1FYa04wX1B1a0gtVmhVMW5sbEk0MmNCd3pUNVRfc1pYUE5rdjVScVM1OG5yWkl2dmtYZFNGeFlkS3ZB?oc=5",
-          "domain": "tracxn.com",
-          "published_at": "2026-08-02T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 acquisitions aug list"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 55,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-10-31T12:17:00+05:30",
-  "next_update_display": "31 Oct 2026, 12:17 PM IST",
+  "next_update_at": "2026-11-01T00:17:00+05:30",
+  "next_update_display": "01 Nov 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }

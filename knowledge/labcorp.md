@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 31 Oct 2026, 11:50 AM IST
+- **Repository generated:** 31 Oct 2026, 6:36 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -368,11 +368,12 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - FinancialContent: https://news.google.com/rss/articles/CBMiugFBVV95cUxNMElYNk16T0YyV0drQjVoYXJ1TldZSUdIR1dKWFVHeXFWb2VGc05hU2R4MnE2c01WODA4TTRTamI5MTVkaVFjaWhiTVdob0I2WDRnVlZ5MjFodmJ4RThkNllKZzdLcXQ0QVdDTS1rVERGVUl1UzdqQklZdWZHaWJwUFNhd0VNcUtmNm5HNW5aZC02aHJ2dE9tTmhLMGI1SUlrTEZCZk9qRTRGYVVvWXp3SjJtZVdXeFVBaXc?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUTd5STFOazNRVjBBQUNLZDB3OXgtYUpISnJEVjhma3E3eUdvUm1aRUdpZXZ5TWtDREkyZnFPXzloWDNmandUakJ2Y2pUMVpwV1pFWDRCdl9iM1Z6YThXX29kYXgzVTNuWjdiMVFBVFZSOFRVM2lWV0xQemI3VEFTUVk1MmlibVRadTNyay1SUTA0bV9hQTVlel9kLVFYSC1ONXFRWV9EemVPM28?oc=5
+  - StockStory: https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVVHNjAxTk1mb2JPMHpTQ2hOa2hCT3l2Ti1zQ2hJOEhzYm9jNE1kUC1pQndKaHpEZi1RNmJXb28zakdiWVZzVHhYeEo5Z21CcDNoTWVKTU84eHpEWERIY3NWYmY2MFRfcGtKeEpjX1paSllwby1GSU1ud1hUUkZRTHRiVTN0WTNocmFQcFBuTllTN3dLb0pXX2FLME1iamRf?oc=5
 
 **Feed description:** Labcorp’s (NYSE:LH) Q3 2026 sales beat estimates FinancialContent
 
@@ -459,12 +460,13 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Quiver Quantitative: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUhmcU9VSGJuZld5UjU3bFNPSm51akhCc3R4bjIxaEc3V0Z4WFVic0xIcUdrOG94dGNlckVjOEVqbFJENjJrclp6S0I2enpoaW1LTTRiODlWemRYWW9zUVktWDR1VXM0S211TURFRVB5Tm9KVjlwY19hQmhlWDVPVGVsemtZRmNvelFZ?oc=5
+  - Minichart: https://news.google.com/rss/articles/CBMipgFBVV95cUxQVDZlbUw1czhma0d1dzBWN1BzUTNOa1N2X2ptYlNQc01zYk9GNmtMalNCZlpuQk1OcWgySFIyczlBME1jb3lhdVdrT0prcldIV2pqT0xRdXItSklWa19JWWlpVTM0T19VMk84OUtqS0RDYTlTVjVzQnVqMENjMy1pcmlLTVZNRGhiYTNzeUpCWTBXMHE2UHUxZFRNaWE0ZnIwQVZ5bjdn?oc=5
 
-**Feed description:** Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion Quiver Quantitative
+**Feed description:** Labcorp Q3 2026 Revenue Rises to $3.81 Billion, Diluted EPS $3.22 Minichart
 
 ## 38. Labcorp Tops Q3 EPS by 13c
 
