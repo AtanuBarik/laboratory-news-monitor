@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 31 Oct 2026, 6:36 PM IST
+- **Repository generated:** 01 Nov 2026, 3:22 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -601,20 +601,7 @@
 
 **Feed description:** Quest Diagnostics confirms cyberattack exposing sensitive patient data from its lab testing system. Pluang
 
-## 49. Quest Diagnostics hit by cyber attack
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 23 Oct 2026
-- **Category:** Other
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - FOX 8 News: https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5
-  - Yahoo: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb083U0hocUNnQmlnMW01QS1rTG5rb1l6UE83TUFENkxiM1Z3bWR0TzlDZjNoZ09ZUC1tRDBZcGhoSms4cTZ5eHE0Z29fUjF5QzlRRWhZV0NRSjc4TE9RVU1qWXlFT1UxSTV1WlVYZkFlRXM4T3BVaFN2UlduZm9feFhtVFNjUzBSS1dF?oc=5
-
-**Feed description:** Quest Diagnostics hit by cyber attack FOX 8 News
-
-## 50. Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System
+## 49. Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -627,7 +614,7 @@
 
 **Feed description:** Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System OfficeChai
 
-## 51. Quest Diagnostics warns of potential data theft after attack on lab service system
+## 50. Quest Diagnostics warns of potential data theft after attack on lab service system
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -639,7 +626,7 @@
 
 **Feed description:** Quest Diagnostics warns of potential data theft after attack on lab service system The Record from Recorded Future News
 
-## 52. Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach
+## 51. Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -650,6 +637,19 @@
   - TechCrunch: https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5
 
 **Feed description:** Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch
+
+## 52. Quest Diagnostics hit by cyber attack
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - FOX 8 News: https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5
+  - Yahoo: https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb083U0hocUNnQmlnMW01QS1rTG5rb1l6UE83TUFENkxiM1Z3bWR0TzlDZjNoZ09ZUC1tRDBZcGhoSms4cTZ5eHE0Z29fUjF5QzlRRWhZV0NRSjc4TE9RVU1qWXlFT1UxSTV1WlVYZkFlRXM4T3BVaFN2UlduZm9feFhtVFNjUzBSS1dF?oc=5
+
+**Feed description:** Quest Diagnostics hit by cyber attack FOX 8 News
 
 ## 53. US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed
 

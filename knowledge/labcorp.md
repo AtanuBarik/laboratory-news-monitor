@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 31 Oct 2026, 6:36 PM IST
+- **Repository generated:** 01 Nov 2026, 3:22 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -255,7 +255,7 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQekpOZ2lId2VSTkppaExibFVNbUNlc04xY3NKczhhSTZHQU1yTmMwTnp6VTlpZnhwZ2JOdnQ1dkdrT2tGOWRQMW0zX0VSLUhxTEJpUU1rTEtFeHNWUEFLNTI2b3VWQzRJd2U5YURHMWl5Zm5xT09JWUF2anRCcEdickRUSjdUUmxGNWNBTzlMX1JEcWplQmhZMlZuM3ZwMXJyakxrd2NyYTJ4Zw?oc=5
@@ -264,22 +264,11 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2NSTVhxRGxGTHFGVkhjY0NfclhvRWpGcGFuS1pBM09EN0szcWhpT0J1UzFadGI5ekltNk1YRmFyV0hSRm1CcXRlSzJMUGNIcGd1X01US1NINzNzNG1xbzlvTUFick4zaUdTU2tCVEV6OTdON0taMGVid1RGU2sydDNpTWtNcFBlU0pvUUJxT1FGLWs?oc=5
   - The Globe and Mail: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTl4ZzlTUmdxdGh4R0lyNEliYmhWUG5qT0VIT0FlVjExLUhJS3l5c05tcklUX0pTQXVOSlZ0Q2JkbnlfZzZwSmRtbEFySTVrUlhMb01YcE9SUy1na1dmR0NDdk5KT1BXSFR1OTBrcHJ5V0JHOHBhcU1LekF5UGxsZ05vRUtHUGFoeHZOZlJLb1lSS1RvUTNJYWZiOG9VbUEyZ0tjamVjdDNNenplb3p5YkVoU1pnNkpVS2FueGlzU3lnSkxIMzU2eQ?oc=5
   - MarketBeat: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9nRk9Rd2t6V3QySGJxdzhnUE5wdzdXVDFLTHBmOXJNanQ5M3N0aU5BT1ZMbndrS2oxMnB6UDFsQ3ZObFRGUEQ4RFY2Qlp4bTU3YjVOTzdPWHh5REY5SXV1bHpGLVdsa2RLRlNjRHVGcmpFcWg4WlNNUUFYbW5GRFZnRUpnN2s3WnZKQVYzYnMybTNONkhUWE5rMGFsVnUtRFE?oc=5
+  - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
 
 **Feed description:** Labcorp Holdings Inc. Q3 2026 Earnings Call Summary Yahoo Finance
 
-## 22. Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - 24/7 Wall St.: https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5
-
-**Feed description:** Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.
-
-## 23. Labcorp Reports Strong Q3 Results, Revises Full-Year Outloo
+## 22. Labcorp Reports Strong Q3 Results, Revises Full-Year Outloo
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -291,7 +280,7 @@
 
 **Feed description:** Labcorp (LH) Reports Strong Q3 Results, Revises Full-Year Outloo GuruFocus
 
-## 24. Labcorp Q3 2026 Earnings: EPS at $3.22, Revenue Hits $3.81 Billion, Beats Estimates
+## 23. Labcorp Q3 2026 Earnings: EPS at $3.22, Revenue Hits $3.81 Billion, Beats Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -303,7 +292,7 @@
 
 **Feed description:** Labcorp Holdings Inc Q3 2026 Earnings: EPS at $3.22, Revenue Hits $3.81 Billion, Beats Estimates GuruFocus
 
-## 25. Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics
+## 24. Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -315,7 +304,7 @@
 
 **Feed description:** Compared to Estimates, Labcorp (LH) Q3 Earnings: A Look at Key Metrics Yahoo Finance
 
-## 26. Labcorp Q3 Earnings and Revenues Surpass Estimates
+## 25. Labcorp Q3 Earnings and Revenues Surpass Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -327,7 +316,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Q3 Earnings and Revenues Surpass Estimates Yahoo Finance
 
-## 27. Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B
+## 26. Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -339,7 +328,7 @@
 
 **Feed description:** (LH) Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B www.marketscreener.com
 
-## 28. Earnings Flash Labcorp Reports Q3 Revenue $3.81B, vs. FactSet Est of $3.76B
+## 27. Earnings Flash Labcorp Reports Q3 Revenue $3.81B, vs. FactSet Est of $3.76B
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -351,7 +340,7 @@
 
 **Feed description:** Earnings Flash (LH) Labcorp Holdings Inc. Reports Q3 Revenue $3.81B, vs. FactSet Est of $3.76B marketscreener.com
 
-## 29. Earnings Flash Labcorp Posts Q3 Adjusted EPS $4.78 per Share, vs. FactSet Est of $4.64
+## 28. Earnings Flash Labcorp Posts Q3 Adjusted EPS $4.78 per Share, vs. FactSet Est of $4.64
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -363,7 +352,7 @@
 
 **Feed description:** Earnings Flash (LH) Labcorp Holdings Inc. Posts Q3 Adjusted EPS $4.78 per Share, vs. FactSet Est of $4.64 marketscreener.com
 
-## 30. Labcorp’s Q3 2026 sales beat estimates
+## 29. Labcorp’s Q3 2026 sales beat estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -377,7 +366,7 @@
 
 **Feed description:** Labcorp’s (NYSE:LH) Q3 2026 sales beat estimates FinancialContent
 
-## 31. Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised
+## 30. Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -390,7 +379,7 @@
 
 **Feed description:** Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised www.marketscreener.com
 
-## 32. Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B
+## 31. Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -402,7 +391,7 @@
 
 **Feed description:** Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B Mugglehead Investment Magazine
 
-## 33. Labcorp Raises 2026 Guidance as Q3 Adjusted EPS Climbs 14.5%
+## 32. Labcorp Raises 2026 Guidance as Q3 Adjusted EPS Climbs 14.5%
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -415,7 +404,7 @@
 
 **Feed description:** [Labcorp Holdings Q3 2026 Earnings Call] Labcorp Raises Full-Year Guidance as Q3 Revenue Climbs 6.9% to $3.8 Billion and EPS Jumps 14.5% to $4.78 BigGo Finance
 
-## 34. Labcorp shares edge up on beating estimates, raising guidance
+## 33. Labcorp shares edge up on beating estimates, raising guidance
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -427,7 +416,7 @@
 
 **Feed description:** Labcorp shares edge up on beating estimates, raising guidance Investing.com
 
-## 35. Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases
+## 34. Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -440,7 +429,7 @@
 
 **Feed description:** Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases TradingView
 
-## 36. Labcorp earnings beat by $0.13, revenue topped estimates
+## 35. Labcorp earnings beat by $0.13, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -455,7 +444,7 @@
 
 **Feed description:** Labcorp Holdings earnings beat by $0.13, revenue topped estimates Investing.com South Africa
 
-## 37. Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion
+## 36. Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -468,7 +457,7 @@
 
 **Feed description:** Labcorp Q3 2026 Revenue Rises to $3.81 Billion, Diluted EPS $3.22 Minichart
 
-## 38. Labcorp Tops Q3 EPS by 13c
+## 37. Labcorp Tops Q3 EPS by 13c
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -479,6 +468,18 @@
   - StreetInsider: https://news.google.com/rss/articles/CBMikgFBVV95cUxQLThpM2xyV2xIeTZ2VVlfaURZaktTeUIzYkZ2ekFuUVVfVXU1V3VEdi02S21GajJmeHM0dEFDM1dJdUZ6MEUzSXRnd0ZJYmhhYUNaVU5NbUxMeGMwTkR2ODlsdkE1SHhET08yQ0szd0h3Sk1UUGNwWl94bkFsd3lRa21VTThuV1BLRWdxX3pfRUpVQQ?oc=5
 
 **Feed description:** Labcorp (LH) Tops Q3 EPS by 13c StreetInsider
+
+## 38. Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - 24/7 Wall St.: https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5
+
+**Feed description:** Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.
 
 ## 39. Labcorp Posts Q3 Growth, Raises 2026 Guidance
 
@@ -497,13 +498,14 @@
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - TradingView: https://news.google.com/rss/articles/CBMia0FVX3lxTE80NXFMZTlCdWlkYlIyWXctTHFMXy0tRGZ0SGlqTFVLTXpXVC1JZzRScVA5T0FoVlM3MTh1T1k1d0pOUkpGdllIWklzWlU0UjJnOW5kN1QyN1gtaENnMWc0M2ZIekxBdld0MlB3?oc=5
   - Stock Titan: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN01tT3lpd3h4T0NsWkwxbzNDWXRkb1dmcHBraEhfelJ3TjNDdkNPU3Y0S3NtX1pnUWZqSnA3dXlUQzVfT1NvZFJaQ251VHVGdUVUREZvS3pxTkZvSU14NEFCZWJINjRKa3pKMENBVVFXTlpvbjUxd1VuQ0diMHo2TV9GY25aS3VKeVFfZVBrbHlrVFBNeW1MNklJeWw4TXUwU3o5OEZGaFU2U1V5S2JrRk9RWnZSOVBmcEZJ?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVNOZDZxUGFuZFhaQnlxbG95MXY3UFZ3Tm5PX3BKNVJMV0JSVWJtQUxkNVNCM2Jndzk0NDdkenEzMkdGbm1jbkpGWU4tUHoyRF9ub2RXZUg5TWZZQ0RDZU90TTZzenR1bXp2UDJuZHNuRWFIUVRhU1JIRWFwV0tyZmJnUGZ5QXJrQTlleXFFekNUUC1fR0RGYjVaQV90WGRiQXlMTENVRXFuSWhhZnkwTVZIYnJSb0FIdzZHZERn?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2plcjdYN1FTbUJvNU05bUZpOEdDM1NZU2Y1Q3VhVGpNeHdPWXpidHU0RXh5MjhlODlPMVdKdGdUdkhaMDVtdnBOemZ1VEg0clY4VVBaWUVMc3N6N1lpdnIzel9FU3BicFVzcHZEdWd6bDVFR2NVbENxd1VKSTlvd2xsek1VNkhuZDhfcVVfa3ExNC1udm4tVWFUVEQxdkNDWXotLXZ2RG9BaDJES2VuRm1KZnRtRjVvY01pbHNPTE1tYXBiX2tWcmg2R2VHS0FFNWxmWXh3bVM?oc=5
 
 **Feed description:** Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance TradingView
 
@@ -711,20 +713,7 @@
 
 **Feed description:** Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus
 
-## 57. Charles River, Labcorp, and FDA sign drug abuse potential research pact
-
-- **Company:** Labcorp
-- **Publication date:** 22 Oct 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - StreetInsider: https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1A5ODhqR196SzgyU2VuS3pXN0JJVEx5TUhfTmtxVE45cjk2cDhKSUlSWjA5QWpIT1BKNTlzWWU5aS1BN2JhcGtHMERzLWlVWnpJS0xtR0FyTm0zSTd3M2UteVpLNWRoMjR0ZkhaVXZOeEFMUVY2dmtrSVpfZW5qVlpHSHpDbVVaN3lGS0tsMllkUHQySmxWVEpR?oc=5
-
-**Feed description:** Charles River, Labcorp, and FDA sign drug abuse potential research pact StreetInsider
-
-## 58. Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential
+## 57. Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -739,21 +728,7 @@
 
 **Feed description:** Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance
 
-## 59. Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment
-
-- **Company:** Labcorp
-- **Publication date:** 22 Oct 2026
-- **Category:** Other
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Business Wire: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5
-  - BioSpace: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5
-
-**Feed description:** Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment Business Wire
-
-## 60. Labcorp to buy Myriad’s prenatal health testing unit for $210M
+## 58. Labcorp to buy Myriad’s prenatal health testing unit for $210M
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -765,6 +740,33 @@
   - MedTech Dive: https://news.google.com/rss/articles/CBMiowFBVV95cUxPWno3OUtQLTItSDdKNUhsSEktX0VUa05LZzhST2U3b3dkd25GTlhmYzRmM01aYzBpZG4yRE41UzgySVBOTW1rV3JBUUsxN2ZHTFU5ZEF1dmstWXhPUDB1QmtOYWQ3M2ZLS0l4eUhyQWRDcDVnT05nVjAxSVY5Z3pJSFlBZ2ZwX2pDenJPbnBiX3dyeFdrLUpEMGM1SXNYWEpqcnVz?oc=5
 
 **Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M Yahoo Finance
+
+## 59. Labcorp, Charles River and FDA Partner on Drug Abuse Research
+
+- **Company:** Labcorp
+- **Publication date:** 22 Oct 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1A5ODhqR196SzgyU2VuS3pXN0JJVEx5TUhfTmtxVE45cjk2cDhKSUlSWjA5QWpIT1BKNTlzWWU5aS1BN2JhcGtHMERzLWlVWnpJS0xtR0FyTm0zSTd3M2UteVpLNWRoMjR0ZkhaVXZOeEFMUVY2dmtrSVpfZW5qVlpHSHpDbVVaN3lGS0tsMllkUHQySmxWVEpR?oc=5
+  - StreetInsider: https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5
+
+**Feed description:** Charles River, Labcorp, and FDA sign drug abuse potential research pact StreetInsider
+
+## 60. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
+
+- **Company:** Labcorp
+- **Publication date:** 22 Oct 2026
+- **Category:** Other
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5
+  - Business Wire: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5
+  - BioSpace: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5
+
+**Feed description:** Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment Business Wire
 
 ## 61. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
 

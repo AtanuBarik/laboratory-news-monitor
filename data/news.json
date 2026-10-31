@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-31T18:36:36.972264+05:30",
-  "generated_at_display": "31 Oct 2026, 6:36 PM IST",
+  "generated_at": "2026-11-01T03:22:59.412326+05:30",
+  "generated_at_display": "01 Nov 2026, 3:22 AM IST",
   "item_count": 527,
-  "raw_relevant_item_count": 688,
-  "duplicates_merged": 105,
+  "raw_relevant_item_count": 674,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
     {
@@ -775,34 +775,16 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9nRk9Rd2t6V3QySGJxdzhnUE5wdzdXVDFLTHBmOXJNanQ5M3N0aU5BT1ZMbndrS2oxMnB6UDFsQ3ZObFRGUEQ4RFY2Qlp4bTU3YjVOTzdPWHh5REY5SXV1bHpGLVdsa2RLRlNjRHVGcmpFcWg4WlNNUUFYbW5GRFZnRUpnN2s3WnZKQVYzYnMybTNONkhUWE5rMGFsVnUtRFE?oc=5",
           "domain": "marketbeat.com",
           "published_at": "2026-10-28T19:30:00+00:00"
-        }
-      ],
-      "coverage_count": 6,
-      "event_signature": "2026 call earnings live"
-    },
-    {
-      "id": "8047f8b316923e0512b3",
-      "company": "Labcorp",
-      "title": "Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
-      "description": "Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "source_domain": "247wallst.com",
-      "published_at": "2026-10-28T12:56:08+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
+        },
         {
-          "name": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
-          "domain": "247wallst.com",
-          "published_at": "2026-10-28T12:56:08+00:00"
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-10-29T16:11:12+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "2026 beat deals earnings four guidance pending raised"
+      "coverage_count": 7,
+      "event_signature": "2026 call earnings live"
     },
     {
       "id": "aaba1b340f5f3b70d34a",
@@ -1267,6 +1249,30 @@
       "event_signature": "13c eps tops"
     },
     {
+      "id": "8047f8b316923e0512b3",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
+      "description": "Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "source_domain": "247wallst.com",
+      "published_at": "2026-10-28T10:57:40+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
+          "domain": "247wallst.com",
+          "published_at": "2026-10-28T10:57:40+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beat deals earnings four guidance pending raised"
+    },
+    {
       "id": "e54832d274efb8db1b79",
       "company": "Labcorp",
       "title": "Labcorp Posts Q3 Growth, Raises 2026 Guidance",
@@ -1327,9 +1333,15 @@
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVNOZDZxUGFuZFhaQnlxbG95MXY3UFZ3Tm5PX3BKNVJMV0JSVWJtQUxkNVNCM2Jndzk0NDdkenEzMkdGbm1jbkpGWU4tUHoyRF9ub2RXZUg5TWZZQ0RDZU90TTZzenR1bXp2UDJuZHNuRWFIUVRhU1JIRWFwV0tyZmJnUGZ5QXJrQTlleXFFekNUUC1fR0RGYjVaQV90WGRiQXlMTENVRXFuSWhhZnkwTVZIYnJSb0FIdzZHZERn?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-10-28T11:51:13+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2plcjdYN1FTbUJvNU05bUZpOEdDM1NZU2Y1Q3VhVGpNeHdPWXpidHU0RXh5MjhlODlPMVdKdGdUdkhaMDVtdnBOemZ1VEg0clY4VVBaWUVMc3N6N1lpdnIzel9FU3BicFVzcHZEdWd6bDVFR2NVbENxd1VKSTlvd2xsek1VNkhuZDhfcVVfa3ExNC1udm4tVWFUVEQxdkNDWXotLXZ2RG9BaDJES2VuRm1KZnRtRjVvY01pbHNPTE1tYXBiX2tWcmg2R2VHS0FFNWxmWXh3bVM?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-28T10:50:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "2026 full guidance quarter raises results strong third year"
     },
     {
@@ -2701,60 +2713,6 @@
       "event_signature": "2026 acquire agreement definitive health millennium oct"
     },
     {
-      "id": "79cbee2d4c81e730dec7",
-      "company": "Labcorp",
-      "title": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5",
-      "description": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-23T12:00:00+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-23T12:00:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
-          "domain": "aol.com",
-          "published_at": "2026-10-23T12:01:22+00:00"
-        },
-        {
-          "name": "BioSpectrum Asia",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhCOUR5SGVPZkVGNEtjWEdneEN0dzZzcERXWFRUZkxaUmFaLTJvWTE5QjFUVGFZQ1B1RHhMQzhJZl9pTGF2bGZUdkN3dXA1LXp6MVpGVTZJRTNvc0xCSE40Q2Z1Y0hRaWxhbklVX0pCVHNTZ1NSVzhZcVZ0N1lUTVA4M1p3TkpVWGVlS1RoSEVNcjBSVkdpZ3lyaTEzZjRCTVpKc0R4UFdpanNaS1JSbWF1U0syQQ?oc=5",
-          "domain": "biospectrumasia.com",
-          "published_at": "2026-10-26T13:32:08+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGUwdjNHaElYS1dtQUpGcGZocUd2SDVJOUhrSDZDdlVwc3hsVFJQYTZZSDVON3g2T2xrZGNWM3BPTXNQSUw3RkZFU0F4OUNVQ0tHS3JtUHpvRnNIcllKeUdSNzB3cDN0ZTRybWNlOGpxZGJzMzZmR0xvMmVIQndKMElZQTFJZzd3LXVmQ25hcVZrQmlUa2lTUw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-27T15:31:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQWQtcFFrWE5GZVp6NzluS2Y4UGpwbGhxMDJfbDc5eERYYXMxbEMzVmFsdEZfd01KNDdoblRaMTZneDJYbk16ZVFuUlViYV9idVRHc3FuYUJSal9HQUVIMkdIOTdIQi1XMmdXNXA1ZXFrbDZ0WDA1azhSZmw4M25hSU1xeEw4T2ZZUjJNYXBmRUJRRFpUOGlDMWxBak0yTnVJVzhmeFZDZndjdzNpUmE5eHdfNWRxQkNxeEdIM0hiRDB6WTljUjM0MW94NUlqeUdYU1RsZXZWcW11Y3F6Yjl5RU5xa3JwazgyT09WejNzTXNfek44WnlFTXhBZEJCR3dUdFgtNXl0cnZucGFCbnlHYXA5cU45SWwtQTVybUhRYlk0R0RoY0xiVmJsMA?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-23T12:00:00+00:00"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRy1DcjNIRUF1b0Z3SE9HcUQtNFhBQ1FFMnY3WE1jMUZpeXFVVjNJR0gzMHhPSE53djZpTHdfT0xoNXJGQ09lRUotbGEwSGZ0SnB4dl9EQnl1a3lEQVhKU01QbjhEdmJLcEQ4ZUVGSFhpQW5TblpJU0VVTm5hWkVVSHExV2hMbUpr?oc=5",
-          "domain": "ca.finance.yahoo.com",
-          "published_at": "2026-10-27T15:31:00+00:00"
-        }
-      ],
-      "coverage_count": 6,
-      "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
-    },
-    {
       "id": "8b4cb4c582580813bc57",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System",
@@ -2801,36 +2759,6 @@
       ],
       "coverage_count": 5,
       "event_signature": "confirms cyberattack exposing patient quanum records system"
-    },
-    {
-      "id": "1aebd809118ffdb03e35",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics hit by cyber attack",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
-      "description": "Quest Diagnostics hit by cyber attack FOX 8 News",
-      "source": "FOX 8 News",
-      "source_url": "https://fox8.com",
-      "source_domain": "fox8.com",
-      "published_at": "2026-10-23T10:11:24+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "FOX 8 News",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
-          "domain": "fox8.com",
-          "published_at": "2026-10-23T10:11:24+00:00"
-        },
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb083U0hocUNnQmlnMW01QS1rTG5rb1l6UE83TUFENkxiM1Z3bWR0TzlDZjNoZ09ZUC1tRDBZcGhoSms4cTZ5eHE0Z29fUjF5QzlRRWhZV0NRSjc4TE9RVU1qWXlFT1UxSTV1WlVYZkFlRXM4T3BVaFN2UlduZm9feFhtVFNjUzBSS1dF?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-10-23T10:11:24+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "attack cyber hit"
     },
     {
       "id": "9f9190af9b7412991183",
@@ -2909,6 +2837,90 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach compromised confirms data during giant health lab patients personal testing was"
+    },
+    {
+      "id": "79cbee2d4c81e730dec7",
+      "company": "Labcorp",
+      "title": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5",
+      "description": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjRmdi13NG44NThuY3FzWjlFVWJpYkljQURyUjhDSkZ6bDZhVVVaOVBvbGhaQVE4dFdkSktiQm96YWNKLURBaHN4aDVrUTBBYjBEdUpDcnhIaUZyV09FWXgzVG84eGNnSFVWNndNQ0dMeHhuQXo0TWJiOTZ0bVMyVUFObGJBQlViR0xFY2ZraE9tVTVHQnhEWkhCTDVhRVE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZxR3NKekVrbTYzSzB1MmJHSGtLaUl6R3ZhR0R3TFk3RVdEOXlUU1RQNmRwTk96THV5Yjg1bG1qaUxic05FWTBhWUJsZzJOZDNPQ1g1b1ptRExIOW1Vb3dTcnlYTThnajlMdEVXTWJTYVczcGJFT1puV19VQVJ5SDR2a0laNHli?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-10-23T12:01:22+00:00"
+        },
+        {
+          "name": "BioSpectrum Asia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaEhCOUR5SGVPZkVGNEtjWEdneEN0dzZzcERXWFRUZkxaUmFaLTJvWTE5QjFUVGFZQ1B1RHhMQzhJZl9pTGF2bGZUdkN3dXA1LXp6MVpGVTZJRTNvc0xCSE40Q2Z1Y0hRaWxhbklVX0pCVHNTZ1NSVzhZcVZ0N1lUTVA4M1p3TkpVWGVlS1RoSEVNcjBSVkdpZ3lyaTEzZjRCTVpKc0R4UFdpanNaS1JSbWF1U0syQQ?oc=5",
+          "domain": "biospectrumasia.com",
+          "published_at": "2026-10-26T13:32:08+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOGUwdjNHaElYS1dtQUpGcGZocUd2SDVJOUhrSDZDdlVwc3hsVFJQYTZZSDVON3g2T2xrZGNWM3BPTXNQSUw3RkZFU0F4OUNVQ0tHS3JtUHpvRnNIcllKeUdSNzB3cDN0ZTRybWNlOGpxZGJzMzZmR0xvMmVIQndKMElZQTFJZzd3LXVmQ25hcVZrQmlUa2lTUw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-27T15:31:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQQWQtcFFrWE5GZVp6NzluS2Y4UGpwbGhxMDJfbDc5eERYYXMxbEMzVmFsdEZfd01KNDdoblRaMTZneDJYbk16ZVFuUlViYV9idVRHc3FuYUJSal9HQUVIMkdIOTdIQi1XMmdXNXA1ZXFrbDZ0WDA1azhSZmw4M25hSU1xeEw4T2ZZUjJNYXBmRUJRRFpUOGlDMWxBak0yTnVJVzhmeFZDZndjdzNpUmE5eHdfNWRxQkNxeEdIM0hiRDB6WTljUjM0MW94NUlqeUdYU1RsZXZWcW11Y3F6Yjl5RU5xa3JwazgyT09WejNzTXNfek44WnlFTXhBZEJCR3dUdFgtNXl0cnZucGFCbnlHYXA5cU45SWwtQTVybUhRYlk0R0RoY0xiVmJsMA?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-23T12:00:00+00:00"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRy1DcjNIRUF1b0Z3SE9HcUQtNFhBQ1FFMnY3WE1jMUZpeXFVVjNJR0gzMHhPSE53djZpTHdfT0xoNXJGQ09lRUotbGEwSGZ0SnB4dl9EQnl1a3lEQVhKU01QbjhEdmJLcEQ4ZUVGSFhpQW5TblpJU0VVTm5hWkVVSHExV2hMbUpr?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-27T15:31:00+00:00"
+        }
+      ],
+      "coverage_count": 6,
+      "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
+    },
+    {
+      "id": "1aebd809118ffdb03e35",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics hit by cyber attack",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
+      "description": "Quest Diagnostics hit by cyber attack FOX 8 News",
+      "source": "FOX 8 News",
+      "source_url": "https://fox8.com",
+      "source_domain": "fox8.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "FOX 8 News",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MMW03WkdLWUFSQlRqb0RFbXNieF82UnFRT1BfbGJNclI0ZXdhamtrRlVrS3d5WEltVDZlQTlibWstdk5pLURfWFpLRW1KNTBFSlFiOWVyd1VESTBnYm8yT3pYWlMtN1JKbU9ta3JYVUxuZkthSzlqNjFB?oc=5",
+          "domain": "fox8.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb083U0hocUNnQmlnMW01QS1rTG5rb1l6UE83TUFENkxiM1Z3bWR0TzlDZjNoZ09ZUC1tRDBZcGhoSms4cTZ5eHE0Z29fUjF5QzlRRWhZV0NRSjc4TE9RVU1qWXlFT1UxSTV1WlVYZkFlRXM4T3BVaFN2UlduZm9feFhtVFNjUzBSS1dF?oc=5",
+          "domain": "yahoo.com",
+          "published_at": "2026-10-23T10:11:24+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "attack cyber hit"
     },
     {
       "id": "8e32a8b4f1f82cd31536",
@@ -3163,36 +3175,6 @@
       "event_signature": "clients hack system used"
     },
     {
-      "id": "961ad4bbea94d0876965",
-      "company": "Labcorp",
-      "title": "Charles River, Labcorp, and FDA sign drug abuse potential research pact",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5",
-      "description": "Charles River, Labcorp, and FDA sign drug abuse potential research pact StreetInsider",
-      "source": "StreetInsider",
-      "source_url": "https://www.streetinsider.com",
-      "source_domain": "streetinsider.com",
-      "published_at": "2026-10-22T20:33:43+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "StreetInsider",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5",
-          "domain": "streetinsider.com",
-          "published_at": "2026-10-22T20:33:43+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1A5ODhqR196SzgyU2VuS3pXN0JJVEx5TUhfTmtxVE45cjk2cDhKSUlSWjA5QWpIT1BKNTlzWWU5aS1BN2JhcGtHMERzLWlVWnpJS0xtR0FyTm0zSTd3M2UteVpLNWRoMjR0ZkhaVXZOeEFMUVY2dmtrSVpfZW5qVlpHSHpDbVVaN3lGS0tsMllkUHQySmxWVEpR?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-22T21:55:10+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "abuse charles drug fda pact potential research river sign"
-    },
-    {
       "id": "f52626762775495cde83",
       "company": "Labcorp",
       "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
@@ -3233,42 +3215,6 @@
       ],
       "coverage_count": 4,
       "event_signature": "abuse advance announce charles collaboration drug evaluating fda methods potential preclinical research river"
-    },
-    {
-      "id": "81da7d0541bfcad3415e",
-      "company": "Labcorp",
-      "title": "Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5",
-      "description": "Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment Business Wire",
-      "source": "Business Wire",
-      "source_url": "https://www.businesswire.com",
-      "source_domain": "businesswire.com",
-      "published_at": "2026-10-22T20:30:00+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5",
-          "domain": "businesswire.com",
-          "published_at": "2026-10-22T20:30:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-22T22:19:29+00:00"
-        },
-        {
-          "name": "BioSpace",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5",
-          "domain": "biospace.com",
-          "published_at": "2026-10-23T06:35:45+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "abuse assessment charles collaborate fda methods potential preclinical river validate"
     },
     {
       "id": "3f6a662d7dc0f4a95163",
@@ -4817,6 +4763,72 @@
       ],
       "coverage_count": 3,
       "event_signature": "accessed confirms cyberattack down information patient shut systems temporarily"
+    },
+    {
+      "id": "b3919f99898b7865ba5c",
+      "company": "Labcorp",
+      "title": "Labcorp, Charles River and FDA Partner on Drug Abuse Research",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1A5ODhqR196SzgyU2VuS3pXN0JJVEx5TUhfTmtxVE45cjk2cDhKSUlSWjA5QWpIT1BKNTlzWWU5aS1BN2JhcGtHMERzLWlVWnpJS0xtR0FyTm0zSTd3M2UteVpLNWRoMjR0ZkhaVXZOeEFMUVY2dmtrSVpfZW5qVlpHSHpDbVVaN3lGS0tsMllkUHQySmxWVEpR?oc=5",
+      "description": "Charles River, Labcorp, and FDA sign drug abuse potential research pact StreetInsider",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU1A5ODhqR196SzgyU2VuS3pXN0JJVEx5TUhfTmtxVE45cjk2cDhKSUlSWjA5QWpIT1BKNTlzWWU5aS1BN2JhcGtHMERzLWlVWnpJS0xtR0FyTm0zSTd3M2UteVpLNWRoMjR0ZkhaVXZOeEFMUVY2dmtrSVpfZW5qVlpHSHpDbVVaN3lGS0tsMllkUHQySmxWVEpR?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTGhKRjl5RERPQ0Y2dlo0cWxrWWliMktjbUNZT3BGYXg4NkxxbHEzV29RRU41cTFuVU4zVEg2emhNY0JpU090TGhGUlE2RGRfWVdUSWVqWmpVUFAtUVBob0FTZGl5NlJKZFM5d29ndVlTY0g3UnNBYzdjUGtSMWdFMDA5ZDVJSWZCalFsNFQ2RjdXX19TakFwYnA4SmJXdEdSamtLT3NBZXFySFFIaVJUVTAzUGlsbEVPVjlQNlpYWGdJOXlrQWRQamxWeTZnVU0?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-10-22T20:33:43+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "abuse charles drug fda partner research river"
+    },
+    {
+      "id": "73de6c5c92dbb2400caf",
+      "company": "Labcorp",
+      "title": "Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
+      "description": "Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment Business Wire",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQV3pGYWJYb1V4cUtnTXlQMF9ERXVGY3VKOE93LXJKMEQxdWs3VjZFbW8ydkdJRG83UlcyRXJRZDNjb013Ty1CSEVobkpMYXFwZUlsMTFJbmVZc1RNbTdWcmRqUTVwc3NqcHJORHVjbWxseGNIcjZtWllPOFpGTGo1ZGxpTHpud0tFMUpQU0tiMUtZNDR0bDlpOVhWM3lRQktwTVpZamJrdmdMWGFXMVA5MHVQM3hSR1dIalZjckgyeFRDQnBnbk84dDE5WkRHa1BLVWFaVE9uM2x4R3Niak9ybjdLd0RrcWtBblo0azhfSDJWT3ZWVzdLamJrUUQ5WVp6Vy1IYmFLMlhadw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM0hMbG5lT0VMSHZCanlxWmhoS2pYbUE4Nk1kOWxSV3I5czE5S3ozVzBnbFB4VnlBeW44RjktaW81a0VsRkI5VExPVGt3WG9UQS1sS3Q5U3dYcTNIQzJBa2J2UjVaeENyYlk0ampSdjhDZUthYTU1M2JHVjl1WmN1ZXRNOTFmTUd3eWVUaDJnQm5rOUdSNENTVFVtREloSjYzdElZQ3pGdF9xbnNrN0trY1ZTUTYtelFURWNQZ2hJZGtYbzVwMmFOZ1BfQmpfUDU0LTlWWWE1ZGlDWmszazN4NF9UMVRWakV0aW9jR0phSWlrSklDSlFkXw?oc=5",
+          "domain": "businesswire.com",
+          "published_at": "2026-10-22T20:30:00+00:00"
+        },
+        {
+          "name": "BioSpace",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0NCTlBJTmpqQlh6bTBhNlJycldFSmEtWFJqYmFuRFVvQ2p5bnM2N2puR1dZTEJMUTZ0QlVxWUNYOXJ6aVhuWDF2VndxcFJJV2ZLcFpjQ0prYjUyeUxTVUpKMGdVUThiby0wZVhXM3RFcjQ2WjEwR3RiWVQ4WGloRVJfVXZ5ZVFPN0Y2ZlIxY1h0Sl9nZlRFU1E0Y010ZF81eUFIMHpydV9lS3BIWGc2TEpZN3ZxNmNtLXdFbFdqUUU5ZmE4U1lkQVl1ZU1FUng3b2hYS3ZnVTU3Yk4tRW8tX1N3?oc=5",
+          "domain": "biospace.com",
+          "published_at": "2026-10-23T06:35:45+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "abuse assessment charles collaborate fda methods potential preclinical river validate"
     },
     {
       "id": "e27021cea6e4f79ec8df",
@@ -16274,10 +16286,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 50,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-01T00:17:00+05:30",
-  "next_update_display": "01 Nov 2026, 12:17 AM IST",
+  "next_update_at": "2026-11-01T06:17:00+05:30",
+  "next_update_display": "01 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
