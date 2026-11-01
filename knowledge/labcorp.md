@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 01 Nov 2026, 3:22 AM IST
+- **Repository generated:** 01 Nov 2026, 12:22 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -199,21 +199,7 @@
 
 **Feed description:** Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb
 
-## 17. Labcorp Hldgs Q3 2026 Earnings Call Transcript
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Benzinga: https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5
-  - Investing.com India: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5
-
-**Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
-
-## 18. Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains
+## 17. Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -226,7 +212,7 @@
 
 **Feed description:** Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record
 
-## 19. Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)
+## 18. Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -238,7 +224,7 @@
 
 **Feed description:** Labcorp : Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6) www.marketscreener.com
 
-## 20. Labcorp reports results for the quarter ended September 30 - Earnings Summary
+## 19. Labcorp reports results for the quarter ended September 30 - Earnings Summary
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -249,6 +235,21 @@
   - TradingView: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTm5nZTBveEZDU2FBWklZZlc3ZHljM1dwLVdCWkFidmc4TndnNDE4NjB2WFQ3Nm1IbDZVYVFlZjU0WnhmNEVDSHRlOXFXaXRxY0I2QVROYnc2eWlCZlJid1hBamI5bFVsOFdBVTItRWtLR2ZGeGd2cklhWHV5TF9jOHRTRnd2engzU3NLRmN6X0lYRVZkMzJUdXNLaGNWY3k4NkJOeVhqY0haWE1hR1dIOTd5UUZaV1BaYXJnMFRRd0RSUksyYmp2emZsWW9wbEw0dTlQMGlfbktFM3Jmc3lyb2stVm1JNXh6NXVHazJmZw?oc=5
 
 **Feed description:** Labcorp Holdings Inc. reports results for the quarter ended September 30 - Earnings Summary TradingView
+
+## 20. Labcorp R (N6B.MU) Q3 FY2026 earnings call transcript
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFdIWlZWamxxc3AyQ3JHU2hEQklpaFRxek04dzE3QV9mVjdzTkE2dFVRRjJ4djJNUE8yZGs0RTZldUVIXzEzeDBzZk9DcEVFR3hXOHp2UmFsTnp5aGdGZUJ6T0RNeGd4bjNFMXZERTdsM0ZPdkZXSllUWHJzaGktV3UwdzFXM05MUDRhMHlJTTRIdw?oc=5
+  - Benzinga: https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5
+
+**Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
 
 ## 21. Labcorp Q3 2026 Earnings Call Is Live
 

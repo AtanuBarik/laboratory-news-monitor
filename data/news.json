@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-01T03:22:59.412326+05:30",
-  "generated_at_display": "01 Nov 2026, 3:22 AM IST",
+  "generated_at": "2026-11-01T12:22:44.021360+05:30",
+  "generated_at_display": "01 Nov 2026, 12:22 PM IST",
   "item_count": 527,
   "raw_relevant_item_count": 674,
-  "duplicates_merged": 96,
+  "duplicates_merged": 97,
   "failures": [],
   "items": [
     {
@@ -589,42 +589,6 @@
       "event_signature": "249 all high hits stock time usd"
     },
     {
-      "id": "26b46832a26af5ccdc79",
-      "company": "Labcorp",
-      "title": "Labcorp Hldgs Q3 2026 Earnings Call Transcript",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5",
-      "description": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "source_domain": "benzinga.com",
-      "published_at": "2026-10-28T14:15:16+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5",
-          "domain": "benzinga.com",
-          "published_at": "2026-10-28T14:15:16+00:00"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-10-28T14:24:22+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-10-28T14:27:54+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "2026 call earnings hldgs transcript"
-    },
-    {
       "id": "aa1d568389a8fe11ea7b",
       "company": "Labcorp",
       "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
@@ -725,6 +689,48 @@
       ],
       "coverage_count": 1,
       "event_signature": "earnings ended quarter results september summary"
+    },
+    {
+      "id": "92afbb966c69a6335896",
+      "company": "Labcorp",
+      "title": "Labcorp R (N6B.MU) Q3 FY2026 earnings call transcript",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFdIWlZWamxxc3AyQ3JHU2hEQklpaFRxek04dzE3QV9mVjdzTkE2dFVRRjJ4djJNUE8yZGs0RTZldUVIXzEzeDBzZk9DcEVFR3hXOHp2UmFsTnp5aGdGZUJ6T0RNeGd4bjNFMXZERTdsM0ZPdkZXSllUWHJzaGktV3UwdzFXM05MUDRhMHlJTTRIdw?oc=5",
+      "description": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T13:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFdIWlZWamxxc3AyQ3JHU2hEQklpaFRxek04dzE3QV9mVjdzTkE2dFVRRjJ4djJNUE8yZGs0RTZldUVIXzEzeDBzZk9DcEVFR3hXOHp2UmFsTnp5aGdGZUJ6T0RNeGd4bjNFMXZERTdsM0ZPdkZXSllUWHJzaGktV3UwdzFXM05MUDRhMHlJTTRIdw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T13:00:00+00:00"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-10-28T14:15:16+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-28T14:24:22+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-28T14:27:54+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "call earnings fy2026 n6b transcript"
     },
     {
       "id": "ddc4af5b048cb4aa8c83",
@@ -4645,9 +4651,15 @@
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5",
           "domain": "fox29.com",
           "published_at": "2026-10-22T20:56:38+00:00"
+        },
+        {
+          "name": "FOX 10 Phoenix",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnFRc2I5dWdKQ1ByNktWYkZPaHNVUkhpWEIwVUE2Y19EMjlPLVB1YzBaUVN2ODE0cEhZS191THE4Uld1UEJJaEE1VWZxTVR6RjJnUmFZYldNX0F3a3ByYW5sc1R6blpuQTVzcmp2MXFYRjlUNFJkeWF0M09lYW1tdUw2dkFkZEpSUmsxU3pjUmVqMjdXcnpxNUhISElyOFZZS2xIdkZyd1FMMlZ3QUM3TUV6eW9qN0E?oc=5",
+          "domain": "fox10phoenix.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
@@ -6091,48 +6103,6 @@
       "event_signature": "asia expand genomic invests pathology regional testing"
     },
     {
-      "id": "b00880b59597f0d155b7",
-      "company": "Quest Diagnostics",
-      "title": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5",
-      "description": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-10-14T12:12:00+00:00",
-      "published_display": "14 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-14T12:12:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-10-14T12:18:53+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5",
-          "domain": "es.tradingview.com",
-          "published_at": "2026-10-14T12:12:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-14T12:12:00+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "ahead earnings here how placed"
-    },
-    {
       "id": "f71acb9fdf247d332889",
       "company": "Labcorp",
       "title": "Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks",
@@ -6275,6 +6245,48 @@
       ],
       "coverage_count": 2,
       "event_signature": "230 ahead cap edges holding lower mid momentum range resistance"
+    },
+    {
+      "id": "bcb6c6d277ea111e38e6",
+      "company": "Quest Diagnostics",
+      "title": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5",
+      "description": "Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-14T12:12:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-14T12:18:53+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5",
+          "domain": "es.tradingview.com",
+          "published_at": "2026-10-14T12:12:00+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "ahead earnings here how placed"
     },
     {
       "id": "3537ca9b6ef4ef30456b",
@@ -16286,10 +16298,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 49,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-01T06:17:00+05:30",
-  "next_update_display": "01 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-01T18:17:00+05:30",
+  "next_update_display": "01 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

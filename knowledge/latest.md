@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 01 Nov 2026, 3:22 AM IST
+- **Repository generated:** 01 Nov 2026, 12:22 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -286,21 +286,7 @@
 
 **Feed description:** Quest Diagnostics stock hits all-time high at 249.1 USD Investing.com
 
-## 24. Labcorp Hldgs Q3 2026 Earnings Call Transcript
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 3
-- **Official source involved:** No
-- **Sources:**
-  - Benzinga: https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5
-  - Investing.com India: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5
-
-**Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
-
-## 25. Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains
+## 24. Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -313,7 +299,7 @@
 
 **Feed description:** Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record
 
-## 26. Quest Diagnostics faces multiple class action lawsuits over lab data breach
+## 25. Quest Diagnostics faces multiple class action lawsuits over lab data breach
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 28 Oct 2026
@@ -325,7 +311,7 @@
 
 **Feed description:** Quest Diagnostics faces multiple class action lawsuits over lab data breach Top Class Actions
 
-## 27. Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)
+## 26. Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -337,7 +323,7 @@
 
 **Feed description:** Labcorp : Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6) www.marketscreener.com
 
-## 28. Labcorp reports results for the quarter ended September 30 - Earnings Summary
+## 27. Labcorp reports results for the quarter ended September 30 - Earnings Summary
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -348,6 +334,21 @@
   - TradingView: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTm5nZTBveEZDU2FBWklZZlc3ZHljM1dwLVdCWkFidmc4TndnNDE4NjB2WFQ3Nm1IbDZVYVFlZjU0WnhmNEVDSHRlOXFXaXRxY0I2QVROYnc2eWlCZlJid1hBamI5bFVsOFdBVTItRWtLR2ZGeGd2cklhWHV5TF9jOHRTRnd2engzU3NLRmN6X0lYRVZkMzJUdXNLaGNWY3k4NkJOeVhqY0haWE1hR1dIOTd5UUZaV1BaYXJnMFRRd0RSUksyYmp2emZsWW9wbEw0dTlQMGlfbktFM3Jmc3lyb2stVm1JNXh6NXVHazJmZw?oc=5
 
 **Feed description:** Labcorp Holdings Inc. reports results for the quarter ended September 30 - Earnings Summary TradingView
+
+## 28. Labcorp R (N6B.MU) Q3 FY2026 earnings call transcript
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFdIWlZWamxxc3AyQ3JHU2hEQklpaFRxek04dzE3QV9mVjdzTkE2dFVRRjJ4djJNUE8yZGs0RTZldUVIXzEzeDBzZk9DcEVFR3hXOHp2UmFsTnp5aGdGZUJ6T0RNeGd4bjNFMXZERTdsM0ZPdkZXSllUWHJzaGktV3UwdzFXM05MUDRhMHlJTTRIdw?oc=5
+  - Benzinga: https://news.google.com/rss/articles/CBMilgFBVV95cUxOd29VSHdvX0RaNkIyMHBJLXJLODVqMXViZ1lBWURGMGJYUGRaekE0TGpYc1pSNGU4MlRuS05DRWhlbVBUaUs4WVZwS2FJRVJXR3VsYkZXTzBPdzdPTmxLNEJxbGVHcjR4SlFzSmN2a0lmS0swalNCa1dId3JpbVdwZXphQ0VXTzB0V2xfZnlkSnNCMnUtaGc?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOHFOS1JqOFZxZ1V4dmJwWHN2Z0hiMEZjcXVUbExGLUR2NXl6UE9CcHQ1SnNDSnJSaDlIdVQzZ2JvTDl2TWFWdjRKQkpKU1FQeVhPb2VIVWpCWnZYRW1IOVRZRF9oeDhkWGlkcmhBZlNTQUxEU3hfMk5XY18yUEY2TDB2UGw0dnc5S01qNXN1eEVueGZBRHZ5bU14Z1JtSEFFZmVyVG1jOFJLbUJtVEpGVnhMMVQtaXNMaFY2UW50QWV6dk5pMG9wRFZqRlJlZkZIdGc?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5
+
+**Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
 
 ## 29. Labcorp Q3 2026 Earnings Call Is Live
 
@@ -2032,7 +2033,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - LiveNOW from FOX: https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5
@@ -2040,6 +2041,7 @@
   - Yahoo: https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5
   - FOX6 News Milwaukee: https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5
   - FOX 29 Philadelphia: https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5
+  - FOX 10 Phoenix: https://news.google.com/rss/articles/CBMitwFBVV95cUxObnFRc2I5dWdKQ1ByNktWYkZPaHNVUkhpWEIwVUE2Y19EMjlPLVB1YzBaUVN2ODE0cEhZS191THE4Uld1UEJJaEE1VWZxTVR6RjJnUmFZYldNX0F3a3ByYW5sc1R6blpuQTVzcmp2MXFYRjlUNFJkeWF0M09lYW1tdUw2dkFkZEpSUmsxU3pjUmVqMjdXcnpxNUhISElyOFZZS2xIdkZyd1FMMlZ3QUM3TUV6eW9qN0E?oc=5
 
 **Feed description:** If you used Quest Diagnostics, your data may have been compromised: Here’s what happened FOX6 News Milwaukee
 
@@ -2627,22 +2629,7 @@
 
 **Feed description:** Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products
 
-## 202. Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 14 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
-  - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5
-
-**Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
-
-## 203. Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks
+## 202. Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks
 
 - **Company:** Labcorp
 - **Publication date:** 14 Oct 2026
@@ -2655,7 +2642,7 @@
 
 **Feed description:** Q2 Earnings Outperformers: Labcorp (NYSE:LH) And The Rest Of The Testing & Diagnostics Services Stocks Yahoo Finance
 
-## 204. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
+## 203. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -2669,7 +2656,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch
 
-## 205. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
+## 204. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 14 Oct 2026
@@ -2681,7 +2668,7 @@
 
 **Feed description:** Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant
 
-## 206. Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations
+## 205. Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -2693,7 +2680,7 @@
 
 **Feed description:** Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations Quest Diagnostics Newsroom
 
-## 207. Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum
+## 206. Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -2705,6 +2692,21 @@
   - https://www.siam.in/: https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum https://www.dars.gov.et/
+
+## 207. Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 14 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
+  - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5
+
+**Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
 
 ## 208. Latest Life Science Job at Labcorp | Apply Online Here
 

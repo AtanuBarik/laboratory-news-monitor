@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 01 Nov 2026, 3:22 AM IST
+- **Repository generated:** 01 Nov 2026, 12:22 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -1296,7 +1296,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - LiveNOW from FOX: https://news.google.com/rss/articles/CBMitAFBVV95cUxPZTdEcVhaUnByUW5mTVlwVG9JSzE0NHNrY2dMRC1JM0pIUUszUlRRdWFmSXFDUFM3RUYtdElCbERTMmxrQTVvVDBZdEJwd0d3YVJNVzRlT2Fob3FqY0NUd1dNai1jaXE2eGY0NzBWWERkTnk5QWdVbHlXVFNkMWdFY1djTmJtLVZGR1JQSVF5SnFobHpIcEJTNmUxU2g0X0l1c0dnLVBaTERodXdlc3NqbTZiemM?oc=5
@@ -1304,6 +1304,7 @@
   - Yahoo: https://news.google.com/rss/articles/CBMijgFBVV95cUxPbVVQbjU1Wk1kMHNZeHNXU2NoQTcyeWRvM0VMRlVXMU5Ib3Z3T1dWdXRJTV9ac3NxNHo1cERCdzltUUloQmtRdk0tOEtnQXRDaFU5WmlmWU9RTGZtZzM0ZmxRTERGRXdHdlYtOVBpM1JaMU4zYmRNZUJPbm5rUzFfQnJsSkZDUHNsM0xyNEVn?oc=5
   - FOX6 News Milwaukee: https://news.google.com/rss/articles/CBMisAFBVV95cUxNTWduZ2w1bVR4TWRLV3JFU3FKWGxZZk5DQVhMMzZFNVYtVkFoWUR1cGRmUzg2UzBBeFpFX0s1UHE1VEs4RkYtMkxDaUEtZ04ydlh2LVJ4R3lyenNEZzVaRGxCMkd0NnNQRDlnUlVxX2JKOTF0U3c1c29vMkFtd2pEZU1zZzhzMl82Z2lYT1Q3UzB5dFlXbkNqNm16ZlUtUWVFcG4zbFVyWkptdlZnS0xVMw?oc=5
   - FOX 29 Philadelphia: https://news.google.com/rss/articles/CBMirgFBVV95cUxQa1owU0xkazd4dTdhZ0JIajZfbkxHZkhYcDBENlgyZTJoSXdLN1hQSWc5QWRNaHY2MHlILXNPMFp5eWw2RzI4RTRpb2FMSXJ2Y1BYQktzb0s0QWxVWG8xaUNqdGxvWURpSFg1NUlTZVFkX0YyLWEwcy0zYVNIdlBod01fTHQ2OGFlaUZKNV9GcXNyWnM4Ty1malphZ1NOUGY4Q3NKekczemFhU0tYbWc?oc=5
+  - FOX 10 Phoenix: https://news.google.com/rss/articles/CBMitwFBVV95cUxObnFRc2I5dWdKQ1ByNktWYkZPaHNVUkhpWEIwVUE2Y19EMjlPLVB1YzBaUVN2ODE0cEhZS191THE4Uld1UEJJaEE1VWZxTVR6RjJnUmFZYldNX0F3a3ByYW5sc1R6blpuQTVzcmp2MXFYRjlUNFJkeWF0M09lYW1tdUw2dkFkZEpSUmsxU3pjUmVqMjdXcnpxNUhISElyOFZZS2xIdkZyd1FMMlZ3QUM3TUV6eW9qN0E?oc=5
 
 **Feed description:** If you used Quest Diagnostics, your data may have been compromised: Here’s what happened FOX6 News Milwaukee
 
@@ -1567,22 +1568,7 @@
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia
 
-## 120. Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 14 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 4
-- **Official source involved:** No
-- **Sources:**
-  - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
-  - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5
-
-**Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
-
-## 121. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
+## 120. Quest Diagnostics stock underperforms Wednesday when compared to competitors despite daily gains
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -1596,7 +1582,7 @@
 
 **Feed description:** Quest Diagnostics Inc. stock underperforms Wednesday when compared to competitors despite daily gains MarketWatch
 
-## 122. Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations
+## 121. Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -1608,7 +1594,7 @@
 
 **Feed description:** Quest Diagnostics Foundation Announces the Quest for Healthy Communities Champion Awards – Now Accepting Nominations Quest Diagnostics Newsroom
 
-## 123. Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum
+## 122. Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 14 Oct 2026
@@ -1620,6 +1606,21 @@
   - https://www.siam.in/: https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5
 
 **Feed description:** Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Mid Cap Momentum https://www.dars.gov.et/
+
+## 123. Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 14 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 4
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxOOHV1ZllLWktOVVpSY1pqN2lDYVV4MFZ3QmNfa01JT3ZnLXJRbXE2blpuWHJxY09JQzlEMl9YNEpwQmZtSWo1YUc3T2lCZ2VsbTZOWE1NbmVZSkxfeFU0SkhQOVVIQ2lxSldERUJTX2pMSTZ1N1RCNVNiUmtOZ1N5UTFDdElVQkhGSFhBaGluUE43b2NrbVFHVVdwcUttUQ?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3FTbGNaaFlmVkdJNEgtQzl4dWZ0TzB2cDd3Q2hrZzRwbnVnTV9va05pMk1ucXFCSnA5U0RKSVk5aVVfbEJ6Uk0wcTBxQmppREpHZ1FaZHZCX3BMRnpzdjl1b2R4X1kwaFVuNHdRNERDdU1sM0w3N3ZOSW02YTZyVWJqcURTSkNvUHhvQ3JBMUNaNGZKSnB2T3ZQNVdXTlBDd2dYVDhianViZDFKLVpRTF9wRC1fQQ?oc=5
+  - Zacks Investment Research: https://news.google.com/rss/articles/CBMioAFBVV95cUxNNDlaaG1FTlVFeUdGYzlKVGFDdS1qUXZiMmJ1ZUpmbzlvWHVzWkEzU19maFl5aUQ0VE9qeWhmNmVhM05hMHV1QkI3SWtHS1BCa3RjTlpXYVNweWlyandUelY1UnR1by00UGd4b1BVOHdzVWh0bzl6eWhnOFNVYTZCUnVQdHN5YkpRVF9ZcS10NFFzQXBSMjB4RFExWnNodmVY?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMitAFBVV95cUxPVURqM1A2dzZ4VXQ4ZFZ6Smx4aWZvMFhoRzVvVVFnUUtTWUlOcHNfMEVYZXlXeWNiRjhKdDU2SG10N0NVZTY2SlBmRG8yX1ZyVEgtcEhFTEd5NmRLOU92TVlfYnBzbzlkZDNQYTVIMzY0M29VaEVGV3JIcl9ERG1CblpWY2s3RTlGRjhhNW1ZaHQ5Zm5VR3hkeVNBUkQ3QmVFRjdQRGZsbl9CQkppNXgzWkNGUlo?oc=5
+
+**Feed description:** Here's How Quest Diagnostics Is Placed Ahead of Q3 Earnings Zacks Investment Research
 
 ## 124. Quest Diagnostics Q1 2026 Earnings Call Transcript
 
