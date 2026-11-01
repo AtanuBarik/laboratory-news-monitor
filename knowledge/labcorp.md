@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 01 Nov 2026, 11:37 PM IST
+- **Repository generated:** 02 Nov 2026, 3:57 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -807,25 +807,7 @@
 
 **Feed description:** Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Zacks Investment Research
 
-## 64. Labcorp Declares Quarterly Dividend
-
-- **Company:** Labcorp
-- **Publication date:** 21 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 7
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5
-  - PR Newswire: https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVdVTGFRbFVaSFdqU0RUdGw5b0NfOXhuckQ0NmxOVkFwWElzUVFnN2dEdUxybjZudUstQ1Y2NW50cmoxd3FNVjFpQ3dzdzdtajdQZmRKNWdMM0ZJeEZFMXY0dnNoTW5nTWlaOEg3RGxEM3k5bkoydmN1RnpiVGE2V3Y0ZHBoeVFSTnUycWpoR2J4Ui1hUlVGdUdfZ2RNdy1ub3BoMzFKbVZMWVNtbHBYYWcwR3FqeVZ5QXc?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjJWdjRxNHRONjZkdkkwcnFaVWpSSk0xQ1dYN2l0VWtVQTdWeHhObTNvbHBCeUc3QjUyLTlYcFJIQnowTktGbEdrYjQtdkh0ckVEQVhhekZ3cFVvU3FPQ242WU1UVnRvdlg5Zm81TklGbExDNldMVXVjdUx4REw1djFONE4xamdHdHZheUlmRVVoWkR6VFpVaXl5ekRaLTNlWmw4eTQzbXlRN0VNSGxjNGJSRW1ZV2JD?oc=5
-  - TradingView: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5
-  - Investing.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5
-  - MarketBeat: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempZbG1ENGpZcklmODNub1cxQmhSak5UbjVYVDJOWnNicnJMMjZfRzNsVG01VUwyU2hvZEpiU0dOckxKY21hZHA2cUlGNGZndFRPV3dNNjU0cXpSOFBlMElTWlIzMjF6SVppUGIyVF8wVUhLY0VlQkxINmp1dHhaSXpFR0xjX1lkd0xIa1VzWl9MNmROYXhRS0tfYzZJMDdSQnUwTTBWbWw0M0psWHRHV1V4VHk0ZWNWSDJCWE0yaGc?oc=5
-
-**Feed description:** Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat
-
-## 65. Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M
+## 64. Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -836,6 +818,24 @@
   - Femtech Insider: https://news.google.com/rss/articles/CBMimwFBVV95cUxQS0FHa3lCM3psNE1HcnIxN3JhTWtaYUVZNDR5MXU1Mmd1VTZxbjl6V0lmcWpOWGtGV01teGU3UEZVZHotdDFNcmhWT0dRUXROdWFlNzhpSVBYcWx6WFUwT0R2eE5VSU1ENzBtSkoydzJNQjJuQlNDb1NMRllTWFlFd0c5NHVEOGtzU1EzaXBvLVF1OVl4N284bUlVRQ?oc=5
 
 **Feed description:** Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M Femtech Insider
+
+## 65. Labcorp Declares $0.72 Quarterly Dividend
+
+- **Company:** Labcorp
+- **Publication date:** 21 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 7
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVdVTGFRbFVaSFdqU0RUdGw5b0NfOXhuckQ0NmxOVkFwWElzUVFnN2dEdUxybjZudUstQ1Y2NW50cmoxd3FNVjFpQ3dzdzdtajdQZmRKNWdMM0ZJeEZFMXY0dnNoTW5nTWlaOEg3RGxEM3k5bkoydmN1RnpiVGE2V3Y0ZHBoeVFSTnUycWpoR2J4Ui1hUlVGdUdfZ2RNdy1ub3BoMzFKbVZMWVNtbHBYYWcwR3FqeVZ5QXc?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjJWdjRxNHRONjZkdkkwcnFaVWpSSk0xQ1dYN2l0VWtVQTdWeHhObTNvbHBCeUc3QjUyLTlYcFJIQnowTktGbEdrYjQtdkh0ckVEQVhhekZ3cFVvU3FPQ242WU1UVnRvdlg5Zm81TklGbExDNldMVXVjdUx4REw1djFONE4xamdHdHZheUlmRVVoWkR6VFpVaXl5ekRaLTNlWmw4eTQzbXlRN0VNSGxjNGJSRW1ZV2JD?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5
+  - MarketBeat: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempZbG1ENGpZcklmODNub1cxQmhSak5UbjVYVDJOWnNicnJMMjZfRzNsVG01VUwyU2hvZEpiU0dOckxKY21hZHA2cUlGNGZndFRPV3dNNjU0cXpSOFBlMElTWlIzMjF6SVppUGIyVF8wVUhLY0VlQkxINmp1dHhaSXpFR0xjX1lkd0xIa1VzWl9MNmROYXhRS0tfYzZJMDdSQnUwTTBWbWw0M0psWHRHV1V4VHk0ZWNWSDJCWE0yaGc?oc=5
+
+**Feed description:** Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat
 
 ## 66. Labcorp acquisition spree continues
 
@@ -920,13 +920,14 @@
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
 - **Category:** Other
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMingFBVV95cUxPeFlRRlJFaU13dEF0Z2xMSFhZNXVnNHRTbmpkQ0JfcXY5RHBXb2VvaU5PdllaTHJoWU9LQjc2R0ttYVJiTUJqRUtFVnNpYzRJSlB5Q2JMcWUxWXdmbXYtazZXOU1FYy1Ka2tpd2lXenhseHZRZDBzYlJsaW93SGJGX2NVM1NMNlJHbUFWYkJDekxKMFhUTjdmSnNvaTFDdw?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMivgFBVV95cUxPUWZZaDU4dGtHdjM0T2M1MDRLeml5ZFpfdWtDYXMxbm0zQVNaNFdZUlNheG1SX1NvTGFaZFlpLW5ncTVod1ZQLXlpSS1nUm9HNmFFOVN3emNxZW5vSFRrOXkxZV9hQk5LekdMQWM0c0ZET0ZhU3NRRXhuVnptejFDdHRteFNpNVBVSDFLTDNfekRCT0lmU2UyY3NMS25JelZMdWtDZ0lnLThITHRnMjhvR3JQSGwxSzBpT2o4TG9B?oc=5
   - Zacks Investment Research: https://news.google.com/rss/articles/CBMiqwFBVV95cUxObE9rNDFDQUlVRHRZdkE4bjJFWGZoMlhqOXBhSVVaaWstOGtSSzY3SnVxRkRkVkI0eHNaa2htWVdKcVdHSlRWR2k5dlFUc25LblJkVEdfbWtpWEtDbXd3ZE5CVGp4TVM0dV9Ic1IzczVjakVobTBGVENQYnRqa0QxZ3I5N0RlNk1BR3hiYmc3MUR5MHZBNzhxVVRFMmVTc1ZWMEFnbmpURFc3dVE?oc=5
   - PR Newswire: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOHpZLXFtOXV5X19XRmxmYjI1bkVYZEF4ZE00bXhDRVZMa3NtRU9oNGdDZTJqREJHeW8tM3N0eEhRSmFFNENscGJCVUdNR21iOEJMd2VfVXo2QUozVndVanZPRnM5QVFoSmJ6dHFXTDFYdWllSS1OMTVGWGJwUlp3N0tWd0x6N05aLXBuSHJ1akh4MkVwT0oyV1puOFdXUHZ1dDJvVHNqTkNVZGVHek5xaF92ck5QTVBfWEhzN2xFbFdRRjNoX25PeUdTMXMtZksyQ050VWp0WjhDRC1ZcUtLZURyRnJxdTFCdHN1MlBoZ0lSbER3SWE4?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMivwFBVV95cUxNanNWcG5rbFpTM2NIUGU2dDlndm5HWWl5N2xjX2JxR3p2cG5zZTltczhEbGlCaW5qbVlFN2pWX1g1RUZwZHkyUi16dFdTd1RpYWtvaDlpVkJ2ZlZ0Y3lUa2h6YTJ4bkFVUFFnN0pZUFM3cXJMSHZvaERyRGZ5YjJ6OGwtRUhfX2dHLVcyOW9VbTM0aGhmalUwckJuZ0xqSWVuU3dZTUNSUGlPbjN0eVlpQ0RVLTItRkdfbXdmYnZhZw?oc=5
 
 **Feed description:** Greenberg Traurig Advises OPKO Health on $722M+ Agreement to Sell Select BioReference Health Assets to Labcorp PR Newswire
 

@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-01T23:37:49.912576+05:30",
-  "generated_at_display": "01 Nov 2026, 11:37 PM IST",
-  "item_count": 524,
-  "raw_relevant_item_count": 728,
-  "duplicates_merged": 152,
+  "generated_at": "2026-11-02T03:57:11.161649+05:30",
+  "generated_at_display": "02 Nov 2026, 3:57 AM IST",
+  "item_count": 525,
+  "raw_relevant_item_count": 681,
+  "duplicates_merged": 108,
   "failures": [],
   "items": [
+    {
+      "id": "fc4d1ce255083af55398",
+      "company": "Sonic Healthcare",
+      "title": "INOVIQ Partners Sonic Healthcare USA to Validate Ovarian Cancer Test",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXA4b3VmMHZLYlc1amFHYXNwR0xWT2k2dVZfRlh3Wlh2Xzh3d1kzcXI4TXVTeFVFR2FOdmozVEhVTmwzMHlEMnE2NGFSbDZ1V3RIMjZ3VVNEdWRxS19QUFBtMjdwVmxkN1JtUElrclVqdDFSZnZSNDl5WkZ2SjJKQlZYUjZzOUtzNXRqYk5Pekg2bzVBOWpybTNUeGxCM3dNSDZob0ZyaklNVHdEc25IcEpDR2RiVWVjWU1VaA?oc=5",
+      "description": "INOVIQ Partners Sonic Healthcare USA to Validate Ovarian Cancer Test TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-11-01T22:07:28+00:00",
+      "published_display": "01 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZXA4b3VmMHZLYlc1amFHYXNwR0xWT2k2dVZfRlh3Wlh2Xzh3d1kzcXI4TXVTeFVFR2FOdmozVEhVTmwzMHlEMnE2NGFSbDZ1V3RIMjZ3VVNEdWRxS19QUFBtMjdwVmxkN1JtUElrclVqdDFSZnZSNDl5WkZ2SjJKQlZYUjZzOUtzNXRqYk5Pekg2bzVBOWpybTNUeGxCM3dNSDZob0ZyaklNVHdEc25IcEpDR2RiVWVjWU1VaA?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-11-01T22:07:28+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cancer inoviq ovarian partners test usa validate"
+    },
     {
       "id": "151570963751764ca91b",
       "company": "Labcorp",
@@ -4987,66 +5011,6 @@
       "event_signature": "cards earnings prepares report what"
     },
     {
-      "id": "d92783af1a45a53e9f08",
-      "company": "Labcorp",
-      "title": "Labcorp Declares Quarterly Dividend",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
-      "description": "Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-21T10:50:00+00:00",
-      "published_display": "21 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-21T10:50:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-21T10:50:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVdVTGFRbFVaSFdqU0RUdGw5b0NfOXhuckQ0NmxOVkFwWElzUVFnN2dEdUxybjZudUstQ1Y2NW50cmoxd3FNVjFpQ3dzdzdtajdQZmRKNWdMM0ZJeEZFMXY0dnNoTW5nTWlaOEg3RGxEM3k5bkoydmN1RnpiVGE2V3Y0ZHBoeVFSTnUycWpoR2J4Ui1hUlVGdUdfZ2RNdy1ub3BoMzFKbVZMWVNtbHBYYWcwR3FqeVZ5QXc?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-21T10:50:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjJWdjRxNHRONjZkdkkwcnFaVWpSSk0xQ1dYN2l0VWtVQTdWeHhObTNvbHBCeUc3QjUyLTlYcFJIQnowTktGbEdrYjQtdkh0ckVEQVhhekZ3cFVvU3FPQ242WU1UVnRvdlg5Zm81TklGbExDNldMVXVjdUx4REw1djFONE4xamdHdHZheUlmRVVoWkR6VFpVaXl5ekRaLTNlWmw4eTQzbXlRN0VNSGxjNGJSRW1ZV2JD?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-21T10:53:00+00:00"
-        },
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-10-21T10:54:08+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-21T11:34:13+00:00"
-        },
-        {
-          "name": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempZbG1ENGpZcklmODNub1cxQmhSak5UbjVYVDJOWnNicnJMMjZfRzNsVG01VUwyU2hvZEpiU0dOckxKY21hZHA2cUlGNGZndFRPV3dNNjU0cXpSOFBlMElTWlIzMjF6SVppUGIyVF8wVUhLY0VlQkxINmp1dHhaSXpFR0xjX1lkd0xIa1VzWl9MNmROYXhRS0tfYzZJMDdSQnUwTTBWbWw0M0psWHRHV1V4VHk0ZWNWSDJCWE0yaGc?oc=5",
-          "domain": "marketbeat.com",
-          "published_at": "2026-10-21T22:24:22+00:00"
-        }
-      ],
-      "coverage_count": 7,
-      "event_signature": "declares dividend quarterly"
-    },
-    {
       "id": "5b48312d90ced6bf5181",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics earnings beat, stock sinks ~5% anyway",
@@ -5093,6 +5057,66 @@
       ],
       "coverage_count": 1,
       "event_signature": "210m acquires business genetics myriad prenatal testing"
+    },
+    {
+      "id": "8b1e9d0c9d452c41b671",
+      "company": "Labcorp",
+      "title": "Labcorp Declares $0.72 Quarterly Dividend",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVdVTGFRbFVaSFdqU0RUdGw5b0NfOXhuckQ0NmxOVkFwWElzUVFnN2dEdUxybjZudUstQ1Y2NW50cmoxd3FNVjFpQ3dzdzdtajdQZmRKNWdMM0ZJeEZFMXY0dnNoTW5nTWlaOEg3RGxEM3k5bkoydmN1RnpiVGE2V3Y0ZHBoeVFSTnUycWpoR2J4Ui1hUlVGdUdfZ2RNdy1ub3BoMzFKbVZMWVNtbHBYYWcwR3FqeVZ5QXc?oc=5",
+      "description": "Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVdVTGFRbFVaSFdqU0RUdGw5b0NfOXhuckQ0NmxOVkFwWElzUVFnN2dEdUxybjZudUstQ1Y2NW50cmoxd3FNVjFpQ3dzdzdtajdQZmRKNWdMM0ZJeEZFMXY0dnNoTW5nTWlaOEg3RGxEM3k5bkoydmN1RnpiVGE2V3Y0ZHBoeVFSTnUycWpoR2J4Ui1hUlVGdUdfZ2RNdy1ub3BoMzFKbVZMWVNtbHBYYWcwR3FqeVZ5QXc?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVzhLb0FENXRNQ2FYSldjdGdjdXNOdG1ZbUJpUkUxaWJ1bkllamI0M1piQ3JPSnVuLTVzYjJCOWVEM3MtVmU0YzZJVUZnbGRERGFudGQtTmJSZXlRQVdLYms4LUtZYjMzLXptaHg2d3c3bXcxc1FkZDNvazRJM3VGWWNPSGp0eVpxWlZnM2xIVGx2TzEyanZQcjczZ0gwLUgybFE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-21T10:50:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkFJR1ZqLTgxYnAyeFUzOXFrSDhfVHlsaGlmSDJ1YnhBS3AzUXZrRkZSTFV1YmVCcG90U3NSaWZpeDBLMENiYlVBNkh1aEVEUjA0VEVtUGd1QVdhMlBxQWFndVhmMzRzRXNMUV9RYTdFRG5GSnQ0eVoxdzZrcDFJRGhobWZkWVg4NVM1MzJRZE9NVUxiWVE?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-21T10:50:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjJWdjRxNHRONjZkdkkwcnFaVWpSSk0xQ1dYN2l0VWtVQTdWeHhObTNvbHBCeUc3QjUyLTlYcFJIQnowTktGbEdrYjQtdkh0ckVEQVhhekZ3cFVvU3FPQ242WU1UVnRvdlg5Zm81TklGbExDNldMVXVjdUx4REw1djFONE4xamdHdHZheUlmRVVoWkR6VFpVaXl5ekRaLTNlWmw4eTQzbXlRN0VNSGxjNGJSRW1ZV2JD?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-21T10:53:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQ0RkQnRMNlJCWko4SmRQTTFDMGI1amNUVVJxUzNmbmlvTERVTl9CWGpTb2w4eXgwRjBvbXR2amZzMHdYZ2ItTmVVQTZZOFRWdzB2MVB3TmljVXhYR084dU9xUVhmN01tRG1KSzE0bWc1ZjY5Q2hic3JKZVNXaW9PVlViM3ktclI0VGNwOVJ0VC0yamk0VEk5R28zcVpMRTIwNVhNbHdCSm4?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-21T10:54:08+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbmRMZlVzck1Ic2c2WGJyY1FmVURlcTY2XzU0XzVmbTBrcU1STU5yektjbE1wTG84TEN6Y0xXUXN6SlAwU2VRR1lHSm9jOHRVTXQwRTZlYklYZW5ZRVhlYzVyTzE4VUVRby1uNVBtQVBCWnFDZFpFVTNjQ3ROdnlvcE9kRFlhY01zQmRKdGZlRGZ2QjJkb3lZdjRWendCQV9naTZBazBwcUFBd1VjUGc?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-21T11:34:13+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQempZbG1ENGpZcklmODNub1cxQmhSak5UbjVYVDJOWnNicnJMMjZfRzNsVG01VUwyU2hvZEpiU0dOckxKY21hZHA2cUlGNGZndFRPV3dNNjU0cXpSOFBlMElTWlIzMjF6SVppUGIyVF8wVUhLY0VlQkxINmp1dHhaSXpFR0xjX1lkd0xIa1VzWl9MNmROYXhRS0tfYzZJMDdSQnUwTTBWbWw0M0psWHRHV1V4VHk0ZWNWSDJCWE0yaGc?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-10-21T22:24:22+00:00"
+        }
+      ],
+      "coverage_count": 7,
+      "event_signature": "declares dividend quarterly"
     },
     {
       "id": "fae4118b0f61ed796744",
@@ -5623,9 +5647,15 @@
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOHpZLXFtOXV5X19XRmxmYjI1bkVYZEF4ZE00bXhDRVZMa3NtRU9oNGdDZTJqREJHeW8tM3N0eEhRSmFFNENscGJCVUdNR21iOEJMd2VfVXo2QUozVndVanZPRnM5QVFoSmJ6dHFXTDFYdWllSS1OMTVGWGJwUlp3N0tWd0x6N05aLXBuSHJ1akh4MkVwT0oyV1puOFdXUHZ1dDJvVHNqTkNVZGVHek5xaF92ck5QTVBfWEhzN2xFbFdRRjNoX25PeUdTMXMtZksyQ050VWp0WjhDRC1ZcUtLZURyRnJxdTFCdHN1MlBoZ0lSbER3SWE4?oc=5",
           "domain": "prnewswire.com",
           "published_at": "2026-10-21T18:35:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNanNWcG5rbFpTM2NIUGU2dDlndm5HWWl5N2xjX2JxR3p2cG5zZTltczhEbGlCaW5qbVlFN2pWX1g1RUZwZHkyUi16dFdTd1RpYWtvaDlpVkJ2ZlZ0Y3lUa2h6YTJ4bkFVUFFnN0pZUFM3cXJMSHZvaERyRGZ5YjJ6OGwtRUhfX2dHLVcyOW9VbTM0aGhmalUwckJuZ0xqSWVuU3dZTUNSUGlPbjN0eVlpQ0RVLTItRkdfbXdmYnZhZw?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-16T14:20:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "722m assets bioreference health opko select sell"
     },
     {
@@ -16161,10 +16191,10 @@
       "event_signature": "approved cancer fda identify launches patients prostate test treatment truqap"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 47,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-02T00:17:00+05:30",
-  "next_update_display": "02 Nov 2026, 12:17 AM IST",
+  "next_update_at": "2026-11-02T06:17:00+05:30",
+  "next_update_display": "02 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
