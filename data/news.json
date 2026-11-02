@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-11-02T12:23:33.788524+05:30",
-  "generated_at_display": "02 Nov 2026, 12:23 PM IST",
-  "item_count": 529,
-  "raw_relevant_item_count": 741,
-  "duplicates_merged": 162,
+  "generated_at": "2026-11-03T03:26:40.610016+05:30",
+  "generated_at_display": "03 Nov 2026, 3:26 AM IST",
+  "item_count": 528,
+  "raw_relevant_item_count": 744,
+  "duplicates_merged": 164,
   "failures": [],
   "items": [
+    {
+      "id": "6076b89116aa6c436796",
+      "company": "Labcorp",
+      "title": "Labcorp’s Q3 earnings call: our top 5 analyst questions",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1JVjYzQml3QXdMMVN4Y3MzeDlWZkNWcUJoRVFRaEM5UWhudGlNU1VaX3RTVG5lUHNVQkhvdUFncGdJTEJ1RXNwS3pCeGtFaV8zUzQ5QXhFeDZlalBFa200T0o1MWR5Q28tOFhMTTFqRXlaMHBfYkVRdjQ0d3R1QXpmMzdzVFhLMWNIbGZYS01xREU?oc=5",
+      "description": "Labcorp’s Q3 earnings call: our top 5 analyst questions Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-02T21:17:36+00:00",
+      "published_display": "02 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1JVjYzQml3QXdMMVN4Y3MzeDlWZkNWcUJoRVFRaEM5UWhudGlNU1VaX3RTVG5lUHNVQkhvdUFncGdJTEJ1RXNwS3pCeGtFaV8zUzQ5QXhFeDZlalBFa200T0o1MWR5Q28tOFhMTTFqRXlaMHBfYkVRdjQ0d3R1QXpmMzdzVFhLMWNIbGZYS01xREU?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-02T21:17:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analyst call earnings our questions top"
+    },
+    {
+      "id": "436c08cad22520cf1bf3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Price, Chart & Analysis",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTlQ2Tk5wUDQxNmlpazFKTkNISGg1c3dSTG14QlBWSWJ0cXctSnY3a1N5dzF6dkQwRFhkeGNYcEtwcUFiZDRseDdydUhxS09BTnVj?oc=5",
+      "description": "Quest Diagnostics (DGX) Stock Price, Chart & Analysis www.debelegger.nl",
+      "source": "www.debelegger.nl",
+      "source_url": "https://www.debelegger.nl",
+      "source_domain": "debelegger.nl",
+      "published_at": "2026-11-02T12:33:14+00:00",
+      "published_display": "02 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.debelegger.nl",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZTlQ2Tk5wUDQxNmlpazFKTkNISGg1c3dSTG14QlBWSWJ0cXctSnY3a1N5dzF6dkQwRFhkeGNYcEtwcUFiZDRseDdydUhxS09BTnVj?oc=5",
+          "domain": "debelegger.nl",
+          "published_at": "2026-11-02T12:33:14+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analysis chart price stock"
+    },
     {
       "id": "f6aa723f99bfd1083373",
       "company": "Sonic Healthcare",
@@ -173,6 +221,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 billion growth revenue"
+    },
+    {
+      "id": "1eaf1fffc97cfc22fdf6",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Seasonal returns chart",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaU56bnhjRzJJamFsZThSQzBqZVk3LXVOeURISUhjZFd4OWUxOXhxMWhZeTAtUUFoMDdPaVFCcEo5bF83VmJVbXcyX3o3eE9yM3Nad0VNNHhQbUV0b243MQ?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) Seasonal returns chart Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "source_domain": "uk.finance.yahoo.com",
+      "published_at": "2026-10-30T20:00:03+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaU56bnhjRzJJamFsZThSQzBqZVk3LXVOeURISUhjZFd4OWUxOXhxMWhZeTAtUUFoMDdPaVFCcEo5bF83VmJVbXcyX3o3eE9yM3Nad0VNNHhQbUV0b243MQ?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-10-30T20:00:03+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "chart returns seasonal"
     },
     {
       "id": "aff3094b5182b51a7cfe",
@@ -1789,6 +1861,30 @@
       "event_signature": "932 acquire assets health lab millennium million spend"
     },
     {
+      "id": "11c17e9eace5e1c252ca",
+      "company": "Quest Diagnostics",
+      "title": "Patient Records Accessed In Quest Diagnostics Data Breach, What New Yorkers Should Know",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxbXVUOWR0aFFPTjJiRy1jcGJOdWdUQXotUlIxekhrTWZxUnBLRUdCcXlISDlyLTJlZWQyS252blBnZ29VY3Fhbkw2cmdCc3owaE1lb3VGMDV4NmtYYTJRY25CNFlyTzIyTHIzS2VBbw?oc=5",
+      "description": "Patient Records Accessed In Quest Diagnostics Data Breach, What New Yorkers Should Know WIBX 950",
+      "source": "WIBX 950",
+      "source_url": "https://wibx950.com",
+      "source_domain": "wibx950.com",
+      "published_at": "2026-10-26T14:23:49+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WIBX 950",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAxbXVUOWR0aFFPTjJiRy1jcGJOdWdUQXotUlIxekhrTWZxUnBLRUdCcXlISDlyLTJlZWQyS252blBnZ29VY3Fhbkw2cmdCc3owaE1lb3VGMDV4NmtYYTJRY25CNFlyTzIyTHIzS2VBbw?oc=5",
+          "domain": "wibx950.com",
+          "published_at": "2026-10-26T14:23:49+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accessed breach data know patient records should what yorkers"
+    },
+    {
       "id": "0f4de0332854b04b4de8",
       "company": "Quest Diagnostics",
       "title": "Form 144 QUEST DIAGNOSTICS For: 26 October By Investing.com",
@@ -2503,30 +2599,6 @@
       "event_signature": "acquiring drug firm health millennium testing"
     },
     {
-      "id": "ed960fd73f00ceea8681",
-      "company": "Quest Diagnostics",
-      "title": "Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5",
-      "description": "Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected Security Magazine",
-      "source": "Security Magazine",
-      "source_url": "https://www.securitymagazine.com",
-      "source_domain": "securitymagazine.com",
-      "published_at": "2026-10-23T14:00:00+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Security Magazine",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5",
-          "domain": "securitymagazine.com",
-          "published_at": "2026-10-23T14:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "affected breach cyber hits may patient records"
-    },
-    {
       "id": "8b1eec0bcfd50b96543d",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security",
@@ -2585,30 +2657,6 @@
       ],
       "coverage_count": 3,
       "event_signature": "across hpv network offer onclarity test"
-    },
-    {
-      "id": "5a61c16f54d803d9e53e",
-      "company": "Quest Diagnostics",
-      "title": "Patient Data Likely Accessed in Quest Diagnostics Hack",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5",
-      "description": "Patient Data Likely Accessed in Quest Diagnostics Hack The HIPAA Journal",
-      "source": "The HIPAA Journal",
-      "source_url": "https://www.hipaajournal.com",
-      "source_domain": "hipaajournal.com",
-      "published_at": "2026-10-23T12:26:22+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The HIPAA Journal",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5",
-          "domain": "hipaajournal.com",
-          "published_at": "2026-10-23T12:26:22+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "accessed data hack likely patient"
     },
     {
       "id": "59c60f4c1e76e31fb3a9",
@@ -3095,6 +3143,54 @@
       ],
       "coverage_count": 5,
       "event_signature": "confirms cyberattack exposing patient quanum records system"
+    },
+    {
+      "id": "5a61c16f54d803d9e53e",
+      "company": "Quest Diagnostics",
+      "title": "Patient Data Likely Accessed in Quest Diagnostics Hack",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5",
+      "description": "Patient Data Likely Accessed in Quest Diagnostics Hack The HIPAA Journal",
+      "source": "The HIPAA Journal",
+      "source_url": "https://www.hipaajournal.com",
+      "source_domain": "hipaajournal.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The HIPAA Journal",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWY2F6T0RTX21uSFp0M3ZhLVZNUHhQMERJeVlsckVqUXNRb0Q5WE1qXzdPODdiRnh6aTA2V3FPdmJRbTBrRVVid1F4TkdOVjNwUkxyendLUDc4YXFzallwYjExNkF5OWVWUnVacmFOQnVBdw?oc=5",
+          "domain": "hipaajournal.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accessed data hack likely patient"
+    },
+    {
+      "id": "ed960fd73f00ceea8681",
+      "company": "Quest Diagnostics",
+      "title": "Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5",
+      "description": "Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected Security Magazine",
+      "source": "Security Magazine",
+      "source_url": "https://www.securitymagazine.com",
+      "source_domain": "securitymagazine.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Security Magazine",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTZvcG5wUXVZTzV6VUhSaFAzaWRNdjlzNHhSMkFud0NxOG5TRk1hQ011Q0hEMFhLMXk4ZjdwaENVdFlQeFE5R1Z4Wkp0amxpVnFCMTRPakM2SlNrODd0TENQeGg4cV9uX2dENks5UFZYdEhIN0FvbWNvNl9VS0lCbHM3Nnc5eXNSb0VUQVZNRWhMdmFhdWJLT0JKQjhVdVZjZWZVZVlnN09oUmtWQTBTTU5jRHVObGM?oc=5",
+          "domain": "securitymagazine.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "affected breach cyber hits may patient records"
     },
     {
       "id": "8e32a8b4f1f82cd31536",
@@ -4657,9 +4753,15 @@
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcjVCODFUQzAzbjJVWVRwSl91WjNfLXNmZ0E4c09ScEU2MUs5M0RzTGk5WWZta2RSQkpGMERmMkkzYkVWejEtVXNUc0NHNGROTV9YX3ZZYVZNOXpTUGFnZXdCaFNjcFhvbk9SWTJhZldMb3o3dWNLc2hkWDFVN2Rjald3dmNVeHp3OEhRLUZBVmNtNTBpaW5YYzNzdXZ1N0xZamlBUjYyU0dabUZQbl83VGFQdFBULW1SZ1BDMTVGWG5aRVRvZzBRM2p6SGlyMHk1d09DYWZ1SXlYTjYtLXJF?oc=5",
           "domain": "healthexec.com",
           "published_at": "2026-10-26T21:49:36+00:00"
+        },
+        {
+          "name": "AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaWFRUGdDWlAwNE9oWnk1UWZkTFRaMmNYMXpfS0RFd3MwZ3EtMXNUWmpZMnlMNXZ0dmZBWXF0WHBsU3NYbWVPSU16dkJtS0JZNEVZT3VGTnl3cE0xZVZuandPRXo5NmlhaTNOTllSdjFOb0V5YXZHbXJNYjJjeDdkMURQdHktZ2FleEdvZi1UUmpnRzg?oc=5",
+          "domain": "aol.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 10,
+      "coverage_count": 11,
       "event_signature": "access patient records unauthorized"
     },
     {
@@ -16123,180 +16225,12 @@
       "summary_evidence": [
         "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
       ]
-    },
-    {
-      "id": "c39aae8638adf66e38ac",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare draws attention on diagnostics activity",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
-      "description": "Sonic Healthcare draws attention on diagnostics activity kalkinemedia.com",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-04T13:04:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMl9hS05qejdWVERkaXl6TU5uZm1GVFoxeXBTUDlUeTJ4UkRyZkZCeE92RTg4dFMybUh0WEFRN2Q2MFpEa3pxZnRzTVdlcTJTNFpKZFNTY2ZJTXNXRXdwTmNuR1FyUVJXcmdJZk51VlJFeURuaEF3Z1JMRFVURXZLRjJqajdLQVZ2R29adzFJNXhCQlpiSXhmdUNFRE4yNjVVTE14aA?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-04T13:04:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "activity attention draws"
-    },
-    {
-      "id": "0dfae174bbd8d4047658",
-      "company": "Labcorp",
-      "title": "Labcorp Paying Out $35M in Settlement: Who’s Eligible",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTlzTjdqekNsWkVmSGFYRmMzcU5FSlZpVnd0YXMxcndiN3JjV0VfR19jaEdNOGUtQmtuSkNWSGttX3AxaWZ3RmZ0M3JKQ0I0N3hLRjd5NFlRR09ITlp0SGpRREM0Q2trcF9SbnJWWEVPd1ZPTWVpb25IMmN6Ri1BX09WWjV5TmxNd0J4LVRMZHUzSDNj?oc=5",
-      "description": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
-      "source": "Newsweek",
-      "source_url": "https://www.newsweek.com",
-      "source_domain": "newsweek.com",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Newsweek",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTlzTjdqekNsWkVmSGFYRmMzcU5FSlZpVnd0YXMxcndiN3JjV0VfR19jaEdNOGUtQmtuSkNWSGttX3AxaWZ3RmZ0M3JKQ0I0N3hLRjd5NFlRR09ITlp0SGpRREM0Q2trcF9SbnJWWEVPd1ZPTWVpb25IMmN6Ri1BX09WWjV5TmxNd0J4LVRMZHUzSDNj?oc=5",
-          "domain": "newsweek.com",
-          "published_at": "2026-08-04T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "35m eligible out paying settlement who",
-      "source_description": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
-      "chatgpt_summary": "Labcorp agreed to a $35 million class-action settlement resolving claims tied to the 2018–2019 cybersecurity incident at American Medical Collection Agency (AMCA), a third-party medical debt collector that handled information associated with Labcorp patients. The case is part of In re: American Medical Collection Agency, Inc. Customer Data Security Breach Litigation, Civil Action No. 19-md-2904, in the U.S. District Court for the District of New Jersey. The court-authorized settlement website says the relevant breach period ran from August 1, 2018 through March 30, 2019 and covers eligible individuals who received diagnostic services and whose personal information was accessed in the AMCA incident. The settlement does not constitute an admission of wrongdoing by Labcorp. Eligible class members have until September 3, 2026 to submit claims. Public settlement materials describe an alternative cash-payment option estimated at about $50, or reimbursement of documented out-of-pocket losses up to $5,000, along with two years of monitoring benefits. The settlement is intended to resolve litigation arising from AMCA’s handling and protection of sensitive information. For Labcorp, the payment represents resolution of a long-running legacy data-security exposure associated with an external collections vendor rather than a current laboratory operating issue.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-07T18:42:00+05:30",
-      "summary_evidence": [
-        "https://www.amcadatabreachsettlement.com/",
-        "https://www.classaction.org/news/35m-labcorp-settlement-reached-in-lawsuit-over-american-medical-collection-agency-data-breach"
-      ]
-    },
-    {
-      "id": "8f53ea5c387cd622e227",
-      "company": "Quest Diagnostics",
-      "title": "Mentavi Health Expands Coordinated Virtual Care Through Quest Diagnostics Integration in DrChrono",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
-      "description": "Mentavi Health announced on August 4, 2026 that it integrated Quest Diagnostics laboratory ordering and results review into the DrChrono electronic health record used by its clinicians. The connection lets clinicians access Quest’s test menu from a patient chart, submit laboratory orders electronically and review results directly in DrChrono without leaving their existing workflow. Mentavi said the integration is intended to support diagnostic evaluation, treatment planning and ongoing follow-up in its virtual mental-health care model by making relevant laboratory information easier to incorporate into clinical decisions. Mentavi offers diagnostic evaluations for patients age 6 and older and treatment services for adults 18 and older, subject to state availability. CEO Keith Brophy said the integration is designed to reduce provider friction and support coordinated, evidence-based care, while Chief Medical Officer Barry Herman emphasized the value of laboratory information in considering the full clinical picture. Quest’s national network gives Mentavi patients access to approximately 2,000 patient service centers and about 7,700 patient access points, where available and subject to state requirements. Mentavi described the connection as part of building diagnostic infrastructure that can scale with patient and partner demand. The release did not disclose financial terms, excl…",
-      "source": "EIN News",
-      "source_url": "https://www.einnews.com",
-      "source_domain": "einnews.com",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "EIN News",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVExrbnlGWDg1NFdDMWdTS1ozRkpKeGkxR2NDY2lJRndja1dNRTVqeHhjcHpPd1N0N2llS1hCa3ZNWDJfdk0wcV9obUg3c0pxS1FkMDByRW80YWFJRFBCVmdWemhoOXE1RUVLbk5WREt1Q2tjZXlvSEpSeHVfWjAwdTlJYXhWd2pSVS1ZTEk3OWY4eUNJei05RFY2VGVtd0NCLU9sVVBDNTFYYjFPbkhPakx1TmtpWHREY3pteWVRUzFubmRyZzFnYVZDSENaYWc3RDBMVF9R?oc=5",
-          "domain": "einnews.com",
-          "published_at": "2026-08-04T07:00:00+00:00"
-        },
-        {
-          "name": "EIN Presswire",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeng5TzIzMVcyNXBwRGMySFZJQ3VZSGgzOFNXcVlOc3FpZkp6TV9iTnlRV1M5TVMwOVJ6b2ZvdEt1SHpHajFUZ1ltYkVhX1hNZTlwNVBIT2hlSmhhcE53UzhkQy05MUM2cHAxWHlYdlZWaVIzelBHeTRJTGN2NkpXVTRjYWc2dV8wTVYyN1VTQURUU21abDNldzQzMTFBZFR0dVk0ZkpXcHdGa0Z6QlhoZ0tJbHd5bEFuOFNiS2VwMGVFNHdtVVVlT1RPak0tRmFjLU5jS0t4cFF5R2d6?oc=5",
-          "domain": "einpresswire.com",
-          "published_at": "2026-08-04T12:45:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "care coordinated drchrono expands health integration mentavi through virtual"
-    },
-    {
-      "id": "cf79abed1e9a5dd7be6b",
-      "company": "Labcorp",
-      "title": "Labcorp Launches FDA-Approved PTEN Companion Diagnostic for Prostate Cancer",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
-      "description": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd0RtNmE5anFUdWFmcEo2WnlyYUVXMWw5SjR2ZFFyX0V0REMwbG5hZVFCS2loNm9UZlE3TXRwczI1dVIwTWxWWWpURDdVb1UxdFpORFY1a2VYbmd2MktaaERmM242NVJnNEV0NHdITy1SRWJPaHN5VWQ4RlFVM0V6Z2pjTE5ydWFDQmU0XzlmNnM5MXR1aG5ueU5vczJwRVJfRV9QZXZZcFFWckl5OGh6VGtHUklEeVZraVJ3YmJaemNVSk56U292QXBmNA?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-04T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbS04ZXd2M2xtTXNpWnd0QWVCMG1QN09nUEVzY1JQa1RSaThyV3ZfTnd4Y3o0ejVab25GZnVuUTVWNTNqNHpGdDhJVkE1VG5QYlp3N3lWTGg3TW9odWVmZkRXVlRXMjhTSEZuSktYNV94MmlVRVNBQlZaX1hROER0S2IxMks4cVBJWVlFU1hFdDZnZWkyYzUyd0VKVQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-04T11:00:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeDlRYnZscTE1Rld2NEMtWXl0WDNEMHpsdndWWUdZMDVvcTNHZ0F1dFZwX1BZWG92VW40UzByMnptVEZoYWFmMUwyb2tpendMTGRtS1I3dmd6ZWZ4SHBoT2F0YW10a193NHBGR19SN3JrODcybDZ0UWZFTGV0MGFuWmpnd205NUotY1NLb2JqcDdRa3FpQ2dPMnBoWDJqRVYxMHdiazdyeHdkbHVLanFFR0RnSmNQZw?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-05T05:01:39+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdFBxbjZSTnoweGNkajlzaXVJY1VXU2Foemd5S3k5UlI3N3g2Y0hFd1o0SlhpWGxrTmxndUhTYXNfX0dBSlBENlNkYnFoVG94eHB0azJIRTZtZER0MXZQa1dBSmRvUzItNFJ3QWxrdVZJMDBFUUtocGNKeUlkblhMcGh3MUx4NWRkaFZJQUJpTnZvd1lpMGM4NVRCbHJhNFZvb3lXQ1VaTU1WMjIzU3A0Sl9R?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-05T20:43:26+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcHF6eGxvMXBfUnRucC1LX2traTdJQzVmQ3ZCSDI0TEdwd3hmcnZaMUI3eEN3VGZqc1V5dzY4UzNDcVMyWEVIZm5neWpHSmpwcl9YMG5zY01HTVAzY2IzUVROSFhheldHVE1NTnZqaWVtX1FBampRUnRlak5YODJqT2gyZFlPY041dnB3UjBwZkIxazJjT0wwQ3FGN2FZZ1NJLWdkaHhTR2NQU2JXckJObnVUN3I5WUlIZi1MLTNUZEkwS0tSVXY4bDdQSW1DcVk0OGc?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-04T16:00:00+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "approved cancer companion diagnostic fda launches prostate pten",
-      "source_description": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection t…",
-      "chatgpt_summary": "Labcorp has added PTEN IHC With Interpretation for prostate adenocarcinoma to its oncology test menu as test 484680. The assay uses the FDA-approved VENTANA PTEN (SP218) RxDx immunohistochemistry companion diagnostic to assess PTEN protein expression in formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It is intended to help identify patients who may be eligible for AstraZeneca’s TRUQAP (capivasertib) in combination with abiraterone acetate, consistent with the drug’s approved labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer, previously described as metastatic hormone-sensitive prostate cancer. The agency simultaneously approved the VENTANA PTEN (SP218) RxDx Assay as the companion diagnostic. In the pivotal CAPItello-281 trial, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone (hazard ratio 0.81; 95% CI 0.66–0.98; p=0.034). Labcorp’s test requires an FFPE tissue block or unstained charged slides; five slides are requested, with a minimum of three. Fine-needle aspirates are not recommended, and specimens should be fixed in 10% neutral-buffered formalin for six to 72 hours. The offering expands Labcorp’s treatment-selection testing in prostate oncology with an FDA-authorized biomarker pathway.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-07T18:47:00+05:30",
-      "summary_evidence": [
-        "https://www.labcorp.com/tests/484680/pten-ihc-with-interpretation-for-prostate-adenocarcinoma",
-        "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation"
-      ]
-    },
-    {
-      "id": "fadd083308d918478609",
-      "company": "Labcorp",
-      "title": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment.",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
-      "description": "Labcorp launches FDA-approved test to identify prostate cancer patients for TRUQAP® treatment. pluang.com",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-04T07:00:00+00:00",
-      "published_display": "04 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOclcyWXplYVlrWUNoS0ZFLVBpc0QyS1VSS3VkdjBISUVXVzNfSzJkMXQxbVNnRWFzMEJMaDYzYkw5UXZIS1B5eWNxSGhNeXdIaFFaWEt0UV9GVUFGWk45M2FpNkl2Q3kwM0VMWlJfMDBkMjlNS1gxd0M2NUJ3cmY1T3RqTmtOcXpDS210cG91NjBtV1g2Ni1ndnJmWmhNWDdFLVdhMi1lU2xnUFpQ?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-04T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "approved cancer fda identify launches patients prostate test treatment truqap"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 51,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-02T18:17:00+05:30",
-  "next_update_display": "02 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-03T06:17:00+05:30",
+  "next_update_display": "03 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
