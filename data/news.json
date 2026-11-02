@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-11-02T03:57:11.161649+05:30",
-  "generated_at_display": "02 Nov 2026, 3:57 AM IST",
-  "item_count": 525,
-  "raw_relevant_item_count": 681,
-  "duplicates_merged": 108,
+  "generated_at": "2026-11-02T12:23:33.788524+05:30",
+  "generated_at_display": "02 Nov 2026, 12:23 PM IST",
+  "item_count": 529,
+  "raw_relevant_item_count": 741,
+  "duplicates_merged": 162,
   "failures": [],
   "items": [
+    {
+      "id": "f6aa723f99bfd1083373",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare: Can Testing Volumes Beat Cost Pressures?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVJCNVRjVV9OQWs1Z1JCUDBBX0k5M05ta20tUl9rRGsxdHJRaFVWLTUxcmp2SDVKb1d3dF8tb0loZ3RpUjNUYjJwbjI0OWpvM080QVRXV1MwRlEtNzN2YjZCMjFUaVNjQTRpYU1meVFsNWViNzZKMTJROG1NUktwbHh2XzNSTlNwaFp5TW1fa0p0WTFuX1phdFlxSnEtUURlbG10VC1MWXAxNjVzUlE?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL): Can Testing Volumes Beat Cost Pressures? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-02T05:57:00+00:00",
+      "published_display": "02 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVJCNVRjVV9OQWs1Z1JCUDBBX0k5M05ta20tUl9rRGsxdHJRaFVWLTUxcmp2SDVKb1d3dF8tb0loZ3RpUjNUYjJwbjI0OWpvM080QVRXV1MwRlEtNzN2YjZCMjFUaVNjQTRpYU1meVFsNWViNzZKMTJROG1NUktwbHh2XzNSTlNwaFp5TW1fa0p0WTFuX1phdFlxSnEtUURlbG10VC1MWXAxNjVzUlE?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-02T05:57:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beat can cost pressures testing volumes"
+    },
+    {
+      "id": "ab2bdb24980e49e76b4d",
+      "company": "Sonic Healthcare",
+      "title": "INOVIQ Signs Agreement with Sonic Healthcare to Advance EXO-OC Ovarian Cancer Detection Test",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VDTFpMYndVTW9jZzMxQ3dvMGY5aGtKTFU3WXpZUjJiTl90U1pfOFZPejFUblg1X1lPcmJheHlydThiYy00NmJmTmctc0MtWEpSVGNQMWxVelg2SVl3WF9McmxSbGJQdWczU1g3T0hmQnNxcXY4N0dCV3lGTnJfSWVoWExNeEZRNWViUU9NNnBvcUlLVXl5eS0tSjlFSmJJdUMtVjZ2ak0yV3FRNG5pekR2blJYaWRsMmJKdjZhZnQ1X28?oc=5",
+      "description": "INOVIQ Signs Agreement with Sonic Healthcare to Advance EXO-OC Ovarian Cancer Detection Test Small Caps",
+      "source": "Small Caps",
+      "source_url": "https://smallcaps.com.au",
+      "source_domain": "smallcaps.com.au",
+      "published_at": "2026-11-02T01:17:54+00:00",
+      "published_display": "02 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Small Caps",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VDTFpMYndVTW9jZzMxQ3dvMGY5aGtKTFU3WXpZUjJiTl90U1pfOFZPejFUblg1X1lPcmJheHlydThiYy00NmJmTmctc0MtWEpSVGNQMWxVelg2SVl3WF9McmxSbGJQdWczU1g3T0hmQnNxcXY4N0dCV3lGTnJfSWVoWExNeEZRNWViUU9NNnBvcUlLVXl5eS0tSjlFSmJJdUMtVjZ2ak0yV3FRNG5pekR2blJYaWRsMmJKdjZhZnQ1X28?oc=5",
+          "domain": "smallcaps.com.au",
+          "published_at": "2026-11-02T01:17:54+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advance agreement cancer detection exo inoviq ovarian signs test"
+    },
+    {
+      "id": "e42e312dbcd8a507b41d",
+      "company": "Sonic Healthcare",
+      "title": "Can Sonic Healthcare’s Validation Deal Unlock a US Launch for INOVIQ (ASX:IIQ)?",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEV2UFVlWUtWSUdiNEVYT3BhaHUwMWtfck1aaUlENXB1LUJaUnhBYzlrUmlrNlppN2Zvano1TEQ4SGdQbGk1eTBQa0lGRmpJWnQ4clBGbXBqU3I3ZjN4dTRZM1RFdk1BMkdHZ2VsSkJJZko4VEhWSnFfRzROengwbzBuX1l5VVRmLVltMXFwcjA4dzhva05JUE5UVlNic0VJM0FGRkpvT0FrY21MWm5fdmRHd1VfeVVJSE03dw?oc=5",
+      "description": "Can Sonic Healthcare’s Validation Deal Unlock a US Launch for INOVIQ (ASX:IIQ)? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-01T23:55:00+00:00",
+      "published_display": "01 Nov 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNEV2UFVlWUtWSUdiNEVYT3BhaHUwMWtfck1aaUlENXB1LUJaUnhBYzlrUmlrNlppN2Zvano1TEQ4SGdQbGk1eTBQa0lGRmpJWnQ4clBGbXBqU3I3ZjN4dTRZM1RFdk1BMkdHZ2VsSkJJZko4VEhWSnFfRzROengwbzBuX1l5VVRmLVltMXFwcjA4dzhva05JUE5UVlNic0VJM0FGRkpvT0FrY21MWm5fdmRHd1VfeVVJSE03dw?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-01T23:55:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can deal iiq inoviq launch unlock validation"
+    },
+    {
+      "id": "9bbe64c159dfd6554139",
+      "company": "Sonic Healthcare",
+      "title": "INOVIQ (ASX:IIQ) Sonic Healthcare Deal Opens the Door to a US Ovarian Cancer Launch",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkwtVnJENnJsV1NwMTZuT2RWeTFiQVNuWGRlNzF3QUFSOWlOeFVZZkJNc21HUWp6U1hVNTBCd1poeGtzT0tlOV94NkdfY19nSFdnSFM2UDZBZzJoZEphTkJBMFF5MF83UXBNeG9McGZPeE51RG5xelp1WGFpTmFvRE9zMWZCQmhsU0dqZWpR?oc=5",
+      "description": "INOVIQ (ASX:IIQ) Sonic Healthcare Deal Opens the Door to a US Ovarian Cancer Launch Stocks Down Under",
+      "source": "Stocks Down Under",
+      "source_url": "https://stocksdownunder.com",
+      "source_domain": "stocksdownunder.com",
+      "published_at": "2026-11-01T23:16:58+00:00",
+      "published_display": "01 Nov 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Stocks Down Under",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkwtVnJENnJsV1NwMTZuT2RWeTFiQVNuWGRlNzF3QUFSOWlOeFVZZkJNc21HUWp6U1hVNTBCd1poeGtzT0tlOV94NkdfY19nSFdnSFM2UDZBZzJoZEphTkJBMFF5MF83UXBNeG9McGZPeE51RG5xelp1WGFpTmFvRE9zMWZCQmhsU0dqZWpR?oc=5",
+          "domain": "stocksdownunder.com",
+          "published_at": "2026-11-01T23:16:58+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "cancer deal door iiq inoviq launch opens ovarian"
+    },
     {
       "id": "fc4d1ce255083af55398",
       "company": "Sonic Healthcare",
@@ -2311,30 +2407,6 @@
       "event_signature": "about health know leaders php2shell should system what"
     },
     {
-      "id": "01c635383b7b8df445c1",
-      "company": "Quest Diagnostics",
-      "title": "Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXd1cjNMYTV1d3BPelNHTHJCM0VSdEF6OTFzOW91UjZKdC1Dbk9KSjZiRXl6T24xOFg1b1hKRlNqbW5mMlpHcXNpYlY3VmJQZmlBTzIyYVEwQmNCbWFYWFlQMHZrV3hoWElBeTEyeHRzaV9tM2U2MWVmSDl4ZGJpZFBjUmU4enlhQzhVR1lzZ0JSalJxWDZCcVhqamVycmg0WUswWC14SERWQnpLdERqMWV1eXE5WnBXX3pwOVVKT1U?oc=5",
-      "description": "Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach Medical Economics",
-      "source": "Medical Economics",
-      "source_url": "https://www.medicaleconomics.com",
-      "source_domain": "medicaleconomics.com",
-      "published_at": "2026-10-23T18:56:15+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Medical Economics",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXd1cjNMYTV1d3BPelNHTHJCM0VSdEF6OTFzOW91UjZKdC1Dbk9KSjZiRXl6T24xOFg1b1hKRlNqbW5mMlpHcXNpYlY3VmJQZmlBTzIyYVEwQmNCbWFYWFlQMHZrV3hoWElBeTEyeHRzaV9tM2U2MWVmSDl4ZGJpZFBjUmU4enlhQzhVR1lzZ0JSalJxWDZCcVhqamVycmg0WUswWC14SERWQnpLdERqMWV1eXE5WnBXX3pwOVVKT1U?oc=5",
-          "domain": "medicaleconomics.com",
-          "published_at": "2026-10-23T18:56:15+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "about alerts breach cyber need one php2shell physicians two week what"
-    },
-    {
       "id": "9e2ef6b6e7f17db88963",
       "company": "Quest Diagnostics",
       "title": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic",
@@ -2405,60 +2477,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "assay extended genotype hpv nationwide offer onclarity partner waters"
-    },
-    {
-      "id": "7fdc41f29a9230320bc1",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics investigating data breach involving patient records",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5",
-      "description": "Quest Diagnostics investigating data breach involving patient records Tri-State Alert",
-      "source": "Tri-State Alert",
-      "source_url": "https://www.tristatealert.com",
-      "source_domain": "tristatealert.com",
-      "published_at": "2026-10-23T15:16:51+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Tri-State Alert",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5",
-          "domain": "tristatealert.com",
-          "published_at": "2026-10-23T15:16:51+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach data investigating involving patient records"
-    },
-    {
-      "id": "c09787182618ea97f877",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Discloses Cybersecurity Breach",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFkxdlpYRUFKVXBoZHBhSDYwVWw2NEV4aXhfczF2U04weXFPbS1KcnlyMGJYbWM4WjVjUVAxSFFiYVcyS2RlR0hUWElMMkRlcURCYVZWaGFJMWptR2sxdC00dHRKZlVUa2MtOVlycUFBYmx1d1hxSVI4UEN5MEpwUm9QZnltQQ?oc=5",
-      "description": "Quest Diagnostics Discloses Cybersecurity Breach Medical Device and Diagnostic industry",
-      "source": "Medical Device and Diagnostic industry",
-      "source_url": "https://www.mddionline.com",
-      "source_domain": "mddionline.com",
-      "published_at": "2026-10-23T15:13:52+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Medical Device and Diagnostic industry",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFkxdlpYRUFKVXBoZHBhSDYwVWw2NEV4aXhfczF2U04weXFPbS1KcnlyMGJYbWM4WjVjUVAxSFFiYVcyS2RlR0hUWElMMkRlcURCYVZWaGFJMWptR2sxdC00dHRKZlVUa2MtOVlycUFBYmx1d1hxSVI4UEN5MEpwUm9QZnltQQ?oc=5",
-          "domain": "mddionline.com",
-          "published_at": "2026-10-23T15:13:52+00:00"
-        },
-        {
-          "name": "Washington Times",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVFIczdaejJZb1c5X3BXRktsa1FlcHl3eHhyZm9oak1MYnBUeGRvdW1MczZpcWV6WGxNaE9CT1BqVGR1N04teW5EdHdvbXNjYWFMYjRKbk9rNG9XcWlnbEFvNGx1SzNQMk5OU25sZlpxZjFjN0dzenJRUGlnN3YtSHpjSGVhOGhDYnkzV1VsUnNYbkRW?oc=5",
-          "domain": "washingtontimes.com",
-          "published_at": "2026-10-24T17:58:01+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "breach cybersecurity discloses"
     },
     {
       "id": "8117ac22951b2517353f",
@@ -2663,54 +2681,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 acquire agreement definitive health millennium oct"
-    },
-    {
-      "id": "8b4cb4c582580813bc57",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUdIBb0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUQ?oc=5",
-      "description": "Quest Diagnostics confirms cyberattack exposing sensitive patient data from its lab testing system. Pluang",
-      "source": "Cyber Press",
-      "source_url": "https://cyberpress.org",
-      "source_domain": "cyberpress.org",
-      "published_at": "2026-10-23T11:13:06+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Cyber Press",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUdIBb0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUQ?oc=5",
-          "domain": "cyberpress.org",
-          "published_at": "2026-10-23T11:13:06+00:00"
-        },
-        {
-          "name": "GBHackers News",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42eEU3c0xvUlZScmpGWTFVUTBRTzEyeGlfMHM0MkdRUzQ4SXdNeC13ejZGcnJhUXRQR0Z3YVdPaVo2MDR1dE9WUUdBTnJDNGRncF9GZzlqLUR5WC1XSGp2RkhLbkZ0cUJSNzZGX2Zn0gFzQVVfeXFMT2k1Y3dqUTI4anUwWUdGV0QyTVN3d01lZmJlZlR0ZkdjVVBNemdZc0lWck9BQ25hZ0tsbUtQUVVaU3FIU1RiR1ZQRVRKWGdjUDdVT3lJbWF6V1VxcXBhZG5vcWVYMzU4X0ZfN1l1bU9YRXhzbw?oc=5",
-          "domain": "gbhackers.com",
-          "published_at": "2026-10-23T12:05:44+00:00"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG5XSmg5WF9feWVmSS1KMFhzdDQ1WUVOMGpOcGxVU0s4QUZWRXRyTndlR1VfYWxieTFQWGVhZVpraG9URjJBeUh4clVvZld6WUdOb0k1NjBkVDZTRU8tNkNXRWhLeld2Q3pYMmJBUENFdHBTZVdBOG1qQTJrbXRKbk1NVzNCalBsRk1RS2FqUUhsMU95VmUwWnRkVUdoUzU3QzBPNU9rZm9UY2c?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-10-23T15:14:22+00:00"
-        },
-        {
-          "name": "Cyber Press",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEeXAyWHVoV0dzZlNmUGxBcF9GOGVMZWt0aUgzcTkzeUFyYm03SGFYWG13MElBdU9wV0xKR25xWHh4Vm1senVzZm5DUTJObmx3OC1DdlFKY0dNRV94d3JUbEtvV2NSUnhNMGF2Mnc0akkxTDR1dGVZ0gF3QVVfeXFMUER5cDJYdWhXR3NmU2ZQbEFwX0Y4ZUxla3RpSDNxOTN5QXJibTdIYVhYbXcwSUF1T3BXTEpHbnFYeHhWbWx6dXNmbkNRMk5ubHc4LUN2UUpjR01FX3h3clRsS29XY1JSeE0wYXYydzRqSTFMNHV0ZVk?oc=5",
-          "domain": "cyberpress.org",
-          "published_at": "2026-10-23T11:13:06+00:00"
-        },
-        {
-          "name": "Beinsure",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazVESVNqeXA1S2ZNbkZlTDJ3QXE0M1RqM1JRTjRkU3JIRHNHdUFiT1h4bzhyU1JlU1ozMUJKa2Q2Q2hqS0MweDVTTHN3YjhPbmo5QlczTHZ5QXVhalNhVUVSNVhuajdzZXljdkx0OE9nN1JWZG1XSTgwZzlOMy1meU16dFVPdjdBZjRkVzJ5bmtYS1ZHSHFzWkRRME43eEU?oc=5",
-          "domain": "beinsure.com",
-          "published_at": "2026-10-26T19:51:55+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "confirms cyberattack exposing patient quanum records system"
     },
     {
       "id": "48dc96c1e502122c74a3",
@@ -2999,6 +2969,132 @@
       ],
       "coverage_count": 1,
       "event_signature": "232 245 adjusts bank deutsche hold maintains rating"
+    },
+    {
+      "id": "c09787182618ea97f877",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Discloses Cybersecurity Breach",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFkxdlpYRUFKVXBoZHBhSDYwVWw2NEV4aXhfczF2U04weXFPbS1KcnlyMGJYbWM4WjVjUVAxSFFiYVcyS2RlR0hUWElMMkRlcURCYVZWaGFJMWptR2sxdC00dHRKZlVUa2MtOVlycUFBYmx1d1hxSVI4UEN5MEpwUm9QZnltQQ?oc=5",
+      "description": "Quest Diagnostics Discloses Cybersecurity Breach Medical Device and Diagnostic industry",
+      "source": "Medical Device and Diagnostic industry",
+      "source_url": "https://www.mddionline.com",
+      "source_domain": "mddionline.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Device and Diagnostic industry",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFkxdlpYRUFKVXBoZHBhSDYwVWw2NEV4aXhfczF2U04weXFPbS1KcnlyMGJYbWM4WjVjUVAxSFFiYVcyS2RlR0hUWElMMkRlcURCYVZWaGFJMWptR2sxdC00dHRKZlVUa2MtOVlycUFBYmx1d1hxSVI4UEN5MEpwUm9QZnltQQ?oc=5",
+          "domain": "mddionline.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "name": "Washington Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOVFIczdaejJZb1c5X3BXRktsa1FlcHl3eHhyZm9oak1MYnBUeGRvdW1MczZpcWV6WGxNaE9CT1BqVGR1N04teW5EdHdvbXNjYWFMYjRKbk9rNG9XcWlnbEFvNGx1SzNQMk5OU25sZlpxZjFjN0dzenJRUGlnN3YtSHpjSGVhOGhDYnkzV1VsUnNYbkRW?oc=5",
+          "domain": "washingtontimes.com",
+          "published_at": "2026-10-24T17:58:01+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "breach cybersecurity discloses"
+    },
+    {
+      "id": "01c635383b7b8df445c1",
+      "company": "Quest Diagnostics",
+      "title": "Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXd1cjNMYTV1d3BPelNHTHJCM0VSdEF6OTFzOW91UjZKdC1Dbk9KSjZiRXl6T24xOFg1b1hKRlNqbW5mMlpHcXNpYlY3VmJQZmlBTzIyYVEwQmNCbWFYWFlQMHZrV3hoWElBeTEyeHRzaV9tM2U2MWVmSDl4ZGJpZFBjUmU4enlhQzhVR1lzZ0JSalJxWDZCcVhqamVycmg0WUswWC14SERWQnpLdERqMWV1eXE5WnBXX3pwOVVKT1U?oc=5",
+      "description": "Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach Medical Economics",
+      "source": "Medical Economics",
+      "source_url": "https://www.medicaleconomics.com",
+      "source_domain": "medicaleconomics.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Economics",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXd1cjNMYTV1d3BPelNHTHJCM0VSdEF6OTFzOW91UjZKdC1Dbk9KSjZiRXl6T24xOFg1b1hKRlNqbW5mMlpHcXNpYlY3VmJQZmlBTzIyYVEwQmNCbWFYWFlQMHZrV3hoWElBeTEyeHRzaV9tM2U2MWVmSDl4ZGJpZFBjUmU4enlhQzhVR1lzZ0JSalJxWDZCcVhqamVycmg0WUswWC14SERWQnpLdERqMWV1eXE5WnBXX3pwOVVKT1U?oc=5",
+          "domain": "medicaleconomics.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "about alerts breach cyber need one php2shell physicians two week what"
+    },
+    {
+      "id": "7fdc41f29a9230320bc1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics investigating data breach involving patient records",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5",
+      "description": "Quest Diagnostics investigating data breach involving patient records Tri-State Alert",
+      "source": "Tri-State Alert",
+      "source_url": "https://www.tristatealert.com",
+      "source_domain": "tristatealert.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Tri-State Alert",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxrOU1EOEx3V2g2RUpvTTNqZmVYeHd0My1mMTRyRXdYUU5iOHhHVF9uZWJsdy1NQWRoM3lhLWFzMDd1aFJvcWUydEs2WVp5dl9OeUloUHdLMFktT1JETDF6TFFnUGxHM21UWFN5WS1pVkw5a0RlU1RKZWFNMGUwWnRhSkZUSGNiNXM2ODFKZFRNbUk1QVpmVEktcEF5cWcy?oc=5",
+          "domain": "tristatealert.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data investigating involving patient records"
+    },
+    {
+      "id": "4bb2cd5bad18d7c364ee",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42eEU3c0xvUlZScmpGWTFVUTBRTzEyeGlfMHM0MkdRUzQ4SXdNeC13ejZGcnJhUXRQR0Z3YVdPaVo2MDR1dE9WUUdBTnJDNGRncF9GZzlqLUR5WC1XSGp2RkhLbkZ0cUJSNzZGX2Zn0gFzQVVfeXFMT2k1Y3dqUTI4anUwWUdGV0QyTVN3d01lZmJlZlR0ZkdjVVBNemdZc0lWck9BQ25hZ0tsbUtQUVVaU3FIU1RiR1ZQRVRKWGdjUDdVT3lJbWF6V1VxcXBhZG5vcWVYMzU4X0ZfN1l1bU9YRXhzbw?oc=5",
+      "description": "Quest Diagnostics confirms cyberattack exposing sensitive patient data from its lab testing system. Pluang",
+      "source": "GBHackers News",
+      "source_url": "https://gbhackers.com",
+      "source_domain": "gbhackers.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GBHackers News",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42eEU3c0xvUlZScmpGWTFVUTBRTzEyeGlfMHM0MkdRUzQ4SXdNeC13ejZGcnJhUXRQR0Z3YVdPaVo2MDR1dE9WUUdBTnJDNGRncF9GZzlqLUR5WC1XSGp2RkhLbkZ0cUJSNzZGX2Zn0gFzQVVfeXFMT2k1Y3dqUTI4anUwWUdGV0QyTVN3d01lZmJlZlR0ZkdjVVBNemdZc0lWck9BQ25hZ0tsbUtQUVVaU3FIU1RiR1ZQRVRKWGdjUDdVT3lJbWF6V1VxcXBhZG5vcWVYMzU4X0ZfN1l1bU9YRXhzbw?oc=5",
+          "domain": "gbhackers.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "name": "Cyber Press",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUdIBb0FVX3lxTE45S2tNV2QwbElXQU1YN0lLT2k3Vk9jdDBSWm1fUUdZYWZTT2kwRkFIal9zdGZOZUJydW9TZFJxREVGQ0tpYThmUmhLUjVkNmtkSnRTcHZiZkZZVERiZ0ItZ2dqSHBEN0w2MV9rel9LUQ?oc=5",
+          "domain": "cyberpress.org",
+          "published_at": "2026-10-23T11:13:06+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG5XSmg5WF9feWVmSS1KMFhzdDQ1WUVOMGpOcGxVU0s4QUZWRXRyTndlR1VfYWxieTFQWGVhZVpraG9URjJBeUh4clVvZld6WUdOb0k1NjBkVDZTRU8tNkNXRWhLeld2Q3pYMmJBUENFdHBTZVdBOG1qQTJrbXRKbk1NVzNCalBsRk1RS2FqUUhsMU95VmUwWnRkVUdoUzU3QzBPNU9rZm9UY2c?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-10-23T15:14:22+00:00"
+        },
+        {
+          "name": "Cyber Press",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEeXAyWHVoV0dzZlNmUGxBcF9GOGVMZWt0aUgzcTkzeUFyYm03SGFYWG13MElBdU9wV0xKR25xWHh4Vm1senVzZm5DUTJObmx3OC1DdlFKY0dNRV94d3JUbEtvV2NSUnhNMGF2Mnc0akkxTDR1dGVZ0gF3QVVfeXFMUER5cDJYdWhXR3NmU2ZQbEFwX0Y4ZUxla3RpSDNxOTN5QXJibTdIYVhYbXcwSUF1T3BXTEpHbnFYeHhWbWx6dXNmbkNRMk5ubHc4LUN2UUpjR01FX3h3clRsS29XY1JSeE0wYXYydzRqSTFMNHV0ZVk?oc=5",
+          "domain": "cyberpress.org",
+          "published_at": "2026-10-23T11:13:06+00:00"
+        },
+        {
+          "name": "Beinsure",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOazVESVNqeXA1S2ZNbkZlTDJ3QXE0M1RqM1JRTjRkU3JIRHNHdUFiT1h4bzhyU1JlU1ozMUJKa2Q2Q2hqS0MweDVTTHN3YjhPbmo5QlczTHZ5QXVhalNhVUVSNVhuajdzZXljdkx0OE9nN1JWZG1XSTgwZzlOMy1meU16dFVPdjdBZjRkVzJ5bmtYS1ZHSHFzWkRRME43eEU?oc=5",
+          "domain": "beinsure.com",
+          "published_at": "2026-10-26T19:51:55+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "confirms cyberattack exposing patient quanum records system"
     },
     {
       "id": "8e32a8b4f1f82cd31536",
@@ -4363,9 +4459,15 @@
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYlh3MTZFckdIOFdTOUFzZW5CckpYTlVHeFdlOS1GT1Rkck9xU0pTSEdZdWlkdmQtNkM0RXdsdmJ4aHdRaDFsNWFFRkhNbVlPN3lIb053VGljcXRIS3UwLXFwWEdhWUVWaFlFWm8xdER3M1Q5SDNrM1ZLNUZjLU0wZ0hlNUU2R2RGMU5iTi0tTlJTTmtDVS11Z2hZVlJBeTFaOUZmM3Rpd2ZsOUg3WHhNOThBMDA3MGhSVmgxM0ZUbVFnSGRSeVEwMjVrQkxPMzFJYXRpRmE5R0M5ZndDZzNGcDlKeExTZE1UblF4NHZkX3hHLVR3cWc?oc=5",
           "domain": "record-eagle.com",
           "published_at": "2026-10-22T15:09:57+00:00"
+        },
+        {
+          "name": "Toronto Star",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOMWk2cWRCZExySjBIT2gwdHNGeC1idHh0NVFhTEJ6QzNFUEpHd3RNelFVUzg5T1hOUm12bEVSQW0tcTl6LXZpaWVyMW9wWDRoNFdxNzRNa2dVRkNzc3ZBMEZUUXBOWDNXejJHTG16OGptWDFQc0hXTF9fNlVkaU4tOWs3T1oxcE5ObWJGZmlrNXRiUWxQR19kVmsyM3h6U191c2xTV0g5aGNzbnNsR1liQjVUd2t5bEt6X1UteG9QUV9DTUE2cVlxdTlvU2Z5eV9xVUs0b3B3SC1RQWVMejJwYnJlT0FubURfWXZmc19rbGFkWlA0cTNuS3gyR1RKUlU3?oc=5",
+          "domain": "thestar.com",
+          "published_at": "2026-10-22T14:33:01+00:00"
         }
       ],
-      "coverage_count": 47,
+      "coverage_count": 48,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -16191,10 +16293,10 @@
       "event_signature": "approved cancer fda identify launches patients prostate test treatment truqap"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 49,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-02T06:17:00+05:30",
-  "next_update_display": "02 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-02T18:17:00+05:30",
+  "next_update_display": "02 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
