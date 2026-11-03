@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T14:01:42.014127+05:30",
-  "generated_at_display": "03 Nov 2026, 2:01 PM IST",
+  "generated_at": "2026-11-04T01:20:20.574599+05:30",
+  "generated_at_display": "04 Nov 2026, 1:20 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 475,
+  "remaining_unsummarized_count": 476,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -270,7 +270,7 @@
       "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
       "source": "PR Newswire",
       "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance",
-      "published_at": "2026-10-22T20:30:00+00:00",
+      "published_at": "2026-10-22T07:00:00+00:00",
       "published_display": "22 Oct 2026",
       "official_source": false,
       "coverage_count": 4,

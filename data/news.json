@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-03T12:46:18.316538+05:30",
-  "generated_at_display": "03 Nov 2026, 12:46 PM IST",
-  "item_count": 530,
-  "raw_relevant_item_count": 743,
-  "duplicates_merged": 162,
+  "generated_at": "2026-11-04T01:20:16.457149+05:30",
+  "generated_at_display": "04 Nov 2026, 1:20 AM IST",
+  "item_count": 531,
+  "raw_relevant_item_count": 686,
+  "duplicates_merged": 96,
   "failures": [],
   "items": [
+    {
+      "id": "c9459c5faf7cc6a30dbb",
+      "company": "Labcorp",
+      "title": "Form 4 Labcorp: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5",
+      "description": "Form 4 Labcorp Holdings Inc: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-03T15:56:09+00:00",
+      "published_display": "03 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-03T15:56:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bryan com evp form investing november president vaughn"
+    },
     {
       "id": "3f2c51835c302912fc8d",
       "company": "Quest Diagnostics",
@@ -2551,30 +2575,6 @@
       "event_signature": "about health know leaders php2shell should system what"
     },
     {
-      "id": "9e2ef6b6e7f17db88963",
-      "company": "Quest Diagnostics",
-      "title": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5",
-      "description": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic Fierce Healthcare",
-      "source": "Fierce Healthcare",
-      "source_url": "https://www.fiercehealthcare.com",
-      "source_domain": "fiercehealthcare.com",
-      "published_at": "2026-10-23T18:00:00+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fierce Healthcare",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5",
-          "domain": "fiercehealthcare.com",
-          "published_at": "2026-10-23T18:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach cybersecurity health launches men novant rundown virtual weekly"
-    },
-    {
       "id": "13046c6f3c676ba57166",
       "company": "Quest Diagnostics",
       "title": "Hack on Quest Diagnostics used by 85m Americans exposes patient data",
@@ -3241,6 +3241,30 @@
       "event_signature": "affected breach cyber hits may patient records"
     },
     {
+      "id": "9e2ef6b6e7f17db88963",
+      "company": "Quest Diagnostics",
+      "title": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5",
+      "description": "Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic Fierce Healthcare",
+      "source": "Fierce Healthcare",
+      "source_url": "https://www.fiercehealthcare.com",
+      "source_domain": "fiercehealthcare.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Fierce Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5",
+          "domain": "fiercehealthcare.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach cybersecurity health launches men novant rundown virtual weekly"
+    },
+    {
       "id": "8e32a8b4f1f82cd31536",
       "company": "Quest Diagnostics",
       "title": "US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed",
@@ -3493,48 +3517,6 @@
       "event_signature": "clients hack system used"
     },
     {
-      "id": "f52626762775495cde83",
-      "company": "Labcorp",
-      "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
-      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-10-22T20:30:00+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-22T20:30:00+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-22T20:41:03+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-22T22:38:33+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczBCUThKWFhId1BvZWhjYm5lVUdYT0FvQmprUGtCYzBUWmFNUVdDV3JjdExUbTExaGp3Xzk4Z1VkNTk3MlpHOWx5SGlielZRSEwwdV8weFVtMS1icjJKZGQtSjZEdDZmeDZjYlhfc0xzYldLN2Z2c1hkZDBkVENmVzhmYllrNUNhYWt6VXgxbF83R0l0cFZDcWx0Zw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-22T20:30:00+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "abuse advance announce charles collaboration drug evaluating fda methods potential preclinical research river"
-    },
-    {
       "id": "3f6a662d7dc0f4a95163",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Alerts Regulators After Hackers Breach Quanum LSM System Holding Sensitive Patient Test Results",
@@ -3689,30 +3671,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "access after breach discloses unauthorized"
-    },
-    {
-      "id": "e037c28940dc79ec6d26",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Faces Cybersecurity Incident Amid Strong Q3 Results",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE5sbDZTamFxanFBYlB0NmkybG45Tnd0ZUVaYl9WVUpXYUphM2dBX0N0eElqVmFZTlgyN25NQTZkZm95Nk8yN05RUkthbXJfMUVWal9Zd3BsemJGc2pxQ3VQUUhJaW1ZMFVHV2ZRVFBZcHhCTFpYT2t6RWFXYi04Z0Z0X045b1ZYekFfU1p6dnI2ck5QQlJGSm1CeURBSHdtdUxVSVI1QXhaUHRrbFVRdnpB?oc=5",
-      "description": "Quest Diagnostics (DGX) Faces Cybersecurity Incident Amid Strong Q3 Results GuruFocus",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-10-22T15:40:35+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE5sbDZTamFxanFBYlB0NmkybG45Tnd0ZUVaYl9WVUpXYUphM2dBX0N0eElqVmFZTlgyN25NQTZkZm95Nk8yN05RUkthbXJfMUVWal9Zd3BsemJGc2pxQ3VQUUhJaW1ZMFVHV2ZRVFBZcHhCTFpYT2t6RWFXYi04Z0Z0X045b1ZYekFfU1p6dnI2ck5QQlJGSm1CeURBSHdtdUxVSVI1QXhaUHRrbFVRdnpB?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-22T15:40:35+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "amid cybersecurity faces incident results strong"
     },
     {
       "id": "6d08d3783d32314deaea",
@@ -5179,6 +5137,72 @@
       "event_signature": "breach bumps guidance managing quanum system while"
     },
     {
+      "id": "f52626762775495cde83",
+      "company": "Labcorp",
+      "title": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
+      "description": "Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQbC1KZ3ZJVjJUamJTVDRpa2l6dlFDeEh0cG9HRDhUeFFmSU9XOUdTejlVa3Uxdi1MT1RlcXVpVHlkN0hOR2Fod0tMQVp4WjBDRzNyRGFLai05bk1NUFJ6VEphX3g3SngxalhERExuTy1WZ3lmUy04YS11a0VxV3M0SHp5VFlNZ2xOeTBEYkFGMk5oOVIxc0t4RHV5VDQ3YUVLVmRUZzZ3dkpQOTNqZURhS2h1NnRFbHBWQ1NqNTVGQWY3UXFIcE5McWxpNUQwdEtySE9Yd0ZvckRCcDNTTnRUT19iRWhGTW5hWFFycG1BVXliVlQxaDFVQ1did1FueklFRkhVMTBTalRzZEF4MGd5dGp3?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdUFyaEFnWWRRcWR2Si1aVE92UFg4QVFCN05RSzNxUkphb19SV1Vvczd0bk1sUHA3eDdkVnZEVWo1UUZ1cUJ1NlNkMHlkVGFVT3JVTlVFMWMybmRlbHNQajdDVGVxcmxxWl9TanZkN0g3YjFrSWx1ZFN3aFJXUnVQYmZzZkU4bW1UTUhJQmFOWl9mT0c2N0FiMnB5NzRGczlQYjdYa3ROanFLNklseEdGQndmTi1TWHpBZGdr?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-22T20:41:03+00:00"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVE1MlpNdnpSbXlXaVdQZXBNeTlYRjF1QkMwOXJYQXpGQVVGaVpORFJzck5UdHJBbm1qb3ZBQjJMQlZjX0dKcFdFUHB2MWFQVEhJbHpBdkExMTd1ZllhOXE4VF8tWlZ2eDBsRDdwS3NWLWFKT01mUkRzQlNEVEVDb0VfamtaUHBLcG5KTkkzODFMNXpJekhDbnAtWmlCLTR1YkRWWDIxZldENGVKbzF0X2d4T1VxeVM2WHhZYW5DY0FnY1g1?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T22:38:33+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQczBCUThKWFhId1BvZWhjYm5lVUdYT0FvQmprUGtCYzBUWmFNUVdDV3JjdExUbTExaGp3Xzk4Z1VkNTk3MlpHOWx5SGlielZRSEwwdV8weFVtMS1icjJKZGQtSjZEdDZmeDZjYlhfc0xzYldLN2Z2c1hkZDBkVENmVzhmYllrNUNhYWt6VXgxbF83R0l0cFZDcWx0Zw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-22T20:30:00+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "abuse advance announce charles collaboration drug evaluating fda methods potential preclinical research river"
+    },
+    {
+      "id": "e037c28940dc79ec6d26",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Faces Cybersecurity Incident Amid Strong Q3 Results",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE5sbDZTamFxanFBYlB0NmkybG45Tnd0ZUVaYl9WVUpXYUphM2dBX0N0eElqVmFZTlgyN25NQTZkZm95Nk8yN05RUkthbXJfMUVWal9Zd3BsemJGc2pxQ3VQUUhJaW1ZMFVHV2ZRVFBZcHhCTFpYT2t6RWFXYi04Z0Z0X045b1ZYekFfU1p6dnI2ck5QQlJGSm1CeURBSHdtdUxVSVI1QXhaUHRrbFVRdnpB?oc=5",
+      "description": "Quest Diagnostics (DGX) Faces Cybersecurity Incident Amid Strong Q3 Results GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOE5sbDZTamFxanFBYlB0NmkybG45Tnd0ZUVaYl9WVUpXYUphM2dBX0N0eElqVmFZTlgyN25NQTZkZm95Nk8yN05RUkthbXJfMUVWal9Zd3BsemJGc2pxQ3VQUUhJaW1ZMFVHV2ZRVFBZcHhCTFpYT2t6RWFXYi04Z0Z0X045b1ZYekFfU1p6dnI2ck5QQlJGSm1CeURBSHdtdUxVSVI1QXhaUHRrbFVRdnpB?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "amid cybersecurity faces incident results strong"
+    },
+    {
       "id": "e27021cea6e4f79ec8df",
       "company": "Labcorp",
       "title": "BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp",
@@ -5545,30 +5569,6 @@
       "event_signature": "better customer economics growth rapid test translating"
     },
     {
-      "id": "49e4766daefa1011d869",
-      "company": "Quest Diagnostics",
-      "title": "Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
-      "description": "Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer www.marketscreener.com",
-      "source": "www.marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-10-20T13:19:07+00:00",
-      "published_display": "20 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "www.marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-10-20T13:19:07+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
-    },
-    {
       "id": "1ee49065c0805f24be6f",
       "company": "Labcorp",
       "title": "Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash",
@@ -5765,6 +5765,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "going home hpv kit national test through"
+    },
+    {
+      "id": "dfbe5465f1f16219a680",
+      "company": "Quest Diagnostics",
+      "title": "Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
+      "description": "Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer www.marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-10-20T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
     },
     {
       "id": "f2dc393268b9df61f530",
@@ -16287,10 +16311,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 58,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-03T18:17:00+05:30",
-  "next_update_display": "03 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-04T06:17:00+05:30",
+  "next_update_display": "04 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
