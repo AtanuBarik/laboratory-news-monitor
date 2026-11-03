@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-03T03:26:40.610016+05:30",
-  "generated_at_display": "03 Nov 2026, 3:26 AM IST",
-  "item_count": 528,
-  "raw_relevant_item_count": 744,
-  "duplicates_merged": 164,
+  "generated_at": "2026-11-03T12:46:18.316538+05:30",
+  "generated_at_display": "03 Nov 2026, 12:46 PM IST",
+  "item_count": 530,
+  "raw_relevant_item_count": 743,
+  "duplicates_merged": 162,
   "failures": [],
   "items": [
+    {
+      "id": "3f2c51835c302912fc8d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics reports cyber breach affecting ‘certain patient records’",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm43YjdLaW1JQmJVbV9YN0VuMl85RjI5dngtM1E0WTFRajhLOFZDWVZkTXZvTEJPRzhqM2FiRDN4UE93MDBYSFNXU0VCUkRrQW4xN3ExaDF2aXpLR2JQUFpRdkhDYVhxRVhwY2pWd2djYXM4OFBzaXhTa20yNzl6b1VMbndrdTNRMHFabFJWNWdCanVlZnJBN3NTWVdvNnRUcFRRb1RKRjdQTi1YUTBNM1JIcFNjd2JNcmlUZ2l6OFoyWE81VGc?oc=5",
+      "description": "Quest Diagnostics reports cyber breach affecting ‘certain patient records’ WTNH.com",
+      "source": "WTNH.com",
+      "source_url": "https://www.wtnh.com",
+      "source_domain": "wtnh.com",
+      "published_at": "2026-11-02T23:29:59+00:00",
+      "published_display": "02 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WTNH.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQm43YjdLaW1JQmJVbV9YN0VuMl85RjI5dngtM1E0WTFRajhLOFZDWVZkTXZvTEJPRzhqM2FiRDN4UE93MDBYSFNXU0VCUkRrQW4xN3ExaDF2aXpLR2JQUFpRdkhDYVhxRVhwY2pWd2djYXM4OFBzaXhTa20yNzl6b1VMbndrdTNRMHFabFJWNWdCanVlZnJBN3NTWVdvNnRUcFRRb1RKRjdQTi1YUTBNM1JIcFNjd2JNcmlUZ2l6OFoyWE81VGc?oc=5",
+          "domain": "wtnh.com",
+          "published_at": "2026-11-02T23:29:59+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "affecting breach certain cyber patient records"
+    },
     {
       "id": "6076b89116aa6c436796",
       "company": "Labcorp",
@@ -461,6 +485,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "action alleges breach class data exposed medical patient records"
+    },
+    {
+      "id": "3638ad910e3db09e6b2e",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5",
+      "description": "LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty StockStory",
+      "source": "StockStory",
+      "source_url": "https://stockstory.org",
+      "source_domain": "stockstory.org",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5",
+          "domain": "stockstory.org",
+          "published_at": "2026-10-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisitions amid deep dive drive growth reimbursement specialty testing uncertainty"
     },
     {
       "id": "e0812e94d4a7e0b10611",
@@ -3595,30 +3643,6 @@
       "event_signature": "2026 amid dividend fundamentals outlook raises strong"
     },
     {
-      "id": "ab2f368c5c2e99595ba7",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Bumps Guidance While Managing Quanum System Breach",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWp3cHJmVXNlaGdPbG5ZRjJfWWxlVmc3bUlpc3hBb0dmQ1k0Y08xWmR5RXFoeU1NOW9aYUFmQTJzQnE3S2YybmJOTWlRTjlOTDFpQ3dNYmRMZlg3R3lDNmZQNVhaTGVPT2lYb2o2b2ZfQnh3ZGVjWHktbWpDbzIyd1R4dkl0emFhZW1RYmNZT292QUpWS0pBWkFubHpRQThNY0tNalBKbmlkamNFbEttbmlxZXEtMkRMTXlxVGc0ZFQzNTg?oc=5",
-      "description": "Quest Diagnostics Bumps Guidance While Managing Quanum System Breach Benzinga",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "source_domain": "benzinga.com",
-      "published_at": "2026-10-22T16:49:19+00:00",
-      "published_display": "22 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWp3cHJmVXNlaGdPbG5ZRjJfWWxlVmc3bUlpc3hBb0dmQ1k0Y08xWmR5RXFoeU1NOW9aYUFmQTJzQnE3S2YybmJOTWlRTjlOTDFpQ3dNYmRMZlg3R3lDNmZQNVhaTGVPT2lYb2o2b2ZfQnh3ZGVjWHktbWpDbzIyd1R4dkl0emFhZW1RYmNZT292QUpWS0pBWkFubHpRQThNY0tNalBKbmlkamNFbEttbmlxZXEtMkRMTXlxVGc0ZFQzNTg?oc=5",
-          "domain": "benzinga.com",
-          "published_at": "2026-10-22T16:49:19+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach bumps guidance managing quanum system while"
-    },
-    {
       "id": "f5e60ce875cfc36e8deb",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Posts 10% Revenue Jump in Q3 2026, Beats on EPS",
@@ -4969,9 +4993,15 @@
           "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUE0wZkw1VWVHeVpEWUxvUDVvN1l4U0ZZUF90dkNrMTBFR0xacHdzeHhFUjdwTjJSbzVxc0FmSXZiaFZCM0p5QzRfU1ZQaDVNb0JmZVJrS1JpTFBHcFVmUzFvaTh3ZDRxNmJUbmxrcEdublM4SF90UkZETGxvaXFlZkVQZTBGdkN2VnR5SlFYWnZRdFlPMzJWM1FjSEVWZW9yaVVsTm9vZzhDRnVMMFpBckNCazJOUEJKVTVjSUtsN3otLUZDNlZVRDhoZUtuRTlxaGFBLTlYWktZa1hoMFFLc3lWdU1QM2N6bjFGRVZxNlMwRkRBM0ZIUHF6RlA?oc=5",
           "domain": "gurufocus.com",
           "published_at": "2026-10-22T20:31:16+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNamQweG1ISUFqa3piSjljY2lvRXpxREgwSk1FbjZORHg5OUdPbVhWeGVFWUhCZ3VLN1ZHX2RYWEFjeUxjOV9QN05NX2tUOUtRcjBscTZlN2N1aldZM3lhV2tRYTFNMTVrbTR4VVRVZDNRV0padTVhSW5fZE91WHVBc19GaHFlV0hiV1F5SEQtb2tQQnRqczV6SE5DNnJ1Yl9YX09PbnYzZXdTd1hpTGtVVHppMzJYXzQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "2026 call earnings summary"
     },
     {
@@ -5117,6 +5147,36 @@
       ],
       "coverage_count": 6,
       "event_signature": "breach data exposes lsm patient quanum records"
+    },
+    {
+      "id": "1ed606b4c767a71a752e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Bumps Guidance While Managing Quanum System Breach",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXlSeDBlT3pBWkU2RWRabVB3Mnh5NmtEMEIzV1ZHeWlTU2NIQmoybmJ3cHBTam1kMW9FQ2JEMzRUS3BEM1FHYm80Q0x3R0xZT1ZBLVBqTGxMNkpvRjUxejVhU1VBc2ktSWN0Q1NqejlqeW5reUFKc0VleFVPQWluTVAySGlZNk9BdzlsZ3RPTVBOcVFxTk5XRndrLTByRnR2QnM0V1U4TVNpVHI2RVlRbWdsMldsOHRFMXRCVGktTFJ1bmpsV0E?oc=5",
+      "description": "Quest Diagnostics Bumps Guidance While Managing Quanum System Breach TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-10-22T07:00:00+00:00",
+      "published_display": "22 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWXlSeDBlT3pBWkU2RWRabVB3Mnh5NmtEMEIzV1ZHeWlTU2NIQmoybmJ3cHBTam1kMW9FQ2JEMzRUS3BEM1FHYm80Q0x3R0xZT1ZBLVBqTGxMNkpvRjUxejVhU1VBc2ktSWN0Q1NqejlqeW5reUFKc0VleFVPQWluTVAySGlZNk9BdzlsZ3RPTVBOcVFxTk5XRndrLTByRnR2QnM0V1U4TVNpVHI2RVlRbWdsMldsOHRFMXRCVGktTFJ1bmpsV0E?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWp3cHJmVXNlaGdPbG5ZRjJfWWxlVmc3bUlpc3hBb0dmQ1k0Y08xWmR5RXFoeU1NOW9aYUFmQTJzQnE3S2YybmJOTWlRTjlOTDFpQ3dNYmRMZlg3R3lDNmZQNVhaTGVPT2lYb2o2b2ZfQnh3ZGVjWHktbWpDbzIyd1R4dkl0emFhZW1RYmNZT292QUpWS0pBWkFubHpRQThNY0tNalBKbmlkamNFbEttbmlxZXEtMkRMTXlxVGc0ZFQzNTg?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-10-22T16:49:19+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "breach bumps guidance managing quanum system while"
     },
     {
       "id": "e27021cea6e4f79ec8df",
@@ -16227,10 +16287,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 50,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-03T06:17:00+05:30",
-  "next_update_display": "03 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-03T18:17:00+05:30",
+  "next_update_display": "03 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

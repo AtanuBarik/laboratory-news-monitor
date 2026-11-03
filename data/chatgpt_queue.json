@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T03:57:39.007599+05:30",
-  "generated_at_display": "03 Nov 2026, 3:57 AM IST",
+  "generated_at": "2026-11-03T12:46:24.562080+05:30",
+  "generated_at_display": "03 Nov 2026, 12:46 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 473,
+  "remaining_unsummarized_count": 475,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -43,6 +43,25 @@
         {
           "name": "Small Caps",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VDTFpMYndVTW9jZzMxQ3dvMGY5aGtKTFU3WXpZUjJiTl90U1pfOFZPejFUblg1X1lPcmJheHlydThiYy00NmJmTmctc0MtWEpSVGNQMWxVelg2SVl3WF9McmxSbGJQdWczU1g3T0hmQnNxcXY4N0dCV3lGTnJfSWVoWExNeEZRNWViUU9NNnBvcUlLVXl5eS0tSjlFSmJJdUMtVjZ2ak0yV3FRNG5pekR2blJYaWRsMmJKdjZhZnQ1X28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3638ad910e3db09e6b2e",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty",
+      "source": "StockStory",
+      "description": "LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty StockStory",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "published_display": "29 Oct 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5",
+      "sources": [
+        {
+          "name": "StockStory",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5"
         }
       ]
     },
@@ -644,25 +663,6 @@
         {
           "name": "AD HOC NEWS",
           "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "821716659df30f3d5ffd",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners",
-      "source": "Investors in Healthcare",
-      "description": "Germany: Labcorp acquires MLM Medical Labs from Great Point Partners investorsinhealthcare.com",
-      "published_at": "2026-09-11T13:50:42+00:00",
-      "published_display": "11 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVYZE5Tb2JCRnh0Z2swdmNsQ3hYQmdTVnlFdWhyWUNDSVI4d2IzV2dOaWNoZHFCanNFd1htZ3lPSjE0bjFkSlBiY0ZGMTJQdm1HQk5VWEw2cmFRWjZRUFdNc2dKSGd3a3pPYl8ySzdDQ243SE4ta0h3NE5WZWtZYm96aGplNG9hZ2J6NVQ5cEpNS0RGMGwyVVdfZ1M2bVg4N3lrNHRKYWlDak9PWnpDcjBEbjNEeHdXUy1Xcm91bU13MlgtcTJHMw?oc=5",
-      "sources": [
-        {
-          "name": "Investors in Healthcare",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOblVYZE5Tb2JCRnh0Z2swdmNsQ3hYQmdTVnlFdWhyWUNDSVI4d2IzV2dOaWNoZHFCanNFd1htZ3lPSjE0bjFkSlBiY0ZGMTJQdm1HQk5VWEw2cmFRWjZRUFdNc2dKSGd3a3pPYl8ySzdDQ243SE4ta0h3NE5WZWtZYm96aGplNG9hZ2J6NVQ5cEpNS0RGMGwyVVdfZ1M2bVg4N3lrNHRKYWlDak9PWnpDcjBEbjNEeHdXUy1Xcm91bU13MlgtcTJHMw?oc=5"
         }
       ]
     }
