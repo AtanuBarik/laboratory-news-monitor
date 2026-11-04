@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T01:46:09.455038+05:30",
-  "generated_at_display": "04 Nov 2026, 1:46 AM IST",
+  "generated_at": "2026-11-04T12:29:35.270010+05:30",
+  "generated_at_display": "04 Nov 2026, 12:29 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 476,
+  "remaining_unsummarized_count": 478,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,44 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c22389ef25c624e87c80",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp executive Vaughn acquired 500 shares",
+      "source": "Quantisnow",
+      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
+      "published_at": "2026-11-03T15:27:20+00:00",
+      "published_display": "03 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd191e07636067caee20",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp CTO Oyegunwa acquired 370 shares",
+      "source": "Quantisnow",
+      "description": "Labcorp Holdings (LH) CTO Oyegunwa acquired 370 shares Quantisnow",
+      "published_at": "2026-11-03T15:27:20+00:00",
+      "published_display": "03 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5"
         }
       ]
     },
@@ -625,44 +663,6 @@
         {
           "name": "BioSpectrum Asia",
           "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVEpGMkxSQ19xbWxNRnJhc2lheEFKMWprOHpPaWI3aVVuOWNmY1pFNDVuM3RyNi1SNHJJdWVKUEZOblRNc0I2cnNheGh3ZVJxbm51UG1OS1NmcFdYTUpqdS1xRm9DUGZjSXJzVkZKcVV2NXY4UkFkcFBPM2ZxVU9UWGFndkJNOXFyWkF3TUUxWTY3dnM3Z2FBV2ZOZlRxWFBuZGpqUWZyc0NxZWdzODhZVDNzWUVYei10b3h1MmVVVFl0VXZXQXVDenNjbmVfLTI0WVRWc3ZlN1kzOTRNb1RoSWUza0w1QWIteWlXWHpqclpzbFVCUTVUVVRndjRDcGlseHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "70dfc138316151a4fa5f",
-      "company": "Quest Diagnostics",
-      "category": "Partnership, M&A",
-      "title": "Quest Diagnostics acquires LifeLabs for $1B (closed August 2024)",
-      "source": "Dealroom",
-      "description": "Quest Diagnostics acquires LifeLabs for $1B (closed August 2024) Dealroom.co",
-      "published_at": "2026-09-19T08:59:41+00:00",
-      "published_display": "19 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWpVRk9YWTV3NVIzZzRxbmp1b0JoWi1zOGR2a2RBY1ljSUNaYnZ2eExLVjZoTTlCT3pYUVh5c0M5TEV3TXh1Q3BhRG9FZFZVVzA4Ui1wbnhlOHBJY0Q2Zy1ZQTFORGJPNUQ1czM4eXAyY01HWlBPWlVaakZxVGt3SEdjeVlheDA5ZG9mal91N0w5Zw?oc=5",
-      "sources": [
-        {
-          "name": "Dealroom",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVWpVRk9YWTV3NVIzZzRxbmp1b0JoWi1zOGR2a2RBY1ljSUNaYnZ2eExLVjZoTTlCT3pYUVh5c0M5TEV3TXh1Q3BhRG9FZFZVVzA4Ui1wbnhlOHBJY0Q2Zy1ZQTFORGJPNUQ1czM4eXAyY01HWlBPWlVaakZxVGt3SEdjeVlheDA5ZG9mal91N0w5Zw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "022e6875a3bb4b9d480e",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push",
-      "source": "AD HOC NEWS",
-      "description": "Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de",
-      "published_at": "2026-09-15T07:00:00+00:00",
-      "published_display": "15 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5",
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLW0yRXlZWXltRFFYZ0JNSkRMR1R3a2JRWXQweHVOX01IQl80Zk5JZ3l6U01NVjNCbUljQTljSGR5OXRoalhRT0tDWnEwcVBjcGFPS1doRklPbHVmMXBwMVRtbEpINDlybmNYT3BkT3hzeFNlU1lISk5rMndFOEpOOXhwdFBwV0hUblh6NzRoRmRzNDhXVVFXRG0zc294TUEyblVEU3VEclhFeEpFQkpvQnNjdUZyTVFIM2g1NG9XR1ZtN2VQb3F4QzZOZGRabDVD?oc=5"
         }
       ]
     }

@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-04T01:20:16.457149+05:30",
-  "generated_at_display": "04 Nov 2026, 1:20 AM IST",
-  "item_count": 531,
-  "raw_relevant_item_count": 686,
-  "duplicates_merged": 96,
+  "generated_at": "2026-11-04T12:29:31.111284+05:30",
+  "generated_at_display": "04 Nov 2026, 12:29 PM IST",
+  "item_count": 532,
+  "raw_relevant_item_count": 641,
+  "duplicates_merged": 63,
   "failures": [],
   "items": [
+    {
+      "id": "f28028d499a547387ed1",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics xStock Price, DGXX Price, Live Charts, and Marketcap - Coinbase Portugal",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM25ZQXV4QkJQTzJJTXhyQWJ6ZVJEQzVSVUFRR28tTVdrcld2U1BJV183b0Q3bmNMdDNTbXc3TEhBTGY4UzA2VWFWcTRnYjVnQS1fRWhlcThMNlJNZUFiOFU4bUpVdzFGa0xsajhWdW95czJGU2lmS3hUS1lNSjJIYVNhbw?oc=5",
+      "description": "Quest Diagnostics xStock Price, DGXX Price, Live Charts, and Marketcap - Coinbase Portugal Coinbase",
+      "source": "Coinbase",
+      "source_url": "https://www.coinbase.com",
+      "source_domain": "coinbase.com",
+      "published_at": "2026-11-04T05:03:28+00:00",
+      "published_display": "04 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Coinbase",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM25ZQXV4QkJQTzJJTXhyQWJ6ZVJEQzVSVUFRR28tTVdrcld2U1BJV183b0Q3bmNMdDNTbXc3TEhBTGY4UzA2VWFWcTRnYjVnQS1fRWhlcThMNlJNZUFiOFU4bUpVdzFGa0xsajhWdW95czJGU2lmS3hUS1lNSjJIYVNhbw?oc=5",
+          "domain": "coinbase.com",
+          "published_at": "2026-11-04T05:03:28+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "charts coinbase dgxx live marketcap portugal price xstock"
+    },
     {
       "id": "c9459c5faf7cc6a30dbb",
       "company": "Labcorp",
@@ -29,6 +53,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "bryan com evp form investing november president vaughn"
+    },
+    {
+      "id": "c22389ef25c624e87c80",
+      "company": "Labcorp",
+      "title": "Labcorp executive Vaughn acquired 500 shares",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
+      "source": "Quantisnow",
+      "source_url": "https://www.quantisnow.com",
+      "source_domain": "quantisnow.com",
+      "published_at": "2026-11-03T15:27:20+00:00",
+      "published_display": "03 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+          "domain": "quantisnow.com",
+          "published_at": "2026-11-03T15:27:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "500 acquired executive shares vaughn"
+    },
+    {
+      "id": "dd191e07636067caee20",
+      "company": "Labcorp",
+      "title": "Labcorp CTO Oyegunwa acquired 370 shares",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
+      "description": "Labcorp Holdings (LH) CTO Oyegunwa acquired 370 shares Quantisnow",
+      "source": "Quantisnow",
+      "source_url": "https://www.quantisnow.com",
+      "source_domain": "quantisnow.com",
+      "published_at": "2026-11-03T15:27:20+00:00",
+      "published_display": "03 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
+          "domain": "quantisnow.com",
+          "published_at": "2026-11-03T15:27:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "370 acquired cto oyegunwa shares"
     },
     {
       "id": "3f2c51835c302912fc8d",
@@ -1303,9 +1375,15 @@
           "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRVVHNjAxTk1mb2JPMHpTQ2hOa2hCT3l2Ti1zQ2hJOEhzYm9jNE1kUC1pQndKaHpEZi1RNmJXb28zakdiWVZzVHhYeEo5Z21CcDNoTWVKTU84eHpEWERIY3NWYmY2MFRfcGtKeEpjX1paSllwby1GSU1ud1hUUkZRTHRiVTN0WTNocmFQcFBuTllTN3dLb0pXX2FLME1iamRf?oc=5",
           "domain": "stockstory.org",
           "published_at": "2026-10-28T11:25:38+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa1EyS3V6dS1JTC1mVlVHSUlRRWc0elJkczBVV2gyaWFlLXhCTzZQTm5BRTFsN0ZEYWpqV3N2YmljQmtnd29BUVVJU0x3bG1NMXh3emZVZEh2b3ExLXZDaEU1b2lDZVRNb2lRQ2RCSEtKZ2w4N2tDUmpnOFJqQkpXbE5RTTY2Tnd2LUctWQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T11:21:26+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "2026 beat estimates sales"
     },
     {
@@ -1879,30 +1957,6 @@
       "event_signature": "access breach cybercriminals gaining lab management patient records system"
     },
     {
-      "id": "263f284fb8a6acfe857f",
-      "company": "Labcorp",
-      "title": "Labcorp inks Millennium Health buyout to add drug testing services",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5",
-      "description": "Labcorp inks Millennium Health buyout to add drug testing services MedTech Dive",
-      "source": "MedTech Dive",
-      "source_url": "https://www.medtechdive.com",
-      "source_domain": "medtechdive.com",
-      "published_at": "2026-10-26T19:20:07+00:00",
-      "published_display": "26 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MedTech Dive",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5",
-          "domain": "medtechdive.com",
-          "published_at": "2026-10-26T19:20:07+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "add buyout drug health inks millennium services testing"
-    },
-    {
       "id": "75b2c7e2b775695d2b62",
       "company": "Labcorp",
       "title": "Labcorp to spend $932 million on lab assets, acquire Millennium Health",
@@ -2039,6 +2093,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "acquisition adds diego lab san seventh this toxicology year"
+    },
+    {
+      "id": "263f284fb8a6acfe857f",
+      "company": "Labcorp",
+      "title": "Labcorp inks Millennium Health buyout to add drug testing services",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5",
+      "description": "Labcorp inks Millennium Health buyout to add drug testing services MedTech Dive",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "source_domain": "medtechdive.com",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-26T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "add buyout drug health inks millennium services testing"
     },
     {
       "id": "638bfe0fc23bccfa0b17",
@@ -5263,42 +5341,6 @@
       "event_signature": "cut deck earnings loom medicare worries"
     },
     {
-      "id": "247351aa8b2f9886c523",
-      "company": "Labcorp",
-      "title": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards?",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
-      "description": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Zacks Investment Research",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "source_domain": "ca.finance.yahoo.com",
-      "published_at": "2026-10-21T12:28:00+00:00",
-      "published_display": "21 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
-          "domain": "ca.finance.yahoo.com",
-          "published_at": "2026-10-21T12:28:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0JDTDFaeG9KMDZtYjFnaEpTNTBzNnVNLUQyN2libjFoNTQ2U2FSMWNaNGdtUjdxb2JwOGpDSU9GWi0yR0pJTm9nQVRkNkNkQTRmMHh6emVSa2pPS0pnZnVENWtMRTF3N1FEbnBQTmpxRVBtOWlZbGJOdkZCczVCMmk3ZnJDRlFMTTBsZWxsYjE3VEVKNE84cWdLMHBkaEE?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-10-21T16:25:36+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHduMWt2SkdOOXlfMklrZmhGcGltR0Fsam43VlhtYklJLXBjdTJndjRJSzFtODEtMkRDTDJnRFlMUTR5NmpVZjltLUdKMmlkVzBpOXZrTFk2MDU4R09vSEJ0UE1RUVo0YWlweEc4Z1dFZlRxQzljVVNobTBGLVNuTlgtRXluYWxNbE1POU1uSGZHMnV5NUhOd0pXSHo?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-21T12:28:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "cards earnings prepares report what"
-    },
-    {
       "id": "5b48312d90ced6bf5181",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics earnings beat, stock sinks ~5% anyway",
@@ -5405,6 +5447,42 @@
       ],
       "coverage_count": 7,
       "event_signature": "declares dividend quarterly"
+    },
+    {
+      "id": "2ac6d9e17c2f14002a2a",
+      "company": "Labcorp",
+      "title": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards?",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHduMWt2SkdOOXlfMklrZmhGcGltR0Fsam43VlhtYklJLXBjdTJndjRJSzFtODEtMkRDTDJnRFlMUTR5NmpVZjltLUdKMmlkVzBpOXZrTFk2MDU4R09vSEJ0UE1RUVo0YWlweEc4Z1dFZlRxQzljVVNobTBGLVNuTlgtRXluYWxNbE1POU1uSGZHMnV5NUhOd0pXSHo?oc=5",
+      "description": "Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Zacks Investment Research",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "published_display": "21 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHduMWt2SkdOOXlfMklrZmhGcGltR0Fsam43VlhtYklJLXBjdTJndjRJSzFtODEtMkRDTDJnRFlMUTR5NmpVZjltLUdKMmlkVzBpOXZrTFk2MDU4R09vSEJ0UE1RUVo0YWlweEc4Z1dFZlRxQzljVVNobTBGLVNuTlgtRXluYWxNbE1POU1uSGZHMnV5NUhOd0pXSHo?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-21T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTEZ3eTd2Z1NJMTg1OWV5ZFkwbUFxTHFYUDhsSkJMV3N1Z3cwbGxUY29iVmcydFNEX0dqRG9GWTFSVUNCdllySW11Z1BUd0dHV0U4SXpua2pjNDBYUmNrc1NXdkN3Vk5EeGVtVDBuM0FQYWc4Q21YLWRzcDYzd2N4T0RmOEhjay1XUy11Tw?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-10-21T12:28:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM0JDTDFaeG9KMDZtYjFnaEpTNTBzNnVNLUQyN2libjFoNTQ2U2FSMWNaNGdtUjdxb2JwOGpDSU9GWi0yR0pJTm9nQVRkNkNkQTRmMHh6emVSa2pPS0pnZnVENWtMRTF3N1FEbnBQTmpxRVBtOWlZbGJOdkZCczVCMmk3ZnJDRlFMTTBsZWxsYjE3VEVKNE84cWdLMHBkaEE?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-21T16:25:36+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "cards earnings prepares report what"
     },
     {
       "id": "fae4118b0f61ed796744",
@@ -16253,68 +16331,12 @@
       ],
       "coverage_count": 3,
       "event_signature": "demand diagnostic edges higher hunt remains steady stop"
-    },
-    {
-      "id": "fe4a58a5ec445897fde0",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
-      "description": "Quest Diagnostics stock holds above $235.61 resistance, bullish trend intact despite overbought signals Traders Union",
-      "source": "Traders Union",
-      "source_url": "https://tradersunion.com",
-      "source_domain": "tradersunion.com",
-      "published_at": "2026-08-05T22:14:20+00:00",
-      "published_display": "05 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRklxT1FTYTdjSU40ZTdaYWZqdWh0R21ZOHdWRXduTExCVUhwWFJLNkRRcFhlVVIwYUc1S1EwVXlWTmJYQVljX1dmT1Z6VHFPMG5BSGswYnpVRTV1cU5hcmhGYVc2R19zb0JHTm9xTVRzRmo0UGVpQWdzN0lWeTE3V2w0ZnFFeXNIMVI5M0FVVQ?oc=5",
-          "domain": "tradersunion.com",
-          "published_at": "2026-08-05T22:14:20+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "235 above bullish despite holds intact overbought resistance signals stock trend"
-    },
-    {
-      "id": "0aedc8ea57534ac746c1",
-      "company": "Labcorp",
-      "title": "Labcorp 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-      "description": "Labcorp’s verified second-quarter 2026 results show revenue of $3.731 billion for the three months ended June 30, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures contributed 1.2 points and foreign exchange added 0.4 points. Operating income increased to $451.6 million from $394.5 million, lifting the reported operating margin to 12.1% from 11.2%. Net earnings attributable to Labcorp were $298.5 million, and diluted EPS rose 28.5% to $3.64 from $2.84. Adjusted EPS increased 14.9% to $4.99. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, with adjusted operating margin of 18.0%, up 50 basis points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million; Central Labs grew 9.8%, while Early Development revenue declined 1.4%. Biopharma adjusted operating margin expanded 130 basis points to 17.0%. Labcorp raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The company also expanded its share-repurchase authorization by $1 billion, leaving $1.4 billion available. These figures are directly confirmed by Labcorp’s July 30 earnings release.",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-08-05T20:26:35+00:00",
-      "published_display": "05 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUtlZ0hvNU4xaExtOUw1dkRpZHBmVWVJTHpDNG5mZnM3bksyU3hFb3JKT3FmZzhtcnNXZ01IWktFTENrcWhMY3oxZDEtWE5IMHd1M0I2QVJCLTRscnFsckpZU2VzVXhzc3JHdzlISndJeS1qU0MtWk1RY0RNWGJic3VFeUFuaUlXYXFqXzdyaUJMZS1EamVGNEt1UndOcURHQmY1RWNhcllSa3JsUDk0Xy0xRVNVYVJoMkhN?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-08-05T20:26:35+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 73b eps revenue summary",
-      "source_description": "LABCORP HOLDINGS 2026: Revenue $3.73B, EPS $3.64— 10-Q Summary TradingView",
-      "chatgpt_summary": "Labcorp’s verified second-quarter 2026 results show revenue of $3.731 billion for the three months ended June 30, up 5.8% from $3.527 billion a year earlier. Organic growth contributed 4.2 percentage points, acquisitions net of divestitures contributed 1.2 points and foreign exchange added 0.4 points. Operating income increased to $451.6 million from $394.5 million, lifting the reported operating margin to 12.1% from 11.2%. Net earnings attributable to Labcorp were $298.5 million, and diluted EPS rose 28.5% to $3.64 from $2.84. Adjusted EPS increased 14.9% to $4.99. Diagnostics Laboratories revenue was $2.901 billion, up 5.5%, with adjusted operating margin of 18.0%, up 50 basis points. Biopharma Laboratory Services revenue rose 6.5% to $836.2 million; Central Labs grew 9.8%, while Early Development revenue declined 1.4%. Biopharma adjusted operating margin expanded 130 basis points to 17.0%. Labcorp raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The company also expanded its share-repurchase authorization by $1 billion, leaving $1.4 billion available. These figures are directly confirmed by Labcorp’s July 30 earnings release.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-11T19:07:59+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 45,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-04T06:17:00+05:30",
-  "next_update_display": "04 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-04T18:17:00+05:30",
+  "next_update_display": "04 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
