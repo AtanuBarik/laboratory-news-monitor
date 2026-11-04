@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-04T12:29:31.111284+05:30",
-  "generated_at_display": "04 Nov 2026, 12:29 PM IST",
-  "item_count": 532,
-  "raw_relevant_item_count": 641,
-  "duplicates_merged": 63,
+  "generated_at": "2026-11-05T01:33:51.160808+05:30",
+  "generated_at_display": "05 Nov 2026, 1:33 AM IST",
+  "item_count": 530,
+  "raw_relevant_item_count": 631,
+  "duplicates_merged": 60,
   "failures": [],
   "items": [
+    {
+      "id": "c818e720bd6382c22558",
+      "company": "Labcorp",
+      "title": "Labcorp: Nov 04, 2026 Labcorp Completes Acquisition of Millennium Health",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtRYm9VbFZGVzdyeEtTcWpoWTZzVWlQSWF6YXhqUFAwYU1yanM4Y1dmVFJLSmJnMG1BRUx0REJoQUNxOUlPazdUbF9kb29aNUJPX2RHMDZEVGxGMVRGLVVGalF1VUdXd0Q3Z1lQRWZBbW5VcVM4eGZfUVM3dEhkcmVnREZMdDRGbWJJMlFlM2pQUUNQdWhZZWJxa2VPNV84NDN4dEk4U0Q1dVNuakJNczZrVUZFQ1hhd2t2M3JkS1o?oc=5",
+      "description": "Labcorp : Nov 04, 2026 Labcorp Completes Acquisition of Millennium Health www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-11-04T13:36:09+00:00",
+      "published_display": "04 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEtRYm9VbFZGVzdyeEtTcWpoWTZzVWlQSWF6YXhqUFAwYU1yanM4Y1dmVFJLSmJnMG1BRUx0REJoQUNxOUlPazdUbF9kb29aNUJPX2RHMDZEVGxGMVRGLVVGalF1VUdXd0Q3Z1lQRWZBbW5VcVM4eGZfUVM3dEhkcmVnREZMdDRGbWJJMlFlM2pQUUNQdWhZZWJxa2VPNV84NDN4dEk4U0Q1dVNuakJNczZrVUZFQ1hhd2t2M3JkS1o?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-11-04T13:36:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 acquisition completes health millennium nov"
+    },
     {
       "id": "f28028d499a547387ed1",
       "company": "Quest Diagnostics",
@@ -49,9 +73,21 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-11-03T15:56:09+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkQtcU1HVEJfcjdhWlpfUnU4UURrdHBCQk54QzJsV2dhbDNvdFYwbDNDeGkyNHB1aUR3aThZZnlGQ1loazdVeE9jNEVabHhCWXRENWpWaThpVXdsRm0tZjJYTnphMFNyMkdfb0duSENjTFRKRFJiQmFKbjN5a281bzVmcXN0T19uLW9nRFl0QUJtZGpOM1BvcVhUcFVYamE0ZktMRFNFaw?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-04T14:29:19+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODBxSnhWYlRuRHp1QTljUnJnNDB1eXJxS05Ga3o1ak93ZGdlb0Q4c3ZLbDk5UVlKamdtby1CbTQ2d2xEenJCTUp2ckpqN3NGRTBsVGdGd1cyTVkxako0N2VnbUNwU2JfUkJmOVlUNXNnWDI2RGo2dWtBWUZUTlFpU1NLbTVMbkNpUXRfNTNPZGNwcXVIRTByaDFfNFJIdGoyWGVUbGpuc3Q?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-04T17:24:19+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 3,
       "event_signature": "bryan com evp form investing november president vaughn"
     },
     {
@@ -5869,30 +5905,6 @@
       "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
     },
     {
-      "id": "f2dc393268b9df61f530",
-      "company": "Labcorp",
-      "title": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
-      "description": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach Holland & Knight",
-      "source": "Holland & Knight",
-      "source_url": "https://www.hklaw.com",
-      "source_domain": "hklaw.com",
-      "published_at": "2026-10-19T22:08:12+00:00",
-      "published_display": "19 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Holland & Knight",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
-          "domain": "hklaw.com",
-          "published_at": "2026-10-19T22:08:12+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "attorneys breach collector data debt general over reaches settlement"
-    },
-    {
       "id": "d589b2e62c348f95a60e",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk",
@@ -5921,6 +5933,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "cut investors lab medicare payment risk slides weigh"
+    },
+    {
+      "id": "f2dc393268b9df61f530",
+      "company": "Labcorp",
+      "title": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
+      "description": "Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach Holland & Knight",
+      "source": "Holland & Knight",
+      "source_url": "https://www.hklaw.com",
+      "source_domain": "hklaw.com",
+      "published_at": "2026-10-19T07:00:00+00:00",
+      "published_display": "19 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Holland & Knight",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVEppa19FWE5RdlY3a2N1OHhkaXZDejkyNk1aQ0tYRzFQdW9uVkoxWWZPUE16a1dfT19JVmdzX0RxbjY4T0RJSTMyTC1Nd0Q1NWtSLXBId0JSMExqUzFRV0F0WXpWcW9JMmRibWJKVy1LYzdnekFrY0EtNUhwbGplQ2ZCX2FLSGRMczdxVnVuOVdadlRObFN3OF9uczFzQVRacTFOSGV0NGsxbGM?oc=5",
+          "domain": "hklaw.com",
+          "published_at": "2026-10-19T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "attorneys breach collector data debt general over reaches settlement"
     },
     {
       "id": "1a2a53b69aba0ef1f4b6",
@@ -16226,117 +16262,12 @@
       "summary_evidence": [
         "https://www.tradingkey.com/markets/stocks/dgx/technical"
       ]
-    },
-    {
-      "id": "ca9c22649820263e0fd5",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5",
-      "description": "During the 2026 U.S. cyclosporiasis outbreak, Quest Diagnostics' parasitology network experienced a sharp surge in stool-test demand. The Wall Street Journal reported that Quest normally performs about 30 to 40 Cyclospora tests per day across 10 laboratories equipped for the work, but daily volume climbed to more than 1,500 tests. At the Clifton, New Jersey laboratory, specimens arriving from seven eastern states accumulated faster than scientists could process them; on July 30, some samples near the front of the queue were dated July 22. Quest shifted the parasitology bench to full-capacity, seven-day-a-week operations and used extended shifts and staff redeployment to work through the backlog. The conventional microscopy workflow is labor intensive: stool is concentrated in a centrifuge, sediment is placed on a slide, and a scientist may spend 10 to 15 minutes scanning a single slide to avoid a false negative. Orders for other gastrointestinal-pathogen tests also increased. The Journal cited test-maker data showing Cyclospora positivity peaked at 14.2% during July 12-18 before declining to roughly 10% in the final week of July. CDC surveillance separately documented 4,173 laboratory-confirmed domestically acquired cases through July 20 and more than 7,400 additional cases under review. The episode represents an acute outbreak-driven capacity challenge rather than evidence of a permanent Quest operating disruption.",
-      "source": "streamlinefeed.co.ke",
-      "source_url": "https://streamlinefeed.co.ke",
-      "source_domain": "streamlinefeed.co.ke",
-      "published_at": "2026-08-06T11:05:59+00:00",
-      "published_display": "06 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "streamlinefeed.co.ke",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdmdkbWxVWHRFUjZvRDRRTUxRd3VSVTZaMFJnT0YtZGZSREwtWDY4Z1BueWcwbW1mUVVjTjhha3RlV29Fa3lZMmFHWGpqTjNRTmduTTV2NXFVa3lKSGQ5UDVUSjJOeENSQjJENmFqYmRQZ1VVZmctY0dqcmoybGZjUHhLTGlnR0NyVGc3clZ0M2lRY1llRGQ2RVNXVl91ZG5DVl90SmlPM3FuV0d0SzlFbHNUM2xpMzk1Unc?oc=5",
-          "domain": "streamlinefeed.co.ke",
-          "published_at": "2026-08-06T11:05:59+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "across labs outbreak overwhelmed parasitic states sweeps united",
-      "source_description": "Quest Diagnostics Labs Overwhelmed As Parasitic Outbreak Sweeps Across United States streamlinefeed.co.ke",
-      "chatgpt_summary": "During the 2026 U.S. cyclosporiasis outbreak, Quest Diagnostics' parasitology network experienced a sharp surge in stool-test demand. The Wall Street Journal reported that Quest normally performs about 30 to 40 Cyclospora tests per day across 10 laboratories equipped for the work, but daily volume climbed to more than 1,500 tests. At the Clifton, New Jersey laboratory, specimens arriving from seven eastern states accumulated faster than scientists could process them; on July 30, some samples near the front of the queue were dated July 22. Quest shifted the parasitology bench to full-capacity, seven-day-a-week operations and used extended shifts and staff redeployment to work through the backlog. The conventional microscopy workflow is labor intensive: stool is concentrated in a centrifuge, sediment is placed on a slide, and a scientist may spend 10 to 15 minutes scanning a single slide to avoid a false negative. Orders for other gastrointestinal-pathogen tests also increased. The Journal cited test-maker data showing Cyclospora positivity peaked at 14.2% during July 12-18 before declining to roughly 10% in the final week of July. CDC surveillance separately documented 4,173 laboratory-confirmed domestically acquired cases through July 20 and more than 7,400 additional cases under review. The episode represents an acute outbreak-driven capacity challenge rather than evidence of a permanent Quest operating disruption.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-16T06:37:43+05:30",
-      "summary_evidence": [
-        "https://www.wsj.com/health/the-science-lab-where-technicians-are-drowning-in-feces-5b4f3645",
-        "https://www.cdc.gov/cyclosporiasis/php/surveillance/index.html"
-      ]
-    },
-    {
-      "id": "a72f4d252eca37f5af7a",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Buffered ETF",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
-      "description": "Quest Diagnostics (DGX) Advances 1.13% as Shares Test Midpoint Between Support and Resistance - Overbought Signal Alerts vinanet.vn",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "published_display": "06 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUVY3VXFJZmZ4aVo3SUE0QXdCS1V5bHJzX24tZ3NqcHdRdWtUMHdFejkzeWJybjBkLWxBeDNid0FEWTA3dkhZVF9FNUdjbnFYS1RCWkZURi1EaTRoMmNJcV9KM2RPUGhrRmhWUDY0aWhZZWFJUzA3TmhqRV9ZVndPel9rSG0za09aVllHWGxqUEt3dG4wbmRvTXVTRTlwazVNZnZ6SVcwZl9FZFFFbkc0dTB1c1QwSlBRNXhVTGlhRE5SNlI1WXpVMW9LbTU?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-06T07:00:00+00:00"
-        },
-        {
-          "name": "Vinanet",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlFeGlrS1hwUmN5eWxOYVpxZV9EZzF5aXJFY3owVENNTHR5LXBpdThWRW9FNEJHX2lQdU9heVJfUVZvWF9KUkVicTdCaEpscmV1VGxNQ0tUWmFiWkhEUldxZ2lkbUQxM2FuUnJVQXhrMFA5ai1Ja3J6UVBscnpzUEI3R2VpM2VTOTVvWUJ5Y2ZRX0tONE1hZ0Fwa0VsdlhYZkNabXBqeTdvY25ZRzZjRlBnWEVsWFFHaXQ3MGhKZnRLX05TQzdjWTkxNA?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-08-06T07:00:00+00:00"
-        },
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbmZqQVpUMGZfbE81NnkwTXZaM1ZTM0RUczVCbWJXcUNKcEhFbzFSTFczTElGTXF6WnQyZUsyeUNMWV9UNzRicUk3ZEdDU2xlS0RlazFsNlhmSzNZMWpBNVRXV2k5VXZ4RFdtX1dPUlpqMURaV3FVZzkzVkhHNFlPWE0yb2FzNUlNZGpWMksxbGNoa2V2LXVYZWozYlNaRURNTWJLaHUyYWxUM2pEQ01DY2UzZjdjTGk3OUZja2xtdV95ZGRBdjRhMkdFQTNSQTQ?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-06T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "advances between buffered etf midpoint resistance shares support test"
-    },
-    {
-      "id": "b0dd935b15f040e61bb6",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Edges Higher as Diagnostic Demand Remains Steady - Stop Hunt",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGNyZVJEN2lwaFNRd0ROZngzVlIyWmIxVVNtcUlRLUs4RFRDelNiTVNRNG1pb0RNUkEtZ2RsVVJ3Mml0VlA2aTZQWUtJQnlKSzk4NW1BMXZTNHFONFYzWG9XemlHV0NzRk95Q2Q5RXlncTM1Ykp1RnN3a1RWcWxfR2h2cnAyTWpIZDdEVTZDLTI0LUY2V2I3aEhKb2RoWG05ZWhjLWF5RHZyaWJZalBwOE1B?oc=5",
-      "description": "Quest Diagnostics (DGX) Edges Higher as Diagnostic Demand Remains Steady - Dealer Delta dars.gov.et",
-      "source": "Vinanet",
-      "source_url": "http://vinanet.vn",
-      "source_domain": "vinanet.vn",
-      "published_at": "2026-08-06T07:00:00+00:00",
-      "published_display": "06 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Vinanet",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGNyZVJEN2lwaFNRd0ROZngzVlIyWmIxVVNtcUlRLUs4RFRDelNiTVNRNG1pb0RNUkEtZ2RsVVJ3Mml0VlA2aTZQWUtJQnlKSzk4NW1BMXZTNHFONFYzWG9XemlHV0NzRk95Q2Q5RXlncTM1Ykp1RnN3a1RWcWxfR2h2cnAyTWpIZDdEVTZDLTI0LUY2V2I3aEhKb2RoWG05ZWhjLWF5RHZyaWJZalBwOE1B?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-08-06T07:00:00+00:00"
-        },
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmRjREprTThITzN0QV91NFBlVnJURHB5R2VucG13dXFxNGh2MXF1QVpyMElGQnJzSDQwQWVGa1hLOEdYVXhPNG85LXRBRm0wdVhZcERRQWRsX0RWYk9tbm1kY3RvQ3ptZjRhbWM5NnFBRHg1b2JQQmMxbV9hdVQtX0gxUnlqd0NENGxMLWZXTWNwaUNMVVVhR0NSNEsxY3l2amhnUDVqd2hOWldQVmJxcUVxanJEUQ?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-06T07:00:00+00:00"
-        },
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLUZKbUxqMHZLS3hsVWdJS0w5SFhVa1VlT29KWk9HQUx2WlRjSl9Ib2U0Q3d1ZlNIcEJHZ2ludGhaTTJIWmpER093SmxTM0NFMUh1R1IwODRVeW03eDFiRVptQW9NSi1LZ3FPcjdPS1c4UDRtN2xESFdNdjBIcHdlR1JsSDdPU29vcDUwZ29sSjZHa2dhOEVaa0JzbEdSYUU3Ui1vVDRsdEdCRjYwWGRIbklKYw?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-06T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "demand diagnostic edges higher hunt remains steady stop"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 40,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-04T18:17:00+05:30",
-  "next_update_display": "04 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-05T06:17:00+05:30",
+  "next_update_display": "05 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
