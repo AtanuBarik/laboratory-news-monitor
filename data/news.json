@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-11-05T12:56:06.509314+05:30",
-  "generated_at_display": "05 Nov 2026, 12:56 PM IST",
-  "item_count": 530,
-  "raw_relevant_item_count": 637,
-  "duplicates_merged": 61,
+  "generated_at": "2026-11-06T01:47:29.156900+05:30",
+  "generated_at_display": "06 Nov 2026, 1:47 AM IST",
+  "item_count": 533,
+  "raw_relevant_item_count": 647,
+  "duplicates_merged": 64,
   "failures": [],
   "items": [
+    {
+      "id": "9c95d8ad0bea776c555d",
+      "company": "Labcorp",
+      "title": "Labcorp raised to Buy at HSBC on M&A and diagnostics momentum",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEVnWWx3aWVaTDJxTDA3N3FlSW5QMEZuZndMLWs0aUgxNWxVdjdiZkdFanVOWEtMWjJJNEduc0F1emt3d2FUQmpCSGh4WGlHcjFnN1pGX3JaRGJ6Z0s1UTBxU3c3YXlHdXB0QmFDd2diU0VmWFFGUlBjZG1oRHRXVXA2MWpEZVRVeUo4U2NBVW9JQlVZbVc2WFQtUU5Va3QySmUxb2E5b2trVnJ2YzZSWjFVSkY2WElEVVRVa3VyaUZMQQ?oc=5",
+      "description": "Labcorp raised to Buy at HSBC on M&A and diagnostics momentum TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-11-05T15:10:25+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTEVnWWx3aWVaTDJxTDA3N3FlSW5QMEZuZndMLWs0aUgxNWxVdjdiZkdFanVOWEtMWjJJNEduc0F1emt3d2FUQmpCSGh4WGlHcjFnN1pGX3JaRGJ6Z0s1UTBxU3c3YXlHdXB0QmFDd2diU0VmWFFGUlBjZG1oRHRXVXA2MWpEZVRVeUo4U2NBVW9JQlVZbVc2WFQtUU5Va3QySmUxb2E5b2trVnJ2YzZSWjFVSkY2WElEVVRVa3VyaUZMQQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-11-05T15:10:25+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "buy hsbc momentum raised"
+    },
+    {
+      "id": "c3d4327858b2f466b279",
+      "company": "ARUP Laboratories",
+      "title": "GenomOncology Integrates ARUP Laboratories’ Jalapheno Phenotype-Matching Tool Into GO Pathology Workbench Under Multiyear Exclusive Agreement",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMkdYankxYVE4OXkwQXVRcGtUcWhCMzJ4SmNRNzIwNi1mR2o1S0hlVnl3SlhOUDFsQ0dnQkM4dDlXaHBQQWVYNEZJYjh1ZmdHLXpucDBNTGhPMHdnU3FOaFBDWUFQNjFVWHFWcXpiM245N1l1VUNwaUdDbF9VbFVUUEsyc2FyRFl5cWNPUWsxMTZRWEMyS1pKbUZhejh5Rk5uRGdMQlNFYmtrSWlIRnVvT2Y4aHF4M0FDeDJvOV9aamRNdnBaWDc4aFpualcxUmJ4WkZjTjR6TmNtWE04VDlraGNadWFyR0VJYmZqUHNwNHZhOURxVm43YkJ1dDNqVWU5SkhZNGYzSGFIc3kwcFdPb2JJaWdadEtXRVV2UUJEX1o0NDdqRGkxYlQxeXdqMGpMZkpZeWNzb2V5UdIBvwJBVV95cUxOa212MFU5N2NqNUF0Zmxlb3hDR0pJcHdpQmNBVGE3VHUzMHZubnp0ZGNoblVXWTNtRG5xcUlnSUtXREptZHM1NU8taE02S2lkNXFkNFFEU2dtZG05LXNIc0xaMEVtZ3dJbDhNckEzbWVfdVhLbjJwM19wM0JyZ0lUSFFtMHFnVDRMeGlwZmtvajZUQnU3aG5BYlphdlA2QzJfdlhQWGJ0eER0TW5MUTc1S0Jzazk0V3d5V3hRLXJ0Tm1tTGUtUENjMmcySExqMTdBcVdXWEQ0d2VRRWUyZ0JIajQtS2NPQnQyODhCaS1WSHJFSEgxTWh5N3Fwbldud3JPNmlFaWtOcjFrcEE2SzE2WWpnRk8xRFhjVEtRcWlORklRZTNYbEhtTzBtcEhwUngydnpxMGJOb1NrelNUVkZR?oc=5",
+      "description": "GenomOncology Integrates ARUP Laboratories’ Jalapheno Phenotype-Matching Tool Into GO Pathology Workbench Under Multiyear Exclusive Agreement The Manila Times",
+      "source": "The Manila Times",
+      "source_url": "https://www.manilatimes.net",
+      "source_domain": "manilatimes.net",
+      "published_at": "2026-11-05T14:53:31+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMkdYankxYVE4OXkwQXVRcGtUcWhCMzJ4SmNRNzIwNi1mR2o1S0hlVnl3SlhOUDFsQ0dnQkM4dDlXaHBQQWVYNEZJYjh1ZmdHLXpucDBNTGhPMHdnU3FOaFBDWUFQNjFVWHFWcXpiM245N1l1VUNwaUdDbF9VbFVUUEsyc2FyRFl5cWNPUWsxMTZRWEMyS1pKbUZhejh5Rk5uRGdMQlNFYmtrSWlIRnVvT2Y4aHF4M0FDeDJvOV9aamRNdnBaWDc4aFpualcxUmJ4WkZjTjR6TmNtWE04VDlraGNadWFyR0VJYmZqUHNwNHZhOURxVm43YkJ1dDNqVWU5SkhZNGYzSGFIc3kwcFdPb2JJaWdadEtXRVV2UUJEX1o0NDdqRGkxYlQxeXdqMGpMZkpZeWNzb2V5UdIBvwJBVV95cUxOa212MFU5N2NqNUF0Zmxlb3hDR0pJcHdpQmNBVGE3VHUzMHZubnp0ZGNoblVXWTNtRG5xcUlnSUtXREptZHM1NU8taE02S2lkNXFkNFFEU2dtZG05LXNIc0xaMEVtZ3dJbDhNckEzbWVfdVhLbjJwM19wM0JyZ0lUSFFtMHFnVDRMeGlwZmtvajZUQnU3aG5BYlphdlA2QzJfdlhQWGJ0eER0TW5MUTc1S0Jzazk0V3d5V3hRLXJ0Tm1tTGUtUENjMmcySExqMTdBcVdXWEQ0d2VRRWUyZ0JIajQtS2NPQnQyODhCaS1WSHJFSEgxTWh5N3Fwbldud3JPNmlFaWtOcjFrcEE2SzE2WWpnRk8xRFhjVEtRcWlORklRZTNYbEhtTzBtcEhwUngydnpxMGJOb1NrelNUVkZR?oc=5",
+          "domain": "manilatimes.net",
+          "published_at": "2026-11-05T14:53:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "agreement exclusive genomoncology integrates jalapheno matching multiyear pathology phenotype tool under workbench"
+    },
+    {
+      "id": "5e2d8240334d9a8bb8f2",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 258.74 USD",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazJXNmxRQlJtVndkbHJtQ2FaTnJlQzd0TUZfcnEwMzZVLWtRUWVvT09pN0FoQVJ4Zk9YLXd0ZEx2VE82VnRxZWdjQm5sN0pLZXFxeGpNUjM3eDBadUw2VVJQcFBwdXVGV1o3OG9IWW8tNWl0R3pwRkJnSDNNa1F5US1FMGR1M2dmRXpiTXVPcUR3ZUdjWjdDanpPb2NQeExyTHdvRG9WZ1ZOYVJZazBnQg?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 258.74 USD Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-05T14:35:51+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazJXNmxRQlJtVndkbHJtQ2FaTnJlQzd0TUZfcnEwMzZVLWtRUWVvT09pN0FoQVJ4Zk9YLXd0ZEx2VE82VnRxZWdjQm5sN0pLZXFxeGpNUjM3eDBadUw2VVJQcFBwdXVGV1o3OG9IWW8tNWl0R3pwRkJnSDNNa1F5US1FMGR1M2dmRXpiTXVPcUR3ZUdjWjdDanpPb2NQeExyTHdvRG9WZ1ZOYVJZazBnQg?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-05T14:35:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "258 all high hits stock time usd"
+    },
+    {
+      "id": "4bb917d3c4095a32c5b5",
+      "company": "Sonic Healthcare",
+      "title": "Pathology Pressure: Can ASX 50's Sonic Healthcare Lift Margins?",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkMxRmVIeGY2Q3I5SU9jQlNvbGdHZWkzMTBwQlUzMnZkSkRxVzk2X2NWTHRmcjF3cEYzNGRGUXRZdFppSHQxYllrUFhzcXdYak1SLVdobnRoMWgyVmRpQ0ZPZ1lUejdkYmw3aGNYWkVrU2EwYkI1cFYzd2Vzd1dGSmFmMFpEU1ktbVI5c1NpcFQ2bWNOZ1Y2ME5FT0k3X1NTeWNNa3NnV2NEUzk2X2NsaE1hbw?oc=5",
+      "description": "Pathology Pressure: Can ASX 50's Sonic Healthcare (ASX:SHL) Lift Margins? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-05T06:24:00+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSkMxRmVIeGY2Q3I5SU9jQlNvbGdHZWkzMTBwQlUzMnZkSkRxVzk2X2NWTHRmcjF3cEYzNGRGUXRZdFppSHQxYllrUFhzcXdYak1SLVdobnRoMWgyVmRpQ0ZPZ1lUejdkYmw3aGNYWkVrU2EwYkI1cFYzd2Vzd1dGSmFmMFpEU1ktbVI5c1NpcFQ2bWNOZ1Y2ME5FT0k3X1NTeWNNa3NnV2NEUzk2X2NsaE1hbw?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-05T06:24:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can lift margins pathology pressure"
+    },
     {
       "id": "0cf499e2b0f47f6840d3",
       "company": "Quest Diagnostics",
@@ -109,9 +205,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODBxSnhWYlRuRHp1QTljUnJnNDB1eXJxS05Ga3o1ak93ZGdlb0Q4c3ZLbDk5UVlKamdtby1CbTQ2d2xEenJCTUp2ckpqN3NGRTBsVGdGd1cyTVkxako0N2VnbUNwU2JfUkJmOVlUNXNnWDI2RGo2dWtBWUZUTlFpU1NLbTVMbkNpUXRfNTNPZGNwcXVIRTByaDFfNFJIdGoyWGVUbGpuc3Q?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-11-04T17:24:19+00:00"
+        },
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGdYMmdDN1NtN0NfbXZIWW5tWHY0QWJPTlFBdDFNOGJ5RGdsSFAxRHhIbktsVElySlN3dU9iZXFRamFrZEtHLTN1VzAzbV83UWhRblRGR01xd0pVMkRlSjRTYWxuU1J5VXB4amFhWnFydW5oUzlnRXpHMmRyeXNtNXFkWUtWT2l1bmlhTzhDS2RsWXF6akN1Q21HQkxMVmo2WU4xbHRUQ0p2WVlKQjI0UG92X0htcThXUWxfRXJIYVRlZThvRmlGWnd3MXhlc1RmS2RhbnVoWngyZFdOcFJ5X2dB?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-11-05T13:36:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "bryan com evp form investing november president vaughn"
     },
     {
@@ -16221,45 +16323,12 @@
       ],
       "coverage_count": 4,
       "event_signature": "history price qdi quote stock"
-    },
-    {
-      "id": "ef01db00ce5a4ff25908",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Earnings Forecast: Future EPS & Revenue Growth Estimates",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5",
-      "description": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party analyst snapshot rather than company guidance. In its July 27, 2026 update, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 Healthcare Providers & Services companies. The page labels the analyst consensus “Buy” based on 19 analysts and reports expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. The page also contains inconsistent target-price fields. Its analyst-rating panel displays a target of about $239.02 and 4.90% upside, while its FAQ lists an average target of $198.00, with a $215.00 high and $169.18 low. The same FAQ says the previous quarter’s market EPS expectation was $2.87 and the prior actual EPS was $2.28. Those figures should be treated as TradingKey/LSEG-derived market estimates, not as figures issued by Quest. For operating context, Quest subsequently reported second-quarter revenue of $3.043 billion and adjusted diluted EPS of $3.12 and raised its 2026 outlook. The TradingKey article therefore reflects an analyst-model view captured around the reporting period, and its internally inconsistent target-price presentation limits its usefulness for precise valuation conclusions.",
-      "source": "TradingKey",
-      "source_url": "https://www.tradingkey.com",
-      "source_domain": "tradingkey.com",
-      "published_at": "2026-08-07T07:47:44+00:00",
-      "published_display": "07 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9VUEwxbHY3UldnT2hNU3RjMXE4bURmYlgtMjJNblVPUDIxckdta2MzeWJfVENubDBvM1I4RXo4c2F6Rl9uNUpwZU9zUmk4eHYxVHZkUXFWWk9UNklhTGtJcWZKMlg?oc=5",
-          "domain": "tradingkey.com",
-          "published_at": "2026-08-07T07:47:44+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings eps estimates forecast future growth revenue",
-      "source_description": "Quest Diagnostics Inc (DGX) Earnings Forecast: Future EPS & Revenue Growth Estimates TradingKey",
-      "chatgpt_summary": "TradingKey’s Quest Diagnostics earnings-forecast page is a third-party analyst snapshot rather than company guidance. In its July 27, 2026 update, TradingKey assigned Quest an earnings-forecast score of 7.50, ranking it 41st among 75 Healthcare Providers & Services companies. The page labels the analyst consensus “Buy” based on 19 analysts and reports expected next-quarter revenue of $3.03 billion and expected next-quarter EPS of $2.84. The page also contains inconsistent target-price fields. Its analyst-rating panel displays a target of about $239.02 and 4.90% upside, while its FAQ lists an average target of $198.00, with a $215.00 high and $169.18 low. The same FAQ says the previous quarter’s market EPS expectation was $2.87 and the prior actual EPS was $2.28. Those figures should be treated as TradingKey/LSEG-derived market estimates, not as figures issued by Quest. For operating context, Quest subsequently reported second-quarter revenue of $3.043 billion and adjusted diluted EPS of $3.12 and raised its 2026 outlook. The TradingKey article therefore reflects an analyst-model view captured around the reporting period, and its internally inconsistent target-price presentation limits its usefulness for precise valuation conclusions.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-11T19:07:59+05:30",
-      "summary_evidence": [
-        "https://www.tradingkey.com/markets/stocks/dgx/earnings",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 49,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-05T18:17:00+05:30",
-  "next_update_display": "05 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-06T06:17:00+05:30",
+  "next_update_display": "06 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
