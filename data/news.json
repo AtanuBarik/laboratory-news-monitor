@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-11-06T12:55:45.066559+05:30",
-  "generated_at_display": "06 Nov 2026, 12:55 PM IST",
-  "item_count": 536,
-  "raw_relevant_item_count": 654,
-  "duplicates_merged": 68,
+  "generated_at": "2026-11-07T01:12:32.777645+05:30",
+  "generated_at_display": "07 Nov 2026, 1:12 AM IST",
+  "item_count": 538,
+  "raw_relevant_item_count": 660,
+  "duplicates_merged": 70,
   "failures": [],
   "items": [
+    {
+      "id": "6ab68a3907c7f7a46080",
+      "company": "Labcorp",
+      "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
+      "description": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-11-06T19:05:52+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-11-06T19:05:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition completes expand health millennium testing toxicology"
+    },
+    {
+      "id": "328b24af076624e70409",
+      "company": "Quest Diagnostics",
+      "title": "Subu Ramachandran Expands With Quest Diagnostics Stock Options Worth $6K",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFvNlVydk16cUdCV1NZRW93QlpuZnM1RTFiWHc1c3RPOHFYZUpaTVVrUElFbHRmNU1FYlM0cF9oYzV1cEJWYnlvcU05YU5pTm9HVUkzeksxZTRmX19hXzNYVkJfWVlzYVJZZmczY2Z5SU12amp3V2lDVHBiZUFFTGN4R0J1MF96cFdUWklWWkRQNkFxSG9QLV9aU2EwdW9JTkpXSzVGa3IyQU16dmRMYXktTFEzSDZCdlB1bw?oc=5",
+      "description": "Subu Ramachandran Expands Holdings With Quest Diagnostics Stock Options Worth $6K Benzinga",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "source_domain": "benzinga.com",
+      "published_at": "2026-11-06T15:01:52+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFvNlVydk16cUdCV1NZRW93QlpuZnM1RTFiWHc1c3RPOHFYZUpaTVVrUElFbHRmNU1FYlM0cF9oYzV1cEJWYnlvcU05YU5pTm9HVUkzeksxZTRmX19hXzNYVkJfWVlzYVJZZmczY2Z5SU12amp3V2lDVHBiZUFFTGN4R0J1MF96cFdUWklWWkRQNkFxSG9QLV9aU2EwdW9JTkpXSzVGa3IyQU16dmRMYXktTFEzSDZCdlB1bw?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-11-06T15:01:52+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "expands options ramachandran stock subu worth"
+    },
     {
       "id": "905f25e809c0642e0b73",
       "company": "Quest Diagnostics",
@@ -55,35 +103,11 @@
       "event_signature": "catherine com doherty executive form investing november orporated president vice"
     },
     {
-      "id": "b6e999de661b3707a299",
-      "company": "Quest Diagnostics",
-      "title": "Form 4 Quest Diagnostics orporated: Subu Ramachandran (SVP, Regional Businesses) For: 3 November",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjF3STVxMUd1aFQ5Ulh1aThsakJBdTc3aTRxZDNZb0NrSkZ0YU9TczZUTE1TNWRmZ3duLTlYX3k0c1c4V1FsZWJEOEVxYk9YbmY0YTNYUHRuWWoxcVlkbWpBZk5SdEVURFlpdjV5cUhvdnEtWDNncEY3UFVkZGNjZzl0ZmRZanJvOF84RVlIczZFaWtrYzlENHY0bEZENEpXQ3haVDBJQkZ5OVlmZzFjemZpdDNCUWJYSzRPVDQzNmtrZUxFRmNjRGVFeEJiQ2c1OENUeDhFalZfc0gyd3FJM1l2Q1FqM1U?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated: Subu Ramachandran (SVP, Regional Businesses) For: 3 November Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-06T00:38:27+00:00",
-      "published_display": "06 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjF3STVxMUd1aFQ5Ulh1aThsakJBdTc3aTRxZDNZb0NrSkZ0YU9TczZUTE1TNWRmZ3duLTlYX3k0c1c4V1FsZWJEOEVxYk9YbmY0YTNYUHRuWWoxcVlkbWpBZk5SdEVURFlpdjV5cUhvdnEtWDNncEY3UFVkZGNjZzl0ZmRZanJvOF84RVlIczZFaWtrYzlENHY0bEZENEpXQ3haVDBJQkZ5OVlmZzFjemZpdDNCUWJYSzRPVDQzNmtrZUxFRmNjRGVFeEJiQ2c1OENUeDhFalZfc0gyd3FJM1l2Q1FqM1U?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-11-06T00:38:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "businesses form november orporated ramachandran regional subu svp"
-    },
-    {
       "id": "130e4c05ed2493e9babe",
       "company": "Quest Diagnostics",
       "title": "Form 4 Quest Diagnostics orporated: Mark E. Delaney (SVP & Chief Commercial Officer) For: 3 November",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGMtSWdYNnhxbFI2eEFfNEJuUGFYXzlyRWdYX0tUelNJU3liYkdGUzdZaENMTUZTWEE3ZWU2R1gzeDJ4THBmTzdFZUx1R0JyNGZDSFVYTzN5TS1aMEV3VzljNUpoMzVrN1Rpem9HbDZUczNWZWk0OHVNTVRUZm9sOXBVYWFLellPb29RTUpBOG1RZ3JTenM1OGY1MzJJY19uRUF5VzV3ekNGdDJzR0xnRTgzMmRnOFVEZDB2UGNHWV9naHdTa2Rfd19RUWw3c2RXaml1a1lVNUhvZlNlS0tMOVNoaU80dzkwcVNB?oc=5",
-      "description": "Form 4 Quest Diagnostics orporated: Mark E. Delaney (SVP & Chief Commercial Officer) For: 3 November Investing.com UK",
+      "description": "Form 4 Quest Diagnostics orporated: Mark E. Delaney (SVP & Chief Commercial Officer) For: 3 November Investing.com Canada",
       "source": "Investing.com UK",
       "source_url": "https://uk.investing.com",
       "source_domain": "uk.investing.com",
@@ -97,10 +121,46 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGMtSWdYNnhxbFI2eEFfNEJuUGFYXzlyRWdYX0tUelNJU3liYkdGUzdZaENMTUZTWEE3ZWU2R1gzeDJ4THBmTzdFZUx1R0JyNGZDSFVYTzN5TS1aMEV3VzljNUpoMzVrN1Rpem9HbDZUczNWZWk0OHVNTVRUZm9sOXBVYWFLellPb29RTUpBOG1RZ3JTenM1OGY1MzJJY19uRUF5VzV3ekNGdDJzR0xnRTgzMmRnOFVEZDB2UGNHWV9naHdTa2Rfd19RUWw3c2RXaml1a1lVNUhvZlNlS0tMOVNoaU80dzkwcVNB?oc=5",
           "domain": "uk.investing.com",
           "published_at": "2026-11-06T00:32:00+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjN1eFV3dFJfWTNjc2FGYlZtUnE5a1VyYmNmcTkwV2VPbThwbklrSHNzM2IwU1FwUW41dnlUMzF6UGk0RGhuQkRpQkhtQ1g5eWxoSzZIV0JUakdPaVJKcGtGak9lNWtGU1FlTktMVmxjWEFQbWRGcVFCdU1KQ2h4eEMzMFdNSGE5Tk9tWGNLLVg4RnhMSlFzd1k3RHVEdFhJYWt2VjYwc0pOamxzbmVya2t4OWtSNjlIdWJuaU9vU0tHbDM5Nmt5X2hlY2Q2NmxHamlNdGdJZ1FUY0JrRTZxa1NyZ3A5cEZNN21z?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-06T01:07:04+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "chief commercial delaney form mark november officer orporated svp"
+    },
+    {
+      "id": "56ecac8b52a6e4d7bf8c",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Subu Ramachandran (SVP, Regional Businesses) For: 3 November",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR0N0X2MxbmlaV2V0RF8xRUw4ckxxMjh2Ui0zdVc5NEFFRmRxekJiNzVjUVdxZ1NfX0ROaS1tb0VmRHhKRHlVeUI5X3pQcjUzMHl3NF92d1BPM2ZWcDdfWmpIOW05bG1PWHluZTlnejdrMmdLdThKMU1LblM5am5NVUgxX1FPbXg1TmhxNURTaEpnaFgyMVA4S01MbS1rNXZTcXQyQy12RWdhLUhhLUJLcTdDc2FJOUNYZ3lTLTNVbWxHVHRZRjRkMW1NblVRc0cxOW9BUnlBVUNRY0lINmdwRlNpZWJmcVk?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Subu Ramachandran (SVP, Regional Businesses) For: 3 November Investing.com India",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-11-06T00:32:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNR0N0X2MxbmlaV2V0RF8xRUw4ckxxMjh2Ui0zdVc5NEFFRmRxekJiNzVjUVdxZ1NfX0ROaS1tb0VmRHhKRHlVeUI5X3pQcjUzMHl3NF92d1BPM2ZWcDdfWmpIOW05bG1PWHluZTlnejdrMmdLdThKMU1LblM5am5NVUgxX1FPbXg1TmhxNURTaEpnaFgyMVA4S01MbS1rNXZTcXQyQy12RWdhLUhhLUJLcTdDc2FJOUNYZ3lTLTNVbWxHVHRZRjRkMW1NblVRc0cxOW9BUnlBVUNRY0lINmdwRlNpZWJmcVk?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-11-06T00:32:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjF3STVxMUd1aFQ5Ulh1aThsakJBdTc3aTRxZDNZb0NrSkZ0YU9TczZUTE1TNWRmZ3duLTlYX3k0c1c4V1FsZWJEOEVxYk9YbmY0YTNYUHRuWWoxcVlkbWpBZk5SdEVURFlpdjV5cUhvdnEtWDNncEY3UFVkZGNjZzl0ZmRZanJvOF84RVlIczZFaWtrYzlENHY0bEZENEpXQ3haVDBJQkZ5OVlmZzFjemZpdDNCUWJYSzRPVDQzNmtrZUxFRmNjRGVFeEJiQ2c1OENUeDhFalZfc0gyd3FJM1l2Q1FqM1U?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-06T00:38:27+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "businesses form november orporated ramachandran regional subu svp"
     },
     {
       "id": "9c95d8ad0bea776c555d",
@@ -145,9 +205,15 @@
           "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOMkdYankxYVE4OXkwQXVRcGtUcWhCMzJ4SmNRNzIwNi1mR2o1S0hlVnl3SlhOUDFsQ0dnQkM4dDlXaHBQQWVYNEZJYjh1ZmdHLXpucDBNTGhPMHdnU3FOaFBDWUFQNjFVWHFWcXpiM245N1l1VUNwaUdDbF9VbFVUUEsyc2FyRFl5cWNPUWsxMTZRWEMyS1pKbUZhejh5Rk5uRGdMQlNFYmtrSWlIRnVvT2Y4aHF4M0FDeDJvOV9aamRNdnBaWDc4aFpualcxUmJ4WkZjTjR6TmNtWE04VDlraGNadWFyR0VJYmZqUHNwNHZhOURxVm43YkJ1dDNqVWU5SkhZNGYzSGFIc3kwcFdPb2JJaWdadEtXRVV2UUJEX1o0NDdqRGkxYlQxeXdqMGpMZkpZeWNzb2V5UdIBvwJBVV95cUxOa212MFU5N2NqNUF0Zmxlb3hDR0pJcHdpQmNBVGE3VHUzMHZubnp0ZGNoblVXWTNtRG5xcUlnSUtXREptZHM1NU8taE02S2lkNXFkNFFEU2dtZG05LXNIc0xaMEVtZ3dJbDhNckEzbWVfdVhLbjJwM19wM0JyZ0lUSFFtMHFnVDRMeGlwZmtvajZUQnU3aG5BYlphdlA2QzJfdlhQWGJ0eER0TW5MUTc1S0Jzazk0V3d5V3hRLXJ0Tm1tTGUtUENjMmcySExqMTdBcVdXWEQ0d2VRRWUyZ0JIajQtS2NPQnQyODhCaS1WSHJFSEgxTWh5N3Fwbldud3JPNmlFaWtOcjFrcEE2SzE2WWpnRk8xRFhjVEtRcWlORklRZTNYbEhtTzBtcEhwUngydnpxMGJOb1NrelNUVkZR?oc=5",
           "domain": "manilatimes.net",
           "published_at": "2026-11-05T14:53:31+00:00"
+        },
+        {
+          "name": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOa212MFU5N2NqNUF0Zmxlb3hDR0pJcHdpQmNBVGE3VHUzMHZubnp0ZGNoblVXWTNtRG5xcUlnSUtXREptZHM1NU8taE02S2lkNXFkNFFEU2dtZG05LXNIc0xaMEVtZ3dJbDhNckEzbWVfdVhLbjJwM19wM0JyZ0lUSFFtMHFnVDRMeGlwZmtvajZUQnU3aG5BYlphdlA2QzJfdlhQWGJ0eER0TW5MUTc1S0Jzazk0V3d5V3hRLXJ0Tm1tTGUtUENjMmcySExqMTdBcVdXWEQ0d2VRRWUyZ0JIajQtS2NPQnQyODhCaS1WSHJFSEgxTWh5N3Fwbldud3JPNmlFaWtOcjFrcEE2SzE2WWpnRk8xRFhjVEtRcWlORklRZTNYbEhtTzBtcEhwUngydnpxMGJOb1NrelNUVkZR0gG_AkFVX3lxTE5rbXYwVTk3Y2o1QXRmbGVveENHSklwd2lCY0FUYTdUdTMwdm5uenRkY2huVVdZM21EbnFxSWdJS1dESm1kczU1Ty1oTTZLaWQ1cWQ0UURTZ21kbTktc0hzTFowRW1nd0lsOE1yQTNtZV91WEtuMnAzX3AzQnJnSVRIUW0wcWdUNEx4aXBma29qNlRCdTdobkFiWmF2UDZDMl92WFBYYnR4RHRNbkxRNzVLQnNrOTRXd3lXeFEtcnRObW1MZS1QQ2MyZzJITGoxN0FxV1dYRDR3ZVFFZTJnQkhqNC1LY09CdDI4OEJpLVZIckVISDFNaHk3cXBuV253ck82aUVpa05yMWtwQTZLMTZZamdGTzFEWGNUS1FxaU5GSVFlM1hsSG1PMG1wSHBSeDJ2enEwYk5vU2t6U1RWRlE?oc=5",
+          "domain": "manilatimes.net",
+          "published_at": "2026-11-05T14:53:31+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "agreement exclusive genomoncology integrates jalapheno matching multiyear pathology phenotype tool under workbench"
     },
     {
@@ -313,9 +379,15 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzBPVjU5UXQzMHZtbGtZYTc4Q3RKX3RLMWFBQnF1TUptYkpoZThtVXgwZ1FVZzdWYlR0OUZ3N09lZmNPVUFVU19yNkF0T0ZDTkJhOHNYNlA4Q1dacGN4ZmhXSzRjcXBUMUdSMlNwUDhOTGdlN2hjVDZUM2EyLWtkVExEVGVRdDVlYzNtRmZEQ2pvXzNsNXJHdUdIVldzeDllUXVycFppLU5UOF96aFZCc05BYkx1a0Zsc2hpbGszbjdLVGFnemhHMFhQRkZsLTFNVW1BYklRcDRlazFLRFc1ZEd3?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-11-05T13:44:29+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHN0d2FQWUk5V2I0dXJkekN5cUZQLXBTOVdSR1JBWVlyd0NpY3JkQnNEaGpHY0Jpa3hrbzd4MllORXRhXzFYVFlfLVRyVXdBUnM3REkzaDVRNzV4c0FvTnE1dHhCZE1jWDBYaFRxdDVEUVNrT2Q4bHB0S2xSNjUyS0FxRDhLSEx5UlMtVTByRjZiOXl4b1VSNE9NWlI0ODlucXRMQU53MjFfcE1tc0VSLTR5X2J3dWpnV0pwcGZ6WVR1ZVJBTVZZaEh6SDRsZzNMbEF5RlgyQUxTZ3k4U0hDa3Fn?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-05T14:06:58+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "bryan com evp form investing november president vaughn"
     },
     {
@@ -16391,10 +16463,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 51,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-06T18:17:00+05:30",
-  "next_update_display": "06 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-07T06:17:00+05:30",
+  "next_update_display": "07 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

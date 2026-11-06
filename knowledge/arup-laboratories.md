@@ -1,6 +1,6 @@
 # ARUP Laboratories News
 
-- **Repository generated:** 06 Nov 2026, 12:55 PM IST
+- **Repository generated:** 07 Nov 2026, 1:12 AM IST
 - **Distinct events in this file:** 1
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,9 +10,10 @@
 - **Company:** ARUP Laboratories
 - **Publication date:** 05 Nov 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - The Manila Times: https://news.google.com/rss/articles/CBMiugJBVV95cUxOMkdYankxYVE4OXkwQXVRcGtUcWhCMzJ4SmNRNzIwNi1mR2o1S0hlVnl3SlhOUDFsQ0dnQkM4dDlXaHBQQWVYNEZJYjh1ZmdHLXpucDBNTGhPMHdnU3FOaFBDWUFQNjFVWHFWcXpiM245N1l1VUNwaUdDbF9VbFVUUEsyc2FyRFl5cWNPUWsxMTZRWEMyS1pKbUZhejh5Rk5uRGdMQlNFYmtrSWlIRnVvT2Y4aHF4M0FDeDJvOV9aamRNdnBaWDc4aFpualcxUmJ4WkZjTjR6TmNtWE04VDlraGNadWFyR0VJYmZqUHNwNHZhOURxVm43YkJ1dDNqVWU5SkhZNGYzSGFIc3kwcFdPb2JJaWdadEtXRVV2UUJEX1o0NDdqRGkxYlQxeXdqMGpMZkpZeWNzb2V5UdIBvwJBVV95cUxOa212MFU5N2NqNUF0Zmxlb3hDR0pJcHdpQmNBVGE3VHUzMHZubnp0ZGNoblVXWTNtRG5xcUlnSUtXREptZHM1NU8taE02S2lkNXFkNFFEU2dtZG05LXNIc0xaMEVtZ3dJbDhNckEzbWVfdVhLbjJwM19wM0JyZ0lUSFFtMHFnVDRMeGlwZmtvajZUQnU3aG5BYlphdlA2QzJfdlhQWGJ0eER0TW5MUTc1S0Jzazk0V3d5V3hRLXJ0Tm1tTGUtUENjMmcySExqMTdBcVdXWEQ0d2VRRWUyZ0JIajQtS2NPQnQyODhCaS1WSHJFSEgxTWh5N3Fwbldud3JPNmlFaWtOcjFrcEE2SzE2WWpnRk8xRFhjVEtRcWlORklRZTNYbEhtTzBtcEhwUngydnpxMGJOb1NrelNUVkZR?oc=5
+  - The Manila Times: https://news.google.com/rss/articles/CBMivwJBVV95cUxOa212MFU5N2NqNUF0Zmxlb3hDR0pJcHdpQmNBVGE3VHUzMHZubnp0ZGNoblVXWTNtRG5xcUlnSUtXREptZHM1NU8taE02S2lkNXFkNFFEU2dtZG05LXNIc0xaMEVtZ3dJbDhNckEzbWVfdVhLbjJwM19wM0JyZ0lUSFFtMHFnVDRMeGlwZmtvajZUQnU3aG5BYlphdlA2QzJfdlhQWGJ0eER0TW5MUTc1S0Jzazk0V3d5V3hRLXJ0Tm1tTGUtUENjMmcySExqMTdBcVdXWEQ0d2VRRWUyZ0JIajQtS2NPQnQyODhCaS1WSHJFSEgxTWh5N3Fwbldud3JPNmlFaWtOcjFrcEE2SzE2WWpnRk8xRFhjVEtRcWlORklRZTNYbEhtTzBtcEhwUngydnpxMGJOb1NrelNUVkZR0gG_AkFVX3lxTE5rbXYwVTk3Y2o1QXRmbGVveENHSklwd2lCY0FUYTdUdTMwdm5uenRkY2huVVdZM21EbnFxSWdJS1dESm1kczU1Ty1oTTZLaWQ1cWQ0UURTZ21kbTktc0hzTFowRW1nd0lsOE1yQTNtZV91WEtuMnAzX3AzQnJnSVRIUW0wcWdUNEx4aXBma29qNlRCdTdobkFiWmF2UDZDMl92WFBYYnR4RHRNbkxRNzVLQnNrOTRXd3lXeFEtcnRObW1MZS1QQ2MyZzJITGoxN0FxV1dYRDR3ZVFFZTJnQkhqNC1LY09CdDI4OEJpLVZIckVISDFNaHk3cXBuV253ck82aUVpa05yMWtwQTZLMTZZamdGTzFEWGNUS1FxaU5GSVFlM1hsSG1PMG1wSHBSeDJ2enEwYk5vU2t6U1RWRlE?oc=5
 
 **Feed description:** GenomOncology Integrates ARUP Laboratories’ Jalapheno Phenotype-Matching Tool Into GO Pathology Workbench Under Multiyear Exclusive Agreement The Manila Times
