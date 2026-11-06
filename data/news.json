@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-11-06T01:47:29.156900+05:30",
-  "generated_at_display": "06 Nov 2026, 1:47 AM IST",
-  "item_count": 533,
-  "raw_relevant_item_count": 647,
-  "duplicates_merged": 64,
+  "generated_at": "2026-11-06T12:55:45.066559+05:30",
+  "generated_at_display": "06 Nov 2026, 12:55 PM IST",
+  "item_count": 536,
+  "raw_relevant_item_count": 654,
+  "duplicates_merged": 68,
   "failures": [],
   "items": [
+    {
+      "id": "905f25e809c0642e0b73",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJHaEMyaUFaRG5DVGY4b2taTVpxNVVoVXE1a19EOW5LZ1QzYVJkU1Z0RWQteEw5cTJwRjR0S1Bja0Q5cndxUTQzN3pkWndUem5HejNmc19DcXc2WE5vUHJUT1RpVDRHeWNiZDFaOXJYV284am0tOUFLdmh5amlaMnMxOGUtcU8wRGRVVUxaZU9GSjZNb3hwcmpFemxsbE5JTm85SzdvUklycVAtbVR1Zw?oc=5",
+      "description": "Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-06T00:38:27+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJHaEMyaUFaRG5DVGY4b2taTVpxNVVoVXE1a19EOW5LZ1QzYVJkU1Z0RWQteEw5cTJwRjR0S1Bja0Q5cndxUTQzN3pkWndUem5HejNmc19DcXc2WE5vUHJUT1RpVDRHeWNiZDFaOXJYV284am0tOUFLdmh5amlaMnMxOGUtcU8wRGRVVUxaZU9GSjZNb3hwcmpFemxsbE5JTm85SzdvUklycVAtbVR1Zw?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-06T00:38:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "48m com doherty evp investing sells shares"
+    },
+    {
+      "id": "ec9e5f2d77aaba9c2d11",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Catherine T. Doherty (Executive Vice President) For: 3 November By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORjV3blllNUJTSnhRVGRDOVFEdGhJd05ScXM5cm1kNTF3UGlEcEQtckVOU2dQcFZjbENtNzd3bnBCREJNbHNHbGJ3ZzBiLVN0VExoNFVaRnZxd3pzX0QzOEY1OGpLbnJTaW9sSkp1NUFVYjhRb2NiTDIwOUU5cHhpcUM5SGdSR0tuZ3ZZaFptWEpEYUxtem1saTdONlN2RkRVSkVXQ0ZsZ1p3dE1IbXBwZWdhUTU2Ny1ZUnhUSjd4clAxNUxKS0lXTndaandhSS1RQUJMZzZ0OTBIc3p0SEx2bTAtTnpvaE52YTl3?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Catherine T. Doherty (Executive Vice President) For: 3 November By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-06T00:38:27+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Leadership Changes",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORjV3blllNUJTSnhRVGRDOVFEdGhJd05ScXM5cm1kNTF3UGlEcEQtckVOU2dQcFZjbENtNzd3bnBCREJNbHNHbGJ3ZzBiLVN0VExoNFVaRnZxd3pzX0QzOEY1OGpLbnJTaW9sSkp1NUFVYjhRb2NiTDIwOUU5cHhpcUM5SGdSR0tuZ3ZZaFptWEpEYUxtem1saTdONlN2RkRVSkVXQ0ZsZ1p3dE1IbXBwZWdhUTU2Ny1ZUnhUSjd4clAxNUxKS0lXTndaandhSS1RQUJMZzZ0OTBIc3p0SEx2bTAtTnpvaE52YTl3?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-06T00:38:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "catherine com doherty executive form investing november orporated president vice"
+    },
+    {
+      "id": "b6e999de661b3707a299",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Subu Ramachandran (SVP, Regional Businesses) For: 3 November",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjF3STVxMUd1aFQ5Ulh1aThsakJBdTc3aTRxZDNZb0NrSkZ0YU9TczZUTE1TNWRmZ3duLTlYX3k0c1c4V1FsZWJEOEVxYk9YbmY0YTNYUHRuWWoxcVlkbWpBZk5SdEVURFlpdjV5cUhvdnEtWDNncEY3UFVkZGNjZzl0ZmRZanJvOF84RVlIczZFaWtrYzlENHY0bEZENEpXQ3haVDBJQkZ5OVlmZzFjemZpdDNCUWJYSzRPVDQzNmtrZUxFRmNjRGVFeEJiQ2c1OENUeDhFalZfc0gyd3FJM1l2Q1FqM1U?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Subu Ramachandran (SVP, Regional Businesses) For: 3 November Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-06T00:38:27+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYjF3STVxMUd1aFQ5Ulh1aThsakJBdTc3aTRxZDNZb0NrSkZ0YU9TczZUTE1TNWRmZ3duLTlYX3k0c1c4V1FsZWJEOEVxYk9YbmY0YTNYUHRuWWoxcVlkbWpBZk5SdEVURFlpdjV5cUhvdnEtWDNncEY3UFVkZGNjZzl0ZmRZanJvOF84RVlIczZFaWtrYzlENHY0bEZENEpXQ3haVDBJQkZ5OVlmZzFjemZpdDNCUWJYSzRPVDQzNmtrZUxFRmNjRGVFeEJiQ2c1OENUeDhFalZfc0gyd3FJM1l2Q1FqM1U?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-06T00:38:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "businesses form november orporated ramachandran regional subu svp"
+    },
+    {
+      "id": "130e4c05ed2493e9babe",
+      "company": "Quest Diagnostics",
+      "title": "Form 4 Quest Diagnostics orporated: Mark E. Delaney (SVP & Chief Commercial Officer) For: 3 November",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGMtSWdYNnhxbFI2eEFfNEJuUGFYXzlyRWdYX0tUelNJU3liYkdGUzdZaENMTUZTWEE3ZWU2R1gzeDJ4THBmTzdFZUx1R0JyNGZDSFVYTzN5TS1aMEV3VzljNUpoMzVrN1Rpem9HbDZUczNWZWk0OHVNTVRUZm9sOXBVYWFLellPb29RTUpBOG1RZ3JTenM1OGY1MzJJY19uRUF5VzV3ekNGdDJzR0xnRTgzMmRnOFVEZDB2UGNHWV9naHdTa2Rfd19RUWw3c2RXaml1a1lVNUhvZlNlS0tMOVNoaU80dzkwcVNB?oc=5",
+      "description": "Form 4 Quest Diagnostics orporated: Mark E. Delaney (SVP & Chief Commercial Officer) For: 3 November Investing.com UK",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-11-06T00:32:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGMtSWdYNnhxbFI2eEFfNEJuUGFYXzlyRWdYX0tUelNJU3liYkdGUzdZaENMTUZTWEE3ZWU2R1gzeDJ4THBmTzdFZUx1R0JyNGZDSFVYTzN5TS1aMEV3VzljNUpoMzVrN1Rpem9HbDZUczNWZWk0OHVNTVRUZm9sOXBVYWFLellPb29RTUpBOG1RZ3JTenM1OGY1MzJJY19uRUF5VzV3ekNGdDJzR0xnRTgzMmRnOFVEZDB2UGNHWV9naHdTa2Rfd19RUWw3c2RXaml1a1lVNUhvZlNlS0tMOVNoaU80dzkwcVNB?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-11-06T00:32:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "chief commercial delaney form mark november officer orporated svp"
+    },
     {
       "id": "9c95d8ad0bea776c555d",
       "company": "Labcorp",
@@ -211,9 +307,15 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGdYMmdDN1NtN0NfbXZIWW5tWHY0QWJPTlFBdDFNOGJ5RGdsSFAxRHhIbktsVElySlN3dU9iZXFRamFrZEtHLTN1VzAzbV83UWhRblRGR01xd0pVMkRlSjRTYWxuU1J5VXB4amFhWnFydW5oUzlnRXpHMmRyeXNtNXFkWUtWT2l1bmlhTzhDS2RsWXF6akN1Q21HQkxMVmo2WU4xbHRUQ0p2WVlKQjI0UG92X0htcThXUWxfRXJIYVRlZThvRmlGWnd3MXhlc1RmS2RhbnVoWngyZFdOcFJ5X2dB?oc=5",
           "domain": "uk.investing.com",
           "published_at": "2026-11-05T13:36:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzBPVjU5UXQzMHZtbGtZYTc4Q3RKX3RLMWFBQnF1TUptYkpoZThtVXgwZ1FVZzdWYlR0OUZ3N09lZmNPVUFVU19yNkF0T0ZDTkJhOHNYNlA4Q1dacGN4ZmhXSzRjcXBUMUdSMlNwUDhOTGdlN2hjVDZUM2EyLWtkVExEVGVRdDVlYzNtRmZEQ2pvXzNsNXJHdUdIVldzeDllUXVycFppLU5UOF96aFZCc05BYkx1a0Zsc2hpbGszbjdLVGFnemhHMFhQRkZsLTFNVW1BYklRcDRlazFLRFc1ZEd3?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-05T13:44:29+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "bryan com evp form investing november president vaughn"
     },
     {
@@ -835,30 +937,6 @@
       "event_signature": "292 329 com director gary investing pfeiffer sells shares"
     },
     {
-      "id": "34338d1a5aefa1bf98f1",
-      "company": "Labcorp",
-      "title": "Labcorp (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ...",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTNEcTBaUUFqazlnTjc5emY1TDFQV2xidDB0NUVRcktwbkpUM1R2Ry13Ql9qbXlSMG1zUU5EWFRwRlFWTWdqOV9zTkJldXFDNnBxVFh3TzFLeEQ0bHVwVkRtTVFaaURDQkFHb0VBNUtHUnUxSS1EUUd3ajdwSXRDZlJoelRVeG5Yd25rbmZyanE?oc=5",
-      "description": "Labcorp Holdings Inc (LH) (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-28T21:06:27+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTNEcTBaUUFqazlnTjc5emY1TDFQV2xidDB0NUVRcktwbkpUM1R2Ry13Ql9qbXlSMG1zUU5EWFRwRlFWTWdqOV9zTkJldXFDNnBxVFh3TzFLeEQ0bHVwVkRtTVFaaURDQkFHb0VBNUtHUnUxSS1EUUd3ajdwSXRDZlJoelRVeG5Yd25rbmZyanE?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-28T21:06:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 call earnings growth highlights raised revenue strong"
-    },
-    {
       "id": "8cd4b1473f4028a6c6ff",
       "company": "Labcorp",
       "title": "Teleconferência de Resultados do 3º Trimestre de 2026 da Labcorp: Guidance Elevado com Expansão das Margens",
@@ -1411,30 +1489,6 @@
       "event_signature": "compared earnings estimates key look metrics"
     },
     {
-      "id": "c21a9694762caad2bc01",
-      "company": "Labcorp",
-      "title": "Labcorp Q3 Earnings and Revenues Surpass Estimates",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXRHZWROM0toSmMtc3JaM2VES2hDcDhaRDk5ZkdvSnNmOTNuUXdWYXJTVEtBTUhaTGs3eDhjWktBSmxwVW9xZDh6QXJiQjVlTDNaNWpMSnRvRHBzRUtjaWdhel9vUmgtV05vZ3VnSG9xX0YtbTBfYjk0a2dOZFR4ZFdTaVVXdWdDSjgzT0l2M2p6UHZlR3FHRHpnRFk?oc=5",
-      "description": "Labcorp Holdings (LH) Q3 Earnings and Revenues Surpass Estimates Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-28T11:35:05+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXRHZWROM0toSmMtc3JaM2VES2hDcDhaRDk5ZkdvSnNmOTNuUXdWYXJTVEtBTUhaTGs3eDhjWktBSmxwVW9xZDh6QXJiQjVlTDNaNWpMSnRvRHBzRUtjaWdhel9vUmgtV05vZ3VnSG9xX0YtbTBfYjk0a2dOZFR4ZFdTaVVXdWdDSjgzT0l2M2p6UHZlR3FHRHpnRFk?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-28T11:35:05+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings estimates revenues surpass"
-    },
-    {
       "id": "7d7a53183e9c07683012",
       "company": "Labcorp",
       "title": "Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B",
@@ -1831,19 +1885,79 @@
       "event_signature": "2026 growth guidance posts raises"
     },
     {
-      "id": "21b49f8795f4095e7062",
+      "id": "34338d1a5aefa1bf98f1",
       "company": "Labcorp",
-      "title": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NXFMZTlCdWlkYlIyWXctTHFMXy0tRGZ0SGlqTFVLTXpXVC1JZzRScVA5T0FoVlM3MTh1T1k1d0pOUkpGdllIWklzWlU0UjJnOW5kN1QyN1gtaENnMWc0M2ZIekxBdld0MlB3?oc=5",
-      "description": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance TradingView",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-10-28T10:50:00+00:00",
+      "title": "Labcorp (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ...",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTNEcTBaUUFqazlnTjc5emY1TDFQV2xidDB0NUVRcktwbkpUM1R2Ry13Ql9qbXlSMG1zUU5EWFRwRlFWTWdqOV9zTkJldXFDNnBxVFh3TzFLeEQ0bHVwVkRtTVFaaURDQkFHb0VBNUtHUnUxSS1EUUd3ajdwSXRDZlJoelRVeG5Yd25rbmZyanE?oc=5",
+      "description": "Labcorp Holdings Inc (LH) (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
       "published_display": "28 Oct 2026",
       "category": "Financials",
       "official_source": false,
       "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQTNEcTBaUUFqazlnTjc5emY1TDFQV2xidDB0NUVRcktwbkpUM1R2Ry13Ql9qbXlSMG1zUU5EWFRwRlFWTWdqOV9zTkJldXFDNnBxVFh3TzFLeEQ0bHVwVkRtTVFaaURDQkFHb0VBNUtHUnUxSS1EUUd3ajdwSXRDZlJoelRVeG5Yd25rbmZyanE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9nRk9Rd2t6V3QySGJxdzhnUE5wdzdXVDFLTHBmOXJNanQ5M3N0aU5BT1ZMbndrS2oxMnB6UDFsQ3ZObFRGUEQ4RFY2Qlp4bTU3YjVOTzdPWHh5REY5SXV1bHpGLVdsa2RLRlNjRHVGcmpFcWg4WlNNUUFYbW5GRFZnRUpnN2s3WnZKQVYzYnMybTNONkhUWE5rMGFsVnUtRFE?oc=5",
+          "domain": "marketbeat.com",
+          "published_at": "2026-10-28T19:32:24+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 call earnings growth highlights raised revenue strong"
+    },
+    {
+      "id": "c21a9694762caad2bc01",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 Earnings and Revenues Surpass Estimates",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXRHZWROM0toSmMtc3JaM2VES2hDcDhaRDk5ZkdvSnNmOTNuUXdWYXJTVEtBTUhaTGs3eDhjWktBSmxwVW9xZDh6QXJiQjVlTDNaNWpMSnRvRHBzRUtjaWdhel9vUmgtV05vZ3VnSG9xX0YtbTBfYjk0a2dOZFR4ZFdTaVVXdWdDSjgzT0l2M2p6UHZlR3FHRHpnRFk?oc=5",
+      "description": "Labcorp Holdings (LH) Q3 Earnings and Revenues Surpass Estimates Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeXRHZWROM0toSmMtc3JaM2VES2hDcDhaRDk5ZkdvSnNmOTNuUXdWYXJTVEtBTUhaTGs3eDhjWktBSmxwVW9xZDh6QXJiQjVlTDNaNWpMSnRvRHBzRUtjaWdhel9vUmgtV05vZ3VnSG9xX0YtbTBfYjk0a2dOZFR4ZFdTaVVXdWdDSjgzT0l2M2p6UHZlR3FHRHpnRFk?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings estimates revenues surpass"
+    },
+    {
+      "id": "2400c13b3d4c1be55459",
+      "company": "Labcorp",
+      "title": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5",
+      "description": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        },
         {
           "name": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80NXFMZTlCdWlkYlIyWXctTHFMXy0tRGZ0SGlqTFVLTXpXVC1JZzRScVA5T0FoVlM3MTh1T1k1d0pOUkpGdllIWklzWlU0UjJnOW5kN1QyN1gtaENnMWc0M2ZIekxBdld0MlB3?oc=5",
@@ -1855,12 +1969,6 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN01tT3lpd3h4T0NsWkwxbzNDWXRkb1dmcHBraEhfelJ3TjNDdkNPU3Y0S3NtX1pnUWZqSnA3dXlUQzVfT1NvZFJaQ251VHVGdUVUREZvS3pxTkZvSU14NEFCZWJINjRKa3pKMENBVVFXTlpvbjUxd1VuQ0diMHo2TV9GY25aS3VKeVFfZVBrbHlrVFBNeW1MNklJeWw4TXUwU3o5OEZGaFU2U1V5S2JrRk9RWnZSOVBmcEZJ?oc=5",
           "domain": "stocktitan.net",
           "published_at": "2026-10-28T10:50:00+00:00"
-        },
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-28T11:50:00+00:00"
         },
         {
           "name": "marketscreener.com",
@@ -16281,54 +16389,12 @@
         "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation",
         "https://www.labcorp.com/education-events/press-releases/labcorp-announces-2026-second-quarter-results-raises-full-year"
       ]
-    },
-    {
-      "id": "588313cd0791b0f57368",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics (QDI.F) Stock Price, News, Quote & History",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Australia",
-      "source": "Yahoo! Finance Canada",
-      "source_url": "https://ca.finance.yahoo.com",
-      "source_domain": "ca.finance.yahoo.com",
-      "published_at": "2026-08-08T04:16:16+00:00",
-      "published_display": "08 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05UC0xbTBESGdWaTZxb1VtcWFsZldJdi0xMFNHaFVWLVUyVHAyNDhtd2U4a2g4RktYbnFnbTlONmt4VU5DN2s4YUh0SkFVMHhQVmdN?oc=5",
-          "domain": "ca.finance.yahoo.com",
-          "published_at": "2026-08-08T04:16:16+00:00"
-        },
-        {
-          "name": "Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMMFR3NEM4S3BsNFVUbXdfdnRSQWI2WEJlTlN0aDNxWnhnVmhTLXQyS2s0TllfUmVHWnh6QlFLblZBYW15eERmd2F5Y09TdzRt?oc=5",
-          "domain": "ca.finance.yahoo.com",
-          "published_at": "2026-08-10T16:20:54+00:00"
-        },
-        {
-          "name": "Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
-          "domain": "uk.finance.yahoo.com",
-          "published_at": "2026-08-10T22:42:09+00:00"
-        },
-        {
-          "name": "Yahoo Finance Australia",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
-          "domain": "au.finance.yahoo.com",
-          "published_at": "2026-08-11T12:01:15+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "history price qdi quote stock"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 49,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-06T06:17:00+05:30",
-  "next_update_display": "06 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-06T18:17:00+05:30",
+  "next_update_display": "06 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
