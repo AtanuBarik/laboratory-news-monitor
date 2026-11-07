@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-07T01:12:32.777645+05:30",
-  "generated_at_display": "07 Nov 2026, 1:12 AM IST",
-  "item_count": 538,
-  "raw_relevant_item_count": 660,
-  "duplicates_merged": 70,
+  "generated_at": "2026-11-07T12:07:22.731148+05:30",
+  "generated_at_display": "07 Nov 2026, 12:07 PM IST",
+  "item_count": 543,
+  "raw_relevant_item_count": 663,
+  "duplicates_merged": 71,
   "failures": [],
   "items": [
+    {
+      "id": "3ddff3d5b8707725f0f1",
+      "company": "Quest Diagnostics",
+      "title": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5",
+      "description": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "source_domain": "investors.com",
+      "published_at": "2026-11-06T21:57:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5",
+          "domain": "investors.com",
+          "published_at": "2026-11-06T21:57:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bucking day ibd malaise medtech stock"
+    },
     {
       "id": "6ab68a3907c7f7a46080",
       "company": "Labcorp",
@@ -31,6 +55,30 @@
       "event_signature": "acquisition completes expand health millennium testing toxicology"
     },
     {
+      "id": "98556b8a3c2ddf631d4c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
+      "description": "Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations Hudson County View",
+      "source": "Hudson County View",
+      "source_url": "https://hudsoncountyview.com",
+      "source_domain": "hudsoncountyview.com",
+      "published_at": "2026-11-06T18:52:33+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Hudson County View",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
+          "domain": "hudsoncountyview.com",
+          "published_at": "2026-11-06T18:52:33+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13m allegations illegal kickback pays secaucus settle"
+    },
+    {
       "id": "328b24af076624e70409",
       "company": "Quest Diagnostics",
       "title": "Subu Ramachandran Expands With Quest Diagnostics Stock Options Worth $6K",
@@ -53,6 +101,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "expands options ramachandran stock subu worth"
+    },
+    {
+      "id": "e42a070803e42fb58e0c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Insider Sold Shares Worth $5,482,442, According to a Recent SEC Filing",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOW1wYzlBb3oxZ1hpbzAxVnpDOC11X3k2cmltMVJ2TndaTEhIMlkyUUxRZnBBZzIwTW4xaFJwWFREUDFJU01aVThCa3pXU3Zob1BqaXpuazc4Y1FwRUdCdURWVnJyWUh6aVQwY19DN0N2dXJnd2xLSDBrTjE3eGFEbnVheWl0cE5POEppVFhtaFZtNXFiQm5KZmdYa0lMRG5kUXVWbGRNM0VQTDNiME1qcWhaWmd0UVRBbV83bkJLS1lvUjVONnQ2X2x0MkwzMEVyOUtsbUh3?oc=5",
+      "description": "Quest Diagnostics Insider Sold Shares Worth $5,482,442, According to a Recent SEC Filing www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-11-06T08:48:29+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOW1wYzlBb3oxZ1hpbzAxVnpDOC11X3k2cmltMVJ2TndaTEhIMlkyUUxRZnBBZzIwTW4xaFJwWFREUDFJU01aVThCa3pXU3Zob1BqaXpuazc4Y1FwRUdCdURWVnJyWUh6aVQwY19DN0N2dXJnd2xLSDBrTjE3eGFEbnVheWl0cE5POEppVFhtaFZtNXFiQm5KZmdYa0lMRG5kUXVWbGRNM0VQTDNiME1qcWhaWmd0UVRBbV83bkJLS1lvUjVONnQ2X2x0MkwzMEVyOUtsbUh3?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-11-06T08:48:29+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "442 482 according filing insider recent sec shares sold worth"
     },
     {
       "id": "905f25e809c0642e0b73",
@@ -263,6 +335,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "can lift margins pathology pressure"
+    },
+    {
+      "id": "32c433dfdcaf75d1e7e7",
+      "company": "Labcorp",
+      "title": "Labcorp Latest Stock News & Headlines - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SVTJBQ3lzWUxfajRfcWI5YW8tNUxFQnctb1E2NkdYck10blpla29UY2dKUG11X2lhRFkyVW0zay1sdzFQZ2t2YkJLWkFoNER4SUgtaVFR?oc=5",
+      "description": "Labcorp Holdings Inc. (LH) Latest Stock News & Headlines - Yahoo Finance Yahoo! Finance Canada",
+      "source": "Yahoo! Finance Canada",
+      "source_url": "https://ca.finance.yahoo.com",
+      "source_domain": "ca.finance.yahoo.com",
+      "published_at": "2026-11-05T06:16:45+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SVTJBQ3lzWUxfajRfcWI5YW8tNUxFQnctb1E2NkdYck10blpla29UY2dKUG11X2lhRFkyVW0zay1sdzFQZ2t2YkJLWkFoNER4SUgtaVFR?oc=5",
+          "domain": "ca.finance.yahoo.com",
+          "published_at": "2026-11-05T06:16:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "finance headlines stock yahoo"
     },
     {
       "id": "0cf499e2b0f47f6840d3",
@@ -1537,30 +1633,6 @@
       "event_signature": "2026 beats billion earnings eps estimates hits revenue"
     },
     {
-      "id": "e0da9c102db35073b68d",
-      "company": "Labcorp",
-      "title": "Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2N5V3ktYnFQaEF3b2JsbFFFbUl0N3Z5TTFYQmZ3YkQ5NFJ6WW1PcVZwRVQzb3QwaGdqbHVodWN4TDdKYXlCLUJSWDBEZ3owSUNiU1Nqa196LVNZQjFyVGZmMXVRUlFWWlZxcS1aVEJ6X24wWWZTLUVKQU5hTms5eEMxRC11dUNFTGJVeVRQNmZNamNtNV9NemxwU0Fodw?oc=5",
-      "description": "Compared to Estimates, Labcorp (LH) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-28T12:30:05+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2N5V3ktYnFQaEF3b2JsbFFFbUl0N3Z5TTFYQmZ3YkQ5NFJ6WW1PcVZwRVQzb3QwaGdqbHVodWN4TDdKYXlCLUJSWDBEZ3owSUNiU1Nqa196LVNZQjFyVGZmMXVRUlFWWlZxcS1aVEJ6X24wWWZTLUVKQU5hTms5eEMxRC11dUNFTGJVeVRQNmZNamNtNV9NemxwU0Fodw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-28T12:30:05+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "compared earnings estimates key look metrics"
-    },
-    {
       "id": "7d7a53183e9c07683012",
       "company": "Labcorp",
       "title": "Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B",
@@ -2059,6 +2131,30 @@
       "event_signature": "2026 full guidance quarter raises results strong third year"
     },
     {
+      "id": "e0da9c102db35073b68d",
+      "company": "Labcorp",
+      "title": "Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2N5V3ktYnFQaEF3b2JsbFFFbUl0N3Z5TTFYQmZ3YkQ5NFJ6WW1PcVZwRVQzb3QwaGdqbHVodWN4TDdKYXlCLUJSWDBEZ3owSUNiU1Nqa196LVNZQjFyVGZmMXVRUlFWWlZxcS1aVEJ6X24wWWZTLUVKQU5hTms5eEMxRC11dUNFTGJVeVRQNmZNamNtNV9NemxwU0Fodw?oc=5",
+      "description": "Compared to Estimates, Labcorp (LH) Q3 Earnings: A Look at Key Metrics Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa2N5V3ktYnFQaEF3b2JsbFFFbUl0N3Z5TTFYQmZ3YkQ5NFJ6WW1PcVZwRVQzb3QwaGdqbHVodWN4TDdKYXlCLUJSWDBEZ3owSUNiU1Nqa196LVNZQjFyVGZmMXVRUlFWWlZxcS1aVEJ6X24wWWZTLUVKQU5hTms5eEMxRC11dUNFTGJVeVRQNmZNamNtNV9NemxwU0Fodw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "compared earnings estimates key look metrics"
+    },
+    {
       "id": "0f7726bb5f367ad8fb68",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics $6M Courier Wage Settlement",
@@ -2531,6 +2627,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "amid breach confirms coordinated exposing giant global hacking massive medical patient records security sensitive surge testing"
+    },
+    {
+      "id": "6286c5896647d96a08a9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Slips to $241.89 as Shares Consolidate Below Resistance - ETF NAV Deviation",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnhXLURtTW5SSHJGS3Y3UFRWS0xwY1BpNDA5dDJYUHc2NmtIM0FHY1dVZjZ5bXE4UmF6cVN1TUh3VnJSZnU5SEt2SnBwd0Q2WGRsZWRMSnlkaFc0eWhWWThzSmFyOVMtWlNzdjhTMy1PWHBrM1FpcW45WUdXVUdmQVRNbDRNNXR1VlduaHZnUHBOdjA2d1F0LWl0Smw5S0U4YVBLMmg2RlNrYW1DTDRZQ2xpdVd3TkNuTmc?oc=5",
+      "description": "Quest Diagnostics (DGX) Slips to $241.89 as Shares Consolidate Below Resistance - ETF NAV Deviation https://www.dars.gov.et/",
+      "source": "https://www.dars.gov.et/",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-10-25T07:00:00+00:00",
+      "published_display": "25 Oct 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://www.dars.gov.et/",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWnhXLURtTW5SSHJGS3Y3UFRWS0xwY1BpNDA5dDJYUHc2NmtIM0FHY1dVZjZ5bXE4UmF6cVN1TUh3VnJSZnU5SEt2SnBwd0Q2WGRsZWRMSnlkaFc0eWhWWThzSmFyOVMtWlNzdjhTMy1PWHBrM1FpcW45WUdXVUdmQVRNbDRNNXR1VlduaHZnUHBOdjA2d1F0LWl0Smw5S0U4YVBLMmg2RlNrYW1DTDRZQ2xpdVd3TkNuTmc?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-10-25T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "241 below consolidate deviation etf nav resistance shares slips"
     },
     {
       "id": "40ded412be50285114cc",
@@ -7027,9 +7147,15 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeVExTWJzOFdzZG5ZSDlBdk8yTnJTelRyZG9tMzI3NEVCaTJDb0pvWTZfQ2YyMlhqS1pOeXgwUlYtUS1oZU1mYXRWeTB5SnF0X0N1QWc4OGp4ck96SU5BSXhmNFU0TGZabFlvbzVVSlBPS3BUSjFsVUhhSFN6N3JLNi1lcmVjNFhuNkt2em9PeHFPSjVhTlcwa05IbXdCQWlJd0RrVmRKcVJ2QWh4NGVHMjkzbG1ndDdrY25SWTluSQ?oc=5",
           "domain": "siam.in",
           "published_at": "2026-10-14T09:48:07+00:00"
+        },
+        {
+          "name": "www.dars.gov.et",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHo5ak5uOWpqYktBTlZqODltbXRuVHlwT0VJT0VrWDdhc0wzWE1VOTE0eEhFdHVoUV8wbngyMUJOVVJZNzNVMGpQTWgzQjN6bk0tbWRfaDJoVE5FV3JOR3lnRkNVNVJONmpKajdvNlR6czljaGU2bk5BRElVSlZ4ZXdaWXN4VXZUV0hiRHR4X0ZNcmlZX1lLVDlBS1l3ZURjSWdfdFM4Q252MlhrcHdPWC1sMElwUUFQUnBVdG5n?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-10-14T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "230 ahead cap edges holding lower mid momentum range resistance"
     },
     {
@@ -16463,10 +16589,10 @@
       ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 48,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-07T06:17:00+05:30",
-  "next_update_display": "07 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-07T12:17:00+05:30",
+  "next_update_display": "07 Nov 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
