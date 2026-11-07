@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-07T12:07:22.731148+05:30",
-  "generated_at_display": "07 Nov 2026, 12:07 PM IST",
-  "item_count": 543,
-  "raw_relevant_item_count": 663,
-  "duplicates_merged": 71,
+  "generated_at": "2026-11-07T19:05:14.816717+05:30",
+  "generated_at_display": "07 Nov 2026, 7:05 PM IST",
+  "item_count": 540,
+  "raw_relevant_item_count": 657,
+  "duplicates_merged": 70,
   "failures": [],
   "items": [
+    {
+      "id": "5d2e53d2239984431408",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics pays more than $13 million to settle allegations of illegal kickbacks involving Giants tickets, VIP events",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmV1UzhCUTNhQXF0QTFPX2I4U2E4TndhN3JCOTdwMnJEak9hMXV2TlJ6Nm5UZUpGaVR0WnJDVld5YUszZ0NxZnYyV0hoenV0ZllJUExFdXpieVdxQ1p6SmduWXk5VjVlal9wVFRHWjhiUm5pZXRoXzViV3RxOUh0eENNdDlMZFFRem1xak1xd3BlTDJoeXRPdGp2SWRUVU1fazFYcU1IUzBDQU1tdHRZTndDQkhkN2tfVWdxTE9UWllUSXhyVmU0TDNWZUlJa2VTZ185Z1BGUGR2UURjLXc?oc=5",
+      "description": "Quest Diagnostics pays more than $13 million to settle allegations of illegal kickbacks involving Giants tickets, VIP events WRNJ Radio",
+      "source": "WRNJ Radio",
+      "source_url": "https://wrnjradio.com",
+      "source_domain": "wrnjradio.com",
+      "published_at": "2026-11-07T09:56:53+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "WRNJ Radio",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmV1UzhCUTNhQXF0QTFPX2I4U2E4TndhN3JCOTdwMnJEak9hMXV2TlJ6Nm5UZUpGaVR0WnJDVld5YUszZ0NxZnYyV0hoenV0ZllJUExFdXpieVdxQ1p6SmduWXk5VjVlal9wVFRHWjhiUm5pZXRoXzViV3RxOUh0eENNdDlMZFFRem1xak1xd3BlTDJoeXRPdGp2SWRUVU1fazFYcU1IUzBDQU1tdHRZTndDQkhkN2tfVWdxTE9UWllUSXhyVmU0TDNWZUlJa2VTZ185Z1BGUGR2UURjLXc?oc=5",
+          "domain": "wrnjradio.com",
+          "published_at": "2026-11-07T09:56:53+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "allegations events giants illegal involving kickbacks million more pays settle than tickets vip"
+    },
     {
       "id": "3ddff3d5b8707725f0f1",
       "company": "Quest Diagnostics",
@@ -1129,30 +1153,6 @@
       "event_signature": "2026 com das elevado expans guidance margens ncia resultados teleconfer trimestre"
     },
     {
-      "id": "3dd2b4bc6436f86ace77",
-      "company": "Labcorp",
-      "title": "Labcorp: Q3 Earnings Snapshot",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzAxZDNMX1VsekhZdXltR3RCQ3ZLX3FCWEg1OUx1R0VRa040cXdLZFl3SU0tZG14cVZDaGtIZ1kzSldKcHo2WUlicUgzcm9DN3BKM1c4ZW1MZk5HOGdGR3VMNUtzQjdXQXh3N0RqTjRNMEozNFVLbXJXN2VxUUFkXzVScFVlOFVMeXRJNkJGZnc5aURVam1LVg?oc=5",
-      "description": "Labcorp: Q3 Earnings Snapshot Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-28T18:37:43+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzAxZDNMX1VsekhZdXltR3RCQ3ZLX3FCWEg1OUx1R0VRa040cXdLZFl3SU0tZG14cVZDaGtIZ1kzSldKcHo2WUlicUgzcm9DN3BKM1c4ZW1MZk5HOGdGR3VMNUtzQjdXQXh3N0RqTjRNMEozNFVLbXJXN2VxUUFkXzVScFVlOFVMeXRJNkJGZnc5aURVam1LVg?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-28T18:37:43+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings snapshot"
-    },
-    {
       "id": "1d5e3568a67f45a30b8f",
       "company": "Quest Diagnostics",
       "title": "Watch Out for Scams Following the Quest Diagnostics Data Breach",
@@ -2153,6 +2153,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "compared earnings estimates key look metrics"
+    },
+    {
+      "id": "3dd2b4bc6436f86ace77",
+      "company": "Labcorp",
+      "title": "Labcorp: Q3 Earnings Snapshot",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzAxZDNMX1VsekhZdXltR3RCQ3ZLX3FCWEg1OUx1R0VRa040cXdLZFl3SU0tZG14cVZDaGtIZ1kzSldKcHo2WUlicUgzcm9DN3BKM1c4ZW1MZk5HOGdGR3VMNUtzQjdXQXh3N0RqTjRNMEozNFVLbXJXN2VxUUFkXzVScFVlOFVMeXRJNkJGZnc5aURVam1LVg?oc=5",
+      "description": "Labcorp: Q3 Earnings Snapshot Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzAxZDNMX1VsekhZdXltR3RCQ3ZLX3FCWEg1OUx1R0VRa040cXdLZFl3SU0tZG14cVZDaGtIZ1kzSldKcHo2WUlicUgzcm9DN3BKM1c4ZW1MZk5HOGdGR3VMNUtzQjdXQXh3N0RqTjRNMEozNFVLbXJXN2VxUUFkXzVScFVlOFVMeXRJNkJGZnc5aURVam1LVg?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings snapshot"
     },
     {
       "id": "0f7726bb5f367ad8fb68",
@@ -12343,36 +12367,6 @@
       "event_signature": "after edges growth highs lower near solid stock week"
     },
     {
-      "id": "5437036cf7acc46fe7d6",
-      "company": "Labcorp",
-      "title": "Labcorp Q2 2026 Earnings Call Transcript",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript Fortune",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "source_domain": "fortune.com",
-      "published_at": "2026-09-05T19:27:59+00:00",
-      "published_display": "05 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-09-05T19:27:59+00:00"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-09-05T23:14:02+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 call earnings transcript"
-    },
-    {
       "id": "5acf9dc9cae8899bd7dc",
       "company": "Quest Diagnostics",
       "title": "Man Group takes new $495K stake in Quest Diagnostics as stock nears record high",
@@ -12431,30 +12425,6 @@
       ],
       "coverage_count": 3,
       "event_signature": "earnings holds investors look next signal steady stock"
-    },
-    {
-      "id": "a897f99465c4d12083c4",
-      "company": "Labcorp",
-      "title": "Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
-      "description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn",
-      "source": "vinanet.vn",
-      "source_url": "http://vinanet.vn",
-      "source_domain": "vinanet.vn",
-      "published_at": "2026-09-03T17:33:01+00:00",
-      "published_display": "03 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-09-03T17:33:01+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 beats breakdown consensus earnings eps revenue segment"
     },
     {
       "id": "f2d3303ec258ff623e8d",
@@ -13100,7 +13070,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
-      "description": "LH Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning vinanet.vn",
+      "description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn",
       "source": "vinanet.vn",
       "source_url": "http://vinanet.vn",
       "source_domain": "vinanet.vn",
@@ -13114,9 +13084,27 @@
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
           "domain": "vinanet.vn",
           "published_at": "2026-08-29T13:37:36+00:00"
+        },
+        {
+          "name": "vinanet.vn",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
+          "domain": "vinanet.vn",
+          "published_at": "2026-09-03T17:33:01+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-05T19:27:59+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-05T23:14:02+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "2026 beats consensus earnings edges eps growth lower slow stock warning"
     },
     {
@@ -16513,86 +16501,12 @@
       ],
       "coverage_count": 2,
       "event_signature": "advanced approves companion diagnostic fda melanoma"
-    },
-    {
-      "id": "c29d4bd11fd2989f4864",
-      "company": "Quest Diagnostics",
-      "title": "IVY LANE CAPITAL MANAGEMENT, 's Quest Diagnostics Holding History",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5",
-      "description": "GuruFocus’s Ivy Lane Capital Management portfolio page shows that Quest Diagnostics remained one of the investment manager’s five largest reported U.S. equity positions in its latest available Form 13F data. For the quarter ended March 31, 2026, Ivy Lane reported 11 holdings with a portfolio value of about $66 million and a 10% turnover rate. Quest represented 8.59% of the portfolio, behind Alphabet, BlackRock, AT&T and Union Pacific. SEC-derived holdings data independently show Ivy Lane owned 29,000 Quest common shares valued at approximately $5.7 million at quarter-end, with sole voting authority. Holdings Channel reports the Quest share count was unchanged from December 31, 2025, when the same 29,000 shares were valued at about $5.0 million. Ivy Lane’s total reported portfolio value declined from roughly $79.1 million at year-end 2025 to $66.15 million at March 31, 2026, while the Quest position remained intact. The filing therefore documents continuity in one institutional investor’s Quest stake, not a new purchase, sale, strategic investment or company transaction. It also does not indicate any operating, clinical or management change at Quest Diagnostics; it is an ownership disclosure based on quarterly 13F reporting.",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-08-09T08:46:43+00:00",
-      "published_display": "09 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0pvQjcyYS1BM1RCREUtR1lOdS1oblJQUENWZ3lTa1F4QlV2TEhMelJtSXBEVDcwa2NGUExVNmVjWTZnZ3JyRGdDbUxkQVZhcGQ5YmkyZ0NWTXlLdTJwakJRYVhXa2RPN2VqUVdwVUsyeHVXTDZqdEx6VlNmM1VteUhrN3l1QjhySjFTZkNR?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-08-09T08:46:43+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "capital history holding ivy lane management",
-      "source_description": "IVY LANE CAPITAL MANAGEMENT, LLC's Quest Diagnostics Inc(DGX) Holding History GuruFocus",
-      "chatgpt_summary": "GuruFocus’s Ivy Lane Capital Management portfolio page shows that Quest Diagnostics remained one of the investment manager’s five largest reported U.S. equity positions in its latest available Form 13F data. For the quarter ended March 31, 2026, Ivy Lane reported 11 holdings with a portfolio value of about $66 million and a 10% turnover rate. Quest represented 8.59% of the portfolio, behind Alphabet, BlackRock, AT&T and Union Pacific. SEC-derived holdings data independently show Ivy Lane owned 29,000 Quest common shares valued at approximately $5.7 million at quarter-end, with sole voting authority. Holdings Channel reports the Quest share count was unchanged from December 31, 2025, when the same 29,000 shares were valued at about $5.0 million. Ivy Lane’s total reported portfolio value declined from roughly $79.1 million at year-end 2025 to $66.15 million at March 31, 2026, while the Quest position remained intact. The filing therefore documents continuity in one institutional investor’s Quest stake, not a new purchase, sale, strategic investment or company transaction. It also does not indicate any operating, clinical or management change at Quest Diagnostics; it is an ownership disclosure based on quarterly 13F reporting.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-13T12:40:12+05:30",
-      "summary_evidence": [
-        "https://www.gurufocus.com/guru/ivy%2Blane%2Bcapital%2Bmanagement%2C%2Bllc/current-portfolio/top-yield",
-        "https://www.mondegar.ai/filings/0001839851-26-000002",
-        "https://www.holdingschannel.com/13f/ivy-lane-capital-management-llc-top-holdings/"
-      ]
-    },
-    {
-      "id": "2d5f1b0442ca39c3c32d",
-      "company": "Labcorp",
-      "title": "What Labcorp's New PTEN Test and Guidance Hike Means For Shareholders",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
-      "description": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
-      "source": "Sahm",
-      "source_url": "https://www.sahmcapital.com",
-      "source_domain": "sahmcapital.com",
-      "published_at": "2026-08-09T07:00:00+00:00",
-      "published_display": "09 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUU9IQndOd0d6RUg5R0RCQW9xM3drLTBzNGptVjJTbjcxUUE1WFN0VjZGMzdVYzNocFZBRXd2bWpQeGNabTBCQ1hLVDJvLVU1b0VMby0yUHVtT2diWGdVTkxkWWdsWlAzMUdYUHcwWG1CTmU2RWQ5R2JLUkx3SjN5ODZVTy1Id0FIR2xvZzZHb1dRdGNta0pCZDdDbV9acUF5RkV6TUVxQkg5Yll3Ul9XR1ZZbEJVUkhxWHVQcjZaeXFzUzlPWk15dXZCbkM?oc=5",
-          "domain": "sahmcapital.com",
-          "published_at": "2026-08-09T07:00:00+00:00"
-        },
-        {
-          "name": "simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNVZRbGhnNlhacFJMSVE5dTlncDFjV0xlSkpUZVh1aXNxcnUzR1JiZHBNNDlUTE9sNjZpdExXeUJhS1JHREVDZndmUjBQM25CYzcwR1NWdkh4RWdjeldweE50UnJRNXhTbk9UU0NjQVZqNExLblNFemI5RlFyc0Vwa01wd1FKREtnci1KOG1lTk83UHNsMTgzWHZrN0I1a2QxTm53VXlGWHhTMGdTQUo2MlNCanZHM3pTU3pTQ2IxVFR3X1NITVptTjlCeV9nd9IB0wFBVV95cUxOTkQtdmtENlF5Y3pEejJPVWJBdTdEX2xBdEdSQ2pDN1BxWmd3NEY0bm5sREdlX3EyVUhBQ2IzNTQ4N0lOclNhWXM4NVg0Vkw1eU9rS3EyUWk5YjZIYTdZT3NjaDQwQjNFODZwWjhfYmgtaGtXc0o1VmNBOVFWQ1VTVzc3RWNYMDczX0ZJdXoxdEZUdEpNa3lBVDVSYjVsNW01ZFZmZk1PZUQtZ3pJWGJ5aE5FV2FJcDBud3Q0RG1DaF9qM1JZdFFidU9MREtadUxSamNZ?oc=5",
-          "domain": "simplywall.st",
-          "published_at": "2026-08-09T13:40:12+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "guidance hike means pten shareholders test what",
-      "source_description": "What Labcorp Holdings (LH)'s New PTEN Test and Guidance Hike Means For Shareholders simplywall.st",
-      "chatgpt_summary": "Simply Wall St linked two early-August Labcorp developments: nationwide availability of Roche's FDA-approved VENTANA PTEN (SP218) RxDx companion diagnostic and stronger second-quarter performance with a higher 2026 outlook. The PTEN assay is a qualitative immunohistochemistry test on formalin-fixed, paraffin-embedded prostate adenocarcinoma tissue. It assesses PTEN protein loss to help identify patients who may be eligible for AstraZeneca's TRUQAP (capivasertib) in combination with abiraterone under the approved therapeutic labeling. The FDA approved capivasertib with abiraterone and prednisone on June 12, 2026 for adults with PTEN-deficient metastatic androgen pathway modulation-naïve or -sensitive prostate cancer and simultaneously authorized the VENTANA PTEN assay as the companion diagnostic. In CAPItello-281, median radiographic progression-free survival was 33.2 months with capivasertib plus abiraterone versus 25.7 months with placebo plus abiraterone, with a hazard ratio of 0.81. Separately, Labcorp reported Q2 revenue of $3.731 billion, up 5.8%, adjusted EPS of $4.99, up 14.9%, and raised 2026 enterprise revenue-growth guidance to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55. Simply Wall St argues these developments strengthen Labcorp's higher-value precision-oncology narrative, while reimbursement, PAMA and pricing risks remain. Its 2029 revenue, earnings and fair-value figures are third-party model assumptions, not Labcorp guidance.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://simplywall.st/stocks/us/healthcare/nyse-lh/labcorp-holdings/news/what-labcorp-holdings-lhs-new-pten-test-and-guidance-hike-me/amp",
-        "https://www.fda.gov/drugs/resources-information-approved-drugs/fda-approves-capivasertib-abiraterone-and-prednisone-pten-deficient-androgen-pathway-modulation",
-        "https://www.labcorp.com/education-events/press-releases/labcorp-announces-2026-second-quarter-results-raises-full-year"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 45,
+  "post_prune_financial_duplicates_merged": 2,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-07T12:17:00+05:30",
-  "next_update_display": "07 Nov 2026, 12:17 PM IST",
+  "next_update_at": "2026-11-08T00:17:00+05:30",
+  "next_update_display": "08 Nov 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
