@@ -1,11 +1,113 @@
 {
-  "generated_at": "2026-11-07T19:05:14.816717+05:30",
-  "generated_at_display": "07 Nov 2026, 7:05 PM IST",
-  "item_count": 540,
-  "raw_relevant_item_count": 657,
-  "duplicates_merged": 70,
+  "generated_at": "2026-11-08T03:48:50.762531+05:30",
+  "generated_at_display": "08 Nov 2026, 3:48 AM IST",
+  "item_count": 545,
+  "raw_relevant_item_count": 663,
+  "duplicates_merged": 74,
   "failures": [],
   "items": [
+    {
+      "id": "8e38f21fa9f34f3f597d",
+      "company": "Quest Diagnostics",
+      "title": "Secaucus Lab Giant Quest Diagnostics Pays $13M Over Giants Suite Kickback Claims",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjdXM3F4OXpJVUt1MXNTRDJfWlVIWGtPakdhVmdFeWM4ajRGWjRETlJTMjd3Qmx3Q05TeFpvRDlwdUZzT3hwMUIxQThoX1NzTW5ETnJPNVdfRUJyX1RGaGp0SU9tRHJWd3V6MGo4TXRpY2lKQ01pUGd1LUNpTWRqRDJITVB6MWhFcWZOYUtybTE5MTlYYkVmeDkyUkU0Yk9ObUpQbVMzaDMxakxrQmc?oc=5",
+      "description": "Secaucus Lab Giant Quest Diagnostics Pays $13M Over Giants Suite Kickback Claims Hoodline",
+      "source": "Hoodline",
+      "source_url": "https://hoodline.com",
+      "source_domain": "hoodline.com",
+      "published_at": "2026-11-07T20:16:55+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjdXM3F4OXpJVUt1MXNTRDJfWlVIWGtPakdhVmdFeWM4ajRGWjRETlJTMjd3Qmx3Q05TeFpvRDlwdUZzT3hwMUIxQThoX1NzTW5ETnJPNVdfRUJyX1RGaGp0SU9tRHJWd3V6MGo4TXRpY2lKQ01pUGd1LUNpTWRqRDJITVB6MWhFcWZOYUtybTE5MTlYYkVmeDkyUkU0Yk9ObUpQbVMzaDMxakxrQmc?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-11-07T20:16:55+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13m claims giant giants kickback lab over pays secaucus suite"
+    },
+    {
+      "id": "b716091cb7d400c9a11d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics, Name on Giants' Practice Complex, Settles Federal Kickback Claims for $13M",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhWNWNIcXYxSFkxaDNIOXlwZlVnTGZyOW9OLUVURS1aVWNDRHl1Njc4WUtZeWVOWHg0VFJLdVN4SEZjSEI5LXJHU2hHdWJJVGlNTDEwYjRBalFqd2Q3VXpaYm1fODJQQlN4Ry03UG4tOERRWFdWVUowZ2RqMjlma1lzdEpKMktacGxCaUFTVTFzODQ1SV9scFdQZ1AyQUR6TnhpWVRZeTBBNjNFbEdhekFR?oc=5",
+      "description": "Quest Diagnostics, Name on Giants' Practice Complex, Settles Federal Kickback Claims for $13M centraljersey.com",
+      "source": "centraljersey.com",
+      "source_url": "https://centraljersey.com",
+      "source_domain": "centraljersey.com",
+      "published_at": "2026-11-07T18:34:39+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "centraljersey.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhWNWNIcXYxSFkxaDNIOXlwZlVnTGZyOW9OLUVURS1aVWNDRHl1Njc4WUtZeWVOWHg0VFJLdVN4SEZjSEI5LXJHU2hHdWJJVGlNTDEwYjRBalFqd2Q3VXpaYm1fODJQQlN4Ry03UG4tOERRWFdWVUowZ2RqMjlma1lzdEpKMktacGxCaUFTVTFzODQ1SV9scFdQZ1AyQUR6TnhpWVRZeTBBNjNFbEdhekFR?oc=5",
+          "domain": "centraljersey.com",
+          "published_at": "2026-11-07T18:34:39+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13m claims complex federal giants kickback name practice settles"
+    },
+    {
+      "id": "e235845a582098aab0e7",
+      "company": "Quest Diagnostics",
+      "title": "NJ-Based Quest Diagnostics Pays $13M to Settle Allegations of Illegal Perks at Giants Games",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VMc0dVTndQX3g1UUtJZnBqdzNYNWtveFh0UUxxSXN0VTlEZlRfNVhBamJaUUdkMU9xbkF1VUtjWW9rN2JJSnNQajdyWWlTRFJ5ZTg1ei1sTlQ4LUktc040ZUtnbDlySUFtZjdhOGg5bzVvaE5zZTVOaDVMNG1XejFmYUV5SldsMy1heVBhTTZKUWg4TzBjSlF4RzlhVWNCN2dPR2xGT09UVmlFYmo2MDVWWTc?oc=5",
+      "description": "NJ-Based Quest Diagnostics Pays $13M to Settle Allegations of Illegal Perks at Giants Games RLS Media",
+      "source": "RLS Media",
+      "source_url": "https://www.rlsmedia.com",
+      "source_domain": "rlsmedia.com",
+      "published_at": "2026-11-07T17:12:45+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "RLS Media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VMc0dVTndQX3g1UUtJZnBqdzNYNWtveFh0UUxxSXN0VTlEZlRfNVhBamJaUUdkMU9xbkF1VUtjWW9rN2JJSnNQajdyWWlTRFJ5ZTg1ei1sTlQ4LUktc040ZUtnbDlySUFtZjdhOGg5bzVvaE5zZTVOaDVMNG1XejFmYUV5SldsMy1heVBhTTZKUWg4TzBjSlF4RzlhVWNCN2dPR2xGT09UVmlFYmo2MDVWWTc?oc=5",
+          "domain": "rlsmedia.com",
+          "published_at": "2026-11-07T17:12:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13m allegations based games giants illegal pays perks settle"
+    },
+    {
+      "id": "d4fc3c7dbb9a41499179",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics pays $13 million to settle kickback claims tied to Giants events",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkhXb09nNzdwZFl3TGg2ckdGdlZFQlNub2hZOTBONC1GZElGOU4tS2JOS20wd203dUxZLXR0dzkyMUpfYTAxQXdtNUh1MkY0RUUwNXh1eWRycDZTYXk1bHBoTDlQeWZBVUd3YjB0dlRRSjZrcUF4X0VaWWVCZ1AxblY0RHM0UHRNSUNZRm84dDZFZy0tWkJEbG90V2VSSmYyQjhkTnVjb1dNS2ZSYUtJdHNDZ2U?oc=5",
+      "description": "Quest Diagnostics pays $13M to settle kickback allegations involving NY Giants tickets Gothamist",
+      "source": "njtoday.news",
+      "source_url": "https://njtoday.news",
+      "source_domain": "njtoday.news",
+      "published_at": "2026-11-07T13:51:17+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "njtoday.news",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkhXb09nNzdwZFl3TGg2ckdGdlZFQlNub2hZOTBONC1GZElGOU4tS2JOS20wd203dUxZLXR0dzkyMUpfYTAxQXdtNUh1MkY0RUUwNXh1eWRycDZTYXk1bHBoTDlQeWZBVUd3YjB0dlRRSjZrcUF4X0VaWWVCZ1AxblY0RHM0UHRNSUNZRm84dDZFZy0tWkJEbG90V2VSSmYyQjhkTnVjb1dNS2ZSYUtJdHNDZ2U?oc=5",
+          "domain": "njtoday.news",
+          "published_at": "2026-11-07T13:51:17+00:00"
+        },
+        {
+          "name": "Gothamist",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmVoUVlseVVIcTZ6ZzZ1VWJLNnFNUDRKM3planlsQ21pWHpBY1dVX0JQR2w3U291dzh1LXhzc24yZEVTQzNYdFdKMkFlSjNvQ2I4ZkhWcy1EMGU3bXR0WUo4b2Q4Sjk5WWZzcm5GQ25mQlBGOXNTWDRTV3VBekpXTE9MaDZuNDZTN0YwaXBoWVRyMVJNa2xIZEx3ck5QSU4tODlBLXQyb1NNaDJyNjZBU3pn?oc=5",
+          "domain": "gothamist.com",
+          "published_at": "2026-11-07T15:21:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "claims events giants kickback million pays settle tied"
+    },
     {
       "id": "5d2e53d2239984431408",
       "company": "Quest Diagnostics",
@@ -823,30 +925,6 @@
       "event_signature": "chart returns seasonal"
     },
     {
-      "id": "aff3094b5182b51a7cfe",
-      "company": "Labcorp",
-      "title": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5",
-      "description": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive",
-      "source": "MedTech Dive",
-      "source_url": "https://www.medtechdive.com",
-      "source_domain": "medtechdive.com",
-      "published_at": "2026-10-30T15:37:42+00:00",
-      "published_display": "30 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "MedTech Dive",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5",
-          "domain": "medtechdive.com",
-          "published_at": "2026-10-30T15:37:42+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "act cuts lab loom passage payment results urge"
-    },
-    {
       "id": "297e15528e8415a67b70",
       "company": "Labcorp",
       "title": "Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026",
@@ -893,6 +971,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach data exposing giant hits information lab patient personal records"
+    },
+    {
+      "id": "aff3094b5182b51a7cfe",
+      "company": "Labcorp",
+      "title": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5",
+      "description": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive",
+      "source": "MedTech Dive",
+      "source_url": "https://www.medtechdive.com",
+      "source_domain": "medtechdive.com",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5",
+          "domain": "medtechdive.com",
+          "published_at": "2026-10-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "act cuts lab loom passage payment results urge"
     },
     {
       "id": "aa779c48170cc6bdc65c",
@@ -2227,30 +2329,6 @@
       "event_signature": "history price quote stock"
     },
     {
-      "id": "3407c3bb31c308f935a7",
-      "company": "Labcorp",
-      "title": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5",
-      "description": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests Zacks Investment Research",
-      "source": "Zacks Investment Research",
-      "source_url": "https://www.zacks.com",
-      "source_domain": "zacks.com",
-      "published_at": "2026-10-27T17:02:36+00:00",
-      "published_display": "27 Oct 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-10-27T17:02:36+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "access approved expand fda hpv screening tests waters"
-    },
-    {
       "id": "091ed75cb65c6305ead1",
       "company": "Labcorp",
       "title": "Labcorp earnings in focus as profit expectations moderate",
@@ -2327,6 +2405,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach confirms cyber exposed may patient records"
+    },
+    {
+      "id": "5e4a85c93e79e4486964",
+      "company": "Labcorp",
+      "title": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm51YUFRdERkSEtCaFFmYzJnSjNGTXFhd1lJTVJ1bFgyYVIxUVRJUkMzV2xZSEstTEpZZFdPU3AxUHpJb214QmtFSkRKSWtvMlg5VzdzR3oxYlBpVjBVeWhEMkFRSkxSVWtLTWtlMmU5eGI5RTVjWkZVcWd1a2hXU3B1TnlQSEJ4SHV4TGJncWpUM3lRSDhfeU1jdmppWGlxR1FlczFoRHU?oc=5",
+      "description": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests Zacks Investment Research",
+      "source": "Zacks Investment Research",
+      "source_url": "https://www.zacks.com",
+      "source_domain": "zacks.com",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm51YUFRdERkSEtCaFFmYzJnSjNGTXFhd1lJTVJ1bFgyYVIxUVRJUkMzV2xZSEstTEpZZFdPU3AxUHpJb214QmtFSkRKSWtvMlg5VzdzR3oxYlBpVjBVeWhEMkFRSkxSVWtLTWtlMmU5eGI5RTVjWkZVcWd1a2hXU3B1TnlQSEJ4SHV4TGJncWpUM3lRSDhfeU1jdmppWGlxR1FlczFoRHU?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-27T07:00:00+00:00"
+        },
+        {
+          "name": "Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5",
+          "domain": "zacks.com",
+          "published_at": "2026-10-27T17:02:36+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "access approved expand fda hpv screening tests waters"
     },
     {
       "id": "c130f0238a84bfb828eb",
@@ -7223,6 +7331,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "ahead earnings here how placed"
+    },
+    {
+      "id": "4bf47647a6c3ca19604e",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Stop Loss Guidance",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHo5ak5uOWpqYktBTlZqODltbXRuVHlwT0VJT0VrWDdhc0wzWE1VOTE0eEhFdHVoUV8wbngyMUJOVVJZNzNVMGpQTWgzQjN6bk0tbWRfaDJoVE5FV3JOR3lnRkNVNVJONmpKajdvNlR6czljaGU2bk5BRElVSlZ4ZXdaWXN4VXZUV0hiRHR4X0ZNcmlZX1lLVDlBS1l3ZURjSWdfdFM4Q252MlhrcHdPWC1sMElwUUFQUnBVdG5n?oc=5",
+      "description": "Quest Diagnostics (DGX) Edges Lower to $230.46, Holding Mid-Range Ahead of Resistance - Stop Loss Guidance https://www.dars.gov.et/",
+      "source": "https://www.dars.gov.et/",
+      "source_url": "https://www.dars.gov.et",
+      "source_domain": "dars.gov.et",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "https://www.dars.gov.et/",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMHo5ak5uOWpqYktBTlZqODltbXRuVHlwT0VJT0VrWDdhc0wzWE1VOTE0eEhFdHVoUV8wbngyMUJOVVJZNzNVMGpQTWgzQjN6bk0tbWRfaDJoVE5FV3JOR3lnRkNVNVJONmpKajdvNlR6czljaGU2bk5BRElVSlZ4ZXdaWXN4VXZUV0hiRHR4X0ZNcmlZX1lLVDlBS1l3ZURjSWdfdFM4Q252MlhrcHdPWC1sMElwUUFQUnBVdG5n?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "230 ahead edges guidance holding loss lower mid range resistance stop"
     },
     {
       "id": "3537ca9b6ef4ef30456b",
@@ -16503,10 +16635,10 @@
       "event_signature": "advanced approves companion diagnostic fda melanoma"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 44,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-08T00:17:00+05:30",
-  "next_update_display": "08 Nov 2026, 12:17 AM IST",
+  "next_update_at": "2026-11-08T06:17:00+05:30",
+  "next_update_display": "08 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

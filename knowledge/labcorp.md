@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 07 Nov 2026, 7:05 PM IST
+- **Repository generated:** 08 Nov 2026, 3:48 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -130,19 +130,7 @@
 
 **Feed description:** Labcorp Holdings Reports Q3 2026 Revenue Growth to $3.81 Billion Kalkine Media
 
-## 11. Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom
-
-- **Company:** Labcorp
-- **Publication date:** 30 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - MedTech Dive: https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5
-
-**Feed description:** Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive
-
-## 12. Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026
+## 11. Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026
 
 - **Company:** Labcorp
 - **Publication date:** 30 Oct 2026
@@ -153,6 +141,18 @@
   - BioBuzz: https://news.google.com/rss/articles/CBMinwFBVV95cUxNUmJhS1JYQzRLSll4SVVrRnFkbm1XM291VXNIaURfNHJRS1J6elVzNXZLal9xNWJ4TEppV1VGTDhwQXptdFh0X19vaU5QZDM0NGZrVUpPd01XTk1DUW9OYkpLZktCYllLZW02NFcyNHhpZ3hyUEFDbnczT2RfZHpSUFAybEdhbzVFd3lVZFNmOEllVndWMk5Va1I3TUNYSzg?oc=5
 
 **Feed description:** Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 BioBuzz
+
+## 12. Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom
+
+- **Company:** Labcorp
+- **Publication date:** 30 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - MedTech Dive: https://news.google.com/rss/articles/CBMipwFBVV95cUxPT01TdE9uOVlIeGVvYjZPemVld0VSakwwd2t6Q0JMbzljRllKcmNZSkZnYmNPT1lRTGZRWUUwVEIwRHZtRHBCTWZjWjFDbjJXeGI1S2R6VDZNYVljREd6RlpFeTVpQml3Z0tjQ3pfQWN5b0NBSVF2ZktJc1EtMHY3SDZxam9UNnotek56WFBVRk5Ca3Q0T3NGdnViSVhWbk9GZ0JJOUI1UQ?oc=5
+
+**Feed description:** Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive
 
 ## 13. Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety
 
@@ -637,19 +637,7 @@
 
 **Feed description:** Labcorp: Q3 Earnings Snapshot Yahoo Finance
 
-## 51. Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests
-
-- **Company:** Labcorp
-- **Publication date:** 27 Oct 2026
-- **Category:** Clinical, R&D
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Zacks Investment Research: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5
-
-**Feed description:** Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests Zacks Investment Research
-
-## 52. Labcorp earnings in focus as profit expectations moderate
+## 51. Labcorp earnings in focus as profit expectations moderate
 
 - **Company:** Labcorp
 - **Publication date:** 27 Oct 2026
@@ -661,6 +649,19 @@
   - Investing.com Australia: https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5
 
 **Feed description:** Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia
+
+## 52. Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests
+
+- **Company:** Labcorp
+- **Publication date:** 27 Oct 2026
+- **Category:** Clinical, R&D
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Zacks Investment Research: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUm51YUFRdERkSEtCaFFmYzJnSjNGTXFhd1lJTVJ1bFgyYVIxUVRJUkMzV2xZSEstTEpZZFdPU3AxUHpJb214QmtFSkRKSWtvMlg5VzdzR3oxYlBpVjBVeWhEMkFRSkxSVWtLTWtlMmU5eGI5RTVjWkZVcWd1a2hXU3B1TnlQSEJ4SHV4TGJncWpUM3lRSDhfeU1jdmppWGlxR1FlczFoRHU?oc=5
+  - Zacks Investment Research: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTFhoOW1vZThVUkQ2RFVNRUxXcVBveWlZbVpRcEc1WEUzZG5KeFhBSGd1Q1N6Z29hODFhTkJVSTNNenAtcUVjWXlDc1pSNXU1MzBTc09tUk5zWUk0ZVNqa1pLQ3dFeUs3LWZaZTRiZ2hCMTA1Y2JTam9SRGRNeXkzb0FObC1XOGFidEhxenowSlNEdFFLWVNfSFZ4T052NVJJRE45aHctTlUwbXF3T1U5YktRR0pLaFNBV3kteVdZQ0xFLUJSSEJMVDAxVVFsaldOU0Q3QUxlZURNVFF2WHJDUDNnWDRvVGZyMWxGNnNncjFBaHI4d0g4SUpkMkY5aHM?oc=5
+
+**Feed description:** Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests Zacks Investment Research
 
 ## 53. Labcorp earnings: what to look for from LH
 
