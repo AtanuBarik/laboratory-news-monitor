@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-08T13:25:15.371097+05:30",
-  "generated_at_display": "08 Nov 2026, 1:25 PM IST",
+  "generated_at": "2026-11-08T19:23:42.563877+05:30",
+  "generated_at_display": "08 Nov 2026, 7:23 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 497,
+  "remaining_unsummarized_count": 495,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -540,29 +540,6 @@
       ]
     },
     {
-      "id": "1960de34e102e81b6005",
-      "company": "Mayo Clinic Laboratories",
-      "category": "Partnership, M&A",
-      "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
-      "source": "Clinical Lab Products",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products",
-      "published_at": "2026-10-14T16:39:13+00:00",
-      "published_display": "14 Oct 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5"
-        },
-        {
-          "name": "Labmate Online",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1bd79f0520039f6d5ef4",
       "company": "Labcorp",
       "category": "Partnership, M&A",
@@ -578,6 +555,29 @@
         {
           "name": "HIT Consultant",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1960de34e102e81b6005",
+      "company": "Mayo Clinic Laboratories",
+      "category": "Partnership, M&A",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
+      "source": "Clinical Lab Products",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "official_source": false,
+      "coverage_count": 2,
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5"
+        },
+        {
+          "name": "Labmate Online",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5"
         }
       ]
     },

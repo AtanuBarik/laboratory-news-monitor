@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 08 Nov 2026, 12:13 PM IST
+- **Repository generated:** 08 Nov 2026, 7:23 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -166,19 +166,7 @@
 
 **Feed description:** Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive
 
-## 14. Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms
-
-- **Company:** Labcorp
-- **Publication date:** 29 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5
-
-**Feed description:** Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms Yahoo Finance
-
-## 15. LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!
+## 14. LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -190,7 +178,7 @@
 
 **Feed description:** LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting! UFCW 3000
 
-## 16. Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty
+## 15. Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -202,7 +190,7 @@
 
 **Feed description:** LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty StockStory
 
-## 17. Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety
+## 16. Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -213,6 +201,18 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5
 
 **Feed description:** Labcorp Holdings (LH) Expands HPV Testing While Teaming With Regulators On Drug Safety Yahoo Finance
+
+## 17. Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms
+
+- **Company:** Labcorp
+- **Publication date:** 29 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5
+
+**Feed description:** Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms Yahoo Finance
 
 ## 18. Labcorp 2026 Q3 - Results - Earnings Call Presentation 2026-10-29
 

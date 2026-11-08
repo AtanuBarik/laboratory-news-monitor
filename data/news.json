@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-08T12:13:29.484861+05:30",
-  "generated_at_display": "08 Nov 2026, 12:13 PM IST",
-  "item_count": 546,
-  "raw_relevant_item_count": 665,
+  "generated_at": "2026-11-08T19:23:38.486252+05:30",
+  "generated_at_display": "08 Nov 2026, 7:23 PM IST",
+  "item_count": 537,
+  "raw_relevant_item_count": 656,
   "duplicates_merged": 74,
   "failures": [],
   "items": [
+    {
+      "id": "943ac48e0f0885d65353",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Quanum Breach: Check Patient Data Exposure",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ibmNtTlloeTlmczh2NHBrN0dfaVQ0VFpqXzJjMV9XTVhVemZGMEFNeWt2bzNsS0gwVkhNZk90RUN4ZnpFLU5UVGZWdGZZSnJGcXl1NWpyM3Y4dkdyRTlLMzVhOEFDOFpsVXUzazhrN0ZzOGVFYWFTVnpaS3R3UQ?oc=5",
+      "description": "Quest Diagnostics Quanum Breach: Check Patient Data Exposure Homeland411",
+      "source": "Homeland411",
+      "source_url": "https://homeland411.com",
+      "source_domain": "homeland411.com",
+      "published_at": "2026-11-08T07:15:37+00:00",
+      "published_display": "08 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Homeland411",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ibmNtTlloeTlmczh2NHBrN0dfaVQ0VFpqXzJjMV9XTVhVemZGMEFNeWt2bzNsS0gwVkhNZk90RUN4ZnpFLU5UVGZWdGZZSnJGcXl1NWpyM3Y4dkdyRTlLMzVhOEFDOFpsVXUzazhrN0ZzOGVFYWFTVnpaS3R3UQ?oc=5",
+          "domain": "homeland411.com",
+          "published_at": "2026-11-08T07:15:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach check data exposure patient quanum"
+    },
     {
       "id": "7f6a03b0f571da1f31f0",
       "company": "Labcorp",
@@ -1069,30 +1093,6 @@
       "event_signature": "breach data exposes patient"
     },
     {
-      "id": "8362db92e01d3dc1fc4e",
-      "company": "Labcorp",
-      "title": "Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5",
-      "description": "Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-29T18:12:48+00:00",
-      "published_display": "29 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-29T18:12:48+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings looms off pama risk shrugs stock"
-    },
-    {
       "id": "ddbd390e6066e93922db",
       "company": "Labcorp",
       "title": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!",
@@ -1187,6 +1187,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "drug expands hpv regulators safety teaming testing while"
+    },
+    {
+      "id": "8362db92e01d3dc1fc4e",
+      "company": "Labcorp",
+      "title": "Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5",
+      "description": "Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa3NqS2NmdkNFRjRtVmdQaHlWRHpEdk1OYjVPNjE3Sncxa044VjZLM3B1YTJNTy1IWGY4RFZpLWVsam9sOXBGcnZEdzNhU2JWNExYeWpmaEJBOEJKTXVFc2N3LVB6S1U2bU5BQzFhMm9mNGV6LVcxNDdxbTdrSWhONjg4TnBkVE9XRGJ5SXJZTV92SThzSDVr?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings looms off pama risk shrugs stock"
     },
     {
       "id": "e0812e94d4a7e0b10611",
@@ -7135,36 +7159,6 @@
       "event_signature": "can far how margins rebuild"
     },
     {
-      "id": "1960de34e102e81b6005",
-      "company": "Mayo Clinic Laboratories",
-      "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-10-14T16:39:13+00:00",
-      "published_display": "14 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-10-14T16:39:13+00:00"
-        },
-        {
-          "name": "Labmate Online",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5",
-          "domain": "labmate-online.com",
-          "published_at": "2026-10-19T14:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "asia expand genomic invests pathology regional testing"
-    },
-    {
       "id": "f71acb9fdf247d332889",
       "company": "Labcorp",
       "title": "Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks",
@@ -7379,6 +7373,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "230 ahead edges guidance holding loss lower mid range resistance stop"
+    },
+    {
+      "id": "1960de34e102e81b6005",
+      "company": "Mayo Clinic Laboratories",
+      "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
+      "description": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-10-14T07:00:00+00:00",
+      "published_display": "14 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-10-14T07:00:00+00:00"
+        },
+        {
+          "name": "Labmate Online",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5",
+          "domain": "labmate-online.com",
+          "published_at": "2026-10-19T14:00:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "asia expand genomic invests pathology regional testing"
     },
     {
       "id": "3537ca9b6ef4ef30456b",
@@ -16296,373 +16320,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "cas convenient fingertips health riverside services your"
-    },
-    {
-      "id": "24a884501ed24661b9a2",
-      "company": "Labcorp",
-      "title": "Unraveling The Mystery Of Your Body Labcorp Memphis Tns Comprehensive Metabolic Panel",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUJGWXpCdVFLZk1CWkIwQndMR21zSHBCRWVRSUpZOHZ4TFplZWlyRGlEQWViWFk1c0hCWDdLRXYyQVp2MzlTWkE3dWl6cW5UQjI3V1FQZmNQcE0wbFBMSlZUOHFzM3cza1dJaWpOeGpwVENPX1ZRTFA4T25QbXV4ZllBaHVJb2c0cTktX29yNEtpN3hTazZXb29DUDlpc3IwMElNa29XMmlteUMzcmxUTGRURQ?oc=5",
-      "description": "Unraveling The Mystery Of Your Body Labcorp Memphis Tns Comprehensive Metabolic Panel Oma Erto",
-      "source": "Oma Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T12:56:50+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Oma Erto",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUJGWXpCdVFLZk1CWkIwQndMR21zSHBCRWVRSUpZOHZ4TFplZWlyRGlEQWViWFk1c0hCWDdLRXYyQVp2MzlTWkE3dWl6cW5UQjI3V1FQZmNQcE0wbFBMSlZUOHFzM3cza1dJaWpOeGpwVENPX1ZRTFA4T25QbXV4ZllBaHVJb2c0cTktX29yNEtpN3hTazZXb29DUDlpc3IwMElNa29XMmlteUMzcmxUTGRURQ?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T12:56:50+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "body comprehensive memphis metabolic mystery panel tns unraveling your"
-    },
-    {
-      "id": "26e34857f08ccef9e101",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
-      "description": "Quest Diagnostics Scouting Report: Sounders Can Bounce Back Against FC Dallas Todibo (xrFSQRkKV9) mshale.com",
-      "source": "Mshale",
-      "source_url": "https://mshale.com",
-      "source_domain": "mshale.com",
-      "published_at": "2026-08-10T08:08:47+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Mshale",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VcloxeEszT3Y0S2lvbGN6UWwzbmcwbE9iTUxoVldUV2ctVDZnZU5uaXRGZ0YxMzh5a3dTYk1iWmVIOHN5cmpURHNTMG91NVRaODE3U1NRMjJjLUE?oc=5",
-          "domain": "mshale.com",
-          "published_at": "2026-08-10T08:08:47+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "against back bounce can dallas report scouting sounders todibo xrfsqrkkv9"
-    },
-    {
-      "id": "7821805ba5345b77a918",
-      "company": "Labcorp",
-      "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-      "description": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
-      "source": "Fierce Biotech",
-      "source_url": "https://www.fiercebiotech.com",
-      "source_domain": "fiercebiotech.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "braf diagnostic fda green light melanoma nabs",
-      "source_description": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
-      "chatgpt_summary": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company’s precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue and is intended to help clinicians determine whether a patient may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations, subject to the approved therapeutic labeling. The test is a qualitative next-generation sequencing in vitro diagnostic that uses DNA extracted from formalin-fixed, paraffin-embedded tumor specimens. Labcorp says its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a central-laboratory-only service, the kit-based CDx can be implemented by qualified healthcare professionals within hospitals and clinical laboratories, which Labcorp says can expand access while allowing institutions to retain samples and data for potential future research. The August 10, 2026 approval follows the broader FDA-cleared PGDx elio tissue-complete platform and gives the assay a specific companion-diagnostic role in melanoma. Labcorp highlighted the need for accurate BRAF status because targeted therapy is an important option for advanced melanoma patients with qualifying alterations.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-16T00:35:32+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
-      "id": "e7cdc3ac26ab39cceaf6",
-      "company": "Labcorp",
-      "title": "Labcorp Announces FDA Approval of Companion Diagnostic Supporting Patients with Advanced Melanoma",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
-      "description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb1NRV2lGQ1p4OWJNNGJvRDd5SERPX3VxR0NmVHplaUx3VC0wTnRlRTRuNmlWbDRrSE9fdE1hMXpZMHpHTVhfUFFCX0NBTWpFNTh5ek1fck0wb1M4d1E1TEZJcW1HYVRDNGJfREtEeWNHbjhsMWtMeUduMmREWHFDczZIMXZITnZzZGVWaUdIcVo4UzJpWWRfbmFaUVYxVDYyWnFHRVlxRUV6ODdFRzEzd2NkZDE0Z2tQY2gxbkprZzJ0cTRoZUdXMXpkUnpmOXMzMnFIS1ZnZmhkNENKdHEwVUhneDdOV2VE?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-10T19:06:57+00:00"
-        },
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5",
-          "domain": "moomoo.com",
-          "published_at": "2026-08-10T12:51:24+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOVBQalRabnNQOFg1ZTRCaFdfTGhOUG9pQ2ZiUWxQWjF5ZUNqSXE0WTFaUmVLc1J4ai1KMllQZDBOZlFVa1V3TGoyZkZkallZWDN0VWhHMURmX09idjZNRGQyMWRNa1VQZDJoZFloTDlaRTZMX1Vxcjdrd2NlNkp6NGtTTXp6TnI1TkVNYi1sOFowUzZRamxuZjBxRkJFRGlESlhJ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObmszRXdqR1BXc045X0swekhIOWhyYTJLZ3YxMnRNek1XN29IVU5ZNWpDWFdaejFfdkdIbGh5dkRaU1plN2ozcTU0RmRoSGF2YlY1U0hRYjNqTjljaWd2ZnBtRHZFSkthR2pzM19qNGpVTGJjNDZOdlhQTWtrcHY3LU5mT3hndEVWejBEaW4yNW9HUU5PTTZGcGFYa0tPOF9lLU9YMTZNZ0VUQ01aX01uemJJV254Qm5vbUtyQTZfdjdEVHhwRmRkTThjOUJFNUJwVTl1Vnd0VnJGNHR6ZnRMMWZvTW0tWWRoaFVBUDRMMA?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "name": "AOL.com",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQU2pyM0UyZGpVMDU5OU8xLXNqM3dWVnJMYnhFNHU3ODRvcVBkZ1U1RW9oYU1wTVZGcElTX2JFenVSNVhFTWEzbjN4R183MVNneEJ0cGlVNS1WZTlSVm1oYmpMYkRtR3R4OUVsRXc2dmhnWGxXdzU1cGdXcGhIQTkyeUdJZkdtUUNKanRDWg?oc=5",
-          "domain": "aol.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 6,
-      "event_signature": "advanced approval companion diagnostic fda melanoma patients supporting",
-      "source_description": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liqu…",
-      "chatgpt_summary": "Labcorp said the FDA approved its PGDx elio tissue complete CDx as a companion diagnostic to help select targeted treatment for patients with advanced melanoma. The indication covers tumors with BRAF V600E or BRAF V600K variants and supports use of FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations according to the corresponding therapeutic labels. The company cited a roughly 16% five-year survival rate for stage IV melanoma and positioned molecular identification of BRAF alterations as an important step in matching eligible patients to targeted therapy. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue using high-throughput hybridization-based capture. Its targeted panel detects single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The FDA-approved kit is intended for qualified healthcare professionals across hospitals and clinical laboratories. Labcorp said the distributed model lets health systems establish the assay on site, broaden access to molecular testing and retain samples and data that may also support future research. The new melanoma claim extends Labcorp’s precision-medicine portfolio and adds another FDA-linked companion-diagnostic use to a platform that spans tissue- and liquid-based oncology testing.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-12T18:50:15+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
-      "id": "330dd656b1d06b467973",
-      "company": "Labcorp",
-      "title": "FDA Approves Labcorp's PGDx Elio Tissue Complete CDx for Advanced Melanoma",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5",
-      "description": "Labcorp announced on August 10, 2026 that the FDA approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma. The next-generation sequencing assay is intended to identify tumors carrying BRAF V600E or V600K variants so clinicians can determine eligibility for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the relevant drug labels. Labcorp said the kit is designed for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing testing to be implemented within health-system laboratories rather than requiring all specimens to be sent to a central reference facility. The assay uses DNA isolated from formalin-fixed, paraffin-embedded tumor tissue and a high-throughput hybridization-based capture method. Its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp positioned the approval as an expansion of its precision-oncology portfolio and a way to broaden access to molecular testing for treatment selection in advanced melanoma. The company noted that stage IV melanoma has a five-year survival rate of about 16%, underscoring the clinical importance of identifying patients whose BRAF-altered tumors may be eligible for targeted therapy.",
-      "source": "Dermatology Times",
-      "source_url": "https://www.dermatologytimes.com",
-      "source_domain": "dermatologytimes.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Organizational Updates",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Dermatology Times",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZVI4NzhpTUlrUER0QjI0N3pfUG9acWtEckwya2U3d21JLXpqWUdUU3lqZjM5WjI0cEcxVzJKME1JN25FQVZFcWVPeTNNZElCMkF0WlFIY1Y3ZXlLWklCdXlWR2RYbjhKSnFPeFVVS0xIeXdQN1dyNGg1b1hod1BiWnk3Vlp0dUFDOE5pVVZ2a3pBNVJNcHpaMFNMczRRazNVLTNxQUtqWG0tcElmMURJT1Jn?oc=5",
-          "domain": "dermatologytimes.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "advanced approves cdx complete elio fda melanoma pgdx tissue",
-      "source_description": "Labcorp announced on August 10, 2026 that the FDA approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma. The next-generation sequencing assay is intended to identify tumors carrying BRAF V600E or V600K variants so clinicians can determine eligibility for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the relevant drug labels. Labcorp said the kit is designed for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing testing to be implemented within health-system laboratories rather than requiring all specimens to be sent to a central reference facility. The assay uses DNA isolated from formalin-fixed, paraffin-embedded tumor tissue and a high-throughput hybridization-based capture method. Its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp positioned the approval as an expansion of its precision-oncology portfolio and a way to broaden access to molecular testing for treatment selection in advanced melanoma. The company noted that stage IV melanoma has a five-year survival rate of about 16%, underscoring the clinical importance of identifying patients whose BRAF-altered tumors may be eligible for targeted therapy.",
-      "chatgpt_summary": "Labcorp announced on August 10, 2026 that the FDA approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma. The next-generation sequencing assay is intended to identify tumors carrying BRAF V600E or V600K variants so clinicians can determine eligibility for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the relevant drug labels. Labcorp said the kit is designed for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing testing to be implemented within health-system laboratories rather than requiring all specimens to be sent to a central reference facility. The assay uses DNA isolated from formalin-fixed, paraffin-embedded tumor tissue and a high-throughput hybridization-based capture method. Its targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp positioned the approval as an expansion of its precision-oncology portfolio and a way to broaden access to molecular testing for treatment selection in advanced melanoma. The company noted that stage IV melanoma has a five-year survival rate of about 16%, underscoring the clinical importance of identifying patients whose BRAF-altered tumors may be eligible for targeted therapy.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-16T00:35:32+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
-      "id": "57f380dc6bfa892570d6",
-      "company": "Labcorp",
-      "title": "Labcorp’s advanced melanoma CDx secures FDA approval",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVp6dkFPREJaVXVOeGlQMjNJSkE5Q2V2U055Q3NoV1FXT0c3cUdFM05xNURTN3hzRWFKTUk3Nk00Rl8zTDFGYjJKYUwxTDlXTmxRRERjMnNzbmhQVk5DNXcyT3E5NnJVTnRMQTlRYkJSMHUwVzY1RFJ3OWg2Uy11NlU3czU4SXJUU0M0S1ZCcjItUFpOZW4zZlRuSU4?oc=5",
-      "description": "Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.",
-      "source": "Yahoo",
-      "source_url": "https://www.yahoo.com",
-      "source_domain": "yahoo.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdVp6dkFPREJaVXVOeGlQMjNJSkE5Q2V2U055Q3NoV1FXT0c3cUdFM05xNURTN3hzRWFKTUk3Nk00Rl8zTDFGYjJKYUwxTDlXTmxRRERjMnNzbmhQVk5DNXcyT3E5NnJVTnRMQTlRYkJSMHUwVzY1RFJ3OWg2Uy11NlU3czU4SXJUU0M0S1ZCcjItUFpOZW4zZlRuSU4?oc=5",
-          "domain": "yahoo.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "name": "Medical Device Network",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORl9WdmZ5WnZfRENNTkxJZDdhWENXbzY5NGxWSXdMd3VXODdnbW9icjVucHVDSHNvMUx0RnhBTnE3TDYwVDQ4ck9TN2lRcUI1blZOZ3FGa2VRdVI2TThzMnczeFVQWFdPY3dFNFE0dWZ1bmdUdzN2OHFXZEQ2aVZlNW94Y3hQN0dsZnhFemxmZ2ZJMnFxeXN3c0tn?oc=5",
-          "domain": "medicaldevice-network.com",
-          "published_at": "2026-08-10T15:42:06+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "advanced approval cdx fda melanoma secures",
-      "source_description": "Labcorp’s PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a therapy-selection indication to the company’s distributed comprehensive-genomic-profiling platform. The approved use identifies melanoma tumors with BRAF V600E or BRAF V600K variants so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitor therapy or BRAF/MEK inhibitor combinations under the relevant drug labels. Labcorp emphasized the clinical need in advanced disease, citing a five-year survival rate of about 16% for stage IV melanoma. The assay is a qualitative next-generation-sequencing in vitro diagnostic performed on DNA from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can identify single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Unlike a send-out-only service, the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, enabling institutions to keep samples and data in house while performing molecular profiling. The melanoma approval broadens Labcorp’s PGDx elio portfolio, which already supports tissue and liquid genomic profiling. Strategically, it strengthens Labcorp’s oncology offering by combining a regulated treatment-selection claim with a scalable kit…",
-      "chatgpt_summary": "Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
-      "id": "00712c2ceed998d43783",
-      "company": "Labcorp",
-      "title": "Labcorp wins FDA approval for melanoma companion diagnostic",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFadGNidmtXOXkySmF5U0FTcUQzR2RwS3FpaEtMWHIyMkpqNDFxM2NOUWlyM3VCcTMyamZ2eXNnMWt6YjF3MmRCMUZPbHhYeV9feDJhd3p3THF4U01oS0IyVjhVMWJvNWlmZEJfYzViME45Wk81RVJSeTI2TnR1c3BoYVZFY2UyWk1wN2xyb3o3aEdpSUNndklZQmdTelQ3R3pja2lFWmxUTER0YWtZQmJRdDBGcXc?oc=5",
-      "description": "Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSHFadGNidmtXOXkySmF5U0FTcUQzR2RwS3FpaEtMWHIyMkpqNDFxM2NOUWlyM3VCcTMyamZ2eXNnMWt6YjF3MmRCMUZPbHhYeV9feDJhd3p3THF4U01oS0IyVjhVMWJvNWlmZEJfYzViME45Wk81RVJSeTI2TnR1c3BoYVZFY2UyWk1wN2xyb3o3aEdpSUNndklZQmdTelQ3R3pja2lFWmxUTER0YWtZQmJRdDBGcXc?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMUItRnc3UTNETk1ZU2NwWFBZWU9jODhPVnphMU1fVmxRSkFhX2NoOWJFUnN6NUlHZFlabHFFUExuNlZuOVFXbkRLcHpGSVBrOHdCZEIwaXlFV2JVMzYzSGFCNG5OZXB4UTdLUGlYWlBsRjkzbnZ4c1lSbmpjSWdIUV95elpoVVRyalNoRzhOVTA5cThjQkFLNGN6VmNOMGZpZ1hv?oc=5",
-          "domain": "moomoo.com",
-          "published_at": "2026-08-10T12:51:24+00:00"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaHNfUUYxbkwtNXEzM0NLN0RsUnJBc25oM055bUxPMURxWWN0VURGendVNTNvblNDMjZpU2FFbXhOVlNLQnM5M3JpUXVXcDNiaW1xMFN1eDNvQXVYS2hsM2VlemV2T1c0cDUteWgyYVBPbFNGNVlISWR4bG1fdU1ZUnh2cFhRd2VpRGUxWTF0T1JTczQ4YUQ5bmdhRW15S3YwMHRrTF9tbU10NWlKQ1pTbnZBQkUtWmZlT3Rveg?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-08-10T12:28:52+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQnZvalZfLV9MUVRmRmprLUhWOXY2XzZuNWI0eHZtQzBZdUg5dUNtbGJOek1GdUdHakJ6dFdVc3BYQVR3UkJnVG9QalROcXdHbDRDUVcybUEzRjZHLWR2blJHSl91aG9mYzhWRTE3aTN1M3ZmY01rTjRQa0NpeEdjZ3cyaXVLSkFtNHZQYmctTTJjTV9SZFVfS0w4YmYxTktBejYwazV3T1poak9TT01MdU9jS3E3dy1yMjFWaA?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "approval companion diagnostic fda melanoma wins",
-      "source_description": "Labcorp wins FDA approval for melanoma companion diagnostic Investing.com",
-      "chatgpt_summary": "Labcorp's PGDx elio tissue complete CDx received FDA approval as a companion diagnostic for advanced melanoma, adding a treatment-selection indication to the company's precision-oncology portfolio. The assay identifies BRAF V600E and BRAF V600K variants in tumor tissue so clinicians can determine whether patients may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations under the relevant therapeutic labels. Labcorp highlighted the clinical need in advanced disease, citing a roughly 16% five-year survival rate for stage IV melanoma. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that analyzes DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. It uses high-throughput hybridization-based capture and can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is intended for use by qualified healthcare professionals in hospitals and clinical laboratories, enabling health systems to implement molecular testing locally rather than relying only on a central send-out model. Labcorp says that local implementation can broaden access while allowing institutions to retain patient samples and data. The August 10, 2026 approval expands Labcorp's tissue- and liquid-based oncology portfolio with a regulated, therapy-linked diagnostic that can be embedded directly into hospital and clinical-laboratory treatment-selection workflows.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
-      "id": "93ef46d5e6650088af23",
-      "company": "Labcorp",
-      "title": "FDA approves Labcorp's PGDx elio® test to ident...",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
-      "description": "Labcorp announced FDA approval of PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combination regimens under the relevant drug labels. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations important for treatment selection. PGDx elio tissue complete CDx is a qualitative next-generation sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA extracted from formalin-fixed, paraffin-embedded tumor tissue. The targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp says the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to perform testing locally while retaining samples and data that may also support future research. The approval expands Labcorp’s precision-oncology portfolio beyond centralized testing by pairing a distributed, kit-based comprehensive genomic profiling platform with a specific FDA-approved treatment-selection use in melanoma. The release did not disclose pricing, reimbursement terms or commercial volume expectations.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaTV6MUs4N1ZSRkdqTjNLbFFVTWxwS01lTkVpOVVRNjFzZDdwSlNoX3hHY3JfV2RVNDJZaTM1RTZFU3d4NWRQTjZlRWtWZnhRZWFudnp2M25TdXN1QUM2em5MbXRkZEF1V2dqUGtSdnJfSWtndWp1ellPTDY1el8wZzQtNzNmSFNuS1lkQkJidlN5MTlMRjBsZGw0MmE3NFdvdlNJRzExRElvdw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "approves elio fda ident pgdx test",
-      "source_description": "FDA approves Labcorp's PGDx elio® test to ident... Pluang",
-      "chatgpt_summary": "Labcorp announced FDA approval of PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may be eligible for FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combination regimens under the relevant drug labels. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations important for treatment selection. PGDx elio tissue complete CDx is a qualitative next-generation sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA extracted from formalin-fixed, paraffin-embedded tumor tissue. The targeted panel can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. Labcorp says the kit can be implemented by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to perform testing locally while retaining samples and data that may also support future research. The approval expands Labcorp’s precision-oncology portfolio beyond centralized testing by pairing a distributed, kit-based comprehensive genomic profiling platform with a specific FDA-approved treatment-selection use in melanoma. The release did not disclose pricing, reimbursement terms or commercial volume expectations.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-21T18:35:37+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-announces-fda-approval-companion-diagnostic-supporting",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-fda-approval-of-companion-diagnostic-supporting-patients-with-advanced-melanoma-302846587.html"
-      ]
-    },
-    {
-      "id": "64319bcd261f6ef3b1db",
-      "company": "Labcorp",
-      "title": "Labcorp Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4%; Shares Edge Higher - Free Cash Flow Trends",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWROYXZ5V3F0enRGWUhVcFBHSFpGZHRpSG94cnVPa0dCcVpTVGNlQkI5Tml2aENqWEtIMnlqRlp2VzVFQi1TTGl6MWNFdU40TjNpMTJjWGFtcnhheWZlcjdoTWdyRExWSFdEWDNVZWg5UDk2YzhmbzV2aTRLSndFcGJYT1N4RlVLSVllYmNzMnV3MU9WWGVQbzVGRjNkbE0xa3pZSGF0WENfczZwdERzZ2p3?oc=5",
-      "description": "Labcorp reported adjusted EPS of $4.99 for the second quarter of 2026, up 14.9% year over year, with revenue of $3.731 billion, up 5.8%. The more important cash-flow detail in the company’s official release is that operating cash flow was $445.5 million for the quarter, down from $620.6 million a year earlier. Capital expenditures increased to $131.6 million from $77.9 million, leaving quarterly free cash flow of $313.9 million versus $542.7 million in the prior-year period. Labcorp said the free-cash-flow decline primarily reflected working-capital timing and planned increases in capital expenditures. For the first six months of 2026, operating cash flow was $637.0 million, capital expenditures were $252.6 million and free cash flow was $384.4 million. Management kept full-year free-cash-flow guidance unchanged at $1.24–$1.36 billion while raising enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. During Q2, Labcorp invested $225.7 million in acquisitions, repurchased $353.8 million of stock, paid $58.7 million in dividends and retired $500 million of senior notes. Quarter-end cash was $141.8 million and total debt was $5.86 billion. The headline’s 1.4% consensus-beat figure was not independently confirmed, so this summary uses the verified reported results and cash-flow disclosures.",
-      "source": "vinanet.vn",
-      "source_url": "http://vinanet.vn",
-      "source_domain": "vinanet.vn",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWROYXZ5V3F0enRGWUhVcFBHSFpGZHRpSG94cnVPa0dCcVpTVGNlQkI5Tml2aENqWEtIMnlqRlp2VzVFQi1TTGl6MWNFdU40TjNpMTJjWGFtcnhheWZlcjdoTWdyRExWSFdEWDNVZWg5UDk2YzhmbzV2aTRLSndFcGJYT1N4RlVLSVllYmNzMnV3MU9WWGVQbzVGRjNkbE0xa3pZSGF0WENfczZwdERzZ2p3?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 beats cash consensus earnings edge eps flow free higher shares trends",
-      "source_description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4%; Shares Edge Higher - Free Cash Flow Trends vinanet.vn",
-      "chatgpt_summary": "Labcorp reported adjusted EPS of $4.99 for the second quarter of 2026, up 14.9% year over year, with revenue of $3.731 billion, up 5.8%. The more important cash-flow detail in the company’s official release is that operating cash flow was $445.5 million for the quarter, down from $620.6 million a year earlier. Capital expenditures increased to $131.6 million from $77.9 million, leaving quarterly free cash flow of $313.9 million versus $542.7 million in the prior-year period. Labcorp said the free-cash-flow decline primarily reflected working-capital timing and planned increases in capital expenditures. For the first six months of 2026, operating cash flow was $637.0 million, capital expenditures were $252.6 million and free cash flow was $384.4 million. Management kept full-year free-cash-flow guidance unchanged at $1.24–$1.36 billion while raising enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. During Q2, Labcorp invested $225.7 million in acquisitions, repurchased $353.8 million of stock, paid $58.7 million in dividends and retired $500 million of senior notes. Quarter-end cash was $141.8 million and total debt was $5.86 billion. The headline’s 1.4% consensus-beat figure was not independently confirmed, so this summary uses the verified reported results and cash-flow disclosures.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
-    },
-    {
-      "id": "868654c81234f2674032",
-      "company": "Labcorp",
-      "title": "FDA Approves Labcorp Companion Diagnostic for Advanced Melanoma",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
-      "description": "Labcorp announced that the U.S. Food and Drug Administration approved PGDx elio tissue complete CDx as a companion diagnostic for patients with advanced melanoma whose tumors carry BRAF V600E or BRAF V600K variants. The test is intended to help clinicians identify patients who may benefit from FDA-approved BRAF inhibitors or BRAF/MEK inhibitor combinations in accordance with the therapies’ approved labeling. Labcorp noted that stage IV melanoma has a five-year survival rate of about 16%, making rapid identification of actionable BRAF alterations clinically important. PGDx elio tissue complete CDx is a qualitative next-generation-sequencing in vitro diagnostic that uses high-throughput hybridization-based capture on DNA isolated from formalin-fixed, paraffin-embedded tumor tissue. The targeted assay can detect single-nucleotide variants, small insertions and deletions, copy-number amplifications and translocations. The kit is approved for use by qualified healthcare professionals in hospitals and clinical laboratories, allowing health systems to implement testing on site and retain patient samples and data. Labcorp said the melanoma indication expands its precision-oncology portfolio of tissue- and liquid-based diagnostics. The approval gives the company a therapy-linked, distributed-kit offering that can place molecular treatment-selection testing directly within hospital and…",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-08-10T07:00:00+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTF3WHhYUEhUOXJ2ZzVZOWNTVVlqdjY0NDZLeThzRUtmaTJ2TUZ0bzg0c3RIck5NbzdGeWV5VWV3NC1ZekRDMlFVdm5CQzlKU2s5dC1EYVB0SGhlcGlncVBaMXhhWGl4X25mdU1sekdKOHdoWDF0Zmd6N1lBaHUwalNEVThIWEx5SG9SQm9MOUZJcHJMMXVOMVRyM2N1MXRlVlMxYWJEUXhlSkVXa3Nn?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-10T07:00:00+00:00"
-        },
-        {
-          "name": "The Dermatology Digest",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdnRVQ3MwNUhGTGR2bVhjRGdud0N1WEhEYXBBZzFIc3BZVzczX1hJTEJMdkVEdmdHNVkxcjV0Nlh5SXBZWlQ3aVNwcEJTNXBkODljcnVJUk1xbVRrYjlsQWM1bjg1Q2ZFQWpDYVBKMnkzMXJpd0IzNGdsMDRvcEVKVF81TWtnTlNpM2FSWEhSR3ZzYWNjc3AxbTd0VXRRS3ZhWllUS1d4bnljcnNtYmN5YWdvaEM0Tm9IbEE?oc=5",
-          "domain": "thedermdigest.com",
-          "published_at": "2026-08-10T18:14:33+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "advanced approves companion diagnostic fda melanoma"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 45,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-08T12:17:00+05:30",
-  "next_update_display": "08 Nov 2026, 12:17 PM IST",
+  "next_update_at": "2026-11-09T00:17:00+05:30",
+  "next_update_display": "09 Nov 2026, 12:17 AM IST",
   "display_timezone": "IST"
 }
