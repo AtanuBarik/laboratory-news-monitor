@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 08 Nov 2026, 7:23 PM IST
+- **Repository generated:** 09 Nov 2026, 4:00 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -70,7 +70,7 @@
 - **Company:** Labcorp
 - **Publication date:** 03 Nov 2026
 - **Category:** Other
-- **Coverage count:** 6
+- **Coverage count:** 7
 - **Official source involved:** No
 - **Sources:**
   - Investing.com India: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5
@@ -79,6 +79,7 @@
   - Investing.com UK: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGdYMmdDN1NtN0NfbXZIWW5tWHY0QWJPTlFBdDFNOGJ5RGdsSFAxRHhIbktsVElySlN3dU9iZXFRamFrZEtHLTN1VzAzbV83UWhRblRGR01xd0pVMkRlSjRTYWxuU1J5VXB4amFhWnFydW5oUzlnRXpHMmRyeXNtNXFkWUtWT2l1bmlhTzhDS2RsWXF6akN1Q21HQkxMVmo2WU4xbHRUQ0p2WVlKQjI0UG92X0htcThXUWxfRXJIYVRlZThvRmlGWnd3MXhlc1RmS2RhbnVoWngyZFdOcFJ5X2dB?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzBPVjU5UXQzMHZtbGtZYTc4Q3RKX3RLMWFBQnF1TUptYkpoZThtVXgwZ1FVZzdWYlR0OUZ3N09lZmNPVUFVU19yNkF0T0ZDTkJhOHNYNlA4Q1dacGN4ZmhXSzRjcXBUMUdSMlNwUDhOTGdlN2hjVDZUM2EyLWtkVExEVGVRdDVlYzNtRmZEQ2pvXzNsNXJHdUdIVldzeDllUXVycFppLU5UOF96aFZCc05BYkx1a0Zsc2hpbGszbjdLVGFnemhHMFhQRkZsLTFNVW1BYklRcDRlazFLRFc1ZEd3?oc=5
   - Investing.com Canada: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHN0d2FQWUk5V2I0dXJkekN5cUZQLXBTOVdSR1JBWVlyd0NpY3JkQnNEaGpHY0Jpa3hrbzd4MllORXRhXzFYVFlfLVRyVXdBUnM3REkzaDVRNzV4c0FvTnE1dHhCZE1jWDBYaFRxdDVEUVNrT2Q4bHB0S2xSNjUyS0FxRDhLSEx5UlMtVTByRjZiOXl4b1VSNE9NWlI0ODlucXRMQU53MjFfcE1tc0VSLTR5X2J3dWpnV0pwcGZ6WVR1ZVJBTVZZaEh6SDRsZzNMbEF5RlgyQUxTZ3k4U0hDa3Fn?oc=5
+  - Investing.com UK: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2F5aXc5UjFLdE5FMV9RSWtyYTYxRDdqWWIxb3FpZ0pGRTBFWS0xbTNSUWFFVnh0cWJLQ2h0TnROakkyTlNRN2ZZaHViX242WjFJMHVnRlhSOVdjVy1UblhPOHQzUVU4eTgwbFZCX0RCOFREM0JVclp6dWxhMVZsRGpvTGxRN01UUWl6QUY2dFkyckI0S1prWHd6Sk5fc3Y2QVZhVExtRGc?oc=5
 
 **Feed description:** Form 4 Labcorp Holdings Inc: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com Investing.com India
 

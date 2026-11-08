@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-11-08T19:23:38.486252+05:30",
-  "generated_at_display": "08 Nov 2026, 7:23 PM IST",
-  "item_count": 537,
-  "raw_relevant_item_count": 656,
-  "duplicates_merged": 74,
+  "generated_at": "2026-11-09T04:00:17.681491+05:30",
+  "generated_at_display": "09 Nov 2026, 4:00 AM IST",
+  "item_count": 534,
+  "raw_relevant_item_count": 653,
+  "duplicates_merged": 70,
   "failures": [],
   "items": [
+    {
+      "id": "900e8116e37e8279b770",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics pays $13M to settle allegations tied to Giants ticket perks",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEhLR0xTMVl2c1ZxRnZRc1E4VmZMa3V5ZkFHbThSd3liaGo1NklDdWl0WFotNjRqcmJZWTJVcVZ4bVZiTjY0RlJib3V6VmdoX0dwSkxpc0x0MkNqUU5wS016cjYtVFJkYTJiMGhPTmJBTWNaN0NNdGlkbE9NdUVvWmZoaHJHLVZSTU5RdHRMUnZxN3hWZ25ueUpiX09vMm1iMHZ4VTNVZVM?oc=5",
+      "description": "Quest Diagnostics pays $13M to settle allegations tied to Giants ticket perks News12 | New Jersey",
+      "source": "News12 | New Jersey",
+      "source_url": "https://newjersey.news12.com",
+      "source_domain": "newjersey.news12.com",
+      "published_at": "2026-11-08T18:06:09+00:00",
+      "published_display": "08 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "News12 | New Jersey",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEhLR0xTMVl2c1ZxRnZRc1E4VmZMa3V5ZkFHbThSd3liaGo1NklDdWl0WFotNjRqcmJZWTJVcVZ4bVZiTjY0RlJib3V6VmdoX0dwSkxpc0x0MkNqUU5wS016cjYtVFJkYTJiMGhPTmJBTWNaN0NNdGlkbE9NdUVvWmZoaHJHLVZSTU5RdHRMUnZxN3hWZ25ueUpiX09vMm1iMHZ4VTNVZVM?oc=5",
+          "domain": "newjersey.news12.com",
+          "published_at": "2026-11-08T18:06:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13m allegations giants pays perks settle ticket tied"
+    },
+    {
+      "id": "b5af97e6d32ae333e5fd",
+      "company": "Quest Diagnostics",
+      "title": "Form 144 QUEST DIAGNOSTICS For: 8 November By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzBSd2FKNlU2QnJGbEhjV2NrRlc0ZVh3eVVIMFdnUmt1WmFoZnRkNTk3RWVkVnBrbmt6azdCbU1fcURnNGlGaWpzT0FqSVdfVl9BVGxVbE90Tkp2OHc1VVAwb3ZkNHpMOTZtUU53REN4dEk3ZTZGZFlUSTZQMFZYdDZPc1RMUk5FVE5tbXBsaGdnWjBBbGcwMnF5WFBlS0JMbmtpd3RiLXBVQQ?oc=5",
+      "description": "Form 144 QUEST DIAGNOSTICS INC For: 8 November By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-08T16:49:09+00:00",
+      "published_display": "08 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzBSd2FKNlU2QnJGbEhjV2NrRlc0ZVh3eVVIMFdnUmt1WmFoZnRkNTk3RWVkVnBrbmt6azdCbU1fcURnNGlGaWpzT0FqSVdfVl9BVGxVbE90Tkp2OHc1VVAwb3ZkNHpMOTZtUU53REN4dEk3ZTZGZFlUSTZQMFZYdDZPc1RMUk5FVE5tbXBsaGdnWjBBbGcwMnF5WFBlS0JMbmtpd3RiLXBVQQ?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-08T16:49:09+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "144 com form investing november"
+    },
     {
       "id": "943ac48e0f0885d65353",
       "company": "Quest Diagnostics",
@@ -121,9 +169,15 @@
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VMc0dVTndQX3g1UUtJZnBqdzNYNWtveFh0UUxxSXN0VTlEZlRfNVhBamJaUUdkMU9xbkF1VUtjWW9rN2JJSnNQajdyWWlTRFJ5ZTg1ei1sTlQ4LUktc040ZUtnbDlySUFtZjdhOGg5bzVvaE5zZTVOaDVMNG1XejFmYUV5SldsMy1heVBhTTZKUWg4TzBjSlF4RzlhVWNCN2dPR2xGT09UVmlFYmo2MDVWWTc?oc=5",
           "domain": "rlsmedia.com",
           "published_at": "2026-11-07T17:12:45+00:00"
+        },
+        {
+          "name": "RLS Media",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85WkNjVThXa3R3OWtwcEFjSUZrY1VIY3JnUzJQTHFTMWpFYzNjVXl3WnhwRHNIbzRNaUxpR3VmZnhKSlZsZk1DZjY4QQ?oc=5",
+          "domain": "rlsmedia.com",
+          "published_at": "2026-11-07T17:12:45+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "13m allegations based games giants illegal pays perks settle"
     },
     {
@@ -655,9 +709,15 @@
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHN0d2FQWUk5V2I0dXJkekN5cUZQLXBTOVdSR1JBWVlyd0NpY3JkQnNEaGpHY0Jpa3hrbzd4MllORXRhXzFYVFlfLVRyVXdBUnM3REkzaDVRNzV4c0FvTnE1dHhCZE1jWDBYaFRxdDVEUVNrT2Q4bHB0S2xSNjUyS0FxRDhLSEx5UlMtVTByRjZiOXl4b1VSNE9NWlI0ODlucXRMQU53MjFfcE1tc0VSLTR5X2J3dWpnV0pwcGZ6WVR1ZVJBTVZZaEh6SDRsZzNMbEF5RlgyQUxTZ3k4U0hDa3Fn?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-11-05T14:06:58+00:00"
+        },
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2F5aXc5UjFLdE5FMV9RSWtyYTYxRDdqWWIxb3FpZ0pGRTBFWS0xbTNSUWFFVnh0cWJLQ2h0TnROakkyTlNRN2ZZaHViX242WjFJMHVnRlhSOVdjVy1UblhPOHQzUVU4eTgwbFZCX0RCOFREM0JVclp6dWxhMVZsRGpvTGxRN01UUWl6QUY2dFkyckI0S1prWHd6Sk5fc3Y2QVZhVExtRGc?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-11-08T16:02:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "bryan com evp form investing november president vaughn"
     },
     {
@@ -16194,138 +16254,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "drug process testing"
-    },
-    {
-      "id": "3f24010abd430909eef1",
-      "company": "Labcorp",
-      "title": "Labcorp Locations For Drug Testing",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcmFXaHR5NTBKeHdrYlRrTl9YWTE1UFpDcTJoQm1iZmtITXJMd2xnSEhMbEpBVjlYcExvbTlnRWFwQnBsWmx6ZXN4cjliOTRSeUYxaHhWd0RpVGUxQ0VJWnY5RXN0Z2tYX2V2M05CSQ?oc=5",
-      "description": "Labcorp Locations For Drug Testing Toimihenkilöliitto Erto",
-      "source": "Toimihenkilöliitto Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T20:35:31+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rcmFXaHR5NTBKeHdrYlRrTl9YWTE1UFpDcTJoQm1iZmtITXJMd2xnSEhMbEpBVjlYcExvbTlnRWFwQnBsWmx6ZXN4cjliOTRSeUYxaHhWd0RpVGUxQ0VJWnY5RXN0Z2tYX2V2M05CSQ?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T20:35:31+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "drug locations testing"
-    },
-    {
-      "id": "36f7803cb44ad23a08f0",
-      "company": "Quest Diagnostics",
-      "title": "Make An Appointment With Quest Diagnostics Onlinecontribution",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2doM0N6bEpqMjRyLVJPaEcyMW9uQnlHN1NadTRFN2c0Vi1ET1dSUzdhV1dXZkVEVG1IYng3UTN1UkRXZFcxbVRHRVI2V3BCWUs1R051ZWg3bHpPdlZGVUJNTTl1TFdjYmlPUmJtZ2RHQVIzTVJkbGoxSTBqSU52WmVXQmY3T2luTXd0VWU0NU9Bckk?oc=5",
-      "description": "Make An Appointment With Quest Diagnostics Onlinelibrary Detail Toimihenkilöliitto Erto",
-      "source": "Oma Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T20:09:30+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Oma Erto",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2doM0N6bEpqMjRyLVJPaEcyMW9uQnlHN1NadTRFN2c0Vi1ET1dSUzdhV1dXZkVEVG1IYng3UTN1UkRXZFcxbVRHRVI2V3BCWUs1R051ZWg3bHpPdlZGVUJNTTl1TFdjYmlPUmJtZ2RHQVIzTVJkbGoxSTBqSU52WmVXQmY3T2luTXd0VWU0NU9Bckk?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T20:09:30+00:00"
-        },
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa3k2NHg2dUpOU21hcDJaU0ljQU1GSWNVYmR1MkVETl9xQUp0RHZlZzBjOFNiMk93a3NsOXZLdUhXbS1HT0I5NWMwUEpzU0YwT1lPbU1YU3E0Q2NSVFl3UzJ3eU5ZLWxIU0l3SHg5TmlPNFJ1RThfM3Y5T0g2QW9hck9UZjNTa0g0N3ozd2trRG52RFl0TUE?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T21:33:43+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "appointment make onlinecontribution"
-    },
-    {
-      "id": "0bdc4a693d0cba7b7129",
-      "company": "Labcorp",
-      "title": "Labcorp Colorado Springs Appointment",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
-      "description": "Labcorp Colorado Springs Appointment Toimihenkilöliitto Erto",
-      "source": "Toimihenkilöliitto Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T18:58:23+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EUHFHQWJUb3Bvb3BBNmpOZ2VPeUgwOFc4ODVUX0lOWUZsUlNueWNUOEVORGhPUDg0VG1EQWpSZFFkTFBMUE9kRFBjRFVQU1J0UHljV25WSi1hTk9IcFhGUnNTOFBwNTRSc1JPRGFQQkZxZw?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T18:58:23+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "appointment colorado springs"
-    },
-    {
-      "id": "1d963d9c6a75d6395034",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Long Beach Appointmentpodcast Personal",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLW1LUjVER0xLc1hQS1ZPXzZKNGtoSS1TVHVkM3JsbzE5T09mV1BPeFFNOTUzWTh1c0NPNVNUWnNrZW5sdXVrM2xyYnUzN2xtTnN2dGNvLVd0cWwydzkyUFkyMGlEdGUtOHZ6d25kbFpuTS1RWENzdHRtSkpiUm9wQkNxZXVIN2Fxenh1NA?oc=5",
-      "description": "Quest Diagnostics Long Beach Appointmentpodcast Personal Oma Erto",
-      "source": "Oma Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T15:54:05+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Oma Erto",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLW1LUjVER0xLc1hQS1ZPXzZKNGtoSS1TVHVkM3JsbzE5T09mV1BPeFFNOTUzWTh1c0NPNVNUWnNrZW5sdXVrM2xyYnUzN2xtTnN2dGNvLVd0cWwydzkyUFkyMGlEdGUtOHZ6d25kbFpuTS1RWENzdHRtSkpiUm9wQkNxZXVIN2Fxenh1NA?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T15:54:05+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "appointmentpodcast beach long personal"
-    },
-    {
-      "id": "9a458e83129ae19f68d1",
-      "company": "Labcorp",
-      "title": "Health At Your Fingertips Labcorp Riverside Cas Convenient Services",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelV6VnNoSGhNVXVKeWt4R0F1bmRPOUJkeXNwR0xxS1dxU3QzN1I4T2lNMGdTYTFUVV9KUWNLRVFlS2w2aURHVmRWQ2RmUEplYmc3MnVVRUMySVlUeXFVZlF0U3VDa3NCOEIxOGFwNlFJNnFISDlJOUwwZ2Y4OFRmd1QtNlR2UXdiU1h1eGNhTGFtdEZ2dFVNUS1DTQ?oc=5",
-      "description": "Health At Your Fingertips Labcorp Riverside Cas Convenient Services Toimihenkilöliitto Erto",
-      "source": "Toimihenkilöliitto Erto",
-      "source_url": "https://ftp.erto.fi",
-      "source_domain": "ftp.erto.fi",
-      "published_at": "2026-08-10T15:09:44+00:00",
-      "published_display": "10 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Toimihenkilöliitto Erto",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelV6VnNoSGhNVXVKeWt4R0F1bmRPOUJkeXNwR0xxS1dxU3QzN1I4T2lNMGdTYTFUVV9KUWNLRVFlS2w2aURHVmRWQ2RmUEplYmc3MnVVRUMySVlUeXFVZlF0U3VDa3NCOEIxOGFwNlFJNnFISDlJOUwwZ2Y4OFRmd1QtNlR2UXdiU1h1eGNhTGFtdEZ2dFVNUS1DTQ?oc=5",
-          "domain": "ftp.erto.fi",
-          "published_at": "2026-08-10T15:09:44+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "cas convenient fingertips health riverside services your"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 49,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-09T00:17:00+05:30",
-  "next_update_display": "09 Nov 2026, 12:17 AM IST",
+  "next_update_at": "2026-11-09T06:17:00+05:30",
+  "next_update_display": "09 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

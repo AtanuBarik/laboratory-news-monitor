@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 08 Nov 2026, 7:23 PM IST
+- **Repository generated:** 09 Nov 2026, 4:00 AM IST
 - **Distinct events in this file:** 34
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
