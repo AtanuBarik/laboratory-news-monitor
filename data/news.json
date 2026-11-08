@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-08T03:48:50.762531+05:30",
-  "generated_at_display": "08 Nov 2026, 3:48 AM IST",
-  "item_count": 545,
-  "raw_relevant_item_count": 663,
+  "generated_at": "2026-11-08T12:13:29.484861+05:30",
+  "generated_at_display": "08 Nov 2026, 12:13 PM IST",
+  "item_count": 546,
+  "raw_relevant_item_count": 665,
   "duplicates_merged": 74,
   "failures": [],
   "items": [
+    {
+      "id": "7f6a03b0f571da1f31f0",
+      "company": "Labcorp",
+      "title": "Regulatory Hurdles Put Myriad Genetics’ $210 Million Prenatal Health Sale to LabCorp at Risk",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQXzRmemNudF8ybzNDV0pacUszOWhRNmp6OTU4U3hTM2x3bnlRVXo2TzU2S2FTZDhfNE04WWUyTm9zSXFtRFRsd0V2amtWNEdMZHI5VWU2ejVSb3VGSXlmcHJwTlN6NFV1WFFzM2xncHlSa2c4Tkw0R3RsVlQyLWJ5U0UxODdoZ2ctU1I0X0RTaWYzOGR4OTBCVzVlZEFsQ1N6emQ3aWdMc0lnU3VPM3lPMlJ5Q1hPWFlkV3RONlZpa2RSLV9nMmlLcmdZM2g5Q05PcGRYcW1JcENSQQ?oc=5",
+      "description": "Regulatory Hurdles Put Myriad Genetics’ $210 Million Prenatal Health Sale to LabCorp at Risk TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-11-08T06:07:05+00:00",
+      "published_display": "08 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQXzRmemNudF8ybzNDV0pacUszOWhRNmp6OTU4U3hTM2x3bnlRVXo2TzU2S2FTZDhfNE04WWUyTm9zSXFtRFRsd0V2amtWNEdMZHI5VWU2ejVSb3VGSXlmcHJwTlN6NFV1WFFzM2xncHlSa2c4Tkw0R3RsVlQyLWJ5U0UxODdoZ2ctU1I0X0RTaWYzOGR4OTBCVzVlZEFsQ1N6emQ3aWdMc0lnU3VPM3lPMlJ5Q1hPWFlkV3RONlZpa2RSLV9nMmlLcmdZM2g5Q05PcGRYcW1JcENSQQ?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-11-08T06:07:05+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "210 genetics health hurdles million myriad prenatal put regulatory risk sale"
+    },
     {
       "id": "8e38f21fa9f34f3f597d",
       "company": "Quest Diagnostics",
@@ -1045,30 +1069,6 @@
       "event_signature": "breach data exposes patient"
     },
     {
-      "id": "b43c80d91b5b83ede281",
-      "company": "Labcorp",
-      "title": "Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5",
-      "description": "Labcorp Holdings (LH) Expands HPV Testing While Teaming With Regulators On Drug Safety Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-10-29T20:09:28+00:00",
-      "published_display": "29 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-29T20:09:28+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "drug expands hpv regulators safety teaming testing while"
-    },
-    {
       "id": "8362db92e01d3dc1fc4e",
       "company": "Labcorp",
       "title": "Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms",
@@ -1163,6 +1163,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "acquisitions amid deep dive drive growth reimbursement specialty testing uncertainty"
+    },
+    {
+      "id": "b43c80d91b5b83ede281",
+      "company": "Labcorp",
+      "title": "Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5",
+      "description": "Labcorp Holdings (LH) Expands HPV Testing While Teaming With Regulators On Drug Safety Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWnZsOXVDeDdnX1p6d3BieGZPTkVQN1AwS2xXRlU0WXVKTjVSSnY1akp3SEFrSG82b1hRTlBka0I3N1pyUEw4NHM0R1FSc19iajhUSElWTXJmUzEtZWdCRVRoSTBLdFVncXBXU2J6Q1F0My10aktRd2tQUjU0Zy0xUFJjRmUxRmlsQXVINzBxdGlyVFpRc2ow?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "drug expands hpv regulators safety teaming testing while"
     },
     {
       "id": "e0812e94d4a7e0b10611",
@@ -16635,10 +16659,10 @@
       "event_signature": "advanced approves companion diagnostic fda melanoma"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 45,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-08T06:17:00+05:30",
-  "next_update_display": "08 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-08T12:17:00+05:30",
+  "next_update_display": "08 Nov 2026, 12:17 PM IST",
   "display_timezone": "IST"
 }
