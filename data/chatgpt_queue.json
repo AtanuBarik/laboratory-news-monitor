@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T14:08:19.997692+05:30",
-  "generated_at_display": "09 Nov 2026, 2:08 PM IST",
+  "generated_at": "2026-11-10T04:13:20.676242+05:30",
+  "generated_at_display": "10 Nov 2026, 4:13 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 490,
+  "remaining_unsummarized_count": 497,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,25 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d9ec8192fd7038b4dcd",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp completes $375M Millennium Health takeover",
+      "source": "Yahoo Finance",
+      "description": "Labcorp completes $375M Millennium Health takeover Yahoo Finance",
+      "published_at": "2026-11-09T18:00:00+00:00",
+      "published_display": "09 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5"
         }
       ]
     },
@@ -616,25 +635,6 @@
         {
           "name": "ad-hoc-news.de",
           "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7a70c830d22d6981dbf",
-      "company": "Quest Diagnostics",
-      "category": "Partnership, M&A",
-      "title": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd",
-      "source": "TradingView",
-      "description": "RENX: Quest Diagnostics partnership enables national reach and margin gains for kidneyintelX.dkd TradingView",
-      "published_at": "2026-09-29T07:00:00+00:00",
-      "published_display": "29 Sep 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5",
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVkJldlY1YWNLSnhLV0RHNUpFYnJBZVhkN0JMajVZenh5OElZcVVNbmhmRnVnV00yemJ6NFRPMmZhOUtHaGpNOVllbmhpdGJsUTVTWUY4WGM2cTZ2bU1xejNpblVQSkJUVloydk1KVXF5YlNXYnV2OVR5WkhFS0xhZmF6SkVHdG9YVXptWU5ESkE5LXVMZVU4ZFZqR3I2ODRsampfbFN0Wk1aRkVBR0NVNTkwWmxCYndzc0phdGlGZzJKYm5Cc0drVXd0WjNMRVNLNHVfUTlQZDZNUF9VTDlBZnQzbEZPdGdFdF9HZ3dSMjdGTHllMkFWVlhKTVJsVDJtSWN4Z1RVSl9HUQ?oc=5"
         }
       ]
     }

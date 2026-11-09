@@ -1,11 +1,143 @@
 {
-  "generated_at": "2026-11-09T12:44:01.536943+05:30",
-  "generated_at_display": "09 Nov 2026, 12:44 PM IST",
-  "item_count": 530,
-  "raw_relevant_item_count": 647,
-  "duplicates_merged": 70,
+  "generated_at": "2026-11-10T04:13:16.952993+05:30",
+  "generated_at_display": "10 Nov 2026, 4:13 AM IST",
+  "item_count": 537,
+  "raw_relevant_item_count": 667,
+  "duplicates_merged": 82,
   "failures": [],
   "items": [
+    {
+      "id": "cefb57395665f2c5b932",
+      "company": "Quest Diagnostics",
+      "title": "Stryker nominates Quest Diagnostics CEO to board By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2dXNmxuaGQ3SDdxQ1FqZDFrOVhSZkRZcmhURGFOOXBVRnlJNy1fUFFVUHdSb0ZuQ3NvN2JwR05lbW9naHpEWTlQU0xyQTNORU1Ob1dMcUx2bWN2dHdWTGpJNDhnNi1MajcxUzdwbmlucHNFQWd3OGdVeVFqSks4RlV4RFpOSmpPSWhzZW4tLTVZS1lVN3N1aEgwdjA0bzRtMDlvOG1nVEhYbzZIaVE?oc=5",
+      "description": "Stryker nominates Quest Diagnostics CEO to board By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-11-09T21:29:20+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2dXNmxuaGQ3SDdxQ1FqZDFrOVhSZkRZcmhURGFOOXBVRnlJNy1fUFFVUHdSb0ZuQ3NvN2JwR05lbW9naHpEWTlQU0xyQTNORU1Ob1dMcUx2bWN2dHdWTGpJNDhnNi1MajcxUzdwbmlucHNFQWd3OGdVeVFqSks4RlV4RFpOSmpPSWhzZW4tLTVZS1lVN3N1aEgwdjA0bzRtMDlvOG1nVEhYbzZIaVE?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-09T21:29:20+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTkwa2Fzcm1XSlVHU0x4cjloN1hJcG1jMERkb0Z1cDZnbFpjOWFnaDg1OWxBOWEyeDRseVByN2tNYTRycU04dzZFY05Qb3dVQUpGNGdGZFpWcGVNYS1BUFk3U2RPOHBlOE1sSmU5ZjkzZ2RORUVwQXJiOS1fd0x0VUVJdmdjZ2huUk5pai1HNm53Tko5NThNLVpNbk9qVVdNQWotMU8tNXM?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-09T22:18:06+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "board ceo com investing nominates stryker"
+    },
+    {
+      "id": "0d9ec8192fd7038b4dcd",
+      "company": "Labcorp",
+      "title": "Labcorp completes $375M Millennium Health takeover",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5",
+      "description": "Labcorp completes $375M Millennium Health takeover Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-09T18:00:00+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-09T18:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "375m completes health millennium takeover"
+    },
+    {
+      "id": "37089756ddfe7878a492",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics CFO to speak at Evercore Heal...",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0l1Z01uaUJmWGJ1WmwzQ0czRUxjQ2ROUERESzMxNy1aX0xMNkNRMjhrY3NPcGtrY3hSYV9MWnhOVHIzRVIzVllvRm9jWERwNTFxSXlieXZGcFU1c1Q4alFBcDc1cEY4eXFNc21vM0htQnlLd0RwWXdoS2RzcDM1dEdxV0xLUkFnWFpKZTBVNW5XSlpxN3JHZFg5aXpjR2s?oc=5",
+      "description": "Quest Diagnostics CFO to speak at Evercore Heal... Pluang",
+      "source": "Pluang",
+      "source_url": "https://pluang.com",
+      "source_domain": "pluang.com",
+      "published_at": "2026-11-09T17:54:05+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb0l1Z01uaUJmWGJ1WmwzQ0czRUxjQ2ROUERESzMxNy1aX0xMNkNRMjhrY3NPcGtrY3hSYV9MWnhOVHIzRVIzVllvRm9jWERwNTFxSXlieXZGcFU1c1Q4alFBcDc1cEY4eXFNc21vM0htQnlLd0RwWXdoS2RzcDM1dEdxV0xLUkFnWFpKZTBVNW5XSlpxN3JHZFg5aXpjR2s?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-11-09T17:54:05+00:00"
+        },
+        {
+          "name": "Pluang",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPekhDaUVyVVEwRmE1OUVUb054TF9TSEFPaks1OVJSLWhWYkVJcXFuVDZoZDFMOEhOM1JfOXJmQ3dvcmVON1dXSU1JdGdNNnhmWnJINm1KQ21WSHFnS1lzaXVQOFFRakNSTFpWQkg4OFNxdE1JR2NvbUg4Z1RDVndCd3V2R0RnRjNuLVl6MG43VDQ5VG9BbVZteExYZy1oUHVq?oc=5",
+          "domain": "pluang.com",
+          "published_at": "2026-11-09T18:00:13+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "cfo evercore heal speak"
+    },
+    {
+      "id": "658e984d84e4a4b9c41f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Speak at the 9th Annual Evercore Healthcare Conference",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlzQlFjbUZRZ2NjSjlBMGR2dnVwdG5GeDVQZWpuaEYwU2F3OS1IWm5ZcVhSNGg3bElMT05OeUhhMlpLdkVSQTZIVDFJQ0dPX2JrUnVTVWRTMWlodU12dm1pU3UzVm41MlZVNkF2aE5LQkhoai10NVlpdGF4OHl3VmZTREVaRnV5QkNBSFFJSHlUTVVjV3ZqMHpzRThzeVJLU1JnZ29BcFJFT1luQTl2eTRfeDBGczlfS2llcEcxdjIyTlhIR0hjT0Qwaw?oc=5",
+      "description": "Quest Diagnostics to Speak at the 9th Annual Evercore Healthcare Conference PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-11-09T17:40:00+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlzQlFjbUZRZ2NjSjlBMGR2dnVwdG5GeDVQZWpuaEYwU2F3OS1IWm5ZcVhSNGg3bElMT05OeUhhMlpLdkVSQTZIVDFJQ0dPX2JrUnVTVWRTMWlodU12dm1pU3UzVm41MlZVNkF2aE5LQkhoai10NVlpdGF4OHl3VmZTREVaRnV5QkNBSFFJSHlUTVVjV3ZqMHpzRThzeVJLU1JnZ29BcFJFT1luQTl2eTRfeDBGczlfS2llcEcxdjIyTlhIR0hjT0Qwaw?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-11-09T17:40:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "9th annual conference evercore speak"
+    },
+    {
+      "id": "8b2c93331fce1836fe1e",
+      "company": "Quest Diagnostics",
+      "title": "Artificial Intelligence at Quest Diagnostics – Two Use Cases",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Ficzl5YlJDVl8tX3ZzdE83eHF0SXBxMVZvTFd2OU1vTFlXcnN5VVIyRnB4QWlxVGhYT0xzZlJhZTFOZkMyQThYbjk2OWFodkZRQUlMR0ZsMTJzNF9pbWM3c0RJYk1uUUpVUDhxaFljTnZQcHE1ZWlMWnMwazZiSTVUSQ?oc=5",
+      "description": "Artificial Intelligence at Quest Diagnostics – Two Use Cases Emerj Artificial Intelligence Research",
+      "source": "Emerj Artificial Intelligence Research",
+      "source_url": "https://emerj.com",
+      "source_domain": "emerj.com",
+      "published_at": "2026-11-09T11:01:27+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Emerj Artificial Intelligence Research",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY3Ficzl5YlJDVl8tX3ZzdE83eHF0SXBxMVZvTFd2OU1vTFlXcnN5VVIyRnB4QWlxVGhYT0xzZlJhZTFOZkMyQThYbjk2OWFodkZRQUlMR0ZsMTJzNF9pbWM3c0RJYk1uUUpVUDhxaFljTnZQcHE1ZWlMWnMwazZiSTVUSQ?oc=5",
+          "domain": "emerj.com",
+          "published_at": "2026-11-09T11:01:27+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "artificial cases intelligence two use"
+    },
     {
       "id": "9fe1c8e10ddaf89a4263",
       "company": "Quest Diagnostics",
@@ -245,7 +377,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics pays $13 million to settle kickback claims tied to Giants events",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUkhXb09nNzdwZFl3TGg2ckdGdlZFQlNub2hZOTBONC1GZElGOU4tS2JOS20wd203dUxZLXR0dzkyMUpfYTAxQXdtNUh1MkY0RUUwNXh1eWRycDZTYXk1bHBoTDlQeWZBVUd3YjB0dlRRSjZrcUF4X0VaWWVCZ1AxblY0RHM0UHRNSUNZRm84dDZFZy0tWkJEbG90V2VSSmYyQjhkTnVjb1dNS2ZSYUtJdHNDZ2U?oc=5",
-      "description": "Quest Diagnostics pays $13M to settle kickback allegations involving NY Giants tickets Gothamist",
+      "description": "Quest Diagnostics Pays $13 Million to Settle Kickback Allegations Involving New York Giants Tickets SSBCrack",
       "source": "njtoday.news",
       "source_url": "https://njtoday.news",
       "source_domain": "njtoday.news",
@@ -265,9 +397,15 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmVoUVlseVVIcTZ6ZzZ1VWJLNnFNUDRKM3planlsQ21pWHpBY1dVX0JQR2w3U291dzh1LXhzc24yZEVTQzNYdFdKMkFlSjNvQ2I4ZkhWcy1EMGU3bXR0WUo4b2Q4Sjk5WWZzcm5GQ25mQlBGOXNTWDRTV3VBekpXTE9MaDZuNDZTN0YwaXBoWVRyMVJNa2xIZEx3ck5QSU4tODlBLXQyb1NNaDJyNjZBU3pn?oc=5",
           "domain": "gothamist.com",
           "published_at": "2026-11-07T15:21:00+00:00"
+        },
+        {
+          "name": "SSBCrack",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTQtRHE5WlgwcnZaNVRIUUZiQzBTYmNIS2VGNnkwM1RZWUN6bk5iNkxaT2xEVUZteXRRbXJXbktwVENncVhLLS1udS1oSjFvTEkyM0RLRFpyUklMbHBUUklYYmxTeF84WkVKRHNvNGxZTXRaYVJSb1B4VXp3YlJ2TlVkQy1HZF9iQmo2UDFlNmxsWURDX0ZsRHl6ZzBkNlhYUmFtNjBpdWxKOURXNXZJbjlXTXN0SmlObXdqRDJDRTJxUTA?oc=5",
+          "domain": "news.ssbcrack.com",
+          "published_at": "2026-11-09T14:49:16+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "claims events giants kickback million pays settle tied"
     },
     {
@@ -361,9 +499,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
           "domain": "hudsoncountyview.com",
           "published_at": "2026-11-06T18:52:33+00:00"
+        },
+        {
+          "name": "NJBIZ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tVVhLQ0RldkhuVzkzZTBBNzlIYk1lNWg4d2ZJNDJyVDZrMFgxVnJrdUJncEVJYUdORmhyOXI3eV9McVZRdWJwZXZOZVlJU3R0eVkwTl9oektaOTlKQ2otTDFHcDVVVXc?oc=5",
+          "domain": "njbiz.com",
+          "published_at": "2026-11-09T13:29:20+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "13m allegations illegal kickback pays secaucus settle"
     },
     {
@@ -415,6 +559,30 @@
       "event_signature": "442 482 according filing insider recent sec shares sold worth"
     },
     {
+      "id": "363da18f96eb86c17a09",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Share Price, Forecast & Analysis",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sdlRZZGU1cmROcGJlZHQzV09fMzJyQTJILVdWcFk2Vk9uU1Vjd2h0NG1LSXZWSEJDSEJsQi1rLWJFT2l2NC0wLUhNbld4WVRpNkRpLUZseF91aEdrU29UZTJLTTZYZ1ZaZTFQWnd3?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL) Share Price, Forecast & Analysis Stocks Down Under",
+      "source": "Stocks Down Under",
+      "source_url": "https://stocksdownunder.com",
+      "source_domain": "stocksdownunder.com",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Stocks Down Under",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sdlRZZGU1cmROcGJlZHQzV09fMzJyQTJILVdWcFk2Vk9uU1Vjd2h0NG1LSXZWSEJDSEJsQi1rLWJFT2l2NC0wLUhNbld4WVRpNkRpLUZseF91aEdrU29UZTJLTTZYZ1ZaZTFQWnd3?oc=5",
+          "domain": "stocksdownunder.com",
+          "published_at": "2026-11-06T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analysis forecast price share"
+    },
+    {
       "id": "905f25e809c0642e0b73",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com",
@@ -457,9 +625,15 @@
           "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORjV3blllNUJTSnhRVGRDOVFEdGhJd05ScXM5cm1kNTF3UGlEcEQtckVOU2dQcFZjbENtNzd3bnBCREJNbHNHbGJ3ZzBiLVN0VExoNFVaRnZxd3pzX0QzOEY1OGpLbnJTaW9sSkp1NUFVYjhRb2NiTDIwOUU5cHhpcUM5SGdSR0tuZ3ZZaFptWEpEYUxtem1saTdONlN2RkRVSkVXQ0ZsZ1p3dE1IbXBwZWdhUTU2Ny1ZUnhUSjd4clAxNUxKS0lXTndaandhSS1RQUJMZzZ0OTBIc3p0SEx2bTAtTnpvaE52YTl3?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-11-06T00:38:27+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeEZUS1VJQXNJZTNSbGh5ZUt1eEdieHZycXFMSjJNN3NmeDdRSkg2SzVSajJ2T05oVnpzUTNnUFI0OG1CY1pMdlpETmoxOS1Xam5DTzNTOUtEQWZ1VWhLRFAyZy0temJPVEZWWHNqVEthOFRrLWRFQWl2WHBUMTJUamNpZjRpbVhGNGZfYmVGVGQ4NFg1NjRMcWVpXzNyYnhPZ1o0N3Ria0lMeEJ2WlFHVzRDV0pQZXJwOXNvWVJhSlZoOERrOXowTS1TeDlsM0hmRUgxbG05WWJ4SlFxd050WDlEeWdYeUdYc2s4?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-06T00:52:14+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "catherine com doherty executive form investing november orporated president vice"
     },
     {
@@ -647,6 +821,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "finance headlines stock yahoo"
+    },
+    {
+      "id": "45874233e9dcbdcf51aa",
+      "company": "Labcorp",
+      "title": "OPKO Health (OPK) (Q3 2026) Earnings Call Highlights: Revenue Climbs 16% as LabCorp Deal ...",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVczWW02X25RbUZvVkpwelZjaHp4QmRtZk1LLVBXZkdhR2lmdE9oa3dZMmd0R244OGdTN0lPcHhkS0w2MjlLZVROWkV0ZmZpWWRUWGZzT2l6UU5aQlk2clhwZnBLb2hQUkNseGtzSGRCRzV6VkE3LTN3TUVaMm0tOEhtdGg2ZVJzWUJN?oc=5",
+      "description": "OPKO Health Inc (OPK) (Q3 2026) Earnings Call Highlights: Revenue Climbs 16% as LabCorp Deal ... Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-05T05:20:00+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYVczWW02X25RbUZvVkpwelZjaHp4QmRtZk1LLVBXZkdhR2lmdE9oa3dZMmd0R244OGdTN0lPcHhkS0w2MjlLZVROWkV0ZmZpWWRUWGZzT2l6UU5aQlk2clhwZnBLb2hQUkNseGtzSGRCRzV6VkE3LTN3TUVaMm0tOEhtdGg2ZVJzWUJN?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-05T05:20:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 call climbs deal earnings health highlights opk opko revenue"
     },
     {
       "id": "0cf499e2b0f47f6840d3",
@@ -16154,10 +16352,10 @@
       "event_signature": "chart live marketcap price stock today tokenized usd wdgxx wrapped xstock"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 48,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-09T18:17:00+05:30",
-  "next_update_display": "09 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-10T06:17:00+05:30",
+  "next_update_display": "10 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
