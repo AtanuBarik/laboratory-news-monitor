@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 10 Nov 2026, 4:13 AM IST
+- **Repository generated:** 10 Nov 2026, 1:16 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Labcorp
 - **Publication date:** 09 Nov 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5
+  - MedTech Dive: https://news.google.com/rss/articles/CBMilAFBVV95cUxNREl3cTg1ZnJ2OWszcTVUQ1N6RUNRNHpxX0RKd3ktZTMzUDlHdF9XUnNPczB5WldJZ2lWb0tQZ0tWemp5akVkdml3aGVsVUgzaHJONGZaUUNVM3IybFdkQmQweWVrQmNtU3hfajJvMVZBai1tRFFObE5nVm9uaTdGbnQ5dlZPSE04QU16b3ZNa1lnaW8y?oc=5
 
 **Feed description:** Labcorp completes $375M Millennium Health takeover Yahoo Finance
 

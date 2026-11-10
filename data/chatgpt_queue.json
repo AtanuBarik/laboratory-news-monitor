@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T04:37:28.346234+05:30",
-  "generated_at_display": "10 Nov 2026, 4:37 AM IST",
+  "generated_at": "2026-11-10T13:16:34.115613+05:30",
+  "generated_at_display": "10 Nov 2026, 1:16 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 497,
+  "remaining_unsummarized_count": 495,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -37,12 +37,16 @@
       "published_at": "2026-11-09T18:00:00+00:00",
       "published_display": "09 Nov 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5",
       "sources": [
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5"
+        },
+        {
+          "name": "MedTech Dive",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREl3cTg1ZnJ2OWszcTVUQ1N6RUNRNHpxX0RKd3ktZTMzUDlHdF9XUnNPczB5WldJZ2lWb0tQZ0tWemp5akVkdml3aGVsVUgzaHJONGZaUUNVM3IybFdkQmQweWVrQmNtU3hfajJvMVZBai1tRFFObE5nVm9uaTdGbnQ5dlZPSE04QU16b3ZNa1lnaW8y?oc=5"
         }
       ]
     },
