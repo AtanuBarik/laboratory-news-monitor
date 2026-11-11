@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 11 Nov 2026, 12:41 PM IST
+- **Repository generated:** 12 Nov 2026, 1:22 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -22,14 +22,15 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 10 Nov 2026
 - **Category:** Financials
-- **Coverage count:** 3
+- **Coverage count:** 4
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5
   - StreetInsider: https://news.google.com/rss/articles/CBMizgFBVV95cUxPODgxM05pZkNYUU1RcUZ3NElaNk51WXh1Z3pKRVN6QndpWXg0OGNhUDlZMzl0SlJJdWFkQ0JPZGxZazlIRUYyeGIybEZITWdzNWh4QWQ4c3djc1RhT3l2YVhLSVJCSnp2R2RvT1liLVRxSHM3VzdmZFM2ajVqQnp1ZGZUS0l6NnhsQjlmbGlzN25JcDJISy04dnlXQzRmM0dPTEwxQWVDaDFCLXJiZEhMYjhqZm5jeE1GVUU5ZVhoVzVkSkVjRTZaWm52b09wQQ?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkMxelR5MnAyMi1lQnVtSjFwMWtESi1kckZHSTFVYXh1OUJIMnROZzVmTEJ2a1hnZE15YlJpNkdwSlVPNGlRVXlvVzg0WFRBSVNNT19laVJZZVlzYmFzZ0dNQjlfT2VFNmFReElQQ2ZVaWpqY2pLbUx3VFNjdjF4a0VPLUJrYVR3azgybFNRZUdEOUp5N2FKS2pwWkFtZUtJTU4yUWx2dkJaLXRQN0c0?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFcyTzZGWnNjMTNTRXVzalFNRnR1OGRhWk1FWVltVnFCa2UxSlFzbDdqTWRYbHBxTWQxOEVYamZYWW9CblNnNS14Z19vaXozVGV1WlpudURObDlxdkJ2OEJpaTZYaTVTNzBlZTZ4SzVSMnFwQjJzdndiWk1GRk14WDNNdGhMVUI4TXI4N1JfMmVTbGx6enNWM0lvcXRwVTdEMWRjQ3Jwc1pURmRnWUU4?oc=5
 
-**Feed description:** Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com India
+**Feed description:** Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada
 
 ## 3. Form SCHEDULE 13G QUEST DIAGNOSTICS Filed by: STATE STREET
 
