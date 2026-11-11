@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T02:04:59.283678+05:30",
-  "generated_at_display": "11 Nov 2026, 2:04 AM IST",
+  "generated_at": "2026-11-11T12:41:44.219511+05:30",
+  "generated_at_display": "11 Nov 2026, 12:41 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 496,
+  "remaining_unsummarized_count": 501,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,25 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4faed1daf6115b34266",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp acquires Millennium Health for $375M",
+      "source": "Becker's Hospital Review",
+      "description": "Labcorp acquires Millennium Health for $375M Becker's Hospital Review",
+      "published_at": "2026-11-10T22:32:43+00:00",
+      "published_display": "10 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
+      "sources": [
+        {
+          "name": "Becker's Hospital Review",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5"
         }
       ]
     },
@@ -620,25 +639,6 @@
         {
           "name": "The Sun Malaysia",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFlLR2QwSTg3TnlYS0JpYnlXTjFwa2VKalRXaGYwcFI4MGJ5Zl9nNU9SV09IckRHNDFKLURNSmNjWmIyd0I3d292SUgzSEZLQlVKalFUZlhVT2FZYXpzSVVSMnpLSDlJSTB4WkZseHRjdmJBTnhnQmRnZldwa3Z1YnlJTGFzV1RHRnJUNk55NnVWbDZSb19WTnQ1TEQ4QmQ0cDVSeXJCMDIxUlFEclpqblktY3dPSjdzTGlSbDFaVTI5N0RuZGdKRlBrbm9lVFdsS0VIX2ZCb3JjRUJJZS05aERjZnRnZXVmZVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9a1370ffdef6e6e28518",
-      "company": "Quest Diagnostics",
-      "category": "Partnership, M&A",
-      "title": "Quest Diagnostics stock gains on Apple Health lab testing partnership",
-      "source": "ad-hoc-news.de",
-      "description": "Quest Diagnostics stock gains on Apple Health lab testing partnership ad-hoc-news.de",
-      "published_at": "2026-10-09T17:22:00+00:00",
-      "published_display": "09 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5",
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnU1dms5UUxJVWo4YUJ0NmhSTk5tMUhCMF9wYlpGMjVXbk9qSVZwXzJ1V1ZfbVpHd3JCX0lRdDViM1hPX2xqZVBkYmM3OHlLN0FKaFVHbk1aU0ZaeEsya08wSDJuNkFxMkZvczdhWDRXaWszQmFxNWVyeXk5T0pFVkZoREc0X2YtQkxZeThVQWlRQ3ZkZlh3RUNYY1dNQ19pRzYyNzFCZ0UxbXk5RzFRdHJvVGJtejlkemVuZTZscG9wOFRRN01HOGc3cEI?oc=5"
         }
       ]
     }

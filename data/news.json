@@ -1,11 +1,119 @@
 {
-  "generated_at": "2026-11-11T01:31:23.837599+05:30",
-  "generated_at_display": "11 Nov 2026, 1:31 AM IST",
-  "item_count": 533,
-  "raw_relevant_item_count": 670,
-  "duplicates_merged": 91,
+  "generated_at": "2026-11-11T12:41:39.984223+05:30",
+  "generated_at_display": "11 Nov 2026, 12:41 PM IST",
+  "item_count": 535,
+  "raw_relevant_item_count": 665,
+  "duplicates_merged": 82,
   "failures": [],
   "items": [
+    {
+      "id": "1b7541a30251ae99cdd8",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare: Can Testing Volumes Offset Wage Pressure?",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JlNjJYYTlNZE5ydFdQV21YbmpQeWF6RGFacS0wbktmZDg3NUY1SlBxemEwaGlVTEliYXhBMFJWTk1ESzNKeXVpS1Y5UFplT2hTbDFIR2s1NVRqNDR1ZXdVaEM2V05vNFp0QkJic2VEcktnMlVveE85b01rYmdJa09BQkhoWUxRaFgwdEk2QlpRZkJyd1JtQWRnemJNYS1FRUJ0T2p2Z1VnWE56a2JF?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL): Can Testing Volumes Offset Wage Pressure? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-11T06:41:00+00:00",
+      "published_display": "11 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JlNjJYYTlNZE5ydFdQV21YbmpQeWF6RGFacS0wbktmZDg3NUY1SlBxemEwaGlVTEliYXhBMFJWTk1ESzNKeXVpS1Y5UFplT2hTbDFIR2s1NVRqNDR1ZXdVaEM2V05vNFp0QkJic2VEcktnMlVveE85b01rYmdJa09BQkhoWUxRaFgwdEk2QlpRZkJyd1JtQWRnemJNYS1FRUJ0T2p2Z1VnWE56a2JF?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-11T06:41:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "can offset pressure testing volumes wage"
+    },
+    {
+      "id": "5001811341a333be0472",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Keeps Quarterly Dividend at $0.86 a Share, Payable Jan. 27, 2027 to Holders of Record Jan. 12, 2027",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHBJVngwWHhhRUZlY3lJMnRlMEpJRm1LZnFQNm5LSzBkNHFiOGVuVkZ2N0VuTEtvX3FpTXdLSXZsdmNEWWFWRGVBLTI2Tkg1Y1BNQTlHeTNQVnN3amRNNWVQWTFEWktTbWd3X0pFMmdmUnQyWG1ab25Nb01MRGc3WHdyTksxNFpUdVNtTDB2bUo2MjhoUExWanV5emcybEhwNTJINVhGaFZJNzJVaHh6dVJtRklqMnNWRmI5dy11Wl90STh1cFlZVnJZWjhUejBRSjVfbi10a2RzSFJsZUMxTWl0cw?oc=5",
+      "description": "Quest Diagnostics Keeps Quarterly Dividend at $0.86 a Share, Payable Jan. 27, 2027 to Holders of Record Jan. 12, 2027 marketscreener.com",
+      "source": "marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-11-10T22:54:11+00:00",
+      "published_display": "10 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOHBJVngwWHhhRUZlY3lJMnRlMEpJRm1LZnFQNm5LSzBkNHFiOGVuVkZ2N0VuTEtvX3FpTXdLSXZsdmNEWWFWRGVBLTI2Tkg1Y1BNQTlHeTNQVnN3amRNNWVQWTFEWktTbWd3X0pFMmdmUnQyWG1ab25Nb01MRGc3WHdyTksxNFpUdVNtTDB2bUo2MjhoUExWanV5emcybEhwNTJINVhGaFZJNzJVaHh6dVJtRklqMnNWRmI5dy11Wl90STh1cFlZVnJZWjhUejBRSjVfbi10a2RzSFJsZUMxTWl0cw?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-11-10T22:54:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2027 dividend holders jan keeps payable quarterly record share"
+    },
+    {
+      "id": "c4faed1daf6115b34266",
+      "company": "Labcorp",
+      "title": "Labcorp acquires Millennium Health for $375M",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
+      "description": "Labcorp acquires Millennium Health for $375M Becker's Hospital Review",
+      "source": "Becker's Hospital Review",
+      "source_url": "https://www.beckershospitalreview.com",
+      "source_domain": "beckershospitalreview.com",
+      "published_at": "2026-11-10T22:32:43+00:00",
+      "published_display": "10 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Becker's Hospital Review",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
+          "domain": "beckershospitalreview.com",
+          "published_at": "2026-11-10T22:32:43+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "375m acquires health millennium"
+    },
+    {
+      "id": "517aec86262eb37ecc26",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5",
+      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com India",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-11-10T21:06:00+00:00",
+      "published_display": "10 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-11-10T21:06:00+00:00"
+        },
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODgxM05pZkNYUU1RcUZ3NElaNk51WXh1Z3pKRVN6QndpWXg0OGNhUDlZMzl0SlJJdWFkQ0JPZGxZazlIRUYyeGIybEZITWdzNWh4QWQ4c3djc1RhT3l2YVhLSVJCSnp2R2RvT1liLVRxSHM3VzdmZFM2ajVqQnp1ZGZUS0l6NnhsQjlmbGlzN25JcDJISy04dnlXQzRmM0dPTEwxQWVDaDFCLXJiZEhMYjhqZm5jeE1GVUU5ZVhoVzVkSkVjRTZaWm52b09wQQ?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-11-10T21:12:54+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkMxelR5MnAyMi1lQnVtSjFwMWtESi1kckZHSTFVYXh1OUJIMnROZzVmTEJ2a1hnZE15YlJpNkdwSlVPNGlRVXlvVzg0WFRBSVNNT19laVJZZVlzYmFzZ0dNQjlfT2VFNmFReElQQ2ZVaWpqY2pLbUx3VFNjdjF4a0VPLUJrYVR3azgybFNRZUdEOUp5N2FKS2pwWkFtZUtJTU4yUWx2dkJaLXRQN0c0?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-10T21:25:35+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "cash declares dividend quarterly"
+    },
     {
       "id": "3d633495fbea88298309",
       "company": "Quest Diagnostics",
@@ -125,6 +233,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "cfo evercore heal speak"
+    },
+    {
+      "id": "0bbfc46c5321ccf6a115",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics CFO Sam Samad to Present at Evercore Healthcare Conference on December 1, 2026",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUVHWF90UFhhTXdnNG55dmh5T3p5bnlPdjFZblF6aEtSdUxqckVVSk9QUzZEektHSlZFTExwdElkNWt2NDFiTWY0REZJMGJJenZ3cV9FRV91a3RuRllDVmVRZUdpTXRIMWtIblRjNVVLUF9BdXNTcm5Ob0gxOUJUV3JzOWc4VlFyQVBMREVNY0lGYlRWMFpRSkJzU0tnYWx5RERFcUxKUlkzWExPNlZjbGp4dVpwSkk5STVJM3dGaGJXWllXTEpHd3NnS2dFdmVaVUhHTGNiczItQQ?oc=5",
+      "description": "Quest Diagnostics CFO Sam Samad to Present at Evercore Healthcare Conference on December 1, 2026 Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-09T17:43:24+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUVHWF90UFhhTXdnNG55dmh5T3p5bnlPdjFZblF6aEtSdUxqckVVSk9QUzZEektHSlZFTExwdElkNWt2NDFiTWY0REZJMGJJenZ3cV9FRV91a3RuRllDVmVRZUdpTXRIMWtIblRjNVVLUF9BdXNTcm5Ob0gxOUJUV3JzOWc4VlFyQVBMREVNY0lGYlRWMFpRSkJzU0tnYWx5RERFcUxKUlkzWExPNlZjbGp4dVpwSkk5STVJM3dGaGJXWllXTEpHd3NnS2dFdmVaVUhHTGNiczItQQ?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-09T17:43:24+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 cfo conference december evercore present sam samad"
     },
     {
       "id": "658e984d84e4a4b9c41f",
@@ -16086,129 +16218,12 @@
       "summary_evidence": [
         "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-asxshl-diagnostic-services-market-outlook"
       ]
-    },
-    {
-      "id": "50b37b71e433c3eefb71",
-      "company": "Quest Diagnostics",
-      "title": "Q2 2026 Quest Diagnostics Earnings Call Transcript",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ1pGNE5wd1ZPcWJlWHB1RGNjWVp2Vnp2WlZqWDZOeVpXM1dEc29BZnNiclMyNGduUlZ0djZtVDhUY3IwTUlMeUE0b0ZKaHBvRWZTb3l3dnBuMW1hclBZem82bTVFME5QdzRV?oc=5",
-      "description": "Quest Diagnostics' second-quarter 2026 earnings call described broad volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Total requisition volume rose 13.1%; management said the Corewell Health and Fresenius Medical Care collaborations together accounted for about 9% of total volume. Revenue per requisition declined 2.8% because of business mix, but management said it increased 2.9% excluding those mix effects. Tests per requisition have moved above 4.5 from a pre-COVID range of roughly 3.5-4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. Management also highlighted margin pressure from wages, fuel, Project NOVA and newer collaborations, partly offset by automation and the Invigorate program's approximately 3% annual cost-savings target. The new Michigan laboratory supporting Corewell is expected to be operational in early 2027, and Quest plans broader Flatiron Health OncoEMR access for oncology testing later in 2026.",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-08-13T02:35:52+00:00",
-      "published_display": "13 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aZ1pGNE5wd1ZPcWJlWHB1RGNjWVp2Vnp2WlZqWDZOeVpXM1dEc29BZnNiclMyNGduUlZ0djZtVDhUY3IwTUlMeUE0b0ZKaHBvRWZTb3l3dnBuMW1hclBZem82bTVFME5QdzRV?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-08-13T02:35:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 call earnings transcript",
-      "source_description": "Q2 2026 Quest Diagnostics Inc Earnings Call Transcript GuruFocus",
-      "chatgpt_summary": "Quest Diagnostics' second-quarter 2026 earnings call described broad volume-led growth across physician, hospital and consumer channels. Revenue reached $3.043 billion, up 10.2% year over year, with 10.0% organic growth, while adjusted diluted EPS increased 19.1% to $3.12. Total requisition volume rose 13.1%; management said the Corewell Health and Fresenius Medical Care collaborations together accounted for about 9% of total volume. Revenue per requisition declined 2.8% because of business mix, but management said it increased 2.9% excluding those mix effects. Tests per requisition have moved above 4.5 from a pre-COVID range of roughly 3.5-4.0, supported by wellness panels and higher-value advanced diagnostics. Brain health, cardiometabolic and oncology testing all grew at double-digit rates. Quest raised full-year revenue guidance to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25. Management also highlighted margin pressure from wages, fuel, Project NOVA and newer collaborations, partly offset by automation and the Invigorate program's approximately 3% annual cost-savings target. The new Michigan laboratory supporting Corewell is expected to be operational in early 2027, and Quest plans broader Flatiron Health OncoEMR access for oncology testing later in 2026.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-15T01:58:45+05:30",
-      "summary_evidence": [
-        "https://www.gurufocus.com/news/8977318/quest-diagnostics-inc-dgx-q2-2026-earnings-call-transcript",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
-    },
-    {
-      "id": "2c47099f711e79acda11",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Keeps Quarterly Dividend at $0.86 per Share, Payable Oct. 21, to Shareholders of Record Oct. 6",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk5MQWE4YmlUaVpGc3lFWnotMnY1aGNMT21xQlAzaWhXTkpJQXJXZ0dVZ3FtTjNoS25UNDlqSDJiMS1GSW9SQVZKYzRYeEFoWGRxTTQydjdvaVNxeVJiUkVQU1ozZ3VMODEyalZkYXE5N19YdmhJY1JueWZvUU9qejdpZkVtb0NpbW5CWHcybEtseUtnam9kdEctZ0NqZWRsUzJfSk0xeEVvY3I4bUtHTnp6b0FJM1owWUxBOUpOZVFwMm83NDBFZjBKOWN4bmdFUW9MVjcxVk9IckZaOFVLUU5aVQ?oc=5",
-      "description": "Quest Diagnostics' board declared a quarterly cash dividend of $0.86 per common share on August 12, 2026. The dividend is payable October 21, 2026 to shareholders of record at the close of business on October 6, 2026. The action keeps the quarterly rate unchanged from the $0.86 level the board established in February 2026, when Quest raised the dividend 7.5% from $0.80 per share. That February increase set the annualized cash dividend at $3.44 per share and marked the company's fifteenth consecutive year of dividend increases. The August declaration does not announce a new increase, change full-year operating guidance or alter the share-repurchase program; it authorizes the next payment at the previously approved rate. Quest's February capital-allocation announcement also increased share-repurchase authorization by $1.0 billion on top of approximately $0.4 billion available at December 31, 2025. The August release separately describes Quest's current operating scale as serving half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees. The material development in the queued item is therefore the confirmation of the October dividend timetable and continuation of the $0.86 quarterly distribution.",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-08-12T21:54:20+00:00",
-      "published_display": "12 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYk5MQWE4YmlUaVpGc3lFWnotMnY1aGNMT21xQlAzaWhXTkpJQXJXZ0dVZ3FtTjNoS25UNDlqSDJiMS1GSW9SQVZKYzRYeEFoWGRxTTQydjdvaVNxeVJiUkVQU1ozZ3VMODEyalZkYXE5N19YdmhJY1JueWZvUU9qejdpZkVtb0NpbW5CWHcybEtseUtnam9kdEctZ0NqZWRsUzJfSk0xeEVvY3I4bUtHTnp6b0FJM1owWUxBOUpOZVFwMm83NDBFZjBKOWN4bmdFUW9MVjcxVk9IckZaOFVLUU5aVQ?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-08-12T21:54:20+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVd6VHN5R1FtRERhM1Ryd2tGRWY0VGdhWjlyZ3RLb0tLSkhSQWRKZnlfOXNTNXNNNHF2RGk4cXF3ZmJnUE1FWk4yN2JHTVE5WDFZS1hFdzlTUTByT0wtcnhsbW1tN3pqSTdHR2pIeUlIMDk1TVZrZzB3dXBiT2t0OGR4MG01OWpoLVB0YkVyMGF0ZFdEdnAtUVJUdXJpcEk2Mkc0ckdn?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-21T07:00:00+00:00"
-        },
-        {
-          "name": "sharewise.com",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXhCVnZ0dlJrbjlvUG4zekMydENwWl80T0UybHpxTTRhalo5ZEdueUtPaEdBdXIxVV96NktzZWZFaTNleWxsQW9kMWU0dlRPLXhwZk1KZHIzRzdDTE4tbW1ReG5tNWxXeDg5bnlRc3BfM2paWFlJeDI1aFVMWGhKT3p1UFQxVmlQdktuWC1BU291UDgzNE5RMC15a1lrQ2duOWluel9qU0JhM1dpU3UzRzRHSVlCazgzVUlRR0FUel9qNC1XTUtfeDhhQWlaRndreTd3?oc=5",
-          "domain": "sharewise.com",
-          "published_at": "2026-08-21T22:01:35+00:00"
-        },
-        {
-          "name": "Eastern Progress",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbTNSeHl4eE53OVZTeENzT282OWFKSW5fek05ekZ1RWVvVGRCcTBGSEdCVHdQVzdkdmJObzZUVi1hQjRjakk5b1N2V0U0T08tOFFOblNLR1hGX2xZSV9nMm1NUGdXaDRkc3NMSzdLMm9XdS1NR016LWg2UTRKclhtLTNpRUdDLVNkV1FDX0F4RVlzaDJUMXVfb1FGOEFzS2NuS1hkaVRxZVh5ZlFickp4d0FGcmJnUkczNjAydUtZUTItTGZtNVFGTTU3bVI5U2tXMF9XMU9RSlJnZUZCRjRTaGZITXMwLWZLQjV0eQ?oc=5",
-          "domain": "easternprogress.com",
-          "published_at": "2026-08-21T13:15:02+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "dividend keeps oct payable per quarterly record share shareholders",
-      "source_description": "Quest Diagnostics Keeps Quarterly Dividend at $0.86 per Share, Payable Oct. 21, to Shareholders of Record Oct. 6 marketscreener.com",
-      "chatgpt_summary": "Quest Diagnostics' board declared a quarterly cash dividend of $0.86 per common share on August 12, 2026. The dividend is payable October 21, 2026 to shareholders of record at the close of business on October 6, 2026. The action keeps the quarterly rate unchanged from the $0.86 level the board established in February 2026, when Quest raised the dividend 7.5% from $0.80 per share. That February increase set the annualized cash dividend at $3.44 per share and marked the company's fifteenth consecutive year of dividend increases. The August declaration does not announce a new increase, change full-year operating guidance or alter the share-repurchase program; it authorizes the next payment at the previously approved rate. Quest's February capital-allocation announcement also increased share-repurchase authorization by $1.0 billion on top of approximately $0.4 billion available at December 31, 2025. The August release separately describes Quest's current operating scale as serving half of U.S. physicians and hospitals and one in three American adults each year, with nearly 60,000 employees. The material development in the queued item is therefore the confirmation of the October dividend timetable and continuation of the $0.86 quarterly distribution.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-15T01:58:45+05:30",
-      "summary_evidence": [
-        "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
-        "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
-      ]
-    },
-    {
-      "id": "5527001244fc8258762e",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
-      "description": "Quest Diagnostics’ board declared a quarterly cash dividend of $0.86 per common share on August 12, 2026. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, in addition to approximately $0.4 billion that remained available at December 31, 2025. The August declaration itself does not revise earnings guidance, announce a new repurchase authorization, change the dividend rate or introduce an operating initiative. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The action therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s current company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year.",
-      "source": "Investing.com Canada",
-      "source_url": "https://ca.investing.com",
-      "source_domain": "ca.investing.com",
-      "published_at": "2026-08-12T20:45:15+00:00",
-      "published_display": "12 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU291NVR5M2lQOTRQZ1I4YmozTVFsbEpCNmxpZkhQcENqRmtISUlWOUs0WjZjaWJrN1BBeExuYmJWdVQtMldHa2pUak5HdElkZ2JadE1hb0RFVlg0WXZVZWx3dEV2Wm9laHdoMDlrc1lzOE5HVFdKTXp3YmRZRlY2UWE5TE1CUmhQMkJtemw1dGxwZkRack5ZZlItX21JZjFpOER6NzRYZWZVUW5NTXk0?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-08-12T20:45:15+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "com declares dividend investing quarterly",
-      "source_description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada",
-      "chatgpt_summary": "Quest Diagnostics’ board declared a quarterly cash dividend of $0.86 per common share on August 12, 2026. The payment is scheduled for October 21, 2026 to shareholders of record at the close of business on October 6. The declaration keeps the quarterly rate unchanged from the level established in February rather than introducing another increase. On February 10, Quest raised its quarterly dividend 7.5%, from $0.80 to $0.86 per share, taking the annualized dividend to $3.44 per share and marking the company’s fifteenth consecutive year of dividend increases. That February capital-allocation action also increased Quest’s share-repurchase authorization by $1.0 billion, in addition to approximately $0.4 billion that remained available at December 31, 2025. The August declaration itself does not revise earnings guidance, announce a new repurchase authorization, change the dividend rate or introduce an operating initiative. Its material terms are the $0.86 payment, October 6 record date and October 21 payment date. The action therefore represents continuity in Quest’s shareholder cash-return policy at the higher 2026 dividend rate. Quest’s current company profile says it serves half of U.S. physicians and hospitals and one in three American adults each year.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://ir.questdiagnostics.com/press-releases/press-release-details/2026/Quest-Diagnostics-Declares-Quarterly-Cash-Dividend-4fdd359aa/default.aspx",
-        "https://ir.questdiagnostics.com/press-releases/press-release-details/2026/Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization/default.aspx"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 48,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-11T06:17:00+05:30",
-  "next_update_display": "11 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-11T18:17:00+05:30",
+  "next_update_display": "11 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
