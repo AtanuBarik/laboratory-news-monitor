@@ -1,6 +1,6 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 12 Nov 2026, 1:22 AM IST
+- **Repository generated:** 12 Nov 2026, 1:15 PM IST
 - **Distinct events in this file:** 34
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,10 +10,11 @@
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Nov 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Kalkine Media: https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JlNjJYYTlNZE5ydFdQV21YbmpQeWF6RGFacS0wbktmZDg3NUY1SlBxemEwaGlVTEliYXhBMFJWTk1ESzNKeXVpS1Y5UFplT2hTbDFIR2s1NVRqNDR1ZXdVaEM2V05vNFp0QkJic2VEcktnMlVveE85b01rYmdJa09BQkhoWUxRaFgwdEk2QlpRZkJyd1JtQWRnemJNYS1FRUJ0T2p2Z1VnWE56a2JF?oc=5
+  - Kalkine Media: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmlPTXMtaEZFcHdTNWdVX3dJWnh2Sm5iaXlXcGlFNlpJcDRDVWRUZDRtalNIajNuOTF0OTlMejMyWjQzTVBZV3hQaHExeEVOOGRzTGJIMmx3WHpaMzFvTjZ1SnBmaEd0OUIwbUNydnNnUUU1bXpRcERFN09XQmlBMnRVRFIyaDlYS0dNOTI1bDhCblBqbkJKb3BhcENvLWFMdTZRelhVdWxZOGc?oc=5
 
 **Feed description:** Sonic Healthcare (ASX:SHL): Can Testing Volumes Offset Wage Pressure? Kalkine Media
 

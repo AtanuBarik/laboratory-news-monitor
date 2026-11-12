@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-11-12T01:22:22.925649+05:30",
-  "generated_at_display": "12 Nov 2026, 1:22 AM IST",
-  "item_count": 535,
-  "raw_relevant_item_count": 658,
-  "duplicates_merged": 78,
+  "generated_at": "2026-11-12T13:15:10.130001+05:30",
+  "generated_at_display": "12 Nov 2026, 1:15 PM IST",
+  "item_count": 533,
+  "raw_relevant_item_count": 657,
+  "duplicates_merged": 75,
   "failures": [],
   "items": [
+    {
+      "id": "b5da90f7ccfacce1a642",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock faces compliance overhang after settlement",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpMMnlCdHBQYUt6dGxjZnpPSUpocjduWDUxZXdMUm1peUJNbnhUTlMxX1I1dUdFRVQ1T0dJdmhFczl2THp0SWVXd0h0QTVtbTJud1FPODk4d0toZDRVd0FVMTllNjV5c19JUmlyTW9HNzAtTDVaZzZsTXZ5RlR4U0dZMFdNeW9fbzI4cWowQ002TUZxTG05X1pORTdONkRnbV9KYkxEVkI1b0piUDlkLTd4VTFLcVJWcmRYd056RUZRcEU?oc=5",
+      "description": "Quest Diagnostics stock faces compliance overhang after settlement ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-11-12T02:22:41+00:00",
+      "published_display": "12 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpMMnlCdHBQYUt6dGxjZnpPSUpocjduWDUxZXdMUm1peUJNbnhUTlMxX1I1dUdFRVQ1T0dJdmhFczl2THp0SWVXd0h0QTVtbTJud1FPODk4d0toZDRVd0FVMTllNjV5c19JUmlyTW9HNzAtTDVaZzZsTXZ5RlR4U0dZMFdNeW9fbzI4cWowQ002TUZxTG05X1pORTdONkRnbV9KYkxEVkI1b0piUDlkLTd4VTFLcVJWcmRYd056RUZRcEU?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-11-12T02:22:41+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after compliance faces overhang settlement stock"
+    },
+    {
+      "id": "3c93f60e9f19e04f15dc",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics xStock: Funding, Investors, Team and Key Events",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lNE40TTM4WHpkTGRZRUQ0R0Noa2JwQmt1enk5OEkzSFp6X1ZVVjB6NWNja0toMl9YYlNPNzZTNFNua0FZT0RWeWdQd1NiZVdhQ3lEV0V1a0JOVU5hV3AtaVZB?oc=5",
+      "description": "Quest Diagnostics xStock: Funding, Investors, Team and Key Events CryptoRank",
+      "source": "CryptoRank",
+      "source_url": "https://cryptorank.io",
+      "source_domain": "cryptorank.io",
+      "published_at": "2026-11-11T23:09:51+00:00",
+      "published_display": "11 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lNE40TTM4WHpkTGRZRUQ0R0Noa2JwQmt1enk5OEkzSFp6X1ZVVjB6NWNja0toMl9YYlNPNzZTNFNua0FZT0RWeWdQd1NiZVdhQ3lEV0V1a0JOVU5hV3AtaVZB?oc=5",
+          "domain": "cryptorank.io",
+          "published_at": "2026-11-11T23:09:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "events funding investors key team xstock"
+    },
     {
       "id": "1b7541a30251ae99cdd8",
       "company": "Sonic Healthcare",
@@ -25,9 +73,15 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR2JlNjJYYTlNZE5ydFdQV21YbmpQeWF6RGFacS0wbktmZDg3NUY1SlBxemEwaGlVTEliYXhBMFJWTk1ESzNKeXVpS1Y5UFplT2hTbDFIR2s1NVRqNDR1ZXdVaEM2V05vNFp0QkJic2VEcktnMlVveE85b01rYmdJa09BQkhoWUxRaFgwdEk2QlpRZkJyd1JtQWRnemJNYS1FRUJ0T2p2Z1VnWE56a2JF?oc=5",
           "domain": "kalkinemedia.com",
           "published_at": "2026-11-11T06:41:00+00:00"
+        },
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmlPTXMtaEZFcHdTNWdVX3dJWnh2Sm5iaXlXcGlFNlpJcDRDVWRUZDRtalNIajNuOTF0OTlMejMyWjQzTVBZV3hQaHExeEVOOGRzTGJIMmx3WHpaMzFvTjZ1SnBmaEd0OUIwbUNydnNnUUU1bXpRcERFN09XQmlBMnRVRFIyaDlYS0dNOTI1bDhCblBqbkJKb3BhcENvLWFMdTZRelhVdWxZOGc?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-12T06:30:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "can offset pressure testing volumes wage"
     },
     {
@@ -289,19 +343,25 @@
       "event_signature": "2026 cfo conference december evercore present sam samad"
     },
     {
-      "id": "658e984d84e4a4b9c41f",
+      "id": "7fa6f2390cbbc27d3b26",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Speak at the 9th Annual Evercore Healthcare Conference",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlzQlFjbUZRZ2NjSjlBMGR2dnVwdG5GeDVQZWpuaEYwU2F3OS1IWm5ZcVhSNGg3bElMT05OeUhhMlpLdkVSQTZIVDFJQ0dPX2JrUnVTVWRTMWlodU12dm1pU3UzVm41MlZVNkF2aE5LQkhoai10NVlpdGF4OHl3VmZTREVaRnV5QkNBSFFJSHlUTVVjV3ZqMHpzRThzeVJLU1JnZ29BcFJFT1luQTl2eTRfeDBGczlfS2llcEcxdjIyTlhIR0hjT0Qwaw?oc=5",
-      "description": "Quest Diagnostics to Speak at the 9th Annual Evercore Healthcare Conference PR Newswire",
+      "title": "Quest Diagnostics to Speak at the Jefferies Global Healthcare Conference in London",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDNRRU9ZZlFZRkNJczVRUEZySGlwanVQUm9FX3l5RG5hYTQ1eUpDWWMwbzZ0NnVNUURFVlh1cmVtQXhwcmVLV3lyMkc0Y1kxUUFzQ0dKcDlrSnJka2ZuNXc0aHdkLUxGNTduR25CcnBmVVJMaFZ6OXR2OXdfaUZuQk9fejVrQ2YyWFJkZW5iV3dOSGR6SzNoeF9ScUQ0R3BTTmdFUjJFa3VqbXBXU2dacFdOM3dHQy1MZ21UaFN3dzFvQzZkWkw0bEo2RzVZRmlsX0UwMg?oc=5",
+      "description": "Quest Diagnostics to Speak at the Jefferies Global Healthcare Conference in London PR Newswire",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
-      "published_at": "2026-11-09T17:40:00+00:00",
+      "published_at": "2026-11-09T17:39:00+00:00",
       "published_display": "09 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTDNRRU9ZZlFZRkNJczVRUEZySGlwanVQUm9FX3l5RG5hYTQ1eUpDWWMwbzZ0NnVNUURFVlh1cmVtQXhwcmVLV3lyMkc0Y1kxUUFzQ0dKcDlrSnJka2ZuNXc0aHdkLUxGNTduR25CcnBmVVJMaFZ6OXR2OXdfaUZuQk9fejVrQ2YyWFJkZW5iV3dOSGR6SzNoeF9ScUQ0R3BTTmdFUjJFa3VqbXBXU2dacFdOM3dHQy1MZ21UaFN3dzFvQzZkWkw0bEo2RzVZRmlsX0UwMg?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-11-09T17:39:00+00:00"
+        },
         {
           "name": "PR Newswire",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlzQlFjbUZRZ2NjSjlBMGR2dnVwdG5GeDVQZWpuaEYwU2F3OS1IWm5ZcVhSNGg3bElMT05OeUhhMlpLdkVSQTZIVDFJQ0dPX2JrUnVTVWRTMWlodU12dm1pU3UzVm41MlZVNkF2aE5LQkhoai10NVlpdGF4OHl3VmZTREVaRnV5QkNBSFFJSHlUTVVjV3ZqMHpzRThzeVJLU1JnZ29BcFJFT1luQTl2eTRfeDBGczlfS2llcEcxdjIyTlhIR0hjT0Qwaw?oc=5",
@@ -309,8 +369,8 @@
           "published_at": "2026-11-09T17:40:00+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "9th annual conference evercore speak"
+      "coverage_count": 2,
+      "event_signature": "conference global jefferies london speak"
     },
     {
       "id": "8b2c93331fce1836fe1e",
@@ -439,9 +499,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTE1UG1OTndKeUpXUU5NWWpyTkw2TmZ4b3BUOU9rTkJYRHEwWGlZSi1jcmw0ZkZvY0loQnRoQ2o1ZTdWbFJtVnZ4OURuWFRrWWdZU0R6OWRBNlZUSGt4VkpmZFc4eUJSQnRLWEM4YTVod0s1TU12REJEYU91eGt0bjdoQlBwYThxZEtjLVdoQ1FJa2s3TTdiUWRsYjhnTHljaUhrYmJJQmhmdw?oc=5",
           "domain": "ng.investing.com",
           "published_at": "2026-11-08T16:52:44+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHZVc3dPZnN3ZVd6WnhVenc3V2N4M01vQW84QXI2X0VDd0RZeHJLZnUzc0dST1NHRV9VM1FxcThWbHZ5MUtDWTNsYmRwMEZuNkhFcy13SlJxVncyMWhiTlBTRGVOZVJ2OEloRWRaVDZIZFZSbGc1SzRUa2NsNTVuSkRvaklGUWtLLUt1WmNTQnFwR3NFdjh6Z042VGlRVTBrMTBMZDExYW9JbWs?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-11T21:35:42+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "144 com form investing november"
     },
     {
@@ -1249,30 +1315,6 @@
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
-      "id": "6076b89116aa6c436796",
-      "company": "Labcorp",
-      "title": "Labcorp’s Q3 earnings call: our top 5 analyst questions",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1JVjYzQml3QXdMMVN4Y3MzeDlWZkNWcUJoRVFRaEM5UWhudGlNU1VaX3RTVG5lUHNVQkhvdUFncGdJTEJ1RXNwS3pCeGtFaV8zUzQ5QXhFeDZlalBFa200T0o1MWR5Q28tOFhMTTFqRXlaMHBfYkVRdjQ0d3R1QXpmMzdzVFhLMWNIbGZYS01xREU?oc=5",
-      "description": "Labcorp’s Q3 earnings call: our top 5 analyst questions Yahoo Finance",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-11-02T21:17:36+00:00",
-      "published_display": "02 Nov 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1JVjYzQml3QXdMMVN4Y3MzeDlWZkNWcUJoRVFRaEM5UWhudGlNU1VaX3RTVG5lUHNVQkhvdUFncGdJTEJ1RXNwS3pCeGtFaV8zUzQ5QXhFeDZlalBFa200T0o1MWR5Q28tOFhMTTFqRXlaMHBfYkVRdjQ0d3R1QXpmMzdzVFhLMWNIbGZYS01xREU?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-11-02T21:17:36+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "analyst call earnings our questions top"
-    },
-    {
       "id": "436c08cad22520cf1bf3",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Stock Price, Chart & Analysis",
@@ -1295,6 +1337,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "analysis chart price stock"
+    },
+    {
+      "id": "6076b89116aa6c436796",
+      "company": "Labcorp",
+      "title": "Labcorp’s Q3 earnings call: our top 5 analyst questions",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1JVjYzQml3QXdMMVN4Y3MzeDlWZkNWcUJoRVFRaEM5UWhudGlNU1VaX3RTVG5lUHNVQkhvdUFncGdJTEJ1RXNwS3pCeGtFaV8zUzQ5QXhFeDZlalBFa200T0o1MWR5Q28tOFhMTTFqRXlaMHBfYkVRdjQ0d3R1QXpmMzdzVFhLMWNIbGZYS01xREU?oc=5",
+      "description": "Labcorp’s Q3 earnings call: our top 5 analyst questions Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-02T08:00:00+00:00",
+      "published_display": "02 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPby1JVjYzQml3QXdMMVN4Y3MzeDlWZkNWcUJoRVFRaEM5UWhudGlNU1VaX3RTVG5lUHNVQkhvdUFncGdJTEJ1RXNwS3pCeGtFaV8zUzQ5QXhFeDZlalBFa200T0o1MWR5Q28tOFhMTTFqRXlaMHBfYkVRdjQ0d3R1QXpmMzdzVFhLMWNIbGZYS01xREU?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-02T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analyst call earnings our questions top"
     },
     {
       "id": "f6aa723f99bfd1083373",
@@ -6313,9 +6379,15 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQ1dHaHVTLXBMYy1XQ1JsQ25jS3Y0YUNxSm5mQVNpQlBHM1AzNzZJbWFMMjN2WkpueFp0VVRpUXhtbWxFRUxPdldHYnVhZVNENEJNeGkzU2RNZDVZZVVoZEViTzAxMVlGMW84TUFuUkNaanJlUWhOR2J0S2pUR2pHR3FqWW92N21HVW54LTFrMm1aR3k4WWdqNEE0dnFYQQ?oc=5",
           "domain": "safestate.com",
           "published_at": "2026-10-26T16:46:35+00:00"
+        },
+        {
+          "name": "McAfee",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1IaHRYWFhHaXJEQTg4Qjg2UHM1M1U3OWowek1kREs1OHJuUW5vcnQxaDZZOGlpQm9ZdFN6cmQ5eG5CUkRBZ0lmWmxwd3hxNWh3ZWhKQ3pMQ0hwcldPV2JXTmFSeXRaYkNiUm1GcHB6M1Bqa3dnWTdwTk5jMGVkUQ?oc=5",
+          "domain": "mcafee.com",
+          "published_at": "2026-10-29T07:00:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "breach data exposes lsm patient quanum records"
     },
     {
@@ -16059,169 +16131,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "234 demand diagnostic key levels picks profit slips stabilizes surge watch"
-    },
-    {
-      "id": "9345ff18a7852eee2d7c",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Is Up 2.29% in One Week: What You Should Know",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5",
-      "description": "Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.",
-      "source": "sharewise.com",
-      "source_url": "https://www.sharewise.com",
-      "source_domain": "sharewise.com",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "published_display": "14 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "sharewise.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM1lzekU5QWhaVmNzdEM4bWV0andtV0VKNnhYdkxXS1FoclRnVlR6WHQtRHpCMDhlM1lJMXprcHhPaEgwV3ZCU2NDMDJ6QVg3TmpfU0Q4VlVkeW1LWjYtQ09vaFBNUzR6aWJaeFhITGY4M2NjRlZjdXduajlHbTNPX1hEU1ItREYzWXo0RHU4a3BWOUJnMHNmRzNIMVlOMVN0dGxVOGtpNXVlajhRTHFmdXhWTHZXdDhRWkhTSUVOVlQwVmdwcUE?oc=5",
-          "domain": "sharewise.com",
-          "published_at": "2026-08-14T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRUVoMEpkeG9maFp0cXJSRXNWR0xNYlFGREdYV05mVTEweDRlWVc5ckVNdExub3JnY0xOUnhUX21qZzhEZmZ0dFBscE5sMkpvelFlZFZRdzk0aVg1NlFhSUlrU3ZVUkhtcVBLS2xleU8zendhejAtYXFZZzJTNVVzWU52Z0RZMVhGaGQ4Y0xOeXBHVUJjZnc?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-14T16:00:02+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "know one should week what you",
-      "source_description": "Quest Diagnostics (DGX) Is Up 2.29% in One Week: What You Should Know finance.yahoo.com",
-      "chatgpt_summary": "Zacks Equity Research’s August 14, 2026 momentum analysis said Quest Diagnostics was showing stronger share-price and earnings-estimate momentum rather than reporting a new operating event. DGX carried a Zacks Rank #2 (Buy) and a Momentum Style Score of B. The shares had gained 2.29% over the prior week, ahead of the Zacks Medical - Outpatient and Home Healthcare industry’s 1.25% increase, and were up 12.72% over one month versus 7.37% for the industry. Quest had risen 21.78% over three months and 32.28% over one year; Zacks compared those moves with S&P 500 gains of 5.06% and 21.84%, respectively. Average 20-day trading volume was 1,085,921 shares. The article also highlighted broad upward earnings-estimate revisions. Over the previous two months, 10 full-year estimates moved higher and none moved lower, lifting the consensus EPS forecast from $10.69 to $11.15. For the next fiscal year, 10 estimates were also revised upward with no downward revisions. Zacks treated the combination of positive price performance, trading activity and estimate revisions as evidence of continued momentum. The article is third-party investment analysis; it does not announce a new Quest product, transaction, clinical result or company-issued guidance change.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-21T00:35:03+05:30",
-      "summary_evidence": [
-        "https://www.zacks.com/stock/news/2975210/quest-diagnostics-dgx-is-up-229-in-one-week-what-you-should-know"
-      ]
-    },
-    {
-      "id": "ca9f960013ab517ac497",
-      "company": "Quest Diagnostics",
-      "title": "Carol Devine Miller sells stocks in Pfizer, Quest Diagnostics, Target, and U.S. Bancorp",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5",
-      "description": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "published_display": "14 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNamc1NWhBVV80RkRfM1N2alI2X0tjRUdEVmp3QS0zbXRxSklEZGpaMVg4TUpjcXhTSHFEUUZUMkZ3VjJibHotWkp6REx5QW1WX0pLd0tzYjBfUjlmRUtUQjNZRWNNaFppajlET1owWjVWUDNEd0M4dmtZYVBwblBSYndBLUNfS0RfS3E1NnJLY0RoZ21vWmlmTHVZM2dORkZnV19yUkUtY3dObFFhWThJNnNqU1dnU2pWZWRtX3RISlVGMk16WklTbFB6a1I3a3JhS0pLYUdB?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-14T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTzNXbzdCai1LbllKbXFZZjhfTWs1bXQ5Yng5ck9PYTdZMmxpSWZhWnZSN2UtRVZuSC1QdTZ2Wl9odFpldHowTVZKc0lkbUEtMGtzenQyaWVPLUZQZjU4bXByUXZQX2p3QmcyRGFsQzhIZnpyeG4tS2tsVjVIeFZtb0tTNURIbjVxRjhWaEtmOXZQdzFIUUYxZTRhNkpXbmk0M0ZmRV9UQ3NLcFFhTWVOaFE4dThhY2NaREtOTk85RUZwZ0l4eXBBRWEtZ1ZLcmpSWU1uQWVKcVNKUlE?oc=5",
-          "domain": "uk.investing.com",
-          "published_at": "2026-08-14T19:08:00+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVzBRNWdwQ0p0b3p1LWNqa2ktR245RzBsTC05THlIeFJ1bHAwdk1jV3BXRXltNFNVY1l2ckRtVWpfVFVNczRmSWd1VjhnZGhxZGhxcFl2TW1VOW1TT0ZaZXdGS1RwQXY3X0k2X1lBZUlxbS1JM05abFdDcUhVenNBLS1ZS2oyaFZzemFZWU9sTktBVVp6TUZKbkYzaG15MXV6U0duM0RTbmE0TXl1aEhiaDE2M0lyNFFUS3VkZjk0S1h4UDEtRW1OY1VlUmdnTmpXZnJXNkxmYUtqVUU?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-08-14T19:22:32+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXhSQ1VrWThCS01JYTRXaC12VUotZHhuNkplVTlFTHNRZm1pa1B4VjhtRndDUnROd2FqUnJWOVZ2MFdGa1Z2NWRRUVNaYVRJYTFSVk52V3VTanNKU2NyaC1FbGswWkJkMWY5TERvWldPNWtGQWNwaGt0b3p2U252a1RuOVVrM2tCRHB0Z1l2ZXFuV1YxLW16WHRfWV9UcjgwWWZiYkJWOEUwRlNBamY5eTJuajZRZHdFZlFXR0YyZUg5NUVJczVJNktiX2M4dV9FN1gyVkxFemdPMDA?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-08-14T19:09:09+00:00"
-        },
-        {
-          "name": "in.investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNX2xnUjN3Rm1Dd21YTUtON013Z3BsTFUxTTNoTG10Q24wNnlyYkdpWnFub3IyNnJ1cDV4NUExc01VNmZvanJqMlBZYU1aN2hXRmt5SlRXV2NCd0U4ckY3NDdZTWpLdVpPTlUwMEdVOFFINExKWUhWckMyblhwcl9uR0diemktaDZrYWRzYzNpT1Q5VGR2MlVFV1NOdEVuaTUxdUdYeTNZcG1NczlFZ0RhNERWdEk2ZDlzNWEycTZRSTFZcnBTcDlCOEYyWXozc1FYNjJjQUg1aXBERzg?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-08-15T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "bancorp carol devine miller pfizer sells stocks target",
-      "source_description": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
-      "chatgpt_summary": "A U.S. House of Representatives Periodic Transaction Report filed by Rep. Carol Devine Miller of West Virginia shows that a managed investment account sold Quest Diagnostics common stock on March 10, 2025. The Quest transaction was reported in the $1,001-$15,000 value range and was disclosed to the House on April 11, 2025. The filing identifies the Quest position as a subholding of the Matt Miller Investment Management Account. The same report records sales on March 10 of Pfizer, Target, U.S. Bancorp and United Parcel Service shares, each also in the $1,001-$15,000 range. It also lists purchases that day of AFLAC, American Water Works, CME Group, Gilead Sciences, Honeywell, Illinois Tool Works, Lockheed Martin, PepsiCo and Hershey, again within the same disclosed value band. The official filing is ID 20029135 and was digitally signed by Miller on April 11, 2025. Although the queued news item was published in August 2026, the underlying securities transactions occurred more than a year earlier. The disclosure does not describe a Quest corporate transaction, operating development or insider trade by a Quest executive; it records portfolio activity reported under congressional financial-disclosure rules.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-15T01:58:45+05:30",
-      "summary_evidence": [
-        "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/20029135.pdf"
-      ]
-    },
-    {
-      "id": "e5ca053f7a1eadcd1fc5",
-      "company": "Labcorp",
-      "title": "Labcorp announces executive leadership changes effective in September",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
-      "description": "Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both the Early Development Research Laboratories and Central Laboratories businesses, consolidating leadership across the two principal Biopharma Laboratory Services operations. Investing.com said the changes were disclosed through a company statement included in a filing with the U.S. Securities and Exchange Commission. The announcement does not describe a new external hire, transaction, compensation package or change to Labcorp’s chief executive or chief financial officer. The transition follows a second quarter in which Labcorp reported revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99 and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is the consolidation of biopharma laboratory leadership under Caveney following Bailey’s resignation.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "published_display": "14 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWEQwUDd1YWdaOXplS3Y3SVNla0JMRU5qWXRkejdNWk9uZzNTQTdmcnFtMlJCQnNJc0xvSXhYcGJnQkJCeE84RHRtQ01fZWgxTWRmQzloaXp6cVVmdE9fMVpNeXF0c3RVaXFHVmFlelpTSW5BZm9teFJWT3liaVZJR01MamYxb29NTUV1Rm9NZHBXc3ZfZzNMYm5tRklnUmdnemlRSkJxbFVvb2xvUENlX1QyY3pwMS1RS296UnIwYUE3YWc?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-14T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXhjRURFbDAwdFhrRldmU3dBNUFySU5uR1VkbllYVWFmSEd2NVB6SEs2N1gyQjdSXzl6VUlyYVpFQzlRMEN6UHgtSTRiejZLMWlUOTItMl9BeEMxUl83cFpPU1JlNmlQb3pmX0RZanJKNWtMOXFnanViWlhUUUxQYlZnNGd3UjNEWFFzUkY4YXpZTW5SME5NVldGUG9tVk1GTnhRS2pIQTg5aHM0SXZtVndfTWxfSFFhQXZoZ01nY0ZNT19mUnJJTU93?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-08-14T13:35:39+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "changes effective executive leadership september",
-      "source_description": "Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both Early Development Research Laboratories and Central Laboratories, consolidating leadership across the two principal Biopharma Laboratory Services businesses. The filing-based announcement did not disclose a new external hire, transaction, compensation package or change to Labcorp's CEO or CFO positions. The transition comes shortly after Labcorp reported second-quarter revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99, and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is therefore the consolidation of biopharma laboratory leadership under Caveney following Bailey's resignation, with the two effective dates separated by three days to provide continuity in the transi…",
-      "chatgpt_summary": "Labcorp announced a leadership transition within Biopharma Laboratory Services. Megan D. Bailey, Executive Vice President and President, Central Laboratories and International, informed the company that she will resign, with her departure effective September 4, 2026. Effective September 1, Brian J. Caveney, M.D., will become Executive Vice President and President, Biopharma Laboratory Services and will remain Chief Medical and Scientific Officer. Caveney previously served as Executive Vice President and President, Early Development Research Laboratories and Chief Medical and Scientific Officer. In the expanded role, he will be responsible for both the Early Development Research Laboratories and Central Laboratories businesses, consolidating leadership across the two principal Biopharma Laboratory Services operations. Investing.com said the changes were disclosed through a company statement included in a filing with the U.S. Securities and Exchange Commission. The announcement does not describe a new external hire, transaction, compensation package or change to Labcorp’s chief executive or chief financial officer. The transition follows a second quarter in which Labcorp reported revenue of $3.731 billion, up 5.8%, and adjusted EPS of $4.99 and raised its 2026 enterprise revenue-growth and adjusted-EPS guidance. The material organizational change is the consolidation of biopharma laboratory leadership under Caveney following Bailey’s resignation.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T07:31:38+05:30",
-      "summary_evidence": [
-        "https://www.investing.com/news/sec-filings/labcorp-announces-executive-leadership-changes-effective-in-september-93CH-4860896",
-        "https://www.advfn.com/stock-market/NYSE/LH/stock-news/99125971/form-8-k-current-report"
-      ]
-    },
-    {
-      "id": "8938126e440d849c4a13",
-      "company": "Labcorp",
-      "title": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue…",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5",
-      "description": "Next-Gen Companion Diagnostic Tests: Labcorp Receives Approval for PGDx Elio Tissue… Trend Hunter",
-      "source": "Trend Hunter",
-      "source_url": "https://www.trendhunter.com",
-      "source_domain": "trendhunter.com",
-      "published_at": "2026-08-14T07:00:00+00:00",
-      "published_display": "14 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Trend Hunter",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0takJWaGQyblAxbEtFek9zdHdwUkxPRm41Yi1XMzVKVFhJd051MU5vWG9nVThHOEQ4R2R1cnBrU19mLWx6QkVLcnBPVWQ4TFNVOUFZa3VJdmt5bWF3RFYtREtlaUVab1V0VFJPYw?oc=5",
-          "domain": "trendhunter.com",
-          "published_at": "2026-08-14T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "approval companion diagnostic elio gen next pgdx receives tests tissue"
     }
   ],
-  "low_value_items_removed": 45,
+  "low_value_items_removed": 49,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-12T06:17:00+05:30",
-  "next_update_display": "12 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-12T18:17:00+05:30",
+  "next_update_display": "12 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
