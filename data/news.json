@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-11-12T13:15:10.130001+05:30",
-  "generated_at_display": "12 Nov 2026, 1:15 PM IST",
-  "item_count": 533,
-  "raw_relevant_item_count": 657,
-  "duplicates_merged": 75,
+  "generated_at": "2026-11-13T01:58:32.263804+05:30",
+  "generated_at_display": "13 Nov 2026, 1:58 AM IST",
+  "item_count": 536,
+  "raw_relevant_item_count": 673,
+  "duplicates_merged": 77,
   "failures": [],
   "items": [
+    {
+      "id": "ca060e6db21017fbe7dc",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 261.58 USD",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0I3amlVWDRGajYyV1FTNXZrOTV6SG91MktxbC15S1cxU1ExYU11dlNyeGswT3BUeldCTVRlVjllQVJRam9TeGhDVjAxc3RXY1ZOa0llamZpZ0xvbmI1SlplM3FNUUN4M2QyNS1xbUNpRDZrbFVMbjYzTlNpRVY3anlWcGtQam9EMU40X1lQanQ2S1UyUmxIWFVXM2JOak5XTUpqbFpZMklaLWFxMlNEZA?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 261.58 USD Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-12T15:53:31+00:00",
+      "published_display": "12 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0I3amlVWDRGajYyV1FTNXZrOTV6SG91MktxbC15S1cxU1ExYU11dlNyeGswT3BUeldCTVRlVjllQVJRam9TeGhDVjAxc3RXY1ZOa0llamZpZ0xvbmI1SlplM3FNUUN4M2QyNS1xbUNpRDZrbFVMbjYzTlNpRVY3anlWcGtQam9EMU40X1lQanQ2S1UyUmxIWFVXM2JOak5XTUpqbFpZMklaLWFxMlNEZA?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-12T15:53:31+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "261 all high hits stock time usd"
+    },
+    {
+      "id": "b279b1b37090f377e247",
+      "company": "Labcorp",
+      "title": "Labcorp Insider Sale: EVP, President of Labcorp Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTWtDVGhGVDJSQkR5MHlYczlYTGtKYlFKV1FoVV9OdmJwVDVHZTFrSmtueGFobldsQTFkV1RYMlE2Rm9zenIxSnl4SThXNkNpdlFoUkdYYy1qWEZtVG5vQlJOMEFMQ0Q0d2JIanFpb004cjU4TGNTeDJEam1HNGE3LTU4UFRJZUdIYjJJczVrUXNlODk2NW5NRVlqcVB3ZmJDYXV6VEFwaHdSWXVYMHljeEN4QmhLLTlEeUE0OVVVWndNRW85blFaVTBqY1dabXFzcFMxeUwwQXdfSXZhZUFZbzN6VHhfaDZOLW5GNkU2Q3RHTG1NZEFSd0UxTUhvQk91c0JVOWhYOUFVUQ?oc=5",
+      "description": "Labcorp (LH) Insider Sale: EVP, President of Labcorp Diagnostics GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-11-12T15:03:21+00:00",
+      "published_display": "12 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTWtDVGhGVDJSQkR5MHlYczlYTGtKYlFKV1FoVV9OdmJwVDVHZTFrSmtueGFobldsQTFkV1RYMlE2Rm9zenIxSnl4SThXNkNpdlFoUkdYYy1qWEZtVG5vQlJOMEFMQ0Q0d2JIanFpb004cjU4TGNTeDJEam1HNGE3LTU4UFRJZUdIYjJJczVrUXNlODk2NW5NRVlqcVB3ZmJDYXV6VEFwaHdSWXVYMHljeEN4QmhLLTlEeUE0OVVVWndNRW85blFaVTBqY1dabXFzcFMxeUwwQXdfSXZhZUFZbzN6VHhfaDZOLW5GNkU2Q3RHTG1NZEFSd0UxTUhvQk91c0JVOWhYOUFVUQ?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-11-12T15:03:21+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "evp insider president sale"
+    },
+    {
+      "id": "c786de5309d71e3922ab",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: A Quality Dividend Stock for Income Investors",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjVEMHhZdTFJMG5URVZiRXNlOW5MaVZrQ0xFWWVzYVd1cXhMMW1JTXpMTXNIM1pCc3ZoTE1weEFDQ1JiVVNkTU56bjBxNWtCTGVrTlB2MFpiNzgySHYwZXZ6WWtDR1M2Zmgwbm10WnFianJDcjRVUk9QTldDcWlocDVtLWFzaXhXdE80cTJveGxIVTYxQVBnZGhfdXpKUzBuMmdQQTRud1VIaVdFN01DNmRwV0NpZUlwZ3pLMmFZZw?oc=5",
+      "description": "Quest Diagnostics (NYSE:DGX): A Quality Dividend Stock for Income Investors ChartMill",
+      "source": "ChartMill",
+      "source_url": "https://www.chartmill.com",
+      "source_domain": "chartmill.com",
+      "published_at": "2026-11-12T12:30:36+00:00",
+      "published_display": "12 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjVEMHhZdTFJMG5URVZiRXNlOW5MaVZrQ0xFWWVzYVd1cXhMMW1JTXpMTXNIM1pCc3ZoTE1weEFDQ1JiVVNkTU56bjBxNWtCTGVrTlB2MFpiNzgySHYwZXZ6WWtDR1M2Zmgwbm10WnFianJDcjRVUk9QTldDcWlocDVtLWFzaXhXdE80cTJveGxIVTYxQVBnZGhfdXpKUzBuMmdQQTRud1VIaVdFN01DNmRwV0NpZUlwZ3pLMmFZZw?oc=5",
+          "domain": "chartmill.com",
+          "published_at": "2026-11-12T12:30:36+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "dividend income investors quality stock"
+    },
     {
       "id": "b5da90f7ccfacce1a642",
       "company": "Quest Diagnostics",
@@ -1675,30 +1747,6 @@
       "event_signature": "breach data exposes patient"
     },
     {
-      "id": "ddbd390e6066e93922db",
-      "company": "Labcorp",
-      "title": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDNsRzlibmZUTXF2U2tqT0dmdXpMdXZoYTI3UGtLX2s2WGE2S3NWdEdFM0d5dUlid1RNRzRDUzFiNUV4NksxaUtvRUpKN1VQcWdkZVFvVktmQm5rQ3FYcURqTXVvUkl0UmgwX01wSkYzMldtSnBvX3k0UmVDRUxGNTNmWnNoWEMxVHBCbHY1R2JfVGpPU3RBdEJlcGZwc2V6U2lwVE9HeFR0N00?oc=5",
-      "description": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting! UFCW 3000",
-      "source": "UFCW 3000",
-      "source_url": "https://ufcw3000.org",
-      "source_domain": "ufcw3000.org",
-      "published_at": "2026-10-29T17:47:51+00:00",
-      "published_display": "29 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "UFCW 3000",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDNsRzlibmZUTXF2U2tqT0dmdXpMdXZoYTI3UGtLX2s2WGE2S3NWdEdFM0d5dUlid1RNRzRDUzFiNUV4NksxaUtvRUpKN1VQcWdkZVFvVktmQm5rQ3FYcURqTXVvUkl0UmgwX01wSkYzMldtSnBvX3k0UmVDRUxGNTNmWnNoWEMxVHBCbHY1R2JfVGpPU3RBdEJlcGZwc2V6U2lwVE9HeFR0N00?oc=5",
-          "domain": "ufcw3000.org",
-          "published_at": "2026-10-29T17:47:51+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "action contract join meeting stonewalling team"
-    },
-    {
       "id": "584d355b8e90860562b9",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics class action alleges data breach exposed patient medical records",
@@ -1793,6 +1841,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "earnings looms off pama risk shrugs stock"
+    },
+    {
+      "id": "ddbd390e6066e93922db",
+      "company": "Labcorp",
+      "title": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDNsRzlibmZUTXF2U2tqT0dmdXpMdXZoYTI3UGtLX2s2WGE2S3NWdEdFM0d5dUlid1RNRzRDUzFiNUV4NksxaUtvRUpKN1VQcWdkZVFvVktmQm5rQ3FYcURqTXVvUkl0UmgwX01wSkYzMldtSnBvX3k0UmVDRUxGNTNmWnNoWEMxVHBCbHY1R2JfVGpPU3RBdEJlcGZwc2V6U2lwVE9HeFR0N00?oc=5",
+      "description": "LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting! UFCW 3000",
+      "source": "UFCW 3000",
+      "source_url": "https://ufcw3000.org",
+      "source_domain": "ufcw3000.org",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "UFCW 3000",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDNsRzlibmZUTXF2U2tqT0dmdXpMdXZoYTI3UGtLX2s2WGE2S3NWdEdFM0d5dUlid1RNRzRDUzFiNUV4NksxaUtvRUpKN1VQcWdkZVFvVktmQm5rQ3FYcURqTXVvUkl0UmgwX01wSkYzMldtSnBvX3k0UmVDRUxGNTNmWnNoWEMxVHBCbHY1R2JfVGpPU3RBdEJlcGZwc2V6U2lwVE9HeFR0N00?oc=5",
+          "domain": "ufcw3000.org",
+          "published_at": "2026-10-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action contract join meeting stonewalling team"
     },
     {
       "id": "e0812e94d4a7e0b10611",
@@ -5935,9 +6007,15 @@
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnFRc2I5dWdKQ1ByNktWYkZPaHNVUkhpWEIwVUE2Y19EMjlPLVB1YzBaUVN2ODE0cEhZS191THE4Uld1UEJJaEE1VWZxTVR6RjJnUmFZYldNX0F3a3ByYW5sc1R6blpuQTVzcmp2MXFYRjlUNFJkeWF0M09lYW1tdUw2dkFkZEpSUmsxU3pjUmVqMjdXcnpxNUhISElyOFZZS2xIdkZyd1FMMlZ3QUM3TUV6eW9qN0E?oc=5",
           "domain": "fox10phoenix.com",
           "published_at": "2026-10-22T07:00:00+00:00"
+        },
+        {
+          "name": "FOX 13 Tampa Bay",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHB4R052WUw3M211SzNOblVwOU0wTTI5aWJvYWt2OTFtNWlsVTBiaXZRRGJvSjJwTTlGWTN1dUNQdWNWS1h2VDVkQnJMYk9nSWtsMGR6SFhKVkRldFl4Q2dTNHF4X2lMLURndE5JTDg2aEFDUTAydFhSVzNRbnlBUkxKQW1zcnplcGY3V2ZLSFdFNWhMT3p4TW9IZWN4VnItejMyUDNNcmxwUExIeUdWSUdqMA?oc=5",
+          "domain": "fox13news.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 6,
+      "coverage_count": 7,
       "event_signature": "been compromised data happened have here may used what you your"
     },
     {
@@ -16133,10 +16211,10 @@
       "event_signature": "234 demand diagnostic key levels picks profit slips stabilizes surge watch"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 60,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-12T18:17:00+05:30",
-  "next_update_display": "12 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-13T06:17:00+05:30",
+  "next_update_display": "13 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
