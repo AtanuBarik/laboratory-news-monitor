@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-11-13T01:58:32.263804+05:30",
-  "generated_at_display": "13 Nov 2026, 1:58 AM IST",
-  "item_count": 536,
-  "raw_relevant_item_count": 673,
-  "duplicates_merged": 77,
+  "generated_at": "2026-11-13T12:50:58.042798+05:30",
+  "generated_at_display": "13 Nov 2026, 12:50 PM IST",
+  "item_count": 538,
+  "raw_relevant_item_count": 682,
+  "duplicates_merged": 82,
   "failures": [],
   "items": [
+    {
+      "id": "42484681328b6126c37f",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Base Testing Battles Wage and Funding Pressure",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWYwb0tqazYtODFzb2trbmFqazdqM0hEZnRVaVJvMWNvSGQtYmd3eldBZDVWMEJQN3RpdXVtQlV5TjBPSWxDa1paemoteUNFblhNcThRa1FpS18ydWlsRklESmNUaUVrZVRIc3NrWXMtZmRCZDRVMGRta0duRzNIX181TFo4NG90RVNocmhPcWdrczBvZHk1VkFzTzRMMHBPbEZ0LTZtTzgzbVRJa3FLbE9WWlVSWEk?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL) Base Testing Battles Wage and Funding Pressure Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-13T06:02:00+00:00",
+      "published_display": "13 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWYwb0tqazYtODFzb2trbmFqazdqM0hEZnRVaVJvMWNvSGQtYmd3eldBZDVWMEJQN3RpdXVtQlV5TjBPSWxDa1paemoteUNFblhNcThRa1FpS18ydWlsRklESmNUaUVrZVRIc3NrWXMtZmRCZDRVMGRta0duRzNIX181TFo4NG90RVNocmhPcWdrczBvZHk1VkFzTzRMMHBPbEZ0LTZtTzgzbVRJa3FLbE9WWlVSWEk?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-13T06:02:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "base battles funding pressure testing wage"
+    },
+    {
+      "id": "ee2e19a370ec336640f7",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics SVP Plewman sells $3.01 million in stock",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
+      "description": "Quest Diagnostics SVP Plewman sells $3.01 million in stock Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-13T01:05:40+00:00",
+      "published_display": "13 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-13T01:05:40+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "million plewman sells stock svp"
+    },
+    {
+      "id": "53b2b1e4c26d0fc968fc",
+      "company": "Sonic Healthcare",
+      "title": "What Do Fee Changes and Overseas Restructuring Mean for Sonic Healthcare?",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWZiSDZSZkFvUG9ha0Jtc3hmQ1JEdFIxWm5XTy1PQ29jTll4VGlQaHNORXBsOXc5Ri1oYzRjcDlYUUVmYWtZSkFIdE01TnpfQkNVcXpZVEZIY0QzZFZjUmtuOXh5Vmt6TVJTajBMSEYwLThWc1J3R0VrMzJESm45bFhfNFZONThZeDFRLS1kSXdHLW1Db3hqeExQdDJoLVp3Z3V2LXJKYjdDbjFCNVBrTU1pWXBTM2FGSGgzTWNyWjF4MGs?oc=5",
+      "description": "What Do Fee Changes and Overseas Restructuring Mean for Sonic Healthcare (ASX:SHL)? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-12T21:56:00+00:00",
+      "published_display": "12 Nov 2026",
+      "category": "Organizational Updates",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWZiSDZSZkFvUG9ha0Jtc3hmQ1JEdFIxWm5XTy1PQ29jTll4VGlQaHNORXBsOXc5Ri1oYzRjcDlYUUVmYWtZSkFIdE01TnpfQkNVcXpZVEZIY0QzZFZjUmtuOXh5Vmt6TVJTajBMSEYwLThWc1J3R0VrMzJESm45bFhfNFZONThZeDFRLS1kSXdHLW1Db3hqeExQdDJoLVp3Z3V2LXJKYjdDbjFCNVBrTU1pWXBTM2FGSGgzTWNyWjF4MGs?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-12T21:56:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "changes fee mean overseas restructuring what"
+    },
     {
       "id": "ca060e6db21017fbe7dc",
       "company": "Quest Diagnostics",
@@ -551,7 +623,7 @@
       "company": "Quest Diagnostics",
       "title": "Form 144 QUEST DIAGNOSTICS For: 8 November By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzBSd2FKNlU2QnJGbEhjV2NrRlc0ZVh3eVVIMFdnUmt1WmFoZnRkNTk3RWVkVnBrbmt6azdCbU1fcURnNGlGaWpzT0FqSVdfVl9BVGxVbE90Tkp2OHc1VVAwb3ZkNHpMOTZtUU53REN4dEk3ZTZGZFlUSTZQMFZYdDZPc1RMUk5FVE5tbXBsaGdnWjBBbGcwMnF5WFBlS0JMbmtpd3RiLXBVQQ?oc=5",
-      "description": "Form 144 QUEST DIAGNOSTICS INC For: 8 November By Investing.com Investing.com Nigeria",
+      "description": "Form 4 Quest Diagnostics orporated: Patrick Plewman (SVP for Diagnostic Services) For: 9 November By Investing.com Investing.com India",
       "source": "Investing.com India",
       "source_url": "https://in.investing.com",
       "source_domain": "in.investing.com",
@@ -577,9 +649,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHZVc3dPZnN3ZVd6WnhVenc3V2N4M01vQW84QXI2X0VDd0RZeHJLZnUzc0dST1NHRV9VM1FxcThWbHZ5MUtDWTNsYmRwMEZuNkhFcy13SlJxVncyMWhiTlBTRGVOZVJ2OEloRWRaVDZIZFZSbGc1SzRUa2NsNTVuSkRvaklGUWtLLUt1WmNTQnFwR3NFdjh6Z042VGlRVTBrMTBMZDExYW9JbWs?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-11-11T21:35:42+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWU9yOFllV3hwaUY3Q0tTN0tJX3FzNm5uZ092QXZ1YmtKU09DODl2S19OVVQtbU9CemRUOHJfUVlJZVJNMkJfVmp2UFR2YU5ya2hIUFJHVUUtYXFqTHNYVXhvSzVfTjVXZUE0YUlnRWl5UFNNRGwzUFo2bGU1d3NnWmZJRVQ0YmZHODZESno5R2hfNmZXVF9zczJXUEt3VWNuVEhKaE8yTkFlYngwRmhMZTkzUXg2Q0g4dk5sUmxDREp1ZXBaU1BJX0MwR0JlaWFENWNiMWJwRWxOSWUwenJidUtHM0RrSmN6TUE?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-13T00:59:16+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "144 com form investing november"
     },
     {
@@ -2815,9 +2893,15 @@
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9nRk9Rd2t6V3QySGJxdzhnUE5wdzdXVDFLTHBmOXJNanQ5M3N0aU5BT1ZMbndrS2oxMnB6UDFsQ3ZObFRGUEQ4RFY2Qlp4bTU3YjVOTzdPWHh5REY5SXV1bHpGLVdsa2RLRlNjRHVGcmpFcWg4WlNNUUFYbW5GRFZnRUpnN2s3WnZKQVYzYnMybTNONkhUWE5rMGFsVnUtRFE?oc=5",
           "domain": "marketbeat.com",
           "published_at": "2026-10-28T19:32:24+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFBsbHVvUFR3VS0xRm45aEl1WHVtV1BJclY3VGJlRkprREFseFJUUmFST3B5ZTBVaC1KeFY2bE84X1JBNlBRX2JDbWVEZDROa3M0R1FvMXYzbnE4SGJoaDVtbUdxN3dBOVg0eHNaaVVIb2pPQ3hpSHJJeURkbmFPTnB4eWlKVHBPWkdTVEZYeXJIUGprcTZZNkNTQU0?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "2026 call earnings growth highlights raised revenue strong"
     },
     {
@@ -16185,36 +16269,12 @@
       ],
       "coverage_count": 2,
       "event_signature": "234 demand diagnostic flow key levels order slips stabilizes sweep watch"
-    },
-    {
-      "id": "f7ce55520338303eb2fc",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Profit Surge Picks",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXVtVlFqaDNoVkg4UVNLS19UWUJvOVJ1eXNmV0o0VEhtZVQ1cFFlMWJJM3NIYVZ2WmpEZHB4NWhTM0dwRVhTcVdHTGt3czJ0WWRfX2lZWno2bDRQYlZSUE9MMGJvOXJWZjJmWnp0eURuQktuR1dxQ2g2N1h1V1lmTEZCeTg5R2JVQjdmdl9jcmF4ZUQyQ2wyZmNLcFhmNUtfOHVTVDlIX2E3Z2JoUWFCeXZkbFRHTC05RnFkNXZkc05BSWg4UU1UQ2ttWGxidw?oc=5",
-      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Profit Surge Picks dars.gov.et",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-08-16T07:00:00+00:00",
-      "published_display": "16 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORXVtVlFqaDNoVkg4UVNLS19UWUJvOVJ1eXNmV0o0VEhtZVQ1cFFlMWJJM3NIYVZ2WmpEZHB4NWhTM0dwRVhTcVdHTGt3czJ0WWRfX2lZWno2bDRQYlZSUE9MMGJvOXJWZjJmWnp0eURuQktuR1dxQ2g2N1h1V1lmTEZCeTg5R2JVQjdmdl9jcmF4ZUQyQ2wyZmNLcFhmNUtfOHVTVDlIX2E3Z2JoUWFCeXZkbFRHTC05RnFkNXZkc05BSWg4UU1UQ2ttWGxidw?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-16T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "234 demand diagnostic key levels picks profit slips stabilizes surge watch"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 62,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-13T06:17:00+05:30",
-  "next_update_display": "13 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-13T18:17:00+05:30",
+  "next_update_display": "13 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

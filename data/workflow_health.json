@@ -1,16 +1,16 @@
 {
-  "last_run_at": "2026-11-13T01:58:37.335918+05:30",
-  "last_run_display": "13 Nov 2026, 1:58 AM IST",
-  "next_update_at": "2026-11-13T06:17:00+05:30",
-  "next_update_display": "13 Nov 2026, 6:17 AM IST",
+  "last_run_at": "2026-11-13T12:51:03.794993+05:30",
+  "last_run_display": "13 Nov 2026, 12:51 PM IST",
+  "next_update_at": "2026-11-13T18:17:00+05:30",
+  "next_update_display": "13 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST",
-  "news_item_count": 536,
-  "raw_relevant_item_count": 673,
-  "duplicates_merged": 77,
+  "news_item_count": 538,
+  "raw_relevant_item_count": 682,
+  "duplicates_merged": 82,
   "fetch_failures": [],
   "chatgpt_queue_count": 30,
-  "chatgpt_remaining_unsummarized": 506,
+  "chatgpt_remaining_unsummarized": 508,
   "email_status": "awaiting_chatgpt_summaries",
   "email_summary_provider": "Awaiting ChatGPT Scheduled Task",
-  "last_email_check": "12 Nov 2026, 2:17 PM IST"
+  "last_email_check": "13 Nov 2026, 2:33 AM IST"
 }
