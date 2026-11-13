@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-13T12:50:58.042798+05:30",
-  "generated_at_display": "13 Nov 2026, 12:50 PM IST",
-  "item_count": 538,
-  "raw_relevant_item_count": 682,
-  "duplicates_merged": 82,
+  "generated_at": "2026-11-14T01:34:04.483708+05:30",
+  "generated_at_display": "14 Nov 2026, 1:34 AM IST",
+  "item_count": 539,
+  "raw_relevant_item_count": 671,
+  "duplicates_merged": 71,
   "failures": [],
   "items": [
+    {
+      "id": "736c481f68e2d8493a47",
+      "company": "Labcorp",
+      "title": "Labcorp’s Lab Growth Surges as $125 Million Reimbursement Risk Looms",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEFpX0dJanpSN19hVHFTaVhBU3c3ZE9jM3M0VzRCdExsaWhQMl9MZ3d6R0Q4UDJSUmFxb3Nka0JBUUV3bGtoV1ZrZFlPeEVsYjNBMWlEQWVwb2VkckI0YW1wUUtXTjdiMGZ0dG90bURRR1poeGlwbFNDYUUxdEhEYndUZTV2bXpxYUVmcGJqc2ZndjZE?oc=5",
+      "description": "Labcorp’s Lab Growth Surges as $125 Million Reimbursement Risk Looms Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-13T16:14:51+00:00",
+      "published_display": "13 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEFpX0dJanpSN19hVHFTaVhBU3c3ZE9jM3M0VzRCdExsaWhQMl9MZ3d6R0Q4UDJSUmFxb3Nka0JBUUV3bGtoV1ZrZFlPeEVsYjNBMWlEQWVwb2VkckI0YW1wUUtXTjdiMGZ0dG90bURRR1poeGlwbFNDYUUxdEhEYndUZTV2bXpxYUVmcGJqc2ZndjZE?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-13T16:14:51+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "125 growth lab looms million reimbursement risk surges"
+    },
     {
       "id": "42484681328b6126c37f",
       "company": "Sonic Healthcare",
@@ -31,19 +55,25 @@
       "event_signature": "base battles funding pressure testing wage"
     },
     {
-      "id": "ee2e19a370ec336640f7",
+      "id": "dd4b102988d16c3081c0",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics SVP Plewman sells $3.01 million in stock",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
-      "description": "Quest Diagnostics SVP Plewman sells $3.01 million in stock Investing.com",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-11-13T01:05:40+00:00",
+      "title": "Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1lpYUk5ZWVNajg3M2QydTZoSVZUbWhFbnNZZUliXzVWcmdkLVM4WjNvNGtib2liTHo2QzlxYlZ5cUpHQUx6OTZEaEpZbGZhZWktbUFFbGp1bV9ZZzRqSXVQakJCYUxDV3BJcUxNa0JkSm5sUFBUczhxa09yUVJiX3dwSU1XR3NnOWZIYy0wLU1HYnBrcnUtOE9kUi1pcjJrWHRBdUtwZWw5WTNtUGxjeWlMNlJabjBt?oc=5",
+      "description": "Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-13T00:53:05+00:00",
       "published_display": "13 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1lpYUk5ZWVNajg3M2QydTZoSVZUbWhFbnNZZUliXzVWcmdkLVM4WjNvNGtib2liTHo2QzlxYlZ5cUpHQUx6OTZEaEpZbGZhZWktbUFFbGp1bV9ZZzRqSXVQakJCYUxDV3BJcUxNa0JkSm5sUFBUczhxa09yUVJiX3dwSU1XR3NnOWZIYy0wLU1HYnBrcnUtOE9kUi1pcjJrWHRBdUtwZWw5WTNtUGxjeWlMNlJabjBt?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-13T00:53:05+00:00"
+        },
         {
           "name": "Investing.com",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
@@ -51,8 +81,8 @@
           "published_at": "2026-11-13T01:05:40+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "million plewman sells stock svp"
+      "coverage_count": 2,
+      "event_signature": "com investing million plewman sells stock svp"
     },
     {
       "id": "53b2b1e4c26d0fc968fc",
@@ -16271,10 +16301,10 @@
       "event_signature": "234 demand diagnostic flow key levels order slips stabilizes sweep watch"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 61,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-13T18:17:00+05:30",
-  "next_update_display": "13 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-14T06:17:00+05:30",
+  "next_update_display": "14 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

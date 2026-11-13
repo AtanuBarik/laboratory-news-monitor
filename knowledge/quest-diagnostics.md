@@ -1,21 +1,22 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 13 Nov 2026, 12:50 PM IST
+- **Repository generated:** 14 Nov 2026, 1:34 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Quest Diagnostics SVP Plewman sells $3.01 million in stock
+## 1. Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 13 Nov 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Investing.com India: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1lpYUk5ZWVNajg3M2QydTZoSVZUbWhFbnNZZUliXzVWcmdkLVM4WjNvNGtib2liTHo2QzlxYlZ5cUpHQUx6OTZEaEpZbGZhZWktbUFFbGp1bV9ZZzRqSXVQakJCYUxDV3BJcUxNa0JkSm5sUFBUczhxa09yUVJiX3dwSU1XR3NnOWZIYy0wLU1HYnBrcnUtOE9kUi1pcjJrWHRBdUtwZWw5WTNtUGxjeWlMNlJabjBt?oc=5
   - Investing.com: https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5
 
-**Feed description:** Quest Diagnostics SVP Plewman sells $3.01 million in stock Investing.com
+**Feed description:** Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com Investing.com India
 
 ## 2. Quest Diagnostics stock hits all-time high at 261.58 USD
 
