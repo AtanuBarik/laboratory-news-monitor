@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 14 Nov 2026, 1:34 AM IST
+- **Repository generated:** 14 Nov 2026, 12:33 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -1948,23 +1948,7 @@
 
 **Feed description:** Quest Diagnostics Inc expected to post earnings of $2.86 a share - Earnings Preview TradingView
 
-## 151. Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 20 Oct 2026
-- **Category:** Product & Services
-- **Coverage count:** 5
-- **Official source involved:** No
-- **Sources:**
-  - PR Newswire: https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5
-  - Mugglehead Investment Magazine: https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEsxVU9oRUJuRlIzSmFzVzMwV25VOTRsSVZvdXVlOUNvWlBKeHFWdm9OMVJfdzZVamxvNFFxNDlyLW5Wd0RfLUF2aDhBeG9aMHVtQXBCN093TGd2MFlXa0xuTmIwTDdYa3Q0VmpEYTRSYllUTzhpQ09pQnRVZHM1TlROemJ0QQ?oc=5
-  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5
-  - Voice of Healthcare: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjd5U3VZVkRPYU95N2lfQUlRNTAxZlFjMmxnaUxWRXVQM1pOY093Mko5bUFqOGFRSWdjeGZyRVJNREZRaWJCNHBvbUtYU3JseTJ4RHpPS0ROWE4zSVQ1X0phQl9QNTd5YmxNRlIwTlpvTm1McjdfeW5teno1NzJFczFoVzlGZUotQzJWR1JEekY1R25JWmJWajFIN01DblUtY3l4OGJGMUsybVk?oc=5
-
-**Feed description:** Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option Yahoo Finance
-
-## 152. A new at-home HPV test kit is going national through Quest Diagnostics
+## 151. A new at-home HPV test kit is going national through Quest Diagnostics
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -1976,7 +1960,7 @@
 
 **Feed description:** A new at-home HPV test kit is going national through Quest Diagnostics Fast Company
 
-## 153. Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer
+## 152. Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
@@ -1987,6 +1971,22 @@
   - marketscreener.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5
 
 **Feed description:** Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer www.marketscreener.com
+
+## 153. Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 20 Oct 2026
+- **Category:** Product & Services
+- **Coverage count:** 5
+- **Official source involved:** No
+- **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5
+  - PR Newswire: https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5
+  - Mugglehead Investment Magazine: https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEsxVU9oRUJuRlIzSmFzVzMwV25VOTRsSVZvdXVlOUNvWlBKeHFWdm9OMVJfdzZVamxvNFFxNDlyLW5Wd0RfLUF2aDhBeG9aMHVtQXBCN093TGd2MFlXa0xuTmIwTDdYa3Q0VmpEYTRSYllUTzhpQ09pQnRVZHM1TlROemJ0QQ?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5
+  - Voice of Healthcare: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjd5U3VZVkRPYU95N2lfQUlRNTAxZlFjMmxnaUxWRXVQM1pOY093Mko5bUFqOGFRSWdjeGZyRVJNREZRaWJCNHBvbUtYU3JseTJ4RHpPS0ROWE4zSVQ1X0phQl9QNTd5YmxNRlIwTlpvTm1McjdfeW5teno1NzJFczFoVzlGZUotQzJWR1JEekY1R25JWmJWajFIN01DblUtY3l4OGJGMUsybVk?oc=5
+
+**Feed description:** Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option Yahoo Finance
 
 ## 154. Quest Diagnostics Slides as Investors Weigh Medicare Lab Payment Cut Risk
 

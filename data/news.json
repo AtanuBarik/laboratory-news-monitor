@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-14T01:34:04.483708+05:30",
-  "generated_at_display": "14 Nov 2026, 1:34 AM IST",
-  "item_count": 539,
-  "raw_relevant_item_count": 671,
-  "duplicates_merged": 71,
+  "generated_at": "2026-11-14T12:33:27.871830+05:30",
+  "generated_at_display": "14 Nov 2026, 12:33 PM IST",
+  "item_count": 538,
+  "raw_relevant_item_count": 669,
+  "duplicates_merged": 75,
   "failures": [],
   "items": [
     {
@@ -7117,54 +7117,6 @@
       "event_signature": "earnings expected post preview share"
     },
     {
-      "id": "eaa7b5417acbf99346bd",
-      "company": "Quest Diagnostics",
-      "title": "Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
-      "description": "Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option Yahoo Finance",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-10-20T12:00:00+00:00",
-      "published_display": "20 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-10-20T12:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-20T12:00:00+00:00"
-        },
-        {
-          "name": "Mugglehead Investment Magazine",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEsxVU9oRUJuRlIzSmFzVzMwV25VOTRsSVZvdXVlOUNvWlBKeHFWdm9OMVJfdzZVamxvNFFxNDlyLW5Wd0RfLUF2aDhBeG9aMHVtQXBCN093TGd2MFlXa0xuTmIwTDdYa3Q0VmpEYTRSYllUTzhpQ09pQnRVZHM1TlROemJ0QQ?oc=5",
-          "domain": "mugglehead.com",
-          "published_at": "2026-10-20T13:32:27+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-10-23T23:12:02+00:00"
-        },
-        {
-          "name": "Voice of Healthcare",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjd5U3VZVkRPYU95N2lfQUlRNTAxZlFjMmxnaUxWRXVQM1pOY093Mko5bUFqOGFRSWdjeGZyRVJNREZRaWJCNHBvbUtYU3JseTJ4RHpPS0ROWE4zSVQ1X0phQl9QNTd5YmxNRlIwTlpvTm1McjdfeW5teno1NzJFczFoVzlGZUotQzJWR1JEekY1R25JWmJWajFIN01DblUtY3l4OGJGMUsybVk?oc=5",
-          "domain": "vohnetwork.com",
-          "published_at": "2026-10-27T05:12:12+00:00"
-        }
-      ],
-      "coverage_count": 5,
-      "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
-    },
-    {
       "id": "a6520192962a30d4cf78",
       "company": "Labcorp",
       "title": "Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp",
@@ -7289,6 +7241,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
+    },
+    {
+      "id": "01aa6ea40220d23964c8",
+      "company": "Quest Diagnostics",
+      "title": "Waters and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5",
+      "description": "Waters Corporation and Quest Diagnostics Help Close Cervical Cancer Screening Gap Bringing Nationwide Access to the Most Comprehensive FDA-Cleared At-Home HPV Screening Option Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "published_display": "20 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdkx2czNkd3djSmRqZGpiRUV4RTVLRVBQbG9yZi1hb0pQLXh5OU13eUJWVUdveXl0WmtCdUJBcWV0S3U0RExDQ1J1VU84NlNIZDJhTC0weUNoNlVqd3MwSnVzQmdDWW1tYzFEbnhmYTFIV1ZibTRHVjBCTGdfM0dFVVZncGVvbE9Yc3loWVRyWmVMWnRmclhtMWZVVG1HeHNKcmlUOA?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-20T07:00:00+00:00"
+        },
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOTk5MMVlqWk1BcUdQWUlPNXZjYXZTSTBfUjFnWDBRUXppUzR3NG4tOE04QXQ2Z3lxTHZBYnMwR3NZbzJkUnRMdEdTcXlRb0JSZVRtUnRlbENxRGE4R19SeERIMVhjeDE2MVhzekVBbDV1RUR6ZzB6Q2ZKam41dUxTTk5oZDNwX0NfZkhNNFlJbjNkNG9SVDFOeWdPYlNJekRuQnFybzc5aHg2R0ZUVDEwMkRNNVM0SklTbTA5Qll2MHlfX1FEWWFUUlMzX1ZOM2lQQ2hfel91ZUtLOTV4NWx3NUtBQ0YzWDBiTWMxRWlkSU9xRGRCM2U0VDlrcm1rMnlZaHpObjNldDduU3RMYkpreW1rbVNIazhCZWRYZVZId1EwbDA5WFNRSVV3d3dVVXpZYXdBTHE1XzNvRGhhdllOaXZwT1UtT3RoSmdCX0E1Uzc?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-10-20T12:00:00+00:00"
+        },
+        {
+          "name": "Mugglehead Investment Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUEsxVU9oRUJuRlIzSmFzVzMwV25VOTRsSVZvdXVlOUNvWlBKeHFWdm9OMVJfdzZVamxvNFFxNDlyLW5Wd0RfLUF2aDhBeG9aMHVtQXBCN093TGd2MFlXa0xuTmIwTDdYa3Q0VmpEYTRSYllUTzhpQ09pQnRVZHM1TlROemJ0QQ?oc=5",
+          "domain": "mugglehead.com",
+          "published_at": "2026-10-20T13:32:27+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-23T23:12:02+00:00"
+        },
+        {
+          "name": "Voice of Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjd5U3VZVkRPYU95N2lfQUlRNTAxZlFjMmxnaUxWRXVQM1pOY093Mko5bUFqOGFRSWdjeGZyRVJNREZRaWJCNHBvbUtYU3JseTJ4RHpPS0ROWE4zSVQ1X0phQl9QNTd5YmxNRlIwTlpvTm1McjdfeW5teno1NzJFczFoVzlGZUotQzJWR1JEekY1R25JWmJWajFIN01DblUtY3l4OGJGMUsybVk?oc=5",
+          "domain": "vohnetwork.com",
+          "published_at": "2026-10-27T05:12:12+00:00"
+        }
+      ],
+      "coverage_count": 5,
+      "event_signature": "access bringing cancer cervical cleared close comprehensive fda gap help home hpv most nationwide option screening waters"
     },
     {
       "id": "d589b2e62c348f95a60e",
@@ -16269,42 +16269,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "day disc hold investor sept"
-    },
-    {
-      "id": "5b7f642cc799a1e44b17",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Sweep Order Flow",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
-      "description": "Quest Diagnostics (DGX) Slips to $234.40: Key Levels to Watch as Diagnostic Demand Stabilizes - Market Neutral Pair dars.gov.et",
-      "source": "vinanet.vn",
-      "source_url": "http://vinanet.vn",
-      "source_domain": "vinanet.vn",
-      "published_at": "2026-08-16T07:00:00+00:00",
-      "published_display": "16 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLVdFZk9ETHlBcVY2RHlTSVIyaThKdmpNRjBtNUpZakpURGZMbWhaQ3FtSlFFSDI5amhVcWV6c1JGRG5kalhLMzlUbmZ2QjdQNnl6Ym1kZ1gzQnlPZHljd1U1azBTTncyRnZFTEZRTk9jTS12Y2paTDVZQ0FaQ29wZlloZUlENTJ6VWFnVUdjek1MdmlwanJpczV0WVh4UkpCVHRydnZ6azA4b0hVRU9mLVlQV3htVmVxQTNpZ2FTLVM2ZHlrbmQ0U2pB?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-08-16T07:00:00+00:00"
-        },
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5WWUk3eUpsVFZMRWdzWTZMUmpDaVRRQVl4WVZDSkhJZ01oekZ5Tzh5aGlKZFVVY2VjRTRlZ2pOQlRFcFlxVW1ub1hvTGlBdEJWb0ZZNU9ETGhXTzAza1pUSV9rT2RLTlRyd2IzaFo0NkxuclJGOVFlbmR0bWRvUDVleVdPeVBJSWhlYy05N2ZOVzVTak1EbFBOa1Q5MHhhcGNOUGtVZnlJVThBbFRKWU5HMkh2ZnZCYTM4aFUxRVo1Nlh1MlpZT19nYw?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-16T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "234 demand diagnostic flow key levels order slips stabilizes sweep watch"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 56,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-14T06:17:00+05:30",
-  "next_update_display": "14 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-14T18:17:00+05:30",
+  "next_update_display": "14 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
