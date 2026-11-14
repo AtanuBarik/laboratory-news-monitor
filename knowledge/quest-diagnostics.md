@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 14 Nov 2026, 12:33 PM IST
+- **Repository generated:** 15 Nov 2026, 12:00 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -1590,7 +1590,7 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 22 Oct 2026
 - **Category:** Other
-- **Coverage count:** 48
+- **Coverage count:** 49
 - **Official source involved:** No
 - **Sources:**
   - WPLG Local 10: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWnNUcmlKR29DZFJxeHR6cWpQNlgwdnVzRTBlQWtYWmlqbjEwMmg1bExWNndRUnBPQXExUnkzMDB1cF9sZEhxOXJ6WDhienB3aXRXVWh1ZXRaTjB5R3d0MzNiLW5OczViRHRsUHF1SnkxMmVFSTlLRzZkV2R1SDNoRnJ5THRieGlqQy1Kb1BkeFd3Z0xuekQ0eHpPTWJvLVVEc0JMS2Z3TmpkZkx2Vno1WHo1SVFFdFd1?oc=5
@@ -1641,6 +1641,7 @@
   - KALB | News Channel 5: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSzBDLVE5ZjJiZl9WT0doNlBkRVNVNTdJMHZBRk5kV1Y1WEZ0TTJoRlJtVWZtU1FBRDByNDdyR3BfazJWalNJV2hjN2xxYmphR2I1Ui1mdXRaLWlwTWdtdU5UUGNvN1dIdkZoNnUyckE4UkxOcUlQOEQ4NjZuVHBKaHBDNVEySEF5OFpZLVl0dVQ1cF9seEd5M0JnTlZIS0lGTWhXQXFPWTg?oc=5
   - Traverse City Record-Eagle: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYlh3MTZFckdIOFdTOUFzZW5CckpYTlVHeFdlOS1GT1Rkck9xU0pTSEdZdWlkdmQtNkM0RXdsdmJ4aHdRaDFsNWFFRkhNbVlPN3lIb053VGljcXRIS3UwLXFwWEdhWUVWaFlFWm8xdER3M1Q5SDNrM1ZLNUZjLU0wZ0hlNUU2R2RGMU5iTi0tTlJTTmtDVS11Z2hZVlJBeTFaOUZmM3Rpd2ZsOUg3WHhNOThBMDA3MGhSVmgxM0ZUbVFnSGRSeVEwMjVrQkxPMzFJYXRpRmE5R0M5ZndDZzNGcDlKeExTZE1UblF4NHZkX3hHLVR3cWc?oc=5
   - Toronto Star: https://news.google.com/rss/articles/CBMigAJBVV95cUxOMWk2cWRCZExySjBIT2gwdHNGeC1idHh0NVFhTEJ6QzNFUEpHd3RNelFVUzg5T1hOUm12bEVSQW0tcTl6LXZpaWVyMW9wWDRoNFdxNzRNa2dVRkNzc3ZBMEZUUXBOWDNXejJHTG16OGptWDFQc0hXTF9fNlVkaU4tOWs3T1oxcE5ObWJGZmlrNXRiUWxQR19kVmsyM3h6U191c2xTV0g5aGNzbnNsR1liQjVUd2t5bEt6X1UteG9QUV9DTUE2cVlxdTlvU2Z5eV9xVUs0b3B3SC1RQWVMejJwYnJlT0FubURfWXZmc19rbGFkWlA0cTNuS3gyR1RKUlU3?oc=5
+  - SecurityWeek: https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbQ?oc=5
 
 **Feed description:** Quest Diagnostics reports cyber breach affecting 'certain patient records' ABC News - Breaking News, Latest News and Videos
 
