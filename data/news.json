@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-15T00:00:54.686840+05:30",
-  "generated_at_display": "15 Nov 2026, 12:00 AM IST",
+  "generated_at": "2026-11-15T04:15:18.706829+05:30",
+  "generated_at_display": "15 Nov 2026, 4:15 AM IST",
   "item_count": 538,
-  "raw_relevant_item_count": 664,
-  "duplicates_merged": 69,
+  "raw_relevant_item_count": 659,
+  "duplicates_merged": 65,
   "failures": [],
   "items": [
     {
@@ -6013,9 +6013,15 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaktWYlJRMW5xdTROM3EwMjVDVjNHbHI2alQ1bFlWZXgyTFBCLWhSU1hoTzNVNnp1LVZGYXROaVJPVDYxWnpJZ2Y5TGZ2NXVPdF9Ec2xoa1JEazEzUjliTXFpWXByTlJXdzhaV01RNGQ4SW1HT2ZEcmkxejNGRVFDYXBxMlZRRjVfaEJXRnlvVlBwa3ItMTBjbU02dmdmX3Rwd1hhbQ?oc=5",
           "domain": "securityweek.com",
           "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "name": "Indianapolis Business Journal",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0ZUOGxPa2VNalVncXd1eFpyY0hzbnJfNS1qeWMxVGlxSGs1b0otaEJtcEJXTGZEZE1jR0RWVnJlN2pPNHVJRnM2ZEc1NGxlRVRPcGFWRGdpcDh0dWRCOGY1YmxEdjRGVnlNdHNrTWR5YmF4YWN6aXFPS2ZxLVpnQXRfXzdyeDlmVEE3ZjFneTdXTm1ZZ3RySDk0MTNFVkt5VFhN?oc=5",
+          "domain": "ibj.com",
+          "published_at": "2026-10-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 49,
+      "coverage_count": 50,
       "event_signature": "affecting breach certain cyber patient records"
     },
     {
@@ -16277,10 +16283,10 @@
       "event_signature": "day disc hold investor sept"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 56,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-15T00:17:00+05:30",
-  "next_update_display": "15 Nov 2026, 12:17 AM IST",
+  "next_update_at": "2026-11-15T06:17:00+05:30",
+  "next_update_display": "15 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
