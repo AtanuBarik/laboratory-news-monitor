@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 15 Nov 2026, 12:43 PM IST
+- **Repository generated:** 16 Nov 2026, 12:37 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -807,12 +807,13 @@
 - **Company:** Labcorp
 - **Publication date:** 26 Oct 2026
 - **Category:** Product & Services
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - MedTech Dive: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd29jWFpiZGlRUm5lbnFxVlBaeVV5YkVSZWVQRTMzR045RFAyOUxtWS1nMHZZZy1YbnNvZ1BrbnM4VUZQejc3R2ZmSGpFSnZNekdxN05OOC1pOUx1cVFsczZUdkdackVhbUhUb21Va3l1anBya3VBbEtvQy04a0R2MkhXN1duS0dhblhJMTJwWjNPRC1HZGRCajV5SFlqUnZVLWg2U1Q5TEVfejA?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMinwFBVV95cUxOTERxWko3S0tUMlU4Zng1bjhmd096Zi1MRVZ1VkNZSzFyUmhxSG13TzZBLTh3RkpocUdnUUxtSDNadlZZdWw5MG5zWVl2dFdNak5Ua290WDNuZXVKTFZ3VXQteDFBbVQwVEJEV18zbUgyQnRQRy1vVDE0akxpdGo2bFAzX3dkZVE4QVFCQlM1S1BPaGw3cXB2ZEhDRWdXQm8?oc=5
 
-**Feed description:** Labcorp inks Millennium Health buyout to add drug testing services MedTech Dive
+**Feed description:** Labcorp inks Millennium Health buyout to add drug testing services Yahoo Finance
 
 ## 65. Flexible HPV Screening Options: Labcorp and Waters Expand Access to Cervical Cancer…
 
