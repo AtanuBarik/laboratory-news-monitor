@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 15 Nov 2026, 4:15 AM IST
+- **Repository generated:** 15 Nov 2026, 12:43 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -296,19 +296,7 @@
 
 **Feed description:** Quest Diagnostics pays more than $13 million to settle allegations of illegal kickbacks involving Giants tickets, VIP events WRNJ Radio
 
-## 24. IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 06 Nov 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investor's Business Daily: https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5
-
-**Feed description:** IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise Investor's Business Daily
-
-## 25. Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations
+## 24. Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Nov 2026
@@ -321,7 +309,7 @@
 
 **Feed description:** Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations Hudson County View
 
-## 26. Subu Ramachandran Expands With Quest Diagnostics Stock Options Worth $6K
+## 25. Subu Ramachandran Expands With Quest Diagnostics Stock Options Worth $6K
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Nov 2026
@@ -333,7 +321,7 @@
 
 **Feed description:** Subu Ramachandran Expands Holdings With Quest Diagnostics Stock Options Worth $6K Benzinga
 
-## 27. Quest Diagnostics Insider Sold Shares Worth $5,482,442, According to a Recent SEC Filing
+## 26. Quest Diagnostics Insider Sold Shares Worth $5,482,442, According to a Recent SEC Filing
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 06 Nov 2026
@@ -344,6 +332,18 @@
   - www.marketscreener.com: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNOW1wYzlBb3oxZ1hpbzAxVnpDOC11X3k2cmltMVJ2TndaTEhIMlkyUUxRZnBBZzIwTW4xaFJwWFREUDFJU01aVThCa3pXU3Zob1BqaXpuazc4Y1FwRUdCdURWVnJyWUh6aVQwY19DN0N2dXJnd2xLSDBrTjE3eGFEbnVheWl0cE5POEppVFhtaFZtNXFiQm5KZmdYa0lMRG5kUXVWbGRNM0VQTDNiME1qcWhaWmd0UVRBbV83bkJLS1lvUjVONnQ2X2x0MkwzMEVyOUtsbUh3?oc=5
 
 **Feed description:** Quest Diagnostics Insider Sold Shares Worth $5,482,442, According to a Recent SEC Filing www.marketscreener.com
+
+## 27. IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 06 Nov 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Investor's Business Daily: https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5
+
+**Feed description:** IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise Investor's Business Daily
 
 ## 28. Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com
 
@@ -914,19 +914,7 @@
 
 **Feed description:** Quest Diagnostics 3Q 2026: Revenue $3.1B, Net income $312M, EPS $2.78— 10-Q Summary TradingView
 
-## 74. What health system leaders should know about PHP2Shell and Quest Diagnostics
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 23 Oct 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Chief Healthcare Executive: https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5
-
-**Feed description:** What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive
-
-## 75. Hack on Quest Diagnostics used by 85m Americans exposes patient data
+## 74. Hack on Quest Diagnostics used by 85m Americans exposes patient data
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -938,7 +926,7 @@
 
 **Feed description:** Hack on Quest Diagnostics used by 85m Americans exposes patient data Daily Mail
 
-## 76. Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security
+## 75. Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -950,7 +938,7 @@
 
 **Feed description:** Quest Diagnostics Reports Patient-Record Intrusion As Labs Face Scrutiny Over Data Security Dallas Express
 
-## 77. Quest Diagnostics warns of potential data theft after attack on lab service system
+## 76. Quest Diagnostics warns of potential data theft after attack on lab service system
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -962,7 +950,7 @@
 
 **Feed description:** Quest Diagnostics warns of potential data theft after attack on lab service system The Record from Recorded Future News
 
-## 78. Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach
+## 77. Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -974,7 +962,7 @@
 
 **Feed description:** Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch
 
-## 79. Quest Diagnostics hit by cyber attack
+## 78. Quest Diagnostics hit by cyber attack
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -987,7 +975,7 @@
 
 **Feed description:** Quest Diagnostics hit by cyber attack FOX 8 News
 
-## 80. Medical lab Quest Diagnostics cyber breach may impact patient records
+## 79. Medical lab Quest Diagnostics cyber breach may impact patient records
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -999,7 +987,7 @@
 
 **Feed description:** Medical lab Quest Diagnostics cyber breach may impact patient records Houston Chronicle
 
-## 81. Quest Diagnostics Stock Price Stalls After Strong Q3 Earnings
+## 80. Quest Diagnostics Stock Price Stalls After Strong Q3 Earnings
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1011,7 +999,7 @@
 
 **Feed description:** Quest Diagnostics (DGX) Stock Price Stalls After Strong Q3 Earnings Yahoo Finance
 
-## 82. Quest Diagnostics reports unauthorized access to lab system, says patient information may have been compromised
+## 81. Quest Diagnostics reports unauthorized access to lab system, says patient information may have been compromised
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1023,7 +1011,7 @@
 
 **Feed description:** Quest Diagnostics reports unauthorized access to lab system, says patient information may have been compromised WRNJ Radio
 
-## 83. Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked
+## 82. Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1036,7 +1024,7 @@
 
 **Feed description:** Quest Diagnostics: Healthcare Giant Serving Half of America’s Hospitals and Doctors Has Been Hacked Gadget Review
 
-## 84. Quest Diagnostics discloses cyberattack on lab services system
+## 83. Quest Diagnostics discloses cyberattack on lab services system
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1049,7 +1037,7 @@
 
 **Feed description:** Quest Diagnostics, Which Serves Half Of US Hospitals, Discloses Unauthorized Access To Its Quantum Lab Services Manager System OfficeChai
 
-## 85. Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating
+## 84. Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1061,7 +1049,7 @@
 
 **Feed description:** Deutsche Bank Adjusts Quest Diagnostics PT to $245 From $232, Maintains Hold Rating marketscreener.com
 
-## 86. Quest Diagnostics Discloses Cybersecurity Breach
+## 85. Quest Diagnostics Discloses Cybersecurity Breach
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1074,7 +1062,7 @@
 
 **Feed description:** Quest Diagnostics Discloses Cybersecurity Breach Medical Device and Diagnostic industry
 
-## 87. Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach
+## 86. Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1086,7 +1074,7 @@
 
 **Feed description:** Two cyber alerts in one week: What physicians need to do about PHP2Shell and the Quest Diagnostics breach Medical Economics
 
-## 88. Quest Diagnostics investigating data breach involving patient records
+## 87. Quest Diagnostics investigating data breach involving patient records
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1098,7 +1086,7 @@
 
 **Feed description:** Quest Diagnostics investigating data breach involving patient records Tri-State Alert
 
-## 89. Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System
+## 88. Quest Diagnostics Confirms Cyberattack Exposing Patient Records in Quanum System
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1114,7 +1102,7 @@
 
 **Feed description:** Quest Diagnostics confirms cyberattack exposing sensitive patient data from its lab testing system. Pluang
 
-## 90. Patient Data Likely Accessed in Quest Diagnostics Hack
+## 89. Patient Data Likely Accessed in Quest Diagnostics Hack
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1126,7 +1114,7 @@
 
 **Feed description:** Patient Data Likely Accessed in Quest Diagnostics Hack The HIPAA Journal
 
-## 91. Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected
+## 90. Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1138,7 +1126,7 @@
 
 **Feed description:** Cyber Breach Hits Quest Diagnostics, Patient Records May Be Affected Security Magazine
 
-## 92. Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic
+## 91. Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 23 Oct 2026
@@ -1149,6 +1137,18 @@
   - Fierce Healthcare: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOREhkVFh1cEVpUGlPejJfUmxoaGxseS1sNVRRSXR2QkJHQTBNMHhaaGdHS2VxQldUOE41alkwc2ppMElyR0tXNmRwNnFOLXJyYVYxRUhmdWtEVW55VmtWUDcyQ0l5UGs0WGJxNV9weVNnU2RMSzlIb0pMYk1JNFU4U1I2Umo4clNYWm1jLWo3N2M3VXhoQXhJR19pbjZtd1laa09CcWx2bmFnYWdQcWF1bnI0cG9DaDE2N0FWVnVjZ0dYUm9YR3RHZQ?oc=5
 
 **Feed description:** Weekly Rundown: Quest Diagnostics reports cybersecurity breach; Novant Health launches virtual men’s health clinic Fierce Healthcare
+
+## 92. What health system leaders should know about PHP2Shell and Quest Diagnostics
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 23 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Chief Healthcare Executive: https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5
+
+**Feed description:** What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive
 
 ## 93. US medical testing giant Quest Diagnostics confirms cyberattack, patient data exposed
 

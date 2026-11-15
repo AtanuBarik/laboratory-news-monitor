@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-15T04:15:18.706829+05:30",
-  "generated_at_display": "15 Nov 2026, 4:15 AM IST",
-  "item_count": 538,
-  "raw_relevant_item_count": 659,
-  "duplicates_merged": 65,
+  "generated_at": "2026-11-15T12:43:53.994128+05:30",
+  "generated_at_display": "15 Nov 2026, 12:43 PM IST",
+  "item_count": 537,
+  "raw_relevant_item_count": 650,
+  "duplicates_merged": 63,
   "failures": [],
   "items": [
+    {
+      "id": "348afc5dbb27460ff90a",
+      "company": "Labcorp",
+      "title": "Labcorp Earnings Call Signals Growth Despite PAMA Risks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaFY0aF92eUlVSk9lR2tHQXZYV21waUR5M0RzdTI1M2J5UEtOUm9UbzB6Y3BabHd3TXY2LUl5THBYVndBQ045X3czN0ZrWktIREEwcXVEV2JKem9qV3pnQ0dIWEVnMUZPcnh3Ykthbm5QOG9veldUcm4ta2M1OVlsZDFYU0MtTmxLN0pldVQ2aDdvVmV4bWx1dTZVRDRpY2dKakZuRkxneWpSTkU?oc=5",
+      "description": "Labcorp Earnings Call Signals Growth Despite PAMA Risks TipRanks",
+      "source": "TipRanks",
+      "source_url": "https://www.tipranks.com",
+      "source_domain": "tipranks.com",
+      "published_at": "2026-11-15T03:56:37+00:00",
+      "published_display": "15 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaFY0aF92eUlVSk9lR2tHQXZYV21waUR5M0RzdTI1M2J5UEtOUm9UbzB6Y3BabHd3TXY2LUl5THBYVndBQ045X3czN0ZrWktIREEwcXVEV2JKem9qV3pnQ0dIWEVnMUZPcnh3Ykthbm5QOG9veldUcm4ta2M1OVlsZDFYU0MtTmxLN0pldVQ2aDdvVmV4bWx1dTZVRDRpY2dKakZuRkxneWpSTkU?oc=5",
+          "domain": "tipranks.com",
+          "published_at": "2026-11-15T03:56:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "call despite earnings growth pama risks signals"
+    },
     {
       "id": "736c481f68e2d8493a47",
       "company": "Labcorp",
@@ -877,30 +901,6 @@
       "event_signature": "allegations events giants illegal involving kickbacks million more pays settle than tickets vip"
     },
     {
-      "id": "3ddff3d5b8707725f0f1",
-      "company": "Quest Diagnostics",
-      "title": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5",
-      "description": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise Investor's Business Daily",
-      "source": "Investor's Business Daily",
-      "source_url": "https://www.investors.com",
-      "source_domain": "investors.com",
-      "published_at": "2026-11-06T21:57:00+00:00",
-      "published_display": "06 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investor's Business Daily",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5",
-          "domain": "investors.com",
-          "published_at": "2026-11-06T21:57:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "bucking day ibd malaise medtech stock"
-    },
-    {
       "id": "6ab68a3907c7f7a46080",
       "company": "Labcorp",
       "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing",
@@ -1025,6 +1025,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "analysis forecast price share"
+    },
+    {
+      "id": "3ddff3d5b8707725f0f1",
+      "company": "Quest Diagnostics",
+      "title": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5",
+      "description": "IBD Stock Of The Day Quest Diagnostics Is Bucking The Medtech Malaise Investor's Business Daily",
+      "source": "Investor's Business Daily",
+      "source_url": "https://www.investors.com",
+      "source_domain": "investors.com",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investor's Business Daily",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcHdtOWpFUW9KY1hiQXJ6ZDFGM1NtazVicjVsZjhhVi1kOV9HVUF3SWh5UlJBejhRR0RNR2JJYjhnNHg3MEJ1ek9NQy1oZ2h0SUxvcVRtSW9vUzVBNXE0UVJDaHFmSk9mbjlDOUNNWm0yMExiVjdrY3VsUnE4NUZBa3BIUVdqOGp5U09ieTRzNUh2aFJLbFRyY2NqZUpfU3MxSGZxaWpTaw?oc=5",
+          "domain": "investors.com",
+          "published_at": "2026-11-06T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "bucking day ibd malaise medtech stock"
     },
     {
       "id": "905f25e809c0642e0b73",
@@ -4039,30 +4063,6 @@
       "event_signature": "2026 312m eps income net revenue summary"
     },
     {
-      "id": "c42fb48153c2242fe57f",
-      "company": "Quest Diagnostics",
-      "title": "What health system leaders should know about PHP2Shell and Quest Diagnostics",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5",
-      "description": "What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive",
-      "source": "Chief Healthcare Executive",
-      "source_url": "https://www.chiefhealthcareexecutive.com",
-      "source_domain": "chiefhealthcareexecutive.com",
-      "published_at": "2026-10-23T19:52:37+00:00",
-      "published_display": "23 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Chief Healthcare Executive",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5",
-          "domain": "chiefhealthcareexecutive.com",
-          "published_at": "2026-10-23T19:52:37+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "about health know leaders php2shell should system what"
-    },
-    {
       "id": "13046c6f3c676ba57166",
       "company": "Quest Diagnostics",
       "title": "Hack on Quest Diagnostics used by 85m Americans exposes patient data",
@@ -4751,6 +4751,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach cybersecurity health launches men novant rundown virtual weekly"
+    },
+    {
+      "id": "c42fb48153c2242fe57f",
+      "company": "Quest Diagnostics",
+      "title": "What health system leaders should know about PHP2Shell and Quest Diagnostics",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5",
+      "description": "What health system leaders should know about PHP2Shell and Quest Diagnostics Chief Healthcare Executive",
+      "source": "Chief Healthcare Executive",
+      "source_url": "https://www.chiefhealthcareexecutive.com",
+      "source_domain": "chiefhealthcareexecutive.com",
+      "published_at": "2026-10-23T07:00:00+00:00",
+      "published_display": "23 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Chief Healthcare Executive",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPR3c0OC1xVHUyZllBeWpHbG1TZUVzdHZiWndmeU9kS3R0cHhGZDlJMG9pWUQ4TC1wa29RU0NiMmdoRnB6Y1A2LWxvck13Y2w0S2hUbllkcDZwWXVlZnBnUlNraTBYSk5VSXZfSkN1T29qSjVLRFV5aHVIcWhjY3R6M0ZmNDUwS050V2I3blp2Mk9zNWIxSnM5VkRZN05TZ2VtT21GZFJORUsxUV9zdm5meDNDSFBucl9tdlhiRzE5Zw?oc=5",
+          "domain": "chiefhealthcareexecutive.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "about health know leaders php2shell should system what"
     },
     {
       "id": "8e32a8b4f1f82cd31536",
@@ -16191,102 +16215,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "analyzing growth investor outlook potential upside"
-    },
-    {
-      "id": "5473b148b0e029cad6fd",
-      "company": "Labcorp",
-      "title": "Labcorp to Host Investor Day on September 10, 2026",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
-      "description": "Labcorp formally scheduled its 2026 Investor Day for Thursday, September 10, from 9 a.m. to noon ET. Chairman and CEO Adam Schechter, Executive Vice President and CFO Julia Wang and other members of the executive leadership team will use the session to discuss Labcorp's go-forward strategy, capital deployment priorities and long-term financial outlook. Management presentations will be followed by a question-and-answer session. The company will provide a live webcast through its Investor Relations website beginning at 9 a.m. ET, and it plans to post a replay and supporting materials after the event. The August 17 announcement establishes the timing and agenda but does not itself provide new long-range revenue, margin or earnings targets, announce an acquisition, change the dividend or repurchase program, or revise current 2026 guidance. That distinction is important because Labcorp had already raised its 2026 enterprise revenue-growth outlook to 5.4%-6.3% and adjusted EPS guidance to $18.10-$18.55 after second-quarter results. The material development in the queued article is therefore the formal schedule for a management briefing where investors should receive more detail on long-term strategy and capital allocation, rather than a new financial forecast contained in the scheduling release itself.",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVDJucWhHclEzZGxjNmNaRjVEZklpNS1XRm5iR2lGYUdIYlBrSG5NY3luYnRJR3VuVnpvblZiU0R6UkZxTEtBZkhIdEFUQ0hLckRSR0M5Qm5QeXo1WHRwSTkzM3pVQ2pQX0tMWVZPUjQ4cE5ENXp2cHFTam5qa1I0cTdOOFRMZHFtSTNiR3ZFRWM1VXR1UExDSmdQX2o4c2NLQVJ2LVh0emc?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-17T07:00:00+00:00"
-        },
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-17T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWmpXMndDOU1XcEhmZnM4bGhDZDFQN2J0SVoyeUtyYzJiWVR5YkowWnpZVU43eXk3aVFId1c5QlQ0UkJSVHF0SHBPbm8wbjZzS1hvRWQ2NkEyWEtiU1dUNkI0YS1DYW40dllMdVE3NmVMZm9ibGM0bTdBWFAxOHZaLUpNRjhrSm81NHppNHc3b0Vxam11WG1pLWZFYU8?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-17T12:00:00+00:00"
-        },
-        {
-          "name": "Sahm",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZUYzgwTFMyQ2x2dGhsWnRkbGhoelFILTFRWGo5NVc5SXNPUEFuRGI4VzZDcGh4dVB3QmxlMEthWWFOZ0tMUlNzSE1sMWk0azJzNXhlS0NhQTYzMk1tQ0hBVWpZTmhuT2pMbGwxYXljYVpIR3dlM2VITmdualFUM3d5bDgzX2dtdHluYjIzdTJRWVBTTFlERk1TZzlPTVJXMmRN?oc=5",
-          "domain": "sahmcapital.com",
-          "published_at": "2026-08-18T10:53:01+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUYydnFaUnA0dDlmYVBNc212RHRzMnFVd3ZvWUlSekNfLTcxVHgyY2hHeHFQTVF6UXI4OXhrOFNUV2ZXaElwXzFZdVZScEVUb2tnYjF0em1UdUlfMmx6dlczNEtyaWFRMVYxd2tJcUVWZEtwV3lJVVpiUnA1aFhGUTZRV3hiTHhjUGlHbnU3R1BkX3ZQektBbF9RM0plZEdQUmc?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-08-17T15:19:58+00:00"
-        },
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMVNNN19kbnFHSER6eXltd0pJZEhTRGJBdkNrcVpESnZlWWlVbUdfTWdzUnBhMTl4MTUxT1ZuVHBveE5HTmNBR3lKNGZuRnI3czJxc1hLWTFVOThudDhGeGliUDFxQ0pTWG1XMVo3d21PZm91cFEwekd6VWI5TWZJNXQ4OFoza1hBMGhhYkdSY1BUZndIcHIwRkticjBKbXZvRmxCOXM2dFNqMm1RMF9JN0tiWW1yeEJhb1JnTVQxRHhtcEcwbEJ4b0xJbFB5QnBPc3lSVFFMTjQ5ZGh5ckF3?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-17T19:22:27+00:00"
-        },
-        {
-          "name": "The AI Journal",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YeDRpWTh5NjBrTlhDc0g2YUN4cEZSZmVNT2h5RF9GME9VeXlQX1ZwZGpWdmxWYW9XdjlzdWFtZVJ6b0pwYU9OX0RVazZmaGJYcTM1eWJUTFJRR1ctLVZYYWw4YW82YjN3dVp5YzFJeVpoZkI1RW9oMXl3?oc=5",
-          "domain": "aijourn.com",
-          "published_at": "2026-08-17T19:05:22+00:00"
-        },
-        {
-          "name": "AOL.ca",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYzc5MnJJcm5GcW9uQmdNR1FlVnd5VmlXdEx6RWZlY0FlQ1FtM1FtMnBMZHFYTVZCZkMtNERxRU5waW94U2hwWU1JN1FTcG5SVVhUSnJXOW43clI5bmMxU3NBVFExMk9oZTc5dG1IbGhkejdyeWtlSk0tQXowcklGQ3JMeEY?oc=5",
-          "domain": "aol.ca",
-          "published_at": "2026-08-17T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 8,
-      "event_signature": "2026 day host investor september"
-    },
-    {
-      "id": "03edb8450d08357ea3bd",
-      "company": "Labcorp",
-      "title": "Labcorp to hold Investor Day on Sept 10 to disc...",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
-      "description": "Labcorp to hold Investor Day on Sept 10 to disc... pluang.com",
-      "source": "pluang.com",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-17T07:00:00+00:00",
-      "published_display": "17 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "pluang.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSmtTOVF1Z3BnY2VRSG1yNHVZdGc3YkUwNEVRY2pCTTAzQmw3cHNFU2hXdGdwdWQwVnBwdlJDZnA5WUczUHpsbjVHTmQtc0Q2MnRxQ0lJRnF6U3R1anJQV1FBOGJDN0NWeTJaNHJGSUNacDBkdGFxb3hWMmpodw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-17T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "day disc hold investor sept"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 50,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-15T06:17:00+05:30",
-  "next_update_display": "15 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-15T18:17:00+05:30",
+  "next_update_display": "15 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
