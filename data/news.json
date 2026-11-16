@@ -1,17 +1,63 @@
 {
-  "generated_at": "2026-11-16T12:49:35.881646+05:30",
-  "generated_at_display": "16 Nov 2026, 12:49 PM IST",
-  "item_count": 528,
-  "raw_relevant_item_count": 528,
-  "duplicates_merged": 0,
+  "generated_at": "2026-11-17T04:02:27.826107+05:30",
+  "generated_at_display": "17 Nov 2026, 4:02 AM IST",
+  "item_count": 529,
+  "raw_relevant_item_count": 584,
+  "duplicates_merged": 43,
   "failures": [
-    "Labcorp: HTTP Error 503: Service Unavailable",
-    "Quest Diagnostics: HTTP Error 503: Service Unavailable",
-    "ARUP Laboratories: HTTP Error 503: Service Unavailable",
-    "Mayo Clinic Laboratories: HTTP Error 503: Service Unavailable",
-    "Sonic Healthcare: HTTP Error 503: Service Unavailable"
+    "ARUP Laboratories: HTTP Error 429: Too Many Requests",
+    "Mayo Clinic Laboratories: HTTP Error 429: Too Many Requests",
+    "Sonic Healthcare: HTTP Error 429: Too Many Requests"
   ],
   "items": [
+    {
+      "id": "79e5e4d24d4bef9af841",
+      "company": "Quest Diagnostics",
+      "title": "New Products: Volta Labs, Quest Diagnostics, Arcedi Biotech, MRC Holland",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlJ0emtJWkRFUzNmREMyLWhBX2lyVldxN0VqYllqX2NQTmpiWWdGY3dkRkFrN0kwQ0hOMlRLTE1TTnRjcUU2Q2NNOXpsMF9WTHdiQ1Fmd1BGNkYxMkdTUFhhdGs2TjluMElKM1ZiVjRHYVU3Z3dDMGdQQ1VoX0JXYXVMVkczTWwtX2FyWA?oc=5",
+      "description": "New Products: Volta Labs, Quest Diagnostics, Arcedi Biotech, MRC Holland GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-11-16T15:20:00+00:00",
+      "published_display": "16 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZlJ0emtJWkRFUzNmREMyLWhBX2lyVldxN0VqYllqX2NQTmpiWWdGY3dkRkFrN0kwQ0hOMlRLTE1TTnRjcUU2Q2NNOXpsMF9WTHdiQ1Fmd1BGNkYxMkdTUFhhdGs2TjluMElKM1ZiVjRHYVU3Z3dDMGdQQ1VoX0JXYXVMVkczTWwtX2FyWA?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-11-16T15:20:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "arcedi biotech holland labs mrc products volta"
+    },
+    {
+      "id": "49dc048f282ce3a568f5",
+      "company": "Labcorp",
+      "title": "Vaginitis Test Startup Nanopath Lands Labcorp In $25 Million Series B",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGFEcHdGUnV0c1VwakxRVllKemFwRkxqUFdsMzRLWWlaZmIwbmgxTzZwNlg4aU55eVk4RkdFVEE5c1MxTHl4dVNVbm1iYnA2cDM2cmM1VkU4Z2hhQmVzMkQ1aGIxNF9rbkRSbm9iR3hFa3Y2bC11a3hBejV5LUh4cDZrWnREZ182Z2ZCZHdGNmhEd2tsdkFVYzMxWkdZQUl6TzFHTWtCekMyS2ZMbzlqSFJKOGhKQl9M?oc=5",
+      "description": "Vaginitis Test Startup Nanopath Lands Labcorp In $25 Million Series B Forbes",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "source_domain": "forbes.com",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "published_display": "16 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeGFEcHdGUnV0c1VwakxRVllKemFwRkxqUFdsMzRLWWlaZmIwbmgxTzZwNlg4aU55eVk4RkdFVEE5c1MxTHl4dVNVbm1iYnA2cDM2cmM1VkU4Z2hhQmVzMkQ1aGIxNF9rbkRSbm9iR3hFa3Y2bC11a3hBejV5LUh4cDZrWnREZ182Z2ZCZHdGNmhEd2tsdkFVYzMxWkdZQUl6TzFHTWtCekMyS2ZMbzlqSFJKOGhKQl9M?oc=5",
+          "domain": "forbes.com",
+          "published_at": "2026-11-16T12:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "lands million nanopath series startup test vaginitis"
+    },
     {
       "id": "348afc5dbb27460ff90a",
       "company": "Labcorp",
@@ -35,6 +81,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "call despite earnings growth pama risks signals"
+    },
+    {
+      "id": "988678a9a4e83b83be7c",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock price, news, quote and history",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance UK",
+      "source": "Yahoo Finance UK",
+      "source_url": "https://uk.finance.yahoo.com",
+      "source_domain": "uk.finance.yahoo.com",
+      "published_at": "2026-11-13T18:52:11+00:00",
+      "published_display": "13 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
+          "domain": "uk.finance.yahoo.com",
+          "published_at": "2026-11-13T18:52:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "history price quote stock"
     },
     {
       "id": "736c481f68e2d8493a47",
@@ -15892,70 +15962,12 @@
       "summary_evidence": [
         "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
       ]
-    },
-    {
-      "id": "05fe2a3bf3d4448eabda",
-      "company": "Labcorp",
-      "title": "Labcorp Gains 1.64% to $323.34 as Diagnostics Leader Presses Toward Resistance - Upthrust Pattern",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzBRLWl6LW41Wi1ZdjJ1dkVOS0d0b3pMLUxESm9qbFB4NnY1OGhOX3BiV0wyTENUNGZOZmFYRF92WXRXd2dRRUpBbm5YQmVuUnJGX1pSNHY2c1ZXU2N4WmVGeG0tczVha1RzYTZRVkhFeWgySzBFejVqMndWeEVMSEZGUjhheFpDbjJhVlAtcG56UGp5RWYyQTZWdjZfRXo0eU5MRERlRTJ4Vkl4LUdtZm02ZE01Y2hFV3NJ?oc=5",
-      "description": "Labcorp (LH) Gains 1.64% to $323.34 as Diagnostics Leader Presses Toward Resistance - Upthrust Pattern vinanet.vn",
-      "source": "vinanet.vn",
-      "source_url": "http://vinanet.vn",
-      "source_domain": "vinanet.vn",
-      "published_at": "2026-08-18T11:31:31+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUzBRLWl6LW41Wi1ZdjJ1dkVOS0d0b3pMLUxESm9qbFB4NnY1OGhOX3BiV0wyTENUNGZOZmFYRF92WXRXd2dRRUpBbm5YQmVuUnJGX1pSNHY2c1ZXU2N4WmVGeG0tczVha1RzYTZRVkhFeWgySzBFejVqMndWeEVMSEZGUjhheFpDbjJhVlAtcG56UGp5RWYyQTZWdjZfRXo0eU5MRERlRTJ4Vkl4LUdtZm02ZE01Y2hFV3NJ?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-08-18T11:31:31+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "323 gains leader pattern presses resistance toward upthrust"
-    },
-    {
-      "id": "3178619de1b5fa4f6db9",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Shows Dividend Quality Beyond the Headline Yield",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
-      "description": "ChartMill’s August 18 dividend screen identified Quest Diagnostics as a dividend-quality candidate based on payout history, profitability and balance-sheet measures rather than a high headline yield. The article gave DGX a Dividend Rating of 7/10 and reported a 1.46% yield, versus about 0.43% for its healthcare-provider industry and 1.70% for the S&P 500. It said Quest had paid a dividend for at least 10 years without a reduction, with dividend growth averaging roughly 7.42% annually and a payout ratio of 34.31% of income. ChartMill also assigned profitability and health ratings of 7/10 and 6/10. Metrics cited included 6.25% return on assets, 14.08% return on equity, 8.49% return on invested capital, a 14.56% operating margin, 1.59 current ratio, 1.46 quick ratio, 3.60 Altman Z-score and debt-to-free-cash-flow ratio of 4.18. The article cautioned that profit and operating margins had declined and that ROIC was below cost of capital. Separately, Quest’s board set the 2026 quarterly dividend at $0.86 per share, annualized at $3.44, after a 7.5% increase in February that marked 15 consecutive years of dividend increases. ChartMill’s ratings and peer comparisons are third-party investment analysis, not company forecasts.",
-      "source": "ChartMill",
-      "source_url": "https://www.chartmill.com",
-      "source_domain": "chartmill.com",
-      "published_at": "2026-08-18T08:21:08+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORFZlWEJQdlUwZzNHRkxUdWVmUGdrMkMxVUNNeXc5UWdWT3NIYldWMEtkSW9EOG5RTm1kSmhiQ2tOVG4wXzhCQl9udkFWOUlVRUZKNkhFcHU5VFdOaEE5dEpROThVcnBJOV80a3dCYWVWY1Jyb1p4YUZ5M3NFVW1KMjU3VzlQbHh1WUhQcUUwRF9QRDhzbGJOMEtmd3luSjFNcEszaUxMVlV3Q1RCb3pmQ1VYTHJoX0VaYTkxRlo4UFhHeEk?oc=5",
-          "domain": "chartmill.com",
-          "published_at": "2026-08-18T08:21:08+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "beyond dividend headline quality shows yield",
-      "source_description": "Quest Diagnostics (NYSE:DGX) Shows Dividend Quality Beyond the Headline Yield ChartMill",
-      "chatgpt_summary": "ChartMill’s August 18 dividend screen identified Quest Diagnostics as a dividend-quality candidate based on payout history, profitability and balance-sheet measures rather than a high headline yield. The article gave DGX a Dividend Rating of 7/10 and reported a 1.46% yield, versus about 0.43% for its healthcare-provider industry and 1.70% for the S&P 500. It said Quest had paid a dividend for at least 10 years without a reduction, with dividend growth averaging roughly 7.42% annually and a payout ratio of 34.31% of income. ChartMill also assigned profitability and health ratings of 7/10 and 6/10. Metrics cited included 6.25% return on assets, 14.08% return on equity, 8.49% return on invested capital, a 14.56% operating margin, 1.59 current ratio, 1.46 quick ratio, 3.60 Altman Z-score and debt-to-free-cash-flow ratio of 4.18. The article cautioned that profit and operating margins had declined and that ROIC was below cost of capital. Separately, Quest’s board set the 2026 quarterly dividend at $0.86 per share, annualized at $3.44, after a 7.5% increase in February that marked 15 consecutive years of dividend increases. ChartMill’s ratings and peer comparisons are third-party investment analysis, not company forecasts.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-22T18:38:16+05:30",
-      "summary_evidence": [
-        "https://www.chartmill.com/news/DGX/Chartmill-53695-Quest-Diagnostics-NYSEDGX-Shows-Dividend-Quality-Beyond-the-Headline-Yield",
-        "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
-        "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 12,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-16T18:17:00+05:30",
-  "next_update_display": "16 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-17T06:17:00+05:30",
+  "next_update_display": "17 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
