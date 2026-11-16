@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 16 Nov 2026, 12:37 AM IST
-- **Distinct events in this file:** 36
+- **Repository generated:** 16 Nov 2026, 12:49 PM IST
+- **Distinct events in this file:** 34
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -416,27 +416,3 @@
   - TipRanks: https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG9ZVVlpLTQ1NkVXU2pUNFlhUnhLSGE2TktxMGhEb2xiVWY0bnFCWTBQaUZLc3VLMVZZOHIzLVByUHdvc01yOTktS2l6YUlpUTd4M0VfMjY2Nm9ldVBfZUNva2xiWVRac01oaVUxTGw0YUpjbEhnUlZIY3k3WUQzYUxmcjhfMGdyVUdEdUZVanNxRGdPWHc0bm1mMjBXV1ZRUjBrT2xtYw?oc=5
 
 **Feed description:** Sonic Healthcare's official FY2026 disclosure confirms a final dividend of A$0.63 per share, 60% franked, with a September 3, 2026 record date and September 17 payment date. Although the queued headline describes the A$0.63 distribution as an interim dividend, Sonic's results presentation and earnings-call transcript identify it as the final dividend for the year ended June 30. The company paid an A$0.45 interim dividend in March, so the final payment takes total FY2026 dividends to A$1.08 per share, up one cent from FY2025. Sonic said the payout ratio is relatively high for FY2026 but is supported by strong operating cash flow and an investment-grade balance sheet. Management's medium-term capital-allocation framework aims for a dividend payout ratio of 70%-80% of net profit as profits grow, while also preserving investment-grade credit metrics, funding selective acquisitions and considering buybacks when surplus capital and market conditions permit. The dividend accompanies underlying FY2026 net profit of A$621 million, up 17%, underlying EPS of 125.6 cents, up 14%, and underlying EBITDA of A$1.933 billion, up 11%. Sonic reported approximately A$1.6 billion of funding headroom at June 30 before the final dividend payment.
-
-## 35. Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 18 Aug 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Kalkine Media: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5
-
-**Feed description:** Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice kalkinemedia.com
-
-## 36. Sonic Healthcare Broadens Reach With Diagnostics Deals
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 18 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Kalkine Media: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5
-
-**Feed description:** Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.

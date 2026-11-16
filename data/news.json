@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-11-16T00:37:34.001874+05:30",
-  "generated_at_display": "16 Nov 2026, 12:37 AM IST",
-  "item_count": 535,
-  "raw_relevant_item_count": 648,
-  "duplicates_merged": 63,
-  "failures": [],
+  "generated_at": "2026-11-16T12:49:35.881646+05:30",
+  "generated_at_display": "16 Nov 2026, 12:49 PM IST",
+  "item_count": 528,
+  "raw_relevant_item_count": 528,
+  "duplicates_merged": 0,
+  "failures": [
+    "Labcorp: HTTP Error 503: Service Unavailable",
+    "Quest Diagnostics: HTTP Error 503: Service Unavailable",
+    "ARUP Laboratories: HTTP Error 503: Service Unavailable",
+    "Mayo Clinic Laboratories: HTTP Error 503: Service Unavailable",
+    "Sonic Healthcare: HTTP Error 503: Service Unavailable"
+  ],
   "items": [
     {
       "id": "348afc5dbb27460ff90a",
@@ -15944,232 +15950,12 @@
         "https://newsroom.questdiagnostics.com/2026-08-12-Quest-Diagnostics-Declares-Quarterly-Cash-Dividend",
         "https://newsroom.questdiagnostics.com/2026-02-10-Quest-Diagnostics-Increases-Dividend-7-5-To-0-86-Per-Quarter%2C-Marking-15-Consecutive-Years-of-Dividend-Increases-Announces-1-Billion-Increase-in-Share-Repurchase-Authorization"
       ]
-    },
-    {
-      "id": "3c4070630c1b99e19a05",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Upgraded to Buy: Here's Why",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5",
-      "description": "Zacks upgraded Quest Diagnostics to a Zacks Rank #2 (Buy) on August 18, 2026, citing an upward trend in sell-side earnings estimates rather than a new company announcement. For the fiscal year ending December 2026, Zacks listed a consensus EPS estimate of $11.15 per share. The consensus estimate had increased 4.1% over the prior three months, which drove the rating change under Zacks' estimate-revision methodology. Zacks ranks stocks from #1 Strong Buy to #5 Strong Sell based on four factors related to earnings estimates. The firm says only the top 5% of its covered universe receives a Strong Buy rating and the next 15% receives a Buy rating, placing a Rank #2 stock within the top 20% on its estimate-revision framework. The article argues that rising estimates can support near-term share-price performance, but that is Zacks' investment thesis rather than Quest-issued guidance. Quest's most recent company outlook, issued with second-quarter results, calls for adjusted diluted EPS of $11.05-$11.25 and revenue of $11.95-$12.05 billion for 2026. The queued item therefore documents improving external earnings expectations and a ratings-model upgrade, not a change in Quest's own financial forecast, products, clinical pipeline or corporate structure.",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTVUVzY5b2VpUnNjckRFN0tub0EySm54NXFyTTg5cFJtYVlVOFdFM2s3T0xGbG83aVoteHB6anRCRUc4enp1X3QtRWxwSm0tLWJ0dGctSmJYTEdRRDZBcENrRkl1RzJ1VkpiSTVaakZPM3E2UU80MFhrUDMyVDNkN1lEd0hKWkRLaDRVMkFyZFc2R3U5SDlTbFdjQUQ1N2tD?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "buy here upgraded why"
-    },
-    {
-      "id": "16b5bedc330823c45f3c",
-      "company": "Labcorp",
-      "title": "Labcorp and NACHC form alliance to boost leader...",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
-      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "source": "Pluang",
-      "source_url": "https://pluang.com",
-      "source_domain": "pluang.com",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Pluang",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSmYyczB1cGlGTG5UZ0dkeVFPekprMXRLVThuUWZsMGp3NHhFWmI5dzdDR3Z3UGFCZWJBQlIzQnkzMElNZ1NRQi1UcENSbEU0ek1HYjYwZGhXc3hzNUt0c256TFBpUEhvU1plNXdVUkRvTHlFZjRGNzhEOVlkaXJzck1XSUoydEZfT3NXMTdiWWlMdmdkVVJDRHRJRVhuZU8zU3RFdFFWOUZEdw?oc=5",
-          "domain": "pluang.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alliance boost form leader nachc",
-      "source_description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
-      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
-      ]
-    },
-    {
-      "id": "0cb009a1ddb8153f38a8",
-      "company": "Sonic Healthcare",
-      "title": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5",
-      "description": "Vanguard Group Boosts Voting Stake in Sonic Healthcare to 7.010%, According to Latest Substantial Holder Notice kalkinemedia.com",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQkdCNUtIZ25uZFNXQks5OGROLW5DZ2h6U3oyay1VaW9lZ3h5YTVXbnpDNjBmWno1cEZ0eGx0ZE1mUHlab0JncHlxNDdsN0lnVk43UklKMWRFZTZGSkctWUUtcHhXNkJaQ1A3d0lPUmlCNE9NblpnTWdrVy1Eb0lXdkhDZDBrc3QzblNNb1UwOXN6RkdmanVFUkY3RThFYkZlRVdrRkdRS2Z4Q2hJY0wtNDBiLWdFRkI3bUoyaE1FN2NMYk9yWjA0bC1oVk4ydEFsZ1BESnk2T3BPelJfWVZoM1NlOVFXZVlmUFNF?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "010 according boosts holder notice stake substantial vanguard voting"
-    },
-    {
-      "id": "599dbc393e5c79a8d51f",
-      "company": "Labcorp",
-      "title": "Labcorp partners with NACHC to develop health center leaders",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5",
-      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYlU1MGV5cEw1dTkyYUNHQkhfaS1uOG9hNjhPTHNXVUJuUk10T0p4ZFB0VmhHcmhLZGZSMU51NS1GMFBqMDNRaFV4RU1hX1JRWWd2bWl4b1lpYlJrdWJWZ2plZm03WTBWWXRhSFl5ZDdLQlBzeG1lVkhtOVliYVRFcEY1VUhha0FNdEFzRy0xWkRtU1J3ZGcxTzdBeE5xNmVPMGtKYnZ5YXg3SGFEcHJ1eWdpUzZsenlD?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3dIenBPLWVOejY1WXB0UlhLSTZ0ZEtiWVJPdjFrT0o5YTM4bHdOVnplWng2MktIR1BCd1NhTGFxaHlyUmV3MXQ5djl3SzFvTDNpYmo5MEw2Um5tRjZXdmpTSG10dnZsQ0N4aEtzUjFlS1Vzd0c2VWZjMzJaSnhFbVVrcmMwZmlEQm9xNkZUTEFnQlc5dTVtRlRGLVhlRDRxdExkMlEybmd5b00tQ2c3NGVQVlRibWJsYkp0Nk9B?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-08-18T11:36:29+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "center develop health leaders nachc partners",
-      "source_description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
-      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
-      ]
-    },
-    {
-      "id": "030498f153e67765a3cf",
-      "company": "Labcorp",
-      "title": "Labcorp and NACHC Launch Strategic Alliance to Strengthen Health Center Leadership and Advance Community Health",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMG9pNElMV3o3a3dBeWxaUmRQYlQ0Yy1SQjdwamt2WEpteENlVmZRUjVBejNnNXFwRndVSmxLLS11bzd5TGVwd2duNFVGa0NHSVNnNGhjSkV2WXhjWEhoZC14S2sxVkR1bXY0TUVXaEhDOU9mZFVzOTA2SE5QeGItbmFmclM0UHpRbi1NRzRtV1BaNEFXN3MybHpBLUNvbk1EYW9QZFl4VGpPY0dWTGctVzRtS2kzLVRKQjNXemF0RlcydFlGektScWVQQkpTcjRwbXZrdHVKYWtINlBXMFBFdVU3UWNLVEpscU5PalM1NExiTnhoUC1qTkRZZw?oc=5",
-      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMG9pNElMV3o3a3dBeWxaUmRQYlQ0Yy1SQjdwamt2WEpteENlVmZRUjVBejNnNXFwRndVSmxLLS11bzd5TGVwd2duNFVGa0NHSVNnNGhjSkV2WXhjWEhoZC14S2sxVkR1bXY0TUVXaEhDOU9mZFVzOTA2SE5QeGItbmFmclM0UHpRbi1NRzRtV1BaNEFXN3MybHpBLUNvbk1EYW9QZFl4VGpPY0dWTGctVzRtS2kzLVRKQjNXemF0RlcydFlGektScWVQQkpTcjRwbXZrdHVKYWtINlBXMFBFdVU3UWNLVEpscU5PalM1NExiTnhoUC1qTkRZZw?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbHo3TXpaanlNa2hxSGY2RWtrS25hMjVjYjM0Q2h5QlU1YjdmTHNRTUZCQjFybEhPNnBRQVQ3TUxDWTlGSEhVVWdNb285SUJwNGJtR1RBd2lOV0p4cUVBZzIzNDJSa1djTWxPc3ZtazltdTBzQXlDRGdVQjV5dVVNVVFxX213SmJCVG54OUJwZlpGeFFSaHJxZHMwY2tHaURMQXc?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-18T11:00:00+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPN00wR3kwdElIMXZGUWxWbG5JZjdsd21WRWhZMzVGQ1l5R2FnRjZyZHY0c3ZKZTc5eGhZUWk1NkFhaXRmbzU1dm5CbkZ2S1ZKTHNXU1RqYm1ZNklIeHMzUF9fakpjdU4yYUxBVTg4cC1VaWFRS1dDUWVRSnVSMDY1ZGVxelVUOWxyUnFPNFlPU2xfT0F2N1Z3YjdvdHhJc21aZVpGaGprc1AwSDUwblZPLWNUdHFvaFNtSzUxeFJqZXREdEtWdzdpZGhVTmpQbjZKb05xYmhBRDdDeVI5c3llRlJuQzNNWElZaG5TeURhaEdXYkN2aWtMZVYzTTRiMFBhSEE?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "advance alliance center community health launch leadership nachc strategic strengthen"
-    },
-    {
-      "id": "1c6ad790701fb10cf228",
-      "company": "Labcorp",
-      "title": "Labcorp, NACHC Alliance Will Use Laboratory Data to Improve Community Health",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
-      "description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-08-18T07:00:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOWxxSDZ5V3h3amh2Z0hJZk1JbHNkRnEzU0xBQ3NmLUI0QXBZeFUxeG94UDZxSzZLcUpCVkRvcTdUdTljWDh2WEt0VTh4WUhXNlJna2dibGFlWEhDaEtSMDJsSkNiM3dVTF9tSlpwWXFiU3ZvQWQxN1VmTFVxNUZoZnA5a1h4clFDNHNJTDRjN1JMMWtfTUtpa2c3ZnBIN2xL?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-18T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alliance community data health improve nachc use will",
-      "source_description": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume comm…",
-      "chatgpt_summary": "Labcorp and the National Association of Community Health Centers announced a long-term strategic alliance on August 18, 2026 to strengthen clinical leadership and use diagnostics and laboratory data to improve care across the U.S. Community Health Center network. NACHC represents and reaches 1,526 Community Health Centers, which form the country's largest primary-care network. NACHC says these centers serve 52.3 million patients, including up to one in seven Americans and one in three people in rural America. A central initiative is the NACHC Leadership Exchange for Chief Medical Officers, created by NACHC with support and subject-matter expertise from Labcorp. The program will provide current and emerging CMOs and other clinical leaders with executive development, peer mentorship and practical learning focused on the operational and clinical challenges facing health centers. Beyond leadership training, the organizations plan educational programs, practice-improvement work, evidence generation and use of de-identified laboratory data to help centers strengthen quality performance, identify and close care gaps and improve patient outcomes. Labcorp contributes diagnostics, analytics and community-health expertise, while NACHC contributes its national health-center network. The announcement did not disclose a deal value, financial terms, exclusivity or minimum testing-volume commitments, so the alliance is a collaboration framework rather than an announced acquisition or asset transfer.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-20T12:33:52+05:30",
-      "summary_evidence": [
-        "https://ir.labcorp.com/news-releases/news-release-details/labcorp-and-nachc-launch-strategic-alliance-strengthen-health"
-      ]
-    },
-    {
-      "id": "d853207c9c70c8b1173f",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare Broadens Reach With Diagnostics Deals",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
-      "description": "Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-18T03:16:00+00:00",
-      "published_display": "18 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSnl4WVNuY0pUMnlCM2hlSmtNaHF3XzNvZkZBV25FQ0laM2s1eG8yMEpDN2ludmNRVlVIcWJYU0lEVHp3bWYxVC1xeWdWOXNrNjl6R0o5ejZWOHRSTGtpUlYxRFBnemZUejFIQmRaRWNaUDFWbGE0bnI4ejhRMzVnYU5KbURFcXN6a050ZVZ3ZVpMb296ZTE3cHRoXzBSNjdzeFBFSy1WM2RVUlk?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-18T03:16:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "broadens deals reach",
-      "source_description": "Sonic Healthcare Broadens Reach With Diagnostics Deals (ASX:SHL) kalkinemedia.com",
-      "chatgpt_summary": "Kalkine Media’s August 18 article frames Sonic Healthcare’s growth strategy around two types of expansion: minority exposure to emerging diagnostic technologies and consolidation of established laboratory markets. It cites Sonic’s stake in microbiome specialist Microba Life Sciences and expansion of its German laboratory network. The underlying transactions are not new August 2026 deals. Sonic announced its Microba investment on November 29, 2022, committing A$17.8 million for a 19.99% stake through newly issued shares priced at A$0.26 each, a 25% premium to Microba’s five-day VWAP. Sonic also sought options over a further 5% stake at A$0.33 per share, subject to shareholder approval, and entered distribution arrangements covering Microba testing across several Sonic markets. In Germany, Sonic completed the acquisition of Laboratory Group Dr. Kramer & Colleagues, or LADR, on July 1, 2025 for a cash- and debt-free enterprise value of €423 million, funded with cash and 13,833,980 Sonic shares. Sonic’s FY2026 materials say more than 40% of total expected LADR synergies were captured in the first year, with the balance expected over the following two years. Kalkine’s strategic point is that Sonic combines selective exposure to newer diagnostics with scale-building acquisitions in mature markets. The article does not identify a newly signed August 2026 transaction, so the verified summary preserves the actual timing and terms of the underlying deals.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-25T12:39:40+05:30",
-      "summary_evidence": [
-        "https://kalkinemedia.com/au/stocks/healthcare/sonic-healthcare-broadens-reach-with-diagnostics-deals-asxshl",
-        "https://investors.sonichealthcare.com/DownloadFile.axd?file=%2FReport%2FComNews%2F20221129%2F02604996.pdf",
-        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Reports/AR/SHL_AnnualReport_2025.pdf"
-      ]
     }
   ],
   "low_value_items_removed": 0,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-16T06:17:00+05:30",
-  "next_update_display": "16 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-16T18:17:00+05:30",
+  "next_update_display": "16 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
