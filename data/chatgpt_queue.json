@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-17T04:30:00.667110+05:30",
-  "generated_at_display": "17 Nov 2026, 4:30 AM IST",
+  "generated_at": "2026-11-17T14:01:13.830818+05:30",
+  "generated_at_display": "17 Nov 2026, 2:01 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 505,
+  "remaining_unsummarized_count": 507,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -161,6 +161,25 @@
         {
           "name": "Small Caps",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3VDTFpMYndVTW9jZzMxQ3dvMGY5aGtKTFU3WXpZUjJiTl90U1pfOFZPejFUblg1X1lPcmJheHlydThiYy00NmJmTmctc0MtWEpSVGNQMWxVelg2SVl3WF9McmxSbGJQdWczU1g3T0hmQnNxcXY4N0dCV3lGTnJfSWVoWExNeEZRNWViUU9NNnBvcUlLVXl5eS0tSjlFSmJJdUMtVjZ2ak0yV3FRNG5pekR2blJYaWRsMmJKdjZhZnQ1X28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6179c5240305d2b0744",
+      "company": "Sonic Healthcare",
+      "category": "Partnership, M&A",
+      "title": "INOVIQ signs validation deal with Sonic Healthcare USA",
+      "source": "grafa.com",
+      "description": "INOVIQ signs validation deal with Sonic Healthcare USA grafa.com",
+      "published_at": "2026-11-02T00:02:37+00:00",
+      "published_display": "02 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGdpbXV3bGVUZFhLXzRYeGFlMTVzdEdfWDJ2U2lLQXFpeEFkcTV2c3M2djFFdjlTSEtRbUZmNll4ZVJnQTBPZU1MTlVfWjA1UHlFbmVUMTN3bWdLcWFXTXdZTXI0MTYwbExfMWZPSWlYVU5Cb2JSREZFU3g5WDk5eW1WOUNqVFFNMXRsWFVYR2ZjOFFy?oc=5",
+      "sources": [
+        {
+          "name": "grafa.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZGdpbXV3bGVUZFhLXzRYeGFlMTVzdEdfWDJ2U2lLQXFpeEFkcTV2c3M2djFFdjlTSEtRbUZmNll4ZVJnQTBPZU1MTlVfWjA1UHlFbmVUMTN3bWdLcWFXTXdZTXI0MTYwbExfMWZPSWlYVU5Cb2JSREZFU3g5WDk5eW1WOUNqVFFNMXRsWFVYR2ZjOFFy?oc=5"
         }
       ]
     },
@@ -620,25 +639,6 @@
         {
           "name": "Labmate Online",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4493bbca40bbb733b192",
-      "company": "Mayo Clinic Laboratories",
-      "category": "Partnership, M&A",
-      "title": "Mayo Clinic Laboratories Invests in Pathology Asia and LifeStrands Genomics to Advance Diagnostics and Precision Medicine",
-      "source": "The Sun Malaysia",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia Holdings and LifeStrands Genomics to Advance Diagnostics and Precision Medicine The Sun Malaysia",
-      "published_at": "2026-10-12T19:44:57+00:00",
-      "published_display": "12 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFlLR2QwSTg3TnlYS0JpYnlXTjFwa2VKalRXaGYwcFI4MGJ5Zl9nNU9SV09IckRHNDFKLURNSmNjWmIyd0I3d292SUgzSEZLQlVKalFUZlhVT2FZYXpzSVVSMnpLSDlJSTB4WkZseHRjdmJBTnhnQmRnZldwa3Z1YnlJTGFzV1RHRnJUNk55NnVWbDZSb19WTnQ1TEQ4QmQ0cDVSeXJCMDIxUlFEclpqblktY3dPSjdzTGlSbDFaVTI5N0RuZGdKRlBrbm9lVFdsS0VIX2ZCb3JjRUJJZS05aERjZnRnZXVmZVE?oc=5",
-      "sources": [
-        {
-          "name": "The Sun Malaysia",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNeFlLR2QwSTg3TnlYS0JpYnlXTjFwa2VKalRXaGYwcFI4MGJ5Zl9nNU9SV09IckRHNDFKLURNSmNjWmIyd0I3d292SUgzSEZLQlVKalFUZlhVT2FZYXpzSVVSMnpLSDlJSTB4WkZseHRjdmJBTnhnQmRnZldwa3Z1YnlJTGFzV1RHRnJUNk55NnVWbDZSb19WTnQ1TEQ4QmQ0cDVSeXJCMDIxUlFEclpqblktY3dPSjdzTGlSbDFaVTI5N0RuZGdKRlBrbm9lVFdsS0VIX2ZCb3JjRUJJZS05aERjZnRnZXVmZVE?oc=5"
         }
       ]
     }
