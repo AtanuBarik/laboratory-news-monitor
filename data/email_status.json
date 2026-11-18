@@ -1,8 +1,8 @@
 {
-  "checked_at": "2026-11-18T14:33:14.958493+05:30",
-  "checked_at_display": "18 Nov 2026, 2:33 PM IST",
+  "checked_at": "2026-11-19T03:03:32.034491+05:30",
+  "checked_at_display": "19 Nov 2026, 3:03 AM IST",
   "status": "awaiting_chatgpt_summaries",
-  "ranked_candidate_count": 506,
+  "ranked_candidate_count": 507,
   "low_value_dismissed_count": 0,
   "attempted_summary_count": 80,
   "verified_summary_count": 0,
@@ -12,11 +12,11 @@
     "01aa6ea40220d23964c8",
     "36a457e2bfa9005733b2",
     "692205b0b1bc2bc14349",
+    "c1999e9f29fc6b75460c",
     "dac234cd872d938a1d22",
     "fe25212c7539ce16b122",
     "f3441bb91bbd8285652a",
     "13f4149c2ac60a9139f1",
-    "c1999e9f29fc6b75460c",
     "5e4a85c93e79e4486964",
     "79cbee2d4c81e730dec7",
     "8fd1c8a473789e7407ee",
@@ -30,6 +30,7 @@
     "06e5f082989e7c1d2ad3",
     "316518acad215b9d29df",
     "9a1370ffdef6e6e28518",
+    "4c8f64ad00c9c8db03ff",
     "6ab68a3907c7f7a46080",
     "3638ad910e3db09e6b2e",
     "cd43cf39c77e1330d67a",
@@ -85,8 +86,7 @@
     "9aec124932717745c549",
     "b3919f99898b7865ba5c",
     "7bea16f053e3e8005045",
-    "e6b5055323d51073541a",
-    "c64e662f2d0aff88c259"
+    "e6b5055323d51073541a"
   ],
   "gemini_quota_exhausted": false,
   "gemini_error": "",
@@ -102,11 +102,11 @@
     "01aa6ea40220d23964c8",
     "36a457e2bfa9005733b2",
     "692205b0b1bc2bc14349",
+    "c1999e9f29fc6b75460c",
     "dac234cd872d938a1d22",
     "fe25212c7539ce16b122",
     "f3441bb91bbd8285652a",
     "13f4149c2ac60a9139f1",
-    "c1999e9f29fc6b75460c",
     "5e4a85c93e79e4486964",
     "79cbee2d4c81e730dec7",
     "8fd1c8a473789e7407ee",
@@ -120,6 +120,7 @@
     "06e5f082989e7c1d2ad3",
     "316518acad215b9d29df",
     "9a1370ffdef6e6e28518",
+    "4c8f64ad00c9c8db03ff",
     "6ab68a3907c7f7a46080",
     "3638ad910e3db09e6b2e",
     "cd43cf39c77e1330d67a",
@@ -175,8 +176,7 @@
     "9aec124932717745c549",
     "b3919f99898b7865ba5c",
     "7bea16f053e3e8005045",
-    "e6b5055323d51073541a",
-    "c64e662f2d0aff88c259"
+    "e6b5055323d51073541a"
   ],
   "primary_summary_provider": "Awaiting ChatGPT Scheduled Task"
 }
