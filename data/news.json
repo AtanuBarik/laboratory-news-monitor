@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-11-18T13:28:17.595165+05:30",
-  "generated_at_display": "18 Nov 2026, 1:28 PM IST",
+  "generated_at": "2026-11-19T02:24:42.854861+05:30",
+  "generated_at_display": "19 Nov 2026, 2:24 AM IST",
   "item_count": 524,
-  "raw_relevant_item_count": 642,
-  "duplicates_merged": 66,
+  "raw_relevant_item_count": 637,
+  "duplicates_merged": 65,
   "failures": [],
   "items": [
+    {
+      "id": "049ce8472c3c8d3151ec",
+      "company": "Labcorp",
+      "title": "Labcorp Expands Brazil Clinical Trials Via Grupo Fleury Deal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkFMNm5ubGxfSGRqbzAtYzR2OHZndDlPM29heEg3d2dnMTBUWlZ5WDNWMzBzVVRHWmtfdlk0cXQ3QzhIcGxGZ3NxYXRwcjVubjY2QVFwX2x5Mk8xX0VvSC1KREc0bTZrQmZqMDFqLUlWVUx6V1dqc2gtbmRzcW5UU3I4YXlxME1iZmJTMUxodDZRZWFFOFlMNXk4Vk8?oc=5",
+      "description": "Labcorp Expands Brazil Clinical Trials Via Grupo Fleury Deal ABC Money",
+      "source": "ABC Money",
+      "source_url": "https://www.abcmoney.co.uk",
+      "source_domain": "abcmoney.co.uk",
+      "published_at": "2026-11-18T13:33:16+00:00",
+      "published_display": "18 Nov 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ABC Money",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkFMNm5ubGxfSGRqbzAtYzR2OHZndDlPM29heEg3d2dnMTBUWlZ5WDNWMzBzVVRHWmtfdlk0cXQ3QzhIcGxGZ3NxYXRwcjVubjY2QVFwX2x5Mk8xX0VvSC1KREc0bTZrQmZqMDFqLUlWVUx6V1dqc2gtbmRzcW5UU3I4YXlxME1iZmJTMUxodDZRZWFFOFlMNXk4Vk8?oc=5",
+          "domain": "abcmoney.co.uk",
+          "published_at": "2026-11-18T13:33:16+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "brazil clinical deal expands fleury grupo trials via"
+    },
+    {
+      "id": "4c8f64ad00c9c8db03ff",
+      "company": "Labcorp",
+      "title": "OTraces Selects Labcorp to Perform Biomarker Testing for Florida Department of Health–Funded Prostate Cancer Study",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSGpxVlQ0bXpTZlhXc3BWbW5JSGpTM3VScm9STGJPbFVOWHphQ2I5ejN4R3ZwbVQ2ZkZyVmJ0SENhODhfM1cweVFvVXp4cTA5VzhzVnpWSDdHOWE0c1pweG9yeDd0ZkdMOXJvWm9tdEpObHU2OV9XclJLTTF6YmdQNk9QMmx2YUF1MElOdFdWbzhBQkt3dXZEYVFxT2NTNml0VEpkUlRsSE02c1ZBRTlkNDZoODM0aXJrdDEzZy1SMncybGIxVEtBZ3lBcjZtZXdmYi1QNTNXNHVMeU9GZFhTbEpZbkZsUG00Y1B5WTZXaS1Mb09UbEM2SldBOHRQRVo0VEkwVUdqbHZ5TDVfN3JTQ0prY3Q?oc=5",
+      "description": "OTraces Selects Labcorp to Perform Biomarker Testing for Florida Department of Health–Funded Prostate Cancer Study GlobeNewswire",
+      "source": "GlobeNewswire",
+      "source_url": "https://www.globenewswire.com",
+      "source_domain": "globenewswire.com",
+      "published_at": "2026-11-18T13:30:00+00:00",
+      "published_display": "18 Nov 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOSGpxVlQ0bXpTZlhXc3BWbW5JSGpTM3VScm9STGJPbFVOWHphQ2I5ejN4R3ZwbVQ2ZkZyVmJ0SENhODhfM1cweVFvVXp4cTA5VzhzVnpWSDdHOWE0c1pweG9yeDd0ZkdMOXJvWm9tdEpObHU2OV9XclJLTTF6YmdQNk9QMmx2YUF1MElOdFdWbzhBQkt3dXZEYVFxT2NTNml0VEpkUlRsSE02c1ZBRTlkNDZoODM0aXJrdDEzZy1SMncybGIxVEtBZ3lBcjZtZXdmYi1QNTNXNHVMeU9GZFhTbEpZbkZsUG00Y1B5WTZXaS1Mb09UbEM2SldBOHRQRVo0VEkwVUdqbHZ5TDVfN3JTQ0prY3Q?oc=5",
+          "domain": "globenewswire.com",
+          "published_at": "2026-11-18T13:30:00+00:00"
+        },
+        {
+          "name": "Mugglehead Investment Magazine",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMF9lMXh3eUxibHdKWk5rQ3ZjalVQcHZPQTk3S3RTR3VMVVJhcm1ramF5bkZqTElyMlJ6dDJEaWwtU2RSVEhFYlV2ZXM0TFlLNUZPekl4bkM0Qi1ua0pRNzQycXVOTGJwTjVncmpyY3ktNGJzLXFIcnpURFNsOEtqWURwelRSQQ?oc=5",
+          "domain": "mugglehead.com",
+          "published_at": "2026-11-18T14:52:10+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "biomarker cancer department florida funded health otraces perform prostate selects study testing"
+    },
     {
       "id": "96477de8e0a85943227c",
       "company": "Labcorp",
@@ -61,9 +115,15 @@
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1FCZnBFRU9RWkhqNVBGeHFsZ3JNNjZCS2Z4UnJneGlaVFJDdnVBQ29JczRzT3M4SXBOcnI3Z3VVVjhUV0JoQWlmWVo4Z25VVENiQ19ITDRXdXNvODFadGdUa19aUlFYQTVuWm1ONFpzV0M3RUdnQkNLUXIyZjdrZm03MDlPYi02dGU3MnF5a0lNSHJJNWFYLUNvOEJ5bDZuWFBDR3NVR1A0X1k4dW9yMURHakdMaDNMTmQzSzQ2dw?oc=5",
           "domain": "gurufocus.com",
           "published_at": "2026-11-17T22:49:07+00:00"
+        },
+        {
+          "name": "marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTVES1haT1BIeE90bFJ0Q0JlUmtNbXFEaFpfMnRjcFJPNkNvbU1FUWdMcm5ScDVzcWN2WGhlX2w0MjJaQzJ1cWtMZ3k1aUdUWExhSFhpS09nVU5Ia2dObm1lRmxoMFJMbHN6YUFKazl1SzlhOXNEeW84cDV3MlZERUVTOTFidVh2TDhHemNWaXBwX2RXVkwyQVJPSWtCbUF6X19fNzA2TVI0SllnV2t0TjZXcmpZRHdXN0wyamxWUlI2QkQwREVmQkc4M1k5ODZ1cEpqWWtGSHQ?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-11-17T22:01:13+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "assembly brazil clinical collaboration dedicated expand fleury future grupo kit operations through trial"
     },
     {
@@ -15626,74 +15686,12 @@
         "https://au.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-4608523",
         "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf"
       ]
-    },
-    {
-      "id": "e7c9d723c49a7bb33134",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5",
-      "description": "Quanterix appointed longtime Quest Diagnostics executive Geoff Albrecht as Senior Vice President and General Manager of Diagnostics, adding him to the company’s executive leadership team and having him report directly to CEO Everett Cunningham. The June 4 appointment is intended to make diagnostics a larger growth pillar for Quanterix, beginning with Alzheimer’s disease testing. Albrecht is responsible for diagnostics strategy and for building the infrastructure and operating framework needed to scale the portfolio commercially. Quanterix said Albrecht brings more than 25 years of commercial leadership experience from Quest Diagnostics. Most recently, he served as Quest’s Regional Vice President for the Northeast United States, with full profit-and-loss responsibility for a business representing approximately $2.9 billion in revenue. During his Quest tenure, he also held management, sales-director and vice-president positions and worked across business development, sales operations, joint-venture partnerships and M&A-led growth strategies. His experience spans health systems, health plans, physician-outreach organizations and employers. Quanterix positioned the hire as part of its effort to expand from biomarker research into a more substantial diagnostics business, with Alzheimer’s disease diagnostics as the initial commercial focus. The announcement does not disclose compensation, transaction terms or a broader restructuring at Quest.",
-      "source": "Medical Product Outsourcing",
-      "source_url": "https://www.mpo-mag.com",
-      "source_domain": "mpo-mag.com",
-      "published_at": "2026-08-20T16:17:53+00:00",
-      "published_display": "20 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Medical Product Outsourcing",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbTRBYTk3N0xjZlQwMzBjQmNuSVRrcnVMWWdWb0d2eGlXZVN4VjZfU3BhWmNwUzRRdDhpWV9oZkY1U0wxM0g4bnpLc3NDQS15M2lNZXRVZGdMXzFyN2FXX1FUclVUYW9lTUQ5NE9CRXBJYUpHZ3A3NzZMQmxjTi1FSk9uNUVEcERhWUs2X3dNaHF1ZElnNXpGMEJhd3RmenlmQXNuMjVWSFZERmZJcGwxd2UxVQ?oc=5",
-          "domain": "mpo-mag.com",
-          "published_at": "2026-08-20T16:17:53+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "executive management quanterix recruited senior team",
-      "source_description": "Quest Diagnostics Executive Recruited to Quanterix’s Senior Management Team Medical Product Outsourcing",
-      "chatgpt_summary": "Quanterix appointed longtime Quest Diagnostics executive Geoff Albrecht as Senior Vice President and General Manager of Diagnostics, adding him to the company’s executive leadership team and having him report directly to CEO Everett Cunningham. The June 4 appointment is intended to make diagnostics a larger growth pillar for Quanterix, beginning with Alzheimer’s disease testing. Albrecht is responsible for diagnostics strategy and for building the infrastructure and operating framework needed to scale the portfolio commercially. Quanterix said Albrecht brings more than 25 years of commercial leadership experience from Quest Diagnostics. Most recently, he served as Quest’s Regional Vice President for the Northeast United States, with full profit-and-loss responsibility for a business representing approximately $2.9 billion in revenue. During his Quest tenure, he also held management, sales-director and vice-president positions and worked across business development, sales operations, joint-venture partnerships and M&A-led growth strategies. His experience spans health systems, health plans, physician-outreach organizations and employers. Quanterix positioned the hire as part of its effort to expand from biomarker research into a more substantial diagnostics business, with Alzheimer’s disease diagnostics as the initial commercial focus. The announcement does not disclose compensation, transaction terms or a broader restructuring at Quest.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-21T06:35:53+05:30",
-      "summary_evidence": [
-        "https://ir.quanterix.com/news-releases/news-release-details/quanterix-appoints-industry-veteran-geoff-albrecht-senior-vice"
-      ]
-    },
-    {
-      "id": "6013518f949db492536d",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5",
-      "description": "Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact morningstar.com",
-      "source": "Morningstar",
-      "source_url": "https://www.morningstar.com",
-      "source_domain": "morningstar.com",
-      "published_at": "2026-08-20T16:17:43+00:00",
-      "published_display": "20 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSEVHVWtXNTB4SVlDU00zZEdSNkVpTDhPWWxJSHhPVWZweVdla0xyRnpGamdrc1ozbkVTUUw5Yl9jd3FocXhneHdTR25rX0NGMzg4RjZrd1hkTnFaV0hRUzlUa042eHpSa0kxZmtDX1F3VmVqRHZiMVBGLUVFaUJjb2NiejB5ek1wbTBaN0J5aGxkQ3l2TGVLNVU5QmRmb2M4V0V3aG9mdkZQb3ZiM0d5cmxjMVg4VU9qeWg5ZDIxM0VzSHJoSi1JS25WUjNmQnhwRkdkcndtVW1kUk1raVZHOQ?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-20T16:17:43+00:00"
-        },
-        {
-          "name": "Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5",
-          "domain": "morningstar.com",
-          "published_at": "2026-08-21T02:59:13+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "but earnings health intact jabs long near prickly term"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 48,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-18T18:17:00+05:30",
-  "next_update_display": "18 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-19T06:17:00+05:30",
+  "next_update_display": "19 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
