@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T03:22:54.004051+05:30",
-  "generated_at_display": "18 Nov 2026, 3:22 AM IST",
+  "generated_at": "2026-11-18T13:28:22.631863+05:30",
+  "generated_at_display": "18 Nov 2026, 1:28 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 509,
+  "remaining_unsummarized_count": 512,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,33 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1999e9f29fc6b75460c",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp to Expand Clinical Trial Operations in Brazil with Dedicated Kit Assembly and Future Laboratory Operations through Collaboration with Grupo Fleury",
+      "source": "PR Newswire",
+      "description": "Labcorp to Expand Clinical Trial Operations in Brazil with Dedicated Kit Assembly and Future Laboratory Operations through Collaboration with Grupo Fleury PR Newswire",
+      "published_at": "2026-11-17T21:30:00+00:00",
+      "published_display": "17 Nov 2026",
+      "official_source": false,
+      "coverage_count": 3,
+      "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPN3BkN2tlbmV6WHhJRU1yN3RFelFTU1pBY0dsSEtZYTkteGxUTEQ0d0FrYUM0S3ptQmJTN3FCQVZycm9mbUpxdGpHYUtaSTBBaFZOT1RSN1VDMkZPMUo4R3NId19HT2VucXR0UVhsQlZKMHFqajNGUEJYd0w2SWZycHRyY21aekRZY3pCOTVCZW9tX2d5eVlsbDlFM0JmTkQ5MHY4VEJpMEozYXNNeGJGaFRjQUF0UXduUmJvYklSQ0tvWGRMT2tBNnctQmZnYTBXaXl3TGNINU81eHJtQUkxWmRacHRSS0Q3VzVyOWc3QmNnOFVLM1psQzNfSFA5UWlSTU9BeGd4NjktRUFnN3VCMjJ6cldzSzBieHhZQWJCbUNSaG1kX3RVbFBfT1pqSjBVQ3BLbg?oc=5",
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPN3BkN2tlbmV6WHhJRU1yN3RFelFTU1pBY0dsSEtZYTkteGxUTEQ0d0FrYUM0S3ptQmJTN3FCQVZycm9mbUpxdGpHYUtaSTBBaFZOT1RSN1VDMkZPMUo4R3NId19HT2VucXR0UVhsQlZKMHFqajNGUEJYd0w2SWZycHRyY21aekRZY3pCOTVCZW9tX2d5eVlsbDlFM0JmTkQ5MHY4VEJpMEozYXNNeGJGaFRjQUF0UXduUmJvYklSQ0tvWGRMT2tBNnctQmZnYTBXaXl3TGNINU81eHJtQUkxWmRacHRSS0Q3VzVyOWc3QmNnOFVLM1psQzNfSFA5UWlSTU9BeGd4NjktRUFnN3VCMjJ6cldzSzBieHhZQWJCbUNSaG1kX3RVbFBfT1pqSjBVQ3BLbg?oc=5"
+        },
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHRudkktZHRnRVFXUGxFaV9ROE5HZGZpZGpqb0RkTm1kREJfQkY1TVNnajhTU3NVWm5jX05YaEhWakM4QXRlU2ZpNjhQOXNlWFlsZE5zZmtUekpHb2JZUXYxVUVxUEk4VTZLWE9zU1ZoTEhiOUNlUk5DMkVYOWZ1X3p0bGlFS2l0ZDBpMzFTdlJtMlZpT3FNUWJjT2RUdjFpVFVmX3lJN0dYNkhrWHg3VlVQdjBCX1hkc2FTYlV5NTdPX0VCMWc?oc=5"
+        },
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1FCZnBFRU9RWkhqNVBGeHFsZ3JNNjZCS2Z4UnJneGlaVFJDdnVBQ29JczRzT3M4SXBOcnI3Z3VVVjhUV0JoQWlmWVo4Z25VVENiQ19ITDRXdXNvODFadGdUa19aUlFYQTVuWm1ONFpzV0M3RUdnQkNLUXIyZjdrZm03MDlPYi02dGU3MnF5a0lNSHJJNWFYLUNvOEJ5bDZuWFBDR3NVR1A0X1k4dW9yMURHakdMaDNMTmQzSzQ2dw?oc=5"
         }
       ]
     },
@@ -47,25 +74,25 @@
       ]
     },
     {
-      "id": "0d9ec8192fd7038b4dcd",
+      "id": "7713c289ba1506420f74",
       "company": "Labcorp",
       "category": "Partnership, M&A",
       "title": "Labcorp completes $375M Millennium Health takeover",
-      "source": "Yahoo Finance",
+      "source": "MedTech Dive",
       "description": "Labcorp completes $375M Millennium Health takeover Yahoo Finance",
-      "published_at": "2026-11-09T18:00:00+00:00",
+      "published_at": "2026-11-09T08:00:00+00:00",
       "published_display": "09 Nov 2026",
       "official_source": false,
       "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREl3cTg1ZnJ2OWszcTVUQ1N6RUNRNHpxX0RKd3ktZTMzUDlHdF9XUnNPczB5WldJZ2lWb0tQZ0tWemp5akVkdml3aGVsVUgzaHJONGZaUUNVM3IybFdkQmQweWVrQmNtU3hfajJvMVZBai1tRFFObE5nVm9uaTdGbnQ5dlZPSE04QU16b3ZNa1lnaW8y?oc=5",
       "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5"
-        },
         {
           "name": "MedTech Dive",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNREl3cTg1ZnJ2OWszcTVUQ1N6RUNRNHpxX0RKd3ktZTMzUDlHdF9XUnNPczB5WldJZ2lWb0tQZ0tWemp5akVkdml3aGVsVUgzaHJONGZaUUNVM3IybFdkQmQweWVrQmNtU3hfajJvMVZBai1tRFFObE5nVm9uaTdGbnQ5dlZPSE04QU16b3ZNa1lnaW8y?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWk1NThjVm1KS3lhT1N6Y3hlRU5IMkxqS1VJdDZrYUNsdDJnc2Z3V05LWGQxMjFaNUJ2c3ZUaDZUdFZOZkNTWjI2MHZCMzJSZVpsMmpGWURuMnBrWThCN1JwXzhXWmtGUTFWNDIzU0ZxZ2FWZXZBaWM5VWxNVFdJSUVUY1VvR0FqNUt6NDF5OVZBQll1SFVSckFWNXUwNEFaTE8w?oc=5"
         }
       ]
     },
@@ -616,29 +643,6 @@
         {
           "name": "HIT Consultant",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1960de34e102e81b6005",
-      "company": "Mayo Clinic Laboratories",
-      "category": "Partnership, M&A",
-      "title": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing",
-      "source": "Clinical Lab Products",
-      "description": "Mayo Clinic Laboratories Invests in Pathology Asia to Expand Regional Genomic Testing Clinical Lab Products",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "published_display": "14 Oct 2026",
-      "official_source": false,
-      "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5",
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNmw5WVhJdHpSQ2pPYXpfczZFN1ljTHhiTGkzRE44bnA3OFpQbl9VT1VGeE10QjBhWTlSYkUtbjJfOWpCaU11MVc2THNzODJVVVdubUgxX1dFSnB2SEI0UUR2cGYtemtYYTlNM21LZHNWODhvb2FlNC1PLTFndW5TZkpTeG1kZWtEcHBIZE9LZlZxYzlXdEROU3NUN2RKTGZWaWFjT3pTd3oxWGlTcXlZc1NjMXBraUJFSk84T3NRNA?oc=5"
-        },
-        {
-          "name": "Labmate Online",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZGhJT2RVNHlRZWo3Wjd2c0Q5MGdlTENkby1makFyUGVSSWowbmV1MkJxVGlHZWJ6Q3lWTmlnajFGVkVfa2hnQTZlNTNXdW5LTXo1TnYtRmVxTFRsUDhOTTc2a3N6V0lHS2l0NHF4alJYRHRwWDNtWlBWenNnUmpHYkVxTVBCRXp4S0p1MFpJbURlSkpnRHNNbVlNSmt6Y2tiZnF2a0ZRbVF2OUo1cjd2Y0dVMjR6cElESlgxVEpkeTV4SGVoR3ZGNkc4OURpajBxb2lXb3dNd2hyZF9ETHg2aVhVeTRZbUEwem1HUzRVckJHX1NuYk9r?oc=5"
         }
       ]
     }

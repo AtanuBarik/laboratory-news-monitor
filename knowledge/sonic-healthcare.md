@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 18 Nov 2026, 2:51 AM IST
-- **Distinct events in this file:** 31
+- **Repository generated:** 18 Nov 2026, 1:28 PM IST
+- **Distinct events in this file:** 26
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -318,65 +318,3 @@
   - Morningstar: https://news.google.com/rss/articles/CBMixwFBVV95cUxNekctejZ5RFN4ZFdQVGZnN29JZ3JVNlFRTjlvaV9CbG1fQ3dGYkt1ZzQwNTg5U1FFZVMtenpCYlRmNXBFZmFGaEc0eDdWWmdZNXUyYVBQYkstalZsc2NDYUdLRmY5Q1VRUEZTY2gtdDM4Sy1IcnFPZ3RCYXd3bVBycDNhQWJ1MjBxYnROS1FWUHdJbFVyR241eVNaZjVsc1hKYkY2eElWeWVxLXZNbmZoaTMtU1pxUjBDY2dBZS05MlpOX1JLbFk0?oc=5
 
 **Feed description:** Sonic Healthcare Earnings: Prickly Near-Term Jabs, but Long-Term Health Intact morningstar.com
-
-## 27. Sonic Healthcare Declares Dividend for the Six Months Ended June 30, 2026, Payable on September 17, 2026
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 20 Aug 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMXYxVEVHdUNyLTRSR0YxZHd5aEY0N2VaRWVFUlloTktpaWxTRVVKYVpZWVJZbFl5STFnOThmeW9uNUN6T2c3ZjV3V1gzZnM4MHpSZGhXOTVfeEV1Qk92N29tVHFvbThIUk5yemhhQkRWbG9lUWxWQV9JcHlnWmFIN3BQWGZTbENUbWR1TmNBdV9MU2FwNlJsYUFWNUZzZGxKc1RIWklJX0p3OHlBb0NwSzB3dXlGZzA3YmVzWUo3Y1NKcGd4YVliZHFBcEQ2UklDemxMdGlDSW94aUpKNmdtVUNLR01SQQ?oc=5
-
-**Feed description:** Sonic Healthcare declared a final dividend of A$0.63 per share for FY2026, with the payment scheduled for September 17, 2026 and a record date of September 3. The dividend will be 60% franked. Together with the A$0.45 interim dividend paid in March, the final distribution brings total FY2026 dividends to A$1.08 per share, one cent higher than FY2025. Sonic's official results materials classify the A$0.63 distribution as the final dividend, rather than an interim payment. Management said the payout ratio is relatively high this year but is supported by strong operating cash flow and an investment-grade balance sheet; its medium-term capital-management framework targets a dividend payout ratio of 70%-80% of net profit as earnings grow. The dividend declaration accompanied FY2026 underlying net profit of A$621 million, up 17%, and underlying earnings per share of 125.6 cents, up 14%. Revenue increased 13% to A$10.867 billion and underlying EBITDA rose 11% to A$1.933 billion. Sonic also ended June with a debt-cover ratio of 2.2 times and approximately A$1.6 billion of available funding headroom before the final dividend payment.
-
-## 28. What Does Sonic Healthcare Signal on Diagnostics?
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 20 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - kalkinemedia.com: https://news.google.com/rss/articles/CBMiowFBVV95cUxOWm9lSlRuenp6UlV4QVQ4bEdHcUo1MnFOeG80Yy1lWWVTQzBXSVdOSFBQUWp3SHEzWGc5ZjZzb05yc21ZZ1BSUl9QdmcyT2pUNG5fWUo1TFk2UmxRQWtzeWptRlFPUFpvUkszOUlfVnAxYTJnWVlqWHpsZ2tRY2d6RWlEVFV6S0VFYzQwcmJDX25JU1hvSGpDWHJSWGJOR2lRYUpN?oc=5
-
-**Feed description:** Kalkine Media’s August 20 analysis interprets Sonic Healthcare’s diagnostic-services performance as a broad-based recovery supported by testing volumes, specialty diagnostics and operating leverage rather than a one-off product event. The article says pathology activity strengthened across geographies, with general-practitioner referrals and higher-value specialized testing contributing to demand. It also argues that earnings per share grew faster than revenue because Sonic was able to absorb higher activity without proportionate growth in its cost base, while genomics, molecular testing and other specialized services continued to outpace routine testing. Sonic’s FY2026 results released the same day provide the quantitative context: revenue rose 13% to A$10.867 billion, organic revenue grew 5%, underlying EBITDA increased 11% to A$1.933 billion, underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 Australian cents. Advanced diagnostics also grew strongly, including 15% growth at Sonic Genetics in Australia, 12% at Biovis in Germany and 16% organic growth in the U.S. advanced-diagnostics business. Management continues to prioritize pathology and radiology expansion, acquisition integration, the U.S. operating review and digital modernization. The Kalkine article does not announce a new acquisition, product approval or contract; it reads the FY2026 performance as evidence that scale and a richer diagnostic mix are supporting earnings growth.
-
-## 29. Sonic Healthcare logs $10.87B in annual revenue
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 20 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - grafa.com: https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ1VZRUFzNmNfa2hWcmtYRGpkYVg0WXk1OUl1NlpYSnRjS0FKTmY3SDRBY2pFOU9PVHBnalFaWFdzM25YV0xNaFpYV2JRckpyT1hKNWFuMDRuWW5yRU10SmpBT0o2TUR0THpHYXVjTmR0cnE2eW54emZNbkRlZG1PbG5EYnBudw?oc=5
-  - grafa.com: https://news.google.com/rss/articles/CBMiigFBVV95cUxOV2s4OW9ENUNIZnhFYXluNHNtODFYYmlmdncxVXZLRy15dGxESnd5d2NubjlNSFR0V01ZNWprMktfdTlQSHdJR0F1RHkzOEhRM3lZbElhRWU2aS04M011YlhtYkxJMkFkdndTWDBmOThtMFM4UFQyUnJ4SG9Ib0kwZWtEZWl4d3dnWkE?oc=5
-
-**Feed description:** Sonic Healthcare reported FY2026 revenue of A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. The company's geographic mix remained diversified: Germany generated A$2.729 billion, or 25% of group revenue; Australian pathology A$2.184 billion, or 20%; the United States A$2.048 billion, or 19%; Switzerland A$1.173 billion, or 11%; and radiology A$1.037 billion, or 10%. Underlying EBITDA increased 11% to A$1.933 billion. Underlying net profit rose 17% to A$621 million and underlying EPS increased 14% to 125.6 cents; statutory net profit was A$608 million. Sonic said growth benefited from the completed LADR acquisition, continuing synergy capture in Germany and Switzerland, and stronger advanced diagnostics. Sonic Genetics in Australia grew 15% and Biovis in Germany 12%, while specialist referrals in Australian pathology grew 7%. Direct-to-consumer testing also accelerated, with Mein Direktlabor in Germany growing more than 60%. Management is continuing a U.S. operating review and a global digital-infrastructure modernization program. For FY2027, Sonic expects constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of back-office IT transformation costs, while maintaining an underlying group organic-growth expectation around 5%.
-
-## 30. Sonic Healthcare Fiscal 2026 Underlying Earnings, Revenue Up
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 20 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxOUmozNEtXb3NFemxWOE1nWUFJVXBTbV94X2ExT3NEcmZOTDM1N1Q0ZWhCWnlZc0hacUlhVkRkalUybVhnWHBhd184RlpMbGxtRkdNSTM2TDJtb1VaYjVQb0tWTWtzS2lMWnBtcHo1aWxxdE1uenlyRXdfYlo1VDFSbGNudEx2eTE2V3RTaWR2OFJNeFpuVndjVDZzeVgwaGdLOUVEdG03QnNncHF1WTI3UGt3?oc=5
-  - marketscreener.com: https://news.google.com/rss/articles/CBMixAFBVV95cUxOcXFPem5NcVg2bUctNWtwZmVRYVdwbkNaUVJzRjRmMU1SM05PM0JGVThieHZvVUxmX2ZOYlVxcTc3YVpfcjRUUTV2d1Yydkl2T1d5T0MwT1JqRVBqNU9ZbGtTT2c0emlJdVdaTWx6R2FBMHN6LXRkQm9NUzdUNmJrckhGYUJvSXRqWVpWRHdsdldhM25nekpUTjdHdW9INVM3Yy0zdWJCb05WeTBKQ01xOXBLV19iNkEyeF9EdXJwLWtDanpF?oc=5
-
-**Feed description:** Sonic Healthcare’s official FY2026 results confirm the financial increase described in the queued MarketScreener item. Revenue for the year ended June 30, 2026 was A$10.867 billion, up 13% year over year, with organic revenue growth of 5%. Underlying EBITDA rose 11% to A$1.933 billion, underlying net profit after tax increased 17% to A$621 million and underlying earnings per share rose 14% to 125.6 Australian cents. Statutory EBITDA was A$1.882 billion and statutory net profit was A$608 million. Sonic declared a final dividend of A$0.63 per share, 60% franked, taking total FY2026 dividends to A$1.08 per share. Management highlighted integration of the LADR laboratory group in Germany, continued acquisition synergies and growth in advanced diagnostics. Sonic Genetics in Australia grew 15%, Biovis in Germany grew 12% and the U.S. advanced-diagnostics business grew 16% organically. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion, excluding approximately A$30 million of annual back-office transformation costs. Management expects about A$25-A$30 million of benefits from U.S. operating-review initiatives and further acquisition synergies, while underlying group organic revenue growth is expected to remain around 5%, excluding the annualization effect of the U.K. HWE contract.
-
-## 31. Sonic Healthcare share price in focus on FY26 profit jump and digital push
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 19 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - The Motley Fool Australia: https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzh5U3VfN1k0dzd0ajZjcS1JWW1WN3R2UmU1WDFXSnhjVy1fNl9YNlZpeWRSOUdLVDJHOGVXUl9SUWdWeHhaYlV2blNzdHEyVjVZT3JrbjJFOU51Z2QyX1FaMlFOaE5GNlJJWkZGRW8xTmhBWEJnbjc0eHZKdUdVMm9tZVc1Y0JSYkR2LVQ1c1ZLbFlNR1BZUVM4dnRRN05IUVNFdVRNVWFrRTFZVjJz?oc=5
-
-**Feed description:** Sonic Healthcare's FY2026 results show a sharp improvement in profit alongside the start of a multi-year digital modernization program. Revenue rose 13% to A$10.867 billion, underlying EBITDA increased 11% to A$1.933 billion and underlying net profit climbed 17% to A$621 million. Statutory net profit was A$608 million, up 18%, while underlying EPS rose 14% to 125.6 cents. Organic revenue growth was 5%. Advanced diagnostics were a notable growth area: Sonic Genetics in Australia grew 15%, Biovis in Germany 12%, and the U.S. advanced-diagnostics division, which combines Cairo Diagnostics, ThyroSeq and other specialized testing, grew 16% organically. More than 70% of U.S. dermatopathology volume has migrated to Sonic's PathologyWatch digital platform. Sonic also began a global digital and AI transformation covering finance, supply chain and HR systems, laboratory and radiology information systems, and clinical applications. Management plans approximately A$30 million of annual investment in the back-office program for the next three years. For FY2027, Sonic guided to constant-currency EBITDA of A$1.95-A$2.03 billion excluding those transformation costs, with roughly A$25-A$30 million of expected benefits from the U.S. operating review and further LADR and Swiss acquisition synergies.
