@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-11-19T13:28:03.163391+05:30",
-  "generated_at_display": "19 Nov 2026, 1:28 PM IST",
+  "generated_at": "2026-11-20T02:29:32.687509+05:30",
+  "generated_at_display": "20 Nov 2026, 2:29 AM IST",
   "item_count": 526,
-  "raw_relevant_item_count": 642,
+  "raw_relevant_item_count": 637,
   "duplicates_merged": 62,
   "failures": [],
   "items": [
+    {
+      "id": "75dfc5fadff5ad27dafb",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare's Reassuring Revenue Growth",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlJDRllMaUh1bm5oVHRBelBvUUl2cDBxamlsY0VpZlJmSU05UlZoZ1J1MDFBZ3V3dkNJSTZ2b0JreDRReDVjNlQ5dkNKWUJWMC1nMXppNC1td0d0X1kxRkZzMXlCeC1lNXluYTNpZEdJTnNXMXRZaEhNRm9lS0RwQUhSdUljMFF2Tl9KLUprbTZUb0tzOG1oOXN1OA?oc=5",
+      "description": "Sonic Healthcare's Reassuring Revenue Growth Morningstar",
+      "source": "Morningstar",
+      "source_url": "https://www.morningstar.com",
+      "source_domain": "morningstar.com",
+      "published_at": "2026-11-19T11:13:32+00:00",
+      "published_display": "19 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Morningstar",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlJDRllMaUh1bm5oVHRBelBvUUl2cDBxamlsY0VpZlJmSU05UlZoZ1J1MDFBZ3V3dkNJSTZ2b0JreDRReDVjNlQ5dkNKWUJWMC1nMXppNC1td0d0X1kxRkZzMXlCeC1lNXluYTNpZEdJTnNXMXRZaEhNRm9lS0RwQUhSdUljMFF2Tl9KLUprbTZUb0tzOG1oOXN1OA?oc=5",
+          "domain": "morningstar.com",
+          "published_at": "2026-11-19T11:13:32+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "growth reassuring revenue"
+    },
     {
       "id": "5c7070e0737bc411cab2",
       "company": "Sonic Healthcare",
@@ -29,6 +53,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 agm all approval resolutions secures unanimous"
+    },
+    {
+      "id": "1cd02feddf682e601d02",
+      "company": "Labcorp",
+      "title": "Testing & diagnostics services stocks Q3 teardown: Labcorp vs the rest",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXV5R2kwbzNndkpRWVhYQ1NrR1Z3c0l6MVUyU2I0dU9rODNrOGVLVFdYbmU3VW9QdGJEYjVuT0huWDB6WjNuWU1LdUNyYV9QbnpVVjNIWG5iYnhsbk8wc2YwMTd5dVRZa2M5ajNxTVltU3N5M3JacDlOc1hxOWtLczBjRE92VXY5dktQb1RSQnNac3p2UTJlellIekdkTHIwLXhZU3R3eW90d2xnUmJfbkd0YW5fdFNZaUxKSlBDZ0dOSlNsc0tR?oc=5",
+      "description": "Testing & diagnostics services stocks Q3 teardown: Labcorp vs the rest TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-11-19T03:34:00+00:00",
+      "published_display": "19 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXV5R2kwbzNndkpRWVhYQ1NrR1Z3c0l6MVUyU2I0dU9rODNrOGVLVFdYbmU3VW9QdGJEYjVuT0huWDB6WjNuWU1LdUNyYV9QbnpVVjNIWG5iYnhsbk8wc2YwMTd5dVRZa2M5ajNxTVltU3N5M3JacDlOc1hxOWtLczBjRE92VXY5dktQb1RSQnNac3p2UTJlellIekdkTHIwLXhZU3R3eW90d2xnUmJfbkd0YW5fdFNZaUxKSlBDZ0dOSlNsc0tR?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-11-19T03:34:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "rest services stocks teardown testing"
     },
     {
       "id": "fc41e595290d9c4de265",
@@ -15664,78 +15712,12 @@
       "summary_evidence": [
         "https://www.marketwatch.com/data-news/quest-diagnostics-inc-stock-underperforms-friday-when-compared-to-competitors-despite-daily-gains-cfd2098c-e342e8f8b997"
       ]
-    },
-    {
-      "id": "1e0615b3f141b4cc47ce",
-      "company": "Labcorp",
-      "title": "Labcorp stock holds near 52-week high as investors weigh recent earnings",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2dmYU1TNVd3Q2dPXzJtTmpSZEFLYXpSejZPTDRLVFBKNlV1YlI5XzlMdDNjZlZDeVV6Ymp4QWs4ZWRwUlI0NU1mZUN3cy0tczBBakVfN0g0WVl5Q3F5bHdLQ3Jlem5rTTVmNFhrUzQ4N1FGVE1vN0FYX0JqcE5JZXp6b2R3UTZfN0NQM0JBU2VkTlNqQjRPYVpqaHhTUnlCVnd0SFI3TjlNY21TSHFnQnlqWTVtckVGdGVHNXFzUDdMclhCOTZHdEVFN0M2THdB?oc=5",
-      "description": "Ad Hoc News’ August 21 article described Labcorp shares consolidating near their 52-week-high range after a strong year-to-date advance. Its CBOE-based market snapshot showed the stock at $333.67, up 0.25% for the session, 2.21% over the prior five trading days and 31.78% since January 1, 2026. The article frames the valuation debate around whether recent earnings momentum can support the elevated share price. Its narrative, however, includes an inconsistent claim that latest-quarter revenue grew at a double-digit rate. Labcorp’s official second-quarter release shows the factual figure was 5.8%: revenue rose to $3.731 billion from $3.527 billion a year earlier. Diluted EPS increased 28.5% to $3.64, and adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories revenue increased 5.5% to $2.901 billion, while Biopharma Laboratory Services revenue grew 6.5% to $836.2 million. Management raised 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The verified picture is therefore one of strong earnings and margin improvement with mid-single-digit revenue growth, while the article itself is primarily a share-price and valuation discussion rather than a new corporate announcement.",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-21T19:36:17+00:00",
-      "published_display": "21 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOR2dmYU1TNVd3Q2dPXzJtTmpSZEFLYXpSejZPTDRLVFBKNlV1YlI5XzlMdDNjZlZDeVV6Ymp4QWs4ZWRwUlI0NU1mZUN3cy0tczBBakVfN0g0WVl5Q3F5bHdLQ3Jlem5rTTVmNFhrUzQ4N1FGVE1vN0FYX0JqcE5JZXp6b2R3UTZfN0NQM0JBU2VkTlNqQjRPYVpqaHhTUnlCVnd0SFI3TjlNY21TSHFnQnlqWTVtckVGdGVHNXFzUDdMclhCOTZHdEVFN0M2THdB?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-21T19:36:17+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "earnings high holds investors near recent stock week weigh",
-      "source_description": "Labcorp stock holds near 52-week high as investors weigh recent earnings Ad-hoc-news.de",
-      "chatgpt_summary": "Ad Hoc News’ August 21 article described Labcorp shares consolidating near their 52-week-high range after a strong year-to-date advance. Its CBOE-based market snapshot showed the stock at $333.67, up 0.25% for the session, 2.21% over the prior five trading days and 31.78% since January 1, 2026. The article frames the valuation debate around whether recent earnings momentum can support the elevated share price. Its narrative, however, includes an inconsistent claim that latest-quarter revenue grew at a double-digit rate. Labcorp’s official second-quarter release shows the factual figure was 5.8%: revenue rose to $3.731 billion from $3.527 billion a year earlier. Diluted EPS increased 28.5% to $3.64, and adjusted EPS rose 14.9% to $4.99. Diagnostics Laboratories revenue increased 5.5% to $2.901 billion, while Biopharma Laboratory Services revenue grew 6.5% to $836.2 million. Management raised 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The verified picture is therefore one of strong earnings and margin improvement with mid-single-digit revenue growth, while the article itself is primarily a share-price and valuation discussion rather than a new corporate announcement.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://www.ad-hoc-news.de/boerse/news/corporate-news/labcorp-stock-holds-near-52-week-high-as-investors-weigh-recent-earnings/69983326",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
-    },
-    {
-      "id": "299810a036bfad1b48c4",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock holds near highs after Q2 beat",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5",
-      "description": "Ad Hoc News’ August 21 market note said Quest Diagnostics shares were holding close to their 52-week high after a strong second quarter. The article’s market snapshot put DGX at $241.80, with a $26.69 billion market capitalization, a $245.68 52-week high and a $171.18 low. The operating catalyst was Quest’s quarter ended June 30: revenue reached $3.043 billion, up 10.2% year over year, including 10.0% organic growth, and adjusted diluted EPS was $3.12, up 19.1%. Ad Hoc cited a $2.82 consensus, making the EPS beat $0.30. Quest raised its full-year 2026 revenue outlook to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25; the article said its analyst set centered on about $11.15 of full-year EPS. The market note also reported a trailing P/E of 25.67 and an average analyst target of $235.31, with several targets in the $245-$260 range. Those valuation figures are third-party market data, not Quest guidance. The underlying business point is that the share-price strength followed double-digit laboratory revenue growth, stronger earnings and higher company guidance across Quest’s broad testing platform rather than a newly announced single assay, acquisition or partnership.",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-21T16:23:14+00:00",
-      "published_display": "21 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUVJKeTNMa1VFbXNlLXE5cWx1TTVvNXN0ODV6aWRuN0x3MEJJTmNJMEpZZUtvRkprSUI5T0N1dExGbmpZMkNrcTM1LUk4aUtTcTNYWUVDQnJmVUYwUFlTUU03SG9HRmswYkFkZDRrV3k2WnhGa2Iya1BUVzFuNnl2bFZNUFZuQUJ6cDMyVHhEcXhqWVlUVHhyMDRmVEVycXJSNHpNT2FjTG04VWlraXZUQTFYVW5zeThT?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-21T16:23:14+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after beat highs holds near stock",
-      "source_description": "Quest Diagnostics stock holds near highs after Q2 beat Ad-hoc-news.de",
-      "chatgpt_summary": "Ad Hoc News’ August 21 market note said Quest Diagnostics shares were holding close to their 52-week high after a strong second quarter. The article’s market snapshot put DGX at $241.80, with a $26.69 billion market capitalization, a $245.68 52-week high and a $171.18 low. The operating catalyst was Quest’s quarter ended June 30: revenue reached $3.043 billion, up 10.2% year over year, including 10.0% organic growth, and adjusted diluted EPS was $3.12, up 19.1%. Ad Hoc cited a $2.82 consensus, making the EPS beat $0.30. Quest raised its full-year 2026 revenue outlook to $11.95-$12.05 billion and adjusted EPS guidance to $11.05-$11.25; the article said its analyst set centered on about $11.15 of full-year EPS. The market note also reported a trailing P/E of 25.67 and an average analyst target of $235.31, with several targets in the $245-$260 range. Those valuation figures are third-party market data, not Quest guidance. The underlying business point is that the share-price strength followed double-digit laboratory revenue growth, stronger earnings and higher company guidance across Quest’s broad testing platform rather than a newly announced single assay, acquisition or partnership.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-22T18:38:16+05:30",
-      "summary_evidence": [
-        "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-holds-near-highs-after-q2-beat/69982432",
-        "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 49,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-19T18:17:00+05:30",
-  "next_update_display": "19 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-20T06:17:00+05:30",
+  "next_update_display": "20 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
