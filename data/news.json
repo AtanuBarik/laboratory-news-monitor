@@ -1,11 +1,65 @@
 {
-  "generated_at": "2026-11-19T02:24:42.854861+05:30",
-  "generated_at_display": "19 Nov 2026, 2:24 AM IST",
-  "item_count": 524,
-  "raw_relevant_item_count": 637,
-  "duplicates_merged": 65,
+  "generated_at": "2026-11-19T13:28:03.163391+05:30",
+  "generated_at_display": "19 Nov 2026, 1:28 PM IST",
+  "item_count": 526,
+  "raw_relevant_item_count": 642,
+  "duplicates_merged": 62,
   "failures": [],
   "items": [
+    {
+      "id": "5c7070e0737bc411cab2",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Secures Unanimous Approval on All 10 Resolutions at 2026 AGM",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVBJbUdJMHdnb1JMUFFEVm9MMzRvT2NnRmlHa3VlSGh1a1JSMVh4djgxbGpGMWFkS1RuYVdxb2hYRWM2cFRBLVBfSXRBN3hITFc5emRxNURkd1haRnd6Q1FRNU9SNGdaaVFBWnQ0QTVkNEJGM3JwNElNRE9TUkxka0hpbzg2cTgtTV9kemFJTTJLZ3RfOHIweUNKanhxbGNHVWlNREliNlBrSFFGZ3FKZk9VSkZiVzBNb0FpYmRRS1I0UQ?oc=5",
+      "description": "Sonic Healthcare Secures Unanimous Approval on All 10 Resolutions at 2026 AGM Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-19T05:03:45+00:00",
+      "published_display": "19 Nov 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVBJbUdJMHdnb1JMUFFEVm9MMzRvT2NnRmlHa3VlSGh1a1JSMVh4djgxbGpGMWFkS1RuYVdxb2hYRWM2cFRBLVBfSXRBN3hITFc5emRxNURkd1haRnd6Q1FRNU9SNGdaaVFBWnQ0QTVkNEJGM3JwNElNRE9TUkxka0hpbzg2cTgtTV9kemFJTTJLZ3RfOHIweUNKanhxbGNHVWlNREliNlBrSFFGZ3FKZk9VSkZiVzBNb0FpYmRRS1I0UQ?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-19T05:03:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 agm all approval resolutions secures unanimous"
+    },
+    {
+      "id": "fc41e595290d9c4de265",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare Says FY27 EBITDA Guidance Reaffirmed",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2NMVzYwSkQxTVZxNE9vcjNPZ3JMTkhEdEJKdEVqb1FyZGtxVGJ2Q3N2dXVfNnctV0JKend5NERIWDg4Z09UdVBCS0lJcTZnaklwMDNvdVNTc0xCU29qQ3FqTk1adW5ib2RYNlhnY2VhSEl6WElCVTRFekE4OXBtblRkdUxPelZZX2ZFR3dvMTkyODF2ekVPdUNQRkRCYWFUODBTY0dwdDlXaGNCRkVLTWx2ejM0emowX0ZkNHBORHg?oc=5",
+      "description": "Sonic Healthcare Limited (ASX: SHL) — FY26 Earnings Growth Sustained with FY27 EBITDA Guidance Reaffirmed After Four Months of Trading Kalkine",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-11-19T00:59:40+00:00",
+      "published_display": "19 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2NMVzYwSkQxTVZxNE9vcjNPZ3JMTkhEdEJKdEVqb1FyZGtxVGJ2Q3N2dXVfNnctV0JKend5NERIWDg4Z09UdVBCS0lJcTZnaklwMDNvdVNTc0xCU29qQ3FqTk1adW5ib2RYNlhnY2VhSEl6WElCVTRFekE4OXBtblRkdUxPelZZX2ZFR3dvMTkyODF2ekVPdUNQRkRCYWFUODBTY0dwdDlXaGNCRkVLTWx2ejM0emowX0ZkNHBORHg?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-11-19T00:59:40+00:00"
+        },
+        {
+          "name": "Kalkine",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWNMWmlUNWUwSjM4VGRYRnVfWUJYWk93WXpOaXRGUjQyR3dIdWc1ZHo0eFJ5RFRDWkNwZnlLdkstdXFqbmQ1VnNwaUVQdUZoY0YyOVVlWGRhOHlOaVNia0hVWnpmbW9iR2hlRG0zdzk5UXRBQTA0Ymx3NjBXck1OM0dKbXFWdG9BeUtDdG02aHZ4X05qNmhMZjJwMDcyTEc3VERQaUhEV0FWZkFGdDk2NERQem9PSVhGUVFTZWtuV0JDa1VrUHIzV0YwRk1GYVNmOXc2UWJSYzhwa1REWEsxSXUzNk1sb0x1YUh4bEpwZGdjMHFHSTJyamkwWWo?oc=5",
+          "domain": "kalkine.com.au",
+          "published_at": "2026-11-19T04:37:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "ebitda fy27 guidance reaffirmed"
+    },
     {
       "id": "049ce8472c3c8d3151ec",
       "company": "Labcorp",
@@ -589,6 +643,30 @@
       "event_signature": "events funding investors key team xstock"
     },
     {
+      "id": "c6b4e9dd30d734981c39",
+      "company": "Labcorp",
+      "title": "Blank Rome Advises MH Parent, in its Sale of Millennium Health, to Labcorp",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk9sZ1gzYTdlWURLbWpuOGx3d0VndkpzYkw3bkVQV1JrcUExQllkVHp4MjBoM051R3R1TWw2ODNOejZ5alZXNnhpeG9PMEE0NmRjWUc4Rkk4Smp3YjY2SFBzY3lmckdGdEpycUhfaVVGV210S2F1RzlLQ21sSVozZzdhWVZ4NnA2ZFF6NmNhZzZUcFBpQng2NGo4UmdENGRIdHhiRVh5LTFsVzc5cm9Ic2lFdk82c1NEWDNwRG9vdkg?oc=5",
+      "description": "Blank Rome Advises MH Parent, LLC in its Sale of Millennium Health, LLC to Labcorp Blank Rome LLP",
+      "source": "Blank Rome LLP",
+      "source_url": "https://www.blankrome.com",
+      "source_domain": "blankrome.com",
+      "published_at": "2026-11-11T22:28:46+00:00",
+      "published_display": "11 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Blank Rome LLP",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk9sZ1gzYTdlWURLbWpuOGx3d0VndkpzYkw3bkVQV1JrcUExQllkVHp4MjBoM051R3R1TWw2ODNOejZ5alZXNnhpeG9PMEE0NmRjWUc4Rkk4Smp3YjY2SFBzY3lmckdGdEpycUhfaVVGV210S2F1RzlLQ21sSVozZzdhWVZ4NnA2ZFF6NmNhZzZUcFBpQng2NGo4UmdENGRIdHhiRVh5LTFsVzc5cm9Ic2lFdk82c1NEWDNwRG9vdkg?oc=5",
+          "domain": "blankrome.com",
+          "published_at": "2026-11-11T22:28:46+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advises blank health millennium parent rome sale"
+    },
+    {
       "id": "1b7541a30251ae99cdd8",
       "company": "Sonic Healthcare",
       "title": "Sonic Healthcare: Can Testing Volumes Offset Wage Pressure?",
@@ -691,48 +769,6 @@
       "event_signature": "375m buys drug lab specialty testing"
     },
     {
-      "id": "517aec86262eb37ecc26",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5",
-      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada",
-      "source": "PR Newswire",
-      "source_url": "https://www.prnewswire.com",
-      "source_domain": "prnewswire.com",
-      "published_at": "2026-11-10T21:06:00+00:00",
-      "published_display": "10 Nov 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5",
-          "domain": "prnewswire.com",
-          "published_at": "2026-11-10T21:06:00+00:00"
-        },
-        {
-          "name": "StreetInsider",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODgxM05pZkNYUU1RcUZ3NElaNk51WXh1Z3pKRVN6QndpWXg0OGNhUDlZMzl0SlJJdWFkQ0JPZGxZazlIRUYyeGIybEZITWdzNWh4QWQ4c3djc1RhT3l2YVhLSVJCSnp2R2RvT1liLVRxSHM3VzdmZFM2ajVqQnp1ZGZUS0l6NnhsQjlmbGlzN25JcDJISy04dnlXQzRmM0dPTEwxQWVDaDFCLXJiZEhMYjhqZm5jeE1GVUU5ZVhoVzVkSkVjRTZaWm52b09wQQ?oc=5",
-          "domain": "streetinsider.com",
-          "published_at": "2026-11-10T21:12:54+00:00"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkMxelR5MnAyMi1lQnVtSjFwMWtESi1kckZHSTFVYXh1OUJIMnROZzVmTEJ2a1hnZE15YlJpNkdwSlVPNGlRVXlvVzg0WFRBSVNNT19laVJZZVlzYmFzZ0dNQjlfT2VFNmFReElQQ2ZVaWpqY2pLbUx3VFNjdjF4a0VPLUJrYVR3azgybFNRZUdEOUp5N2FKS2pwWkFtZUtJTU4yUWx2dkJaLXRQN0c0?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-11-10T21:25:35+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFcyTzZGWnNjMTNTRXVzalFNRnR1OGRhWk1FWVltVnFCa2UxSlFzbDdqTWRYbHBxTWQxOEVYamZYWW9CblNnNS14Z19vaXozVGV1WlpudURObDlxdkJ2OEJpaTZYaTVTNzBlZTZ4SzVSMnFwQjJzdndiWk1GRk14WDNNdGhMVUI4TXI4N1JfMmVTbGx6enNWM0lvcXRwVTdEMWRjQ3Jwc1pURmRnWUU4?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-11-10T21:20:11+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "cash declares dividend quarterly"
-    },
-    {
       "id": "3d633495fbea88298309",
       "company": "Quest Diagnostics",
       "title": "Form SCHEDULE 13G QUEST DIAGNOSTICS Filed by: STATE STREET",
@@ -755,6 +791,48 @@
       ],
       "coverage_count": 1,
       "event_signature": "13g filed form schedule state street"
+    },
+    {
+      "id": "517aec86262eb37ecc26",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Declares Quarterly Cash Dividend",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5",
+      "description": "Quest Diagnostics declares $0.86 quarterly dividend By Investing.com Investing.com Canada",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "published_display": "10 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWUhLbVdfWjdzd2ZLckVWdWdaNmJPcTZVU3lXTnpvQV9EdG5Odm9vY0JKaW1oNlVIenlJYjN5T2VrNFY0Z01CMmJWY0ZEV19SUlJfc2VCQWQ1VE9IdFhtaVJzTWV2bUFKSzl4OXNYT3hnVWdxWWRfcE5wSDAxc1kxSmJyVERMeHBpTXdkd2VRWjY0a1BCR1hPRHd0cXVhUm5LRkdhVkhpNS1RQQ?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-11-10T08:00:00+00:00"
+        },
+        {
+          "name": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPODgxM05pZkNYUU1RcUZ3NElaNk51WXh1Z3pKRVN6QndpWXg0OGNhUDlZMzl0SlJJdWFkQ0JPZGxZazlIRUYyeGIybEZITWdzNWh4QWQ4c3djc1RhT3l2YVhLSVJCSnp2R2RvT1liLVRxSHM3VzdmZFM2ajVqQnp1ZGZUS0l6NnhsQjlmbGlzN25JcDJISy04dnlXQzRmM0dPTEwxQWVDaDFCLXJiZEhMYjhqZm5jeE1GVUU5ZVhoVzVkSkVjRTZaWm52b09wQQ?oc=5",
+          "domain": "streetinsider.com",
+          "published_at": "2026-11-10T21:12:54+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkMxelR5MnAyMi1lQnVtSjFwMWtESi1kckZHSTFVYXh1OUJIMnROZzVmTEJ2a1hnZE15YlJpNkdwSlVPNGlRVXlvVzg0WFRBSVNNT19laVJZZVlzYmFzZ0dNQjlfT2VFNmFReElQQ2ZVaWpqY2pLbUx3VFNjdjF4a0VPLUJrYVR3azgybFNRZUdEOUp5N2FKS2pwWkFtZUtJTU4yUWx2dkJaLXRQN0c0?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-10T21:25:35+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFcyTzZGWnNjMTNTRXVzalFNRnR1OGRhWk1FWVltVnFCa2UxSlFzbDdqTWRYbHBxTWQxOEVYamZYWW9CblNnNS14Z19vaXozVGV1WlpudURObDlxdkJ2OEJpaTZYaTVTNzBlZTZ4SzVSMnFwQjJzdndiWk1GRk14WDNNdGhMVUI4TXI4N1JfMmVTbGx6enNWM0lvcXRwVTdEMWRjQ3Jwc1pURmRnWUU4?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-10T21:20:11+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "cash declares dividend quarterly"
     },
     {
       "id": "e25cb6fde33964b368b3",
@@ -929,6 +1007,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "375m completes health millennium takeover"
+    },
+    {
+      "id": "658e984d84e4a4b9c41f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics to Speak at the 9th Annual Evercore Healthcare Conference",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlzQlFjbUZRZ2NjSjlBMGR2dnVwdG5GeDVQZWpuaEYwU2F3OS1IWm5ZcVhSNGg3bElMT05OeUhhMlpLdkVSQTZIVDFJQ0dPX2JrUnVTVWRTMWlodU12dm1pU3UzVm41MlZVNkF2aE5LQkhoai10NVlpdGF4OHl3VmZTREVaRnV5QkNBSFFJSHlUTVVjV3ZqMHpzRThzeVJLU1JnZ29BcFJFT1luQTl2eTRfeDBGczlfS2llcEcxdjIyTlhIR0hjT0Qwaw?oc=5",
+      "description": "Quest Diagnostics to Speak at the 9th Annual Evercore Healthcare Conference PR Newswire",
+      "source": "PR Newswire",
+      "source_url": "https://www.prnewswire.com",
+      "source_domain": "prnewswire.com",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXlzQlFjbUZRZ2NjSjlBMGR2dnVwdG5GeDVQZWpuaEYwU2F3OS1IWm5ZcVhSNGg3bElMT05OeUhhMlpLdkVSQTZIVDFJQ0dPX2JrUnVTVWRTMWlodU12dm1pU3UzVm41MlZVNkF2aE5LQkhoai10NVlpdGF4OHl3VmZTREVaRnV5QkNBSFFJSHlUTVVjV3ZqMHpzRThzeVJLU1JnZ29BcFJFT1luQTl2eTRfeDBGczlfS2llcEcxdjIyTlhIR0hjT0Qwaw?oc=5",
+          "domain": "prnewswire.com",
+          "published_at": "2026-11-09T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "9th annual conference evercore speak"
     },
     {
       "id": "9fe1c8e10ddaf89a4263",
@@ -15628,70 +15730,12 @@
         "https://www.ad-hoc-news.de/boerse/news/corporate-news/quest-diagnostics-stock-holds-near-highs-after-q2-beat/69982432",
         "https://newsroom.questdiagnostics.com/2026-07-23-Quest-Diagnostics-Reports-Second-Quarter-2026-Financial-Results-Raises-Revenue-and-EPS-Guidance-for-Full-Year-2026"
       ]
-    },
-    {
-      "id": "0060ca4454ac659b4f79",
-      "company": "Sonic Healthcare",
-      "title": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5",
-      "description": "Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-08-21T06:53:38+00:00",
-      "published_display": "21 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-08-21T06:53:38+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acquires citi over power voting"
-    },
-    {
-      "id": "1b7f26c71a32c89b380a",
-      "company": "Sonic Healthcare",
-      "title": "ASX Movers Today: Sonic Healthcare in focus as volatility after earnings reshapes Midcap Stocks",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa29ETmxOeVVPZU5hc0ZqbnlpeGtJaUxTSVo1TFpic1ptVWRsV2VqZ1Q2bDR6NWt6NlE4SUZjQ1Zrb2gzc2oxNVFnX0pCbkdsMUFJUHpzbU0yU2RUd2JieEdfSXFBS0Z0RjdWQXZtMVU1NlpwYlA2X05EYzJ3RFlhWE5iSlp2X2JjaTVUNmVkdUxlRXltd1ZnZjljcERueHBmZnVFTGlrYXZQT1hYUTVSa3FsQmVBZ3ZvbzN0dXRnNldsS2R5X242el9McVE1em9Nb0Z5d2xtaEh0Wms?oc=5",
-      "description": "Sonic Healthcare’s shares sold off sharply after its FY2026 results even though the company reported double-digit growth and met its constant-currency EBITDA guidance. Sonic reported revenue of A$10.867 billion, up 13%, organic revenue growth of 5%, underlying EBITDA of A$1.933 billion, up 11%, and underlying net profit after tax of A$621 million, up 17%. Underlying EPS was 125.6 Australian cents. Contemporary market coverage said EPS was below consensus expectations and the shares fell about 9% after the release, highlighting investor concern about the pace of margin recovery rather than a contraction in testing demand. Sonic’s results also showed statutory net profit of A$608 million and continuing investment in acquisition integration, U.S. restructuring and digital infrastructure. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion before about A$30 million of annual back-office transformation costs. It expects A$25-A$30 million of benefits from the U.S. operating review, with further LADR and Swiss acquisition synergies also supporting earnings. The immediate market reaction therefore reflected the gap between solid FY2026 operating growth and investor expectations for margins, EPS and the speed of FY2027 improvement.",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-21T01:33:00+00:00",
-      "published_display": "21 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa29ETmxOeVVPZU5hc0ZqbnlpeGtJaUxTSVo1TFpic1ptVWRsV2VqZ1Q2bDR6NWt6NlE4SUZjQ1Zrb2gzc2oxNVFnX0pCbkdsMUFJUHpzbU0yU2RUd2JieEdfSXFBS0Z0RjdWQXZtMVU1NlpwYlA2X05EYzJ3RFlhWE5iSlp2X2JjaTVUNmVkdUxlRXltd1ZnZjljcERueHBmZnVFTGlrYXZQT1hYUTVSa3FsQmVBZ3ZvbzN0dXRnNldsS2R5X242el9McVE1em9Nb0Z5d2xtaEh0Wms?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-21T01:33:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after earnings focus midcap movers reshapes stocks today volatility",
-      "source_description": "ASX Movers Today: Sonic Healthcare (ASX:SHL) in focus as volatility after earnings reshapes Midcap Stocks Kalkine Media",
-      "chatgpt_summary": "Sonic Healthcare’s shares sold off sharply after its FY2026 results even though the company reported double-digit growth and met its constant-currency EBITDA guidance. Sonic reported revenue of A$10.867 billion, up 13%, organic revenue growth of 5%, underlying EBITDA of A$1.933 billion, up 11%, and underlying net profit after tax of A$621 million, up 17%. Underlying EPS was 125.6 Australian cents. Contemporary market coverage said EPS was below consensus expectations and the shares fell about 9% after the release, highlighting investor concern about the pace of margin recovery rather than a contraction in testing demand. Sonic’s results also showed statutory net profit of A$608 million and continuing investment in acquisition integration, U.S. restructuring and digital infrastructure. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion before about A$30 million of annual back-office transformation costs. It expects A$25-A$30 million of benefits from the U.S. operating review, with further LADR and Swiss acquisition synergies also supporting earnings. The immediate market reaction therefore reflected the gap between solid FY2026 operating growth and investor expectations for margins, EPS and the speed of FY2027 improvement.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-21T18:35:37+05:30",
-      "summary_evidence": [
-        "https://financereviewdaily.com/en/article/sonic-healthcare-fy-2026-earnings-miss-forecasts-shares-slide-9-9",
-        "https://au.investing.com/news/transcripts/earnings-call-transcript-sonic-healthcare-h2-2026-stock-falls-on-cautious-outlook-93CH-4608523",
-        "https://investors.sonichealthcare.com/FormBuilder/_Resource/_module/T8Ln_c4ibUqyFnnNe9zNRA/docs/Releases/2026/Media_Release_Full_Year_Results_to_30_June_2026.pdf"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 54,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-19T06:17:00+05:30",
-  "next_update_display": "19 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-19T18:17:00+05:30",
+  "next_update_display": "19 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

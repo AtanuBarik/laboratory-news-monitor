@@ -1,11 +1,36 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 19 Nov 2026, 2:24 AM IST
+- **Repository generated:** 19 Nov 2026, 1:28 PM IST
 - **Distinct events in this file:** 25
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
-## 1. Sonic Healthcare Base Testing Battles Wage and Funding Pressure
+## 1. Sonic Healthcare Secures Unanimous Approval on All 10 Resolutions at 2026 AGM
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 19 Nov 2026
+- **Category:** Product & Services
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Kalkine Media: https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSVBJbUdJMHdnb1JMUFFEVm9MMzRvT2NnRmlHa3VlSGh1a1JSMVh4djgxbGpGMWFkS1RuYVdxb2hYRWM2cFRBLVBfSXRBN3hITFc5emRxNURkd1haRnd6Q1FRNU9SNGdaaVFBWnQ0QTVkNEJGM3JwNElNRE9TUkxka0hpbzg2cTgtTV9kemFJTTJLZ3RfOHIweUNKanhxbGNHVWlNREliNlBrSFFGZ3FKZk9VSkZiVzBNb0FpYmRRS1I0UQ?oc=5
+
+**Feed description:** Sonic Healthcare Secures Unanimous Approval on All 10 Resolutions at 2026 AGM Kalkine Media
+
+## 2. Sonic Healthcare Says FY27 EBITDA Guidance Reaffirmed
+
+- **Company:** Sonic Healthcare
+- **Publication date:** 19 Nov 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - TradingView: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT2NMVzYwSkQxTVZxNE9vcjNPZ3JMTkhEdEJKdEVqb1FyZGtxVGJ2Q3N2dXVfNnctV0JKend5NERIWDg4Z09UdVBCS0lJcTZnaklwMDNvdVNTc0xCU29qQ3FqTk1adW5ib2RYNlhnY2VhSEl6WElCVTRFekE4OXBtblRkdUxPelZZX2ZFR3dvMTkyODF2ekVPdUNQRkRCYWFUODBTY0dwdDlXaGNCRkVLTWx2ejM0emowX0ZkNHBORHg?oc=5
+  - Kalkine: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdWNMWmlUNWUwSjM4VGRYRnVfWUJYWk93WXpOaXRGUjQyR3dIdWc1ZHo0eFJ5RFRDWkNwZnlLdkstdXFqbmQ1VnNwaUVQdUZoY0YyOVVlWGRhOHlOaVNia0hVWnpmbW9iR2hlRG0zdzk5UXRBQTA0Ymx3NjBXck1OM0dKbXFWdG9BeUtDdG02aHZ4X05qNmhMZjJwMDcyTEc3VERQaUhEV0FWZkFGdDk2NERQem9PSVhGUVFTZWtuV0JDa1VrUHIzV0YwRk1GYVNmOXc2UWJSYzhwa1REWEsxSXUzNk1sb0x1YUh4bEpwZGdjMHFHSTJyamkwWWo?oc=5
+
+**Feed description:** Sonic Healthcare Limited (ASX: SHL) — FY26 Earnings Growth Sustained with FY27 EBITDA Guidance Reaffirmed After Four Months of Trading Kalkine
+
+## 3. Sonic Healthcare Base Testing Battles Wage and Funding Pressure
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 13 Nov 2026
@@ -17,7 +42,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Base Testing Battles Wage and Funding Pressure Kalkine Media
 
-## 2. What Do Fee Changes and Overseas Restructuring Mean for Sonic Healthcare?
+## 4. What Do Fee Changes and Overseas Restructuring Mean for Sonic Healthcare?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 12 Nov 2026
@@ -29,7 +54,7 @@
 
 **Feed description:** What Do Fee Changes and Overseas Restructuring Mean for Sonic Healthcare (ASX:SHL)? Kalkine Media
 
-## 3. Sonic Healthcare: Can Testing Volumes Offset Wage Pressure?
+## 5. Sonic Healthcare: Can Testing Volumes Offset Wage Pressure?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Nov 2026
@@ -42,7 +67,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL): Can Testing Volumes Offset Wage Pressure? Kalkine Media
 
-## 4. Sonic Healthcare Share Price, Forecast & Analysis
+## 6. Sonic Healthcare Share Price, Forecast & Analysis
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 06 Nov 2026
@@ -54,7 +79,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Share Price, Forecast & Analysis Stocks Down Under
 
-## 5. Pathology Pressure: Can ASX 50's Sonic Healthcare Lift Margins?
+## 7. Pathology Pressure: Can ASX 50's Sonic Healthcare Lift Margins?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 05 Nov 2026
@@ -66,7 +91,7 @@
 
 **Feed description:** Pathology Pressure: Can ASX 50's Sonic Healthcare (ASX:SHL) Lift Margins? Kalkine Media
 
-## 6. Sonic Healthcare: Can Testing Volumes Beat Cost Pressures?
+## 8. Sonic Healthcare: Can Testing Volumes Beat Cost Pressures?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 02 Nov 2026
@@ -78,7 +103,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL): Can Testing Volumes Beat Cost Pressures? Kalkine Media
 
-## 7. INOVIQ Signs Agreement with Sonic Healthcare to Advance EXO-OC Ovarian Cancer Detection Test
+## 9. INOVIQ Signs Agreement with Sonic Healthcare to Advance EXO-OC Ovarian Cancer Detection Test
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 02 Nov 2026
@@ -90,7 +115,7 @@
 
 **Feed description:** INOVIQ Signs Agreement with Sonic Healthcare to Advance EXO-OC Ovarian Cancer Detection Test Small Caps
 
-## 8. INOVIQ signs validation deal with Sonic Healthcare USA
+## 10. INOVIQ signs validation deal with Sonic Healthcare USA
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 02 Nov 2026
@@ -102,7 +127,7 @@
 
 **Feed description:** INOVIQ signs validation deal with Sonic Healthcare USA grafa.com
 
-## 9. Can Sonic Healthcare’s Validation Deal Unlock a US Launch for INOVIQ (ASX:IIQ)?
+## 11. Can Sonic Healthcare’s Validation Deal Unlock a US Launch for INOVIQ (ASX:IIQ)?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 01 Nov 2026
@@ -114,7 +139,7 @@
 
 **Feed description:** Can Sonic Healthcare’s Validation Deal Unlock a US Launch for INOVIQ (ASX:IIQ)? Kalkine Media
 
-## 10. INOVIQ (ASX:IIQ) Sonic Healthcare Deal Opens the Door to a US Ovarian Cancer Launch
+## 12. INOVIQ (ASX:IIQ) Sonic Healthcare Deal Opens the Door to a US Ovarian Cancer Launch
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 01 Nov 2026
@@ -126,7 +151,7 @@
 
 **Feed description:** INOVIQ (ASX:IIQ) Sonic Healthcare Deal Opens the Door to a US Ovarian Cancer Launch Stocks Down Under
 
-## 11. INOVIQ Partners Sonic Healthcare USA to Validate Ovarian Cancer Test
+## 13. INOVIQ Partners Sonic Healthcare USA to Validate Ovarian Cancer Test
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 01 Nov 2026
@@ -138,7 +163,7 @@
 
 **Feed description:** INOVIQ Partners Sonic Healthcare USA to Validate Ovarian Cancer Test TipRanks
 
-## 12. Sonic Healthcare Shares May Trade At A Discount On Earnings
+## 14. Sonic Healthcare Shares May Trade At A Discount On Earnings
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 16 Oct 2026
@@ -150,7 +175,7 @@
 
 **Feed description:** Sonic Healthcare (ASX:SHL) Shares May Trade At A Discount On Earnings Yahoo Finance
 
-## 13. How Far Can Sonic Healthcare Rebuild Margins?
+## 15. How Far Can Sonic Healthcare Rebuild Margins?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 15 Oct 2026
@@ -162,7 +187,7 @@
 
 **Feed description:** How Far Can Sonic Healthcare (ASX:SHL) Rebuild Margins? Kalkine Media
 
-## 14. Are Sonic Healthcare Shares Testing a Yearly Low?
+## 16. Are Sonic Healthcare Shares Testing a Yearly Low?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 12 Oct 2026
@@ -174,7 +199,7 @@
 
 **Feed description:** Are Sonic Healthcare (ASX:SHL) Shares Testing a Yearly Low? Kalkine Media
 
-## 15. $6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000
+## 17. $6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 08 Oct 2026
@@ -186,7 +211,7 @@
 
 **Feed description:** $6.44M AMCA Sonic Healthcare Data Breach Settlement — $50 or Up to $5,000 openclassactions.com
 
-## 16. Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test
+## 18. Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 07 Oct 2026
@@ -198,7 +223,7 @@
 
 **Feed description:** Sonic Healthcare stock holds at AUD 18.72 as FY2026 growth sets the test ad-hoc-news.de
 
-## 17. Sonic Healthcare Revenue Breakdown – HAN:SAB
+## 19. Sonic Healthcare Revenue Breakdown – HAN:SAB
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 29 Sep 2026
@@ -210,7 +235,7 @@
 
 **Feed description:** Sonic Healthcare Limited Revenue Breakdown – HAN:SAB TradingView
 
-## 18. Which Markets Are Lifting Sonic Healthcare Revenue?
+## 20. Which Markets Are Lifting Sonic Healthcare Revenue?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 14 Sep 2026
@@ -222,7 +247,7 @@
 
 **Feed description:** Which Markets Are Lifting Sonic Healthcare (ASX:SHL) Revenue? kalkinemedia.com
 
-## 19. Are Margins Turning for Sonic Healthcare?
+## 21. Are Margins Turning for Sonic Healthcare?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 11 Sep 2026
@@ -234,7 +259,7 @@
 
 **Feed description:** Are Margins Turning for Sonic Healthcare (ASX:SHL)? kalkinemedia.com
 
-## 20. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
+## 22. ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 10 Sep 2026
@@ -246,7 +271,7 @@
 
 **Feed description:** ASX Short Interest Weekly (Sep 4th): CAR, Cochlear, Predictive Discovery, Sonic Healthcare smartkarma.com
 
-## 21. Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?
+## 23. Why Is Sonic Healthcare in Focus as It Reaches guidance as synergies build?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 01 Sep 2026
@@ -258,7 +283,7 @@
 
 **Feed description:** Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? kalkinemedia.com
 
-## 22. Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?
+## 24. Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 31 Aug 2026
@@ -270,7 +295,7 @@
 
 **Feed description:** Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? kalkinemedia.com
 
-## 23. Can Sonic Healthcare Rally Further on Profit Growth?
+## 25. Can Sonic Healthcare Rally Further on Profit Growth?
 
 - **Company:** Sonic Healthcare
 - **Publication date:** 27 Aug 2026
@@ -281,27 +306,3 @@
   - Kalkine Media: https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5
 
 **Feed description:** Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? kalkinemedia.com
-
-## 24. Sonic Healthcare Says Citi Acquires Over 5% Voting Power
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 21 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - marketscreener.com: https://news.google.com/rss/articles/CBMirAFBVV95cUxPUVRYNldwVHNaN1Nyd3k1Vmx6V092aXkxd0M4UjJ5ZjZhRmM1SlFiU0tvaFdSMzBzZG16enhUaklGWDhpTkFXZkNJcnRsUXBxQklvLVYtbEp6Njc2NFUtaVE3eUFBNzdYT3FVbGtWMDQ3VDhodXdhMktsRUk3dWM5VFc0aWdpR1Jsd1pYNHVoTzltQjNfZ0U3Uzd0Tjk5d1ZranBjX3lDY1BWc0lw?oc=5
-
-**Feed description:** Sonic Healthcare Says Citi Acquires Over 5% Voting Power marketscreener.com
-
-## 25. ASX Movers Today: Sonic Healthcare in focus as volatility after earnings reshapes Midcap Stocks
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 21 Aug 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Kalkine Media: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOa29ETmxOeVVPZU5hc0ZqbnlpeGtJaUxTSVo1TFpic1ptVWRsV2VqZ1Q2bDR6NWt6NlE4SUZjQ1Zrb2gzc2oxNVFnX0pCbkdsMUFJUHpzbU0yU2RUd2JieEdfSXFBS0Z0RjdWQXZtMVU1NlpwYlA2X05EYzJ3RFlhWE5iSlp2X2JjaTVUNmVkdUxlRXltd1ZnZjljcERueHBmZnVFTGlrYXZQT1hYUTVSa3FsQmVBZ3ZvbzN0dXRnNldsS2R5X242el9McVE1em9Nb0Z5d2xtaEh0Wms?oc=5
-
-**Feed description:** Sonic Healthcare’s shares sold off sharply after its FY2026 results even though the company reported double-digit growth and met its constant-currency EBITDA guidance. Sonic reported revenue of A$10.867 billion, up 13%, organic revenue growth of 5%, underlying EBITDA of A$1.933 billion, up 11%, and underlying net profit after tax of A$621 million, up 17%. Underlying EPS was 125.6 Australian cents. Contemporary market coverage said EPS was below consensus expectations and the shares fell about 9% after the release, highlighting investor concern about the pace of margin recovery rather than a contraction in testing demand. Sonic’s results also showed statutory net profit of A$608 million and continuing investment in acquisition integration, U.S. restructuring and digital infrastructure. For FY2027, management guided to constant-currency EBITDA of A$1.95-A$2.03 billion before about A$30 million of annual back-office transformation costs. It expects A$25-A$30 million of benefits from the U.S. operating review, with further LADR and Swiss acquisition synergies also supporting earnings. The immediate market reaction therefore reflected the gap between solid FY2026 operating growth and investor expectations for margins, EPS and the speed of FY2027 improvement.

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T03:03:31.931146+05:30",
-  "generated_at_display": "19 Nov 2026, 3:03 AM IST",
+  "generated_at": "2026-11-19T13:28:08.740662+05:30",
+  "generated_at_display": "19 Nov 2026, 1:28 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 513,
+  "remaining_unsummarized_count": 516,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -55,6 +55,25 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTVES1haT1BIeE90bFJ0Q0JlUmtNbXFEaFpfMnRjcFJPNkNvbU1FUWdMcm5ScDVzcWN2WGhlX2w0MjJaQzJ1cWtMZ3k1aUdUWExhSFhpS09nVU5Ia2dObm1lRmxoMFJMbHN6YUFKazl1SzlhOXNEeW84cDV3MlZERUVTOTFidVh2TDhHemNWaXBwX2RXVkwyQVJPSWtCbUF6X19fNzA2TVI0SllnV2t0TjZXcmpZRHdXN0wyamxWUlI2QkQwREVmQkc4M1k5ODZ1cEpqWWtGSHQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c6b4e9dd30d734981c39",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Blank Rome Advises MH Parent, in its Sale of Millennium Health, to Labcorp",
+      "source": "Blank Rome LLP",
+      "description": "Blank Rome Advises MH Parent, LLC in its Sale of Millennium Health, LLC to Labcorp Blank Rome LLP",
+      "published_at": "2026-11-11T22:28:46+00:00",
+      "published_display": "11 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk9sZ1gzYTdlWURLbWpuOGx3d0VndkpzYkw3bkVQV1JrcUExQllkVHp4MjBoM051R3R1TWw2ODNOejZ5alZXNnhpeG9PMEE0NmRjWUc4Rkk4Smp3YjY2SFBzY3lmckdGdEpycUhfaVVGV210S2F1RzlLQ21sSVozZzdhWVZ4NnA2ZFF6NmNhZzZUcFBpQng2NGo4UmdENGRIdHhiRVh5LTFsVzc5cm9Ic2lFdk82c1NEWDNwRG9vdkg?oc=5",
+      "sources": [
+        {
+          "name": "Blank Rome LLP",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSk9sZ1gzYTdlWURLbWpuOGx3d0VndkpzYkw3bkVQV1JrcUExQllkVHp4MjBoM051R3R1TWw2ODNOejZ5alZXNnhpeG9PMEE0NmRjWUc4Rkk4Smp3YjY2SFBzY3lmckdGdEpycUhfaVVGV210S2F1RzlLQ21sSVozZzdhWVZ4NnA2ZFF6NmNhZzZUcFBpQng2NGo4UmdENGRIdHhiRVh5LTFsVzc5cm9Ic2lFdk82c1NEWDNwRG9vdkg?oc=5"
         }
       ]
     },
@@ -628,25 +647,6 @@
         {
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHROcU11cE5QWV80a1diYTFEWXl0QlVzNWtiVk4tNmhkQy1NXzc4cUh6Snhwcm9pZnhHUWNTZ3NEWC1nY01vOEl2QzU2bUhYbDRmME9uM1NYeGhoa01OMEdrNnRESlRlTXVCRFVKaE4wNGhmY0hyQ2NGN3c0MWpQWEthS2htRURmUzBjM1M2ODVDQ21kSG5OUnVtS2V3cWtNRktqNw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1bd79f0520039f6d5ef4",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change",
-      "source": "HIT Consultant",
-      "description": "Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant",
-      "published_at": "2026-10-14T07:00:00+00:00",
-      "published_display": "14 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5",
-      "sources": [
-        {
-          "name": "HIT Consultant",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYkxZUk9sbkhvdkZ2WWJ3ZU93R3EwSl9LMFNhRTZBTmhYNjYyOHJGQkpZU0tRWmZabGQweFFjS2dTcWY4OWViNnZ4cXBCeV9jNXZuM1RIaGdYRk56NHc4V1JSdURtTEpsZWZPNDJUTC1uR3Y0blg5QjB0Z0tNQWhUOWpGdmt1T0NHSG1TRU9rV2RYTXA1T1F2QXYwLTdFZUM5VDF5NXhDTG1vdHNyYzUwb1JQMENOTkxjMXdz?oc=5"
         }
       ]
     }
