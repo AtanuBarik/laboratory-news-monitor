@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-20T13:17:34.578376+05:30",
-  "generated_at_display": "20 Nov 2026, 1:17 PM IST",
-  "item_count": 526,
-  "raw_relevant_item_count": 646,
-  "duplicates_merged": 67,
+  "generated_at": "2026-11-21T02:15:26.329574+05:30",
+  "generated_at_display": "21 Nov 2026, 2:15 AM IST",
+  "item_count": 525,
+  "raw_relevant_item_count": 638,
+  "duplicates_merged": 57,
   "failures": [],
   "items": [
     {
@@ -7819,9 +7819,15 @@
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-10-20T07:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-23T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
     },
     {
@@ -15677,45 +15683,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 call earnings transcript"
-    },
-    {
-      "id": "9bd8cd371e6de356ea9b",
-      "company": "Labcorp",
-      "title": "Labcorp stock trades close to 52-week high as earnings momentum supports gains",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUkdKaFFfNVNlc0E2bHB4Y2VaZkpLUGpRZzcxTlBMUXhGUDJEd25TQzJ5N3NBWTV1alYtSGZNeWRmemhUZUFNb2YtMGZyRUNaMVJQQWNyd0RmOFBGSm1qUWl0X0NaS2ZGdGRhM291UUlSOF80YnJxTFZyTVBlU01pSUR4LTFFd0h3YTFaRUdyd3E4cjlUbnVDTER3ZVVNN2hjY0ZKdm9MVkZBaElRbTBKckhxRTh5VGZReWdSbVZLM2hpQ1JXcDlvT0x4RWdZWllz?oc=5",
-      "description": "Ad Hoc News’ August 22 market note said Labcorp shares were trading close to their 52-week-high range after a strong 2026 run. Its CBOE-based snapshot put the stock at $333.67 as of August 21 at 10:33 a.m. ET, up 0.25% for the session from a $332.83 prior close. Shares were up 31.78% since the start of 2026 and 2.21% over the previous five trading days. The article also cited a price-to-earnings ratio of 27.52 versus a broader-market average of 39.51 and an external earnings estimate rising from $18.32 to $19.66 per share over the coming year, a 7.31% increase. The operating backdrop is Labcorp’s second quarter: the company officially reported $3.731 billion of revenue, up 5.8% year over year, and adjusted EPS of $4.99, up 14.9%. Diluted EPS was $3.64, up 28.5%. Management raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The article is therefore primarily market and valuation commentary; the share-price strength it describes follows a quarter of higher revenue, earnings and company guidance rather than a newly announced product, transaction or organizational change.",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-22T11:06:52+00:00",
-      "published_display": "22 Aug 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUkdKaFFfNVNlc0E2bHB4Y2VaZkpLUGpRZzcxTlBMUXhGUDJEd25TQzJ5N3NBWTV1alYtSGZNeWRmemhUZUFNb2YtMGZyRUNaMVJQQWNyd0RmOFBGSm1qUWl0X0NaS2ZGdGRhM291UUlSOF80YnJxTFZyTVBlU01pSUR4LTFFd0h3YTFaRUdyd3E4cjlUbnVDTER3ZVVNN2hjY0ZKdm9MVkZBaElRbTBKckhxRTh5VGZReWdSbVZLM2hpQ1JXcDlvT0x4RWdZWllz?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-22T11:06:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "close earnings gains high momentum stock supports trades week",
-      "source_description": "Labcorp stock trades close to 52-week high as earnings momentum supports gains Ad-hoc-news.de",
-      "chatgpt_summary": "Ad Hoc News’ August 22 market note said Labcorp shares were trading close to their 52-week-high range after a strong 2026 run. Its CBOE-based snapshot put the stock at $333.67 as of August 21 at 10:33 a.m. ET, up 0.25% for the session from a $332.83 prior close. Shares were up 31.78% since the start of 2026 and 2.21% over the previous five trading days. The article also cited a price-to-earnings ratio of 27.52 versus a broader-market average of 39.51 and an external earnings estimate rising from $18.32 to $19.66 per share over the coming year, a 7.31% increase. The operating backdrop is Labcorp’s second quarter: the company officially reported $3.731 billion of revenue, up 5.8% year over year, and adjusted EPS of $4.99, up 14.9%. Diluted EPS was $3.64, up 28.5%. Management raised full-year 2026 enterprise revenue-growth guidance to 5.4%–6.3% and adjusted EPS guidance to $18.10–$18.55. The article is therefore primarily market and valuation commentary; the share-price strength it describes follows a quarter of higher revenue, earnings and company guidance rather than a newly announced product, transaction or organizational change.",
-      "summary_provider": "ChatGPT Scheduled Task",
-      "summary_verification": "verified",
-      "summary_updated_at": "2026-08-23T00:32:54+05:30",
-      "summary_evidence": [
-        "https://www.ad-hoc-news.de/boerse/news/corporate-news/labcorp-stock-trades-close-to-52-week-high-as-earnings-momentum-supports/69985863",
-        "https://www.prnewswire.com/news-releases/labcorp-announces-2026-second-quarter-results-raises-full-year-2026-guidance-302838292.html"
-      ]
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 56,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-20T18:17:00+05:30",
-  "next_update_display": "20 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-21T06:17:00+05:30",
+  "next_update_display": "21 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }

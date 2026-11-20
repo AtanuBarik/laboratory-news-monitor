@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 20 Nov 2026, 1:17 PM IST
+- **Repository generated:** 21 Nov 2026, 2:15 AM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -2075,10 +2075,11 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 20 Oct 2026
 - **Category:** Product & Services
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - marketscreener.com: https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTVRvWkRwYTM3Q0E5dXJ1ekJSdGZYbzhLc29QUkdDY2F2UDdVV2RyaUNVem1lRWtsWnBzNm84ei0xMzNSV0lOb1JZb3lFOVhadXdFLWxBbHF3LVpDSUxpSVlPdFppY3pHMFVlMzVwSEpzYnYxS3RGc3U5M1EtNDR5TW51d1BZa2c4STh6NU83VFBtUWREeC1BOGtLbG5KeHFjcFFFcFgwNFlnZlFrS0JHRTY3ODIyOGNUcTlESG1RVEQ2OHRYY0lfaFhEYjhsdFNrS044MzBkMUpoNVZVS2duNTQyZno5UQ?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5
 
 **Feed description:** Waters, Quest Diagnostics Collaborate to Expand Access to At-Home HPV Screening for Cervical Cancer www.marketscreener.com
 
