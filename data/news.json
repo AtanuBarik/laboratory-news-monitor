@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-21T02:15:26.329574+05:30",
-  "generated_at_display": "21 Nov 2026, 2:15 AM IST",
-  "item_count": 525,
-  "raw_relevant_item_count": 638,
-  "duplicates_merged": 57,
+  "generated_at": "2026-11-21T13:13:48.838379+05:30",
+  "generated_at_display": "21 Nov 2026, 1:13 PM IST",
+  "item_count": 522,
+  "raw_relevant_item_count": 631,
+  "duplicates_merged": 53,
   "failures": [],
   "items": [
     {
@@ -11227,42 +11227,6 @@
       "event_signature": "234 after closing heads open stock usd"
     },
     {
-      "id": "5437036cf7acc46fe7d6",
-      "company": "Labcorp",
-      "title": "Labcorp Q2 2026 Earnings Call Transcript",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-      "description": "Labcorp Holdings Inc. R (N6B.DE) Q1 FY2026 earnings call transcript finance.yahoo.com",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "source_domain": "fortune.com",
-      "published_at": "2026-09-23T23:18:05+00:00",
-      "published_display": "23 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-09-23T23:18:05+00:00"
-        },
-        {
-          "name": "finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOTdKTU8yY21LbDJ5ZjBaOHk4WHJkdEhQX012MTF0dzJRMF91dlg4bFlhZGN6MGQydmNQOFFJaElteDQ5a3hPcEQwazhnWnd2dmxBOWJkbXFQSm5RYXBpckhaa1hrV0RNQWpXeWNFYjJSTFZzaThwTXFRMkFfQVdTM0RvV3lCWVFUY1ZaTExZQU43dw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-09-25T21:20:05+00:00"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-09-26T08:30:44+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "2026 call earnings transcript"
-    },
-    {
       "id": "db16752d0c91226c2c06",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics: Testing Growth Keeps Me Bullish Despite Medicare Headwinds",
@@ -11965,9 +11929,27 @@
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPazBIV0VCVjRLOTZmU01ibnk5ZUN5R0loY016Y3J2eVkxaGhFekpVV1N1dkotbVNOa3A0MkZmN3FJQldseF9mU2loNXpORHYyRzVhcG5ub3cyMTB6XzIweEdld3g5Skc3RXN1eDhHZXotblowLTZoQjNHeXk3aFZWRktUVjFNVUs0aDBTSFlNTEFydWNYQXdzemgyVVd1QkYwUGdjbXlULVdEb0tXSFNfZDVFSERrOVc5V2VVYUxKS3hzRU5VWExLNVNEVTVNT3c?oc=5",
           "domain": "ad-hoc-news.de",
           "published_at": "2026-09-20T07:00:00+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-23T23:18:05+00:00"
+        },
+        {
+          "name": "finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOTdKTU8yY21LbDJ5ZjBaOHk4WHJkdEhQX012MTF0dzJRMF91dlg4bFlhZGN6MGQydmNQOFFJaElteDQ5a3hPcEQwazhnWnd2dmxBOWJkbXFQSm5RYXBpckhaa1hrV0RNQWpXeWNFYjJSTFZzaThwTXFRMkFfQVdTM0RvV3lCWVFUY1ZaTExZQU43dw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-09-25T21:20:05+00:00"
+        },
+        {
+          "name": "Fortune",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
+          "domain": "fortune.com",
+          "published_at": "2026-09-26T08:30:44+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 4,
       "event_signature": "2026 after growth highs near recent revenue stock trades"
     },
     {
@@ -15635,60 +15617,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "add alzheimer biomarker elecsys portfolio roche test"
-    },
-    {
-      "id": "403288b5f818c5e8cd2a",
-      "company": "Labcorp",
-      "title": "Labcorp EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5",
-      "description": "Labcorp (LH) EPS and Revenue: Reported EPS Tops Expectations for the Current Session; Market Move: Shares Finish 1.06% Higher in the Latest Session - Capex Guidance dars.gov.et",
-      "source": "dars.gov.et",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-08-23T07:00:00+00:00",
-      "published_display": "23 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "dars.gov.et",
-          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQbzJncDZ3bFVxaTlwcWkxUF9SWFdiVFFGV3JZeGt4Skw5cW5Ra3VjT21EWHVjNk5ObUlhZ0dkcnZEUDBFdTlzakEzYV9WUWlHcEwxVkk3dlBMSjZYWE1DdWEtR2hNSlEyOVk3dXp1eW5fWDlUcGtLWDZfeEhiUzRIQjRyN3dKX1pxSXFoN0ZUWHRKV0E3OEhUQkVhYzdkMDE4T1dzVlFhYU1hUjZDaFRWc18wcWIzZWhyMndYQ3psODIySmhuQjJ0cWVRV1R5WV9WeXZ3ZnZnSTUycEN4cFVtMXYyc0UtRWRFYktESDlNWDZKRTl2eThzYkcxZGN0SWFJaW9JdVZScV9ubGR0M1BXLUNfaw?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-08-23T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "capex current eps expectations finish guidance higher market move revenue session shares tops"
-    },
-    {
-      "id": "90e213eccfc396c44dfd",
-      "company": "Labcorp",
-      "title": "Labcorp Q1 2026 Earnings Call Transcript",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
-      "description": "Labcorp Holdings (LH) Q1 2026 Earnings Call Transcript Fortune",
-      "source": "Fortune",
-      "source_url": "https://fortune.com",
-      "source_domain": "fortune.com",
-      "published_at": "2026-08-22T20:57:40+00:00",
-      "published_display": "22 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-08-22T20:57:40+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 call earnings transcript"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 55,
+  "post_prune_financial_duplicates_merged": 1,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-21T06:17:00+05:30",
-  "next_update_display": "21 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-21T18:17:00+05:30",
+  "next_update_display": "21 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
