@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 21 Nov 2026, 1:13 PM IST
+- **Repository generated:** 22 Nov 2026, 1:18 AM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -147,9 +147,10 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Nov 2026
 - **Category:** Product & Services
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZJTlM2bUoxUlZPMHhPU3d2T1BsNU92WXpvcElDdXY3bTI2N2tDM0dZRno3YllYU0FYNElKVzRMaVhIXzRjZk5VQjd5U3pIZjFaMlN2VjR4MUxjcG5JMGlBQWt5WEhzNGJmQTBwcmlGUG9jckNacHBsbnBYYV8wcmc3SXQxYnpXbmdibzd1Vkc3VnZsZDNTNXMySWh3eHExT1RQbzVB?oc=5
   - The Manila Times: https://news.google.com/rss/articles/CBMivwJBVV95cUxOaE54Vng4RDd4SzdSUmoxZmtsNWJDQVJ4aUI4YkFlaTU5RUxtM25sV3dJQVFNX2xIZmdFeUR4WEw1a3kwX0VzWndyV0U0VkpHc3JveGlZT0tlajZieUNIQ1hRV1FKQ0tVRmQyRnBvOXA0eVY0OTB5aXd1X0lXeFlISHpLMGtlUERpOGt4ME5yS0daMGJSVjBxVjhjVWZzZDdqVHNMNC1qanQ3SFJzUDBHQUwycTA2azc1elljSnh4QlhSUWgxX3JFRWxCWW5sZzFVZ285NVRIYmM3emJPdmVOZDRySzRDZU9tVzFZdVZUd1huYlY4d0FuNEdQcmhSaVFYekpPMjJLX0NUY2gweVhZR25aazNRQXNqU25yNkVvRVBJek4zSlNsM2tkXzZyRjRiVWROUlVlem5Qb1dINjVB0gHEAkFVX3lxTE9QY2lDYXpGbmRqLVVJNGpray1FTVBfd0ZCOTBuTEdkNklaNUJmMXlIYmc4VHRkbEQwdExKQ1diYXJLVVNmYzZDbi1hNVVLcjZUMDUxMnNtQUE1bmI3QTY1dDZCLTBHaENLekxMa2JHSTl2V044ZmZuQ1B0eFdFWUJCMFg0YzVlSFFsREp4dGQyZWxramtaVkQtR3VsMVRDQ0xMeXVfVGVpRm81LXZfWEx2UVlWNVlDNGlQcWp1aTBDNktHaDN0NlpaQTZ4MXRSN0ZodlQ5UmdJRTZUMk9mQzJQN3k3UHVMdGhCai00WUZhY29tenZVSjFmVUxKTEhXajJvQkYxY0lZb0NJOWhkTDF3UWxHVGUtYTZaaXVjTjFyeGZPLWRKSTEzbFVnazJESVhfRFhFNjZTQkxBaDZYQTRZTGxweA?oc=5
 
 **Feed description:** Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member The Manila Times
