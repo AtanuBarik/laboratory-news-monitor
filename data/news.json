@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-11-23T01:28:47.616001+05:30",
-  "generated_at_display": "23 Nov 2026, 1:28 AM IST",
-  "item_count": 511,
-  "raw_relevant_item_count": 592,
-  "duplicates_merged": 32,
+  "generated_at": "2026-11-23T13:47:31.844431+05:30",
+  "generated_at_display": "23 Nov 2026, 1:47 PM IST",
+  "item_count": 510,
+  "raw_relevant_item_count": 620,
+  "duplicates_merged": 51,
   "failures": [],
   "items": [
+    {
+      "id": "1c510da8964a781f6635",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare's Fiscal 2027 EBITDA Guidance in Line With Estimate, Jefferies Says",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0M1YXJsZmNLM1B2ak5sWW9CMEpwSlVZUUhFX2w5MDQ2ekVoa2o1bzRwR0JQdnljdUljOXF1V3pCVjllZ3E1NmRuZnZYamRXLXQzeU9qUmM2NVFEcUhXdU1OTk5GQXpiU0dWWGh0cDE5cXY4UHFPTGF1bVhjbkd6RVZmV1M4Z202ekphMmRuUDM0X21jU0J1djV0ZHR3S0xKYnFuOThDc0dxRkZhRDFVQkRuS2VjQ2h5d3p0YUtEa3dYMXoyN19sSGZOMEVnbXhRMkE?oc=5",
+      "description": "Sonic Healthcare's Fiscal 2027 EBITDA Guidance in Line With Estimate, Jefferies Says www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-11-23T04:29:15+00:00",
+      "published_display": "23 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQV0M1YXJsZmNLM1B2ak5sWW9CMEpwSlVZUUhFX2w5MDQ2ekVoa2o1bzRwR0JQdnljdUljOXF1V3pCVjllZ3E1NmRuZnZYamRXLXQzeU9qUmM2NVFEcUhXdU1OTk5GQXpiU0dWWGh0cDE5cXY4UHFPTGF1bVhjbkd6RVZmV1M4Z202ekphMmRuUDM0X21jU0J1djV0ZHR3S0xKYnFuOThDc0dxRkZhRDFVQkRuS2VjQ2h5d3p0YUtEa3dYMXoyN19sSGZOMEVnbXhRMkE?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-11-23T04:29:15+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2027 ebitda estimate fiscal guidance jefferies line"
+    },
+    {
+      "id": "8e73127a2ff1f6309730",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Sees Hospital Deal Growth as 2027 Medicare Cuts Loom",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlU0UHhnaG5jVXowZG9LRThIU0djbU95Q2NvQ2pfemR1c0RrNDR0b2R2dG9RaG1CQmo5Q0QzSUU2NkFNWmNsczRrN3Z0bm13b3pDS0M5eVEyWnJOT29xU0psZzlWZzdJdTYtVTJVbTZJX0xmTDdQQnhaTjU5MkotMUtQTFRoVlNTa2hhWTNQN3Z0RWxmUW9NbFhEVjNUZw?oc=5",
+      "description": "Quest Diagnostics Sees Hospital Deal Growth as 2027 Medicare Cuts Loom Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-22T04:12:00+00:00",
+      "published_display": "22 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlU0UHhnaG5jVXowZG9LRThIU0djbU95Q2NvQ2pfemR1c0RrNDR0b2R2dG9RaG1CQmo5Q0QzSUU2NkFNWmNsczRrN3Z0bm13b3pDS0M5eVEyWnJOT29xU0psZzlWZzdJdTYtVTJVbTZJX0xmTDdQQnhaTjU5MkotMUtQTFRoVlNTa2hhWTNQN3Z0RWxmUW9NbFhEVjNUZw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-22T04:12:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2027 cuts deal growth hospital loom medicare sees"
+    },
     {
       "id": "988678a9a4e83b83be7c",
       "company": "Quest Diagnostics",
@@ -29,6 +77,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "history price quote stock"
+    },
+    {
+      "id": "0b0bfbceef8575b29649",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Gains 49.3% YTD: What's Behind the Rally?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0kya3ozS0daNW1zbXZKLWN4Y1JIam1CZUY2LVlET2dTd1RHQkhEN08zai03MmoyNzEzVndVREs5RXA3UFFMUDI2VGhKSVVRVDQtdVFnMEhzN01sLTZGdjJUb19jcWNpOEEySm1WNU5BaXFIc2hKUU1KTENfOGwtSFdEY0RYd0R5d0taV2Y1N011QTJ5dTlhVw?oc=5",
+      "description": "Quest Diagnostics Stock Gains 49.3% YTD: What's Behind the Rally? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-20T13:52:00+00:00",
+      "published_display": "20 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPN0kya3ozS0daNW1zbXZKLWN4Y1JIam1CZUY2LVlET2dTd1RHQkhEN08zai03MmoyNzEzVndVREs5RXA3UFFMUDI2VGhKSVVRVDQtdVFnMEhzN01sLTZGdjJUb19jcWNpOEEySm1WNU5BaXFIc2hKUU1KTENfOGwtSFdEY0RYd0R5d0taV2Y1N011QTJ5dTlhVw?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-20T13:52:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "behind gains rally stock what ytd"
     },
     {
       "id": "75dfc5fadff5ad27dafb",
@@ -181,9 +253,15 @@
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMF9lMXh3eUxibHdKWk5rQ3ZjalVQcHZPQTk3S3RTR3VMVVJhcm1ramF5bkZqTElyMlJ6dDJEaWwtU2RSVEhFYlV2ZXM0TFlLNUZPekl4bkM0Qi1ua0pRNzQycXVOTGJwTjVncmpyY3ktNGJzLXFIcnpURFNsOEtqWURwelRSQQ?oc=5",
           "domain": "mugglehead.com",
           "published_at": "2026-11-18T14:52:10+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1RyM04xTW5YZ05QVHNWU1Y3Yllza3lmM3hxMjBTZ2NhcXppTFdMQ29fczJRajNPUFVhWkxtUGZuek1ZTlRYeE81YnNSOXZDeUhDNFl2QzU1aTlPSTZsc0VnWTRETW1Ib3BBUnBkQjdLWXVqOWhMaFlfdlROaHV5c1A1SUJFbXFaeWxGejBpS21tZl9tM3pSWWR2WW54QjdVYklhcg?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-18T13:30:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "biomarker cancer department florida funded health otraces perform prostate selects study testing"
     },
     {
@@ -451,6 +529,30 @@
       "event_signature": "lands million nanopath series startup test vaginitis"
     },
     {
+      "id": "8994b86fc42b388740b0",
+      "company": "Labcorp",
+      "title": "Labcorp buys toxicology specialist Millennium Health to deepen drug-testing reach",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnhCT0dxdTJyN2JrcU4zTnpiQXctdFpQellCNjJrZkpXc3YzbG8zcXl4eTJCWWppLS1zUzJxNklhQUlwRDdLZWxTaWRtdkpmdUVfdmlNdldtWDBjTE5sc3JXVXcyX2FvODVURFozWWM5RU5LS3JKbjRaQlVxTXFHc0ZTY1Y1UUk5MW9fUGRpMVA0ZUVEaDk2OHZCQTRxVFd4ZGdPeUNzai1TRG1sMlZLTmZWOWVRQQ?oc=5",
+      "description": "Labcorp buys toxicology specialist Millennium Health to deepen drug-testing reach Dealroom",
+      "source": "Dealroom",
+      "source_url": "https://app.dealroom.co",
+      "source_domain": "app.dealroom.co",
+      "published_at": "2026-11-15T15:30:28+00:00",
+      "published_display": "15 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSnhCT0dxdTJyN2JrcU4zTnpiQXctdFpQellCNjJrZkpXc3YzbG8zcXl4eTJCWWppLS1zUzJxNklhQUlwRDdLZWxTaWRtdkpmdUVfdmlNdldtWDBjTE5sc3JXVXcyX2FvODVURFozWWM5RU5LS3JKbjRaQlVxTXFHc0ZTY1Y1UUk5MW9fUGRpMVA0ZUVEaDk2OHZCQTRxVFd4ZGdPeUNzai1TRG1sMlZLTmZWOWVRQQ?oc=5",
+          "domain": "app.dealroom.co",
+          "published_at": "2026-11-15T15:30:28+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "buys deepen drug health millennium reach specialist testing toxicology"
+    },
+    {
       "id": "348afc5dbb27460ff90a",
       "company": "Labcorp",
       "title": "Labcorp Earnings Call Signals Growth Despite PAMA Risks",
@@ -507,7 +609,7 @@
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
-      "published_at": "2026-11-13T16:14:51+00:00",
+      "published_at": "2026-11-13T08:00:00+00:00",
       "published_display": "13 Nov 2026",
       "category": "Other",
       "official_source": false,
@@ -516,7 +618,7 @@
           "name": "Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVEFpX0dJanpSN19hVHFTaVhBU3c3ZE9jM3M0VzRCdExsaWhQMl9MZ3d6R0Q4UDJSUmFxb3Nka0JBUUV3bGtoV1ZrZFlPeEVsYjNBMWlEQWVwb2VkckI0YW1wUUtXTjdiMGZ0dG90bURRR1poeGlwbFNDYUUxdEhEYndUZTV2bXpxYUVmcGJqc2ZndjZE?oc=5",
           "domain": "finance.yahoo.com",
-          "published_at": "2026-11-13T16:14:51+00:00"
+          "published_at": "2026-11-13T08:00:00+00:00"
         },
         {
           "name": "MarketBeat",
@@ -805,30 +907,6 @@
       "event_signature": "2027 dividend holders jan keeps payable quarterly record share"
     },
     {
-      "id": "c4faed1daf6115b34266",
-      "company": "Labcorp",
-      "title": "Labcorp acquires Millennium Health for $375M",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
-      "description": "Labcorp acquires Millennium Health for $375M Becker's Hospital Review",
-      "source": "Becker's Hospital Review",
-      "source_url": "https://www.beckershospitalreview.com",
-      "source_domain": "beckershospitalreview.com",
-      "published_at": "2026-11-10T22:32:43+00:00",
-      "published_display": "10 Nov 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Becker's Hospital Review",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
-          "domain": "beckershospitalreview.com",
-          "published_at": "2026-11-10T22:32:43+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "375m acquires health millennium"
-    },
-    {
       "id": "78ce9d11b35677a7efb3",
       "company": "Labcorp",
       "title": "Labcorp buys specialty drug testing lab company for $375M",
@@ -917,6 +995,30 @@
       ],
       "coverage_count": 4,
       "event_signature": "cash declares dividend quarterly"
+    },
+    {
+      "id": "c4faed1daf6115b34266",
+      "company": "Labcorp",
+      "title": "Labcorp acquires Millennium Health for $375M",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
+      "description": "Labcorp acquires Millennium Health for $375M Becker's Hospital Review",
+      "source": "Becker's Hospital Review",
+      "source_url": "https://www.beckershospitalreview.com",
+      "source_domain": "beckershospitalreview.com",
+      "published_at": "2026-11-10T08:00:00+00:00",
+      "published_display": "10 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Becker's Hospital Review",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmd0M1puc3ZEOHFzRzRONHhhTVJiXzBuR0tMR0tvcEdodjZmTllwQjB6dGR2Nkx5ZUVOVjRhTGxjNFlBbFpsRGxMd1pZQ0xNaXRpZkRPY2pEVzJkZEZFck1vcmtGM1VNSEJWWk1FMTBVTWZOazRFcEE4UnRDUkI3MjB3cHZ2ZzhyZ1FIcEhsdzdVbTExWEhwMGZvU2hzZkdYRGJDdXNTcmdvUjBnZnJpTm53VTVQNFJoY1E?oc=5",
+          "domain": "beckershospitalreview.com",
+          "published_at": "2026-11-10T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "375m acquires health millennium"
     },
     {
       "id": "e25cb6fde33964b368b3",
@@ -1189,36 +1291,6 @@
       "event_signature": "13m alleged federal kickback more pays prosecutors say scheme settle than"
     },
     {
-      "id": "900e8116e37e8279b770",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics pays $13M to settle allegations tied to Giants ticket perks",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEhLR0xTMVl2c1ZxRnZRc1E4VmZMa3V5ZkFHbThSd3liaGo1NklDdWl0WFotNjRqcmJZWTJVcVZ4bVZiTjY0RlJib3V6VmdoX0dwSkxpc0x0MkNqUU5wS016cjYtVFJkYTJiMGhPTmJBTWNaN0NNdGlkbE9NdUVvWmZoaHJHLVZSTU5RdHRMUnZxN3hWZ25ueUpiX09vMm1iMHZ4VTNVZVM?oc=5",
-      "description": "Quest Diagnostics pays $13M to settle allegations tied to Giants ticket perks News12 | New Jersey",
-      "source": "News12 | New Jersey",
-      "source_url": "https://newjersey.news12.com",
-      "source_domain": "newjersey.news12.com",
-      "published_at": "2026-11-08T18:06:09+00:00",
-      "published_display": "08 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "News12 | New Jersey",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEhLR0xTMVl2c1ZxRnZRc1E4VmZMa3V5ZkFHbThSd3liaGo1NklDdWl0WFotNjRqcmJZWTJVcVZ4bVZiTjY0RlJib3V6VmdoX0dwSkxpc0x0MkNqUU5wS016cjYtVFJkYTJiMGhPTmJBTWNaN0NNdGlkbE9NdUVvWmZoaHJHLVZSTU5RdHRMUnZxN3hWZ25ueUpiX09vMm1iMHZ4VTNVZVM?oc=5",
-          "domain": "newjersey.news12.com",
-          "published_at": "2026-11-08T18:06:09+00:00"
-        },
-        {
-          "name": "News12 | New Jersey",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU21icnBHZFNaWU9YYTV2dks0THBwemxKdUE4M1NEdG5QbEY5QUZObDVPb2hTSVV1OURGSGpUSmFtQUR4MkJEODBialBTMU9ENEJJMm13dFBGT0pWNFFVOGV5QmQ4M3MybG9wUkZPYmN0MmJMNUhSN2hKcE5ULWRmaDlTTzdCSm1QbzM3dGhlNnl2aWUySEhXOEY5TFBFOHNrSHZLa1lhVFZGenFJQThGaXRaMG95V2x2c1U0R0J6czE3X1k4dk03bUFraHlwVi1pNXNSNzdB?oc=5",
-          "domain": "newjersey.news12.com",
-          "published_at": "2026-11-08T18:06:09+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "13m allegations giants pays perks settle ticket tied"
-    },
-    {
       "id": "b5af97e6d32ae333e5fd",
       "company": "Quest Diagnostics",
       "title": "Form 144 QUEST DIAGNOSTICS For: 8 November By Investing.com",
@@ -1431,7 +1503,7 @@
       "source": "WRNJ Radio",
       "source_url": "https://wrnjradio.com",
       "source_domain": "wrnjradio.com",
-      "published_at": "2026-11-07T09:56:53+00:00",
+      "published_at": "2026-11-07T08:00:00+00:00",
       "published_display": "07 Nov 2026",
       "category": "Other",
       "official_source": false,
@@ -1440,11 +1512,47 @@
           "name": "WRNJ Radio",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZmV1UzhCUTNhQXF0QTFPX2I4U2E4TndhN3JCOTdwMnJEak9hMXV2TlJ6Nm5UZUpGaVR0WnJDVld5YUszZ0NxZnYyV0hoenV0ZllJUExFdXpieVdxQ1p6SmduWXk5VjVlal9wVFRHWjhiUm5pZXRoXzViV3RxOUh0eENNdDlMZFFRem1xak1xd3BlTDJoeXRPdGp2SWRUVU1fazFYcU1IUzBDQU1tdHRZTndDQkhkN2tfVWdxTE9UWllUSXhyVmU0TDNWZUlJa2VTZ185Z1BGUGR2UURjLXc?oc=5",
           "domain": "wrnjradio.com",
-          "published_at": "2026-11-07T09:56:53+00:00"
+          "published_at": "2026-11-07T08:00:00+00:00"
         }
       ],
       "coverage_count": 1,
       "event_signature": "allegations events giants illegal involving kickbacks million more pays settle than tickets vip"
+    },
+    {
+      "id": "1b518fdb8a063cdd89bd",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics pays $13M to settle kickback allegations involving NY Giants tickets",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmVoUVlseVVIcTZ6ZzZ1VWJLNnFNUDRKM3planlsQ21pWHpBY1dVX0JQR2w3U291dzh1LXhzc24yZEVTQzNYdFdKMkFlSjNvQ2I4ZkhWcy1EMGU3bXR0WUo4b2Q4Sjk5WWZzcm5GQ25mQlBGOXNTWDRTV3VBekpXTE9MaDZuNDZTN0YwaXBoWVRyMVJNa2xIZEx3ck5QSU4tODlBLXQyb1NNaDJyNjZBU3pn?oc=5",
+      "description": "Quest Diagnostics pays $13M to settle allegations tied to Giants ticket perks News12 | New Jersey",
+      "source": "Gothamist",
+      "source_url": "https://gothamist.com",
+      "source_domain": "gothamist.com",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Gothamist",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmVoUVlseVVIcTZ6ZzZ1VWJLNnFNUDRKM3planlsQ21pWHpBY1dVX0JQR2w3U291dzh1LXhzc24yZEVTQzNYdFdKMkFlSjNvQ2I4ZkhWcy1EMGU3bXR0WUo4b2Q4Sjk5WWZzcm5GQ25mQlBGOXNTWDRTV3VBekpXTE9MaDZuNDZTN0YwaXBoWVRyMVJNa2xIZEx3ck5QSU4tODlBLXQyb1NNaDJyNjZBU3pn?oc=5",
+          "domain": "gothamist.com",
+          "published_at": "2026-11-07T08:00:00+00:00"
+        },
+        {
+          "name": "News12 | New Jersey",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbEhLR0xTMVl2c1ZxRnZRc1E4VmZMa3V5ZkFHbThSd3liaGo1NklDdWl0WFotNjRqcmJZWTJVcVZ4bVZiTjY0RlJib3V6VmdoX0dwSkxpc0x0MkNqUU5wS016cjYtVFJkYTJiMGhPTmJBTWNaN0NNdGlkbE9NdUVvWmZoaHJHLVZSTU5RdHRMUnZxN3hWZ25ueUpiX09vMm1iMHZ4VTNVZVM?oc=5",
+          "domain": "newjersey.news12.com",
+          "published_at": "2026-11-08T18:06:09+00:00"
+        },
+        {
+          "name": "News12 | New Jersey",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU21icnBHZFNaWU9YYTV2dks0THBwemxKdUE4M1NEdG5QbEY5QUZObDVPb2hTSVV1OURGSGpUSmFtQUR4MkJEODBialBTMU9ENEJJMm13dFBGT0pWNFFVOGV5QmQ4M3MybG9wUkZPYmN0MmJMNUhSN2hKcE5ULWRmaDlTTzdCSm1QbzM3dGhlNnl2aWUySEhXOEY5TFBFOHNrSHZLa1lhVFZGenFJQThGaXRaMG95V2x2c1U0R0J6czE3X1k4dk03bUFraHlwVi1pNXNSNzdB?oc=5",
+          "domain": "newjersey.news12.com",
+          "published_at": "2026-11-08T18:06:09+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "13m allegations giants involving kickback pays settle tickets"
     },
     {
       "id": "6ab68a3907c7f7a46080",
@@ -2917,30 +3025,6 @@
       "event_signature": "acquisition costs gains offset profit quarter revenue slightly third"
     },
     {
-      "id": "d754630c79bab07831f2",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics faces multiple class action lawsuits over lab data breach",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVN0TGJ5ZENZWXhwTXRyUHlCVmc4ZEo2UTAzUlQzWXZoaUZLQkJsRXprX0VBMTdDTWRIclpWdVRCaHhlRlhZb3QtaGlxaExYUm5nWF9QdmlDdklKS0Jma3RuQUlreVFYLThCcm56a3dBOHNHeVhLcDNFajFvSWN6QmRsOGM0MWNLdEZkQ0lLbF9UclJ5bVRNb3BhVm9qdWxWVWppZkhXbUJycXVLcW9zT2E4a0RJSURUY1hLc2xhMDV4OWstRDhtRElJUU9TR1RFc013?oc=5",
-      "description": "Quest Diagnostics faces multiple class action lawsuits over lab data breach Top Class Actions",
-      "source": "Top Class Actions",
-      "source_url": "https://topclassactions.com",
-      "source_domain": "topclassactions.com",
-      "published_at": "2026-10-28T14:01:52+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Top Class Actions",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVN0TGJ5ZENZWXhwTXRyUHlCVmc4ZEo2UTAzUlQzWXZoaUZLQkJsRXprX0VBMTdDTWRIclpWdVRCaHhlRlhZb3QtaGlxaExYUm5nWF9QdmlDdklKS0Jma3RuQUlreVFYLThCcm56a3dBOHNHeVhLcDNFajFvSWN6QmRsOGM0MWNLdEZkQ0lLbF9UclJ5bVRNb3BhVm9qdWxWVWppZkhXbUJycXVLcW9zT2E4a0RJSURUY1hLc2xhMDV4OWstRDhtRElJUU9TR1RFc013?oc=5",
-          "domain": "topclassactions.com",
-          "published_at": "2026-10-28T14:01:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "action breach class data faces lab lawsuits multiple over"
-    },
-    {
       "id": "fe5f4708c9ad9fcceb35",
       "company": "Labcorp",
       "title": "Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)",
@@ -3715,6 +3799,30 @@
       "event_signature": "2026 call earnings summary"
     },
     {
+      "id": "d754630c79bab07831f2",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics faces multiple class action lawsuits over lab data breach",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVN0TGJ5ZENZWXhwTXRyUHlCVmc4ZEo2UTAzUlQzWXZoaUZLQkJsRXprX0VBMTdDTWRIclpWdVRCaHhlRlhZb3QtaGlxaExYUm5nWF9QdmlDdklKS0Jma3RuQUlreVFYLThCcm56a3dBOHNHeVhLcDNFajFvSWN6QmRsOGM0MWNLdEZkQ0lLbF9UclJ5bVRNb3BhVm9qdWxWVWppZkhXbUJycXVLcW9zT2E4a0RJSURUY1hLc2xhMDV4OWstRDhtRElJUU9TR1RFc013?oc=5",
+      "description": "Quest Diagnostics faces multiple class action lawsuits over lab data breach Top Class Actions",
+      "source": "Top Class Actions",
+      "source_url": "https://topclassactions.com",
+      "source_domain": "topclassactions.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Top Class Actions",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOVN0TGJ5ZENZWXhwTXRyUHlCVmc4ZEo2UTAzUlQzWXZoaUZLQkJsRXprX0VBMTdDTWRIclpWdVRCaHhlRlhZb3QtaGlxaExYUm5nWF9QdmlDdklKS0Jma3RuQUlreVFYLThCcm56a3dBOHNHeVhLcDNFajFvSWN6QmRsOGM0MWNLdEZkQ0lLbF9UclJ5bVRNb3BhVm9qdWxWVWppZkhXbUJycXVLcW9zT2E4a0RJSURUY1hLc2xhMDV4OWstRDhtRElJUU9TR1RFc013?oc=5",
+          "domain": "topclassactions.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action breach class data faces lab lawsuits multiple over"
+    },
+    {
       "id": "0f7726bb5f367ad8fb68",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics $6M Courier Wage Settlement",
@@ -3793,30 +3901,6 @@
       "event_signature": "earnings expectations focus moderate profit"
     },
     {
-      "id": "13ef3bcdeb9c5cf70599",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics says patient records were accessed through its Quanum lab-ordering portal; the number of affected people and exposed data remain unknown",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDFZX1V4M3hpUVFFZzVkOEJ2elFFa25Ld0Qzem16WWJqT2daMExmaElNQ21fV3hZT01OUjc2ZHdGZTRPSW05VUkwRE5teTdmUUs0TFRGdjZQb1gxNXFRNXNkeGQxaTNzM1llQXNyVlpiTm1mVGwtclBPdDR0UlZEakhYQU4xM3h2WFNSVU9HZGxualJk?oc=5",
-      "description": "Quest Diagnostics says patient records were accessed through its Quanum lab-ordering portal; the number of affected people and exposed data remain unknown Medical Daily",
-      "source": "Medical Daily",
-      "source_url": "https://www.medicaldaily.com",
-      "source_domain": "medicaldaily.com",
-      "published_at": "2026-10-27T13:39:14+00:00",
-      "published_display": "27 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Medical Daily",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDFZX1V4M3hpUVFFZzVkOEJ2elFFa25Ld0Qzem16WWJqT2daMExmaElNQ21fV3hZT01OUjc2ZHdGZTRPSW05VUkwRE5teTdmUUs0TFRGdjZQb1gxNXFRNXNkeGQxaTNzM1llQXNyVlpiTm1mVGwtclBPdDR0UlZEakhYQU4xM3h2WFNSVU9HZGxualJk?oc=5",
-          "domain": "medicaldaily.com",
-          "published_at": "2026-10-27T13:39:14+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "accessed affected data exposed lab number ordering patient people portal quanum records remain through unknown were"
-    },
-    {
       "id": "ca1af700d084339ad0ce",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed",
@@ -3871,6 +3955,30 @@
       "event_signature": "access approved expand fda hpv screening tests waters"
     },
     {
+      "id": "13ef3bcdeb9c5cf70599",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics says patient records were accessed through its Quanum lab-ordering portal; the number of affected people and exposed data remain unknown",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDFZX1V4M3hpUVFFZzVkOEJ2elFFa25Ld0Qzem16WWJqT2daMExmaElNQ21fV3hZT01OUjc2ZHdGZTRPSW05VUkwRE5teTdmUUs0TFRGdjZQb1gxNXFRNXNkeGQxaTNzM1llQXNyVlpiTm1mVGwtclBPdDR0UlZEakhYQU4xM3h2WFNSVU9HZGxualJk?oc=5",
+      "description": "Quest Diagnostics says patient records were accessed through its Quanum lab-ordering portal; the number of affected people and exposed data remain unknown Medical Daily",
+      "source": "Medical Daily",
+      "source_url": "https://www.medicaldaily.com",
+      "source_domain": "medicaldaily.com",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Medical Daily",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWDFZX1V4M3hpUVFFZzVkOEJ2elFFa25Ld0Qzem16WWJqT2daMExmaElNQ21fV3hZT01OUjc2ZHdGZTRPSW05VUkwRE5teTdmUUs0TFRGdjZQb1gxNXFRNXNkeGQxaTNzM1llQXNyVlpiTm1mVGwtclBPdDR0UlZEakhYQU4xM3h2WFNSVU9HZGxualJk?oc=5",
+          "domain": "medicaldaily.com",
+          "published_at": "2026-10-27T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "accessed affected data exposed lab number ordering patient people portal quanum records remain through unknown were"
+    },
+    {
       "id": "c130f0238a84bfb828eb",
       "company": "Labcorp",
       "title": "Labcorp earnings: what to look for from LH",
@@ -3911,30 +4019,6 @@
       ],
       "coverage_count": 4,
       "event_signature": "earnings look what"
-    },
-    {
-      "id": "204e008c52140e95586a",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNyNHkzUUkyMEtZVWJuZGxyRHVhbC1JWjNUdlR3Wm1pUk84enlnSDVXbWxDY09Ual96RUExMThLdGZfOUIyYktxcm9IUnl5alJ1WEphcDNYcFJ6Qnk3U25tcks3dFlLcEtRalFaNWYwbGtPS3hqRXdUdHpZU1o4YUhNeklkYkRxek9UNnFqY284YTV3eTdLaE5OcXYzTFJBbjdrd2lXTG0wY2tfalZEb3lxYm53YkgtdTNKUFlKZlJ4dGFTMkg0dw?oc=5",
-      "description": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's Seeking Alpha",
-      "source": "Seeking Alpha",
-      "source_url": "https://seekingalpha.com",
-      "source_domain": "seekingalpha.com",
-      "published_at": "2026-10-27T02:53:13+00:00",
-      "published_display": "27 Oct 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNyNHkzUUkyMEtZVWJuZGxyRHVhbC1JWjNUdlR3Wm1pUk84enlnSDVXbWxDY09Ual96RUExMThLdGZfOUIyYktxcm9IUnl5alJ1WEphcDNYcFJ6Qnk3U25tcks3dFlLcEtRalFaNWYwbGtPS3hqRXdUdHpZU1o4YUhNeklkYkRxek9UNnFqY284YTV3eTdLaE5OcXYzTFJBbjdrd2lXTG0wY2tfalZEb3lxYm53YkgtdTNKUFlKZlJ4dGFTMkg0dw?oc=5",
-          "domain": "seekingalpha.com",
-          "published_at": "2026-10-27T02:53:13+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "after also alzheimer announcing strong test upgraded while"
     },
     {
       "id": "75b2c7e2b775695d2b62",
@@ -4051,30 +4135,6 @@
       "event_signature": "affecting breach data diagnostic massive nationwide patient records"
     },
     {
-      "id": "2fc8705ea04f95c54c95",
-      "company": "Labcorp",
-      "title": "Labcorp adds San Diego toxicology lab in seventh acquisition this year",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5",
-      "description": "Labcorp adds San Diego toxicology lab in seventh acquisition this year The Business Journals",
-      "source": "The Business Journals",
-      "source_url": "https://www.bizjournals.com",
-      "source_domain": "bizjournals.com",
-      "published_at": "2026-10-26T10:30:00+00:00",
-      "published_display": "26 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5",
-          "domain": "bizjournals.com",
-          "published_at": "2026-10-26T10:30:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acquisition adds diego lab san seventh this toxicology year"
-    },
-    {
       "id": "263f284fb8a6acfe857f",
       "company": "Labcorp",
       "title": "Labcorp inks Millennium Health buyout to add drug testing services",
@@ -4127,6 +4187,54 @@
       ],
       "coverage_count": 1,
       "event_signature": "access breach cybercriminals gaining lab management patient records system"
+    },
+    {
+      "id": "2fc8705ea04f95c54c95",
+      "company": "Labcorp",
+      "title": "Labcorp adds San Diego toxicology lab in sixth acquisition this year",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5",
+      "description": "Labcorp adds San Diego toxicology lab in seventh acquisition this year The Business Journals",
+      "source": "The Business Journals",
+      "source_url": "https://www.bizjournals.com",
+      "source_domain": "bizjournals.com",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeUZLUXpBOWRCTDZGZTY2MWtWMzNBSlBicDVyUnM3ZFlxRGFCdmIxQUN1Z2VJOThkWnNIWVJZRENibTQydVBtSE4yTVg5dGhVaDNCaXdDQTZOYWt0VHhYOGJ4RGpzenlUTVFwRE1adlR5MGc0bGl3NC1pQUV3bllOLTBmV0pfS1BBZ2hCRDdabEFFMFJDN3pGRzdkcE9JQkFIZm50NFkwUTk?oc=5",
+          "domain": "bizjournals.com",
+          "published_at": "2026-10-26T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition adds diego lab san sixth this toxicology year"
+    },
+    {
+      "id": "204e008c52140e95586a",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNyNHkzUUkyMEtZVWJuZGxyRHVhbC1JWjNUdlR3Wm1pUk84enlnSDVXbWxDY09Ual96RUExMThLdGZfOUIyYktxcm9IUnl5alJ1WEphcDNYcFJ6Qnk3U25tcks3dFlLcEtRalFaNWYwbGtPS3hqRXdUdHpZU1o4YUhNeklkYkRxek9UNnFqY284YTV3eTdLaE5OcXYzTFJBbjdrd2lXTG0wY2tfalZEb3lxYm53YkgtdTNKUFlKZlJ4dGFTMkg0dw?oc=5",
+      "description": "Quest Diagnostics Upgraded After Strong Q3, While Also Announcing New Test For Alzheimer's Seeking Alpha",
+      "source": "Seeking Alpha",
+      "source_url": "https://seekingalpha.com",
+      "source_domain": "seekingalpha.com",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaDNyNHkzUUkyMEtZVWJuZGxyRHVhbC1JWjNUdlR3Wm1pUk84enlnSDVXbWxDY09Ual96RUExMThLdGZfOUIyYktxcm9IUnl5alJ1WEphcDNYcFJ6Qnk3U25tcks3dFlLcEtRalFaNWYwbGtPS3hqRXdUdHpZU1o4YUhNeklkYkRxek9UNnFqY284YTV3eTdLaE5OcXYzTFJBbjdrd2lXTG0wY2tfalZEb3lxYm53YkgtdTNKUFlKZlJ4dGFTMkg0dw?oc=5",
+          "domain": "seekingalpha.com",
+          "published_at": "2026-10-26T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after also alzheimer announcing strong test upgraded while"
     },
     {
       "id": "638bfe0fc23bccfa0b17",
@@ -15068,168 +15176,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "annual demand forecast profit raises strong testing"
-    },
-    {
-      "id": "992ea1ddef606a61aeab",
-      "company": "Labcorp",
-      "title": "Should You Continue to Hold Labcorp Stock in Your Portfolio?",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
-      "description": "Should You Continue to Hold Labcorp Stock in Your Portfolio? Zacks Investment Research",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMVhubGNhODFtYXFRQWs4QkdSZWxxSjRzbmcyeHF0WEkwRjNNVWVCdC1hZzJnUEtoTXdMdXQ4dldoRlk4NUFqZ2h2UFFjREVZM2NDSTROUGNHeHNhQ1RlWDVmTDA1VmxVT3NYS2NfSEpmTlVVSnE1ZW1sYnFjaUQ4b0t4bWNaaVV6TWduSEFURXo3NEY4XzBQRzExQjRzeVFQeHNJVw?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-25T07:00:00+00:00"
-        },
-        {
-          "name": "Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWVQTWc2eHI1enloWXcxNGVLOGFTT1pGdFBiUzZhbGtKMXVKNTdnbGZmUUxvbnBDQzZiZ0JNM2tMUVZQT054RUdndkNPbVQyV3NCbndlRlhoMEx5VVltVFJUdXhlbEFDMmp6ZGQ3dkw1QlNEMDZWMHNocUdkVmRfWWI5VVg5eVJ4MW1EZzBiLUZGUEg4eEpYNHNzOGd4VW5HWkE?oc=5",
-          "domain": "zacks.com",
-          "published_at": "2026-08-25T12:32:57+00:00"
-        },
-        {
-          "name": "Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZfN1VfQW1randyNG5MeDJ3S2MxVnYtWlNMUVRFZFlDWnNNV0N4WUd3Z3NTSTFUbXpHMUswcnJ6T0pvYjAzZElRUWVMTGRhdk5TYzFxS3B0TzdHb19vVUtEMWRLSFNTOHk1Yld5NlBRZnBQR283b2FxYXV5UHk4Q0pTOFZCdWZKQ3puM3FDOA?oc=5",
-          "domain": "sg.finance.yahoo.com",
-          "published_at": "2026-08-25T13:20:00+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "continue hold portfolio should stock you your"
-    },
-    {
-      "id": "b33a6039ee07b55c0ae5",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish?",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
-      "description": "Quest Diagnostics Stock: Is Wall Street Bullish or Bearish? finance.yahoo.com",
-      "source": "barchart.com",
-      "source_url": "https://www.barchart.com",
-      "source_domain": "barchart.com",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZGFhaHFWU093MDVWdkg1TURNMmI1ajlyUDVuMnhrQ1A5ZkN0M3BVUGpPNG1qNk5xNnpVdHEtODd2NThYNy1tV1hNZUhFUnBjMU5vNDQ2NUJSV1JxOHQ4bENUMm1ySTZsSTlPdHVZVnl0NlBSLWQzYUtyQm5FS1NjOGhNd0xua1N0MUVscjE4QWxzWE1xZUJlYVBrNlMwWVFNM2Jj?oc=5",
-          "domain": "barchart.com",
-          "published_at": "2026-08-25T07:00:00+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHEtVklrV05VV3NZSGlFTDdITngyRVY1WFdZaVFfMGNaSy0xdEMxQWpfTzhMaE5mVWxucnRvM2lXWXgwT3hNMHdxemdSb3NRZ2UxbW0taXNaeFd1SEFERC15T0FUTkhFaU1sWmF4T0MwWWI0aG1RLXZaWmxEX0hRcURReFQ0QkxTbmJELUJlUVRhT1ZzdkwwLTBkcGIxRHN6M2c?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-25T15:52:43+00:00"
-        },
-        {
-          "name": "inkl",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWi1sLW9mVzdaMGh0Q014YUp3d1ZqRTRPdURTNktQZXY0MWZRM0lMZG5TSC1pZkxCUlZkV19xLW1FNU5xQ0VTRUJXblQ5ZGpBZW5wR2VNMG8wQVE4QVNUYUJLVVNGYlZhRjlVYlFEU0tLTzJPU0JDMGRYczYwYjl3b3dTTXI3SW8wVlNJYXRLb3VydTlSVERB?oc=5",
-          "domain": "inkl.com",
-          "published_at": "2026-08-25T15:52:43+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "bearish bullish stock street wall"
-    },
-    {
-      "id": "08db6cdb9f2af816df45",
-      "company": "Labcorp",
-      "title": "Labcorp launches new hepatitis D test to find patients with most severe form of virus",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
-      "description": "Labcorp launches new hepatitis D test to find patients with most severe form of virus fiercebiotech.com",
-      "source": "Fierce Biotech",
-      "source_url": "https://www.fiercebiotech.com",
-      "source_domain": "fiercebiotech.com",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkwxYm83VXpLR2p2TVZobEtrR1JydXpWM2hfaFpYa3pRU3BDalFiaENoVDlETGVablN5VllpUmtWWERyWmE3Wk9zLXd2ZGt0eDdNWGFlNmF1VDc4NWNtWTBpWXRadWlIRWZRWWUyOTFyOEtYVGRYSHdkVnByQzc5UTZjWHJnR05pc1p2SEM5bklhY3MyOFNkRmJjNjlOMmwyWmp6anZTYTNlM3hUV3pobk53?oc=5",
-          "domain": "fiercebiotech.com",
-          "published_at": "2026-08-25T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "find form hepatitis launches most patients severe test virus"
-    },
-    {
-      "id": "581bcd30666c4880a445",
-      "company": "Labcorp",
-      "title": "Labcorp Launches Hepatitis D Reflex Testing",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5",
-      "description": "Labcorp Launches Hepatitis D Reflex Testing for Earlier Detection Clinical Lab Products",
-      "source": "marketscreener.com",
-      "source_url": "https://www.marketscreener.com",
-      "source_domain": "marketscreener.com",
-      "published_at": "2026-08-25T07:00:00+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWt1bW5BZGdQRDF2dm51TWN3R1poMXBuZENkUDF0NHVaQ1lSS2FZRDlMVTVfcVVSd3BnLU9oTkwyaXc3X0pPZGFmcUFmNHhuRzM2bHRKbTBXUUtvZ3ZZMEdyYm1sckdxc05PakQ4eF9SODRHYTd2a2ZWS2t5TzhGRjdET0hBWlRrbHNRcDlOMXVmbnN6dmFMT0dCZi0?oc=5",
-          "domain": "marketscreener.com",
-          "published_at": "2026-08-25T07:00:00+00:00"
-        },
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWWZlWHFzakhndi1RVXQ0eUdvM1lfdU1HcDBmbUc1cVhrczFIWFdoSUFtTFhlTWV5ajlKZGxwUTVyZXdpbm9xcVphNWN4RGFQM3ZSQzhibjk1UFh2cWpSN0wwZWc0SkJZQVFoR0ZQbk9tNTZfWXlRekxrdFpjandIN2I0NFBHYklxTnAxNGl1LW1BYzFURHJEZ0xsQUx3ajQ?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-25T15:10:09+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "hepatitis launches reflex testing"
-    },
-    {
-      "id": "4dd0048daf1f9d591dda",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics to Present at Baird 2026 Global Healthcare Conference",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-      "description": "Quest Diagnostics to Speak at the Baird 2026 Global Healthcare Conference finance.yahoo.com",
-      "source": "Intellectia AI",
-      "source_url": "https://intellectia.ai",
-      "source_domain": "intellectia.ai",
-      "published_at": "2026-08-25T00:05:49+00:00",
-      "published_display": "25 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Intellectia AI",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNjlMWWY2b1NVS1M2aFc4bmhyemlsbkdsY0J5aHk5WWNMckRLZTVtajhLbFhIS3p4a3RNcC1tZllhWGVGZm5vdGczUHJ1UHB0MzVwaVI3eVN4alJzT29KTG5GeExuREpQTkNDdGxaNGlfOGJaRnJWWmJrcFYwSmZXbDNaeU51UWg5MHh1d1Fxd0VHLU1odHRxWjFObmdwSHEzeHV2Rk03Zi0?oc=5",
-          "domain": "intellectia.ai",
-          "published_at": "2026-08-25T00:05:49+00:00"
-        },
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmNISUNKVTJneG5aMlNzb2ZSenVuVmt4UmZidXhtT3VLU184dFpLUmZBa2h4SVE2dkxJOUpFZmlhYlZTLUdua2JKeHRLUVJ5ejRDR3NYVEoxRXk3SDBUZGxuSzM5VjdJbW5iX2lLRmNLa0hJdFNja0JBLU1VMzh4UDFNdnJXakVoQlRBT3JpNlpLQWdxeE9fR0s4UQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-25T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 baird conference global present"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 59,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-23T06:17:00+05:30",
-  "next_update_display": "23 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-23T18:17:00+05:30",
+  "next_update_display": "23 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
