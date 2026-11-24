@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-11-24T15:57:15.883429+05:30",
-  "generated_at_display": "24 Nov 2026, 3:57 PM IST",
-  "item_count": 513,
-  "raw_relevant_item_count": 635,
-  "duplicates_merged": 60,
-  "failures": [],
+  "generated_at": "2026-11-25T04:16:17.039178+05:30",
+  "generated_at_display": "25 Nov 2026, 4:16 AM IST",
+  "item_count": 518,
+  "raw_relevant_item_count": 613,
+  "duplicates_merged": 77,
+  "failures": [
+    "Sonic Healthcare: HTTP Error 429: Too Many Requests"
+  ],
   "items": [
+    {
+      "id": "0c3784764bbf7eafd7d9",
+      "company": "Quest Diagnostics",
+      "title": "Final Trades: Quest Diagnostics, Amazon, CrowdStrike and United Therapeutics",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndCQkJ5WDJkLS1GZ3BaSlJNSkZCWFByN0IxbzE1SXNyMVJXWFFHVklPMUpyNUN4QUpMZ3ZQTXFNTGpvN0lqTERIRUlOMGxqd3Q0blNzcngzS0hYYnVRdXRzbmVfWlhGSjlpajRPY0wycF9hSGtPLXNIRWx5MnFrV29WUHRvQ3lvT0hhVmYtcUxmOG11Z2xuNklSNDR1QzFRQjlqWDBseHNabEhta3NjY29n?oc=5",
+      "description": "Final Trades: Quest Diagnostics, Amazon, CrowdStrike and United Therapeutics CNBC",
+      "source": "CNBC",
+      "source_url": "https://www.cnbc.com",
+      "source_domain": "cnbc.com",
+      "published_at": "2026-11-24T18:41:57+00:00",
+      "published_display": "24 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndCQkJ5WDJkLS1GZ3BaSlJNSkZCWFByN0IxbzE1SXNyMVJXWFFHVklPMUpyNUN4QUpMZ3ZQTXFNTGpvN0lqTERIRUlOMGxqd3Q0blNzcngzS0hYYnVRdXRzbmVfWlhGSjlpajRPY0wycF9hSGtPLXNIRWx5MnFrV29WUHRvQ3lvT0hhVmYtcUxmOG11Z2xuNklSNDR1QzFRQjlqWDBseHNabEhta3NjY29n?oc=5",
+          "domain": "cnbc.com",
+          "published_at": "2026-11-24T18:41:57+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "amazon crowdstrike final therapeutics trades united"
+    },
+    {
+      "id": "f6ee28165033f1f5b856",
+      "company": "Quest Diagnostics",
+      "title": "DJO Whistleblower Law Group Helps Score a $13 Million Touchdown in Quest Diagnostics Kickback Case",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXJmWktiYmczT2dJRHdiWlRrRjV5TVhaU2hxeXEwQy1FXzgwekxwaEpKOWNTcksxMVdNTlBSOVp3bEw2UTlPdUgwYUo0VFdBQl9IZHd0elNNLUMwUHlTVURSeEM1TzU1WGJ0ZGt6V2J2WFYzM2dGUzZVbTdvV3JvVXlnQjJoZTJ6Y0lfZWhZQWVsOVpLMlAzcGtTblpRV3FFTXc4MWR2Yw?oc=5",
+      "description": "DJO Whistleblower Law Group Helps Score a $13 Million Touchdown in Quest Diagnostics Kickback Case Newswire",
+      "source": "Newswire",
+      "source_url": "https://www.newswire.com",
+      "source_domain": "newswire.com",
+      "published_at": "2026-11-24T18:00:00+00:00",
+      "published_display": "24 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Newswire",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXJmWktiYmczT2dJRHdiWlRrRjV5TVhaU2hxeXEwQy1FXzgwekxwaEpKOWNTcksxMVdNTlBSOVp3bEw2UTlPdUgwYUo0VFdBQl9IZHd0elNNLUMwUHlTVURSeEM1TzU1WGJ0ZGt6V2J2WFYzM2dGUzZVbTdvV3JvVXlnQjJoZTJ6Y0lfZWhZQWVsOVpLMlAzcGtTblpRV3FFTXc4MWR2Yw?oc=5",
+          "domain": "newswire.com",
+          "published_at": "2026-11-24T18:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "case djo helps kickback law million score touchdown whistleblower"
+    },
     {
       "id": "d159ac3bf676d817d4fa",
       "company": "Labcorp",
@@ -145,9 +195,15 @@
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUlU0UHhnaG5jVXowZG9LRThIU0djbU95Q2NvQ2pfemR1c0RrNDR0b2R2dG9RaG1CQmo5Q0QzSUU2NkFNWmNsczRrN3Z0bm13b3pDS0M5eVEyWnJOT29xU0psZzlWZzdJdTYtVTJVbTZJX0xmTDdQQnhaTjU5MkotMUtQTFRoVlNTa2hhWTNQN3Z0RWxmUW9NbFhEVjNUZw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-11-22T04:12:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb0hXeVBEelQ0R1VhTXR4UkVFZGVTcUFINDliZHFKN3o0TmV0ZjF1bVQ3OUZoZEk3T3VJTjQ1S1RVZlkwejFvZ1FZRmFaUjhEX1lMU1ZEYkJzbVYxa2o3SW41TE1mU2xqd2hSVVI3bjdjTThuVEVuZ1FwVWtQUy0yTXQwbWVUbjdpNTlmMEJrcEo5ellkWERDamEtQkhMLWdkUzUyQnZuLWFVRDBDVVVfMjdyNmljYkxpOU84SlFSamRJSk5ielR5Xy1zRQ?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-11-22T04:12:10+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "2027 cuts deal growth hospital loom medicare sees"
     },
     {
@@ -305,6 +361,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "ebitda fy27 guidance reaffirmed"
+    },
+    {
+      "id": "5c602dda4615105a6022",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Shares: Volume, Earnings and Technical Readings",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc2xTWnoxQ0g1aFQ0T2xwQXk2TWhhYnFWcFR2ZWlvWm9EeXBoTmtrNzFXbmhlV2Y0V05aNjRlNVZMYkNGYnhsOXJ3TDJ4SmY1RnBXYmtRcUJFSDZLNTVhOEwyWWMyN3hjdDZORFNHTzlEQkwxZHFSQm00aDlReEcwRXNhN3dqUkZMcjdMZ3FMODI2ejVoTWMtalJkU3RPS214bFVSSUV0aW4wYlg3RFlEbXkydjFIbTZsTXM5ZGJGa0lPRWJBM3VZZUtSMU5WMkVpdFB0OE9Qb2owTFpmRnVGamRUN0F2enha?oc=5",
+      "description": "Quest Diagnostics Shares: Volume, Earnings and Technical Readings Kalkine India",
+      "source": "Kalkine India",
+      "source_url": "https://www.kalkine.co.in",
+      "source_domain": "kalkine.co.in",
+      "published_at": "2026-11-18T17:20:00+00:00",
+      "published_display": "18 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc2xTWnoxQ0g1aFQ0T2xwQXk2TWhhYnFWcFR2ZWlvWm9EeXBoTmtrNzFXbmhlV2Y0V05aNjRlNVZMYkNGYnhsOXJ3TDJ4SmY1RnBXYmtRcUJFSDZLNTVhOEwyWWMyN3hjdDZORFNHTzlEQkwxZHFSQm00aDlReEcwRXNhN3dqUkZMcjdMZ3FMODI2ejVoTWMtalJkU3RPS214bFVSSUV0aW4wYlg3RFlEbXkydjFIbTZsTXM5ZGJGa0lPRWJBM3VZZUtSMU5WMkVpdFB0OE9Qb2owTFpmRnVGamRUN0F2enha?oc=5",
+          "domain": "kalkine.co.in",
+          "published_at": "2026-11-18T17:20:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings readings shares technical volume"
     },
     {
       "id": "049ce8472c3c8d3151ec",
@@ -485,6 +565,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "analysis forecast price share"
+    },
+    {
+      "id": "dc51943a493920a94651",
+      "company": "Quest Diagnostics",
+      "title": "In Brief This Week: Quest Diagnostics, T2 Biosystems, Oncocyte, Myriad Genetics, More",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHNEa3h1Ukx2UTZKVWMyM001OHVqX0xJLVZ5TV9TZFJkdmJMem1uS1FScndObERFc2Q0YjYwNE0zRV80YXVaanNzd21Xa3BGLTBGUkFlVEhaTjZYUUx0dGdpVlh6VUFoNzVKZlREN1kyRTNaOEpKUmtDbm5uVXBPay05dTlENGltaDJkcjJEQmRFR3BFVVpwSjFZOFBfTVBSeHlPNjFmWUhnUld5UVBVNUxJYw?oc=5",
+      "description": "In Brief This Week: Quest Diagnostics, T2 Biosystems, Oncocyte, Myriad Genetics, More GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-11-17T20:17:37+00:00",
+      "published_display": "17 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHNEa3h1Ukx2UTZKVWMyM001OHVqX0xJLVZ5TV9TZFJkdmJMem1uS1FScndObERFc2Q0YjYwNE0zRV80YXVaanNzd21Xa3BGLTBGUkFlVEhaTjZYUUx0dGdpVlh6VUFoNzVKZlREN1kyRTNaOEpKUmtDbm5uVXBPay05dTlENGltaDJkcjJEQmRFR3BFVVpwSjFZOFBfTVBSeHlPNjFmWUhnUld5UVBVNUxJYw?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-11-17T20:17:37+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "biosystems brief genetics more myriad oncocyte this week"
     },
     {
       "id": "d05ef2a58890f175a0b2",
@@ -709,6 +813,30 @@
       "event_signature": "history price quote stock"
     },
     {
+      "id": "65240d134b2a00ebaa3f",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock: Trading, Earnings and Momentum",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOEU5eFdFaWltZ0w3TS0yZ3c5RTMxTEJHdk5ZUW1URkppSFF3VUt2UHpqMHlFQlh2ZUNEMEVROHZ4Y1lhamRCLVNBYW5UUlpzdDJsTUw2Y3FNRHhBRXlxZzN6blZJWW0yWnJJMlpIREFfejlNQjdycTVwZE5qc080QVJQRktxVG1aMjV1UnpFVmstTl9EWW00TlY0dDQ4T2RneVFXdDBkT2Jzc21XRnBOMUlJN2d4QXpyMU5ydWdydlc4enBDOXZVYm9Zalg4cFYzZ2JpT3VNWnJrV0o5T2g1cGRBaXNuOHE5dlRMak9MWDlfeUU?oc=5",
+      "description": "Quest Diagnostics Stock: Trading, Earnings and Momentum Kalkine India",
+      "source": "Kalkine India",
+      "source_url": "https://www.kalkine.co.in",
+      "source_domain": "kalkine.co.in",
+      "published_at": "2026-11-13T11:52:00+00:00",
+      "published_display": "13 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine India",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOEU5eFdFaWltZ0w3TS0yZ3c5RTMxTEJHdk5ZUW1URkppSFF3VUt2UHpqMHlFQlh2ZUNEMEVROHZ4Y1lhamRCLVNBYW5UUlpzdDJsTUw2Y3FNRHhBRXlxZzN6blZJWW0yWnJJMlpIREFfejlNQjdycTVwZE5qc080QVJQRktxVG1aMjV1UnpFVmstTl9EWW00TlY0dDQ4T2RneVFXdDBkT2Jzc21XRnBOMUlJN2d4QXpyMU5ydWdydlc4enBDOXZVYm9Zalg4cFYzZ2JpT3VNWnJrV0o5T2g1cGRBaXNuOHE5dlRMak9MWDlfeUU?oc=5",
+          "domain": "kalkine.co.in",
+          "published_at": "2026-11-13T11:52:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings momentum stock trading"
+    },
+    {
       "id": "736c481f68e2d8493a47",
       "company": "Labcorp",
       "title": "Labcorp’s Lab Growth Surges as $125 Million Reimbursement Risk Looms",
@@ -761,36 +889,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "base battles funding pressure testing wage"
-    },
-    {
-      "id": "dd4b102988d16c3081c0",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1lpYUk5ZWVNajg3M2QydTZoSVZUbWhFbnNZZUliXzVWcmdkLVM4WjNvNGtib2liTHo2QzlxYlZ5cUpHQUx6OTZEaEpZbGZhZWktbUFFbGp1bV9ZZzRqSXVQakJCYUxDV3BJcUxNa0JkSm5sUFBUczhxa09yUVJiX3dwSU1XR3NnOWZIYy0wLU1HYnBrcnUtOE9kUi1pcjJrWHRBdUtwZWw5WTNtUGxjeWlMNlJabjBt?oc=5",
-      "description": "Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-13T00:53:05+00:00",
-      "published_display": "13 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1lpYUk5ZWVNajg3M2QydTZoSVZUbWhFbnNZZUliXzVWcmdkLVM4WjNvNGtib2liTHo2QzlxYlZ5cUpHQUx6OTZEaEpZbGZhZWktbUFFbGp1bV9ZZzRqSXVQakJCYUxDV3BJcUxNa0JkSm5sUFBUczhxa09yUVJiX3dwSU1XR3NnOWZIYy0wLU1HYnBrcnUtOE9kUi1pcjJrWHRBdUtwZWw5WTNtUGxjeWlMNlJabjBt?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-11-13T00:53:05+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-11-13T01:05:40+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "com investing million plewman sells stock svp"
     },
     {
       "id": "53b2b1e4c26d0fc968fc",
@@ -889,28 +987,34 @@
       "event_signature": "dividend income investors quality stock"
     },
     {
-      "id": "b5da90f7ccfacce1a642",
+      "id": "ee2e19a370ec336640f7",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock faces compliance overhang after settlement",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpMMnlCdHBQYUt6dGxjZnpPSUpocjduWDUxZXdMUm1peUJNbnhUTlMxX1I1dUdFRVQ1T0dJdmhFczl2THp0SWVXd0h0QTVtbTJud1FPODk4d0toZDRVd0FVMTllNjV5c19JUmlyTW9HNzAtTDVaZzZsTXZ5RlR4U0dZMFdNeW9fbzI4cWowQ002TUZxTG05X1pORTdONkRnbV9KYkxEVkI1b0piUDlkLTd4VTFLcVJWcmRYd056RUZRcEU?oc=5",
-      "description": "Quest Diagnostics stock faces compliance overhang after settlement ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-11-12T02:22:41+00:00",
+      "title": "Quest Diagnostics SVP Plewman sells $3.01 million in stock",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
+      "description": "Quest Diagnostics SVP Plewman sells $3.01 million in stock By Investing.com Investing.com India",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-12T08:00:00+00:00",
       "published_display": "12 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpMMnlCdHBQYUt6dGxjZnpPSUpocjduWDUxZXdMUm1peUJNbnhUTlMxX1I1dUdFRVQ1T0dJdmhFczl2THp0SWVXd0h0QTVtbTJud1FPODk4d0toZDRVd0FVMTllNjV5c19JUmlyTW9HNzAtTDVaZzZsTXZ5RlR4U0dZMFdNeW9fbzI4cWowQ002TUZxTG05X1pORTdONkRnbV9KYkxEVkI1b0piUDlkLTd4VTFLcVJWcmRYd056RUZRcEU?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-11-12T02:22:41+00:00"
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVGdBV3UtNC1CN3VvTGpzZFVMbnNPVTRMNDd2TWtEWm00bEJ3ZlpRS05kS21zYjYxVzBEU0Q5Z2dvTGZ1Y2UtN1lIYWpadnBvNUtYWktHNlkxSEUxaVo3UTlqUzdNZm5BZmxVQW1GeU03Q0pPQ1FsTWlRdG1KM0xGakxOclp0ZjdqT1Y0dC01ZXhXT2ZPNVdhWUVQb1BqU1pGbFRLVmRHYkZuc1ktR1I0Y2swNVRWZVBfNC1rdWpn?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-12T08:00:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1lpYUk5ZWVNajg3M2QydTZoSVZUbWhFbnNZZUliXzVWcmdkLVM4WjNvNGtib2liTHo2QzlxYlZ5cUpHQUx6OTZEaEpZbGZhZWktbUFFbGp1bV9ZZzRqSXVQakJCYUxDV3BJcUxNa0JkSm5sUFBUczhxa09yUVJiX3dwSU1XR3NnOWZIYy0wLU1HYnBrcnUtOE9kUi1pcjJrWHRBdUtwZWw5WTNtUGxjeWlMNlJabjBt?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-13T00:53:05+00:00"
         }
       ],
-      "coverage_count": 1,
-      "event_signature": "after compliance faces overhang settlement stock"
+      "coverage_count": 2,
+      "event_signature": "million plewman sells stock svp"
     },
     {
       "id": "3c93f60e9f19e04f15dc",
@@ -959,6 +1063,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "advises blank health millennium parent rome sale"
+    },
+    {
+      "id": "b5da90f7ccfacce1a642",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock faces compliance overhang after settlement",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpMMnlCdHBQYUt6dGxjZnpPSUpocjduWDUxZXdMUm1peUJNbnhUTlMxX1I1dUdFRVQ1T0dJdmhFczl2THp0SWVXd0h0QTVtbTJud1FPODk4d0toZDRVd0FVMTllNjV5c19JUmlyTW9HNzAtTDVaZzZsTXZ5RlR4U0dZMFdNeW9fbzI4cWowQ002TUZxTG05X1pORTdONkRnbV9KYkxEVkI1b0piUDlkLTd4VTFLcVJWcmRYd056RUZRcEU?oc=5",
+      "description": "Quest Diagnostics stock faces compliance overhang after settlement ad-hoc-news.de",
+      "source": "ad-hoc-news.de",
+      "source_url": "https://www.ad-hoc-news.de",
+      "source_domain": "ad-hoc-news.de",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "published_display": "11 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcVpMMnlCdHBQYUt6dGxjZnpPSUpocjduWDUxZXdMUm1peUJNbnhUTlMxX1I1dUdFRVQ1T0dJdmhFczl2THp0SWVXd0h0QTVtbTJud1FPODk4d0toZDRVd0FVMTllNjV5c19JUmlyTW9HNzAtTDVaZzZsTXZ5RlR4U0dZMFdNeW9fbzI4cWowQ002TUZxTG05X1pORTdONkRnbV9KYkxEVkI1b0piUDlkLTd4VTFLcVJWcmRYd056RUZRcEU?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-11-11T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "after compliance faces overhang settlement stock"
     },
     {
       "id": "1b7541a30251ae99cdd8",
@@ -1099,9 +1227,15 @@
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSFcyTzZGWnNjMTNTRXVzalFNRnR1OGRhWk1FWVltVnFCa2UxSlFzbDdqTWRYbHBxTWQxOEVYamZYWW9CblNnNS14Z19vaXozVGV1WlpudURObDlxdkJ2OEJpaTZYaTVTNzBlZTZ4SzVSMnFwQjJzdndiWk1GRk14WDNNdGhMVUI4TXI4N1JfMmVTbGx6enNWM0lvcXRwVTdEMWRjQ3Jwc1pURmRnWUU4?oc=5",
           "domain": "ca.investing.com",
           "published_at": "2026-11-10T21:20:11+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDZSaS1sazRFYjJMOTdLeHBxY1dhWXlNMWNuazJtbzdtVG5TcTNJRUhGS1lQODJ6S3VmWDlfQTdWYkR6b0xQMS1jNUhUckdydEo1am94V1Y3Y2I1ajR0em85MlFWY0NBblBHeEVwRUVlNVpMQ0ttaDJBdjUwWXVhRGttak9LaDBVV0ZyRlFIVDNkTU1xWXJ3NlVfRFpDVkJ6Uk04M253?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-11-10T08:00:00+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "cash declares dividend quarterly"
     },
     {
@@ -1127,42 +1261,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "375m acquires health millennium"
-    },
-    {
-      "id": "e25cb6fde33964b368b3",
-      "company": "Quest Diagnostics",
-      "title": "Stryker nominates Quest Diagnostics CEO to board By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjdqRlJMMUJTT0JkTjRNVkNvZjE3Ynd4dlBEUHV0RjFCbHV3aVIwWHlrcFFNZkVIb1pWc2lzSFNPWTYwOFNtdG5ISGd2Y1VlQXY2dFc1UE1aZTBuQ2U3eW0teHZnSWYxZXd5Z19BMjZXTjR2Z1FhM3ZjUl9kVWhULUJ5R2U1LWxlemZYTGs0aTJUOTc5NE01bzJCSmpvQWZ1LURlWGZaOUd2dHY2X2c?oc=5",
-      "description": "Stryker nominates Quest Diagnostics CEO to board By Investing.com Investing.com Canada",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-09T21:25:21+00:00",
-      "published_display": "09 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjdqRlJMMUJTT0JkTjRNVkNvZjE3Ynd4dlBEUHV0RjFCbHV3aVIwWHlrcFFNZkVIb1pWc2lzSFNPWTYwOFNtdG5ISGd2Y1VlQXY2dFc1UE1aZTBuQ2U3eW0teHZnSWYxZXd5Z19BMjZXTjR2Z1FhM3ZjUl9kVWhULUJ5R2U1LWxlemZYTGs0aTJUOTc5NE01bzJCSmpvQWZ1LURlWGZaOUd2dHY2X2c?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-11-09T21:25:21+00:00"
-        },
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2dXNmxuaGQ3SDdxQ1FqZDFrOVhSZkRZcmhURGFOOXBVRnlJNy1fUFFVUHdSb0ZuQ3NvN2JwR05lbW9naHpEWTlQU0xyQTNORU1Ob1dMcUx2bWN2dHdWTGpJNDhnNi1MajcxUzdwbmlucHNFQWd3OGdVeVFqSks4RlV4RFpOSmpPSWhzZW4tLTVZS1lVN3N1aEgwdjA0bzRtMDlvOG1nVEhYbzZIaVE?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-11-09T21:29:20+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTkwa2Fzcm1XSlVHU0x4cjloN1hJcG1jMERkb0Z1cDZnbFpjOWFnaDg1OWxBOWEyeDRseVByN2tNYTRycU04dzZFY05Qb3dVQUpGNGdGZFpWcGVNYS1BUFk3U2RPOHBlOE1sSmU5ZjkzZ2RORUVwQXJiOS1fd0x0VUVJdmdjZ2huUk5pai1HNm53Tko5NThNLVpNbk9qVVdNQWotMU8tNXM?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-11-09T22:18:06+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "board ceo com investing nominates stryker"
     },
     {
       "id": "37089756ddfe7878a492",
@@ -1357,6 +1455,66 @@
       "event_signature": "artificial cases intelligence two use"
     },
     {
+      "id": "c23f14391ebec81c3b5a",
+      "company": "Quest Diagnostics",
+      "title": "Secaucus-Based Quest Diagnostics Fined $13 Million For Alleged Kickback Violations",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFl1Si1MUjhvNzJRZksyYmRIWjNvSHRvOEI3aWhKT1R1a0h6RXM4THptb1lOdnJGUEw4RkxxVVZWN3pwTjlTSDVzUnhTTlgzMElRTGNHaWVDRFpfcmRUMGdibTF5R1F2V2tISUpfbndoc3NTNHR2R2pTd0ZsWmE2UnFuT3k5N3d4NEFSUkpBeWxObjc0Q1BOd3dQbnJZQjR5REpIRk9RbTc2cXcwTVhJWm5sODVaZw?oc=5",
+      "description": "Secaucus-Based Quest Diagnostics Fined $13 Million For Alleged Kickback Violations Patch",
+      "source": "Patch",
+      "source_url": "https://patch.com",
+      "source_domain": "patch.com",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Patch",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFl1Si1MUjhvNzJRZksyYmRIWjNvSHRvOEI3aWhKT1R1a0h6RXM4THptb1lOdnJGUEw4RkxxVVZWN3pwTjlTSDVzUnhTTlgzMElRTGNHaWVDRFpfcmRUMGdibTF5R1F2V2tISUpfbndoc3NTNHR2R2pTd0ZsWmE2UnFuT3k5N3d4NEFSUkpBeWxObjc0Q1BOd3dQbnJZQjR5REpIRk9RbTc2cXcwTVhJWm5sODVaZw?oc=5",
+          "domain": "patch.com",
+          "published_at": "2026-11-09T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "alleged based fined kickback million secaucus violations"
+    },
+    {
+      "id": "bffbc32d6beb00e193be",
+      "company": "Quest Diagnostics",
+      "title": "Stryker nominates Quest Diagnostics CEO to board",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTkwa2Fzcm1XSlVHU0x4cjloN1hJcG1jMERkb0Z1cDZnbFpjOWFnaDg1OWxBOWEyeDRseVByN2tNYTRycU04dzZFY05Qb3dVQUpGNGdGZFpWcGVNYS1BUFk3U2RPOHBlOE1sSmU5ZjkzZ2RORUVwQXJiOS1fd0x0VUVJdmdjZ2huUk5pai1HNm53Tko5NThNLVpNbk9qVVdNQWotMU8tNXM?oc=5",
+      "description": "Stryker nominates Quest Diagnostics CEO to board By Investing.com Investing.com Canada",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "published_display": "09 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQTkwa2Fzcm1XSlVHU0x4cjloN1hJcG1jMERkb0Z1cDZnbFpjOWFnaDg1OWxBOWEyeDRseVByN2tNYTRycU04dzZFY05Qb3dVQUpGNGdGZFpWcGVNYS1BUFk3U2RPOHBlOE1sSmU5ZjkzZ2RORUVwQXJiOS1fd0x0VUVJdmdjZ2huUk5pai1HNm53Tko5NThNLVpNbk9qVVdNQWotMU8tNXM?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-09T08:00:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdjdqRlJMMUJTT0JkTjRNVkNvZjE3Ynd4dlBEUHV0RjFCbHV3aVIwWHlrcFFNZkVIb1pWc2lzSFNPWTYwOFNtdG5ISGd2Y1VlQXY2dFc1UE1aZTBuQ2U3eW0teHZnSWYxZXd5Z19BMjZXTjR2Z1FhM3ZjUl9kVWhULUJ5R2U1LWxlemZYTGs0aTJUOTc5NE01bzJCSmpvQWZ1LURlWGZaOUd2dHY2X2c?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-09T21:25:21+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPa2dXNmxuaGQ3SDdxQ1FqZDFrOVhSZkRZcmhURGFOOXBVRnlJNy1fUFFVUHdSb0ZuQ3NvN2JwR05lbW9naHpEWTlQU0xyQTNORU1Ob1dMcUx2bWN2dHdWTGpJNDhnNi1MajcxUzdwbmlucHNFQWd3OGdVeVFqSks4RlV4RFpOSmpPSWhzZW4tLTVZS1lVN3N1aEgwdjA0bzRtMDlvOG1nVEhYbzZIaVE?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-11-09T21:29:20+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "board ceo nominates stryker"
+    },
+    {
       "id": "9fe1c8e10ddaf89a4263",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics expands PFAS, heavy metals testing",
@@ -1519,60 +1677,6 @@
       "event_signature": "13m claims giant giants kickback lab over pays secaucus suite"
     },
     {
-      "id": "b716091cb7d400c9a11d",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics, Name on Giants' Practice Complex, Settles Federal Kickback Claims for $13M",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhWNWNIcXYxSFkxaDNIOXlwZlVnTGZyOW9OLUVURS1aVWNDRHl1Njc4WUtZeWVOWHg0VFJLdVN4SEZjSEI5LXJHU2hHdWJJVGlNTDEwYjRBalFqd2Q3VXpaYm1fODJQQlN4Ry03UG4tOERRWFdWVUowZ2RqMjlma1lzdEpKMktacGxCaUFTVTFzODQ1SV9scFdQZ1AyQUR6TnhpWVRZeTBBNjNFbEdhekFR?oc=5",
-      "description": "Quest Diagnostics, Name on Giants' Practice Complex, Settles Federal Kickback Claims for $13M centraljersey.com",
-      "source": "centraljersey.com",
-      "source_url": "https://centraljersey.com",
-      "source_domain": "centraljersey.com",
-      "published_at": "2026-11-07T18:34:39+00:00",
-      "published_display": "07 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "centraljersey.com",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhWNWNIcXYxSFkxaDNIOXlwZlVnTGZyOW9OLUVURS1aVWNDRHl1Njc4WUtZeWVOWHg0VFJLdVN4SEZjSEI5LXJHU2hHdWJJVGlNTDEwYjRBalFqd2Q3VXpaYm1fODJQQlN4Ry03UG4tOERRWFdWVUowZ2RqMjlma1lzdEpKMktacGxCaUFTVTFzODQ1SV9scFdQZ1AyQUR6TnhpWVRZeTBBNjNFbEdhekFR?oc=5",
-          "domain": "centraljersey.com",
-          "published_at": "2026-11-07T18:34:39+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "13m claims complex federal giants kickback name practice settles"
-    },
-    {
-      "id": "e235845a582098aab0e7",
-      "company": "Quest Diagnostics",
-      "title": "NJ-Based Quest Diagnostics Pays $13M to Settle Allegations of Illegal Perks at Giants Games",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VMc0dVTndQX3g1UUtJZnBqdzNYNWtveFh0UUxxSXN0VTlEZlRfNVhBamJaUUdkMU9xbkF1VUtjWW9rN2JJSnNQajdyWWlTRFJ5ZTg1ei1sTlQ4LUktc040ZUtnbDlySUFtZjdhOGg5bzVvaE5zZTVOaDVMNG1XejFmYUV5SldsMy1heVBhTTZKUWg4TzBjSlF4RzlhVWNCN2dPR2xGT09UVmlFYmo2MDVWWTc?oc=5",
-      "description": "NJ-Based Quest Diagnostics Pays $13M to Settle Allegations of Illegal Perks at Giants Games RLS Media",
-      "source": "RLS Media",
-      "source_url": "https://www.rlsmedia.com",
-      "source_domain": "rlsmedia.com",
-      "published_at": "2026-11-07T17:12:45+00:00",
-      "published_display": "07 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "RLS Media",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VMc0dVTndQX3g1UUtJZnBqdzNYNWtveFh0UUxxSXN0VTlEZlRfNVhBamJaUUdkMU9xbkF1VUtjWW9rN2JJSnNQajdyWWlTRFJ5ZTg1ei1sTlQ4LUktc040ZUtnbDlySUFtZjdhOGg5bzVvaE5zZTVOaDVMNG1XejFmYUV5SldsMy1heVBhTTZKUWg4TzBjSlF4RzlhVWNCN2dPR2xGT09UVmlFYmo2MDVWWTc?oc=5",
-          "domain": "rlsmedia.com",
-          "published_at": "2026-11-07T17:12:45+00:00"
-        },
-        {
-          "name": "RLS Media",
-          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85WkNjVThXa3R3OWtwcEFjSUZrY1VIY3JnUzJQTHFTMWpFYzNjVXl3WnhwRHNIbzRNaUxpR3VmZnhKSlZsZk1DZjY4QQ?oc=5",
-          "domain": "rlsmedia.com",
-          "published_at": "2026-11-07T17:12:45+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "13m allegations based games giants illegal pays perks settle"
-    },
-    {
       "id": "d4fc3c7dbb9a41499179",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics pays $13 million to settle kickback claims tied to Giants events",
@@ -1603,9 +1707,15 @@
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTQtRHE5WlgwcnZaNVRIUUZiQzBTYmNIS2VGNnkwM1RZWUN6bk5iNkxaT2xEVUZteXRRbXJXbktwVENncVhLLS1udS1oSjFvTEkyM0RLRFpyUklMbHBUUklYYmxTeF84WkVKRHNvNGxZTXRaYVJSb1B4VXp3YlJ2TlVkQy1HZF9iQmo2UDFlNmxsWURDX0ZsRHl6ZzBkNlhYUmFtNjBpdWxKOURXNXZJbjlXTXN0SmlObXdqRDJDRTJxUTA?oc=5",
           "domain": "news.ssbcrack.com",
           "published_at": "2026-11-09T14:49:16+00:00"
+        },
+        {
+          "name": "HudPost",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNzYxRlIwMTFPT3d5U1dKdk16VVc3dmdHcE5aaER5NFNJRjZlTnZ2WWQwT2ZiUTNZLW1GZ2dGdTB1WHJVN0dNUkV4cFZxWDRBR0lKZWRGeWEtYlR6UFRPUVJ1WG5DMGhWVV9sc0tnT0tpay1rRG85c0JXSW1mNU8zSktlMmczRkNNMWtERW12UERkYzJXa0dtdXd4Yw?oc=5",
+          "domain": "hudpost.com",
+          "published_at": "2026-11-12T08:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 4,
       "event_signature": "claims events giants kickback million pays settle tied"
     },
     {
@@ -1637,7 +1747,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics pays $13M to settle kickback allegations involving NY Giants tickets",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbmVoUVlseVVIcTZ6ZzZ1VWJLNnFNUDRKM3planlsQ21pWHpBY1dVX0JQR2w3U291dzh1LXhzc24yZEVTQzNYdFdKMkFlSjNvQ2I4ZkhWcy1EMGU3bXR0WUo4b2Q4Sjk5WWZzcm5GQ25mQlBGOXNTWDRTV3VBekpXTE9MaDZuNDZTN0YwaXBoWVRyMVJNa2xIZEx3ck5QSU4tODlBLXQyb1NNaDJyNjZBU3pn?oc=5",
-      "description": "Quest Diagnostics pays $13M to settle allegations tied to Giants ticket perks News12 | New Jersey",
+      "description": "Quest Diagnostics Pays $13 Million to Settle Kickback Allegations Involving New York Giants Tickets SSBCrack",
       "source": "Gothamist",
       "source_url": "https://gothamist.com",
       "source_domain": "gothamist.com",
@@ -1663,10 +1773,76 @@
           "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPU21icnBHZFNaWU9YYTV2dks0THBwemxKdUE4M1NEdG5QbEY5QUZObDVPb2hTSVV1OURGSGpUSmFtQUR4MkJEODBialBTMU9ENEJJMm13dFBGT0pWNFFVOGV5QmQ4M3MybG9wUkZPYmN0MmJMNUhSN2hKcE5ULWRmaDlTTzdCSm1QbzM3dGhlNnl2aWUySEhXOEY5TFBFOHNrSHZLa1lhVFZGenFJQThGaXRaMG95V2x2c1U0R0J6czE3X1k4dk03bUFraHlwVi1pNXNSNzdB?oc=5",
           "domain": "newjersey.news12.com",
           "published_at": "2026-11-08T18:06:09+00:00"
+        },
+        {
+          "name": "Hoodline",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUjdXM3F4OXpJVUt1MXNTRDJfWlVIWGtPakdhVmdFeWM4ajRGWjRETlJTMjd3Qmx3Q05TeFpvRDlwdUZzT3hwMUIxQThoX1NzTW5ETnJPNVdfRUJyX1RGaGp0SU9tRHJWd3V6MGo4TXRpY2lKQ01pUGd1LUNpTWRqRDJITVB6MWhFcWZOYUtybTE5MTlYYkVmeDkyUkU0Yk9ObUpQbVMzaDMxakxrQmc?oc=5",
+          "domain": "hoodline.com",
+          "published_at": "2026-11-07T08:00:00+00:00"
+        },
+        {
+          "name": "SSBCrack",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOTQtRHE5WlgwcnZaNVRIUUZiQzBTYmNIS2VGNnkwM1RZWUN6bk5iNkxaT2xEVUZteXRRbXJXbktwVENncVhLLS1udS1oSjFvTEkyM0RLRFpyUklMbHBUUklYYmxTeF84WkVKRHNvNGxZTXRaYVJSb1B4VXp3YlJ2TlVkQy1HZF9iQmo2UDFlNmxsWURDX0ZsRHl6ZzBkNlhYUmFtNjBpdWxKOURXNXZJbjlXTXN0SmlObXdqRDJDRTJxUTA?oc=5",
+          "domain": "news.ssbcrack.com",
+          "published_at": "2026-11-09T08:00:00+00:00"
         }
       ],
-      "coverage_count": 3,
+      "coverage_count": 5,
       "event_signature": "13m allegations giants involving kickback pays settle tickets"
+    },
+    {
+      "id": "b716091cb7d400c9a11d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics, Name on Giants' Practice Complex, Settles Federal Kickback Claims for $13M",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhWNWNIcXYxSFkxaDNIOXlwZlVnTGZyOW9OLUVURS1aVWNDRHl1Njc4WUtZeWVOWHg0VFJLdVN4SEZjSEI5LXJHU2hHdWJJVGlNTDEwYjRBalFqd2Q3VXpaYm1fODJQQlN4Ry03UG4tOERRWFdWVUowZ2RqMjlma1lzdEpKMktacGxCaUFTVTFzODQ1SV9scFdQZ1AyQUR6TnhpWVRZeTBBNjNFbEdhekFR?oc=5",
+      "description": "Quest Diagnostics, Name on Giants' Practice Complex, Settles Federal Kickback Claims for $13M centraljersey.com",
+      "source": "centraljersey.com",
+      "source_url": "https://centraljersey.com",
+      "source_domain": "centraljersey.com",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "centraljersey.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMXhWNWNIcXYxSFkxaDNIOXlwZlVnTGZyOW9OLUVURS1aVWNDRHl1Njc4WUtZeWVOWHg0VFJLdVN4SEZjSEI5LXJHU2hHdWJJVGlNTDEwYjRBalFqd2Q3VXpaYm1fODJQQlN4Ry03UG4tOERRWFdWVUowZ2RqMjlma1lzdEpKMktacGxCaUFTVTFzODQ1SV9scFdQZ1AyQUR6TnhpWVRZeTBBNjNFbEdhekFR?oc=5",
+          "domain": "centraljersey.com",
+          "published_at": "2026-11-07T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "13m claims complex federal giants kickback name practice settles"
+    },
+    {
+      "id": "84bf12047dc7b24ce7a4",
+      "company": "Quest Diagnostics",
+      "title": "NJ-Based Quest Diagnostics Pays $13M to Settle Allegations of Illegal Perks at Giants Games",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85WkNjVThXa3R3OWtwcEFjSUZrY1VIY3JnUzJQTHFTMWpFYzNjVXl3WnhwRHNIbzRNaUxpR3VmZnhKSlZsZk1DZjY4QQ?oc=5",
+      "description": "NJ-Based Quest Diagnostics Pays $13M to Settle Allegations of Illegal Perks at Giants Games RLS Media",
+      "source": "RLS Media",
+      "source_url": "https://www.rlsmedia.com",
+      "source_domain": "rlsmedia.com",
+      "published_at": "2026-11-07T08:00:00+00:00",
+      "published_display": "07 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "RLS Media",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85WkNjVThXa3R3OWtwcEFjSUZrY1VIY3JnUzJQTHFTMWpFYzNjVXl3WnhwRHNIbzRNaUxpR3VmZnhKSlZsZk1DZjY4QQ?oc=5",
+          "domain": "rlsmedia.com",
+          "published_at": "2026-11-07T08:00:00+00:00"
+        },
+        {
+          "name": "RLS Media",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3VMc0dVTndQX3g1UUtJZnBqdzNYNWtveFh0UUxxSXN0VTlEZlRfNVhBamJaUUdkMU9xbkF1VUtjWW9rN2JJSnNQajdyWWlTRFJ5ZTg1ei1sTlQ4LUktc040ZUtnbDlySUFtZjdhOGg5bzVvaE5zZTVOaDVMNG1XejFmYUV5SldsMy1heVBhTTZKUWg4TzBjSlF4RzlhVWNCN2dPR2xGT09UVmlFYmo2MDVWWTc?oc=5",
+          "domain": "rlsmedia.com",
+          "published_at": "2026-11-07T17:12:45+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "13m allegations based games giants illegal pays perks settle"
     },
     {
       "id": "6ab68a3907c7f7a46080",
@@ -1691,60 +1867,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "acquisition completes expand health millennium testing toxicology"
-    },
-    {
-      "id": "98556b8a3c2ddf631d4c",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
-      "description": "Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations Hudson County View",
-      "source": "Hudson County View",
-      "source_url": "https://hudsoncountyview.com",
-      "source_domain": "hudsoncountyview.com",
-      "published_at": "2026-11-06T18:52:33+00:00",
-      "published_display": "06 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Hudson County View",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
-          "domain": "hudsoncountyview.com",
-          "published_at": "2026-11-06T18:52:33+00:00"
-        },
-        {
-          "name": "NJBIZ",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tVVhLQ0RldkhuVzkzZTBBNzlIYk1lNWg4d2ZJNDJyVDZrMFgxVnJrdUJncEVJYUdORmhyOXI3eV9McVZRdWJwZXZOZVlJU3R0eVkwTl9oektaOTlKQ2otTDFHcDVVVXc?oc=5",
-          "domain": "njbiz.com",
-          "published_at": "2026-11-09T13:29:20+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "13m allegations illegal kickback pays secaucus settle"
-    },
-    {
-      "id": "328b24af076624e70409",
-      "company": "Quest Diagnostics",
-      "title": "Subu Ramachandran Expands With Quest Diagnostics Stock Options Worth $6K",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFvNlVydk16cUdCV1NZRW93QlpuZnM1RTFiWHc1c3RPOHFYZUpaTVVrUElFbHRmNU1FYlM0cF9oYzV1cEJWYnlvcU05YU5pTm9HVUkzeksxZTRmX19hXzNYVkJfWVlzYVJZZmczY2Z5SU12amp3V2lDVHBiZUFFTGN4R0J1MF96cFdUWklWWkRQNkFxSG9QLV9aU2EwdW9JTkpXSzVGa3IyQU16dmRMYXktTFEzSDZCdlB1bw?oc=5",
-      "description": "Subu Ramachandran Expands Holdings With Quest Diagnostics Stock Options Worth $6K Benzinga",
-      "source": "Benzinga",
-      "source_url": "https://www.benzinga.com",
-      "source_domain": "benzinga.com",
-      "published_at": "2026-11-06T15:01:52+00:00",
-      "published_display": "06 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFvNlVydk16cUdCV1NZRW93QlpuZnM1RTFiWHc1c3RPOHFYZUpaTVVrUElFbHRmNU1FYlM0cF9oYzV1cEJWYnlvcU05YU5pTm9HVUkzeksxZTRmX19hXzNYVkJfWVlzYVJZZmczY2Z5SU12amp3V2lDVHBiZUFFTGN4R0J1MF96cFdUWklWWkRQNkFxSG9QLV9aU2EwdW9JTkpXSzVGa3IyQU16dmRMYXktTFEzSDZCdlB1bw?oc=5",
-          "domain": "benzinga.com",
-          "published_at": "2026-11-06T15:01:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "expands options ramachandran stock subu worth"
     },
     {
       "id": "e42a070803e42fb58e0c",
@@ -1819,28 +1941,58 @@
       "event_signature": "bucking day ibd malaise medtech stock"
     },
     {
-      "id": "905f25e809c0642e0b73",
+      "id": "98556b8a3c2ddf631d4c",
       "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJHaEMyaUFaRG5DVGY4b2taTVpxNVVoVXE1a19EOW5LZ1QzYVJkU1Z0RWQteEw5cTJwRjR0S1Bja0Q5cndxUTQzN3pkWndUem5HejNmc19DcXc2WE5vUHJUT1RpVDRHeWNiZDFaOXJYV284am0tOUFLdmh5amlaMnMxOGUtcU8wRGRVVUxaZU9GSjZNb3hwcmpFemxsbE5JTm85SzdvUklycVAtbVR1Zw?oc=5",
-      "description": "Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-06T00:38:27+00:00",
+      "title": "Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
+      "description": "Quest Diagnostics in Secaucus pays $13M to settle illegal kickback allegations Hudson County View",
+      "source": "Hudson County View",
+      "source_url": "https://hudsoncountyview.com",
+      "source_domain": "hudsoncountyview.com",
+      "published_at": "2026-11-06T08:00:00+00:00",
       "published_display": "06 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJHaEMyaUFaRG5DVGY4b2taTVpxNVVoVXE1a19EOW5LZ1QzYVJkU1Z0RWQteEw5cTJwRjR0S1Bja0Q5cndxUTQzN3pkWndUem5HejNmc19DcXc2WE5vUHJUT1RpVDRHeWNiZDFaOXJYV284am0tOUFLdmh5amlaMnMxOGUtcU8wRGRVVUxaZU9GSjZNb3hwcmpFemxsbE5JTm85SzdvUklycVAtbVR1Zw?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-11-06T00:38:27+00:00"
+          "name": "Hudson County View",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcG9Ga0tRMFhoYXE5cEpid0ZRUlYyUmptdVlQamVxQ0ZMenlGY0xkTkpJVTRwUGlMdUtWU29Yd2Q3Z0xrUXBVVnk1eWFDMTY3WURPMzFudTlLdkVfQklrUmVaWnVueDlRZm1wbk1jM1hzVnNzZjYyeFNqeTlDc0NNdUZiaGJfa0QwdF92S3ZBUzd4dHFWaDBLdUxDOXhwZG5JeHN5elA5SEhUa0E?oc=5",
+          "domain": "hudsoncountyview.com",
+          "published_at": "2026-11-06T08:00:00+00:00"
+        },
+        {
+          "name": "NJBIZ",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tVVhLQ0RldkhuVzkzZTBBNzlIYk1lNWg4d2ZJNDJyVDZrMFgxVnJrdUJncEVJYUdORmhyOXI3eV9McVZRdWJwZXZOZVlJU3R0eVkwTl9oektaOTlKQ2otTDFHcDVVVXc?oc=5",
+          "domain": "njbiz.com",
+          "published_at": "2026-11-09T13:29:20+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "13m allegations illegal kickback pays secaucus settle"
+    },
+    {
+      "id": "328b24af076624e70409",
+      "company": "Quest Diagnostics",
+      "title": "Subu Ramachandran Expands With Quest Diagnostics Stock Options Worth $6K",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFvNlVydk16cUdCV1NZRW93QlpuZnM1RTFiWHc1c3RPOHFYZUpaTVVrUElFbHRmNU1FYlM0cF9oYzV1cEJWYnlvcU05YU5pTm9HVUkzeksxZTRmX19hXzNYVkJfWVlzYVJZZmczY2Z5SU12amp3V2lDVHBiZUFFTGN4R0J1MF96cFdUWklWWkRQNkFxSG9QLV9aU2EwdW9JTkpXSzVGa3IyQU16dmRMYXktTFEzSDZCdlB1bw?oc=5",
+      "description": "Subu Ramachandran Expands Holdings With Quest Diagnostics Stock Options Worth $6K Benzinga",
+      "source": "Benzinga",
+      "source_url": "https://www.benzinga.com",
+      "source_domain": "benzinga.com",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWlFvNlVydk16cUdCV1NZRW93QlpuZnM1RTFiWHc1c3RPOHFYZUpaTVVrUElFbHRmNU1FYlM0cF9oYzV1cEJWYnlvcU05YU5pTm9HVUkzeksxZTRmX19hXzNYVkJfWVlzYVJZZmczY2Z5SU12amp3V2lDVHBiZUFFTGN4R0J1MF96cFdUWklWWkRQNkFxSG9QLV9aU2EwdW9JTkpXSzVGa3IyQU16dmRMYXktTFEzSDZCdlB1bw?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-11-06T08:00:00+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "48m com doherty evp investing sells shares"
+      "event_signature": "expands options ramachandran stock subu worth"
     },
     {
       "id": "ec9e5f2d77aaba9c2d11",
@@ -2005,10 +2157,46 @@
           "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQazJXNmxRQlJtVndkbHJtQ2FaTnJlQzd0TUZfcnEwMzZVLWtRUWVvT09pN0FoQVJ4Zk9YLXd0ZEx2VE82VnRxZWdjQm5sN0pLZXFxeGpNUjM3eDBadUw2VVJQcFBwdXVGV1o3OG9IWW8tNWl0R3pwRkJnSDNNa1F5US1FMGR1M2dmRXpiTXVPcUR3ZUdjWjdDanpPb2NQeExyTHdvRG9WZ1ZOYVJZazBnQg?oc=5",
           "domain": "investing.com",
           "published_at": "2026-11-05T14:35:51+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0I3amlVWDRGajYyV1FTNXZrOTV6SG91MktxbC15S1cxU1ExYU11dlNyeGswT3BUeldCTVRlVjllQVJRam9TeGhDVjAxc3RXY1ZOa0llamZpZ0xvbmI1SlplM3FNUUN4M2QyNS1xbUNpRDZrbFVMbjYzTlNpRVY3anlWcGtQam9EMU40X1lQanQ2S1UyUmxIWFVXM2JOak5XTUpqbFpZMklaLWFxMlNEZA?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-12T08:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "258 all high hits stock time usd"
+    },
+    {
+      "id": "3d67f99e8a25051fe21d",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics EVP Doherty sells $5.48M in shares",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnBfcFpXQXEzeU5sX3pRR3dYUC1VamZWSXdQR1pSUzhJUzJlemVPNGJlc0FmVC1scWVJRktpV2JkS0pUXzN1VGd0eUUyQ3F4NUNzU0I3QnhTb05RSk1KQmVJWUNtT1daT0hmVTdyNHozc0JuSlo1UDNVdmtQeFMyMWJjcUFzSnEzOHk3Wkk0c1ZxVHlkaVY3cF9KUXYxbW4tOEVCVVFhaGZDbmd4TGdwa2JHYndlZw?oc=5",
+      "description": "Quest Diagnostics EVP Doherty sells $5.48M in shares By Investing.com Investing.com India",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "published_display": "05 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMnBfcFpXQXEzeU5sX3pRR3dYUC1VamZWSXdQR1pSUzhJUzJlemVPNGJlc0FmVC1scWVJRktpV2JkS0pUXzN1VGd0eUUyQ3F4NUNzU0I3QnhTb05RSk1KQmVJWUNtT1daT0hmVTdyNHozc0JuSlo1UDNVdmtQeFMyMWJjcUFzSnEzOHk3Wkk0c1ZxVHlkaVY3cF9KUXYxbW4tOEVCVVFhaGZDbmd4TGdwa2JHYndlZw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-05T08:00:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOenJHaEMyaUFaRG5DVGY4b2taTVpxNVVoVXE1a19EOW5LZ1QzYVJkU1Z0RWQteEw5cTJwRjR0S1Bja0Q5cndxUTQzN3pkWndUem5HejNmc19DcXc2WE5vUHJUT1RpVDRHeWNiZDFaOXJYV284am0tOUFLdmh5amlaMnMxOGUtcU8wRGRVVUxaZU9GSjZNb3hwcmpFemxsbE5JTm85SzdvUklycVAtbVR1Zw?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-06T00:38:27+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "48m doherty evp sells shares"
     },
     {
       "id": "4bb917d3c4095a32c5b5",
@@ -2083,30 +2271,6 @@
       "event_signature": "2026 call climbs deal earnings health highlights opk opko revenue"
     },
     {
-      "id": "0cf499e2b0f47f6840d3",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Stock Up 3.5% but GF Value Says Over",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGx2M0tVdGFKZmxrUl9EOXAxdmlLTE1tSk9qaEdGZ05YY002Zm5uMlJhUnFvNHZKQ0kxSU82VGxEVkQzZnZVdlI0VEVtSk15SGNkN2U5QzVRUHhfNko3Z0FMNV9MRXkwSHBaemlLTVc1Tk9HSjBFMlV2Qzk0eXRyZXZ0QW8ta3dsZU9HelRGVFRkSU9wVGFJLW9iU2lMUVhuVWZCQnFoem9EcmdIRHI5MDBzTmF0TENTUVUzZA?oc=5",
-      "description": "Quest Diagnostics Inc (DGX) Stock Up 3.5% but GF Value Says Over GuruFocus",
-      "source": "GuruFocus",
-      "source_url": "https://www.gurufocus.com",
-      "source_domain": "gurufocus.com",
-      "published_at": "2026-11-05T00:59:03+00:00",
-      "published_display": "05 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGx2M0tVdGFKZmxrUl9EOXAxdmlLTE1tSk9qaEdGZ05YY002Zm5uMlJhUnFvNHZKQ0kxSU82VGxEVkQzZnZVdlI0VEVtSk15SGNkN2U5QzVRUHhfNko3Z0FMNV9MRXkwSHBaemlLTVc1Tk9HSjBFMlV2Qzk0eXRyZXZ0QW8ta3dsZU9HelRGVFRkSU9wVGFJLW9iU2lMUVhuVWZCQnFoem9EcmdIRHI5MDBzTmF0TENTUVUzZA?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-11-05T00:59:03+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "but over stock value"
-    },
-    {
       "id": "c818e720bd6382c22558",
       "company": "Labcorp",
       "title": "Labcorp: Nov 04, 2026 Labcorp Completes Acquisition of Millennium Health",
@@ -2129,6 +2293,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 acquisition completes health millennium nov"
+    },
+    {
+      "id": "0cf499e2b0f47f6840d3",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Stock Up 3.5% but GF Value Says Over",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGx2M0tVdGFKZmxrUl9EOXAxdmlLTE1tSk9qaEdGZ05YY002Zm5uMlJhUnFvNHZKQ0kxSU82VGxEVkQzZnZVdlI0VEVtSk15SGNkN2U5QzVRUHhfNko3Z0FMNV9MRXkwSHBaemlLTVc1Tk9HSjBFMlV2Qzk0eXRyZXZ0QW8ta3dsZU9HelRGVFRkSU9wVGFJLW9iU2lMUVhuVWZCQnFoem9EcmdIRHI5MDBzTmF0TENTUVUzZA?oc=5",
+      "description": "Quest Diagnostics Inc (DGX) Stock Up 3.5% but GF Value Says Over GuruFocus",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-11-04T08:00:00+00:00",
+      "published_display": "04 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTGx2M0tVdGFKZmxrUl9EOXAxdmlLTE1tSk9qaEdGZ05YY002Zm5uMlJhUnFvNHZKQ0kxSU82VGxEVkQzZnZVdlI0VEVtSk15SGNkN2U5QzVRUHhfNko3Z0FMNV9MRXkwSHBaemlLTVc1Tk9HSjBFMlV2Qzk0eXRyZXZ0QW8ta3dsZU9HelRGVFRkSU9wVGFJLW9iU2lMUVhuVWZCQnFoem9EcmdIRHI5MDBzTmF0TENTUVUzZA?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-11-04T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "but over stock value"
     },
     {
       "id": "f28028d499a547387ed1",
@@ -2575,30 +2763,6 @@
       "event_signature": "2026 access approved beginning cancer cervical comprehensive expand fda hpv late most option screening testing waters"
     },
     {
-      "id": "4166adbd36cfd0a2ff0c",
-      "company": "Quest Diagnostics",
-      "title": "Data Breach Hits Lab Giant Quest Diagnostics, Exposing Personal Information and Patient Records",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dkaFZ2U21ZUlZwM04xZlhnUGNmdld1NlRFZjQzSTQ2eHROTXFrZFppSHpTSngyRTBOd2ZCZkFUclA0UTVtd3dVM0tDVkFmMk9YV0YyMVZNQlhtS0RIZzVoYmM2M25FQnZPUENpamM5VWdLeUZPa1hTaF83bjNBTTMwZ1lCMzNOdThEazlQeDBvV2lmZThoYjRya2lJcmVmZWxJYVZMRFFpRGU2UlRhYkd3STVRYzNvRzg4RjhPWG1pWnVjTERqNWdpTkZVdjJjUld6dQ?oc=5",
-      "description": "Data Breach Hits Lab Giant Quest Diagnostics, Exposing Personal Information and Patient Records CPO Magazine",
-      "source": "CPO Magazine",
-      "source_url": "https://www.cpomagazine.com",
-      "source_domain": "cpomagazine.com",
-      "published_at": "2026-10-30T11:00:00+00:00",
-      "published_display": "30 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "CPO Magazine",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dkaFZ2U21ZUlZwM04xZlhnUGNmdld1NlRFZjQzSTQ2eHROTXFrZFppSHpTSngyRTBOd2ZCZkFUclA0UTVtd3dVM0tDVkFmMk9YV0YyMVZNQlhtS0RIZzVoYmM2M25FQnZPUENpamM5VWdLeUZPa1hTaF83bjNBTTMwZ1lCMzNOdThEazlQeDBvV2lmZThoYjRya2lJcmVmZWxJYVZMRFFpRGU2UlRhYkd3STVRYzNvRzg4RjhPWG1pWnVjTERqNWdpTkZVdjJjUld6dQ?oc=5",
-          "domain": "cpomagazine.com",
-          "published_at": "2026-10-30T11:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach data exposing giant hits information lab patient personal records"
-    },
-    {
       "id": "aff3094b5182b51a7cfe",
       "company": "Labcorp",
       "title": "Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom",
@@ -2647,6 +2811,30 @@
       "event_signature": "breach data exposes lsm portal quanum records"
     },
     {
+      "id": "4166adbd36cfd0a2ff0c",
+      "company": "Quest Diagnostics",
+      "title": "Data Breach Hits Lab Giant Quest Diagnostics, Exposing Personal Information and Patient Records",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dkaFZ2U21ZUlZwM04xZlhnUGNmdld1NlRFZjQzSTQ2eHROTXFrZFppSHpTSngyRTBOd2ZCZkFUclA0UTVtd3dVM0tDVkFmMk9YV0YyMVZNQlhtS0RIZzVoYmM2M25FQnZPUENpamM5VWdLeUZPa1hTaF83bjNBTTMwZ1lCMzNOdThEazlQeDBvV2lmZThoYjRya2lJcmVmZWxJYVZMRFFpRGU2UlRhYkd3STVRYzNvRzg4RjhPWG1pWnVjTERqNWdpTkZVdjJjUld6dQ?oc=5",
+      "description": "Data Breach Hits Lab Giant Quest Diagnostics, Exposing Personal Information and Patient Records CPO Magazine",
+      "source": "CPO Magazine",
+      "source_url": "https://www.cpomagazine.com",
+      "source_domain": "cpomagazine.com",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "CPO Magazine",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3dkaFZ2U21ZUlZwM04xZlhnUGNmdld1NlRFZjQzSTQ2eHROTXFrZFppSHpTSngyRTBOd2ZCZkFUclA0UTVtd3dVM0tDVkFmMk9YV0YyMVZNQlhtS0RIZzVoYmM2M25FQnZPUENpamM5VWdLeUZPa1hTaF83bjNBTTMwZ1lCMzNOdThEazlQeDBvV2lmZThoYjRya2lJcmVmZWxJYVZMRFFpRGU2UlRhYkd3STVRYzNvRzg4RjhPWG1pWnVjTERqNWdpTkZVdjJjUld6dQ?oc=5",
+          "domain": "cpomagazine.com",
+          "published_at": "2026-10-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach data exposing giant hits information lab patient personal records"
+    },
+    {
       "id": "aa779c48170cc6bdc65c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote",
@@ -2693,30 +2881,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach data exposes patient"
-    },
-    {
-      "id": "584d355b8e90860562b9",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics class action alleges data breach exposed patient medical records",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTRBUEw2SVVBbi1WVktzUUVta202OWhVU2c2QzY0UG10SmdKMFpib094ZzdzRHhnQ2dkN1ZNZXA1clpnV1pMbjRSOUI5N2pTNS1PRC1JRTlTdTBwenN1cl9hN04xVWtpVlgtYWNNS0dmZVcxbHJKZ1l4WFdaZGhFSVJHakhEMU9keTl1c3dJRFhwMUpFN09OQ3ZWWmdabkM3c1I0SHd6UDNhQWgxdkQwbndoOTU1dw?oc=5",
-      "description": "Quest Diagnostics class action alleges data breach exposed patient medical records Claim Depot",
-      "source": "Claim Depot",
-      "source_url": "https://www.claimdepot.com",
-      "source_domain": "claimdepot.com",
-      "published_at": "2026-10-29T15:53:46+00:00",
-      "published_display": "29 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Claim Depot",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTRBUEw2SVVBbi1WVktzUUVta202OWhVU2c2QzY0UG10SmdKMFpib094ZzdzRHhnQ2dkN1ZNZXA1clpnV1pMbjRSOUI5N2pTNS1PRC1JRTlTdTBwenN1cl9hN04xVWtpVlgtYWNNS0dmZVcxbHJKZ1l4WFdaZGhFSVJHakhEMU9keTl1c3dJRFhwMUpFN09OQ3ZWWmdabkM3c1I0SHd6UDNhQWgxdkQwbndoOTU1dw?oc=5",
-          "domain": "claimdepot.com",
-          "published_at": "2026-10-29T15:53:46+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "action alleges breach class data exposed medical patient records"
     },
     {
       "id": "3638ad910e3db09e6b2e",
@@ -2815,6 +2979,30 @@
       "event_signature": "action contract join meeting stonewalling team"
     },
     {
+      "id": "584d355b8e90860562b9",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics class action alleges data breach exposed patient medical records",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTRBUEw2SVVBbi1WVktzUUVta202OWhVU2c2QzY0UG10SmdKMFpib094ZzdzRHhnQ2dkN1ZNZXA1clpnV1pMbjRSOUI5N2pTNS1PRC1JRTlTdTBwenN1cl9hN04xVWtpVlgtYWNNS0dmZVcxbHJKZ1l4WFdaZGhFSVJHakhEMU9keTl1c3dJRFhwMUpFN09OQ3ZWWmdabkM3c1I0SHd6UDNhQWgxdkQwbndoOTU1dw?oc=5",
+      "description": "Quest Diagnostics class action alleges data breach exposed patient medical records Claim Depot",
+      "source": "Claim Depot",
+      "source_url": "https://www.claimdepot.com",
+      "source_domain": "claimdepot.com",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "published_display": "29 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Claim Depot",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTRBUEw2SVVBbi1WVktzUUVta202OWhVU2c2QzY0UG10SmdKMFpib094ZzdzRHhnQ2dkN1ZNZXA1clpnV1pMbjRSOUI5N2pTNS1PRC1JRTlTdTBwenN1cl9hN04xVWtpVlgtYWNNS0dmZVcxbHJKZ1l4WFdaZGhFSVJHakhEMU9keTl1c3dJRFhwMUpFN09OQ3ZWWmdabkM3c1I0SHd6UDNhQWgxdkQwbndoOTU1dw?oc=5",
+          "domain": "claimdepot.com",
+          "published_at": "2026-10-29T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "action alleges breach class data exposed medical patient records"
+    },
+    {
       "id": "e0812e94d4a7e0b10611",
       "company": "Labcorp",
       "title": "Labcorp 2026 Q3 - Results - Earnings Call Presentation 2026-10-29",
@@ -2837,48 +3025,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 call earnings presentation results"
-    },
-    {
-      "id": "491cc95101739702cb26",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUZONFNzaEUxbDNIdEtRN0xPTUtSbHljZHJMRUtjd0RHLVQ1VGRNV3Rxdnl4Y0xBOUdwYUhBWHlCZ2dfcEZleS01R1d2SmRFY3ZTa3QxQXJ2cUU5MER4TFZYMzVZTWlHenJNdTd0a3V0MXdBUlhvaUYyNFVkTjd4MWhGU0U0bnBrX000Wk1fZzJvYXpLSXFHSi1uSWl3Rkp2Um1TZjVJekxFaWRWaWM2a29WRnFFbGRPV3ROcHVueGxoZw?oc=5",
-      "description": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com Investing.com Nigeria",
-      "source": "Investing.com UK",
-      "source_url": "https://uk.investing.com",
-      "source_domain": "uk.investing.com",
-      "published_at": "2026-10-28T22:32:00+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUZONFNzaEUxbDNIdEtRN0xPTUtSbHljZHJMRUtjd0RHLVQ1VGRNV3Rxdnl4Y0xBOUdwYUhBWHlCZ2dfcEZleS01R1d2SmRFY3ZTa3QxQXJ2cUU5MER4TFZYMzVZTWlHenJNdTd0a3V0MXdBUlhvaUYyNFVkTjd4MWhGU0U0bnBrX000Wk1fZzJvYXpLSXFHSi1uSWl3Rkp2Um1TZjVJekxFaWRWaWM2a29WRnFFbGRPV3ROcHVueGxoZw?oc=5",
-          "domain": "uk.investing.com",
-          "published_at": "2026-10-28T22:32:00+00:00"
-        },
-        {
-          "name": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
-          "domain": "gurufocus.com",
-          "published_at": "2026-10-29T01:29:52+00:00"
-        },
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHZ5RWJ2YmMwaUwya2JIdWZPM0RYQnVoeG9BZG9TWWZ6YVB1TjlQLXpIVmJ3Sm5QM1FaeHVvN0JqeDFsRU9TdnhzM1JOTTV3UzNTV3lmWk4td1p2d09ONG4zNzJDRnpCTjc2UGJoQlh2U1psYzFBblBVeklJMUpvNGhKQlE3SXJ3WHRqaTJRZ25MczJZOUF1dncxMUFzT3lvekFDeWRBTnd2SGlXNUNTV05QdjM2Q09iXzlRcnJVcXdWLWkwS3d3?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-28T22:59:09+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnp3aVZtUE0zVFhiclg1UE5fbXF4c3llQl84cllWYVU3Q1IyUTZCZjF0TS00Rmp2MmFwM2tCZEM5QjBiSzdqc1lZeGI0RmVVRFZNcDB4bm5Va3duTHhfYmJDQUFqTDhuTUE0QTVDWGJWVThub3JueE1ONVpjcV9GU0l3cDY5azBhMFFLczl1UHdzbnNuVFlOZUFDVG9MZWx1ZVM4Z3RlQ0JFakptd3A0S1dvb0laWTF0azZNV0tualU3QQ?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-10-29T01:35:49+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "292 329 com director gary investing pfeiffer sells shares"
     },
     {
       "id": "8cd4b1473f4028a6c6ff",
@@ -3937,6 +4083,48 @@
       "event_signature": "action breach class data faces lab lawsuits multiple over"
     },
     {
+      "id": "97b9a2d07806f8da9b12",
+      "company": "Quest Diagnostics",
+      "title": "Director Gary Pfeiffer Sells 1,203 Shares of Quest Diagnostics I",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
+      "description": "Quest Diagnostics director Gary Pfeiffer sells $292,329 in shares By Investing.com Investing.com Nigeria",
+      "source": "GuruFocus",
+      "source_url": "https://www.gurufocus.com",
+      "source_domain": "gurufocus.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdTQzZHppUXNxNktmWG4xMDJmNG85eE5sNFBGZ2YyMnNRd1M2M0pQZjZwd3UyRDhkNE1vdk5RZlhhamhPaFZab1BpZ09QSW03ZE1yd3FiM0RKS18xcFY0QWtzNFdscUxSWE1LVTFKQVk1di1jYmRjSTVTN1F3SVVleUM5YTlKcFUwUk1rUHM4T2FGYzdEUnNiQU12c2JFSFM1VnIxcWdWVUlYUms5?oc=5",
+          "domain": "gurufocus.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPLUZONFNzaEUxbDNIdEtRN0xPTUtSbHljZHJMRUtjd0RHLVQ1VGRNV3Rxdnl4Y0xBOUdwYUhBWHlCZ2dfcEZleS01R1d2SmRFY3ZTa3QxQXJ2cUU5MER4TFZYMzVZTWlHenJNdTd0a3V0MXdBUlhvaUYyNFVkTjd4MWhGU0U0bnBrX000Wk1fZzJvYXpLSXFHSi1uSWl3Rkp2Um1TZjVJekxFaWRWaWM2a29WRnFFbGRPV3ROcHVueGxoZw?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-10-28T22:32:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHZ5RWJ2YmMwaUwya2JIdWZPM0RYQnVoeG9BZG9TWWZ6YVB1TjlQLXpIVmJ3Sm5QM1FaeHVvN0JqeDFsRU9TdnhzM1JOTTV3UzNTV3lmWk4td1p2d09ONG4zNzJDRnpCTjc2UGJoQlh2U1psYzFBblBVeklJMUpvNGhKQlE3SXJ3WHRqaTJRZ25MczJZOUF1dncxMUFzT3lvekFDeWRBTnd2SGlXNUNTV05QdjM2Q09iXzlRcnJVcXdWLWkwS3d3?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T22:59:09+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnp3aVZtUE0zVFhiclg1UE5fbXF4c3llQl84cllWYVU3Q1IyUTZCZjF0TS00Rmp2MmFwM2tCZEM5QjBiSzdqc1lZeGI0RmVVRFZNcDB4bm5Va3duTHhfYmJDQUFqTDhuTUE0QTVDWGJWVThub3JueE1ONVpjcV9GU0l3cDY5azBhMFFLczl1UHdzbnNuVFlOZUFDVG9MZWx1ZVM4Z3RlQ0JFakptd3A0S1dvb0laWTF0azZNV0tualU3QQ?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-10-29T01:35:49+00:00"
+        }
+      ],
+      "coverage_count": 4,
+      "event_signature": "203 director gary pfeiffer sells shares"
+    },
+    {
       "id": "0f7726bb5f367ad8fb68",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics $6M Courier Wage Settlement",
@@ -4015,30 +4203,6 @@
       "event_signature": "earnings expectations focus moderate profit"
     },
     {
-      "id": "ca1af700d084339ad0ce",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQW44akpNOEtBbWdGY1kwVG1qRDQ4eHMySXk3SjY4NTBTWmJ6NHFvblJBQWlHeC1VaWw5YndSeDNoY3ZyX19ld29FeXJRRlFJMk5Uak5YVmdmSjFKZVZjM0I4QUV2aVZCbzFQN25JaG1aV3M?oc=5",
-      "description": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed The420.in",
-      "source": "The420.in",
-      "source_url": "https://the420.in",
-      "source_domain": "the420.in",
-      "published_at": "2026-10-27T13:35:03+00:00",
-      "published_display": "27 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "The420.in",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQW44akpNOEtBbWdGY1kwVG1qRDQ4eHMySXk3SjY4NTBTWmJ6NHFvblJBQWlHeC1VaWw5YndSeDNoY3ZyX19ld29FeXJRRlFJMk5Uak5YVmdmSjFKZVZjM0I4QUV2aVZCbzFQN25JaG1aV3M?oc=5",
-          "domain": "the420.in",
-          "published_at": "2026-10-27T13:35:03+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "breach confirms cyber exposed may patient records"
-    },
-    {
       "id": "5e4a85c93e79e4486964",
       "company": "Labcorp",
       "title": "Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests",
@@ -4091,6 +4255,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "accessed affected data exposed lab number ordering patient people portal quanum records remain through unknown were"
+    },
+    {
+      "id": "84c839ce305c198e4c6b",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQW44akpNOEtBbWdGY1kwVG1qRDQ4eHMySXk3SjY4NTBTWmJ6NHFvblJBQWlHeC1VaWw5YndSeDNoY3ZyX19ld29FeXJRRlFJMk5Uak5YVmdmSjFKZVZjM0I4QUV2aVZCbzFQN25JaG1aV3M?oc=5",
+      "description": "Quest Diagnostics Confirms Cyber Breach, Patient Records May Be Exposed The 420.in",
+      "source": "The 420.in",
+      "source_url": "https://the420.in",
+      "source_domain": "the420.in",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "The 420.in",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PQW44akpNOEtBbWdGY1kwVG1qRDQ4eHMySXk3SjY4NTBTWmJ6NHFvblJBQWlHeC1VaWw5YndSeDNoY3ZyX19ld29FeXJRRlFJMk5Uak5YVmdmSjFKZVZjM0I4QUV2aVZCbzFQN25JaG1aV3M?oc=5",
+          "domain": "the420.in",
+          "published_at": "2026-10-27T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "breach confirms cyber exposed may patient records"
     },
     {
       "id": "c130f0238a84bfb828eb",
@@ -4187,36 +4375,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "accessed breach data know patient records should what yorkers"
-    },
-    {
-      "id": "0f4de0332854b04b4de8",
-      "company": "Quest Diagnostics",
-      "title": "Form 144 QUEST DIAGNOSTICS For: 26 October By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
-      "description": "Form 144 QUEST DIAGNOSTICS INC For: 26 October By Investing.com Investing.com Canada",
-      "source": "Investing.com Canada",
-      "source_url": "https://ca.investing.com",
-      "source_domain": "ca.investing.com",
-      "published_at": "2026-10-26T14:22:39+00:00",
-      "published_display": "26 Oct 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-10-26T14:22:39+00:00"
-        },
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTRydVBIZ01OZDZpMVBCRkNiMEZCT0tudkFKVEJ2OTM3SEVMQzBRNm5hMmtnQTliVW5DWWJCRGQ1dUE2dXpKMmlLVEhUQVd2di0zMGRmY1RBV2lNZ3ZGWm9PRlk5clBWZmRZbWs2cnZPcUo3VGZCWHE4cTM3UnQ5NTJuUVVwLXJRcVEtZXFyNnhyS09nVE9rSnplY05ORnFTN3NJOUduVkpqZw?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-10-26T14:26:31+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "144 com form investing october"
     },
     {
       "id": "20d70dcaf999775ad400",
@@ -4349,6 +4507,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "after also alzheimer announcing strong test upgraded while"
+    },
+    {
+      "id": "0f4de0332854b04b4de8",
+      "company": "Quest Diagnostics",
+      "title": "Form 144 QUEST DIAGNOSTICS For: 26 October By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
+      "description": "Form 144 QUEST DIAGNOSTICS INC For: 26 October By Investing.com Investing.com Canada",
+      "source": "Investing.com Canada",
+      "source_url": "https://ca.investing.com",
+      "source_domain": "ca.investing.com",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "published_display": "26 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeXNfa3d0TktKVEtCYllIS2hfWDJYTGdybzNxVFBrSzJaNlVfeGtvV1JWUUk5RnRuNllfd3Fkc2h6MktYZ01SY0JCUkp1NkRHZmRSNDVEX1d1clNLYS1jb3BMaVpHSWYwd0xOUjBpWEEzdWhHN3FRb1lTSmdEWWRtMzNlVHRyazdrRDF0SWFSTmtkTXBLMmkxMXlCbFh6X1BWSkVYN1FsZ3UzQQ?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-26T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYTRydVBIZ01OZDZpMVBCRkNiMEZCT0tudkFKVEJ2OTM3SEVMQzBRNm5hMmtnQTliVW5DWWJCRGQ1dUE2dXpKMmlLVEhUQVd2di0zMGRmY1RBV2lNZ3ZGWm9PRlk5clBWZmRZbWs2cnZPcUo3VGZCWHE4cTM3UnQ5NTJuUVVwLXJRcVEtZXFyNnhyS09nVE9rSnplY05ORnFTN3NJOUduVkpqZw?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-26T14:26:31+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "144 com form investing october"
     },
     {
       "id": "638bfe0fc23bccfa0b17",
@@ -8107,9 +8295,15 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONndPVHVOZHV2LUNiS2JTQXlCYTZmOVc5QXpQLXAydUNMakE5eVF5bEFiRk1xRUxJMjlJZWFuSlV3U3k0a1BzdjlDYzdTdXdZLVRuV3hWRlBwem5TWDlvZFRUU3RNZFQzYk5Dc0RmbzVUZVcySGtxUzlYekFQaE4xZ1liZWlfd2poYndvTkFzSzNkd1c4dzFnMw?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-23T07:00:00+00:00"
+        },
+        {
+          "name": "Voice of Healthcare",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcjd5U3VZVkRPYU95N2lfQUlRNTAxZlFjMmxnaUxWRXVQM1pOY093Mko5bUFqOGFRSWdjeGZyRVJNREZRaWJCNHBvbUtYU3JseTJ4RHpPS0ROWE4zSVQ1X0phQl9QNTd5YmxNRlIwTlpvTm1McjdfeW5teno1NzJFczFoVzlGZUotQzJWR1JEekY1R25JWmJWajFIN01DblUtY3l4OGJGMUsybVk?oc=5",
+          "domain": "vohnetwork.com",
+          "published_at": "2026-10-27T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "access cancer cervical collaborate expand home hpv screening waters"
     },
     {
@@ -15242,36 +15436,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "can further growth profit rally"
-    },
-    {
-      "id": "3e1e4f3db6aa38de16d8",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics updates health tests with Humanity Biological Age insights as stock edges higher",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXMwSFVrVmZHOHpiSjRBaUhUQlVmYk9CcW5uNFA5SEJDZlFVTnhzYWxMS3I2RDhJS3RnaVZWUjY0dDdzei1JTEI0UktvMUdEWFBqWjVLU25ObjhveVJ3cXJ3c0xnS3N1QVdibDkyYkVyR2E4M3g2QmxLZHJlb3VJRnpJNE9fc2ctbG4xemIwTUtsc1pq?oc=5",
-      "description": "Quest Diagnostics updates health tests with Humanity Biological Age insights as stock edges higher Traders Union",
-      "source": "Traders Union",
-      "source_url": "https://tradersunion.com",
-      "source_domain": "tradersunion.com",
-      "published_at": "2026-08-26T15:15:33+00:00",
-      "published_display": "26 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Traders Union",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMXMwSFVrVmZHOHpiSjRBaUhUQlVmYk9CcW5uNFA5SEJDZlFVTnhzYWxMS3I2RDhJS3RnaVZWUjY0dDdzei1JTEI0UktvMUdEWFBqWjVLU25ObjhveVJ3cXJ3c0xnS3N1QVdibDkyYkVyR2E4M3g2QmxLZHJlb3VJRnpJNE9fc2ctbG4xemIwTUtsc1pq?oc=5",
-          "domain": "tradersunion.com",
-          "published_at": "2026-08-26T15:15:33+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "age biological edges health higher humanity insights stock tests updates"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 18,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-24T18:17:00+05:30",
-  "next_update_display": "24 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-25T06:17:00+05:30",
+  "next_update_display": "25 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
