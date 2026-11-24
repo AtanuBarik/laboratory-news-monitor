@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-24T05:53:50.901063+05:30",
-  "generated_at_display": "24 Nov 2026, 5:53 AM IST",
-  "item_count": 514,
-  "raw_relevant_item_count": 626,
-  "duplicates_merged": 51,
+  "generated_at": "2026-11-24T15:57:15.883429+05:30",
+  "generated_at_display": "24 Nov 2026, 3:57 PM IST",
+  "item_count": 513,
+  "raw_relevant_item_count": 635,
+  "duplicates_merged": 60,
   "failures": [],
   "items": [
     {
@@ -427,9 +427,15 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTVES1haT1BIeE90bFJ0Q0JlUmtNbXFEaFpfMnRjcFJPNkNvbU1FUWdMcm5ScDVzcWN2WGhlX2w0MjJaQzJ1cWtMZ3k1aUdUWExhSFhpS09nVU5Ia2dObm1lRmxoMFJMbHN6YUFKazl1SzlhOXNEeW84cDV3MlZERUVTOTFidVh2TDhHemNWaXBwX2RXVkwyQVJPSWtCbUF6X19fNzA2TVI0SllnV2t0TjZXcmpZRHdXN0wyamxWUlI2QkQwREVmQkc4M1k5ODZ1cEpqWWtGSHQ?oc=5",
           "domain": "marketscreener.com",
           "published_at": "2026-11-17T22:01:13+00:00"
+        },
+        {
+          "name": "Gotrade",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnRWWTF3OXAwZ0hUQXV4QmFZMXRFc21qZDdmU3pTeHVzRWkwQ3FtaUhYYS10ekNtV1Nad0hwLVhhWDJVeWVCTWdBX1d6dVlOb3dXd3IyNzR1NjlSVE82ZEVyam1ZaldLRXJVZC1XQWFuVEhaOUg0YUJ1OFV6RkZBcnpoZkY5OWJjZzRnSjdaMEdseW9CcGZr?oc=5",
+          "domain": "heygotrade.com",
+          "published_at": "2026-11-18T04:40:31+00:00"
         }
       ],
-      "coverage_count": 4,
+      "coverage_count": 5,
       "event_signature": "assembly brazil clinical collaboration dedicated expand fleury future grupo kit operations through trial"
     },
     {
@@ -1243,19 +1249,25 @@
       "event_signature": "conference global jefferies london speak"
     },
     {
-      "id": "eed5c4ca48852fea40aa",
+      "id": "167fb6dcb462f0096527",
       "company": "Labcorp",
       "title": "Labcorp Reaches $2.3M Settlement With 44 Attorneys General Over Debt Collector Data Breach",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbFVnVTRadktUWDJEYkx4RkFfbHplb2dtcHZTZVF3Wk1EbVRTTHZpdUllWk9FQzBkbm1oWGhpWXZ4dmliVWlYLVVSVG05VDh1Q0puVjkxMTR1RlpiRkJjLVgyWjFEa3RsRkpnUXZKb05RZ0VudGMzQll5M0xQbTltamdSLUxENVJhaWt2WHlFYnhWcVpTV2NlY2p3NWtSbHFQQVVXMTdvenVjUVhqVUtPTFhRTnVyOEVIOUpKZHVQdlNUT1JVazlPQlBlUV9HZ2ItUkliR1RSSWk5NTBsMDVxQ0d1aGZKY3VmeVJBYUtESlA3MnZzZEk2dnN0ZUxPUnhpNkVQTjdpdXFmLVU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb0dXcV82T3ZydHVzRzV3REo2RWdxNWsxcGZwdVlVS2pHMHllbVR3VVhraW9uZjRtUkVBQmY5Z3NUSEh3d2JVc2EwdmJVdDkyN2Y3aGViZklUWktsLTFHVjB3dlhNQTdvY2FWT0xKcGRiMFN5SzBqLUlwQzlkWjJETVJQOFZfaTBpLS1PdFdqVDdsUmRVdTRUcnV6cmdJRlBCNXRaSWVMMFl0N2JtSlp1em9mSkVKcndUYk1jVkx0YXU5VWRnT0UyLThQbzVnNk9YNlZoRG9UUm1zdFA2NG54Z05ja1NyQjh4cVU3R09ZWTdBYWUwam5ZT3Z5bFJZY2ttYTlCV3B5UjA?oc=5",
       "description": "Labcorp Reaches $2.3M Settlement With 44 Attorneys General Over Debt Collector Data Breach Legal 500",
       "source": "Legal 500",
       "source_url": "https://www.legal500.com",
       "source_domain": "legal500.com",
-      "published_at": "2026-11-09T14:15:00+00:00",
+      "published_at": "2026-11-09T09:03:27+00:00",
       "published_display": "09 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Legal 500",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb0dXcV82T3ZydHVzRzV3REo2RWdxNWsxcGZwdVlVS2pHMHllbVR3VVhraW9uZjRtUkVBQmY5Z3NUSEh3d2JVc2EwdmJVdDkyN2Y3aGViZklUWktsLTFHVjB3dlhNQTdvY2FWT0xKcGRiMFN5SzBqLUlwQzlkWjJETVJQOFZfaTBpLS1PdFdqVDdsUmRVdTRUcnV6cmdJRlBCNXRaSWVMMFl0N2JtSlp1em9mSkVKcndUYk1jVkx0YXU5VWRnT0UyLThQbzVnNk9YNlZoRG9UUm1zdFA2NG54Z05ja1NyQjh4cVU3R09ZWTdBYWUwam5ZT3Z5bFJZY2ttYTlCV3B5UjA?oc=5",
+          "domain": "legal500.com",
+          "published_at": "2026-11-09T09:03:27+00:00"
+        },
         {
           "name": "Legal 500",
           "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbFVnVTRadktUWDJEYkx4RkFfbHplb2dtcHZTZVF3Wk1EbVRTTHZpdUllWk9FQzBkbm1oWGhpWXZ4dmliVWlYLVVSVG05VDh1Q0puVjkxMTR1RlpiRkJjLVgyWjFEa3RsRkpnUXZKb05RZ0VudGMzQll5M0xQbTltamdSLUxENVJhaWt2WHlFYnhWcVpTV2NlY2p3NWtSbHFQQVVXMTdvenVjUVhqVUtPTFhRTnVyOEVIOUpKZHVQdlNUT1JVazlPQlBlUV9HZ2ItUkliR1RSSWk5NTBsMDVxQ0d1aGZKY3VmeVJBYUtESlA3MnZzZEk2dnN0ZUxPUnhpNkVQTjdpdXFmLVU?oc=5",
@@ -1263,7 +1275,7 @@
           "published_at": "2026-11-09T14:15:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "attorneys breach collector data debt general over reaches settlement"
     },
     {
@@ -15254,36 +15266,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "age biological edges health higher humanity insights stock tests updates"
-    },
-    {
-      "id": "35d4ac99a6dbdff14d3c",
-      "company": "Labcorp",
-      "title": "Labcorp raises annual profit forecast on strong testing demand",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5",
-      "description": "Labcorp raises annual profit forecast on strong testing demand AOL.ca",
-      "source": "AOL.ca",
-      "source_url": "https://www.aol.ca",
-      "source_domain": "aol.ca",
-      "published_at": "2026-08-26T02:04:41+00:00",
-      "published_display": "26 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AOL.ca",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnNNeUFxVTlxSGFwMDBycHNIbGd3bFBXTlBTZ1lzM1FHZHFmUzZ4TnJ3TFJ0QUpacFZicEVGTFQzaURnYktrN0txcXp1TDVvMVZRbDJwR1hsbG9pNkZzNVcyUzlzVEdwTWJSZW8xQUNoaWp2M1MyV0FoSlVJWTI2OFJHN1VmdDg?oc=5",
-          "domain": "aol.ca",
-          "published_at": "2026-08-26T02:04:41+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "annual demand forecast profit raises strong testing"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 62,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-24T06:17:00+05:30",
-  "next_update_display": "24 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-24T18:17:00+05:30",
+  "next_update_display": "24 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

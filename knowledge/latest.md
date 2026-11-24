@@ -1,6 +1,6 @@
 # Laboratory Market News - Latest Events
 
-- **Repository generated:** 24 Nov 2026, 5:53 AM IST
+- **Repository generated:** 24 Nov 2026, 3:57 PM IST
 - **Distinct events in this file:** 250
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -194,13 +194,14 @@
 - **Company:** Labcorp
 - **Publication date:** 17 Nov 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 4
+- **Coverage count:** 5
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMitAJBVV95cUxPN3BkN2tlbmV6WHhJRU1yN3RFelFTU1pBY0dsSEtZYTkteGxUTEQ0d0FrYUM0S3ptQmJTN3FCQVZycm9mbUpxdGpHYUtaSTBBaFZOT1RSN1VDMkZPMUo4R3NId19HT2VucXR0UVhsQlZKMHFqajNGUEJYd0w2SWZycHRyY21aekRZY3pCOTVCZW9tX2d5eVlsbDlFM0JmTkQ5MHY4VEJpMEozYXNNeGJGaFRjQUF0UXduUmJvYklSQ0tvWGRMT2tBNnctQmZnYTBXaXl3TGNINU81eHJtQUkxWmRacHRSS0Q3VzVyOWc3QmNnOFVLM1psQzNfSFA5UWlSTU9BeGd4NjktRUFnN3VCMjJ6cldzSzBieHhZQWJCbUNSaG1kX3RVbFBfT1pqSjBVQ3BLbg?oc=5
   - StreetInsider: https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHRudkktZHRnRVFXUGxFaV9ROE5HZGZpZGpqb0RkTm1kREJfQkY1TVNnajhTU3NVWm5jX05YaEhWakM4QXRlU2ZpNjhQOXNlWFlsZE5zZmtUekpHb2JZUXYxVUVxUEk4VTZLWE9zU1ZoTEhiOUNlUk5DMkVYOWZ1X3p0bGlFS2l0ZDBpMzFTdlJtMlZpT3FNUWJjT2RUdjFpVFVmX3lJN0dYNkhrWHg3VlVQdjBCX1hkc2FTYlV5NTdPX0VCMWc?oc=5
   - GuruFocus: https://news.google.com/rss/articles/CBMivwFBVV95cUxNa1FCZnBFRU9RWkhqNVBGeHFsZ3JNNjZCS2Z4UnJneGlaVFJDdnVBQ29JczRzT3M4SXBOcnI3Z3VVVjhUV0JoQWlmWVo4Z25VVENiQ19ITDRXdXNvODFadGdUa19aUlFYQTVuWm1ONFpzV0M3RUdnQkNLUXIyZjdrZm03MDlPYi02dGU3MnF5a0lNSHJJNWFYLUNvOEJ5bDZuWFBDR3NVR1A0X1k4dW9yMURHakdMaDNMTmQzSzQ2dw?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTVES1haT1BIeE90bFJ0Q0JlUmtNbXFEaFpfMnRjcFJPNkNvbU1FUWdMcm5ScDVzcWN2WGhlX2w0MjJaQzJ1cWtMZ3k1aUdUWExhSFhpS09nVU5Ia2dObm1lRmxoMFJMbHN6YUFKazl1SzlhOXNEeW84cDV3MlZERUVTOTFidVh2TDhHemNWaXBwX2RXVkwyQVJPSWtCbUF6X19fNzA2TVI0SllnV2t0TjZXcmpZRHdXN0wyamxWUlI2QkQwREVmQkc4M1k5ODZ1cEpqWWtGSHQ?oc=5
+  - Gotrade: https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnRWWTF3OXAwZ0hUQXV4QmFZMXRFc21qZDdmU3pTeHVzRWkwQ3FtaUhYYS10ekNtV1Nad0hwLVhhWDJVeWVCTWdBX1d6dVlOb3dXd3IyNzR1NjlSVE82ZEVyam1ZaldLRXJVZC1XQWFuVEhaOUg0YUJ1OFV6RkZBcnpoZkY5OWJjZzRnSjdaMEdseW9CcGZr?oc=5
 
 **Feed description:** Labcorp to Expand Clinical Trial Operations in Brazil with Dedicated Kit Assembly and Future Laboratory Operations through Collaboration with Grupo Fleury PR Newswire
 
@@ -592,9 +593,10 @@
 - **Company:** Labcorp
 - **Publication date:** 09 Nov 2026
 - **Category:** Other
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
+  - Legal 500: https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb0dXcV82T3ZydHVzRzV3REo2RWdxNWsxcGZwdVlVS2pHMHllbVR3VVhraW9uZjRtUkVBQmY5Z3NUSEh3d2JVc2EwdmJVdDkyN2Y3aGViZklUWktsLTFHVjB3dlhNQTdvY2FWT0xKcGRiMFN5SzBqLUlwQzlkWjJETVJQOFZfaTBpLS1PdFdqVDdsUmRVdTRUcnV6cmdJRlBCNXRaSWVMMFl0N2JtSlp1em9mSkVKcndUYk1jVkx0YXU5VWRnT0UyLThQbzVnNk9YNlZoRG9UUm1zdFA2NG54Z05ja1NyQjh4cVU3R09ZWTdBYWUwam5ZT3Z5bFJZY2ttYTlCV3B5UjA?oc=5
   - Legal 500: https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbFVnVTRadktUWDJEYkx4RkFfbHplb2dtcHZTZVF3Wk1EbVRTTHZpdUllWk9FQzBkbm1oWGhpWXZ4dmliVWlYLVVSVG05VDh1Q0puVjkxMTR1RlpiRkJjLVgyWjFEa3RsRkpnUXZKb05RZ0VudGMzQll5M0xQbTltamdSLUxENVJhaWt2WHlFYnhWcVpTV2NlY2p3NWtSbHFQQVVXMTdvenVjUVhqVUtPTFhRTnVyOEVIOUpKZHVQdlNUT1JVazlPQlBlUV9HZ2ItUkliR1RSSWk5NTBsMDVxQ0d1aGZKY3VmeVJBYUtESlA3MnZzZEk2dnN0ZUxPUnhpNkVQTjdpdXFmLVU?oc=5
 
 **Feed description:** Labcorp Reaches $2.3M Settlement With 44 Attorneys General Over Debt Collector Data Breach Legal 500

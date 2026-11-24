@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T06:40:45.848362+05:30",
-  "generated_at_display": "24 Nov 2026, 6:40 AM IST",
+  "generated_at": "2026-11-24T15:57:19.247758+05:30",
+  "generated_at_display": "24 Nov 2026, 3:57 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 513,
+  "remaining_unsummarized_count": 512,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -56,7 +56,7 @@
       "published_at": "2026-11-17T21:30:00+00:00",
       "published_display": "17 Nov 2026",
       "official_source": false,
-      "coverage_count": 4,
+      "coverage_count": 5,
       "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPN3BkN2tlbmV6WHhJRU1yN3RFelFTU1pBY0dsSEtZYTkteGxUTEQ0d0FrYUM0S3ptQmJTN3FCQVZycm9mbUpxdGpHYUtaSTBBaFZOT1RSN1VDMkZPMUo4R3NId19HT2VucXR0UVhsQlZKMHFqajNGUEJYd0w2SWZycHRyY21aekRZY3pCOTVCZW9tX2d5eVlsbDlFM0JmTkQ5MHY4VEJpMEozYXNNeGJGaFRjQUF0UXduUmJvYklSQ0tvWGRMT2tBNnctQmZnYTBXaXl3TGNINU81eHJtQUkxWmRacHRSS0Q3VzVyOWc3QmNnOFVLM1psQzNfSFA5UWlSTU9BeGd4NjktRUFnN3VCMjJ6cldzSzBieHhZQWJCbUNSaG1kX3RVbFBfT1pqSjBVQ3BLbg?oc=5",
       "sources": [
         {
@@ -74,6 +74,10 @@
         {
           "name": "marketscreener.com",
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcTVES1haT1BIeE90bFJ0Q0JlUmtNbXFEaFpfMnRjcFJPNkNvbU1FUWdMcm5ScDVzcWN2WGhlX2w0MjJaQzJ1cWtMZ3k1aUdUWExhSFhpS09nVU5Ia2dObm1lRmxoMFJMbHN6YUFKazl1SzlhOXNEeW84cDV3MlZERUVTOTFidVh2TDhHemNWaXBwX2RXVkwyQVJPSWtCbUF6X19fNzA2TVI0SllnV2t0TjZXcmpZRHdXN0wyamxWUlI2QkQwREVmQkc4M1k5ODZ1cEpqWWtGSHQ?oc=5"
+        },
+        {
+          "name": "Gotrade",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWnRWWTF3OXAwZ0hUQXV4QmFZMXRFc21qZDdmU3pTeHVzRWkwQ3FtaUhYYS10ekNtV1Nad0hwLVhhWDJVeWVCTWdBX1d6dVlOb3dXd3IyNzR1NjlSVE82ZEVyam1ZaldLRXJVZC1XQWFuVEhaOUg0YUJ1OFV6RkZBcnpoZkY5OWJjZzRnSjdaMEdseW9CcGZr?oc=5"
         }
       ]
     },
