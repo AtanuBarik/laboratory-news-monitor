@@ -1,11 +1,107 @@
 {
-  "generated_at": "2026-11-23T13:47:31.844431+05:30",
-  "generated_at_display": "23 Nov 2026, 1:47 PM IST",
-  "item_count": 510,
-  "raw_relevant_item_count": 620,
+  "generated_at": "2026-11-24T05:53:50.901063+05:30",
+  "generated_at_display": "24 Nov 2026, 5:53 AM IST",
+  "item_count": 514,
+  "raw_relevant_item_count": 626,
   "duplicates_merged": 51,
   "failures": [],
   "items": [
+    {
+      "id": "d159ac3bf676d817d4fa",
+      "company": "Labcorp",
+      "title": "OTraces Taps Labcorp for Biomarker Testing in Florida Prostate Cancer Trial",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1lrVGhxTkJCTGprOW9fUGtKNlg3YVNPcDRXOVZwSFgzNTFOdkU2Q2ZOalk1b3pSRDViVGY3aVFGQVZEbUo3YzE2dmxrYnVoYUt3NkRCSVBjbW93ZW9mWTJFM3QxUDRfV0RfYTJwd0ZwYmJZU0VvN2l5VzlEMlZub21tS29LdUgtN1ZWeXpSUVlQX3F0TXJFQlpieUJaa2pPY1pyVWhmcHR3NEpuMHg1eWNGQkI?oc=5",
+      "description": "OTraces Taps Labcorp for Biomarker Testing in Florida Prostate Cancer Trial Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-11-24T00:15:39+00:00",
+      "published_display": "24 Nov 2026",
+      "category": "Clinical, R&D",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ1lrVGhxTkJCTGprOW9fUGtKNlg3YVNPcDRXOVZwSFgzNTFOdkU2Q2ZOalk1b3pSRDViVGY3aVFGQVZEbUo3YzE2dmxrYnVoYUt3NkRCSVBjbW93ZW9mWTJFM3QxUDRfV0RfYTJwd0ZwYmJZU0VvN2l5VzlEMlZub21tS29LdUgtN1ZWeXpSUVlQX3F0TXJFQlpieUJaa2pPY1pyVWhmcHR3NEpuMHg1eWNGQkI?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-11-24T00:15:39+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "biomarker cancer florida otraces prostate taps testing trial"
+    },
+    {
+      "id": "76ed350ea4fc0865d1c0",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics stock hits all-time high at 263.26 USD",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkh3ZmFXNUQ1TGNTRU1DYXI3Rm1LUnVDX0JvWndlN0pncEhGQWtnb0dtS1YzQ3htOVhPUzVYSmNLSjJFeGJMc2NFSG5FU3c1OUJ4dV9IV1gyNVdwbGF2SE1xRHRPaDU5VlVTZzZCd3ptakF6dURNVGhsSFRDb2lHR01VWDdULW1qcWl1dHEyY20yMHplRVVGWHc2SGRjdG1xNGc4ZjNnTWF5eFZCaWNuUw?oc=5",
+      "description": "Quest Diagnostics stock hits all-time high at 263.26 USD Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-11-23T15:37:04+00:00",
+      "published_display": "23 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNkh3ZmFXNUQ1TGNTRU1DYXI3Rm1LUnVDX0JvWndlN0pncEhGQWtnb0dtS1YzQ3htOVhPUzVYSmNLSjJFeGJMc2NFSG5FU3c1OUJ4dV9IV1gyNVdwbGF2SE1xRHRPaDU5VlVTZzZCd3ptakF6dURNVGhsSFRDb2lHR01VWDdULW1qcWl1dHEyY20yMHplRVVGWHc2SGRjdG1xNGc4ZjNnTWF5eFZCaWNuUw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-11-23T15:37:04+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "263 all high hits stock time usd"
+    },
+    {
+      "id": "55295c492a23cc8ea449",
+      "company": "Labcorp",
+      "title": "Adam Schechter Plans Sale of 6,810 Labcorp Shares",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0xnVE5ncTBrZjk4ZUhQbE9tVm9fNk9kak5ya1dHa2FSTFNRcUpITjNVbkx6eHp1bjZmZTNIUnR0UWJ2TGVhTGU2c253azJaZlFuOEQ3WU0wVU5GWGRFejVLSG4tLVR5THc3U2dKVFdiS2JsejVsRWNBZEdMMXJMeXQ0VF85T1N5WFQ1ZUVNYzI?oc=5",
+      "description": "Adam Schechter Plans Sale of 6,810 Labcorp Shares kalkine.com",
+      "source": "kalkine.com",
+      "source_url": "https://kalkine.com",
+      "source_domain": "kalkine.com",
+      "published_at": "2026-11-23T14:52:11+00:00",
+      "published_display": "23 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "kalkine.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0xnVE5ncTBrZjk4ZUhQbE9tVm9fNk9kak5ya1dHa2FSTFNRcUpITjNVbkx6eHp1bjZmZTNIUnR0UWJ2TGVhTGU2c253azJaZlFuOEQ3WU0wVU5GWGRFejVLSG4tLVR5THc3U2dKVFdiS2JsejVsRWNBZEdMMXJMeXQ0VF85T1N5WFQ1ZUVNYzI?oc=5",
+          "domain": "kalkine.com",
+          "published_at": "2026-11-23T14:52:11+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "810 adam plans sale schechter shares"
+    },
+    {
+      "id": "dd3d1382a576bfea9482",
+      "company": "Quest Diagnostics",
+      "title": "How Is Quest Diagnostics Faring as Stocks Wobble?",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU196UndoYVpFaHZ3Y25sYjdPdlBFYjZsMXQwdnFaTHhNdTd3SzJjWUNmbGd6VTB0b21SRW8wX2RXVy00WGFkakllSFI1Wi1Xd0s0RHNmbmRCbW5XRVdDcnJ0a3p2TE5SNUs2VFJyVmNuazFHZzNxRjBPd2dVVVhHYTRKS01RMFhLaFh2S3pSU3FzRXlhdGp1Z2M3U2luMDFnQTRweg?oc=5",
+      "description": "How Is Quest Diagnostics (NYSE:DGX) Faring as Stocks Wobble? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-23T10:24:00+00:00",
+      "published_display": "23 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU196UndoYVpFaHZ3Y25sYjdPdlBFYjZsMXQwdnFaTHhNdTd3SzJjWUNmbGd6VTB0b21SRW8wX2RXVy00WGFkakllSFI1Wi1Xd0s0RHNmbmRCbW5XRVdDcnJ0a3p2TE5SNUs2VFJyVmNuazFHZzNxRjBPd2dVVVhHYTRKS01RMFhLaFh2S3pSU3FzRXlhdGp1Z2M3U2luMDFnQTRweg?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-23T10:24:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "faring how stocks wobble"
+    },
     {
       "id": "1c510da8964a781f6635",
       "company": "Sonic Healthcare",
@@ -59,7 +155,7 @@
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock price, news, quote and history",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance UK",
+      "description": "Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Singapore",
       "source": "Yahoo Finance UK",
       "source_url": "https://uk.finance.yahoo.com",
       "source_domain": "uk.finance.yahoo.com",
@@ -73,9 +169,15 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5",
           "domain": "uk.finance.yahoo.com",
           "published_at": "2026-11-21T09:25:20+00:00"
+        },
+        {
+          "name": "Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
+          "domain": "sg.finance.yahoo.com",
+          "published_at": "2026-11-22T10:00:27+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "history price quote stock"
     },
     {
@@ -15178,10 +15280,10 @@
       "event_signature": "annual demand forecast profit raises strong testing"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 61,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-23T18:17:00+05:30",
-  "next_update_display": "23 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-24T06:17:00+05:30",
+  "next_update_display": "24 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
