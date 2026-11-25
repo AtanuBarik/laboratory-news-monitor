@@ -1,7 +1,7 @@
 # Sonic Healthcare News
 
-- **Repository generated:** 25 Nov 2026, 2:43 PM IST
-- **Distinct events in this file:** 27
+- **Repository generated:** 26 Nov 2026, 3:29 AM IST
+- **Distinct events in this file:** 26
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
 
@@ -318,15 +318,3 @@
   - Kalkine Media: https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEx2YjFncTNnR1lPbnUzNDVBOWhHSWVtN3hzYUNXR2dJVUFGUWYwWnBKalJTVWJ3bUtqc0MyWmVkb2NTY3piMHppOHdZRWVnOEQ2RlJwWGNSZ3Zmdm4tWU5oSUxDblJBTDYzSlJQeWJzeTY2YTdJaHBieUhzR3pESnRmYzNJNDBoak9nd0M4OWFhTnNXX3prcDZVb01nTlhsTzZHemR3MDNiNnkwUU9ZLXI2MWotOHRuODdaLUNZQWVTb3NET1E?oc=5
 
 **Feed description:** Why Is Sonic Healthcare (ASX:SHL) in Focus as It Reaches guidance as synergies build? kalkinemedia.com
-
-## 27. Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?
-
-- **Company:** Sonic Healthcare
-- **Publication date:** 31 Aug 2026
-- **Category:** Leadership Changes
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Kalkine Media: https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5
-
-**Feed description:** Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? kalkinemedia.com

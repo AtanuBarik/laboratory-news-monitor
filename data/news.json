@@ -1,11 +1,83 @@
 {
-  "generated_at": "2026-11-25T14:43:46.709756+05:30",
-  "generated_at_display": "25 Nov 2026, 2:43 PM IST",
-  "item_count": 513,
-  "raw_relevant_item_count": 683,
-  "duplicates_merged": 83,
+  "generated_at": "2026-11-26T03:29:24.757205+05:30",
+  "generated_at_display": "26 Nov 2026, 3:29 AM IST",
+  "item_count": 504,
+  "raw_relevant_item_count": 717,
+  "duplicates_merged": 117,
   "failures": [],
   "items": [
+    {
+      "id": "b3df1c8b39db7f83f69a",
+      "company": "Quest Diagnostics",
+      "title": "Will Quest Diagnostics Find Support In Its Fundamentals?",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjE5R29wdm5rRlVFSDdrQ2ViWmdaYl80dnpkWXpiOVZXVk1HSmU4MXZVOUtFdWFCZHJ6cC0yNWRyaFoyWTBaazF6VDdnZUJYRWVud09pTGoyT1BRdVpJSHd6ZmtobUxwYURTdlRycG02ak5rTTQwSENqLWFFRGRSWXVtSzF5QVI0bDFmblZqUENaMF9kLW5SWmw2NmtTNndrcWFzRzlDWlo0YVlrQlE?oc=5",
+      "description": "Will Quest Diagnostics (NYSE:DGX) Find Support In Its Fundamentals? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-25T19:46:00+00:00",
+      "published_display": "25 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjE5R29wdm5rRlVFSDdrQ2ViWmdaYl80dnpkWXpiOVZXVk1HSmU4MXZVOUtFdWFCZHJ6cC0yNWRyaFoyWTBaazF6VDdnZUJYRWVud09pTGoyT1BRdVpJSHd6ZmtobUxwYURTdlRycG02ak5rTTQwSENqLWFFRGRSWXVtSzF5QVI0bDFmblZqUENaMF9kLW5SWmw2NmtTNndrcWFzRzlDWlo0YVlrQlE?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-25T19:46:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "find fundamentals support will"
+    },
+    {
+      "id": "f04f4a1fc25c9c625b96",
+      "company": "Labcorp",
+      "title": "Labcorp Insider Sold Shares Worth $1,576,151, According to a Recent SEC Filing",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUkJXc0JoME04THo1dWxRZ19iRXdoRkdRMHljSlRCV2ZkT2xvZ01mbXJ4dm14V3lyTjRwcDhzOFBpT1VSNDQ3UUd1UDZkWGZ6eTNCcDVlRzJPVC1RV0dMaEV3d0E4c3duZG5CN1ZENnhyQ0g2ZV9yRHZMbEVhcGdVNHJtUmhfTEtzUTVqUVZvSVdqanhmQ3prSmJTelNqUzM4VUI0TTFFY0lEZnFvWmQzOFJUZFd6VHJMaWNsMG5CNjVTV09oOUMwUlpqVy1tY282MllwSg?oc=5",
+      "description": "Labcorp Holdings Insider Sold Shares Worth $1,576,151, According to a Recent SEC Filing www.marketscreener.com",
+      "source": "www.marketscreener.com",
+      "source_url": "https://www.marketscreener.com",
+      "source_domain": "marketscreener.com",
+      "published_at": "2026-11-25T18:19:13+00:00",
+      "published_display": "25 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUkJXc0JoME04THo1dWxRZ19iRXdoRkdRMHljSlRCV2ZkT2xvZ01mbXJ4dm14V3lyTjRwcDhzOFBpT1VSNDQ3UUd1UDZkWGZ6eTNCcDVlRzJPVC1RV0dMaEV3d0E4c3duZG5CN1ZENnhyQ0g2ZV9yRHZMbEVhcGdVNHJtUmhfTEtzUTVqUVZvSVdqanhmQ3prSmJTelNqUzM4VUI0TTFFY0lEZnFvWmQzOFJUZFd6VHJMaWNsMG5CNjVTV09oOUMwUlpqVy1tY282MllwSg?oc=5",
+          "domain": "marketscreener.com",
+          "published_at": "2026-11-25T18:19:13+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "151 576 according filing insider recent sec shares sold worth"
+    },
+    {
+      "id": "c3eb1afd4b6371e3c373",
+      "company": "Quest Diagnostics",
+      "title": "What Are Wall Street Analysts' Target Price for Quest Diagnostics Stock?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXFIS0dWdFBZUEhneHQ5S2xobWk3Z1c5Wlp0R3NtN1lYR2RCSHhMTHRVT2s1S0xKcTlOSzhSb0VMNGFpM2tJWG9BOFc2Xy1LcUd6SFQ1bzRYN1paNTl4VHY0bWJRMlZCeXp4NmVPY2hPNF9fYWZQY3lfc2VtTHNMZ2tPWGRHbS1Cdm15Y1FNclI4T3VuSW9zY1doQ2xxb1U?oc=5",
+      "description": "What Are Wall Street Analysts' Target Price for Quest Diagnostics Stock? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-25T13:27:45+00:00",
+      "published_display": "25 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdXFIS0dWdFBZUEhneHQ5S2xobWk3Z1c5Wlp0R3NtN1lYR2RCSHhMTHRVT2s1S0xKcTlOSzhSb0VMNGFpM2tJWG9BOFc2Xy1LcUd6SFQ1bzRYN1paNTl4VHY0bWJRMlZCeXp4NmVPY2hPNF9fYWZQY3lfc2VtTHNMZ2tPWGRHbS1Cdm15Y1FNclI4T3VuSW9zY1doQ2xxb1U?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-25T13:27:45+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "analysts are price stock street target wall what"
+    },
     {
       "id": "368b59536bd0a536925b",
       "company": "Sonic Healthcare",
@@ -35,7 +107,7 @@
       "company": "Quest Diagnostics",
       "title": "Final Trades: Quest Diagnostics, Amazon, CrowdStrike and United Therapeutics",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndCQkJ5WDJkLS1GZ3BaSlJNSkZCWFByN0IxbzE1SXNyMVJXWFFHVklPMUpyNUN4QUpMZ3ZQTXFNTGpvN0lqTERIRUlOMGxqd3Q0blNzcngzS0hYYnVRdXRzbmVfWlhGSjlpajRPY0wycF9hSGtPLXNIRWx5MnFrV29WUHRvQ3lvT0hhVmYtcUxmOG11Z2xuNklSNDR1QzFRQjlqWDBseHNabEhta3NjY29n?oc=5",
-      "description": "Final Trades: Quest Diagnostics, Amazon, CrowdStrike and United Therapeutics CNBC",
+      "description": "Amazon, Quest Diagnostics, United Therapeutics and a Tech Stock: CNBC’s ‘Final Trades’ Benzinga",
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "source_domain": "cnbc.com",
@@ -49,9 +121,15 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndCQkJ5WDJkLS1GZ3BaSlJNSkZCWFByN0IxbzE1SXNyMVJXWFFHVklPMUpyNUN4QUpMZ3ZQTXFNTGpvN0lqTERIRUlOMGxqd3Q0blNzcngzS0hYYnVRdXRzbmVfWlhGSjlpajRPY0wycF9hSGtPLXNIRWx5MnFrV29WUHRvQ3lvT0hhVmYtcUxmOG11Z2xuNklSNDR1QzFRQjlqWDBseHNabEhta3NjY29n?oc=5",
           "domain": "cnbc.com",
           "published_at": "2026-11-24T18:14:00+00:00"
+        },
+        {
+          "name": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUDlMQk5RSHk5QmhvT3B3bFRBTm9qS1JNcDNwbEtrM0lKT2gtZnpfeml5eFM5Z3hiTnBVWF9GMjFrb094d0NyYzZqQWVvZ0ZaODdIVUJlUDBhd0FubVJVeUpnTTRuZURndnNHRDlfenBtS3MxQmNiT2E3UGFrUkdkUGNJWXZWZ0JYNVpWZTZBTXh5bm8yVjNETU43Tkp2YXBfZlJ2QmJGUXg4NmZ5LWdxcGxkRUFveXFHZF94dWM5N3dDc1phOGJyS3dCelFyZkJXZTRHRWxncGROUW9DbHc?oc=5",
+          "domain": "benzinga.com",
+          "published_at": "2026-11-25T13:34:40+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "amazon crowdstrike final therapeutics trades united"
     },
     {
@@ -59,7 +137,7 @@
       "company": "Quest Diagnostics",
       "title": "DJO Whistleblower Law Group Helps Score a $13 Million Touchdown in Quest Diagnostics Kickback Case",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXJmWktiYmczT2dJRHdiWlRrRjV5TVhaU2hxeXEwQy1FXzgwekxwaEpKOWNTcksxMVdNTlBSOVp3bEw2UTlPdUgwYUo0VFdBQl9IZHd0elNNLUMwUHlTVURSeEM1TzU1WGJ0ZGt6V2J2WFYzM2dGUzZVbTdvV3JvVXlnQjJoZTJ6Y0lfZWhZQWVsOVpLMlAzcGtTblpRV3FFTXc4MWR2Yw?oc=5",
-      "description": "DJO Whistleblower Law Group Helps Score a $13 Million Touchdown in Quest Diagnostics Kickback Case Newswire",
+      "description": "DJO Whistleblower Law Group Helps Score a $13 Million Touchdown in Quest Diagnostics Kickback Case FinancialContent",
       "source": "Newswire",
       "source_url": "https://www.newswire.com",
       "source_domain": "newswire.com",
@@ -73,9 +151,15 @@
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXJmWktiYmczT2dJRHdiWlRrRjV5TVhaU2hxeXEwQy1FXzgwekxwaEpKOWNTcksxMVdNTlBSOVp3bEw2UTlPdUgwYUo0VFdBQl9IZHd0elNNLUMwUHlTVURSeEM1TzU1WGJ0ZGt6V2J2WFYzM2dGUzZVbTdvV3JvVXlnQjJoZTJ6Y0lfZWhZQWVsOVpLMlAzcGtTblpRV3FFTXc4MWR2Yw?oc=5",
           "domain": "newswire.com",
           "published_at": "2026-11-24T18:00:00+00:00"
+        },
+        {
+          "name": "FinancialContent",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE9hcnhfenVsX3hndVVUNTRjTWJCMEt1YXZvTWxmNHJxbmVzS1BGNG14UHJjSUxSOHRZMWh1TDV3M3pHMVdtNkhiTDdlQWdxN045eG5OZ1lIam9GaTcycEpoMmstU1BxZVpWb1hEakFrWnJ6eFNENmg1WXRQR1JHOUNVLVB2RjlvRVMtcGw4Z2VHYkhDdGh4cUpBSGxJR0V1anM5cDVCbWVyYWZPT2x4b2tjdW1mOUprQlNYX3ljUDZGNFpEa24tY1dpQ0JNMi1SdjNOdlRrZU5weUFIMWdpa2wzdzk0Yjk3eHFMNnN6V1U?oc=5",
+          "domain": "financialcontent.com",
+          "published_at": "2026-11-24T18:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "case djo helps kickback law million score touchdown whistleblower"
     },
     {
@@ -985,30 +1069,6 @@
       "event_signature": "evp insider president sale"
     },
     {
-      "id": "c786de5309d71e3922ab",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics: A Quality Dividend Stock for Income Investors",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjVEMHhZdTFJMG5URVZiRXNlOW5MaVZrQ0xFWWVzYVd1cXhMMW1JTXpMTXNIM1pCc3ZoTE1weEFDQ1JiVVNkTU56bjBxNWtCTGVrTlB2MFpiNzgySHYwZXZ6WWtDR1M2Zmgwbm10WnFianJDcjRVUk9QTldDcWlocDVtLWFzaXhXdE80cTJveGxIVTYxQVBnZGhfdXpKUzBuMmdQQTRud1VIaVdFN01DNmRwV0NpZUlwZ3pLMmFZZw?oc=5",
-      "description": "Quest Diagnostics (NYSE:DGX): A Quality Dividend Stock for Income Investors ChartMill",
-      "source": "ChartMill",
-      "source_url": "https://www.chartmill.com",
-      "source_domain": "chartmill.com",
-      "published_at": "2026-11-12T12:30:36+00:00",
-      "published_display": "12 Nov 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjVEMHhZdTFJMG5URVZiRXNlOW5MaVZrQ0xFWWVzYVd1cXhMMW1JTXpMTXNIM1pCc3ZoTE1weEFDQ1JiVVNkTU56bjBxNWtCTGVrTlB2MFpiNzgySHYwZXZ6WWtDR1M2Zmgwbm10WnFianJDcjRVUk9QTldDcWlocDVtLWFzaXhXdE80cTJveGxIVTYxQVBnZGhfdXpKUzBuMmdQQTRud1VIaVdFN01DNmRwV0NpZUlwZ3pLMmFZZw?oc=5",
-          "domain": "chartmill.com",
-          "published_at": "2026-11-12T12:30:36+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "dividend income investors quality stock"
-    },
-    {
       "id": "ee2e19a370ec336640f7",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics SVP Plewman sells $3.01 million in stock",
@@ -1037,6 +1097,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "million plewman sells stock svp"
+    },
+    {
+      "id": "c786de5309d71e3922ab",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics: A Quality Dividend Stock for Income Investors",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjVEMHhZdTFJMG5URVZiRXNlOW5MaVZrQ0xFWWVzYVd1cXhMMW1JTXpMTXNIM1pCc3ZoTE1weEFDQ1JiVVNkTU56bjBxNWtCTGVrTlB2MFpiNzgySHYwZXZ6WWtDR1M2Zmgwbm10WnFianJDcjRVUk9QTldDcWlocDVtLWFzaXhXdE80cTJveGxIVTYxQVBnZGhfdXpKUzBuMmdQQTRud1VIaVdFN01DNmRwV0NpZUlwZ3pLMmFZZw?oc=5",
+      "description": "Quest Diagnostics (NYSE:DGX): A Quality Dividend Stock for Income Investors ChartMill",
+      "source": "ChartMill",
+      "source_url": "https://www.chartmill.com",
+      "source_domain": "chartmill.com",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "published_display": "12 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONjVEMHhZdTFJMG5URVZiRXNlOW5MaVZrQ0xFWWVzYVd1cXhMMW1JTXpMTXNIM1pCc3ZoTE1weEFDQ1JiVVNkTU56bjBxNWtCTGVrTlB2MFpiNzgySHYwZXZ6WWtDR1M2Zmgwbm10WnFianJDcjRVUk9QTldDcWlocDVtLWFzaXhXdE80cTJveGxIVTYxQVBnZGhfdXpKUzBuMmdQQTRud1VIaVdFN01DNmRwV0NpZUlwZ3pLMmFZZw?oc=5",
+          "domain": "chartmill.com",
+          "published_at": "2026-11-12T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "dividend income investors quality stock"
     },
     {
       "id": "3c93f60e9f19e04f15dc",
@@ -12199,30 +12283,6 @@
       "event_signature": "alibaba biggest gamestop holding making more moves premarket stocks"
     },
     {
-      "id": "b8c337813587e094cd27",
-      "company": "Labcorp",
-      "title": "Labcorp Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0xjemFITkZPOWx4MnBaRzIwdW5QTFBTb3RZUjZJeWZRQ1VZdW9MRWxPUmhjRy1QQTlOanpUS1lNUDRoS21mV2JWZGZDVTVWOFJ3YUU3eEtuQTlrLUVfcFY1NWJzTjhzeHNVLTJqdDgxWmhsd2I5ak83UUdmUFhManJqdlIwNHl3dGx1WmpfaTNTMk53MmFwbWItUXpkdUVoREFsMG1nUQ?oc=5",
-      "description": "LH Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend https://www.dars.gov.et/",
-      "source": "https://www.dars.gov.et/",
-      "source_url": "https://www.dars.gov.et",
-      "source_domain": "dars.gov.et",
-      "published_at": "2026-09-22T07:00:00+00:00",
-      "published_display": "22 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "https://www.dars.gov.et/",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0xjemFITkZPOWx4MnBaRzIwdW5QTFBTb3RZUjZJeWZRQ1VZdW9MRWxPUmhjRy1QQTlOanpUS1lNUDRoS21mV2JWZGZDVTVWOFJ3YUU3eEtuQTlrLUVfcFY1NWJzTjhzeHNVLTJqdDgxWmhsd2I5ak83UUdmUFhManJqdlIwNHl3dGx1WmpfaTNTMk53MmFwbWItUXpkdUVoREFsMG1nUQ?oc=5",
-          "domain": "dars.gov.et",
-          "published_at": "2026-09-22T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 beat decline earnings eps estimate overshadowed revenue share trend"
-    },
-    {
       "id": "e91c042434a636de7902",
       "company": "Quest Diagnostics",
       "title": "Apple, Quest Diagnostics partner on in-app lab orders",
@@ -12469,36 +12529,6 @@
       "event_signature": "car crashes lincoln plaza shoppping"
     },
     {
-      "id": "18afb25ed038975713dc",
-      "company": "Labcorp",
-      "title": "Labcorp stock holds near recent highs after Q2 2026 earnings beat",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
-      "description": "Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat ad-hoc-news.de",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-20T10:08:18+00:00",
-      "published_display": "20 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-20T10:08:18+00:00"
-        },
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEotZW9vUTFjb0NmSmRoNXdnVHVKaXNzeUdueWxTZGo2V0RUUU5qWlJxV3JtbXhialJCSEk5cW1uVGVOd2VEODEzX1JQaUVDS3Z1am55N0t5SG1VNTFiSjBnVXpRcTBfdkpfZ2pCS2otTjhxLVFxampzeDNralZpODJYTjFRNWJRZTNRb1NoenF2Y0FSOGU0VFdHWmszU0d2QllxS2RJSG1hb2QyaUxKLTB3ejJYNjhDUXR3LUpDVWhfWXM3dm1F?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-21T10:33:26+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 after beat earnings highs holds near recent stock"
-    },
-    {
       "id": "66d804a767d11a73390c",
       "company": "Labcorp",
       "title": "Labcorp stock trades near recent highs after revenue growth and Q1 2026 update",
@@ -12619,30 +12649,6 @@
       "event_signature": "2026 call earnings transcript"
     },
     {
-      "id": "2d37535d0c871bc6264e",
-      "company": "Labcorp",
-      "title": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
-      "description": "Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-18T07:00:00+00:00",
-      "published_display": "18 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-18T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 beat earnings gains guidance stock updated"
-    },
-    {
       "id": "ce7869897003b5c9f2d8",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock gains on strong second quarter figures and Medicare survey impact",
@@ -12743,42 +12749,6 @@
       ],
       "coverage_count": 2,
       "event_signature": "app apple health lab team testing via"
-    },
-    {
-      "id": "ead40d2fdfdebbc0369d",
-      "company": "Labcorp",
-      "title": "Labcorp stock gains after Q2 2026 earnings and investor day guidance",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2tnaHB2ZEFObTBSMGttSEk2a0JtdlJuU0VaSHQyUlBFV05oRGxBUnBSV2JyWXo4UGxKNy1HZDR2NWNva3U2RlJJUTgxNjc1b2sydEF4ZXpvZGRwcC1mUlR0Z3d2Y1JMV3dTUHNWbVZ5N0RiNGZ4a1g1MkZwNjQ0bk9oZFhMaVdXN1RvZHpUMDJIUU1yYmVKOEpPS2pkeXFRbHJxTVFBdEVsa1A5YkZJeDlHYVJkVDA4NmdsUk1wQllZT1JhS2hUd1BDMA?oc=5",
-      "description": "Labcorp stock gains after Q2 2026 earnings and investor day guidance ad-hoc-news.de",
-      "source": "AD HOC NEWS",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-09-16T17:02:16+00:00",
-      "published_display": "16 Sep 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2tnaHB2ZEFObTBSMGttSEk2a0JtdlJuU0VaSHQyUlBFV05oRGxBUnBSV2JyWXo4UGxKNy1HZDR2NWNva3U2RlJJUTgxNjc1b2sydEF4ZXpvZGRwcC1mUlR0Z3d2Y1JMV3dTUHNWbVZ5N0RiNGZ4a1g1MkZwNjQ0bk9oZFhMaVdXN1RvZHpUMDJIUU1yYmVKOEpPS2pkeXFRbHJxTVFBdEVsa1A5YkZJeDlHYVJkVDA4NmdsUk1wQllZT1JhS2hUd1BDMA?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-16T17:02:16+00:00"
-        },
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-17T16:13:56+00:00"
-        },
-        {
-          "name": "AD HOC NEWS",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXpTZkJQcXVkRDNDVFlGcWlBVHNtWUZTcnAtcDhzVXJuRWlaZzR5V0pIaDNCTUNMYS0yV2lXR1pGbG1VZjBVcThNeVhmcUdRZE1zLTZFOGxHMWk0UHo2enY3SERsMVRXVkhHWDg0dnI4dFVxOHFNTUxkeUc5aEQ4dkRFSllYdGpIbE5Idlc1UWxhR3dBS3RqekJtMjdmZXZYVkw2YzBHRkQzd09rYmRWY1dGbkNNSkI4Y2JXWUhGWGtmMTN6WWlmY3BNOA?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-09-19T10:58:19+00:00"
-        }
-      ],
-      "coverage_count": 3,
-      "event_signature": "2026 after day earnings gains guidance investor stock"
     },
     {
       "id": "ebf1b07d4f380153b071",
@@ -13271,7 +13241,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q2 2026 Earnings Call Transcript",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-      "description": "Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com",
+      "description": "LH Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend https://www.dars.gov.et/",
       "source": "Fortune",
       "source_url": "https://fortune.com",
       "source_domain": "fortune.com",
@@ -13291,9 +13261,51 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
           "domain": "fortune.com",
           "published_at": "2026-09-19T05:46:59+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNV2tnaHB2ZEFObTBSMGttSEk2a0JtdlJuU0VaSHQyUlBFV05oRGxBUnBSV2JyWXo4UGxKNy1HZDR2NWNva3U2RlJJUTgxNjc1b2sydEF4ZXpvZGRwcC1mUlR0Z3d2Y1JMV3dTUHNWbVZ5N0RiNGZ4a1g1MkZwNjQ0bk9oZFhMaVdXN1RvZHpUMDJIUU1yYmVKOEpPS2pkeXFRbHJxTVFBdEVsa1A5YkZJeDlHYVJkVDA4NmdsUk1wQllZT1JhS2hUd1BDMA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-16T17:02:16+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaS00c0MzamR1SnVrZmJxXzNtSEU3UWhTQTVScWdGR05HQkVIVmdwX2JQREl1ZzFUUm1jbXdxUlc4aFdnV1lPVXlBSmtCdkJhYzhaNDNBTEluNVBlVlIwVl9KZHgyQUFqOWVuX1RGc2JKYUVFWU1zUWxqRzl0UWxiV1VOQkY4TXgwRlpYRGtOTERxcTJab3JZYTFUbEFnNlZPdmh5bk50X3FtWTJaTW9EakIyOVJVaTRNWG4yMEJ5SkhZUQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-17T16:13:56+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXpTZkJQcXVkRDNDVFlGcWlBVHNtWUZTcnAtcDhzVXJuRWlaZzR5V0pIaDNCTUNMYS0yV2lXR1pGbG1VZjBVcThNeVhmcUdRZE1zLTZFOGxHMWk0UHo2enY3SERsMVRXVkhHWDg0dnI4dFVxOHFNTUxkeUc5aEQ4dkRFSllYdGpIbE5Idlc1UWxhR3dBS3RqekJtMjdmZXZYVkw2YzBHRkQzd09rYmRWY1dGbkNNSkI4Y2JXWUhGWGtmMTN6WWlmY3BNOA?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-19T10:58:19+00:00"
+        },
+        {
+          "name": "ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ0JSY3pGT1VQV19CZTFJRlZPNDA5NWQ5TUFpeUZ6Wng1SjByZ0tackxnV0JRejJJdURoTDlhbFFvMkNOVGlObjdPSk9WMWpfQU96MXVWSUJLcjVvNEx6dEhHTjExV2RTdmVXc2FNZXFtS000MllrbWd4UnVha3BOOFM0LTZvZmZoZ2kwaEpSSlFmX0RtM2ZHZzhoMmZ6YWE2YTdFYzBydWtNaExST3MtclJRVGhmLXFTSVNMZFpLak1mNEY4UkRWOHE1VQ?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-18T07:00:00+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2VNODd2SVJzWXlldmJ4a213c2ttenpFYjlfMGxLczVXbGtZMm5JaGRPbFBVVmxzRmdFR1NZdjNCb1o4d1RxdVJCLTM3YVVDNWp1UjNZVkUyRGFiMlZhSG1jbjAtVmlaVndpN2Z4VEEzeE9lVHBsVzZhVFlaY1VtV1lxN0Q5bEhlYlprT2YtSFE2NmNobmVjMzBvd09wV3VLZ3NFTmZFcC1TRlNMMG1sTUtiOWNoMzNCbWpKT2hJdUZncXl6ZmlHV0J3bW95dw?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-20T10:08:18+00:00"
+        },
+        {
+          "name": "AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVEotZW9vUTFjb0NmSmRoNXdnVHVKaXNzeUdueWxTZGo2V0RUUU5qWlJxV3JtbXhialJCSEk5cW1uVGVOd2VEODEzX1JQaUVDS3Z1am55N0t5SG1VNTFiSjBnVXpRcTBfdkpfZ2pCS2otTjhxLVFxampzeDNralZpODJYTjFRNWJRZTNRb1NoenF2Y0FSOGU0VFdHWmszU0d2QllxS2RJSG1hb2QyaUxKLTB3ejJYNjhDUXR3LUpDVWhfWXM3dm1F?oc=5",
+          "domain": "ad-hoc-news.de",
+          "published_at": "2026-09-21T10:33:26+00:00"
+        },
+        {
+          "name": "https://www.dars.gov.et/",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0xjemFITkZPOWx4MnBaRzIwdW5QTFBTb3RZUjZJeWZRQ1VZdW9MRWxPUmhjRy1QQTlOanpUS1lNUDRoS21mV2JWZGZDVTVWOFJ3YUU3eEtuQTlrLUVfcFY1NWJzTjhzeHNVLTJqdDgxWmhsd2I5ak83UUdmUFhManJqdlIwNHl3dGx1WmpfaTNTMk53MmFwbWItUXpkdUVoREFsMG1nUQ?oc=5",
+          "domain": "dars.gov.et",
+          "published_at": "2026-09-22T07:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 9,
       "event_signature": "2026 call earnings transcript"
     },
     {
@@ -15134,222 +15146,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
-    },
-    {
-      "id": "e7242e0b5012cf6b5a57",
-      "company": "Labcorp",
-      "title": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5",
-      "description": "Labcorp launches next-gen Global Trial Connect to streamline clinical trials scanx.trade",
-      "source": "scanx.trade",
-      "source_url": "https://scanx.trade",
-      "source_domain": "scanx.trade",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "published_display": "31 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWnNfekg1dzRqcC1qbzBXdk1VUWFpWWhweTFCT1lyOVFENzRXbi03eDIyQ2VZNkZIUE9jZEFHVkpXYklib25FRXA2MHVZRjM5TTg2cmlQZkxTSktFblE0eDY2dWtQU193cFNvTmJHN3llcWgyclFGQUprNGpwVGxiODJLVnlScXVKQXR0X3ZTU3FMM3hadC1pODhmZjEtektWX3lBaVYxb3ZTaE11X19XVWY0SDJxUVdjTlRXZWhfbGY?oc=5",
-          "domain": "scanx.trade",
-          "published_at": "2026-08-31T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "clinical connect gen global launches next streamline trial trials"
-    },
-    {
-      "id": "f4adad9ddadf57122309",
-      "company": "Sonic Healthcare",
-      "title": "Is ASX 200 Sonic Healthcare Drawing Retirement Income Attention?",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5",
-      "description": "Is ASX 200 Sonic Healthcare (ASX:SHL) Drawing Retirement Income Attention? kalkinemedia.com",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-31T02:48:00+00:00",
-      "published_display": "31 Aug 2026",
-      "category": "Leadership Changes",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX2RJTlM5MnVBYVBVU3g3SHBRV2wxLXV3akFOY2NsVU96ZGt1dmZfXzF6VzhmdFhtaWh0NElHWEhZTkRLLU9PcktQWWNzZDdqTkt4a0FhTFlWc0NudTMwR3BhVzhCWUVUcVlZQndWQW1BbmtTTjhpbVNaT2Utd2ZuR3JUaTFxbXVFNk4tWTMyQndkU2U5QjhBN3hPWmJXN0QyQVZ2Vmh6bnZnck1XNUMwb25ZcE9pUGc?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-31T02:48:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "200 attention drawing income retirement"
-    },
-    {
-      "id": "78f83c99f40c88b7d91d",
-      "company": "Labcorp",
-      "title": "Labcorp Q2 2026 Earnings: EPS Beats Consensus, Stock Edges Lower - Slow Growth Warning",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
-      "description": "LH Q2 2026 Earnings: EPS of $4.99 Beats Consensus by 1.4% - Segment Revenue Breakdown vinanet.vn",
-      "source": "vinanet.vn",
-      "source_url": "http://vinanet.vn",
-      "source_domain": "vinanet.vn",
-      "published_at": "2026-08-29T13:37:36+00:00",
-      "published_display": "29 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0dmSjZJME1GbU5aQ0ZOaXZlbDdWUnR3VFBtS2R2SjNfbWE1ZFExMUtQMERJN29WVTE1OEpJSThOM3hfZHR1UXk2cENOazhHNFN0c3lLeGtoZV84RWI3TmJ0ZGtFdGc1YXRsT081cTE4V3ExMkpRbDdJMXpYRnR3bzQweE1tQ25BQUxDLWtkeHQ1dWV3akFsV2d0WW4tOTQ?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-08-29T13:37:36+00:00"
-        },
-        {
-          "name": "vinanet.vn",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV1NoX3J4SUZrMzVtRGd0cjd3RXJQV0x0S2JpVmZNaWF2bUktaXo3UmwzbURiQmkyMmlzYmNPSkM2eVlXekhjVkNabnN4RTdMY09KT19qaHNJVVRWbUkxa2ljcGRhNXI4dG43VTNjX0hsU2hqYlRmY2VIa2tOZThxNzZWRWtfZGVod0d2c29SZWhHSFZpOW9CWTl3?oc=5",
-          "domain": "vinanet.vn",
-          "published_at": "2026-09-03T17:33:01+00:00"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-09-05T19:27:59+00:00"
-        },
-        {
-          "name": "Fortune",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uZWJBcmIzaFdwRHpLSGg2RHowdl8wejNSMXRHT00yaUV0WERnQ2NxZ3N5TkRDZUQ0ZnZiZ3R0XzNTbTEyVVpyVld3RlotbHg2V2t5WWVYZVlwVVJBY0tvUU9uWUpkQlFGZkQzeF93bWI5T0hTeXMxOVFLRVA?oc=5",
-          "domain": "fortune.com",
-          "published_at": "2026-09-05T23:14:02+00:00"
-        }
-      ],
-      "coverage_count": 4,
-      "event_signature": "2026 beats consensus earnings edges eps growth lower slow stock warning"
-    },
-    {
-      "id": "013532cfb9d101e30902",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
-      "description": "Quest Diagnostics stock holds steady as investors weigh latest quarterly trends ad-hoc-news.de",
-      "source": "ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-29T07:00:00+00:00",
-      "published_display": "29 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeUhKQWMyU1BzcFdnYkxVOHRkcjVaZ081ZjJVWUM0c0d5T2xrOTlNRHVudGx1NkFmVHJQVlNXeUxwWGhKd3hpS2FLYWFGNDk5cmc3RVBsU2dXdEJ6dVRPOEVNdTJQUVVDVGJfRzhQaVBBd3dNa29hemExU0UyS0xnOGQ1c093S29BMVU5aG0xTGgySUJKNzMzWlFwcFdreXRkZ1lMNzN0VkZucjZaRkthTTNiOEZmbUc3TEJFY2VHSXpPbldYYVlvVklrczdEc2dN?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-29T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "holds investors quarterly steady stock trends weigh"
-    },
-    {
-      "id": "6f63e39716b5547c81a3",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Financials – Balance Sheet, Profit & Loss, Cash Flow",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVJczcxOXVvVEF1N1lEMWkwZ1pKVDVLajlLRE1SeHZ2UGZ6VUhHR1FJcXNaMXhIOW8zelE4TFVva0RhNmduRnhERUFweFVuZ2diUHZnS0dpRndpT2I2aWx3QWF3d29Vb2NCZFlkN1JGRlhocVZmdU5BbDRHMjQ5Z3RtblFqRkNqYW95bGpCWFQ3eVdpMGJqSmRVcDAtVVhFb2IxYW9B?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Financials – Balance Sheet, Profit & Loss, Cash Flow valueresearchonline.com",
-      "source": "Value Research",
-      "source_url": "https://www.valueresearchonline.com",
-      "source_domain": "valueresearchonline.com",
-      "published_at": "2026-08-28T17:44:00+00:00",
-      "published_display": "28 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Value Research",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWVJczcxOXVvVEF1N1lEMWkwZ1pKVDVLajlLRE1SeHZ2UGZ6VUhHR1FJcXNaMXhIOW8zelE4TFVva0RhNmduRnhERUFweFVuZ2diUHZnS0dpRndpT2I2aWx3QWF3d29Vb2NCZFlkN1JGRlhocVZmdU5BbDRHMjQ5Z3RtblFqRkNqYW95bGpCWFQ3eVdpMGJqSmRVcDAtVVhFb2IxYW9B?oc=5",
-          "domain": "valueresearchonline.com",
-          "published_at": "2026-08-28T17:44:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "balance cash financials flow loss profit sheet"
-    },
-    {
-      "id": "f5e967895f8f5d6625e2",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock climbs on a $3.12 EPS beat",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN08wYzE5X1FiVEFPVmxzU3JVM04xT1JxOVZkMFRSVko1Y2ROVHlpRGZKT0d1UTUySkJ0SHNHejNTVV9mYTNrTmE2MG1UTmdfQVU0UFA1dzU2OTlON1M2S0p1Wk8xQmlCaF9jeUdEOEloUGJCRE5lekRZZjVZSkJsNk9QNVlMQWN2NEk3R0J5bkY5UlZfdGxNWmJPaGRKS2stalZkLU82RGJWbnlIVzlodzRB?oc=5",
-      "description": "Quest Diagnostics stock climbs on a $3.12 EPS beat Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-28T15:36:13+00:00",
-      "published_display": "28 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN08wYzE5X1FiVEFPVmxzU3JVM04xT1JxOVZkMFRSVko1Y2ROVHlpRGZKT0d1UTUySkJ0SHNHejNTVV9mYTNrTmE2MG1UTmdfQVU0UFA1dzU2OTlON1M2S0p1Wk8xQmlCaF9jeUdEOEloUGJCRE5lekRZZjVZSkJsNk9QNVlMQWN2NEk3R0J5bkY5UlZfdGxNWmJPaGRKS2stalZkLU82RGJWbnlIVzlodzRB?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-28T15:36:13+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "beat climbs eps stock"
-    },
-    {
-      "id": "ebd836250a0dd1fee999",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics Shareholding Pattern – Promoters, FIIs & DIIs",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
-      "description": "Quest Diagnostics Incorporated (DGX) Shareholding Pattern – Promoters, FIIs & DIIs valueresearchonline.com",
-      "source": "Value Research",
-      "source_url": "https://www.valueresearchonline.com",
-      "source_domain": "valueresearchonline.com",
-      "published_at": "2026-08-28T14:43:00+00:00",
-      "published_display": "28 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Value Research",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWF4ZHlGWG04RHNmS3hpdURySkJqNVlLR2cyT2JnREhEY1FjNXRSM0tsZmxkcVgtTTFvRmtaQjhCcXBrWnExbll0bnktR3RwaHdCZHNpSEJ5Z1ZzSFNyT05FR0RIMWwxNDhBUHVwS00yMFB4RHNRcmJIZjlsQ2NzdUh6U3N1a0dUdTZGU1dRMHlwNTYwUm8zbnhNM0VmS2M?oc=5",
-          "domain": "valueresearchonline.com",
-          "published_at": "2026-08-28T14:43:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "diis fiis pattern promoters shareholding"
-    },
-    {
-      "id": "8eaf16b075579565324d",
-      "company": "Quest Diagnostics",
-      "title": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qndpc1N1c1RRbmZ3dTV3QkJiNURZQTF4cEV1RG10X3FjTDY3YVo5Z3RBUl84aHExZERwaTdpaV9qUVh3QV9zUG5NRGJNU3hRc003NFRB?oc=5",
-      "description": "C. K. Wang: Excited to Join Quest Diagnostics Oncology as Medical Director oncodaily.com",
-      "source": "Oncodaily",
-      "source_url": "https://oncodaily.com",
-      "source_domain": "oncodaily.com",
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "published_display": "28 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Oncodaily",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55Qndpc1N1c1RRbmZ3dTV3QkJiNURZQTF4cEV1RG10X3FjTDY3YVo5Z3RBUl84aHExZERwaTdpaV9qUVh3QV9zUG5NRGJNU3hRc003NFRB?oc=5",
-          "domain": "oncodaily.com",
-          "published_at": "2026-08-28T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "director excited join medical oncology wang"
     }
   ],
-  "low_value_items_removed": 0,
-  "post_prune_financial_duplicates_merged": 0,
+  "low_value_items_removed": 92,
+  "post_prune_financial_duplicates_merged": 4,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-25T18:17:00+05:30",
-  "next_update_display": "25 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-26T06:17:00+05:30",
+  "next_update_display": "26 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
