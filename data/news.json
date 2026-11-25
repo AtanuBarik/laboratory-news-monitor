@@ -1,13 +1,35 @@
 {
-  "generated_at": "2026-11-25T04:16:17.039178+05:30",
-  "generated_at_display": "25 Nov 2026, 4:16 AM IST",
-  "item_count": 518,
-  "raw_relevant_item_count": 613,
-  "duplicates_merged": 77,
-  "failures": [
-    "Sonic Healthcare: HTTP Error 429: Too Many Requests"
-  ],
+  "generated_at": "2026-11-25T14:43:46.709756+05:30",
+  "generated_at_display": "25 Nov 2026, 2:43 PM IST",
+  "item_count": 513,
+  "raw_relevant_item_count": 683,
+  "duplicates_merged": 83,
+  "failures": [],
   "items": [
+    {
+      "id": "368b59536bd0a536925b",
+      "company": "Sonic Healthcare",
+      "title": "Sonic Healthcare AGM Guidance Analysis: Pathology Volumes, Costs and Outlook",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGJXOVlaSGdHWjJtU3I1MWxVTVg5Zm02b0pMenEwckIxRllPNFg3TDVHaWRhWnhrQllNb1Z4UFJTaFQwVVZYNjUxeFIyWWxrSS1nVTRrZXNBUnBKVDA4N21TYk16ZnlWbWJTMmtkdUdWNmVYVzNua1EtRnJwcnZzNm54VHpQUV9HMUtJa0pvMkpxeFNSUm92dzVpd0pCX053OW05TFdIWHBXenN4Wnc2MnpfUmVaVmJLTGh1SVdXM0tERDMyY2c?oc=5",
+      "description": "Sonic Healthcare (ASX:SHL) AGM Guidance Analysis: Pathology Volumes, Costs and Outlook Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-25T01:03:00+00:00",
+      "published_display": "25 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTGJXOVlaSGdHWjJtU3I1MWxVTVg5Zm02b0pMenEwckIxRllPNFg3TDVHaWRhWnhrQllNb1Z4UFJTaFQwVVZYNjUxeFIyWWxrSS1nVTRrZXNBUnBKVDA4N21TYk16ZnlWbWJTMmtkdUdWNmVYVzNua1EtRnJwcnZzNm54VHpQUV9HMUtJa0pvMkpxeFNSUm92dzVpd0pCX053OW05TFdIWHBXenN4Wnc2MnpfUmVaVmJLTGh1SVdXM0tERDMyY2c?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-25T01:03:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "agm analysis costs guidance outlook pathology volumes"
+    },
     {
       "id": "0c3784764bbf7eafd7d9",
       "company": "Quest Diagnostics",
@@ -17,7 +39,7 @@
       "source": "CNBC",
       "source_url": "https://www.cnbc.com",
       "source_domain": "cnbc.com",
-      "published_at": "2026-11-24T18:41:57+00:00",
+      "published_at": "2026-11-24T18:14:00+00:00",
       "published_display": "24 Nov 2026",
       "category": "Other",
       "official_source": false,
@@ -26,7 +48,7 @@
           "name": "CNBC",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcndCQkJ5WDJkLS1GZ3BaSlJNSkZCWFByN0IxbzE1SXNyMVJXWFFHVklPMUpyNUN4QUpMZ3ZQTXFNTGpvN0lqTERIRUlOMGxqd3Q0blNzcngzS0hYYnVRdXRzbmVfWlhGSjlpajRPY0wycF9hSGtPLXNIRWx5MnFrV29WUHRvQ3lvT0hhVmYtcUxmOG11Z2xuNklSNDR1QzFRQjlqWDBseHNabEhta3NjY29n?oc=5",
           "domain": "cnbc.com",
-          "published_at": "2026-11-24T18:41:57+00:00"
+          "published_at": "2026-11-24T18:14:00+00:00"
         }
       ],
       "coverage_count": 1,
@@ -1845,30 +1867,6 @@
       "event_signature": "13m allegations based games giants illegal pays perks settle"
     },
     {
-      "id": "6ab68a3907c7f7a46080",
-      "company": "Labcorp",
-      "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
-      "description": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing Clinical Lab Products",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-11-06T19:05:52+00:00",
-      "published_display": "06 Nov 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-11-06T19:05:52+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acquisition completes expand health millennium testing toxicology"
-    },
-    {
       "id": "e42a070803e42fb58e0c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics Insider Sold Shares Worth $5,482,442, According to a Recent SEC Filing",
@@ -1993,6 +1991,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "expands options ramachandran stock subu worth"
+    },
+    {
+      "id": "6ab68a3907c7f7a46080",
+      "company": "Labcorp",
+      "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
+      "description": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing Clinical Lab Products",
+      "source": "Clinical Lab Products",
+      "source_url": "https://clpmag.com",
+      "source_domain": "clpmag.com",
+      "published_at": "2026-11-06T08:00:00+00:00",
+      "published_display": "06 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Clinical Lab Products",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObHdreGVPUGFIc2VHZUw5OTNVR19ISVQyak9hcVczejE4Rm9YcW1USFhoNE9mekl5Vi1hbGhuYnAtMHJtcUVmQUJyU25xXzBFckx0ZWZvM0M2M2pzNkdOUk1Xellya0wyOWx2eVp6SDhkampuTHRuT012TVJPZEpjLWlvbVowelJLc2Q5SzJfQXVqSjZyQ1Y3dzFDM3I0SDBjc2JmS0xZMi1qNFRsWGtIRFpfVGFwbFdTc21zSUN1amJiYkc0YUE?oc=5",
+          "domain": "clpmag.com",
+          "published_at": "2026-11-06T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisition completes expand health millennium testing toxicology"
     },
     {
       "id": "ec9e5f2d77aaba9c2d11",
@@ -2343,19 +2365,73 @@
       "event_signature": "charts coinbase dgxx live marketcap portugal price xstock"
     },
     {
-      "id": "c9459c5faf7cc6a30dbb",
+      "id": "c22389ef25c624e87c80",
       "company": "Labcorp",
-      "title": "Form 4 Labcorp: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5",
+      "title": "Labcorp executive Vaughn acquired 500 shares",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
+      "source": "Quantisnow",
+      "source_url": "https://www.quantisnow.com",
+      "source_domain": "quantisnow.com",
+      "published_at": "2026-11-03T15:27:20+00:00",
+      "published_display": "03 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+          "domain": "quantisnow.com",
+          "published_at": "2026-11-03T15:27:20+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "500 acquired executive shares vaughn"
+    },
+    {
+      "id": "dd191e07636067caee20",
+      "company": "Labcorp",
+      "title": "Labcorp CTO Oyegunwa acquired 370 shares",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
+      "description": "Labcorp Holdings (LH) CTO Oyegunwa acquired 370 shares Quantisnow",
+      "source": "Quantisnow",
+      "source_url": "https://www.quantisnow.com",
+      "source_domain": "quantisnow.com",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "published_display": "03 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
+          "domain": "quantisnow.com",
+          "published_at": "2026-11-03T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "370 acquired cto oyegunwa shares"
+    },
+    {
+      "id": "a5984fe7f7dfa4c11e6c",
+      "company": "Labcorp",
+      "title": "Form 4 Labcorp: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEZVR0VvWVZ5RTVKZkRCTGhUb1ZaT0kzR1Q0ajlDZ3NCQzVxMk1ub1RJc1Y0SWVzcy1ROGszNG5hRHV4MjZsRlJWdDhsbFZ0bF9pYUpuZlhVSHZaUGMzbGhNNFppMDY5YUhzYjVxeEN6U3FSRUVKZEtoenRvZWgzT05wc29EUjRpR0lud1pzUWxZYWlQbVM0eWRLRFc0eEo3QTNkR0N6TXBwVDZjbWJBZzN4c0JIbzktVTgyMFV3NW1jZ1VwRlM3Z0JYSGJfZ2pyM04yMmZ6eGFOb242Q1FGSFhR?oc=5",
       "description": "Form 4 Labcorp Holdings Inc: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-03T15:56:09+00:00",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-11-03T08:00:00+00:00",
       "published_display": "03 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEZVR0VvWVZ5RTVKZkRCTGhUb1ZaT0kzR1Q0ajlDZ3NCQzVxMk1ub1RJc1Y0SWVzcy1ROGszNG5hRHV4MjZsRlJWdDhsbFZ0bF9pYUpuZlhVSHZaUGMzbGhNNFppMDY5YUhzYjVxeEN6U3FSRUVKZEtoenRvZWgzT05wc29EUjRpR0lud1pzUWxZYWlQbVM0eWRLRFc0eEo3QTNkR0N6TXBwVDZjbWJBZzN4c0JIbzktVTgyMFV3NW1jZ1VwRlM3Z0JYSGJfZ2pyM04yMmZ6eGFOb242Q1FGSFhR?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-11-03T08:00:00+00:00"
+        },
         {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5",
@@ -2399,56 +2475,8 @@
           "published_at": "2026-11-08T16:02:00+00:00"
         }
       ],
-      "coverage_count": 7,
-      "event_signature": "bryan com evp form investing november president vaughn"
-    },
-    {
-      "id": "c22389ef25c624e87c80",
-      "company": "Labcorp",
-      "title": "Labcorp executive Vaughn acquired 500 shares",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
-      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
-      "source": "Quantisnow",
-      "source_url": "https://www.quantisnow.com",
-      "source_domain": "quantisnow.com",
-      "published_at": "2026-11-03T15:27:20+00:00",
-      "published_display": "03 Nov 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
-          "domain": "quantisnow.com",
-          "published_at": "2026-11-03T15:27:20+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "500 acquired executive shares vaughn"
-    },
-    {
-      "id": "dd191e07636067caee20",
-      "company": "Labcorp",
-      "title": "Labcorp CTO Oyegunwa acquired 370 shares",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
-      "description": "Labcorp Holdings (LH) CTO Oyegunwa acquired 370 shares Quantisnow",
-      "source": "Quantisnow",
-      "source_url": "https://www.quantisnow.com",
-      "source_domain": "quantisnow.com",
-      "published_at": "2026-11-03T15:27:20+00:00",
-      "published_display": "03 Nov 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5",
-          "domain": "quantisnow.com",
-          "published_at": "2026-11-03T15:27:20+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "370 acquired cto oyegunwa shares"
+      "coverage_count": 8,
+      "event_signature": "bryan evp form november president vaughn"
     },
     {
       "id": "3f2c51835c302912fc8d",
@@ -2667,28 +2695,28 @@
       "event_signature": "cancer inoviq ovarian partners test usa validate"
     },
     {
-      "id": "151570963751764ca91b",
+      "id": "01d7be272ce82575743e",
       "company": "Labcorp",
-      "title": "Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5",
-      "description": "Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests Bloomberg Law News",
-      "source": "Bloomberg Law News",
-      "source_url": "https://news.bloomberglaw.com",
-      "source_domain": "news.bloomberglaw.com",
-      "published_at": "2026-10-30T21:42:00+00:00",
-      "published_display": "30 Oct 2026",
+      "title": "Labcorp Nail Fungus Culture: Results and Review - View O01Y63Jvn",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaE1XdFZsb04tdnBLRnZ4QktUd3FLeGU3SDlOX3ZPWTJBdzBiN0xRZGpnMHIxVVl1NUZlX1Y4TU1vQ2RfZnM4U0t5M09kUDNQcy14cTFXN0J4b25lcGpaMjBoOGNsRklBVW5DbjR5RlB1Y2tDT0J5MkVOSEFFcWsxLVoxbnl1Ri00TWgyQlBCYm5mT2tEYzlQcjJWak80emhjbmR2aGNzMUpBaTM3bWJ5ZWVxVnp3cXpfdzZUQmdHZ1pFM2NlR3NRazdpQUtWUXhvQ0d4bS1VejhPQ3c4a1k2ZEotejg0N3Mwd2Jn?oc=5",
+      "description": "Labcorp Nail Fungus Culture: Results and Review - View O01Y63Jvn Comité Asesor de Vacunas de la AEP",
+      "source": "Comité Asesor de Vacunas de la AEP",
+      "source_url": "https://vacunasaep.org",
+      "source_domain": "vacunasaep.org",
+      "published_at": "2026-10-31T07:16:17+00:00",
+      "published_display": "31 Oct 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
-          "name": "Bloomberg Law News",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5",
-          "domain": "news.bloomberglaw.com",
-          "published_at": "2026-10-30T21:42:00+00:00"
+          "name": "Comité Asesor de Vacunas de la AEP",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaE1XdFZsb04tdnBLRnZ4QktUd3FLeGU3SDlOX3ZPWTJBdzBiN0xRZGpnMHIxVVl1NUZlX1Y4TU1vQ2RfZnM4U0t5M09kUDNQcy14cTFXN0J4b25lcGpaMjBoOGNsRklBVW5DbjR5RlB1Y2tDT0J5MkVOSEFFcWsxLVoxbnl1Ri00TWgyQlBCYm5mT2tEYzlQcjJWak80emhjbmR2aGNzMUpBaTM3bWJ5ZWVxVnp3cXpfdzZUQmdHZ1pFM2NlR3NRazdpQUtWUXhvQ0d4bS1VejhPQ3c4a1k2ZEotejg0N3Mwd2Jn?oc=5",
+          "domain": "vacunasaep.org",
+          "published_at": "2026-10-31T07:16:17+00:00"
         }
       ],
       "coverage_count": 1,
-      "event_signature": "gene hopkins johns over patented prenatal sues tests"
+      "event_signature": "culture fungus nail o01y63jvn results review view"
     },
     {
       "id": "a72c017c5f345cb689e8",
@@ -2835,6 +2863,30 @@
       "event_signature": "breach data exposing giant hits information lab patient personal records"
     },
     {
+      "id": "151570963751764ca91b",
+      "company": "Labcorp",
+      "title": "Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5",
+      "description": "Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests Bloomberg Law News",
+      "source": "Bloomberg Law News",
+      "source_url": "https://news.bloomberglaw.com",
+      "source_domain": "news.bloomberglaw.com",
+      "published_at": "2026-10-30T07:00:00+00:00",
+      "published_display": "30 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Bloomberg Law News",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5",
+          "domain": "news.bloomberglaw.com",
+          "published_at": "2026-10-30T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "gene hopkins johns over patented prenatal sues tests"
+    },
+    {
       "id": "aa779c48170cc6bdc65c",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock at EUR 227.05 in late October 29 quote",
@@ -2887,7 +2939,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5",
-      "description": "LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty StockStory",
+      "description": "LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty TradingView",
       "source": "StockStory",
       "source_url": "https://stockstory.org",
       "source_domain": "stockstory.org",
@@ -2901,9 +2953,15 @@
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5",
           "domain": "stockstory.org",
           "published_at": "2026-10-29T07:00:00+00:00"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0xkSnJ6UWRlcTdOcG9KdEUyX3RwZkl0dHhQdk9HSDJ1NnVjeG0wanc3aFRqWDA2bVE5V1p5cUlUVXM3ODV6YWlkTHVLa3RSaHBJRnpmdWV1bmtrSHhLd2ZMZmhvWnlvUzVlVTVnUGpSeTdjV0NDTUFUd1ZDcEpoUURiWDFxMzlJMHh5czNTR0ZWbXNJM0VJNHlkVFBPWURzNTJPZzB5cVNFeHNCLWhZUDVoOWxLR0FqTk1hOHBvUzBodVVRS01LNHFHbHNiRFExQjJ3QTFwcURNZDNiVmNOU3g4bW5DV3Q2NURn?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-10-29T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "acquisitions amid deep dive drive growth reimbursement specialty testing uncertainty"
     },
     {
@@ -3183,54 +3241,6 @@
       "event_signature": "2026 com expand investing margins quarter sixth slides straight"
     },
     {
-      "id": "7a85b8b22e777b4fa7ee",
-      "company": "Labcorp",
-      "title": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5",
-      "description": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb",
-      "source": "GenomeWeb",
-      "source_url": "https://www.genomeweb.com",
-      "source_domain": "genomeweb.com",
-      "published_at": "2026-10-28T14:37:00+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "GenomeWeb",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5",
-          "domain": "genomeweb.com",
-          "published_at": "2026-10-28T14:37:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "acquisitions active front jumps percent revenue"
-    },
-    {
-      "id": "499f4777b0482ebc256e",
-      "company": "Labcorp",
-      "title": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5",
-      "description": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada",
-      "source": "Investing.com Canada",
-      "source_url": "https://ca.investing.com",
-      "source_domain": "ca.investing.com",
-      "published_at": "2026-10-28T14:27:54+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5",
-          "domain": "ca.investing.com",
-          "published_at": "2026-10-28T14:27:54+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 beats call earnings estimates outlook raises transcript"
-    },
-    {
       "id": "119cac1cd7714acbdba9",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics stock hits all-time high at 249.1 USD",
@@ -3253,36 +3263,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "249 all high hits stock time usd"
-    },
-    {
-      "id": "aa1d568389a8fe11ea7b",
-      "company": "Labcorp",
-      "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
-      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record",
-      "source": "Winston-Salem Journal",
-      "source_url": "https://journalnow.com",
-      "source_domain": "journalnow.com",
-      "published_at": "2026-10-28T14:15:00+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Winston-Salem Journal",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
-          "domain": "journalnow.com",
-          "published_at": "2026-10-28T14:15:00+00:00"
-        },
-        {
-          "name": "Greensboro News and Record",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5",
-          "domain": "greensboro.com",
-          "published_at": "2026-10-28T14:15:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "acquisition costs gains offset profit quarter revenue slightly third"
     },
     {
       "id": "fe5f4708c9ad9fcceb35",
@@ -3573,60 +3553,6 @@
       "event_signature": "2026 81b earnings outlook quarterly raises reaches revenue"
     },
     {
-      "id": "8a414b1ed2cc45e0bc30",
-      "company": "Labcorp",
-      "title": "Labcorp Raises 2026 Guidance as Q3 Adjusted EPS Climbs 14.5%",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWEtbkNBRjd5b21rY1E1aTlCRXQ1bHpNM185WHdWeVNXekZ5bWFpeGx5TTFGUURtS0dkRmMwLWtSdWZwTUMxUTBveVp5NURHNEdROWhzU0ZBclNTWUNlbHh5NzNXZkR1VFVZTjhybjdWbFVmQTRTZTR0MHdtOThITmVlRVV6d2tPZkpBWVkxbw?oc=5",
-      "description": "[Labcorp Holdings Q3 2026 Earnings Call] Labcorp Raises Full-Year Guidance as Q3 Revenue Climbs 6.9% to $3.8 Billion and EPS Jumps 14.5% to $4.78 BigGo Finance",
-      "source": "Securities.io",
-      "source_url": "https://www.securities.io",
-      "source_domain": "securities.io",
-      "published_at": "2026-10-28T11:16:01+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Securities.io",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWEtbkNBRjd5b21rY1E1aTlCRXQ1bHpNM185WHdWeVNXekZ5bWFpeGx5TTFGUURtS0dkRmMwLWtSdWZwTUMxUTBveVp5NURHNEdROWhzU0ZBclNTWUNlbHh5NzNXZkR1VFVZTjhybjdWbFVmQTRTZTR0MHdtOThITmVlRVV6d2tPZkpBWVkxbw?oc=5",
-          "domain": "securities.io",
-          "published_at": "2026-10-28T11:16:01+00:00"
-        },
-        {
-          "name": "BigGo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12T2Z3ZTFMbUdHYjVoLWtKcEM0R0ctbTdlUTRvZFR0VTVvRFBXUW5kQ3FNZzlkajVTWVRxR2xPUUtVaUZmYXV2NnVhcVhFZlg1bVJfTGh4ZTNIcU0?oc=5",
-          "domain": "finance.biggo.com",
-          "published_at": "2026-10-28T15:34:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 adjusted climbs eps guidance raises"
-    },
-    {
-      "id": "e367ea96b717c0ee036b",
-      "company": "Labcorp",
-      "title": "Labcorp shares edge up on beating estimates, raising guidance",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5",
-      "description": "Labcorp shares edge up on beating estimates, raising guidance Investing.com",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-10-28T11:15:00+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-28T11:15:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "beating edge estimates guidance raising shares"
-    },
-    {
       "id": "8e827af6e396dc0b0417",
       "company": "Labcorp",
       "title": "Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases",
@@ -3753,30 +3679,6 @@
       "event_signature": "13c eps tops"
     },
     {
-      "id": "8047f8b316923e0512b3",
-      "company": "Labcorp",
-      "title": "Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
-      "description": "Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.",
-      "source": "24/7 Wall St.",
-      "source_url": "https://247wallst.com",
-      "source_domain": "247wallst.com",
-      "published_at": "2026-10-28T10:57:40+00:00",
-      "published_display": "28 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
-          "domain": "247wallst.com",
-          "published_at": "2026-10-28T10:57:40+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "2026 beat deals earnings four guidance pending raised"
-    },
-    {
       "id": "e54832d274efb8db1b79",
       "company": "Labcorp",
       "title": "Labcorp Posts Q3 Growth, Raises 2026 Guidance",
@@ -3865,7 +3767,7 @@
       "company": "Labcorp",
       "title": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5",
-      "description": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance PR Newswire",
+      "description": "Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance Yahoo Finance",
       "source": "PR Newswire",
       "source_url": "https://www.prnewswire.com",
       "source_domain": "prnewswire.com",
@@ -3903,9 +3805,15 @@
           "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2plcjdYN1FTbUJvNU05bUZpOEdDM1NZU2Y1Q3VhVGpNeHdPWXpidHU0RXh5MjhlODlPMVdKdGdUdkhaMDVtdnBOemZ1VEg0clY4VVBaWUVMc3N6N1lpdnIzel9FU3BicFVzcHZEdWd6bDVFR2NVbENxd1VKSTlvd2xsek1VNkhuZDhfcVVfa3ExNC1udm4tVWFUVEQxdkNDWXotLXZ2RG9BaDJES2VuRm1KZnRtRjVvY01pbHNPTE1tYXBiX2tWcmg2R2VHS0FFNWxmWXh3bVM?oc=5",
           "domain": "tradingview.com",
           "published_at": "2026-10-28T10:50:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlpNVm9pZWEySVVZVGdCYThVWE03MHVCN0RhY25POXJaamE5ZUlPSF83RXkwYldqQmR0b3JnbHEtQVVCRVNiemQtdWprWmZqZnEzTFF3Wk1udTBZN3ppN1M3TXh0RE9xUnpfMnBqUWllSFl1U0l0R3pwMkJtUW9YNVFsaFRMTWh3MUZkVjhGZ3pvR0RHcDA4dFN3?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
         }
       ],
-      "coverage_count": 5,
+      "coverage_count": 6,
       "event_signature": "2026 full guidance quarter raises results strong third year"
     },
     {
@@ -3951,9 +3859,15 @@
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzAxZDNMX1VsekhZdXltR3RCQ3ZLX3FCWEg1OUx1R0VRa040cXdLZFl3SU0tZG14cVZDaGtIZ1kzSldKcHo2WUlicUgzcm9DN3BKM1c4ZW1MZk5HOGdGR3VMNUtzQjdXQXh3N0RqTjRNMEozNFVLbXJXN2VxUUFkXzVScFVlOFVMeXRJNkJGZnc5aURVam1LVg?oc=5",
           "domain": "finance.yahoo.com",
           "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "KTVB",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODhVSTlVa2JRNUt1T2FfRWVUMExzSThrM0lJdzVUUy1Xc004dVQxVjgxVjNYNTFIMkZpOWVMZ0pQbTI3Y0dvb0p0TE9SUkYtem0yWkdtd1M1aWZNX2tNcVkwc3h1MlVNSUU5T1BsOGZVVFN3ZnhaX0pVc2FRUDZzXzltUXlqVlBLemd0YUdVMHRvSmJaaGFrZFROakVhc0dsNHNmT2VDd1k4REJ5Q0J6ZjBiYk9pNzQ1LWVfN1R1X21PSU5k?oc=5",
+          "domain": "ktvb.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
         }
       ],
-      "coverage_count": 1,
+      "coverage_count": 2,
       "event_signature": "earnings snapshot"
     },
     {
@@ -4003,7 +3917,7 @@
       "company": "Labcorp",
       "title": "Labcorp Q3 2026 Earnings Call Summary",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2NSTVhxRGxGTHFGVkhjY0NfclhvRWpGcGFuS1pBM09EN0szcWhpT0J1UzFadGI5ekltNk1YRmFyV0hSRm1CcXRlSzJMUGNIcGd1X01US1NINzNzNG1xbzlvTUFick4zaUdTU2tCVEV6OTdON0taMGVid1RGU2sydDNpTWtNcFBlU0pvUUJxT1FGLWs?oc=5",
-      "description": "Labcorp Holdings Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
+      "description": "Labcorp Holdings Inc. (LH) Q3 FY2026 earnings call transcript Yahoo Finance",
       "source": "Yahoo Finance",
       "source_url": "https://finance.yahoo.com",
       "source_domain": "finance.yahoo.com",
@@ -4053,9 +3967,15 @@
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5",
           "domain": "fortune.com",
           "published_at": "2026-10-29T16:11:12+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2tUa202Vzg3Q3BnQ2JUUVpZRmpCQ0hJWHBNRkNSYXBYS3lucE5JTl9ubGlfQVI1SnZTeTRoTGUxUVlQQUxUSzRVUWNsbnV2UDFFWmtZMU1qTVBWcWxscHNjUWtZWmlkV2lSY3JEMTdBODIxQUVhTEt1QmhHTEVuTTUyLWdjLW8?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
         }
       ],
-      "coverage_count": 7,
+      "coverage_count": 8,
       "event_signature": "2026 call earnings summary"
     },
     {
@@ -4125,6 +4045,192 @@
       "event_signature": "203 director gary pfeiffer sells shares"
     },
     {
+      "id": "7a85b8b22e777b4fa7ee",
+      "company": "Labcorp",
+      "title": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5",
+      "description": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb",
+      "source": "GenomeWeb",
+      "source_url": "https://www.genomeweb.com",
+      "source_domain": "genomeweb.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "GenomeWeb",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5",
+          "domain": "genomeweb.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "acquisitions active front jumps percent revenue"
+    },
+    {
+      "id": "8047f8b316923e0512b3",
+      "company": "Labcorp",
+      "title": "Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
+      "description": "Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.",
+      "source": "24/7 Wall St.",
+      "source_url": "https://247wallst.com",
+      "source_domain": "247wallst.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5",
+          "domain": "247wallst.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 beat deals earnings four guidance pending raised"
+    },
+    {
+      "id": "74e08bb30d53d86c0859",
+      "company": "Labcorp",
+      "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5",
+      "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record",
+      "source": "Greensboro News and Record",
+      "source_url": "https://greensboro.com",
+      "source_domain": "greensboro.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Greensboro News and Record",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5",
+          "domain": "greensboro.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
+          "domain": "journalnow.com",
+          "published_at": "2026-10-28T14:15:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "acquisition costs gains offset profit quarter revenue slightly third"
+    },
+    {
+      "id": "8a414b1ed2cc45e0bc30",
+      "company": "Labcorp",
+      "title": "Labcorp Raises 2026 Guidance as Q3 Adjusted EPS Climbs 14.5%",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWEtbkNBRjd5b21rY1E1aTlCRXQ1bHpNM185WHdWeVNXekZ5bWFpeGx5TTFGUURtS0dkRmMwLWtSdWZwTUMxUTBveVp5NURHNEdROWhzU0ZBclNTWUNlbHh5NzNXZkR1VFVZTjhybjdWbFVmQTRTZTR0MHdtOThITmVlRVV6d2tPZkpBWVkxbw?oc=5",
+      "description": "[Labcorp Holdings Q3 2026 Earnings Call] Labcorp Raises Full-Year Guidance as Q3 Revenue Climbs 6.9% to $3.8 Billion and EPS Jumps 14.5% to $4.78 BigGo Finance",
+      "source": "Securities.io",
+      "source_url": "https://www.securities.io",
+      "source_domain": "securities.io",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Securities.io",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWEtbkNBRjd5b21rY1E1aTlCRXQ1bHpNM185WHdWeVNXekZ5bWFpeGx5TTFGUURtS0dkRmMwLWtSdWZwTUMxUTBveVp5NURHNEdROWhzU0ZBclNTWUNlbHh5NzNXZkR1VFVZTjhybjdWbFVmQTRTZTR0MHdtOThITmVlRVV6d2tPZkpBWVkxbw?oc=5",
+          "domain": "securities.io",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12T2Z3ZTFMbUdHYjVoLWtKcEM0R0ctbTdlUTRvZFR0VTVvRFBXUW5kQ3FNZzlkajVTWVRxR2xPUUtVaUZmYXV2NnVhcVhFZlg1bVJfTGh4ZTNIcU0?oc=5",
+          "domain": "finance.biggo.com",
+          "published_at": "2026-10-28T15:34:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 adjusted climbs eps guidance raises"
+    },
+    {
+      "id": "dcec0fc5f31660c1abf2",
+      "company": "Labcorp",
+      "title": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkdsdklsMllOejhRZlFGSWpPQmlZT3RUNnR6NVJaeW1Bd1IzYi1yTVFXbVVBTE9Fak83ODJKRnR6S2lmcUswU01idmJGMW9zRUJpdUpFSkRFMGgtV09tZFNxTnduWW5WMUFoMnc0V0M4SGFfRzFVTkhJM0ZrS1hXM1NPbUphdkZ3UjNKN19ZVWo5dkZXX0xqOUxMX2hKWlpFZnRzVDMxZnNKYTJfTkJFenpvYlFJX3g5VUFJamEwX2FuS2hVYjNJZWdUdw?oc=5",
+      "description": "Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkdsdklsMllOejhRZlFGSWpPQmlZT3RUNnR6NVJaeW1Bd1IzYi1yTVFXbVVBTE9Fak83ODJKRnR6S2lmcUswU01idmJGMW9zRUJpdUpFSkRFMGgtV09tZFNxTnduWW5WMUFoMnc0V0M4SGFfRzFVTkhJM0ZrS1hXM1NPbUphdkZ3UjNKN19ZVWo5dkZXX0xqOUxMX2hKWlpFZnRzVDMxZnNKYTJfTkJFenpvYlFJX3g5VUFJamEwX2FuS2hVYjNJZWdUdw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5",
+          "domain": "ca.investing.com",
+          "published_at": "2026-10-28T14:27:54+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "2026 beats call earnings estimates outlook raises transcript"
+    },
+    {
+      "id": "6114f54e32a613da2b82",
+      "company": "Labcorp",
+      "title": "Labcorp adds more diagnostic services",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnBHUlB5WEcyUUJsOWxzLW9lZ1BBT0oxeVI3cXBPNmdSU3p3dS0wX1dTNmViX05NMGY2ejBVcjlZZ3liRF81SV9uTFNiaXdyX0dNcEdjc1VCdmVQVEI4eXpNaFZsZVBsTnV6RE9DMHpDTlpWUkJWZDMtYzdHRzN5UFUyNzh5TTB5QmJaOU9fSWp4YVhkOW9tQjJRNVl2dG0wS0JxRGRqZi1Hc2U2MHYwRjlvUGJvWUNTZUlXR1dhOVJhVU9zNmFfUUpB?oc=5",
+      "description": "Labcorp adds more diagnostic services Burlington Times-News",
+      "source": "Burlington Times-News",
+      "source_url": "https://www.thetimesnews.com",
+      "source_domain": "thetimesnews.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Burlington Times-News",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnBHUlB5WEcyUUJsOWxzLW9lZ1BBT0oxeVI3cXBPNmdSU3p3dS0wX1dTNmViX05NMGY2ejBVcjlZZ3liRF81SV9uTFNiaXdyX0dNcEdjc1VCdmVQVEI4eXpNaFZsZVBsTnV6RE9DMHpDTlpWUkJWZDMtYzdHRzN5UFUyNzh5TTB5QmJaOU9fSWp4YVhkOW9tQjJRNVl2dG0wS0JxRGRqZi1Hc2U2MHYwRjlvUGJvWUNTZUlXR1dhOVJhVU9zNmFfUUpB?oc=5",
+          "domain": "thetimesnews.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "adds diagnostic more services"
+    },
+    {
+      "id": "e367ea96b717c0ee036b",
+      "company": "Labcorp",
+      "title": "Labcorp shares edge up on beating estimates, raising guidance",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5",
+      "description": "Labcorp shares edge up on beating estimates, raising guidance Investing.com",
+      "source": "Investing.com",
+      "source_url": "https://www.investing.com",
+      "source_domain": "investing.com",
+      "published_at": "2026-10-28T07:00:00+00:00",
+      "published_display": "28 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-28T07:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "beating edge estimates guidance raising shares"
+    },
+    {
       "id": "0f7726bb5f367ad8fb68",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics $6M Courier Wage Settlement",
@@ -4171,36 +4277,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "history price quote stock"
-    },
-    {
-      "id": "091ed75cb65c6305ead1",
-      "company": "Labcorp",
-      "title": "Labcorp earnings in focus as profit expectations moderate",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5",
-      "description": "Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-10-27T15:03:06+00:00",
-      "published_display": "27 Oct 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-10-27T15:03:06+00:00"
-        },
-        {
-          "name": "Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5",
-          "domain": "au.investing.com",
-          "published_at": "2026-10-27T15:12:36+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "earnings expectations focus moderate profit"
     },
     {
       "id": "5e4a85c93e79e4486964",
@@ -4279,6 +4355,42 @@
       ],
       "coverage_count": 1,
       "event_signature": "breach confirms cyber exposed may patient records"
+    },
+    {
+      "id": "2ab890fe9f406c956391",
+      "company": "Labcorp",
+      "title": "Labcorp earnings in focus as profit expectations moderate By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWtWLU04eXhhZ3NEa0hBWExISFZVWVo2cHlEV2JlNmI5ZVB5U1d5WExLb2lmcFNvczZ4OVpzLTJXV3doMGNfMGZ5S3daVEFwNmdCcW51eDhndmpFdU9GZVViZlVmVHlHMGE0UE4tZmFmcEhrVkxIUGVwUUNBYWFBZm11T1FVczQ4SlVlR1Y2eklTeDlJSEpmbTBxLUNFdGI0SzRxbzQxTlJYc2VjbXY3WVUxLVJOYVRBYWc?oc=5",
+      "description": "Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "published_display": "27 Oct 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWtWLU04eXhhZ3NEa0hBWExISFZVWVo2cHlEV2JlNmI5ZVB5U1d5WExLb2lmcFNvczZ4OVpzLTJXV3doMGNfMGZ5S3daVEFwNmdCcW51eDhndmpFdU9GZVViZlVmVHlHMGE0UE4tZmFmcEhrVkxIUGVwUUNBYWFBZm11T1FVczQ4SlVlR1Y2eklTeDlJSEpmbTBxLUNFdGI0SzRxbzQxTlJYc2VjbXY3WVUxLVJOYVRBYWc?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-10-27T07:00:00+00:00"
+        },
+        {
+          "name": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5",
+          "domain": "investing.com",
+          "published_at": "2026-10-27T15:03:06+00:00"
+        },
+        {
+          "name": "Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5",
+          "domain": "au.investing.com",
+          "published_at": "2026-10-27T15:12:36+00:00"
+        }
+      ],
+      "coverage_count": 3,
+      "event_signature": "com earnings expectations focus investing moderate profit"
     },
     {
       "id": "c130f0238a84bfb828eb",
@@ -15232,216 +15344,12 @@
       ],
       "coverage_count": 1,
       "event_signature": "director excited join medical oncology wang"
-    },
-    {
-      "id": "55942355d081eb6ece71",
-      "company": "Quest Diagnostics",
-      "title": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk0xU0NnX0haVUliSjJvd0pBWmVwQ3ZZVllkdFNwX2ZTcmtpZl9YQUt6blZVRnY3Ri14bkFmUFo5dzhjSmlNUmhkWTQzSGtxNk1NWkw0RUJVblIxNG5ZRnpXZjMyY2l5eVFtSnUyMnBpRlRTeDNoaHNXd0lRcU94bjJWZzQ4NERJU0RvVkNpc2VpdWN1aVVJTmEtRGROUkNfbFY4YjI4T25ZMm1V?oc=5",
-      "description": "Humanity and Quest Diagnostics Launch Biological Age Analysis in the US Clinical Lab Products",
-      "source": "Clinical Lab Products",
-      "source_url": "https://clpmag.com",
-      "source_domain": "clpmag.com",
-      "published_at": "2026-08-28T07:00:00+00:00",
-      "published_display": "28 Aug 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Clinical Lab Products",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZk0xU0NnX0haVUliSjJvd0pBWmVwQ3ZZVllkdFNwX2ZTcmtpZl9YQUt6blZVRnY3Ri14bkFmUFo5dzhjSmlNUmhkWTQzSGtxNk1NWkw0RUJVblIxNG5ZRnpXZjMyY2l5eVFtSnUyMnBpRlRTeDNoaHNXd0lRcU94bjJWZzQ4NERJU0RvVkNpc2VpdWN1aVVJTmEtRGROUkNfbFY4YjI4T25ZMm1V?oc=5",
-          "domain": "clpmag.com",
-          "published_at": "2026-08-28T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "age analysis biological humanity launch"
-    },
-    {
-      "id": "3358baa196876082cd35",
-      "company": "Labcorp",
-      "title": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5",
-      "description": "Labcorp stock trades close to 12-month high as guidance rises and CEO sells shares Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-27T14:34:27+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOE5TTlcxTnhQekk1LTl5OWZzT0FBMVRxdnFwSVl2Ti1UaDduTHF2NzR2enlUbndDRldfNG5MbVcydXNiRjRtX2tueGNhZHczd0wyUkZXOTBFbjRJdDhKVFpwMGpScEt2UThySFc0eC1aeFlWWlJYNkFvZzhWamlKNkFOWFdHZTU3b29SdVduRG5BSnpNTy1LWG5MdkxNR1JMOWhRc1R4dXZNVEFNWTRYYlJqWjN0N1E3RVhkcDVWWDE3X2wxdUZwOVMyRnE?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-27T14:34:27+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "ceo close guidance high month rises sells shares stock trades"
-    },
-    {
-      "id": "5a7b9d5ee29df8231edb",
-      "company": "Labcorp",
-      "title": "Labcorp Careers: Clinical Research Job Opportunity",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5",
-      "description": "Labcorp Careers: Clinical Research Job Opportunity BioTecNika",
-      "source": "BioTecNika",
-      "source_url": "https://www.biotecnika.org",
-      "source_domain": "biotecnika.org",
-      "published_at": "2026-08-27T12:34:26+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "BioTecNika",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGZ2RmJzYThiZkQ0by1YaTNxM3IwREJwaTB3b193bnJxU1FSWWZxT1h1VmZKNF9DeFRxZV9sbFR4djJqVEROdGJwckoxZl9RdkxERzE5UWNqU2VfQ01aUzV3NGtncmg4WlJQQzhJM0lMaDVrTkVWZGFNZ1FxaWJ2cDAwRTZnbEFTNGtNeXlRQdIBlAFBVV95cUxQSnhTTkVFTldwTlRBcmR0RXlkOS1xSlBqSllMZmthUEJMVFN4XzJMZmRlNkYwcXM4UEFpemxoZkhfeXdQSGF5WkJtaEIyUUt3SVp5c01BVENLUWJxZUFwVFBkeXVfYWlJVjgtaE9aTkpQcS1aeHdXSEk3RXhFa0pMNXBWNGpBZzY0VFA0V3UxZldHYTlf?oc=5",
-          "domain": "biotecnika.org",
-          "published_at": "2026-08-27T12:34:26+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "careers clinical job opportunity research"
-    },
-    {
-      "id": "d525782063ddd2d03702",
-      "company": "Labcorp",
-      "title": "Labcorp To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5",
-      "description": "Labcorp Holdings To Go Ex-Dividend On August 28th, 2026 With 0.72 USD Dividend Per Share news.futunn.com",
-      "source": "富途牛牛",
-      "source_url": "https://news.futunn.com",
-      "source_domain": "news.futunn.com",
-      "published_at": "2026-08-27T12:08:37+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "富途牛牛",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTjY5cmljYU1Velp3NThQZktuV0lyV2k1aEpZYXd6QnNqc21SN0VUek1aNEw3Z241eXRjSzhPVGNYQ3QxcmlsRk1hOGRiRUR1clVNWGthRXNhOVFmZGJ2bnowNEZJR2gtM0xfSnZsWlctZlBIczMyRXdPd2VaMjFycWU4VzlPM0dZVmttWTk3bUFrb3BNN0tqMG9zdw?oc=5",
-          "domain": "news.futunn.com",
-          "published_at": "2026-08-27T12:08:37+00:00"
-        },
-        {
-          "name": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbHBxbFNXTkJGX19tS0VIMkdONUVWSGNGQS04bkNNeE80NU1jT1pmM3NHaE9jNElWdjBzT1hzZ0J6X21xcnQzQlUzZ0JBWXR1Tk9Lczc1al83RXhhalItMVNZTzdaNGpKTzlwbVhsYUtUdEtjd0toSGNWTEdrUFpfZG9Oc0xfeDBIVk1oSXNSWFlMVXBJRkZhelhobk8?oc=5",
-          "domain": "moomoo.com",
-          "published_at": "2026-08-28T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "2026 28th august dividend per share usd"
-    },
-    {
-      "id": "eaaf783d25e14d44c542",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5",
-      "description": "Quest Diagnostics stock edges higher as investors respond to fresh institutional buying and steady e Ad-hoc-news.de",
-      "source": "Ad-hoc-news.de",
-      "source_url": "https://www.ad-hoc-news.de",
-      "source_domain": "ad-hoc-news.de",
-      "published_at": "2026-08-27T10:37:48+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQ0pPZGpkSWZRLWdKQS1yeUY0VmFET1VlMjN1cXRvMEJ0U1V2OWF5cU5VbEdEZUpSeHlvdjkxc1F5UGtiRmtLaFBrWTJjTXJkYUJlc3V1aTM2cWhFcjF1NW5CWGpVRmlJSFNCT0NrWTBWWHI2cGM5TUplSVBUeTB0VUd4R3lSZVlBUmJLanh1LW9CRHdwWktUWGMyc01ycWVubi13MUxHaUpoUS0ySldFUFRaWEVmdVU4WktONWd4STVvWk0wcndfUg?oc=5",
-          "domain": "ad-hoc-news.de",
-          "published_at": "2026-08-27T10:37:48+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "buying edges fresh higher institutional investors respond steady stock"
-    },
-    {
-      "id": "20a67ab17183ba0b54fe",
-      "company": "Labcorp",
-      "title": "Labcorp Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-      "description": "Labcorp Holdings (LH) Unveiled The First FDA Cleared Single Biomarker Alzheimer’s Blood Test finance.yahoo.com",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Clinical, R&D",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUXdrQUNmaFdiZU5aWmFNQmVDZHg5cGxoYno2SkdXSGpqODVtS09sUHEwczl2aTRBbUdxRG9hY1BnNXkyTFNkWVZRMUxYd1RQMUgxenRfdERWQ1h4dFZ4Q1B3NXpNTXpTNWNBeWMwalBQcnF5RTlzRW9zazZPZ3VNYnpuWnBLTzFLYnVlei1vajZuUmRkbGQ3Z1J1TQ?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-08-27T07:00:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "alzheimer biomarker blood cleared fda first single test unveiled"
-    },
-    {
-      "id": "a579ca93a2b4becd7cbe",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics stock hits all-time high at 246.06 USD",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
-      "description": "Quest Diagnostics stock hits all-time high at 246.06 USD By Investing.com Investing.com South Africa",
-      "source": "Investing.com",
-      "source_url": "https://www.investing.com",
-      "source_domain": "investing.com",
-      "published_at": "2026-08-27T07:00:00+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblZCOWJQb2sxN0ZfeUtLTC16b0FDYnVwU21WTEVTUzlqU3p6UkQyRklpZ080TW1KclBPdXpOWTVrTk9vcDB1aE1reVJ6cENtcmg5RWNRNHJ2eVpHRlByOHAxLTZNeGE4T3E0d25yUEpRcmJJTlJjcFFsc2xDODdaTWlwQUw0NGc5Q1lVd2QxaU5TdmpDajhSUmdWV3RHSTcwRVZISU50M1dNTVZ3bnhJcQ?oc=5",
-          "domain": "investing.com",
-          "published_at": "2026-08-27T07:00:00+00:00"
-        },
-        {
-          "name": "Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUkySmRBNHN4dUI3OXRTS0Zoa1hoVkV1c2lYLW9wU0NXUUZISWRMSFFobklOakJBTVBFMi1iNmNZenJfb25BdU00WlJLbHZ4aXkyMkJPSGJGYjFKd2F0NXhrSk9sSWRZSzgxOGpYa0duYV9zU2dmMjA1U3JxOXp5YVhub3FGM2J0SEh0UklxczJFa0ppRjlieDRUMmtKUEwxRlV1R0ZmUnJKTjNqb2ozcTlVNzgwdw?oc=5",
-          "domain": "za.investing.com",
-          "published_at": "2026-08-27T14:54:45+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "246 all high hits stock time usd"
-    },
-    {
-      "id": "a4f4d00d22b27e51d7a1",
-      "company": "Sonic Healthcare",
-      "title": "Can Sonic Healthcare Rally Further on Profit Growth?",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
-      "description": "Can Sonic Healthcare (ASX:SHL) Rally Further on Profit Growth? kalkinemedia.com",
-      "source": "Kalkine Media",
-      "source_url": "https://kalkinemedia.com",
-      "source_domain": "kalkinemedia.com",
-      "published_at": "2026-08-27T01:19:00+00:00",
-      "published_display": "27 Aug 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNDRuVXZPa3AxQkhFSGdpVTlZbFkweUlmZVpsVm5NbEFHZ0NycnN5dEVYdjRaSEVlbUREUVZFT3FuM3RDcENLSmt4WXRDSDBoMldfS1NYdTdnNV9IVU5WMTNLdHNBenplMHNCekZGWmRoajgwX3Vsb3daYnVzRHhHRkJrbjR0NUQ3ZUlxeW5PUFFMTWNYT3NuclBUdlpaWUFXTF9idDIycw?oc=5",
-          "domain": "kalkinemedia.com",
-          "published_at": "2026-08-27T01:19:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "can further growth profit rally"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 87,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-25T06:17:00+05:30",
-  "next_update_display": "25 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-25T18:17:00+05:30",
+  "next_update_display": "25 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }

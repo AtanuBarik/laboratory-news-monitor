@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-25T04:44:25.603565+05:30",
-  "generated_at_display": "25 Nov 2026, 4:44 AM IST",
+  "generated_at": "2026-11-25T14:43:50.552146+05:30",
+  "generated_at_display": "25 Nov 2026, 2:43 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 517,
+  "remaining_unsummarized_count": 512,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -149,7 +149,7 @@
       "title": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing",
       "source": "Clinical Lab Products",
       "description": "Labcorp Completes Millennium Health Acquisition to Expand Toxicology Testing Clinical Lab Products",
-      "published_at": "2026-11-06T19:05:52+00:00",
+      "published_at": "2026-11-06T08:00:00+00:00",
       "published_display": "06 Nov 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -206,7 +206,7 @@
       "title": "Labcorp CTO Oyegunwa acquired 370 shares",
       "source": "Quantisnow",
       "description": "Labcorp Holdings (LH) CTO Oyegunwa acquired 370 shares Quantisnow",
-      "published_at": "2026-11-03T15:27:20+00:00",
+      "published_at": "2026-11-03T08:00:00+00:00",
       "published_display": "03 Nov 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -262,16 +262,20 @@
       "category": "Partnership, M&A",
       "title": "Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty",
       "source": "StockStory",
-      "description": "LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty StockStory",
+      "description": "LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty TradingView",
       "published_at": "2026-10-29T07:00:00+00:00",
       "published_display": "29 Oct 2026",
       "official_source": false,
-      "coverage_count": 1,
+      "coverage_count": 2,
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5",
       "sources": [
         {
           "name": "StockStory",
           "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5"
+        },
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0xkSnJ6UWRlcTdOcG9KdEUyX3RwZkl0dHhQdk9HSDJ1NnVjeG0wanc3aFRqWDA2bVE5V1p5cUlUVXM3ODV6YWlkTHVLa3RSaHBJRnpmdWV1bmtrSHhLd2ZMZmhvWnlvUzVlVTVnUGpSeTdjV0NDTUFUd1ZDcEpoUURiWDFxMzlJMHh5czNTR0ZWbXNJM0VJNHlkVFBPWURzNTJPZzB5cVNFeHNCLWhZUDVoOWxLR0FqTk1hOHBvUzBodVVRS01LNHFHbHNiRFExQjJ3QTFwcURNZDNiVmNOU3g4bW5DV3Q2NURn?oc=5"
         }
       ]
     },
@@ -301,7 +305,7 @@
       "title": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent",
       "source": "GenomeWeb",
       "description": "Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb",
-      "published_at": "2026-10-28T14:37:00+00:00",
+      "published_at": "2026-10-28T07:00:00+00:00",
       "published_display": "28 Oct 2026",
       "official_source": false,
       "coverage_count": 1,
@@ -314,25 +318,25 @@
       ]
     },
     {
-      "id": "aa1d568389a8fe11ea7b",
+      "id": "74e08bb30d53d86c0859",
       "company": "Labcorp",
       "category": "Partnership, M&A",
       "title": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains",
-      "source": "Winston-Salem Journal",
+      "source": "Greensboro News and Record",
       "description": "Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record",
-      "published_at": "2026-10-28T14:15:00+00:00",
+      "published_at": "2026-10-28T07:00:00+00:00",
       "published_display": "28 Oct 2026",
       "official_source": false,
       "coverage_count": 2,
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5",
       "sources": [
-        {
-          "name": "Winston-Salem Journal",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5"
-        },
         {
           "name": "Greensboro News and Record",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5"
+        },
+        {
+          "name": "Winston-Salem Journal",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5"
         }
       ]
     },

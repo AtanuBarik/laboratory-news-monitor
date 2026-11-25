@@ -1,6 +1,6 @@
 # Labcorp News
 
-- **Repository generated:** 25 Nov 2026, 4:16 AM IST
+- **Repository generated:** 25 Nov 2026, 2:43 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -302,25 +302,7 @@
 
 **Feed description:** Labcorp : Nov 04, 2026 Labcorp Completes Acquisition of Millennium Health www.marketscreener.com
 
-## 25. Form 4 Labcorp: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com
-
-- **Company:** Labcorp
-- **Publication date:** 03 Nov 2026
-- **Category:** Other
-- **Coverage count:** 7
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com India: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkQtcU1HVEJfcjdhWlpfUnU4UURrdHBCQk54QzJsV2dhbDNvdFYwbDNDeGkyNHB1aUR3aThZZnlGQ1loazdVeE9jNEVabHhCWXRENWpWaThpVXdsRm0tZjJYTnphMFNyMkdfb0duSENjTFRKRFJiQmFKbjN5a281bzVmcXN0T19uLW9nRFl0QUJtZGpOM1BvcVhUcFVYamE0ZktMRFNFaw?oc=5
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODBxSnhWYlRuRHp1QTljUnJnNDB1eXJxS05Ga3o1ak93ZGdlb0Q4c3ZLbDk5UVlKamdtby1CbTQ2d2xEenJCTUp2ckpqN3NGRTBsVGdGd1cyTVkxako0N2VnbUNwU2JfUkJmOVlUNXNnWDI2RGo2dWtBWUZUTlFpU1NLbTVMbkNpUXRfNTNPZGNwcXVIRTByaDFfNFJIdGoyWGVUbGpuc3Q?oc=5
-  - Investing.com UK: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGdYMmdDN1NtN0NfbXZIWW5tWHY0QWJPTlFBdDFNOGJ5RGdsSFAxRHhIbktsVElySlN3dU9iZXFRamFrZEtHLTN1VzAzbV83UWhRblRGR01xd0pVMkRlSjRTYWxuU1J5VXB4amFhWnFydW5oUzlnRXpHMmRyeXNtNXFkWUtWT2l1bmlhTzhDS2RsWXF6akN1Q21HQkxMVmo2WU4xbHRUQ0p2WVlKQjI0UG92X0htcThXUWxfRXJIYVRlZThvRmlGWnd3MXhlc1RmS2RhbnVoWngyZFdOcFJ5X2dB?oc=5
-  - Investing.com India: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzBPVjU5UXQzMHZtbGtZYTc4Q3RKX3RLMWFBQnF1TUptYkpoZThtVXgwZ1FVZzdWYlR0OUZ3N09lZmNPVUFVU19yNkF0T0ZDTkJhOHNYNlA4Q1dacGN4ZmhXSzRjcXBUMUdSMlNwUDhOTGdlN2hjVDZUM2EyLWtkVExEVGVRdDVlYzNtRmZEQ2pvXzNsNXJHdUdIVldzeDllUXVycFppLU5UOF96aFZCc05BYkx1a0Zsc2hpbGszbjdLVGFnemhHMFhQRkZsLTFNVW1BYklRcDRlazFLRFc1ZEd3?oc=5
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHN0d2FQWUk5V2I0dXJkekN5cUZQLXBTOVdSR1JBWVlyd0NpY3JkQnNEaGpHY0Jpa3hrbzd4MllORXRhXzFYVFlfLVRyVXdBUnM3REkzaDVRNzV4c0FvTnE1dHhCZE1jWDBYaFRxdDVEUVNrT2Q4bHB0S2xSNjUyS0FxRDhLSEx5UlMtVTByRjZiOXl4b1VSNE9NWlI0ODlucXRMQU53MjFfcE1tc0VSLTR5X2J3dWpnV0pwcGZ6WVR1ZVJBTVZZaEh6SDRsZzNMbEF5RlgyQUxTZ3k4U0hDa3Fn?oc=5
-  - Investing.com UK: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2F5aXc5UjFLdE5FMV9RSWtyYTYxRDdqWWIxb3FpZ0pGRTBFWS0xbTNSUWFFVnh0cWJLQ2h0TnROakkyTlNRN2ZZaHViX242WjFJMHVnRlhSOVdjVy1UblhPOHQzUVU4eTgwbFZCX0RCOFREM0JVclp6dWxhMVZsRGpvTGxRN01UUWl6QUY2dFkyckI0S1prWHd6Sk5fc3Y2QVZhVExtRGc?oc=5
-
-**Feed description:** Form 4 Labcorp Holdings Inc: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com Investing.com India
-
-## 26. Labcorp executive Vaughn acquired 500 shares
+## 25. Labcorp executive Vaughn acquired 500 shares
 
 - **Company:** Labcorp
 - **Publication date:** 03 Nov 2026
@@ -332,7 +314,7 @@
 
 **Feed description:** Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow
 
-## 27. Labcorp CTO Oyegunwa acquired 370 shares
+## 26. Labcorp CTO Oyegunwa acquired 370 shares
 
 - **Company:** Labcorp
 - **Publication date:** 03 Nov 2026
@@ -343,6 +325,25 @@
   - Quantisnow: https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5
 
 **Feed description:** Labcorp Holdings (LH) CTO Oyegunwa acquired 370 shares Quantisnow
+
+## 27. Form 4 Labcorp: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November
+
+- **Company:** Labcorp
+- **Publication date:** 03 Nov 2026
+- **Category:** Other
+- **Coverage count:** 8
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com UK: https://news.google.com/rss/articles/CBMi4gFBVV95cUxONEZVR0VvWVZ5RTVKZkRCTGhUb1ZaT0kzR1Q0ajlDZ3NCQzVxMk1ub1RJc1Y0SWVzcy1ROGszNG5hRHV4MjZsRlJWdDhsbFZ0bF9pYUpuZlhVSHZaUGMzbGhNNFppMDY5YUhzYjVxeEN6U3FSRUVKZEtoenRvZWgzT05wc29EUjRpR0lud1pzUWxZYWlQbVM0eWRLRFc0eEo3QTNkR0N6TXBwVDZjbWJBZzN4c0JIbzktVTgyMFV3NW1jZ1VwRlM3Z0JYSGJfZ2pyM04yMmZ6eGFOb242Q1FGSFhR?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQbkpDZ3Z1OTZpMFhBaFFpRFNKMzVHVmFmSUNhWFk0eU1vQ0lzSXdfUUdFTnR6YURabEgxbUs4alltUFlzc09YM05FYkY0YUMyTkVQaHVSMmVFbHhpMHZDc1NaM3BsY1hKUVV6U1ZFWUFZUTJDRjVxaTdZdXZ6NzhybDc1UmxNWFFKMU5Mc0RmV0NiLUJYeHZaRHhWaXQ3NVh1NFYyYmE3S3ZWSGZyTi1pNlBSWTZ2VkozLTlrbjAwLXRId1VVZHdROFJ0aUxTUnhDYnlqaFlhVndFTmFkakUtV3JB?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMipwFBVV95cUxQQkQtcU1HVEJfcjdhWlpfUnU4UURrdHBCQk54QzJsV2dhbDNvdFYwbDNDeGkyNHB1aUR3aThZZnlGQ1loazdVeE9jNEVabHhCWXRENWpWaThpVXdsRm0tZjJYTnphMFNyMkdfb0duSENjTFRKRFJiQmFKbjN5a281bzVmcXN0T19uLW9nRFl0QUJtZGpOM1BvcVhUcFVYamE0ZktMRFNFaw?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPODBxSnhWYlRuRHp1QTljUnJnNDB1eXJxS05Ga3o1ak93ZGdlb0Q4c3ZLbDk5UVlKamdtby1CbTQ2d2xEenJCTUp2ckpqN3NGRTBsVGdGd1cyTVkxako0N2VnbUNwU2JfUkJmOVlUNXNnWDI2RGo2dWtBWUZUTlFpU1NLbTVMbkNpUXRfNTNPZGNwcXVIRTByaDFfNFJIdGoyWGVUbGpuc3Q?oc=5
+  - Investing.com UK: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOMGdYMmdDN1NtN0NfbXZIWW5tWHY0QWJPTlFBdDFNOGJ5RGdsSFAxRHhIbktsVElySlN3dU9iZXFRamFrZEtHLTN1VzAzbV83UWhRblRGR01xd0pVMkRlSjRTYWxuU1J5VXB4amFhWnFydW5oUzlnRXpHMmRyeXNtNXFkWUtWT2l1bmlhTzhDS2RsWXF6akN1Q21HQkxMVmo2WU4xbHRUQ0p2WVlKQjI0UG92X0htcThXUWxfRXJIYVRlZThvRmlGWnd3MXhlc1RmS2RhbnVoWngyZFdOcFJ5X2dB?oc=5
+  - Investing.com India: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQzBPVjU5UXQzMHZtbGtZYTc4Q3RKX3RLMWFBQnF1TUptYkpoZThtVXgwZ1FVZzdWYlR0OUZ3N09lZmNPVUFVU19yNkF0T0ZDTkJhOHNYNlA4Q1dacGN4ZmhXSzRjcXBUMUdSMlNwUDhOTGdlN2hjVDZUM2EyLWtkVExEVGVRdDVlYzNtRmZEQ2pvXzNsNXJHdUdIVldzeDllUXVycFppLU5UOF96aFZCc05BYkx1a0Zsc2hpbGszbjdLVGFnemhHMFhQRkZsLTFNVW1BYklRcDRlazFLRFc1ZEd3?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaHN0d2FQWUk5V2I0dXJkekN5cUZQLXBTOVdSR1JBWVlyd0NpY3JkQnNEaGpHY0Jpa3hrbzd4MllORXRhXzFYVFlfLVRyVXdBUnM3REkzaDVRNzV4c0FvTnE1dHhCZE1jWDBYaFRxdDVEUVNrT2Q4bHB0S2xSNjUyS0FxRDhLSEx5UlMtVTByRjZiOXl4b1VSNE9NWlI0ODlucXRMQU53MjFfcE1tc0VSLTR5X2J3dWpnV0pwcGZ6WVR1ZVJBTVZZaEh6SDRsZzNMbEF5RlgyQUxTZ3k4U0hDa3Fn?oc=5
+  - Investing.com UK: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ2F5aXc5UjFLdE5FMV9RSWtyYTYxRDdqWWIxb3FpZ0pGRTBFWS0xbTNSUWFFVnh0cWJLQ2h0TnROakkyTlNRN2ZZaHViX242WjFJMHVnRlhSOVdjVy1UblhPOHQzUVU4eTgwbFZCX0RCOFREM0JVclp6dWxhMVZsRGpvTGxRN01UUWl6QUY2dFkyckI0S1prWHd6Sk5fc3Y2QVZhVExtRGc?oc=5
+
+**Feed description:** Form 4 Labcorp Holdings Inc: Bryan T. Vaughn (EVP and President, Diagnostics) For: 1 November By Investing.com Investing.com India
 
 ## 28. Labcorp’s Q3 earnings call: our top 5 analyst questions
 
@@ -356,17 +357,17 @@
 
 **Feed description:** Labcorp’s Q3 earnings call: our top 5 analyst questions Yahoo Finance
 
-## 29. Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests
+## 29. Labcorp Nail Fungus Culture: Results and Review - View O01Y63Jvn
 
 - **Company:** Labcorp
-- **Publication date:** 30 Oct 2026
+- **Publication date:** 31 Oct 2026
 - **Category:** Other
 - **Coverage count:** 1
 - **Official source involved:** No
 - **Sources:**
-  - Bloomberg Law News: https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5
+  - Comité Asesor de Vacunas de la AEP: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaE1XdFZsb04tdnBLRnZ4QktUd3FLeGU3SDlOX3ZPWTJBdzBiN0xRZGpnMHIxVVl1NUZlX1Y4TU1vQ2RfZnM4U0t5M09kUDNQcy14cTFXN0J4b25lcGpaMjBoOGNsRklBVW5DbjR5RlB1Y2tDT0J5MkVOSEFFcWsxLVoxbnl1Ri00TWgyQlBCYm5mT2tEYzlQcjJWak80emhjbmR2aGNzMUpBaTM3bWJ5ZWVxVnp3cXpfdzZUQmdHZ1pFM2NlR3NRazdpQUtWUXhvQ0d4bS1VejhPQ3c4a1k2ZEotejg0N3Mwd2Jn?oc=5
 
-**Feed description:** Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests Bloomberg Law News
+**Feed description:** Labcorp Nail Fungus Culture: Results and Review - View O01Y63Jvn Comité Asesor de Vacunas de la AEP
 
 ## 30. Labcorp Reports Q3 2026 Revenue Growth to $3.81 Billion
 
@@ -404,19 +405,32 @@
 
 **Feed description:** Labcorp, Quest urge RESULTS Act passage as lab payment cuts loom MedTech Dive
 
-## 33. Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty
+## 33. Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests
+
+- **Company:** Labcorp
+- **Publication date:** 30 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Bloomberg Law News: https://news.google.com/rss/articles/CBMingFBVV95cUxPc2dZZGJDaWFKS29FWWxPdjlHWUQ3Q3VoRFN0NUZsYkNZelpJS0NCemxlSnlGbEJRbzBRbTdfVTZDQ2VXcGRiTEFzRjk3V2JPN2VSV05CNVRjampSY0tfdDZkbWRzWXFHa2VicmNkaGFzUkN6VzRBWUVXc0dsajg5ZkNnQU82cDJENXlwbGlBemdlSXY2ZzJkbW1PQjBFUQ?oc=5
+
+**Feed description:** Johns Hopkins Sues Labcorp Over Patented Prenatal Gene Tests Bloomberg Law News
+
+## 34. Labcorp Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
 - **Category:** Partnership, M&A
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - StockStory: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRll2QkU3TWV6UmhZLXhfemRrSnpORk9GMlZkM3hPcUUxaVY2Q0RRaEYyczhnZkFOd19QT0ZlOWVaYUN4VTQ2ZVpUZFFtUDU5bFVUOXhxdFM3TFFVaW9WLWNmQzZicmhrVDA3MUViZHVLdUlrMDk5ZW91S3F4SzNIemdfZmpZbFVqSEM0ZU9kR0t5V0xOV0g5c3M1VlE1cDBGdFRxT1RJeFQxNi1FUnZDaGhLMDdfZ1FxSDg3TndDMUwtX3V3U3lvNWMxT0xKSnZiNXpsbHctZVN6X0JtUXpteWtPc2VVTE9aVlE?oc=5
+  - TradingView: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX0xkSnJ6UWRlcTdOcG9KdEUyX3RwZkl0dHhQdk9HSDJ1NnVjeG0wanc3aFRqWDA2bVE5V1p5cUlUVXM3ODV6YWlkTHVLa3RSaHBJRnpmdWV1bmtrSHhLd2ZMZmhvWnlvUzVlVTVnUGpSeTdjV0NDTUFUd1ZDcEpoUURiWDFxMzlJMHh5czNTR0ZWbXNJM0VJNHlkVFBPWURzNTJPZzB5cVNFeHNCLWhZUDVoOWxLR0FqTk1hOHBvUzBodVVRS01LNHFHbHNiRFExQjJ3QTFwcURNZDNiVmNOU3g4bW5DV3Q2NURn?oc=5
 
-**Feed description:** LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty StockStory
+**Feed description:** LH Q3 deep dive: specialty testing and acquisitions drive growth amid reimbursement uncertainty TradingView
 
-## 34. Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety
+## 35. Labcorp Expands HPV Testing While Teaming With Regulators On Drug Safety
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -428,7 +442,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Expands HPV Testing While Teaming With Regulators On Drug Safety Yahoo Finance
 
-## 35. Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms
+## 36. Labcorp Stock Shrugs Off Q3 Earnings As PAMA Risk Looms
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -440,7 +454,7 @@
 
 **Feed description:** Labcorp (LH) Stock Shrugs Off Q3 Earnings As PAMA Risk Looms Yahoo Finance
 
-## 36. LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!
+## 37. LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting!
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -452,7 +466,7 @@
 
 **Feed description:** LabCorp LabCorp Is Stonewalling Us Join a Contract Action Team Meeting! UFCW 3000
 
-## 37. Labcorp 2026 Q3 - Results - Earnings Call Presentation 2026-10-29
+## 38. Labcorp 2026 Q3 - Results - Earnings Call Presentation 2026-10-29
 
 - **Company:** Labcorp
 - **Publication date:** 29 Oct 2026
@@ -464,7 +478,7 @@
 
 **Feed description:** Labcorp Holdings Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:LH) 2026-10-29 Seeking Alpha
 
-## 38. Teleconferência de Resultados do 3º Trimestre de 2026 da Labcorp: Guidance Elevado com Expansão das Margens
+## 39. Teleconferência de Resultados do 3º Trimestre de 2026 da Labcorp: Guidance Elevado com Expansão das Margens
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -476,7 +490,7 @@
 
 **Feed description:** Teleconferência de Resultados do 3º Trimestre de 2026 da Labcorp (LH): Guidance Elevado com Expansão das Margens TradingKey
 
-## 39. Labcorp stock rallies as upward price move follows strong quarterly results and acquisition spree
+## 40. Labcorp stock rallies as upward price move follows strong quarterly results and acquisition spree
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -488,7 +502,7 @@
 
 **Feed description:** Labcorp stock rallies as upward price move follows strong quarterly results and acquisition spree Traders Union
 
-## 40. Labcorp Targets Margin Growth, Absorbs Policy Headwinds
+## 41. Labcorp Targets Margin Growth, Absorbs Policy Headwinds
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -501,7 +515,7 @@
 
 **Feed description:** Labcorp Targets Margin Growth, Absorbs Policy Headwinds TradingView
 
-## 41. What's behind Labcorp's latest stock surge?
+## 42. What's behind Labcorp's latest stock surge?
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -513,7 +527,7 @@
 
 **Feed description:** What's behind Labcorp's latest stock surge? Traders Union
 
-## 42. Labcorp Q3 2026 slides: margins expand for sixth straight quarter By Investing.com
+## 43. Labcorp Q3 2026 slides: margins expand for sixth straight quarter By Investing.com
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -526,44 +540,7 @@
 
 **Feed description:** Labcorp Q3 2026 slides: margins expand for sixth straight quarter By Investing.com Investing.com Canada
 
-## 43. Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - GenomeWeb: https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5
-
-**Feed description:** Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb
-
-## 44. Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5
-
-**Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
-
-## 45. Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Partnership, M&A
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Winston-Salem Journal: https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5
-  - Greensboro News and Record: https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5
-
-**Feed description:** Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record
-
-## 46. Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)
+## 44. Labcorp: Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6)
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -575,7 +552,7 @@
 
 **Feed description:** Labcorp : Q3 2026 Earnings Call Prepared Remarks (83c9f0a1 e699 4cea bbe8 1cf03f17acd6) www.marketscreener.com
 
-## 47. Labcorp reports results for the quarter ended September 30 - Earnings Summary
+## 45. Labcorp reports results for the quarter ended September 30 - Earnings Summary
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -587,7 +564,7 @@
 
 **Feed description:** Labcorp Holdings Inc. reports results for the quarter ended September 30 - Earnings Summary TradingView
 
-## 48. Labcorp R (N6B.MU) Q3 FY2026 earnings call transcript
+## 46. Labcorp R (N6B.MU) Q3 FY2026 earnings call transcript
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -602,7 +579,7 @@
 
 **Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
 
-## 49. Labcorp Reports Strong Q3 Results, Revises Full-Year Outloo
+## 47. Labcorp Reports Strong Q3 Results, Revises Full-Year Outloo
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -614,7 +591,7 @@
 
 **Feed description:** Labcorp (LH) Reports Strong Q3 Results, Revises Full-Year Outloo GuruFocus
 
-## 50. Labcorp Q3 2026 Earnings: EPS at $3.22, Revenue Hits $3.81 Billion, Beats Estimates
+## 48. Labcorp Q3 2026 Earnings: EPS at $3.22, Revenue Hits $3.81 Billion, Beats Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -626,7 +603,7 @@
 
 **Feed description:** Labcorp Holdings Inc Q3 2026 Earnings: EPS at $3.22, Revenue Hits $3.81 Billion, Beats Estimates GuruFocus
 
-## 51. Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B
+## 49. Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -638,7 +615,7 @@
 
 **Feed description:** (LH) Labcorp Expects 2026 Revenue Range $14.78B - $14.89B, vs. FactSet Est of $14.75B www.marketscreener.com
 
-## 52. Earnings Flash Labcorp Reports Q3 Revenue $3.81B, vs. FactSet Est of $3.76B
+## 50. Earnings Flash Labcorp Reports Q3 Revenue $3.81B, vs. FactSet Est of $3.76B
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -650,7 +627,7 @@
 
 **Feed description:** Earnings Flash (LH) Labcorp Holdings Inc. Reports Q3 Revenue $3.81B, vs. FactSet Est of $3.76B marketscreener.com
 
-## 53. Earnings Flash Labcorp Posts Q3 Adjusted EPS $4.78 per Share, vs. FactSet Est of $4.64
+## 51. Earnings Flash Labcorp Posts Q3 Adjusted EPS $4.78 per Share, vs. FactSet Est of $4.64
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -662,7 +639,7 @@
 
 **Feed description:** Earnings Flash (LH) Labcorp Holdings Inc. Posts Q3 Adjusted EPS $4.78 per Share, vs. FactSet Est of $4.64 marketscreener.com
 
-## 54. Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised
+## 52. Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -675,7 +652,7 @@
 
 **Feed description:** Labcorp Q3 Adjusted Earnings, Revenue Rise; 2026 Guidance Raised www.marketscreener.com
 
-## 55. Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B
+## 53. Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -687,32 +664,7 @@
 
 **Feed description:** Labcorp raises 2026 earnings outlook as quarterly revenue reaches US$3.81B Mugglehead Investment Magazine
 
-## 56. Labcorp Raises 2026 Guidance as Q3 Adjusted EPS Climbs 14.5%
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 2
-- **Official source involved:** No
-- **Sources:**
-  - Securities.io: https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWEtbkNBRjd5b21rY1E1aTlCRXQ1bHpNM185WHdWeVNXekZ5bWFpeGx5TTFGUURtS0dkRmMwLWtSdWZwTUMxUTBveVp5NURHNEdROWhzU0ZBclNTWUNlbHh5NzNXZkR1VFVZTjhybjdWbFVmQTRTZTR0MHdtOThITmVlRVV6d2tPZkpBWVkxbw?oc=5
-  - BigGo Finance: https://news.google.com/rss/articles/CBMiW0FVX3lxTE12T2Z3ZTFMbUdHYjVoLWtKcEM0R0ctbTdlUTRvZFR0VTVvRFBXUW5kQ3FNZzlkajVTWVRxR2xPUUtVaUZmYXV2NnVhcVhFZlg1bVJfTGh4ZTNIcU0?oc=5
-
-**Feed description:** [Labcorp Holdings Q3 2026 Earnings Call] Labcorp Raises Full-Year Guidance as Q3 Revenue Climbs 6.9% to $3.8 Billion and EPS Jumps 14.5% to $4.78 BigGo Finance
-
-## 57. Labcorp shares edge up on beating estimates, raising guidance
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5
-
-**Feed description:** Labcorp shares edge up on beating estimates, raising guidance Investing.com
-
-## 58. Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases
+## 54. Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -725,7 +677,7 @@
 
 **Feed description:** Labcorp Q3 Revenue Rises 6.9%; Adjusted EPS Climbs 14.5% and Guidance Increases TradingView
 
-## 59. Labcorp earnings beat by $0.13, revenue topped estimates
+## 55. Labcorp earnings beat by $0.13, revenue topped estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -740,7 +692,7 @@
 
 **Feed description:** Labcorp Holdings earnings beat by $0.13, revenue topped estimates Investing.com South Africa
 
-## 60. Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion
+## 56. Labcorp Q3 Revenue Rises 6.9% to $3.81 Billion
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -753,7 +705,7 @@
 
 **Feed description:** Labcorp Q3 2026 Revenue Rises to $3.81 Billion, Diluted EPS $3.22 Minichart
 
-## 61. Labcorp Tops Q3 EPS by 13c
+## 57. Labcorp Tops Q3 EPS by 13c
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -765,19 +717,7 @@
 
 **Feed description:** Labcorp (LH) Tops Q3 EPS by 13c StreetInsider
 
-## 62. Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending
-
-- **Company:** Labcorp
-- **Publication date:** 28 Oct 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - 24/7 Wall St.: https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5
-
-**Feed description:** Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.
-
-## 63. Labcorp Posts Q3 Growth, Raises 2026 Guidance
+## 58. Labcorp Posts Q3 Growth, Raises 2026 Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -789,7 +729,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Posts Q3 Growth, Raises 2026 Guidance TradingView
 
-## 64. Labcorp (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ...
+## 59. Labcorp (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ...
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -803,7 +743,7 @@
 
 **Feed description:** Labcorp Holdings Inc (LH) (Q3 2026) Earnings Call Highlights: Strong Revenue Growth and Raised ... Yahoo Finance
 
-## 65. Labcorp Q3 Earnings and Revenues Surpass Estimates
+## 60. Labcorp Q3 Earnings and Revenues Surpass Estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -815,12 +755,12 @@
 
 **Feed description:** Labcorp Holdings (LH) Q3 Earnings and Revenues Surpass Estimates Yahoo Finance
 
-## 66. Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance
+## 61. Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 5
+- **Coverage count:** 6
 - **Official source involved:** No
 - **Sources:**
   - PR Newswire: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlJYRkpwX0JxYlBLMGg5TGQ0R1JOUkw2dXZKQnV0YkNsLWQwYUFDYzZlVUlYckZOMmpBWENnU3llNDZ0WDRnVU9jaGRVUGR5clpUMklhWG5VQk16LW5zTkNCbDNRZG1jaExXbEJvZEFYUzFVNTRFNzdzYjN3U1RCVVNjVnJXTHVLTjlmYjZNZmlPMFotcmh5cjgwcExScHdDc1FKa1hGVjZPYUo1RldTdU9NY21nZ01ZUjNNaHNVRldvTFVCSWlsTl9RX0loUEI1bEE?oc=5
@@ -828,10 +768,11 @@
   - Stock Titan: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN01tT3lpd3h4T0NsWkwxbzNDWXRkb1dmcHBraEhfelJ3TjNDdkNPU3Y0S3NtX1pnUWZqSnA3dXlUQzVfT1NvZFJaQ251VHVGdUVUREZvS3pxTkZvSU14NEFCZWJINjRKa3pKMENBVVFXTlpvbjUxd1VuQ0diMHo2TV9GY25aS3VKeVFfZVBrbHlrVFBNeW1MNklJeWw4TXUwU3o5OEZGaFU2U1V5S2JrRk9RWnZSOVBmcEZJ?oc=5
   - marketscreener.com: https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVNOZDZxUGFuZFhaQnlxbG95MXY3UFZ3Tm5PX3BKNVJMV0JSVWJtQUxkNVNCM2Jndzk0NDdkenEzMkdGbm1jbkpGWU4tUHoyRF9ub2RXZUg5TWZZQ0RDZU90TTZzenR1bXp2UDJuZHNuRWFIUVRhU1JIRWFwV0tyZmJnUGZ5QXJrQTlleXFFekNUUC1fR0RGYjVaQV90WGRiQXlMTENVRXFuSWhhZnkwTVZIYnJSb0FIdzZHZERn?oc=5
   - TradingView: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN2plcjdYN1FTbUJvNU05bUZpOEdDM1NZU2Y1Q3VhVGpNeHdPWXpidHU0RXh5MjhlODlPMVdKdGdUdkhaMDVtdnBOemZ1VEg0clY4VVBaWUVMc3N6N1lpdnIzel9FU3BicFVzcHZEdWd6bDVFR2NVbENxd1VKSTlvd2xsek1VNkhuZDhfcVVfa3ExNC1udm4tVWFUVEQxdkNDWXotLXZ2RG9BaDJES2VuRm1KZnRtRjVvY01pbHNPTE1tYXBiX2tWcmg2R2VHS0FFNWxmWXh3bVM?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMimgFBVV95cUxPWlpNVm9pZWEySVVZVGdCYThVWE03MHVCN0RhY25POXJaamE5ZUlPSF83RXkwYldqQmR0b3JnbHEtQVVCRVNiemQtdWprWmZqZnEzTFF3Wk1udTBZN3ppN1M3TXh0RE9xUnpfMnBqUWllSFl1U0l0R3pwMkJtUW9YNVFsaFRMTWh3MUZkVjhGZ3pvR0RHcDA4dFN3?oc=5
 
-**Feed description:** Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance PR Newswire
+**Feed description:** Labcorp Reports Strong 2026 Third Quarter Results; Raises Full Year 2026 Guidance Yahoo Finance
 
-## 67. Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics
+## 62. Compared to Estimates, Labcorp Q3 Earnings: A Look at Key Metrics
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -843,19 +784,20 @@
 
 **Feed description:** Compared to Estimates, Labcorp (LH) Q3 Earnings: A Look at Key Metrics Yahoo Finance
 
-## 68. Labcorp: Q3 Earnings Snapshot
+## 63. Labcorp: Q3 Earnings Snapshot
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 1
+- **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMimAFBVV95cUxQMzAxZDNMX1VsekhZdXltR3RCQ3ZLX3FCWEg1OUx1R0VRa040cXdLZFl3SU0tZG14cVZDaGtIZ1kzSldKcHo2WUlicUgzcm9DN3BKM1c4ZW1MZk5HOGdGR3VMNUtzQjdXQXh3N0RqTjRNMEozNFVLbXJXN2VxUUFkXzVScFVlOFVMeXRJNkJGZnc5aURVam1LVg?oc=5
+  - KTVB: https://news.google.com/rss/articles/CBMixAFBVV95cUxPODhVSTlVa2JRNUt1T2FfRWVUMExzSThrM0lJdzVUUy1Xc004dVQxVjgxVjNYNTFIMkZpOWVMZ0pQbTI3Y0dvb0p0TE9SUkYtem0yWkdtd1M1aWZNX2tNcVkwc3h1MlVNSUU5T1BsOGZVVFN3ZnhaX0pVc2FRUDZzXzltUXlqVlBLemd0YUdVMHRvSmJaaGFrZFROakVhc0dsNHNmT2VDd1k4REJ5Q0J6ZjBiYk9pNzQ1LWVfN1R1X21PSU5k?oc=5
 
 **Feed description:** Labcorp: Q3 Earnings Snapshot Yahoo Finance
 
-## 69. Labcorp’s Q3 2026 sales beat estimates
+## 64. Labcorp’s Q3 2026 sales beat estimates
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
@@ -870,12 +812,12 @@
 
 **Feed description:** Labcorp’s (NYSE:LH) Q3 2026 sales beat estimates FinancialContent
 
-## 70. Labcorp Q3 2026 Earnings Call Summary
+## 65. Labcorp Q3 2026 Earnings Call Summary
 
 - **Company:** Labcorp
 - **Publication date:** 28 Oct 2026
 - **Category:** Financials
-- **Coverage count:** 7
+- **Coverage count:** 8
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance: https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2NSTVhxRGxGTHFGVkhjY0NfclhvRWpGcGFuS1pBM09EN0szcWhpT0J1UzFadGI5ekltNk1YRmFyV0hSRm1CcXRlSzJMUGNIcGd1X01US1NINzNzNG1xbzlvTUFick4zaUdTU2tCVEV6OTdON0taMGVid1RGU2sydDNpTWtNcFBlU0pvUUJxT1FGLWs?oc=5
@@ -885,23 +827,98 @@
   - The Globe and Mail: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTl4ZzlTUmdxdGh4R0lyNEliYmhWUG5qT0VIT0FlVjExLUhJS3l5c05tcklUX0pTQXVOSlZ0Q2JkbnlfZzZwSmRtbEFySTVrUlhMb01YcE9SUy1na1dmR0NDdk5KT1BXSFR1OTBrcHJ5V0JHOHBhcU1LekF5UGxsZ05vRUtHUGFoeHZOZlJLb1lSS1RvUTNJYWZiOG9VbUEyZ0tjamVjdDNNenplb3p5YkVoU1pnNkpVS2FueGlzU3lnSkxIMzU2eQ?oc=5
   - MarketBeat: https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9nRk9Rd2t6V3QySGJxdzhnUE5wdzdXVDFLTHBmOXJNanQ5M3N0aU5BT1ZMbndrS2oxMnB6UDFsQ3ZObFRGUEQ4RFY2Qlp4bTU3YjVOTzdPWHh5REY5SXV1bHpGLVdsa2RLRlNjRHVGcmpFcWg4WlNNUUFYbW5GRFZnRUpnN2s3WnZKQVYzYnMybTNONkhUWE5rMGFsVnUtRFE?oc=5
   - Fortune: https://news.google.com/rss/articles/CBMifEFVX3lxTE0xWnZMZVhibGZXOFYxZ2xlYi1OSTRpOFRsaHB6R002eXUtRmJuWVFTRkZJTnZlVjRFdTVacVZpdnVEYlVibTRrZ0UxUmlENlZLc2lCbjNZUG5LWlJhSVhLcElucks3VXNqUC1MMmZlRnJkcV9neXhfc2RYZ3k?oc=5
+  - Yahoo Finance: https://news.google.com/rss/articles/CBMihwFBVV95cUxNV2tUa202Vzg3Q3BnQ2JUUVpZRmpCQ0hJWHBNRkNSYXBYS3lucE5JTl9ubGlfQVI1SnZTeTRoTGUxUVlQQUxUSzRVUWNsbnV2UDFFWmtZMU1qTVBWcWxscHNjUWtZWmlkV2lSY3JEMTdBODIxQUVhTEt1QmhHTEVuTTUyLWdjLW8?oc=5
 
-**Feed description:** Labcorp Holdings Inc. Q3 2026 Earnings Call Summary Yahoo Finance
+**Feed description:** Labcorp Holdings Inc. (LH) Q3 FY2026 earnings call transcript Yahoo Finance
 
-## 71. Labcorp earnings in focus as profit expectations moderate
+## 66. Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent
 
 - **Company:** Labcorp
-- **Publication date:** 27 Oct 2026
+- **Publication date:** 28 Oct 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - GenomeWeb: https://news.google.com/rss/articles/CBMiogFBVV95cUxQaEhneUhvY01LZVU0VkNJT0tjRXFzaUZ3VXdjUWs2STJwWWVBWk5jMGdMU1RWOTJ0VW44b3UtTTN4VDU3djlGbHNjRnJZeERGdGRxY2lXZkNBWFhDc1JKeWtiNHhGVENpZHU0cGJfZ3JUNFdmbU90X3FIMm1ERTNjUTJQTEN1UElQQTN3X3R2Z0hrVE5fOFFlZ2hYWDAyOTZmS0E?oc=5
+
+**Feed description:** Labcorp Active on Acquisitions Front as Q3 Revenue Jumps 7 Percent GenomeWeb
+
+## 67. Labcorp Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - 24/7 Wall St.: https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkVteUM5N05xa0c4R3R3eGtoMzB2V1dnS3A3X1JBMl9MaFB5SVkxSy1UVGN3NGJMYzJnZmVnQ3Vrb1FGdUFrLW0zTWJjYlB5Zk50cm1XZE5PeEVjaGNKOGI2UjZ0MUJNamdpamJNMkZYWHFwbm9KTFVwLVFyQThmd05jd3NLaGpLcmJCRG1memNFa1pNSUE?oc=5
+
+**Feed description:** Labcorp (LH) Q3 2026: Earnings Beat, Guidance Raised, Four Deals Pending 24/7 Wall St.
+
+## 68. Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Partnership, M&A
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Greensboro News and Record: https://news.google.com/rss/articles/CBMilwFBVV95cUxQejB4R0VveUx2X29Wak9NSjZnNFdhYmx5ZzJ6S2l2VkxEQkRpOFMxSENYb3FEYnk1NjFqbzBpdVFKQUo0SnZoR3lGbkU5TVUxRUR5S3FmampDVUpvN2FQbmtpNUd4RFpKdGlEeHlIaU0zMi1NLWRKMUdwNlN0clBqN3RQcTFrUG9FbVBMUzNITXk5aVFTRGE0?oc=5
+  - Winston-Salem Journal: https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnJSSl9OUDByaUNCMVZEQ1p6YWV0dmNmclk1R24za056MlUtc1JxNTVzR2dTUTZXcnR1Z1hkU2pQSlBVT2NFbmlwc3Q2SUVfZjZyS3piemZjamp5Q0VHaHg2eGRNQUZHZi1OMnU5WGZ1V08xUnJENURCN09OUW51THJ5T1RvRExiOUhDU3ZTWXZiUEVmallj?oc=5
+
+**Feed description:** Labcorp third-quarter profit up slightly as acquisition costs offset revenue gains Greensboro News and Record
+
+## 69. Labcorp Raises 2026 Guidance as Q3 Adjusted EPS Climbs 14.5%
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
 - **Category:** Financials
 - **Coverage count:** 2
 - **Official source involved:** No
 - **Sources:**
-  - Investing.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5
-  - Investing.com Australia: https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5
+  - Securities.io: https://news.google.com/rss/articles/CBMijwFBVV95cUxNUWEtbkNBRjd5b21rY1E1aTlCRXQ1bHpNM185WHdWeVNXekZ5bWFpeGx5TTFGUURtS0dkRmMwLWtSdWZwTUMxUTBveVp5NURHNEdROWhzU0ZBclNTWUNlbHh5NzNXZkR1VFVZTjhybjdWbFVmQTRTZTR0MHdtOThITmVlRVV6d2tPZkpBWVkxbw?oc=5
+  - BigGo Finance: https://news.google.com/rss/articles/CBMiW0FVX3lxTE12T2Z3ZTFMbUdHYjVoLWtKcEM0R0ctbTdlUTRvZFR0VTVvRFBXUW5kQ3FNZzlkajVTWVRxR2xPUUtVaUZmYXV2NnVhcVhFZlg1bVJfTGh4ZTNIcU0?oc=5
 
-**Feed description:** Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia
+**Feed description:** [Labcorp Holdings Q3 2026 Earnings Call] Labcorp Raises Full-Year Guidance as Q3 Revenue Climbs 6.9% to $3.8 Billion and EPS Jumps 14.5% to $4.78 BigGo Finance
 
-## 72. Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests
+## 70. Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 2
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiywFBVV95cUxOSkdsdklsMllOejhRZlFGSWpPQmlZT3RUNnR6NVJaeW1Bd1IzYi1yTVFXbVVBTE9Fak83ODJKRnR6S2lmcUswU01idmJGMW9zRUJpdUpFSkRFMGgtV09tZFNxTnduWW5WMUFoMnc0V0M4SGFfRzFVTkhJM0ZrS1hXM1NPbUphdkZ3UjNKN19ZVWo5dkZXX0xqOUxMX2hKWlpFZnRzVDMxZnNKYTJfTkJFenpvYlFJX3g5VUFJamEwX2FuS2hVYjNJZWdUdw?oc=5
+  - Investing.com Canada: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc0gtb0hGLWNjRmpYeGpOTTNWalNENVNxbHdKY1ZBS0VtTXNveVprajVqY1hGVnNTemUxUjFLeERheFdDUTlhZHdKNjVOYUlvbUxSMGhPRGo0aHhmSm1mWWpLMGF2eTNUT3hyVk1HbHZTaUV0OHFMblprLXNmMVQ3eGxrR3YtVXlFaE5xdnZmWE9CN1Nma0dSOWd1cGxtT25OZmdLaGI0Y2RhdUZFQjdvbWY1SXpYZjcyY1ZKbmxPQzkwZnFlNUZwajhXNGRPT0ZpLWc?oc=5
+
+**Feed description:** Earnings call transcript: Labcorp beats Q3 2026 estimates and raises outlook Investing.com Canada
+
+## 71. Labcorp adds more diagnostic services
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Burlington Times-News: https://news.google.com/rss/articles/CBMiygFBVV95cUxOZnBHUlB5WEcyUUJsOWxzLW9lZ1BBT0oxeVI3cXBPNmdSU3p3dS0wX1dTNmViX05NMGY2ejBVcjlZZ3liRF81SV9uTFNiaXdyX0dNcEdjc1VCdmVQVEI4eXpNaFZsZVBsTnV6RE9DMHpDTlpWUkJWZDMtYzdHRzN5UFUyNzh5TTB5QmJaOU9fSWp4YVhkOW9tQjJRNVl2dG0wS0JxRGRqZi1Hc2U2MHYwRjlvUGJvWUNTZUlXR1dhOVJhVU9zNmFfUUpB?oc=5
+
+**Feed description:** Labcorp adds more diagnostic services Burlington Times-News
+
+## 72. Labcorp shares edge up on beating estimates, raising guidance
+
+- **Company:** Labcorp
+- **Publication date:** 28 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com: https://news.google.com/rss/articles/CBMiswFBVV95cUxQUEFDZTdiRml1YTFJZlBlUEVPZ0xJV0lKUnNVam1hb1QzM01CUHBYVnlDaVM1TnYxZjhaeHBvN2I1RjlSRFZBaHdlYVM5WmlDak5iUlk3YWZQVVFzMUt1dnJ4NEJiZ000Sy1lbVdMUUIyZjFFdnlqbkZ4VzBkbEFiaTVSa2JSMmhEcllHeVlfeW15MENlUTQzczI5Smh0WHlHT2RlQ1B5NWJxLVAyTUc0cldIdw?oc=5
+
+**Feed description:** Labcorp shares edge up on beating estimates, raising guidance Investing.com
+
+## 73. Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests
 
 - **Company:** Labcorp
 - **Publication date:** 27 Oct 2026
@@ -914,7 +931,21 @@
 
 **Feed description:** Waters & Labcorp Expand Access to FDA-Approved HPV Screening Tests Zacks Investment Research
 
-## 73. Labcorp earnings: what to look for from LH
+## 74. Labcorp earnings in focus as profit expectations moderate By Investing.com
+
+- **Company:** Labcorp
+- **Publication date:** 27 Oct 2026
+- **Category:** Financials
+- **Coverage count:** 3
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com India: https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWtWLU04eXhhZ3NEa0hBWExISFZVWVo2cHlEV2JlNmI5ZVB5U1d5WExLb2lmcFNvczZ4OVpzLTJXV3doMGNfMGZ5S3daVEFwNmdCcW51eDhndmpFdU9GZVViZlVmVHlHMGE0UE4tZmFmcEhrVkxIUGVwUUNBYWFBZm11T1FVczQ4SlVlR1Y2eklTeDlJSEpmbTBxLUNFdGI0SzRxbzQxTlJYc2VjbXY3WVUxLVJOYVRBYWc?oc=5
+  - Investing.com: https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0U0TVZaa0RMQ0ctR0ViQ0d2RGM3UlBlMVBZNWVGUnM3M3lEOEk5dVRzX0pYTnpRNDlPTkFVODdDbHNGNExySXUzRGZkOUREUXNrZy1WLWlSVzl0QTVuTm1NSHUycHJKZWpzbkJjY2tvUlJKOEdKUFF0VjA5elJWTTR2U3ZsRy1JSUVmckFCaWdReDBvSUhvbW9udXZoVFpweWdwSEc3NTRRVDNmbm5Z?oc=5
+  - Investing.com Australia: https://news.google.com/rss/articles/CBMiugFBVV95cUxQM1NWUm1fM1pJZURFdVY3dm1jQWNsdGVWaXlLQ1hYZkJWd1psRWdoNTRnZ1lRS21OYko1ZzN1M09JLWt0cTBCUjNZLTZrQjg2dy0yTFg4aDdWei1ramdGMDRDY0F6ZjViMVhzWHNXdGVBci1MbzdKMkVtcFJxcm92QmtqQ3hRWU9FUHRYZTVNa2RDTDAxcFVROG1wUFg2NU5fTU1SblEteGxWOHI1NkhYWWRmd0hmbFV5SkE?oc=5
+
+**Feed description:** Labcorp earnings in focus as profit expectations moderate By Investing.com Investing.com Australia
+
+## 75. Labcorp earnings: what to look for from LH
 
 - **Company:** Labcorp
 - **Publication date:** 27 Oct 2026
@@ -929,7 +960,7 @@
 
 **Feed description:** Labcorp earnings: what to look for from LH The Globe and Mail
 
-## 74. Labcorp to spend $932 million on lab assets, acquire Millennium Health
+## 76. Labcorp to spend $932 million on lab assets, acquire Millennium Health
 
 - **Company:** Labcorp
 - **Publication date:** 26 Oct 2026
@@ -942,7 +973,7 @@
 
 **Feed description:** Labcorp to spend $932 million on lab assets, acquire Millennium Health Greensboro News and Record
 
-## 75. Labcorp inks Millennium Health buyout to add drug testing services
+## 77. Labcorp inks Millennium Health buyout to add drug testing services
 
 - **Company:** Labcorp
 - **Publication date:** 26 Oct 2026
@@ -955,7 +986,7 @@
 
 **Feed description:** Labcorp inks Millennium Health buyout to add drug testing services Yahoo Finance
 
-## 76. Labcorp adds San Diego toxicology lab in sixth acquisition this year
+## 78. Labcorp adds San Diego toxicology lab in sixth acquisition this year
 
 - **Company:** Labcorp
 - **Publication date:** 26 Oct 2026
@@ -967,7 +998,7 @@
 
 **Feed description:** Labcorp adds San Diego toxicology lab in seventh acquisition this year The Business Journals
 
-## 77. Flexible HPV Screening Options: Labcorp and Waters Expand Access to Cervical Cancer…
+## 79. Flexible HPV Screening Options: Labcorp and Waters Expand Access to Cervical Cancer…
 
 - **Company:** Labcorp
 - **Publication date:** 25 Oct 2026
@@ -979,7 +1010,7 @@
 
 **Feed description:** Flexible HPV Screening Options: Labcorp and Waters Expand Access to Cervical Cancer… Trend Hunter
 
-## 78. Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities
+## 80. Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities
 
 - **Company:** Labcorp
 - **Publication date:** 25 Oct 2026
@@ -991,7 +1022,7 @@
 
 **Feed description:** Labcorp To Acquire Millennium Health To Expand Toxicology Testing Capabilities Pulse 2.0
 
-## 79. Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide
+## 81. Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1003,7 +1034,7 @@
 
 **Feed description:** Labcorp and Waters Partner to Offer Extended-Genotype BD Onclarity HPV Assay Nationwide Clinical Lab Products
 
-## 80. Labcorp Acquiring Drug Testing Firm Millennium Health
+## 82. Labcorp Acquiring Drug Testing Firm Millennium Health
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1015,7 +1046,7 @@
 
 **Feed description:** Labcorp Acquiring Drug Testing Firm Millennium Health GenomeWeb
 
-## 81. Labcorp to offer BD Onclarity HPV test across U.S. network
+## 83. Labcorp to offer BD Onclarity HPV test across U.S. network
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1029,7 +1060,7 @@
 
 **Feed description:** Labcorp to offer BD Onclarity HPV test across U.S. network By Investing.com Investing.com Canada
 
-## 82. Waters, Labcorp To Expand Access To Cervical Cancer Screening With BD Onclarity HPV Assay
+## 84. Waters, Labcorp To Expand Access To Cervical Cancer Screening With BD Onclarity HPV Assay
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1041,7 +1072,7 @@
 
 **Feed description:** Waters, Labcorp To Expand Access To Cervical Cancer Screening With BD Onclarity HPV Assay TradingView
 
-## 83. Waters and Labcorp partner to offer FDA-approved HPV test by end of 2026
+## 85. Waters and Labcorp partner to offer FDA-approved HPV test by end of 2026
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1053,7 +1084,7 @@
 
 **Feed description:** Waters and Labcorp partner to offer FDA-approved HPV test by end of 2026 StreetInsider
 
-## 84. Labcorp: Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health
+## 86. Labcorp: Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1065,7 +1096,7 @@
 
 **Feed description:** Labcorp : Oct 23, 2026 Labcorp Announces Definitive Agreement to Acquire Millennium Health www.marketscreener.com
 
-## 85. Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026
+## 87. Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026
 
 - **Company:** Labcorp
 - **Publication date:** 23 Oct 2026
@@ -1083,7 +1114,7 @@
 
 **Feed description:** Waters and Labcorp to Expand Access to Cervical Cancer Screening with the Most Comprehensive FDA-Approved HPV Testing Option Beginning in Late 2026 Yahoo Finance
 
-## 86. Labcorp Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods
+## 88. Labcorp Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -1095,7 +1126,7 @@
 
 **Feed description:** Labcorp (LH) Partners with FDA and Charles River to Advance Drug Abuse Assessment Methods GuruFocus
 
-## 87. Labcorp to buy Myriad’s prenatal health testing unit for $210M
+## 89. Labcorp to buy Myriad’s prenatal health testing unit for $210M
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -1108,7 +1139,7 @@
 
 **Feed description:** Labcorp to buy Myriad’s prenatal health testing unit for $210M Yahoo Finance
 
-## 88. Labcorp, Charles River and FDA Partner on Drug Abuse Research
+## 90. Labcorp, Charles River and FDA Partner on Drug Abuse Research
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -1121,7 +1152,7 @@
 
 **Feed description:** Charles River, Labcorp, and FDA sign drug abuse potential research pact StreetInsider
 
-## 89. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
+## 91. Charles River, Labcorp, And FDA Collaborate To Validate New Preclinical Methods For Abuse Potential Assessment
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -1135,7 +1166,7 @@
 
 **Feed description:** Charles River, Labcorp, and FDA Collaborate to Validate New Preclinical Methods for Abuse Potential Assessment Business Wire
 
-## 90. Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential
+## 92. Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential
 
 - **Company:** Labcorp
 - **Publication date:** 22 Oct 2026
@@ -1150,7 +1181,7 @@
 
 **Feed description:** Labcorp, Charles River and FDA Announce Research Collaboration to Advance Preclinical Methods for Evaluating Drug Abuse Potential Yahoo Finance
 
-## 91. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
+## 93. BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -1162,7 +1193,7 @@
 
 **Feed description:** BREAKING NEWS: Reversing Years of Expansion, Utah’s Myriad Genetics will Sell its Prenatal Testing Business for $210 Million in Cash to Labcorp Utah Money Watch
 
-## 92. Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M
+## 94. Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -1174,7 +1205,7 @@
 
 **Feed description:** Labcorp Acquires Myriad Genetics’ Prenatal Testing Business for $210M Femtech Insider
 
-## 93. Labcorp Declares $0.72 Quarterly Dividend
+## 95. Labcorp Declares $0.72 Quarterly Dividend
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -1192,7 +1223,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (NYSE:LH) Plans Quarterly Dividend of $0.72 MarketBeat
 
-## 94. Labcorp Prepares to Report Q3 Earnings: What's in the Cards?
+## 96. Labcorp Prepares to Report Q3 Earnings: What's in the Cards?
 
 - **Company:** Labcorp
 - **Publication date:** 21 Oct 2026
@@ -1206,7 +1237,7 @@
 
 **Feed description:** Labcorp Prepares to Report Q3 Earnings: What's in the Cards? Zacks Investment Research
 
-## 95. Labcorp acquisition spree continues
+## 97. Labcorp acquisition spree continues
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -1219,7 +1250,7 @@
 
 **Feed description:** Labcorp continues acquisition spree as it buys up Millennium Health Fierce Biotech
 
-## 96. Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash
+## 98. Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -1231,7 +1262,7 @@
 
 **Feed description:** Myriad Genetics to Sell Prenatal Health Division to LabCorp for $210 Million Cash Kalkine Media
 
-## 97. Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp
+## 99. Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -1248,7 +1279,7 @@
 
 **Feed description:** Myriad Genetics and Labcorp Announce Definitive Agreement for Myriad to Sell Prenatal Health Testing Business to Labcorp Yahoo Finance
 
-## 98. Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets
+## 100. Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets
 
 - **Company:** Labcorp
 - **Publication date:** 20 Oct 2026
@@ -1260,7 +1291,7 @@
 
 **Feed description:** Labcorp Keeps Buying: $210M for Myriad's Prenatal Testing Assets Medical Device and Diagnostic industry
 
-## 99. Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach
+## 101. Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 19 Oct 2026
@@ -1272,7 +1303,7 @@
 
 **Feed description:** Labcorp Reaches $2.3M Settlement with 44 Attorneys General Over Debt Collector Data Breach Holland & Knight
 
-## 100. Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]
+## 102. Wisconsin Labcorp Data Breach Settlement: $2.3M [2026]
 
 - **Company:** Labcorp
 - **Publication date:** 17 Oct 2026
@@ -1284,7 +1315,7 @@
 
 **Feed description:** Wisconsin Labcorp Data Breach Settlement: $2.3M [2026] shattered.io
 
-## 101. OPKO Health to Sell Select BioReference Assets to Labcorp for $722M
+## 103. OPKO Health to Sell Select BioReference Assets to Labcorp for $722M
 
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
@@ -1300,7 +1331,7 @@
 
 **Feed description:** Greenberg Traurig Advises OPKO Health on $722M+ Agreement to Sell Select BioReference Health Assets to Labcorp PR Newswire
 
-## 102. NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More
+## 104. NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More
 
 - **Company:** Labcorp
 - **Publication date:** 16 Oct 2026
@@ -1312,7 +1343,7 @@
 
 **Feed description:** NC Life Sciences News: Labcorp’s $722M Acquisition, IQVIA’s Veeva Partnership & More BioBuzz
 
-## 103. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
+## 105. OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1324,7 +1355,7 @@
 
 **Feed description:** OPKO Health to Sell BioReference Laboratory Division to LabCorp for $722 Million Plus Contingent Payments Kalkine Media
 
-## 104. Labcorp to Acquire Select BioReference Health Assets for $722M
+## 106. Labcorp to Acquire Select BioReference Health Assets for $722M
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1350,7 +1381,7 @@
 
 **Feed description:** Burlington’s Labcorp to Acquire Select BioReference Health Assets From OPKO Health for $722 Million BioBuzz
 
-## 105. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
+## 107. Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1362,7 +1393,7 @@
 
 **Feed description:** Labcorp To Pay Up To $872M For BioReference Health Assets, Including 4Kscore Prostate Test Medtech Insight
 
-## 106. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
+## 108. Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1374,7 +1405,7 @@
 
 **Feed description:** Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance
 
-## 107. Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma
+## 109. Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1387,7 +1418,7 @@
 
 **Feed description:** Labcorp Agrees to Acquire BioReference Assets in Up to $872M Deal; OPKO Refocuses on Biopharma Hoodline
 
-## 108. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
+## 110. Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1399,7 +1430,7 @@
 
 **Feed description:** Labcorp to buy medical diagnostics company, proprietary prostate cancer test in $872M deal HealthExec
 
-## 109. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
+## 111. Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 15 Oct 2026
@@ -1411,7 +1442,7 @@
 
 **Feed description:** Labcorp and Thrive Global Launch Thrive 5 Health Test Combining Biomarkers and Behavior Change HLTH
 
-## 110. Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks
+## 112. Q2 Earnings Outperformers: Labcorp And The Rest Of The Testing & Diagnostics Services Stocks
 
 - **Company:** Labcorp
 - **Publication date:** 14 Oct 2026
@@ -1424,7 +1455,7 @@
 
 **Feed description:** Q2 Earnings Outperformers: Labcorp (NYSE:LH) And The Rest Of The Testing & Diagnostics Services Stocks Yahoo Finance
 
-## 111. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
+## 113. Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change
 
 - **Company:** Labcorp
 - **Publication date:** 14 Oct 2026
@@ -1436,7 +1467,7 @@
 
 **Feed description:** Labcorp Partners with Thrive Global to Launch Thrive 5 Health Test: ApoB, hs-CRP, and HbA1c Paired with Behavior Change HIT Consultant
 
-## 112. Latest Life Science Job at Labcorp | Apply Online Here
+## 114. Latest Life Science Job at Labcorp | Apply Online Here
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1448,7 +1479,7 @@
 
 **Feed description:** Latest Life Science Job at Labcorp | Apply Online Here BioTecNika
 
-## 113. Labcorp Launches Thrive 5 Health Test With Thrive Global
+## 115. Labcorp Launches Thrive 5 Health Test With Thrive Global
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1465,7 +1496,7 @@
 
 **Feed description:** Labcorp and Arianna Huffington's Thrive Global Collaborate to Launch Thrive 5 Health Test PR Newswire
 
-## 114. Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test
+## 116. Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1477,7 +1508,7 @@
 
 **Feed description:** Labcorp and Thrive Global Launch Direct-to-Consumer Cardiometabolic Test Clinical Lab Products
 
-## 115. Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer
+## 117. Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer
 
 - **Company:** Labcorp
 - **Publication date:** 13 Oct 2026
@@ -1489,7 +1520,7 @@
 
 **Feed description:** Rebecca Previs: Labcorp Oncology Introduces Standalone POLE Mutation Testing for Endometrial Cancer Oncodaily
 
-## 116. Labcorp: Is Its Earnings Discount Worth the Growing Investment Bill?
+## 118. Labcorp: Is Its Earnings Discount Worth the Growing Investment Bill?
 
 - **Company:** Labcorp
 - **Publication date:** 12 Oct 2026
@@ -1503,7 +1534,7 @@
 
 **Feed description:** Labcorp (LH): Is Its Earnings Discount Worth the Growing Investment Bill? Insider Monkey
 
-## 117. Labcorp stock gets a clear October 28 earnings date
+## 119. Labcorp stock gets a clear October 28 earnings date
 
 - **Company:** Labcorp
 - **Publication date:** 05 Oct 2026
@@ -1515,7 +1546,7 @@
 
 **Feed description:** Labcorp stock gets a clear October 28 earnings date AD HOC NEWS
 
-## 118. Labcorp (N6B.DE) Analyst Ratings, Estimates & Forecasts
+## 120. Labcorp (N6B.DE) Analyst Ratings, Estimates & Forecasts
 
 - **Company:** Labcorp
 - **Publication date:** 05 Oct 2026
@@ -1528,7 +1559,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (N6B.DE) analyst ratings, estimates and forecasts Yahoo Finance Australia
 
-## 119. Labcorp stock gained 1.28 percent before October 28 results
+## 121. Labcorp stock gained 1.28 percent before October 28 results
 
 - **Company:** Labcorp
 - **Publication date:** 04 Oct 2026
@@ -1540,7 +1571,7 @@
 
 **Feed description:** Labcorp stock gained 1.28 percent before October 28 results ad-hoc-news.de
 
-## 120. Labcorp Q2 2026 Earnings Call Transcript
+## 122. Labcorp Q2 2026 Earnings Call Transcript
 
 - **Company:** Labcorp
 - **Publication date:** 01 Oct 2026
@@ -1552,7 +1583,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
 
-## 121. Labcorp web tracking class action settlement
+## 123. Labcorp web tracking class action settlement
 
 - **Company:** Labcorp
 - **Publication date:** 01 Oct 2026
@@ -1564,7 +1595,7 @@
 
 **Feed description:** Labcorp web tracking class action settlement topclassactions.com
 
-## 122. Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected
+## 124. Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected
 
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
@@ -1576,7 +1607,7 @@
 
 **Feed description:** Hawaiʻi Labcorp Data Breach Settlement: 17,347 Residents Affected Hoodline
 
-## 123. Labcorp to release Q3 2026 earnings on Oct 28 w...
+## 125. Labcorp to release Q3 2026 earnings on Oct 28 w...
 
 - **Company:** Labcorp
 - **Publication date:** 30 Sep 2026
@@ -1600,7 +1631,7 @@
 
 **Feed description:** Labcorp to Announce Third Quarter 2026 Financial Results on October 28, 2026 www.marketscreener.com
 
-## 124. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
+## 126. Is This the Right Time to Add Labcorp Stock to Your Portfolio?
 
 - **Company:** Labcorp
 - **Publication date:** 29 Sep 2026
@@ -1614,7 +1645,7 @@
 
 **Feed description:** Is This the Right Time to Add Labcorp Stock to Your Portfolio? Zacks Investment Research
 
-## 125. Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans
+## 127. Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans
 
 - **Company:** Labcorp
 - **Publication date:** 29 Sep 2026
@@ -1626,7 +1657,7 @@
 
 **Feed description:** Acting Attorney General Cori Mills Announces Settlement with Labcorp over Data Breach That Affected the Personal Data of Alaskans alaska-native-news.com
 
-## 126. Trainee Clinical Research Role at Labcorp | Apply Now
+## 128. Trainee Clinical Research Role at Labcorp | Apply Now
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1638,7 +1669,7 @@
 
 **Feed description:** Trainee Clinical Research Role at Labcorp | Apply Now BioTecNika
 
-## 127. Labcorp stock reports 2026 growth targets amid reimbursement risk
+## 129. Labcorp stock reports 2026 growth targets amid reimbursement risk
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1650,7 +1681,7 @@
 
 **Feed description:** Labcorp stock reports 2026 growth targets amid reimbursement risk ad-hoc-news.de
 
-## 128. Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach
+## 130. Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1662,7 +1693,7 @@
 
 **Feed description:** Maryland Joins $2.3 Million Labcorp Settlement Over Massive Data Breach 930 WFMD Free Talk
 
-## 129. Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M
+## 131. Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M
 
 - **Company:** Labcorp
 - **Publication date:** 28 Sep 2026
@@ -1674,7 +1705,7 @@
 
 **Feed description:** Labcorp AMCA Multistate Data Breach Settlement Finalized, Pays $2.28M Wansom AI
 
-## 130. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
+## 132. Pennsylvania part of multistate settlement with Labcorp following 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -1688,7 +1719,7 @@
 
 **Feed description:** Pennsylvania part of multistate settlement with Labcorp following 2019 data breach wpxi.com
 
-## 131. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
+## 133. Labcorp Data Breach Settlement Includes $100,000 For North Carolina
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -1700,7 +1731,7 @@
 
 **Feed description:** Labcorp Data Breach Settlement Includes $100,000 For North Carolina whky.com
 
-## 132. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
+## 134. 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 27 Sep 2026
@@ -1712,7 +1743,7 @@
 
 **Feed description:** 451,558 Marylanders Impacted By Labcorp Data Breach; Company Reaches $2.3 Million Settlement thebaynet.com
 
-## 133. Tech Expert: Questions Abound Regarding LabCorp Settlement
+## 135. Tech Expert: Questions Abound Regarding LabCorp Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 26 Sep 2026
@@ -1724,7 +1755,7 @@
 
 **Feed description:** Tech Expert: Questions Abound Regarding LabCorp Settlement Long Island Life & Politics
 
-## 134. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
+## 136. LabCorp Pays States $2.2M in Settlement Over AMCA Hack
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -1736,7 +1767,7 @@
 
 **Feed description:** LabCorp Pays States $2.2M in Settlement Over AMCA Hack bankinfosecurity.com
 
-## 135. USA: Labcorp reaches multistate settlement over 2019 data breach
+## 137. USA: Labcorp reaches multistate settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -1748,7 +1779,7 @@
 
 **Feed description:** USA: Labcorp reaches multistate settlement over 2019 data breach DataGuidance
 
-## 136. Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach
+## 138. Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -1760,7 +1791,7 @@
 
 **Feed description:** Wisconsin DOJ announces $2.3 million Labcorp settlement over 2019 data breach dailydodge.com
 
-## 137. Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]
+## 139. Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026]
 
 - **Company:** Labcorp
 - **Publication date:** 25 Sep 2026
@@ -1772,7 +1803,7 @@
 
 **Feed description:** Wisconsin Joins $2.3M Labcorp Settlement, 16,615 Hit [2026] https://tech-insider.org/
 
-## 138. Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com
+## 140. Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1784,7 +1815,7 @@
 
 **Feed description:** Nevada reaches settlement with Labcorp over 2019 data breach | Local News | 2news.com KTVN
 
-## 139. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
+## 141. New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1802,7 +1833,7 @@
 
 **Feed description:** New Jersey joins $2.2 million multistate LabCorp settlement over 2019 data breach wrnjradio.com
 
-## 140. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
+## 142. Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1824,7 +1855,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 141. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
+## 143. Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1839,7 +1870,7 @@
 
 **Feed description:** Wisconsin joins $2.3M settlement with Labcorp over 2019 data breach affecting more than 16,000 state residents wkow.com
 
-## 142. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
+## 144. Attorney General Mike Hilgers Announces Multistate Settlement with Labcorp over the American Medical Collection Agency Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1868,7 +1899,7 @@
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
-## 143. Labcorp data breach settlement secures $90G for NYS, AG James says
+## 145. Labcorp data breach settlement secures $90G for NYS, AG James says
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1880,7 +1911,7 @@
 
 **Feed description:** Labcorp data breach settlement secures $90G for NYS, AG James says newsday.com
 
-## 144. AG Sunday announces $2.28M settlement with Labcorp
+## 146. AG Sunday announces $2.28M settlement with Labcorp
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1896,7 +1927,7 @@
 
 **Feed description:** AG Sunday announces $2.28M settlement with Labcorp yahoo.com
 
-## 145. LabCorp reaches $2.3M multistate settlement over patient data breach
+## 147. LabCorp reaches $2.3M multistate settlement over patient data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1908,7 +1939,7 @@
 
 **Feed description:** LabCorp reaches $2.3M multistate settlement over patient data breach fox5vegas.com
 
-## 146. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
+## 148. Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1920,7 +1951,7 @@
 
 **Feed description:** Labcorp to pay $2.2 million in settlement with 40 states over 2019 data breach audacy.com
 
-## 147. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
+## 149. NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1932,7 +1963,7 @@
 
 **Feed description:** NC to receive $100,427 in Labcorp data breach settlement after 2019 vendor incident wcti12.com
 
-## 148. West Virginia joins $2.3 million Labcorp data breach settlement
+## 150. West Virginia joins $2.3 million Labcorp data breach settlement
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1944,7 +1975,7 @@
 
 **Feed description:** West Virginia joins $2.3 million Labcorp data breach settlement wvnews.com
 
-## 149. Labcorp data breach settlement reached at $2M
+## 151. Labcorp data breach settlement reached at $2M
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1959,7 +1990,7 @@
 
 **Feed description:** More Than 450,000 Marylanders Impacted by Labcorp Data Breach as $2.3 Million Settlement Reached The MoCo Show -
 
-## 150. Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach
+## 152. Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1971,7 +2002,7 @@
 
 **Feed description:** Wisconsin Department of Justice Announces $2.3 Million Multistate Settlement With Labcorp Over American Medical Collection Agency Data Breach Urban Milwaukee
 
-## 151. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
+## 153. Attorney General Phil Weiser announces $2.3M national settlement with Labcorp over data breach
 
 - **Company:** Labcorp
 - **Publication date:** 24 Sep 2026
@@ -1984,7 +2015,7 @@
 
 **Feed description:** Attorney General Brown announces $2.3 million multi-state settlement with Labcorp over massive 2019 data breach NottinghamMD.com
 
-## 152. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
+## 154. Labcorp Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 23 Sep 2026
@@ -1996,7 +2027,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Eyes Acquisitions And Lab Tech Investment After 2026 Investor Day finance.yahoo.com
 
-## 153. Labcorp $6.1 Million Data Breach Class Action Settlement
+## 155. Labcorp $6.1 Million Data Breach Class Action Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2009,7 +2040,7 @@
 
 **Feed description:** Labcorp $6.1 Million Data Breach Class Action Settlement Claim Depot
 
-## 154. Labcorp Reaffirms Long-Term Earnings Outlook
+## 156. Labcorp Reaffirms Long-Term Earnings Outlook
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2023,7 +2054,7 @@
 
 **Feed description:** Labcorp Reaffirms Long-Term Earnings Outlook marketscreener.com
 
-## 155. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
+## 157. Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2035,7 +2066,7 @@
 
 **Feed description:** Labcorp's Future Driven By Clinical Testing Demand, Despite Impact From Medicare Cuts (LH) Seeking Alpha
 
-## 156. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
+## 158. Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2047,7 +2078,7 @@
 
 **Feed description:** Labcorp Reaffirms 2026-2029 Outlook Including 5%-8% Compound Annual Revenue Growth tradingview.com
 
-## 157. Labcorp Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend
+## 159. Labcorp Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend
 
 - **Company:** Labcorp
 - **Publication date:** 22 Sep 2026
@@ -2059,7 +2090,7 @@
 
 **Feed description:** LH Q2 2026 Earnings: EPS Beat Overshadowed by 2.72% Share Decline - Revenue Estimate Trend https://www.dars.gov.et/
 
-## 158. Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)
+## 160. Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE)
 
 - **Company:** Labcorp
 - **Publication date:** 21 Sep 2026
@@ -2073,7 +2104,7 @@
 
 **Feed description:** Labcorp, Quest fall as CMS cuts 2027 rates for laboratory services (LH:NYSE) Seeking Alpha
 
-## 159. Labcorp stock holds near recent highs after Q2 2026 earnings beat
+## 161. Labcorp stock holds near recent highs after Q2 2026 earnings beat
 
 - **Company:** Labcorp
 - **Publication date:** 20 Sep 2026
@@ -2086,7 +2117,7 @@
 
 **Feed description:** Labcorp Holdings stock holds near recent highs after Q2 2026 earnings beat ad-hoc-news.de
 
-## 160. Labcorp stock trades near recent highs after revenue growth and Q1 2026 update
+## 162. Labcorp stock trades near recent highs after revenue growth and Q1 2026 update
 
 - **Company:** Labcorp
 - **Publication date:** 20 Sep 2026
@@ -2101,7 +2132,7 @@
 
 **Feed description:** Labcorp stock trades near recent highs after revenue growth and Q1 2026 update ad-hoc-news.de
 
-## 161. Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat
+## 163. Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat
 
 - **Company:** Labcorp
 - **Publication date:** 18 Sep 2026
@@ -2113,7 +2144,7 @@
 
 **Feed description:** Labcorp stock gains on updated FY 2026 guidance and Q2 earnings beat ad-hoc-news.de
 
-## 162. Labcorp stock gains after Q2 2026 earnings and investor day guidance
+## 164. Labcorp stock gains after Q2 2026 earnings and investor day guidance
 
 - **Company:** Labcorp
 - **Publication date:** 16 Sep 2026
@@ -2127,7 +2158,7 @@
 
 **Feed description:** Labcorp stock gains after Q2 2026 earnings and investor day guidance ad-hoc-news.de
 
-## 163. Labcorp Website Tracking Class Action Settlement
+## 165. Labcorp Website Tracking Class Action Settlement
 
 - **Company:** Labcorp
 - **Publication date:** 16 Sep 2026
@@ -2139,7 +2170,7 @@
 
 **Feed description:** Labcorp Website Tracking Class Action Settlement claimdepot.com
 
-## 164. Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push
+## 166. Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push
 
 - **Company:** Labcorp
 - **Publication date:** 15 Sep 2026
@@ -2151,7 +2182,7 @@
 
 **Feed description:** Labcorp stock edges higher after MLM Medical Labs acquisition highlights growth push ad-hoc-news.de
 
-## 165. Labcorp stock steadies after earnings beat and guidance reaffirmation
+## 167. Labcorp stock steadies after earnings beat and guidance reaffirmation
 
 - **Company:** Labcorp
 - **Publication date:** 14 Sep 2026
@@ -2163,7 +2194,7 @@
 
 **Feed description:** Labcorp stock steadies after earnings beat and guidance reaffirmation ad-hoc-news.de
 
-## 166. Labcorp Q2 2026 Earnings Call Transcript
+## 168. Labcorp Q2 2026 Earnings Call Transcript
 
 - **Company:** Labcorp
 - **Publication date:** 13 Sep 2026
@@ -2176,7 +2207,7 @@
 
 **Feed description:** Labcorp Holdings (LH) Q2 2026 Earnings Call Transcript fortune.com
 
-## 167. Labcorp unveils blood test identify potential for Alzheimer's disease in patients
+## 169. Labcorp unveils blood test identify potential for Alzheimer's disease in patients
 
 - **Company:** Labcorp
 - **Publication date:** 13 Sep 2026
@@ -2189,7 +2220,7 @@
 
 **Feed description:** Labcorp unveils blood test identify potential for Alzheimer's disease in patients Greensboro News and Record
 
-## 168. Labcorp Analyst/Investor Day - Slideshow 2026-09-12
+## 170. Labcorp Analyst/Investor Day - Slideshow 2026-09-12
 
 - **Company:** Labcorp
 - **Publication date:** 12 Sep 2026
@@ -2201,7 +2232,7 @@
 
 **Feed description:** Labcorp Holdings Inc. (LH) Analyst/Investor Day - Slideshow (NYSE:LH) 2026-09-12 Seeking Alpha
 
-## 169. Germany: Labcorp acquires MLM Medical Labs from Great Point Partners
+## 171. Germany: Labcorp acquires MLM Medical Labs from Great Point Partners
 
 - **Company:** Labcorp
 - **Publication date:** 11 Sep 2026
@@ -2213,7 +2244,7 @@
 
 **Feed description:** Germany: Labcorp acquires MLM Medical Labs from Great Point Partners investorsinhealthcare.com
 
-## 170. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
+## 172. Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2225,7 +2256,7 @@
 
 **Feed description:** Labcorp, NowDx Distributing No-Cost OTC Syphilis Tests genomeweb.com
 
-## 171. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
+## 173. Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2239,7 +2270,7 @@
 
 **Feed description:** Labcorp Bets Big on AI, Specialty Testing to Drive Growth Through 2029 finance.yahoo.com
 
-## 172. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
+## 174. Labcorp Reaffirms 2026 Guidance and Unveils Long-Term Finan
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2251,7 +2282,7 @@
 
 **Feed description:** Labcorp (LH) Reaffirms 2026 Guidance and Unveils Long-Term Finan gurufocus.com
 
-## 173. Labcorp to Host Investor Day on September 10, 2026
+## 175. Labcorp to Host Investor Day on September 10, 2026
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2263,7 +2294,7 @@
 
 **Feed description:** Labcorp to Host Investor Day on September 10, 2026 PR Newswire
 
-## 174. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
+## 176. Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2275,7 +2306,7 @@
 
 **Feed description:** Labcorp Falls as Investor Day Brings Long-Term Targets but No Fresh 2026 Lift Quiver Quantitative
 
-## 175. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
+## 177. Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2290,7 +2321,7 @@
 
 **Feed description:** Labcorp Highlights Strategic Priorities Driving Durable Growth and Shareholder Value at 2026 Investor Day finance.yahoo.com
 
-## 176. Labcorp reaffirms 2026 guidance, sets outlook through 2029
+## 178. Labcorp reaffirms 2026 guidance, sets outlook through 2029
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2303,7 +2334,7 @@
 
 **Feed description:** Labcorp reaffirms 2026 guidance, sets outlook through 2029 By Investing.com Investing.com South Africa
 
-## 177. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
+## 179. Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2315,7 +2346,7 @@
 
 **Feed description:** Labcorp outlines 2026 guidance, 2026–2029 outlook with 5–8% revenue CAGR and $18.10–$18.55 adjusted EPS guidance tradingview.com
 
-## 178. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
+## 180. Labcorp Reiterates 2026 Outlook, Issues Long-Term Guidance
 
 - **Company:** Labcorp
 - **Publication date:** 10 Sep 2026
@@ -2328,27 +2359,3 @@
   - Yahoo Finance: https://news.google.com/rss/articles/CBMiowFBVV95cUxPRjlCQzlsdUZKZk9fN0c3UU1Xc1FUUUxFcGNmaUdrdDZGV2J6RmpKNnJwdGxmaHVPRzFzOWNuSmFMZEtPcXpWWkpBUVN2TEVhdVNUWXI2NEY5N1VVS0s4NkNabXRBTVI3ak5oSld1ZGZXVW1lM1dfSXFqbkYwRGZZcTlrYTNQcms3QWNNbWdSYVlST2lIblc4WjFEOVREdFh2NTJr?oc=5
 
 **Feed description:** Labcorp Holdings Reiterates 2026 Outlook, Issues Long-Term Guidance marketscreener.com
-
-## 179. Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Financials
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Pluang: https://news.google.com/rss/articles/CBMirwFBVV95cUxOeGxXUU4tZEwtR0JWUXBGUlkxS2RYOTRfd3p3YlFiWTAwRlg1MDExc0k0a0dOQzU1OUxZRmUzRk83SEdFSWF4cXVyQms4R09uT1FESUNEUEE2VlV6TnJlWTN5c3hQSjV4OGtUeGxjNzdwMW9iUDZtOUJWbVVZT3ZiRWJ4RFpwZ21mYWxadVRPMjdlSFg3NEJtTlpkM0d6eG9SOXNjTDJhcXY2eFlqWEVV?oc=5
-
-**Feed description:** Labcorp reaffirms 2026 guidance and projects 5-8% annual revenue growth through 2029 Pluang
-
-## 180. Labcorp Unveils Long-Term Outlook Driven by Specialty Testing
-
-- **Company:** Labcorp
-- **Publication date:** 10 Sep 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Bloomberg.com: https://news.google.com/rss/articles/CBMisgFBVV95cUxNVGNINVhSNmVrR3BFdXhxS0gxZ1dJb1lNSTU4SDRoelhETUpaRFlBS3ZZX0FwUUU1Sy1zWFlycVFhd2FFM1A1T2FvX0lrbmFQX0N5REl3OXlXT1lUMV9UWllWMnpDRVRWVDI4WE1jMEFwUkxyelVPM3JKMFVyc3NMcGRZeWtwUGJKaHhseFhteXRyM19RUDFTTmJIeC1wTmtVRlE2RFZHMGozRWVsMm9OZGRn?oc=5
-
-**Feed description:** Labcorp Unveils Long-Term Outlook Driven by Specialty Testing Bloomberg.com
