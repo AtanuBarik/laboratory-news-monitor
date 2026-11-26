@@ -1,11 +1,41 @@
 {
-  "generated_at": "2026-11-26T14:25:40.061677+05:30",
-  "generated_at_display": "26 Nov 2026, 2:25 PM IST",
-  "item_count": 505,
-  "raw_relevant_item_count": 673,
-  "duplicates_merged": 80,
+  "generated_at": "2026-11-27T03:27:27.166672+05:30",
+  "generated_at_display": "27 Nov 2026, 3:27 AM IST",
+  "item_count": 506,
+  "raw_relevant_item_count": 648,
+  "duplicates_merged": 78,
   "failures": [],
   "items": [
+    {
+      "id": "5c807f35e036753ffe89",
+      "company": "Quest Diagnostics",
+      "title": "Form 144 QUEST DIAGNOSTICS For: 26 November By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUNBWVpZY3BBblFtU2N0RW1fbXYtUXUzM3RTT3g5LWhvWnlpRTk0VjhRNzVzVWVnVndEVGZ4U1I2Rk5ZTVFoei1VZUZzR3dFUV9HWGVNRXlzb3NDNW5SWTFmVmktX0ZCeEp2OUdVSmdINDU4ZFN3RW8xSXFVMXBDUDhaSTNIZFJtNlhqc21tZnN4S1dZNno0dVFYSUNyQTZWZ2pKdVpWSWFTWWs?oc=5",
+      "description": "Form 144 QUEST DIAGNOSTICS INC For: 26 November By Investing.com Investing.com India",
+      "source": "Investing.com UK",
+      "source_url": "https://uk.investing.com",
+      "source_domain": "uk.investing.com",
+      "published_at": "2026-11-26T17:16:00+00:00",
+      "published_display": "26 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUNBWVpZY3BBblFtU2N0RW1fbXYtUXUzM3RTT3g5LWhvWnlpRTk0VjhRNzVzVWVnVndEVGZ4U1I2Rk5ZTVFoei1VZUZzR3dFUV9HWGVNRXlzb3NDNW5SWTFmVmktX0ZCeEp2OUdVSmdINDU4ZFN3RW8xSXFVMXBDUDhaSTNIZFJtNlhqc21tZnN4S1dZNno0dVFYSUNyQTZWZ2pKdVpWSWFTWWs?oc=5",
+          "domain": "uk.investing.com",
+          "published_at": "2026-11-26T17:16:00+00:00"
+        },
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdpMGdoM3ZXU2FXeWlELWhDZ3h6ZUJ0c0hNb2gxeE1BRUhLbU1oUmNxN1BkZmNTaE1ETVNEdkw0eHUwR29ZTjlsT2lzSjVrN1NNUWxLdXFRYjhTQ05BWFBmUE1iWXk1RmhKUGpUbEctbGlQaHNYSjZTVHpIVVVMSk5telNZY2l2TGFWOTBFRzlka09QWXk2ZlAzQmxPTWw1amdpd0FiQlZyYk0?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-26T17:19:12+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "144 com form investing november"
+    },
     {
       "id": "d44080bf571ff3e8b6ba",
       "company": "Quest Diagnostics",
@@ -181,9 +211,15 @@
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNE9hcnhfenVsX3hndVVUNTRjTWJCMEt1YXZvTWxmNHJxbmVzS1BGNG14UHJjSUxSOHRZMWh1TDV3M3pHMVdtNkhiTDdlQWdxN045eG5OZ1lIam9GaTcycEpoMmstU1BxZVpWb1hEakFrWnJ6eFNENmg1WXRQR1JHOUNVLVB2RjlvRVMtcGw4Z2VHYkhDdGh4cUpBSGxJR0V1anM5cDVCbWVyYWZPT2x4b2tjdW1mOUprQlNYX3ljUDZGNFpEa24tY1dpQ0JNMi1SdjNOdlRrZU5weUFIMWdpa2wzdzk0Yjk3eHFMNnN6V1U?oc=5",
           "domain": "financialcontent.com",
           "published_at": "2026-11-24T18:00:00+00:00"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeW44RXRZeWo2dHBWdFZUU2lUNnlJbTI0TW9KSlViZml4VWtQTTJOWTQ0R2IxaDBPMWRFZzFHTHR5a2UxZ2l2MGtvRHhDWG1YLUFuU2ZjYWNfdzAwcDN5N205OExTVkVTdXV6SGkxcmlLa3ViQUpwRGh0Z2lvRTlZMTZFdlNOVVpiSDZWOXFscTB1WjJENmRoV2JR?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-24T18:00:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "case djo helps kickback law million score touchdown whistleblower"
     },
     {
@@ -721,30 +757,6 @@
       "event_signature": "biosystems brief genetics more myriad oncocyte this week"
     },
     {
-      "id": "d05ef2a58890f175a0b2",
-      "company": "Quest Diagnostics",
-      "title": "Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEZCSUU2bTVDdFBnT1JDSlc1ZVV5VEdSZXJUd1hpTWRqaWtNaFRrU2FaTm1TUUJTNWpVRUx1aGtqajhmS25RelpKRkpVNy1NcFF5VmU3ZzZTUEZPb1VobzVSTDVBcDFZRHN4QWtZZXpPbGQ3TEd3eVk4QlZKSEg0QmZCSUl1eTBWTlVaUkJBNV9TMzV2SnRDYW0wNk82WG91bldickdacENkODNFSkZEdlEtS2FkNUZhUWZwbllJVGVsbTlfcks0S2RSQmJwbVVxd2RGNzNzcjRRT0d3?oc=5",
-      "description": "Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-17T14:18:21+00:00",
-      "published_display": "17 Nov 2026",
-      "category": "Other",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEZCSUU2bTVDdFBnT1JDSlc1ZVV5VEdSZXJUd1hpTWRqaWtNaFRrU2FaTm1TUUJTNWpVRUx1aGtqajhmS25RelpKRkpVNy1NcFF5VmU3ZzZTUEZPb1VobzVSTDVBcDFZRHN4QWtZZXpPbGQ3TEd3eVk4QlZKSEg0QmZCSUl1eTBWTlVaUkJBNV9TMzV2SnRDYW0wNk82WG91bldickdacENkODNFSkZEdlEtS2FkNUZhUWZwbllJVGVsbTlfcks0S2RSQmJwbVVxd2RGNzNzcjRRT0d3?oc=5",
-          "domain": "in.investing.com",
-          "published_at": "2026-11-17T14:18:21+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "com conference global growth investing jefferies policy risks"
-    },
-    {
       "id": "a5e13e2e7feec30eb4f8",
       "company": "Quest Diagnostics",
       "title": "Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member",
@@ -773,6 +785,30 @@
       ],
       "coverage_count": 2,
       "event_signature": "cmo council experts fesko former founding industry launches leadership mammogen member names survivors unite yuri"
+    },
+    {
+      "id": "d05ef2a58890f175a0b2",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEZCSUU2bTVDdFBnT1JDSlc1ZVV5VEdSZXJUd1hpTWRqaWtNaFRrU2FaTm1TUUJTNWpVRUx1aGtqajhmS25RelpKRkpVNy1NcFF5VmU3ZzZTUEZPb1VobzVSTDVBcDFZRHN4QWtZZXpPbGQ3TEd3eVk4QlZKSEg0QmZCSUl1eTBWTlVaUkJBNV9TMzV2SnRDYW0wNk82WG91bldickdacENkODNFSkZEdlEtS2FkNUZhUWZwbllJVGVsbTlfcks0S2RSQmJwbVVxd2RGNzNzcjRRT0d3?oc=5",
+      "description": "Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com Investing.com India",
+      "source": "Investing.com India",
+      "source_url": "https://in.investing.com",
+      "source_domain": "in.investing.com",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "published_display": "17 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEZCSUU2bTVDdFBnT1JDSlc1ZVV5VEdSZXJUd1hpTWRqaWtNaFRrU2FaTm1TUUJTNWpVRUx1aGtqajhmS25RelpKRkpVNy1NcFF5VmU3ZzZTUEZPb1VobzVSTDVBcDFZRHN4QWtZZXpPbGQ3TEd3eVk4QlZKSEg0QmZCSUl1eTBWTlVaUkJBNV9TMzV2SnRDYW0wNk82WG91bldickdacENkODNFSkZEdlEtS2FkNUZhUWZwbllJVGVsbTlfcks0S2RSQmJwbVVxd2RGNzNzcjRRT0d3?oc=5",
+          "domain": "in.investing.com",
+          "published_at": "2026-11-17T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "com conference global growth investing jefferies policy risks"
     },
     {
       "id": "100cc99052fb1ea99c41",
@@ -1693,30 +1729,30 @@
       "event_signature": "13m alleged federal kickback more pays prosecutors say scheme settle than"
     },
     {
-      "id": "b5af97e6d32ae333e5fd",
+      "id": "b1bcea0b75b1f53b6ecc",
       "company": "Quest Diagnostics",
       "title": "Form 144 QUEST DIAGNOSTICS For: 8 November By Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzBSd2FKNlU2QnJGbEhjV2NrRlc0ZVh3eVVIMFdnUmt1WmFoZnRkNTk3RWVkVnBrbmt6azdCbU1fcURnNGlGaWpzT0FqSVdfVl9BVGxVbE90Tkp2OHc1VVAwb3ZkNHpMOTZtUU53REN4dEk3ZTZGZFlUSTZQMFZYdDZPc1RMUk5FVE5tbXBsaGdnWjBBbGcwMnF5WFBlS0JMbmtpd3RiLXBVQQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTE1UG1OTndKeUpXUU5NWWpyTkw2TmZ4b3BUOU9rTkJYRHEwWGlZSi1jcmw0ZkZvY0loQnRoQ2o1ZTdWbFJtVnZ4OURuWFRrWWdZU0R6OWRBNlZUSGt4VkpmZFc4eUJSQnRLWEM4YTVod0s1TU12REJEYU91eGt0bjdoQlBwYThxZEtjLVdoQ1FJa2s3TTdiUWRsYjhnTHljaUhrYmJJQmhmdw?oc=5",
       "description": "Form 4 Quest Diagnostics orporated: Patrick Plewman (SVP for Diagnostic Services) For: 9 November By Investing.com Investing.com India",
-      "source": "Investing.com India",
-      "source_url": "https://in.investing.com",
-      "source_domain": "in.investing.com",
-      "published_at": "2026-11-08T16:49:09+00:00",
+      "source": "Investing.com Nigeria",
+      "source_url": "https://ng.investing.com",
+      "source_domain": "ng.investing.com",
+      "published_at": "2026-11-08T08:00:00+00:00",
       "published_display": "08 Nov 2026",
       "category": "Other",
       "official_source": false,
       "sources": [
         {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTE1UG1OTndKeUpXUU5NWWpyTkw2TmZ4b3BUOU9rTkJYRHEwWGlZSi1jcmw0ZkZvY0loQnRoQ2o1ZTdWbFJtVnZ4OURuWFRrWWdZU0R6OWRBNlZUSGt4VkpmZFc4eUJSQnRLWEM4YTVod0s1TU12REJEYU91eGt0bjdoQlBwYThxZEtjLVdoQ1FJa2s3TTdiUWRsYjhnTHljaUhrYmJJQmhmdw?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-11-08T08:00:00+00:00"
+        },
+        {
           "name": "Investing.com India",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzBSd2FKNlU2QnJGbEhjV2NrRlc0ZVh3eVVIMFdnUmt1WmFoZnRkNTk3RWVkVnBrbmt6azdCbU1fcURnNGlGaWpzT0FqSVdfVl9BVGxVbE90Tkp2OHc1VVAwb3ZkNHpMOTZtUU53REN4dEk3ZTZGZFlUSTZQMFZYdDZPc1RMUk5FVE5tbXBsaGdnWjBBbGcwMnF5WFBlS0JMbmtpd3RiLXBVQQ?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-11-08T16:49:09+00:00"
-        },
-        {
-          "name": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTE1UG1OTndKeUpXUU5NWWpyTkw2TmZ4b3BUOU9rTkJYRHEwWGlZSi1jcmw0ZkZvY0loQnRoQ2o1ZTdWbFJtVnZ4OURuWFRrWWdZU0R6OWRBNlZUSGt4VkpmZFc4eUJSQnRLWEM4YTVod0s1TU12REJEYU91eGt0bjdoQlBwYThxZEtjLVdoQ1FJa2s3TTdiUWRsYjhnTHljaUhrYmJJQmhmdw?oc=5",
-          "domain": "ng.investing.com",
-          "published_at": "2026-11-08T16:52:44+00:00"
         },
         {
           "name": "Investing.com Canada",
@@ -15172,10 +15208,10 @@
       "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 64,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-26T18:17:00+05:30",
-  "next_update_display": "26 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-27T06:17:00+05:30",
+  "next_update_display": "27 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
