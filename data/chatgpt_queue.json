@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T04:12:38.452802+05:30",
-  "generated_at_display": "26 Nov 2026, 4:12 AM IST",
+  "generated_at": "2026-11-26T14:25:45.057921+05:30",
+  "generated_at_display": "26 Nov 2026, 2:25 PM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 503,
+  "remaining_unsummarized_count": 504,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -24,6 +24,25 @@
         {
           "name": "Quest Diagnostics Newsroom",
           "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaGxHWkhWMElUdm1lSEtEeGVDdDN4clFiTEJoZFRKalQzQ1EybGI0M0hVd0VPRmVXOVczd0VXYTVhTG5JRy15NW5aeGtKS3V0cVpldWpwNWVOem9tRFE1RUpQWVd3VXN1QlhhOFlHZ3V4TkQwU25aUlZLcFdMWE95WHV2TVMxd0pVVmg3TjZFLXFZYUtVOHFGZ3NIZER1T3ZkZkVFeHdNY3NDX3IzaFVnQmdnMGF5RnEtaXZ4S1FSLWZTdElwcWFpTXk1MmtiSE1aUHhoRXRKMkhtTE1qNmNlZWZvczlmZ0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d44080bf571ff3e8b6ba",
+      "company": "Quest Diagnostics",
+      "category": "Partnership, M&A",
+      "title": "HLTH 2026: Quest Diagnostics' Patrick Plewman Breaks Down Whoop Partnership",
+      "source": "Yahoo Finance",
+      "description": "HLTH 2026: Quest Diagnostics' Patrick Plewman Breaks Down Whoop Partnership Yahoo Finance",
+      "published_at": "2026-11-26T04:02:00+00:00",
+      "published_display": "26 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOFdORGwzYl95R0E0SFA3ZDRRenR0SFlwb2NHdlNjenpJSEs0RDlXRmJwRm1fWUZWcGZkcEU3RWtVV0lvRjZ6YXg1SnlFbEdnWDctUWE3X1RKaklVeW5CYmFMRTZxamJqUWYwZ3ZNSFdzMlBYbjFGWmtRMzFYdUNaMnZhZ3ZZdXVqNXc?oc=5",
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOFdORGwzYl95R0E0SFA3ZDRRenR0SFlwb2NHdlNjenpJSEs0RDlXRmJwRm1fWUZWcGZkcEU3RWtVV0lvRjZ6YXg1SnlFbEdnWDctUWE3X1RKaklVeW5CYmFMRTZxamJqUWYwZ3ZNSFdzMlBYbjFGWmtRMzFYdUNaMnZhZ3ZZdXVqNXc?oc=5"
         }
       ]
     },
@@ -632,25 +651,6 @@
         {
           "name": "GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOE5wUEhVcDdvazRIblpTM0dFRWVxa0EyN011VWNLVE5RVkZyTVVCc002bUN3OF9rQ1Nhd0lNLW1yM083R19TMGlCdHd1NFBJTlVNTHFKRWVSMDdIQXFHckVjaDhkLXFuMjdBcTVrR04zVVl5WWcwQWN6cXphS1FEOWd1clJaN1JxMGx4M3l6QVEwVHA5UzB0QmZmdXphbzJDaHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6c5c122547bb82085ead",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million",
-      "source": "Yahoo Finance",
-      "description": "Labcorp to Acquire Certain Assets of OPKO Health's BioReference Health Subsidiary for $722 Million Yahoo Finance",
-      "published_at": "2026-10-15T07:00:00+00:00",
-      "published_display": "15 Oct 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTEI1TlZZbHBUcXJvWWdhVFctdWVmMWF3OGtoTXUxQ2QtcWY0X2FGNVNxSmZ1eVRFZ0tOeUlNQjF0b3RKanQtWjlGTC1oRC1hYjRZelRUcmJhQ0ZLS2lQd29VR0RiTmZXdUZLV2JDZWdnT1JSMlFqVFBTT19heEtPNGZMcUhIaVBGSEE4N1FucFFsakJmR0NYSkc2b2s?oc=5"
         }
       ]
     }
