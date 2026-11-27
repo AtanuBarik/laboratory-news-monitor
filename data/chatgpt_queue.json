@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T15:35:14.654407+05:30",
-  "generated_at_display": "27 Nov 2026, 3:35 PM IST",
+  "generated_at": "2026-11-28T03:09:33.260865+05:30",
+  "generated_at_display": "28 Nov 2026, 3:09 AM IST",
   "provider": "ChatGPT Scheduled Task",
   "instructions_version": "2026-08-07.2",
   "queue_limit": 30,
   "item_count": 30,
-  "remaining_unsummarized_count": 507,
+  "remaining_unsummarized_count": 509,
   "priority_policy": "Unnotified first, then official sources, substantive categories, and recency; stock/valuation commentary excluded.",
   "items": [
     {
@@ -200,25 +200,6 @@
       ]
     },
     {
-      "id": "c22389ef25c624e87c80",
-      "company": "Labcorp",
-      "category": "Partnership, M&A",
-      "title": "Labcorp executive Vaughn acquired 500 shares",
-      "source": "Quantisnow",
-      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
-      "published_at": "2026-11-03T15:27:20+00:00",
-      "published_display": "03 Nov 2026",
-      "official_source": false,
-      "coverage_count": 1,
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
-      "sources": [
-        {
-          "name": "Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dd191e07636067caee20",
       "company": "Labcorp",
       "category": "Partnership, M&A",
@@ -234,6 +215,25 @@
         {
           "name": "Quantisnow",
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcjB6dkYzR0FGRVhLV3o3b25tbEJmZ3pLMUx6MHZJemlMV1JsZm1GQ2NJSlByY0x5d3lTeWxORVZZN05JeW5wUkdhU0xGeVV1N0pKRmVnUE5TTmVhWnZZTGFnTjI5bDN5SWFQQ0k5cWdOT3ZESEVPMEZhdVVkcXJsc093Z3BBWnlEbm5qYmh4czJaNzBmTGJyWnRkbGRGcGx6N05PeE1veDA5akln?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c22389ef25c624e87c80",
+      "company": "Labcorp",
+      "category": "Partnership, M&A",
+      "title": "Labcorp executive Vaughn acquired 500 shares",
+      "source": "Quantisnow",
+      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "published_display": "03 Nov 2026",
+      "official_source": false,
+      "coverage_count": 1,
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5"
         }
       ]
     },

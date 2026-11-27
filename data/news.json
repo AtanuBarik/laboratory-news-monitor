@@ -1,11 +1,59 @@
 {
-  "generated_at": "2026-11-27T14:37:22.401012+05:30",
-  "generated_at_display": "27 Nov 2026, 2:37 PM IST",
-  "item_count": 508,
-  "raw_relevant_item_count": 690,
-  "duplicates_merged": 94,
+  "generated_at": "2026-11-28T03:09:28.924678+05:30",
+  "generated_at_display": "28 Nov 2026, 3:09 AM IST",
+  "item_count": 510,
+  "raw_relevant_item_count": 688,
+  "duplicates_merged": 95,
   "failures": [],
   "items": [
+    {
+      "id": "b8d1788755f95534877d",
+      "company": "Labcorp",
+      "title": "Why Is Labcorp Up 0.2% Since Last Earnings Report?",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXBNSDRkRnF2Sy0zZE9JVkdyV25ZWFZjalNEOVVIVGQ1ZktEc0lIVWxId2lZal9BVlRKdkc0ZFdfZUNHU0xzTjZSM09xMURiQi1DM1NfbDN6ZU9ZaFdJanNmUW5QbVlXWEwwNUxBNmRXR3l1VUhnWnozMmhEdEU4OWFaZWlkUQ?oc=5",
+      "description": "Why Is Labcorp (LH) Up 0.2% Since Last Earnings Report? Yahoo Finance",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-27T15:30:10+00:00",
+      "published_display": "27 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZXBNSDRkRnF2Sy0zZE9JVkdyV25ZWFZjalNEOVVIVGQ1ZktEc0lIVWxId2lZal9BVlRKdkc0ZFdfZUNHU0xzTjZSM09xMURiQi1DM1NfbDN6ZU9ZaFdJanNmUW5QbVlXWEwwNUxBNmRXR3l1VUhnWnozMmhEdEU4OWFaZWlkUQ?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-27T15:30:10+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "earnings last report since why"
+    },
+    {
+      "id": "b6389861b3c848719190",
+      "company": "Quest Diagnostics",
+      "title": "Quest Diagnostics hacked: what happened, is your data exposed and what to do",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80MDBucktPZENnQlNKdGFJRnc5YmxGMU8tUjcxYzBQUXBuM3ZaYm5XUTJEV3pfMHk5Z0lyMTRvZzdhLWs1SkVobjdFNWFGRUZVbVpqblFqZUpGWFZFb1pWNll3RTQ0S2I3NkptbF93?oc=5",
+      "description": "Quest Diagnostics hacked: what happened, is your data exposed and what to do 2-Spyware",
+      "source": "2-Spyware",
+      "source_url": "https://www.2-spyware.com",
+      "source_domain": "2-spyware.com",
+      "published_at": "2026-11-27T11:43:30+00:00",
+      "published_display": "27 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "2-Spyware",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80MDBucktPZENnQlNKdGFJRnc5YmxGMU8tUjcxYzBQUXBuM3ZaYm5XUTJEV3pfMHk5Z0lyMTRvZzdhLWs1SkVobjdFNWFGRUZVbVpqblFqZUpGWFZFb1pWNll3RTQ0S2I3NkptbF93?oc=5",
+          "domain": "2-spyware.com",
+          "published_at": "2026-11-27T11:43:30+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "data exposed hacked happened what your"
+    },
     {
       "id": "7aec79bac09e6cd19b73",
       "company": "Sonic Healthcare",
@@ -2569,30 +2617,6 @@
       "event_signature": "charts coinbase dgxx live marketcap portugal price xstock"
     },
     {
-      "id": "c22389ef25c624e87c80",
-      "company": "Labcorp",
-      "title": "Labcorp executive Vaughn acquired 500 shares",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
-      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
-      "source": "Quantisnow",
-      "source_url": "https://www.quantisnow.com",
-      "source_domain": "quantisnow.com",
-      "published_at": "2026-11-03T15:27:20+00:00",
-      "published_display": "03 Nov 2026",
-      "category": "Partnership, M&A",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
-          "domain": "quantisnow.com",
-          "published_at": "2026-11-03T15:27:20+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "500 acquired executive shares vaughn"
-    },
-    {
       "id": "dd191e07636067caee20",
       "company": "Labcorp",
       "title": "Labcorp CTO Oyegunwa acquired 370 shares",
@@ -2681,6 +2705,30 @@
       ],
       "coverage_count": 8,
       "event_signature": "bryan evp form november president vaughn"
+    },
+    {
+      "id": "c22389ef25c624e87c80",
+      "company": "Labcorp",
+      "title": "Labcorp executive Vaughn acquired 500 shares",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+      "description": "Labcorp Holdings (LH) executive Vaughn acquired 500 shares Quantisnow",
+      "source": "Quantisnow",
+      "source_url": "https://www.quantisnow.com",
+      "source_domain": "quantisnow.com",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "published_display": "03 Nov 2026",
+      "category": "Partnership, M&A",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSER4bzJjcEFkbVBFTVFpRWNTQWtIQzM3R2dESHh3RGI4UjBDNFlkQ1lyRU1OVy1pbHEzSl9FM0RUMXF1ZXdUYnBIbmhVeFBpWHNWemxITER0ZlBBbWxtNXI0NE5tWkFpTUdsdEo1VktTSm9jNi1wSnV2b2ZCakJHRmhTaXM1ZlFUNmQ2OTlyaDk4MFdYa1ZBODBaNl9fTTNGWmg5WGFmZVN2M3d0V0dz?oc=5",
+          "domain": "quantisnow.com",
+          "published_at": "2026-11-03T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "500 acquired executive shares vaughn"
     },
     {
       "id": "3f2c51835c302912fc8d",
@@ -15274,10 +15322,10 @@
       "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 83,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-27T18:17:00+05:30",
-  "next_update_display": "27 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-28T06:17:00+05:30",
+  "next_update_display": "28 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
