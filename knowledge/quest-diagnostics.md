@@ -1,6 +1,6 @@
 # Quest Diagnostics News
 
-- **Repository generated:** 27 Nov 2026, 3:27 AM IST
+- **Repository generated:** 27 Nov 2026, 2:37 PM IST
 - **Distinct events in this file:** 180
 - **Scope:** Relevant public updates where the monitored company is the main subject or an active party.
 - **De-duplication:** Similar coverage is merged and all identified source links are retained.
@@ -10,13 +10,14 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 26 Nov 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Investing.com UK: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUNBWVpZY3BBblFtU2N0RW1fbXYtUXUzM3RTT3g5LWhvWnlpRTk0VjhRNzVzVWVnVndEVGZ4U1I2Rk5ZTVFoei1VZUZzR3dFUV9HWGVNRXlzb3NDNW5SWTFmVmktX0ZCeEp2OUdVSmdINDU4ZFN3RW8xSXFVMXBDUDhaSTNIZFJtNlhqc21tZnN4S1dZNno0dVFYSUNyQTZWZ2pKdVpWSWFTWWs?oc=5
   - Investing.com India: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdpMGdoM3ZXU2FXeWlELWhDZ3h6ZUJ0c0hNb2gxeE1BRUhLbU1oUmNxN1BkZmNTaE1ETVNEdkw0eHUwR29ZTjlsT2lzSjVrN1NNUWxLdXFRYjhTQ05BWFBmUE1iWXk1RmhKUGpUbEctbGlQaHNYSjZTVHpIVVVMSk5telNZY2l2TGFWOTBFRzlka09QWXk2ZlAzQmxPTWw1amdpd0FiQlZyYk0?oc=5
+  - Investing.com Nigeria: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnR5X3BQODVQNnJqdmYwa0lPdFpYYlMwRFUzS2VrOWdWMjVvRHVmYjlfYW04Q29QUmQtT0lpcldkVGphdnM1SFlyc21sTE5HcU83VVgxS21kOGhfeVRmc0RlRC1PazhnczRFTTY5TjFHVzhyZkNKZUQ4emJGZTU2NUhXY3VZaFRWZWxySTNUcjlER2ttQ1FoWnJaMFpXNC1xblZuWnhZS0l4Z2c?oc=5
 
-**Feed description:** Form 144 QUEST DIAGNOSTICS INC For: 26 November By Investing.com Investing.com India
+**Feed description:** Form 144 QUEST DIAGNOSTICS INC For: 26 November By Investing.com Investing.com Nigeria
 
 ## 2. HLTH 2026: Quest Diagnostics' Patrick Plewman Breaks Down Whoop Partnership
 
@@ -123,11 +124,12 @@
 - **Company:** Quest Diagnostics
 - **Publication date:** 21 Nov 2026
 - **Category:** Other
-- **Coverage count:** 2
+- **Coverage count:** 3
 - **Official source involved:** No
 - **Sources:**
   - Yahoo Finance UK: https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RUxxaWJ6T2VPNFJEUTh2MjNidnB0Z1RHRTFkeG5MSDluX3V4bUJnOUdVTjN2NFNJUE9JYXZKcTBCYWR0TW5YTWZFaVpuaWlI?oc=5
   - Yahoo Finance Singapore: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5
+  - Yahoo Finance Australia: https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5
 
 **Feed description:** Quest Diagnostics Incorporated (DGX) stock price, news, quote and history Yahoo Finance Singapore
 
@@ -179,7 +181,19 @@
 
 **Feed description:** In Brief This Week: Quest Diagnostics, T2 Biosystems, Oncocyte, Myriad Genetics, More GenomeWeb
 
-## 15. Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member
+## 15. Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com
+
+- **Company:** Quest Diagnostics
+- **Publication date:** 17 Nov 2026
+- **Category:** Other
+- **Coverage count:** 1
+- **Official source involved:** No
+- **Sources:**
+  - Investing.com India: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEZCSUU2bTVDdFBnT1JDSlc1ZVV5VEdSZXJUd1hpTWRqaWtNaFRrU2FaTm1TUUJTNWpVRUx1aGtqajhmS25RelpKRkpVNy1NcFF5VmU3ZzZTUEZPb1VobzVSTDVBcDFZRHN4QWtZZXpPbGQ3TEd3eVk4QlZKSEg0QmZCSUl1eTBWTlVaUkJBNV9TMzV2SnRDYW0wNk82WG91bldickdacENkODNFSkZEdlEtS2FkNUZhUWZwbllJVGVsbTlfcks0S2RSQmJwbVVxd2RGNzNzcjRRT0d3?oc=5
+
+**Feed description:** Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com Investing.com India
+
+## 16. Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member
 
 - **Company:** Quest Diagnostics
 - **Publication date:** 17 Nov 2026
@@ -191,18 +205,6 @@
   - The Manila Times: https://news.google.com/rss/articles/CBMivwJBVV95cUxOaE54Vng4RDd4SzdSUmoxZmtsNWJDQVJ4aUI4YkFlaTU5RUxtM25sV3dJQVFNX2xIZmdFeUR4WEw1a3kwX0VzWndyV0U0VkpHc3JveGlZT0tlajZieUNIQ1hRV1FKQ0tVRmQyRnBvOXA0eVY0OTB5aXd1X0lXeFlISHpLMGtlUERpOGt4ME5yS0daMGJSVjBxVjhjVWZzZDdqVHNMNC1qanQ3SFJzUDBHQUwycTA2azc1elljSnh4QlhSUWgxX3JFRWxCWW5sZzFVZ285NVRIYmM3emJPdmVOZDRySzRDZU9tVzFZdVZUd1huYlY4d0FuNEdQcmhSaVFYekpPMjJLX0NUY2gweVhZR25aazNRQXNqU25yNkVvRVBJek4zSlNsM2tkXzZyRjRiVWROUlVlem5Qb1dINjVB0gHEAkFVX3lxTE9QY2lDYXpGbmRqLVVJNGpray1FTVBfd0ZCOTBuTEdkNklaNUJmMXlIYmc4VHRkbEQwdExKQ1diYXJLVVNmYzZDbi1hNVVLcjZUMDUxMnNtQUE1bmI3QTY1dDZCLTBHaENLekxMa2JHSTl2V044ZmZuQ1B0eFdFWUJCMFg0YzVlSFFsREp4dGQyZWxramtaVkQtR3VsMVRDQ0xMeXVfVGVpRm81LXZfWEx2UVlWNVlDNGlQcWp1aTBDNktHaDN0NlpaQTZ4MXRSN0ZodlQ5UmdJRTZUMk9mQzJQN3k3UHVMdGhCai00WUZhY29tenZVSjFmVUxKTEhXajJvQkYxY0lZb0NJOWhkTDF3UWxHVGUtYTZaaXVjTjFyeGZPLWRKSTEzbFVnazJESVhfRFhFNjZTQkxBaDZYQTRZTGxweA?oc=5
 
 **Feed description:** Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member The Manila Times
-
-## 16. Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com
-
-- **Company:** Quest Diagnostics
-- **Publication date:** 17 Nov 2026
-- **Category:** Other
-- **Coverage count:** 1
-- **Official source involved:** No
-- **Sources:**
-  - Investing.com India: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOOEZCSUU2bTVDdFBnT1JDSlc1ZVV5VEdSZXJUd1hpTWRqaWtNaFRrU2FaTm1TUUJTNWpVRUx1aGtqajhmS25RelpKRkpVNy1NcFF5VmU3ZzZTUEZPb1VobzVSTDVBcDFZRHN4QWtZZXpPbGQ3TEd3eVk4QlZKSEg0QmZCSUl1eTBWTlVaUkJBNV9TMzV2SnRDYW0wNk82WG91bldickdacENkODNFSkZEdlEtS2FkNUZhUWZwbllJVGVsbTlfcks0S2RSQmJwbVVxd2RGNzNzcjRRT0d3?oc=5
-
-**Feed description:** Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com Investing.com India
 
 ## 17. When Will Quest Diagnostics Pay Its Quarterly Dividend?
 

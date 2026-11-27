@@ -1,17 +1,41 @@
 {
-  "generated_at": "2026-11-27T03:27:27.166672+05:30",
-  "generated_at_display": "27 Nov 2026, 3:27 AM IST",
-  "item_count": 506,
-  "raw_relevant_item_count": 648,
-  "duplicates_merged": 78,
+  "generated_at": "2026-11-27T14:37:22.401012+05:30",
+  "generated_at_display": "27 Nov 2026, 2:37 PM IST",
+  "item_count": 508,
+  "raw_relevant_item_count": 690,
+  "duplicates_merged": 94,
   "failures": [],
   "items": [
+    {
+      "id": "7aec79bac09e6cd19b73",
+      "company": "Sonic Healthcare",
+      "title": "INOVIQ (ASX:IIQ): How Could the Sonic Healthcare USA Deal Advance Its Ovarian Cancer Test?",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmRhejNRaHhDR3ZsRUQxUnpQc0JiVTdHSVNaVmVURnBDQ1Q2aVVRaXJreW15UEQwOTIzMWFJRFk3ZmlQRmM1UkEwbTFiT3VVa18xeGtYdVBPLVV2M2dCT09LdTJGQ2FzWVZhcUhpZ0RzeXljUnU1X1RteWdQdmdtOFdOSzRMNEh1dHJxSlJWWjU2Q2lCSVJrcnFvOHVrTVo0c2kwUC1NUGZQcWI5X0doU1VTRTBpSXJ1S2E5dHJyMW1iZjAtTXhMb0toSQ?oc=5",
+      "description": "INOVIQ (ASX:IIQ): How Could the Sonic Healthcare USA Deal Advance Its Ovarian Cancer Test? Kalkine Media",
+      "source": "Kalkine Media",
+      "source_url": "https://kalkinemedia.com",
+      "source_domain": "kalkinemedia.com",
+      "published_at": "2026-11-27T08:12:00+00:00",
+      "published_display": "27 Nov 2026",
+      "category": "Other",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTmRhejNRaHhDR3ZsRUQxUnpQc0JiVTdHSVNaVmVURnBDQ1Q2aVVRaXJreW15UEQwOTIzMWFJRFk3ZmlQRmM1UkEwbTFiT3VVa18xeGtYdVBPLVV2M2dCT09LdTJGQ2FzWVZhcUhpZ0RzeXljUnU1X1RteWdQdmdtOFdOSzRMNEh1dHJxSlJWWjU2Q2lCSVJrcnFvOHVrTVo0c2kwUC1NUGZQcWI5X0doU1VTRTBpSXJ1S2E5dHJyMW1iZjAtTXhMb0toSQ?oc=5",
+          "domain": "kalkinemedia.com",
+          "published_at": "2026-11-27T08:12:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "advance cancer could deal how iiq inoviq ovarian test usa"
+    },
     {
       "id": "5c807f35e036753ffe89",
       "company": "Quest Diagnostics",
       "title": "Form 144 QUEST DIAGNOSTICS For: 26 November By Investing.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWUNBWVpZY3BBblFtU2N0RW1fbXYtUXUzM3RTT3g5LWhvWnlpRTk0VjhRNzVzVWVnVndEVGZ4U1I2Rk5ZTVFoei1VZUZzR3dFUV9HWGVNRXlzb3NDNW5SWTFmVmktX0ZCeEp2OUdVSmdINDU4ZFN3RW8xSXFVMXBDUDhaSTNIZFJtNlhqc21tZnN4S1dZNno0dVFYSUNyQTZWZ2pKdVpWSWFTWWs?oc=5",
-      "description": "Form 144 QUEST DIAGNOSTICS INC For: 26 November By Investing.com Investing.com India",
+      "description": "Form 144 QUEST DIAGNOSTICS INC For: 26 November By Investing.com Investing.com Nigeria",
       "source": "Investing.com UK",
       "source_url": "https://uk.investing.com",
       "source_domain": "uk.investing.com",
@@ -31,9 +55,15 @@
           "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYkdpMGdoM3ZXU2FXeWlELWhDZ3h6ZUJ0c0hNb2gxeE1BRUhLbU1oUmNxN1BkZmNTaE1ETVNEdkw0eHUwR29ZTjlsT2lzSjVrN1NNUWxLdXFRYjhTQ05BWFBmUE1iWXk1RmhKUGpUbEctbGlQaHNYSjZTVHpIVVVMSk5telNZY2l2TGFWOTBFRzlka09QWXk2ZlAzQmxPTWw1amdpd0FiQlZyYk0?oc=5",
           "domain": "in.investing.com",
           "published_at": "2026-11-26T17:19:12+00:00"
+        },
+        {
+          "name": "Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnR5X3BQODVQNnJqdmYwa0lPdFpYYlMwRFUzS2VrOWdWMjVvRHVmYjlfYW04Q29QUmQtT0lpcldkVGphdnM1SFlyc21sTE5HcU83VVgxS21kOGhfeVRmc0RlRC1PazhnczRFTTY5TjFHVzhyZkNKZUQ4emJGZTU2NUhXY3VZaFRWZWxySTNUcjlER2ttQ1FoWnJaMFpXNC1xblZuWnhZS0l4Z2c?oc=5",
+          "domain": "ng.investing.com",
+          "published_at": "2026-11-26T17:22:14+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "144 com form investing november"
     },
     {
@@ -59,6 +89,30 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 breaks down hlth partnership patrick plewman whoop"
+    },
+    {
+      "id": "47d8012fccb63e7ecf14",
+      "company": "Labcorp",
+      "title": "Labcorp Draws Heavy Volume as Third Quarter Results, Higher 2026 Guidance and Medicare Fee Schedule Remarks Emerge",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxON01jdk5Lc1ZoVno4WGQ3RG41T0VlY3hTZTh5UFNMVmZac2E3OS0yTGNjenVXbDd3QlNfTUtyUDlWX0FxdFluMG1EMEhrSFRvNEJ1QWRCV0d4UE5vOFMyNUZIT0ZEMHNrbXFLVjQ5MUxxdVB1VlBhRlRRa3JuSXVONjBfekJvb2J6eFlxSUUxQ2Q5Zm4yNnpFUHlQanJvZmJOVlFiYmY1enk3RG9kMDNhTmNxU1g4ZHhDOGlzSjVjQjE2bjd4bFFKUHFWNG1KZWNVVjM2Qk5WX09EWXRJVmthclRRVmtEdi1ja2NZ?oc=5",
+      "description": "Labcorp (NYSE:LH) Draws Heavy Volume as Third Quarter Results, Higher 2026 Guidance and Medicare Fee Schedule Remarks Emerge kalkine.ca",
+      "source": "kalkine.ca",
+      "source_url": "https://kalkine.ca",
+      "source_domain": "kalkine.ca",
+      "published_at": "2026-11-25T20:32:00+00:00",
+      "published_display": "25 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxON01jdk5Lc1ZoVno4WGQ3RG41T0VlY3hTZTh5UFNMVmZac2E3OS0yTGNjenVXbDd3QlNfTUtyUDlWX0FxdFluMG1EMEhrSFRvNEJ1QWRCV0d4UE5vOFMyNUZIT0ZEMHNrbXFLVjQ5MUxxdVB1VlBhRlRRa3JuSXVONjBfekJvb2J6eFlxSUUxQ2Q5Zm4yNnpFUHlQanJvZmJOVlFiYmY1enk3RG9kMDNhTmNxU1g4ZHhDOGlzSjVjQjE2bjd4bFFKUHFWNG1KZWNVVjM2Qk5WX09EWXRJVmthclRRVmtEdi1ja2NZ?oc=5",
+          "domain": "kalkine.ca",
+          "published_at": "2026-11-25T20:32:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "2026 draws emerge fee guidance heavy higher medicare quarter remarks results schedule third volume"
     },
     {
       "id": "b3df1c8b39db7f83f69a",
@@ -397,9 +451,15 @@
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TN3lnWHZhU0pXd1lLUGx5b0J1NElvN25PZkdMb3RKb0NhbnRSTFdKdDl2anZlR0tybWYxNVZNd2syTzB0amNlN3FOLXVlVmVr?oc=5",
           "domain": "sg.finance.yahoo.com",
           "published_at": "2026-11-22T10:00:27+00:00"
+        },
+        {
+          "name": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05NHZGdGI1MlNUclAycjk0ZVRZWXBzN2pBZU0xUjViT3Y3bHhQMXN3c3lMM19vTHpWcEFBVmdDMFVVdUw1VTVlMXpUdWkxb2Vo?oc=5",
+          "domain": "au.finance.yahoo.com",
+          "published_at": "2026-11-26T16:14:43+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "history price quote stock"
     },
     {
@@ -473,30 +533,6 @@
       ],
       "coverage_count": 1,
       "event_signature": "2026 agm all approval resolutions secures unanimous"
-    },
-    {
-      "id": "1cd02feddf682e601d02",
-      "company": "Labcorp",
-      "title": "Testing & diagnostics services stocks Q3 teardown: Labcorp vs the rest",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXV5R2kwbzNndkpRWVhYQ1NrR1Z3c0l6MVUyU2I0dU9rODNrOGVLVFdYbmU3VW9QdGJEYjVuT0huWDB6WjNuWU1LdUNyYV9QbnpVVjNIWG5iYnhsbk8wc2YwMTd5dVRZa2M5ajNxTVltU3N5M3JacDlOc1hxOWtLczBjRE92VXY5dktQb1RSQnNac3p2UTJlellIekdkTHIwLXhZU3R3eW90d2xnUmJfbkd0YW5fdFNZaUxKSlBDZ0dOSlNsc0tR?oc=5",
-      "description": "Testing & diagnostics services stocks Q3 teardown: Labcorp vs the rest TradingView",
-      "source": "TradingView",
-      "source_url": "https://www.tradingview.com",
-      "source_domain": "tradingview.com",
-      "published_at": "2026-11-19T03:34:00+00:00",
-      "published_display": "19 Nov 2026",
-      "category": "Financials",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXV5R2kwbzNndkpRWVhYQ1NrR1Z3c0l6MVUyU2I0dU9rODNrOGVLVFdYbmU3VW9QdGJEYjVuT0huWDB6WjNuWU1LdUNyYV9QbnpVVjNIWG5iYnhsbk8wc2YwMTd5dVRZa2M5ajNxTVltU3N5M3JacDlOc1hxOWtLczBjRE92VXY5dktQb1RSQnNac3p2UTJlellIekdkTHIwLXhZU3R3eW90d2xnUmJfbkd0YW5fdFNZaUxKSlBDZ0dOSlNsc0tR?oc=5",
-          "domain": "tradingview.com",
-          "published_at": "2026-11-19T03:34:00+00:00"
-        }
-      ],
-      "coverage_count": 1,
-      "event_signature": "rest services stocks teardown testing"
     },
     {
       "id": "fc41e595290d9c4de265",
@@ -611,6 +647,30 @@
       ],
       "coverage_count": 3,
       "event_signature": "biomarker cancer department florida funded health otraces perform prostate selects study testing"
+    },
+    {
+      "id": "1cd02feddf682e601d02",
+      "company": "Labcorp",
+      "title": "Testing & diagnostics services stocks Q3 teardown: Labcorp vs the rest",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXV5R2kwbzNndkpRWVhYQ1NrR1Z3c0l6MVUyU2I0dU9rODNrOGVLVFdYbmU3VW9QdGJEYjVuT0huWDB6WjNuWU1LdUNyYV9QbnpVVjNIWG5iYnhsbk8wc2YwMTd5dVRZa2M5ajNxTVltU3N5M3JacDlOc1hxOWtLczBjRE92VXY5dktQb1RSQnNac3p2UTJlellIekdkTHIwLXhZU3R3eW90d2xnUmJfbkd0YW5fdFNZaUxKSlBDZ0dOSlNsc0tR?oc=5",
+      "description": "Testing & diagnostics services stocks Q3 teardown: Labcorp vs the rest TradingView",
+      "source": "TradingView",
+      "source_url": "https://www.tradingview.com",
+      "source_domain": "tradingview.com",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "published_display": "18 Nov 2026",
+      "category": "Financials",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXV5R2kwbzNndkpRWVhYQ1NrR1Z3c0l6MVUyU2I0dU9rODNrOGVLVFdYbmU3VW9QdGJEYjVuT0huWDB6WjNuWU1LdUNyYV9QbnpVVjNIWG5iYnhsbk8wc2YwMTd5dVRZa2M5ajNxTVltU3N5M3JacDlOc1hxOWtLczBjRE92VXY5dktQb1RSQnNac3p2UTJlellIekdkTHIwLXhZU3R3eW90d2xnUmJfbkd0YW5fdFNZaUxKSlBDZ0dOSlNsc0tR?oc=5",
+          "domain": "tradingview.com",
+          "published_at": "2026-11-18T08:00:00+00:00"
+        }
+      ],
+      "coverage_count": 1,
+      "event_signature": "rest services stocks teardown testing"
     },
     {
       "id": "96477de8e0a85943227c",
@@ -757,36 +817,6 @@
       "event_signature": "biosystems brief genetics more myriad oncocyte this week"
     },
     {
-      "id": "a5e13e2e7feec30eb4f8",
-      "company": "Quest Diagnostics",
-      "title": "Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZJTlM2bUoxUlZPMHhPU3d2T1BsNU92WXpvcElDdXY3bTI2N2tDM0dZRno3YllYU0FYNElKVzRMaVhIXzRjZk5VQjd5U3pIZjFaMlN2VjR4MUxjcG5JMGlBQWt5WEhzNGJmQTBwcmlGUG9jckNacHBsbnBYYV8wcmc3SXQxYnpXbmdibzd1Vkc3VnZsZDNTNXMySWh3eHExT1RQbzVB?oc=5",
-      "description": "Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member The Manila Times",
-      "source": "Yahoo Finance",
-      "source_url": "https://finance.yahoo.com",
-      "source_domain": "finance.yahoo.com",
-      "published_at": "2026-11-17T12:02:00+00:00",
-      "published_display": "17 Nov 2026",
-      "category": "Product & Services",
-      "official_source": false,
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZJTlM2bUoxUlZPMHhPU3d2T1BsNU92WXpvcElDdXY3bTI2N2tDM0dZRno3YllYU0FYNElKVzRMaVhIXzRjZk5VQjd5U3pIZjFaMlN2VjR4MUxjcG5JMGlBQWt5WEhzNGJmQTBwcmlGUG9jckNacHBsbnBYYV8wcmc3SXQxYnpXbmdibzd1Vkc3VnZsZDNTNXMySWh3eHExT1RQbzVB?oc=5",
-          "domain": "finance.yahoo.com",
-          "published_at": "2026-11-17T12:02:00+00:00"
-        },
-        {
-          "name": "The Manila Times",
-          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaE54Vng4RDd4SzdSUmoxZmtsNWJDQVJ4aUI4YkFlaTU5RUxtM25sV3dJQVFNX2xIZmdFeUR4WEw1a3kwX0VzWndyV0U0VkpHc3JveGlZT0tlajZieUNIQ1hRV1FKQ0tVRmQyRnBvOXA0eVY0OTB5aXd1X0lXeFlISHpLMGtlUERpOGt4ME5yS0daMGJSVjBxVjhjVWZzZDdqVHNMNC1qanQ3SFJzUDBHQUwycTA2azc1elljSnh4QlhSUWgxX3JFRWxCWW5sZzFVZ285NVRIYmM3emJPdmVOZDRySzRDZU9tVzFZdVZUd1huYlY4d0FuNEdQcmhSaVFYekpPMjJLX0NUY2gweVhZR25aazNRQXNqU25yNkVvRVBJek4zSlNsM2tkXzZyRjRiVWROUlVlem5Qb1dINjVB0gHEAkFVX3lxTE9QY2lDYXpGbmRqLVVJNGpray1FTVBfd0ZCOTBuTEdkNklaNUJmMXlIYmc4VHRkbEQwdExKQ1diYXJLVVNmYzZDbi1hNVVLcjZUMDUxMnNtQUE1bmI3QTY1dDZCLTBHaENLekxMa2JHSTl2V044ZmZuQ1B0eFdFWUJCMFg0YzVlSFFsREp4dGQyZWxramtaVkQtR3VsMVRDQ0xMeXVfVGVpRm81LXZfWEx2UVlWNVlDNGlQcWp1aTBDNktHaDN0NlpaQTZ4MXRSN0ZodlQ5UmdJRTZUMk9mQzJQN3k3UHVMdGhCai00WUZhY29tenZVSjFmVUxKTEhXajJvQkYxY0lZb0NJOWhkTDF3UWxHVGUtYTZaaXVjTjFyeGZPLWRKSTEzbFVnazJESVhfRFhFNjZTQkxBaDZYQTRZTGxweA?oc=5",
-          "domain": "manilatimes.net",
-          "published_at": "2026-11-17T12:23:00+00:00"
-        }
-      ],
-      "coverage_count": 2,
-      "event_signature": "cmo council experts fesko former founding industry launches leadership mammogen member names survivors unite yuri"
-    },
-    {
       "id": "d05ef2a58890f175a0b2",
       "company": "Quest Diagnostics",
       "title": "Quest Diagnostics at Jefferies global healthcare conference: growth and policy risks By Investing.com",
@@ -809,6 +839,36 @@
       ],
       "coverage_count": 1,
       "event_signature": "com conference global growth investing jefferies policy risks"
+    },
+    {
+      "id": "a5e13e2e7feec30eb4f8",
+      "company": "Quest Diagnostics",
+      "title": "Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZJTlM2bUoxUlZPMHhPU3d2T1BsNU92WXpvcElDdXY3bTI2N2tDM0dZRno3YllYU0FYNElKVzRMaVhIXzRjZk5VQjd5U3pIZjFaMlN2VjR4MUxjcG5JMGlBQWt5WEhzNGJmQTBwcmlGUG9jckNacHBsbnBYYV8wcmc3SXQxYnpXbmdibzd1Vkc3VnZsZDNTNXMySWh3eHExT1RQbzVB?oc=5",
+      "description": "Mammogen Launches Leadership Council to Unite Industry Experts and Survivors, Names Former Quest Diagnostics CMO Dr. Yuri Fesko as Founding Member The Manila Times",
+      "source": "Yahoo Finance",
+      "source_url": "https://finance.yahoo.com",
+      "source_domain": "finance.yahoo.com",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "published_display": "17 Nov 2026",
+      "category": "Product & Services",
+      "official_source": false,
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWnZJTlM2bUoxUlZPMHhPU3d2T1BsNU92WXpvcElDdXY3bTI2N2tDM0dZRno3YllYU0FYNElKVzRMaVhIXzRjZk5VQjd5U3pIZjFaMlN2VjR4MUxjcG5JMGlBQWt5WEhzNGJmQTBwcmlGUG9jckNacHBsbnBYYV8wcmc3SXQxYnpXbmdibzd1Vkc3VnZsZDNTNXMySWh3eHExT1RQbzVB?oc=5",
+          "domain": "finance.yahoo.com",
+          "published_at": "2026-11-17T08:00:00+00:00"
+        },
+        {
+          "name": "The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOaE54Vng4RDd4SzdSUmoxZmtsNWJDQVJ4aUI4YkFlaTU5RUxtM25sV3dJQVFNX2xIZmdFeUR4WEw1a3kwX0VzWndyV0U0VkpHc3JveGlZT0tlajZieUNIQ1hRV1FKQ0tVRmQyRnBvOXA0eVY0OTB5aXd1X0lXeFlISHpLMGtlUERpOGt4ME5yS0daMGJSVjBxVjhjVWZzZDdqVHNMNC1qanQ3SFJzUDBHQUwycTA2azc1elljSnh4QlhSUWgxX3JFRWxCWW5sZzFVZ285NVRIYmM3emJPdmVOZDRySzRDZU9tVzFZdVZUd1huYlY4d0FuNEdQcmhSaVFYekpPMjJLX0NUY2gweVhZR25aazNRQXNqU25yNkVvRVBJek4zSlNsM2tkXzZyRjRiVWROUlVlem5Qb1dINjVB0gHEAkFVX3lxTE9QY2lDYXpGbmRqLVVJNGpray1FTVBfd0ZCOTBuTEdkNklaNUJmMXlIYmc4VHRkbEQwdExKQ1diYXJLVVNmYzZDbi1hNVVLcjZUMDUxMnNtQUE1bmI3QTY1dDZCLTBHaENLekxMa2JHSTl2V044ZmZuQ1B0eFdFWUJCMFg0YzVlSFFsREp4dGQyZWxramtaVkQtR3VsMVRDQ0xMeXVfVGVpRm81LXZfWEx2UVlWNVlDNGlQcWp1aTBDNktHaDN0NlpaQTZ4MXRSN0ZodlQ5UmdJRTZUMk9mQzJQN3k3UHVMdGhCai00WUZhY29tenZVSjFmVUxKTEhXajJvQkYxY0lZb0NJOWhkTDF3UWxHVGUtYTZaaXVjTjFyeGZPLWRKSTEzbFVnazJESVhfRFhFNjZTQkxBaDZYQTRZTGxweA?oc=5",
+          "domain": "manilatimes.net",
+          "published_at": "2026-11-17T12:23:00+00:00"
+        }
+      ],
+      "coverage_count": 2,
+      "event_signature": "cmo council experts fesko former founding industry launches leadership mammogen member names survivors unite yuri"
     },
     {
       "id": "100cc99052fb1ea99c41",
@@ -4009,9 +4069,15 @@
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPODhVSTlVa2JRNUt1T2FfRWVUMExzSThrM0lJdzVUUy1Xc004dVQxVjgxVjNYNTFIMkZpOWVMZ0pQbTI3Y0dvb0p0TE9SUkYtem0yWkdtd1M1aWZNX2tNcVkwc3h1MlVNSUU5T1BsOGZVVFN3ZnhaX0pVc2FRUDZzXzltUXlqVlBLemd0YUdVMHRvSmJaaGFrZFROakVhc0dsNHNmT2VDd1k4REJ5Q0J6ZjBiYk9pNzQ1LWVfN1R1X21PSU5k?oc=5",
           "domain": "ktvb.com",
           "published_at": "2026-10-28T07:00:00+00:00"
+        },
+        {
+          "name": "KVUE",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXFfb0hkZVJ2RXEzdG4yeTYzRzByQkl4NS1MU1hMVGJ4bDZQbU1Yem9IQUlSejFlSWdRSGF1YVBtck51ZnNtMHdjdnAtQ2FoQXNjUHk4Mzc4ZDYxUTkzYktYenRQb3VrUFBYS2JMdWIwelU0QndwbE5Rd3MxeXRHb3k5M3U4R3dLTzBZMURHYjB3cTdhbVdiMWZNcUp5N0NUbzRFb19Bb2dxTWF3aFFNRElnUG5xM2JWSVpidG5Fb0Vwa29S?oc=5",
+          "domain": "kvue.com",
+          "published_at": "2026-10-28T18:37:00+00:00"
         }
       ],
-      "coverage_count": 2,
+      "coverage_count": 3,
       "event_signature": "earnings snapshot"
     },
     {
@@ -15208,10 +15274,10 @@
       "event_signature": "clinical connect decision global making management platform speed streamline trial upgrades"
     }
   ],
-  "low_value_items_removed": 0,
+  "low_value_items_removed": 88,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-27T06:17:00+05:30",
-  "next_update_display": "27 Nov 2026, 6:17 AM IST",
+  "next_update_at": "2026-11-27T18:17:00+05:30",
+  "next_update_display": "27 Nov 2026, 6:17 PM IST",
   "display_timezone": "IST"
 }
