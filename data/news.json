@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-11-28T13:58:30.909962+05:30",
-  "generated_at_display": "28 Nov 2026, 1:58 PM IST",
+  "generated_at": "2026-11-29T02:06:05.953500+05:30",
+  "generated_at_display": "29 Nov 2026, 2:06 AM IST",
   "item_count": 511,
-  "raw_relevant_item_count": 681,
-  "duplicates_merged": 90,
-  "failures": [],
+  "raw_relevant_item_count": 511,
+  "duplicates_merged": 0,
+  "failures": [
+    "Labcorp: HTTP Error 503: Service Unavailable",
+    "Quest Diagnostics: HTTP Error 503: Service Unavailable",
+    "ARUP Laboratories: HTTP Error 503: Service Unavailable",
+    "Mayo Clinic Laboratories: HTTP Error 503: Service Unavailable",
+    "Sonic Healthcare: HTTP Error 503: Service Unavailable"
+  ],
   "items": [
     {
       "id": "b8d1788755f95534877d",
@@ -15349,7 +15355,7 @@
   "low_value_items_removed": 0,
   "post_prune_financial_duplicates_merged": 0,
   "filter_policy": "Excludes valuation articles, stock-price/trading-day commentary, investment listicles, and multi-company market roundups without a direct transaction or partnership. Quarterly earnings/results/guidance coverage for the same company and quarter is consolidated into one event with multiple source links.",
-  "next_update_at": "2026-11-28T18:17:00+05:30",
-  "next_update_display": "28 Nov 2026, 6:17 PM IST",
+  "next_update_at": "2026-11-29T06:17:00+05:30",
+  "next_update_display": "29 Nov 2026, 6:17 AM IST",
   "display_timezone": "IST"
 }
